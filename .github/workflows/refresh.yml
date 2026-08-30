@@ -1,0 +1,64 @@
+name: Refresh match data and calendar feeds
+
+# Rebuilds the embedded site data AND all subscribe-able .ics feeds several
+# times a day, so every subscribed calendar (Apple / Outlook / Google / ICS)
+# keeps receiving the detailed events — exact kickoff times, stadiums,
+# referees — with fresh scores. Runs on GitHub's servers; you never touch it.
+#
+# It also tidies the repository: any stray file at the top level (left over
+# from manual uploads) is removed, so the tree always stays clean.
+
+on:
+  push:                        # runs by itself whenever tools/ changes
+    branches: [main, master]
+    paths: ['tools/**', '.github/workflows/**']
+  schedule:
+    - cron: '23 1,7,13,19 * * *'   # 4× daily (04:23 Riyadh / 01:23 UTC …)
+  workflow_dispatch:           # lets you press "Run workflow" by hand
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the site
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install image library
+        run: pip install -r tools/requirements.txt
+
+      - name: Fetch fresh match data (FotMob + 365scores) and rebuild site data
+        working-directory: tools
+        run: python3 build_data.py
+
+      - name: Rebuild the calendar feeds
+        working-directory: tools
+        run: python3 build_feeds.py ../ics
+
+      - name: Remove stray duplicated files at the top level
+        run: |
+          git ls-files -z \
+            | grep -zvE '^(\.github/|ics/|tools/|assets/|index\.html|OPEN-ME\.html|README\.md|LICENSE|\.nojekyll|\.gitignore)' \
+            | xargs -0 -r git rm -f -- || true
+
+      - name: Publish (single rolling commit keeps the repo small)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A index.html assets ics tools/data/venues.json tools/data/tv.json tools/data/ar_names.json tools/data/crests.json tools/data/snapshot.json
+          if git diff --cached --quiet; then
+            echo "Nothing changed today."
+          else
+            # Feeds are a few MB, so the tree is rewritten instead of appended:
+            # the repo stays small instead of growing gigabytes a year.
+            git commit --amend --no-edit -m "chore: refresh match data and feeds" || \
+              git commit -m "chore: refresh match data and feeds"
+            git push --force-with-lease || git push --force
+          fi
