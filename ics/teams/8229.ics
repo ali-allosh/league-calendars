@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Sant Andreu — Copa del Rey Fixtures | سانت أندر
+ و — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Sant Andreu — all matches in Copa del Rey\, exact UTC kickof
+ fs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-28T08
+ :58:03Z.  •  سانت أندرو — جميع المباريات في ك
+ أس ملك إسبانيا بتوقيت UTC الدقيق مع الملاع
+ ب والقنوات الناقلة. المصدر: FotMob + 365scores · ت
+ حديث تلقائي 2026-11-28T08:58:03Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386065@league-calendars
+DTSTAMP:20261128T085803Z
+DTSTART:20261027T193000Z
+DTEND:20261027T213000Z
+SUMMARY:CE Manresa vs Sant Andreu (2 - 2) — Copa del Rey
+LOCATION:Estadio El Congost\, Manresa\, Spain
+GEO:41.722789;1.812977
+URL:https://www.fotmob.com/match/6386065
+DESCRIPTION:⚽ مانريسا × سانت أندرو (2 - 2)\n🏆 كأس 
+ ملك إسبانيا — 1\n🗓 الثلاثاء 27 أكتوبر 2026 ·
+  22:30 بتوقيت الرياض\n🏟 Estadio El Congost، Manresa\n⚖
+ ️ الحكم: Aleksandar Ivaylov Angelov\n—————\n⚽ CE Manres
+ a v Sant Andreu (2 - 2)\n🏆 Copa del Rey — 1\n🗓 Tue 27 Oct 2026 · 
+ 19:30 UTC\n🏟 Estadio El Congost, Manresa\nReferee: Aleksandar Ivaylov A
+ ngelov\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانريسا ضد سانت أندرو — كأ
+ س ملك إسبانيا | Tomorrow: CE Manresa vs Sant Andreu
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانري
+ سا × سانت أندرو | Kick-off in 30 min: CE Manresa vs Sant Andre
+ u
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000024648@league-calendars
+DTSTAMP:20261128T085803Z
+DTSTART:20261202T180000Z
+DTEND:20261202T200000Z
+SUMMARY:Sant Andreu vs Eibar — Copa del Rey
+LOCATION:Camp Municipal Narcís Sala\, Barcelona\, Spain
+GEO:41.428880;2.193083
+URL:https://www.fotmob.com/match/1000024648
+DESCRIPTION:⚽ سانت أندرو × إيبار\n🏆 كأس ملك إس
+ بانيا — 2\n🗓 الأربعاء 2 ديسمبر 2026 · 21:00 بت
+ وقيت الرياض\n🏟 Camp Municipal Narcís Sala، Barcelona\n—
+ ————\n⚽ Sant Andreu v Eibar\n🏆 Copa del Rey — 2\n🗓 Wed 0
+ 2 Dec 2026 · 18:00 UTC\n🏟 Camp Municipal Narcís Sala, Barcelona\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سانت أندرو ضد إيبار — كأس م
+ لك إسبانيا | Tomorrow: Sant Andreu vs Eibar
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سانت أ
+ ندرو × إيبار | Kick-off in 30 min: Sant Andreu vs Eibar
+END:VALARM
+END:VEVENT
+END:VCALENDAR

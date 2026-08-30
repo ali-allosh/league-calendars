@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ CD Coria — Copa del Rey Fixtures | كوريا — مبا
+ ريات كأس ملك إسبانيا
+X-WR-CALDESC:CD Coria — all matches in Copa del Rey\, exact UTC kickoffs\
+ , stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-28T08:58
+ :03Z.  •  كوريا — جميع المباريات في كأس ملك 
+ إسبانيا بتوقيت UTC الدقيق مع الملاعب والق
+ نوات الناقلة. المصدر: FotMob + 365scores · تحديث ت
+ لقائي 2026-11-28T08:58:03Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386081@league-calendars
+DTSTAMP:20261128T085803Z
+DTSTART:20261029T180000Z
+DTEND:20261029T200000Z
+SUMMARY:San Sebastian de los Reyes vs CD Coria (1 - 2) — Copa del Rey
+LOCATION:Estadio Municipal José Luis de la Hoz\, San Sebastián de los Rey
+ es\, Spain
+GEO:40.545260;-3.616031
+URL:https://www.fotmob.com/match/6386081
+DESCRIPTION:⚽ سان سيباستيان دي لوس رييس × كوري
+ ا (1 - 2)\n🏆 كأس ملك إسبانيا — 1\n🗓 الخميس 29 
+ أكتوبر 2026 · 21:00 بتوقيت الرياض\n🏟 Estadio Municip
+ al José Luis de la Hoz، San Sebastián de los Reyes\n⚖️ الحكم: 
+ Rubén Ruipérez Marín\n—————\n⚽ San Sebastian de los Reyes v
+  CD Coria (1 - 2)\n🏆 Copa del Rey — 1\n🗓 Thu 29 Oct 2026 · 18:00 
+ UTC\n🏟 Estadio Municipal José Luis de la Hoz, San Sebastián de los Re
+ yes\nReferee: Rubén Ruipérez Marín\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سان سيباستيان دي لوس رييس ض
+ د كوريا — كأس ملك إسبانيا | Tomorrow: San Sebastian d
+ e los Reyes vs CD Coria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سان سي
+ باستيان دي لوس رييس × كوريا | Kick-off in 30 min: Sa
+ n Sebastian de los Reyes vs CD Coria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000024665@league-calendars
+DTSTAMP:20261128T085803Z
+DTSTART:20261203T200000Z
+DTEND:20261203T220000Z
+SUMMARY:CD Coria vs Málaga — Copa del Rey
+LOCATION:Estadio La Isla\, Coria\, Spain
+GEO:39.977975;-6.542659
+URL:https://www.fotmob.com/match/1000024665
+DESCRIPTION:⚽ كوريا × مالقا\n🏆 كأس ملك إسبانيا
+  — 2\n🗓 الخميس 3 ديسمبر 2026 · 23:00 بتوقيت الر
+ ياض\n🏟 Estadio La Isla، Coria\n—————\n⚽ CD Coria v Mál
+ aga\n🏆 Copa del Rey — 2\n🗓 Thu 03 Dec 2026 · 20:00 UTC\n🏟 Esta
+ dio La Isla, Coria\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوريا ضد مالقا — كأس ملك إس
+ بانيا | Tomorrow: CD Coria vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوريا 
+ × مالقا | Kick-off in 30 min: CD Coria vs Málaga
+END:VALARM
+END:VEVENT
+END:VCALENDAR

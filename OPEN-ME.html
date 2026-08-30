@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>تقاويم البطولات — دليل الرفع</title>
+<style>
+  *{box-sizing:border-box}
+  body{margin:0;background:#070A12;color:#EEF2F9;
+       font-family:"Segoe UI",Tahoma,"Noto Sans Arabic",system-ui,sans-serif;line-height:1.75;padding:26px 16px 70px}
+  .wrap{max-width:760px;margin:0 auto}
+  h1{font-size:25px;margin:0 0 4px}
+  .sub{color:#A7B2C7;font-size:14.5px;margin:0 0 22px}
+  .repo{background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.12);border-radius:16px;
+        padding:16px 18px;margin-bottom:20px;display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+  .repo label{font-size:14.5px;font-weight:700}
+  .repo input{flex:1;min-width:180px;padding:11px 14px;border-radius:12px;background:rgba(255,255,255,.07);
+        border:1px solid rgba(255,255,255,.18);color:#EEF2F9;font-size:15px;font-family:ui-monospace,monospace}
+  .step{background:rgba(255,255,255,.045);border:1px solid rgba(255,255,255,.11);
+        border-radius:18px;padding:18px 18px 16px;margin-bottom:14px;position:relative;transition:.25s}
+  .step.done{border-color:rgba(0,214,164,.45);background:rgba(0,214,164,.07)}
+  .step .n{width:29px;height:29px;border-radius:9px;display:grid;place-items:center;font-weight:800;font-size:14px;
+        background:linear-gradient(140deg,#00D6A4,#12b6ff);color:#04121A;position:absolute;top:16px;inset-inline-start:16px}
+  .step.done .n{background:#00D6A4}
+  .step h2{font-size:16.5px;margin:2px 0 7px;padding-inline-start:43px}
+  .step p{margin:0 0 13px;padding-inline-start:43px;color:#C3CCDD;font-size:14px}
+  .btn{display:inline-block;text-decoration:none;cursor:pointer;border:0;font-weight:800;font-size:15px;padding:11px 20px;border-radius:13px;
+        background:linear-gradient(140deg,#00D6A4,#12b6ff);color:#04121A;margin-inline-start:43px;transition:.2s}
+  .btn:hover{filter:brightness(1.08);transform:translateY(-2px)}
+  .btn.ghost{background:rgba(255,255,255,.07);color:#EEF2F9;border:1px solid rgba(255,255,255,.18);font-weight:700}
+  .btn + .btn{margin-inline-start:8px}
+  details{margin-top:18px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.1);
+        border-radius:14px;padding:12px 16px;font-size:13px;color:#9DA9BF}
+  summary{cursor:pointer;font-weight:700;color:#C3CCDD}
+  pre{white-space:pre-wrap;word-break:break-word;direction:ltr;text-align:left;font-size:11.5px;color:#9DA9BF}
+  .hint{font-size:12.5px;color:#7E8AA3}
+  .urlv{color:#00D6A4;font-weight:700}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>📅 تقاويم البطولات — ابدأ من هنا</h1>
+  <p class="sub">اكتب اسم المستخدم والمستودع مرة واحدة، ثم اضغط الأزرار بالترتيب. كل زر يفتح لك الصفحة الصحيحة جاهزة.</p>
+
+  <div class="repo">
+    <label for="un">اسم المستخدم:</label>
+    <input id="un" value="ali-allosh" spellcheck="false" style="flex:0 1 150px">
+    <label for="rn">اسم المستودع:</label>
+    <input id="rn" value="league-calendars" spellcheck="false">
+    <span class="hint">سيكون رابط موقعك:<br><b id="urlv" class="urlv"></b></span>
+  </div>
+
+  <div class="step" id="s1">
+    <div class="n">١</div>
+    <h2>أنشئ المستودع</h2>
+    <p>يفتح صفحة الإنشاء والاسم مكتوب. تأكد أنه <b>Public</b> ثم <b>Create repository</b>.</p>
+    <a class="btn" data-go="new" target="_blank">إنشاء المستودع</a>
+  </div>
+
+  <div class="step" id="s2">
+    <div class="n">٢</div>
+    <h2>ارفع الملفات</h2>
+    <p>يفتح صفحة الرفع. اسحب <b>كل محتويات المجلد</b> الذي فككتَ الضغط عنه
+       (الملفات + مجلدات <b>assets</b> و <b>ics</b> و <b>tools</b> و <b>.github</b>) ثم <b>Commit changes</b>.
+       <br><span class="hint">إن لم يُقبل مجلد <b dir="ltr">.github</b> في الرفع لا تقلق — الخطوة ٥ تنشئه لك.</span></p>
+    <a class="btn" data-go="upload" target="_blank">فتح صفحة الرفع</a>
+  </div>
+
+  <div class="step" id="s3">
+    <div class="n">٣</div>
+    <h2>فعّل GitHub Pages</h2>
+    <p>في الصفحة: <b>Build and deployment ← Source: Deploy from a branch</b>،
+       ثم <b>Branch: main ← /(root) ← Save</b>.</p>
+    <a class="btn" data-go="pages" target="_blank">فتح إعدادات Pages</a>
+  </div>
+
+  <div class="step" id="s4">
+    <div class="n">٤</div>
+    <h2>صلاحية الكتابة (مرة واحدة)</h2>
+    <p><b>Workflow permissions ← Read and write ← Save</b>. هذه تسمح للتحديث التلقائي بكتابة البيانات الجديدة.</p>
+    <a class="btn" data-go="perm" target="_blank">فتح الإعدادات</a>
+  </div>
+
+  <div class="step" id="s5">
+    <div class="n">٥</div>
+    <h2>ملف التحديث التلقائي</h2>
+    <p>الملف <b dir="ltr">.github/workflows/refresh.yml</b> مضمّن في الملف المضغوط ويعمل فور الرفع.
+       إن لم تجده في المستودع بعد الرفع، افتح الرابط الجاهز واضغط <b>Commit changes</b> مرتين.
+       يبدأ العمل فوراً: يبني <b>٢٠٠+ تقويم للأندية</b> ويحدّث الأوقات والملاعب <b>والقنوات الناقلة</b> من FotMob تلقائياً ٤ مرات يومياً.</p>
+    <a class="btn" data-go="wf" target="_blank">فتح الملف الجاهز</a>
+  </div>
+
+  <div class="step" id="s6">
+    <div class="n">٦</div>
+    <h2>النتيجة</h2>
+    <p>بعد نحو دقيقتين تظهر دائرة خضراء ✅ في تبويب Actions، ويصبح موقعك مكتملًا مع روابط الاشتراك المباشر لكل بطولة من البطولات الـ١٤ (دوريات وكؤوس) ولكل فريق.</p>
+    <a class="btn ghost" data-go="actions" target="_blank">تبويب Actions</a>
+    <a class="btn ghost" data-go="site" target="_blank">افتح الموقع</a>
+  </div>
+
+  <details>
+    <summary>إن لم يعمل زر «ملف التحديث التلقائي»</summary>
+    <p>أنشئ ملفًا جديدًا بالمسار <b dir="ltr">.github/workflows/refresh.yml</b> والصق هذا المحتوى:</p>
+    <pre id="ymltxt"></pre>
+  </details>
+</div>
+<script>
+  var YML = "name: Refresh match data and calendar feeds\n\n# Rebuilds the embedded site data AND all subscribe-able .ics feeds several\n# times a day, so every subscribed calendar (Apple / Outlook / Google / ICS)\n# keeps receiving the detailed events \u2014 exact kickoff times, stadiums,\n# referees \u2014 with fresh scores. Runs on GitHub's servers; you never touch it.\n#\n# It also tidies the repository: any stray file at the top level (left over\n# from manual uploads) is removed, so the tree always stays clean.\n\non:\n  push:                        # runs by itself whenever tools/ changes\n    branches: [main, master]\n    paths: ['tools/**', '.github/workflows/**']\n  schedule:\n    - cron: '23 1,7,13,19 * * *'   # 4\u00d7 daily (04:23 Riyadh / 01:23 UTC \u2026)\n  workflow_dispatch:           # lets you press \"Run workflow\" by hand\n\npermissions:\n  contents: write\n\njobs:\n  refresh:\n    runs-on: ubuntu-latest\n    steps:\n      - name: Check out the site\n        uses: actions/checkout@v4\n\n      - name: Set up Python\n        uses: actions/setup-python@v5\n        with:\n          python-version: '3.11'\n\n      - name: Install image library\n        run: pip install -r tools/requirements.txt\n\n      - name: Fetch fresh match data (FotMob + 365scores) and rebuild site data\n        working-directory: tools\n        run: python3 build_data.py\n\n      - name: Rebuild the calendar feeds\n        working-directory: tools\n        run: python3 build_feeds.py ../ics\n\n      - name: Remove stray duplicated files at the top level\n        run: |\n          git ls-files -z \\\n            | grep -zvE '^(\\.github/|ics/|tools/|assets/|index\\.html|OPEN-ME\\.html|README\\.md|LICENSE|\\.nojekyll|\\.gitignore)' \\\n            | xargs -0 -r git rm -f -- || true\n\n      - name: Publish (single rolling commit keeps the repo small)\n        run: |\n          git config user.name  \"github-actions[bot]\"\n          git config user.email \"github-actions[bot]@users.noreply.github.com\"\n          git add -A index.html assets ics tools/data/venues.json tools/data/tv.json tools/data/ar_names.json tools/data/crests.json tools/data/snapshot.json\n          if git diff --cached --quiet; then\n            echo \"Nothing changed today.\"\n          else\n            # Feeds are a few MB, so the tree is rewritten instead of appended:\n            # the repo stays small instead of growing gigabytes a year.\n            git commit --amend --no-edit -m \"chore: refresh match data and feeds\" || \\\n              git commit -m \"chore: refresh match data and feeds\"\n            git push --force-with-lease || git push --force\n          fi\n";
+
+  var un = document.getElementById('un');
+  var input = document.getElementById('rn');
+  var savedUser = null, savedRepo = null;
+  try {
+    savedUser = localStorage.getItem('a7user');
+    savedRepo = localStorage.getItem('a7repo');
+  } catch (e) {}
+  if (savedUser) un.value = savedUser;
+  if (savedRepo) input.value = savedRepo;
+
+  function user() { return (un.value || '').trim() || 'ali-allosh'; }
+  function repo() { return (input.value || '').trim() || 'league-calendars'; }
+  function base() { return 'https://github.com/' + user() + '/' + repo(); }
+  function siteURL() {
+    var u = user(), r = repo();
+    return (r === u + '.github.io') ? ('https://' + u + '.github.io/')
+                                    : ('https://' + u + '.github.io/' + r + '/');
+  }
+  function url(kind) {
+    var b = base();
+    if (kind === 'new')     return 'https://github.com/new?name=' + encodeURIComponent(repo());
+    if (kind === 'upload')  return b + '/upload/main';
+    if (kind === 'pages')   return b + '/settings/pages';
+    if (kind === 'perm')    return b + '/settings/actions';
+    if (kind === 'actions') return b + '/actions';
+    if (kind === 'site')    return siteURL();
+    if (kind === 'wf')      return b + '/new/main?filename=' +
+                                   encodeURIComponent('.github/workflows/refresh.yml') +
+                                   '&value=' + encodeURIComponent(YML);
+    return b;
+  }
+  function paint() {
+    document.getElementById('urlv').textContent = siteURL();
+    document.querySelectorAll('[data-go]').forEach(function(a) {
+      a.href = url(a.dataset.go);
+    });
+    try {
+      localStorage.setItem('a7user', user());
+      localStorage.setItem('a7repo', repo());
+    } catch (e) {}
+  }
+  un.addEventListener('input', paint);
+  input.addEventListener('input', paint);
+  document.querySelectorAll('[data-go]').forEach(function(a) {
+    a.addEventListener('click', function() {
+      var s = a.closest('.step'); if (s) s.classList.add('done');
+    });
+  });
+  document.getElementById('ymltxt').textContent = YML;
+  paint();
+</script>
+</body>
+</html>

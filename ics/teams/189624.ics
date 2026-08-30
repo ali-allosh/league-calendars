@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ SD Amorebieta — Copa del Rey Fixtures | أموربييت
+ ا — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:SD Amorebieta — all matches in Copa del Rey\, exact UTC kick
+ offs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-28T
+ 08:58:03Z.  •  أموربييتا — جميع المباريات في 
+ كأس ملك إسبانيا بتوقيت UTC الدقيق مع الملا
+ عب والقنوات الناقلة. المصدر: FotMob + 365scores · 
+ تحديث تلقائي 2026-11-28T08:58:03Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386039@league-calendars
+DTSTAMP:20261128T085803Z
+DTSTART:20261110T190000Z
+DTEND:20261110T210000Z
+SUMMARY:SD Amorebieta vs Logroñés (1 - 0) — Copa del Rey
+LOCATION:Campo Municipal de Urritxe\, Amorebieta-Echano\, Spain
+GEO:43.221385;-2.724835
+URL:https://www.fotmob.com/match/6386039
+DESCRIPTION:⚽ أموربييتا × لوغرونيس (1 - 0)\n🏆 كأس
+  ملك إسبانيا — 1\n🗓 الثلاثاء 10 نوفمبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Campo Municipal de Urritxe، Amor
+ ebieta-Echano\n⚖️ الحكم: Pablo Monterrubio Torres\n————
+ —\n⚽ SD Amorebieta v Logroñés (1 - 0)\n🏆 Copa del Rey — 1\n🗓
+  Tue 10 Nov 2026 · 19:00 UTC\n🏟 Campo Municipal de Urritxe, Amorebieta
+ -Echano\nReferee: Pablo Monterrubio Torres\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أموربييتا ضد لوغرونيس — كأ
+ س ملك إسبانيا | Tomorrow: SD Amorebieta vs Logroñés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أمورب
+ ييتا × لوغرونيس | Kick-off in 30 min: SD Amorebieta vs Logro
+ ñés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000024644@league-calendars
+DTSTAMP:20261128T085803Z
+DTSTART:20261203T200000Z
+DTEND:20261203T220000Z
+SUMMARY:SD Amorebieta vs Osasuna — Copa del Rey
+LOCATION:Campo Municipal de Urritxe\, Amorebieta-Echano\, Spain
+GEO:43.221385;-2.724835
+URL:https://www.fotmob.com/match/1000024644
+DESCRIPTION:⚽ أموربييتا × أوساسونا\n🏆 كأس ملك 
+ إسبانيا — 2\n🗓 الخميس 3 ديسمبر 2026 · 23:00 بت
+ وقيت الرياض\n🏟 Campo Municipal de Urritxe، Amorebieta-Echano
+ \n—————\n⚽ SD Amorebieta v Osasuna\n🏆 Copa del Rey — 2\n
+ 🗓 Thu 03 Dec 2026 · 20:00 UTC\n🏟 Campo Municipal de Urritxe, Amoreb
+ ieta-Echano\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أموربييتا ضد أوساسونا — كأ
+ س ملك إسبانيا | Tomorrow: SD Amorebieta vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أمورب
+ ييتا × أوساسونا | Kick-off in 30 min: SD Amorebieta vs Osasun
+ a
+END:VALARM
+END:VEVENT
+END:VCALENDAR

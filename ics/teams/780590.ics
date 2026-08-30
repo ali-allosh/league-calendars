@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ CD San Jose Soria — Copa del Rey Fixtures | سان خو
+ سيه دي سوريا — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:CD San Jose Soria — all matches in Copa del Rey\, exact UTC 
+ kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11
+ -28T08:58:03Z.  •  سان خوسيه دي سوريا — جميع الم
+ باريات في كأس ملك إسبانيا بتوقيت UTC الدقي
+ ق مع الملاعب والقنوات الناقلة. المصدر: FotM
+ ob + 365scores · تحديث تلقائي 2026-11-28T08:58:03Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-1000023521@league-calendars
+DTSTAMP:20261128T085803Z
+DTSTART:20260927T100000Z
+DTEND:20260927T120000Z
+SUMMARY:Auriense vs CD San Jose Soria (2 - 0) — Copa del Rey
+LOCATION:Estadio Municipal de Oira\, Ourense\, Spain
+GEO:42.354541;-7.853799
+URL:https://www.fotmob.com/match/1000023521
+DESCRIPTION:⚽ أوريينسي × سان خوسيه دي سوريا (2 - 
+ 0)\n🏆 كأس ملك إسبانيا — الدور التمهيدي\n
+ 🗓 الأحد 27 سبتمبر 2026 · 13:00 بتوقيت الرياض\n
+ 🏟 Estadio Municipal de Oira، Ourense\n—————\n⚽ Auriense v 
+ CD San Jose Soria (2 - 0)\n🏆 Copa del Rey — Preliminary Round\n🗓 S
+ un 27 Sep 2026 · 10:00 UTC\n🏟 Estadio Municipal de Oira, Ourense\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوريينسي ضد سان خوسيه دي سو
+ ريا — كأس ملك إسبانيا | Tomorrow: Auriense vs CD San Jos
+ e Soria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوريي
+ نسي × سان خوسيه دي سوريا | Kick-off in 30 min: Auriense
+  vs CD San Jose Soria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023522@league-calendars
+DTSTAMP:20261128T085803Z
+DTSTART:20261004T140000Z
+DTEND:20261004T160000Z
+SUMMARY:CD San Jose Soria vs Auriense (1 - 0) — Copa del Rey
+LOCATION:Estadio San Juan\, Garray\, Spain
+GEO:41.817696;-2.449426
+URL:https://www.fotmob.com/match/1000023522
+DESCRIPTION:⚽ سان خوسيه دي سوريا × أوريينسي (1 - 
+ 0)\n🏆 كأس ملك إسبانيا — الدور التمهيدي\n
+ 🗓 الأحد 4 أكتوبر 2026 · 17:00 بتوقيت الرياض\n
+ 🏟 Estadio San Juan، Garray\n—————\n⚽ CD San Jose Soria v A
+ uriense (1 - 0)\n🏆 Copa del Rey — Preliminary Round\n🗓 Sun 04 Oct 
+ 2026 · 14:00 UTC\n🏟 Estadio San Juan, Garray\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سان خوسيه دي سوريا ضد أوريي
+ نسي — كأس ملك إسبانيا | Tomorrow: CD San Jose Soria vs A
+ uriense
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سان خو
+ سيه دي سوريا × أوريينسي | Kick-off in 30 min: CD San Jo
+ se Soria vs Auriense
+END:VALARM
+END:VEVENT
+END:VCALENDAR

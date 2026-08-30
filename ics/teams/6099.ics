@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Potenza — Coppa Italia Fixtures | روسوبلو بوت
+ ينزا — مباريات كأس إيطاليا
+X-WR-CALDESC:Potenza — all matches in Coppa Italia\, exact UTC kickoffs\,
+  stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-28T08:58:
+ 03Z.  •  روسوبلو بوتينزا — جميع المباريات 
+ في كأس إيطاليا بتوقيت UTC الدقيق مع الملاع
+ ب والقنوات الناقلة. المصدر: FotMob + 365scores · ت
+ حديث تلقائي 2026-11-28T08:58:03Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5852741@league-calendars
+DTSTAMP:20261128T085803Z
+DTSTART:20260808T183000Z
+DTEND:20260808T203000Z
+SUMMARY:Ascoli vs Potenza (3 - 1) — Coppa Italia
+LOCATION:Stadio Cino e Lillo Del Duca\, Ascoli Piceno\, Italy
+GEO:42.861004;13.593913
+URL:https://www.fotmob.com/match/5852741
+DESCRIPTION:⚽ أسكولي × روسوبلو بوتينزا (3 - 1)\n🏆
+  كأس إيطاليا — دور الـ64\n🗓 السبت 8 أغسطس 2
+ 026 · 21:30 بتوقيت الرياض\n🏟 Stadio Cino e Lillo Del Duca
+ ، Ascoli Piceno\n—————\n⚽ Ascoli v Potenza (3 - 1)\n🏆 Copp
+ a Italia — Round of 64\n🗓 Sat 08 Aug 2026 · 18:30 UTC\n🏟 Stadio C
+ ino e Lillo Del Duca, Ascoli Piceno\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أسكولي ضد روسوبلو بوتينزا 
+ — كأس إيطاليا | Tomorrow: Ascoli vs Potenza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أسكول
+ ي × روسوبلو بوتينزا | Kick-off in 30 min: Ascoli vs Potenz
+ a
+END:VALARM
+END:VEVENT
+END:VCALENDAR

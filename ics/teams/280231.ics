@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ CD Tedeon — Copa del Rey Fixtures | تيدوين — م
+ باريات كأس ملك إسبانيا
+X-WR-CALDESC:CD Tedeon — all matches in Copa del Rey\, exact UTC kickoffs
+ \, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-28T08:5
+ 8:03Z.  •  تيدوين — جميع المباريات في كأس مل
+ ك إسبانيا بتوقيت UTC الدقيق مع الملاعب وال
+ قنوات الناقلة. المصدر: FotMob + 365scores · تحديث 
+ تلقائي 2026-11-28T08:58:03Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-1000023515@league-calendars
+DTSTAMP:20261128T085803Z
+DTSTART:20260926T160000Z
+DTEND:20260926T180000Z
+SUMMARY:Anaitasuna FT vs CD Tedeon (5 - 0) — Copa del Rey
+LOCATION:Campo Txerloia\, Azkoitia\, Spain
+GEO:43.173581;-2.299914
+URL:https://www.fotmob.com/match/1000023515
+DESCRIPTION:⚽ أنايتاسونا × تيدوين (5 - 0)\n🏆 كأس 
+ ملك إسبانيا — الدور التمهيدي\n🗓 السبت 26 
+ سبتمبر 2026 · 19:00 بتوقيت الرياض\n🏟 Campo Txerloia
+ ، Azkoitia\n—————\n⚽ Anaitasuna FT v CD Tedeon (5 - 0)\n🏆 
+ Copa del Rey — Preliminary Round\n🗓 Sat 26 Sep 2026 · 16:00 UTC\n
+ 🏟 Campo Txerloia, Azkoitia\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أنايتاسونا ضد تيدوين — كأس
+  ملك إسبانيا | Tomorrow: Anaitasuna FT vs CD Tedeon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أنايت
+ اسونا × تيدوين | Kick-off in 30 min: Anaitasuna FT vs CD Tedeo
+ n
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023517@league-calendars
+DTSTAMP:20261128T085803Z
+DTSTART:20261003T160000Z
+DTEND:20261003T180000Z
+SUMMARY:CD Tedeon vs Anaitasuna FT (2 - 5) — Copa del Rey
+LOCATION:Estadio San Miguel\, Navarrete\, Spain
+GEO:42.424910;-2.556639
+URL:https://www.fotmob.com/match/1000023517
+DESCRIPTION:⚽ تيدوين × أنايتاسونا (2 - 5)\n🏆 كأس 
+ ملك إسبانيا — الدور التمهيدي\n🗓 السبت 3 
+ أكتوبر 2026 · 19:00 بتوقيت الرياض\n🏟 Estadio San Mig
+ uel، Navarrete\n—————\n⚽ CD Tedeon v Anaitasuna FT (2 - 5)\n
+ 🏆 Copa del Rey — Preliminary Round\n🗓 Sat 03 Oct 2026 · 16:00 UTC
+ \n🏟 Estadio San Miguel, Navarrete\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تيدوين ضد أنايتاسونا — كأس
+  ملك إسبانيا | Tomorrow: CD Tedeon vs Anaitasuna FT
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تيدوي
+ ن × أنايتاسونا | Kick-off in 30 min: CD Tedeon vs Anaitasuna F
+ T
+END:VALARM
+END:VEVENT
+END:VCALENDAR

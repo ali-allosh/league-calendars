@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Tre Fiori — UEFA Champions League Fixtures | Tre Fiori 
+ — مباريات دوري أبطال أوروبا
+X-WR-CALDESC:Tre Fiori — all matches in UEFA Champions League\, exact UTC
+  kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-1
+ 0-21T22:26:40Z.  •  Tre Fiori — جميع المباريات في دو
+ ري أبطال أوروبا بتوقيت UTC الدقيق مع الملا
+ عب والقنوات الناقلة. المصدر: FotMob + 365scores · 
+ تحديث تلقائي 2026-10-21T22:26:40Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-1000022629@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260707T183000Z
+DTEND:20260707T203000Z
+SUMMARY:Tre Fiori vs Larne (0 - 1) — UEFA Champions League
+LOCATION:Stadio Olimpico di Serravalle\, Serravalle\, San Marino
+GEO:43.971245;12.476971
+URL:https://www.fotmob.com/match/1000022629
+DESCRIPTION:⚽ Tre Fiori × Larne (0 - 1)\n🏆 دوري أبطال أور
+ وبا — 1\n🗓 الثلاثاء 7 يوليو 2026 · 21:30 بتوقي
+ ت الرياض\n🏟 Stadio Olimpico di Serravalle، Serravalle\n👥 ا
+ لحضور: 672\n—————\n⚽ Tre Fiori v Larne (0 - 1)\n🏆 UEFA
+  Champions League — 1\n🗓 Tue 07 Jul 2026 · 18:30 UTC\n🏟 Stadio Ol
+ impico di Serravalle, Serravalle\nAttendance: 672\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Tre Fiori ضد Larne — دوري أبطال أو
+ روبا | Tomorrow: Tre Fiori vs Larne
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Tre Fiori 
+ × Larne | Kick-off in 30 min: Tre Fiori vs Larne
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022631@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260714T190000Z
+DTEND:20260714T210000Z
+SUMMARY:Larne vs Tre Fiori (2 - 1) — UEFA Champions League
+URL:https://www.fotmob.com/match/1000022631
+DESCRIPTION:⚽ Larne × Tre Fiori (2 - 1)\n🏆 دوري أبطال أور
+ وبا — 1\n🗓 الثلاثاء 14 يوليو 2026 · 22:00 بتوقي
+ ت الرياض\n—————\n⚽ Larne v Tre Fiori (2 - 1)\n🏆 UEFA
+  Champions League — 1\n🗓 Tue 14 Jul 2026 · 19:00 UTC\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Larne ضد Tre Fiori — دوري أبطال أو
+ روبا | Tomorrow: Larne vs Tre Fiori
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Larne × Tr
+ e Fiori | Kick-off in 30 min: Larne vs Tre Fiori
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ AGF — UEFA Champions League Fixtures | AGF — مبار
+ يات دوري أبطال أوروبا
+X-WR-CALDESC:AGF — all matches in UEFA Champions League\, exact UTC kicko
+ ffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-21T2
+ 2:26:40Z.  •  AGF — جميع المباريات في دوري أبطا
+ ل أوروبا بتوقيت UTC الدقيق مع الملاعب والق
+ نوات الناقلة. المصدر: FotMob + 365scores · تحديث ت
+ لقائي 2026-10-21T22:26:40Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-1000022678@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260721T170000Z
+DTEND:20260721T190000Z
+SUMMARY:AGF vs Lech Poznań (1 - 4) — UEFA Champions League
+URL:https://www.fotmob.com/match/1000022678
+DESCRIPTION:⚽ AGF × ليخ بوزنان (1 - 4)\n🏆 دوري أبطا
+ ل أوروبا — 2\n🗓 الثلاثاء 21 يوليو 2026 · 20:00 
+ بتوقيت الرياض\n—————\n⚽ AGF v Lech Poznań (1 - 4)
+ \n🏆 UEFA Champions League — 2\n🗓 Tue 21 Jul 2026 · 17:00 UTC\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: AGF ضد ليخ بوزنان — دوري أبط
+ ال أوروبا | Tomorrow: AGF vs Lech Poznań
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: AGF × لي
+ خ بوزنان | Kick-off in 30 min: AGF vs Lech Poznań
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022679@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260729T170000Z
+DTEND:20260729T190000Z
+SUMMARY:Lech Poznań vs AGF (1 - 4) — UEFA Champions League
+URL:https://www.fotmob.com/match/1000022679
+DESCRIPTION:⚽ ليخ بوزنان × AGF (1 - 4)\n🏆 دوري أبطا
+ ل أوروبا — 2\n🗓 الأربعاء 29 يوليو 2026 · 20:00 
+ بتوقيت الرياض\n—————\n⚽ Lech Poznań v AGF (1 - 4)
+ \n🏆 UEFA Champions League — 2\n🗓 Wed 29 Jul 2026 · 17:00 UTC\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليخ بوزنان ضد AGF — دوري أبط
+ ال أوروبا | Tomorrow: Lech Poznań vs AGF
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليخ بو
+ زنان × AGF | Kick-off in 30 min: Lech Poznań vs AGF
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022687@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260805T171000Z
+DTEND:20260805T191000Z
+SUMMARY:AGF vs Sabah FK (2 - 1) — UEFA Champions League
+URL:https://www.fotmob.com/match/1000022687
+DESCRIPTION:⚽ AGF × صباح (2 - 1)\n🏆 دوري أبطال أورو
+ با — 3\n🗓 الأربعاء 5 أغسطس 2026 · 20:10 بتوقيت 
+ الرياض\n—————\n⚽ AGF v Sabah FK (2 - 1)\n🏆 UEFA Champ
+ ions League — 3\n🗓 Wed 05 Aug 2026 · 17:10 UTC\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: AGF ضد صباح — دوري أبطال أور
+ وبا | Tomorrow: AGF vs Sabah FK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: AGF × صب
+ اح | Kick-off in 30 min: AGF vs Sabah FK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022697@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260811T160000Z
+DTEND:20260811T180000Z
+SUMMARY:Sabah FK vs AGF (4 - 0) — UEFA Champions League
+LOCATION:Bank Respublika Arena\, Masazyr (Masazir)\, Azerbaijan
+GEO:40.486179;49.766298
+URL:https://www.fotmob.com/match/1000022697
+DESCRIPTION:⚽ صباح × AGF (4 - 0)\n🏆 دوري أبطال أورو
+ با — 3\n🗓 الثلاثاء 11 أغسطس 2026 · 19:00 بتوقيت
+  الرياض\n🏟 Bank Respublika Arena، Masazyr (Masazir)\n———
+ ——\n⚽ Sabah FK v AGF (4 - 0)\n🏆 UEFA Champions League — 3\n🗓
+  Tue 11 Aug 2026 · 16:00 UTC\n🏟 Bank Respublika Arena, Masazyr (Masazi
+ r)\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: صباح ضد AGF — دوري أبطال أور
+ وبا | Tomorrow: Sabah FK vs AGF
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: صباح ×
+  AGF | Kick-off in 30 min: Sabah FK vs AGF
+END:VALARM
+END:VEVENT
+END:VCALENDAR
