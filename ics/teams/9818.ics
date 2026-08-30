@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Mansfield Town — FA Cup Fixtures | Mansfield Town — م
+ باريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Mansfield Town — all matches in FA Cup\, exact UTC kickoffs\
+ , stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31
+ :10Z.  •  Mansfield Town — جميع المباريات في كأس ا
+ لاتحاد الإنجليزي بتوقيت UTC الدقيق مع الم
+ لاعب والقنوات الناقلة. المصدر: FotMob + 365scores
+  · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010649@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Mansfield Town vs Harrogate Town (3 - 2) — FA Cup
+LOCATION:One Call Stadium\, Mansfield\, Nottinghamshire\, England
+GEO:53.138057;-1.200777
+URL:https://www.fotmob.com/match/5010649
+DESCRIPTION:⚽ Mansfield Town × Harrogate Town (3 - 2)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الأول\n🗓 السبت 1
+  نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 One Call Stadi
+ um، Mansfield, Nottinghamshire\n⚖️ الحكم: Wayne Cartmel\n👥 ا
+ لحضور: 3,301\n—————\n⚽ Mansfield Town v Harrogate Town (3
+  - 2)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 On
+ e Call Stadium, Mansfield, Nottinghamshire\nReferee: Wayne Cartmel\nAttend
+ ance: 3,301\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Mansfield Town ضد Harrogate Town — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Mansfield Town vs Harrogate To
+ wn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Mansfield T
+ own × Harrogate Town | Kick-off in 30 min: Mansfield Town vs Harrogate To
+ wn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040320@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Accrington Stanley vs Mansfield Town (2 - 2) — FA Cup
+LOCATION:Wham Stadium\, Accrington\, Lancashire\, England
+GEO:53.765401;-2.371062
+URL:https://www.fotmob.com/match/5040320
+DESCRIPTION:⚽ Accrington Stanley × Mansfield Town (2 - 2)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الثاني\n🗓 الس
+ بت 6 ديسمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Wham Sta
+ dium، Accrington, Lancashire\n⚖️ الحكم: Stephen Parkinson\n👥 
+ الحضور: 1,873\n—————\n⚽ Accrington Stanley v Mansfield T
+ own (2 - 2)\n🏆 FA Cup — Round 2\n🗓 Sat 06 Dec 2025 · 15:00 UTC\n
+ 🏟 Wham Stadium, Accrington, Lancashire\nReferee: Stephen Parkinson\nAtt
+ endance: 1,873\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Accrington Stanley ضد Mansfield Town — كأس
+  الاتحاد الإنجليزي | Tomorrow: Accrington Stanley vs Mansf
+ ield Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Accrington 
+ Stanley × Mansfield Town | Kick-off in 30 min: Accrington Stanley vs Mans
+ field Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089923@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260111T143000Z
+DTEND:20260111T163000Z
+SUMMARY:Sheffield United vs Mansfield Town (3 - 4) — FA Cup
+LOCATION:Bramall Lane\, Sheffield\, England
+GEO:53.370346;-1.470864
+URL:https://www.fotmob.com/match/5089923
+DESCRIPTION:⚽ Sheffield United × Mansfield Town (3 - 4)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الثالث\n🗓 الأح
+ د 11 يناير 2026 · 17:30 بتوقيت الرياض\n🏟 Bramall Lan
+ e، Sheffield\n⚖️ الحكم: Gavin Ward\n👥 الحضور: 17,514\n
+ —————\n⚽ Sheffield United v Mansfield Town (3 - 4)\n🏆 FA Cu
+ p — Round 3\n🗓 Sun 11 Jan 2026 · 14:30 UTC\n🏟 Bramall Lane, Sheff
+ ield\nReferee: Gavin Ward\nAttendance: 17,514\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Sheffield United ضد Mansfield Town — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Sheffield United vs Mansfiel
+ d Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Sheffield U
+ nited × Mansfield Town | Kick-off in 30 min: Sheffield United vs Mansfiel
+ d Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135170@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260214T150000Z
+DTEND:20260214T170000Z
+SUMMARY:Burnley vs Mansfield Town (1 - 2) — FA Cup
+LOCATION:Turf Moor\, Burnley\, England
+GEO:53.788984;-2.230225
+URL:https://www.fotmob.com/match/5135170
+DESCRIPTION:⚽ بيرنلي × Mansfield Town (1 - 2)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الرابع\n🗓 السبت 1
+ 4 فبراير 2026 · 18:00 بتوقيت الرياض\n🏟 Turf Moor، B
+ urnley\n⚖️ الحكم: Gavin Ward\n👥 الحضور: 11,914\n——
+ ———\n⚽ Burnley v Mansfield Town (1 - 2)\n🏆 FA Cup — Round 4\n
+ 🗓 Sat 14 Feb 2026 · 15:00 UTC\n🏟 Turf Moor, Burnley\nReferee: Gavin
+  Ward\nAttendance: 11,914\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيرنلي ضد Mansfield Town — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Burnley vs Mansfield Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيرنل
+ ي × Mansfield Town | Kick-off in 30 min: Burnley vs Mansfield Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5186382@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260307T121500Z
+DTEND:20260307T141500Z
+SUMMARY:Mansfield Town vs Arsenal (1 - 2) — FA Cup
+LOCATION:One Call Stadium\, Mansfield\, Nottinghamshire\, England
+GEO:53.138057;-1.200777
+URL:https://www.fotmob.com/match/5186382
+DESCRIPTION:⚽ Mansfield Town × أرسنال (1 - 2)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الخامس\n🗓 السبت 7
+  مارس 2026 · 15:15 بتوقيت الرياض\n🏟 One Call Stadium،
+  Mansfield, Nottinghamshire\n⚖️ الحكم: Thomas Bramall\n👥 ال
+ حضور: 9,260\n—————\n⚽ Mansfield Town v Arsenal (1 - 2)\n
+ 🏆 FA Cup — Round 5\n🗓 Sat 07 Mar 2026 · 12:15 UTC\n🏟 One Call 
+ Stadium, Mansfield, Nottinghamshire\nReferee: Thomas Bramall\nAttendance: 
+ 9,260\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Mansfield Town ضد أرسنال — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Mansfield Town vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Mansfield T
+ own × أرسنال | Kick-off in 30 min: Mansfield Town vs Arsenal
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,278 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al-Ain — AFC Champions League Elite Fixtures | العي
+ ن — مباريات دوري أبطال آسيا للنخبة
+X-WR-CALDESC:Al-Ain — all matches in AFC Champions League Elite\, exact U
+ TC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026
+ -09-05T19:31:10Z.  •  العين — جميع المباريات في د
+ وري أبطال آسيا للنخبة بتوقيت UTC الدقيق مع
+  الملاعب والقنوات الناقلة. المصدر: FotMob + 36
+ 5scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6050070@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260915T160000Z
+DTEND:20260915T180000Z
+SUMMARY:Al-Ain vs Al Nassr FC — AFC Champions League Elite
+LOCATION:Hazza Bin Zayed Stadium\, Al-'Ayn (Al Ain)\, United Arab Emirates
+GEO:24.245056;55.717098
+URL:https://www.fotmob.com/match/6050070
+DESCRIPTION:⚽ العين × النصر\n🏆 دوري أبطال آسيا
+  للنخبة — الجولة 1\n🗓 الثلاثاء 15 سبتمبر 20
+ 26 · 19:00 بتوقيت الرياض\n🏟 Hazza Bin Zayed Stadium، Al-'
+ Ayn (Al Ain)\n—————\n⚽ Al-Ain v Al Nassr FC\n🏆 AFC Champion
+ s League Elite — Matchday 1\n🗓 Tue 15 Sep 2026 · 16:00 UTC\n🏟 Haz
+ za Bin Zayed Stadium, Al-'Ayn (Al Ain)\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: العين ضد النصر — دوري أبطا
+ ل آسيا للنخبة | Tomorrow: Al-Ain vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: العين 
+ × النصر | Kick-off in 30 min: Al-Ain vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050077@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261012T181500Z
+DTEND:20261012T201500Z
+SUMMARY:Al Quwa Al Jawiya vs Al-Ain — AFC Champions League Elite
+LOCATION:Basra International Stadium\, al-Baṣra (Basra)\, Iraq
+GEO:30.439928;47.779781
+URL:https://www.fotmob.com/match/6050077
+DESCRIPTION:⚽ القوة الجوية × العين\n🏆 دوري أبط
+ ال آسيا للنخبة — الجولة 2\n🗓 الاثنين 12 أك
+ توبر 2026 · 21:15 بتوقيت الرياض\n🏟 Basra International
+  Stadium، al-Baṣra (Basra)\n—————\n⚽ Al Quwa Al Jawiya v Al
+ -Ain\n🏆 AFC Champions League Elite — Matchday 2\n🗓 Mon 12 Oct 2026
+  · 18:15 UTC\n🏟 Basra International Stadium, al-Baṣra (Basra)\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القوة الجوية ضد العين — دو
+ ري أبطال آسيا للنخبة | Tomorrow: Al Quwa Al Jawiya vs Al-
+ Ain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القوة 
+ الجوية × العين | Kick-off in 30 min: Al Quwa Al Jawiya vs Al-A
+ in
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050082@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261026T170000Z
+DTEND:20261026T190000Z
+SUMMARY:Al-Ain vs Tractor — AFC Champions League Elite
+LOCATION:Hazza Bin Zayed Stadium\, Al-'Ayn (Al Ain)\, United Arab Emirates
+GEO:24.245056;55.717098
+URL:https://www.fotmob.com/match/6050082
+DESCRIPTION:⚽ العين × تراکتورسازي\n🏆 دوري أبط
+ ال آسيا للنخبة — الجولة 3\n🗓 الاثنين 26 أك
+ توبر 2026 · 20:00 بتوقيت الرياض\n🏟 Hazza Bin Zayed Sta
+ dium، Al-'Ayn (Al Ain)\n—————\n⚽ Al-Ain v Tractor\n🏆 AFC C
+ hampions League Elite — Matchday 3\n🗓 Mon 26 Oct 2026 · 17:00 UTC\n
+ 🏟 Hazza Bin Zayed Stadium, Al-'Ayn (Al Ain)\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: العين ضد تراکتورسازي — دور
+ ي أبطال آسيا للنخبة | Tomorrow: Al-Ain vs Tractor
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: العين 
+ × تراکتورسازي | Kick-off in 30 min: Al-Ain vs Tractor
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050093@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261102T191500Z
+DTEND:20261102T211500Z
+SUMMARY:Al Ittihad vs Al-Ain — AFC Champions League Elite
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/6050093
+DESCRIPTION:⚽ الاتحاد × العين\n🏆 دوري أبطال آس
+ يا للنخبة — الجولة 4\n🗓 الاثنين 2 نوفمبر 2
+ 026 · 22:15 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King A
+ bdullah Sport City، Jeddah\n—————\n⚽ Al Ittihad v Al-Ain\n
+ 🏆 AFC Champions League Elite — Matchday 4\n🗓 Mon 02 Nov 2026 · 19
+ :15 UTC\n🏟 Alinma Bank Stadium at King Abdullah Sport City, Jeddah\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد العين — دوري أب
+ طال آسيا للنخبة | Tomorrow: Al Ittihad vs Al-Ain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × العين | Kick-off in 30 min: Al Ittihad vs Al-Ain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050097@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261123T170000Z
+DTEND:20261123T190000Z
+SUMMARY:Al-Ain vs Esteghlal — AFC Champions League Elite
+LOCATION:Hazza Bin Zayed Stadium\, Al-'Ayn (Al Ain)\, United Arab Emirates
+GEO:24.245056;55.717098
+URL:https://www.fotmob.com/match/6050097
+DESCRIPTION:⚽ العين × استقلال\n🏆 دوري أبطال آس
+ يا للنخبة — الجولة 5\n🗓 الاثنين 23 نوفمبر 
+ 2026 · 20:00 بتوقيت الرياض\n🏟 Hazza Bin Zayed Stadium، Al
+ -'Ayn (Al Ain)\n—————\n⚽ Al-Ain v Esteghlal\n🏆 AFC Champion
+ s League Elite — Matchday 5\n🗓 Mon 23 Nov 2026 · 17:00 UTC\n🏟 Haz
+ za Bin Zayed Stadium, Al-'Ayn (Al Ain)\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: العين ضد استقلال — دوري أب
+ طال آسيا للنخبة | Tomorrow: Al-Ain vs Esteghlal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: العين 
+ × استقلال | Kick-off in 30 min: Al-Ain vs Esteghlal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050108@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261207T191500Z
+DTEND:20261207T211500Z
+SUMMARY:Al Hilal vs Al-Ain — AFC Champions League Elite
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/6050108
+DESCRIPTION:⚽ الهلال × العين\n🏆 دوري أبطال آسي
+ ا للنخبة — الجولة 6\n🗓 الاثنين 7 ديسمبر 202
+ 6 · 22:15 بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n——
+ ———\n⚽ Al Hilal v Al-Ain\n🏆 AFC Champions League Elite — Matc
+ hday 6\n🗓 Mon 07 Dec 2026 · 19:15 UTC\n🏟 Kingdom Arena, Riyadh\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد العين — دوري أبط
+ ال آسيا للنخبة | Tomorrow: Al Hilal vs Al-Ain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × العين | Kick-off in 30 min: Al Hilal vs Al-Ain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050113@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270208T170000Z
+DTEND:20270208T190000Z
+SUMMARY:Al-Ain vs Al Qadsiah — AFC Champions League Elite
+LOCATION:Hazza Bin Zayed Stadium\, Al-'Ayn (Al Ain)\, United Arab Emirates
+GEO:24.245056;55.717098
+URL:https://www.fotmob.com/match/6050113
+DESCRIPTION:⚽ العين × القادسية\n🏆 دوري أبطال آ
+ سيا للنخبة — الجولة 7\n🗓 الاثنين 8 فبراير
+  2027 · 20:00 بتوقيت الرياض\n🏟 Hazza Bin Zayed Stadium، A
+ l-'Ayn (Al Ain)\n—————\n⚽ Al-Ain v Al Qadsiah\n🏆 AFC Champi
+ ons League Elite — Matchday 7\n🗓 Mon 08 Feb 2027 · 17:00 UTC\n🏟 H
+ azza Bin Zayed Stadium, Al-'Ayn (Al Ain)\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: العين ضد القادسية — دوري أ
+ بطال آسيا للنخبة | Tomorrow: Al-Ain vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: العين 
+ × القادسية | Kick-off in 30 min: Al-Ain vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050121@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270215T191500Z
+DTEND:20270215T211500Z
+SUMMARY:Al Ahli vs Al-Ain — AFC Champions League Elite
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/6050121
+DESCRIPTION:⚽ الأهلي × العين\n🏆 دوري أبطال آسي
+ ا للنخبة — الجولة 8\n🗓 الاثنين 15 فبراير 20
+ 27 · 22:15 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Ab
+ dullah Sport City، Jeddah\n—————\n⚽ Al Ahli v Al-Ain\n🏆 AF
+ C Champions League Elite — Matchday 8\n🗓 Mon 15 Feb 2027 · 19:15 UTC
+ \n🏟 Alinma Bank Stadium at King Abdullah Sport City, Jeddah\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد العين — دوري أبط
+ ال آسيا للنخبة | Tomorrow: Al Ahli vs Al-Ain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × العين | Kick-off in 30 min: Al Ahli vs Al-Ain
+END:VALARM
+END:VEVENT
+END:VCALENDAR

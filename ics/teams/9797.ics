@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Chester FC — FA Cup Fixtures | Chester FC — مباري
+ ات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Chester FC — all matches in FA Cup\, exact UTC kickoffs\, st
+ adiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10Z
+ .  •  Chester FC — جميع المباريات في كأس الاتح
+ اد الإنجليزي بتوقيت UTC الدقيق مع الملاعب 
+ والقنوات الناقلة. المصدر: FotMob + 365scores · تح
+ ديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010647@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Cambridge United vs Chester FC (3 - 0) — FA Cup
+LOCATION:Cledara Abbey Stadium\, Cambridge\, Cambridgeshire\, England
+GEO:52.212112;0.154150
+URL:https://www.fotmob.com/match/5010647
+DESCRIPTION:⚽ Cambridge United × Chester FC (3 - 0)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الأول\n🗓 السبت 1 
+ نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Cledara Abbey S
+ tadium، Cambridge, Cambridgeshire\n⚖️ الحكم: David Rock\n👥 ا
+ لحضور: 4,329\n—————\n⚽ Cambridge United v Chester FC (3 -
+  0)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Cled
+ ara Abbey Stadium, Cambridge, Cambridgeshire\nReferee: David Rock\nAttenda
+ nce: 4,329\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Cambridge United ضد Chester FC — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Cambridge United vs Chester FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Cambridge U
+ nited × Chester FC | Kick-off in 30 min: Cambridge United vs Chester FC
+END:VALARM
+END:VEVENT
+END:VCALENDAR

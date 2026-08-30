@@ -1,0 +1,657 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al Sharkeyah-ENPPI — Egyptian Premier League Fixtures | 
+ Al Sharkeyah-ENPPI — مباريات الدوري المصري الممت
+ از
+X-WR-CALDESC:Al Sharkeyah-ENPPI — all matches in Egyptian Premier League\
+ , exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-upd
+ ated 2026-09-05T19:31:10Z.  •  Al Sharkeyah-ENPPI — جميع المب
+ اريات في الدوري المصري الممتاز بتوقيت UTC 
+ الدقيق مع الملاعب والقنوات الناقلة. المص
+ در: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5995579@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260823T170000Z
+DTEND:20260823T190000Z
+SUMMARY:Al Ahly SC vs Al Sharkeyah-ENPPI (3 - 2) — Egyptian Premier Leagu
+ e
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5995579
+DESCRIPTION:⚽ الأهلي × Al Sharkeyah-ENPPI (3 - 2)\n🏆 الدور
+ ي المصري الممتاز — الجولة 1\n🗓 الأحد 23 أغ
+ سطس 2026 · 20:00 بتوقيت الرياض\n🏟 Cairo International S
+ tadium، al-Qāhirah (Cairo)\n⚖️ الحكم: Ahmed Nagy\n————
+ —\n⚽ Al Ahly SC v Al Sharkeyah-ENPPI (3 - 2)\n🏆 Egyptian Premier Le
+ ague — Matchday 1\n🗓 Sun 23 Aug 2026 · 17:00 UTC\n🏟 Cairo Interna
+ tional Stadium, al-Qāhirah (Cairo)\nReferee: Ahmed Nagy\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد Al Sharkeyah-ENPPI — الدو
+ ري المصري الممتاز | Tomorrow: Al Ahly SC vs Al Sharkeyah-EN
+ PPI
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × Al Sharkeyah-ENPPI | Kick-off in 30 min: Al Ahly SC vs Al Sharkeyah-
+ ENPPI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996699@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260828T140000Z
+DTEND:20260828T160000Z
+SUMMARY:Al Sharkeyah-ENPPI vs Wadi Degla FC (1 - 3) — Egyptian Premier Le
+ ague
+LOCATION:Al Salam Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.174408;31.435096
+URL:https://www.fotmob.com/match/5996699
+DESCRIPTION:⚽ Al Sharkeyah-ENPPI × وادي دجلة (1 - 3)\n🏆 ال
+ دوري المصري الممتاز — الجولة 2\n🗓 الجمعة
+  28 أغسطس 2026 · 17:00 بتوقيت الرياض\n🏟 Al Salam Stad
+ ium، al-Qāhirah (Cairo)\n⚖️ الحكم: Mohamed Abassa Kabeel\n—
+ ————\n⚽ Al Sharkeyah-ENPPI v Wadi Degla FC (1 - 3)\n🏆 Egyptia
+ n Premier League — Matchday 2\n🗓 Fri 28 Aug 2026 · 14:00 UTC\n🏟 A
+ l Salam Stadium, al-Qāhirah (Cairo)\nReferee: Mohamed Abassa Kabeel\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Al Sharkeyah-ENPPI ضد وادي دجلة — ا
+ لدوري المصري الممتاز | Tomorrow: Al Sharkeyah-ENPPI vs W
+ adi Degla FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Al Sharkeya
+ h-ENPPI × وادي دجلة | Kick-off in 30 min: Al Sharkeyah-ENPPI vs W
+ adi Degla FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996706@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260901T140000Z
+DTEND:20260901T160000Z
+SUMMARY:Ghazl Al Mahalla vs Al Sharkeyah-ENPPI (0 - 0) — Egyptian Premier
+  League
+LOCATION:El Mahalla Stadium\, El-Mahalla El-Kubra\, Egypt
+GEO:30.960829;31.172917
+URL:https://www.fotmob.com/match/5996706
+DESCRIPTION:⚽ غزل المحلة × Al Sharkeyah-ENPPI (0 - 0)\n🏆 ا
+ لدوري المصري الممتاز — الجولة 3\n🗓 الثلا
+ ثاء 1 سبتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 El Mah
+ alla Stadium، El-Mahalla El-Kubra\n⚖️ الحكم: Mohamed El Ghazi\n
+ —————\n⚽ Ghazl Al Mahalla v Al Sharkeyah-ENPPI (0 - 0)\n🏆 E
+ gyptian Premier League — Matchday 3\n🗓 Tue 01 Sep 2026 · 14:00 UTC\n
+ 🏟 El Mahalla Stadium, El-Mahalla El-Kubra\nReferee: Mohamed El Ghazi\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غزل المحلة ضد Al Sharkeyah-ENPPI — 
+ الدوري المصري الممتاز | Tomorrow: Ghazl Al Mahalla vs A
+ l Sharkeyah-ENPPI
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غزل ال
+ محلة × Al Sharkeyah-ENPPI | Kick-off in 30 min: Ghazl Al Mahalla vs A
+ l Sharkeyah-ENPPI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996721@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260909T170000Z
+DTEND:20260909T190000Z
+SUMMARY:Al Sharkeyah-ENPPI vs ZED FC — Egyptian Premier League
+LOCATION:Al Salam Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.174408;31.435096
+URL:https://www.fotmob.com/match/5996721
+DESCRIPTION:⚽ Al Sharkeyah-ENPPI × زد\n🏆 الدوري المصري 
+ الممتاز — الجولة 4\n🗓 الأربعاء 9 سبتمبر 20
+ 26 · 20:00 بتوقيت الرياض\n🏟 Al Salam Stadium، al-Qāhirah
+  (Cairo)\n—————\n⚽ Al Sharkeyah-ENPPI v ZED FC\n🏆 Egyptian 
+ Premier League — Matchday 4\n🗓 Wed 09 Sep 2026 · 17:00 UTC\n🏟 Al 
+ Salam Stadium, al-Qāhirah (Cairo)\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Al Sharkeyah-ENPPI ضد زد — الدوري ا
+ لمصري الممتاز | Tomorrow: Al Sharkeyah-ENPPI vs ZED FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Al Sharkeya
+ h-ENPPI × زد | Kick-off in 30 min: Al Sharkeyah-ENPPI vs ZED FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996730@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260916T170000Z
+DTEND:20260916T190000Z
+SUMMARY:Al Sharkeyah-ENPPI vs Pyramids FC — Egyptian Premier League
+LOCATION:Al Salam Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.174408;31.435096
+URL:https://www.fotmob.com/match/5996730
+DESCRIPTION:⚽ Al Sharkeyah-ENPPI × بيراميدز\n🏆 الدوري 
+ المصري الممتاز — الجولة 5\n🗓 الأربعاء 16 
+ سبتمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Al Salam Stadiu
+ m، al-Qāhirah (Cairo)\n—————\n⚽ Al Sharkeyah-ENPPI v Pyramid
+ s FC\n🏆 Egyptian Premier League — Matchday 5\n🗓 Wed 16 Sep 2026 ·
+  17:00 UTC\n🏟 Al Salam Stadium, al-Qāhirah (Cairo)\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Al Sharkeyah-ENPPI ضد بيراميدز — ال
+ دوري المصري الممتاز | Tomorrow: Al Sharkeyah-ENPPI vs Pyr
+ amids FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Al Sharkeya
+ h-ENPPI × بيراميدز | Kick-off in 30 min: Al Sharkeyah-ENPPI vs Py
+ ramids FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996735@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261012T140000Z
+DTEND:20261012T160000Z
+SUMMARY:Modern Sport FC vs Al Sharkeyah-ENPPI — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996735
+DESCRIPTION:⚽ مودرن سبورت × Al Sharkeyah-ENPPI\n🏆 الدو
+ ري المصري الممتاز — الجولة 6\n🗓 الاثنين 1
+ 2 أكتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 Cairo Interna
+ tional Stadium، al-Qāhirah (Cairo)\n—————\n⚽ Modern Sport FC
+  v Al Sharkeyah-ENPPI\n🏆 Egyptian Premier League — Matchday 6\n🗓 M
+ on 12 Oct 2026 · 14:00 UTC\n🏟 Cairo International Stadium, al-Qāhirah
+  (Cairo)\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مودرن سبورت ضد Al Sharkeyah-ENPPI —
+  الدوري المصري الممتاز | Tomorrow: Modern Sport FC vs A
+ l Sharkeyah-ENPPI
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مودرن 
+ سبورت × Al Sharkeyah-ENPPI | Kick-off in 30 min: Modern Sport FC vs 
+ Al Sharkeyah-ENPPI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996744@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261019T170000Z
+DTEND:20261019T190000Z
+SUMMARY:Al Sharkeyah-ENPPI vs Al Mokawloon Al Arab — Egyptian Premier Lea
+ gue
+LOCATION:Al Salam Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.174408;31.435096
+URL:https://www.fotmob.com/match/5996744
+DESCRIPTION:⚽ Al Sharkeyah-ENPPI × المقاولون العرب\n🏆 
+ الدوري المصري الممتاز — الجولة 7\n🗓 الاث
+ نين 19 أكتوبر 2026 · 20:00 بتوقيت الرياض\n🏟 Al Sa
+ lam Stadium، al-Qāhirah (Cairo)\n—————\n⚽ Al Sharkeyah-ENPPI
+  v Al Mokawloon Al Arab\n🏆 Egyptian Premier League — Matchday 7\n🗓
+  Mon 19 Oct 2026 · 17:00 UTC\n🏟 Al Salam Stadium, al-Qāhirah (Cairo)\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Al Sharkeyah-ENPPI ضد المقاولون الع
+ رب — الدوري المصري الممتاز | Tomorrow: Al Sharkeyah
+ -ENPPI vs Al Mokawloon Al Arab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Al Sharkeya
+ h-ENPPI × المقاولون العرب | Kick-off in 30 min: Al Sharkeya
+ h-ENPPI vs Al Mokawloon Al Arab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996758@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261030T180000Z
+DTEND:20261030T200000Z
+SUMMARY:Olympic El Qanah FC vs Al Sharkeyah-ENPPI — Egyptian Premier Leag
+ ue
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996758
+DESCRIPTION:⚽ القناة × Al Sharkeyah-ENPPI\n🏆 الدوري ال
+ مصري الممتاز — الجولة 8\n🗓 الجمعة 30 أكتو
+ بر 2026 · 21:00 بتوقيت الرياض\n🏟 Suez Canal Authority St
+ adium\n—————\n⚽ Olympic El Qanah FC v Al Sharkeyah-ENPPI\n🏆
+  Egyptian Premier League — Matchday 8\n🗓 Fri 30 Oct 2026 · 18:00 UTC
+ \n🏟 Suez Canal Authority Stadium\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القناة ضد Al Sharkeyah-ENPPI — الدو
+ ري المصري الممتاز | Tomorrow: Olympic El Qanah FC vs Al Sha
+ rkeyah-ENPPI
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القنا
+ ة × Al Sharkeyah-ENPPI | Kick-off in 30 min: Olympic El Qanah FC vs Al S
+ harkeyah-ENPPI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996770@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261125T180000Z
+DTEND:20261125T200000Z
+SUMMARY:Al Sharkeyah-ENPPI vs Ceramica Cleopatra — Egyptian Premier Leagu
+ e
+LOCATION:Petrosport Stadium
+URL:https://www.fotmob.com/match/5996770
+DESCRIPTION:⚽ Al Sharkeyah-ENPPI × سيراميكا كليوباترا\n
+ 🏆 الدوري المصري الممتاز — الجولة 9\n🗓 ا
+ لأربعاء 25 نوفمبر 2026 · 21:00 بتوقيت الرياض\n
+ 🏟 Petrosport Stadium\n—————\n⚽ Al Sharkeyah-ENPPI v Ceramic
+ a Cleopatra\n🏆 Egyptian Premier League — Matchday 9\n🗓 Wed 25 Nov 
+ 2026 · 18:00 UTC\n🏟 Petrosport Stadium\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Al Sharkeyah-ENPPI ضد سيراميكا كليو
+ باترا — الدوري المصري الممتاز | Tomorrow: Al Sha
+ rkeyah-ENPPI vs Ceramica Cleopatra
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Al Sharkeya
+ h-ENPPI × سيراميكا كليوباترا | Kick-off in 30 min: Al Sh
+ arkeyah-ENPPI vs Ceramica Cleopatra
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996774@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261208T180000Z
+DTEND:20261208T200000Z
+SUMMARY:Al Ittihad Alexandria vs Al Sharkeyah-ENPPI — Egyptian Premier Le
+ ague
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996774
+DESCRIPTION:⚽ الاتحاد السكندري × Al Sharkeyah-ENPPI\n🏆
+  الدوري المصري الممتاز — الجولة 10\n🗓 الث
+ لاثاء 8 ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Al
+ exandria Stadium\n—————\n⚽ Al Ittihad Alexandria v Al Sharkeya
+ h-ENPPI\n🏆 Egyptian Premier League — Matchday 10\n🗓 Tue 08 Dec 202
+ 6 · 18:00 UTC\n🏟 Alexandria Stadium\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد السكندري ضد Al Sharkeyah
+ -ENPPI — الدوري المصري الممتاز | Tomorrow: Al Ittihad
+  Alexandria vs Al Sharkeyah-ENPPI
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد السكندري × Al Sharkeyah-ENPPI | Kick-off in 30 min: Al Ittih
+ ad Alexandria vs Al Sharkeyah-ENPPI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996791@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261216T180000Z
+DTEND:20261216T200000Z
+SUMMARY:Al Sharkeyah-ENPPI vs Tala'ea El Gaish — Egyptian Premier League
+LOCATION:Petrosport Stadium
+URL:https://www.fotmob.com/match/5996791
+DESCRIPTION:⚽ Al Sharkeyah-ENPPI × طلائع الجيش\n🏆 الدو
+ ري المصري الممتاز — الجولة 11\n🗓 الأربعا
+ ء 16 ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Petrospor
+ t Stadium\n—————\n⚽ Al Sharkeyah-ENPPI v Tala'ea El Gaish\n
+ 🏆 Egyptian Premier League — Matchday 11\n🗓 Wed 16 Dec 2026 · 18:0
+ 0 UTC\n🏟 Petrosport Stadium\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Al Sharkeyah-ENPPI ضد طلائع الجيش —
+  الدوري المصري الممتاز | Tomorrow: Al Sharkeyah-ENPPI v
+ s Tala'ea El Gaish
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Al Sharkeya
+ h-ENPPI × طلائع الجيش | Kick-off in 30 min: Al Sharkeyah-ENPPI 
+ vs Tala'ea El Gaish
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996793@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261222T150000Z
+DTEND:20261222T170000Z
+SUMMARY:Asyut Petroleum vs Al Sharkeyah-ENPPI — Egyptian Premier League
+LOCATION:Asyut University Stadium
+URL:https://www.fotmob.com/match/5996793
+DESCRIPTION:⚽ أسيوط بتروليوم × Al Sharkeyah-ENPPI\n🏆 ا
+ لدوري المصري الممتاز — الجولة 12\n🗓 الثل
+ اثاء 22 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Asy
+ ut University Stadium\n—————\n⚽ Asyut Petroleum v Al Sharkeyah
+ -ENPPI\n🏆 Egyptian Premier League — Matchday 12\n🗓 Tue 22 Dec 2026
+  · 15:00 UTC\n🏟 Asyut University Stadium\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أسيوط بتروليوم ضد Al Sharkeyah-ENP
+ PI — الدوري المصري الممتاز | Tomorrow: Asyut Petroleu
+ m vs Al Sharkeyah-ENPPI
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أسيوط 
+ بتروليوم × Al Sharkeyah-ENPPI | Kick-off in 30 min: Asyut Petrole
+ um vs Al Sharkeyah-ENPPI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996803@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261227T180000Z
+DTEND:20261227T200000Z
+SUMMARY:Al Sharkeyah-ENPPI vs National Bank — Egyptian Premier League
+LOCATION:Petrosport Stadium
+URL:https://www.fotmob.com/match/5996803
+DESCRIPTION:⚽ Al Sharkeyah-ENPPI × البنك الاهلي\n🏆 الد
+ وري المصري الممتاز — الجولة 13\n🗓 الأحد 27
+  ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Petrosport Sta
+ dium\n—————\n⚽ Al Sharkeyah-ENPPI v National Bank\n🏆 Egypti
+ an Premier League — Matchday 13\n🗓 Sun 27 Dec 2026 · 18:00 UTC\n🏟
+  Petrosport Stadium\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Al Sharkeyah-ENPPI ضد البنك الاهلي 
+ — الدوري المصري الممتاز | Tomorrow: Al Sharkeyah-ENPP
+ I vs National Bank
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Al Sharkeya
+ h-ENPPI × البنك الاهلي | Kick-off in 30 min: Al Sharkeyah-ENPP
+ I vs National Bank
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996817@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270105T180000Z
+DTEND:20270105T200000Z
+SUMMARY:Petrojet-Suez vs Al Sharkeyah-ENPPI — Egyptian Premier League
+LOCATION:Petrosport Stadium
+URL:https://www.fotmob.com/match/5996817
+DESCRIPTION:⚽ منتخب السويس بتروجت × Al Sharkeyah-ENPPI\
+ n🏆 الدوري المصري الممتاز — الجولة 14\n🗓 
+ الثلاثاء 5 يناير 2027 · 21:00 بتوقيت الرياض\n
+ 🏟 Petrosport Stadium\n—————\n⚽ Petrojet-Suez v Al Sharkeyah
+ -ENPPI\n🏆 Egyptian Premier League — Matchday 14\n🗓 Tue 05 Jan 2027
+  · 18:00 UTC\n🏟 Petrosport Stadium\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: منتخب السويس بتروجت ضد Al Shar
+ keyah-ENPPI — الدوري المصري الممتاز | Tomorrow: Petro
+ jet-Suez vs Al Sharkeyah-ENPPI
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: منتخب 
+ السويس بتروجت × Al Sharkeyah-ENPPI | Kick-off in 30 min: Petr
+ ojet-Suez vs Al Sharkeyah-ENPPI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996827@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270127T150000Z
+DTEND:20270127T170000Z
+SUMMARY:Al Sharkeyah-ENPPI vs Al Masry SC — Egyptian Premier League
+LOCATION:Petrosport Stadium
+URL:https://www.fotmob.com/match/5996827
+DESCRIPTION:⚽ Al Sharkeyah-ENPPI × المصري\n🏆 الدوري ال
+ مصري الممتاز — الجولة 15\n🗓 الأربعاء 27 ين
+ اير 2027 · 18:00 بتوقيت الرياض\n🏟 Petrosport Stadium\n
+ —————\n⚽ Al Sharkeyah-ENPPI v Al Masry SC\n🏆 Egyptian Premi
+ er League — Matchday 15\n🗓 Wed 27 Jan 2027 · 15:00 UTC\n🏟 Petrosp
+ ort Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Al Sharkeyah-ENPPI ضد المصري — الدو
+ ري المصري الممتاز | Tomorrow: Al Sharkeyah-ENPPI vs Al Masr
+ y SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Al Sharkeya
+ h-ENPPI × المصري | Kick-off in 30 min: Al Sharkeyah-ENPPI vs Al Mas
+ ry SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996834@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270131T150000Z
+DTEND:20270131T170000Z
+SUMMARY:El Gouna FC vs Al Sharkeyah-ENPPI — Egyptian Premier League
+LOCATION:Khaled Bichara Stadium
+URL:https://www.fotmob.com/match/5996834
+DESCRIPTION:⚽ الجونة × Al Sharkeyah-ENPPI\n🏆 الدوري ال
+ مصري الممتاز — الجولة 16\n🗓 الأحد 31 يناير
+  2027 · 18:00 بتوقيت الرياض\n🏟 Khaled Bichara Stadium\n—
+ ————\n⚽ El Gouna FC v Al Sharkeyah-ENPPI\n🏆 Egyptian Premier 
+ League — Matchday 16\n🗓 Sun 31 Jan 2027 · 15:00 UTC\n🏟 Khaled Bic
+ hara Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجونة ضد Al Sharkeyah-ENPPI — الدو
+ ري المصري الممتاز | Tomorrow: El Gouna FC vs Al Sharkeyah-E
+ NPPI
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجون
+ ة × Al Sharkeyah-ENPPI | Kick-off in 30 min: El Gouna FC vs Al Sharkeyah
+ -ENPPI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996842@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270204T150000Z
+DTEND:20270204T170000Z
+SUMMARY:Al Sharkeyah-ENPPI vs Smouha SC — Egyptian Premier League
+LOCATION:Petrosport Stadium
+URL:https://www.fotmob.com/match/5996842
+DESCRIPTION:⚽ Al Sharkeyah-ENPPI × سموحة\n🏆 الدوري الم
+ صري الممتاز — الجولة 17\n🗓 الخميس 4 فبراي
+ ر 2027 · 18:00 بتوقيت الرياض\n🏟 Petrosport Stadium\n—
+ ————\n⚽ Al Sharkeyah-ENPPI v Smouha SC\n🏆 Egyptian Premier Le
+ ague — Matchday 17\n🗓 Thu 04 Feb 2027 · 15:00 UTC\n🏟 Petrosport S
+ tadium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Al Sharkeyah-ENPPI ضد سموحة — الدور
+ ي المصري الممتاز | Tomorrow: Al Sharkeyah-ENPPI vs Smouha SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Al Sharkeya
+ h-ENPPI × سموحة | Kick-off in 30 min: Al Sharkeyah-ENPPI vs Smouha S
+ C
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996858@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270211T193000Z
+DTEND:20270211T213000Z
+SUMMARY:Zamalek SC vs Al Sharkeyah-ENPPI — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996858
+DESCRIPTION:⚽ الزمالك × Al Sharkeyah-ENPPI\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 18\n🗓 الخميس 11 فبر
+ اير 2027 · 22:30 بتوقيت الرياض\n🏟 Cairo Int'l Stadium\n
+ —————\n⚽ Zamalek SC v Al Sharkeyah-ENPPI\n🏆 Egyptian Premie
+ r League — Matchday 18\n🗓 Thu 11 Feb 2027 · 19:30 UTC\n🏟 Cairo In
+ t'l Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الزمالك ضد Al Sharkeyah-ENPPI — الد
+ وري المصري الممتاز | Tomorrow: Zamalek SC vs Al Sharkeyah-
+ ENPPI
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الزما
+ لك × Al Sharkeyah-ENPPI | Kick-off in 30 min: Zamalek SC vs Al Sharkeya
+ h-ENPPI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996870@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270220T193000Z
+DTEND:20270220T213000Z
+SUMMARY:Al Sharkeyah-ENPPI vs Abo Qir Semad — Egyptian Premier League
+LOCATION:Petrosport Stadium
+URL:https://www.fotmob.com/match/5996870
+DESCRIPTION:⚽ Al Sharkeyah-ENPPI × ابو قير للاسمدة\n🏆 ا
+ لدوري المصري الممتاز — الجولة 19\n🗓 السب
+ ت 20 فبراير 2027 · 22:30 بتوقيت الرياض\n🏟 Petrospor
+ t Stadium\n—————\n⚽ Al Sharkeyah-ENPPI v Abo Qir Semad\n🏆 E
+ gyptian Premier League — Matchday 19\n🗓 Sat 20 Feb 2027 · 19:30 UTC\
+ n🏟 Petrosport Stadium\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Al Sharkeyah-ENPPI ضد ابو قير للاسم
+ دة — الدوري المصري الممتاز | Tomorrow: Al Sharkeyah
+ -ENPPI vs Abo Qir Semad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Al Sharkeya
+ h-ENPPI × ابو قير للاسمدة | Kick-off in 30 min: Al Sharkeyah
+ -ENPPI vs Abo Qir Semad
+END:VALARM
+END:VEVENT
+END:VCALENDAR

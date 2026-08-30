@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Reus — Copa del Rey Fixtures | Reus — مباريات 
+ كأس ملك إسبانيا
+X-WR-CALDESC:Reus — all matches in Copa del Rey\, exact UTC kickoffs\, st
+ adiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10Z
+ .  •  Reus — جميع المباريات في كأس ملك إسبان
+ يا بتوقيت UTC الدقيق مع الملاعب والقنوات ا
+ لناقلة. المصدر: FotMob + 365scores · تحديث تلقائي 
+ 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4996014@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251029T193000Z
+DTEND:20251029T213000Z
+SUMMARY:Reus vs CE Europa (2 - 2) — Copa del Rey
+LOCATION:Estadio Camp Nou Municipal\, Reus\, Spain
+GEO:41.156355;1.086391
+URL:https://www.fotmob.com/match/4996014
+DESCRIPTION:⚽ Reus × يوروبا (2 - 2)\n🏆 كأس ملك إسبان
+ يا — الدور الأول\n🗓 الأربعاء 29 أكتوبر 2025
+  · 22:30 بتوقيت الرياض\n🏟 Estadio Camp Nou Municipal، Reu
+ s\n⚖️ الحكم: Federico Javier Sáiz Villares\n—————\n⚽
+  Reus v CE Europa (2 - 2)\n🏆 Copa del Rey — Round 1\n🗓 Wed 29 Oct 
+ 2025 · 19:30 UTC\n🏟 Estadio Camp Nou Municipal, Reus\nReferee: Federic
+ o Javier Sáiz Villares\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Reus ضد يوروبا — كأس ملك إسبا
+ نيا | Tomorrow: Reus vs CE Europa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Reus × ي
+ وروبا | Kick-off in 30 min: Reus vs CE Europa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057232@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251203T200000Z
+DTEND:20251203T220000Z
+SUMMARY:Reus vs Real Sociedad (0 - 2) — Copa del Rey
+LOCATION:Estadio Camp Nou Municipal\, Reus\, Spain
+GEO:41.156355;1.086391
+URL:https://www.fotmob.com/match/5057232
+DESCRIPTION:⚽ Reus × ريال سوسيداد (0 - 2)\n🏆 كأس ملك
+  إسبانيا — الدور الثاني\n🗓 الأربعاء 3 دي
+ سمبر 2025 · 23:00 بتوقيت الرياض\n🏟 Estadio Camp Nou Mu
+ nicipal، Reus\n⚖️ الحكم: Juan Martínez Munuera\n👥 الحضو
+ ر: 4,500\n—————\n⚽ Reus v Real Sociedad (0 - 2)\n🏆 Copa de
+ l Rey — Round 2\n🗓 Wed 03 Dec 2025 · 20:00 UTC\n🏟 Estadio Camp No
+ u Municipal, Reus\nReferee: Juan Martínez Munuera\nAttendance: 4,500\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Reus ضد ريال سوسيداد — كأس مل
+ ك إسبانيا | Tomorrow: Reus vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Reus × ر
+ يال سوسيداد | Kick-off in 30 min: Reus vs Real Sociedad
+END:VALARM
+END:VEVENT
+END:VCALENDAR

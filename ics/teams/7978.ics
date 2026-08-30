@@ -1,0 +1,283 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Union St.Gilloise — UEFA Europa League Fixtures | يون
+ يون سانت جيلواز — مباريات الدوري الأورو
+ بي
+X-WR-CALDESC:Union St.Gilloise — all matches in UEFA Europa League\, exac
+ t UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2
+ 026-09-05T19:31:10Z.  •  يونيون سانت جيلواز — جميع
+  المباريات في الدوري الأوروبي بتوقيت UTC ا
+ لدقيق مع الملاعب والقنوات الناقلة. المصد
+ ر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6112283@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260917T190000Z
+DTEND:20260917T210000Z
+SUMMARY:Viktoria Plzeň vs Union St.Gilloise — UEFA Europa League
+LOCATION:Doosan Aréna\, Plzeň\, Czech Republic
+GEO:49.750074;13.385446
+URL:https://www.fotmob.com/match/6112283
+DESCRIPTION:⚽ فيكتوريا بلزن × يونيون سانت جيلو
+ از\n🏆 الدوري الأوروبي — الجولة 1\n🗓 الخم
+ يس 17 سبتمبر 2026 · 22:00 بتوقيت الرياض\n🏟 Doosan 
+ Aréna، Plzeň\n—————\n⚽ Viktoria Plzeň v Union St.Gilloise\
+ n🏆 UEFA Europa League — Matchday 1\n🗓 Thu 17 Sep 2026 · 19:00 UTC
+ \n🏟 Doosan Aréna, Plzeň\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيكتوريا بلزن ضد يونيون سا
+ نت جيلواز — الدوري الأوروبي | Tomorrow: Viktoria P
+ lzeň vs Union St.Gilloise
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيكتو
+ ريا بلزن × يونيون سانت جيلواز | Kick-off in 30 min
+ : Viktoria Plzeň vs Union St.Gilloise
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112286@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:Union St.Gilloise vs Real Sociedad — UEFA Europa League
+LOCATION:Stade Joseph Mariën\, Bruxelles (Brussels)\, Belgium
+GEO:50.817764;4.329295
+URL:https://www.fotmob.com/match/6112286
+DESCRIPTION:⚽ يونيون سانت جيلواز × ريال سوسيدا
+ د\n🏆 الدوري الأوروبي — الجولة 2\n🗓 الخمي
+ س 15 أكتوبر 2026 · 19:45 بتوقيت الرياض\n🏟 Stade Jos
+ eph Mariën، Bruxelles (Brussels)\n—————\n⚽ Union St.Gilloise
+  v Real Sociedad\n🏆 UEFA Europa League — Matchday 2\n🗓 Thu 15 Oct 
+ 2026 · 16:45 UTC\n🏟 Stade Joseph Mariën, Bruxelles (Brussels)\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون سانت جيلواز ضد ريال 
+ سوسيداد — الدوري الأوروبي | Tomorrow: Union St.Gill
+ oise vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن سانت جيلواز × ريال سوسيداد | Kick-off in 30 min: 
+ Union St.Gilloise vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112289@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261022T164500Z
+DTEND:20261022T184500Z
+SUMMARY:Union St.Gilloise vs Hapoel Beer Sheva — UEFA Europa League
+LOCATION:Stade Joseph Mariën\, Bruxelles (Brussels)\, Belgium
+GEO:50.817764;4.329295
+URL:https://www.fotmob.com/match/6112289
+DESCRIPTION:⚽ يونيون سانت جيلواز × هبوعيل بئر 
+ سبع\n🏆 الدوري الأوروبي — الجولة 3\n🗓 الخ
+ ميس 22 أكتوبر 2026 · 19:45 بتوقيت الرياض\n🏟 Stade
+  Joseph Mariën، Bruxelles (Brussels)\n—————\n⚽ Union St.Gill
+ oise v Hapoel Beer Sheva\n🏆 UEFA Europa League — Matchday 3\n🗓 Thu
+  22 Oct 2026 · 16:45 UTC\n🏟 Stade Joseph Mariën, Bruxelles (Brussels)
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون سانت جيلواز ضد هبوع
+ يل بئر سبع — الدوري الأوروبي | Tomorrow: Union St.
+ Gilloise vs Hapoel Beer Sheva
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن سانت جيلواز × هبوعيل بئر سبع | Kick-off in 30 mi
+ n: Union St.Gilloise vs Hapoel Beer Sheva
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112347@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261105T200000Z
+DTEND:20261105T220000Z
+SUMMARY:Celta Vigo vs Union St.Gilloise — UEFA Europa League
+LOCATION:Abanca Balaidos
+URL:https://www.fotmob.com/match/6112347
+DESCRIPTION:⚽ سيلتا فيجو × يونيون سانت جيلواز\n
+ 🏆 الدوري الأوروبي — الجولة 4\n🗓 الخميس 5
+  نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Abanca Balaido
+ s\n—————\n⚽ Celta Vigo v Union St.Gilloise\n🏆 UEFA Europa L
+ eague — Matchday 4\n🗓 Thu 05 Nov 2026 · 20:00 UTC\n🏟 Abanca Balai
+ dos\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتا فيجو ضد يونيون سانت ج
+ يلواز — الدوري الأوروبي | Tomorrow: Celta Vigo vs Uni
+ on St.Gilloise
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتا 
+ فيجو × يونيون سانت جيلواز | Kick-off in 30 min: Celta
+  Vigo vs Union St.Gilloise
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112288@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Union St.Gilloise vs Lech Poznań — UEFA Europa League
+LOCATION:Stade Joseph Marien
+URL:https://www.fotmob.com/match/6112288
+DESCRIPTION:⚽ يونيون سانت جيلواز × ليخ بوزنان\n
+ 🏆 الدوري الأوروبي — الجولة 5\n🗓 الخميس 2
+ 6 نوفمبر 2026 · 20:45 بتوقيت الرياض\n🏟 Stade Joseph 
+ Marien\n—————\n⚽ Union St.Gilloise v Lech Poznań\n🏆 UEFA E
+ uropa League — Matchday 5\n🗓 Thu 26 Nov 2026 · 17:45 UTC\n🏟 Stade
+  Joseph Marien\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون سانت جيلواز ضد ليخ ب
+ وزنان — الدوري الأوروبي | Tomorrow: Union St.Gilloise
+  vs Lech Poznań
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن سانت جيلواز × ليخ بوزنان | Kick-off in 30 min: Unio
+ n St.Gilloise vs Lech Poznań
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112259@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:Lyon vs Union St.Gilloise — UEFA Europa League
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/6112259
+DESCRIPTION:⚽ أولمبيك ليون × يونيون سانت جيلوا
+ ز\n🏆 الدوري الأوروبي — الجولة 6\n🗓 الخمي
+ س 10 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Groupama 
+ Stadium\n—————\n⚽ Lyon v Union St.Gilloise\n🏆 UEFA Europa L
+ eague — Matchday 6\n🗓 Thu 10 Dec 2026 · 20:00 UTC\n🏟 Groupama Sta
+ dium\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد يونيون سان
+ ت جيلواز — الدوري الأوروبي | Tomorrow: Lyon vs Unio
+ n St.Gilloise
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × يونيون سانت جيلواز | Kick-off in 30 min: 
+ Lyon vs Union St.Gilloise
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112355@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270121T174500Z
+DTEND:20270121T194500Z
+SUMMARY:Beşiktaş vs Union St.Gilloise — UEFA Europa League
+LOCATION:Tupras Stadyumu
+URL:https://www.fotmob.com/match/6112355
+DESCRIPTION:⚽ بشكتاش × يونيون سانت جيلواز\n🏆 ا
+ لدوري الأوروبي — الجولة 7\n🗓 الخميس 21 ين
+ اير 2027 · 20:45 بتوقيت الرياض\n🏟 Tupras Stadyumu\n—
+ ————\n⚽ Beşiktaş v Union St.Gilloise\n🏆 UEFA Europa League 
+ — Matchday 7\n🗓 Thu 21 Jan 2027 · 17:45 UTC\n🏟 Tupras Stadyumu\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بشكتاش ضد يونيون سانت جيلو
+ از — الدوري الأوروبي | Tomorrow: Beşiktaş vs Union St.
+ Gilloise
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بشكتا
+ ش × يونيون سانت جيلواز | Kick-off in 30 min: Beşiktaş 
+ vs Union St.Gilloise
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112287@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Union St.Gilloise vs Celtic — UEFA Europa League
+LOCATION:Stade Joseph Marien
+URL:https://www.fotmob.com/match/6112287
+DESCRIPTION:⚽ يونيون سانت جيلواز × سيلتيك\n🏆 ا
+ لدوري الأوروبي — الجولة 8\n🗓 الخميس 28 ين
+ اير 2027 · 23:00 بتوقيت الرياض\n🏟 Stade Joseph Marien\n
+ —————\n⚽ Union St.Gilloise v Celtic\n🏆 UEFA Europa League 
+ — Matchday 8\n🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 Stade Joseph Marie
+ n\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون سانت جيلواز ضد سيلت
+ يك — الدوري الأوروبي | Tomorrow: Union St.Gilloise vs Ce
+ ltic
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن سانت جيلواز × سيلتيك | Kick-off in 30 min: Union St.Gi
+ lloise vs Celtic
+END:VALARM
+END:VEVENT
+END:VCALENDAR

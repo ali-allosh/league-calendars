@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Pisa — Coppa Italia Fixtures | بيسا — مباريا
+ ت كأس إيطاليا
+X-WR-CALDESC:Pisa — all matches in Coppa Italia\, exact UTC kickoffs\, st
+ adiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10Z
+ .  •  بيسا — جميع المباريات في كأس إيطالي
+ ا بتوقيت UTC الدقيق مع الملاعب والقنوات ال
+ ناقلة. المصدر: FotMob + 365scores · تحديث تلقائي 20
+ 26-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5852783@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260817T160000Z
+DTEND:20260817T180000Z
+SUMMARY:Pisa vs Empoli (1 - 1) — Coppa Italia
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa\, Italy
+GEO:43.725293;10.400190
+URL:https://www.fotmob.com/match/5852783
+DESCRIPTION:⚽ بيسا × إمبولي (1 - 1)\n🏆 كأس إيطالي
+ ا — دور الـ32\n🗓 الاثنين 17 أغسطس 2026 · 19:00 ب
+ توقيت الرياض\n🏟 Arena Garibaldi - Stadio Romeo Anconetani، 
+ Pisa\n⚖️ الحكم: Andrea Zanotti\n👥 الحضور: 7,003\n——
+ ———\n⚽ Pisa v Empoli (1 - 1)\n🏆 Coppa Italia — Round of 32\n
+ 🗓 Mon 17 Aug 2026 · 16:00 UTC\n🏟 Arena Garibaldi - Stadio Romeo Anc
+ onetani, Pisa\nReferee: Andrea Zanotti\nAttendance: 7,003\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيسا ضد إمبولي — كأس إيطال
+ يا | Tomorrow: Pisa vs Empoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيسا ×
+  إمبولي | Kick-off in 30 min: Pisa vs Empoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003659@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260915T190000Z
+DTEND:20260915T210000Z
+SUMMARY:Fiorentina vs Pisa — Coppa Italia
+LOCATION:Stadio Artemio Franchi\, Firenze\, Italy
+GEO:43.780788;11.282712
+URL:https://www.fotmob.com/match/6003659
+DESCRIPTION:⚽ فيورنتينا × بيسا\n🏆 كأس إيطاليا 
+ — دور الـ32\n🗓 الثلاثاء 15 سبتمبر 2026 · 22:00 
+ بتوقيت الرياض\n🏟 Stadio Artemio Franchi، Firenze\n——
+ ———\n⚽ Fiorentina v Pisa\n🏆 Coppa Italia — Round of 32\n🗓 
+ Tue 15 Sep 2026 · 19:00 UTC\n🏟 Stadio Artemio Franchi, Firenze\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد بيسا — كأس إي
+ طاليا | Tomorrow: Fiorentina vs Pisa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × بيسا | Kick-off in 30 min: Fiorentina vs Pisa
+END:VALARM
+END:VEVENT
+END:VCALENDAR

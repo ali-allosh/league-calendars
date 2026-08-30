@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Winner EF1 — Coppa Italia Fixtures | Winner EF1 — مب
+ اريات كأس إيطاليا
+X-WR-CALDESC:Winner EF1 — all matches in Coppa Italia\, exact UTC kickoff
+ s\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:
+ 31:10Z.  •  Winner EF1 — جميع المباريات في كأس إي
+ طاليا بتوقيت UTC الدقيق مع الملاعب والقنو
+ ات الناقلة. المصدر: FotMob + 365scores · تحديث تلق
+ ائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6003700@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270203T170000Z
+DTEND:20270203T190000Z
+SUMMARY:Winner EF1 vs Winner EF2 — Coppa Italia
+URL:https://www.fotmob.com/match/6003700
+DESCRIPTION:⚽ Winner EF1 × Winner EF2\n🏆 كأس إيطاليا — ر
+ بع النهائي\n🗓 الأربعاء 3 فبراير 2027 · 20:00 ب
+ توقيت الرياض\n—————\n⚽ Winner EF1 v Winner EF2\n
+ 🏆 Coppa Italia — Quarter-Finals\n🗓 Wed 03 Feb 2027 · 17:00 UTC\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Winner EF1 ضد Winner EF2 — كأس إيطال
+ يا | Tomorrow: Winner EF1 vs Winner EF2
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Winner EF1 
+ × Winner EF2 | Kick-off in 30 min: Winner EF1 vs Winner EF2
+END:VALARM
+END:VEVENT
+END:VCALENDAR

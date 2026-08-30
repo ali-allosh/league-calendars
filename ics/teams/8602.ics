@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Wolverhampton Wanderers — FA Cup Fixtures | وولفره
+ امبتون — مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Wolverhampton Wanderers — all matches in FA Cup\, exact UTC 
+ kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09
+ -05T19:31:10Z.  •  وولفرهامبتون — جميع المباري
+ ات في كأس الاتحاد الإنجليزي بتوقيت UTC الد
+ قيق مع الملاعب والقنوات الناقلة. المصدر: 
+ FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5089893@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260110T121500Z
+DTEND:20260110T141500Z
+SUMMARY:Wolverhampton Wanderers vs Shrewsbury Town (6 - 1) — FA Cup
+LOCATION:Molineux Stadium\, Wolverhampton\, West Midlands\, England
+GEO:52.590238;-2.130433
+URL:https://www.fotmob.com/match/5089893
+DESCRIPTION:⚽ وولفرهامبتون × Shrewsbury Town (6 - 1)\n🏆 
+ كأس الاتحاد الإنجليزي — الدور الثالث\n🗓
+  السبت 10 يناير 2026 · 15:15 بتوقيت الرياض\n🏟 Mo
+ lineux Stadium، Wolverhampton, West Midlands\n⚖️ الحكم: Stephen 
+ Martin\n👥 الحضور: 24,258\n—————\n⚽ Wolverhampton Wand
+ erers v Shrewsbury Town (6 - 1)\n🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 
+ 2026 · 12:15 UTC\n🏟 Molineux Stadium, Wolverhampton, West Midlands\nRe
+ feree: Stephen Martin\nAttendance: 24,258\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وولفرهامبتون ضد Shrewsbury Town —
+  كأس الاتحاد الإنجليزي | Tomorrow: Wolverhampton Wander
+ ers vs Shrewsbury Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وولفر
+ هامبتون × Shrewsbury Town | Kick-off in 30 min: Wolverhampton Wand
+ erers vs Shrewsbury Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135173@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260215T133000Z
+DTEND:20260215T153000Z
+SUMMARY:Grimsby Town vs Wolverhampton Wanderers (0 - 1) — FA Cup
+LOCATION:Blundell Park\, Cleethorpes\, North East Lincolns\, England
+GEO:53.570208;-0.046552
+URL:https://www.fotmob.com/match/5135173
+DESCRIPTION:⚽ Grimsby Town × وولفرهامبتون (0 - 1)\n🏆 كأ
+ س الاتحاد الإنجليزي — الدور الرابع\n🗓 ا
+ لأحد 15 فبراير 2026 · 16:30 بتوقيت الرياض\n🏟 Blu
+ ndell Park، Cleethorpes, North East Lincolns\n⚖️ الحكم: Samuel B
+ arrott\n👥 الحضور: 8,594\n—————\n⚽ Grimsby Town v Wolv
+ erhampton Wanderers (0 - 1)\n🏆 FA Cup — Round 4\n🗓 Sun 15 Feb 2026
+  · 13:30 UTC\n🏟 Blundell Park, Cleethorpes, North East Lincolns\nRefer
+ ee: Samuel Barrott\nAttendance: 8,594\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Grimsby Town ضد وولفرهامبتون — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Grimsby Town vs Wolverh
+ ampton Wanderers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Grimsby Tow
+ n × وولفرهامبتون | Kick-off in 30 min: Grimsby Town vs Wolver
+ hampton Wanderers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5186383@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260306T200000Z
+DTEND:20260306T220000Z
+SUMMARY:Wolverhampton Wanderers vs Liverpool (1 - 3) — FA Cup
+LOCATION:Molineux Stadium\, Wolverhampton\, West Midlands\, England
+GEO:52.590238;-2.130433
+URL:https://www.fotmob.com/match/5186383
+DESCRIPTION:⚽ وولفرهامبتون × ليفربول (1 - 3)\n🏆 ك
+ أس الاتحاد الإنجليزي — الدور الخامس\n🗓 
+ الجمعة 6 مارس 2026 · 23:00 بتوقيت الرياض\n🏟 Moli
+ neux Stadium، Wolverhampton, West Midlands\n⚖️ الحكم: Farai Hall
+ am\n👥 الحضور: 29,881\n—————\n⚽ Wolverhampton Wanderer
+ s v Liverpool (1 - 3)\n🏆 FA Cup — Round 5\n🗓 Fri 06 Mar 2026 · 20
+ :00 UTC\n🏟 Molineux Stadium, Wolverhampton, West Midlands\nReferee: Far
+ ai Hallam\nAttendance: 29,881\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وولفرهامبتون ضد ليفربول — 
+ كأس الاتحاد الإنجليزي | Tomorrow: Wolverhampton Wandere
+ rs vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وولفر
+ هامبتون × ليفربول | Kick-off in 30 min: Wolverhampton Wande
+ rers vs Liverpool
+END:VALARM
+END:VEVENT
+END:VCALENDAR

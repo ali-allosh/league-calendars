@@ -1,0 +1,279 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Sabah FK — UEFA Champions League Fixtures | صباح —
+  مباريات دوري أبطال أوروبا
+X-WR-CALDESC:Sabah FK — all matches in UEFA Champions League\, exact UTC 
+ kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09
+ -05T19:31:10Z.  •  صباح — جميع المباريات في دور
+ ي أبطال أوروبا بتوقيت UTC الدقيق مع الملاع
+ ب والقنوات الناقلة. المصدر: FotMob + 365scores · ت
+ حديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6106293@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260910T190000Z
+DTEND:20260910T210000Z
+SUMMARY:Manchester United vs Sabah FK — UEFA Champions League
+LOCATION:Old Trafford\, Manchester\, England
+GEO:53.463094;-2.291374
+URL:https://www.fotmob.com/match/6106293
+DESCRIPTION:⚽ مانشستر يونايتد × صباح\n🏆 دوري أ
+ بطال أوروبا — الجولة 1\n🗓 الخميس 10 سبتمب
+ ر 2026 · 22:00 بتوقيت الرياض\n🏟 Old Trafford، Manchester
+ \n📺 HBO Max (UK)، Paramount+ (US)، Premier Sports 1 ROI، RTÉ2، RT
+ É Player\n—————\n⚽ Manchester United v Sabah FK\n🏆 UEFA Ch
+ ampions League — Matchday 1\n🗓 Thu 10 Sep 2026 · 19:00 UTC\n🏟 Old
+  Trafford, Manchester\n📺 HBO Max (UK), Paramount+ (US), Premier Sports 
+ 1 ROI, RTÉ2, RTÉ Player\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد صباح — 
+ دوري أبطال أوروبا — 📺 HBO Max (UK)، Paramount+ (US)،
+  Premier Sports 1 ROI، RTÉ2، RTÉ Player | Tomorrow: Manchester United 
+ vs Sabah FK | TV: HBO Max (UK)\, Paramount+ (US)\, Premier Sports 1 ROI\, 
+ RTÉ2\, RTÉ Player
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × صباح — 📺 HBO Max (UK)، Paramount+ (US)، 
+ Premier Sports 1 ROI، RTÉ2، RTÉ Player | Kick-off in 30 min: Mancheste
+ r United vs Sabah FK | TV: HBO Max (UK)\, Paramount+ (US)\, Premier Sports
+  1 ROI\, RTÉ2\, RTÉ Player
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106424@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T164500Z
+DTEND:20261013T184500Z
+SUMMARY:Sabah FK vs Slavia Prague — UEFA Champions League
+LOCATION:Bank Respublika Arena\, Masazyr (Masazir)\, Azerbaijan
+GEO:40.486179;49.766298
+URL:https://www.fotmob.com/match/6106424
+DESCRIPTION:⚽ صباح × سلافيا براغ\n🏆 دوري أبطال
+  أوروبا — الجولة 2\n🗓 الثلاثاء 13 أكتوبر 20
+ 26 · 19:45 بتوقيت الرياض\n🏟 Bank Respublika Arena، Masazy
+ r (Masazir)\n—————\n⚽ Sabah FK v Slavia Prague\n🏆 UEFA Cham
+ pions League — Matchday 2\n🗓 Tue 13 Oct 2026 · 16:45 UTC\n🏟 Bank 
+ Respublika Arena, Masazyr (Masazir)\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: صباح ضد سلافيا براغ — دوري 
+ أبطال أوروبا | Tomorrow: Sabah FK vs Slavia Prague
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: صباح ×
+  سلافيا براغ | Kick-off in 30 min: Sabah FK vs Slavia Prague
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106422@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T164500Z
+DTEND:20261020T184500Z
+SUMMARY:Sabah FK vs Borussia Dortmund — UEFA Champions League
+LOCATION:Bank Respublika Arena\, Masazyr (Masazir)\, Azerbaijan
+GEO:40.486179;49.766298
+URL:https://www.fotmob.com/match/6106422
+DESCRIPTION:⚽ صباح × بوروسيا دورتموند\n🏆 دوري 
+ أبطال أوروبا — الجولة 3\n🗓 الثلاثاء 20 أك
+ توبر 2026 · 19:45 بتوقيت الرياض\n🏟 Bank Respublika Are
+ na، Masazyr (Masazir)\n—————\n⚽ Sabah FK v Borussia Dortmund\
+ n🏆 UEFA Champions League — Matchday 3\n🗓 Tue 20 Oct 2026 · 16:45 
+ UTC\n🏟 Bank Respublika Arena, Masazyr (Masazir)\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: صباح ضد بوروسيا دورتموند —
+  دوري أبطال أوروبا | Tomorrow: Sabah FK vs Borussia Dortmun
+ d
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: صباح ×
+  بوروسيا دورتموند | Kick-off in 30 min: Sabah FK vs Borussi
+ a Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106420@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+SUMMARY:Viking vs Sabah FK — UEFA Champions League
+LOCATION:Lyse Arena
+URL:https://www.fotmob.com/match/6106420
+DESCRIPTION:⚽ فيشينغ ستافانغير × صباح\n🏆 دوري 
+ أبطال أوروبا — الجولة 4\n🗓 الأربعاء 4 نوف
+ مبر 2026 · 23:00 بتوقيت الرياض\n🏟 Lyse Arena\n———
+ ——\n⚽ Viking v Sabah FK\n🏆 UEFA Champions League — Matchday 4\n
+ 🗓 Wed 04 Nov 2026 · 20:00 UTC\n🏟 Lyse Arena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيشينغ ستافانغير ضد صباح —
+  دوري أبطال أوروبا | Tomorrow: Viking vs Sabah FK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيشين
+ غ ستافانغير × صباح | Kick-off in 30 min: Viking vs Sabah FK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106421@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261125T174500Z
+DTEND:20261125T194500Z
+SUMMARY:Sabah FK vs Barcelona — UEFA Champions League
+LOCATION:Bank Respublika Arena\, Masazyr (Masazir)\, Azerbaijan
+GEO:40.486179;49.766298
+URL:https://www.fotmob.com/match/6106421
+DESCRIPTION:⚽ صباح × برشلونة\n🏆 دوري أبطال أور
+ وبا — الجولة 5\n🗓 الأربعاء 25 نوفمبر 2026 · 2
+ 0:45 بتوقيت الرياض\n🏟 Bank Respublika Arena، Masazyr (Masa
+ zir)\n—————\n⚽ Sabah FK v Barcelona\n🏆 UEFA Champions Leagu
+ e — Matchday 5\n🗓 Wed 25 Nov 2026 · 17:45 UTC\n🏟 Bank Respublika 
+ Arena, Masazyr (Masazir)\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: صباح ضد برشلونة — دوري أبط
+ ال أوروبا | Tomorrow: Sabah FK vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: صباح ×
+  برشلونة | Kick-off in 30 min: Sabah FK vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106329@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261208T174500Z
+DTEND:20261208T194500Z
+SUMMARY:Villarreal vs Sabah FK — UEFA Champions League
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/6106329
+DESCRIPTION:⚽ فياريال × صباح\n🏆 دوري أبطال أور
+ وبا — الجولة 6\n🗓 الثلاثاء 8 ديسمبر 2026 · 20
+ :45 بتوقيت الرياض\n🏟 Estadio de la Ceramica\n————
+ —\n⚽ Villarreal v Sabah FK\n🏆 UEFA Champions League — Matchday 6\
+ n🗓 Tue 08 Dec 2026 · 17:45 UTC\n🏟 Estadio de la Ceramica\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد صباح — دوري أبط
+ ال أوروبا | Tomorrow: Villarreal vs Sabah FK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × صباح | Kick-off in 30 min: Villarreal vs Sabah FK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106423@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T174500Z
+DTEND:20270120T194500Z
+SUMMARY:Sabah FK vs Napoli — UEFA Champions League
+LOCATION:Bank Respublika Arena\, Masazyr (Masazir)\, Azerbaijan
+GEO:40.486179;49.766298
+URL:https://www.fotmob.com/match/6106423
+DESCRIPTION:⚽ صباح × نابولي\n🏆 دوري أبطال أورو
+ با — الجولة 7\n🗓 الأربعاء 20 يناير 2027 · 20:45
+  بتوقيت الرياض\n🏟 Bank Respublika Arena، Masazyr (Masazir)
+ \n—————\n⚽ Sabah FK v Napoli\n🏆 UEFA Champions League — M
+ atchday 7\n🗓 Wed 20 Jan 2027 · 17:45 UTC\n🏟 Bank Respublika Arena, 
+ Masazyr (Masazir)\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: صباح ضد نابولي — دوري أبطا
+ ل أوروبا | Tomorrow: Sabah FK vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: صباح ×
+  نابولي | Kick-off in 30 min: Sabah FK vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106261@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Arsenal vs Sabah FK — UEFA Champions League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/6106261
+DESCRIPTION:⚽ أرسنال × صباح\n🏆 دوري أبطال أورو
+ با — الجولة 8\n🗓 الأربعاء 27 يناير 2027 · 23:00
+  بتوقيت الرياض\n🏟 Emirates Stadium\n—————\n⚽ Ar
+ senal v Sabah FK\n🏆 UEFA Champions League — Matchday 8\n🗓 Wed 27 J
+ an 2027 · 20:00 UTC\n🏟 Emirates Stadium\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد صباح — دوري أبطا
+ ل أوروبا | Tomorrow: Arsenal vs Sabah FK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × صباح | Kick-off in 30 min: Arsenal vs Sabah FK
+END:VALARM
+END:VEVENT
+END:VCALENDAR

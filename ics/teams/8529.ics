@@ -1,0 +1,1237 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Cagliari — Serie A & Coppa Italia Fixtures | كاليا
+ ري — مباريات الدوري الإيطالي وكأس إيطال
+ يا
+X-WR-CALDESC:Cagliari — all matches in Serie A & Coppa Italia\, exact UTC
+  kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-0
+ 9-05T19:31:10Z.  •  كالياري — جميع المباريات في 
+ الدوري الإيطالي وكأس إيطاليا بتوقيت UTC ا
+ لدقيق مع الملاعب والقنوات الناقلة. المصد
+ ر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5749646@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T184500Z
+DTEND:20260822T204500Z
+SUMMARY:Parma vs Cagliari (0 - 1) — Serie A
+LOCATION:Stadio Ennio Tardini\, Parma\, Italy
+GEO:44.794905;10.338387
+URL:https://www.fotmob.com/match/5749646
+DESCRIPTION:⚽ بارما × كالياري (0 - 1)\n🏆 الدوري ا
+ لإيطالي — الجولة 1\n🗓 السبت 22 أغسطس 2026 · 2
+ 1:45 بتوقيت الرياض\n🏟 Stadio Ennio Tardini، Parma\n⚖️ 
+ الحكم: Daniele Perenzoni\n👥 الحضور: 15,365\n—————\
+ n⚽ Parma v Cagliari (0 - 1)\n🏆 Serie A — Matchday 1\n🗓 Sat 22 Au
+ g 2026 · 18:45 UTC\n🏟 Stadio Ennio Tardini, Parma\nReferee: Daniele Pe
+ renzoni\nAttendance: 15,365\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد كالياري — الدوري 
+ الإيطالي | Tomorrow: Parma vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × كالياري | Kick-off in 30 min: Parma vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749652@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T184500Z
+DTEND:20260830T204500Z
+SUMMARY:Cagliari vs Inter (0 - 1) — Serie A
+LOCATION:Unipol Domus\, Cagliari\, Italy
+GEO:39.199802;9.137473
+URL:https://www.fotmob.com/match/5749652
+DESCRIPTION:⚽ كالياري × إنتر ميلان (0 - 1)\n🏆 الد
+ وري الإيطالي — الجولة 2\n🗓 الأحد 30 أغسطس 
+ 2026 · 21:45 بتوقيت الرياض\n🏟 Unipol Domus، Cagliari\n⚖
+ ️ الحكم: Michael Fabbri\n—————\n⚽ Cagliari v Inter (0 -
+  1)\n🏆 Serie A — Matchday 2\n🗓 Sun 30 Aug 2026 · 18:45 UTC\n🏟 
+ Unipol Domus, Cagliari\nReferee: Michael Fabbri\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد إنتر ميلان — ال
+ دوري الإيطالي | Tomorrow: Cagliari vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × إنتر ميلان | Kick-off in 30 min: Cagliari vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749662@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260907T163000Z
+DTEND:20260907T183000Z
+SUMMARY:Cagliari vs Lecce — Serie A
+LOCATION:Unipol Domus\, Cagliari\, Italy
+GEO:39.199802;9.137473
+URL:https://www.fotmob.com/match/5749662
+DESCRIPTION:⚽ كالياري × ليتشي\n🏆 الدوري الإيط
+ الي — الجولة 3\n🗓 الاثنين 7 سبتمبر 2026 · 19:3
+ 0 بتوقيت الرياض\n🏟 Unipol Domus، Cagliari\n📺 Starzplay\
+ n—————\n⚽ Cagliari v Lecce\n🏆 Serie A — Matchday 3\n🗓 
+ Mon 07 Sep 2026 · 16:30 UTC\n🏟 Unipol Domus, Cagliari\n📺 Starzplay\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد ليتشي — الدوري 
+ الإيطالي — 📺 Starzplay | Tomorrow: Cagliari vs Lecce | TV: St
+ arzplay
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × ليتشي — 📺 Starzplay | Kick-off in 30 min: Cagliari vs Le
+ cce | TV: Starzplay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749670@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T184500Z
+DTEND:20260912T204500Z
+SUMMARY:Atalanta vs Cagliari — Serie A
+LOCATION:New Balance Arena\, Bergamo\, Italy
+GEO:45.709236;9.680693
+URL:https://www.fotmob.com/match/5749670
+DESCRIPTION:⚽ أتالانتا × كالياري\n🏆 الدوري ال
+ إيطالي — الجولة 4\n🗓 السبت 12 سبتمبر 2026 · 2
+ 1:45 بتوقيت الرياض\n🏟 New Balance Arena، Bergamo\n📺 DAZ
+ N UK، Peacock (Español)\n—————\n⚽ Atalanta v Cagliari\n🏆 
+ Serie A — Matchday 4\n🗓 Sat 12 Sep 2026 · 18:45 UTC\n🏟 New Balanc
+ e Arena, Bergamo\n📺 DAZN UK, Peacock (Español)\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد كالياري — الدو
+ ري الإيطالي — 📺 DAZN UK، Peacock (Español) | Tomorrow: At
+ alanta vs Cagliari | TV: DAZN UK\, Peacock (Español)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × كالياري — 📺 DAZN UK، Peacock (Español) | Kick-off 
+ in 30 min: Atalanta vs Cagliari | TV: DAZN UK\, Peacock (Español)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749688@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T130000Z
+DTEND:20260919T150000Z
+SUMMARY:Udinese vs Cagliari — Serie A
+LOCATION:Bluenergy Stadium\, Udine\, Italy
+GEO:46.081644;13.200063
+URL:https://www.fotmob.com/match/5749688
+DESCRIPTION:⚽ أودينيزي × كالياري\n🏆 الدوري ال
+ إيطالي — الجولة 5\n🗓 السبت 19 سبتمبر 2026 · 1
+ 6:00 بتوقيت الرياض\n🏟 Bluenergy Stadium، Udine\n———
+ ——\n⚽ Udinese v Cagliari\n🏆 Serie A — Matchday 5\n🗓 Sat 19 S
+ ep 2026 · 13:00 UTC\n🏟 Bluenergy Stadium, Udine\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد كالياري — الدو
+ ري الإيطالي | Tomorrow: Udinese vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × كالياري | Kick-off in 30 min: Udinese vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749691@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T184500Z
+DTEND:20261011T204500Z
+SUMMARY:Cagliari vs Juventus — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749691
+DESCRIPTION:⚽ كالياري × يوفنتوس\n🏆 الدوري الإ
+ يطالي — الجولة 6\n🗓 الأحد 11 أكتوبر 2026 · 21:
+ 45 بتوقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cagl
+ iari v Juventus\n🏆 Serie A — Matchday 6\n🗓 Sun 11 Oct 2026 · 18:4
+ 5 UTC\n🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد يوفنتوس — الدور
+ ي الإيطالي | Tomorrow: Cagliari vs Juventus
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × يوفنتوس | Kick-off in 30 min: Cagliari vs Juventus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749706@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261019T163000Z
+DTEND:20261019T183000Z
+SUMMARY:Monza vs Cagliari — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749706
+DESCRIPTION:⚽ مونزا × كالياري\n🏆 الدوري الإيط
+ الي — الجولة 7\n🗓 الاثنين 19 أكتوبر 2026 · 19:
+ 30 بتوقيت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ M
+ onza v Cagliari\n🏆 Serie A — Matchday 7\n🗓 Mon 19 Oct 2026 · 16:3
+ 0 UTC\n🏟 Stadio Brianteo\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد كالياري — الدوري 
+ الإيطالي | Tomorrow: Monza vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × كالياري | Kick-off in 30 min: Monza vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749711@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T130000Z
+DTEND:20261024T150000Z
+SUMMARY:Cagliari vs Bologna — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749711
+DESCRIPTION:⚽ كالياري × بولونيا\n🏆 الدوري الإ
+ يطالي — الجولة 8\n🗓 السبت 24 أكتوبر 2026 · 16:
+ 00 بتوقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cagl
+ iari v Bologna\n🏆 Serie A — Matchday 8\n🗓 Sat 24 Oct 2026 · 13:00
+  UTC\n🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد بولونيا — الدور
+ ي الإيطالي | Tomorrow: Cagliari vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × بولونيا | Kick-off in 30 min: Cagliari vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749721@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261027T194500Z
+DTEND:20261027T214500Z
+SUMMARY:Roma vs Cagliari — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749721
+DESCRIPTION:⚽ روما × كالياري\n🏆 الدوري الإيطا
+ لي — الجولة 9\n🗓 الثلاثاء 27 أكتوبر 2026 · 22:
+ 45 بتوقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\
+ n⚽ Roma v Cagliari\n🏆 Serie A — Matchday 9\n🗓 Tue 27 Oct 2026 ·
+  19:45 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد كالياري — الدوري ا
+ لإيطالي | Tomorrow: Roma vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  كالياري | Kick-off in 30 min: Roma vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749736@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Lazio vs Cagliari — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749736
+DESCRIPTION:⚽ لاتسيو × كالياري\n🏆 الدوري الإي
+ طالي — الجولة 10\n🗓 الأحد 1 نوفمبر 2026 · 17:00
+  بتوقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n
+ ⚽ Lazio v Cagliari\n🏆 Serie A — Matchday 10\n🗓 Sun 01 Nov 2026 
+ · 14:00 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد كالياري — الدوري
+  الإيطالي | Tomorrow: Lazio vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × كالياري | Kick-off in 30 min: Lazio vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749741@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T140000Z
+DTEND:20261107T160000Z
+SUMMARY:Cagliari vs Frosinone — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749741
+DESCRIPTION:⚽ كالياري × فروزينوني\n🏆 الدوري ا
+ لإيطالي — الجولة 11\n🗓 السبت 7 نوفمبر 2026 ·
+  17:00 بتوقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ 
+ Cagliari v Frosinone\n🏆 Serie A — Matchday 11\n🗓 Sat 07 Nov 2026 
+ · 14:00 UTC\n🏟 Unipol Domus\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد فروزينوني — الد
+ وري الإيطالي | Tomorrow: Cagliari vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × فروزينوني | Kick-off in 30 min: Cagliari vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749753@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T140000Z
+DTEND:20261121T160000Z
+SUMMARY:Como vs Cagliari — Serie A
+LOCATION:Stadio G. Sinigaglia
+URL:https://www.fotmob.com/match/5749753
+DESCRIPTION:⚽ كومو × كالياري\n🏆 الدوري الإيطا
+ لي — الجولة 12\n🗓 السبت 21 نوفمبر 2026 · 17:00 ب
+ توقيت الرياض\n🏟 Stadio G. Sinigaglia\n—————\n⚽ C
+ omo v Cagliari\n🏆 Serie A — Matchday 12\n🗓 Sat 21 Nov 2026 · 14:0
+ 0 UTC\n🏟 Stadio G. Sinigaglia\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كومو ضد كالياري — الدوري ا
+ لإيطالي | Tomorrow: Como vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كومو ×
+  كالياري | Kick-off in 30 min: Como vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749761@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T173000Z
+DTEND:20261129T193000Z
+SUMMARY:Cagliari vs Milan — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749761
+DESCRIPTION:⚽ كالياري × ميلان\n🏆 الدوري الإيط
+ الي — الجولة 13\n🗓 الأحد 29 نوفمبر 2026 · 20:30 
+ بتوقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cagliar
+ i v Milan\n🏆 Serie A — Matchday 13\n🗓 Sun 29 Nov 2026 · 17:30 UTC
+ \n🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد ميلان — الدوري 
+ الإيطالي | Tomorrow: Cagliari vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × ميلان | Kick-off in 30 min: Cagliari vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749772@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T173000Z
+DTEND:20261206T193000Z
+SUMMARY:Fiorentina vs Cagliari — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749772
+DESCRIPTION:⚽ فيورنتينا × كالياري\n🏆 الدوري ا
+ لإيطالي — الجولة 14\n🗓 الأحد 6 ديسمبر 2026 ·
+  20:30 بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n———
+ ——\n⚽ Fiorentina v Cagliari\n🏆 Serie A — Matchday 14\n🗓 Sun 
+ 06 Dec 2026 · 17:30 UTC\n🏟 Artemio Franchi, Firenze\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد كالياري — الد
+ وري الإيطالي | Tomorrow: Fiorentina vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × كالياري | Kick-off in 30 min: Fiorentina vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749781@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T173000Z
+DTEND:20261213T193000Z
+SUMMARY:Cagliari vs Venezia — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749781
+DESCRIPTION:⚽ كالياري × فينيزيا\n🏆 الدوري الإ
+ يطالي — الجولة 15\n🗓 الأحد 13 ديسمبر 2026 · 20
+ :30 بتوقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cag
+ liari v Venezia\n🏆 Serie A — Matchday 15\n🗓 Sun 13 Dec 2026 · 17:
+ 30 UTC\n🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد فينيزيا — الدور
+ ي الإيطالي | Tomorrow: Cagliari vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × فينيزيا | Kick-off in 30 min: Cagliari vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749798@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T173000Z
+DTEND:20261220T193000Z
+SUMMARY:Torino vs Cagliari — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749798
+DESCRIPTION:⚽ تورينو × كالياري\n🏆 الدوري الإي
+ طالي — الجولة 16\n🗓 الأحد 20 ديسمبر 2026 · 20:3
+ 0 بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n———
+ ——\n⚽ Torino v Cagliari\n🏆 Serie A — Matchday 16\n🗓 Sun 20 D
+ ec 2026 · 17:30 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد كالياري — الدوري
+  الإيطالي | Tomorrow: Torino vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × كالياري | Kick-off in 30 min: Torino vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749802@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T173000Z
+DTEND:20270103T193000Z
+SUMMARY:Cagliari vs Genoa — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749802
+DESCRIPTION:⚽ كالياري × جنوى\n🏆 الدوري الإيطا
+ لي — الجولة 17\n🗓 الأحد 3 يناير 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cagliari v 
+ Genoa\n🏆 Serie A — Matchday 17\n🗓 Sun 03 Jan 2027 · 17:30 UTC\n
+ 🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد جنوى — الدوري ا
+ لإيطالي | Tomorrow: Cagliari vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × جنوى | Kick-off in 30 min: Cagliari vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749817@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T173000Z
+DTEND:20270106T193000Z
+SUMMARY:Napoli vs Cagliari — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749817
+DESCRIPTION:⚽ نابولي × كالياري\n🏆 الدوري الإي
+ طالي — الجولة 18\n🗓 الأربعاء 6 يناير 2027 · 2
+ 0:30 بتوقيت الرياض\n🏟 Diego Armando Maradona\n————
+ —\n⚽ Napoli v Cagliari\n🏆 Serie A — Matchday 18\n🗓 Wed 06 Jan 
+ 2027 · 17:30 UTC\n🏟 Diego Armando Maradona\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد كالياري — الدوري
+  الإيطالي | Tomorrow: Napoli vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × كالياري | Kick-off in 30 min: Napoli vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749822@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T173000Z
+DTEND:20270110T193000Z
+SUMMARY:Cagliari vs Sassuolo — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749822
+DESCRIPTION:⚽ كالياري × ساسولو\n🏆 الدوري الإي
+ طالي — الجولة 19\n🗓 الأحد 10 يناير 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cagliar
+ i v Sassuolo\n🏆 Serie A — Matchday 19\n🗓 Sun 10 Jan 2027 · 17:30 
+ UTC\n🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد ساسولو — الدوري
+  الإيطالي | Tomorrow: Cagliari vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × ساسولو | Kick-off in 30 min: Cagliari vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749832@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T173000Z
+DTEND:20270117T193000Z
+SUMMARY:Cagliari vs Como — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749832
+DESCRIPTION:⚽ كالياري × كومو\n🏆 الدوري الإيطا
+ لي — الجولة 20\n🗓 الأحد 17 يناير 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cagliari v 
+ Como\n🏆 Serie A — Matchday 20\n🗓 Sun 17 Jan 2027 · 17:30 UTC\n
+ 🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد كومو — الدوري ا
+ لإيطالي | Tomorrow: Cagliari vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × كومو | Kick-off in 30 min: Cagliari vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749847@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T173000Z
+DTEND:20270124T193000Z
+SUMMARY:Juventus vs Cagliari — Serie A
+LOCATION:Allianz Stadium
+URL:https://www.fotmob.com/match/5749847
+DESCRIPTION:⚽ يوفنتوس × كالياري\n🏆 الدوري الإ
+ يطالي — الجولة 21\n🗓 الأحد 24 يناير 2027 · 20:3
+ 0 بتوقيت الرياض\n🏟 Allianz Stadium\n—————\n⚽ Ju
+ ventus v Cagliari\n🏆 Serie A — Matchday 21\n🗓 Sun 24 Jan 2027 · 1
+ 7:30 UTC\n🏟 Allianz Stadium\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد كالياري — الدور
+ ي الإيطالي | Tomorrow: Juventus vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × كالياري | Kick-off in 30 min: Juventus vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749852@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T173000Z
+DTEND:20270131T193000Z
+SUMMARY:Cagliari vs Parma — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749852
+DESCRIPTION:⚽ كالياري × بارما\n🏆 الدوري الإيط
+ الي — الجولة 22\n🗓 الأحد 31 يناير 2027 · 20:30 ب
+ توقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cagliari 
+ v Parma\n🏆 Serie A — Matchday 22\n🗓 Sun 31 Jan 2027 · 17:30 UTC\n
+ 🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد بارما — الدوري 
+ الإيطالي | Tomorrow: Cagliari vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × بارما | Kick-off in 30 min: Cagliari vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749865@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T173000Z
+DTEND:20270207T193000Z
+SUMMARY:Inter vs Cagliari — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749865
+DESCRIPTION:⚽ إنتر ميلان × كالياري\n🏆 الدوري ا
+ لإيطالي — الجولة 23\n🗓 الأحد 7 فبراير 2027 ·
+  20:30 بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\n
+ ⚽ Inter v Cagliari\n🏆 Serie A — Matchday 23\n🗓 Sun 07 Feb 2027 
+ · 17:30 UTC\n🏟 Giuseppe Meazza\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد كالياري — ال
+ دوري الإيطالي | Tomorrow: Inter vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × كالياري | Kick-off in 30 min: Inter vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749872@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T173000Z
+DTEND:20270214T193000Z
+SUMMARY:Cagliari vs Lazio — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749872
+DESCRIPTION:⚽ كالياري × لاتسيو\n🏆 الدوري الإي
+ طالي — الجولة 24\n🗓 الأحد 14 فبراير 2027 · 20:3
+ 0 بتوقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cagli
+ ari v Lazio\n🏆 Serie A — Matchday 24\n🗓 Sun 14 Feb 2027 · 17:30 U
+ TC\n🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد لاتسيو — الدوري
+  الإيطالي | Tomorrow: Cagliari vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × لاتسيو | Kick-off in 30 min: Cagliari vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749889@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T173000Z
+DTEND:20270221T193000Z
+SUMMARY:Venezia vs Cagliari — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749889
+DESCRIPTION:⚽ فينيزيا × كالياري\n🏆 الدوري الإ
+ يطالي — الجولة 25\n🗓 الأحد 21 فبراير 2027 · 20
+ :30 بتوقيت الرياض\n🏟 Stadio Pierluigi Penzo\n————
+ —\n⚽ Venezia v Cagliari\n🏆 Serie A — Matchday 25\n🗓 Sun 21 Feb
+  2027 · 17:30 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد كالياري — الدور
+ ي الإيطالي | Tomorrow: Venezia vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × كالياري | Kick-off in 30 min: Venezia vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749892@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T173000Z
+DTEND:20270228T193000Z
+SUMMARY:Cagliari vs Udinese — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749892
+DESCRIPTION:⚽ كالياري × أودينيزي\n🏆 الدوري ال
+ إيطالي — الجولة 26\n🗓 الأحد 28 فبراير 2027 · 
+ 20:30 بتوقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ C
+ agliari v Udinese\n🏆 Serie A — Matchday 26\n🗓 Sun 28 Feb 2027 · 1
+ 7:30 UTC\n🏟 Unipol Domus\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد أودينيزي — الدو
+ ري الإيطالي | Tomorrow: Cagliari vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × أودينيزي | Kick-off in 30 min: Cagliari vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749900@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T173000Z
+DTEND:20270307T193000Z
+SUMMARY:Milan vs Cagliari — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749900
+DESCRIPTION:⚽ ميلان × كالياري\n🏆 الدوري الإيط
+ الي — الجولة 27\n🗓 الأحد 7 مارس 2027 · 20:30 بت
+ وقيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v Cagliar
+ i\n🏆 Serie A — Matchday 27\n🗓 Sun 07 Mar 2027 · 17:30 UTC\n🏟 S
+ an Siro\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد كالياري — الدوري 
+ الإيطالي | Tomorrow: Milan vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × كالياري | Kick-off in 30 min: Milan vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749912@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T173000Z
+DTEND:20270314T193000Z
+SUMMARY:Cagliari vs Fiorentina — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749912
+DESCRIPTION:⚽ كالياري × فيورنتينا\n🏆 الدوري ا
+ لإيطالي — الجولة 28\n🗓 الأحد 14 مارس 2027 · 20
+ :30 بتوقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cag
+ liari v Fiorentina\n🏆 Serie A — Matchday 28\n🗓 Sun 14 Mar 2027 · 
+ 17:30 UTC\n🏟 Unipol Domus\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد فيورنتينا — الد
+ وري الإيطالي | Tomorrow: Cagliari vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × فيورنتينا | Kick-off in 30 min: Cagliari vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749928@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T173000Z
+DTEND:20270321T193000Z
+SUMMARY:Sassuolo vs Cagliari — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749928
+DESCRIPTION:⚽ ساسولو × كالياري\n🏆 الدوري الإي
+ طالي — الجولة 29\n🗓 الأحد 21 مارس 2027 · 20:30 ب
+ توقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n——
+ ———\n⚽ Sassuolo v Cagliari\n🏆 Serie A — Matchday 29\n🗓 Sun
+  21 Mar 2027 · 17:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد كالياري — الدوري
+  الإيطالي | Tomorrow: Sassuolo vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × كالياري | Kick-off in 30 min: Sassuolo vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749932@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T163000Z
+DTEND:20270404T183000Z
+SUMMARY:Cagliari vs Napoli — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749932
+DESCRIPTION:⚽ كالياري × نابولي\n🏆 الدوري الإي
+ طالي — الجولة 30\n🗓 الأحد 4 أبريل 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cagliar
+ i v Napoli\n🏆 Serie A — Matchday 30\n🗓 Sun 04 Apr 2027 · 16:30 UT
+ C\n🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد نابولي — الدوري
+  الإيطالي | Tomorrow: Cagliari vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × نابولي | Kick-off in 30 min: Cagliari vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749941@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T163000Z
+DTEND:20270411T183000Z
+SUMMARY:Cagliari vs Atalanta — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749941
+DESCRIPTION:⚽ كالياري × أتالانتا\n🏆 الدوري ال
+ إيطالي — الجولة 31\n🗓 الأحد 11 أبريل 2027 · 19
+ :30 بتوقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cag
+ liari v Atalanta\n🏆 Serie A — Matchday 31\n🗓 Sun 11 Apr 2027 · 16
+ :30 UTC\n🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد أتالانتا — الدو
+ ري الإيطالي | Tomorrow: Cagliari vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × أتالانتا | Kick-off in 30 min: Cagliari vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749953@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T163000Z
+DTEND:20270418T183000Z
+SUMMARY:Bologna vs Cagliari — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749953
+DESCRIPTION:⚽ بولونيا × كالياري\n🏆 الدوري الإ
+ يطالي — الجولة 32\n🗓 الأحد 18 أبريل 2027 · 19:3
+ 0 بتوقيت الرياض\n🏟 Stadio Renato Dell'Ara\n—————\
+ n⚽ Bologna v Cagliari\n🏆 Serie A — Matchday 32\n🗓 Sun 18 Apr 202
+ 7 · 16:30 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد كالياري — الدور
+ ي الإيطالي | Tomorrow: Bologna vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × كالياري | Kick-off in 30 min: Bologna vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749960@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270425T163000Z
+DTEND:20270425T183000Z
+SUMMARY:Cagliari vs Monza — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749960
+DESCRIPTION:⚽ كالياري × مونزا\n🏆 الدوري الإيط
+ الي — الجولة 33\n🗓 الأحد 25 أبريل 2027 · 19:30 ب
+ توقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cagliari 
+ v Monza\n🏆 Serie A — Matchday 33\n🗓 Sun 25 Apr 2027 · 16:30 UTC\n
+ 🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد مونزا — الدوري 
+ الإيطالي | Tomorrow: Cagliari vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × مونزا | Kick-off in 30 min: Cagliari vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749975@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T163000Z
+DTEND:20270502T183000Z
+SUMMARY:Lecce vs Cagliari — Serie A
+LOCATION:Stadio Ettore Giardiniero - Via del Mare
+URL:https://www.fotmob.com/match/5749975
+DESCRIPTION:⚽ ليتشي × كالياري\n🏆 الدوري الإيط
+ الي — الجولة 34\n🗓 الأحد 2 مايو 2027 · 19:30 بت
+ وقيت الرياض\n🏟 Stadio Ettore Giardiniero - Via del Mare\n—
+ ————\n⚽ Lecce v Cagliari\n🏆 Serie A — Matchday 34\n🗓 Sun
+  02 May 2027 · 16:30 UTC\n🏟 Stadio Ettore Giardiniero - Via del Mare\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليتشي ضد كالياري — الدوري 
+ الإيطالي | Tomorrow: Lecce vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليتشي 
+ × كالياري | Kick-off in 30 min: Lecce vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749982@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T163000Z
+DTEND:20270509T183000Z
+SUMMARY:Genoa vs Cagliari — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749982
+DESCRIPTION:⚽ جنوى × كالياري\n🏆 الدوري الإيطا
+ لي — الجولة 35\n🗓 الأحد 9 مايو 2027 · 19:30 بتو
+ قيت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n⚽ Geno
+ a v Cagliari\n🏆 Serie A — Matchday 35\n🗓 Sun 09 May 2027 · 16:30 
+ UTC\n🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد كالياري — الدوري ا
+ لإيطالي | Tomorrow: Genoa vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  كالياري | Kick-off in 30 min: Genoa vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749992@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T163000Z
+DTEND:20270516T183000Z
+SUMMARY:Cagliari vs Torino — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749992
+DESCRIPTION:⚽ كالياري × تورينو\n🏆 الدوري الإي
+ طالي — الجولة 36\n🗓 الأحد 16 مايو 2027 · 19:30 ب
+ توقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cagliari 
+ v Torino\n🏆 Serie A — Matchday 36\n🗓 Sun 16 May 2027 · 16:30 UTC\
+ n🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد تورينو — الدوري
+  الإيطالي | Tomorrow: Cagliari vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × تورينو | Kick-off in 30 min: Cagliari vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750003@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T163000Z
+DTEND:20270523T183000Z
+SUMMARY:Frosinone vs Cagliari — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5750003
+DESCRIPTION:⚽ فروزينوني × كالياري\n🏆 الدوري ا
+ لإيطالي — الجولة 37\n🗓 الأحد 23 مايو 2027 · 19
+ :30 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n—————\
+ n⚽ Frosinone v Cagliari\n🏆 Serie A — Matchday 37\n🗓 Sun 23 May 2
+ 027 · 16:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد كالياري — الد
+ وري الإيطالي | Tomorrow: Frosinone vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × كالياري | Kick-off in 30 min: Frosinone vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750012@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T163000Z
+DTEND:20270530T183000Z
+SUMMARY:Cagliari vs Roma — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5750012
+DESCRIPTION:⚽ كالياري × روما\n🏆 الدوري الإيطا
+ لي — الجولة 38\n🗓 الأحد 30 مايو 2027 · 19:30 بتو
+ قيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cagliari v Ro
+ ma\n🏆 Serie A — Matchday 38\n🗓 Sun 30 May 2027 · 16:30 UTC\n🏟 
+ Unipol Domus\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد روما — الدوري ا
+ لإيطالي | Tomorrow: Cagliari vs Roma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × روما | Kick-off in 30 min: Cagliari vs Roma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852772@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260814T163000Z
+DTEND:20260814T183000Z
+SUMMARY:Cagliari vs Arezzo (1 - 0) — Coppa Italia
+LOCATION:Unipol Domus\, Cagliari\, Italy
+GEO:39.199802;9.137473
+URL:https://www.fotmob.com/match/5852772
+DESCRIPTION:⚽ كالياري × أريززو (1 - 0)\n🏆 كأس إيط
+ اليا — دور الـ32\n🗓 الجمعة 14 أغسطس 2026 · 19:3
+ 0 بتوقيت الرياض\n🏟 Unipol Domus، Cagliari\n⚖️ الحك
+ م: Andrea Calzavara\n👥 الحضور: 8,730\n—————\n⚽ Cagli
+ ari v Arezzo (1 - 0)\n🏆 Coppa Italia — Round of 32\n🗓 Fri 14 Aug 2
+ 026 · 16:30 UTC\n🏟 Unipol Domus, Cagliari\nReferee: Andrea Calzavara\n
+ Attendance: 8,730\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد أريززو — كأس إي
+ طاليا | Tomorrow: Cagliari vs Arezzo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × أريززو | Kick-off in 30 min: Cagliari vs Arezzo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003656@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260903T190000Z
+DTEND:20260903T210000Z
+SUMMARY:Cagliari vs Hellas Verona (1 - 2) — Coppa Italia
+LOCATION:Unipol Domus\, Cagliari\, Italy
+GEO:39.199802;9.137473
+URL:https://www.fotmob.com/match/6003656
+DESCRIPTION:⚽ كالياري × هيلاس فيرونا (1 - 2)\n🏆 ك
+ أس إيطاليا — دور الـ32\n🗓 الخميس 3 سبتمبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 Unipol Domus، Cagliari\n⚖
+ ️ الحكم: Andrea Zanotti\n—————\n⚽ Cagliari v Hellas Ver
+ ona (1 - 2)\n🏆 Coppa Italia — Round of 32\n🗓 Thu 03 Sep 2026 · 19
+ :00 UTC\n🏟 Unipol Domus, Cagliari\nReferee: Andrea Zanotti\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد هيلاس فيرونا — 
+ كأس إيطاليا | Tomorrow: Cagliari vs Hellas Verona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × هيلاس فيرونا | Kick-off in 30 min: Cagliari vs Hellas V
+ erona
+END:VALARM
+END:VEVENT
+END:VCALENDAR

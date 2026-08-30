@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Cartagena — Copa del Rey Fixtures | كارتاخينا 
+ — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Cartagena — all matches in Copa del Rey\, exact UTC kickoffs
+ \, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:3
+ 1:10Z.  •  كارتاخينا — جميع المباريات في كأ
+ س ملك إسبانيا بتوقيت UTC الدقيق مع الملاعب
+  والقنوات الناقلة. المصدر: FotMob + 365scores · تح
+ ديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4996030@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251029T193000Z
+DTEND:20251029T213000Z
+SUMMARY:Puente Genil vs Cartagena (0 - 1) — Copa del Rey
+LOCATION:Estadio Municipal Manuel Polinario\, Puente Genil\, Spain
+GEO:37.397764;-4.768449
+URL:https://www.fotmob.com/match/4996030
+DESCRIPTION:⚽ بوينتي جينيل × كارتاخينا (0 - 1)\n🏆
+  كأس ملك إسبانيا — الدور الأول\n🗓 الأربع
+ اء 29 أكتوبر 2025 · 22:30 بتوقيت الرياض\n🏟 Estadio
+  Municipal Manuel Polinario، Puente Genil\n⚖️ الحكم: Manuel Garc
+ ía Gómez\n—————\n⚽ Puente Genil v Cartagena (0 - 1)\n🏆 Co
+ pa del Rey — Round 1\n🗓 Wed 29 Oct 2025 · 19:30 UTC\n🏟 Estadio Mu
+ nicipal Manuel Polinario, Puente Genil\nReferee: Manuel García Gómez\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوينتي جينيل ضد كارتاخينا 
+ — كأس ملك إسبانيا | Tomorrow: Puente Genil vs Cartagena
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوينت
+ ي جينيل × كارتاخينا | Kick-off in 30 min: Puente Genil vs 
+ Cartagena
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057220@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251204T200000Z
+DTEND:20251204T220000Z
+SUMMARY:Cartagena vs Valencia (1 - 2) — Copa del Rey
+LOCATION:Estadio Municipal Cartagonova\, Cartagena\, Spain
+GEO:37.609697;-0.996060
+URL:https://www.fotmob.com/match/5057220
+DESCRIPTION:⚽ كارتاخينا × فالنسيا (1 - 2)\n🏆 كأس 
+ ملك إسبانيا — الدور الثاني\n🗓 الخميس 4 د
+ يسمبر 2025 · 23:00 بتوقيت الرياض\n🏟 Estadio Municipal
+  Cartagonova، Cartagena\n⚖️ الحكم: Isidro Díaz de Mera Escudero
+ s\n👥 الحضور: 6,606\n—————\n⚽ Cartagena v Valencia (1 
+ - 2)\n🏆 Copa del Rey — Round 2\n🗓 Thu 04 Dec 2025 · 20:00 UTC\n
+ 🏟 Estadio Municipal Cartagonova, Cartagena\nReferee: Isidro Díaz de Me
+ ra Escuderos\nAttendance: 6,606\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كارتاخينا ضد فالنسيا — كأس
+  ملك إسبانيا | Tomorrow: Cartagena vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كارتا
+ خينا × فالنسيا | Kick-off in 30 min: Cartagena vs Valencia
+END:VALARM
+END:VEVENT
+END:VCALENDAR

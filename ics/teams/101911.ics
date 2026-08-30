@@ -1,0 +1,1168 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al Hazem — Saudi Pro League & King's Cup Fixtures | ال
+ حزم — مباريات دوري روشن السعودي وكأس خاد
+ م الحرمين الشريفين
+X-WR-CALDESC:Al Hazem — all matches in Saudi Pro League & King's Cup\, ex
+ act UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated
+  2026-09-05T19:31:10Z.  •  الحزم — جميع المباريات ف
+ ي دوري روشن السعودي وكأس خادم الحرمين ال
+ شريفين بتوقيت UTC الدقيق مع الملاعب والقن
+ وات الناقلة. المصدر: FotMob + 365scores · تحديث تل
+ قائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5969046@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260813T161500Z
+DTEND:20260813T181500Z
+SUMMARY:Abha vs Al Hazem (1 - 2) — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/5969046
+DESCRIPTION:⚽ أبها × الحزم (1 - 2)\n🏆 دوري روشن ال
+ سعودي — الجولة 1\n🗓 الخميس 13 أغسطس 2026 · 19:
+ 15 بتوقيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sports City
+  Stadium، Abha\n⚖️ الحكم: Shukri Al Hanfosh\n👥 الحضور: 
+ 3,448\n—————\n⚽ Abha v Al Hazem (1 - 2)\n🏆 Saudi Pro League
+  — Matchday 1\n🗓 Thu 13 Aug 2026 · 16:15 UTC\n🏟 Prince Sultan bin
+  Abdulaziz Sports City Stadium, Abha\nReferee: Shukri Al Hanfosh\nAttendan
+ ce: 3,448\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الحزم — دوري روشن ا
+ لسعودي | Tomorrow: Abha vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الحزم | Kick-off in 30 min: Abha vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970092@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260821T161500Z
+DTEND:20260821T181500Z
+SUMMARY:Al Hazem vs Al Diriyah (0 - 1) — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/5970092
+DESCRIPTION:⚽ الحزم × الدرعية (0 - 1)\n🏆 دوري روش
+ ن السعودي — الجولة 2\n🗓 الجمعة 21 أغسطس 2026
+  · 19:15 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club St
+ adium)، Ar Rass\n⚖️ الحكم: Abdullah Dhafer Al Shehri\n👥 ال
+ حضور: 1,536\n—————\n⚽ Al Hazem v Al Diriyah (0 - 1)\n🏆 
+ Saudi Pro League — Matchday 2\n🗓 Fri 21 Aug 2026 · 16:15 UTC\n🏟 A
+ r-Rass Stadium (Al Hazm Club Stadium), Ar Rass\nReferee: Abdullah Dhafer A
+ l Shehri\nAttendance: 1,536\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد الدرعية — دوري رو
+ شن السعودي | Tomorrow: Al Hazem vs Al Diriyah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × الدرعية | Kick-off in 30 min: Al Hazem vs Al Diriyah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970100@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260824T180000Z
+DTEND:20260824T200000Z
+SUMMARY:Al Ittihad vs Al Hazem (3 - 2) — Saudi Pro League
+LOCATION:Prince Abdullah Al Faisal Sports City Stadium\, Jeddah\, Saudi Ara
+ bia
+GEO:21.446598;39.251704
+URL:https://www.fotmob.com/match/5970100
+DESCRIPTION:⚽ الاتحاد × الحزم (3 - 2)\n🏆 دوري روش
+ ن السعودي — الجولة 3\n🗓 الاثنين 24 أغسطس 20
+ 26 · 21:00 بتوقيت الرياض\n🏟 Prince Abdullah Al Faisal Spor
+ ts City Stadium، Jeddah\n⚖️ الحكم: Abdullah Al-Harbi\n👥 ال
+ حضور: 8,987\n—————\n⚽ Al Ittihad v Al Hazem (3 - 2)\n🏆 
+ Saudi Pro League — Matchday 3\n🗓 Mon 24 Aug 2026 · 18:00 UTC\n🏟 P
+ rince Abdullah Al Faisal Sports City Stadium, Jeddah\nReferee: Abdullah Al
+ -Harbi\nAttendance: 8,987\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الحزم — دوري رو
+ شن السعودي | Tomorrow: Al Ittihad vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الحزم | Kick-off in 30 min: Al Ittihad vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970114@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T160500Z
+DTEND:20260830T180500Z
+SUMMARY:Al Hazem vs Al Shabab (1 - 1) — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/5970114
+DESCRIPTION:⚽ الحزم × الشباب (1 - 1)\n🏆 دوري روشن 
+ السعودي — الجولة 4\n🗓 الأحد 30 أغسطس 2026 · 1
+ 9:05 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium
+ )، Ar Rass\n⚖️ الحكم: Abdullah Al-Khurbush\n—————\n⚽
+  Al Hazem v Al Shabab (1 - 1)\n🏆 Saudi Pro League — Matchday 4\n🗓 
+ Sun 30 Aug 2026 · 16:05 UTC\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium),
+  Ar Rass\nReferee: Abdullah Al-Khurbush\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد الشباب — دوري روش
+ ن السعودي | Tomorrow: Al Hazem vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × الشباب | Kick-off in 30 min: Al Hazem vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970123@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T155000Z
+DTEND:20260905T175000Z
+SUMMARY:Al-Faisaly vs Al Hazem (0 - 0) — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/5970123
+DESCRIPTION:⚽ الفيصلي × الحزم (0 - 0)\n🏆 دوري روش
+ ن السعودي — الجولة 5\n🗓 السبت 5 سبتمبر 2026 
+ · 18:50 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium،
+  Al Majma'ah\n📺 تطبيق ثمانية، ثمانية 3\n⚖️ الح
+ كم: Abdullah Yahya Yahya Zarban\n—————\n⚽ Al-Faisaly v Al Ha
+ zem (0 - 0)\n🏆 Saudi Pro League — Matchday 5\n🗓 Sat 05 Sep 2026 ·
+  15:50 UTC\n🏟 Al Majma'ah Sports City Stadium, Al Majma'ah\n📺 Thmany
+ ah, Thmanyah 3\nReferee: Abdullah Yahya Yahya Zarban\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد الحزم — دوري رو
+ شن السعودي — 📺 تطبيق ثمانية، ثمانية 3 | To
+ morrow: Al-Faisaly vs Al Hazem | TV: Thmanyah\, Thmanyah 3
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × الحزم — 📺 تطبيق ثمانية، ثمانية 3 | Kic
+ k-off in 30 min: Al-Faisaly vs Al Hazem | TV: Thmanyah\, Thmanyah 3
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970129@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T155500Z
+DTEND:20260908T175500Z
+SUMMARY:Al Hazem vs Al-Taawoun — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/5970129
+DESCRIPTION:⚽ الحزم × التعاون\n🏆 دوري روشن الس
+ عودي — الجولة 6\n🗓 الثلاثاء 8 سبتمبر 2026 · 
+ 18:55 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadiu
+ m)، Ar Rass\n—————\n⚽ Al Hazem v Al-Taawoun\n🏆 Saudi Pro L
+ eague — Matchday 6\n🗓 Tue 08 Sep 2026 · 15:55 UTC\n🏟 Ar-Rass Stad
+ ium (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد التعاون — دوري رو
+ شن السعودي | Tomorrow: Al Hazem vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × التعاون | Kick-off in 30 min: Al Hazem vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970135@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260911T180000Z
+DTEND:20260911T200000Z
+SUMMARY:Al Ahli vs Al Hazem — Saudi Pro League
+LOCATION:King Abdullah Sports City
+URL:https://www.fotmob.com/match/5970135
+DESCRIPTION:⚽ الأهلي × الحزم\n🏆 دوري روشن السع
+ ودي — الجولة 7\n🗓 الجمعة 11 سبتمبر 2026 · 21:00
+  بتوقيت الرياض\n🏟 King Abdullah Sports City\n📺 FOX Depor
+ tes، FOX Sports online، FOX One\n—————\n⚽ Al Ahli v Al Hazem
+ \n🏆 Saudi Pro League — Matchday 7\n🗓 Fri 11 Sep 2026 · 18:00 UTC\
+ n🏟 King Abdullah Sports City\n📺 FOX Deportes, FOX Sports online, FOX
+  One\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الحزم — دوري روش
+ ن السعودي — 📺 FOX Deportes، FOX Sports online، FOX One | To
+ morrow: Al Ahli vs Al Hazem | TV: FOX Deportes\, FOX Sports online\, FOX O
+ ne
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الحزم — 📺 FOX Deportes، FOX Sports online، FOX One | Kic
+ k-off in 30 min: Al Ahli vs Al Hazem | TV: FOX Deportes\, FOX Sports onlin
+ e\, FOX One
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970148@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T135000Z
+DTEND:20261010T155000Z
+SUMMARY:Al Hazem vs Neom SC — Saudi Pro League
+LOCATION:Al Hazem Club Stadium
+URL:https://www.fotmob.com/match/5970148
+DESCRIPTION:⚽ الحزم × نيوم\n🏆 دوري روشن السعود
+ ي — الجولة 8\n🗓 السبت 10 أكتوبر 2026 · 16:50 بت
+ وقيت الرياض\n🏟 Al Hazem Club Stadium\n—————\n⚽ Al
+  Hazem v Neom SC\n🏆 Saudi Pro League — Matchday 8\n🗓 Sat 10 Oct 20
+ 26 · 13:50 UTC\n🏟 Al Hazem Club Stadium\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد نيوم — دوري روشن ا
+ لسعودي | Tomorrow: Al Hazem vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × نيوم | Kick-off in 30 min: Al Hazem vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970156@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T151500Z
+DTEND:20261015T171500Z
+SUMMARY:Al Hazem vs Al Fateh FC — Saudi Pro League
+LOCATION:Al Hazem Club Stadium
+URL:https://www.fotmob.com/match/5970156
+DESCRIPTION:⚽ الحزم × الفتح\n🏆 دوري روشن السعو
+ دي — الجولة 9\n🗓 الخميس 15 أكتوبر 2026 · 18:15 
+ بتوقيت الرياض\n🏟 Al Hazem Club Stadium\n—————\n
+ ⚽ Al Hazem v Al Fateh FC\n🏆 Saudi Pro League — Matchday 9\n🗓 Thu
+  15 Oct 2026 · 15:15 UTC\n🏟 Al Hazem Club Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد الفتح — دوري روشن 
+ السعودي | Tomorrow: Al Hazem vs Al Fateh FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × الفتح | Kick-off in 30 min: Al Hazem vs Al Fateh FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970167@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261019T180000Z
+DTEND:20261019T200000Z
+SUMMARY:Al Hilal vs Al Hazem — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium
+URL:https://www.fotmob.com/match/5970167
+DESCRIPTION:⚽ الهلال × الحزم\n🏆 دوري روشن السع
+ ودي — الجولة 10\n🗓 الاثنين 19 أكتوبر 2026 · 21
+ :00 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium\n——
+ ———\n⚽ Al Hilal v Al Hazem\n🏆 Saudi Pro League — Matchday 10\
+ n🗓 Mon 19 Oct 2026 · 18:00 UTC\n🏟 Prince Faisal bin Fahd Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الحزم — دوري روش
+ ن السعودي | Tomorrow: Al Hilal vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الحزم | Kick-off in 30 min: Al Hilal vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970174@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T134000Z
+DTEND:20261022T154000Z
+SUMMARY:Al Hazem vs Al-Fayha — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/5970174
+DESCRIPTION:⚽ الحزم × الفيحاء\n🏆 دوري روشن الس
+ عودي — الجولة 11\n🗓 الخميس 22 أكتوبر 2026 · 16
+ :40 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)
+ ، Ar Rass\n—————\n⚽ Al Hazem v Al-Fayha\n🏆 Saudi Pro Leagu
+ e — Matchday 11\n🗓 Thu 22 Oct 2026 · 13:40 UTC\n🏟 Ar-Rass Stadium
+  (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد الفيحاء — دوري رو
+ شن السعودي | Tomorrow: Al Hazem vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × الفيحاء | Kick-off in 30 min: Al Hazem vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970191@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261029T143500Z
+DTEND:20261029T163500Z
+SUMMARY:Al Khaleej vs Al Hazem — Saudi Pro League
+LOCATION:Prince Mohamed bin Fahd Stadium
+URL:https://www.fotmob.com/match/5970191
+DESCRIPTION:⚽ الخليج × الحزم\n🏆 دوري روشن السع
+ ودي — الجولة 12\n🗓 الخميس 29 أكتوبر 2026 · 17:3
+ 5 بتوقيت الرياض\n🏟 Prince Mohamed bin Fahd Stadium\n——
+ ———\n⚽ Al Khaleej v Al Hazem\n🏆 Saudi Pro League — Matchday 1
+ 2\n🗓 Thu 29 Oct 2026 · 14:35 UTC\n🏟 Prince Mohamed bin Fahd Stadium
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد الحزم — دوري روش
+ ن السعودي | Tomorrow: Al Khaleej vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × الحزم | Kick-off in 30 min: Al Khaleej vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021472@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:Al Hazem vs Al Nassr FC — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021472
+DESCRIPTION:⚽ الحزم × النصر\n🏆 دوري روشن السعو
+ دي — الجولة 13\n🗓 الخميس 5 نوفمبر 2026 · 03:00 
+ بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، A
+ r Rass\n—————\n⚽ Al Hazem v Al Nassr FC\n🏆 Saudi Pro League
+  — Matchday 13\n🗓 Thu 05 Nov 2026 · 00:00 UTC\n🏟 Ar-Rass Stadium 
+ (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد النصر — دوري روشن 
+ السعودي | Tomorrow: Al Hazem vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × النصر | Kick-off in 30 min: Al Hazem vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021482@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Al Riyadh vs Al Hazem — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/1000021482
+DESCRIPTION:⚽ الرياض × الحزم\n🏆 دوري روشن السع
+ ودي — الجولة 14\n🗓 الجمعة 20 نوفمبر 2026 · 03:0
+ 0 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، Riyadh\
+ n—————\n⚽ Al Riyadh v Al Hazem\n🏆 Saudi Pro League — Matc
+ hday 14\n🗓 Fri 20 Nov 2026 · 00:00 UTC\n🏟 Prince Faisal bin Fahd St
+ adium, Riyadh\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الحزم — دوري روش
+ ن السعودي | Tomorrow: Al Riyadh vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الحزم | Kick-off in 30 min: Al Riyadh vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021487@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Al-Ettifaq vs Al Hazem — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/1000021487
+DESCRIPTION:⚽ الاتفاق × الحزم\n🏆 دوري روشن الس
+ عودي — الجولة 15\n🗓 الخميس 26 نوفمبر 2026 · 03
+ :00 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Dammam\n—
+ ————\n⚽ Al-Ettifaq v Al Hazem\n🏆 Saudi Pro League — Matchda
+ y 15\n🗓 Thu 26 Nov 2026 · 00:00 UTC\n🏟 Al Ettifaq Club Stadium, Dam
+ mam\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد الحزم — دوري رو
+ شن السعودي | Tomorrow: Al-Ettifaq vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × الحزم | Kick-off in 30 min: Al-Ettifaq vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021498@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Al Hazem vs Al Qadsiah — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021498
+DESCRIPTION:⚽ الحزم × القادسية\n🏆 دوري روشن ال
+ سعودي — الجولة 16\n🗓 الخميس 3 ديسمبر 2026 · 0
+ 3:00 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium
+ )، Ar Rass\n—————\n⚽ Al Hazem v Al Qadsiah\n🏆 Saudi Pro Le
+ ague — Matchday 16\n🗓 Thu 03 Dec 2026 · 00:00 UTC\n🏟 Ar-Rass Stad
+ ium (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد القادسية — دوري ر
+ وشن السعودي | Tomorrow: Al Hazem vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × القادسية | Kick-off in 30 min: Al Hazem vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021507@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Al Kholood vs Al Hazem — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021507
+DESCRIPTION:⚽ الخلود × الحزم\n🏆 دوري روشن السع
+ ودي — الجولة 17\n🗓 الخميس 10 ديسمبر 2026 · 03:0
+ 0 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)،
+  Ar Rass\n—————\n⚽ Al Kholood v Al Hazem\n🏆 Saudi Pro Leagu
+ e — Matchday 17\n🗓 Thu 10 Dec 2026 · 00:00 UTC\n🏟 Ar-Rass Stadium
+  (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد الحزم — دوري روش
+ ن السعودي | Tomorrow: Al Kholood vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × الحزم | Kick-off in 30 min: Al Kholood vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021516@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261214T000000Z
+DTEND:20261214T020000Z
+SUMMARY:Al Hazem vs Abha — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021516
+DESCRIPTION:⚽ الحزم × أبها\n🏆 دوري روشن السعود
+ ي — الجولة 18\n🗓 الاثنين 14 ديسمبر 2026 · 03:00 
+ بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، A
+ r Rass\n—————\n⚽ Al Hazem v Abha\n🏆 Saudi Pro League — Ma
+ tchday 18\n🗓 Mon 14 Dec 2026 · 00:00 UTC\n🏟 Ar-Rass Stadium (Al Haz
+ m Club Stadium), Ar Rass\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد أبها — دوري روشن ا
+ لسعودي | Tomorrow: Al Hazem vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × أبها | Kick-off in 30 min: Al Hazem vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021529@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270211T000000Z
+DTEND:20270211T020000Z
+SUMMARY:Al Diriyah vs Al Hazem — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021529
+DESCRIPTION:⚽ الدرعية × الحزم\n🏆 دوري روشن الس
+ عودي — الجولة 19\n🗓 الخميس 11 فبراير 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n————
+ —\n⚽ Al Diriyah v Al Hazem\n🏆 Saudi Pro League — Matchday 19\n
+ 🗓 Thu 11 Feb 2027 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الدرعية ضد الحزم — دوري رو
+ شن السعودي | Tomorrow: Al Diriyah vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الدرع
+ ية × الحزم | Kick-off in 30 min: Al Diriyah vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021534@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270218T000000Z
+DTEND:20270218T020000Z
+SUMMARY:Al Hazem vs Al Ittihad — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021534
+DESCRIPTION:⚽ الحزم × الاتحاد\n🏆 دوري روشن الس
+ عودي — الجولة 20\n🗓 الخميس 18 فبراير 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)
+ ، Ar Rass\n—————\n⚽ Al Hazem v Al Ittihad\n🏆 Saudi Pro Lea
+ gue — Matchday 20\n🗓 Thu 18 Feb 2027 · 00:00 UTC\n🏟 Ar-Rass Stadi
+ um (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد الاتحاد — دوري رو
+ شن السعودي | Tomorrow: Al Hazem vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × الاتحاد | Kick-off in 30 min: Al Hazem vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021545@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270225T000000Z
+DTEND:20270225T020000Z
+SUMMARY:Al Shabab vs Al Hazem — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/1000021545
+DESCRIPTION:⚽ الشباب × الحزم\n🏆 دوري روشن السع
+ ودي — الجولة 21\n🗓 الخميس 25 فبراير 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 SHG Arena، Riyadh\n—————\n⚽
+  Al Shabab v Al Hazem\n🏆 Saudi Pro League — Matchday 21\n🗓 Thu 25 
+ Feb 2027 · 00:00 UTC\n🏟 SHG Arena, Riyadh\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد الحزم — دوري روش
+ ن السعودي | Tomorrow: Al Shabab vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × الحزم | Kick-off in 30 min: Al Shabab vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021551@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270311T000000Z
+DTEND:20270311T020000Z
+SUMMARY:Al Hazem vs Al-Faisaly — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021551
+DESCRIPTION:⚽ الحزم × الفيصلي\n🏆 دوري روشن الس
+ عودي — الجولة 22\n🗓 الخميس 11 مارس 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، A
+ r Rass\n—————\n⚽ Al Hazem v Al-Faisaly\n🏆 Saudi Pro League 
+ — Matchday 22\n🗓 Thu 11 Mar 2027 · 00:00 UTC\n🏟 Ar-Rass Stadium (
+ Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد الفيصلي — دوري رو
+ شن السعودي | Tomorrow: Al Hazem vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × الفيصلي | Kick-off in 30 min: Al Hazem vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021564@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270318T000000Z
+DTEND:20270318T020000Z
+SUMMARY:Al-Taawoun vs Al Hazem — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/1000021564
+DESCRIPTION:⚽ التعاون × الحزم\n🏆 دوري روشن الس
+ عودي — الجولة 23\n🗓 الخميس 18 مارس 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Al Taawoun Club Stadium، Buraydah\n——
+ ———\n⚽ Al-Taawoun v Al Hazem\n🏆 Saudi Pro League — Matchday 2
+ 3\n🗓 Thu 18 Mar 2027 · 00:00 UTC\n🏟 Al Taawoun Club Stadium, Burayd
+ ah\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الحزم — دوري رو
+ شن السعودي | Tomorrow: Al-Taawoun vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الحزم | Kick-off in 30 min: Al-Taawoun vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021571@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270402T000000Z
+DTEND:20270402T020000Z
+SUMMARY:Al Hazem vs Al Ahli — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021571
+DESCRIPTION:⚽ الحزم × الأهلي\n🏆 دوري روشن السع
+ ودي — الجولة 24\n🗓 الجمعة 2 أبريل 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، A
+ r Rass\n—————\n⚽ Al Hazem v Al Ahli\n🏆 Saudi Pro League —
+  Matchday 24\n🗓 Fri 02 Apr 2027 · 00:00 UTC\n🏟 Ar-Rass Stadium (Al 
+ Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد الأهلي — دوري روش
+ ن السعودي | Tomorrow: Al Hazem vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × الأهلي | Kick-off in 30 min: Al Hazem vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021584@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270408T000000Z
+DTEND:20270408T020000Z
+SUMMARY:Neom SC vs Al Hazem — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/1000021584
+DESCRIPTION:⚽ نيوم × الحزم\n🏆 دوري روشن السعود
+ ي — الجولة 25\n🗓 الخميس 8 أبريل 2027 · 03:00 بت
+ وقيت الرياض\n🏟 King Khalid Sport City Stadium، Tabuk\n——
+ ———\n⚽ Neom SC v Al Hazem\n🏆 Saudi Pro League — Matchday 25\n
+ 🗓 Thu 08 Apr 2027 · 00:00 UTC\n🏟 King Khalid Sport City Stadium, Ta
+ buk\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الحزم — دوري روشن ا
+ لسعودي | Tomorrow: Neom SC vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الحزم | Kick-off in 30 min: Neom SC vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021587@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270415T000000Z
+DTEND:20270415T020000Z
+SUMMARY:Al Fateh FC vs Al Hazem — Saudi Pro League
+LOCATION:Maydan Tamweel Aloula\, Al Ahsa\, Saudi Arabia
+GEO:25.429604;49.581390
+URL:https://www.fotmob.com/match/1000021587
+DESCRIPTION:⚽ الفتح × الحزم\n🏆 دوري روشن السعو
+ دي — الجولة 26\n🗓 الخميس 15 أبريل 2027 · 03:00 ب
+ توقيت الرياض\n🏟 Maydan Tamweel Aloula، Al Ahsa\n———
+ ——\n⚽ Al Fateh FC v Al Hazem\n🏆 Saudi Pro League — Matchday 26\
+ n🗓 Thu 15 Apr 2027 · 00:00 UTC\n🏟 Maydan Tamweel Aloula, Al Ahsa\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفتح ضد الحزم — دوري روشن 
+ السعودي | Tomorrow: Al Fateh FC vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفتح 
+ × الحزم | Kick-off in 30 min: Al Fateh FC vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021595@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T000000Z
+DTEND:20270418T020000Z
+SUMMARY:Al Hazem vs Al Hilal — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021595
+DESCRIPTION:⚽ الحزم × الهلال\n🏆 دوري روشن السع
+ ودي — الجولة 27\n🗓 الأحد 18 أبريل 2027 · 03:00 ب
+ توقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، Ar 
+ Rass\n—————\n⚽ Al Hazem v Al Hilal\n🏆 Saudi Pro League — 
+ Matchday 27\n🗓 Sun 18 Apr 2027 · 00:00 UTC\n🏟 Ar-Rass Stadium (Al H
+ azm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد الهلال — دوري روش
+ ن السعودي | Tomorrow: Al Hazem vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × الهلال | Kick-off in 30 min: Al Hazem vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021605@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270422T000000Z
+DTEND:20270422T020000Z
+SUMMARY:Al-Fayha vs Al Hazem — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021605
+DESCRIPTION:⚽ الفيحاء × الحزم\n🏆 دوري روشن الس
+ عودي — الجولة 28\n🗓 الخميس 22 أبريل 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al Maj
+ ma'ah\n—————\n⚽ Al-Fayha v Al Hazem\n🏆 Saudi Pro League —
+  Matchday 28\n🗓 Thu 22 Apr 2027 · 00:00 UTC\n🏟 Al Majma'ah Sports C
+ ity Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد الحزم — دوري رو
+ شن السعودي | Tomorrow: Al-Fayha vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × الحزم | Kick-off in 30 min: Al-Fayha vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021615@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270429T000000Z
+DTEND:20270429T020000Z
+SUMMARY:Al Hazem vs Al Khaleej — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021615
+DESCRIPTION:⚽ الحزم × الخليج\n🏆 دوري روشن السع
+ ودي — الجولة 29\n🗓 الخميس 29 أبريل 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، A
+ r Rass\n—————\n⚽ Al Hazem v Al Khaleej\n🏆 Saudi Pro League 
+ — Matchday 29\n🗓 Thu 29 Apr 2027 · 00:00 UTC\n🏟 Ar-Rass Stadium (
+ Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد الخليج — دوري روش
+ ن السعودي | Tomorrow: Al Hazem vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × الخليج | Kick-off in 30 min: Al Hazem vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021624@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270506T000000Z
+DTEND:20270506T020000Z
+SUMMARY:Al Nassr FC vs Al Hazem — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021624
+DESCRIPTION:⚽ النصر × الحزم\n🏆 دوري روشن السعو
+ دي — الجولة 30\n🗓 الخميس 6 مايو 2027 · 03:00 بت
+ وقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n—————\n⚽ A
+ l Nassr FC v Al Hazem\n🏆 Saudi Pro League — Matchday 30\n🗓 Thu 06 
+ May 2027 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الحزم — دوري روشن 
+ السعودي | Tomorrow: Al Nassr FC vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الحزم | Kick-off in 30 min: Al Nassr FC vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021633@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270512T000000Z
+DTEND:20270512T020000Z
+SUMMARY:Al Hazem vs Al Riyadh — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021633
+DESCRIPTION:⚽ الحزم × الرياض\n🏆 دوري روشن السع
+ ودي — الجولة 31\n🗓 الأربعاء 12 مايو 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)،
+  Ar Rass\n—————\n⚽ Al Hazem v Al Riyadh\n🏆 Saudi Pro League
+  — Matchday 31\n🗓 Wed 12 May 2027 · 00:00 UTC\n🏟 Ar-Rass Stadium 
+ (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد الرياض — دوري روش
+ ن السعودي | Tomorrow: Al Hazem vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × الرياض | Kick-off in 30 min: Al Hazem vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021642@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270520T000000Z
+DTEND:20270520T020000Z
+SUMMARY:Al Hazem vs Al-Ettifaq — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021642
+DESCRIPTION:⚽ الحزم × الاتفاق\n🏆 دوري روشن الس
+ عودي — الجولة 32\n🗓 الخميس 20 مايو 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، A
+ r Rass\n—————\n⚽ Al Hazem v Al-Ettifaq\n🏆 Saudi Pro League 
+ — Matchday 32\n🗓 Thu 20 May 2027 · 00:00 UTC\n🏟 Ar-Rass Stadium (
+ Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد الاتفاق — دوري رو
+ شن السعودي | Tomorrow: Al Hazem vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × الاتفاق | Kick-off in 30 min: Al Hazem vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021654@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270524T000000Z
+DTEND:20270524T020000Z
+SUMMARY:Al Qadsiah vs Al Hazem — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021654
+DESCRIPTION:⚽ القادسية × الحزم\n🏆 دوري روشن ال
+ سعودي — الجولة 33\n🗓 الاثنين 24 مايو 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Dam
+ mam\n—————\n⚽ Al Qadsiah v Al Hazem\n🏆 Saudi Pro League —
+  Matchday 33\n🗓 Mon 24 May 2027 · 00:00 UTC\n🏟 Prince Mohammed Bin 
+ Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الحزم — دوري ر
+ وشن السعودي | Tomorrow: Al Qadsiah vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الحزم | Kick-off in 30 min: Al Qadsiah vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021660@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270528T000000Z
+DTEND:20270528T020000Z
+SUMMARY:Al Hazem vs Al Kholood — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021660
+DESCRIPTION:⚽ الحزم × الخلود\n🏆 دوري روشن السع
+ ودي — الجولة 34\n🗓 الجمعة 28 مايو 2027 · 03:00 ب
+ توقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، Ar 
+ Rass\n—————\n⚽ Al Hazem v Al Kholood\n🏆 Saudi Pro League 
+ — Matchday 34\n🗓 Fri 28 May 2027 · 00:00 UTC\n🏟 Ar-Rass Stadium (
+ Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد الخلود — دوري روش
+ ن السعودي | Tomorrow: Al Hazem vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × الخلود | Kick-off in 30 min: Al Hazem vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853716@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260816T161500Z
+DTEND:20260816T181500Z
+SUMMARY:Al Bukayriyah vs Al Hazem (2 - 3) — King's Cup
+LOCATION:Al-Bukiryah Club Stadium\, Al Bukayriyah\, Saudi Arabia
+GEO:26.166426;43.654250
+URL:https://www.fotmob.com/match/5853716
+DESCRIPTION:⚽ البكيرية × الحزم (2 - 3)\n🏆 كأس خاد
+ م الحرمين الشريفين — دور الـ32\n🗓 الأحد 16
+  أغسطس 2026 · 19:15 بتوقيت الرياض\n🏟 Al-Bukiryah Club
+  Stadium، Al Bukayriyah\n—————\n⚽ Al Bukayriyah v Al Hazem (2
+  - 3)\n🏆 King's Cup — Round of 32\n🗓 Sun 16 Aug 2026 · 16:15 UTC\
+ n🏟 Al-Bukiryah Club Stadium, Al Bukayriyah\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: البكيرية ضد الحزم — كأس خا
+ دم الحرمين الشريفين | Tomorrow: Al Bukayriyah vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: البكي
+ رية × الحزم | Kick-off in 30 min: Al Bukayriyah vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6125927@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Al Hilal vs Al Hazem — King's Cup
+URL:https://www.fotmob.com/match/6125927
+DESCRIPTION:⚽ الهلال × الحزم\n🏆 كأس خادم الحرم
+ ين الشريفين — دور الـ16\n🗓 الثلاثاء 1 ديس
+ مبر 2026 · 20:00 بتوقيت الرياض\n—————\n⚽ Al Hi
+ lal v Al Hazem\n🏆 King's Cup — Round of 16\n🗓 Tue 01 Dec 2026 · 1
+ 7:00 UTC\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الحزم — كأس خادم 
+ الحرمين الشريفين | Tomorrow: Al Hilal vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الحزم | Kick-off in 30 min: Al Hilal vs Al Hazem
+END:VALARM
+END:VEVENT
+END:VCALENDAR

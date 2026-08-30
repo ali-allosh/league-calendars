@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Carrarese — Coppa Italia Fixtures | كارراريسي 
+ — مباريات كأس إيطاليا
+X-WR-CALDESC:Carrarese — all matches in Coppa Italia\, exact UTC kickoffs
+ \, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:3
+ 1:10Z.  •  كارراريسي — جميع المباريات في كأ
+ س إيطاليا بتوقيت UTC الدقيق مع الملاعب وال
+ قنوات الناقلة. المصدر: FotMob + 365scores · تحديث 
+ تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5852778@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260815T191500Z
+DTEND:20260815T211500Z
+SUMMARY:Torino vs Carrarese (1 - 0) — Coppa Italia
+LOCATION:Stadio Olimpico Grande Torino\, Torino\, Italy
+GEO:45.041752;7.650016
+URL:https://www.fotmob.com/match/5852778
+DESCRIPTION:⚽ تورينو × كارراريسي (1 - 0)\n🏆 كأس إ
+ يطاليا — دور الـ32\n🗓 السبت 15 أغسطس 2026 · 22
+ :15 بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino، Torino
+ \n⚖️ الحكم: Paride Tremolada\n👥 الحضور: 4,000\n———
+ ——\n⚽ Torino v Carrarese (1 - 0)\n🏆 Coppa Italia — Round of 32\
+ n🗓 Sat 15 Aug 2026 · 19:15 UTC\n🏟 Stadio Olimpico Grande Torino, To
+ rino\nReferee: Paride Tremolada\nAttendance: 4,000\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد كارراريسي — كأس 
+ إيطاليا | Tomorrow: Torino vs Carrarese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × كارراريسي | Kick-off in 30 min: Torino vs Carrarese
+END:VALARM
+END:VEVENT
+END:VCALENDAR

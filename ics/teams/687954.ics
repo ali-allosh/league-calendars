@@ -1,0 +1,656 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ National Bank — Egyptian Premier League Fixtures | ال
+ بنك الاهلي — مباريات الدوري المصري المم
+ تاز
+X-WR-CALDESC:National Bank — all matches in Egyptian Premier League\, exa
+ ct UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 
+ 2026-09-05T19:31:10Z.  •  البنك الاهلي — جميع المب
+ اريات في الدوري المصري الممتاز بتوقيت UTC 
+ الدقيق مع الملاعب والقنوات الناقلة. المص
+ در: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5995571@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260821T170000Z
+DTEND:20260821T190000Z
+SUMMARY:Abo Qir Semad vs National Bank (1 - 0) — Egyptian Premier League
+LOCATION:Alexandria Stadium\, Al-Iskandarîah (Alexandria)\, Egypt
+GEO:31.197114;29.913127
+URL:https://www.fotmob.com/match/5995571
+DESCRIPTION:⚽ ابو قير للاسمدة × البنك الاهلي (1 
+ - 0)\n🏆 الدوري المصري الممتاز — الجولة 1\n
+ 🗓 الجمعة 21 أغسطس 2026 · 20:00 بتوقيت الرياض\n
+ 🏟 Alexandria Stadium، Al-Iskandarîah (Alexandria)\n⚖️ الحكم:
+  Mohamed Abassa Kabeel\n—————\n⚽ Abo Qir Semad v National Bank
+  (1 - 0)\n🏆 Egyptian Premier League — Matchday 1\n🗓 Fri 21 Aug 202
+ 6 · 17:00 UTC\n🏟 Alexandria Stadium, Al-Iskandarîah (Alexandria)\nRef
+ eree: Mohamed Abassa Kabeel\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ابو قير للاسمدة ضد البنك ال
+ اهلي — الدوري المصري الممتاز | Tomorrow: Abo Qir 
+ Semad vs National Bank
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ابو قي
+ ر للاسمدة × البنك الاهلي | Kick-off in 30 min: Abo Qir
+  Semad vs National Bank
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996693@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260826T170000Z
+DTEND:20260826T190000Z
+SUMMARY:National Bank vs Zamalek SC (0 - 3) — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996693
+DESCRIPTION:⚽ البنك الاهلي × الزمالك (0 - 3)\n🏆 ا
+ لدوري المصري الممتاز — الجولة 2\n🗓 الأرب
+ عاء 26 أغسطس 2026 · 20:00 بتوقيت الرياض\n🏟 Cairo I
+ nternational Stadium، al-Qāhirah (Cairo)\n⚖️ الحكم: Mohamed El 
+ Ghazi\n—————\n⚽ National Bank v Zamalek SC (0 - 3)\n🏆 Egypt
+ ian Premier League — Matchday 2\n🗓 Wed 26 Aug 2026 · 17:00 UTC\n🏟
+  Cairo International Stadium, al-Qāhirah (Cairo)\nReferee: Mohamed El Gha
+ zi\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: البنك الاهلي ضد الزمالك — 
+ الدوري المصري الممتاز | Tomorrow: National Bank vs Zama
+ lek SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: البنك 
+ الاهلي × الزمالك | Kick-off in 30 min: National Bank vs Zama
+ lek SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996702@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260831T140000Z
+DTEND:20260831T160000Z
+SUMMARY:Asyut Petroleum vs National Bank (0 - 1) — Egyptian Premier Leagu
+ e
+LOCATION:Borg El Arab Stadium\, Al-Iskandarîah (Alexandria)\, Egypt
+GEO:30.999499;29.729433
+URL:https://www.fotmob.com/match/5996702
+DESCRIPTION:⚽ أسيوط بتروليوم × البنك الاهلي (0 -
+  1)\n🏆 الدوري المصري الممتاز — الجولة 3\n
+ 🗓 الاثنين 31 أغسطس 2026 · 17:00 بتوقيت الرياض\
+ n🏟 Borg El Arab Stadium، Al-Iskandarîah (Alexandria)\n⚖️ الحك
+ م: Sobhy El Amrawi\n—————\n⚽ Asyut Petroleum v National Bank 
+ (0 - 1)\n🏆 Egyptian Premier League — Matchday 3\n🗓 Mon 31 Aug 2026
+  · 14:00 UTC\n🏟 Borg El Arab Stadium, Al-Iskandarîah (Alexandria)\nRe
+ feree: Sobhy El Amrawi\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أسيوط بتروليوم ضد البنك ال
+ اهلي — الدوري المصري الممتاز | Tomorrow: Asyut Pe
+ troleum vs National Bank
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أسيوط 
+ بتروليوم × البنك الاهلي | Kick-off in 30 min: Asyut Pe
+ troleum vs National Bank
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996714@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260907T170000Z
+DTEND:20260907T190000Z
+SUMMARY:National Bank vs Ghazl Al Mahalla — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996714
+DESCRIPTION:⚽ البنك الاهلي × غزل المحلة\n🏆 الد
+ وري المصري الممتاز — الجولة 4\n🗓 الاثنين
+  7 سبتمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Cairo Intern
+ ational Stadium، al-Qāhirah (Cairo)\n—————\n⚽ National Bank 
+ v Ghazl Al Mahalla\n🏆 Egyptian Premier League — Matchday 4\n🗓 Mon 
+ 07 Sep 2026 · 17:00 UTC\n🏟 Cairo International Stadium, al-Qāhirah (C
+ airo)\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: البنك الاهلي ضد غزل المحلة 
+ — الدوري المصري الممتاز | Tomorrow: National Bank vs 
+ Ghazl Al Mahalla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: البنك 
+ الاهلي × غزل المحلة | Kick-off in 30 min: National Bank vs
+  Ghazl Al Mahalla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996723@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260914T170000Z
+DTEND:20260914T190000Z
+SUMMARY:Ceramica Cleopatra vs National Bank — Egyptian Premier League
+LOCATION:Suez Canal Stadium\, Ismailia\, Egypt
+GEO:30.592679;32.292551
+URL:https://www.fotmob.com/match/5996723
+DESCRIPTION:⚽ سيراميكا كليوباترا × البنك الاه
+ لي\n🏆 الدوري المصري الممتاز — الجولة 5\n
+ 🗓 الاثنين 14 سبتمبر 2026 · 20:00 بتوقيت الريا
+ ض\n🏟 Suez Canal Stadium، Ismailia\n—————\n⚽ Ceramica Cleo
+ patra v National Bank\n🏆 Egyptian Premier League — Matchday 5\n🗓 M
+ on 14 Sep 2026 · 17:00 UTC\n🏟 Suez Canal Stadium, Ismailia\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيراميكا كليوباترا ضد البن
+ ك الاهلي — الدوري المصري الممتاز | Tomorrow: C
+ eramica Cleopatra vs National Bank
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيرام
+ يكا كليوباترا × البنك الاهلي | Kick-off in 30 min:
+  Ceramica Cleopatra vs National Bank
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996739@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261013T140000Z
+DTEND:20261013T160000Z
+SUMMARY:National Bank vs Tala'ea El Gaish — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996739
+DESCRIPTION:⚽ البنك الاهلي × طلائع الجيش\n🏆 ال
+ دوري المصري الممتاز — الجولة 6\n🗓 الثلاث
+ اء 13 أكتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 Cairo I
+ nternational Stadium، al-Qāhirah (Cairo)\n—————\n⚽ National 
+ Bank v Tala'ea El Gaish\n🏆 Egyptian Premier League — Matchday 6\n🗓
+  Tue 13 Oct 2026 · 14:00 UTC\n🏟 Cairo International Stadium, al-Qāhir
+ ah (Cairo)\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: البنك الاهلي ضد طلائع الجي
+ ش — الدوري المصري الممتاز | Tomorrow: National Bank 
+ vs Tala'ea El Gaish
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: البنك 
+ الاهلي × طلائع الجيش | Kick-off in 30 min: National Bank 
+ vs Tala'ea El Gaish
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996746@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261020T140000Z
+DTEND:20261020T160000Z
+SUMMARY:Wadi Degla FC vs National Bank — Egyptian Premier League
+LOCATION:Al Salam Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.174408;31.435096
+URL:https://www.fotmob.com/match/5996746
+DESCRIPTION:⚽ وادي دجلة × البنك الاهلي\n🏆 الدو
+ ري المصري الممتاز — الجولة 7\n🗓 الثلاثاء
+  20 أكتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 Al Salam St
+ adium، al-Qāhirah (Cairo)\n—————\n⚽ Wadi Degla FC v National
+  Bank\n🏆 Egyptian Premier League — Matchday 7\n🗓 Tue 20 Oct 2026 
+ · 14:00 UTC\n🏟 Al Salam Stadium, al-Qāhirah (Cairo)\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وادي دجلة ضد البنك الاهلي 
+ — الدوري المصري الممتاز | Tomorrow: Wadi Degla FC vs 
+ National Bank
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وادي د
+ جلة × البنك الاهلي | Kick-off in 30 min: Wadi Degla FC vs N
+ ational Bank
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996752@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261028T140000Z
+DTEND:20261028T160000Z
+SUMMARY:National Bank vs Al Masry SC — Egyptian Premier League
+LOCATION:New Suez Stadium\, as-Suways (Suez)\, Egypt
+GEO:29.957607;32.542577
+URL:https://www.fotmob.com/match/5996752
+DESCRIPTION:⚽ البنك الاهلي × المصري\n🏆 الدوري 
+ المصري الممتاز — الجولة 8\n🗓 الأربعاء 28 
+ أكتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 New Suez Stadiu
+ m، as-Suways (Suez)\n—————\n⚽ National Bank v Al Masry SC\n
+ 🏆 Egyptian Premier League — Matchday 8\n🗓 Wed 28 Oct 2026 · 14:00
+  UTC\n🏟 New Suez Stadium, as-Suways (Suez)\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: البنك الاهلي ضد المصري — ا
+ لدوري المصري الممتاز | Tomorrow: National Bank vs Al Mas
+ ry SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: البنك 
+ الاهلي × المصري | Kick-off in 30 min: National Bank vs Al Mas
+ ry SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996764@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261124T150000Z
+DTEND:20261124T170000Z
+SUMMARY:Smouha SC vs National Bank — Egyptian Premier League
+LOCATION:Borg El Arab Stadium
+URL:https://www.fotmob.com/match/5996764
+DESCRIPTION:⚽ سموحة × البنك الاهلي\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 9\n🗓 الثلاثاء 24 ن
+ وفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Borg El Arab Stad
+ ium\n—————\n⚽ Smouha SC v National Bank\n🏆 Egyptian Premier
+  League — Matchday 9\n🗓 Tue 24 Nov 2026 · 15:00 UTC\n🏟 Borg El Ar
+ ab Stadium\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سموحة ضد البنك الاهلي — ال
+ دوري المصري الممتاز | Tomorrow: Smouha SC vs National Ban
+ k
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سموحة 
+ × البنك الاهلي | Kick-off in 30 min: Smouha SC vs National Ban
+ k
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996773@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261208T150000Z
+DTEND:20261208T170000Z
+SUMMARY:National Bank vs El Gouna FC — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996773
+DESCRIPTION:⚽ البنك الاهلي × الجونة\n🏆 الدوري 
+ المصري الممتاز — الجولة 10\n🗓 الثلاثاء 8 
+ ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Suez Canal Auth
+ ority Stadium\n—————\n⚽ National Bank v El Gouna FC\n🏆 Egyp
+ tian Premier League — Matchday 10\n🗓 Tue 08 Dec 2026 · 15:00 UTC\n
+ 🏟 Suez Canal Authority Stadium\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: البنك الاهلي ضد الجونة — ا
+ لدوري المصري الممتاز | Tomorrow: National Bank vs El Gou
+ na FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: البنك 
+ الاهلي × الجونة | Kick-off in 30 min: National Bank vs El Gou
+ na FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996783@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261214T180000Z
+DTEND:20261214T200000Z
+SUMMARY:Pyramids FC vs National Bank — Egyptian Premier League
+LOCATION:30 June Stadium
+URL:https://www.fotmob.com/match/5996783
+DESCRIPTION:⚽ بيراميدز × البنك الاهلي\n🏆 الدو
+ ري المصري الممتاز — الجولة 11\n🗓 الاثنين 
+ 14 ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 30 June Stad
+ ium\n—————\n⚽ Pyramids FC v National Bank\n🏆 Egyptian Premi
+ er League — Matchday 11\n🗓 Mon 14 Dec 2026 · 18:00 UTC\n🏟 30 June
+  Stadium\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيراميدز ضد البنك الاهلي —
+  الدوري المصري الممتاز | Tomorrow: Pyramids FC vs Natio
+ nal Bank
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيرام
+ يدز × البنك الاهلي | Kick-off in 30 min: Pyramids FC vs Nat
+ ional Bank
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996795@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261222T180000Z
+DTEND:20261222T200000Z
+SUMMARY:National Bank vs Olympic El Qanah FC — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996795
+DESCRIPTION:⚽ البنك الاهلي × القناة\n🏆 الدوري 
+ المصري الممتاز — الجولة 12\n🗓 الثلاثاء 22 
+ ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Suez Canal Auth
+ ority Stadium\n—————\n⚽ National Bank v Olympic El Qanah FC\n
+ 🏆 Egyptian Premier League — Matchday 12\n🗓 Tue 22 Dec 2026 · 18:0
+ 0 UTC\n🏟 Suez Canal Authority Stadium\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: البنك الاهلي ضد القناة — ا
+ لدوري المصري الممتاز | Tomorrow: National Bank vs Olympi
+ c El Qanah FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: البنك 
+ الاهلي × القناة | Kick-off in 30 min: National Bank vs Olympi
+ c El Qanah FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996803@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261227T180000Z
+DTEND:20261227T200000Z
+SUMMARY:Al Sharkeyah-ENPPI vs National Bank — Egyptian Premier League
+LOCATION:Petrosport Stadium
+URL:https://www.fotmob.com/match/5996803
+DESCRIPTION:⚽ Al Sharkeyah-ENPPI × البنك الاهلي\n🏆 الد
+ وري المصري الممتاز — الجولة 13\n🗓 الأحد 27
+  ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Petrosport Sta
+ dium\n—————\n⚽ Al Sharkeyah-ENPPI v National Bank\n🏆 Egypti
+ an Premier League — Matchday 13\n🗓 Sun 27 Dec 2026 · 18:00 UTC\n🏟
+  Petrosport Stadium\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Al Sharkeyah-ENPPI ضد البنك الاهلي 
+ — الدوري المصري الممتاز | Tomorrow: Al Sharkeyah-ENPP
+ I vs National Bank
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Al Sharkeya
+ h-ENPPI × البنك الاهلي | Kick-off in 30 min: Al Sharkeyah-ENPP
+ I vs National Bank
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996821@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270106T180000Z
+DTEND:20270106T200000Z
+SUMMARY:National Bank vs Al Ittihad Alexandria — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996821
+DESCRIPTION:⚽ البنك الاهلي × الاتحاد السكندري\
+ n🏆 الدوري المصري الممتاز — الجولة 14\n🗓 
+ الأربعاء 6 يناير 2027 · 21:00 بتوقيت الرياض\n
+ 🏟 Suez Canal Authority Stadium\n—————\n⚽ National Bank v Al
+  Ittihad Alexandria\n🏆 Egyptian Premier League — Matchday 14\n🗓 We
+ d 06 Jan 2027 · 18:00 UTC\n🏟 Suez Canal Authority Stadium\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: البنك الاهلي ضد الاتحاد ال
+ سكندري — الدوري المصري الممتاز | Tomorrow: Nati
+ onal Bank vs Al Ittihad Alexandria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: البنك 
+ الاهلي × الاتحاد السكندري | Kick-off in 30 min: Nati
+ onal Bank vs Al Ittihad Alexandria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996830@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270128T150000Z
+DTEND:20270128T170000Z
+SUMMARY:Al Mokawloon Al Arab vs National Bank — Egyptian Premier League
+LOCATION:Al-Mokawloon al-Arab Stadium
+URL:https://www.fotmob.com/match/5996830
+DESCRIPTION:⚽ المقاولون العرب × البنك الاهلي\n
+ 🏆 الدوري المصري الممتاز — الجولة 15\n🗓 ا
+ لخميس 28 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Al-
+ Mokawloon al-Arab Stadium\n—————\n⚽ Al Mokawloon Al Arab v Nat
+ ional Bank\n🏆 Egyptian Premier League — Matchday 15\n🗓 Thu 28 Jan 
+ 2027 · 15:00 UTC\n🏟 Al-Mokawloon al-Arab Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المقاولون العرب ضد البنك ا
+ لاهلي — الدوري المصري الممتاز | Tomorrow: Al Mok
+ awloon Al Arab vs National Bank
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المقا
+ ولون العرب × البنك الاهلي | Kick-off in 30 min: Al Mo
+ kawloon Al Arab vs National Bank
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996841@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270201T180000Z
+DTEND:20270201T200000Z
+SUMMARY:National Bank vs Al Ahly SC — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996841
+DESCRIPTION:⚽ البنك الاهلي × الأهلي\n🏆 الدوري 
+ المصري الممتاز — الجولة 16\n🗓 الاثنين 1 ف
+ براير 2027 · 21:00 بتوقيت الرياض\n🏟 Suez Canal Author
+ ity Stadium\n—————\n⚽ National Bank v Al Ahly SC\n🏆 Egyptia
+ n Premier League — Matchday 16\n🗓 Mon 01 Feb 2027 · 18:00 UTC\n🏟 
+ Suez Canal Authority Stadium\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: البنك الاهلي ضد الأهلي — ا
+ لدوري المصري الممتاز | Tomorrow: National Bank vs Al Ahl
+ y SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: البنك 
+ الاهلي × الأهلي | Kick-off in 30 min: National Bank vs Al Ahl
+ y SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996847@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270205T180000Z
+DTEND:20270205T200000Z
+SUMMARY:ZED FC vs National Bank — Egyptian Premier League
+LOCATION:Suez Stadium
+URL:https://www.fotmob.com/match/5996847
+DESCRIPTION:⚽ زد × البنك الاهلي\n🏆 الدوري المص
+ ري الممتاز — الجولة 17\n🗓 الجمعة 5 فبراير 
+ 2027 · 21:00 بتوقيت الرياض\n🏟 Suez Stadium\n————
+ —\n⚽ ZED FC v National Bank\n🏆 Egyptian Premier League — Matchday
+  17\n🗓 Fri 05 Feb 2027 · 18:00 UTC\n🏟 Suez Stadium\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: زد ضد البنك الاهلي — الدور
+ ي المصري الممتاز | Tomorrow: ZED FC vs National Bank
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: زد × ا
+ لبنك الاهلي | Kick-off in 30 min: ZED FC vs National Bank
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996853@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270210T193000Z
+DTEND:20270210T213000Z
+SUMMARY:National Bank vs Modern Sport FC — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996853
+DESCRIPTION:⚽ البنك الاهلي × مودرن سبورت\n🏆 ال
+ دوري المصري الممتاز — الجولة 18\n🗓 الأرب
+ عاء 10 فبراير 2027 · 22:30 بتوقيت الرياض\n🏟 Suez 
+ Canal Authority Stadium\n—————\n⚽ National Bank v Modern Sport
+  FC\n🏆 Egyptian Premier League — Matchday 18\n🗓 Wed 10 Feb 2027 ·
+  19:30 UTC\n🏟 Suez Canal Authority Stadium\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: البنك الاهلي ضد مودرن سبور
+ ت — الدوري المصري الممتاز | Tomorrow: National Bank 
+ vs Modern Sport FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: البنك 
+ الاهلي × مودرن سبورت | Kick-off in 30 min: National Bank 
+ vs Modern Sport FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996866@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270219T193000Z
+DTEND:20270219T213000Z
+SUMMARY:Petrojet-Suez vs National Bank — Egyptian Premier League
+LOCATION:Petrosport Stadium
+URL:https://www.fotmob.com/match/5996866
+DESCRIPTION:⚽ منتخب السويس بتروجت × البنك الاه
+ لي\n🏆 الدوري المصري الممتاز — الجولة 19\n
+ 🗓 الجمعة 19 فبراير 2027 · 22:30 بتوقيت الرياض\
+ n🏟 Petrosport Stadium\n—————\n⚽ Petrojet-Suez v National Ba
+ nk\n🏆 Egyptian Premier League — Matchday 19\n🗓 Fri 19 Feb 2027 · 
+ 19:30 UTC\n🏟 Petrosport Stadium\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: منتخب السويس بتروجت ضد الب
+ نك الاهلي — الدوري المصري الممتاز | Tomorrow:
+  Petrojet-Suez vs National Bank
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: منتخب 
+ السويس بتروجت × البنك الاهلي | Kick-off in 30 min:
+  Petrojet-Suez vs National Bank
+END:VALARM
+END:VEVENT
+END:VCALENDAR

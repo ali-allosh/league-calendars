@@ -1,0 +1,1041 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Nice — Ligue 1 Fixtures | نيس — مباريات ال
+ دوري الفرنسي
+X-WR-CALDESC:Nice — all matches in Ligue 1\, exact UTC kickoffs\, stadium
+ s & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10Z.  
+ •  نيس — جميع المباريات في الدوري الفرنس
+ ي بتوقيت UTC الدقيق مع الملاعب والقنوات ال
+ ناقلة. المصدر: FotMob + 365scores · تحديث تلقائي 20
+ 26-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5802906@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T184500Z
+DTEND:20260822T204500Z
+SUMMARY:Nice vs Lorient (0 - 0) — Ligue 1
+LOCATION:Allianz Riviera\, Nice\, France
+GEO:43.705119;7.192622
+URL:https://www.fotmob.com/match/5802906
+DESCRIPTION:⚽ نيس × لوريان (0 - 0)\n🏆 الدوري الفر
+ نسي — الجولة 1\n🗓 السبت 22 أغسطس 2026 · 21:45 ب
+ توقيت الرياض\n🏟 Allianz Riviera، Nice\n⚖️ الحكم: R
+ omain Lissorgue\n—————\n⚽ Nice v Lorient (0 - 0)\n🏆 Ligue 1
+  — Matchday 1\n🗓 Sat 22 Aug 2026 · 18:45 UTC\n🏟 Allianz Riviera, 
+ Nice\nReferee: Romain Lissorgue\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد لوريان — الدوري الف
+ رنسي | Tomorrow: Nice vs Lorient
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ لوريان | Kick-off in 30 min: Nice vs Lorient
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802915@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T130000Z
+DTEND:20260830T150000Z
+SUMMARY:Paris FC vs Nice (3 - 0) — Ligue 1
+LOCATION:Stade Jean Bouin\, Paris\, France
+GEO:48.843148;2.252916
+URL:https://www.fotmob.com/match/5802915
+DESCRIPTION:⚽ باريس أف.سي. × نيس (3 - 0)\n🏆 الدوري 
+ الفرنسي — الجولة 2\n🗓 الأحد 30 أغسطس 2026 · 1
+ 6:00 بتوقيت الرياض\n🏟 Stade Jean Bouin، Paris\n⚖️ ال
+ حكم: Jeremy Stinat\n—————\n⚽ Paris FC v Nice (3 - 0)\n🏆 
+ Ligue 1 — Matchday 2\n🗓 Sun 30 Aug 2026 · 13:00 UTC\n🏟 Stade Jean
+  Bouin, Paris\nReferee: Jeremy Stinat\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد نيس — الدور
+ ي الفرنسي | Tomorrow: Paris FC vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × نيس | Kick-off in 30 min: Paris FC vs Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802924@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T184500Z
+DTEND:20260905T204500Z
+SUMMARY:Nice vs Le Mans — Ligue 1
+LOCATION:Allianz Riviera\, Nice\, France
+GEO:43.705119;7.192622
+URL:https://www.fotmob.com/match/5802924
+DESCRIPTION:⚽ نيس × لومان\n🏆 الدوري الفرنسي — 
+ الجولة 3\n🗓 السبت 5 سبتمبر 2026 · 21:45 بتوقيت 
+ الرياض\n🏟 Allianz Riviera، Nice\n📺 beIN Sports 3 HD\n——
+ ———\n⚽ Nice v Le Mans\n🏆 Ligue 1 — Matchday 3\n🗓 Sat 05 Se
+ p 2026 · 18:45 UTC\n🏟 Allianz Riviera, Nice\n📺 beIN Sports 3 HD\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد لومان — الدوري الفر
+ نسي — 📺 beIN Sports 3 HD | Tomorrow: Nice vs Le Mans | TV: beIN Sp
+ orts 3 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ لومان — 📺 beIN Sports 3 HD | Kick-off in 30 min: Nice vs Le Mans
+  | TV: beIN Sports 3 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802928@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T184500Z
+DTEND:20260912T204500Z
+SUMMARY:Auxerre vs Nice — Ligue 1
+LOCATION:Stade de l'Abbé Deschamps\, Auxerre\, France
+GEO:47.786835;3.588517
+URL:https://www.fotmob.com/match/5802928
+DESCRIPTION:⚽ أوكسير × نيس\n🏆 الدوري الفرنسي 
+ — الجولة 4\n🗓 السبت 12 سبتمبر 2026 · 21:45 بتوق
+ يت الرياض\n🏟 Stade de l'Abbé Deschamps، Auxerre\n📺 OneFoot
+ ball PPV، Ligue 1+\n—————\n⚽ Auxerre v Nice\n🏆 Ligue 1 —
+  Matchday 4\n🗓 Sat 12 Sep 2026 · 18:45 UTC\n🏟 Stade de l'Abbé Desc
+ hamps, Auxerre\n📺 OneFootball PPV, Ligue 1+\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوكسير ضد نيس — الدوري الف
+ رنسي — 📺 OneFootball PPV، Ligue 1+ | Tomorrow: Auxerre vs Nice |
+  TV: OneFootball PPV\, Ligue 1+
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوكسي
+ ر × نيس — 📺 OneFootball PPV، Ligue 1+ | Kick-off in 30 min: Aux
+ erre vs Nice | TV: OneFootball PPV\, Ligue 1+
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802942@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T151500Z
+DTEND:20260920T171500Z
+SUMMARY:Nice vs Lille — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5802942
+DESCRIPTION:⚽ نيس × ليل\n🏆 الدوري الفرنسي — ال
+ جولة 5\n🗓 الأحد 20 سبتمبر 2026 · 18:15 بتوقيت ا
+ لرياض\n🏟 Allianz Riviera\n—————\n⚽ Nice v Lille\n🏆 
+ Ligue 1 — Matchday 5\n🗓 Sun 20 Sep 2026 · 15:15 UTC\n🏟 Allianz Ri
+ viera\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد ليل — الدوري الفرنس
+ ي | Tomorrow: Nice vs Lille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ ليل | Kick-off in 30 min: Nice vs Lille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802951@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Nice vs Strasbourg — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5802951
+DESCRIPTION:⚽ نيس × ستراسبورج\n🏆 الدوري الفرن
+ سي — الجولة 6\n🗓 الأحد 11 أكتوبر 2026 · 16:00 ب
+ توقيت الرياض\n🏟 Allianz Riviera\n—————\n⚽ Nice v
+  Strasbourg\n🏆 Ligue 1 — Matchday 6\n🗓 Sun 11 Oct 2026 · 13:00 UT
+ C\n🏟 Allianz Riviera\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد ستراسبورج — الدوري 
+ الفرنسي | Tomorrow: Nice vs Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ ستراسبورج | Kick-off in 30 min: Nice vs Strasbourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802960@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T184500Z
+DTEND:20261018T204500Z
+SUMMARY:Lyon vs Nice — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5802960
+DESCRIPTION:⚽ أولمبيك ليون × نيس\n🏆 الدوري الف
+ رنسي — الجولة 7\n🗓 الأحد 18 أكتوبر 2026 · 21:45
+  بتوقيت الرياض\n🏟 Groupama Stadium\n—————\n⚽ Ly
+ on v Nice\n🏆 Ligue 1 — Matchday 7\n🗓 Sun 18 Oct 2026 · 18:45 UTC\
+ n🏟 Groupama Stadium\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد نيس — الدو
+ ري الفرنسي | Tomorrow: Lyon vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × نيس | Kick-off in 30 min: Lyon vs Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802966@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261023T184500Z
+DTEND:20261023T204500Z
+SUMMARY:Brest vs Nice — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5802966
+DESCRIPTION:⚽ بريست × نيس\n🏆 الدوري الفرنسي — 
+ الجولة 8\n🗓 الجمعة 23 أكتوبر 2026 · 21:45 بتوقي
+ ت الرياض\n🏟 Stade Francis le Ble\n—————\n⚽ Brest v N
+ ice\n🏆 Ligue 1 — Matchday 8\n🗓 Fri 23 Oct 2026 · 18:45 UTC\n🏟 
+ Stade Francis le Ble\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد نيس — الدوري الفر
+ نسي | Tomorrow: Brest vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × نيس | Kick-off in 30 min: Brest vs Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802978@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T161500Z
+DTEND:20261031T181500Z
+SUMMARY:Nice vs Rennes — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5802978
+DESCRIPTION:⚽ نيس × ستاد رين\n🏆 الدوري الفرنسي
+  — الجولة 9\n🗓 السبت 31 أكتوبر 2026 · 19:15 بتو
+ قيت الرياض\n🏟 Allianz Riviera\n—————\n⚽ Nice v Ren
+ nes\n🏆 Ligue 1 — Matchday 9\n🗓 Sat 31 Oct 2026 · 16:15 UTC\n🏟 
+ Allianz Riviera\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد ستاد رين — الدوري ال
+ فرنسي | Tomorrow: Nice vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ ستاد رين | Kick-off in 30 min: Nice vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802982@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T161500Z
+DTEND:20261108T181500Z
+SUMMARY:Angers vs Nice — Ligue 1
+LOCATION:Stade Raymond Kopa
+URL:https://www.fotmob.com/match/5802982
+DESCRIPTION:⚽ أنجيه × نيس\n🏆 الدوري الفرنسي — 
+ الجولة 10\n🗓 الأحد 8 نوفمبر 2026 · 19:15 بتوقيت
+  الرياض\n🏟 Stade Raymond Kopa\n—————\n⚽ Angers v Nice
+ \n🏆 Ligue 1 — Matchday 10\n🗓 Sun 08 Nov 2026 · 16:15 UTC\n🏟 St
+ ade Raymond Kopa\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أنجيه ضد نيس — الدوري الفر
+ نسي | Tomorrow: Angers vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أنجيه 
+ × نيس | Kick-off in 30 min: Angers vs Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802996@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T161500Z
+DTEND:20261121T181500Z
+SUMMARY:Nice vs Paris Saint-Germain — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5802996
+DESCRIPTION:⚽ نيس × باريس سان جيرمان\n🏆 الدوري
+  الفرنسي — الجولة 11\n🗓 السبت 21 نوفمبر 2026 
+ · 19:15 بتوقيت الرياض\n🏟 Allianz Riviera\n—————\
+ n⚽ Nice v Paris Saint-Germain\n🏆 Ligue 1 — Matchday 11\n🗓 Sat 21
+  Nov 2026 · 16:15 UTC\n🏟 Allianz Riviera\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد باريس سان جيرمان — ا
+ لدوري الفرنسي | Tomorrow: Nice vs Paris Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ باريس سان جيرمان | Kick-off in 30 min: Nice vs Paris Saint-G
+ ermain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803006@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:Nice vs Troyes — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5803006
+DESCRIPTION:⚽ نيس × تروا\n🏆 الدوري الفرنسي — ا
+ لجولة 12\n🗓 السبت 28 نوفمبر 2026 · 19:00 بتوقيت 
+ الرياض\n🏟 Allianz Riviera\n—————\n⚽ Nice v Troyes\n
+ 🏆 Ligue 1 — Matchday 12\n🗓 Sat 28 Nov 2026 · 16:00 UTC\n🏟 Alli
+ anz Riviera\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد تروا — الدوري الفرن
+ سي | Tomorrow: Nice vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ تروا | Kick-off in 30 min: Nice vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803011@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T160000Z
+DTEND:20261205T180000Z
+SUMMARY:Marseille vs Nice — Ligue 1
+LOCATION:Stade Orange Velodrome
+URL:https://www.fotmob.com/match/5803011
+DESCRIPTION:⚽ مارسيليا × نيس\n🏆 الدوري الفرنس
+ ي — الجولة 13\n🗓 السبت 5 ديسمبر 2026 · 19:00 بت
+ وقيت الرياض\n🏟 Stade Orange Velodrome\n—————\n⚽ M
+ arseille v Nice\n🏆 Ligue 1 — Matchday 13\n🗓 Sat 05 Dec 2026 · 16:
+ 00 UTC\n🏟 Stade Orange Velodrome\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مارسيليا ضد نيس — الدوري ا
+ لفرنسي | Tomorrow: Marseille vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مارسي
+ ليا × نيس | Kick-off in 30 min: Marseille vs Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803023@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T160000Z
+DTEND:20261212T180000Z
+SUMMARY:Nice vs Lens — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5803023
+DESCRIPTION:⚽ نيس × لانس\n🏆 الدوري الفرنسي — ا
+ لجولة 14\n🗓 السبت 12 ديسمبر 2026 · 19:00 بتوقيت 
+ الرياض\n🏟 Allianz Riviera\n—————\n⚽ Nice v Lens\n🏆
+  Ligue 1 — Matchday 14\n🗓 Sat 12 Dec 2026 · 16:00 UTC\n🏟 Allianz 
+ Riviera\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد لانس — الدوري الفرن
+ سي | Tomorrow: Nice vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ لانس | Kick-off in 30 min: Nice vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803031@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T160000Z
+DTEND:20270102T180000Z
+SUMMARY:Monaco vs Nice — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5803031
+DESCRIPTION:⚽ موناكو × نيس\n🏆 الدوري الفرنسي 
+ — الجولة 15\n🗓 السبت 2 يناير 2027 · 19:00 بتوقي
+ ت الرياض\n🏟 Stade Louis II, Monaco\n—————\n⚽ Monaco 
+ v Nice\n🏆 Ligue 1 — Matchday 15\n🗓 Sat 02 Jan 2027 · 16:00 UTC\n
+ 🏟 Stade Louis II, Monaco\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد نيس — الدوري الف
+ رنسي | Tomorrow: Monaco vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × نيس | Kick-off in 30 min: Monaco vs Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803041@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T160000Z
+DTEND:20270116T180000Z
+SUMMARY:Nice vs Le Havre — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5803041
+DESCRIPTION:⚽ نيس × لو آفر\n🏆 الدوري الفرنسي —
+  الجولة 16\n🗓 السبت 16 يناير 2027 · 19:00 بتوقيت
+  الرياض\n🏟 Allianz Riviera\n—————\n⚽ Nice v Le Havre\
+ n🏆 Ligue 1 — Matchday 16\n🗓 Sat 16 Jan 2027 · 16:00 UTC\n🏟 All
+ ianz Riviera\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد لو آفر — الدوري الفر
+ نسي | Tomorrow: Nice vs Le Havre
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ لو آفر | Kick-off in 30 min: Nice vs Le Havre
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803052@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T160000Z
+DTEND:20270123T180000Z
+SUMMARY:Toulouse vs Nice — Ligue 1
+LOCATION:Stadium de Toulouse
+URL:https://www.fotmob.com/match/5803052
+DESCRIPTION:⚽ تولوز × نيس\n🏆 الدوري الفرنسي — 
+ الجولة 17\n🗓 السبت 23 يناير 2027 · 19:00 بتوقيت 
+ الرياض\n🏟 Stadium de Toulouse\n—————\n⚽ Toulouse v Ni
+ ce\n🏆 Ligue 1 — Matchday 17\n🗓 Sat 23 Jan 2027 · 16:00 UTC\n🏟 
+ Stadium de Toulouse\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تولوز ضد نيس — الدوري الفر
+ نسي | Tomorrow: Toulouse vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تولوز 
+ × نيس | Kick-off in 30 min: Toulouse vs Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803056@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T160000Z
+DTEND:20270130T180000Z
+SUMMARY:Le Mans vs Nice — Ligue 1
+LOCATION:Stade Marie-Marvingt
+URL:https://www.fotmob.com/match/5803056
+DESCRIPTION:⚽ لومان × نيس\n🏆 الدوري الفرنسي — 
+ الجولة 18\n🗓 السبت 30 يناير 2027 · 19:00 بتوقيت 
+ الرياض\n🏟 Stade Marie-Marvingt\n—————\n⚽ Le Mans v Ni
+ ce\n🏆 Ligue 1 — Matchday 18\n🗓 Sat 30 Jan 2027 · 16:00 UTC\n🏟 
+ Stade Marie-Marvingt\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد نيس — الدوري الفر
+ نسي | Tomorrow: Le Mans vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × نيس | Kick-off in 30 min: Le Mans vs Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803067@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T160000Z
+DTEND:20270206T180000Z
+SUMMARY:Nice vs Brest — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5803067
+DESCRIPTION:⚽ نيس × بريست\n🏆 الدوري الفرنسي — 
+ الجولة 19\n🗓 السبت 6 فبراير 2027 · 19:00 بتوقيت
+  الرياض\n🏟 Allianz Riviera\n—————\n⚽ Nice v Brest\n
+ 🏆 Ligue 1 — Matchday 19\n🗓 Sat 06 Feb 2027 · 16:00 UTC\n🏟 Alli
+ anz Riviera\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد بريست — الدوري الفر
+ نسي | Tomorrow: Nice vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ بريست | Kick-off in 30 min: Nice vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803075@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270213T160000Z
+DTEND:20270213T180000Z
+SUMMARY:Lille vs Nice — Ligue 1
+LOCATION:Decathlon Arena-Stade Pierre-Mauroy
+URL:https://www.fotmob.com/match/5803075
+DESCRIPTION:⚽ ليل × نيس\n🏆 الدوري الفرنسي — ال
+ جولة 20\n🗓 السبت 13 فبراير 2027 · 19:00 بتوقيت ا
+ لرياض\n🏟 Decathlon Arena-Stade Pierre-Mauroy\n—————\n⚽
+  Lille v Nice\n🏆 Ligue 1 — Matchday 20\n🗓 Sat 13 Feb 2027 · 16:00
+  UTC\n🏟 Decathlon Arena-Stade Pierre-Mauroy\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليل ضد نيس — الدوري الفرنس
+ ي | Tomorrow: Lille vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليل × 
+ نيس | Kick-off in 30 min: Lille vs Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803086@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T160000Z
+DTEND:20270220T180000Z
+SUMMARY:Nice vs Auxerre — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5803086
+DESCRIPTION:⚽ نيس × أوكسير\n🏆 الدوري الفرنسي 
+ — الجولة 21\n🗓 السبت 20 فبراير 2027 · 19:00 بتو
+ قيت الرياض\n🏟 Allianz Riviera\n—————\n⚽ Nice v Aux
+ erre\n🏆 Ligue 1 — Matchday 21\n🗓 Sat 20 Feb 2027 · 16:00 UTC\n
+ 🏟 Allianz Riviera\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد أوكسير — الدوري الف
+ رنسي | Tomorrow: Nice vs Auxerre
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ أوكسير | Kick-off in 30 min: Nice vs Auxerre
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803097@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T160000Z
+DTEND:20270227T180000Z
+SUMMARY:Troyes vs Nice — Ligue 1
+LOCATION:Stade de l'Aube
+URL:https://www.fotmob.com/match/5803097
+DESCRIPTION:⚽ تروا × نيس\n🏆 الدوري الفرنسي — ا
+ لجولة 22\n🗓 السبت 27 فبراير 2027 · 19:00 بتوقيت 
+ الرياض\n🏟 Stade de l'Aube\n—————\n⚽ Troyes v Nice\n
+ 🏆 Ligue 1 — Matchday 22\n🗓 Sat 27 Feb 2027 · 16:00 UTC\n🏟 Stad
+ e de l'Aube\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد نيس — الدوري الفرن
+ سي | Tomorrow: Troyes vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  نيس | Kick-off in 30 min: Troyes vs Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803100@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270306T160000Z
+DTEND:20270306T180000Z
+SUMMARY:Le Havre vs Nice — Ligue 1
+LOCATION:Stade Oceane
+URL:https://www.fotmob.com/match/5803100
+DESCRIPTION:⚽ لو آفر × نيس\n🏆 الدوري الفرنسي —
+  الجولة 23\n🗓 السبت 6 مارس 2027 · 19:00 بتوقيت ا
+ لرياض\n🏟 Stade Oceane\n—————\n⚽ Le Havre v Nice\n🏆 
+ Ligue 1 — Matchday 23\n🗓 Sat 06 Mar 2027 · 16:00 UTC\n🏟 Stade Oce
+ ane\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لو آفر ضد نيس — الدوري الفر
+ نسي | Tomorrow: Le Havre vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لو آفر
+  × نيس | Kick-off in 30 min: Le Havre vs Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803114@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T160000Z
+DTEND:20270313T180000Z
+SUMMARY:Nice vs Toulouse — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5803114
+DESCRIPTION:⚽ نيس × تولوز\n🏆 الدوري الفرنسي — 
+ الجولة 24\n🗓 السبت 13 مارس 2027 · 19:00 بتوقيت ا
+ لرياض\n🏟 Allianz Riviera\n—————\n⚽ Nice v Toulouse\n
+ 🏆 Ligue 1 — Matchday 24\n🗓 Sat 13 Mar 2027 · 16:00 UTC\n🏟 Alli
+ anz Riviera\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد تولوز — الدوري الفر
+ نسي | Tomorrow: Nice vs Toulouse
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ تولوز | Kick-off in 30 min: Nice vs Toulouse
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803119@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T160000Z
+DTEND:20270320T180000Z
+SUMMARY:Lorient vs Nice — Ligue 1
+LOCATION:Stade du Moustoir
+URL:https://www.fotmob.com/match/5803119
+DESCRIPTION:⚽ لوريان × نيس\n🏆 الدوري الفرنسي 
+ — الجولة 25\n🗓 السبت 20 مارس 2027 · 19:00 بتوقي
+ ت الرياض\n🏟 Stade du Moustoir\n—————\n⚽ Lorient v Ni
+ ce\n🏆 Ligue 1 — Matchday 25\n🗓 Sat 20 Mar 2027 · 16:00 UTC\n🏟 
+ Stade du Moustoir\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لوريان ضد نيس — الدوري الف
+ رنسي | Tomorrow: Lorient vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لوريا
+ ن × نيس | Kick-off in 30 min: Lorient vs Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803132@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270403T150000Z
+DTEND:20270403T170000Z
+SUMMARY:Nice vs Lyon — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5803132
+DESCRIPTION:⚽ نيس × أولمبيك ليون\n🏆 الدوري الف
+ رنسي — الجولة 26\n🗓 السبت 3 أبريل 2027 · 18:00 
+ بتوقيت الرياض\n🏟 Allianz Riviera\n—————\n⚽ Nice
+  v Lyon\n🏆 Ligue 1 — Matchday 26\n🗓 Sat 03 Apr 2027 · 15:00 UTC\n
+ 🏟 Allianz Riviera\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد أولمبيك ليون — الدو
+ ري الفرنسي | Tomorrow: Nice vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ أولمبيك ليون | Kick-off in 30 min: Nice vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803141@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T150000Z
+DTEND:20270410T170000Z
+SUMMARY:Nice vs Paris FC — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5803141
+DESCRIPTION:⚽ نيس × باريس أف.سي.\n🏆 الدوري الفر
+ نسي — الجولة 27\n🗓 السبت 10 أبريل 2027 · 18:00 ب
+ توقيت الرياض\n🏟 Allianz Riviera\n—————\n⚽ Nice v
+  Paris FC\n🏆 Ligue 1 — Matchday 27\n🗓 Sat 10 Apr 2027 · 15:00 UTC
+ \n🏟 Allianz Riviera\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد باريس أف.سي. — الدور
+ ي الفرنسي | Tomorrow: Nice vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ باريس أف.سي. | Kick-off in 30 min: Nice vs Paris FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803148@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T150000Z
+DTEND:20270417T170000Z
+SUMMARY:Lens vs Nice — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5803148
+DESCRIPTION:⚽ لانس × نيس\n🏆 الدوري الفرنسي — ا
+ لجولة 28\n🗓 السبت 17 أبريل 2027 · 18:00 بتوقيت ا
+ لرياض\n🏟 Stade Bollaert-Delelis\n—————\n⚽ Lens v Nice\
+ n🏆 Ligue 1 — Matchday 28\n🗓 Sat 17 Apr 2027 · 15:00 UTC\n🏟 Sta
+ de Bollaert-Delelis\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد نيس — الدوري الفرن
+ سي | Tomorrow: Lens vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  نيس | Kick-off in 30 min: Lens vs Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803158@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T150000Z
+DTEND:20270424T170000Z
+SUMMARY:Nice vs Angers — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5803158
+DESCRIPTION:⚽ نيس × أنجيه\n🏆 الدوري الفرنسي — 
+ الجولة 29\n🗓 السبت 24 أبريل 2027 · 18:00 بتوقيت 
+ الرياض\n🏟 Allianz Riviera\n—————\n⚽ Nice v Angers\n
+ 🏆 Ligue 1 — Matchday 29\n🗓 Sat 24 Apr 2027 · 15:00 UTC\n🏟 Alli
+ anz Riviera\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد أنجيه — الدوري الفر
+ نسي | Tomorrow: Nice vs Angers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ أنجيه | Kick-off in 30 min: Nice vs Angers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803167@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T150000Z
+DTEND:20270501T170000Z
+SUMMARY:Rennes vs Nice — Ligue 1
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/5803167
+DESCRIPTION:⚽ ستاد رين × نيس\n🏆 الدوري الفرنسي
+  — الجولة 30\n🗓 السبت 1 مايو 2027 · 18:00 بتوقي
+ ت الرياض\n🏟 Roazhon Park\n—————\n⚽ Rennes v Nice\n
+ 🏆 Ligue 1 — Matchday 30\n🗓 Sat 01 May 2027 · 15:00 UTC\n🏟 Roaz
+ hon Park\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد نيس — الدوري ال
+ فرنسي | Tomorrow: Rennes vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × نيس | Kick-off in 30 min: Rennes vs Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803176@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T150000Z
+DTEND:20270508T170000Z
+SUMMARY:Nice vs Marseille — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5803176
+DESCRIPTION:⚽ نيس × مارسيليا\n🏆 الدوري الفرنس
+ ي — الجولة 31\n🗓 السبت 8 مايو 2027 · 18:00 بتوق
+ يت الرياض\n🏟 Allianz Riviera\n—————\n⚽ Nice v Marse
+ ille\n🏆 Ligue 1 — Matchday 31\n🗓 Sat 08 May 2027 · 15:00 UTC\n
+ 🏟 Allianz Riviera\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد مارسيليا — الدوري ا
+ لفرنسي | Tomorrow: Nice vs Marseille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ مارسيليا | Kick-off in 30 min: Nice vs Marseille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803186@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T150000Z
+DTEND:20270516T170000Z
+SUMMARY:Paris Saint-Germain vs Nice — Ligue 1
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/5803186
+DESCRIPTION:⚽ باريس سان جيرمان × نيس\n🏆 الدوري
+  الفرنسي — الجولة 32\n🗓 الأحد 16 مايو 2027 · 1
+ 8:00 بتوقيت الرياض\n🏟 Parc des Princes\n—————\n
+ ⚽ Paris Saint-Germain v Nice\n🏆 Ligue 1 — Matchday 32\n🗓 Sun 16 
+ May 2027 · 15:00 UTC\n🏟 Parc des Princes\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد نيس — ا
+ لدوري الفرنسي | Tomorrow: Paris Saint-Germain vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × نيس | Kick-off in 30 min: Paris Saint-Germain vs
+  Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803194@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270522T150000Z
+DTEND:20270522T170000Z
+SUMMARY:Nice vs Monaco — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5803194
+DESCRIPTION:⚽ نيس × موناكو\n🏆 الدوري الفرنسي 
+ — الجولة 33\n🗓 السبت 22 مايو 2027 · 18:00 بتوقي
+ ت الرياض\n🏟 Allianz Riviera\n—————\n⚽ Nice v Monaco\
+ n🏆 Ligue 1 — Matchday 33\n🗓 Sat 22 May 2027 · 15:00 UTC\n🏟 All
+ ianz Riviera\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد موناكو — الدوري الف
+ رنسي | Tomorrow: Nice vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ موناكو | Kick-off in 30 min: Nice vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803206@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270529T190000Z
+DTEND:20270529T210000Z
+SUMMARY:Strasbourg vs Nice — Ligue 1
+LOCATION:Stade de la Meinau
+URL:https://www.fotmob.com/match/5803206
+DESCRIPTION:⚽ ستراسبورج × نيس\n🏆 الدوري الفرن
+ سي — الجولة 34\n🗓 السبت 29 مايو 2027 · 22:00 بتو
+ قيت الرياض\n🏟 Stade de la Meinau\n—————\n⚽ Strasbo
+ urg v Nice\n🏆 Ligue 1 — Matchday 34\n🗓 Sat 29 May 2027 · 19:00 UT
+ C\n🏟 Stade de la Meinau\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد نيس — الدوري 
+ الفرنسي | Tomorrow: Strasbourg vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × نيس | Kick-off in 30 min: Strasbourg vs Nice
+END:VALARM
+END:VEVENT
+END:VCALENDAR

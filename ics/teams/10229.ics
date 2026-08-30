@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ AZ Alkmaar — UEFA Europa League Fixtures | ألكمار 
+ — مباريات الدوري الأوروبي
+X-WR-CALDESC:AZ Alkmaar — all matches in UEFA Europa League\, exact UTC k
+ ickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-
+ 05T19:31:10Z.  •  ألكمار — جميع المباريات في ال
+ دوري الأوروبي بتوقيت UTC الدقيق مع الملاع
+ ب والقنوات الناقلة. المصدر: FotMob + 365scores · ت
+ حديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6112330@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T190000Z
+DTEND:20260916T210000Z
+SUMMARY:Sunderland vs AZ Alkmaar — UEFA Europa League
+LOCATION:Stadium of Light\, Sunderland\, England
+GEO:54.914422;-1.388177
+URL:https://www.fotmob.com/match/6112330
+DESCRIPTION:⚽ سندرلاند × ألكمار\n🏆 الدوري الأ
+ وروبي — الجولة 1\n🗓 الأربعاء 16 سبتمبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Stadium of Light، Sunderland\n
+ —————\n⚽ Sunderland v AZ Alkmaar\n🏆 UEFA Europa League — 
+ Matchday 1\n🗓 Wed 16 Sep 2026 · 19:00 UTC\n🏟 Stadium of Light, Sund
+ erland\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد ألكمار — الدور
+ ي الأوروبي | Tomorrow: Sunderland vs AZ Alkmaar
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × ألكمار | Kick-off in 30 min: Sunderland vs AZ Alkmaar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112265@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:AZ Alkmaar vs Hapoel Beer Sheva — UEFA Europa League
+LOCATION:AFAS Stadion\, Alkmaar\, Netherlands
+GEO:52.612736;4.742103
+URL:https://www.fotmob.com/match/6112265
+DESCRIPTION:⚽ ألكمار × هبوعيل بئر سبع\n🏆 الدور
+ ي الأوروبي — الجولة 2\n🗓 الخميس 15 أكتوبر 
+ 2026 · 19:45 بتوقيت الرياض\n🏟 AFAS Stadion، Alkmaar\n—
+ ————\n⚽ AZ Alkmaar v Hapoel Beer Sheva\n🏆 UEFA Europa League 
+ — Matchday 2\n🗓 Thu 15 Oct 2026 · 16:45 UTC\n🏟 AFAS Stadion, Alkm
+ aar\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ألكمار ضد هبوعيل بئر سبع — 
+ الدوري الأوروبي | Tomorrow: AZ Alkmaar vs Hapoel Beer Sheva
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ألكما
+ ر × هبوعيل بئر سبع | Kick-off in 30 min: AZ Alkmaar vs Hapoe
+ l Beer Sheva
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112382@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T164500Z
+DTEND:20261022T184500Z
+SUMMARY:Ararat Armenia vs AZ Alkmaar — UEFA Europa League
+LOCATION:Kotaik Stadium\, Abovian\, Armenia
+GEO:40.268491;44.635429
+URL:https://www.fotmob.com/match/6112382
+DESCRIPTION:⚽ أرارات أرمينيا × ألكمار\n🏆 الدو
+ ري الأوروبي — الجولة 3\n🗓 الخميس 22 أكتوب
+ ر 2026 · 19:45 بتوقيت الرياض\n🏟 Kotaik Stadium، Abovian\
+ n—————\n⚽ Ararat Armenia v AZ Alkmaar\n🏆 UEFA Europa League
+  — Matchday 3\n🗓 Thu 22 Oct 2026 · 16:45 UTC\n🏟 Kotaik Stadium, A
+ bovian\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرارات أرمينيا ضد ألكمار —
+  الدوري الأوروبي | Tomorrow: Ararat Armenia vs AZ Alkmaar
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرارا
+ ت أرمينيا × ألكمار | Kick-off in 30 min: Ararat Armenia vs 
+ AZ Alkmaar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112262@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T200000Z
+DTEND:20261105T220000Z
+SUMMARY:AZ Alkmaar vs Juventus — UEFA Europa League
+LOCATION:AFAS Stadion
+URL:https://www.fotmob.com/match/6112262
+DESCRIPTION:⚽ ألكمار × يوفنتوس\n🏆 الدوري الأو
+ روبي — الجولة 4\n🗓 الخميس 5 نوفمبر 2026 · 23:0
+ 0 بتوقيت الرياض\n🏟 AFAS Stadion\n—————\n⚽ AZ Al
+ kmaar v Juventus\n🏆 UEFA Europa League — Matchday 4\n🗓 Thu 05 Nov 
+ 2026 · 20:00 UTC\n🏟 AFAS Stadion\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ألكمار ضد يوفنتوس — الدوري
+  الأوروبي | Tomorrow: AZ Alkmaar vs Juventus
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ألكما
+ ر × يوفنتوس | Kick-off in 30 min: AZ Alkmaar vs Juventus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112302@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Sparta Prague vs AZ Alkmaar — UEFA Europa League
+LOCATION:epet Arena
+URL:https://www.fotmob.com/match/6112302
+DESCRIPTION:⚽ سبارتا براغ × ألكمار\n🏆 الدوري ا
+ لأوروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 2026 
+ · 23:00 بتوقيت الرياض\n🏟 epet Arena\n—————\n⚽ 
+ Sparta Prague v AZ Alkmaar\n🏆 UEFA Europa League — Matchday 5\n🗓 T
+ hu 26 Nov 2026 · 20:00 UTC\n🏟 epet Arena\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سبارتا براغ ضد ألكمار — ال
+ دوري الأوروبي | Tomorrow: Sparta Prague vs AZ Alkmaar
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سبارت
+ ا براغ × ألكمار | Kick-off in 30 min: Sparta Prague vs AZ Alkm
+ aar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112264@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T174500Z
+DTEND:20261210T194500Z
+SUMMARY:AZ Alkmaar vs Sturm Graz — UEFA Europa League
+LOCATION:AFAS Stadion
+URL:https://www.fotmob.com/match/6112264
+DESCRIPTION:⚽ ألكمار × شتورم غراتس\n🏆 الدوري ا
+ لأوروبي — الجولة 6\n🗓 الخميس 10 ديسمبر 2026 
+ · 20:45 بتوقيت الرياض\n🏟 AFAS Stadion\n—————\n
+ ⚽ AZ Alkmaar v Sturm Graz\n🏆 UEFA Europa League — Matchday 6\n🗓 
+ Thu 10 Dec 2026 · 17:45 UTC\n🏟 AFAS Stadion\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ألكمار ضد شتورم غراتس — ال
+ دوري الأوروبي | Tomorrow: AZ Alkmaar vs Sturm Graz
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ألكما
+ ر × شتورم غراتس | Kick-off in 30 min: AZ Alkmaar vs Sturm Graz
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112263@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:AZ Alkmaar vs Dinamo Zagreb — UEFA Europa League
+LOCATION:AFAS Stadion
+URL:https://www.fotmob.com/match/6112263
+DESCRIPTION:⚽ ألكمار × دينامو زغرب\n🏆 الدوري ا
+ لأوروبي — الجولة 7\n🗓 الخميس 21 يناير 2027 ·
+  23:00 بتوقيت الرياض\n🏟 AFAS Stadion\n—————\n⚽ 
+ AZ Alkmaar v Dinamo Zagreb\n🏆 UEFA Europa League — Matchday 7\n🗓 T
+ hu 21 Jan 2027 · 20:00 UTC\n🏟 AFAS Stadion\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ألكمار ضد دينامو زغرب — ال
+ دوري الأوروبي | Tomorrow: AZ Alkmaar vs Dinamo Zagreb
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ألكما
+ ر × دينامو زغرب | Kick-off in 30 min: AZ Alkmaar vs Dinamo Zag
+ reb
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112246@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Benfica vs AZ Alkmaar — UEFA Europa League
+LOCATION:Estadio da Luz
+URL:https://www.fotmob.com/match/6112246
+DESCRIPTION:⚽ بنفيكا × ألكمار\n🏆 الدوري الأور
+ وبي — الجولة 8\n🗓 الخميس 28 يناير 2027 · 23:00 
+ بتوقيت الرياض\n🏟 Estadio da Luz\n—————\n⚽ Benfi
+ ca v AZ Alkmaar\n🏆 UEFA Europa League — Matchday 8\n🗓 Thu 28 Jan 2
+ 027 · 20:00 UTC\n🏟 Estadio da Luz\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بنفيكا ضد ألكمار — الدوري 
+ الأوروبي | Tomorrow: Benfica vs AZ Alkmaar
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بنفيك
+ ا × ألكمار | Kick-off in 30 min: Benfica vs AZ Alkmaar
+END:VALARM
+END:VEVENT
+END:VCALENDAR

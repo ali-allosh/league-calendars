@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Tenerife — Copa del Rey Fixtures | تنريفة — مب
+ اريات كأس ملك إسبانيا
+X-WR-CALDESC:Tenerife — all matches in Copa del Rey\, exact UTC kickoffs\
+ , stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31
+ :10Z.  •  تنريفة — جميع المباريات في كأس مل
+ ك إسبانيا بتوقيت UTC الدقيق مع الملاعب وال
+ قنوات الناقلة. المصدر: FotMob + 365scores · تحديث 
+ تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4996038@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251028T193000Z
+DTEND:20251028T213000Z
+SUMMARY:RSD Alcalá vs Tenerife (0 - 4) — Copa del Rey
+LOCATION:Estadio Municipal Virgen del Val\, Alcalá de Henares\, Spain
+GEO:40.482756;-3.347161
+URL:https://www.fotmob.com/match/4996038
+DESCRIPTION:⚽ RSD Alcalá × تنريفة (0 - 4)\n🏆 كأس ملك إ
+ سبانيا — الدور الأول\n🗓 الثلاثاء 28 أكتو
+ بر 2025 · 22:30 بتوقيت الرياض\n🏟 Estadio Municipal Virge
+ n del Val، Alcalá de Henares\n⚖️ الحكم: Rubén Ruipérez Marín
+ \n—————\n⚽ RSD Alcalá v Tenerife (0 - 4)\n🏆 Copa del Rey 
+ — Round 1\n🗓 Tue 28 Oct 2025 · 19:30 UTC\n🏟 Estadio Municipal Vir
+ gen del Val, Alcalá de Henares\nReferee: Rubén Ruipérez Marín\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: RSD Alcalá ضد تنريفة — كأس ملك 
+ إسبانيا | Tomorrow: RSD Alcalá vs Tenerife
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: RSD Alcalá
+  × تنريفة | Kick-off in 30 min: RSD Alcalá vs Tenerife
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057235@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251204T210000Z
+DTEND:20251204T230000Z
+SUMMARY:Tenerife vs Granada (0 - 1) — Copa del Rey
+LOCATION:Estadio Heliodoro Rodríguez Lopéz\, Santa Cruz de Tenerife (Tene
+ rife\, Spain
+GEO:28.463282;-16.260517
+URL:https://www.fotmob.com/match/5057235
+DESCRIPTION:⚽ تنريفة × غرناطة (0 - 1)\n🏆 كأس ملك إ
+ سبانيا — الدور الثاني\n🗓 الخميس 4 ديسمبر
+  2025 · 00:00 بتوقيت الرياض\n🏟 Estadio Heliodoro Rodrígue
+ z Lopéz، Santa Cruz de Tenerife (Tenerife\n⚖️ الحكم: Manuel Án
+ gel Pérez Hernández\n👥 الحضور: 14,886\n—————\n⚽ Ten
+ erife v Granada (0 - 1)\n🏆 Copa del Rey — Round 2\n🗓 Thu 04 Dec 20
+ 25 · 21:00 UTC\n🏟 Estadio Heliodoro Rodríguez Lopéz, Santa Cruz de T
+ enerife (Tenerife\nReferee: Manuel Ángel Pérez Hernández\nAttendance: 1
+ 4,886\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تنريفة ضد غرناطة — كأس ملك 
+ إسبانيا | Tomorrow: Tenerife vs Granada
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تنريف
+ ة × غرناطة | Kick-off in 30 min: Tenerife vs Granada
+END:VALARM
+END:VEVENT
+END:VCALENDAR

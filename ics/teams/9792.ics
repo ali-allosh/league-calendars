@@ -1,0 +1,154 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Burton Albion — FA Cup Fixtures | Burton Albion — مب
+ اريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Burton Albion — all matches in FA Cup\, exact UTC kickoffs\,
+  stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:
+ 10Z.  •  Burton Albion — جميع المباريات في كأس ال
+ اتحاد الإنجليزي بتوقيت UTC الدقيق مع المل
+ اعب والقنوات الناقلة. المصدر: FotMob + 365scores 
+ · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010644@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Burton Albion vs St Albans (6 - 0) — FA Cup
+LOCATION:Pirelli Stadium\, Burton-upon-Trent\, Staffordshire\, England
+GEO:52.821911;-1.626878
+URL:https://www.fotmob.com/match/5010644
+DESCRIPTION:⚽ Burton Albion × St Albans (6 - 0)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الأول\n🗓 السبت 1 نو
+ فمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Pirelli Stadium، B
+ urton-upon-Trent, Staffordshire\n⚖️ الحكم: Declan Brown\n👥 ا
+ لحضور: 2,523\n—————\n⚽ Burton Albion v St Albans (6 - 0)\
+ n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Pirelli 
+ Stadium, Burton-upon-Trent, Staffordshire\nReferee: Declan Brown\nAttendan
+ ce: 2,523\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Burton Albion ضد St Albans — كأس الات
+ حاد الإنجليزي | Tomorrow: Burton Albion vs St Albans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Burton Albi
+ on × St Albans | Kick-off in 30 min: Burton Albion vs St Albans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040322@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251208T193000Z
+DTEND:20251208T213000Z
+SUMMARY:Brackley Town vs Burton Albion (1 - 3) — FA Cup
+LOCATION:St. James Park\, Brackley\, Northamptonshire\, England
+GEO:52.024594;-1.144075
+URL:https://www.fotmob.com/match/5040322
+DESCRIPTION:⚽ Brackley Town × Burton Albion (1 - 3)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الثاني\n🗓 الاثني
+ ن 8 ديسمبر 2025 · 22:30 بتوقيت الرياض\n🏟 St. James 
+ Park، Brackley, Northamptonshire\n⚖️ الحكم: Alex Chilowicz\n👥
+  الحضور: 2,978\n—————\n⚽ Brackley Town v Burton Albion (
+ 1 - 3)\n🏆 FA Cup — Round 2\n🗓 Mon 08 Dec 2025 · 19:30 UTC\n🏟 S
+ t. James Park, Brackley, Northamptonshire\nReferee: Alex Chilowicz\nAttend
+ ance: 2,978\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Brackley Town ضد Burton Albion — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Brackley Town vs Burton Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Brackley To
+ wn × Burton Albion | Kick-off in 30 min: Brackley Town vs Burton Albion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5090063@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260110T150000Z
+DTEND:20260110T170000Z
+SUMMARY:Boreham Wood vs Burton Albion (0 - 5) — FA Cup
+LOCATION:Mangata Developments Stadium Meadow Park\, Borehamwood\, Hertfords
+ hire\, England
+GEO:51.661935;-0.272384
+URL:https://www.fotmob.com/match/5090063
+DESCRIPTION:⚽ Boreham Wood × Burton Albion (0 - 5)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الثالث\n🗓 السبت 10 
+ يناير 2026 · 18:00 بتوقيت الرياض\n🏟 Mangata Developme
+ nts Stadium Meadow Park، Borehamwood, Hertfordshire\n⚖️ الحكم: A
+ ndrew Humphries\n👥 الحضور: 2,201\n—————\n⚽ Boreham Wo
+ od v Burton Albion (0 - 5)\n🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 
+ · 15:00 UTC\n🏟 Mangata Developments Stadium Meadow Park, Borehamwood, 
+ Hertfordshire\nReferee: Andrew Humphries\nAttendance: 2,201\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Boreham Wood ضد Burton Albion — كأس الا
+ تحاد الإنجليزي | Tomorrow: Boreham Wood vs Burton Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Boreham Woo
+ d × Burton Albion | Kick-off in 30 min: Boreham Wood vs Burton Albion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135169@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260214T121500Z
+DTEND:20260214T141500Z
+SUMMARY:Burton Albion vs West Ham United (0 - 1) — FA Cup
+LOCATION:Pirelli Stadium\, Burton-upon-Trent\, Staffordshire\, England
+GEO:52.821911;-1.626878
+URL:https://www.fotmob.com/match/5135169
+DESCRIPTION:⚽ Burton Albion × وست هام (0 - 1)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الرابع\n🗓 السبت 1
+ 4 فبراير 2026 · 15:15 بتوقيت الرياض\n🏟 Pirelli Stadi
+ um، Burton-upon-Trent, Staffordshire\n⚖️ الحكم: Lewis Smith\n
+ 👥 الحضور: 6,514\n—————\n⚽ Burton Albion v West Ham Un
+ ited (0 - 1)\n🏆 FA Cup — Round 4\n🗓 Sat 14 Feb 2026 · 12:15 UTC\n
+ 🏟 Pirelli Stadium, Burton-upon-Trent, Staffordshire\nReferee: Lewis Smi
+ th\nAttendance: 6,514\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Burton Albion ضد وست هام — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Burton Albion vs West Ham United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Burton Albi
+ on × وست هام | Kick-off in 30 min: Burton Albion vs West Ham United
+END:VALARM
+END:VEVENT
+END:VCALENDAR

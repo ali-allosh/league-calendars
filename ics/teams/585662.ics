@@ -1,0 +1,619 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ ZED FC — Egyptian Premier League Fixtures | زد — م
+ باريات الدوري المصري الممتاز
+X-WR-CALDESC:ZED FC — all matches in Egyptian Premier League\, exact UTC 
+ kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09
+ -05T19:31:10Z.  •  زد — جميع المباريات في الدور
+ ي المصري الممتاز بتوقيت UTC الدقيق مع المل
+ اعب والقنوات الناقلة. المصدر: FotMob + 365scores 
+ · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5995570@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260821T140000Z
+DTEND:20260821T160000Z
+SUMMARY:Wadi Degla FC vs ZED FC (0 - 0) — Egyptian Premier League
+LOCATION:Al Salam Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.174408;31.435096
+URL:https://www.fotmob.com/match/5995570
+DESCRIPTION:⚽ وادي دجلة × زد (0 - 0)\n🏆 الدوري الم
+ صري الممتاز — الجولة 1\n🗓 الجمعة 21 أغسطس 
+ 2026 · 17:00 بتوقيت الرياض\n🏟 Al Salam Stadium، al-Qāhir
+ ah (Cairo)\n⚖️ الحكم: Ibrahim Ghuloum Mohamed\n—————\n
+ ⚽ Wadi Degla FC v ZED FC (0 - 0)\n🏆 Egyptian Premier League — Match
+ day 1\n🗓 Fri 21 Aug 2026 · 14:00 UTC\n🏟 Al Salam Stadium, al-Qāhir
+ ah (Cairo)\nReferee: Ibrahim Ghuloum Mohamed\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وادي دجلة ضد زد — الدوري ال
+ مصري الممتاز | Tomorrow: Wadi Degla FC vs ZED FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وادي د
+ جلة × زد | Kick-off in 30 min: Wadi Degla FC vs ZED FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996701@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260828T170000Z
+DTEND:20260828T190000Z
+SUMMARY:ZED FC vs Al Ahly SC (0 - 2) — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996701
+DESCRIPTION:⚽ زد × الأهلي (0 - 2)\n🏆 الدوري المصر
+ ي الممتاز — الجولة 2\n🗓 الجمعة 28 أغسطس 2026
+  · 20:00 بتوقيت الرياض\n🏟 Cairo International Stadium، al
+ -Qāhirah (Cairo)\n⚖️ الحكم: Mohamed Maarouf Eid Mansour\n——
+ ———\n⚽ ZED FC v Al Ahly SC (0 - 2)\n🏆 Egyptian Premier League 
+ — Matchday 2\n🗓 Fri 28 Aug 2026 · 17:00 UTC\n🏟 Cairo Internationa
+ l Stadium, al-Qāhirah (Cairo)\nReferee: Mohamed Maarouf Eid Mansour\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: زد ضد الأهلي — الدوري المص
+ ري الممتاز | Tomorrow: ZED FC vs Al Ahly SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: زد × ا
+ لأهلي | Kick-off in 30 min: ZED FC vs Al Ahly SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996705@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260901T140000Z
+DTEND:20260901T160000Z
+SUMMARY:Tala'ea El Gaish vs ZED FC (0 - 1) — Egyptian Premier League
+LOCATION:Gehaz El Reyada Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.081149;31.303520
+URL:https://www.fotmob.com/match/5996705
+DESCRIPTION:⚽ طلائع الجيش × زد (0 - 1)\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 3\n🗓 الثلاثاء 1 سب
+ تمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Gehaz El Reyada Sta
+ dium، al-Qāhirah (Cairo)\n⚖️ الحكم: Mohamed El Atabani\n——
+ ———\n⚽ Tala'ea El Gaish v ZED FC (0 - 1)\n🏆 Egyptian Premier Le
+ ague — Matchday 3\n🗓 Tue 01 Sep 2026 · 14:00 UTC\n🏟 Gehaz El Reya
+ da Stadium, al-Qāhirah (Cairo)\nReferee: Mohamed El Atabani\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: طلائع الجيش ضد زد — الدوري 
+ المصري الممتاز | Tomorrow: Tala'ea El Gaish vs ZED FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: طلائع 
+ الجيش × زد | Kick-off in 30 min: Tala'ea El Gaish vs ZED FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996721@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260909T170000Z
+DTEND:20260909T190000Z
+SUMMARY:Al Sharkeyah-ENPPI vs ZED FC — Egyptian Premier League
+LOCATION:Al Salam Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.174408;31.435096
+URL:https://www.fotmob.com/match/5996721
+DESCRIPTION:⚽ Al Sharkeyah-ENPPI × زد\n🏆 الدوري المصري 
+ الممتاز — الجولة 4\n🗓 الأربعاء 9 سبتمبر 20
+ 26 · 20:00 بتوقيت الرياض\n🏟 Al Salam Stadium، al-Qāhirah
+  (Cairo)\n—————\n⚽ Al Sharkeyah-ENPPI v ZED FC\n🏆 Egyptian 
+ Premier League — Matchday 4\n🗓 Wed 09 Sep 2026 · 17:00 UTC\n🏟 Al 
+ Salam Stadium, al-Qāhirah (Cairo)\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Al Sharkeyah-ENPPI ضد زد — الدوري ا
+ لمصري الممتاز | Tomorrow: Al Sharkeyah-ENPPI vs ZED FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Al Sharkeya
+ h-ENPPI × زد | Kick-off in 30 min: Al Sharkeyah-ENPPI vs ZED FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996724@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260914T170000Z
+DTEND:20260914T190000Z
+SUMMARY:ZED FC vs Olympic El Qanah FC — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996724
+DESCRIPTION:⚽ زد × القناة\n🏆 الدوري المصري الم
+ متاز — الجولة 5\n🗓 الاثنين 14 سبتمبر 2026 · 2
+ 0:00 بتوقيت الرياض\n🏟 Cairo International Stadium، al-Qāh
+ irah (Cairo)\n—————\n⚽ ZED FC v Olympic El Qanah FC\n🏆 Egyp
+ tian Premier League — Matchday 5\n🗓 Mon 14 Sep 2026 · 17:00 UTC\n
+ 🏟 Cairo International Stadium, al-Qāhirah (Cairo)\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: زد ضد القناة — الدوري المص
+ ري الممتاز | Tomorrow: ZED FC vs Olympic El Qanah FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: زد × ا
+ لقناة | Kick-off in 30 min: ZED FC vs Olympic El Qanah FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996734@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261012T140000Z
+DTEND:20261012T160000Z
+SUMMARY:Al Mokawloon Al Arab vs ZED FC — Egyptian Premier League
+LOCATION:Arab Contractors Stadium (Osman Ahmed Osman Stadium)\, al-Qāhirah
+  (Cairo)\, Egypt
+GEO:30.051154;31.296996
+URL:https://www.fotmob.com/match/5996734
+DESCRIPTION:⚽ المقاولون العرب × زد\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 6\n🗓 الاثنين 12 أك
+ توبر 2026 · 17:00 بتوقيت الرياض\n🏟 Arab Contractors St
+ adium (Osman Ahmed Osman Stadium)، al-Qāhirah (Cairo)\n—————\n
+ ⚽ Al Mokawloon Al Arab v ZED FC\n🏆 Egyptian Premier League — Matchd
+ ay 6\n🗓 Mon 12 Oct 2026 · 14:00 UTC\n🏟 Arab Contractors Stadium (Os
+ man Ahmed Osman Stadium), al-Qāhirah (Cairo)\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المقاولون العرب ضد زد — ال
+ دوري المصري الممتاز | Tomorrow: Al Mokawloon Al Arab vs Z
+ ED FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المقا
+ ولون العرب × زد | Kick-off in 30 min: Al Mokawloon Al Arab vs 
+ ZED FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996749@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261021T140000Z
+DTEND:20261021T160000Z
+SUMMARY:ZED FC vs Modern Sport FC — Egyptian Premier League
+LOCATION:Arab Contractors Stadium (Osman Ahmed Osman Stadium)\, al-Qāhirah
+  (Cairo)\, Egypt
+GEO:30.051154;31.296996
+URL:https://www.fotmob.com/match/5996749
+DESCRIPTION:⚽ زد × مودرن سبورت\n🏆 الدوري المصر
+ ي الممتاز — الجولة 7\n🗓 الأربعاء 21 أكتوب
+ ر 2026 · 17:00 بتوقيت الرياض\n🏟 Arab Contractors Stadium 
+ (Osman Ahmed Osman Stadium)، al-Qāhirah (Cairo)\n—————\n⚽ ZE
+ D FC v Modern Sport FC\n🏆 Egyptian Premier League — Matchday 7\n🗓 
+ Wed 21 Oct 2026 · 14:00 UTC\n🏟 Arab Contractors Stadium (Osman Ahmed O
+ sman Stadium), al-Qāhirah (Cairo)\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: زد ضد مودرن سبورت — الدوري 
+ المصري الممتاز | Tomorrow: ZED FC vs Modern Sport FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: زد × م
+ ودرن سبورت | Kick-off in 30 min: ZED FC vs Modern Sport FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996760@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261031T180000Z
+DTEND:20261031T200000Z
+SUMMARY:Ceramica Cleopatra vs ZED FC — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996760
+DESCRIPTION:⚽ سيراميكا كليوباترا × زد\n🏆 الدو
+ ري المصري الممتاز — الجولة 8\n🗓 السبت 31 أ
+ كتوبر 2026 · 21:00 بتوقيت الرياض\n🏟 Suez Canal Author
+ ity Stadium\n—————\n⚽ Ceramica Cleopatra v ZED FC\n🏆 Egypti
+ an Premier League — Matchday 8\n🗓 Sat 31 Oct 2026 · 18:00 UTC\n🏟 
+ Suez Canal Authority Stadium\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيراميكا كليوباترا ضد زد —
+  الدوري المصري الممتاز | Tomorrow: Ceramica Cleopatra v
+ s ZED FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيرام
+ يكا كليوباترا × زد | Kick-off in 30 min: Ceramica Cleopatra
+  vs ZED FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996765@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261124T150000Z
+DTEND:20261124T170000Z
+SUMMARY:ZED FC vs Abo Qir Semad — Egyptian Premier League
+LOCATION:Suez Stadium
+URL:https://www.fotmob.com/match/5996765
+DESCRIPTION:⚽ زد × ابو قير للاسمدة\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 9\n🗓 الثلاثاء 24 ن
+ وفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Suez Stadium\n—
+ ————\n⚽ ZED FC v Abo Qir Semad\n🏆 Egyptian Premier League —
+  Matchday 9\n🗓 Tue 24 Nov 2026 · 15:00 UTC\n🏟 Suez Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: زد ضد ابو قير للاسمدة — الد
+ وري المصري الممتاز | Tomorrow: ZED FC vs Abo Qir Semad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: زد × ا
+ بو قير للاسمدة | Kick-off in 30 min: ZED FC vs Abo Qir Semad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996779@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261210T150000Z
+DTEND:20261210T170000Z
+SUMMARY:Asyut Petroleum vs ZED FC — Egyptian Premier League
+LOCATION:Asyut University Stadium
+URL:https://www.fotmob.com/match/5996779
+DESCRIPTION:⚽ أسيوط بتروليوم × زد\n🏆 الدوري ال
+ مصري الممتاز — الجولة 10\n🗓 الخميس 10 ديسم
+ بر 2026 · 18:00 بتوقيت الرياض\n🏟 Asyut University Stadiu
+ m\n—————\n⚽ Asyut Petroleum v ZED FC\n🏆 Egyptian Premier Le
+ ague — Matchday 10\n🗓 Thu 10 Dec 2026 · 15:00 UTC\n🏟 Asyut Univer
+ sity Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أسيوط بتروليوم ضد زد — الد
+ وري المصري الممتاز | Tomorrow: Asyut Petroleum vs ZED FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أسيوط 
+ بتروليوم × زد | Kick-off in 30 min: Asyut Petroleum vs ZED FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996784@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261214T180000Z
+DTEND:20261214T200000Z
+SUMMARY:ZED FC vs Petrojet-Suez — Egyptian Premier League
+LOCATION:Suez Stadium
+URL:https://www.fotmob.com/match/5996784
+DESCRIPTION:⚽ زد × منتخب السويس بتروجت\n🏆 الدو
+ ري المصري الممتاز — الجولة 11\n🗓 الاثنين 
+ 14 ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Suez Stadium
+ \n—————\n⚽ ZED FC v Petrojet-Suez\n🏆 Egyptian Premier Leagu
+ e — Matchday 11\n🗓 Mon 14 Dec 2026 · 18:00 UTC\n🏟 Suez Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: زد ضد منتخب السويس بتروجت 
+ — الدوري المصري الممتاز | Tomorrow: ZED FC vs Petroje
+ t-Suez
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: زد × م
+ نتخب السويس بتروجت | Kick-off in 30 min: ZED FC vs Petroje
+ t-Suez
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996799@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261224T150000Z
+DTEND:20261224T170000Z
+SUMMARY:Al Ittihad Alexandria vs ZED FC — Egyptian Premier League
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996799
+DESCRIPTION:⚽ الاتحاد السكندري × زد\n🏆 الدوري 
+ المصري الممتاز — الجولة 12\n🗓 الخميس 24 دي
+ سمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Alexandria Stadium\
+ n—————\n⚽ Al Ittihad Alexandria v ZED FC\n🏆 Egyptian Premie
+ r League — Matchday 12\n🗓 Thu 24 Dec 2026 · 15:00 UTC\n🏟 Alexandr
+ ia Stadium\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد السكندري ضد زد — ا
+ لدوري المصري الممتاز | Tomorrow: Al Ittihad Alexandria v
+ s ZED FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد السكندري × زد | Kick-off in 30 min: Al Ittihad Alexandria 
+ vs ZED FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996806@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261228T150000Z
+DTEND:20261228T170000Z
+SUMMARY:ZED FC vs Smouha SC — Egyptian Premier League
+LOCATION:Suez Stadium
+URL:https://www.fotmob.com/match/5996806
+DESCRIPTION:⚽ زد × سموحة\n🏆 الدوري المصري المم
+ تاز — الجولة 13\n🗓 الاثنين 28 ديسمبر 2026 · 18
+ :00 بتوقيت الرياض\n🏟 Suez Stadium\n—————\n⚽ ZED
+  FC v Smouha SC\n🏆 Egyptian Premier League — Matchday 13\n🗓 Mon 28
+  Dec 2026 · 15:00 UTC\n🏟 Suez Stadium\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: زد ضد سموحة — الدوري المصر
+ ي الممتاز | Tomorrow: ZED FC vs Smouha SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: زد × س
+ موحة | Kick-off in 30 min: ZED FC vs Smouha SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996816@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270105T180000Z
+DTEND:20270105T200000Z
+SUMMARY:Ghazl Al Mahalla vs ZED FC — Egyptian Premier League
+LOCATION:Ghazl El Mahalla Stadium
+URL:https://www.fotmob.com/match/5996816
+DESCRIPTION:⚽ غزل المحلة × زد\n🏆 الدوري المصري
+  الممتاز — الجولة 14\n🗓 الثلاثاء 5 يناير 20
+ 27 · 21:00 بتوقيت الرياض\n🏟 Ghazl El Mahalla Stadium\n—
+ ————\n⚽ Ghazl Al Mahalla v ZED FC\n🏆 Egyptian Premier League 
+ — Matchday 14\n🗓 Tue 05 Jan 2027 · 18:00 UTC\n🏟 Ghazl El Mahalla 
+ Stadium\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غزل المحلة ضد زد — الدوري ا
+ لمصري الممتاز | Tomorrow: Ghazl Al Mahalla vs ZED FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غزل ال
+ محلة × زد | Kick-off in 30 min: Ghazl Al Mahalla vs ZED FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996829@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270127T180000Z
+DTEND:20270127T200000Z
+SUMMARY:ZED FC vs Zamalek SC — Egyptian Premier League
+LOCATION:Suez Stadium
+URL:https://www.fotmob.com/match/5996829
+DESCRIPTION:⚽ زد × الزمالك\n🏆 الدوري المصري ال
+ ممتاز — الجولة 15\n🗓 الأربعاء 27 يناير 2027 
+ · 21:00 بتوقيت الرياض\n🏟 Suez Stadium\n—————\n
+ ⚽ ZED FC v Zamalek SC\n🏆 Egyptian Premier League — Matchday 15\n
+ 🗓 Wed 27 Jan 2027 · 18:00 UTC\n🏟 Suez Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: زد ضد الزمالك — الدوري الم
+ صري الممتاز | Tomorrow: ZED FC vs Zamalek SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: زد × ا
+ لزمالك | Kick-off in 30 min: ZED FC vs Zamalek SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996836@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270131T180000Z
+DTEND:20270131T200000Z
+SUMMARY:Al Masry SC vs ZED FC — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996836
+DESCRIPTION:⚽ المصري × زد\n🏆 الدوري المصري الم
+ متاز — الجولة 16\n🗓 الأحد 31 يناير 2027 · 21:00 
+ بتوقيت الرياض\n🏟 Cairo Int'l Stadium\n—————\n⚽ 
+ Al Masry SC v ZED FC\n🏆 Egyptian Premier League — Matchday 16\n🗓 S
+ un 31 Jan 2027 · 18:00 UTC\n🏟 Cairo Int'l Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المصري ضد زد — الدوري المص
+ ري الممتاز | Tomorrow: Al Masry SC vs ZED FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المصر
+ ي × زد | Kick-off in 30 min: Al Masry SC vs ZED FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996847@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270205T180000Z
+DTEND:20270205T200000Z
+SUMMARY:ZED FC vs National Bank — Egyptian Premier League
+LOCATION:Suez Stadium
+URL:https://www.fotmob.com/match/5996847
+DESCRIPTION:⚽ زد × البنك الاهلي\n🏆 الدوري المص
+ ري الممتاز — الجولة 17\n🗓 الجمعة 5 فبراير 
+ 2027 · 21:00 بتوقيت الرياض\n🏟 Suez Stadium\n————
+ —\n⚽ ZED FC v National Bank\n🏆 Egyptian Premier League — Matchday
+  17\n🗓 Fri 05 Feb 2027 · 18:00 UTC\n🏟 Suez Stadium\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: زد ضد البنك الاهلي — الدور
+ ي المصري الممتاز | Tomorrow: ZED FC vs National Bank
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: زد × ا
+ لبنك الاهلي | Kick-off in 30 min: ZED FC vs National Bank
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996852@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270210T193000Z
+DTEND:20270210T213000Z
+SUMMARY:El Gouna FC vs ZED FC — Egyptian Premier League
+LOCATION:Khaled Bichara Stadium
+URL:https://www.fotmob.com/match/5996852
+DESCRIPTION:⚽ الجونة × زد\n🏆 الدوري المصري الم
+ متاز — الجولة 18\n🗓 الأربعاء 10 فبراير 2027 
+ · 22:30 بتوقيت الرياض\n🏟 Khaled Bichara Stadium\n———
+ ——\n⚽ El Gouna FC v ZED FC\n🏆 Egyptian Premier League — Matchda
+ y 18\n🗓 Wed 10 Feb 2027 · 19:30 UTC\n🏟 Khaled Bichara Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجونة ضد زد — الدوري المص
+ ري الممتاز | Tomorrow: El Gouna FC vs ZED FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجون
+ ة × زد | Kick-off in 30 min: El Gouna FC vs ZED FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996864@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270218T193000Z
+DTEND:20270218T213000Z
+SUMMARY:ZED FC vs Pyramids FC — Egyptian Premier League
+LOCATION:Suez Stadium
+URL:https://www.fotmob.com/match/5996864
+DESCRIPTION:⚽ زد × بيراميدز\n🏆 الدوري المصري ا
+ لممتاز — الجولة 19\n🗓 الخميس 18 فبراير 2027 
+ · 22:30 بتوقيت الرياض\n🏟 Suez Stadium\n—————\n
+ ⚽ ZED FC v Pyramids FC\n🏆 Egyptian Premier League — Matchday 19\n
+ 🗓 Thu 18 Feb 2027 · 19:30 UTC\n🏟 Suez Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: زد ضد بيراميدز — الدوري ال
+ مصري الممتاز | Tomorrow: ZED FC vs Pyramids FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: زد × ب
+ يراميدز | Kick-off in 30 min: ZED FC vs Pyramids FC
+END:VALARM
+END:VEVENT
+END:VCALENDAR

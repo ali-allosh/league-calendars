@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Leyton Orient — FA Cup Fixtures | Leyton Orient — مب
+ اريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Leyton Orient — all matches in FA Cup\, exact UTC kickoffs\,
+  stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:
+ 10Z.  •  Leyton Orient — جميع المباريات في كأس ال
+ اتحاد الإنجليزي بتوقيت UTC الدقيق مع المل
+ اعب والقنوات الناقلة. المصدر: FotMob + 365scores 
+ · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010630@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251103T193000Z
+DTEND:20251103T213000Z
+SUMMARY:Tamworth vs Leyton Orient (0 - 1) — FA Cup
+LOCATION:The Lamb Ground\, Tamworth\, Staffordshire\, England
+GEO:52.628402;-1.688931
+URL:https://www.fotmob.com/match/5010630
+DESCRIPTION:⚽ Tamworth × Leyton Orient (0 - 1)\n🏆 كأس الاتحا
+ د الإنجليزي — الدور الأول\n🗓 الاثنين 3 ن
+ وفمبر 2025 · 22:30 بتوقيت الرياض\n🏟 The Lamb Ground،
+  Tamworth, Staffordshire\n⚖️ الحكم: Matthew Corlett\n👥 الح
+ ضور: 2,820\n—————\n⚽ Tamworth v Leyton Orient (0 - 1)\n🏆
+  FA Cup — Round 1\n🗓 Mon 03 Nov 2025 · 19:30 UTC\n🏟 The Lamb Grou
+ nd, Tamworth, Staffordshire\nReferee: Matthew Corlett\nAttendance: 2,820\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Tamworth ضد Leyton Orient — كأس الاتح
+ اد الإنجليزي | Tomorrow: Tamworth vs Leyton Orient
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Tamworth ×
+  Leyton Orient | Kick-off in 30 min: Tamworth vs Leyton Orient
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040472@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251205T193000Z
+DTEND:20251205T213000Z
+SUMMARY:Salford City vs Leyton Orient (4 - 0) — FA Cup
+LOCATION:The Peninsula Stadium\, Salford\, Greater Manchester\, England
+GEO:53.513610;-2.276772
+URL:https://www.fotmob.com/match/5040472
+DESCRIPTION:⚽ Salford City × Leyton Orient (4 - 0)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الثاني\n🗓 الجمعة 5
+  ديسمبر 2025 · 22:30 بتوقيت الرياض\n🏟 The Peninsula 
+ Stadium، Salford, Greater Manchester\n⚖️ الحكم: Ben Speedie\n
+ 👥 الحضور: 1,796\n—————\n⚽ Salford City v Leyton Orien
+ t (4 - 0)\n🏆 FA Cup — Round 2\n🗓 Fri 05 Dec 2025 · 19:30 UTC\n
+ 🏟 The Peninsula Stadium, Salford, Greater Manchester\nReferee: Ben Spee
+ die\nAttendance: 1,796\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Salford City ضد Leyton Orient — كأس الا
+ تحاد الإنجليزي | Tomorrow: Salford City vs Leyton Orient
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Salford Cit
+ y × Leyton Orient | Kick-off in 30 min: Salford City vs Leyton Orient
+END:VALARM
+END:VEVENT
+END:VCALENDAR

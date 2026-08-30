@@ -1,0 +1,1367 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Paris Saint-Germain — Ligue 1 & UEFA Champions League Fi
+ xtures | باريس سان جيرمان — مباريات الدوري ا
+ لفرنسي ودوري أبطال أوروبا
+X-WR-CALDESC:Paris Saint-Germain — all matches in Ligue 1 & UEFA Champion
+ s League\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores ·
+  auto-updated 2026-09-05T19:31:10Z.  •  باريس سان جيرمان 
+ — جميع المباريات في الدوري الفرنسي ودور
+ ي أبطال أوروبا بتوقيت UTC الدقيق مع الملاع
+ ب والقنوات الناقلة. المصدر: FotMob + 365scores · ت
+ حديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5803105@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260823T184500Z
+DTEND:20260823T204500Z
+SUMMARY:Rennes vs Paris Saint-Germain (2 - 2) — Ligue 1
+LOCATION:Roazhon Park\, Rennes\, France
+GEO:48.107467;-1.712884
+URL:https://www.fotmob.com/match/5803105
+DESCRIPTION:⚽ ستاد رين × باريس سان جيرمان (2 - 2)\n
+ 🏆 الدوري الفرنسي — الجولة 1\n🗓 الأحد 23 أ
+ غسطس 2026 · 21:45 بتوقيت الرياض\n🏟 Roazhon Park، Renn
+ es\n⚖️ الحكم: Bastien Dechepy\n👥 الحضور: 28,255\n——
+ ———\n⚽ Rennes v Paris Saint-Germain (2 - 2)\n🏆 Ligue 1 — Matc
+ hday 1\n🗓 Sun 23 Aug 2026 · 18:45 UTC\n🏟 Roazhon Park, Rennes\nRefe
+ ree: Bastien Dechepy\nAttendance: 28,255\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد باريس سان جيرما
+ ن — الدوري الفرنسي | Tomorrow: Rennes vs Paris Saint-Germa
+ in
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × باريس سان جيرمان | Kick-off in 30 min: Rennes vs Par
+ is Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802918@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260828T190000Z
+DTEND:20260828T210000Z
+SUMMARY:Lille vs Paris Saint-Germain (2 - 2) — Ligue 1
+LOCATION:Decathlon Arena - Stade Pierre-Mauroy\, Villeneuve d'Ascq\, France
+GEO:50.611965;3.130484
+URL:https://www.fotmob.com/match/5802918
+DESCRIPTION:⚽ ليل × باريس سان جيرمان (2 - 2)\n🏆 ال
+ دوري الفرنسي — الجولة 2\n🗓 الجمعة 28 أغسط
+ س 2026 · 22:00 بتوقيت الرياض\n🏟 Decathlon Arena - Stade P
+ ierre-Mauroy، Villeneuve d'Ascq\n⚖️ الحكم: Eric Wattellier\n👥
+  الحضور: 47,793\n—————\n⚽ Lille v Paris Saint-Germain (2
+  - 2)\n🏆 Ligue 1 — Matchday 2\n🗓 Fri 28 Aug 2026 · 19:00 UTC\n
+ 🏟 Decathlon Arena - Stade Pierre-Mauroy, Villeneuve d'Ascq\nReferee: Er
+ ic Wattellier\nAttendance: 47,793\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليل ضد باريس سان جيرمان — ا
+ لدوري الفرنسي | Tomorrow: Lille vs Paris Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليل × 
+ باريس سان جيرمان | Kick-off in 30 min: Lille vs Paris Saint-
+ Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802925@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260904T190500Z
+DTEND:20260904T210500Z
+SUMMARY:Paris Saint-Germain vs Monaco (1 - 2) — Ligue 1
+LOCATION:Parc des Princes\, Paris\, France
+GEO:48.841433;2.253049
+URL:https://www.fotmob.com/match/5802925
+DESCRIPTION:⚽ باريس سان جيرمان × موناكو (1 - 2)\n
+ 🏆 الدوري الفرنسي — الجولة 3\n🗓 الجمعة 4 
+ سبتمبر 2026 · 22:05 بتوقيت الرياض\n🏟 Parc des Prince
+ s، Paris\n⚖️ الحكم: Jérôme Brisard\n—————\n⚽ Paris
+  Saint-Germain v Monaco (1 - 2)\n🏆 Ligue 1 — Matchday 3\n🗓 Fri 04 
+ Sep 2026 · 19:05 UTC\n🏟 Parc des Princes, Paris\nReferee: Jérôme Bri
+ sard\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد موناكو 
+ — الدوري الفرنسي | Tomorrow: Paris Saint-Germain vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × موناكو | Kick-off in 30 min: Paris Saint-Germ
+ ain vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802929@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260913T184500Z
+DTEND:20260913T204500Z
+SUMMARY:Brest vs Paris Saint-Germain — Ligue 1
+LOCATION:Stade Francis-Le Blé\, Brest\, France
+GEO:48.402882;-4.461458
+URL:https://www.fotmob.com/match/5802929
+DESCRIPTION:⚽ بريست × باريس سان جيرمان\n🏆 الدو
+ ري الفرنسي — الجولة 4\n🗓 الأحد 13 سبتمبر 20
+ 26 · 21:45 بتوقيت الرياض\n🏟 Stade Francis-Le Blé، Brest\
+ n—————\n⚽ Brest v Paris Saint-Germain\n🏆 Ligue 1 — Matchd
+ ay 4\n🗓 Sun 13 Sep 2026 · 18:45 UTC\n🏟 Stade Francis-Le Blé, Brest
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد باريس سان جيرمان 
+ — الدوري الفرنسي | Tomorrow: Brest vs Paris Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × باريس سان جيرمان | Kick-off in 30 min: Brest vs Paris Sai
+ nt-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802945@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T184500Z
+DTEND:20260920T204500Z
+SUMMARY:Marseille vs Paris Saint-Germain — Ligue 1
+LOCATION:Orange Vélodrome\, Marseille\, France
+GEO:43.269870;5.395854
+URL:https://www.fotmob.com/match/5802945
+DESCRIPTION:⚽ مارسيليا × باريس سان جيرمان\n🏆 ا
+ لدوري الفرنسي — الجولة 5\n🗓 الأحد 20 سبتم
+ بر 2026 · 21:45 بتوقيت الرياض\n🏟 Orange Vélodrome، Mar
+ seille\n—————\n⚽ Marseille v Paris Saint-Germain\n🏆 Ligue 1
+  — Matchday 5\n🗓 Sun 20 Sep 2026 · 18:45 UTC\n🏟 Orange Vélodrome
+ , Marseille\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مارسيليا ضد باريس سان جيرم
+ ان — الدوري الفرنسي | Tomorrow: Marseille vs Paris Saint-
+ Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مارسي
+ ليا × باريس سان جيرمان | Kick-off in 30 min: Marseille v
+ s Paris Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802952@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T184500Z
+DTEND:20261010T204500Z
+SUMMARY:Paris Saint-Germain vs Le Mans — Ligue 1
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/5802952
+DESCRIPTION:⚽ باريس سان جيرمان × لومان\n🏆 الدو
+ ري الفرنسي — الجولة 6\n🗓 السبت 10 أكتوبر 20
+ 26 · 21:45 بتوقيت الرياض\n🏟 Parc des Princes\n————
+ —\n⚽ Paris Saint-Germain v Le Mans\n🏆 Ligue 1 — Matchday 6\n🗓 
+ Sat 10 Oct 2026 · 18:45 UTC\n🏟 Parc des Princes\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد لومان 
+ — الدوري الفرنسي | Tomorrow: Paris Saint-Germain vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × لومان | Kick-off in 30 min: Paris Saint-Germai
+ n vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802962@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T151500Z
+DTEND:20261017T171500Z
+SUMMARY:Strasbourg vs Paris Saint-Germain — Ligue 1
+LOCATION:Stade de la Meinau
+URL:https://www.fotmob.com/match/5802962
+DESCRIPTION:⚽ ستراسبورج × باريس سان جيرمان\n🏆 
+ الدوري الفرنسي — الجولة 7\n🗓 السبت 17 أكت
+ وبر 2026 · 18:15 بتوقيت الرياض\n🏟 Stade de la Meinau\n
+ —————\n⚽ Strasbourg v Paris Saint-Germain\n🏆 Ligue 1 — Ma
+ tchday 7\n🗓 Sat 17 Oct 2026 · 15:15 UTC\n🏟 Stade de la Meinau\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد باريس سان جير
+ مان — الدوري الفرنسي | Tomorrow: Strasbourg vs Paris Sai
+ nt-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × باريس سان جيرمان | Kick-off in 30 min: Strasbour
+ g vs Paris Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802972@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T194500Z
+DTEND:20261025T214500Z
+SUMMARY:Paris Saint-Germain vs Lyon — Ligue 1
+LOCATION:Parc des Princes\, Paris\, France
+GEO:48.841433;2.253049
+URL:https://www.fotmob.com/match/5802972
+DESCRIPTION:⚽ باريس سان جيرمان × أولمبيك ليون\n
+ 🏆 الدوري الفرنسي — الجولة 8\n🗓 الأحد 25 أ
+ كتوبر 2026 · 22:45 بتوقيت الرياض\n🏟 Parc des Princes
+ ، Paris\n—————\n⚽ Paris Saint-Germain v Lyon\n🏆 Ligue 1 
+ — Matchday 8\n🗓 Sun 25 Oct 2026 · 19:45 UTC\n🏟 Parc des Princes, 
+ Paris\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد أولمبي
+ ك ليون — الدوري الفرنسي | Tomorrow: Paris Saint-Germai
+ n vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × أولمبيك ليون | Kick-off in 30 min: Paris
+  Saint-Germain vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802973@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261030T180000Z
+DTEND:20261030T200000Z
+SUMMARY:Le Havre vs Paris Saint-Germain — Ligue 1
+LOCATION:Stade Oceane
+URL:https://www.fotmob.com/match/5802973
+DESCRIPTION:⚽ لو آفر × باريس سان جيرمان\n🏆 الد
+ وري الفرنسي — الجولة 9\n🗓 الجمعة 30 أكتوب
+ ر 2026 · 21:00 بتوقيت الرياض\n🏟 Stade Oceane\n———
+ ——\n⚽ Le Havre v Paris Saint-Germain\n🏆 Ligue 1 — Matchday 9\n
+ 🗓 Fri 30 Oct 2026 · 18:00 UTC\n🏟 Stade Oceane\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لو آفر ضد باريس سان جيرمان 
+ — الدوري الفرنسي | Tomorrow: Le Havre vs Paris Saint-Germai
+ n
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لو آفر
+  × باريس سان جيرمان | Kick-off in 30 min: Le Havre vs Paris
+  Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802987@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T194500Z
+DTEND:20261107T214500Z
+SUMMARY:Paris Saint-Germain vs Troyes — Ligue 1
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/5802987
+DESCRIPTION:⚽ باريس سان جيرمان × تروا\n🏆 الدور
+ ي الفرنسي — الجولة 10\n🗓 السبت 7 نوفمبر 2026
+  · 22:45 بتوقيت الرياض\n🏟 Parc des Princes\n————
+ —\n⚽ Paris Saint-Germain v Troyes\n🏆 Ligue 1 — Matchday 10\n🗓 
+ Sat 07 Nov 2026 · 19:45 UTC\n🏟 Parc des Princes\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد تروا — 
+ الدوري الفرنسي | Tomorrow: Paris Saint-Germain vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × تروا | Kick-off in 30 min: Paris Saint-Germain 
+ vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802996@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T161500Z
+DTEND:20261121T181500Z
+SUMMARY:Nice vs Paris Saint-Germain — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5802996
+DESCRIPTION:⚽ نيس × باريس سان جيرمان\n🏆 الدوري
+  الفرنسي — الجولة 11\n🗓 السبت 21 نوفمبر 2026 
+ · 19:15 بتوقيت الرياض\n🏟 Allianz Riviera\n—————\
+ n⚽ Nice v Paris Saint-Germain\n🏆 Ligue 1 — Matchday 11\n🗓 Sat 21
+  Nov 2026 · 16:15 UTC\n🏟 Allianz Riviera\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد باريس سان جيرمان — ا
+ لدوري الفرنسي | Tomorrow: Nice vs Paris Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ باريس سان جيرمان | Kick-off in 30 min: Nice vs Paris Saint-G
+ ermain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803007@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:Paris Saint-Germain vs Lorient — Ligue 1
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/5803007
+DESCRIPTION:⚽ باريس سان جيرمان × لوريان\n🏆 الد
+ وري الفرنسي — الجولة 12\n🗓 السبت 28 نوفمبر
+  2026 · 19:00 بتوقيت الرياض\n🏟 Parc des Princes\n———
+ ——\n⚽ Paris Saint-Germain v Lorient\n🏆 Ligue 1 — Matchday 12\n
+ 🗓 Sat 28 Nov 2026 · 16:00 UTC\n🏟 Parc des Princes\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد لوريان 
+ — الدوري الفرنسي | Tomorrow: Paris Saint-Germain vs Lorient
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × لوريان | Kick-off in 30 min: Paris Saint-Germ
+ ain vs Lorient
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803016@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T160000Z
+DTEND:20261205T180000Z
+SUMMARY:Toulouse vs Paris Saint-Germain — Ligue 1
+LOCATION:Stadium de Toulouse
+URL:https://www.fotmob.com/match/5803016
+DESCRIPTION:⚽ تولوز × باريس سان جيرمان\n🏆 الدو
+ ري الفرنسي — الجولة 13\n🗓 السبت 5 ديسمبر 20
+ 26 · 19:00 بتوقيت الرياض\n🏟 Stadium de Toulouse\n———
+ ——\n⚽ Toulouse v Paris Saint-Germain\n🏆 Ligue 1 — Matchday 13\n
+ 🗓 Sat 05 Dec 2026 · 16:00 UTC\n🏟 Stadium de Toulouse\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تولوز ضد باريس سان جيرمان 
+ — الدوري الفرنسي | Tomorrow: Toulouse vs Paris Saint-Germai
+ n
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تولوز 
+ × باريس سان جيرمان | Kick-off in 30 min: Toulouse vs Paris 
+ Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803024@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T160000Z
+DTEND:20261212T180000Z
+SUMMARY:Paris Saint-Germain vs Paris FC — Ligue 1
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/5803024
+DESCRIPTION:⚽ باريس سان جيرمان × باريس أف.سي.\n
+ 🏆 الدوري الفرنسي — الجولة 14\n🗓 السبت 12 
+ ديسمبر 2026 · 19:00 بتوقيت الرياض\n🏟 Parc des Prince
+ s\n—————\n⚽ Paris Saint-Germain v Paris FC\n🏆 Ligue 1 — M
+ atchday 14\n🗓 Sat 12 Dec 2026 · 16:00 UTC\n🏟 Parc des Princes\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد باريس أ
+ ف.سي. — الدوري الفرنسي | Tomorrow: Paris Saint-Germain v
+ s Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × باريس أف.سي. | Kick-off in 30 min: Paris S
+ aint-Germain vs Paris FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803035@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T194500Z
+DTEND:20270103T214500Z
+SUMMARY:Lens vs Paris Saint-Germain — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5803035
+DESCRIPTION:⚽ لانس × باريس سان جيرمان\n🏆 الدور
+ ي الفرنسي — الجولة 15\n🗓 الأحد 3 يناير 2027 
+ · 22:45 بتوقيت الرياض\n🏟 Stade Bollaert-Delelis\n———
+ ——\n⚽ Lens v Paris Saint-Germain\n🏆 Ligue 1 — Matchday 15\n🗓
+  Sun 03 Jan 2027 · 19:45 UTC\n🏟 Stade Bollaert-Delelis\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد باريس سان جيرمان — 
+ الدوري الفرنسي | Tomorrow: Lens vs Paris Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  باريس سان جيرمان | Kick-off in 30 min: Lens vs Paris Saint-
+ Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803036@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T160000Z
+DTEND:20270116T180000Z
+SUMMARY:Angers vs Paris Saint-Germain — Ligue 1
+LOCATION:Stade Raymond Kopa
+URL:https://www.fotmob.com/match/5803036
+DESCRIPTION:⚽ أنجيه × باريس سان جيرمان\n🏆 الدو
+ ري الفرنسي — الجولة 16\n🗓 السبت 16 يناير 202
+ 7 · 19:00 بتوقيت الرياض\n🏟 Stade Raymond Kopa\n———
+ ——\n⚽ Angers v Paris Saint-Germain\n🏆 Ligue 1 — Matchday 16\n
+ 🗓 Sat 16 Jan 2027 · 16:00 UTC\n🏟 Stade Raymond Kopa\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أنجيه ضد باريس سان جيرمان 
+ — الدوري الفرنسي | Tomorrow: Angers vs Paris Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أنجيه 
+ × باريس سان جيرمان | Kick-off in 30 min: Angers vs Paris Sa
+ int-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803050@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T160000Z
+DTEND:20270123T180000Z
+SUMMARY:Paris Saint-Germain vs Auxerre — Ligue 1
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/5803050
+DESCRIPTION:⚽ باريس سان جيرمان × أوكسير\n🏆 الد
+ وري الفرنسي — الجولة 17\n🗓 السبت 23 يناير 2
+ 027 · 19:00 بتوقيت الرياض\n🏟 Parc des Princes\n———
+ ——\n⚽ Paris Saint-Germain v Auxerre\n🏆 Ligue 1 — Matchday 17\n
+ 🗓 Sat 23 Jan 2027 · 16:00 UTC\n🏟 Parc des Princes\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد أوكسير 
+ — الدوري الفرنسي | Tomorrow: Paris Saint-Germain vs Auxerre
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × أوكسير | Kick-off in 30 min: Paris Saint-Germ
+ ain vs Auxerre
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803059@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T160000Z
+DTEND:20270130T180000Z
+SUMMARY:Monaco vs Paris Saint-Germain — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5803059
+DESCRIPTION:⚽ موناكو × باريس سان جيرمان\n🏆 الد
+ وري الفرنسي — الجولة 18\n🗓 السبت 30 يناير 2
+ 027 · 19:00 بتوقيت الرياض\n🏟 Stade Louis II, Monaco\n—
+ ————\n⚽ Monaco v Paris Saint-Germain\n🏆 Ligue 1 — Matchday 
+ 18\n🗓 Sat 30 Jan 2027 · 16:00 UTC\n🏟 Stade Louis II, Monaco\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد باريس سان جيرمان 
+ — الدوري الفرنسي | Tomorrow: Monaco vs Paris Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × باريس سان جيرمان | Kick-off in 30 min: Monaco vs Paris
+  Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803071@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T194500Z
+DTEND:20270207T214500Z
+SUMMARY:Paris Saint-Germain vs Marseille — Ligue 1
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/5803071
+DESCRIPTION:⚽ باريس سان جيرمان × مارسيليا\n🏆 ا
+ لدوري الفرنسي — الجولة 19\n🗓 الأحد 7 فبرا
+ ير 2027 · 22:45 بتوقيت الرياض\n🏟 Parc des Princes\n—
+ ————\n⚽ Paris Saint-Germain v Marseille\n🏆 Ligue 1 — Matchd
+ ay 19\n🗓 Sun 07 Feb 2027 · 19:45 UTC\n🏟 Parc des Princes\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد مارسيل
+ يا — الدوري الفرنسي | Tomorrow: Paris Saint-Germain vs Ma
+ rseille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × مارسيليا | Kick-off in 30 min: Paris Saint-
+ Germain vs Marseille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803074@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270213T160000Z
+DTEND:20270213T180000Z
+SUMMARY:Le Mans vs Paris Saint-Germain — Ligue 1
+LOCATION:Stade Marie-Marvingt
+URL:https://www.fotmob.com/match/5803074
+DESCRIPTION:⚽ لومان × باريس سان جيرمان\n🏆 الدو
+ ري الفرنسي — الجولة 20\n🗓 السبت 13 فبراير 2
+ 027 · 19:00 بتوقيت الرياض\n🏟 Stade Marie-Marvingt\n——
+ ———\n⚽ Le Mans v Paris Saint-Germain\n🏆 Ligue 1 — Matchday 20
+ \n🗓 Sat 13 Feb 2027 · 16:00 UTC\n🏟 Stade Marie-Marvingt\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد باريس سان جيرمان 
+ — الدوري الفرنسي | Tomorrow: Le Mans vs Paris Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × باريس سان جيرمان | Kick-off in 30 min: Le Mans vs Paris S
+ aint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803087@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T160000Z
+DTEND:20270220T180000Z
+SUMMARY:Paris Saint-Germain vs Brest — Ligue 1
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/5803087
+DESCRIPTION:⚽ باريس سان جيرمان × بريست\n🏆 الدو
+ ري الفرنسي — الجولة 21\n🗓 السبت 20 فبراير 2
+ 027 · 19:00 بتوقيت الرياض\n🏟 Parc des Princes\n———
+ ——\n⚽ Paris Saint-Germain v Brest\n🏆 Ligue 1 — Matchday 21\n
+ 🗓 Sat 20 Feb 2027 · 16:00 UTC\n🏟 Parc des Princes\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد بريست 
+ — الدوري الفرنسي | Tomorrow: Paris Saint-Germain vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × بريست | Kick-off in 30 min: Paris Saint-Germai
+ n vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803098@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T194500Z
+DTEND:20270228T214500Z
+SUMMARY:Paris Saint-Germain vs Lens — Ligue 1
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/5803098
+DESCRIPTION:⚽ باريس سان جيرمان × لانس\n🏆 الدور
+ ي الفرنسي — الجولة 22\n🗓 الأحد 28 فبراير 202
+ 7 · 22:45 بتوقيت الرياض\n🏟 Parc des Princes\n————
+ —\n⚽ Paris Saint-Germain v Lens\n🏆 Ligue 1 — Matchday 22\n🗓 Su
+ n 28 Feb 2027 · 19:45 UTC\n🏟 Parc des Princes\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد لانس — 
+ الدوري الفرنسي | Tomorrow: Paris Saint-Germain vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × لانس | Kick-off in 30 min: Paris Saint-Germain 
+ vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802907@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270306T160000Z
+DTEND:20270306T180000Z
+SUMMARY:Paris Saint-Germain vs Rennes — Ligue 1
+LOCATION:Parc des Princes\, Paris\, France
+GEO:48.841433;2.253049
+URL:https://www.fotmob.com/match/5802907
+DESCRIPTION:⚽ باريس سان جيرمان × ستاد رين\n🏆 ا
+ لدوري الفرنسي — الجولة 23\n🗓 السبت 6 مارس 
+ 2027 · 19:00 بتوقيت الرياض\n🏟 Parc des Princes، Paris\n
+ ⚖️ الحكم: Bastien Dechepy\n—————\n⚽ Paris Saint-Germa
+ in v Rennes\n🏆 Ligue 1 — Matchday 23\n🗓 Sat 06 Mar 2027 · 16:00 U
+ TC\n🏟 Parc des Princes, Paris\nReferee: Bastien Dechepy\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد ستاد ري
+ ن — الدوري الفرنسي | Tomorrow: Paris Saint-Germain vs Renn
+ es
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × ستاد رين | Kick-off in 30 min: Paris Saint-G
+ ermain vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803108@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T160000Z
+DTEND:20270313T180000Z
+SUMMARY:Auxerre vs Paris Saint-Germain — Ligue 1
+LOCATION:Stade de l'Abbe-Deschamps
+URL:https://www.fotmob.com/match/5803108
+DESCRIPTION:⚽ أوكسير × باريس سان جيرمان\n🏆 الد
+ وري الفرنسي — الجولة 24\n🗓 السبت 13 مارس 202
+ 7 · 19:00 بتوقيت الرياض\n🏟 Stade de l'Abbe-Deschamps\n—
+ ————\n⚽ Auxerre v Paris Saint-Germain\n🏆 Ligue 1 — Matchday
+  24\n🗓 Sat 13 Mar 2027 · 16:00 UTC\n🏟 Stade de l'Abbe-Deschamps\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوكسير ضد باريس سان جيرمان 
+ — الدوري الفرنسي | Tomorrow: Auxerre vs Paris Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوكسي
+ ر × باريس سان جيرمان | Kick-off in 30 min: Auxerre vs Pari
+ s Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803121@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T160000Z
+DTEND:20270320T180000Z
+SUMMARY:Paris Saint-Germain vs Strasbourg — Ligue 1
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/5803121
+DESCRIPTION:⚽ باريس سان جيرمان × ستراسبورج\n🏆 
+ الدوري الفرنسي — الجولة 25\n🗓 السبت 20 مار
+ س 2027 · 19:00 بتوقيت الرياض\n🏟 Parc des Princes\n——
+ ———\n⚽ Paris Saint-Germain v Strasbourg\n🏆 Ligue 1 — Matchday
+  25\n🗓 Sat 20 Mar 2027 · 16:00 UTC\n🏟 Parc des Princes\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد ستراسب
+ ورج — الدوري الفرنسي | Tomorrow: Paris Saint-Germain vs 
+ Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × ستراسبورج | Kick-off in 30 min: Paris Sain
+ t-Germain vs Strasbourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803133@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270403T150000Z
+DTEND:20270403T170000Z
+SUMMARY:Paris FC vs Paris Saint-Germain — Ligue 1
+LOCATION:Stade Jean Bouin
+URL:https://www.fotmob.com/match/5803133
+DESCRIPTION:⚽ باريس أف.سي. × باريس سان جيرمان\n
+ 🏆 الدوري الفرنسي — الجولة 26\n🗓 السبت 3 أ
+ بريل 2027 · 18:00 بتوقيت الرياض\n🏟 Stade Jean Bouin\n
+ —————\n⚽ Paris FC v Paris Saint-Germain\n🏆 Ligue 1 — Matc
+ hday 26\n🗓 Sat 03 Apr 2027 · 15:00 UTC\n🏟 Stade Jean Bouin\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد باريس سان جي
+ رمان — الدوري الفرنسي | Tomorrow: Paris FC vs Paris Sai
+ nt-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × باريس سان جيرمان | Kick-off in 30 min: Paris F
+ C vs Paris Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803142@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T150000Z
+DTEND:20270410T170000Z
+SUMMARY:Paris Saint-Germain vs Le Havre — Ligue 1
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/5803142
+DESCRIPTION:⚽ باريس سان جيرمان × لو آفر\n🏆 الد
+ وري الفرنسي — الجولة 27\n🗓 السبت 10 أبريل 2
+ 027 · 18:00 بتوقيت الرياض\n🏟 Parc des Princes\n———
+ ——\n⚽ Paris Saint-Germain v Le Havre\n🏆 Ligue 1 — Matchday 27\n
+ 🗓 Sat 10 Apr 2027 · 15:00 UTC\n🏟 Parc des Princes\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد لو آفر 
+ — الدوري الفرنسي | Tomorrow: Paris Saint-Germain vs Le Havr
+ e
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × لو آفر | Kick-off in 30 min: Paris Saint-Germa
+ in vs Le Havre
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803150@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T150000Z
+DTEND:20270417T170000Z
+SUMMARY:Paris Saint-Germain vs Lille — Ligue 1
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/5803150
+DESCRIPTION:⚽ باريس سان جيرمان × ليل\n🏆 الدوري
+  الفرنسي — الجولة 28\n🗓 السبت 17 أبريل 2027 ·
+  18:00 بتوقيت الرياض\n🏟 Parc des Princes\n—————\n
+ ⚽ Paris Saint-Germain v Lille\n🏆 Ligue 1 — Matchday 28\n🗓 Sat 17
+  Apr 2027 · 15:00 UTC\n🏟 Parc des Princes\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد ليل — ا
+ لدوري الفرنسي | Tomorrow: Paris Saint-Germain vs Lille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × ليل | Kick-off in 30 min: Paris Saint-Germain vs
+  Lille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803155@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T150000Z
+DTEND:20270424T170000Z
+SUMMARY:Lorient vs Paris Saint-Germain — Ligue 1
+LOCATION:Stade du Moustoir
+URL:https://www.fotmob.com/match/5803155
+DESCRIPTION:⚽ لوريان × باريس سان جيرمان\n🏆 الد
+ وري الفرنسي — الجولة 29\n🗓 السبت 24 أبريل 2
+ 027 · 18:00 بتوقيت الرياض\n🏟 Stade du Moustoir\n———
+ ——\n⚽ Lorient v Paris Saint-Germain\n🏆 Ligue 1 — Matchday 29\n
+ 🗓 Sat 24 Apr 2027 · 15:00 UTC\n🏟 Stade du Moustoir\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لوريان ضد باريس سان جيرمان 
+ — الدوري الفرنسي | Tomorrow: Lorient vs Paris Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لوريا
+ ن × باريس سان جيرمان | Kick-off in 30 min: Lorient vs Pari
+ s Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803166@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T150000Z
+DTEND:20270501T170000Z
+SUMMARY:Paris Saint-Germain vs Angers — Ligue 1
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/5803166
+DESCRIPTION:⚽ باريس سان جيرمان × أنجيه\n🏆 الدو
+ ري الفرنسي — الجولة 30\n🗓 السبت 1 مايو 2027 
+ · 18:00 بتوقيت الرياض\n🏟 Parc des Princes\n—————
+ \n⚽ Paris Saint-Germain v Angers\n🏆 Ligue 1 — Matchday 30\n🗓 Sat
+  01 May 2027 · 15:00 UTC\n🏟 Parc des Princes\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد أنجيه 
+ — الدوري الفرنسي | Tomorrow: Paris Saint-Germain vs Angers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × أنجيه | Kick-off in 30 min: Paris Saint-Germai
+ n vs Angers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803179@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T184500Z
+DTEND:20270509T204500Z
+SUMMARY:Lyon vs Paris Saint-Germain — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5803179
+DESCRIPTION:⚽ أولمبيك ليون × باريس سان جيرمان\n
+ 🏆 الدوري الفرنسي — الجولة 31\n🗓 الأحد 9 م
+ ايو 2027 · 21:45 بتوقيت الرياض\n🏟 Groupama Stadium\n—
+ ————\n⚽ Lyon v Paris Saint-Germain\n🏆 Ligue 1 — Matchday 31
+ \n🗓 Sun 09 May 2027 · 18:45 UTC\n🏟 Groupama Stadium\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد باريس سان ج
+ يرمان — الدوري الفرنسي | Tomorrow: Lyon vs Paris Saint
+ -Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × باريس سان جيرمان | Kick-off in 30 min: Lyon
+  vs Paris Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803186@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T150000Z
+DTEND:20270516T170000Z
+SUMMARY:Paris Saint-Germain vs Nice — Ligue 1
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/5803186
+DESCRIPTION:⚽ باريس سان جيرمان × نيس\n🏆 الدوري
+  الفرنسي — الجولة 32\n🗓 الأحد 16 مايو 2027 · 1
+ 8:00 بتوقيت الرياض\n🏟 Parc des Princes\n—————\n
+ ⚽ Paris Saint-Germain v Nice\n🏆 Ligue 1 — Matchday 32\n🗓 Sun 16 
+ May 2027 · 15:00 UTC\n🏟 Parc des Princes\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد نيس — ا
+ لدوري الفرنسي | Tomorrow: Paris Saint-Germain vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × نيس | Kick-off in 30 min: Paris Saint-Germain vs
+  Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803197@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270522T150000Z
+DTEND:20270522T170000Z
+SUMMARY:Troyes vs Paris Saint-Germain — Ligue 1
+LOCATION:Stade de l'Aube
+URL:https://www.fotmob.com/match/5803197
+DESCRIPTION:⚽ تروا × باريس سان جيرمان\n🏆 الدور
+ ي الفرنسي — الجولة 33\n🗓 السبت 22 مايو 2027 ·
+  18:00 بتوقيت الرياض\n🏟 Stade de l'Aube\n—————\n
+ ⚽ Troyes v Paris Saint-Germain\n🏆 Ligue 1 — Matchday 33\n🗓 Sat 2
+ 2 May 2027 · 15:00 UTC\n🏟 Stade de l'Aube\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد باريس سان جيرمان — 
+ الدوري الفرنسي | Tomorrow: Troyes vs Paris Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  باريس سان جيرمان | Kick-off in 30 min: Troyes vs Paris Sain
+ t-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803204@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270529T190000Z
+DTEND:20270529T210000Z
+SUMMARY:Paris Saint-Germain vs Toulouse — Ligue 1
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/5803204
+DESCRIPTION:⚽ باريس سان جيرمان × تولوز\n🏆 الدو
+ ري الفرنسي — الجولة 34\n🗓 السبت 29 مايو 2027 
+ · 22:00 بتوقيت الرياض\n🏟 Parc des Princes\n—————
+ \n⚽ Paris Saint-Germain v Toulouse\n🏆 Ligue 1 — Matchday 34\n🗓 S
+ at 29 May 2027 · 19:00 UTC\n🏟 Parc des Princes\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد تولوز 
+ — الدوري الفرنسي | Tomorrow: Paris Saint-Germain vs Toulous
+ e
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × تولوز | Kick-off in 30 min: Paris Saint-Germai
+ n vs Toulouse
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106237@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260909T190000Z
+DTEND:20260909T210000Z
+SUMMARY:Paris Saint-Germain vs Slovan Bratislava — UEFA Champions League
+LOCATION:Parc des Princes\, Paris\, France
+GEO:48.841433;2.253049
+URL:https://www.fotmob.com/match/6106237
+DESCRIPTION:⚽ باريس سان جيرمان × سلوفان براتيس
+ لافا\n🏆 دوري أبطال أوروبا — الجولة 1\n🗓 
+ الأربعاء 9 سبتمبر 2026 · 22:00 بتوقيت الرياض\n
+ 🏟 Parc des Princes، Paris\n📺 HBO Max (UK)، Paramount+ (US)\n——
+ ———\n⚽ Paris Saint-Germain v Slovan Bratislava\n🏆 UEFA Champion
+ s League — Matchday 1\n🗓 Wed 09 Sep 2026 · 19:00 UTC\n🏟 Parc des 
+ Princes, Paris\n📺 HBO Max (UK), Paramount+ (US)\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد سلوفان 
+ براتيسلافا — دوري أبطال أوروبا — 📺 HBO Max
+  (UK)، Paramount+ (US) | Tomorrow: Paris Saint-Germain vs Slovan Bratisla
+ va | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × سلوفان براتيسلافا — 📺 HBO Max 
+ (UK)، Paramount+ (US) | Kick-off in 30 min: Paris Saint-Germain vs Slovan
+  Bratislava | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106254@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+SUMMARY:Manchester City vs Paris Saint-Germain — UEFA Champions League
+LOCATION:Etihad Stadium\, Manchester\, England
+GEO:53.483152;-2.200409
+URL:https://www.fotmob.com/match/6106254
+DESCRIPTION:⚽ مانشستر سيتي × باريس سان جيرمان\n
+ 🏆 دوري أبطال أوروبا — الجولة 2\n🗓 الأرب
+ عاء 14 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Etiha
+ d Stadium، Manchester\n—————\n⚽ Manchester City v Paris Saint
+ -Germain\n🏆 UEFA Champions League — Matchday 2\n🗓 Wed 14 Oct 2026 
+ · 19:00 UTC\n🏟 Etihad Stadium, Manchester\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد باريس سان ج
+ يرمان — دوري أبطال أوروبا | Tomorrow: Manchester Cit
+ y vs Paris Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × باريس سان جيرمان | Kick-off in 30 min: Manc
+ hester City vs Paris Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106234@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:Paris Saint-Germain vs Barcelona — UEFA Champions League
+LOCATION:Parc des Princes\, Paris\, France
+GEO:48.841433;2.253049
+URL:https://www.fotmob.com/match/6106234
+DESCRIPTION:⚽ باريس سان جيرمان × برشلونة\n🏆 دو
+ ري أبطال أوروبا — الجولة 3\n🗓 الثلاثاء 20 
+ أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Parc des Prince
+ s، Paris\n—————\n⚽ Paris Saint-Germain v Barcelona\n🏆 UEFA
+  Champions League — Matchday 3\n🗓 Tue 20 Oct 2026 · 19:00 UTC\n🏟 
+ Parc des Princes, Paris\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد برشلون
+ ة — دوري أبطال أوروبا | Tomorrow: Paris Saint-Germain vs
+  Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × برشلونة | Kick-off in 30 min: Paris Saint-Ge
+ rmain vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106326@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+SUMMARY:Villarreal vs Paris Saint-Germain — UEFA Champions League
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/6106326
+DESCRIPTION:⚽ فياريال × باريس سان جيرمان\n🏆 دو
+ ري أبطال أوروبا — الجولة 4\n🗓 الثلاثاء 3 
+ نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Estadio de la C
+ eramica\n—————\n⚽ Villarreal v Paris Saint-Germain\n🏆 UEFA 
+ Champions League — Matchday 4\n🗓 Tue 03 Nov 2026 · 20:00 UTC\n🏟 E
+ stadio de la Ceramica\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد باريس سان جيرما
+ ن — دوري أبطال أوروبا | Tomorrow: Villarreal vs Paris Sa
+ int-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × باريس سان جيرمان | Kick-off in 30 min: Villarreal vs
+  Paris Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106235@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Paris Saint-Germain vs Roma — UEFA Champions League
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/6106235
+DESCRIPTION:⚽ باريس سان جيرمان × روما\n🏆 دوري 
+ أبطال أوروبا — الجولة 5\n🗓 الأربعاء 25 نو
+ فمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Parc des Princes\n
+ —————\n⚽ Paris Saint-Germain v Roma\n🏆 UEFA Champions Leagu
+ e — Matchday 5\n🗓 Wed 25 Nov 2026 · 20:00 UTC\n🏟 Parc des Princes
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد روما — 
+ دوري أبطال أوروبا | Tomorrow: Paris Saint-Germain vs Roma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × روما | Kick-off in 30 min: Paris Saint-Germain 
+ vs Roma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106282@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+SUMMARY:Aston Villa vs Paris Saint-Germain — UEFA Champions League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/6106282
+DESCRIPTION:⚽ أستون فيلا × باريس سان جيرمان\n🏆
+  دوري أبطال أوروبا — الجولة 6\n🗓 الثلاثا
+ ء 8 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Villa Park
+ \n—————\n⚽ Aston Villa v Paris Saint-Germain\n🏆 UEFA Champi
+ ons League — Matchday 6\n🗓 Tue 08 Dec 2026 · 20:00 UTC\n🏟 Villa P
+ ark\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد باريس سان جير
+ مان — دوري أبطال أوروبا | Tomorrow: Aston Villa vs Par
+ is Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × باريس سان جيرمان | Kick-off in 30 min: Aston Vil
+ la vs Paris Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106409@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+SUMMARY:Como vs Paris Saint-Germain — UEFA Champions League
+LOCATION:Stadio G. Sinigaglia
+URL:https://www.fotmob.com/match/6106409
+DESCRIPTION:⚽ كومو × باريس سان جيرمان\n🏆 دوري 
+ أبطال أوروبا — الجولة 7\n🗓 الأربعاء 20 ين
+ اير 2027 · 23:00 بتوقيت الرياض\n🏟 Stadio G. Sinigaglia\
+ n—————\n⚽ Como v Paris Saint-Germain\n🏆 UEFA Champions Leag
+ ue — Matchday 7\n🗓 Wed 20 Jan 2027 · 20:00 UTC\n🏟 Stadio G. Sinig
+ aglia\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كومو ضد باريس سان جيرمان — 
+ دوري أبطال أوروبا | Tomorrow: Como vs Paris Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كومو ×
+  باريس سان جيرمان | Kick-off in 30 min: Como vs Paris Saint-
+ Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106236@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Paris Saint-Germain vs Galatasaray — UEFA Champions League
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/6106236
+DESCRIPTION:⚽ باريس سان جيرمان × غلطة سراي\n🏆 
+ دوري أبطال أوروبا — الجولة 8\n🗓 الأربعاء
+  27 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Parc des Prin
+ ces\n—————\n⚽ Paris Saint-Germain v Galatasaray\n🏆 UEFA Cha
+ mpions League — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Parc
+  des Princes\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد غلطة سر
+ اي — دوري أبطال أوروبا | Tomorrow: Paris Saint-Germain 
+ vs Galatasaray
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × غلطة سراي | Kick-off in 30 min: Paris Saint
+ -Germain vs Galatasaray
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Benevento — Coppa Italia Fixtures | بينفينتو —
+  مباريات كأس إيطاليا
+X-WR-CALDESC:Benevento — all matches in Coppa Italia\, exact UTC kickoffs
+ \, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:3
+ 1:10Z.  •  بينفينتو — جميع المباريات في كأس 
+ إيطاليا بتوقيت UTC الدقيق مع الملاعب والق
+ نوات الناقلة. المصدر: FotMob + 365scores · تحديث ت
+ لقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5852742@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260809T190000Z
+DTEND:20260809T210000Z
+SUMMARY:Benevento vs Ravenna (5 - 3) — Coppa Italia
+LOCATION:Stadio Ciro Vigorito\, Benevento\, Italy
+GEO:41.116543;14.781150
+URL:https://www.fotmob.com/match/5852742
+DESCRIPTION:⚽ بينفينتو × رافينا (5 - 3)\n🏆 كأس إي
+ طاليا — دور الـ64\n🗓 الأحد 9 أغسطس 2026 · 22:00
+  بتوقيت الرياض\n🏟 Stadio Ciro Vigorito، Benevento\n——
+ ———\n⚽ Benevento v Ravenna (5 - 3)\n🏆 Coppa Italia — Round of
+  64\n🗓 Sun 09 Aug 2026 · 19:00 UTC\n🏟 Stadio Ciro Vigorito, Beneven
+ to\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بينفينتو ضد رافينا — كأس إ
+ يطاليا | Tomorrow: Benevento vs Ravenna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بينفي
+ نتو × رافينا | Kick-off in 30 min: Benevento vs Ravenna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852774@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260814T191500Z
+DTEND:20260814T211500Z
+SUMMARY:Fiorentina vs Benevento (4 - 1) — Coppa Italia
+LOCATION:Stadio Artemio Franchi\, Firenze\, Italy
+GEO:43.780788;11.282712
+URL:https://www.fotmob.com/match/5852774
+DESCRIPTION:⚽ فيورنتينا × بينفينتو (4 - 1)\n🏆 كأس
+  إيطاليا — دور الـ32\n🗓 الجمعة 14 أغسطس 2026 
+ · 22:15 بتوقيت الرياض\n🏟 Stadio Artemio Franchi، Firenze\
+ n⚖️ الحكم: Gianluca Manganiello\n👥 الحضور: 16,626\n—
+ ————\n⚽ Fiorentina v Benevento (4 - 1)\n🏆 Coppa Italia — Ro
+ und of 32\n🗓 Fri 14 Aug 2026 · 19:15 UTC\n🏟 Stadio Artemio Franchi,
+  Firenze\nReferee: Gianluca Manganiello\nAttendance: 16,626\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد بينفينتو — كأ
+ س إيطاليا | Tomorrow: Fiorentina vs Benevento
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × بينفينتو | Kick-off in 30 min: Fiorentina vs Benevento
+END:VALARM
+END:VEVENT
+END:VCALENDAR

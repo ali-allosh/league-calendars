@@ -1,0 +1,1167 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al-Fayha — Saudi Pro League & King's Cup Fixtures | ال
+ فيحاء — مباريات دوري روشن السعودي وكأس خ
+ ادم الحرمين الشريفين
+X-WR-CALDESC:Al-Fayha — all matches in Saudi Pro League & King's Cup\, ex
+ act UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated
+  2026-09-05T19:31:10Z.  •  الفيحاء — جميع المباريا
+ ت في دوري روشن السعودي وكأس خادم الحرمين 
+ الشريفين بتوقيت UTC الدقيق مع الملاعب وال
+ قنوات الناقلة. المصدر: FotMob + 365scores · تحديث 
+ تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5969049@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260814T165000Z
+DTEND:20260814T185000Z
+SUMMARY:Neom SC vs Al-Fayha (2 - 1) — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/5969049
+DESCRIPTION:⚽ نيوم × الفيحاء (2 - 1)\n🏆 دوري روشن 
+ السعودي — الجولة 1\n🗓 الجمعة 14 أغسطس 2026 ·
+  19:50 بتوقيت الرياض\n🏟 King Khalid Sport City Stadium، Ta
+ buk\n⚖️ الحكم: Ali Mohammed Sawia Al Qahtani\n👥 الحضور: 
+ 1,450\n—————\n⚽ Neom SC v Al-Fayha (2 - 1)\n🏆 Saudi Pro Lea
+ gue — Matchday 1\n🗓 Fri 14 Aug 2026 · 16:50 UTC\n🏟 King Khalid Sp
+ ort City Stadium, Tabuk\nReferee: Ali Mohammed Sawia Al Qahtani\nAttendanc
+ e: 1,450\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الفيحاء — دوري روش
+ ن السعودي | Tomorrow: Neom SC vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الفيحاء | Kick-off in 30 min: Neom SC vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970090@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260820T180000Z
+DTEND:20260820T200000Z
+SUMMARY:Al-Fayha vs Al Hilal (0 - 3) — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/5970090
+DESCRIPTION:⚽ الفيحاء × الهلال (0 - 3)\n🏆 دوري رو
+ شن السعودي — الجولة 2\n🗓 الخميس 20 أغسطس 20
+ 26 · 21:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadiu
+ m، Al Majma'ah\n⚖️ الحكم: Danny Makkelie\n👥 الحضور: 3,4
+ 70\n—————\n⚽ Al-Fayha v Al Hilal (0 - 3)\n🏆 Saudi Pro Leagu
+ e — Matchday 2\n🗓 Thu 20 Aug 2026 · 18:00 UTC\n🏟 Al Majma'ah Spor
+ ts City Stadium, Al Majma'ah\nReferee: Danny Makkelie\nAttendance: 3,470\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد الهلال — دوري ر
+ وشن السعودي | Tomorrow: Al-Fayha vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × الهلال | Kick-off in 30 min: Al-Fayha vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970102@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260825T161000Z
+DTEND:20260825T181000Z
+SUMMARY:Al-Taawoun vs Al-Fayha (0 - 0) — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/5970102
+DESCRIPTION:⚽ التعاون × الفيحاء (0 - 0)\n🏆 دوري ر
+ وشن السعودي — الجولة 3\n🗓 الثلاثاء 25 أغس
+ طس 2026 · 19:10 بتوقيت الرياض\n🏟 Al Taawoun Club Stadium
+ ، Buraydah\n⚖️ الحكم: Shukri Al-Hunfush\n👥 الحضور: 3,43
+ 1\n—————\n⚽ Al-Taawoun v Al-Fayha (0 - 0)\n🏆 Saudi Pro Leag
+ ue — Matchday 3\n🗓 Tue 25 Aug 2026 · 16:10 UTC\n🏟 Al Taawoun Club
+  Stadium, Buraydah\nReferee: Shukri Al-Hunfush\nAttendance: 3,431\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الفيحاء — دوري 
+ روشن السعودي | Tomorrow: Al-Taawoun vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الفيحاء | Kick-off in 30 min: Al-Taawoun vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970108@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260828T160000Z
+DTEND:20260828T180000Z
+SUMMARY:Al-Fayha vs Abha (3 - 2) — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/5970108
+DESCRIPTION:⚽ الفيحاء × أبها (3 - 2)\n🏆 دوري روشن 
+ السعودي — الجولة 4\n🗓 الجمعة 28 أغسطس 2026 ·
+  19:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، A
+ l Majma'ah\n⚖️ الحكم: Mohammed Al Hoaish\n👥 الحضور: 502\
+ n—————\n⚽ Al-Fayha v Abha (3 - 2)\n🏆 Saudi Pro League — M
+ atchday 4\n🗓 Fri 28 Aug 2026 · 16:00 UTC\n🏟 Al Majma'ah Sports City
+  Stadium, Al Majma'ah\nReferee: Mohammed Al Hoaish\nAttendance: 502\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد أبها — دوري روش
+ ن السعودي | Tomorrow: Al-Fayha vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × أبها | Kick-off in 30 min: Al-Fayha vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970117@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260903T155500Z
+DTEND:20260903T175500Z
+SUMMARY:Al-Fayha vs Al Kholood (2 - 2) — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/5970117
+DESCRIPTION:⚽ الفيحاء × الخلود (2 - 2)\n🏆 دوري رو
+ شن السعودي — الجولة 5\n🗓 الخميس 3 سبتمبر 2
+ 026 · 18:55 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadi
+ um، Al Majma'ah\n⚖️ الحكم: Ibrahim Al Jurays\n—————\n
+ ⚽ Al-Fayha v Al Kholood (2 - 2)\n🏆 Saudi Pro League — Matchday 5\n
+ 🗓 Thu 03 Sep 2026 · 15:55 UTC\n🏟 Al Majma'ah Sports City Stadium, A
+ l Majma'ah\nReferee: Ibrahim Al Jurays\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد الخلود — دوري ر
+ وشن السعودي | Tomorrow: Al-Fayha vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × الخلود | Kick-off in 30 min: Al-Fayha vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970130@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T180000Z
+DTEND:20260908T200000Z
+SUMMARY:Al Ittihad vs Al-Fayha — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/5970130
+DESCRIPTION:⚽ الاتحاد × الفيحاء\n🏆 دوري روشن ا
+ لسعودي — الجولة 6\n🗓 الثلاثاء 8 سبتمبر 2026
+  · 21:00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdu
+ llah Sport City، Jeddah\n📺 FOX Soccer Plus، FOX Sports online\n——
+ ———\n⚽ Al Ittihad v Al-Fayha\n🏆 Saudi Pro League — Matchday 6
+ \n🗓 Tue 08 Sep 2026 · 18:00 UTC\n🏟 Alinma Bank Stadium at King Abdu
+ llah Sport City, Jeddah\n📺 FOX Soccer Plus, FOX Sports online\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الفيحاء — دوري 
+ روشن السعودي — 📺 FOX Soccer Plus، FOX Sports online | Tom
+ orrow: Al Ittihad vs Al-Fayha | TV: FOX Soccer Plus\, FOX Sports online
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الفيحاء — 📺 FOX Soccer Plus، FOX Sports online | Kick
+ -off in 30 min: Al Ittihad vs Al-Fayha | TV: FOX Soccer Plus\, FOX Sports 
+ online
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970141@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T180000Z
+DTEND:20260912T200000Z
+SUMMARY:Al Shabab vs Al-Fayha — Saudi Pro League
+LOCATION:SHG Arena
+URL:https://www.fotmob.com/match/5970141
+DESCRIPTION:⚽ الشباب × الفيحاء\n🏆 دوري روشن ال
+ سعودي — الجولة 7\n🗓 السبت 12 سبتمبر 2026 · 21:
+ 00 بتوقيت الرياض\n🏟 SHG Arena\n—————\n⚽ Al Shab
+ ab v Al-Fayha\n🏆 Saudi Pro League — Matchday 7\n🗓 Sat 12 Sep 2026 
+ · 18:00 UTC\n🏟 SHG Arena\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد الفيحاء — دوري ر
+ وشن السعودي | Tomorrow: Al Shabab vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × الفيحاء | Kick-off in 30 min: Al Shabab vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970147@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T134000Z
+DTEND:20261011T154000Z
+SUMMARY:Al-Fayha vs Al Riyadh — Saudi Pro League
+LOCATION:Majmaah Sports City
+URL:https://www.fotmob.com/match/5970147
+DESCRIPTION:⚽ الفيحاء × الرياض\n🏆 دوري روشن ال
+ سعودي — الجولة 8\n🗓 الأحد 11 أكتوبر 2026 · 16:
+ 40 بتوقيت الرياض\n🏟 Majmaah Sports City\n—————\n
+ ⚽ Al-Fayha v Al Riyadh\n🏆 Saudi Pro League — Matchday 8\n🗓 Sun 1
+ 1 Oct 2026 · 13:40 UTC\n🏟 Majmaah Sports City\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد الرياض — دوري ر
+ وشن السعودي | Tomorrow: Al-Fayha vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × الرياض | Kick-off in 30 min: Al-Fayha vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970158@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T145000Z
+DTEND:20261015T165000Z
+SUMMARY:Al Khaleej vs Al-Fayha — Saudi Pro League
+LOCATION:Prince Mohamed bin Fahd Stadium
+URL:https://www.fotmob.com/match/5970158
+DESCRIPTION:⚽ الخليج × الفيحاء\n🏆 دوري روشن ال
+ سعودي — الجولة 9\n🗓 الخميس 15 أكتوبر 2026 · 1
+ 7:50 بتوقيت الرياض\n🏟 Prince Mohamed bin Fahd Stadium\n—
+ ————\n⚽ Al Khaleej v Al-Fayha\n🏆 Saudi Pro League — Matchda
+ y 9\n🗓 Thu 15 Oct 2026 · 14:50 UTC\n🏟 Prince Mohamed bin Fahd Stadi
+ um\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد الفيحاء — دوري ر
+ وشن السعودي | Tomorrow: Al Khaleej vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × الفيحاء | Kick-off in 30 min: Al Khaleej vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970166@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261019T150500Z
+DTEND:20261019T170500Z
+SUMMARY:Al-Fayha vs Al Ahli — Saudi Pro League
+LOCATION:Majmaah Sports City
+URL:https://www.fotmob.com/match/5970166
+DESCRIPTION:⚽ الفيحاء × الأهلي\n🏆 دوري روشن ال
+ سعودي — الجولة 10\n🗓 الاثنين 19 أكتوبر 2026 
+ · 18:05 بتوقيت الرياض\n🏟 Majmaah Sports City\n————
+ —\n⚽ Al-Fayha v Al Ahli\n🏆 Saudi Pro League — Matchday 10\n🗓 M
+ on 19 Oct 2026 · 15:05 UTC\n🏟 Majmaah Sports City\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد الأهلي — دوري ر
+ وشن السعودي | Tomorrow: Al-Fayha vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × الأهلي | Kick-off in 30 min: Al-Fayha vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970174@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T134000Z
+DTEND:20261022T154000Z
+SUMMARY:Al Hazem vs Al-Fayha — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/5970174
+DESCRIPTION:⚽ الحزم × الفيحاء\n🏆 دوري روشن الس
+ عودي — الجولة 11\n🗓 الخميس 22 أكتوبر 2026 · 16
+ :40 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)
+ ، Ar Rass\n—————\n⚽ Al Hazem v Al-Fayha\n🏆 Saudi Pro Leagu
+ e — Matchday 11\n🗓 Thu 22 Oct 2026 · 13:40 UTC\n🏟 Ar-Rass Stadium
+  (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد الفيحاء — دوري رو
+ شن السعودي | Tomorrow: Al Hazem vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × الفيحاء | Kick-off in 30 min: Al Hazem vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970187@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T145500Z
+DTEND:20261031T165500Z
+SUMMARY:Al-Fayha vs Al-Faisaly — Saudi Pro League
+LOCATION:Majmaah Sports City
+URL:https://www.fotmob.com/match/5970187
+DESCRIPTION:⚽ الفيحاء × الفيصلي\n🏆 دوري روشن ا
+ لسعودي — الجولة 12\n🗓 السبت 31 أكتوبر 2026 · 
+ 17:55 بتوقيت الرياض\n🏟 Majmaah Sports City\n—————
+ \n⚽ Al-Fayha v Al-Faisaly\n🏆 Saudi Pro League — Matchday 12\n🗓 S
+ at 31 Oct 2026 · 14:55 UTC\n🏟 Majmaah Sports City\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد الفيصلي — دوري 
+ روشن السعودي | Tomorrow: Al-Fayha vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × الفيصلي | Kick-off in 30 min: Al-Fayha vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021476@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:Al Qadsiah vs Al-Fayha — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021476
+DESCRIPTION:⚽ القادسية × الفيحاء\n🏆 دوري روشن 
+ السعودي — الجولة 13\n🗓 الخميس 5 نوفمبر 2026 
+ · 03:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium
+ ، Dammam\n—————\n⚽ Al Qadsiah v Al-Fayha\n🏆 Saudi Pro Leag
+ ue — Matchday 13\n🗓 Thu 05 Nov 2026 · 00:00 UTC\n🏟 Prince Mohamme
+ d Bin Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الفيحاء — دوري
+  روشن السعودي | Tomorrow: Al Qadsiah vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الفيحاء | Kick-off in 30 min: Al Qadsiah vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021478@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Al-Fayha vs Al Fateh FC — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021478
+DESCRIPTION:⚽ الفيحاء × الفتح\n🏆 دوري روشن الس
+ عودي — الجولة 14\n🗓 الجمعة 20 نوفمبر 2026 · 03
+ :00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al M
+ ajma'ah\n—————\n⚽ Al-Fayha v Al Fateh FC\n🏆 Saudi Pro Leagu
+ e — Matchday 14\n🗓 Fri 20 Nov 2026 · 00:00 UTC\n🏟 Al Majma'ah Spo
+ rts City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد الفتح — دوري رو
+ شن السعودي | Tomorrow: Al-Fayha vs Al Fateh FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × الفتح | Kick-off in 30 min: Al-Fayha vs Al Fateh FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021493@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Al Diriyah vs Al-Fayha — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021493
+DESCRIPTION:⚽ الدرعية × الفيحاء\n🏆 دوري روشن ا
+ لسعودي — الجولة 15\n🗓 الخميس 26 نوفمبر 2026 
+ · 03:00 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n———
+ ——\n⚽ Al Diriyah v Al-Fayha\n🏆 Saudi Pro League — Matchday 15\n
+ 🗓 Thu 26 Nov 2026 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الدرعية ضد الفيحاء — دوري 
+ روشن السعودي | Tomorrow: Al Diriyah vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الدرع
+ ية × الفيحاء | Kick-off in 30 min: Al Diriyah vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021497@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Al-Fayha vs Al Nassr FC — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021497
+DESCRIPTION:⚽ الفيحاء × النصر\n🏆 دوري روشن الس
+ عودي — الجولة 16\n🗓 الخميس 3 ديسمبر 2026 · 03:
+ 00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al Ma
+ jma'ah\n—————\n⚽ Al-Fayha v Al Nassr FC\n🏆 Saudi Pro League
+  — Matchday 16\n🗓 Thu 03 Dec 2026 · 00:00 UTC\n🏟 Al Majma'ah Spor
+ ts City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد النصر — دوري رو
+ شن السعودي | Tomorrow: Al-Fayha vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × النصر | Kick-off in 30 min: Al-Fayha vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021505@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Al-Ettifaq vs Al-Fayha — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/1000021505
+DESCRIPTION:⚽ الاتفاق × الفيحاء\n🏆 دوري روشن ا
+ لسعودي — الجولة 17\n🗓 الخميس 10 ديسمبر 2026 
+ · 03:00 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Dammam\
+ n—————\n⚽ Al-Ettifaq v Al-Fayha\n🏆 Saudi Pro League — Mat
+ chday 17\n🗓 Thu 10 Dec 2026 · 00:00 UTC\n🏟 Al Ettifaq Club Stadium,
+  Dammam\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد الفيحاء — دوري 
+ روشن السعودي | Tomorrow: Al-Ettifaq vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × الفيحاء | Kick-off in 30 min: Al-Ettifaq vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021515@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261214T000000Z
+DTEND:20261214T020000Z
+SUMMARY:Al-Fayha vs Neom SC — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021515
+DESCRIPTION:⚽ الفيحاء × نيوم\n🏆 دوري روشن السع
+ ودي — الجولة 18\n🗓 الاثنين 14 ديسمبر 2026 · 03
+ :00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al M
+ ajma'ah\n—————\n⚽ Al-Fayha v Neom SC\n🏆 Saudi Pro League 
+ — Matchday 18\n🗓 Mon 14 Dec 2026 · 00:00 UTC\n🏟 Al Majma'ah Sport
+ s City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد نيوم — دوري روش
+ ن السعودي | Tomorrow: Al-Fayha vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × نيوم | Kick-off in 30 min: Al-Fayha vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021524@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270211T000000Z
+DTEND:20270211T020000Z
+SUMMARY:Al Hilal vs Al-Fayha — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/1000021524
+DESCRIPTION:⚽ الهلال × الفيحاء\n🏆 دوري روشن ال
+ سعودي — الجولة 19\n🗓 الخميس 11 فبراير 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n————
+ —\n⚽ Al Hilal v Al-Fayha\n🏆 Saudi Pro League — Matchday 19\n🗓 
+ Thu 11 Feb 2027 · 00:00 UTC\n🏟 Kingdom Arena, Riyadh\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الفيحاء — دوري ر
+ وشن السعودي | Tomorrow: Al Hilal vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الفيحاء | Kick-off in 30 min: Al Hilal vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021533@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270218T000000Z
+DTEND:20270218T020000Z
+SUMMARY:Al-Fayha vs Al-Taawoun — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021533
+DESCRIPTION:⚽ الفيحاء × التعاون\n🏆 دوري روشن ا
+ لسعودي — الجولة 20\n🗓 الخميس 18 فبراير 2027 
+ · 03:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium،
+  Al Majma'ah\n—————\n⚽ Al-Fayha v Al-Taawoun\n🏆 Saudi Pro L
+ eague — Matchday 20\n🗓 Thu 18 Feb 2027 · 00:00 UTC\n🏟 Al Majma'ah
+  Sports City Stadium, Al Majma'ah\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد التعاون — دوري 
+ روشن السعودي | Tomorrow: Al-Fayha vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × التعاون | Kick-off in 30 min: Al-Fayha vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021541@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270225T000000Z
+DTEND:20270225T020000Z
+SUMMARY:Abha vs Al-Fayha — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/1000021541
+DESCRIPTION:⚽ أبها × الفيحاء\n🏆 دوري روشن السع
+ ودي — الجولة 21\n🗓 الخميس 25 فبراير 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sports City 
+ Stadium، Abha\n—————\n⚽ Abha v Al-Fayha\n🏆 Saudi Pro Leagu
+ e — Matchday 21\n🗓 Thu 25 Feb 2027 · 00:00 UTC\n🏟 Prince Sultan b
+ in Abdulaziz Sports City Stadium, Abha\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الفيحاء — دوري روش
+ ن السعودي | Tomorrow: Abha vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الفيحاء | Kick-off in 30 min: Abha vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021554@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270311T000000Z
+DTEND:20270311T020000Z
+SUMMARY:Al Kholood vs Al-Fayha — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021554
+DESCRIPTION:⚽ الخلود × الفيحاء\n🏆 دوري روشن ال
+ سعودي — الجولة 22\n🗓 الخميس 11 مارس 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)،
+  Ar Rass\n—————\n⚽ Al Kholood v Al-Fayha\n🏆 Saudi Pro Leagu
+ e — Matchday 22\n🗓 Thu 11 Mar 2027 · 00:00 UTC\n🏟 Ar-Rass Stadium
+  (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد الفيحاء — دوري ر
+ وشن السعودي | Tomorrow: Al Kholood vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × الفيحاء | Kick-off in 30 min: Al Kholood vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021560@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270318T000000Z
+DTEND:20270318T020000Z
+SUMMARY:Al-Fayha vs Al Ittihad — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021560
+DESCRIPTION:⚽ الفيحاء × الاتحاد\n🏆 دوري روشن ا
+ لسعودي — الجولة 23\n🗓 الخميس 18 مارس 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al M
+ ajma'ah\n—————\n⚽ Al-Fayha v Al Ittihad\n🏆 Saudi Pro League
+  — Matchday 23\n🗓 Thu 18 Mar 2027 · 00:00 UTC\n🏟 Al Majma'ah Spor
+ ts City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد الاتحاد — دوري 
+ روشن السعودي | Tomorrow: Al-Fayha vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × الاتحاد | Kick-off in 30 min: Al-Fayha vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021570@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270402T000000Z
+DTEND:20270402T020000Z
+SUMMARY:Al-Fayha vs Al Shabab — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021570
+DESCRIPTION:⚽ الفيحاء × الشباب\n🏆 دوري روشن ال
+ سعودي — الجولة 24\n🗓 الجمعة 2 أبريل 2027 · 03:
+ 00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al Ma
+ jma'ah\n—————\n⚽ Al-Fayha v Al Shabab\n🏆 Saudi Pro League 
+ — Matchday 24\n🗓 Fri 02 Apr 2027 · 00:00 UTC\n🏟 Al Majma'ah Sport
+ s City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد الشباب — دوري ر
+ وشن السعودي | Tomorrow: Al-Fayha vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × الشباب | Kick-off in 30 min: Al-Fayha vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021581@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270408T000000Z
+DTEND:20270408T020000Z
+SUMMARY:Al Riyadh vs Al-Fayha — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/1000021581
+DESCRIPTION:⚽ الرياض × الفيحاء\n🏆 دوري روشن ال
+ سعودي — الجولة 25\n🗓 الخميس 8 أبريل 2027 · 03:
+ 00 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، Riyadh
+ \n—————\n⚽ Al Riyadh v Al-Fayha\n🏆 Saudi Pro League — Mat
+ chday 25\n🗓 Thu 08 Apr 2027 · 00:00 UTC\n🏟 Prince Faisal bin Fahd S
+ tadium, Riyadh\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الفيحاء — دوري ر
+ وشن السعودي | Tomorrow: Al Riyadh vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الفيحاء | Kick-off in 30 min: Al Riyadh vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021588@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270415T000000Z
+DTEND:20270415T020000Z
+SUMMARY:Al-Fayha vs Al Khaleej — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021588
+DESCRIPTION:⚽ الفيحاء × الخليج\n🏆 دوري روشن ال
+ سعودي — الجولة 26\n🗓 الخميس 15 أبريل 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al M
+ ajma'ah\n—————\n⚽ Al-Fayha v Al Khaleej\n🏆 Saudi Pro League
+  — Matchday 26\n🗓 Thu 15 Apr 2027 · 00:00 UTC\n🏟 Al Majma'ah Spor
+ ts City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد الخليج — دوري ر
+ وشن السعودي | Tomorrow: Al-Fayha vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × الخليج | Kick-off in 30 min: Al-Fayha vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021594@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T000000Z
+DTEND:20270418T020000Z
+SUMMARY:Al Ahli vs Al-Fayha — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021594
+DESCRIPTION:⚽ الأهلي × الفيحاء\n🏆 دوري روشن ال
+ سعودي — الجولة 27\n🗓 الأحد 18 أبريل 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah Spo
+ rt City، Jeddah\n—————\n⚽ Al Ahli v Al-Fayha\n🏆 Saudi Pro 
+ League — Matchday 27\n🗓 Sun 18 Apr 2027 · 00:00 UTC\n🏟 Alinma Ban
+ k Stadium at King Abdullah Sport City, Jeddah\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الفيحاء — دوري ر
+ وشن السعودي | Tomorrow: Al Ahli vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الفيحاء | Kick-off in 30 min: Al Ahli vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021605@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270422T000000Z
+DTEND:20270422T020000Z
+SUMMARY:Al-Fayha vs Al Hazem — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021605
+DESCRIPTION:⚽ الفيحاء × الحزم\n🏆 دوري روشن الس
+ عودي — الجولة 28\n🗓 الخميس 22 أبريل 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al Maj
+ ma'ah\n—————\n⚽ Al-Fayha v Al Hazem\n🏆 Saudi Pro League —
+  Matchday 28\n🗓 Thu 22 Apr 2027 · 00:00 UTC\n🏟 Al Majma'ah Sports C
+ ity Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد الحزم — دوري رو
+ شن السعودي | Tomorrow: Al-Fayha vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × الحزم | Kick-off in 30 min: Al-Fayha vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021618@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270429T000000Z
+DTEND:20270429T020000Z
+SUMMARY:Al-Faisaly vs Al-Fayha — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021618
+DESCRIPTION:⚽ الفيصلي × الفيحاء\n🏆 دوري روشن ا
+ لسعودي — الجولة 29\n🗓 الخميس 29 أبريل 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al
+  Majma'ah\n—————\n⚽ Al-Faisaly v Al-Fayha\n🏆 Saudi Pro Leag
+ ue — Matchday 29\n🗓 Thu 29 Apr 2027 · 00:00 UTC\n🏟 Al Majma'ah Sp
+ orts City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد الفيحاء — دوري 
+ روشن السعودي | Tomorrow: Al-Faisaly vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × الفيحاء | Kick-off in 30 min: Al-Faisaly vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021621@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270506T000000Z
+DTEND:20270506T020000Z
+SUMMARY:Al-Fayha vs Al Qadsiah — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021621
+DESCRIPTION:⚽ الفيحاء × القادسية\n🏆 دوري روشن 
+ السعودي — الجولة 30\n🗓 الخميس 6 مايو 2027 · 0
+ 3:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al 
+ Majma'ah\n—————\n⚽ Al-Fayha v Al Qadsiah\n🏆 Saudi Pro Leagu
+ e — Matchday 30\n🗓 Thu 06 May 2027 · 00:00 UTC\n🏟 Al Majma'ah Spo
+ rts City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد القادسية — دوري
+  روشن السعودي | Tomorrow: Al-Fayha vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × القادسية | Kick-off in 30 min: Al-Fayha vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021632@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270512T000000Z
+DTEND:20270512T020000Z
+SUMMARY:Al Fateh FC vs Al-Fayha — Saudi Pro League
+LOCATION:Maydan Tamweel Aloula\, Al Ahsa\, Saudi Arabia
+GEO:25.429604;49.581390
+URL:https://www.fotmob.com/match/1000021632
+DESCRIPTION:⚽ الفتح × الفيحاء\n🏆 دوري روشن الس
+ عودي — الجولة 31\n🗓 الأربعاء 12 مايو 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Maydan Tamweel Aloula، Al Ahsa\n—
+ ————\n⚽ Al Fateh FC v Al-Fayha\n🏆 Saudi Pro League — Matchd
+ ay 31\n🗓 Wed 12 May 2027 · 00:00 UTC\n🏟 Maydan Tamweel Aloula, Al A
+ hsa\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفتح ضد الفيحاء — دوري رو
+ شن السعودي | Tomorrow: Al Fateh FC vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفتح 
+ × الفيحاء | Kick-off in 30 min: Al Fateh FC vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021641@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270520T000000Z
+DTEND:20270520T020000Z
+SUMMARY:Al-Fayha vs Al Diriyah — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021641
+DESCRIPTION:⚽ الفيحاء × الدرعية\n🏆 دوري روشن ا
+ لسعودي — الجولة 32\n🗓 الخميس 20 مايو 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al M
+ ajma'ah\n—————\n⚽ Al-Fayha v Al Diriyah\n🏆 Saudi Pro League
+  — Matchday 32\n🗓 Thu 20 May 2027 · 00:00 UTC\n🏟 Al Majma'ah Spor
+ ts City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد الدرعية — دوري 
+ روشن السعودي | Tomorrow: Al-Fayha vs Al Diriyah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × الدرعية | Kick-off in 30 min: Al-Fayha vs Al Diriyah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021653@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270524T000000Z
+DTEND:20270524T020000Z
+SUMMARY:Al Nassr FC vs Al-Fayha — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021653
+DESCRIPTION:⚽ النصر × الفيحاء\n🏆 دوري روشن الس
+ عودي — الجولة 33\n🗓 الاثنين 24 مايو 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n—————\
+ n⚽ Al Nassr FC v Al-Fayha\n🏆 Saudi Pro League — Matchday 33\n🗓 M
+ on 24 May 2027 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الفيحاء — دوري رو
+ شن السعودي | Tomorrow: Al Nassr FC vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الفيحاء | Kick-off in 30 min: Al Nassr FC vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021659@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270528T000000Z
+DTEND:20270528T020000Z
+SUMMARY:Al-Fayha vs Al-Ettifaq — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021659
+DESCRIPTION:⚽ الفيحاء × الاتفاق\n🏆 دوري روشن ا
+ لسعودي — الجولة 34\n🗓 الجمعة 28 مايو 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al M
+ ajma'ah\n—————\n⚽ Al-Fayha v Al-Ettifaq\n🏆 Saudi Pro League
+  — Matchday 34\n🗓 Fri 28 May 2027 · 00:00 UTC\n🏟 Al Majma'ah Spor
+ ts City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد الاتفاق — دوري 
+ روشن السعودي | Tomorrow: Al-Fayha vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × الاتفاق | Kick-off in 30 min: Al-Fayha vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853714@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260817T180000Z
+DTEND:20260817T200000Z
+SUMMARY:Al-Adalah vs Al-Fayha (0 - 2) — King's Cup
+LOCATION:Prince Abdullah bin Jalawi Stadium\, Al Ahsa\, Saudi Arabia
+GEO:25.305880;49.612836
+URL:https://www.fotmob.com/match/5853714
+DESCRIPTION:⚽ العدالة × الفيحاء (0 - 2)\n🏆 كأس خا
+ دم الحرمين الشريفين — دور الـ32\n🗓 الاثن
+ ين 17 أغسطس 2026 · 21:00 بتوقيت الرياض\n🏟 Prince Ab
+ dullah bin Jalawi Stadium، Al Ahsa\n⚖️ الحكم: Sultan Al-Harbi\n
+ —————\n⚽ Al-Adalah v Al-Fayha (0 - 2)\n🏆 King's Cup — Rou
+ nd of 32\n🗓 Mon 17 Aug 2026 · 18:00 UTC\n🏟 Prince Abdullah bin Jala
+ wi Stadium, Al Ahsa\nReferee: Sultan Al-Harbi\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: العدالة ضد الفيحاء — كأس خ
+ ادم الحرمين الشريفين | Tomorrow: Al-Adalah vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: العدا
+ لة × الفيحاء | Kick-off in 30 min: Al-Adalah vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6125932@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Al Riyadh vs Al-Fayha — King's Cup
+URL:https://www.fotmob.com/match/6125932
+DESCRIPTION:⚽ الرياض × الفيحاء\n🏆 كأس خادم الح
+ رمين الشريفين — دور الـ16\n🗓 الثلاثاء 1 د
+ يسمبر 2026 · 20:00 بتوقيت الرياض\n—————\n⚽ A
+ l Riyadh v Al-Fayha\n🏆 King's Cup — Round of 16\n🗓 Tue 01 Dec 2026
+  · 17:00 UTC\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الفيحاء — كأس خا
+ دم الحرمين الشريفين | Tomorrow: Al Riyadh vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الفيحاء | Kick-off in 30 min: Al Riyadh vs Al-Fayha
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,269 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Club Brugge — UEFA Champions League Fixtures | كلوب 
+ بروج — مباريات دوري أبطال أوروبا
+X-WR-CALDESC:Club Brugge — all matches in UEFA Champions League\, exact U
+ TC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026
+ -09-05T19:31:10Z.  •  كلوب بروج — جميع المباريات 
+ في دوري أبطال أوروبا بتوقيت UTC الدقيق مع 
+ الملاعب والقنوات الناقلة. المصدر: FotMob + 365
+ scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6106295@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T164500Z
+DTEND:20260908T184500Z
+SUMMARY:Club Brugge vs Aston Villa — UEFA Champions League
+LOCATION:Jan Breydelstadion\, Brugge\, Belgium
+GEO:51.193451;3.180542
+URL:https://www.fotmob.com/match/6106295
+DESCRIPTION:⚽ كلوب بروج × أستون فيلا\n🏆 دوري أ
+ بطال أوروبا — الجولة 1\n🗓 الثلاثاء 8 سبتم
+ بر 2026 · 19:45 بتوقيت الرياض\n🏟 Jan Breydelstadion، Br
+ ugge\n📺 Paramount+ (US)\n—————\n⚽ Club Brugge v Aston Villa
+ \n🏆 UEFA Champions League — Matchday 1\n🗓 Tue 08 Sep 2026 · 16:45
+  UTC\n🏟 Jan Breydelstadion, Brugge\n📺 Paramount+ (US)\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كلوب بروج ضد أستون فيلا — د
+ وري أبطال أوروبا — 📺 Paramount+ (US) | Tomorrow: Club B
+ rugge vs Aston Villa | TV: Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كلوب ب
+ روج × أستون فيلا — 📺 Paramount+ (US) | Kick-off in 30 mi
+ n: Club Brugge vs Aston Villa | TV: Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106251@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Inter vs Club Brugge — UEFA Champions League
+LOCATION:Stadio Giuseppe Meazza\, Milano\, Italy
+GEO:45.478084;9.123979
+URL:https://www.fotmob.com/match/6106251
+DESCRIPTION:⚽ إنتر ميلان × كلوب بروج\n🏆 دوري أ
+ بطال أوروبا — الجولة 2\n🗓 الثلاثاء 13 أكت
+ وبر 2026 · 22:00 بتوقيت الرياض\n🏟 Stadio Giuseppe Meazz
+ a، Milano\n—————\n⚽ Inter v Club Brugge\n🏆 UEFA Champions 
+ League — Matchday 2\n🗓 Tue 13 Oct 2026 · 19:00 UTC\n🏟 Stadio Gius
+ eppe Meazza, Milano\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد كلوب بروج — د
+ وري أبطال أوروبا | Tomorrow: Inter vs Club Brugge
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × كلوب بروج | Kick-off in 30 min: Inter vs Club Brugge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106297@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+SUMMARY:Club Brugge vs Lens — UEFA Champions League
+LOCATION:Jan Breydelstadion\, Brugge\, Belgium
+GEO:51.193451;3.180542
+URL:https://www.fotmob.com/match/6106297
+DESCRIPTION:⚽ كلوب بروج × لانس\n🏆 دوري أبطال أ
+ وروبا — الجولة 3\n🗓 الأربعاء 21 أكتوبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Jan Breydelstadion، Brugge\n—
+ ————\n⚽ Club Brugge v Lens\n🏆 UEFA Champions League — Match
+ day 3\n🗓 Wed 21 Oct 2026 · 19:00 UTC\n🏟 Jan Breydelstadion, Brugge\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كلوب بروج ضد لانس — دوري أب
+ طال أوروبا | Tomorrow: Club Brugge vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كلوب ب
+ روج × لانس | Kick-off in 30 min: Club Brugge vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106303@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+SUMMARY:PSV Eindhoven vs Club Brugge — UEFA Champions League
+LOCATION:Philips Stadion
+URL:https://www.fotmob.com/match/6106303
+DESCRIPTION:⚽ آيندهوفن × كلوب بروج\n🏆 دوري أبط
+ ال أوروبا — الجولة 4\n🗓 الأربعاء 4 نوفمبر
+  2026 · 23:00 بتوقيت الرياض\n🏟 Philips Stadion\n———
+ ——\n⚽ PSV Eindhoven v Club Brugge\n🏆 UEFA Champions League — Ma
+ tchday 4\n🗓 Wed 04 Nov 2026 · 20:00 UTC\n🏟 Philips Stadion\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آيندهوفن ضد كلوب بروج — دو
+ ري أبطال أوروبا | Tomorrow: PSV Eindhoven vs Club Brugge
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينده
+ وفن × كلوب بروج | Kick-off in 30 min: PSV Eindhoven vs Club Br
+ ugge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106294@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Club Brugge vs Liverpool — UEFA Champions League
+LOCATION:Jan Breydel Stadion
+URL:https://www.fotmob.com/match/6106294
+DESCRIPTION:⚽ كلوب بروج × ليفربول\n🏆 دوري أبطا
+ ل أوروبا — الجولة 5\n🗓 الأربعاء 25 نوفمبر 
+ 2026 · 23:00 بتوقيت الرياض\n🏟 Jan Breydel Stadion\n——
+ ———\n⚽ Club Brugge v Liverpool\n🏆 UEFA Champions League — Mat
+ chday 5\n🗓 Wed 25 Nov 2026 · 20:00 UTC\n🏟 Jan Breydel Stadion\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كلوب بروج ضد ليفربول — دور
+ ي أبطال أوروبا | Tomorrow: Club Brugge vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كلوب ب
+ روج × ليفربول | Kick-off in 30 min: Club Brugge vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106319@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+SUMMARY:Napoli vs Club Brugge — UEFA Champions League
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/6106319
+DESCRIPTION:⚽ نابولي × كلوب بروج\n🏆 دوري أبطال
+  أوروبا — الجولة 6\n🗓 الثلاثاء 8 ديسمبر 202
+ 6 · 23:00 بتوقيت الرياض\n🏟 Diego Armando Maradona\n——
+ ———\n⚽ Napoli v Club Brugge\n🏆 UEFA Champions League — Matchd
+ ay 6\n🗓 Tue 08 Dec 2026 · 20:00 UTC\n🏟 Diego Armando Maradona\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد كلوب بروج — دوري 
+ أبطال أوروبا | Tomorrow: Napoli vs Club Brugge
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × كلوب بروج | Kick-off in 30 min: Napoli vs Club Brugge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106398@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+SUMMARY:VfB Stuttgart vs Club Brugge — UEFA Champions League
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/6106398
+DESCRIPTION:⚽ شتوتجارت × كلوب بروج\n🏆 دوري أبط
+ ال أوروبا — الجولة 7\n🗓 الثلاثاء 19 يناير 
+ 2027 · 23:00 بتوقيت الرياض\n🏟 MHPArena\n—————\n
+ ⚽ VfB Stuttgart v Club Brugge\n🏆 UEFA Champions League — Matchday 7
+ \n🗓 Tue 19 Jan 2027 · 20:00 UTC\n🏟 MHPArena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد كلوب بروج — دو
+ ري أبطال أوروبا | Tomorrow: VfB Stuttgart vs Club Brugge
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × كلوب بروج | Kick-off in 30 min: VfB Stuttgart vs Club Br
+ ugge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106296@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Club Brugge vs Bodø/Glimt — UEFA Champions League
+LOCATION:Jan Breydel Stadion
+URL:https://www.fotmob.com/match/6106296
+DESCRIPTION:⚽ كلوب بروج × بودو جليمت\n🏆 دوري أ
+ بطال أوروبا — الجولة 8\n🗓 الأربعاء 27 ينا
+ ير 2027 · 23:00 بتوقيت الرياض\n🏟 Jan Breydel Stadion\n
+ —————\n⚽ Club Brugge v Bodø/Glimt\n🏆 UEFA Champions League
+  — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Jan Breydel Stadi
+ on\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كلوب بروج ضد بودو جليمت — د
+ وري أبطال أوروبا | Tomorrow: Club Brugge vs Bodø/Glimt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كلوب ب
+ روج × بودو جليمت | Kick-off in 30 min: Club Brugge vs Bodø/G
+ limt
+END:VALARM
+END:VEVENT
+END:VCALENDAR

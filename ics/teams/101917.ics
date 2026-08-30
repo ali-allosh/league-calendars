@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al Taee — King's Cup Fixtures | الطائي — مبا
+ ريات كأس خادم الحرمين الشريفين
+X-WR-CALDESC:Al Taee — all matches in King's Cup\, exact UTC kickoffs\, s
+ tadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10
+ Z.  •  الطائي — جميع المباريات في كأس خادم
+  الحرمين الشريفين بتوقيت UTC الدقيق مع الم
+ لاعب والقنوات الناقلة. المصدر: FotMob + 365scores
+  · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5853722@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260817T161500Z
+DTEND:20260817T181500Z
+SUMMARY:Al Taee vs Al Qadsiah (0 - 5) — King's Cup
+LOCATION:Prince Abdul Aziz bin Musa'ed Stadium\, Ha'il (Hail)\, Saudi Arabi
+ a
+GEO:27.503989;41.697600
+URL:https://www.fotmob.com/match/5853722
+DESCRIPTION:⚽ الطائي × القادسية (0 - 5)\n🏆 كأس خا
+ دم الحرمين الشريفين — دور الـ32\n🗓 الاثن
+ ين 17 أغسطس 2026 · 19:15 بتوقيت الرياض\n🏟 Prince Ab
+ dul Aziz bin Musa'ed Stadium، Ha'il (Hail)\n—————\n⚽ Al Taee 
+ v Al Qadsiah (0 - 5)\n🏆 King's Cup — Round of 32\n🗓 Mon 17 Aug 202
+ 6 · 16:15 UTC\n🏟 Prince Abdul Aziz bin Musa'ed Stadium, Ha'il (Hail)\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الطائي ضد القادسية — كأس خ
+ ادم الحرمين الشريفين | Tomorrow: Al Taee vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الطائ
+ ي × القادسية | Kick-off in 30 min: Al Taee vs Al Qadsiah
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,280 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Viktoria Plzeň — UEFA Europa League Fixtures | فيكت
+ وريا بلزن — مباريات الدوري الأوروبي
+X-WR-CALDESC:Viktoria Plzeň — all matches in UEFA Europa League\, exact 
+ UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 202
+ 6-09-05T19:31:10Z.  •  فيكتوريا بلزن — جميع المبا
+ ريات في الدوري الأوروبي بتوقيت UTC الدقيق 
+ مع الملاعب والقنوات الناقلة. المصدر: FotMob 
+ + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6112283@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260917T190000Z
+DTEND:20260917T210000Z
+SUMMARY:Viktoria Plzeň vs Union St.Gilloise — UEFA Europa League
+LOCATION:Doosan Aréna\, Plzeň\, Czech Republic
+GEO:49.750074;13.385446
+URL:https://www.fotmob.com/match/6112283
+DESCRIPTION:⚽ فيكتوريا بلزن × يونيون سانت جيلو
+ از\n🏆 الدوري الأوروبي — الجولة 1\n🗓 الخم
+ يس 17 سبتمبر 2026 · 22:00 بتوقيت الرياض\n🏟 Doosan 
+ Aréna، Plzeň\n—————\n⚽ Viktoria Plzeň v Union St.Gilloise\
+ n🏆 UEFA Europa League — Matchday 1\n🗓 Thu 17 Sep 2026 · 19:00 UTC
+ \n🏟 Doosan Aréna, Plzeň\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيكتوريا بلزن ضد يونيون سا
+ نت جيلواز — الدوري الأوروبي | Tomorrow: Viktoria P
+ lzeň vs Union St.Gilloise
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيكتو
+ ريا بلزن × يونيون سانت جيلواز | Kick-off in 30 min
+ : Viktoria Plzeň vs Union St.Gilloise
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112279@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:Ferencváros vs Viktoria Plzeň — UEFA Europa League
+LOCATION:Groupama Aréna\, Budapest\, Hungary
+GEO:47.475514;19.095286
+URL:https://www.fotmob.com/match/6112279
+DESCRIPTION:⚽ فيرينتسفاروشي × فيكتوريا بلزن\n
+ 🏆 الدوري الأوروبي — الجولة 2\n🗓 الخميس 1
+ 5 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Groupama Aré
+ na، Budapest\n—————\n⚽ Ferencváros v Viktoria Plzeň\n🏆 U
+ EFA Europa League — Matchday 2\n🗓 Thu 15 Oct 2026 · 19:00 UTC\n🏟 
+ Groupama Aréna, Budapest\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيرينتسفاروشي ضد فيكتوريا 
+ بلزن — الدوري الأوروبي | Tomorrow: Ferencváros vs Vik
+ toria Plzeň
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيرين
+ تسفاروشي × فيكتوريا بلزن | Kick-off in 30 min: Ferenc
+ város vs Viktoria Plzeň
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112285@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Viktoria Plzeň vs Levski Sofia — UEFA Europa League
+LOCATION:Doosan Aréna\, Plzeň\, Czech Republic
+GEO:49.750074;13.385446
+URL:https://www.fotmob.com/match/6112285
+DESCRIPTION:⚽ فيكتوريا بلزن × ليفسكي صوفيا\n🏆 
+ الدوري الأوروبي — الجولة 3\n🗓 الخميس 22 أ
+ كتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Doosan Aréna، P
+ lzeň\n—————\n⚽ Viktoria Plzeň v Levski Sofia\n🏆 UEFA Euro
+ pa League — Matchday 3\n🗓 Thu 22 Oct 2026 · 19:00 UTC\n🏟 Doosan A
+ réna, Plzeň\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيكتوريا بلزن ضد ليفسكي صو
+ فيا — الدوري الأوروبي | Tomorrow: Viktoria Plzeň vs Le
+ vski Sofia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيكتو
+ ريا بلزن × ليفسكي صوفيا | Kick-off in 30 min: Viktoria 
+ Plzeň vs Levski Sofia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112375@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:Lillestrøm vs Viktoria Plzeň — UEFA Europa League
+LOCATION:Aaraasen Stadion
+URL:https://www.fotmob.com/match/6112375
+DESCRIPTION:⚽ ليلستروم × فيكتوريا بلزن\n🏆 الد
+ وري الأوروبي — الجولة 4\n🗓 الخميس 5 نوفمب
+ ر 2026 · 20:45 بتوقيت الرياض\n🏟 Aaraasen Stadion\n——
+ ———\n⚽ Lillestrøm v Viktoria Plzeň\n🏆 UEFA Europa League — 
+ Matchday 4\n🗓 Thu 05 Nov 2026 · 17:45 UTC\n🏟 Aaraasen Stadion\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليلستروم ضد فيكتوريا بلزن 
+ — الدوري الأوروبي | Tomorrow: Lillestrøm vs Viktoria Plze
+ ň
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليلست
+ روم × فيكتوريا بلزن | Kick-off in 30 min: Lillestrøm vs V
+ iktoria Plzeň
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112282@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Viktoria Plzeň vs Benfica — UEFA Europa League
+LOCATION:Doosan Arena Plzen
+URL:https://www.fotmob.com/match/6112282
+DESCRIPTION:⚽ فيكتوريا بلزن × بنفيكا\n🏆 الدور
+ ي الأوروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 
+ 2026 · 20:45 بتوقيت الرياض\n🏟 Doosan Arena Plzen\n——
+ ———\n⚽ Viktoria Plzeň v Benfica\n🏆 UEFA Europa League — Matc
+ hday 5\n🗓 Thu 26 Nov 2026 · 17:45 UTC\n🏟 Doosan Arena Plzen\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيكتوريا بلزن ضد بنفيكا — 
+ الدوري الأوروبي | Tomorrow: Viktoria Plzeň vs Benfica
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيكتو
+ ريا بلزن × بنفيكا | Kick-off in 30 min: Viktoria Plzeň vs B
+ enfica
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112327@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:AFC Bournemouth vs Viktoria Plzeň — UEFA Europa League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/6112327
+DESCRIPTION:⚽ بورنموث × فيكتوريا بلزن\n🏆 الدو
+ ري الأوروبي — الجولة 6\n🗓 الخميس 10 ديسمب
+ ر 2026 · 23:00 بتوقيت الرياض\n🏟 Vitality Stadium\n——
+ ———\n⚽ AFC Bournemouth v Viktoria Plzeň\n🏆 UEFA Europa League 
+ — Matchday 6\n🗓 Thu 10 Dec 2026 · 20:00 UTC\n🏟 Vitality Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد فيكتوريا بلزن —
+  الدوري الأوروبي | Tomorrow: AFC Bournemouth vs Viktoria Plz
+ eň
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × فيكتوريا بلزن | Kick-off in 30 min: AFC Bournemouth vs
+  Viktoria Plzeň
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112271@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270121T174500Z
+DTEND:20270121T194500Z
+SUMMARY:Real Sociedad vs Viktoria Plzeň — UEFA Europa League
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/6112271
+DESCRIPTION:⚽ ريال سوسيداد × فيكتوريا بلزن\n🏆 
+ الدوري الأوروبي — الجولة 7\n🗓 الخميس 21 ي
+ ناير 2027 · 20:45 بتوقيت الرياض\n🏟 Reale Arena\n——
+ ———\n⚽ Real Sociedad v Viktoria Plzeň\n🏆 UEFA Europa League 
+ — Matchday 7\n🗓 Thu 21 Jan 2027 · 17:45 UTC\n🏟 Reale Arena\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد فيكتوريا ب
+ لزن — الدوري الأوروبي | Tomorrow: Real Sociedad vs Vikt
+ oria Plzeň
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × فيكتوريا بلزن | Kick-off in 30 min: Real Socie
+ dad vs Viktoria Plzeň
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112284@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Viktoria Plzeň vs Jagiellonia Białystok — UEFA Europa League
+LOCATION:Doosan Arena Plzen
+URL:https://www.fotmob.com/match/6112284
+DESCRIPTION:⚽ فيكتوريا بلزن × ياغييلونيا بياو
+ يستوك\n🏆 الدوري الأوروبي — الجولة 8\n🗓 ا
+ لخميس 28 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Doo
+ san Arena Plzen\n—————\n⚽ Viktoria Plzeň v Jagiellonia Biały
+ stok\n🏆 UEFA Europa League — Matchday 8\n🗓 Thu 28 Jan 2027 · 20:0
+ 0 UTC\n🏟 Doosan Arena Plzen\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيكتوريا بلزن ضد ياغييلوني
+ ا بياويستوك — الدوري الأوروبي | Tomorrow: Viktor
+ ia Plzeň vs Jagiellonia Białystok
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيكتو
+ ريا بلزن × ياغييلونيا بياويستوك | Kick-off in 3
+ 0 min: Viktoria Plzeň vs Jagiellonia Białystok
+END:VALARM
+END:VEVENT
+END:VCALENDAR

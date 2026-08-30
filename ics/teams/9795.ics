@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Swindon Town — FA Cup Fixtures | Swindon Town — مبا
+ ريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Swindon Town — all matches in FA Cup\, exact UTC kickoffs\, 
+ stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:1
+ 0Z.  •  Swindon Town — جميع المباريات في كأس الا
+ تحاد الإنجليزي بتوقيت UTC الدقيق مع الملا
+ عب والقنوات الناقلة. المصدر: FotMob + 365scores · 
+ تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010641@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Rotherham United vs Swindon Town (1 - 2) — FA Cup
+LOCATION:AESSEAL New York Stadium\, Rotherham\, South Yorkshire\, England
+GEO:53.427908;-1.362015
+URL:https://www.fotmob.com/match/5010641
+DESCRIPTION:⚽ Rotherham United × Swindon Town (1 - 2)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الأول\n🗓 السبت 1
+  نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 AESSEAL New Yo
+ rk Stadium، Rotherham, South Yorkshire\n⚖️ الحكم: Martin Woods\n
+ 👥 الحضور: 3,351\n—————\n⚽ Rotherham United v Swindon 
+ Town (1 - 2)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n
+ 🏟 AESSEAL New York Stadium, Rotherham, South Yorkshire\nReferee: Martin
+  Woods\nAttendance: 3,351\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Rotherham United ضد Swindon Town — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Rotherham United vs Swindon To
+ wn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Rotherham U
+ nited × Swindon Town | Kick-off in 30 min: Rotherham United vs Swindon To
+ wn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040313@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Swindon Town vs Bolton Wanderers (4 - 0) — FA Cup
+LOCATION:The Nigel Eady County Ground\, Swindon\, Wiltshire\, England
+GEO:51.564475;-1.771097
+URL:https://www.fotmob.com/match/5040313
+DESCRIPTION:⚽ Swindon Town × Bolton Wanderers (4 - 0)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الثاني\n🗓 السبت
+  6 ديسمبر 2025 · 18:00 بتوقيت الرياض\n🏟 The Nigel Ea
+ dy County Ground، Swindon, Wiltshire\n⚖️ الحكم: Lee Swabey\n👥
+  الحضور: 9,364\n—————\n⚽ Swindon Town v Bolton Wanderers
+  (4 - 0)\n🏆 FA Cup — Round 2\n🗓 Sat 06 Dec 2025 · 15:00 UTC\n🏟
+  The Nigel Eady County Ground, Swindon, Wiltshire\nReferee: Lee Swabey\nAt
+ tendance: 9,364\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Swindon Town ضد Bolton Wanderers — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Swindon Town vs Bolton Wandere
+ rs
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Swindon Tow
+ n × Bolton Wanderers | Kick-off in 30 min: Swindon Town vs Bolton Wandere
+ rs
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089912@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260120T194500Z
+DTEND:20260120T214500Z
+SUMMARY:Salford City vs Swindon Town (3 - 2) — FA Cup
+LOCATION:The Peninsula Stadium\, Salford\, Greater Manchester\, England
+GEO:53.513610;-2.276772
+URL:https://www.fotmob.com/match/5089912
+DESCRIPTION:⚽ Salford City × Swindon Town (3 - 2)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الثالث\n🗓 الثلاثا
+ ء 20 يناير 2026 · 22:45 بتوقيت الرياض\n🏟 The Peninsu
+ la Stadium، Salford, Greater Manchester\n⚖️ الحكم: Alex Chilowic
+ z\n👥 الحضور: 2,215\n—————\n⚽ Salford City v Swindon T
+ own (3 - 2)\n🏆 FA Cup — Round 3\n🗓 Tue 20 Jan 2026 · 19:45 UTC\n
+ 🏟 The Peninsula Stadium, Salford, Greater Manchester\nReferee: Alex Chi
+ lowicz\nAttendance: 2,215\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Salford City ضد Swindon Town — كأس الا
+ تحاد الإنجليزي | Tomorrow: Salford City vs Swindon Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Salford Cit
+ y × Swindon Town | Kick-off in 30 min: Salford City vs Swindon Town
+END:VALARM
+END:VEVENT
+END:VCALENDAR

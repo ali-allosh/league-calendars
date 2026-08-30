@@ -1,0 +1,275 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al-Wasl — AFC Champions League Elite Fixtures | الوص
+ ل — مباريات دوري أبطال آسيا للنخبة
+X-WR-CALDESC:Al-Wasl — all matches in AFC Champions League Elite\, exact 
+ UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 202
+ 6-09-05T19:31:10Z.  •  الوصل — جميع المباريات في 
+ دوري أبطال آسيا للنخبة بتوقيت UTC الدقيق م
+ ع الملاعب والقنوات الناقلة. المصدر: FotMob + 
+ 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6050069@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260914T181500Z
+DTEND:20260914T201500Z
+SUMMARY:Al Qadsiah vs Al-Wasl — AFC Champions League Elite
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/6050069
+DESCRIPTION:⚽ القادسية × الوصل\n🏆 دوري أبطال آ
+ سيا للنخبة — الجولة 1\n🗓 الاثنين 14 سبتمب
+ ر 2026 · 21:15 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd 
+ Stadium، Dammam\n—————\n⚽ Al Qadsiah v Al-Wasl\n🏆 AFC Cham
+ pions League Elite — Matchday 1\n🗓 Mon 14 Sep 2026 · 18:15 UTC\n🏟
+  Prince Mohammed Bin Fahd Stadium, Dammam\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الوصل — دوري أ
+ بطال آسيا للنخبة | Tomorrow: Al Qadsiah vs Al-Wasl
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الوصل | Kick-off in 30 min: Al Qadsiah vs Al-Wasl
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050073@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261012T160000Z
+DTEND:20261012T180000Z
+SUMMARY:Al-Wasl vs Al Ahli — AFC Champions League Elite
+LOCATION:Zabeel Stadium\, Dubayy (Dubai)\, United Arab Emirates
+GEO:25.219098;55.316918
+URL:https://www.fotmob.com/match/6050073
+DESCRIPTION:⚽ الوصل × الأهلي\n🏆 دوري أبطال آسي
+ ا للنخبة — الجولة 2\n🗓 الاثنين 12 أكتوبر 20
+ 26 · 19:00 بتوقيت الرياض\n🏟 Zabeel Stadium، Dubayy (Dubai
+ )\n—————\n⚽ Al-Wasl v Al Ahli\n🏆 AFC Champions League Elite
+  — Matchday 2\n🗓 Mon 12 Oct 2026 · 16:00 UTC\n🏟 Zabeel Stadium, D
+ ubayy (Dubai)\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الوصل ضد الأهلي — دوري أبط
+ ال آسيا للنخبة | Tomorrow: Al-Wasl vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الوصل 
+ × الأهلي | Kick-off in 30 min: Al-Wasl vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050083@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261026T191500Z
+DTEND:20261026T211500Z
+SUMMARY:Al Nassr FC vs Al-Wasl — AFC Champions League Elite
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/6050083
+DESCRIPTION:⚽ النصر × الوصل\n🏆 دوري أبطال آسيا
+  للنخبة — الجولة 3\n🗓 الاثنين 26 أكتوبر 2026
+  · 22:15 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n——
+ ———\n⚽ Al Nassr FC v Al-Wasl\n🏆 AFC Champions League Elite — 
+ Matchday 3\n🗓 Mon 26 Oct 2026 · 19:15 UTC\n🏟 Al-Awwal Park, Riyadh\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الوصل — دوري أبطا
+ ل آسيا للنخبة | Tomorrow: Al Nassr FC vs Al-Wasl
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الوصل | Kick-off in 30 min: Al Nassr FC vs Al-Wasl
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050090@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261102T170000Z
+DTEND:20261102T190000Z
+SUMMARY:Al-Wasl vs Al Quwa Al Jawiya — AFC Champions League Elite
+LOCATION:Zabeel Stadium\, Dubayy (Dubai)\, United Arab Emirates
+GEO:25.219098;55.316918
+URL:https://www.fotmob.com/match/6050090
+DESCRIPTION:⚽ الوصل × القوة الجوية\n🏆 دوري أبط
+ ال آسيا للنخبة — الجولة 4\n🗓 الاثنين 2 نو
+ فمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Zabeel Stadium، Du
+ bayy (Dubai)\n—————\n⚽ Al-Wasl v Al Quwa Al Jawiya\n🏆 AFC C
+ hampions League Elite — Matchday 4\n🗓 Mon 02 Nov 2026 · 17:00 UTC\n
+ 🏟 Zabeel Stadium, Dubayy (Dubai)\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الوصل ضد القوة الجوية — دو
+ ري أبطال آسيا للنخبة | Tomorrow: Al-Wasl vs Al Quwa Al Ja
+ wiya
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الوصل 
+ × القوة الجوية | Kick-off in 30 min: Al-Wasl vs Al Quwa Al Jaw
+ iya
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050099@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261123T170000Z
+DTEND:20261123T190000Z
+SUMMARY:Tractor vs Al-Wasl — AFC Champions League Elite
+LOCATION:Sultan Qaboos Sports Complex\, Masqaṭ (Muscat)\, Oman
+GEO:23.573005;58.399565
+URL:https://www.fotmob.com/match/6050099
+DESCRIPTION:⚽ تراکتورسازي × الوصل\n🏆 دوري أبط
+ ال آسيا للنخبة — الجولة 5\n🗓 الاثنين 23 نو
+ فمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Sultan Qaboos Sport
+ s Complex، Masqaṭ (Muscat)\n—————\n⚽ Tractor v Al-Wasl\n
+ 🏆 AFC Champions League Elite — Matchday 5\n🗓 Mon 23 Nov 2026 · 17
+ :00 UTC\n🏟 Sultan Qaboos Sports Complex, Masqaṭ (Muscat)\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تراکتورسازي ضد الوصل — دور
+ ي أبطال آسيا للنخبة | Tomorrow: Tractor vs Al-Wasl
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تراکت
+ ورسازي × الوصل | Kick-off in 30 min: Tractor vs Al-Wasl
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050106@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261207T170000Z
+DTEND:20261207T190000Z
+SUMMARY:Al-Wasl vs Al Ittihad — AFC Champions League Elite
+LOCATION:Zabeel Stadium\, Dubayy (Dubai)\, United Arab Emirates
+GEO:25.219098;55.316918
+URL:https://www.fotmob.com/match/6050106
+DESCRIPTION:⚽ الوصل × الاتحاد\n🏆 دوري أبطال آس
+ يا للنخبة — الجولة 6\n🗓 الاثنين 7 ديسمبر 2
+ 026 · 20:00 بتوقيت الرياض\n🏟 Zabeel Stadium، Dubayy (Duba
+ i)\n—————\n⚽ Al-Wasl v Al Ittihad\n🏆 AFC Champions League E
+ lite — Matchday 6\n🗓 Mon 07 Dec 2026 · 17:00 UTC\n🏟 Zabeel Stadiu
+ m, Dubayy (Dubai)\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الوصل ضد الاتحاد — دوري أب
+ طال آسيا للنخبة | Tomorrow: Al-Wasl vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الوصل 
+ × الاتحاد | Kick-off in 30 min: Al-Wasl vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050119@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270209T170000Z
+DTEND:20270209T190000Z
+SUMMARY:Al-Wasl vs Al Hilal — AFC Champions League Elite
+LOCATION:Zabeel Stadium\, Dubayy (Dubai)\, United Arab Emirates
+GEO:25.219098;55.316918
+URL:https://www.fotmob.com/match/6050119
+DESCRIPTION:⚽ الوصل × الهلال\n🏆 دوري أبطال آسي
+ ا للنخبة — الجولة 7\n🗓 الثلاثاء 9 فبراير 2
+ 027 · 20:00 بتوقيت الرياض\n🏟 Zabeel Stadium، Dubayy (Duba
+ i)\n—————\n⚽ Al-Wasl v Al Hilal\n🏆 AFC Champions League Eli
+ te — Matchday 7\n🗓 Tue 09 Feb 2027 · 17:00 UTC\n🏟 Zabeel Stadium,
+  Dubayy (Dubai)\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الوصل ضد الهلال — دوري أبط
+ ال آسيا للنخبة | Tomorrow: Al-Wasl vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الوصل 
+ × الهلال | Kick-off in 30 min: Al-Wasl vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050120@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270215T170000Z
+DTEND:20270215T190000Z
+SUMMARY:Esteghlal vs Al-Wasl — AFC Champions League Elite
+LOCATION:Basra International Stadium\, al-Baṣra (Basra)\, Iraq
+GEO:30.439928;47.779781
+URL:https://www.fotmob.com/match/6050120
+DESCRIPTION:⚽ استقلال × الوصل\n🏆 دوري أبطال آس
+ يا للنخبة — الجولة 8\n🗓 الاثنين 15 فبراير 
+ 2027 · 20:00 بتوقيت الرياض\n🏟 Basra International Stadium
+ ، al-Baṣra (Basra)\n—————\n⚽ Esteghlal v Al-Wasl\n🏆 AFC 
+ Champions League Elite — Matchday 8\n🗓 Mon 15 Feb 2027 · 17:00 UTC\n
+ 🏟 Basra International Stadium, al-Baṣra (Basra)\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: استقلال ضد الوصل — دوري أب
+ طال آسيا للنخبة | Tomorrow: Esteghlal vs Al-Wasl
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: استقل
+ ال × الوصل | Kick-off in 30 min: Esteghlal vs Al-Wasl
+END:VALARM
+END:VEVENT
+END:VCALENDAR

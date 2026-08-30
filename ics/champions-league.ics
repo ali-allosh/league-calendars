@@ -1,0 +1,4628 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ UEFA Champions League 2026/2027 — Fixtures | دوري أ
+ بطال أوروبا 2026/2027 — جدول المباريات
+X-WR-CALDESC:UEFA Champions League 2026/2027 — all fixtures\, exact UTC k
+ ickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-
+ 05T19:31:10Z.  •  دوري أبطال أوروبا 2026/2027 — جمي
+ ع المباريات بتوقيت UTC الدقيق مع الملاعب و
+ القنوات الناقلة. المصدر: FotMob + 365scores · تحد
+ يث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6106404@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T164500Z
+DTEND:20260908T184500Z
+SUMMARY:AEK Athens vs LASK — UEFA Champions League
+LOCATION:ALLWYN Arena\, Athína (Athens)\, Greece
+GEO:38.037166;23.741439
+URL:https://www.fotmob.com/match/6106404
+DESCRIPTION:⚽ أيك أثينا × LASK\n🏆 دوري أبطال أور
+ وبا — الجولة 1\n🗓 الثلاثاء 8 سبتمبر 2026 · 19
+ :45 بتوقيت الرياض\n🏟 ALLWYN Arena، Athína (Athens)\n📺 
+ Paramount+ (US)\n—————\n⚽ AEK Athens v LASK\n🏆 UEFA Champio
+ ns League — Matchday 1\n🗓 Tue 08 Sep 2026 · 16:45 UTC\n🏟 ALLWYN A
+ rena, Athína (Athens)\n📺 Paramount+ (US)\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أيك أثينا ضد LASK — دوري أبطا
+ ل أوروبا — 📺 Paramount+ (US) | Tomorrow: AEK Athens vs LASK | 
+ TV: Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أيك أث
+ ينا × LASK — 📺 Paramount+ (US) | Kick-off in 30 min: AEK Athens v
+ s LASK | TV: Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106295@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T164500Z
+DTEND:20260908T184500Z
+SUMMARY:Club Brugge vs Aston Villa — UEFA Champions League
+LOCATION:Jan Breydelstadion\, Brugge\, Belgium
+GEO:51.193451;3.180542
+URL:https://www.fotmob.com/match/6106295
+DESCRIPTION:⚽ كلوب بروج × أستون فيلا\n🏆 دوري أ
+ بطال أوروبا — الجولة 1\n🗓 الثلاثاء 8 سبتم
+ بر 2026 · 19:45 بتوقيت الرياض\n🏟 Jan Breydelstadion، Br
+ ugge\n📺 Paramount+ (US)\n—————\n⚽ Club Brugge v Aston Villa
+ \n🏆 UEFA Champions League — Matchday 1\n🗓 Tue 08 Sep 2026 · 16:45
+  UTC\n🏟 Jan Breydelstadion, Brugge\n📺 Paramount+ (US)\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كلوب بروج ضد أستون فيلا — د
+ وري أبطال أوروبا — 📺 Paramount+ (US) | Tomorrow: Club B
+ rugge vs Aston Villa | TV: Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كلوب ب
+ روج × أستون فيلا — 📺 Paramount+ (US) | Kick-off in 30 mi
+ n: Club Brugge vs Aston Villa | TV: Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106272@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T190000Z
+DTEND:20260908T210000Z
+SUMMARY:Borussia Dortmund vs Villarreal — UEFA Champions League
+LOCATION:SIGNAL IDUNA PARK\, Dortmund\, Germany
+GEO:51.492607;7.451777
+URL:https://www.fotmob.com/match/6106272
+DESCRIPTION:⚽ بوروسيا دورتموند × فياريال\n🏆 د
+ وري أبطال أوروبا — الجولة 1\n🗓 الثلاثاء 8
+  سبتمبر 2026 · 22:00 بتوقيت الرياض\n🏟 SIGNAL IDUNA P
+ ARK، Dortmund\n📺 HBO Max (UK)، Paramount+ (US)\n—————\n⚽ 
+ Borussia Dortmund v Villarreal\n🏆 UEFA Champions League — Matchday 1\
+ n🗓 Tue 08 Sep 2026 · 19:00 UTC\n🏟 SIGNAL IDUNA PARK, Dortmund\n📺
+  HBO Max (UK), Paramount+ (US)\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد فياريا
+ ل — دوري أبطال أوروبا — 📺 HBO Max (UK)، Paramount+
+  (US) | Tomorrow: Borussia Dortmund vs Villarreal | TV: HBO Max (UK)\, Par
+ amount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × فياريال — 📺 HBO Max (UK)، Paramount+
+  (US) | Kick-off in 30 min: Borussia Dortmund vs Villarreal | TV: HBO Max 
+ (UK)\, Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106286@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T190000Z
+DTEND:20260908T210000Z
+SUMMARY:FC Porto vs Manchester City — UEFA Champions League
+LOCATION:Estádio Do Dragão\, Porto\, Portugal
+GEO:41.161791;-8.583739
+URL:https://www.fotmob.com/match/6106286
+DESCRIPTION:⚽ بورتو × مانشستر سيتي\n🏆 دوري أبط
+ ال أوروبا — الجولة 1\n🗓 الثلاثاء 8 سبتمبر
+  2026 · 22:00 بتوقيت الرياض\n🏟 Estádio Do Dragão، Porto
+ \n📺 Paramount+ (US)\n—————\n⚽ FC Porto v Manchester City\n
+ 🏆 UEFA Champions League — Matchday 1\n🗓 Tue 08 Sep 2026 · 19:00 U
+ TC\n🏟 Estádio Do Dragão, Porto\n📺 Paramount+ (US)\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورتو ضد مانشستر سيتي — دو
+ ري أبطال أوروبا — 📺 Paramount+ (US) | Tomorrow: FC Porto
+  vs Manchester City | TV: Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورتو 
+ × مانشستر سيتي — 📺 Paramount+ (US) | Kick-off in 30 min: 
+ FC Porto vs Manchester City | TV: Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106311@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T190000Z
+DTEND:20260908T210000Z
+SUMMARY:Lille vs Real Betis — UEFA Champions League
+LOCATION:Decathlon Arena - Stade Pierre-Mauroy\, Villeneuve d'Ascq\, France
+GEO:50.611965;3.130484
+URL:https://www.fotmob.com/match/6106311
+DESCRIPTION:⚽ ليل × ريال بيتيس\n🏆 دوري أبطال أ
+ وروبا — الجولة 1\n🗓 الثلاثاء 8 سبتمبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Decathlon Arena - Stade Pierre-Ma
+ uroy، Villeneuve d'Ascq\n📺 HBO Max (UK)، Paramount+ (US)\n———
+ ——\n⚽ Lille v Real Betis\n🏆 UEFA Champions League — Matchday 1\
+ n🗓 Tue 08 Sep 2026 · 19:00 UTC\n🏟 Decathlon Arena - Stade Pierre-Ma
+ uroy, Villeneuve d'Ascq\n📺 HBO Max (UK), Paramount+ (US)\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليل ضد ريال بيتيس — دوري أب
+ طال أوروبا — 📺 HBO Max (UK)، Paramount+ (US) | Tomorrow: Li
+ lle vs Real Betis | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليل × 
+ ريال بيتيس — 📺 HBO Max (UK)، Paramount+ (US) | Kick-off in 
+ 30 min: Lille vs Real Betis | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106242@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T190000Z
+DTEND:20260908T210000Z
+SUMMARY:Real Madrid vs Inter — UEFA Champions League
+LOCATION:Estadio Bernabéu\, Madrid\, Spain
+GEO:40.453068;-3.688354
+URL:https://www.fotmob.com/match/6106242
+DESCRIPTION:⚽ ريال مدريد × إنتر ميلان\n🏆 دوري 
+ أبطال أوروبا — الجولة 1\n🗓 الثلاثاء 8 سبت
+ مبر 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio Bernabéu، M
+ adrid\n📺 HBO Max (UK)، Paramount+ (US)\n—————\n⚽ Real Madr
+ id v Inter\n🏆 UEFA Champions League — Matchday 1\n🗓 Tue 08 Sep 202
+ 6 · 19:00 UTC\n🏟 Estadio Bernabéu, Madrid\n📺 HBO Max (UK), Paramou
+ nt+ (US)\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد إنتر ميلان — 
+ دوري أبطال أوروبا — 📺 HBO Max (UK)، Paramount+ (US) |
+  Tomorrow: Real Madrid vs Inter | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × إنتر ميلان — 📺 HBO Max (UK)، Paramount+ (US) | 
+ Kick-off in 30 min: Real Madrid vs Inter | TV: HBO Max (UK)\, Paramount+ (
+ US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106264@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260909T164500Z
+DTEND:20260909T184500Z
+SUMMARY:Barcelona vs Feyenoord — UEFA Champions League
+LOCATION:Spotify Camp Nou\, Barcelona\, Spain
+GEO:41.380890;2.122813
+URL:https://www.fotmob.com/match/6106264
+DESCRIPTION:⚽ برشلونة × فاينورد\n🏆 دوري أبطال 
+ أوروبا — الجولة 1\n🗓 الأربعاء 9 سبتمبر 2026
+  · 19:45 بتوقيت الرياض\n🏟 Spotify Camp Nou، Barcelona\n
+ 📺 HBO Max (UK)، Paramount+ (US)\n—————\n⚽ Barcelona v Feye
+ noord\n🏆 UEFA Champions League — Matchday 1\n🗓 Wed 09 Sep 2026 · 
+ 16:45 UTC\n🏟 Spotify Camp Nou, Barcelona\n📺 HBO Max (UK), Paramount+
+  (US)\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد فاينورد — دوري 
+ أبطال أوروبا — 📺 HBO Max (UK)، Paramount+ (US) | Tomorrow
+ : Barcelona vs Feyenoord | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × فاينورد — 📺 HBO Max (UK)، Paramount+ (US) | Kick-off 
+ in 30 min: Barcelona vs Feyenoord | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106400@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260909T164500Z
+DTEND:20260909T184500Z
+SUMMARY:VfB Stuttgart vs Viking — UEFA Champions League
+LOCATION:MHPArena\, Stuttgart\, Germany
+GEO:48.792284;9.232024
+URL:https://www.fotmob.com/match/6106400
+DESCRIPTION:⚽ شتوتجارت × فيشينغ ستافانغير\n🏆 
+ دوري أبطال أوروبا — الجولة 1\n🗓 الأربعاء
+  9 سبتمبر 2026 · 19:45 بتوقيت الرياض\n🏟 MHPArena، S
+ tuttgart\n📺 HBO Max (UK)، Paramount+ (US)\n—————\n⚽ VfB St
+ uttgart v Viking\n🏆 UEFA Champions League — Matchday 1\n🗓 Wed 09 S
+ ep 2026 · 16:45 UTC\n🏟 MHPArena, Stuttgart\n📺 HBO Max (UK), Paramou
+ nt+ (US)\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد فيشينغ ستافانغ
+ ير — دوري أبطال أوروبا — 📺 HBO Max (UK)، Paramoun
+ t+ (US) | Tomorrow: VfB Stuttgart vs Viking | TV: HBO Max (UK)\, Paramount
+ + (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × فيشينغ ستافانغير — 📺 HBO Max (UK)، Paramoun
+ t+ (US) | Kick-off in 30 min: VfB Stuttgart vs Viking | TV: HBO Max (UK)\,
+  Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106246@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260909T190000Z
+DTEND:20260909T210000Z
+SUMMARY:Liverpool vs Atlético Madrid — UEFA Champions League
+LOCATION:Anfield\, Liverpool\, England
+GEO:53.430828;-2.960853
+URL:https://www.fotmob.com/match/6106246
+DESCRIPTION:⚽ ليفربول × أتلتيكو مدريد\n🏆 دوري 
+ أبطال أوروبا — الجولة 1\n🗓 الأربعاء 9 سبت
+ مبر 2026 · 22:00 بتوقيت الرياض\n🏟 Anfield، Liverpool\n
+ 📺 HBO Max (UK)، Paramount+ (US)، Premier Sports 1 ROI\n————
+ —\n⚽ Liverpool v Atlético Madrid\n🏆 UEFA Champions League — Matc
+ hday 1\n🗓 Wed 09 Sep 2026 · 19:00 UTC\n🏟 Anfield, Liverpool\n📺 H
+ BO Max (UK), Paramount+ (US), Premier Sports 1 ROI\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد أتلتيكو مدريد —
+  دوري أبطال أوروبا — 📺 HBO Max (UK)، Paramount+ (US)
+ ، Premier Sports 1 ROI | Tomorrow: Liverpool vs Atlético Madrid | TV: HB
+ O Max (UK)\, Paramount+ (US)\, Premier Sports 1 ROI
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × أتلتيكو مدريد — 📺 HBO Max (UK)، Paramount+ (US)
+ ، Premier Sports 1 ROI | Kick-off in 30 min: Liverpool vs Atlético Madri
+ d | TV: HBO Max (UK)\, Paramount+ (US)\, Premier Sports 1 ROI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106237@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260909T190000Z
+DTEND:20260909T210000Z
+SUMMARY:Paris Saint-Germain vs Slovan Bratislava — UEFA Champions League
+LOCATION:Parc des Princes\, Paris\, France
+GEO:48.841433;2.253049
+URL:https://www.fotmob.com/match/6106237
+DESCRIPTION:⚽ باريس سان جيرمان × سلوفان براتيس
+ لافا\n🏆 دوري أبطال أوروبا — الجولة 1\n🗓 
+ الأربعاء 9 سبتمبر 2026 · 22:00 بتوقيت الرياض\n
+ 🏟 Parc des Princes، Paris\n📺 HBO Max (UK)، Paramount+ (US)\n——
+ ———\n⚽ Paris Saint-Germain v Slovan Bratislava\n🏆 UEFA Champion
+ s League — Matchday 1\n🗓 Wed 09 Sep 2026 · 19:00 UTC\n🏟 Parc des 
+ Princes, Paris\n📺 HBO Max (UK), Paramount+ (US)\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد سلوفان 
+ براتيسلافا — دوري أبطال أوروبا — 📺 HBO Max
+  (UK)، Paramount+ (US) | Tomorrow: Paris Saint-Germain vs Slovan Bratisla
+ va | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × سلوفان براتيسلافا — 📺 HBO Max 
+ (UK)، Paramount+ (US) | Kick-off in 30 min: Paris Saint-Germain vs Slovan
+  Bratislava | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106280@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260909T190000Z
+DTEND:20260909T210000Z
+SUMMARY:Sporting CP vs Galatasaray — UEFA Champions League
+LOCATION:Estádio José Alvalade\, Lisboa\, Portugal
+GEO:38.761207;-9.160876
+URL:https://www.fotmob.com/match/6106280
+DESCRIPTION:⚽ سبورتنج لشبونة × غلطة سراي\n🏆 دو
+ ري أبطال أوروبا — الجولة 1\n🗓 الأربعاء 9 
+ سبتمبر 2026 · 22:00 بتوقيت الرياض\n🏟 Estádio José 
+ Alvalade، Lisboa\n📺 HBO Max (UK)، Paramount+ (US)\n—————\n
+ ⚽ Sporting CP v Galatasaray\n🏆 UEFA Champions League — Matchday 1\n
+ 🗓 Wed 09 Sep 2026 · 19:00 UTC\n🏟 Estádio José Alvalade, Lisboa\n
+ 📺 HBO Max (UK), Paramount+ (US)\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سبورتنج لشبونة ضد غلطة سرا
+ ي — دوري أبطال أوروبا — 📺 HBO Max (UK)، Paramount+
+  (US) | Tomorrow: Sporting CP vs Galatasaray | TV: HBO Max (UK)\, Paramoun
+ t+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سبورت
+ نج لشبونة × غلطة سراي — 📺 HBO Max (UK)، Paramount+ 
+ (US) | Kick-off in 30 min: Sporting CP vs Galatasaray | TV: HBO Max (UK)\,
+  Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106318@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260909T190000Z
+DTEND:20260909T210000Z
+SUMMARY:Napoli vs Arsenal — UEFA Champions League
+LOCATION:Stadio Diego Armando Maradona\, Napoli\, Italy
+GEO:40.827974;14.192930
+URL:https://www.fotmob.com/match/6106318
+DESCRIPTION:⚽ نابولي × أرسنال\n🏆 دوري أبطال أو
+ روبا — الجولة 1\n🗓 الأربعاء 9 سبتمبر 2026 · 
+ 22:00 بتوقيت الرياض\n🏟 Stadio Diego Armando Maradona، Napo
+ li\n📺 HBO Max (UK)، Paramount+ (US)\n—————\n⚽ Napoli v Ars
+ enal\n🏆 UEFA Champions League — Matchday 1\n🗓 Wed 09 Sep 2026 · 1
+ 9:00 UTC\n🏟 Stadio Diego Armando Maradona, Napoli\n📺 HBO Max (UK), P
+ aramount+ (US)\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد أرسنال — دوري أب
+ طال أوروبا — 📺 HBO Max (UK)، Paramount+ (US) | Tomorrow: Na
+ poli vs Arsenal | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × أرسنال — 📺 HBO Max (UK)، Paramount+ (US) | Kick-off in 3
+ 0 min: Napoli vs Arsenal | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106331@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260910T164500Z
+DTEND:20260910T184500Z
+SUMMARY:Fenerbahçe vs Roma — UEFA Champions League
+LOCATION:Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi\, 
+ İstanbul\, Türkiye
+GEO:40.987799;29.036860
+URL:https://www.fotmob.com/match/6106331
+DESCRIPTION:⚽ فنربخشة × روما\n🏆 دوري أبطال أور
+ وبا — الجولة 1\n🗓 الخميس 10 سبتمبر 2026 · 19:45
+  بتوقيت الرياض\n🏟 Chobani Stadyumu Fenerbahçe Şükrü Sar
+ acoğlu Spor Kompleksi، İstanbul\n📺 HBO Max (UK)، Paramount+ (US)\n
+ —————\n⚽ Fenerbahçe v Roma\n🏆 UEFA Champions League — Ma
+ tchday 1\n🗓 Thu 10 Sep 2026 · 16:45 UTC\n🏟 Chobani Stadyumu Fenerba
+ hçe Şükrü Saracoğlu Spor Kompleksi, İstanbul\n📺 HBO Max (UK), Par
+ amount+ (US)\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فنربخشة ضد روما — دوري أبط
+ ال أوروبا — 📺 HBO Max (UK)، Paramount+ (US) | Tomorrow: Fene
+ rbahçe vs Roma | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فنربخ
+ شة × روما — 📺 HBO Max (UK)، Paramount+ (US) | Kick-off in 30 
+ min: Fenerbahçe vs Roma | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106304@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260910T164500Z
+DTEND:20260910T184500Z
+SUMMARY:PSV Eindhoven vs Shakhtar Donetsk — UEFA Champions League
+LOCATION:Philips Stadion\, Eindhoven\, Netherlands
+GEO:51.441630;5.467452
+URL:https://www.fotmob.com/match/6106304
+DESCRIPTION:⚽ آيندهوفن × شاختار دونيتسك\n🏆 دو
+ ري أبطال أوروبا — الجولة 1\n🗓 الخميس 10 سب
+ تمبر 2026 · 19:45 بتوقيت الرياض\n🏟 Philips Stadion، E
+ indhoven\n📺 HBO Max (UK)، Paramount+ (US)\n—————\n⚽ PSV Ei
+ ndhoven v Shakhtar Donetsk\n🏆 UEFA Champions League — Matchday 1\n
+ 🗓 Thu 10 Sep 2026 · 16:45 UTC\n🏟 Philips Stadion, Eindhoven\n📺 H
+ BO Max (UK), Paramount+ (US)\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آيندهوفن ضد شاختار دونيتسك
+  — دوري أبطال أوروبا — 📺 HBO Max (UK)، Paramount+ (
+ US) | Tomorrow: PSV Eindhoven vs Shakhtar Donetsk | TV: HBO Max (UK)\, Par
+ amount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينده
+ وفن × شاختار دونيتسك — 📺 HBO Max (UK)، Paramount+ (
+ US) | Kick-off in 30 min: PSV Eindhoven vs Shakhtar Donetsk | TV: HBO Max 
+ (UK)\, Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106240@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260910T190000Z
+DTEND:20260910T210000Z
+SUMMARY:Bayern München vs Bodø/Glimt — UEFA Champions League
+LOCATION:Allianz Arena\, München\, Germany
+GEO:48.218779;11.624743
+URL:https://www.fotmob.com/match/6106240
+DESCRIPTION:⚽ بايرن ميونخ × بودو جليمت\n🏆 دوري
+  أبطال أوروبا — الجولة 1\n🗓 الخميس 10 سبتم
+ بر 2026 · 22:00 بتوقيت الرياض\n🏟 Allianz Arena، Münche
+ n\n📺 HBO Max (UK)، Paramount+ (US)\n—————\n⚽ Bayern Münch
+ en v Bodø/Glimt\n🏆 UEFA Champions League — Matchday 1\n🗓 Thu 10 S
+ ep 2026 · 19:00 UTC\n🏟 Allianz Arena, München\n📺 HBO Max (UK), Par
+ amount+ (US)\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد بودو جليمت 
+ — دوري أبطال أوروبا — 📺 HBO Max (UK)، Paramount+ (U
+ S) | Tomorrow: Bayern München vs Bodø/Glimt | TV: HBO Max (UK)\, Paramou
+ nt+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × بودو جليمت — 📺 HBO Max (UK)، Paramount+ (US) 
+ | Kick-off in 30 min: Bayern München vs Bodø/Glimt | TV: HBO Max (UK)\, 
+ Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106411@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260910T190000Z
+DTEND:20260910T210000Z
+SUMMARY:Como vs RB Leipzig — UEFA Champions League
+LOCATION:Stadio Giuseppe Sinigaglia\, Como\, Italy
+GEO:45.813857;9.072376
+URL:https://www.fotmob.com/match/6106411
+DESCRIPTION:⚽ كومو × لايبزيج\n🏆 دوري أبطال أور
+ وبا — الجولة 1\n🗓 الخميس 10 سبتمبر 2026 · 22:00
+  بتوقيت الرياض\n🏟 Stadio Giuseppe Sinigaglia، Como\n📺 H
+ BO Max (UK)، Paramount+ (US)\n—————\n⚽ Como v RB Leipzig\n
+ 🏆 UEFA Champions League — Matchday 1\n🗓 Thu 10 Sep 2026 · 19:00 U
+ TC\n🏟 Stadio Giuseppe Sinigaglia, Como\n📺 HBO Max (UK), Paramount+ (
+ US)\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كومو ضد لايبزيج — دوري أبط
+ ال أوروبا — 📺 HBO Max (UK)، Paramount+ (US) | Tomorrow: Como
+  vs RB Leipzig | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كومو ×
+  لايبزيج — 📺 HBO Max (UK)، Paramount+ (US) | Kick-off in 30 m
+ in: Como vs RB Leipzig | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106293@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260910T190000Z
+DTEND:20260910T210000Z
+SUMMARY:Manchester United vs Sabah FK — UEFA Champions League
+LOCATION:Old Trafford\, Manchester\, England
+GEO:53.463094;-2.291374
+URL:https://www.fotmob.com/match/6106293
+DESCRIPTION:⚽ مانشستر يونايتد × صباح\n🏆 دوري أ
+ بطال أوروبا — الجولة 1\n🗓 الخميس 10 سبتمب
+ ر 2026 · 22:00 بتوقيت الرياض\n🏟 Old Trafford، Manchester
+ \n📺 HBO Max (UK)، Paramount+ (US)، Premier Sports 1 ROI، RTÉ2، RT
+ É Player\n—————\n⚽ Manchester United v Sabah FK\n🏆 UEFA Ch
+ ampions League — Matchday 1\n🗓 Thu 10 Sep 2026 · 19:00 UTC\n🏟 Old
+  Trafford, Manchester\n📺 HBO Max (UK), Paramount+ (US), Premier Sports 
+ 1 ROI, RTÉ2, RTÉ Player\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد صباح — 
+ دوري أبطال أوروبا — 📺 HBO Max (UK)، Paramount+ (US)،
+  Premier Sports 1 ROI، RTÉ2، RTÉ Player | Tomorrow: Manchester United 
+ vs Sabah FK | TV: HBO Max (UK)\, Paramount+ (US)\, Premier Sports 1 ROI\, 
+ RTÉ2\, RTÉ Player
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × صباح — 📺 HBO Max (UK)، Paramount+ (US)، 
+ Premier Sports 1 ROI، RTÉ2، RTÉ Player | Kick-off in 30 min: Mancheste
+ r United vs Sabah FK | TV: HBO Max (UK)\, Paramount+ (US)\, Premier Sports
+  1 ROI\, RTÉ2\, RTÉ Player
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106392@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260910T190000Z
+DTEND:20260910T210000Z
+SUMMARY:Slavia Prague vs Lens — UEFA Champions League
+LOCATION:Fortuna Arena\, Praha\, Czech Republic
+GEO:50.067525;14.471140
+URL:https://www.fotmob.com/match/6106392
+DESCRIPTION:⚽ سلافيا براغ × لانس\n🏆 دوري أبطال
+  أوروبا — الجولة 1\n🗓 الخميس 10 سبتمبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Fortuna Arena، Praha\n📺 HBO M
+ ax (UK)، Paramount+ (US)\n—————\n⚽ Slavia Prague v Lens\n🏆
+  UEFA Champions League — Matchday 1\n🗓 Thu 10 Sep 2026 · 19:00 UTC\n
+ 🏟 Fortuna Arena, Praha\n📺 HBO Max (UK), Paramount+ (US)\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سلافيا براغ ضد لانس — دوري 
+ أبطال أوروبا — 📺 HBO Max (UK)، Paramount+ (US) | Tomorrow
+ : Slavia Prague vs Lens | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سلافي
+ ا براغ × لانس — 📺 HBO Max (UK)، Paramount+ (US) | Kick-off
+  in 30 min: Slavia Prague vs Lens | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106414@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T164500Z
+DTEND:20261013T184500Z
+SUMMARY:Lens vs Sporting CP — UEFA Champions League
+LOCATION:Stade Bollaert-Delelis\, Lens\, France
+GEO:50.432867;2.814941
+URL:https://www.fotmob.com/match/6106414
+DESCRIPTION:⚽ لانس × سبورتنج لشبونة\n🏆 دوري أب
+ طال أوروبا — الجولة 2\n🗓 الثلاثاء 13 أكتو
+ بر 2026 · 19:45 بتوقيت الرياض\n🏟 Stade Bollaert-Delelis
+ ، Lens\n—————\n⚽ Lens v Sporting CP\n🏆 UEFA Champions Leag
+ ue — Matchday 2\n🗓 Tue 13 Oct 2026 · 16:45 UTC\n🏟 Stade Bollaert-
+ Delelis, Lens\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد سبورتنج لشبونة — د
+ وري أبطال أوروبا | Tomorrow: Lens vs Sporting CP
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  سبورتنج لشبونة | Kick-off in 30 min: Lens vs Sporting CP
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106424@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T164500Z
+DTEND:20261013T184500Z
+SUMMARY:Sabah FK vs Slavia Prague — UEFA Champions League
+LOCATION:Bank Respublika Arena\, Masazyr (Masazir)\, Azerbaijan
+GEO:40.486179;49.766298
+URL:https://www.fotmob.com/match/6106424
+DESCRIPTION:⚽ صباح × سلافيا براغ\n🏆 دوري أبطال
+  أوروبا — الجولة 2\n🗓 الثلاثاء 13 أكتوبر 20
+ 26 · 19:45 بتوقيت الرياض\n🏟 Bank Respublika Arena، Masazy
+ r (Masazir)\n—————\n⚽ Sabah FK v Slavia Prague\n🏆 UEFA Cham
+ pions League — Matchday 2\n🗓 Tue 13 Oct 2026 · 16:45 UTC\n🏟 Bank 
+ Respublika Arena, Masazyr (Masazir)\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: صباح ضد سلافيا براغ — دوري 
+ أبطال أوروبا | Tomorrow: Sabah FK vs Slavia Prague
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: صباح ×
+  سلافيا براغ | Kick-off in 30 min: Sabah FK vs Slavia Prague
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106260@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Arsenal vs Lille — UEFA Champions League
+LOCATION:Emirates Stadium\, London\, England
+GEO:51.555075;-0.108458
+URL:https://www.fotmob.com/match/6106260
+DESCRIPTION:⚽ أرسنال × ليل\n🏆 دوري أبطال أوروب
+ ا — الجولة 2\n🗓 الثلاثاء 13 أكتوبر 2026 · 22:00
+  بتوقيت الرياض\n🏟 Emirates Stadium، London\n————
+ —\n⚽ Arsenal v Lille\n🏆 UEFA Champions League — Matchday 2\n🗓 
+ Tue 13 Oct 2026 · 19:00 UTC\n🏟 Emirates Stadium, London\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد ليل — دوري أبطال 
+ أوروبا | Tomorrow: Arsenal vs Lille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × ليل | Kick-off in 30 min: Arsenal vs Lille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106267@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Atlético Madrid vs Manchester United — UEFA Champions League
+LOCATION:Riyadh Air Metropolitano\, Madrid\, Spain
+GEO:40.436226;-3.599460
+URL:https://www.fotmob.com/match/6106267
+DESCRIPTION:⚽ أتلتيكو مدريد × مانشستر يونايتد\
+ n🏆 دوري أبطال أوروبا — الجولة 2\n🗓 الثلا
+ ثاء 13 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Riyad
+ h Air Metropolitano، Madrid\n—————\n⚽ Atlético Madrid v Manc
+ hester United\n🏆 UEFA Champions League — Matchday 2\n🗓 Tue 13 Oct 
+ 2026 · 19:00 UTC\n🏟 Riyadh Air Metropolitano, Madrid\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد مانشستر ي
+ ونايتد — دوري أبطال أوروبا | Tomorrow: Atlético Ma
+ drid vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × مانشستر يونايتد | Kick-off in 30 min: Atl
+ ético Madrid vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106338@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Galatasaray vs Barcelona — UEFA Champions League
+LOCATION:RAMS Park\, İstanbul\, Türkiye
+GEO:41.103391;28.991064
+URL:https://www.fotmob.com/match/6106338
+DESCRIPTION:⚽ غلطة سراي × برشلونة\n🏆 دوري أبطا
+ ل أوروبا — الجولة 2\n🗓 الثلاثاء 13 أكتوبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 RAMS Park، İstanbul\n—
+ ————\n⚽ Galatasaray v Barcelona\n🏆 UEFA Champions League — 
+ Matchday 2\n🗓 Tue 13 Oct 2026 · 19:00 UTC\n🏟 RAMS Park, İstanbul\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غلطة سراي ضد برشلونة — دور
+ ي أبطال أوروبا | Tomorrow: Galatasaray vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غلطة س
+ راي × برشلونة | Kick-off in 30 min: Galatasaray vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106251@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Inter vs Club Brugge — UEFA Champions League
+LOCATION:Stadio Giuseppe Meazza\, Milano\, Italy
+GEO:45.478084;9.123979
+URL:https://www.fotmob.com/match/6106251
+DESCRIPTION:⚽ إنتر ميلان × كلوب بروج\n🏆 دوري أ
+ بطال أوروبا — الجولة 2\n🗓 الثلاثاء 13 أكت
+ وبر 2026 · 22:00 بتوقيت الرياض\n🏟 Stadio Giuseppe Meazz
+ a، Milano\n—————\n⚽ Inter v Club Brugge\n🏆 UEFA Champions 
+ League — Matchday 2\n🗓 Tue 13 Oct 2026 · 19:00 UTC\n🏟 Stadio Gius
+ eppe Meazza, Milano\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد كلوب بروج — د
+ وري أبطال أوروبا | Tomorrow: Inter vs Club Brugge
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × كلوب بروج | Kick-off in 30 min: Inter vs Club Brugge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106323@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:RB Leipzig vs PSV Eindhoven — UEFA Champions League
+LOCATION:Red Bull Arena\, Leipzig\, Germany
+GEO:51.345776;12.348289
+URL:https://www.fotmob.com/match/6106323
+DESCRIPTION:⚽ لايبزيج × آيندهوفن\n🏆 دوري أبطا
+ ل أوروبا — الجولة 2\n🗓 الثلاثاء 13 أكتوبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 Red Bull Arena، Leipzig\n
+ —————\n⚽ RB Leipzig v PSV Eindhoven\n🏆 UEFA Champions Leagu
+ e — Matchday 2\n🗓 Tue 13 Oct 2026 · 19:00 UTC\n🏟 Red Bull Arena, 
+ Leipzig\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لايبزيج ضد آيندهوفن — دوري
+  أبطال أوروبا | Tomorrow: RB Leipzig vs PSV Eindhoven
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لايبز
+ يج × آيندهوفن | Kick-off in 30 min: RB Leipzig vs PSV Eindhoven
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106417@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Viking vs Bayern München — UEFA Champions League
+LOCATION:Lyse Arena\, Stavanger\, Norway
+GEO:58.914596;5.730926
+URL:https://www.fotmob.com/match/6106417
+DESCRIPTION:⚽ فيشينغ ستافانغير × بايرن ميونخ\n
+ 🏆 دوري أبطال أوروبا — الجولة 2\n🗓 الثلا
+ ثاء 13 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Lyse 
+ Arena، Stavanger\n—————\n⚽ Viking v Bayern München\n🏆 UEF
+ A Champions League — Matchday 2\n🗓 Tue 13 Oct 2026 · 19:00 UTC\n🏟
+  Lyse Arena, Stavanger\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيشينغ ستافانغير ضد بايرن 
+ ميونخ — دوري أبطال أوروبا | Tomorrow: Viking vs Baye
+ rn München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيشين
+ غ ستافانغير × بايرن ميونخ | Kick-off in 30 min: Vikin
+ g vs Bayern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106328@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Villarreal vs Napoli — UEFA Champions League
+LOCATION:Estadio de la Cerámica\, Villarreal\, Spain
+GEO:39.944119;-0.103474
+URL:https://www.fotmob.com/match/6106328
+DESCRIPTION:⚽ فياريال × نابولي\n🏆 دوري أبطال أ
+ وروبا — الجولة 2\n🗓 الثلاثاء 13 أكتوبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Estadio de la Cerámica، Villarr
+ eal\n—————\n⚽ Villarreal v Napoli\n🏆 UEFA Champions League 
+ — Matchday 2\n🗓 Tue 13 Oct 2026 · 19:00 UTC\n🏟 Estadio de la Cer
+ ámica, Villarreal\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد نابولي — دوري أ
+ بطال أوروبا | Tomorrow: Villarreal vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × نابولي | Kick-off in 30 min: Villarreal vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106309@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261014T164500Z
+DTEND:20261014T184500Z
+SUMMARY:Feyenoord vs Como — UEFA Champions League
+LOCATION:Stadion Feijenoord\, Rotterdam\, Netherlands
+GEO:51.893855;4.523191
+URL:https://www.fotmob.com/match/6106309
+DESCRIPTION:⚽ فاينورد × كومو\n🏆 دوري أبطال أور
+ وبا — الجولة 2\n🗓 الأربعاء 14 أكتوبر 2026 · 1
+ 9:45 بتوقيت الرياض\n🏟 Stadion Feijenoord، Rotterdam\n—
+ ————\n⚽ Feyenoord v Como\n🏆 UEFA Champions League — Matchda
+ y 2\n🗓 Wed 14 Oct 2026 · 16:45 UTC\n🏟 Stadion Feijenoord, Rotterdam
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فاينورد ضد كومو — دوري أبط
+ ال أوروبا | Tomorrow: Feyenoord vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فاينو
+ رد × كومو | Kick-off in 30 min: Feyenoord vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106405@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261014T164500Z
+DTEND:20261014T184500Z
+SUMMARY:LASK vs Liverpool — UEFA Champions League
+LOCATION:Raiffeisen Arena\, Linz\, Austria
+GEO:48.293703;14.276587
+URL:https://www.fotmob.com/match/6106405
+DESCRIPTION:⚽ LASK × ليفربول\n🏆 دوري أبطال أوروب
+ ا — الجولة 2\n🗓 الأربعاء 14 أكتوبر 2026 · 19:45
+  بتوقيت الرياض\n🏟 Raiffeisen Arena، Linz\n—————\
+ n⚽ LASK v Liverpool\n🏆 UEFA Champions League — Matchday 2\n🗓 Wed
+  14 Oct 2026 · 16:45 UTC\n🏟 Raiffeisen Arena, Linz\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: LASK ضد ليفربول — دوري أبطال 
+ أوروبا | Tomorrow: LASK vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: LASK × ل
+ يفربول | Kick-off in 30 min: LASK vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106284@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+SUMMARY:Aston Villa vs Fenerbahçe — UEFA Champions League
+LOCATION:Villa Park\, Birmingham\, England
+GEO:52.509091;-1.884842
+URL:https://www.fotmob.com/match/6106284
+DESCRIPTION:⚽ أستون فيلا × فنربخشة\n🏆 دوري أبط
+ ال أوروبا — الجولة 2\n🗓 الأربعاء 14 أكتوب
+ ر 2026 · 22:00 بتوقيت الرياض\n🏟 Villa Park، Birmingham\n
+ —————\n⚽ Aston Villa v Fenerbahçe\n🏆 UEFA Champions League
+  — Matchday 2\n🗓 Wed 14 Oct 2026 · 19:00 UTC\n🏟 Villa Park, Birmi
+ ngham\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد فنربخشة — دو
+ ري أبطال أوروبا | Tomorrow: Aston Villa vs Fenerbahçe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × فنربخشة | Kick-off in 30 min: Aston Villa vs Fenerbahç
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106315@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+SUMMARY:Bodø/Glimt vs Borussia Dortmund — UEFA Champions League
+LOCATION:Aspmyra Stadion\, Bodø\, Norway
+GEO:67.276677;14.384365
+URL:https://www.fotmob.com/match/6106315
+DESCRIPTION:⚽ بودو جليمت × بوروسيا دورتموند\n
+ 🏆 دوري أبطال أوروبا — الجولة 2\n🗓 الأرب
+ عاء 14 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Aspmy
+ ra Stadion، Bodø\n—————\n⚽ Bodø/Glimt v Borussia Dortmund\n
+ 🏆 UEFA Champions League — Matchday 2\n🗓 Wed 14 Oct 2026 · 19:00 U
+ TC\n🏟 Aspmyra Stadion, Bodø\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بودو جليمت ضد بوروسيا دورت
+ موند — دوري أبطال أوروبا | Tomorrow: Bodø/Glimt vs B
+ orussia Dortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بودو ج
+ ليمت × بوروسيا دورتموند | Kick-off in 30 min: Bodø/Gl
+ imt vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106254@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+SUMMARY:Manchester City vs Paris Saint-Germain — UEFA Champions League
+LOCATION:Etihad Stadium\, Manchester\, England
+GEO:53.483152;-2.200409
+URL:https://www.fotmob.com/match/6106254
+DESCRIPTION:⚽ مانشستر سيتي × باريس سان جيرمان\n
+ 🏆 دوري أبطال أوروبا — الجولة 2\n🗓 الأرب
+ عاء 14 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Etiha
+ d Stadium، Manchester\n—————\n⚽ Manchester City v Paris Saint
+ -Germain\n🏆 UEFA Champions League — Matchday 2\n🗓 Wed 14 Oct 2026 
+ · 19:00 UTC\n🏟 Etihad Stadium, Manchester\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد باريس سان ج
+ يرمان — دوري أبطال أوروبا | Tomorrow: Manchester Cit
+ y vs Paris Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × باريس سان جيرمان | Kick-off in 30 min: Manc
+ hester City vs Paris Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106299@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+SUMMARY:Real Betis vs FC Porto — UEFA Champions League
+LOCATION:Estadio La Cartuja de Sevilla\, Sevilla\, Spain
+GEO:37.417209;-6.004661
+URL:https://www.fotmob.com/match/6106299
+DESCRIPTION:⚽ ريال بيتيس × بورتو\n🏆 دوري أبطال
+  أوروبا — الجولة 2\n🗓 الأربعاء 14 أكتوبر 20
+ 26 · 22:00 بتوقيت الرياض\n🏟 Estadio La Cartuja de Sevilla
+ ، Sevilla\n—————\n⚽ Real Betis v FC Porto\n🏆 UEFA Champion
+ s League — Matchday 2\n🗓 Wed 14 Oct 2026 · 19:00 UTC\n🏟 Estadio L
+ a Cartuja de Sevilla, Sevilla\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد بورتو — دوري 
+ أبطال أوروبا | Tomorrow: Real Betis vs FC Porto
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × بورتو | Kick-off in 30 min: Real Betis vs FC Porto
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106274@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+SUMMARY:Roma vs Real Madrid — UEFA Champions League
+LOCATION:Stadio Olimpico\, Roma\, Italy
+GEO:41.933948;12.454757
+URL:https://www.fotmob.com/match/6106274
+DESCRIPTION:⚽ روما × ريال مدريد\n🏆 دوري أبطال 
+ أوروبا — الجولة 2\n🗓 الأربعاء 14 أكتوبر 202
+ 6 · 22:00 بتوقيت الرياض\n🏟 Stadio Olimpico، Roma\n——
+ ———\n⚽ Roma v Real Madrid\n🏆 UEFA Champions League — Matchday
+  2\n🗓 Wed 14 Oct 2026 · 19:00 UTC\n🏟 Stadio Olimpico, Roma\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد ريال مدريد — دوري أ
+ بطال أوروبا | Tomorrow: Roma vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  ريال مدريد | Kick-off in 30 min: Roma vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106337@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+SUMMARY:Shakhtar Donetsk vs AEK Athens — UEFA Champions League
+LOCATION:Stamford Bridge\, London\, England
+GEO:51.481712;-0.190975
+URL:https://www.fotmob.com/match/6106337
+DESCRIPTION:⚽ شاختار دونيتسك × أيك أثينا\n🏆 دو
+ ري أبطال أوروبا — الجولة 2\n🗓 الأربعاء 14 
+ أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Stamford Bridge
+ ، London\n—————\n⚽ Shakhtar Donetsk v AEK Athens\n🏆 UEFA C
+ hampions League — Matchday 2\n🗓 Wed 14 Oct 2026 · 19:00 UTC\n🏟 St
+ amford Bridge, London\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شاختار دونيتسك ضد أيك أثين
+ ا — دوري أبطال أوروبا | Tomorrow: Shakhtar Donetsk vs AE
+ K Athens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شاختا
+ ر دونيتسك × أيك أثينا | Kick-off in 30 min: Shakhtar Done
+ tsk vs AEK Athens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106396@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+SUMMARY:Slovan Bratislava vs VfB Stuttgart — UEFA Champions League
+LOCATION:Štadión Tehelné pole\, Bratislava\, Slovakia
+GEO:48.163495;17.136698
+URL:https://www.fotmob.com/match/6106396
+DESCRIPTION:⚽ سلوفان براتيسلافا × شتوتجارت\n🏆
+  دوري أبطال أوروبا — الجولة 2\n🗓 الأربعا
+ ء 14 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Štadión
+  Tehelné pole، Bratislava\n—————\n⚽ Slovan Bratislava v VfB 
+ Stuttgart\n🏆 UEFA Champions League — Matchday 2\n🗓 Wed 14 Oct 2026
+  · 19:00 UTC\n🏟 Štadión Tehelné pole, Bratislava\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سلوفان براتيسلافا ضد شتوتج
+ ارت — دوري أبطال أوروبا | Tomorrow: Slovan Bratislava 
+ vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سلوفا
+ ن براتيسلافا × شتوتجارت | Kick-off in 30 min: Slovan B
+ ratislava vs VfB Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106333@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T164500Z
+DTEND:20261020T184500Z
+SUMMARY:Fenerbahçe vs Slavia Prague — UEFA Champions League
+LOCATION:Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi\, 
+ İstanbul\, Türkiye
+GEO:40.987799;29.036860
+URL:https://www.fotmob.com/match/6106333
+DESCRIPTION:⚽ فنربخشة × سلافيا براغ\n🏆 دوري أب
+ طال أوروبا — الجولة 3\n🗓 الثلاثاء 20 أكتو
+ بر 2026 · 19:45 بتوقيت الرياض\n🏟 Chobani Stadyumu Fenerb
+ ahçe Şükrü Saracoğlu Spor Kompleksi، İstanbul\n—————\n⚽
+  Fenerbahçe v Slavia Prague\n🏆 UEFA Champions League — Matchday 3\n
+ 🗓 Tue 20 Oct 2026 · 16:45 UTC\n🏟 Chobani Stadyumu Fenerbahçe Şük
+ rü Saracoğlu Spor Kompleksi, İstanbul\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فنربخشة ضد سلافيا براغ — د
+ وري أبطال أوروبا | Tomorrow: Fenerbahçe vs Slavia Prague
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فنربخ
+ شة × سلافيا براغ | Kick-off in 30 min: Fenerbahçe vs Slavia 
+ Prague
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106422@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T164500Z
+DTEND:20261020T184500Z
+SUMMARY:Sabah FK vs Borussia Dortmund — UEFA Champions League
+LOCATION:Bank Respublika Arena\, Masazyr (Masazir)\, Azerbaijan
+GEO:40.486179;49.766298
+URL:https://www.fotmob.com/match/6106422
+DESCRIPTION:⚽ صباح × بوروسيا دورتموند\n🏆 دوري 
+ أبطال أوروبا — الجولة 3\n🗓 الثلاثاء 20 أك
+ توبر 2026 · 19:45 بتوقيت الرياض\n🏟 Bank Respublika Are
+ na، Masazyr (Masazir)\n—————\n⚽ Sabah FK v Borussia Dortmund\
+ n🏆 UEFA Champions League — Matchday 3\n🗓 Tue 20 Oct 2026 · 16:45 
+ UTC\n🏟 Bank Respublika Arena, Masazyr (Masazir)\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: صباح ضد بوروسيا دورتموند —
+  دوري أبطال أوروبا | Tomorrow: Sabah FK vs Borussia Dortmun
+ d
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: صباح ×
+  بوروسيا دورتموند | Kick-off in 30 min: Sabah FK vs Borussi
+ a Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106287@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:FC Porto vs PSV Eindhoven — UEFA Champions League
+LOCATION:Estádio Do Dragão\, Porto\, Portugal
+GEO:41.161791;-8.583739
+URL:https://www.fotmob.com/match/6106287
+DESCRIPTION:⚽ بورتو × آيندهوفن\n🏆 دوري أبطال أ
+ وروبا — الجولة 3\n🗓 الثلاثاء 20 أكتوبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Estádio Do Dragão، Porto\n—
+ ————\n⚽ FC Porto v PSV Eindhoven\n🏆 UEFA Champions League —
+  Matchday 3\n🗓 Tue 20 Oct 2026 · 19:00 UTC\n🏟 Estádio Do Dragão, 
+ Porto\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورتو ضد آيندهوفن — دوري أ
+ بطال أوروبا | Tomorrow: FC Porto vs PSV Eindhoven
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورتو 
+ × آيندهوفن | Kick-off in 30 min: FC Porto vs PSV Eindhoven
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106248@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:Liverpool vs Villarreal — UEFA Champions League
+LOCATION:Anfield\, Liverpool\, England
+GEO:53.430828;-2.960853
+URL:https://www.fotmob.com/match/6106248
+DESCRIPTION:⚽ ليفربول × فياريال\n🏆 دوري أبطال 
+ أوروبا — الجولة 3\n🗓 الثلاثاء 20 أكتوبر 202
+ 6 · 22:00 بتوقيت الرياض\n🏟 Anfield، Liverpool\n———
+ ——\n⚽ Liverpool v Villarreal\n🏆 UEFA Champions League — Matchda
+ y 3\n🗓 Tue 20 Oct 2026 · 19:00 UTC\n🏟 Anfield, Liverpool\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد فياريال — دوري 
+ أبطال أوروبا | Tomorrow: Liverpool vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × فياريال | Kick-off in 30 min: Liverpool vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106257@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:Manchester City vs AEK Athens — UEFA Champions League
+LOCATION:Etihad Stadium\, Manchester\, England
+GEO:53.483152;-2.200409
+URL:https://www.fotmob.com/match/6106257
+DESCRIPTION:⚽ مانشستر سيتي × أيك أثينا\n🏆 دوري
+  أبطال أوروبا — الجولة 3\n🗓 الثلاثاء 20 أك
+ توبر 2026 · 22:00 بتوقيت الرياض\n🏟 Etihad Stadium، Ma
+ nchester\n—————\n⚽ Manchester City v AEK Athens\n🏆 UEFA Cha
+ mpions League — Matchday 3\n🗓 Tue 20 Oct 2026 · 19:00 UTC\n🏟 Etih
+ ad Stadium, Manchester\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد أيك أثينا 
+ — دوري أبطال أوروبا | Tomorrow: Manchester City vs AEK At
+ hens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × أيك أثينا | Kick-off in 30 min: Manchester City v
+ s AEK Athens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106234@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:Paris Saint-Germain vs Barcelona — UEFA Champions League
+LOCATION:Parc des Princes\, Paris\, France
+GEO:48.841433;2.253049
+URL:https://www.fotmob.com/match/6106234
+DESCRIPTION:⚽ باريس سان جيرمان × برشلونة\n🏆 دو
+ ري أبطال أوروبا — الجولة 3\n🗓 الثلاثاء 20 
+ أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Parc des Prince
+ s، Paris\n—————\n⚽ Paris Saint-Germain v Barcelona\n🏆 UEFA
+  Champions League — Matchday 3\n🗓 Tue 20 Oct 2026 · 19:00 UTC\n🏟 
+ Parc des Princes, Paris\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد برشلون
+ ة — دوري أبطال أوروبا | Tomorrow: Paris Saint-Germain vs
+  Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × برشلونة | Kick-off in 30 min: Paris Saint-Ge
+ rmain vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106277@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:Roma vs Slovan Bratislava — UEFA Champions League
+LOCATION:Stadio Olimpico\, Roma\, Italy
+GEO:41.933948;12.454757
+URL:https://www.fotmob.com/match/6106277
+DESCRIPTION:⚽ روما × سلوفان براتيسلافا\n🏆 دور
+ ي أبطال أوروبا — الجولة 3\n🗓 الثلاثاء 20 أ
+ كتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Stadio Olimpico،
+  Roma\n—————\n⚽ Roma v Slovan Bratislava\n🏆 UEFA Champions 
+ League — Matchday 3\n🗓 Tue 20 Oct 2026 · 19:00 UTC\n🏟 Stadio Olim
+ pico, Roma\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد سلوفان براتيسلافا 
+ — دوري أبطال أوروبا | Tomorrow: Roma vs Slovan Bratislava
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  سلوفان براتيسلافا | Kick-off in 30 min: Roma vs Slovan Br
+ atislava
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106320@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:Napoli vs Bodø/Glimt — UEFA Champions League
+LOCATION:Stadio Diego Armando Maradona\, Napoli\, Italy
+GEO:40.827974;14.192930
+URL:https://www.fotmob.com/match/6106320
+DESCRIPTION:⚽ نابولي × بودو جليمت\n🏆 دوري أبطا
+ ل أوروبا — الجولة 3\n🗓 الثلاثاء 20 أكتوبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 Stadio Diego Armando Maradon
+ a، Napoli\n—————\n⚽ Napoli v Bodø/Glimt\n🏆 UEFA Champions
+  League — Matchday 3\n🗓 Tue 20 Oct 2026 · 19:00 UTC\n🏟 Stadio Die
+ go Armando Maradona, Napoli\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد بودو جليمت — دور
+ ي أبطال أوروبا | Tomorrow: Napoli vs Bodø/Glimt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × بودو جليمت | Kick-off in 30 min: Napoli vs Bodø/Glimt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106397@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:VfB Stuttgart vs Atlético Madrid — UEFA Champions League
+LOCATION:MHPArena\, Stuttgart\, Germany
+GEO:48.792284;9.232024
+URL:https://www.fotmob.com/match/6106397
+DESCRIPTION:⚽ شتوتجارت × أتلتيكو مدريد\n🏆 دور
+ ي أبطال أوروبا — الجولة 3\n🗓 الثلاثاء 20 أ
+ كتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 MHPArena، Stuttg
+ art\n—————\n⚽ VfB Stuttgart v Atlético Madrid\n🏆 UEFA Cham
+ pions League — Matchday 3\n🗓 Tue 20 Oct 2026 · 19:00 UTC\n🏟 MHPAr
+ ena, Stuttgart\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد أتلتيكو مدريد 
+ — دوري أبطال أوروبا | Tomorrow: VfB Stuttgart vs Atlétic
+ o Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × أتلتيكو مدريد | Kick-off in 30 min: VfB Stuttgart vs
+  Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106410@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261021T164500Z
+DTEND:20261021T184500Z
+SUMMARY:Como vs Manchester United — UEFA Champions League
+LOCATION:Stadio Giuseppe Sinigaglia\, Como\, Italy
+GEO:45.813857;9.072376
+URL:https://www.fotmob.com/match/6106410
+DESCRIPTION:⚽ كومو × مانشستر يونايتد\n🏆 دوري أ
+ بطال أوروبا — الجولة 3\n🗓 الأربعاء 21 أكت
+ وبر 2026 · 19:45 بتوقيت الرياض\n🏟 Stadio Giuseppe Sinig
+ aglia، Como\n—————\n⚽ Como v Manchester United\n🏆 UEFA Cha
+ mpions League — Matchday 3\n🗓 Wed 21 Oct 2026 · 16:45 UTC\n🏟 Stad
+ io Giuseppe Sinigaglia, Como\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كومو ضد مانشستر يونايتد — 
+ دوري أبطال أوروبا | Tomorrow: Como vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كومو ×
+  مانشستر يونايتد | Kick-off in 30 min: Como vs Manchester Un
+ ited
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106312@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261021T164500Z
+DTEND:20261021T184500Z
+SUMMARY:Lille vs Galatasaray — UEFA Champions League
+LOCATION:Decathlon Arena - Stade Pierre-Mauroy\, Villeneuve d'Ascq\, France
+GEO:50.611965;3.130484
+URL:https://www.fotmob.com/match/6106312
+DESCRIPTION:⚽ ليل × غلطة سراي\n🏆 دوري أبطال أو
+ روبا — الجولة 3\n🗓 الأربعاء 21 أكتوبر 2026 ·
+  19:45 بتوقيت الرياض\n🏟 Decathlon Arena - Stade Pierre-Maur
+ oy، Villeneuve d'Ascq\n—————\n⚽ Lille v Galatasaray\n🏆 UEF
+ A Champions League — Matchday 3\n🗓 Wed 21 Oct 2026 · 16:45 UTC\n🏟
+  Decathlon Arena - Stade Pierre-Mauroy, Villeneuve d'Ascq\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليل ضد غلطة سراي — دوري أبط
+ ال أوروبا | Tomorrow: Lille vs Galatasaray
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليل × 
+ غلطة سراي | Kick-off in 30 min: Lille vs Galatasaray
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106285@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+SUMMARY:Aston Villa vs Viking — UEFA Champions League
+LOCATION:Villa Park\, Birmingham\, England
+GEO:52.509091;-1.884842
+URL:https://www.fotmob.com/match/6106285
+DESCRIPTION:⚽ أستون فيلا × فيشينغ ستافانغير\n
+ 🏆 دوري أبطال أوروبا — الجولة 3\n🗓 الأرب
+ عاء 21 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Villa
+  Park، Birmingham\n—————\n⚽ Aston Villa v Viking\n🏆 UEFA C
+ hampions League — Matchday 3\n🗓 Wed 21 Oct 2026 · 19:00 UTC\n🏟 Vi
+ lla Park, Birmingham\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد فيشينغ ستافا
+ نغير — دوري أبطال أوروبا | Tomorrow: Aston Villa vs V
+ iking
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × فيشينغ ستافانغير | Kick-off in 30 min: Aston Vi
+ lla vs Viking
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106238@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+SUMMARY:Bayern München vs Arsenal — UEFA Champions League
+LOCATION:Allianz Arena\, München\, Germany
+GEO:48.218779;11.624743
+URL:https://www.fotmob.com/match/6106238
+DESCRIPTION:⚽ بايرن ميونخ × أرسنال\n🏆 دوري أبط
+ ال أوروبا — الجولة 3\n🗓 الأربعاء 21 أكتوب
+ ر 2026 · 22:00 بتوقيت الرياض\n🏟 Allianz Arena، München\
+ n—————\n⚽ Bayern München v Arsenal\n🏆 UEFA Champions Leagu
+ e — Matchday 3\n🗓 Wed 21 Oct 2026 · 19:00 UTC\n🏟 Allianz Arena, M
+ ünchen\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد أرسنال — دو
+ ري أبطال أوروبا | Tomorrow: Bayern München vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × أرسنال | Kick-off in 30 min: Bayern München vs Arsena
+ l
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106297@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+SUMMARY:Club Brugge vs Lens — UEFA Champions League
+LOCATION:Jan Breydelstadion\, Brugge\, Belgium
+GEO:51.193451;3.180542
+URL:https://www.fotmob.com/match/6106297
+DESCRIPTION:⚽ كلوب بروج × لانس\n🏆 دوري أبطال أ
+ وروبا — الجولة 3\n🗓 الأربعاء 21 أكتوبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Jan Breydelstadion، Brugge\n—
+ ————\n⚽ Club Brugge v Lens\n🏆 UEFA Champions League — Match
+ day 3\n🗓 Wed 21 Oct 2026 · 19:00 UTC\n🏟 Jan Breydelstadion, Brugge\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كلوب بروج ضد لانس — دوري أب
+ طال أوروبا | Tomorrow: Club Brugge vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كلوب ب
+ روج × لانس | Kick-off in 30 min: Club Brugge vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106252@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+SUMMARY:Inter vs Shakhtar Donetsk — UEFA Champions League
+LOCATION:Stadio Giuseppe Meazza\, Milano\, Italy
+GEO:45.478084;9.123979
+URL:https://www.fotmob.com/match/6106252
+DESCRIPTION:⚽ إنتر ميلان × شاختار دونيتسك\n🏆 د
+ وري أبطال أوروبا — الجولة 3\n🗓 الأربعاء 2
+ 1 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Stadio Giusep
+ pe Meazza، Milano\n—————\n⚽ Inter v Shakhtar Donetsk\n🏆 UE
+ FA Champions League — Matchday 3\n🗓 Wed 21 Oct 2026 · 19:00 UTC\n
+ 🏟 Stadio Giuseppe Meazza, Milano\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد شاختار دونيت
+ سك — دوري أبطال أوروبا | Tomorrow: Inter vs Shakhtar Do
+ netsk
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × شاختار دونيتسك | Kick-off in 30 min: Inter vs Sha
+ khtar Donetsk
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106300@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+SUMMARY:Real Betis vs Feyenoord — UEFA Champions League
+LOCATION:Estadio La Cartuja de Sevilla\, Sevilla\, Spain
+GEO:37.417209;-6.004661
+URL:https://www.fotmob.com/match/6106300
+DESCRIPTION:⚽ ريال بيتيس × فاينورد\n🏆 دوري أبط
+ ال أوروبا — الجولة 3\n🗓 الأربعاء 21 أكتوب
+ ر 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio La Cartuja de Sev
+ illa، Sevilla\n—————\n⚽ Real Betis v Feyenoord\n🏆 UEFA Cha
+ mpions League — Matchday 3\n🗓 Wed 21 Oct 2026 · 19:00 UTC\n🏟 Esta
+ dio La Cartuja de Sevilla, Sevilla\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد فاينورد — دو
+ ري أبطال أوروبا | Tomorrow: Real Betis vs Feyenoord
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × فاينورد | Kick-off in 30 min: Real Betis vs Feyenoord
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106244@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+SUMMARY:Real Madrid vs RB Leipzig — UEFA Champions League
+LOCATION:Estadio Bernabéu\, Madrid\, Spain
+GEO:40.453068;-3.688354
+URL:https://www.fotmob.com/match/6106244
+DESCRIPTION:⚽ ريال مدريد × لايبزيج\n🏆 دوري أبط
+ ال أوروبا — الجولة 3\n🗓 الأربعاء 21 أكتوب
+ ر 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio Bernabéu، Madri
+ d\n—————\n⚽ Real Madrid v RB Leipzig\n🏆 UEFA Champions Leag
+ ue — Matchday 3\n🗓 Wed 21 Oct 2026 · 19:00 UTC\n🏟 Estadio Bernab
+ éu, Madrid\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد لايبزيج — دو
+ ري أبطال أوروبا | Tomorrow: Real Madrid vs RB Leipzig
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × لايبزيج | Kick-off in 30 min: Real Madrid vs RB Leipzig
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106281@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+SUMMARY:Sporting CP vs LASK — UEFA Champions League
+LOCATION:Estádio José Alvalade\, Lisboa\, Portugal
+GEO:38.761207;-9.160876
+URL:https://www.fotmob.com/match/6106281
+DESCRIPTION:⚽ سبورتنج لشبونة × LASK\n🏆 دوري أبطا
+ ل أوروبا — الجولة 3\n🗓 الأربعاء 21 أكتوبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 Estádio José Alvalade، Li
+ sboa\n—————\n⚽ Sporting CP v LASK\n🏆 UEFA Champions League 
+ — Matchday 3\n🗓 Wed 21 Oct 2026 · 19:00 UTC\n🏟 Estádio José Alv
+ alade, Lisboa\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سبورتنج لشبونة ضد LASK — دور
+ ي أبطال أوروبا | Tomorrow: Sporting CP vs LASK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سبورت
+ نج لشبونة × LASK | Kick-off in 30 min: Sporting CP vs LASK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106341@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261103T174500Z
+DTEND:20261103T194500Z
+SUMMARY:Galatasaray vs VfB Stuttgart — UEFA Champions League
+LOCATION:Rams Global Stadyumu
+URL:https://www.fotmob.com/match/6106341
+DESCRIPTION:⚽ غلطة سراي × شتوتجارت\n🏆 دوري أبط
+ ال أوروبا — الجولة 4\n🗓 الثلاثاء 3 نوفمبر
+  2026 · 20:45 بتوقيت الرياض\n🏟 Rams Global Stadyumu\n—
+ ————\n⚽ Galatasaray v VfB Stuttgart\n🏆 UEFA Champions League 
+ — Matchday 4\n🗓 Tue 03 Nov 2026 · 17:45 UTC\n🏟 Rams Global Stadyu
+ mu\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غلطة سراي ضد شتوتجارت — دو
+ ري أبطال أوروبا | Tomorrow: Galatasaray vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غلطة س
+ راي × شتوتجارت | Kick-off in 30 min: Galatasaray vs VfB Stuttg
+ art
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106335@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261103T174500Z
+DTEND:20261103T194500Z
+SUMMARY:Shakhtar Donetsk vs Sporting CP — UEFA Champions League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/6106335
+DESCRIPTION:⚽ شاختار دونيتسك × سبورتنج لشبونة\
+ n🏆 دوري أبطال أوروبا — الجولة 4\n🗓 الثلا
+ ثاء 3 نوفمبر 2026 · 20:45 بتوقيت الرياض\n🏟 Stamfo
+ rd Bridge\n—————\n⚽ Shakhtar Donetsk v Sporting CP\n🏆 UEFA 
+ Champions League — Matchday 4\n🗓 Tue 03 Nov 2026 · 17:45 UTC\n🏟 S
+ tamford Bridge\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شاختار دونيتسك ضد سبورتنج 
+ لشبونة — دوري أبطال أوروبا | Tomorrow: Shakhtar Don
+ etsk vs Sporting CP
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شاختا
+ ر دونيتسك × سبورتنج لشبونة | Kick-off in 30 min: Sha
+ khtar Donetsk vs Sporting CP
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106266@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+SUMMARY:Atlético Madrid vs Bayern München — UEFA Champions League
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/6106266
+DESCRIPTION:⚽ أتلتيكو مدريد × بايرن ميونخ\n🏆 د
+ وري أبطال أوروبا — الجولة 4\n🗓 الثلاثاء 3
+  نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Riyadh Air Met
+ ropolitano\n—————\n⚽ Atlético Madrid v Bayern München\n🏆 
+ UEFA Champions League — Matchday 4\n🗓 Tue 03 Nov 2026 · 20:00 UTC\n
+ 🏟 Riyadh Air Metropolitano\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد بايرن ميو
+ نخ — دوري أبطال أوروبا | Tomorrow: Atlético Madrid vs 
+ Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × بايرن ميونخ | Kick-off in 30 min: Atlético M
+ adrid vs Bayern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106263@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+SUMMARY:Barcelona vs Aston Villa — UEFA Champions League
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/6106263
+DESCRIPTION:⚽ برشلونة × أستون فيلا\n🏆 دوري أبط
+ ال أوروبا — الجولة 4\n🗓 الثلاثاء 3 نوفمبر
+  2026 · 23:00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n———
+ ——\n⚽ Barcelona v Aston Villa\n🏆 UEFA Champions League — Matchd
+ ay 4\n🗓 Tue 03 Nov 2026 · 20:00 UTC\n🏟 Spotify Camp Nou\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد أستون فيلا — دو
+ ري أبطال أوروبا | Tomorrow: Barcelona vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × أستون فيلا | Kick-off in 30 min: Barcelona vs Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106316@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+SUMMARY:Bodø/Glimt vs Lille — UEFA Champions League
+LOCATION:Aspmyra Stadion
+URL:https://www.fotmob.com/match/6106316
+DESCRIPTION:⚽ بودو جليمت × ليل\n🏆 دوري أبطال أ
+ وروبا — الجولة 4\n🗓 الثلاثاء 3 نوفمبر 2026 
+ · 23:00 بتوقيت الرياض\n🏟 Aspmyra Stadion\n—————\
+ n⚽ Bodø/Glimt v Lille\n🏆 UEFA Champions League — Matchday 4\n🗓 
+ Tue 03 Nov 2026 · 20:00 UTC\n🏟 Aspmyra Stadion\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بودو جليمت ضد ليل — دوري أب
+ طال أوروبا | Tomorrow: Bodø/Glimt vs Lille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بودو ج
+ ليمت × ليل | Kick-off in 30 min: Bodø/Glimt vs Lille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106306@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+SUMMARY:Feyenoord vs Inter — UEFA Champions League
+LOCATION:de Kuip
+URL:https://www.fotmob.com/match/6106306
+DESCRIPTION:⚽ فاينورد × إنتر ميلان\n🏆 دوري أبط
+ ال أوروبا — الجولة 4\n🗓 الثلاثاء 3 نوفمبر
+  2026 · 23:00 بتوقيت الرياض\n🏟 de Kuip\n—————\n
+ ⚽ Feyenoord v Inter\n🏆 UEFA Champions League — Matchday 4\n🗓 Tue
+  03 Nov 2026 · 20:00 UTC\n🏟 de Kuip\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فاينورد ضد إنتر ميلان — دو
+ ري أبطال أوروبا | Tomorrow: Feyenoord vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فاينو
+ رد × إنتر ميلان | Kick-off in 30 min: Feyenoord vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106408@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+SUMMARY:LASK vs Slovan Bratislava — UEFA Champions League
+LOCATION:Raiffeisen Arena
+URL:https://www.fotmob.com/match/6106408
+DESCRIPTION:⚽ LASK × سلوفان براتيسلافا\n🏆 دوري أ
+ بطال أوروبا — الجولة 4\n🗓 الثلاثاء 3 نوفم
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Raiffeisen Arena\n—
+ ————\n⚽ LASK v Slovan Bratislava\n🏆 UEFA Champions League —
+  Matchday 4\n🗓 Tue 03 Nov 2026 · 20:00 UTC\n🏟 Raiffeisen Arena\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: LASK ضد سلوفان براتيسلافا — 
+ دوري أبطال أوروبا | Tomorrow: LASK vs Slovan Bratislava
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: LASK × س
+ لوفان براتيسلافا | Kick-off in 30 min: LASK vs Slovan Brati
+ slava
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106291@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+SUMMARY:Manchester United vs Roma — UEFA Champions League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/6106291
+DESCRIPTION:⚽ مانشستر يونايتد × روما\n🏆 دوري أ
+ بطال أوروبا — الجولة 4\n🗓 الثلاثاء 3 نوفم
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Old Trafford\n———
+ ——\n⚽ Manchester United v Roma\n🏆 UEFA Champions League — Match
+ day 4\n🗓 Tue 03 Nov 2026 · 20:00 UTC\n🏟 Old Trafford\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد روما — 
+ دوري أبطال أوروبا | Tomorrow: Manchester United vs Roma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × روما | Kick-off in 30 min: Manchester United vs
+  Roma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106326@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+SUMMARY:Villarreal vs Paris Saint-Germain — UEFA Champions League
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/6106326
+DESCRIPTION:⚽ فياريال × باريس سان جيرمان\n🏆 دو
+ ري أبطال أوروبا — الجولة 4\n🗓 الثلاثاء 3 
+ نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Estadio de la C
+ eramica\n—————\n⚽ Villarreal v Paris Saint-Germain\n🏆 UEFA 
+ Champions League — Matchday 4\n🗓 Tue 03 Nov 2026 · 20:00 UTC\n🏟 E
+ stadio de la Ceramica\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد باريس سان جيرما
+ ن — دوري أبطال أوروبا | Tomorrow: Villarreal vs Paris Sa
+ int-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × باريس سان جيرمان | Kick-off in 30 min: Villarreal vs
+  Paris Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106401@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261104T174500Z
+DTEND:20261104T194500Z
+SUMMARY:AEK Athens vs Real Madrid — UEFA Champions League
+LOCATION:Allwyn Arena
+URL:https://www.fotmob.com/match/6106401
+DESCRIPTION:⚽ أيك أثينا × ريال مدريد\n🏆 دوري أ
+ بطال أوروبا — الجولة 4\n🗓 الأربعاء 4 نوفم
+ بر 2026 · 20:45 بتوقيت الرياض\n🏟 Allwyn Arena\n———
+ ——\n⚽ AEK Athens v Real Madrid\n🏆 UEFA Champions League — Match
+ day 4\n🗓 Wed 04 Nov 2026 · 17:45 UTC\n🏟 Allwyn Arena\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أيك أثينا ضد ريال مدريد — د
+ وري أبطال أوروبا | Tomorrow: AEK Athens vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أيك أث
+ ينا × ريال مدريد | Kick-off in 30 min: AEK Athens vs Real Mad
+ rid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106330@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261104T174500Z
+DTEND:20261104T194500Z
+SUMMARY:Fenerbahçe vs Liverpool — UEFA Champions League
+LOCATION:Chobani Stadyumu Fenerbahce Sukru Saracoglu Spor Kompleksi
+URL:https://www.fotmob.com/match/6106330
+DESCRIPTION:⚽ فنربخشة × ليفربول\n🏆 دوري أبطال 
+ أوروبا — الجولة 4\n🗓 الأربعاء 4 نوفمبر 2026
+  · 20:45 بتوقيت الرياض\n🏟 Chobani Stadyumu Fenerbahce Sukr
+ u Saracoglu Spor Kompleksi\n—————\n⚽ Fenerbahçe v Liverpool\n
+ 🏆 UEFA Champions League — Matchday 4\n🗓 Wed 04 Nov 2026 · 17:45 U
+ TC\n🏟 Chobani Stadyumu Fenerbahce Sukru Saracoglu Spor Kompleksi\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فنربخشة ضد ليفربول — دوري 
+ أبطال أوروبا | Tomorrow: Fenerbahçe vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فنربخ
+ شة × ليفربول | Kick-off in 30 min: Fenerbahçe vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106271@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+SUMMARY:Borussia Dortmund vs Real Betis — UEFA Champions League
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/6106271
+DESCRIPTION:⚽ بوروسيا دورتموند × ريال بيتيس\n
+ 🏆 دوري أبطال أوروبا — الجولة 4\n🗓 الأرب
+ عاء 4 نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Signal
+  Iduna Park\n—————\n⚽ Borussia Dortmund v Real Betis\n🏆 UEF
+ A Champions League — Matchday 4\n🗓 Wed 04 Nov 2026 · 20:00 UTC\n🏟
+  Signal Iduna Park\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد ريال ب
+ يتيس — دوري أبطال أوروبا | Tomorrow: Borussia Dortmun
+ d vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × ريال بيتيس | Kick-off in 30 min: Borussi
+ a Dortmund vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106288@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+SUMMARY:FC Porto vs Napoli — UEFA Champions League
+LOCATION:Estadio do Dragao
+URL:https://www.fotmob.com/match/6106288
+DESCRIPTION:⚽ بورتو × نابولي\n🏆 دوري أبطال أور
+ وبا — الجولة 4\n🗓 الأربعاء 4 نوفمبر 2026 · 23
+ :00 بتوقيت الرياض\n🏟 Estadio do Dragao\n—————\n
+ ⚽ FC Porto v Napoli\n🏆 UEFA Champions League — Matchday 4\n🗓 Wed
+  04 Nov 2026 · 20:00 UTC\n🏟 Estadio do Dragao\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورتو ضد نابولي — دوري أبط
+ ال أوروبا | Tomorrow: FC Porto vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورتو 
+ × نابولي | Kick-off in 30 min: FC Porto vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106416@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+SUMMARY:Lens vs Como — UEFA Champions League
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/6106416
+DESCRIPTION:⚽ لانس × كومو\n🏆 دوري أبطال أوروبا
+  — الجولة 4\n🗓 الأربعاء 4 نوفمبر 2026 · 23:00 ب
+ توقيت الرياض\n🏟 Stade Bollaert-Delelis\n—————\n⚽
+  Lens v Como\n🏆 UEFA Champions League — Matchday 4\n🗓 Wed 04 Nov 2
+ 026 · 20:00 UTC\n🏟 Stade Bollaert-Delelis\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد كومو — دوري أبطال أ
+ وروبا | Tomorrow: Lens vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  كومو | Kick-off in 30 min: Lens vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106303@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+SUMMARY:PSV Eindhoven vs Club Brugge — UEFA Champions League
+LOCATION:Philips Stadion
+URL:https://www.fotmob.com/match/6106303
+DESCRIPTION:⚽ آيندهوفن × كلوب بروج\n🏆 دوري أبط
+ ال أوروبا — الجولة 4\n🗓 الأربعاء 4 نوفمبر
+  2026 · 23:00 بتوقيت الرياض\n🏟 Philips Stadion\n———
+ ——\n⚽ PSV Eindhoven v Club Brugge\n🏆 UEFA Champions League — Ma
+ tchday 4\n🗓 Wed 04 Nov 2026 · 20:00 UTC\n🏟 Philips Stadion\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آيندهوفن ضد كلوب بروج — دو
+ ري أبطال أوروبا | Tomorrow: PSV Eindhoven vs Club Brugge
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينده
+ وفن × كلوب بروج | Kick-off in 30 min: PSV Eindhoven vs Club Br
+ ugge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106322@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+SUMMARY:RB Leipzig vs Manchester City — UEFA Champions League
+LOCATION:Red Bull Arena Leipzig
+URL:https://www.fotmob.com/match/6106322
+DESCRIPTION:⚽ لايبزيج × مانشستر سيتي\n🏆 دوري أ
+ بطال أوروبا — الجولة 4\n🗓 الأربعاء 4 نوفم
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Red Bull Arena Leipzig\
+ n—————\n⚽ RB Leipzig v Manchester City\n🏆 UEFA Champions Le
+ ague — Matchday 4\n🗓 Wed 04 Nov 2026 · 20:00 UTC\n🏟 Red Bull Aren
+ a Leipzig\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لايبزيج ضد مانشستر سيتي — 
+ دوري أبطال أوروبا | Tomorrow: RB Leipzig vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لايبز
+ يج × مانشستر سيتي | Kick-off in 30 min: RB Leipzig vs Manche
+ ster City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106389@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+SUMMARY:Slavia Prague vs Arsenal — UEFA Champions League
+LOCATION:Fortuna Arena
+URL:https://www.fotmob.com/match/6106389
+DESCRIPTION:⚽ سلافيا براغ × أرسنال\n🏆 دوري أبط
+ ال أوروبا — الجولة 4\n🗓 الأربعاء 4 نوفمبر
+  2026 · 23:00 بتوقيت الرياض\n🏟 Fortuna Arena\n————
+ —\n⚽ Slavia Prague v Arsenal\n🏆 UEFA Champions League — Matchday 
+ 4\n🗓 Wed 04 Nov 2026 · 20:00 UTC\n🏟 Fortuna Arena\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سلافيا براغ ضد أرسنال — دو
+ ري أبطال أوروبا | Tomorrow: Slavia Prague vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سلافي
+ ا براغ × أرسنال | Kick-off in 30 min: Slavia Prague vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106420@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+SUMMARY:Viking vs Sabah FK — UEFA Champions League
+LOCATION:Lyse Arena
+URL:https://www.fotmob.com/match/6106420
+DESCRIPTION:⚽ فيشينغ ستافانغير × صباح\n🏆 دوري 
+ أبطال أوروبا — الجولة 4\n🗓 الأربعاء 4 نوف
+ مبر 2026 · 23:00 بتوقيت الرياض\n🏟 Lyse Arena\n———
+ ——\n⚽ Viking v Sabah FK\n🏆 UEFA Champions League — Matchday 4\n
+ 🗓 Wed 04 Nov 2026 · 20:00 UTC\n🏟 Lyse Arena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيشينغ ستافانغير ضد صباح —
+  دوري أبطال أوروبا | Tomorrow: Viking vs Sabah FK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيشين
+ غ ستافانغير × صباح | Kick-off in 30 min: Viking vs Sabah FK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106317@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T174500Z
+DTEND:20261124T194500Z
+SUMMARY:Bodø/Glimt vs LASK — UEFA Champions League
+LOCATION:Aspmyra Stadion
+URL:https://www.fotmob.com/match/6106317
+DESCRIPTION:⚽ بودو جليمت × LASK\n🏆 دوري أبطال أو
+ روبا — الجولة 5\n🗓 الثلاثاء 24 نوفمبر 2026 ·
+  20:45 بتوقيت الرياض\n🏟 Aspmyra Stadion\n—————\n
+ ⚽ Bodø/Glimt v LASK\n🏆 UEFA Champions League — Matchday 5\n🗓 Tu
+ e 24 Nov 2026 · 17:45 UTC\n🏟 Aspmyra Stadion\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بودو جليمت ضد LASK — دوري أبط
+ ال أوروبا | Tomorrow: Bodø/Glimt vs LASK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بودو ج
+ ليمت × LASK | Kick-off in 30 min: Bodø/Glimt vs LASK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106339@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T174500Z
+DTEND:20261124T194500Z
+SUMMARY:Galatasaray vs Aston Villa — UEFA Champions League
+LOCATION:Rams Global Stadyumu
+URL:https://www.fotmob.com/match/6106339
+DESCRIPTION:⚽ غلطة سراي × أستون فيلا\n🏆 دوري أ
+ بطال أوروبا — الجولة 5\n🗓 الثلاثاء 24 نوف
+ مبر 2026 · 20:45 بتوقيت الرياض\n🏟 Rams Global Stadyumu\
+ n—————\n⚽ Galatasaray v Aston Villa\n🏆 UEFA Champions Leagu
+ e — Matchday 5\n🗓 Tue 24 Nov 2026 · 17:45 UTC\n🏟 Rams Global Stad
+ yumu\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غلطة سراي ضد أستون فيلا — د
+ وري أبطال أوروبا | Tomorrow: Galatasaray vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غلطة س
+ راي × أستون فيلا | Kick-off in 30 min: Galatasaray vs Aston V
+ illa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106259@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+SUMMARY:Arsenal vs Borussia Dortmund — UEFA Champions League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/6106259
+DESCRIPTION:⚽ أرسنال × بوروسيا دورتموند\n🏆 دو
+ ري أبطال أوروبا — الجولة 5\n🗓 الثلاثاء 24 
+ نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Emirates Stadiu
+ m\n—————\n⚽ Arsenal v Borussia Dortmund\n🏆 UEFA Champions L
+ eague — Matchday 5\n🗓 Tue 24 Nov 2026 · 20:00 UTC\n🏟 Emirates Sta
+ dium\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد بوروسيا دورتموند
+  — دوري أبطال أوروبا | Tomorrow: Arsenal vs Borussia Dort
+ mund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × بوروسيا دورتموند | Kick-off in 30 min: Arsenal vs Bor
+ ussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106412@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+SUMMARY:Como vs AEK Athens — UEFA Champions League
+LOCATION:Stadio G. Sinigaglia
+URL:https://www.fotmob.com/match/6106412
+DESCRIPTION:⚽ كومو × أيك أثينا\n🏆 دوري أبطال أ
+ وروبا — الجولة 5\n🗓 الثلاثاء 24 نوفمبر 2026 
+ · 23:00 بتوقيت الرياض\n🏟 Stadio G. Sinigaglia\n———
+ ——\n⚽ Como v AEK Athens\n🏆 UEFA Champions League — Matchday 5\n
+ 🗓 Tue 24 Nov 2026 · 20:00 UTC\n🏟 Stadio G. Sinigaglia\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كومو ضد أيك أثينا — دوري أب
+ طال أوروبا | Tomorrow: Como vs AEK Athens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كومو ×
+  أيك أثينا | Kick-off in 30 min: Como vs AEK Athens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106307@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+SUMMARY:Feyenoord vs FC Porto — UEFA Champions League
+LOCATION:de Kuip
+URL:https://www.fotmob.com/match/6106307
+DESCRIPTION:⚽ فاينورد × بورتو\n🏆 دوري أبطال أو
+ روبا — الجولة 5\n🗓 الثلاثاء 24 نوفمبر 2026 ·
+  23:00 بتوقيت الرياض\n🏟 de Kuip\n—————\n⚽ Feyen
+ oord v FC Porto\n🏆 UEFA Champions League — Matchday 5\n🗓 Tue 24 No
+ v 2026 · 20:00 UTC\n🏟 de Kuip\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فاينورد ضد بورتو — دوري أب
+ طال أوروبا | Tomorrow: Feyenoord vs FC Porto
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فاينو
+ رد × بورتو | Kick-off in 30 min: Feyenoord vs FC Porto
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106256@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+SUMMARY:Manchester City vs Napoli — UEFA Champions League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/6106256
+DESCRIPTION:⚽ مانشستر سيتي × نابولي\n🏆 دوري أب
+ طال أوروبا — الجولة 5\n🗓 الثلاثاء 24 نوفم
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Etihad Stadium\n——
+ ———\n⚽ Manchester City v Napoli\n🏆 UEFA Champions League — Ma
+ tchday 5\n🗓 Tue 24 Nov 2026 · 20:00 UTC\n🏟 Etihad Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد نابولي — د
+ وري أبطال أوروبا | Tomorrow: Manchester City vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × نابولي | Kick-off in 30 min: Manchester City vs Nap
+ oli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106325@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+SUMMARY:RB Leipzig vs Lens — UEFA Champions League
+LOCATION:Red Bull Arena Leipzig
+URL:https://www.fotmob.com/match/6106325
+DESCRIPTION:⚽ لايبزيج × لانس\n🏆 دوري أبطال أور
+ وبا — الجولة 5\n🗓 الثلاثاء 24 نوفمبر 2026 · 2
+ 3:00 بتوقيت الرياض\n🏟 Red Bull Arena Leipzig\n————
+ —\n⚽ RB Leipzig v Lens\n🏆 UEFA Champions League — Matchday 5\n
+ 🗓 Tue 24 Nov 2026 · 20:00 UTC\n🏟 Red Bull Arena Leipzig\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لايبزيج ضد لانس — دوري أبط
+ ال أوروبا | Tomorrow: RB Leipzig vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لايبز
+ يج × لانس | Kick-off in 30 min: RB Leipzig vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106243@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+SUMMARY:Real Madrid vs PSV Eindhoven — UEFA Champions League
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/6106243
+DESCRIPTION:⚽ ريال مدريد × آيندهوفن\n🏆 دوري أب
+ طال أوروبا — الجولة 5\n🗓 الثلاثاء 24 نوفم
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n—
+ ————\n⚽ Real Madrid v PSV Eindhoven\n🏆 UEFA Champions League 
+ — Matchday 5\n🗓 Tue 24 Nov 2026 · 20:00 UTC\n🏟 Estadio Bernabeu\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد آيندهوفن — د
+ وري أبطال أوروبا | Tomorrow: Real Madrid vs PSV Eindhoven
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × آيندهوفن | Kick-off in 30 min: Real Madrid vs PSV Eind
+ hoven
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106394@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+SUMMARY:Slovan Bratislava vs Real Betis — UEFA Champions League
+LOCATION:National Football Stadium
+URL:https://www.fotmob.com/match/6106394
+DESCRIPTION:⚽ سلوفان براتيسلافا × ريال بيتيس\n
+ 🏆 دوري أبطال أوروبا — الجولة 5\n🗓 الثلا
+ ثاء 24 نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Natio
+ nal Football Stadium\n—————\n⚽ Slovan Bratislava v Real Betis\
+ n🏆 UEFA Champions League — Matchday 5\n🗓 Tue 24 Nov 2026 · 20:00 
+ UTC\n🏟 National Football Stadium\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سلوفان براتيسلافا ضد ريال 
+ بيتيس — دوري أبطال أوروبا | Tomorrow: Slovan Bratisl
+ ava vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سلوفا
+ ن براتيسلافا × ريال بيتيس | Kick-off in 30 min: Slova
+ n Bratislava vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106421@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261125T174500Z
+DTEND:20261125T194500Z
+SUMMARY:Sabah FK vs Barcelona — UEFA Champions League
+LOCATION:Bank Respublika Arena\, Masazyr (Masazir)\, Azerbaijan
+GEO:40.486179;49.766298
+URL:https://www.fotmob.com/match/6106421
+DESCRIPTION:⚽ صباح × برشلونة\n🏆 دوري أبطال أور
+ وبا — الجولة 5\n🗓 الأربعاء 25 نوفمبر 2026 · 2
+ 0:45 بتوقيت الرياض\n🏟 Bank Respublika Arena، Masazyr (Masa
+ zir)\n—————\n⚽ Sabah FK v Barcelona\n🏆 UEFA Champions Leagu
+ e — Matchday 5\n🗓 Wed 25 Nov 2026 · 17:45 UTC\n🏟 Bank Respublika 
+ Arena, Masazyr (Masazir)\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: صباح ضد برشلونة — دوري أبط
+ ال أوروبا | Tomorrow: Sabah FK vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: صباح ×
+  برشلونة | Kick-off in 30 min: Sabah FK vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106391@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261125T174500Z
+DTEND:20261125T194500Z
+SUMMARY:Slavia Prague vs Villarreal — UEFA Champions League
+LOCATION:Fortuna Arena
+URL:https://www.fotmob.com/match/6106391
+DESCRIPTION:⚽ سلافيا براغ × فياريال\n🏆 دوري أب
+ طال أوروبا — الجولة 5\n🗓 الأربعاء 25 نوفم
+ بر 2026 · 20:45 بتوقيت الرياض\n🏟 Fortuna Arena\n——
+ ———\n⚽ Slavia Prague v Villarreal\n🏆 UEFA Champions League — 
+ Matchday 5\n🗓 Wed 25 Nov 2026 · 17:45 UTC\n🏟 Fortuna Arena\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سلافيا براغ ضد فياريال — د
+ وري أبطال أوروبا | Tomorrow: Slavia Prague vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سلافي
+ ا براغ × فياريال | Kick-off in 30 min: Slavia Prague vs Villa
+ rreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106269@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Atlético Madrid vs Viking — UEFA Champions League
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/6106269
+DESCRIPTION:⚽ أتلتيكو مدريد × فيشينغ ستافانغي
+ ر\n🏆 دوري أبطال أوروبا — الجولة 5\n🗓 الأ
+ ربعاء 25 نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 R
+ iyadh Air Metropolitano\n—————\n⚽ Atlético Madrid v Viking\n
+ 🏆 UEFA Champions League — Matchday 5\n🗓 Wed 25 Nov 2026 · 20:00 U
+ TC\n🏟 Riyadh Air Metropolitano\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد فيشينغ ست
+ افانغير — دوري أبطال أوروبا | Tomorrow: Atlético 
+ Madrid vs Viking
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × فيشينغ ستافانغير | Kick-off in 30 min: A
+ tlético Madrid vs Viking
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106294@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Club Brugge vs Liverpool — UEFA Champions League
+LOCATION:Jan Breydel Stadion
+URL:https://www.fotmob.com/match/6106294
+DESCRIPTION:⚽ كلوب بروج × ليفربول\n🏆 دوري أبطا
+ ل أوروبا — الجولة 5\n🗓 الأربعاء 25 نوفمبر 
+ 2026 · 23:00 بتوقيت الرياض\n🏟 Jan Breydel Stadion\n——
+ ———\n⚽ Club Brugge v Liverpool\n🏆 UEFA Champions League — Mat
+ chday 5\n🗓 Wed 25 Nov 2026 · 20:00 UTC\n🏟 Jan Breydel Stadion\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كلوب بروج ضد ليفربول — دور
+ ي أبطال أوروبا | Tomorrow: Club Brugge vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كلوب ب
+ روج × ليفربول | Kick-off in 30 min: Club Brugge vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106253@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Inter vs VfB Stuttgart — UEFA Champions League
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/6106253
+DESCRIPTION:⚽ إنتر ميلان × شتوتجارت\n🏆 دوري أب
+ طال أوروبا — الجولة 5\n🗓 الأربعاء 25 نوفم
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Giuseppe Meazza\n——
+ ———\n⚽ Inter v VfB Stuttgart\n🏆 UEFA Champions League — Match
+ day 5\n🗓 Wed 25 Nov 2026 · 20:00 UTC\n🏟 Giuseppe Meazza\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد شتوتجارت — د
+ وري أبطال أوروبا | Tomorrow: Inter vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × شتوتجارت | Kick-off in 30 min: Inter vs VfB Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106310@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Lille vs Bayern München — UEFA Champions League
+LOCATION:Decathlon Arena-Stade Pierre-Mauroy
+URL:https://www.fotmob.com/match/6106310
+DESCRIPTION:⚽ ليل × بايرن ميونخ\n🏆 دوري أبطال 
+ أوروبا — الجولة 5\n🗓 الأربعاء 25 نوفمبر 202
+ 6 · 23:00 بتوقيت الرياض\n🏟 Decathlon Arena-Stade Pierre-Ma
+ uroy\n—————\n⚽ Lille v Bayern München\n🏆 UEFA Champions Le
+ ague — Matchday 5\n🗓 Wed 25 Nov 2026 · 20:00 UTC\n🏟 Decathlon Are
+ na-Stade Pierre-Mauroy\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليل ضد بايرن ميونخ — دوري أ
+ بطال أوروبا | Tomorrow: Lille vs Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليل × 
+ بايرن ميونخ | Kick-off in 30 min: Lille vs Bayern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106235@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Paris Saint-Germain vs Roma — UEFA Champions League
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/6106235
+DESCRIPTION:⚽ باريس سان جيرمان × روما\n🏆 دوري 
+ أبطال أوروبا — الجولة 5\n🗓 الأربعاء 25 نو
+ فمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Parc des Princes\n
+ —————\n⚽ Paris Saint-Germain v Roma\n🏆 UEFA Champions Leagu
+ e — Matchday 5\n🗓 Wed 25 Nov 2026 · 20:00 UTC\n🏟 Parc des Princes
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد روما — 
+ دوري أبطال أوروبا | Tomorrow: Paris Saint-Germain vs Roma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × روما | Kick-off in 30 min: Paris Saint-Germain 
+ vs Roma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106336@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Shakhtar Donetsk vs Fenerbahçe — UEFA Champions League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/6106336
+DESCRIPTION:⚽ شاختار دونيتسك × فنربخشة\n🏆 دور
+ ي أبطال أوروبا — الجولة 5\n🗓 الأربعاء 25 ن
+ وفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Stamford Bridge\n
+ —————\n⚽ Shakhtar Donetsk v Fenerbahçe\n🏆 UEFA Champions L
+ eague — Matchday 5\n🗓 Wed 25 Nov 2026 · 20:00 UTC\n🏟 Stamford Bri
+ dge\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شاختار دونيتسك ضد فنربخشة 
+ — دوري أبطال أوروبا | Tomorrow: Shakhtar Donetsk vs Fener
+ bahçe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شاختا
+ ر دونيتسك × فنربخشة | Kick-off in 30 min: Shakhtar Donetsk
+  vs Fenerbahçe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106279@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Sporting CP vs Manchester United — UEFA Champions League
+LOCATION:Estadio Jose Alvalade
+URL:https://www.fotmob.com/match/6106279
+DESCRIPTION:⚽ سبورتنج لشبونة × مانشستر يونايت
+ د\n🏆 دوري أبطال أوروبا — الجولة 5\n🗓 الأ
+ ربعاء 25 نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 E
+ stadio Jose Alvalade\n—————\n⚽ Sporting CP v Manchester United
+ \n🏆 UEFA Champions League — Matchday 5\n🗓 Wed 25 Nov 2026 · 20:00
+  UTC\n🏟 Estadio Jose Alvalade\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سبورتنج لشبونة ضد مانشستر 
+ يونايتد — دوري أبطال أوروبا | Tomorrow: Sporting C
+ P vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سبورت
+ نج لشبونة × مانشستر يونايتد | Kick-off in 30 min: S
+ porting CP vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106419@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261208T174500Z
+DTEND:20261208T194500Z
+SUMMARY:Viking vs Feyenoord — UEFA Champions League
+LOCATION:Lyse Arena
+URL:https://www.fotmob.com/match/6106419
+DESCRIPTION:⚽ فيشينغ ستافانغير × فاينورد\n🏆 د
+ وري أبطال أوروبا — الجولة 6\n🗓 الثلاثاء 8
+  ديسمبر 2026 · 20:45 بتوقيت الرياض\n🏟 Lyse Arena\n
+ —————\n⚽ Viking v Feyenoord\n🏆 UEFA Champions League — Ma
+ tchday 6\n🗓 Tue 08 Dec 2026 · 17:45 UTC\n🏟 Lyse Arena\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيشينغ ستافانغير ضد فاينور
+ د — دوري أبطال أوروبا | Tomorrow: Viking vs Feyenoord
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيشين
+ غ ستافانغير × فاينورد | Kick-off in 30 min: Viking vs Fe
+ yenoord
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106329@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261208T174500Z
+DTEND:20261208T194500Z
+SUMMARY:Villarreal vs Sabah FK — UEFA Champions League
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/6106329
+DESCRIPTION:⚽ فياريال × صباح\n🏆 دوري أبطال أور
+ وبا — الجولة 6\n🗓 الثلاثاء 8 ديسمبر 2026 · 20
+ :45 بتوقيت الرياض\n🏟 Estadio de la Ceramica\n————
+ —\n⚽ Villarreal v Sabah FK\n🏆 UEFA Champions League — Matchday 6\
+ n🗓 Tue 08 Dec 2026 · 17:45 UTC\n🏟 Estadio de la Ceramica\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد صباح — دوري أبط
+ ال أوروبا | Tomorrow: Villarreal vs Sabah FK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × صباح | Kick-off in 30 min: Villarreal vs Sabah FK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106403@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+SUMMARY:AEK Athens vs Galatasaray — UEFA Champions League
+LOCATION:Allwyn Arena
+URL:https://www.fotmob.com/match/6106403
+DESCRIPTION:⚽ أيك أثينا × غلطة سراي\n🏆 دوري أب
+ طال أوروبا — الجولة 6\n🗓 الثلاثاء 8 ديسمب
+ ر 2026 · 23:00 بتوقيت الرياض\n🏟 Allwyn Arena\n———
+ ——\n⚽ AEK Athens v Galatasaray\n🏆 UEFA Champions League — Match
+ day 6\n🗓 Tue 08 Dec 2026 · 20:00 UTC\n🏟 Allwyn Arena\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أيك أثينا ضد غلطة سراي — دو
+ ري أبطال أوروبا | Tomorrow: AEK Athens vs Galatasaray
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أيك أث
+ ينا × غلطة سراي | Kick-off in 30 min: AEK Athens vs Galatasara
+ y
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106282@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+SUMMARY:Aston Villa vs Paris Saint-Germain — UEFA Champions League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/6106282
+DESCRIPTION:⚽ أستون فيلا × باريس سان جيرمان\n🏆
+  دوري أبطال أوروبا — الجولة 6\n🗓 الثلاثا
+ ء 8 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Villa Park
+ \n—————\n⚽ Aston Villa v Paris Saint-Germain\n🏆 UEFA Champi
+ ons League — Matchday 6\n🗓 Tue 08 Dec 2026 · 20:00 UTC\n🏟 Villa P
+ ark\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد باريس سان جير
+ مان — دوري أبطال أوروبا | Tomorrow: Aston Villa vs Par
+ is Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × باريس سان جيرمان | Kick-off in 30 min: Aston Vil
+ la vs Paris Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106262@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+SUMMARY:Barcelona vs Manchester City — UEFA Champions League
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/6106262
+DESCRIPTION:⚽ برشلونة × مانشستر سيتي\n🏆 دوري أ
+ بطال أوروبا — الجولة 6\n🗓 الثلاثاء 8 ديسم
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n—
+ ————\n⚽ Barcelona v Manchester City\n🏆 UEFA Champions League 
+ — Matchday 6\n🗓 Tue 08 Dec 2026 · 20:00 UTC\n🏟 Spotify Camp Nou\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد مانشستر سيتي — 
+ دوري أبطال أوروبا | Tomorrow: Barcelona vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × مانشستر سيتي | Kick-off in 30 min: Barcelona vs Manches
+ ter City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106241@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+SUMMARY:Bayern München vs Slavia Prague — UEFA Champions League
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/6106241
+DESCRIPTION:⚽ بايرن ميونخ × سلافيا براغ\n🏆 دور
+ ي أبطال أوروبا — الجولة 6\n🗓 الثلاثاء 8 د
+ يسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Allianz Arena\n
+ —————\n⚽ Bayern München v Slavia Prague\n🏆 UEFA Champions 
+ League — Matchday 6\n🗓 Tue 08 Dec 2026 · 20:00 UTC\n🏟 Allianz Are
+ na\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد سلافيا براغ 
+ — دوري أبطال أوروبا | Tomorrow: Bayern München vs Slavia
+  Prague
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × سلافيا براغ | Kick-off in 30 min: Bayern München 
+ vs Slavia Prague
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106292@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+SUMMARY:Manchester United vs RB Leipzig — UEFA Champions League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/6106292
+DESCRIPTION:⚽ مانشستر يونايتد × لايبزيج\n🏆 دو
+ ري أبطال أوروبا — الجولة 6\n🗓 الثلاثاء 8 
+ ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Old Trafford\n
+ —————\n⚽ Manchester United v RB Leipzig\n🏆 UEFA Champions L
+ eague — Matchday 6\n🗓 Tue 08 Dec 2026 · 20:00 UTC\n🏟 Old Trafford
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد لايبزيج
+  — دوري أبطال أوروبا | Tomorrow: Manchester United vs RB 
+ Leipzig
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × لايبزيج | Kick-off in 30 min: Manchester Uni
+ ted vs RB Leipzig
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106275@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+SUMMARY:Roma vs Sporting CP — UEFA Champions League
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/6106275
+DESCRIPTION:⚽ روما × سبورتنج لشبونة\n🏆 دوري أب
+ طال أوروبا — الجولة 6\n🗓 الثلاثاء 8 ديسمب
+ ر 2026 · 23:00 بتوقيت الرياض\n🏟 Stadio Olimpico, Rome\n
+ —————\n⚽ Roma v Sporting CP\n🏆 UEFA Champions League — Ma
+ tchday 6\n🗓 Tue 08 Dec 2026 · 20:00 UTC\n🏟 Stadio Olimpico, Rome\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد سبورتنج لشبونة — د
+ وري أبطال أوروبا | Tomorrow: Roma vs Sporting CP
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  سبورتنج لشبونة | Kick-off in 30 min: Roma vs Sporting CP
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106319@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+SUMMARY:Napoli vs Club Brugge — UEFA Champions League
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/6106319
+DESCRIPTION:⚽ نابولي × كلوب بروج\n🏆 دوري أبطال
+  أوروبا — الجولة 6\n🗓 الثلاثاء 8 ديسمبر 202
+ 6 · 23:00 بتوقيت الرياض\n🏟 Diego Armando Maradona\n——
+ ———\n⚽ Napoli v Club Brugge\n🏆 UEFA Champions League — Matchd
+ ay 6\n🗓 Tue 08 Dec 2026 · 20:00 UTC\n🏟 Diego Armando Maradona\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد كلوب بروج — دوري 
+ أبطال أوروبا | Tomorrow: Napoli vs Club Brugge
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × كلوب بروج | Kick-off in 30 min: Napoli vs Club Brugge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106301@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T174500Z
+DTEND:20261209T194500Z
+SUMMARY:Real Betis vs Como — UEFA Champions League
+LOCATION:Estadio Benito Villamarin
+URL:https://www.fotmob.com/match/6106301
+DESCRIPTION:⚽ ريال بيتيس × كومو\n🏆 دوري أبطال 
+ أوروبا — الجولة 6\n🗓 الأربعاء 9 ديسمبر 2026
+  · 20:45 بتوقيت الرياض\n🏟 Estadio Benito Villamarin\n—
+ ————\n⚽ Real Betis v Como\n🏆 UEFA Champions League — Matchd
+ ay 6\n🗓 Wed 09 Dec 2026 · 17:45 UTC\n🏟 Estadio Benito Villamarin\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد كومو — دوري أ
+ بطال أوروبا | Tomorrow: Real Betis vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × كومو | Kick-off in 30 min: Real Betis vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106395@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T174500Z
+DTEND:20261209T194500Z
+SUMMARY:Slovan Bratislava vs Shakhtar Donetsk — UEFA Champions League
+LOCATION:National Football Stadium
+URL:https://www.fotmob.com/match/6106395
+DESCRIPTION:⚽ سلوفان براتيسلافا × شاختار دوني
+ تسك\n🏆 دوري أبطال أوروبا — الجولة 6\n🗓 ا
+ لأربعاء 9 ديسمبر 2026 · 20:45 بتوقيت الرياض\n
+ 🏟 National Football Stadium\n—————\n⚽ Slovan Bratislava v S
+ hakhtar Donetsk\n🏆 UEFA Champions League — Matchday 6\n🗓 Wed 09 De
+ c 2026 · 17:45 UTC\n🏟 National Football Stadium\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سلوفان براتيسلافا ضد شاختا
+ ر دونيتسك — دوري أبطال أوروبا | Tomorrow: Slovan 
+ Bratislava vs Shakhtar Donetsk
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سلوفا
+ ن براتيسلافا × شاختار دونيتسك | Kick-off in 30 mi
+ n: Slovan Bratislava vs Shakhtar Donetsk
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106258@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:Arsenal vs Real Madrid — UEFA Champions League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/6106258
+DESCRIPTION:⚽ أرسنال × ريال مدريد\n🏆 دوري أبطا
+ ل أوروبا — الجولة 6\n🗓 الأربعاء 9 ديسمبر 2
+ 026 · 23:00 بتوقيت الرياض\n🏟 Emirates Stadium\n———
+ ——\n⚽ Arsenal v Real Madrid\n🏆 UEFA Champions League — Matchday
+  6\n🗓 Wed 09 Dec 2026 · 20:00 UTC\n🏟 Emirates Stadium\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد ريال مدريد — دور
+ ي أبطال أوروبا | Tomorrow: Arsenal vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × ريال مدريد | Kick-off in 30 min: Arsenal vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106270@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:Borussia Dortmund vs Inter — UEFA Champions League
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/6106270
+DESCRIPTION:⚽ بوروسيا دورتموند × إنتر ميلان\n
+ 🏆 دوري أبطال أوروبا — الجولة 6\n🗓 الأرب
+ عاء 9 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Signal
+  Iduna Park\n—————\n⚽ Borussia Dortmund v Inter\n🏆 UEFA Cha
+ mpions League — Matchday 6\n🗓 Wed 09 Dec 2026 · 20:00 UTC\n🏟 Sign
+ al Iduna Park\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد إنتر م
+ يلان — دوري أبطال أوروبا | Tomorrow: Borussia Dortmun
+ d vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × إنتر ميلان | Kick-off in 30 min: Borussi
+ a Dortmund vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106407@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:LASK vs Fenerbahçe — UEFA Champions League
+LOCATION:Raiffeisen Arena
+URL:https://www.fotmob.com/match/6106407
+DESCRIPTION:⚽ LASK × فنربخشة\n🏆 دوري أبطال أوروب
+ ا — الجولة 6\n🗓 الأربعاء 9 ديسمبر 2026 · 23:00 
+ بتوقيت الرياض\n🏟 Raiffeisen Arena\n—————\n⚽ LAS
+ K v Fenerbahçe\n🏆 UEFA Champions League — Matchday 6\n🗓 Wed 09 De
+ c 2026 · 20:00 UTC\n🏟 Raiffeisen Arena\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: LASK ضد فنربخشة — دوري أبطال 
+ أوروبا | Tomorrow: LASK vs Fenerbahçe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: LASK × ف
+ نربخشة | Kick-off in 30 min: LASK vs Fenerbahçe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106415@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:Lens vs Bodø/Glimt — UEFA Champions League
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/6106415
+DESCRIPTION:⚽ لانس × بودو جليمت\n🏆 دوري أبطال 
+ أوروبا — الجولة 6\n🗓 الأربعاء 9 ديسمبر 2026
+  · 23:00 بتوقيت الرياض\n🏟 Stade Bollaert-Delelis\n——
+ ———\n⚽ Lens v Bodø/Glimt\n🏆 UEFA Champions League — Matchday
+  6\n🗓 Wed 09 Dec 2026 · 20:00 UTC\n🏟 Stade Bollaert-Delelis\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد بودو جليمت — دوري أ
+ بطال أوروبا | Tomorrow: Lens vs Bodø/Glimt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  بودو جليمت | Kick-off in 30 min: Lens vs Bodø/Glimt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106247@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:Liverpool vs FC Porto — UEFA Champions League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/6106247
+DESCRIPTION:⚽ ليفربول × بورتو\n🏆 دوري أبطال أو
+ روبا — الجولة 6\n🗓 الأربعاء 9 ديسمبر 2026 · 
+ 23:00 بتوقيت الرياض\n🏟 Anfield\n—————\n⚽ Liverp
+ ool v FC Porto\n🏆 UEFA Champions League — Matchday 6\n🗓 Wed 09 Dec
+  2026 · 20:00 UTC\n🏟 Anfield\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد بورتو — دوري أب
+ طال أوروبا | Tomorrow: Liverpool vs FC Porto
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × بورتو | Kick-off in 30 min: Liverpool vs FC Porto
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106302@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:PSV Eindhoven vs Atlético Madrid — UEFA Champions League
+LOCATION:Philips Stadion
+URL:https://www.fotmob.com/match/6106302
+DESCRIPTION:⚽ آيندهوفن × أتلتيكو مدريد\n🏆 دور
+ ي أبطال أوروبا — الجولة 6\n🗓 الأربعاء 9 د
+ يسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Philips Stadion\n
+ —————\n⚽ PSV Eindhoven v Atlético Madrid\n🏆 UEFA Champions
+  League — Matchday 6\n🗓 Wed 09 Dec 2026 · 20:00 UTC\n🏟 Philips St
+ adion\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آيندهوفن ضد أتلتيكو مدريد 
+ — دوري أبطال أوروبا | Tomorrow: PSV Eindhoven vs Atlétic
+ o Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينده
+ وفن × أتلتيكو مدريد | Kick-off in 30 min: PSV Eindhoven vs
+  Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106399@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:VfB Stuttgart vs Lille — UEFA Champions League
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/6106399
+DESCRIPTION:⚽ شتوتجارت × ليل\n🏆 دوري أبطال أور
+ وبا — الجولة 6\n🗓 الأربعاء 9 ديسمبر 2026 · 23
+ :00 بتوقيت الرياض\n🏟 MHPArena\n—————\n⚽ VfB Stu
+ ttgart v Lille\n🏆 UEFA Champions League — Matchday 6\n🗓 Wed 09 Dec
+  2026 · 20:00 UTC\n🏟 MHPArena\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد ليل — دوري أبط
+ ال أوروبا | Tomorrow: VfB Stuttgart vs Lille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × ليل | Kick-off in 30 min: VfB Stuttgart vs Lille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106314@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270119T174500Z
+DTEND:20270119T194500Z
+SUMMARY:Bodø/Glimt vs Atlético Madrid — UEFA Champions League
+LOCATION:Aspmyra Stadion
+URL:https://www.fotmob.com/match/6106314
+DESCRIPTION:⚽ بودو جليمت × أتلتيكو مدريد\n🏆 دو
+ ري أبطال أوروبا — الجولة 7\n🗓 الثلاثاء 19 
+ يناير 2027 · 20:45 بتوقيت الرياض\n🏟 Aspmyra Stadion\n
+ —————\n⚽ Bodø/Glimt v Atlético Madrid\n🏆 UEFA Champions L
+ eague — Matchday 7\n🗓 Tue 19 Jan 2027 · 17:45 UTC\n🏟 Aspmyra Stad
+ ion\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بودو جليمت ضد أتلتيكو مدري
+ د — دوري أبطال أوروبا | Tomorrow: Bodø/Glimt vs Atléti
+ co Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بودو ج
+ ليمت × أتلتيكو مدريد | Kick-off in 30 min: Bodø/Glimt vs
+  Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106340@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270119T174500Z
+DTEND:20270119T194500Z
+SUMMARY:Galatasaray vs Feyenoord — UEFA Champions League
+LOCATION:Rams Global Stadyumu
+URL:https://www.fotmob.com/match/6106340
+DESCRIPTION:⚽ غلطة سراي × فاينورد\n🏆 دوري أبطا
+ ل أوروبا — الجولة 7\n🗓 الثلاثاء 19 يناير 20
+ 27 · 20:45 بتوقيت الرياض\n🏟 Rams Global Stadyumu\n——
+ ———\n⚽ Galatasaray v Feyenoord\n🏆 UEFA Champions League — Mat
+ chday 7\n🗓 Tue 19 Jan 2027 · 17:45 UTC\n🏟 Rams Global Stadyumu\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غلطة سراي ضد فاينورد — دور
+ ي أبطال أوروبا | Tomorrow: Galatasaray vs Feyenoord
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غلطة س
+ راي × فاينورد | Kick-off in 30 min: Galatasaray vs Feyenoord
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106402@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+SUMMARY:AEK Athens vs Roma — UEFA Champions League
+LOCATION:Allwyn Arena
+URL:https://www.fotmob.com/match/6106402
+DESCRIPTION:⚽ أيك أثينا × روما\n🏆 دوري أبطال أ
+ وروبا — الجولة 7\n🗓 الثلاثاء 19 يناير 2027 ·
+  23:00 بتوقيت الرياض\n🏟 Allwyn Arena\n—————\n⚽ 
+ AEK Athens v Roma\n🏆 UEFA Champions League — Matchday 7\n🗓 Tue 19 
+ Jan 2027 · 20:00 UTC\n🏟 Allwyn Arena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أيك أثينا ضد روما — دوري أب
+ طال أوروبا | Tomorrow: AEK Athens vs Roma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أيك أث
+ ينا × روما | Kick-off in 30 min: AEK Athens vs Roma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106283@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+SUMMARY:Aston Villa vs Borussia Dortmund — UEFA Champions League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/6106283
+DESCRIPTION:⚽ أستون فيلا × بوروسيا دورتموند\n
+ 🏆 دوري أبطال أوروبا — الجولة 7\n🗓 الثلا
+ ثاء 19 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Villa P
+ ark\n—————\n⚽ Aston Villa v Borussia Dortmund\n🏆 UEFA Champ
+ ions League — Matchday 7\n🗓 Tue 19 Jan 2027 · 20:00 UTC\n🏟 Villa 
+ Park\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد بوروسيا دورت
+ موند — دوري أبطال أوروبا | Tomorrow: Aston Villa vs B
+ orussia Dortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × بوروسيا دورتموند | Kick-off in 30 min: Aston Vi
+ lla vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106289@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+SUMMARY:FC Porto vs Slavia Prague — UEFA Champions League
+LOCATION:Estadio do Dragao
+URL:https://www.fotmob.com/match/6106289
+DESCRIPTION:⚽ بورتو × سلافيا براغ\n🏆 دوري أبطا
+ ل أوروبا — الجولة 7\n🗓 الثلاثاء 19 يناير 20
+ 27 · 23:00 بتوقيت الرياض\n🏟 Estadio do Dragao\n———
+ ——\n⚽ FC Porto v Slavia Prague\n🏆 UEFA Champions League — Match
+ day 7\n🗓 Tue 19 Jan 2027 · 20:00 UTC\n🏟 Estadio do Dragao\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورتو ضد سلافيا براغ — دور
+ ي أبطال أوروبا | Tomorrow: FC Porto vs Slavia Prague
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورتو 
+ × سلافيا براغ | Kick-off in 30 min: FC Porto vs Slavia Prague
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106250@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+SUMMARY:Inter vs Liverpool — UEFA Champions League
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/6106250
+DESCRIPTION:⚽ إنتر ميلان × ليفربول\n🏆 دوري أبط
+ ال أوروبا — الجولة 7\n🗓 الثلاثاء 19 يناير 
+ 2027 · 23:00 بتوقيت الرياض\n🏟 Giuseppe Meazza\n———
+ ——\n⚽ Inter v Liverpool\n🏆 UEFA Champions League — Matchday 7\n
+ 🗓 Tue 19 Jan 2027 · 20:00 UTC\n🏟 Giuseppe Meazza\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد ليفربول — دو
+ ري أبطال أوروبا | Tomorrow: Inter vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × ليفربول | Kick-off in 30 min: Inter vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106313@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+SUMMARY:Lille vs Slovan Bratislava — UEFA Champions League
+LOCATION:Decathlon Arena-Stade Pierre-Mauroy
+URL:https://www.fotmob.com/match/6106313
+DESCRIPTION:⚽ ليل × سلوفان براتيسلافا\n🏆 دوري 
+ أبطال أوروبا — الجولة 7\n🗓 الثلاثاء 19 ين
+ اير 2027 · 23:00 بتوقيت الرياض\n🏟 Decathlon Arena-Stade
+  Pierre-Mauroy\n—————\n⚽ Lille v Slovan Bratislava\n🏆 UEFA 
+ Champions League — Matchday 7\n🗓 Tue 19 Jan 2027 · 20:00 UTC\n🏟 D
+ ecathlon Arena-Stade Pierre-Mauroy\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليل ضد سلوفان براتيسلافا —
+  دوري أبطال أوروبا | Tomorrow: Lille vs Slovan Bratislava
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليل × 
+ سلوفان براتيسلافا | Kick-off in 30 min: Lille vs Slovan Br
+ atislava
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106245@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+SUMMARY:Real Madrid vs LASK — UEFA Champions League
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/6106245
+DESCRIPTION:⚽ ريال مدريد × LASK\n🏆 دوري أبطال أو
+ روبا — الجولة 7\n🗓 الثلاثاء 19 يناير 2027 · 2
+ 3:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n—————\n
+ ⚽ Real Madrid v LASK\n🏆 UEFA Champions League — Matchday 7\n🗓 Tu
+ e 19 Jan 2027 · 20:00 UTC\n🏟 Estadio Bernabeu\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد LASK — دوري أبط
+ ال أوروبا | Tomorrow: Real Madrid vs LASK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × LASK | Kick-off in 30 min: Real Madrid vs LASK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106398@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+SUMMARY:VfB Stuttgart vs Club Brugge — UEFA Champions League
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/6106398
+DESCRIPTION:⚽ شتوتجارت × كلوب بروج\n🏆 دوري أبط
+ ال أوروبا — الجولة 7\n🗓 الثلاثاء 19 يناير 
+ 2027 · 23:00 بتوقيت الرياض\n🏟 MHPArena\n—————\n
+ ⚽ VfB Stuttgart v Club Brugge\n🏆 UEFA Champions League — Matchday 7
+ \n🗓 Tue 19 Jan 2027 · 20:00 UTC\n🏟 MHPArena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد كلوب بروج — دو
+ ري أبطال أوروبا | Tomorrow: VfB Stuttgart vs Club Brugge
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × كلوب بروج | Kick-off in 30 min: VfB Stuttgart vs Club Br
+ ugge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106332@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T174500Z
+DTEND:20270120T194500Z
+SUMMARY:Fenerbahçe vs Villarreal — UEFA Champions League
+LOCATION:Chobani Stadyumu Fenerbahce Sukru Saracoglu Spor Kompleksi
+URL:https://www.fotmob.com/match/6106332
+DESCRIPTION:⚽ فنربخشة × فياريال\n🏆 دوري أبطال 
+ أوروبا — الجولة 7\n🗓 الأربعاء 20 يناير 2027 
+ · 20:45 بتوقيت الرياض\n🏟 Chobani Stadyumu Fenerbahce Sukru
+  Saracoglu Spor Kompleksi\n—————\n⚽ Fenerbahçe v Villarreal\n
+ 🏆 UEFA Champions League — Matchday 7\n🗓 Wed 20 Jan 2027 · 17:45 U
+ TC\n🏟 Chobani Stadyumu Fenerbahce Sukru Saracoglu Spor Kompleksi\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فنربخشة ضد فياريال — دوري 
+ أبطال أوروبا | Tomorrow: Fenerbahçe vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فنربخ
+ شة × فياريال | Kick-off in 30 min: Fenerbahçe vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106423@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T174500Z
+DTEND:20270120T194500Z
+SUMMARY:Sabah FK vs Napoli — UEFA Champions League
+LOCATION:Bank Respublika Arena\, Masazyr (Masazir)\, Azerbaijan
+GEO:40.486179;49.766298
+URL:https://www.fotmob.com/match/6106423
+DESCRIPTION:⚽ صباح × نابولي\n🏆 دوري أبطال أورو
+ با — الجولة 7\n🗓 الأربعاء 20 يناير 2027 · 20:45
+  بتوقيت الرياض\n🏟 Bank Respublika Arena، Masazyr (Masazir)
+ \n—————\n⚽ Sabah FK v Napoli\n🏆 UEFA Champions League — M
+ atchday 7\n🗓 Wed 20 Jan 2027 · 17:45 UTC\n🏟 Bank Respublika Arena, 
+ Masazyr (Masazir)\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: صباح ضد نابولي — دوري أبطا
+ ل أوروبا | Tomorrow: Sabah FK vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: صباح ×
+  نابولي | Kick-off in 30 min: Sabah FK vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106409@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+SUMMARY:Como vs Paris Saint-Germain — UEFA Champions League
+LOCATION:Stadio G. Sinigaglia
+URL:https://www.fotmob.com/match/6106409
+DESCRIPTION:⚽ كومو × باريس سان جيرمان\n🏆 دوري 
+ أبطال أوروبا — الجولة 7\n🗓 الأربعاء 20 ين
+ اير 2027 · 23:00 بتوقيت الرياض\n🏟 Stadio G. Sinigaglia\
+ n—————\n⚽ Como v Paris Saint-Germain\n🏆 UEFA Champions Leag
+ ue — Matchday 7\n🗓 Wed 20 Jan 2027 · 20:00 UTC\n🏟 Stadio G. Sinig
+ aglia\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كومو ضد باريس سان جيرمان — 
+ دوري أبطال أوروبا | Tomorrow: Como vs Paris Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كومو ×
+  باريس سان جيرمان | Kick-off in 30 min: Como vs Paris Saint-
+ Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106413@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+SUMMARY:Lens vs Manchester City — UEFA Champions League
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/6106413
+DESCRIPTION:⚽ لانس × مانشستر سيتي\n🏆 دوري أبطا
+ ل أوروبا — الجولة 7\n🗓 الأربعاء 20 يناير 20
+ 27 · 23:00 بتوقيت الرياض\n🏟 Stade Bollaert-Delelis\n——
+ ———\n⚽ Lens v Manchester City\n🏆 UEFA Champions League — Matc
+ hday 7\n🗓 Wed 20 Jan 2027 · 20:00 UTC\n🏟 Stade Bollaert-Delelis\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد مانشستر سيتي — دور
+ ي أبطال أوروبا | Tomorrow: Lens vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  مانشستر سيتي | Kick-off in 30 min: Lens vs Manchester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106290@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+SUMMARY:Manchester United vs Bayern München — UEFA Champions League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/6106290
+DESCRIPTION:⚽ مانشستر يونايتد × بايرن ميونخ\n
+ 🏆 دوري أبطال أوروبا — الجولة 7\n🗓 الأرب
+ عاء 20 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Old Tra
+ fford\n—————\n⚽ Manchester United v Bayern München\n🏆 UEFA
+  Champions League — Matchday 7\n🗓 Wed 20 Jan 2027 · 20:00 UTC\n🏟 
+ Old Trafford\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد بايرن م
+ يونخ — دوري أبطال أوروبا | Tomorrow: Manchester Unite
+ d vs Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × بايرن ميونخ | Kick-off in 30 min: Manches
+ ter United vs Bayern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106324@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+SUMMARY:RB Leipzig vs Shakhtar Donetsk — UEFA Champions League
+LOCATION:Red Bull Arena Leipzig
+URL:https://www.fotmob.com/match/6106324
+DESCRIPTION:⚽ لايبزيج × شاختار دونيتسك\n🏆 دور
+ ي أبطال أوروبا — الجولة 7\n🗓 الأربعاء 20 ي
+ ناير 2027 · 23:00 بتوقيت الرياض\n🏟 Red Bull Arena Leip
+ zig\n—————\n⚽ RB Leipzig v Shakhtar Donetsk\n🏆 UEFA Champio
+ ns League — Matchday 7\n🗓 Wed 20 Jan 2027 · 20:00 UTC\n🏟 Red Bull
+  Arena Leipzig\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لايبزيج ضد شاختار دونيتسك 
+ — دوري أبطال أوروبا | Tomorrow: RB Leipzig vs Shakhtar Do
+ netsk
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لايبز
+ يج × شاختار دونيتسك | Kick-off in 30 min: RB Leipzig vs Sh
+ akhtar Donetsk
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106298@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+SUMMARY:Real Betis vs Arsenal — UEFA Champions League
+LOCATION:Estadio Benito Villamarin
+URL:https://www.fotmob.com/match/6106298
+DESCRIPTION:⚽ ريال بيتيس × أرسنال\n🏆 دوري أبطا
+ ل أوروبا — الجولة 7\n🗓 الأربعاء 20 يناير 20
+ 27 · 23:00 بتوقيت الرياض\n🏟 Estadio Benito Villamarin\n—
+ ————\n⚽ Real Betis v Arsenal\n🏆 UEFA Champions League — Mat
+ chday 7\n🗓 Wed 20 Jan 2027 · 20:00 UTC\n🏟 Estadio Benito Villamarin
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد أرسنال — دور
+ ي أبطال أوروبا | Tomorrow: Real Betis vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × أرسنال | Kick-off in 30 min: Real Betis vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106278@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+SUMMARY:Sporting CP vs Barcelona — UEFA Champions League
+LOCATION:Estadio Jose Alvalade
+URL:https://www.fotmob.com/match/6106278
+DESCRIPTION:⚽ سبورتنج لشبونة × برشلونة\n🏆 دور
+ ي أبطال أوروبا — الجولة 7\n🗓 الأربعاء 20 ي
+ ناير 2027 · 23:00 بتوقيت الرياض\n🏟 Estadio Jose Alvala
+ de\n—————\n⚽ Sporting CP v Barcelona\n🏆 UEFA Champions Leag
+ ue — Matchday 7\n🗓 Wed 20 Jan 2027 · 20:00 UTC\n🏟 Estadio Jose Al
+ valade\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سبورتنج لشبونة ضد برشلونة 
+ — دوري أبطال أوروبا | Tomorrow: Sporting CP vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سبورت
+ نج لشبونة × برشلونة | Kick-off in 30 min: Sporting CP vs B
+ arcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106418@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+SUMMARY:Viking vs PSV Eindhoven — UEFA Champions League
+LOCATION:Lyse Arena
+URL:https://www.fotmob.com/match/6106418
+DESCRIPTION:⚽ فيشينغ ستافانغير × آيندهوفن\n🏆 
+ دوري أبطال أوروبا — الجولة 7\n🗓 الأربعاء
+  20 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Lyse Arena\n
+ —————\n⚽ Viking v PSV Eindhoven\n🏆 UEFA Champions League 
+ — Matchday 7\n🗓 Wed 20 Jan 2027 · 20:00 UTC\n🏟 Lyse Arena\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيشينغ ستافانغير ضد آيندهو
+ فن — دوري أبطال أوروبا | Tomorrow: Viking vs PSV Eindho
+ ven
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيشين
+ غ ستافانغير × آيندهوفن | Kick-off in 30 min: Viking vs 
+ PSV Eindhoven
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106261@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Arsenal vs Sabah FK — UEFA Champions League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/6106261
+DESCRIPTION:⚽ أرسنال × صباح\n🏆 دوري أبطال أورو
+ با — الجولة 8\n🗓 الأربعاء 27 يناير 2027 · 23:00
+  بتوقيت الرياض\n🏟 Emirates Stadium\n—————\n⚽ Ar
+ senal v Sabah FK\n🏆 UEFA Champions League — Matchday 8\n🗓 Wed 27 J
+ an 2027 · 20:00 UTC\n🏟 Emirates Stadium\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد صباح — دوري أبطا
+ ل أوروبا | Tomorrow: Arsenal vs Sabah FK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × صباح | Kick-off in 30 min: Arsenal vs Sabah FK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106268@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Atlético Madrid vs Fenerbahçe — UEFA Champions League
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/6106268
+DESCRIPTION:⚽ أتلتيكو مدريد × فنربخشة\n🏆 دوري 
+ أبطال أوروبا — الجولة 8\n🗓 الأربعاء 27 ين
+ اير 2027 · 23:00 بتوقيت الرياض\n🏟 Riyadh Air Metropolit
+ ano\n—————\n⚽ Atlético Madrid v Fenerbahçe\n🏆 UEFA Champi
+ ons League — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Riyadh 
+ Air Metropolitano\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد فنربخشة —
+  دوري أبطال أوروبا | Tomorrow: Atlético Madrid vs Fenerbah
+ çe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × فنربخشة | Kick-off in 30 min: Atlético Madrid v
+ s Fenerbahçe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106265@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Barcelona vs Como — UEFA Champions League
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/6106265
+DESCRIPTION:⚽ برشلونة × كومو\n🏆 دوري أبطال أور
+ وبا — الجولة 8\n🗓 الأربعاء 27 يناير 2027 · 23:
+ 00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n—————\n⚽ 
+ Barcelona v Como\n🏆 UEFA Champions League — Matchday 8\n🗓 Wed 27 J
+ an 2027 · 20:00 UTC\n🏟 Spotify Camp Nou\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد كومو — دوري أبط
+ ال أوروبا | Tomorrow: Barcelona vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × كومو | Kick-off in 30 min: Barcelona vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106239@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Bayern München vs Real Betis — UEFA Champions League
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/6106239
+DESCRIPTION:⚽ بايرن ميونخ × ريال بيتيس\n🏆 دوري
+  أبطال أوروبا — الجولة 8\n🗓 الأربعاء 27 ين
+ اير 2027 · 23:00 بتوقيت الرياض\n🏟 Allianz Arena\n——
+ ———\n⚽ Bayern München v Real Betis\n🏆 UEFA Champions League 
+ — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Allianz Arena\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد ريال بيتيس 
+ — دوري أبطال أوروبا | Tomorrow: Bayern München vs Real B
+ etis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × ريال بيتيس | Kick-off in 30 min: Bayern München vs
+  Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106273@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Borussia Dortmund vs AEK Athens — UEFA Champions League
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/6106273
+DESCRIPTION:⚽ بوروسيا دورتموند × أيك أثينا\n🏆 
+ دوري أبطال أوروبا — الجولة 8\n🗓 الأربعاء
+  27 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Signal Iduna 
+ Park\n—————\n⚽ Borussia Dortmund v AEK Athens\n🏆 UEFA Champ
+ ions League — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Signal
+  Iduna Park\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد أيك أث
+ ينا — دوري أبطال أوروبا | Tomorrow: Borussia Dortmund 
+ vs AEK Athens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × أيك أثينا | Kick-off in 30 min: Borussia 
+ Dortmund vs AEK Athens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106296@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Club Brugge vs Bodø/Glimt — UEFA Champions League
+LOCATION:Jan Breydel Stadion
+URL:https://www.fotmob.com/match/6106296
+DESCRIPTION:⚽ كلوب بروج × بودو جليمت\n🏆 دوري أ
+ بطال أوروبا — الجولة 8\n🗓 الأربعاء 27 ينا
+ ير 2027 · 23:00 بتوقيت الرياض\n🏟 Jan Breydel Stadion\n
+ —————\n⚽ Club Brugge v Bodø/Glimt\n🏆 UEFA Champions League
+  — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Jan Breydel Stadi
+ on\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كلوب بروج ضد بودو جليمت — د
+ وري أبطال أوروبا | Tomorrow: Club Brugge vs Bodø/Glimt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كلوب ب
+ روج × بودو جليمت | Kick-off in 30 min: Club Brugge vs Bodø/G
+ limt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106308@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Feyenoord vs RB Leipzig — UEFA Champions League
+LOCATION:de Kuip
+URL:https://www.fotmob.com/match/6106308
+DESCRIPTION:⚽ فاينورد × لايبزيج\n🏆 دوري أبطال 
+ أوروبا — الجولة 8\n🗓 الأربعاء 27 يناير 2027 
+ · 23:00 بتوقيت الرياض\n🏟 de Kuip\n—————\n⚽ Fey
+ enoord v RB Leipzig\n🏆 UEFA Champions League — Matchday 8\n🗓 Wed 2
+ 7 Jan 2027 · 20:00 UTC\n🏟 de Kuip\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فاينورد ضد لايبزيج — دوري 
+ أبطال أوروبا | Tomorrow: Feyenoord vs RB Leipzig
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فاينو
+ رد × لايبزيج | Kick-off in 30 min: Feyenoord vs RB Leipzig
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106406@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:LASK vs FC Porto — UEFA Champions League
+LOCATION:Raiffeisen Arena
+URL:https://www.fotmob.com/match/6106406
+DESCRIPTION:⚽ LASK × بورتو\n🏆 دوري أبطال أوروبا 
+ — الجولة 8\n🗓 الأربعاء 27 يناير 2027 · 23:00 بت
+ وقيت الرياض\n🏟 Raiffeisen Arena\n—————\n⚽ LASK v 
+ FC Porto\n🏆 UEFA Champions League — Matchday 8\n🗓 Wed 27 Jan 2027 
+ · 20:00 UTC\n🏟 Raiffeisen Arena\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: LASK ضد بورتو — دوري أبطال أو
+ روبا | Tomorrow: LASK vs FC Porto
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: LASK × ب
+ ورتو | Kick-off in 30 min: LASK vs FC Porto
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106249@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Liverpool vs Lens — UEFA Champions League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/6106249
+DESCRIPTION:⚽ ليفربول × لانس\n🏆 دوري أبطال أور
+ وبا — الجولة 8\n🗓 الأربعاء 27 يناير 2027 · 23:
+ 00 بتوقيت الرياض\n🏟 Anfield\n—————\n⚽ Liverpool
+  v Lens\n🏆 UEFA Champions League — Matchday 8\n🗓 Wed 27 Jan 2027 
+ · 20:00 UTC\n🏟 Anfield\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد لانس — دوري أبط
+ ال أوروبا | Tomorrow: Liverpool vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × لانس | Kick-off in 30 min: Liverpool vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106255@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Manchester City vs Sporting CP — UEFA Champions League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/6106255
+DESCRIPTION:⚽ مانشستر سيتي × سبورتنج لشبونة\n
+ 🏆 دوري أبطال أوروبا — الجولة 8\n🗓 الأرب
+ عاء 27 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Etihad 
+ Stadium\n—————\n⚽ Manchester City v Sporting CP\n🏆 UEFA Cha
+ mpions League — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Etih
+ ad Stadium\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد سبورتنج لش
+ بونة — دوري أبطال أوروبا | Tomorrow: Manchester City 
+ vs Sporting CP
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × سبورتنج لشبونة | Kick-off in 30 min: Manches
+ ter City vs Sporting CP
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106236@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Paris Saint-Germain vs Galatasaray — UEFA Champions League
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/6106236
+DESCRIPTION:⚽ باريس سان جيرمان × غلطة سراي\n🏆 
+ دوري أبطال أوروبا — الجولة 8\n🗓 الأربعاء
+  27 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Parc des Prin
+ ces\n—————\n⚽ Paris Saint-Germain v Galatasaray\n🏆 UEFA Cha
+ mpions League — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Parc
+  des Princes\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد غلطة سر
+ اي — دوري أبطال أوروبا | Tomorrow: Paris Saint-Germain 
+ vs Galatasaray
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × غلطة سراي | Kick-off in 30 min: Paris Saint
+ -Germain vs Galatasaray
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106305@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:PSV Eindhoven vs VfB Stuttgart — UEFA Champions League
+LOCATION:Philips Stadion
+URL:https://www.fotmob.com/match/6106305
+DESCRIPTION:⚽ آيندهوفن × شتوتجارت\n🏆 دوري أبط
+ ال أوروبا — الجولة 8\n🗓 الأربعاء 27 يناير 
+ 2027 · 23:00 بتوقيت الرياض\n🏟 Philips Stadion\n———
+ ——\n⚽ PSV Eindhoven v VfB Stuttgart\n🏆 UEFA Champions League — 
+ Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Philips Stadion\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آيندهوفن ضد شتوتجارت — دور
+ ي أبطال أوروبا | Tomorrow: PSV Eindhoven vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينده
+ وفن × شتوتجارت | Kick-off in 30 min: PSV Eindhoven vs VfB Stut
+ tgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106276@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Roma vs Lille — UEFA Champions League
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/6106276
+DESCRIPTION:⚽ روما × ليل\n🏆 دوري أبطال أوروبا 
+ — الجولة 8\n🗓 الأربعاء 27 يناير 2027 · 23:00 بت
+ وقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ Ro
+ ma v Lille\n🏆 UEFA Champions League — Matchday 8\n🗓 Wed 27 Jan 202
+ 7 · 20:00 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد ليل — دوري أبطال أو
+ روبا | Tomorrow: Roma vs Lille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  ليل | Kick-off in 30 min: Roma vs Lille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106334@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Shakhtar Donetsk vs Real Madrid — UEFA Champions League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/6106334
+DESCRIPTION:⚽ شاختار دونيتسك × ريال مدريد\n🏆 د
+ وري أبطال أوروبا — الجولة 8\n🗓 الأربعاء 2
+ 7 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Stamford Bridge
+ \n—————\n⚽ Shakhtar Donetsk v Real Madrid\n🏆 UEFA Champions
+  League — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Stamford B
+ ridge\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شاختار دونيتسك ضد ريال مدر
+ يد — دوري أبطال أوروبا | Tomorrow: Shakhtar Donetsk vs 
+ Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شاختا
+ ر دونيتسك × ريال مدريد | Kick-off in 30 min: Shakhtar Do
+ netsk vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106390@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Slavia Prague vs Aston Villa — UEFA Champions League
+LOCATION:Fortuna Arena
+URL:https://www.fotmob.com/match/6106390
+DESCRIPTION:⚽ سلافيا براغ × أستون فيلا\n🏆 دوري
+  أبطال أوروبا — الجولة 8\n🗓 الأربعاء 27 ين
+ اير 2027 · 23:00 بتوقيت الرياض\n🏟 Fortuna Arena\n——
+ ———\n⚽ Slavia Prague v Aston Villa\n🏆 UEFA Champions League —
+  Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Fortuna Arena\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سلافيا براغ ضد أستون فيلا 
+ — دوري أبطال أوروبا | Tomorrow: Slavia Prague vs Aston Vi
+ lla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سلافي
+ ا براغ × أستون فيلا | Kick-off in 30 min: Slavia Prague vs 
+ Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106393@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Slovan Bratislava vs Inter — UEFA Champions League
+LOCATION:National Football Stadium
+URL:https://www.fotmob.com/match/6106393
+DESCRIPTION:⚽ سلوفان براتيسلافا × إنتر ميلان\n
+ 🏆 دوري أبطال أوروبا — الجولة 8\n🗓 الأرب
+ عاء 27 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Nationa
+ l Football Stadium\n—————\n⚽ Slovan Bratislava v Inter\n🏆 U
+ EFA Champions League — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n
+ 🏟 National Football Stadium\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سلوفان براتيسلافا ضد إنتر 
+ ميلان — دوري أبطال أوروبا | Tomorrow: Slovan Bratisl
+ ava vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سلوفا
+ ن براتيسلافا × إنتر ميلان | Kick-off in 30 min: Slova
+ n Bratislava vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106321@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Napoli vs Viking — UEFA Champions League
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/6106321
+DESCRIPTION:⚽ نابولي × فيشينغ ستافانغير\n🏆 دو
+ ري أبطال أوروبا — الجولة 8\n🗓 الأربعاء 27 
+ يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Diego Armando Mar
+ adona\n—————\n⚽ Napoli v Viking\n🏆 UEFA Champions League 
+ — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Diego Armando Mara
+ dona\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد فيشينغ ستافانغير
+  — دوري أبطال أوروبا | Tomorrow: Napoli vs Viking
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × فيشينغ ستافانغير | Kick-off in 30 min: Napoli vs Viki
+ ng
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106327@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Villarreal vs Manchester United — UEFA Champions League
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/6106327
+DESCRIPTION:⚽ فياريال × مانشستر يونايتد\n🏆 دو
+ ري أبطال أوروبا — الجولة 8\n🗓 الأربعاء 27 
+ يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Estadio de la Cer
+ amica\n—————\n⚽ Villarreal v Manchester United\n🏆 UEFA Cham
+ pions League — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Estad
+ io de la Ceramica\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد مانشستر يونايتد
+  — دوري أبطال أوروبا | Tomorrow: Villarreal vs Manchester
+  United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × مانشستر يونايتد | Kick-off in 30 min: Villarreal vs 
+ Manchester United
+END:VALARM
+END:VEVENT
+END:VCALENDAR

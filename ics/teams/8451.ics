@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Charlton Athletic — FA Cup Fixtures | Charlton Athletic 
+ — مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Charlton Athletic — all matches in FA Cup\, exact UTC kickof
+ fs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19
+ :31:10Z.  •  Charlton Athletic — جميع المباريات في كأ
+ س الاتحاد الإنجليزي بتوقيت UTC الدقيق مع ا
+ لملاعب والقنوات الناقلة. المصدر: FotMob + 365sc
+ ores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5089900@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260110T200000Z
+DTEND:20260110T220000Z
+SUMMARY:Charlton Athletic vs Chelsea (1 - 5) — FA Cup
+LOCATION:The Valley\, London\, England
+GEO:51.486507;0.036435
+URL:https://www.fotmob.com/match/5089900
+DESCRIPTION:⚽ Charlton Athletic × تشيلسي (1 - 5)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الثالث\n🗓 السبت
+  10 يناير 2026 · 23:00 بتوقيت الرياض\n🏟 The Valley، 
+ London\n⚖️ الحكم: Chris Kavanagh\n👥 الحضور: 26,475\n—
+ ————\n⚽ Charlton Athletic v Chelsea (1 - 5)\n🏆 FA Cup — Rou
+ nd 3\n🗓 Sat 10 Jan 2026 · 20:00 UTC\n🏟 The Valley, London\nReferee:
+  Chris Kavanagh\nAttendance: 26,475\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Charlton Athletic ضد تشيلسي — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Charlton Athletic vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Charlton At
+ hletic × تشيلسي | Kick-off in 30 min: Charlton Athletic vs Chelsea
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1356 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Coppa Italia 2026/2027 — Fixtures | كأس إيطالي
+ ا 2026/2027 — جدول المباريات
+X-WR-CALDESC:Coppa Italia 2026/2027 — all fixtures\, exact UTC kickoffs\,
+  stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:
+ 10Z.  •  كأس إيطاليا 2026/2027 — جميع المباريات
+  بتوقيت UTC الدقيق مع الملاعب والقنوات الن
+ اقلة. المصدر: FotMob + 365scores · تحديث تلقائي 2026
+ -09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5852743@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260808T180000Z
+DTEND:20260808T200000Z
+SUMMARY:LR Vicenza vs Catania (1 - 1) — Coppa Italia
+URL:https://www.fotmob.com/match/5852743
+DESCRIPTION:⚽ فيتشينزا × كاتانيا (1 - 1)\n🏆 كأس إ
+ يطاليا — دور الـ64\n🗓 السبت 8 أغسطس 2026 · 21:
+ 00 بتوقيت الرياض\n—————\n⚽ LR Vicenza v Catania (1
+  - 1)\n🏆 Coppa Italia — Round of 64\n🗓 Sat 08 Aug 2026 · 18:00 UT
+ C\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيتشينزا ضد كاتانيا — كأس 
+ إيطاليا | Tomorrow: LR Vicenza vs Catania
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيتشي
+ نزا × كاتانيا | Kick-off in 30 min: LR Vicenza vs Catania
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852741@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260808T183000Z
+DTEND:20260808T203000Z
+SUMMARY:Ascoli vs Potenza (3 - 1) — Coppa Italia
+LOCATION:Stadio Cino e Lillo Del Duca\, Ascoli Piceno\, Italy
+GEO:42.861004;13.593913
+URL:https://www.fotmob.com/match/5852741
+DESCRIPTION:⚽ أسكولي × Potenza (3 - 1)\n🏆 كأس إيطاليا
+  — دور الـ64\n🗓 السبت 8 أغسطس 2026 · 21:30 بتوق
+ يت الرياض\n🏟 Stadio Cino e Lillo Del Duca، Ascoli Piceno\n—
+ ————\n⚽ Ascoli v Potenza (3 - 1)\n🏆 Coppa Italia — Round of
+  64\n🗓 Sat 08 Aug 2026 · 18:30 UTC\n🏟 Stadio Cino e Lillo Del Duca,
+  Ascoli Piceno\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أسكولي ضد Potenza — كأس إيطالي
+ ا | Tomorrow: Ascoli vs Potenza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أسكول
+ ي × Potenza | Kick-off in 30 min: Ascoli vs Potenza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852740@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260809T174500Z
+DTEND:20260809T194500Z
+SUMMARY:Arezzo vs Union Brescia (2 - 0) — Coppa Italia
+LOCATION:Stadio Città di Arezzo\, Arezzo\, Italy
+GEO:43.451061;11.894138
+URL:https://www.fotmob.com/match/5852740
+DESCRIPTION:⚽ أريززو × Union Brescia (2 - 0)\n🏆 كأس إيطا
+ ليا — دور الـ64\n🗓 الأحد 9 أغسطس 2026 · 20:45 ب
+ توقيت الرياض\n🏟 Stadio Città di Arezzo، Arezzo\n———
+ ——\n⚽ Arezzo v Union Brescia (2 - 0)\n🏆 Coppa Italia — Round of
+  64\n🗓 Sun 09 Aug 2026 · 17:45 UTC\n🏟 Stadio Città di Arezzo, Arez
+ zo\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أريززو ضد Union Brescia — كأس إيط
+ اليا | Tomorrow: Arezzo vs Union Brescia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أريزز
+ و × Union Brescia | Kick-off in 30 min: Arezzo vs Union Brescia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852742@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260809T190000Z
+DTEND:20260809T210000Z
+SUMMARY:Benevento vs Ravenna (5 - 3) — Coppa Italia
+LOCATION:Stadio Ciro Vigorito\, Benevento\, Italy
+GEO:41.116543;14.781150
+URL:https://www.fotmob.com/match/5852742
+DESCRIPTION:⚽ بينفينتو × رافينا (5 - 3)\n🏆 كأس إي
+ طاليا — دور الـ64\n🗓 الأحد 9 أغسطس 2026 · 22:00
+  بتوقيت الرياض\n🏟 Stadio Ciro Vigorito، Benevento\n——
+ ———\n⚽ Benevento v Ravenna (5 - 3)\n🏆 Coppa Italia — Round of
+  64\n🗓 Sun 09 Aug 2026 · 19:00 UTC\n🏟 Stadio Ciro Vigorito, Beneven
+ to\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بينفينتو ضد رافينا — كأس إ
+ يطاليا | Tomorrow: Benevento vs Ravenna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بينفي
+ نتو × رافينا | Kick-off in 30 min: Benevento vs Ravenna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852771@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260814T160000Z
+DTEND:20260814T180000Z
+SUMMARY:Parma vs Catania (2 - 0) — Coppa Italia
+LOCATION:Stadio Ennio Tardini\, Parma\, Italy
+GEO:44.794905;10.338387
+URL:https://www.fotmob.com/match/5852771
+DESCRIPTION:⚽ بارما × كاتانيا (2 - 0)\n🏆 كأس إيطا
+ ليا — دور الـ32\n🗓 الجمعة 14 أغسطس 2026 · 19:00 
+ بتوقيت الرياض\n🏟 Stadio Ennio Tardini، Parma\n⚖️ ال
+ حكم: Valerio Crezzini\n👥 الحضور: 4,210\n—————\n⚽ P
+ arma v Catania (2 - 0)\n🏆 Coppa Italia — Round of 32\n🗓 Fri 14 Aug
+  2026 · 16:00 UTC\n🏟 Stadio Ennio Tardini, Parma\nReferee: Valerio Cre
+ zzini\nAttendance: 4,210\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد كاتانيا — كأس إيط
+ اليا | Tomorrow: Parma vs Catania
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × كاتانيا | Kick-off in 30 min: Parma vs Catania
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852772@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260814T163000Z
+DTEND:20260814T183000Z
+SUMMARY:Cagliari vs Arezzo (1 - 0) — Coppa Italia
+LOCATION:Unipol Domus\, Cagliari\, Italy
+GEO:39.199802;9.137473
+URL:https://www.fotmob.com/match/5852772
+DESCRIPTION:⚽ كالياري × أريززو (1 - 0)\n🏆 كأس إيط
+ اليا — دور الـ32\n🗓 الجمعة 14 أغسطس 2026 · 19:3
+ 0 بتوقيت الرياض\n🏟 Unipol Domus، Cagliari\n⚖️ الحك
+ م: Andrea Calzavara\n👥 الحضور: 8,730\n—————\n⚽ Cagli
+ ari v Arezzo (1 - 0)\n🏆 Coppa Italia — Round of 32\n🗓 Fri 14 Aug 2
+ 026 · 16:30 UTC\n🏟 Unipol Domus, Cagliari\nReferee: Andrea Calzavara\n
+ Attendance: 8,730\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد أريززو — كأس إي
+ طاليا | Tomorrow: Cagliari vs Arezzo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × أريززو | Kick-off in 30 min: Cagliari vs Arezzo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852773@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260814T184500Z
+DTEND:20260814T204500Z
+SUMMARY:Monza vs Avellino (3 - 0) — Coppa Italia
+LOCATION:U-Power Stadium\, Monza\, Italy
+GEO:45.583064;9.308116
+URL:https://www.fotmob.com/match/5852773
+DESCRIPTION:⚽ مونزا × أفينيو (3 - 0)\n🏆 كأس إيطال
+ يا — دور الـ32\n🗓 الجمعة 14 أغسطس 2026 · 21:45 ب
+ توقيت الرياض\n🏟 U-Power Stadium، Monza\n⚖️ الحكم: 
+ Mattia Drigo\n👥 الحضور: 3,229\n—————\n⚽ Monza v Avell
+ ino (3 - 0)\n🏆 Coppa Italia — Round of 32\n🗓 Fri 14 Aug 2026 · 18
+ :45 UTC\n🏟 U-Power Stadium, Monza\nReferee: Mattia Drigo\nAttendance: 3
+ ,229\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد أفينيو — كأس إيطا
+ ليا | Tomorrow: Monza vs Avellino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × أفينيو | Kick-off in 30 min: Monza vs Avellino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852774@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260814T191500Z
+DTEND:20260814T211500Z
+SUMMARY:Fiorentina vs Benevento (4 - 1) — Coppa Italia
+LOCATION:Stadio Artemio Franchi\, Firenze\, Italy
+GEO:43.780788;11.282712
+URL:https://www.fotmob.com/match/5852774
+DESCRIPTION:⚽ فيورنتينا × بينفينتو (4 - 1)\n🏆 كأس
+  إيطاليا — دور الـ32\n🗓 الجمعة 14 أغسطس 2026 
+ · 22:15 بتوقيت الرياض\n🏟 Stadio Artemio Franchi، Firenze\
+ n⚖️ الحكم: Gianluca Manganiello\n👥 الحضور: 16,626\n—
+ ————\n⚽ Fiorentina v Benevento (4 - 1)\n🏆 Coppa Italia — Ro
+ und of 32\n🗓 Fri 14 Aug 2026 · 19:15 UTC\n🏟 Stadio Artemio Franchi,
+  Firenze\nReferee: Gianluca Manganiello\nAttendance: 16,626\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد بينفينتو — كأ
+ س إيطاليا | Tomorrow: Fiorentina vs Benevento
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × بينفينتو | Kick-off in 30 min: Fiorentina vs Benevento
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852775@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260815T160000Z
+DTEND:20260815T180000Z
+SUMMARY:Catanzaro vs Südtirol (2 - 2) — Coppa Italia
+LOCATION:Stadio Nicola Ceravolo\, Catanzaro\, Italy
+GEO:38.919730;16.587805
+URL:https://www.fotmob.com/match/5852775
+DESCRIPTION:⚽ كاتانزارو × سودتيرول (2 - 2)\n🏆 كأس
+  إيطاليا — دور الـ32\n🗓 السبت 15 أغسطس 2026 ·
+  19:00 بتوقيت الرياض\n🏟 Stadio Nicola Ceravolo، Catanzaro\
+ n⚖️ الحكم: Claudio Giuseppe Allegretta\n👥 الحضور: 3,302\
+ n—————\n⚽ Catanzaro v Südtirol (2 - 2)\n🏆 Coppa Italia —
+  Round of 32\n🗓 Sat 15 Aug 2026 · 16:00 UTC\n🏟 Stadio Nicola Ceravo
+ lo, Catanzaro\nReferee: Claudio Giuseppe Allegretta\nAttendance: 3,302\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كاتانزارو ضد سودتيرول — كأ
+ س إيطاليا | Tomorrow: Catanzaro vs Südtirol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاتان
+ زارو × سودتيرول | Kick-off in 30 min: Catanzaro vs Südtirol
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852776@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260815T163000Z
+DTEND:20260815T183000Z
+SUMMARY:Udinese vs Padova (1 - 0) — Coppa Italia
+LOCATION:Bluenergy Stadium\, Udine\, Italy
+GEO:46.081644;13.200063
+URL:https://www.fotmob.com/match/5852776
+DESCRIPTION:⚽ أودينيزي × بادوفا (1 - 0)\n🏆 كأس إي
+ طاليا — دور الـ32\n🗓 السبت 15 أغسطس 2026 · 19:3
+ 0 بتوقيت الرياض\n🏟 Bluenergy Stadium، Udine\n⚖️ الح
+ كم: Antonio Rapuano\n👥 الحضور: 4,247\n—————\n⚽ Udin
+ ese v Padova (1 - 0)\n🏆 Coppa Italia — Round of 32\n🗓 Sat 15 Aug 2
+ 026 · 16:30 UTC\n🏟 Bluenergy Stadium, Udine\nReferee: Antonio Rapuano\
+ nAttendance: 4,247\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد بادوفا — كأس إ
+ يطاليا | Tomorrow: Udinese vs Padova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × بادوفا | Kick-off in 30 min: Udinese vs Padova
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852777@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260815T184500Z
+DTEND:20260815T204500Z
+SUMMARY:Venezia vs Modena (3 - 2) — Coppa Italia
+LOCATION:Stadio Pier Luigi Penzo\, Venezia\, Italy
+GEO:45.427798;12.363972
+URL:https://www.fotmob.com/match/5852777
+DESCRIPTION:⚽ فينيزيا × مودينا (3 - 2)\n🏆 كأس إيط
+ اليا — دور الـ32\n🗓 السبت 15 أغسطس 2026 · 21:45 
+ بتوقيت الرياض\n🏟 Stadio Pier Luigi Penzo، Venezia\n⚖️ 
+ الحكم: Maria Sole Ferrieri Caputi\n👥 الحضور: 9,327\n——
+ ———\n⚽ Venezia v Modena (3 - 2)\n🏆 Coppa Italia — Round of 32
+ \n🗓 Sat 15 Aug 2026 · 18:45 UTC\n🏟 Stadio Pier Luigi Penzo, Venezia
+ \nReferee: Maria Sole Ferrieri Caputi\nAttendance: 9,327\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد مودينا — كأس إي
+ طاليا | Tomorrow: Venezia vs Modena
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × مودينا | Kick-off in 30 min: Venezia vs Modena
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852778@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260815T191500Z
+DTEND:20260815T211500Z
+SUMMARY:Torino vs Carrarese (1 - 0) — Coppa Italia
+LOCATION:Stadio Olimpico Grande Torino\, Torino\, Italy
+GEO:45.041752;7.650016
+URL:https://www.fotmob.com/match/5852778
+DESCRIPTION:⚽ تورينو × كارراريسي (1 - 0)\n🏆 كأس إ
+ يطاليا — دور الـ32\n🗓 السبت 15 أغسطس 2026 · 22
+ :15 بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino، Torino
+ \n⚖️ الحكم: Paride Tremolada\n👥 الحضور: 4,000\n———
+ ——\n⚽ Torino v Carrarese (1 - 0)\n🏆 Coppa Italia — Round of 32\
+ n🗓 Sat 15 Aug 2026 · 19:15 UTC\n🏟 Stadio Olimpico Grande Torino, To
+ rino\nReferee: Paride Tremolada\nAttendance: 4,000\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد كارراريسي — كأس 
+ إيطاليا | Tomorrow: Torino vs Carrarese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × كارراريسي | Kick-off in 30 min: Torino vs Carrarese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852779@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260816T160000Z
+DTEND:20260816T180000Z
+SUMMARY:Frosinone vs Juve Stabia (4 - 1) — Coppa Italia
+LOCATION:Stadio Benito Stirpe\, Frosinone\, Italy
+GEO:41.634077;13.321822
+URL:https://www.fotmob.com/match/5852779
+DESCRIPTION:⚽ فروزينوني × جوفي ستابيا (4 - 1)\n🏆 
+ كأس إيطاليا — دور الـ32\n🗓 الأحد 16 أغسطس 2
+ 026 · 19:00 بتوقيت الرياض\n🏟 Stadio Benito Stirpe، Frosin
+ one\n⚖️ الحكم: Marco Di Loreto\n👥 الحضور: 3,475\n——
+ ———\n⚽ Frosinone v Juve Stabia (4 - 1)\n🏆 Coppa Italia — Roun
+ d of 32\n🗓 Sun 16 Aug 2026 · 16:00 UTC\n🏟 Stadio Benito Stirpe, Fro
+ sinone\nReferee: Marco Di Loreto\nAttendance: 3,475\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد جوفي ستابيا —
+  كأس إيطاليا | Tomorrow: Frosinone vs Juve Stabia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × جوفي ستابيا | Kick-off in 30 min: Frosinone vs Juve 
+ Stabia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852780@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260816T163000Z
+DTEND:20260816T183000Z
+SUMMARY:Genoa vs Ascoli (4 - 1) — Coppa Italia
+LOCATION:Stadio Comunale Luigi Ferraris\, Genova\, Italy
+GEO:44.416467;8.952527
+URL:https://www.fotmob.com/match/5852780
+DESCRIPTION:⚽ جنوى × أسكولي (4 - 1)\n🏆 كأس إيطالي
+ ا — دور الـ32\n🗓 الأحد 16 أغسطس 2026 · 19:30 بتو
+ قيت الرياض\n🏟 Stadio Comunale Luigi Ferraris، Genova\n⚖️ 
+ الحكم: Mario Perri\n👥 الحضور: 13,000\n—————\n⚽ G
+ enoa v Ascoli (4 - 1)\n🏆 Coppa Italia — Round of 32\n🗓 Sun 16 Aug 
+ 2026 · 16:30 UTC\n🏟 Stadio Comunale Luigi Ferraris, Genova\nReferee: M
+ ario Perri\nAttendance: 13,000\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد أسكولي — كأس إيطال
+ يا | Tomorrow: Genoa vs Ascoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  أسكولي | Kick-off in 30 min: Genoa vs Ascoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852781@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260816T184500Z
+DTEND:20260816T204500Z
+SUMMARY:Hellas Verona vs Virtus Entella (2 - 2) — Coppa Italia
+LOCATION:Stadio Marcantonio Bentegodi\, Verona\, Italy
+GEO:45.435324;10.968585
+URL:https://www.fotmob.com/match/5852781
+DESCRIPTION:⚽ هيلاس فيرونا × فيرتوس إنتيلا (2 - 2
+ )\n🏆 كأس إيطاليا — دور الـ32\n🗓 الأحد 16 أغ
+ سطس 2026 · 21:45 بتوقيت الرياض\n🏟 Stadio Marcantonio Be
+ ntegodi، Verona\n⚖️ الحكم: Edoardo Mazzoni\n👥 الحضور: 7
+ ,559\n—————\n⚽ Hellas Verona v Virtus Entella (2 - 2)\n🏆 Co
+ ppa Italia — Round of 32\n🗓 Sun 16 Aug 2026 · 18:45 UTC\n🏟 Stadio
+  Marcantonio Bentegodi, Verona\nReferee: Edoardo Mazzoni\nAttendance: 7,55
+ 9\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هيلاس فيرونا ضد فيرتوس إنت
+ يلا — كأس إيطاليا | Tomorrow: Hellas Verona vs Virtus Entel
+ la
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هيلاس 
+ فيرونا × فيرتوس إنتيلا | Kick-off in 30 min: Hellas Ver
+ ona vs Virtus Entella
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852782@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260816T191500Z
+DTEND:20260816T211500Z
+SUMMARY:Lazio vs Mantova (0 - 2) — Coppa Italia
+LOCATION:Stadio Olimpico\, Roma\, Italy
+GEO:41.933948;12.454757
+URL:https://www.fotmob.com/match/5852782
+DESCRIPTION:⚽ لاتسيو × مانتوفيا (0 - 2)\n🏆 كأس إي
+ طاليا — دور الـ32\n🗓 الأحد 16 أغسطس 2026 · 22:1
+ 5 بتوقيت الرياض\n🏟 Stadio Olimpico، Roma\n⚖️ الحك
+ م: Giuseppe Mucera\n👥 الحضور: 6,000\n—————\n⚽ Lazio 
+ v Mantova (0 - 2)\n🏆 Coppa Italia — Round of 32\n🗓 Sun 16 Aug 2026
+  · 19:15 UTC\n🏟 Stadio Olimpico, Roma\nReferee: Giuseppe Mucera\nAtten
+ dance: 6,000\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد مانتوفيا — كأس إ
+ يطاليا | Tomorrow: Lazio vs Mantova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × مانتوفيا | Kick-off in 30 min: Lazio vs Mantova
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852783@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260817T160000Z
+DTEND:20260817T180000Z
+SUMMARY:Pisa vs Empoli (1 - 1) — Coppa Italia
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa\, Italy
+GEO:43.725293;10.400190
+URL:https://www.fotmob.com/match/5852783
+DESCRIPTION:⚽ بيسا × إمبولي (1 - 1)\n🏆 كأس إيطالي
+ ا — دور الـ32\n🗓 الاثنين 17 أغسطس 2026 · 19:00 ب
+ توقيت الرياض\n🏟 Arena Garibaldi - Stadio Romeo Anconetani، 
+ Pisa\n⚖️ الحكم: Andrea Zanotti\n👥 الحضور: 7,003\n——
+ ———\n⚽ Pisa v Empoli (1 - 1)\n🏆 Coppa Italia — Round of 32\n
+ 🗓 Mon 17 Aug 2026 · 16:00 UTC\n🏟 Arena Garibaldi - Stadio Romeo Anc
+ onetani, Pisa\nReferee: Andrea Zanotti\nAttendance: 7,003\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيسا ضد إمبولي — كأس إيطال
+ يا | Tomorrow: Pisa vs Empoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيسا ×
+  إمبولي | Kick-off in 30 min: Pisa vs Empoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852784@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260817T163000Z
+DTEND:20260817T183000Z
+SUMMARY:Sassuolo vs Cesena (3 - 0) — Coppa Italia
+LOCATION:MAPEI Stadium - Città del Tricolore\, Reggio Emilia\, Italy
+GEO:44.714637;10.649711
+URL:https://www.fotmob.com/match/5852784
+DESCRIPTION:⚽ ساسولو × تشيزينا (3 - 0)\n🏆 كأس إيط
+ اليا — دور الـ32\n🗓 الاثنين 17 أغسطس 2026 · 19
+ :30 بتوقيت الرياض\n🏟 MAPEI Stadium - Città del Tricolore،
+  Reggio Emilia\n⚖️ الحكم: Niccolò Turrini\n👥 الحضور: 4,
+ 500\n—————\n⚽ Sassuolo v Cesena (3 - 0)\n🏆 Coppa Italia —
+  Round of 32\n🗓 Mon 17 Aug 2026 · 16:30 UTC\n🏟 MAPEI Stadium - Citt
+ à del Tricolore, Reggio Emilia\nReferee: Niccolò Turrini\nAttendance: 4,
+ 500\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد تشيزينا — كأس إي
+ طاليا | Tomorrow: Sassuolo vs Cesena
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × تشيزينا | Kick-off in 30 min: Sassuolo vs Cesena
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852785@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260817T184500Z
+DTEND:20260817T204500Z
+SUMMARY:Cremonese vs Sampdoria (2 - 0) — Coppa Italia
+LOCATION:Stadio Marco Druso\, Bolzano (Bozen)\, Italy
+GEO:46.492026;11.346055
+URL:https://www.fotmob.com/match/5852785
+DESCRIPTION:⚽ كريمونيسي × سامبدوريا (2 - 0)\n🏆 كأ
+ س إيطاليا — دور الـ32\n🗓 الاثنين 17 أغسطس 2
+ 026 · 21:45 بتوقيت الرياض\n🏟 Stadio Marco Druso، Bolzano 
+ (Bozen)\n⚖️ الحكم: Daniele Perenzoni\n👥 الحضور: 1,048\n
+ —————\n⚽ Cremonese v Sampdoria (2 - 0)\n🏆 Coppa Italia — 
+ Round of 32\n🗓 Mon 17 Aug 2026 · 18:45 UTC\n🏟 Stadio Marco Druso, B
+ olzano (Bozen)\nReferee: Daniele Perenzoni\nAttendance: 1,048\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريمونيسي ضد سامبدوريا — ك
+ أس إيطاليا | Tomorrow: Cremonese vs Sampdoria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريمو
+ نيسي × سامبدوريا | Kick-off in 30 min: Cremonese vs Sampdori
+ a
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852786@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260817T191500Z
+DTEND:20260817T211500Z
+SUMMARY:Palermo vs Lecce (2 - 0) — Coppa Italia
+LOCATION:Stadio Renzo Barbera\, Palermo\, Italy
+GEO:38.152759;13.342218
+URL:https://www.fotmob.com/match/5852786
+DESCRIPTION:⚽ باليرمو × ليتشي (2 - 0)\n🏆 كأس إيطا
+ ليا — دور الـ32\n🗓 الاثنين 17 أغسطس 2026 · 22:1
+ 5 بتوقيت الرياض\n🏟 Stadio Renzo Barbera، Palermo\n⚖️ 
+ الحكم: Alberto Arena\n👥 الحضور: 33,009\n—————\n⚽
+  Palermo v Lecce (2 - 0)\n🏆 Coppa Italia — Round of 32\n🗓 Mon 17 A
+ ug 2026 · 19:15 UTC\n🏟 Stadio Renzo Barbera, Palermo\nReferee: Alberto
+  Arena\nAttendance: 33,009\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باليرمو ضد ليتشي — كأس إيط
+ اليا | Tomorrow: Palermo vs Lecce
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بالير
+ مو × ليتشي | Kick-off in 30 min: Palermo vs Lecce
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003655@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260901T160000Z
+DTEND:20260901T180000Z
+SUMMARY:Parma vs Cremonese (0 - 2) — Coppa Italia
+LOCATION:Stadio Ennio Tardini\, Parma\, Italy
+GEO:44.794905;10.338387
+URL:https://www.fotmob.com/match/6003655
+DESCRIPTION:⚽ بارما × كريمونيسي (0 - 2)\n🏆 كأس إي
+ طاليا — دور الـ32\n🗓 الثلاثاء 1 سبتمبر 2026 
+ · 19:00 بتوقيت الرياض\n🏟 Stadio Ennio Tardini، Parma\n⚖
+ ️ الحكم: Kevin Bonacina\n—————\n⚽ Parma v Cremonese (0 
+ - 2)\n🏆 Coppa Italia — Round of 32\n🗓 Tue 01 Sep 2026 · 16:00 UTC
+ \n🏟 Stadio Ennio Tardini, Parma\nReferee: Kevin Bonacina\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد كريمونيسي — كأس إ
+ يطاليا | Tomorrow: Parma vs Cremonese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × كريمونيسي | Kick-off in 30 min: Parma vs Cremonese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003654@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260901T190000Z
+DTEND:20260901T210000Z
+SUMMARY:Torino vs Monza (0 - 1) — Coppa Italia
+LOCATION:Stadio Olimpico Grande Torino\, Torino\, Italy
+GEO:45.041752;7.650016
+URL:https://www.fotmob.com/match/6003654
+DESCRIPTION:⚽ تورينو × مونزا (0 - 1)\n🏆 كأس إيطال
+ يا — دور الـ32\n🗓 الثلاثاء 1 سبتمبر 2026 · 22:
+ 00 بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino، Torino\
+ n⚖️ الحكم: Daniele Perenzoni\n—————\n⚽ Torino v Monza
+  (0 - 1)\n🏆 Coppa Italia — Round of 32\n🗓 Tue 01 Sep 2026 · 19:00
+  UTC\n🏟 Stadio Olimpico Grande Torino, Torino\nReferee: Daniele Perenzo
+ ni\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد مونزا — كأس إيطا
+ ليا | Tomorrow: Torino vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × مونزا | Kick-off in 30 min: Torino vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003657@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260902T130000Z
+DTEND:20260902T150000Z
+SUMMARY:Sassuolo vs Frosinone (1 - 1) — Coppa Italia
+LOCATION:MAPEI Stadium - Città del Tricolore\, Reggio Emilia\, Italy
+GEO:44.714637;10.649711
+URL:https://www.fotmob.com/match/6003657
+DESCRIPTION:⚽ ساسولو × فروزينوني (1 - 1)\n🏆 كأس إ
+ يطاليا — دور الـ32\n🗓 الأربعاء 2 سبتمبر 202
+ 6 · 16:00 بتوقيت الرياض\n🏟 MAPEI Stadium - Città del Tric
+ olore، Reggio Emilia\n⚖️ الحكم: Andrea Calzavara\n————
+ —\n⚽ Sassuolo v Frosinone (1 - 1)\n🏆 Coppa Italia — Round of 32\n
+ 🗓 Wed 02 Sep 2026 · 13:00 UTC\n🏟 MAPEI Stadium - Città del Tricolo
+ re, Reggio Emilia\nReferee: Andrea Calzavara\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد فروزينوني — كأس 
+ إيطاليا | Tomorrow: Sassuolo vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × فروزينوني | Kick-off in 30 min: Sassuolo vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003658@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260902T160000Z
+DTEND:20260902T180000Z
+SUMMARY:Udinese vs Venezia (2 - 1) — Coppa Italia
+LOCATION:Bluenergy Stadium\, Udine\, Italy
+GEO:46.081644;13.200063
+URL:https://www.fotmob.com/match/6003658
+DESCRIPTION:⚽ أودينيزي × فينيزيا (2 - 1)\n🏆 كأس إ
+ يطاليا — دور الـ32\n🗓 الأربعاء 2 سبتمبر 202
+ 6 · 19:00 بتوقيت الرياض\n🏟 Bluenergy Stadium، Udine\n⚖
+ ️ الحكم: Matteo Marchetti\n—————\n⚽ Udinese v Venezia (
+ 2 - 1)\n🏆 Coppa Italia — Round of 32\n🗓 Wed 02 Sep 2026 · 16:00 U
+ TC\n🏟 Bluenergy Stadium, Udine\nReferee: Matteo Marchetti\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد فينيزيا — كأس 
+ إيطاليا | Tomorrow: Udinese vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × فينيزيا | Kick-off in 30 min: Udinese vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003653@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260903T160000Z
+DTEND:20260903T180000Z
+SUMMARY:Palermo vs Mantova (5 - 2) — Coppa Italia
+LOCATION:Stadio Renzo Barbera\, Palermo\, Italy
+GEO:38.152759;13.342218
+URL:https://www.fotmob.com/match/6003653
+DESCRIPTION:⚽ باليرمو × مانتوفيا (5 - 2)\n🏆 كأس إ
+ يطاليا — دور الـ32\n🗓 الخميس 3 سبتمبر 2026 ·
+  19:00 بتوقيت الرياض\n🏟 Stadio Renzo Barbera، Palermo\n⚖
+ ️ الحكم: Davide Di Marco\n—————\n⚽ Palermo v Mantova (5
+  - 2)\n🏆 Coppa Italia — Round of 32\n🗓 Thu 03 Sep 2026 · 16:00 UT
+ C\n🏟 Stadio Renzo Barbera, Palermo\nReferee: Davide Di Marco\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باليرمو ضد مانتوفيا — كأس 
+ إيطاليا | Tomorrow: Palermo vs Mantova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بالير
+ مو × مانتوفيا | Kick-off in 30 min: Palermo vs Mantova
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003656@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260903T190000Z
+DTEND:20260903T210000Z
+SUMMARY:Cagliari vs Hellas Verona (1 - 2) — Coppa Italia
+LOCATION:Unipol Domus\, Cagliari\, Italy
+GEO:39.199802;9.137473
+URL:https://www.fotmob.com/match/6003656
+DESCRIPTION:⚽ كالياري × هيلاس فيرونا (1 - 2)\n🏆 ك
+ أس إيطاليا — دور الـ32\n🗓 الخميس 3 سبتمبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 Unipol Domus، Cagliari\n⚖
+ ️ الحكم: Andrea Zanotti\n—————\n⚽ Cagliari v Hellas Ver
+ ona (1 - 2)\n🏆 Coppa Italia — Round of 32\n🗓 Thu 03 Sep 2026 · 19
+ :00 UTC\n🏟 Unipol Domus, Cagliari\nReferee: Andrea Zanotti\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد هيلاس فيرونا — 
+ كأس إيطاليا | Tomorrow: Cagliari vs Hellas Verona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × هيلاس فيرونا | Kick-off in 30 min: Cagliari vs Hellas V
+ erona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003652@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260915T160000Z
+DTEND:20260915T180000Z
+SUMMARY:Genoa vs Südtirol — Coppa Italia
+LOCATION:Stadio Comunale Luigi Ferraris\, Genova\, Italy
+GEO:44.416467;8.952527
+URL:https://www.fotmob.com/match/6003652
+DESCRIPTION:⚽ جنوى × سودتيرول\n🏆 كأس إيطاليا 
+ — دور الـ32\n🗓 الثلاثاء 15 سبتمبر 2026 · 19:00 
+ بتوقيت الرياض\n🏟 Stadio Comunale Luigi Ferraris، Genova\n
+ —————\n⚽ Genoa v Südtirol\n🏆 Coppa Italia — Round of 32\
+ n🗓 Tue 15 Sep 2026 · 16:00 UTC\n🏟 Stadio Comunale Luigi Ferraris, G
+ enova\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد سودتيرول — كأس إيط
+ اليا | Tomorrow: Genoa vs Südtirol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  سودتيرول | Kick-off in 30 min: Genoa vs Südtirol
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003659@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260915T190000Z
+DTEND:20260915T210000Z
+SUMMARY:Fiorentina vs Pisa — Coppa Italia
+LOCATION:Stadio Artemio Franchi\, Firenze\, Italy
+GEO:43.780788;11.282712
+URL:https://www.fotmob.com/match/6003659
+DESCRIPTION:⚽ فيورنتينا × بيسا\n🏆 كأس إيطاليا 
+ — دور الـ32\n🗓 الثلاثاء 15 سبتمبر 2026 · 22:00 
+ بتوقيت الرياض\n🏟 Stadio Artemio Franchi، Firenze\n——
+ ———\n⚽ Fiorentina v Pisa\n🏆 Coppa Italia — Round of 32\n🗓 
+ Tue 15 Sep 2026 · 19:00 UTC\n🏟 Stadio Artemio Franchi, Firenze\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد بيسا — كأس إي
+ طاليا | Tomorrow: Fiorentina vs Pisa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × بيسا | Kick-off in 30 min: Fiorentina vs Pisa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003676@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T170000Z
+DTEND:20261202T190000Z
+SUMMARY:Bologna vs Palermo — Coppa Italia
+URL:https://www.fotmob.com/match/6003676
+DESCRIPTION:⚽ بولونيا × باليرمو\n🏆 كأس إيطالي
+ ا — دور الـ16\n🗓 الأربعاء 2 ديسمبر 2026 · 20:00
+  بتوقيت الرياض\n—————\n⚽ Bologna v Palermo\n🏆 C
+ oppa Italia — Round of 16\n🗓 Wed 02 Dec 2026 · 17:00 UTC\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد باليرمو — كأس إ
+ يطاليا | Tomorrow: Bologna vs Palermo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × باليرمو | Kick-off in 30 min: Bologna vs Palermo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003678@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T170000Z
+DTEND:20261202T190000Z
+SUMMARY:Cremonese vs Como — Coppa Italia
+LOCATION:Stadio Marco Druso\, Bolzano (Bozen)\, Italy
+GEO:46.492026;11.346055
+URL:https://www.fotmob.com/match/6003678
+DESCRIPTION:⚽ كريمونيسي × كومو\n🏆 كأس إيطاليا 
+ — دور الـ16\n🗓 الأربعاء 2 ديسمبر 2026 · 20:00 ب
+ توقيت الرياض\n🏟 Stadio Marco Druso، Bolzano (Bozen)\n——
+ ———\n⚽ Cremonese v Como\n🏆 Coppa Italia — Round of 16\n🗓 W
+ ed 02 Dec 2026 · 17:00 UTC\n🏟 Stadio Marco Druso, Bolzano (Bozen)\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريمونيسي ضد كومو — كأس إي
+ طاليا | Tomorrow: Cremonese vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريمو
+ نيسي × كومو | Kick-off in 30 min: Cremonese vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003680@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T170000Z
+DTEND:20261202T190000Z
+SUMMARY:Juventus vs Sassuolo — Coppa Italia
+URL:https://www.fotmob.com/match/6003680
+DESCRIPTION:⚽ يوفنتوس × ساسولو\n🏆 كأس إيطاليا 
+ — دور الـ16\n🗓 الأربعاء 2 ديسمبر 2026 · 20:00 ب
+ توقيت الرياض\n—————\n⚽ Juventus v Sassuolo\n🏆 Co
+ ppa Italia — Round of 16\n🗓 Wed 02 Dec 2026 · 17:00 UTC\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد ساسولو — كأس إي
+ طاليا | Tomorrow: Juventus vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × ساسولو | Kick-off in 30 min: Juventus vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003677@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T170000Z
+DTEND:20261202T190000Z
+SUMMARY:Monza vs Milan — Coppa Italia
+LOCATION:U-Power Stadium\, Monza\, Italy
+GEO:45.583064;9.308116
+URL:https://www.fotmob.com/match/6003677
+DESCRIPTION:⚽ مونزا × ميلان\n🏆 كأس إيطاليا — د
+ ور الـ16\n🗓 الأربعاء 2 ديسمبر 2026 · 20:00 بتوق
+ يت الرياض\n🏟 U-Power Stadium، Monza\n—————\n⚽ Monz
+ a v Milan\n🏆 Coppa Italia — Round of 16\n🗓 Wed 02 Dec 2026 · 17:0
+ 0 UTC\n🏟 U-Power Stadium, Monza\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد ميلان — كأس إيطال
+ يا | Tomorrow: Monza vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × ميلان | Kick-off in 30 min: Monza vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003679@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T170000Z
+DTEND:20261202T190000Z
+SUMMARY:Roma vs Hellas Verona — Coppa Italia
+URL:https://www.fotmob.com/match/6003679
+DESCRIPTION:⚽ روما × هيلاس فيرونا\n🏆 كأس إيطال
+ يا — دور الـ16\n🗓 الأربعاء 2 ديسمبر 2026 · 20:
+ 00 بتوقيت الرياض\n—————\n⚽ Roma v Hellas Verona\n
+ 🏆 Coppa Italia — Round of 16\n🗓 Wed 02 Dec 2026 · 17:00 UTC\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد هيلاس فيرونا — كأس 
+ إيطاليا | Tomorrow: Roma vs Hellas Verona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  هيلاس فيرونا | Kick-off in 30 min: Roma vs Hellas Verona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003681@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T170000Z
+DTEND:20261202T190000Z
+SUMMARY:Udinese vs Atalanta — Coppa Italia
+LOCATION:Bluenergy Stadium\, Udine\, Italy
+GEO:46.081644;13.200063
+URL:https://www.fotmob.com/match/6003681
+DESCRIPTION:⚽ أودينيزي × أتالانتا\n🏆 كأس إيطا
+ ليا — دور الـ16\n🗓 الأربعاء 2 ديسمبر 2026 · 2
+ 0:00 بتوقيت الرياض\n🏟 Bluenergy Stadium، Udine\n———
+ ——\n⚽ Udinese v Atalanta\n🏆 Coppa Italia — Round of 16\n🗓 We
+ d 02 Dec 2026 · 17:00 UTC\n🏟 Bluenergy Stadium, Udine\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد أتالانتا — كأس
+  إيطاليا | Tomorrow: Udinese vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × أتالانتا | Kick-off in 30 min: Udinese vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003700@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270203T170000Z
+DTEND:20270203T190000Z
+SUMMARY:Winner EF1 vs Winner EF2 — Coppa Italia
+URL:https://www.fotmob.com/match/6003700
+DESCRIPTION:⚽ Winner EF1 × Winner EF2\n🏆 كأس إيطاليا — ر
+ بع النهائي\n🗓 الأربعاء 3 فبراير 2027 · 20:00 ب
+ توقيت الرياض\n—————\n⚽ Winner EF1 v Winner EF2\n
+ 🏆 Coppa Italia — Quarter-Finals\n🗓 Wed 03 Feb 2027 · 17:00 UTC\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Winner EF1 ضد Winner EF2 — كأس إيطال
+ يا | Tomorrow: Winner EF1 vs Winner EF2
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Winner EF1 
+ × Winner EF2 | Kick-off in 30 min: Winner EF1 vs Winner EF2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003701@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270203T170000Z
+DTEND:20270203T190000Z
+SUMMARY:Winner EF3 vs Winner EF4 — Coppa Italia
+URL:https://www.fotmob.com/match/6003701
+DESCRIPTION:⚽ Winner EF3 × Winner EF4\n🏆 كأس إيطاليا — ر
+ بع النهائي\n🗓 الأربعاء 3 فبراير 2027 · 20:00 ب
+ توقيت الرياض\n—————\n⚽ Winner EF3 v Winner EF4\n
+ 🏆 Coppa Italia — Quarter-Finals\n🗓 Wed 03 Feb 2027 · 17:00 UTC\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Winner EF3 ضد Winner EF4 — كأس إيطال
+ يا | Tomorrow: Winner EF3 vs Winner EF4
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Winner EF3 
+ × Winner EF4 | Kick-off in 30 min: Winner EF3 vs Winner EF4
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003702@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270203T170000Z
+DTEND:20270203T190000Z
+SUMMARY:Winner EF5 vs Winner EF6 — Coppa Italia
+URL:https://www.fotmob.com/match/6003702
+DESCRIPTION:⚽ Winner EF5 × Winner EF6\n🏆 كأس إيطاليا — ر
+ بع النهائي\n🗓 الأربعاء 3 فبراير 2027 · 20:00 ب
+ توقيت الرياض\n—————\n⚽ Winner EF5 v Winner EF6\n
+ 🏆 Coppa Italia — Quarter-Finals\n🗓 Wed 03 Feb 2027 · 17:00 UTC\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Winner EF5 ضد Winner EF6 — كأس إيطال
+ يا | Tomorrow: Winner EF5 vs Winner EF6
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Winner EF5 
+ × Winner EF6 | Kick-off in 30 min: Winner EF5 vs Winner EF6
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003703@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270203T170000Z
+DTEND:20270203T190000Z
+SUMMARY:Winner EF7 vs Winner EF8 — Coppa Italia
+URL:https://www.fotmob.com/match/6003703
+DESCRIPTION:⚽ Winner EF7 × Winner EF8\n🏆 كأس إيطاليا — ر
+ بع النهائي\n🗓 الأربعاء 3 فبراير 2027 · 20:00 ب
+ توقيت الرياض\n—————\n⚽ Winner EF7 v Winner EF8\n
+ 🏆 Coppa Italia — Quarter-Finals\n🗓 Wed 03 Feb 2027 · 17:00 UTC\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Winner EF7 ضد Winner EF8 — كأس إيطال
+ يا | Tomorrow: Winner EF7 vs Winner EF8
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Winner EF7 
+ × Winner EF8 | Kick-off in 30 min: Winner EF7 vs Winner EF8
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003704@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270303T170000Z
+DTEND:20270303T190000Z
+SUMMARY:Winner QF 1 vs Winner QF 2 — Coppa Italia
+URL:https://www.fotmob.com/match/6003704
+DESCRIPTION:⚽ Winner QF 1 × Winner QF 2\n🏆 كأس إيطاليا — 
+ نصف النهائي\n🗓 الأربعاء 3 مارس 2027 · 20:00 بت
+ وقيت الرياض\n—————\n⚽ Winner QF 1 v Winner QF 2\n
+ 🏆 Coppa Italia — Semi-Finals\n🗓 Wed 03 Mar 2027 · 17:00 UTC\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Winner QF 1 ضد Winner QF 2 — كأس إيطا
+ ليا | Tomorrow: Winner QF 1 vs Winner QF 2
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Winner QF 1
+  × Winner QF 2 | Kick-off in 30 min: Winner QF 1 vs Winner QF 2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003705@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270303T170000Z
+DTEND:20270303T190000Z
+SUMMARY:Winner QF 3 vs Winner QF 4 — Coppa Italia
+URL:https://www.fotmob.com/match/6003705
+DESCRIPTION:⚽ Winner QF 3 × Winner QF 4\n🏆 كأس إيطاليا — 
+ نصف النهائي\n🗓 الأربعاء 3 مارس 2027 · 20:00 بت
+ وقيت الرياض\n—————\n⚽ Winner QF 3 v Winner QF 4\n
+ 🏆 Coppa Italia — Semi-Finals\n🗓 Wed 03 Mar 2027 · 17:00 UTC\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Winner QF 3 ضد Winner QF 4 — كأس إيطا
+ ليا | Tomorrow: Winner QF 3 vs Winner QF 4
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Winner QF 3
+  × Winner QF 4 | Kick-off in 30 min: Winner QF 3 vs Winner QF 4
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003706@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270420T160000Z
+DTEND:20270420T180000Z
+SUMMARY:Winner QF 2 vs Winner QF 1 — Coppa Italia
+URL:https://www.fotmob.com/match/6003706
+DESCRIPTION:⚽ Winner QF 2 × Winner QF 1\n🏆 كأس إيطاليا — 
+ نصف النهائي\n🗓 الثلاثاء 20 أبريل 2027 · 19:00 
+ بتوقيت الرياض\n—————\n⚽ Winner QF 2 v Winner QF 1\
+ n🏆 Coppa Italia — Semi-Finals\n🗓 Tue 20 Apr 2027 · 16:00 UTC\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Winner QF 2 ضد Winner QF 1 — كأس إيطا
+ ليا | Tomorrow: Winner QF 2 vs Winner QF 1
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Winner QF 2
+  × Winner QF 1 | Kick-off in 30 min: Winner QF 2 vs Winner QF 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003707@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270420T160000Z
+DTEND:20270420T180000Z
+SUMMARY:Winner QF 4 vs Winner QF 3 — Coppa Italia
+URL:https://www.fotmob.com/match/6003707
+DESCRIPTION:⚽ Winner QF 4 × Winner QF 3\n🏆 كأس إيطاليا — 
+ نصف النهائي\n🗓 الثلاثاء 20 أبريل 2027 · 19:00 
+ بتوقيت الرياض\n—————\n⚽ Winner QF 4 v Winner QF 3\
+ n🏆 Coppa Italia — Semi-Finals\n🗓 Tue 20 Apr 2027 · 16:00 UTC\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Winner QF 4 ضد Winner QF 3 — كأس إيطا
+ ليا | Tomorrow: Winner QF 4 vs Winner QF 3
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Winner QF 4
+  × Winner QF 3 | Kick-off in 30 min: Winner QF 4 vs Winner QF 3
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003708@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270519T160000Z
+DTEND:20270519T180000Z
+SUMMARY:Winner SF 1 vs Winner SF 2 — Coppa Italia
+URL:https://www.fotmob.com/match/6003708
+DESCRIPTION:⚽ Winner SF 1 × Winner SF 2\n🏆 كأس إيطاليا — 
+ النهائي\n🗓 الأربعاء 19 مايو 2027 · 19:00 بتوقي
+ ت الرياض\n—————\n⚽ Winner SF 1 v Winner SF 2\n🏆 Copp
+ a Italia — Final\n🗓 Wed 19 May 2027 · 16:00 UTC\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Winner SF 1 ضد Winner SF 2 — كأس إيطا
+ ليا | Tomorrow: Winner SF 1 vs Winner SF 2
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Winner SF 1
+  × Winner SF 2 | Kick-off in 30 min: Winner SF 1 vs Winner SF 2
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Atlètic Lleida — Copa del Rey Fixtures | أتلتيك 
+ يدا — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Atlètic Lleida — all matches in Copa del Rey\, exact UTC ki
+ ckoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-0
+ 5T19:31:10Z.  •  أتلتيك يدا — جميع المباريات ف
+ ي كأس ملك إسبانيا بتوقيت UTC الدقيق مع الم
+ لاعب والقنوات الناقلة. المصدر: FotMob + 365scores
+  · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4996007@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251030T200000Z
+DTEND:20251030T220000Z
+SUMMARY:Atlètic Lleida vs Espanyol (1 - 2) — Copa del Rey
+LOCATION:Camp d'Esports de Lleida\, Lleida\, Spain
+GEO:41.621305;0.614247
+URL:https://www.fotmob.com/match/4996007
+DESCRIPTION:⚽ أتلتيك يدا × إسبانيول (1 - 2)\n🏆 كأ
+ س ملك إسبانيا — الدور الأول\n🗓 الخميس 30 
+ أكتوبر 2025 · 23:00 بتوقيت الرياض\n🏟 Camp d'Esports 
+ de Lleida، Lleida\n⚖️ الحكم: Víctor García Verdura\n👥 ال
+ حضور: 7,000\n—————\n⚽ Atlètic Lleida v Espanyol (1 - 2)\n
+ 🏆 Copa del Rey — Round 1\n🗓 Thu 30 Oct 2025 · 20:00 UTC\n🏟 Cam
+ p d'Esports de Lleida, Lleida\nReferee: Víctor García Verdura\nAttendanc
+ e: 7,000\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك يدا ضد إسبانيول — ك
+ أس ملك إسبانيا | Tomorrow: Atlètic Lleida vs Espanyol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك يدا × إسبانيول | Kick-off in 30 min: Atlètic Lleida vs Esp
+ anyol
+END:VALARM
+END:VEVENT
+END:VCALENDAR

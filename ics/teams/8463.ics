@@ -1,0 +1,1435 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Leeds United — Premier League & FA Cup Fixtures | ليد
+ ز يونايتد — مباريات الدوري الإنجليزي ال
+ ممتاز وكأس الاتحاد الإنجليزي
+X-WR-CALDESC:Leeds United — all matches in Premier League & FA Cup\, exac
+ t UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2
+ 026-09-05T19:31:10Z.  •  ليدز يونايتد — جميع المبا
+ ريات في الدوري الإنجليزي الممتاز وكأس ال
+ اتحاد الإنجليزي بتوقيت UTC الدقيق مع المل
+ اعب والقنوات الناقلة. المصدر: FotMob + 365scores 
+ · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5795367@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T140000Z
+DTEND:20260822T160000Z
+SUMMARY:Nottingham Forest vs Leeds United (0 - 1) — Premier League
+LOCATION:The City Ground\, Nottingham\, Nottinghamshire\, England
+GEO:52.939913;-1.132894
+URL:https://www.fotmob.com/match/5795367
+DESCRIPTION:⚽ نوتنجهام فورست × ليدز يونايتد (0 -
+  1)\n🏆 الدوري الإنجليزي الممتاز — الجولة 
+ 1\n🗓 السبت 22 أغسطس 2026 · 17:00 بتوقيت الرياض\n
+ 🏟 The City Ground، Nottingham, Nottinghamshire\n⚖️ الحكم: Rob
+ ert Jones\n👥 الحضور: 30,739\n—————\n⚽ Nottingham Fore
+ st v Leeds United (0 - 1)\n🏆 Premier League — Matchday 1\n🗓 Sat 22
+  Aug 2026 · 14:00 UTC\n🏟 The City Ground, Nottingham, Nottinghamshire\
+ nReferee: Robert Jones\nAttendance: 30,739\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد ليدز يون
+ ايتد — الدوري الإنجليزي الممتاز | Tomorrow: No
+ ttingham Forest vs Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × ليدز يونايتد | Kick-off in 30 min: Notting
+ ham Forest vs Leeds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795430@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T130000Z
+DTEND:20260830T150000Z
+SUMMARY:Leeds United vs Brentford (1 - 1) — Premier League
+LOCATION:Elland Road\, Leeds\, West Yorkshire\, England
+GEO:53.777834;-1.572279
+URL:https://www.fotmob.com/match/5795430
+DESCRIPTION:⚽ ليدز يونايتد × برينتفورد (1 - 1)\n🏆
+  الدوري الإنجليزي الممتاز — الجولة 2\n🗓 
+ الأحد 30 أغسطس 2026 · 16:00 بتوقيت الرياض\n🏟 Ell
+ and Road، Leeds, West Yorkshire\n⚖️ الحكم: Tony Harrington\n—
+ ————\n⚽ Leeds United v Brentford (1 - 1)\n🏆 Premier League 
+ — Matchday 2\n🗓 Sun 30 Aug 2026 · 13:00 UTC\n🏟 Elland Road, Leeds
+ , West Yorkshire\nReferee: Tony Harrington\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد برينتفورد 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Leeds Unite
+ d vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × برينتفورد | Kick-off in 30 min: Leeds United vs B
+ rentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795437@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T140000Z
+DTEND:20260905T160000Z
+SUMMARY:Brighton & Hove Albion vs Leeds United (1 - 1) — Premier League
+LOCATION:American Express Stadium\, Falmer\, East Sussex\, England
+GEO:50.861580;-0.083642
+URL:https://www.fotmob.com/match/5795437
+DESCRIPTION:⚽ برايتون × ليدز يونايتد (1 - 1)\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 3\n🗓 ال
+ سبت 5 سبتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Americ
+ an Express Stadium، Falmer, East Sussex\n📺 beIN Sports 3 HD\n⚖️ ا
+ لحكم: Stuart Attwell\n—————\n⚽ Brighton & Hove Albion v Le
+ eds United (1 - 1)\n🏆 Premier League — Matchday 3\n🗓 Sat 05 Sep 20
+ 26 · 14:00 UTC\n🏟 American Express Stadium, Falmer, East Sussex\n📺 
+ beIN Sports 3 HD\nReferee: Stuart Attwell\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برايتون ضد ليدز يونايتد — 
+ الدوري الإنجليزي الممتاز — 📺 beIN Sports 3 HD |
+  Tomorrow: Brighton & Hove Albion vs Leeds United | TV: beIN Sports 3 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برايت
+ ون × ليدز يونايتد — 📺 beIN Sports 3 HD | Kick-off in 30
+  min: Brighton & Hove Albion vs Leeds United | TV: beIN Sports 3 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795450@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260914T190000Z
+DTEND:20260914T210000Z
+SUMMARY:Leeds United vs Newcastle United — Premier League
+LOCATION:Elland Road\, Leeds\, West Yorkshire\, England
+GEO:53.777834;-1.572279
+URL:https://www.fotmob.com/match/5795450
+DESCRIPTION:⚽ ليدز يونايتد × نيوكاسل يونايتد\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 4\n
+ 🗓 الاثنين 14 سبتمبر 2026 · 22:00 بتوقيت الريا
+ ض\n🏟 Elland Road، Leeds, West Yorkshire\n—————\n⚽ Leeds U
+ nited v Newcastle United\n🏆 Premier League — Matchday 4\n🗓 Mon 14 
+ Sep 2026 · 19:00 UTC\n🏟 Elland Road, Leeds, West Yorkshire\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد نيوكاسل يو
+ نايتد — الدوري الإنجليزي الممتاز | Tomorrow: 
+ Leeds United vs Newcastle United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × نيوكاسل يونايتد | Kick-off in 30 min: Leeds 
+ United vs Newcastle United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795460@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:Leeds United vs Crystal Palace — Premier League
+LOCATION:Elland Road\, Leeds\, West Yorkshire\, England
+GEO:53.777834;-1.572279
+URL:https://www.fotmob.com/match/5795460
+DESCRIPTION:⚽ ليدز يونايتد × كريستال بالاس\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 5\n🗓 ا
+ لأحد 20 سبتمبر 2026 · 16:00 بتوقيت الرياض\n🏟 Ell
+ and Road، Leeds, West Yorkshire\n—————\n⚽ Leeds United v Crys
+ tal Palace\n🏆 Premier League — Matchday 5\n🗓 Sun 20 Sep 2026 · 13
+ :00 UTC\n🏟 Elland Road, Leeds, West Yorkshire\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد كريستال با
+ لاس — الدوري الإنجليزي الممتاز | Tomorrow: Leed
+ s United vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × كريستال بالاس | Kick-off in 30 min: Leeds Unit
+ ed vs Crystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795465@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T113000Z
+DTEND:20261010T133000Z
+SUMMARY:Arsenal vs Leeds United — Premier League
+LOCATION:Emirates Stadium\, London\, England
+GEO:51.555075;-0.108458
+URL:https://www.fotmob.com/match/5795465
+DESCRIPTION:⚽ أرسنال × ليدز يونايتد\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 6\n🗓 السبت 10 
+ أكتوبر 2026 · 14:30 بتوقيت الرياض\n🏟 Emirates Stadiu
+ m، London\n—————\n⚽ Arsenal v Leeds United\n🏆 Premier Leag
+ ue — Matchday 6\n🗓 Sat 10 Oct 2026 · 11:30 UTC\n🏟 Emirates Stadiu
+ m, London\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد ليدز يونايتد — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Arsenal vs Leeds 
+ United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × ليدز يونايتد | Kick-off in 30 min: Arsenal vs Leeds Unite
+ d
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795480@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Leeds United vs Manchester United — Premier League
+LOCATION:Elland Road\, Leeds\, West Yorkshire\, England
+GEO:53.777834;-1.572279
+URL:https://www.fotmob.com/match/5795480
+DESCRIPTION:⚽ ليدز يونايتد × مانشستر يونايتد\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 7\n
+ 🗓 الأحد 18 أكتوبر 2026 · 16:00 بتوقيت الرياض\n
+ 🏟 Elland Road، Leeds, West Yorkshire\n—————\n⚽ Leeds Unite
+ d v Manchester United\n🏆 Premier League — Matchday 7\n🗓 Sun 18 Oct
+  2026 · 13:00 UTC\n🏟 Elland Road, Leeds, West Yorkshire\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد مانشستر يو
+ نايتد — الدوري الإنجليزي الممتاز | Tomorrow: 
+ Leeds United vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × مانشستر يونايتد | Kick-off in 30 min: Leeds 
+ United vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795494@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T163000Z
+DTEND:20261025T183000Z
+SUMMARY:Sunderland vs Leeds United — Premier League
+LOCATION:Stadium of Light\, Sunderland\, England
+GEO:54.914422;-1.388177
+URL:https://www.fotmob.com/match/5795494
+DESCRIPTION:⚽ سندرلاند × ليدز يونايتد\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 8\n🗓 الأحد
+  25 أكتوبر 2026 · 19:30 بتوقيت الرياض\n🏟 Stadium of 
+ Light، Sunderland\n—————\n⚽ Sunderland v Leeds United\n🏆 P
+ remier League — Matchday 8\n🗓 Sun 25 Oct 2026 · 16:30 UTC\n🏟 Stad
+ ium of Light, Sunderland\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد ليدز يونايتد —
+  الدوري الإنجليزي الممتاز | Tomorrow: Sunderland vs 
+ Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × ليدز يونايتد | Kick-off in 30 min: Sunderland vs Leed
+ s United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795495@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:AFC Bournemouth vs Leeds United — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795495
+DESCRIPTION:⚽ بورنموث × ليدز يونايتد\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 9\n🗓 السبت 3
+ 1 أكتوبر 2026 · 18:00 بتوقيت الرياض\n🏟 Vitality Stad
+ ium\n—————\n⚽ AFC Bournemouth v Leeds United\n🏆 Premier Lea
+ gue — Matchday 9\n🗓 Sat 31 Oct 2026 · 15:00 UTC\n🏟 Vitality Stadi
+ um\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد ليدز يونايتد — 
+ الدوري الإنجليزي الممتاز | Tomorrow: AFC Bournemouth
+  vs Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × ليدز يونايتد | Kick-off in 30 min: AFC Bournemouth vs L
+ eeds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795511@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Leeds United vs Tottenham Hotspur — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795511
+DESCRIPTION:⚽ ليدز يونايتد × توتنهام هوتسبر\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 10\n
+ 🗓 السبت 7 نوفمبر 2026 · 18:00 بتوقيت الرياض\n
+ 🏟 Elland Road\n—————\n⚽ Leeds United v Tottenham Hotspur\n
+ 🏆 Premier League — Matchday 10\n🗓 Sat 07 Nov 2026 · 15:00 UTC\n
+ 🏟 Elland Road\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد توتنهام هو
+ تسبر — الدوري الإنجليزي الممتاز | Tomorrow: Le
+ eds United vs Tottenham Hotspur
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × توتنهام هوتسبر | Kick-off in 30 min: Leeds Un
+ ited vs Tottenham Hotspur
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795518@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:Chelsea vs Leeds United — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795518
+DESCRIPTION:⚽ تشيلسي × ليدز يونايتد\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 11\n🗓 السبت 21 
+ نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Stamford Bridge
+ \n—————\n⚽ Chelsea v Leeds United\n🏆 Premier League — Mat
+ chday 11\n🗓 Sat 21 Nov 2026 · 15:00 UTC\n🏟 Stamford Bridge\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد ليدز يونايتد — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Chelsea vs Leeds 
+ United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × ليدز يونايتد | Kick-off in 30 min: Chelsea vs Leeds Unite
+ d
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795531@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:Leeds United vs Coventry City — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795531
+DESCRIPTION:⚽ ليدز يونايتد × كوفنتري سيتي\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 12\n🗓 ا
+ لسبت 28 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Ell
+ and Road\n—————\n⚽ Leeds United v Coventry City\n🏆 Premier 
+ League — Matchday 12\n🗓 Sat 28 Nov 2026 · 15:00 UTC\n🏟 Elland Roa
+ d\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد كوفنتري سي
+ تي — الدوري الإنجليزي الممتاز | Tomorrow: Leeds 
+ United vs Coventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × كوفنتري سيتي | Kick-off in 30 min: Leeds United
+  vs Coventry City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795542@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Manchester City vs Leeds United — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795542
+DESCRIPTION:⚽ مانشستر سيتي × ليدز يونايتد\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 13\n🗓 ا
+ لأربعاء 2 ديسمبر 2026 · 23:00 بتوقيت الرياض\n
+ 🏟 Etihad Stadium\n—————\n⚽ Manchester City v Leeds United\n
+ 🏆 Premier League — Matchday 13\n🗓 Wed 02 Dec 2026 · 20:00 UTC\n
+ 🏟 Etihad Stadium\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد ليدز يوناي
+ تد — الدوري الإنجليزي الممتاز | Tomorrow: Manche
+ ster City vs Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × ليدز يونايتد | Kick-off in 30 min: Manchester 
+ City vs Leeds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795550@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Leeds United vs Ipswich Town — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795550
+DESCRIPTION:⚽ ليدز يونايتد × إبسويتش تاون\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 14\n🗓 ا
+ لسبت 5 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Ella
+ nd Road\n—————\n⚽ Leeds United v Ipswich Town\n🏆 Premier Le
+ ague — Matchday 14\n🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 Elland Road\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد إبسويتش تا
+ ون — الدوري الإنجليزي الممتاز | Tomorrow: Leeds 
+ United vs Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × إبسويتش تاون | Kick-off in 30 min: Leeds United
+  vs Ipswich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795562@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Liverpool vs Leeds United — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795562
+DESCRIPTION:⚽ ليفربول × ليدز يونايتد\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 15\n🗓 السبت 
+ 12 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Anfield\n—
+ ————\n⚽ Liverpool v Leeds United\n🏆 Premier League — Matchd
+ ay 15\n🗓 Sat 12 Dec 2026 · 15:00 UTC\n🏟 Anfield\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد ليدز يونايتد — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Liverpool vs Le
+ eds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × ليدز يونايتد | Kick-off in 30 min: Liverpool vs Leeds U
+ nited
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795570@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:Leeds United vs Fulham — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795570
+DESCRIPTION:⚽ ليدز يونايتد × فولهام\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 16\n🗓 السبت 19 
+ ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Elland Road\n
+ —————\n⚽ Leeds United v Fulham\n🏆 Premier League — Matchd
+ ay 16\n🗓 Sat 19 Dec 2026 · 15:00 UTC\n🏟 Elland Road\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد فولهام — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Leeds United vs F
+ ulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × فولهام | Kick-off in 30 min: Leeds United vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795575@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261226T150000Z
+DTEND:20261226T170000Z
+SUMMARY:Aston Villa vs Leeds United — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795575
+DESCRIPTION:⚽ أستون فيلا × ليدز يونايتد\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 17\n🗓 الس
+ بت 26 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Villa P
+ ark\n—————\n⚽ Aston Villa v Leeds United\n🏆 Premier League 
+ — Matchday 17\n🗓 Sat 26 Dec 2026 · 15:00 UTC\n🏟 Villa Park\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد ليدز يونايتد 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Aston Villa
+  vs Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × ليدز يونايتد | Kick-off in 30 min: Aston Villa vs L
+ eeds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795590@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261230T200000Z
+DTEND:20261230T220000Z
+SUMMARY:Hull City vs Leeds United — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795590
+DESCRIPTION:⚽ هال سيتي × ليدز يونايتد\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 18\n🗓 الأرب
+ عاء 30 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 The M
+ KM Stadium\n—————\n⚽ Hull City v Leeds United\n🏆 Premier Le
+ ague — Matchday 18\n🗓 Wed 30 Dec 2026 · 20:00 UTC\n🏟 The MKM Stad
+ ium\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد ليدز يونايتد — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Hull City vs Le
+ eds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × ليدز يونايتد | Kick-off in 30 min: Hull City vs Leeds U
+ nited
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795600@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T150000Z
+DTEND:20270102T170000Z
+SUMMARY:Leeds United vs Everton — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795600
+DESCRIPTION:⚽ ليدز يونايتد × إيفرتون\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 19\n🗓 السبت 
+ 2 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Elland Road\n
+ —————\n⚽ Leeds United v Everton\n🏆 Premier League — Match
+ day 19\n🗓 Sat 02 Jan 2027 · 15:00 UTC\n🏟 Elland Road\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد إيفرتون — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Leeds United vs
+  Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × إيفرتون | Kick-off in 30 min: Leeds United vs Evert
+ on
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795611@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T200000Z
+DTEND:20270106T220000Z
+SUMMARY:Leeds United vs Manchester City — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795611
+DESCRIPTION:⚽ ليدز يونايتد × مانشستر سيتي\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 20\n🗓 ا
+ لأربعاء 6 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 
+ Elland Road\n—————\n⚽ Leeds United v Manchester City\n🏆 Pre
+ mier League — Matchday 20\n🗓 Wed 06 Jan 2027 · 20:00 UTC\n🏟 Ellan
+ d Road\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد مانشستر سي
+ تي — الدوري الإنجليزي الممتاز | Tomorrow: Leeds 
+ United vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × مانشستر سيتي | Kick-off in 30 min: Leeds United
+  vs Manchester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795624@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:Tottenham Hotspur vs Leeds United — Premier League
+LOCATION:Tottenham Hotspur Stadium
+URL:https://www.fotmob.com/match/5795624
+DESCRIPTION:⚽ توتنهام هوتسبر × ليدز يونايتد\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 21\n
+ 🗓 السبت 16 يناير 2027 · 18:00 بتوقيت الرياض\n
+ 🏟 Tottenham Hotspur Stadium\n—————\n⚽ Tottenham Hotspur v L
+ eeds United\n🏆 Premier League — Matchday 21\n🗓 Sat 16 Jan 2027 · 
+ 15:00 UTC\n🏟 Tottenham Hotspur Stadium\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توتنهام هوتسبر ضد ليدز يون
+ ايتد — الدوري الإنجليزي الممتاز | Tomorrow: To
+ ttenham Hotspur vs Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توتنه
+ ام هوتسبر × ليدز يونايتد | Kick-off in 30 min: Tottenh
+ am Hotspur vs Leeds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795631@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:Leeds United vs Chelsea — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795631
+DESCRIPTION:⚽ ليدز يونايتد × تشيلسي\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 22\n🗓 السبت 23 
+ يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Elland Road\n—
+ ————\n⚽ Leeds United v Chelsea\n🏆 Premier League — Matchday
+  22\n🗓 Sat 23 Jan 2027 · 15:00 UTC\n🏟 Elland Road\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد تشيلسي — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Leeds United vs C
+ helsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × تشيلسي | Kick-off in 30 min: Leeds United vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795639@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Coventry City vs Leeds United — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795639
+DESCRIPTION:⚽ كوفنتري سيتي × ليدز يونايتد\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 23\n🗓 ا
+ لسبت 30 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Coven
+ try Building Society Arena\n—————\n⚽ Coventry City v Leeds Uni
+ ted\n🏆 Premier League — Matchday 23\n🗓 Sat 30 Jan 2027 · 15:00 UT
+ C\n🏟 Coventry Building Society Arena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد ليدز يوناي
+ تد — الدوري الإنجليزي الممتاز | Tomorrow: Covent
+ ry City vs Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × ليدز يونايتد | Kick-off in 30 min: Coventry Ci
+ ty vs Leeds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795651@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Leeds United vs AFC Bournemouth — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795651
+DESCRIPTION:⚽ ليدز يونايتد × بورنموث\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 24\n🗓 السبت 
+ 6 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Elland Road\n
+ —————\n⚽ Leeds United v AFC Bournemouth\n🏆 Premier League 
+ — Matchday 24\n🗓 Sat 06 Feb 2027 · 15:00 UTC\n🏟 Elland Road\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد بورنموث — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Leeds United vs
+  AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × بورنموث | Kick-off in 30 min: Leeds United vs AFC B
+ ournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795658@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270210T200000Z
+DTEND:20270210T220000Z
+SUMMARY:Everton vs Leeds United — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795658
+DESCRIPTION:⚽ إيفرتون × ليدز يونايتد\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 25\n🗓 الأرب
+ عاء 10 فبراير 2027 · 23:00 بتوقيت الرياض\n🏟 Hill 
+ Dickinson Stadium\n—————\n⚽ Everton v Leeds United\n🏆 Premi
+ er League — Matchday 25\n🗓 Wed 10 Feb 2027 · 20:00 UTC\n🏟 Hill Di
+ ckinson Stadium\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد ليدز يونايتد — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Everton vs Leed
+ s United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × ليدز يونايتد | Kick-off in 30 min: Everton vs Leeds Uni
+ ted
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795670@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:Leeds United vs Aston Villa — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795670
+DESCRIPTION:⚽ ليدز يونايتد × أستون فيلا\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 26\n🗓 الس
+ بت 20 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Elland 
+ Road\n—————\n⚽ Leeds United v Aston Villa\n🏆 Premier League
+  — Matchday 26\n🗓 Sat 20 Feb 2027 · 15:00 UTC\n🏟 Elland Road\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد أستون فيلا 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Leeds Unite
+ d vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × أستون فيلا | Kick-off in 30 min: Leeds United vs 
+ Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795679@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T150000Z
+DTEND:20270227T170000Z
+SUMMARY:Fulham vs Leeds United — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795679
+DESCRIPTION:⚽ فولهام × ليدز يونايتد\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 27\n🗓 السبت 27 
+ فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Craven Cottage\
+ n—————\n⚽ Fulham v Leeds United\n🏆 Premier League — Match
+ day 27\n🗓 Sat 27 Feb 2027 · 15:00 UTC\n🏟 Craven Cottage\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد ليدز يونايتد — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Fulham vs Leeds U
+ nited
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × ليدز يونايتد | Kick-off in 30 min: Fulham vs Leeds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795690@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270303T200000Z
+DTEND:20270303T220000Z
+SUMMARY:Leeds United vs Hull City — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795690
+DESCRIPTION:⚽ ليدز يونايتد × هال سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 28\n🗓 الأرب
+ عاء 3 مارس 2027 · 23:00 بتوقيت الرياض\n🏟 Elland Roa
+ d\n—————\n⚽ Leeds United v Hull City\n🏆 Premier League — 
+ Matchday 28\n🗓 Wed 03 Mar 2027 · 20:00 UTC\n🏟 Elland Road\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد هال سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Leeds United vs
+  Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × هال سيتي | Kick-off in 30 min: Leeds United vs Hull
+  City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795700@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T150000Z
+DTEND:20270313T170000Z
+SUMMARY:Leeds United vs Brighton & Hove Albion — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795700
+DESCRIPTION:⚽ ليدز يونايتد × برايتون\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 29\n🗓 السبت 
+ 13 مارس 2027 · 18:00 بتوقيت الرياض\n🏟 Elland Road\n—
+ ————\n⚽ Leeds United v Brighton & Hove Albion\n🏆 Premier Leag
+ ue — Matchday 29\n🗓 Sat 13 Mar 2027 · 15:00 UTC\n🏟 Elland Road\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد برايتون — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Leeds United vs
+  Brighton & Hove Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × برايتون | Kick-off in 30 min: Leeds United vs Brigh
+ ton & Hove Albion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795713@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T150000Z
+DTEND:20270320T170000Z
+SUMMARY:Newcastle United vs Leeds United — Premier League
+LOCATION:St James' Park
+URL:https://www.fotmob.com/match/5795713
+DESCRIPTION:⚽ نيوكاسل يونايتد × ليدز يونايتد\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 30\n
+ 🗓 السبت 20 مارس 2027 · 18:00 بتوقيت الرياض\n🏟 
+ St James' Park\n—————\n⚽ Newcastle United v Leeds United\n🏆
+  Premier League — Matchday 30\n🗓 Sat 20 Mar 2027 · 15:00 UTC\n🏟 S
+ t James' Park\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل يونايتد ضد ليدز يو
+ نايتد — الدوري الإنجليزي الممتاز | Tomorrow: 
+ Newcastle United vs Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل يونايتد × ليدز يونايتد | Kick-off in 30 min: Newca
+ stle United vs Leeds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795720@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T140000Z
+DTEND:20270410T160000Z
+SUMMARY:Leeds United vs Nottingham Forest — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795720
+DESCRIPTION:⚽ ليدز يونايتد × نوتنجهام فورست\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 31\n
+ 🗓 السبت 10 أبريل 2027 · 17:00 بتوقيت الرياض\n
+ 🏟 Elland Road\n—————\n⚽ Leeds United v Nottingham Forest\n
+ 🏆 Premier League — Matchday 31\n🗓 Sat 10 Apr 2027 · 14:00 UTC\n
+ 🏟 Elland Road\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد نوتنجهام ف
+ ورست — الدوري الإنجليزي الممتاز | Tomorrow: Le
+ eds United vs Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × نوتنجهام فورست | Kick-off in 30 min: Leeds Un
+ ited vs Nottingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795726@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T140000Z
+DTEND:20270417T160000Z
+SUMMARY:Brentford vs Leeds United — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795726
+DESCRIPTION:⚽ برينتفورد × ليدز يونايتد\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 32\n🗓 الس
+ بت 17 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 Gtech Com
+ munity Stadium\n—————\n⚽ Brentford v Leeds United\n🏆 Premie
+ r League — Matchday 32\n🗓 Sat 17 Apr 2027 · 14:00 UTC\n🏟 Gtech Co
+ mmunity Stadium\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد ليدز يونايتد 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Brentford v
+ s Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × ليدز يونايتد | Kick-off in 30 min: Brentford vs Lee
+ ds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795740@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T140000Z
+DTEND:20270424T160000Z
+SUMMARY:Leeds United vs Liverpool — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795740
+DESCRIPTION:⚽ ليدز يونايتد × ليفربول\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 33\n🗓 السبت 
+ 24 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 Elland Road\n
+ —————\n⚽ Leeds United v Liverpool\n🏆 Premier League — Mat
+ chday 33\n🗓 Sat 24 Apr 2027 · 14:00 UTC\n🏟 Elland Road\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد ليفربول — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Leeds United vs
+  Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × ليفربول | Kick-off in 30 min: Leeds United vs Liver
+ pool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795751@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T140000Z
+DTEND:20270501T160000Z
+SUMMARY:Ipswich Town vs Leeds United — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795751
+DESCRIPTION:⚽ إبسويتش تاون × ليدز يونايتد\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 34\n🗓 ا
+ لسبت 1 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Portman 
+ Road\n—————\n⚽ Ipswich Town v Leeds United\n🏆 Premier Leagu
+ e — Matchday 34\n🗓 Sat 01 May 2027 · 14:00 UTC\n🏟 Portman Road\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد ليدز يوناي
+ تد — الدوري الإنجليزي الممتاز | Tomorrow: Ipswic
+ h Town vs Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × ليدز يونايتد | Kick-off in 30 min: Ipswich Tow
+ n vs Leeds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795773@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T140000Z
+DTEND:20270508T160000Z
+SUMMARY:Leeds United vs Arsenal — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795773
+DESCRIPTION:⚽ ليدز يونايتد × أرسنال\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 35\n🗓 السبت 8 
+ مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Elland Road\n——
+ ———\n⚽ Leeds United v Arsenal\n🏆 Premier League — Matchday 35
+ \n🗓 Sat 08 May 2027 · 14:00 UTC\n🏟 Elland Road\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد أرسنال — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Leeds United vs A
+ rsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × أرسنال | Kick-off in 30 min: Leeds United vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795786@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T140000Z
+DTEND:20270515T160000Z
+SUMMARY:Manchester United vs Leeds United — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795786
+DESCRIPTION:⚽ مانشستر يونايتد × ليدز يونايتد\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 36\n
+ 🗓 السبت 15 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 
+ Old Trafford\n—————\n⚽ Manchester United v Leeds United\n🏆 
+ Premier League — Matchday 36\n🗓 Sat 15 May 2027 · 14:00 UTC\n🏟 Ol
+ d Trafford\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد ليدز يو
+ نايتد — الدوري الإنجليزي الممتاز | Tomorrow: 
+ Manchester United vs Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × ليدز يونايتد | Kick-off in 30 min: Manch
+ ester United vs Leeds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795793@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T140000Z
+DTEND:20270523T160000Z
+SUMMARY:Leeds United vs Sunderland — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795793
+DESCRIPTION:⚽ ليدز يونايتد × سندرلاند\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 37\n🗓 الأح
+ د 23 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Elland Road\n
+ —————\n⚽ Leeds United v Sunderland\n🏆 Premier League — Ma
+ tchday 37\n🗓 Sun 23 May 2027 · 14:00 UTC\n🏟 Elland Road\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد سندرلاند —
+  الدوري الإنجليزي الممتاز | Tomorrow: Leeds United v
+ s Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × سندرلاند | Kick-off in 30 min: Leeds United vs Sun
+ derland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795802@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T150000Z
+DTEND:20270530T170000Z
+SUMMARY:Crystal Palace vs Leeds United — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795802
+DESCRIPTION:⚽ كريستال بالاس × ليدز يونايتد\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 38\n🗓 
+ الأحد 30 مايو 2027 · 18:00 بتوقيت الرياض\n🏟 Selhu
+ rst Park\n—————\n⚽ Crystal Palace v Leeds United\n🏆 Premier
+  League — Matchday 38\n🗓 Sun 30 May 2027 · 15:00 UTC\n🏟 Selhurst 
+ Park\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد ليدز يونا
+ يتد — الدوري الإنجليزي الممتاز | Tomorrow: Crys
+ tal Palace vs Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × ليدز يونايتد | Kick-off in 30 min: Crystal P
+ alace vs Leeds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089910@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260111T120000Z
+DTEND:20260111T140000Z
+SUMMARY:Derby County vs Leeds United (1 - 3) — FA Cup
+LOCATION:Pride Park Stadium\, Derby\, England
+GEO:52.914905;-1.447230
+URL:https://www.fotmob.com/match/5089910
+DESCRIPTION:⚽ Derby County × ليدز يونايتد (1 - 3)\n🏆 كأ
+ س الاتحاد الإنجليزي — الدور الثالث\n🗓 ا
+ لأحد 11 يناير 2026 · 15:00 بتوقيت الرياض\n🏟 Pride
+  Park Stadium، Derby\n⚖️ الحكم: Anthony Taylor\n👥 الحضو
+ ر: 21,741\n—————\n⚽ Derby County v Leeds United (1 - 3)\n🏆
+  FA Cup — Round 3\n🗓 Sun 11 Jan 2026 · 12:00 UTC\n🏟 Pride Park St
+ adium, Derby\nReferee: Anthony Taylor\nAttendance: 21,741\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Derby County ضد ليدز يونايتد — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Derby County vs Leeds U
+ nited
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Derby Count
+ y × ليدز يونايتد | Kick-off in 30 min: Derby County vs Leeds U
+ nited
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135177@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260215T120000Z
+DTEND:20260215T140000Z
+SUMMARY:Birmingham City vs Leeds United (1 - 1) — FA Cup
+LOCATION:St. Andrew's @ Knighthead Park\, Birmingham\, England
+GEO:52.475733;-1.868105
+URL:https://www.fotmob.com/match/5135177
+DESCRIPTION:⚽ Birmingham City × ليدز يونايتد (1 - 1)\n🏆 ك
+ أس الاتحاد الإنجليزي — الدور الرابع\n🗓 
+ الأحد 15 فبراير 2026 · 15:00 بتوقيت الرياض\n🏟 S
+ t. Andrew's @ Knighthead Park، Birmingham\n⚖️ الحكم: Simon Hoope
+ r\n👥 الحضور: 28,035\n—————\n⚽ Birmingham City v Leeds
+  United (1 - 1)\n🏆 FA Cup — Round 4\n🗓 Sun 15 Feb 2026 · 12:00 UT
+ C\n🏟 St. Andrew's @ Knighthead Park, Birmingham\nReferee: Simon Hooper\
+ nAttendance: 28,035\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Birmingham City ضد ليدز يونايتد — 
+ كأس الاتحاد الإنجليزي | Tomorrow: Birmingham City vs Le
+ eds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Birmingham 
+ City × ليدز يونايتد | Kick-off in 30 min: Birmingham City vs L
+ eeds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5186381@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260308T163000Z
+DTEND:20260308T183000Z
+SUMMARY:Leeds United vs Norwich City (3 - 0) — FA Cup
+LOCATION:Elland Road\, Leeds\, West Yorkshire\, England
+GEO:53.777834;-1.572279
+URL:https://www.fotmob.com/match/5186381
+DESCRIPTION:⚽ ليدز يونايتد × Norwich City (3 - 0)\n🏆 كأ
+ س الاتحاد الإنجليزي — الدور الخامس\n🗓 ا
+ لأحد 8 مارس 2026 · 19:30 بتوقيت الرياض\n🏟 Elland R
+ oad، Leeds, West Yorkshire\n⚖️ الحكم: Darren England\n👥 ال
+ حضور: 36,213\n—————\n⚽ Leeds United v Norwich City (3 - 0)
+ \n🏆 FA Cup — Round 5\n🗓 Sun 08 Mar 2026 · 16:30 UTC\n🏟 Elland 
+ Road, Leeds, West Yorkshire\nReferee: Darren England\nAttendance: 36,213\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد Norwich City — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Leeds United vs Norwich
+  City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × Norwich City | Kick-off in 30 min: Leeds United vs Norwich
+  City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5231346@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260405T153000Z
+DTEND:20260405T173000Z
+SUMMARY:West Ham United vs Leeds United (2 - 2) — FA Cup
+LOCATION:London Stadium\, London\, England
+GEO:51.538688;-0.016501
+URL:https://www.fotmob.com/match/5231346
+DESCRIPTION:⚽ وست هام × ليدز يونايتد (2 - 2)\n🏆 كأ
+ س الاتحاد الإنجليزي — ربع النهائي\n🗓 ال
+ أحد 5 أبريل 2026 · 18:30 بتوقيت الرياض\n🏟 London S
+ tadium، London\n⚖️ الحكم: Craig Pawson\n👥 الحضور: 62,26
+ 0\n—————\n⚽ West Ham United v Leeds United (2 - 2)\n🏆 FA Cu
+ p — Quarter-Finals\n🗓 Sun 05 Apr 2026 · 15:30 UTC\n🏟 London Stadi
+ um, London\nReferee: Craig Pawson\nAttendance: 62,260\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وست هام ضد ليدز يونايتد — ك
+ أس الاتحاد الإنجليزي | Tomorrow: West Ham United vs Leed
+ s United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وست ها
+ م × ليدز يونايتد | Kick-off in 30 min: West Ham United vs Lee
+ ds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5293794@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260426T140000Z
+DTEND:20260426T160000Z
+SUMMARY:Chelsea vs Leeds United (1 - 0) — FA Cup
+LOCATION:Wembley Stadium\, London\, England
+GEO:51.555855;-0.279593
+URL:https://www.fotmob.com/match/5293794
+DESCRIPTION:⚽ تشيلسي × ليدز يونايتد (1 - 0)\n🏆 كأ
+ س الاتحاد الإنجليزي — نصف النهائي\n🗓 ال
+ أحد 26 أبريل 2026 · 17:00 بتوقيت الرياض\n🏟 Wembley
+  Stadium، London\n⚖️ الحكم: Jarred Gillett\n👥 الحضور: 8
+ 2,542\n—————\n⚽ Chelsea v Leeds United (1 - 0)\n🏆 FA Cup 
+ — Semi-Finals\n🗓 Sun 26 Apr 2026 · 14:00 UTC\n🏟 Wembley Stadium, 
+ London\nReferee: Jarred Gillett\nAttendance: 82,542\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد ليدز يونايتد — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Chelsea vs Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × ليدز يونايتد | Kick-off in 30 min: Chelsea vs Leeds Unite
+ d
+END:VALARM
+END:VEVENT
+END:VCALENDAR

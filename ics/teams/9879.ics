@@ -1,0 +1,1336 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Fulham — Premier League & FA Cup Fixtures | فولهام
+  — مباريات الدوري الإنجليزي الممتاز وكأ
+ س الاتحاد الإنجليزي
+X-WR-CALDESC:Fulham — all matches in Premier League & FA Cup\, exact UTC 
+ kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09
+ -05T19:31:10Z.  •  فولهام — جميع المباريات في ا
+ لدوري الإنجليزي الممتاز وكأس الاتحاد ال
+ إنجليزي بتوقيت UTC الدقيق مع الملاعب والق
+ نوات الناقلة. المصدر: FotMob + 365scores · تحديث ت
+ لقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5795372@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260824T190000Z
+DTEND:20260824T210000Z
+SUMMARY:Fulham vs Chelsea (2 - 3) — Premier League
+LOCATION:Craven Cottage\, London\, England
+GEO:51.474898;-0.221647
+URL:https://www.fotmob.com/match/5795372
+DESCRIPTION:⚽ فولهام × تشيلسي (2 - 3)\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 1\n🗓 الاثنين 24
+  أغسطس 2026 · 22:00 بتوقيت الرياض\n🏟 Craven Cottage،
+  London\n⚖️ الحكم: John Brooks\n👥 الحضور: 27,461\n——
+ ———\n⚽ Fulham v Chelsea (2 - 3)\n🏆 Premier League — Matchday 
+ 1\n🗓 Mon 24 Aug 2026 · 19:00 UTC\n🏟 Craven Cottage, London\nReferee
+ : John Brooks\nAttendance: 27,461\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد تشيلسي — الدوري 
+ الإنجليزي الممتاز | Tomorrow: Fulham vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × تشيلسي | Kick-off in 30 min: Fulham vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795433@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T130000Z
+DTEND:20260830T150000Z
+SUMMARY:Sunderland vs Fulham (1 - 0) — Premier League
+LOCATION:Stadium of Light\, Sunderland\, England
+GEO:54.914422;-1.388177
+URL:https://www.fotmob.com/match/5795433
+DESCRIPTION:⚽ سندرلاند × فولهام (1 - 0)\n🏆 الدوري
+  الإنجليزي الممتاز — الجولة 2\n🗓 الأحد 30 
+ أغسطس 2026 · 16:00 بتوقيت الرياض\n🏟 Stadium of Light
+ ، Sunderland\n⚖️ الحكم: Michael Salisbury\n—————\n⚽ 
+ Sunderland v Fulham (1 - 0)\n🏆 Premier League — Matchday 2\n🗓 Sun 
+ 30 Aug 2026 · 13:00 UTC\n🏟 Stadium of Light, Sunderland\nReferee: Mich
+ ael Salisbury\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد فولهام — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Sunderland vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × فولهام | Kick-off in 30 min: Sunderland vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795439@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T140000Z
+DTEND:20260905T160000Z
+SUMMARY:Fulham vs Crystal Palace (2 - 3) — Premier League
+LOCATION:Craven Cottage\, London\, England
+GEO:51.474898;-0.221647
+URL:https://www.fotmob.com/match/5795439
+DESCRIPTION:⚽ فولهام × كريستال بالاس (2 - 3)\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 3\n🗓 ال
+ سبت 5 سبتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Craven
+  Cottage، London\n📺 NBCSN Extra، Peacock، Stan Sport، DAZN Canada،
+  Fubo Sports CA، To be confirmed، DStv App، SuperSport Football\n⚖️
+  الحكم: Samuel Barrott\n—————\n⚽ Fulham v Crystal Palace 
+ (2 - 3)\n🏆 Premier League — Matchday 3\n🗓 Sat 05 Sep 2026 · 14:00
+  UTC\n🏟 Craven Cottage, London\n📺 NBCSN Extra, Peacock, Stan Sport, 
+ DAZN Canada, Fubo Sports CA, To be confirmed, DStv App, SuperSport Footbal
+ l\nReferee: Samuel Barrott\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد كريستال بالاس — 
+ الدوري الإنجليزي الممتاز — 📺 NBCSN Extra، Peac
+ ock، Stan Sport، DAZN Canada، Fubo Sports CA، To be confirmed، DStv A
+ pp، SuperSport Football | Tomorrow: Fulham vs Crystal Palace | TV: NBCSN 
+ Extra\, Peacock\, Stan Sport\, DAZN Canada\, Fubo Sports CA\, To be confir
+ med\, DStv App\, SuperSport Football
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × كريستال بالاس — 📺 NBCSN Extra، Peacock، Stan Spor
+ t، DAZN Canada، Fubo Sports CA، To be confirmed، DStv App، SuperSport
+  Football | Kick-off in 30 min: Fulham vs Crystal Palace | TV: NBCSN Extra
+ \, Peacock\, Stan Sport\, DAZN Canada\, Fubo Sports CA\, To be confirmed\,
+  DStv App\, SuperSport Football
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795451@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T140000Z
+DTEND:20260912T160000Z
+SUMMARY:Liverpool vs Fulham — Premier League
+LOCATION:Anfield\, Liverpool\, England
+GEO:53.430828;-2.960853
+URL:https://www.fotmob.com/match/5795451
+DESCRIPTION:⚽ ليفربول × فولهام\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 4\n🗓 السبت 12 سبتم
+ بر 2026 · 17:00 بتوقيت الرياض\n🏟 Anfield، Liverpool\n
+ 📺 NBC Sports Network، Peacock، Peacock (Español)، Fubo Sports CA، 
+ Premier Sports 1 ROI، StarHub TV+، Astro Go\n—————\n⚽ Liverp
+ ool v Fulham\n🏆 Premier League — Matchday 4\n🗓 Sat 12 Sep 2026 · 
+ 14:00 UTC\n🏟 Anfield, Liverpool\n📺 NBC Sports Network, Peacock, Peac
+ ock (Español), Fubo Sports CA, Premier Sports 1 ROI, StarHub TV+, Astro G
+ o\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد فولهام — الدوري
+  الإنجليزي الممتاز — 📺 NBC Sports Network، Peacock،
+  Peacock (Español)، Fubo Sports CA، Premier Sports 1 ROI، StarHub TV+
+ ، Astro Go | Tomorrow: Liverpool vs Fulham | TV: NBC Sports Network\, Pea
+ cock\, Peacock (Español)\, Fubo Sports CA\, Premier Sports 1 ROI\, StarHu
+ b TV+\, Astro Go
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × فولهام — 📺 NBC Sports Network، Peacock، Peacock (Espa
+ ñol)، Fubo Sports CA، Premier Sports 1 ROI، StarHub TV+، Astro Go | K
+ ick-off in 30 min: Liverpool vs Fulham | TV: NBC Sports Network\, Peacock\
+ , Peacock (Español)\, Fubo Sports CA\, Premier Sports 1 ROI\, StarHub TV+
+ \, Astro Go
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795459@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T153000Z
+DTEND:20260920T173000Z
+SUMMARY:Fulham vs Manchester United — Premier League
+LOCATION:Craven Cottage\, London\, England
+GEO:51.474898;-0.221647
+URL:https://www.fotmob.com/match/5795459
+DESCRIPTION:⚽ فولهام × مانشستر يونايتد\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 5\n🗓 الأح
+ د 20 سبتمبر 2026 · 18:30 بتوقيت الرياض\n🏟 Craven Co
+ ttage، London\n—————\n⚽ Fulham v Manchester United\n🏆 Prem
+ ier League — Matchday 5\n🗓 Sun 20 Sep 2026 · 15:30 UTC\n🏟 Craven 
+ Cottage, London\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد مانشستر يونايتد 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Fulham vs M
+ anchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × مانشستر يونايتد | Kick-off in 30 min: Fulham vs Manche
+ ster United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795471@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T140000Z
+DTEND:20261010T160000Z
+SUMMARY:Ipswich Town vs Fulham — Premier League
+LOCATION:Portman Road\, Ipswich\, Suffolk\, England
+GEO:52.054950;1.145263
+URL:https://www.fotmob.com/match/5795471
+DESCRIPTION:⚽ إبسويتش تاون × فولهام\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 6\n🗓 السبت 10 
+ أكتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 Portman Road، 
+ Ipswich, Suffolk\n—————\n⚽ Ipswich Town v Fulham\n🏆 Premier
+  League — Matchday 6\n🗓 Sat 10 Oct 2026 · 14:00 UTC\n🏟 Portman Ro
+ ad, Ipswich, Suffolk\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد فولهام — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Ipswich Town vs F
+ ulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × فولهام | Kick-off in 30 min: Ipswich Town vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795479@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T140000Z
+DTEND:20261017T160000Z
+SUMMARY:Fulham vs Hull City — Premier League
+LOCATION:Craven Cottage\, London\, England
+GEO:51.474898;-0.221647
+URL:https://www.fotmob.com/match/5795479
+DESCRIPTION:⚽ فولهام × هال سيتي\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 7\n🗓 السبت 17 أكتو
+ بر 2026 · 17:00 بتوقيت الرياض\n🏟 Craven Cottage، London
+ \n—————\n⚽ Fulham v Hull City\n🏆 Premier League — Matchda
+ y 7\n🗓 Sat 17 Oct 2026 · 14:00 UTC\n🏟 Craven Cottage, London\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد هال سيتي — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Fulham vs Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × هال سيتي | Kick-off in 30 min: Fulham vs Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795488@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Coventry City vs Fulham — Premier League
+LOCATION:Coventry Building Society Arena\, Coventry\, West Midlands\, Engla
+ nd
+GEO:52.448111;-1.495629
+URL:https://www.fotmob.com/match/5795488
+DESCRIPTION:⚽ كوفنتري سيتي × فولهام\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 8\n🗓 السبت 24 
+ أكتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 Coventry Buildi
+ ng Society Arena، Coventry, West Midlands\n—————\n⚽ Coventry 
+ City v Fulham\n🏆 Premier League — Matchday 8\n🗓 Sat 24 Oct 2026 ·
+  14:00 UTC\n🏟 Coventry Building Society Arena, Coventry, West Midlands\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد فولهام — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Coventry City vs 
+ Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × فولهام | Kick-off in 30 min: Coventry City vs Fulha
+ m
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795496@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T200000Z
+DTEND:20261031T220000Z
+SUMMARY:Aston Villa vs Fulham — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795496
+DESCRIPTION:⚽ أستون فيلا × فولهام\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 9\n🗓 السبت 31 أك
+ توبر 2026 · 23:00 بتوقيت الرياض\n🏟 Villa Park\n——
+ ———\n⚽ Aston Villa v Fulham\n🏆 Premier League — Matchday 9\n
+ 🗓 Sat 31 Oct 2026 · 20:00 UTC\n🏟 Villa Park\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد فولهام — الد
+ وري الإنجليزي الممتاز | Tomorrow: Aston Villa vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × فولهام | Kick-off in 30 min: Aston Villa vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795509@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Fulham vs Newcastle United — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795509
+DESCRIPTION:⚽ فولهام × نيوكاسل يونايتد\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 10\n🗓 الس
+ بت 7 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Craven C
+ ottage\n—————\n⚽ Fulham v Newcastle United\n🏆 Premier Leagu
+ e — Matchday 10\n🗓 Sat 07 Nov 2026 · 15:00 UTC\n🏟 Craven Cottage\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد نيوكاسل يونايتد 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Fulham vs N
+ ewcastle United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × نيوكاسل يونايتد | Kick-off in 30 min: Fulham vs Newcas
+ tle United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795522@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:Manchester City vs Fulham — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795522
+DESCRIPTION:⚽ مانشستر سيتي × فولهام\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 11\n🗓 السبت 21 
+ نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Etihad Stadium\
+ n—————\n⚽ Manchester City v Fulham\n🏆 Premier League — Ma
+ tchday 11\n🗓 Sat 21 Nov 2026 · 15:00 UTC\n🏟 Etihad Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد فولهام — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Manchester City v
+ s Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × فولهام | Kick-off in 30 min: Manchester City vs Ful
+ ham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795529@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:Fulham vs AFC Bournemouth — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795529
+DESCRIPTION:⚽ فولهام × بورنموث\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 12\n🗓 السبت 28 نوفم
+ بر 2026 · 18:00 بتوقيت الرياض\n🏟 Craven Cottage\n——
+ ———\n⚽ Fulham v AFC Bournemouth\n🏆 Premier League — Matchday 
+ 12\n🗓 Sat 28 Nov 2026 · 15:00 UTC\n🏟 Craven Cottage\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد بورنموث — الدوري
+  الإنجليزي الممتاز | Tomorrow: Fulham vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × بورنموث | Kick-off in 30 min: Fulham vs AFC Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795544@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Tottenham Hotspur vs Fulham — Premier League
+LOCATION:Tottenham Hotspur Stadium
+URL:https://www.fotmob.com/match/5795544
+DESCRIPTION:⚽ توتنهام هوتسبر × فولهام\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 13\n🗓 الأر
+ بعاء 2 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Tott
+ enham Hotspur Stadium\n—————\n⚽ Tottenham Hotspur v Fulham\n
+ 🏆 Premier League — Matchday 13\n🗓 Wed 02 Dec 2026 · 20:00 UTC\n
+ 🏟 Tottenham Hotspur Stadium\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توتنهام هوتسبر ضد فولهام —
+  الدوري الإنجليزي الممتاز | Tomorrow: Tottenham Hots
+ pur vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توتنه
+ ام هوتسبر × فولهام | Kick-off in 30 min: Tottenham Hotspur 
+ vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795549@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Everton vs Fulham — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795549
+DESCRIPTION:⚽ إيفرتون × فولهام\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 14\n🗓 السبت 5 ديسم
+ بر 2026 · 18:00 بتوقيت الرياض\n🏟 Hill Dickinson Stadium\
+ n—————\n⚽ Everton v Fulham\n🏆 Premier League — Matchday 1
+ 4\n🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 Hill Dickinson Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد فولهام — الدوري
+  الإنجليزي الممتاز | Tomorrow: Everton vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × فولهام | Kick-off in 30 min: Everton vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795559@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Fulham vs Brentford — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795559
+DESCRIPTION:⚽ فولهام × برينتفورد\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 15\n🗓 السبت 12 دي
+ سمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Craven Cottage\n—
+ ————\n⚽ Fulham v Brentford\n🏆 Premier League — Matchday 15\
+ n🗓 Sat 12 Dec 2026 · 15:00 UTC\n🏟 Craven Cottage\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد برينتفورد — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Fulham vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × برينتفورد | Kick-off in 30 min: Fulham vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795570@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:Leeds United vs Fulham — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795570
+DESCRIPTION:⚽ ليدز يونايتد × فولهام\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 16\n🗓 السبت 19 
+ ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Elland Road\n
+ —————\n⚽ Leeds United v Fulham\n🏆 Premier League — Matchd
+ ay 16\n🗓 Sat 19 Dec 2026 · 15:00 UTC\n🏟 Elland Road\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد فولهام — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Leeds United vs F
+ ulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × فولهام | Kick-off in 30 min: Leeds United vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795579@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261226T150000Z
+DTEND:20261226T170000Z
+SUMMARY:Fulham vs Brighton & Hove Albion — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795579
+DESCRIPTION:⚽ فولهام × برايتون\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 17\n🗓 السبت 26 ديسم
+ بر 2026 · 18:00 بتوقيت الرياض\n🏟 Craven Cottage\n——
+ ———\n⚽ Fulham v Brighton & Hove Albion\n🏆 Premier League — Ma
+ tchday 17\n🗓 Sat 26 Dec 2026 · 15:00 UTC\n🏟 Craven Cottage\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد برايتون — الدوري
+  الإنجليزي الممتاز | Tomorrow: Fulham vs Brighton & Hove A
+ lbion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × برايتون | Kick-off in 30 min: Fulham vs Brighton & Hove Albio
+ n
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795589@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261230T200000Z
+DTEND:20261230T220000Z
+SUMMARY:Fulham vs Arsenal — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795589
+DESCRIPTION:⚽ فولهام × أرسنال\n🏆 الدوري الإنج
+ ليزي الممتاز — الجولة 18\n🗓 الأربعاء 30 دي
+ سمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Craven Cottage\n—
+ ————\n⚽ Fulham v Arsenal\n🏆 Premier League — Matchday 18\n
+ 🗓 Wed 30 Dec 2026 · 20:00 UTC\n🏟 Craven Cottage\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد أرسنال — الدوري 
+ الإنجليزي الممتاز | Tomorrow: Fulham vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × أرسنال | Kick-off in 30 min: Fulham vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795603@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T150000Z
+DTEND:20270102T170000Z
+SUMMARY:Nottingham Forest vs Fulham — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795603
+DESCRIPTION:⚽ نوتنجهام فورست × فولهام\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 19\n🗓 السب
+ ت 2 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 City Ground,
+  Nottingham\n—————\n⚽ Nottingham Forest v Fulham\n🏆 Premier
+  League — Matchday 19\n🗓 Sat 02 Jan 2027 · 15:00 UTC\n🏟 City Grou
+ nd, Nottingham\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد فولهام —
+  الدوري الإنجليزي الممتاز | Tomorrow: Nottingham For
+ est vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × فولهام | Kick-off in 30 min: Nottingham Forest 
+ vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795609@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T200000Z
+DTEND:20270106T220000Z
+SUMMARY:Fulham vs Tottenham Hotspur — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795609
+DESCRIPTION:⚽ فولهام × توتنهام هوتسبر\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 20\n🗓 الأر
+ بعاء 6 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Craven
+  Cottage\n—————\n⚽ Fulham v Tottenham Hotspur\n🏆 Premier Le
+ ague — Matchday 20\n🗓 Wed 06 Jan 2027 · 20:00 UTC\n🏟 Craven Cotta
+ ge\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد توتنهام هوتسبر —
+  الدوري الإنجليزي الممتاز | Tomorrow: Fulham vs Tott
+ enham Hotspur
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × توتنهام هوتسبر | Kick-off in 30 min: Fulham vs Tottenha
+ m Hotspur
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795623@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:Newcastle United vs Fulham — Premier League
+LOCATION:St James' Park
+URL:https://www.fotmob.com/match/5795623
+DESCRIPTION:⚽ نيوكاسل يونايتد × فولهام\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 21\n🗓 الس
+ بت 16 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 St James'
+  Park\n—————\n⚽ Newcastle United v Fulham\n🏆 Premier League
+  — Matchday 21\n🗓 Sat 16 Jan 2027 · 15:00 UTC\n🏟 St James' Park\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل يونايتد ضد فولهام 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Newcastle U
+ nited vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل يونايتد × فولهام | Kick-off in 30 min: Newcastle United
+  vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795629@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:Fulham vs Aston Villa — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795629
+DESCRIPTION:⚽ فولهام × أستون فيلا\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 22\n🗓 السبت 23 ين
+ اير 2027 · 18:00 بتوقيت الرياض\n🏟 Craven Cottage\n—
+ ————\n⚽ Fulham v Aston Villa\n🏆 Premier League — Matchday 2
+ 2\n🗓 Sat 23 Jan 2027 · 15:00 UTC\n🏟 Craven Cottage\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد أستون فيلا — الد
+ وري الإنجليزي الممتاز | Tomorrow: Fulham vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × أستون فيلا | Kick-off in 30 min: Fulham vs Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795635@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:AFC Bournemouth vs Fulham — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795635
+DESCRIPTION:⚽ بورنموث × فولهام\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 23\n🗓 السبت 30 يناي
+ ر 2027 · 18:00 بتوقيت الرياض\n🏟 Vitality Stadium\n——
+ ———\n⚽ AFC Bournemouth v Fulham\n🏆 Premier League — Matchday 
+ 23\n🗓 Sat 30 Jan 2027 · 15:00 UTC\n🏟 Vitality Stadium\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد فولهام — الدوري
+  الإنجليزي الممتاز | Tomorrow: AFC Bournemouth vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × فولهام | Kick-off in 30 min: AFC Bournemouth vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795649@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Fulham vs Manchester City — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795649
+DESCRIPTION:⚽ فولهام × مانشستر سيتي\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 24\n🗓 السبت 6 
+ فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Craven Cottage\
+ n—————\n⚽ Fulham v Manchester City\n🏆 Premier League — Ma
+ tchday 24\n🗓 Sat 06 Feb 2027 · 15:00 UTC\n🏟 Craven Cottage\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد مانشستر سيتي — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Fulham vs Manches
+ ter City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × مانشستر سيتي | Kick-off in 30 min: Fulham vs Manchester C
+ ity
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795659@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270210T200000Z
+DTEND:20270210T220000Z
+SUMMARY:Fulham vs Nottingham Forest — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795659
+DESCRIPTION:⚽ فولهام × نوتنجهام فورست\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 25\n🗓 الأر
+ بعاء 10 فبراير 2027 · 23:00 بتوقيت الرياض\n🏟 Cra
+ ven Cottage\n—————\n⚽ Fulham v Nottingham Forest\n🏆 Premier
+  League — Matchday 25\n🗓 Wed 10 Feb 2027 · 20:00 UTC\n🏟 Craven Co
+ ttage\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد نوتنجهام فورست —
+  الدوري الإنجليزي الممتاز | Tomorrow: Fulham vs Nott
+ ingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × نوتنجهام فورست | Kick-off in 30 min: Fulham vs Nottingh
+ am Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795666@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:Arsenal vs Fulham — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795666
+DESCRIPTION:⚽ أرسنال × فولهام\n🏆 الدوري الإنج
+ ليزي الممتاز — الجولة 26\n🗓 السبت 20 فبراي
+ ر 2027 · 18:00 بتوقيت الرياض\n🏟 Emirates Stadium\n——
+ ———\n⚽ Arsenal v Fulham\n🏆 Premier League — Matchday 26\n🗓
+  Sat 20 Feb 2027 · 15:00 UTC\n🏟 Emirates Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد فولهام — الدوري 
+ الإنجليزي الممتاز | Tomorrow: Arsenal vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × فولهام | Kick-off in 30 min: Arsenal vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795679@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T150000Z
+DTEND:20270227T170000Z
+SUMMARY:Fulham vs Leeds United — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795679
+DESCRIPTION:⚽ فولهام × ليدز يونايتد\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 27\n🗓 السبت 27 
+ فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Craven Cottage\
+ n—————\n⚽ Fulham v Leeds United\n🏆 Premier League — Match
+ day 27\n🗓 Sat 27 Feb 2027 · 15:00 UTC\n🏟 Craven Cottage\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد ليدز يونايتد — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Fulham vs Leeds U
+ nited
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × ليدز يونايتد | Kick-off in 30 min: Fulham vs Leeds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795688@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270303T200000Z
+DTEND:20270303T220000Z
+SUMMARY:Brighton & Hove Albion vs Fulham — Premier League
+LOCATION:The American Express Community Stadium
+URL:https://www.fotmob.com/match/5795688
+DESCRIPTION:⚽ برايتون × فولهام\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 28\n🗓 الأربعاء 3 م
+ ارس 2027 · 23:00 بتوقيت الرياض\n🏟 The American Express 
+ Community Stadium\n—————\n⚽ Brighton & Hove Albion v Fulham\n
+ 🏆 Premier League — Matchday 28\n🗓 Wed 03 Mar 2027 · 20:00 UTC\n
+ 🏟 The American Express Community Stadium\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برايتون ضد فولهام — الدوري
+  الإنجليزي الممتاز | Tomorrow: Brighton & Hove Albion vs F
+ ulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برايت
+ ون × فولهام | Kick-off in 30 min: Brighton & Hove Albion vs Fulha
+ m
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795699@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T150000Z
+DTEND:20270313T170000Z
+SUMMARY:Crystal Palace vs Fulham — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795699
+DESCRIPTION:⚽ كريستال بالاس × فولهام\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 29\n🗓 السبت 
+ 13 مارس 2027 · 18:00 بتوقيت الرياض\n🏟 Selhurst Park\n
+ —————\n⚽ Crystal Palace v Fulham\n🏆 Premier League — Matc
+ hday 29\n🗓 Sat 13 Mar 2027 · 15:00 UTC\n🏟 Selhurst Park\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد فولهام — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Crystal Palace 
+ vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × فولهام | Kick-off in 30 min: Crystal Palace vs Fu
+ lham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795709@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T150000Z
+DTEND:20270320T170000Z
+SUMMARY:Fulham vs Liverpool — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795709
+DESCRIPTION:⚽ فولهام × ليفربول\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 30\n🗓 السبت 20 مارس
+  2027 · 18:00 بتوقيت الرياض\n🏟 Craven Cottage\n———
+ ——\n⚽ Fulham v Liverpool\n🏆 Premier League — Matchday 30\n🗓 
+ Sat 20 Mar 2027 · 15:00 UTC\n🏟 Craven Cottage\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد ليفربول — الدوري
+  الإنجليزي الممتاز | Tomorrow: Fulham vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × ليفربول | Kick-off in 30 min: Fulham vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795717@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T140000Z
+DTEND:20270410T160000Z
+SUMMARY:Chelsea vs Fulham — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795717
+DESCRIPTION:⚽ تشيلسي × فولهام\n🏆 الدوري الإنج
+ ليزي الممتاز — الجولة 31\n🗓 السبت 10 أبريل
+  2027 · 17:00 بتوقيت الرياض\n🏟 Stamford Bridge\n———
+ ——\n⚽ Chelsea v Fulham\n🏆 Premier League — Matchday 31\n🗓 Sa
+ t 10 Apr 2027 · 14:00 UTC\n🏟 Stamford Bridge\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد فولهام — الدوري 
+ الإنجليزي الممتاز | Tomorrow: Chelsea vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × فولهام | Kick-off in 30 min: Chelsea vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795729@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T140000Z
+DTEND:20270417T160000Z
+SUMMARY:Fulham vs Sunderland — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795729
+DESCRIPTION:⚽ فولهام × سندرلاند\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 32\n🗓 السبت 17 أبر
+ يل 2027 · 17:00 بتوقيت الرياض\n🏟 Craven Cottage\n——
+ ———\n⚽ Fulham v Sunderland\n🏆 Premier League — Matchday 32\n
+ 🗓 Sat 17 Apr 2027 · 14:00 UTC\n🏟 Craven Cottage\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد سندرلاند — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Fulham vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × سندرلاند | Kick-off in 30 min: Fulham vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795737@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T140000Z
+DTEND:20270424T160000Z
+SUMMARY:Brentford vs Fulham — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795737
+DESCRIPTION:⚽ برينتفورد × فولهام\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 33\n🗓 السبت 24 أب
+ ريل 2027 · 17:00 بتوقيت الرياض\n🏟 Gtech Community Stadi
+ um\n—————\n⚽ Brentford v Fulham\n🏆 Premier League — Match
+ day 33\n🗓 Sat 24 Apr 2027 · 14:00 UTC\n🏟 Gtech Community Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد فولهام — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Brentford vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × فولهام | Kick-off in 30 min: Brentford vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795749@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T140000Z
+DTEND:20270501T160000Z
+SUMMARY:Fulham vs Everton — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795749
+DESCRIPTION:⚽ فولهام × إيفرتون\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 34\n🗓 السبت 1 مايو 
+ 2027 · 17:00 بتوقيت الرياض\n🏟 Craven Cottage\n————
+ —\n⚽ Fulham v Everton\n🏆 Premier League — Matchday 34\n🗓 Sat 0
+ 1 May 2027 · 14:00 UTC\n🏟 Craven Cottage\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد إيفرتون — الدوري
+  الإنجليزي الممتاز | Tomorrow: Fulham vs Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × إيفرتون | Kick-off in 30 min: Fulham vs Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795772@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T140000Z
+DTEND:20270508T160000Z
+SUMMARY:Fulham vs Ipswich Town — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795772
+DESCRIPTION:⚽ فولهام × إبسويتش تاون\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 35\n🗓 السبت 8 
+ مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Craven Cottage\n—
+ ————\n⚽ Fulham v Ipswich Town\n🏆 Premier League — Matchday 
+ 35\n🗓 Sat 08 May 2027 · 14:00 UTC\n🏟 Craven Cottage\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد إبسويتش تاون — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Fulham vs Ipswich
+  Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × إبسويتش تاون | Kick-off in 30 min: Fulham vs Ipswich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795783@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T140000Z
+DTEND:20270515T160000Z
+SUMMARY:Hull City vs Fulham — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795783
+DESCRIPTION:⚽ هال سيتي × فولهام\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 36\n🗓 السبت 15 مايو
+  2027 · 17:00 بتوقيت الرياض\n🏟 The MKM Stadium\n———
+ ——\n⚽ Hull City v Fulham\n🏆 Premier League — Matchday 36\n🗓 
+ Sat 15 May 2027 · 14:00 UTC\n🏟 The MKM Stadium\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد فولهام — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Hull City vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × فولهام | Kick-off in 30 min: Hull City vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795792@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T140000Z
+DTEND:20270523T160000Z
+SUMMARY:Fulham vs Coventry City — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795792
+DESCRIPTION:⚽ فولهام × كوفنتري سيتي\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 37\n🗓 الأحد 23 
+ مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Craven Cottage\n—
+ ————\n⚽ Fulham v Coventry City\n🏆 Premier League — Matchday
+  37\n🗓 Sun 23 May 2027 · 14:00 UTC\n🏟 Craven Cottage\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد كوفنتري سيتي — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Fulham vs Coventr
+ y City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × كوفنتري سيتي | Kick-off in 30 min: Fulham vs Coventry Cit
+ y
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795806@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T150000Z
+DTEND:20270530T170000Z
+SUMMARY:Manchester United vs Fulham — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795806
+DESCRIPTION:⚽ مانشستر يونايتد × فولهام\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 38\n🗓 الأ
+ حد 30 مايو 2027 · 18:00 بتوقيت الرياض\n🏟 Old Traffor
+ d\n—————\n⚽ Manchester United v Fulham\n🏆 Premier League 
+ — Matchday 38\n🗓 Sun 30 May 2027 · 15:00 UTC\n🏟 Old Trafford\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد فولهام 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Manchester 
+ United vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × فولهام | Kick-off in 30 min: Manchester Unite
+ d vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089904@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T150000Z
+DTEND:20260110T170000Z
+SUMMARY:Fulham vs Middlesbrough (3 - 1) — FA Cup
+LOCATION:Craven Cottage\, London\, England
+GEO:51.474898;-0.221647
+URL:https://www.fotmob.com/match/5089904
+DESCRIPTION:⚽ فولهام × Middlesbrough (3 - 1)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الثالث\n🗓 السبت 10 
+ يناير 2026 · 18:00 بتوقيت الرياض\n🏟 Craven Cottage، 
+ London\n⚖️ الحكم: Lewis Smith\n👥 الحضور: 20,675\n——
+ ———\n⚽ Fulham v Middlesbrough (3 - 1)\n🏆 FA Cup — Round 3\n
+ 🗓 Sat 10 Jan 2026 · 15:00 UTC\n🏟 Craven Cottage, London\nReferee: L
+ ewis Smith\nAttendance: 20,675\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد Middlesbrough — كأس الا
+ تحاد الإنجليزي | Tomorrow: Fulham vs Middlesbrough
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × Middlesbrough | Kick-off in 30 min: Fulham vs Middlesbrough
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135161@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260215T140000Z
+DTEND:20260215T160000Z
+SUMMARY:Stoke City vs Fulham (1 - 2) — FA Cup
+LOCATION:bet365 Stadium\, Stoke-on-Trent\, Staffordshire\, England
+GEO:52.988405;-2.175430
+URL:https://www.fotmob.com/match/5135161
+DESCRIPTION:⚽ Stoke City × فولهام (1 - 2)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الرابع\n🗓 الأحد 15 ف
+ براير 2026 · 17:00 بتوقيت الرياض\n🏟 bet365 Stadium، 
+ Stoke-on-Trent, Staffordshire\n⚖️ الحكم: Joshua Smith\n👥 ال
+ حضور: 14,871\n—————\n⚽ Stoke City v Fulham (1 - 2)\n🏆 F
+ A Cup — Round 4\n🗓 Sun 15 Feb 2026 · 14:00 UTC\n🏟 bet365 Stadium,
+  Stoke-on-Trent, Staffordshire\nReferee: Joshua Smith\nAttendance: 14,871\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Stoke City ضد فولهام — كأس الات
+ حاد الإنجليزي | Tomorrow: Stoke City vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Stoke City 
+ × فولهام | Kick-off in 30 min: Stoke City vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5186378@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260308T120000Z
+DTEND:20260308T140000Z
+SUMMARY:Fulham vs Southampton (0 - 1) — FA Cup
+LOCATION:Craven Cottage\, London\, England
+GEO:51.474898;-0.221647
+URL:https://www.fotmob.com/match/5186378
+DESCRIPTION:⚽ فولهام × ساوثهامبتون (0 - 1)\n🏆 كأس
+  الاتحاد الإنجليزي — الدور الخامس\n🗓 ال
+ أحد 8 مارس 2026 · 15:00 بتوقيت الرياض\n🏟 Craven Cot
+ tage، London\n⚖️ الحكم: Jarred Gillett\n👥 الحضور: 21,97
+ 4\n—————\n⚽ Fulham v Southampton (0 - 1)\n🏆 FA Cup — Roun
+ d 5\n🗓 Sun 08 Mar 2026 · 12:00 UTC\n🏟 Craven Cottage, London\nRefer
+ ee: Jarred Gillett\nAttendance: 21,974\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد ساوثهامبتون — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Fulham vs Southampton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × ساوثهامبتون | Kick-off in 30 min: Fulham vs Southampton
+END:VALARM
+END:VEVENT
+END:VCALENDAR

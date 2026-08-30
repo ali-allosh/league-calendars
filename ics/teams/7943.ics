@@ -1,0 +1,1268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Sassuolo — Serie A & Coppa Italia Fixtures | ساسول
+ و — مباريات الدوري الإيطالي وكأس إيطالي
+ ا
+X-WR-CALDESC:Sassuolo — all matches in Serie A & Coppa Italia\, exact UTC
+  kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-0
+ 9-05T19:31:10Z.  •  ساسولو — جميع المباريات في ا
+ لدوري الإيطالي وكأس إيطاليا بتوقيت UTC ال
+ دقيق مع الملاعب والقنوات الناقلة. المصدر
+ : FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5749641@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260823T184500Z
+DTEND:20260823T204500Z
+SUMMARY:Atalanta vs Sassuolo (2 - 1) — Serie A
+LOCATION:New Balance Arena\, Bergamo\, Italy
+GEO:45.709236;9.680693
+URL:https://www.fotmob.com/match/5749641
+DESCRIPTION:⚽ أتالانتا × ساسولو (2 - 1)\n🏆 الدوري
+  الإيطالي — الجولة 1\n🗓 الأحد 23 أغسطس 2026 
+ · 21:45 بتوقيت الرياض\n🏟 New Balance Arena، Bergamo\n⚖
+ ️ الحكم: Valerio Crezzini\n👥 الحضور: 20,828\n————
+ —\n⚽ Atalanta v Sassuolo (2 - 1)\n🏆 Serie A — Matchday 1\n🗓 Su
+ n 23 Aug 2026 · 18:45 UTC\n🏟 New Balance Arena, Bergamo\nReferee: Vale
+ rio Crezzini\nAttendance: 20,828\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد ساسولو — الدور
+ ي الإيطالي | Tomorrow: Atalanta vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × ساسولو | Kick-off in 30 min: Atalanta vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749659@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T163000Z
+DTEND:20260829T183000Z
+SUMMARY:Sassuolo vs Torino (2 - 1) — Serie A
+LOCATION:MAPEI Stadium - Città del Tricolore\, Reggio Emilia\, Italy
+GEO:44.714637;10.649711
+URL:https://www.fotmob.com/match/5749659
+DESCRIPTION:⚽ ساسولو × تورينو (2 - 1)\n🏆 الدوري ا
+ لإيطالي — الجولة 2\n🗓 السبت 29 أغسطس 2026 · 1
+ 9:30 بتوقيت الرياض\n🏟 MAPEI Stadium - Città del Tricolore
+ ، Reggio Emilia\n⚖️ الحكم: Davide Di Marco\n👥 الحضور: 9
+ ,523\n—————\n⚽ Sassuolo v Torino (2 - 1)\n🏆 Serie A — Mat
+ chday 2\n🗓 Sat 29 Aug 2026 · 16:30 UTC\n🏟 MAPEI Stadium - Città de
+ l Tricolore, Reggio Emilia\nReferee: Davide Di Marco\nAttendance: 9,523\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد تورينو — الدوري 
+ الإيطالي | Tomorrow: Sassuolo vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × تورينو | Kick-off in 30 min: Sassuolo vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749661@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260906T160000Z
+DTEND:20260906T180000Z
+SUMMARY:Bologna vs Sassuolo — Serie A
+LOCATION:Stadio Renato Dall'Ara\, Bologna\, Italy
+GEO:44.492290;11.309957
+URL:https://www.fotmob.com/match/5749661
+DESCRIPTION:⚽ بولونيا × ساسولو\n🏆 الدوري الإي
+ طالي — الجولة 3\n🗓 الأحد 6 سبتمبر 2026 · 19:00 
+ بتوقيت الرياض\n🏟 Stadio Renato Dall'Ara، Bologna\n📺 Sta
+ rzplay\n—————\n⚽ Bologna v Sassuolo\n🏆 Serie A — Matchday
+  3\n🗓 Sun 06 Sep 2026 · 16:00 UTC\n🏟 Stadio Renato Dall'Ara, Bologn
+ a\n📺 Starzplay\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد ساسولو — الدوري
+  الإيطالي — 📺 Starzplay | Tomorrow: Bologna vs Sassuolo | TV:
+  Starzplay
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × ساسولو — 📺 Starzplay | Kick-off in 30 min: Bologna vs S
+ assuolo | TV: Starzplay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749677@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260913T184500Z
+DTEND:20260913T204500Z
+SUMMARY:Sassuolo vs Juventus — Serie A
+LOCATION:MAPEI Stadium - Città del Tricolore\, Reggio Emilia\, Italy
+GEO:44.714637;10.649711
+URL:https://www.fotmob.com/match/5749677
+DESCRIPTION:⚽ ساسولو × يوفنتوس\n🏆 الدوري الإي
+ طالي — الجولة 4\n🗓 الأحد 13 سبتمبر 2026 · 21:45
+  بتوقيت الرياض\n🏟 MAPEI Stadium - Città del Tricolore، Re
+ ggio Emilia\n📺 DAZN UK\n—————\n⚽ Sassuolo v Juventus\n🏆 
+ Serie A — Matchday 4\n🗓 Sun 13 Sep 2026 · 18:45 UTC\n🏟 MAPEI Stad
+ ium - Città del Tricolore, Reggio Emilia\n📺 DAZN UK\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد يوفنتوس — الدوري
+  الإيطالي — 📺 DAZN UK | Tomorrow: Sassuolo vs Juventus | TV: 
+ DAZN UK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × يوفنتوس — 📺 DAZN UK | Kick-off in 30 min: Sassuolo vs Ju
+ ventus | TV: DAZN UK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749686@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260918T184500Z
+DTEND:20260918T204500Z
+SUMMARY:Monza vs Sassuolo — Serie A
+LOCATION:U-Power Stadium\, Monza\, Italy
+GEO:45.583064;9.308116
+URL:https://www.fotmob.com/match/5749686
+DESCRIPTION:⚽ مونزا × ساسولو\n🏆 الدوري الإيطا
+ لي — الجولة 5\n🗓 الجمعة 18 سبتمبر 2026 · 21:45 
+ بتوقيت الرياض\n🏟 U-Power Stadium، Monza\n—————\n
+ ⚽ Monza v Sassuolo\n🏆 Serie A — Matchday 5\n🗓 Fri 18 Sep 2026 ·
+  18:45 UTC\n🏟 U-Power Stadium, Monza\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد ساسولو — الدوري ا
+ لإيطالي | Tomorrow: Monza vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × ساسولو | Kick-off in 30 min: Monza vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749698@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T160000Z
+DTEND:20261011T180000Z
+SUMMARY:Sassuolo vs Milan — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749698
+DESCRIPTION:⚽ ساسولو × ميلان\n🏆 الدوري الإيطا
+ لي — الجولة 6\n🗓 الأحد 11 أكتوبر 2026 · 19:00 ب
+ توقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n——
+ ———\n⚽ Sassuolo v Milan\n🏆 Serie A — Matchday 6\n🗓 Sun 11 
+ Oct 2026 · 16:00 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد ميلان — الدوري ا
+ لإيطالي | Tomorrow: Sassuolo vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × ميلان | Kick-off in 30 min: Sassuolo vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749704@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261016T184500Z
+DTEND:20261016T204500Z
+SUMMARY:Frosinone vs Sassuolo — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749704
+DESCRIPTION:⚽ فروزينوني × ساسولو\n🏆 الدوري ال
+ إيطالي — الجولة 7\n🗓 الجمعة 16 أكتوبر 2026 ·
+  21:45 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n————
+ —\n⚽ Frosinone v Sassuolo\n🏆 Serie A — Matchday 7\n🗓 Fri 16 Oc
+ t 2026 · 18:45 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد ساسولو — الدو
+ ري الإيطالي | Tomorrow: Frosinone vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × ساسولو | Kick-off in 30 min: Frosinone vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749712@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T130000Z
+DTEND:20261024T150000Z
+SUMMARY:Como vs Sassuolo — Serie A
+LOCATION:Stadio G. Sinigaglia
+URL:https://www.fotmob.com/match/5749712
+DESCRIPTION:⚽ كومو × ساسولو\n🏆 الدوري الإيطال
+ ي — الجولة 8\n🗓 السبت 24 أكتوبر 2026 · 16:00 بت
+ وقيت الرياض\n🏟 Stadio G. Sinigaglia\n—————\n⚽ Com
+ o v Sassuolo\n🏆 Serie A — Matchday 8\n🗓 Sat 24 Oct 2026 · 13:00 U
+ TC\n🏟 Stadio G. Sinigaglia\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كومو ضد ساسولو — الدوري ال
+ إيطالي | Tomorrow: Como vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كومو ×
+  ساسولو | Kick-off in 30 min: Como vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749727@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261027T173000Z
+DTEND:20261027T193000Z
+SUMMARY:Sassuolo vs Lazio — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749727
+DESCRIPTION:⚽ ساسولو × لاتسيو\n🏆 الدوري الإيط
+ الي — الجولة 9\n🗓 الثلاثاء 27 أكتوبر 2026 · 2
+ 0:30 بتوقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n
+ —————\n⚽ Sassuolo v Lazio\n🏆 Serie A — Matchday 9\n🗓 T
+ ue 27 Oct 2026 · 17:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد لاتسيو — الدوري 
+ الإيطالي | Tomorrow: Sassuolo vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × لاتسيو | Kick-off in 30 min: Sassuolo vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749738@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261102T173000Z
+DTEND:20261102T193000Z
+SUMMARY:Sassuolo vs Fiorentina — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749738
+DESCRIPTION:⚽ ساسولو × فيورنتينا\n🏆 الدوري ال
+ إيطالي — الجولة 10\n🗓 الاثنين 2 نوفمبر 2026 
+ · 20:30 بتوقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolor
+ e\n—————\n⚽ Sassuolo v Fiorentina\n🏆 Serie A — Matchday 1
+ 0\n🗓 Mon 02 Nov 2026 · 17:30 UTC\n🏟 Stadio Mapei - Citta del Tricol
+ ore\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد فيورنتينا — الدو
+ ري الإيطالي | Tomorrow: Sassuolo vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × فيورنتينا | Kick-off in 30 min: Sassuolo vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749740@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T194500Z
+DTEND:20261107T214500Z
+SUMMARY:Roma vs Sassuolo — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749740
+DESCRIPTION:⚽ روما × ساسولو\n🏆 الدوري الإيطال
+ ي — الجولة 11\n🗓 السبت 7 نوفمبر 2026 · 22:45 بت
+ وقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ Ro
+ ma v Sassuolo\n🏆 Serie A — Matchday 11\n🗓 Sat 07 Nov 2026 · 19:45
+  UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد ساسولو — الدوري ال
+ إيطالي | Tomorrow: Roma vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  ساسولو | Kick-off in 30 min: Roma vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749759@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T113000Z
+DTEND:20261122T133000Z
+SUMMARY:Sassuolo vs Genoa — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749759
+DESCRIPTION:⚽ ساسولو × جنوى\n🏆 الدوري الإيطال
+ ي — الجولة 12\n🗓 الأحد 22 نوفمبر 2026 · 14:30 بت
+ وقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n———
+ ——\n⚽ Sassuolo v Genoa\n🏆 Serie A — Matchday 12\n🗓 Sun 22 No
+ v 2026 · 11:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد جنوى — الدوري ال
+ إيطالي | Tomorrow: Sassuolo vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × جنوى | Kick-off in 30 min: Sassuolo vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749766@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T173000Z
+DTEND:20261129T193000Z
+SUMMARY:Sassuolo vs Napoli — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749766
+DESCRIPTION:⚽ ساسولو × نابولي\n🏆 الدوري الإيط
+ الي — الجولة 13\n🗓 الأحد 29 نوفمبر 2026 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n——
+ ———\n⚽ Sassuolo v Napoli\n🏆 Serie A — Matchday 13\n🗓 Sun 2
+ 9 Nov 2026 · 17:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد نابولي — الدوري 
+ الإيطالي | Tomorrow: Sassuolo vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × نابولي | Kick-off in 30 min: Sassuolo vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749779@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T173000Z
+DTEND:20261206T193000Z
+SUMMARY:Venezia vs Sassuolo — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749779
+DESCRIPTION:⚽ فينيزيا × ساسولو\n🏆 الدوري الإي
+ طالي — الجولة 14\n🗓 الأحد 6 ديسمبر 2026 · 20:30
+  بتوقيت الرياض\n🏟 Stadio Pierluigi Penzo\n—————\n
+ ⚽ Venezia v Sassuolo\n🏆 Serie A — Matchday 14\n🗓 Sun 06 Dec 2026
+  · 17:30 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد ساسولو — الدوري
+  الإيطالي | Tomorrow: Venezia vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × ساسولو | Kick-off in 30 min: Venezia vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749786@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T173000Z
+DTEND:20261213T193000Z
+SUMMARY:Lecce vs Sassuolo — Serie A
+LOCATION:Stadio Ettore Giardiniero - Via del Mare
+URL:https://www.fotmob.com/match/5749786
+DESCRIPTION:⚽ ليتشي × ساسولو\n🏆 الدوري الإيطا
+ لي — الجولة 15\n🗓 الأحد 13 ديسمبر 2026 · 20:30 ب
+ توقيت الرياض\n🏟 Stadio Ettore Giardiniero - Via del Mare\n
+ —————\n⚽ Lecce v Sassuolo\n🏆 Serie A — Matchday 15\n🗓 
+ Sun 13 Dec 2026 · 17:30 UTC\n🏟 Stadio Ettore Giardiniero - Via del Mar
+ e\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليتشي ضد ساسولو — الدوري ا
+ لإيطالي | Tomorrow: Lecce vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليتشي 
+ × ساسولو | Kick-off in 30 min: Lecce vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749797@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T173000Z
+DTEND:20261220T193000Z
+SUMMARY:Sassuolo vs Parma — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749797
+DESCRIPTION:⚽ ساسولو × بارما\n🏆 الدوري الإيطا
+ لي — الجولة 16\n🗓 الأحد 20 ديسمبر 2026 · 20:30 ب
+ توقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n——
+ ———\n⚽ Sassuolo v Parma\n🏆 Serie A — Matchday 16\n🗓 Sun 20
+  Dec 2026 · 17:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد بارما — الدوري ا
+ لإيطالي | Tomorrow: Sassuolo vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × بارما | Kick-off in 30 min: Sassuolo vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749805@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T173000Z
+DTEND:20270103T193000Z
+SUMMARY:Inter vs Sassuolo — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749805
+DESCRIPTION:⚽ إنتر ميلان × ساسولو\n🏆 الدوري ال
+ إيطالي — الجولة 17\n🗓 الأحد 3 يناير 2027 · 20:
+ 30 بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\n⚽ I
+ nter v Sassuolo\n🏆 Serie A — Matchday 17\n🗓 Sun 03 Jan 2027 · 17:
+ 30 UTC\n🏟 Giuseppe Meazza\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد ساسولو — الد
+ وري الإيطالي | Tomorrow: Inter vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × ساسولو | Kick-off in 30 min: Inter vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749818@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T173000Z
+DTEND:20270106T193000Z
+SUMMARY:Sassuolo vs Udinese — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749818
+DESCRIPTION:⚽ ساسولو × أودينيزي\n🏆 الدوري الإ
+ يطالي — الجولة 18\n🗓 الأربعاء 6 يناير 2027 ·
+  20:30 بتوقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\
+ n—————\n⚽ Sassuolo v Udinese\n🏆 Serie A — Matchday 18\n
+ 🗓 Wed 06 Jan 2027 · 17:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد أودينيزي — الدور
+ ي الإيطالي | Tomorrow: Sassuolo vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × أودينيزي | Kick-off in 30 min: Sassuolo vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749822@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T173000Z
+DTEND:20270110T193000Z
+SUMMARY:Cagliari vs Sassuolo — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749822
+DESCRIPTION:⚽ كالياري × ساسولو\n🏆 الدوري الإي
+ طالي — الجولة 19\n🗓 الأحد 10 يناير 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cagliar
+ i v Sassuolo\n🏆 Serie A — Matchday 19\n🗓 Sun 10 Jan 2027 · 17:30 
+ UTC\n🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد ساسولو — الدوري
+  الإيطالي | Tomorrow: Cagliari vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × ساسولو | Kick-off in 30 min: Cagliari vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749838@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T173000Z
+DTEND:20270117T193000Z
+SUMMARY:Sassuolo vs Monza — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749838
+DESCRIPTION:⚽ ساسولو × مونزا\n🏆 الدوري الإيطا
+ لي — الجولة 20\n🗓 الأحد 17 يناير 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n———
+ ——\n⚽ Sassuolo v Monza\n🏆 Serie A — Matchday 20\n🗓 Sun 17 Ja
+ n 2027 · 17:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد مونزا — الدوري ا
+ لإيطالي | Tomorrow: Sassuolo vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × مونزا | Kick-off in 30 min: Sassuolo vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749843@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T173000Z
+DTEND:20270124T193000Z
+SUMMARY:Fiorentina vs Sassuolo — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749843
+DESCRIPTION:⚽ فيورنتينا × ساسولو\n🏆 الدوري ال
+ إيطالي — الجولة 21\n🗓 الأحد 24 يناير 2027 · 20
+ :30 بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n————
+ —\n⚽ Fiorentina v Sassuolo\n🏆 Serie A — Matchday 21\n🗓 Sun 24 
+ Jan 2027 · 17:30 UTC\n🏟 Artemio Franchi, Firenze\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد ساسولو — الدو
+ ري الإيطالي | Tomorrow: Fiorentina vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × ساسولو | Kick-off in 30 min: Fiorentina vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749857@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T173000Z
+DTEND:20270131T193000Z
+SUMMARY:Sassuolo vs Como — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749857
+DESCRIPTION:⚽ ساسولو × كومو\n🏆 الدوري الإيطال
+ ي — الجولة 22\n🗓 الأحد 31 يناير 2027 · 20:30 بتو
+ قيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n————
+ —\n⚽ Sassuolo v Como\n🏆 Serie A — Matchday 22\n🗓 Sun 31 Jan 20
+ 27 · 17:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد كومو — الدوري ال
+ إيطالي | Tomorrow: Sassuolo vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × كومو | Kick-off in 30 min: Sassuolo vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749866@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T173000Z
+DTEND:20270207T193000Z
+SUMMARY:Juventus vs Sassuolo — Serie A
+LOCATION:Allianz Stadium
+URL:https://www.fotmob.com/match/5749866
+DESCRIPTION:⚽ يوفنتوس × ساسولو\n🏆 الدوري الإي
+ طالي — الجولة 23\n🗓 الأحد 7 فبراير 2027 · 20:30
+  بتوقيت الرياض\n🏟 Allianz Stadium\n—————\n⚽ Juv
+ entus v Sassuolo\n🏆 Serie A — Matchday 23\n🗓 Sun 07 Feb 2027 · 17
+ :30 UTC\n🏟 Allianz Stadium\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد ساسولو — الدوري
+  الإيطالي | Tomorrow: Juventus vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × ساسولو | Kick-off in 30 min: Juventus vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749878@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T173000Z
+DTEND:20270214T193000Z
+SUMMARY:Torino vs Sassuolo — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749878
+DESCRIPTION:⚽ تورينو × ساسولو\n🏆 الدوري الإيط
+ الي — الجولة 24\n🗓 الأحد 14 فبراير 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n———
+ ——\n⚽ Torino v Sassuolo\n🏆 Serie A — Matchday 24\n🗓 Sun 14 F
+ eb 2027 · 17:30 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد ساسولو — الدوري 
+ الإيطالي | Tomorrow: Torino vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × ساسولو | Kick-off in 30 min: Torino vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749887@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T173000Z
+DTEND:20270221T193000Z
+SUMMARY:Sassuolo vs Roma — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749887
+DESCRIPTION:⚽ ساسولو × روما\n🏆 الدوري الإيطال
+ ي — الجولة 25\n🗓 الأحد 21 فبراير 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n———
+ ——\n⚽ Sassuolo v Roma\n🏆 Serie A — Matchday 25\n🗓 Sun 21 Feb
+  2027 · 17:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد روما — الدوري ال
+ إيطالي | Tomorrow: Sassuolo vs Roma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × روما | Kick-off in 30 min: Sassuolo vs Roma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749898@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T173000Z
+DTEND:20270228T193000Z
+SUMMARY:Parma vs Sassuolo — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749898
+DESCRIPTION:⚽ بارما × ساسولو\n🏆 الدوري الإيطا
+ لي — الجولة 26\n🗓 الأحد 28 فبراير 2027 · 20:30 ب
+ توقيت الرياض\n🏟 Stadio Ennio Tardini\n—————\n⚽ P
+ arma v Sassuolo\n🏆 Serie A — Matchday 26\n🗓 Sun 28 Feb 2027 · 17:
+ 30 UTC\n🏟 Stadio Ennio Tardini\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد ساسولو — الدوري ا
+ لإيطالي | Tomorrow: Parma vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × ساسولو | Kick-off in 30 min: Parma vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749908@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T173000Z
+DTEND:20270307T193000Z
+SUMMARY:Sassuolo vs Bologna — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749908
+DESCRIPTION:⚽ ساسولو × بولونيا\n🏆 الدوري الإي
+ طالي — الجولة 27\n🗓 الأحد 7 مارس 2027 · 20:30 ب
+ توقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n——
+ ———\n⚽ Sassuolo v Bologna\n🏆 Serie A — Matchday 27\n🗓 Sun 
+ 07 Mar 2027 · 17:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد بولونيا — الدوري
+  الإيطالي | Tomorrow: Sassuolo vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × بولونيا | Kick-off in 30 min: Sassuolo vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749910@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T173000Z
+DTEND:20270314T193000Z
+SUMMARY:Milan vs Sassuolo — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749910
+DESCRIPTION:⚽ ميلان × ساسولو\n🏆 الدوري الإيطا
+ لي — الجولة 28\n🗓 الأحد 14 مارس 2027 · 20:30 بتو
+ قيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v Sassuolo\
+ n🏆 Serie A — Matchday 28\n🗓 Sun 14 Mar 2027 · 17:30 UTC\n🏟 San
+  Siro\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد ساسولو — الدوري ا
+ لإيطالي | Tomorrow: Milan vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × ساسولو | Kick-off in 30 min: Milan vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749928@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T173000Z
+DTEND:20270321T193000Z
+SUMMARY:Sassuolo vs Cagliari — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749928
+DESCRIPTION:⚽ ساسولو × كالياري\n🏆 الدوري الإي
+ طالي — الجولة 29\n🗓 الأحد 21 مارس 2027 · 20:30 ب
+ توقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n——
+ ———\n⚽ Sassuolo v Cagliari\n🏆 Serie A — Matchday 29\n🗓 Sun
+  21 Mar 2027 · 17:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد كالياري — الدوري
+  الإيطالي | Tomorrow: Sassuolo vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × كالياري | Kick-off in 30 min: Sassuolo vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749937@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T163000Z
+DTEND:20270404T183000Z
+SUMMARY:Sassuolo vs Atalanta — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749937
+DESCRIPTION:⚽ ساسولو × أتالانتا\n🏆 الدوري الإ
+ يطالي — الجولة 30\n🗓 الأحد 4 أبريل 2027 · 19:30
+  بتوقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n—
+ ————\n⚽ Sassuolo v Atalanta\n🏆 Serie A — Matchday 30\n🗓 
+ Sun 04 Apr 2027 · 16:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد أتالانتا — الدور
+ ي الإيطالي | Tomorrow: Sassuolo vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × أتالانتا | Kick-off in 30 min: Sassuolo vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749947@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T163000Z
+DTEND:20270411T183000Z
+SUMMARY:Napoli vs Sassuolo — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749947
+DESCRIPTION:⚽ نابولي × ساسولو\n🏆 الدوري الإيط
+ الي — الجولة 31\n🗓 الأحد 11 أبريل 2027 · 19:30 ب
+ توقيت الرياض\n🏟 Diego Armando Maradona\n—————\n⚽
+  Napoli v Sassuolo\n🏆 Serie A — Matchday 31\n🗓 Sun 11 Apr 2027 · 
+ 16:30 UTC\n🏟 Diego Armando Maradona\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد ساسولو — الدوري 
+ الإيطالي | Tomorrow: Napoli vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × ساسولو | Kick-off in 30 min: Napoli vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749957@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T163000Z
+DTEND:20270418T183000Z
+SUMMARY:Sassuolo vs Lecce — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749957
+DESCRIPTION:⚽ ساسولو × ليتشي\n🏆 الدوري الإيطا
+ لي — الجولة 32\n🗓 الأحد 18 أبريل 2027 · 19:30 بت
+ وقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n———
+ ——\n⚽ Sassuolo v Lecce\n🏆 Serie A — Matchday 32\n🗓 Sun 18 Ap
+ r 2027 · 16:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد ليتشي — الدوري ا
+ لإيطالي | Tomorrow: Sassuolo vs Lecce
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × ليتشي | Kick-off in 30 min: Sassuolo vs Lecce
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749962@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270425T163000Z
+DTEND:20270425T183000Z
+SUMMARY:Genoa vs Sassuolo — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749962
+DESCRIPTION:⚽ جنوى × ساسولو\n🏆 الدوري الإيطال
+ ي — الجولة 33\n🗓 الأحد 25 أبريل 2027 · 19:30 بتو
+ قيت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n⚽ Geno
+ a v Sassuolo\n🏆 Serie A — Matchday 33\n🗓 Sun 25 Apr 2027 · 16:30 
+ UTC\n🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد ساسولو — الدوري ال
+ إيطالي | Tomorrow: Genoa vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  ساسولو | Kick-off in 30 min: Genoa vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749977@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T163000Z
+DTEND:20270502T183000Z
+SUMMARY:Sassuolo vs Frosinone — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749977
+DESCRIPTION:⚽ ساسولو × فروزينوني\n🏆 الدوري ال
+ إيطالي — الجولة 34\n🗓 الأحد 2 مايو 2027 · 19:30
+  بتوقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n—
+ ————\n⚽ Sassuolo v Frosinone\n🏆 Serie A — Matchday 34\n🗓
+  Sun 02 May 2027 · 16:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد فروزينوني — الدو
+ ري الإيطالي | Tomorrow: Sassuolo vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × فروزينوني | Kick-off in 30 min: Sassuolo vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749984@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T163000Z
+DTEND:20270509T183000Z
+SUMMARY:Lazio vs Sassuolo — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749984
+DESCRIPTION:⚽ لاتسيو × ساسولو\n🏆 الدوري الإيط
+ الي — الجولة 35\n🗓 الأحد 9 مايو 2027 · 19:30 بت
+ وقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ La
+ zio v Sassuolo\n🏆 Serie A — Matchday 35\n🗓 Sun 09 May 2027 · 16:3
+ 0 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد ساسولو — الدوري 
+ الإيطالي | Tomorrow: Lazio vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × ساسولو | Kick-off in 30 min: Lazio vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749999@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T163000Z
+DTEND:20270516T183000Z
+SUMMARY:Sassuolo vs Venezia — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749999
+DESCRIPTION:⚽ ساسولو × فينيزيا\n🏆 الدوري الإي
+ طالي — الجولة 36\n🗓 الأحد 16 مايو 2027 · 19:30 ب
+ توقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n——
+ ———\n⚽ Sassuolo v Venezia\n🏆 Serie A — Matchday 36\n🗓 Sun 
+ 16 May 2027 · 16:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد فينيزيا — الدوري
+  الإيطالي | Tomorrow: Sassuolo vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × فينيزيا | Kick-off in 30 min: Sassuolo vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750008@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T163000Z
+DTEND:20270523T183000Z
+SUMMARY:Udinese vs Sassuolo — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5750008
+DESCRIPTION:⚽ أودينيزي × ساسولو\n🏆 الدوري الإ
+ يطالي — الجولة 37\n🗓 الأحد 23 مايو 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n——
+ ———\n⚽ Udinese v Sassuolo\n🏆 Serie A — Matchday 37\n🗓 Sun 
+ 23 May 2027 · 16:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد ساسولو — الدور
+ ي الإيطالي | Tomorrow: Udinese vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × ساسولو | Kick-off in 30 min: Udinese vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750019@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T163000Z
+DTEND:20270530T183000Z
+SUMMARY:Sassuolo vs Inter — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5750019
+DESCRIPTION:⚽ ساسولو × إنتر ميلان\n🏆 الدوري ال
+ إيطالي — الجولة 38\n🗓 الأحد 30 مايو 2027 · 19:3
+ 0 بتوقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n—
+ ————\n⚽ Sassuolo v Inter\n🏆 Serie A — Matchday 38\n🗓 Sun
+  30 May 2027 · 16:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد إنتر ميلان — الد
+ وري الإيطالي | Tomorrow: Sassuolo vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × إنتر ميلان | Kick-off in 30 min: Sassuolo vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852784@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260817T163000Z
+DTEND:20260817T183000Z
+SUMMARY:Sassuolo vs Cesena (3 - 0) — Coppa Italia
+LOCATION:MAPEI Stadium - Città del Tricolore\, Reggio Emilia\, Italy
+GEO:44.714637;10.649711
+URL:https://www.fotmob.com/match/5852784
+DESCRIPTION:⚽ ساسولو × تشيزينا (3 - 0)\n🏆 كأس إيط
+ اليا — دور الـ32\n🗓 الاثنين 17 أغسطس 2026 · 19
+ :30 بتوقيت الرياض\n🏟 MAPEI Stadium - Città del Tricolore،
+  Reggio Emilia\n⚖️ الحكم: Niccolò Turrini\n👥 الحضور: 4,
+ 500\n—————\n⚽ Sassuolo v Cesena (3 - 0)\n🏆 Coppa Italia —
+  Round of 32\n🗓 Mon 17 Aug 2026 · 16:30 UTC\n🏟 MAPEI Stadium - Citt
+ à del Tricolore, Reggio Emilia\nReferee: Niccolò Turrini\nAttendance: 4,
+ 500\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد تشيزينا — كأس إي
+ طاليا | Tomorrow: Sassuolo vs Cesena
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × تشيزينا | Kick-off in 30 min: Sassuolo vs Cesena
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003657@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260902T130000Z
+DTEND:20260902T150000Z
+SUMMARY:Sassuolo vs Frosinone (1 - 1) — Coppa Italia
+LOCATION:MAPEI Stadium - Città del Tricolore\, Reggio Emilia\, Italy
+GEO:44.714637;10.649711
+URL:https://www.fotmob.com/match/6003657
+DESCRIPTION:⚽ ساسولو × فروزينوني (1 - 1)\n🏆 كأس إ
+ يطاليا — دور الـ32\n🗓 الأربعاء 2 سبتمبر 202
+ 6 · 16:00 بتوقيت الرياض\n🏟 MAPEI Stadium - Città del Tric
+ olore، Reggio Emilia\n⚖️ الحكم: Andrea Calzavara\n————
+ —\n⚽ Sassuolo v Frosinone (1 - 1)\n🏆 Coppa Italia — Round of 32\n
+ 🗓 Wed 02 Sep 2026 · 13:00 UTC\n🏟 MAPEI Stadium - Città del Tricolo
+ re, Reggio Emilia\nReferee: Andrea Calzavara\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد فروزينوني — كأس 
+ إيطاليا | Tomorrow: Sassuolo vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × فروزينوني | Kick-off in 30 min: Sassuolo vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003680@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T170000Z
+DTEND:20261202T190000Z
+SUMMARY:Juventus vs Sassuolo — Coppa Italia
+URL:https://www.fotmob.com/match/6003680
+DESCRIPTION:⚽ يوفنتوس × ساسولو\n🏆 كأس إيطاليا 
+ — دور الـ16\n🗓 الأربعاء 2 ديسمبر 2026 · 20:00 ب
+ توقيت الرياض\n—————\n⚽ Juventus v Sassuolo\n🏆 Co
+ ppa Italia — Round of 16\n🗓 Wed 02 Dec 2026 · 17:00 UTC\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد ساسولو — كأس إي
+ طاليا | Tomorrow: Juventus vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × ساسولو | Kick-off in 30 min: Juventus vs Sassuolo
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1441 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al Qadsiah — Saudi Pro League & AFC Champions League Eli
+ te & King's Cup Fixtures | القادسية — مباريات دوري ر
+ وشن السعودي ودوري أبطال آسيا للنخبة وكأس
+  خادم الحرمين الشريفين
+X-WR-CALDESC:Al Qadsiah — all matches in Saudi Pro League & AFC Champions
+  League Elite & King's Cup\, exact UTC kickoffs\, stadiums & TV. Data: Fot
+ Mob + 365scores · auto-updated 2026-09-05T19:31:10Z.  •  القادسي
+ ة — جميع المباريات في دوري روشن السعودي 
+ ودوري أبطال آسيا للنخبة وكأس خادم الحرمي
+ ن الشريفين بتوقيت UTC الدقيق مع الملاعب وا
+ لقنوات الناقلة. المصدر: FotMob + 365scores · تحدي
+ ث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5969047@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260813T180000Z
+DTEND:20260813T200000Z
+SUMMARY:Al Shabab vs Al Qadsiah (1 - 3) — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/5969047
+DESCRIPTION:⚽ الشباب × القادسية (1 - 3)\n🏆 دوري ر
+ وشن السعودي — الجولة 1\n🗓 الخميس 13 أغسطس 
+ 2026 · 21:00 بتوقيت الرياض\n🏟 SHG Arena، Riyadh\n👥 ا
+ لحضور: 5,530\n—————\n⚽ Al Shabab v Al Qadsiah (1 - 3)\n
+ 🏆 Saudi Pro League — Matchday 1\n🗓 Thu 13 Aug 2026 · 18:00 UTC\n
+ 🏟 SHG Arena, Riyadh\nAttendance: 5,530\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد القادسية — دوري 
+ روشن السعودي | Tomorrow: Al Shabab vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × القادسية | Kick-off in 30 min: Al Shabab vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970094@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260821T180000Z
+DTEND:20260821T200000Z
+SUMMARY:Al Qadsiah vs Al Ittihad (0 - 1) — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/5970094
+DESCRIPTION:⚽ القادسية × الاتحاد (0 - 1)\n🏆 دوري 
+ روشن السعودي — الجولة 2\n🗓 الجمعة 21 أغسط
+ س 2026 · 21:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd 
+ Stadium، Dammam\n⚖️ الحكم: Wilton Pereira Sampaio\n👥 الحض
+ ور: 10,709\n—————\n⚽ Al Qadsiah v Al Ittihad (0 - 1)\n🏆 S
+ audi Pro League — Matchday 2\n🗓 Fri 21 Aug 2026 · 18:00 UTC\n🏟 Pr
+ ince Mohammed Bin Fahd Stadium, Dammam\nReferee: Wilton Pereira Sampaio\nA
+ ttendance: 10,709\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الاتحاد — دوري
+  روشن السعودي | Tomorrow: Al Qadsiah vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الاتحاد | Kick-off in 30 min: Al Qadsiah vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970099@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260824T164000Z
+DTEND:20260824T184000Z
+SUMMARY:Neom SC vs Al Qadsiah (0 - 2) — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/5970099
+DESCRIPTION:⚽ نيوم × القادسية (0 - 2)\n🏆 دوري روش
+ ن السعودي — الجولة 3\n🗓 الاثنين 24 أغسطس 20
+ 26 · 19:40 بتوقيت الرياض\n🏟 King Khalid Sport City Stadium
+ ، Tabuk\n⚖️ الحكم: Faisal Al-Balawi\n👥 الحضور: 3,699\n
+ —————\n⚽ Neom SC v Al Qadsiah (0 - 2)\n🏆 Saudi Pro League 
+ — Matchday 3\n🗓 Mon 24 Aug 2026 · 16:40 UTC\n🏟 King Khalid Sport 
+ City Stadium, Tabuk\nReferee: Faisal Al-Balawi\nAttendance: 3,699\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد القادسية — دوري رو
+ شن السعودي | Tomorrow: Neom SC vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  القادسية | Kick-off in 30 min: Neom SC vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970115@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T180000Z
+DTEND:20260830T200000Z
+SUMMARY:Al Qadsiah vs Al-Faisaly (3 - 1) — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/5970115
+DESCRIPTION:⚽ القادسية × الفيصلي (3 - 1)\n🏆 دوري 
+ روشن السعودي — الجولة 4\n🗓 الأحد 30 أغسطس 
+ 2026 · 21:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Sta
+ dium، Dammam\n⚖️ الحكم: Majed Al-Shamrani\n—————\n⚽ 
+ Al Qadsiah v Al-Faisaly (3 - 1)\n🏆 Saudi Pro League — Matchday 4\n
+ 🗓 Sun 30 Aug 2026 · 18:00 UTC\n🏟 Prince Mohammed Bin Fahd Stadium, 
+ Dammam\nReferee: Majed Al-Shamrani\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الفيصلي — دوري
+  روشن السعودي | Tomorrow: Al Qadsiah vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الفيصلي | Kick-off in 30 min: Al Qadsiah vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970119@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260903T180000Z
+DTEND:20260903T200000Z
+SUMMARY:Al Diriyah vs Al Qadsiah (0 - 2) — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/5970119
+DESCRIPTION:⚽ الدرعية × القادسية (0 - 2)\n🏆 دوري 
+ روشن السعودي — الجولة 5\n🗓 الخميس 3 سبتمب
+ ر 2026 · 21:00 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n
+ ⚖️ الحكم: Ahmed Al-Rumaykhani\n—————\n⚽ Al Diriyah v 
+ Al Qadsiah (0 - 2)\n🏆 Saudi Pro League — Matchday 5\n🗓 Thu 03 Sep 
+ 2026 · 18:00 UTC\n🏟 Al-Awwal Park, Riyadh\nReferee: Ahmed Al-Rumaykhan
+ i\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الدرعية ضد القادسية — دوري
+  روشن السعودي | Tomorrow: Al Diriyah vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الدرع
+ ية × القادسية | Kick-off in 30 min: Al Diriyah vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970131@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T180000Z
+DTEND:20260908T200000Z
+SUMMARY:Al Qadsiah vs Al Ahli — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/5970131
+DESCRIPTION:⚽ القادسية × الأهلي\n🏆 دوري روشن ا
+ لسعودي — الجولة 6\n🗓 الثلاثاء 8 سبتمبر 2026
+  · 21:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium
+ ، Dammam\n📺 FOX Deportes، FOX Sports 2، Fubo Sports، FOX One، FOX 
+ Sports online\n—————\n⚽ Al Qadsiah v Al Ahli\n🏆 Saudi Pro L
+ eague — Matchday 6\n🗓 Tue 08 Sep 2026 · 18:00 UTC\n🏟 Prince Moham
+ med Bin Fahd Stadium, Dammam\n📺 FOX Deportes, FOX Sports 2, Fubo Sports
+ , FOX One, FOX Sports online\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الأهلي — دوري 
+ روشن السعودي — 📺 FOX Deportes، FOX Sports 2، Fubo Sports
+ ، FOX One، FOX Sports online | Tomorrow: Al Qadsiah vs Al Ahli | TV: FOX
+  Deportes\, FOX Sports 2\, Fubo Sports\, FOX One\, FOX Sports online
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الأهلي — 📺 FOX Deportes، FOX Sports 2، Fubo Sports
+ ، FOX One، FOX Sports online | Kick-off in 30 min: Al Qadsiah vs Al Ahli
+  | TV: FOX Deportes\, FOX Sports 2\, Fubo Sports\, FOX One\, FOX Sports on
+ line
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970139@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260911T152500Z
+DTEND:20260911T172500Z
+SUMMARY:Al Qadsiah vs Al-Ettifaq — Saudi Pro League
+LOCATION:Prince Saud bin Jalawi Stadium
+URL:https://www.fotmob.com/match/5970139
+DESCRIPTION:⚽ القادسية × الاتفاق\n🏆 دوري روشن 
+ السعودي — الجولة 7\n🗓 الجمعة 11 سبتمبر 2026 
+ · 18:25 بتوقيت الرياض\n🏟 Prince Saud bin Jalawi Stadium\n
+ 📺 FOX Deportes، FOX Sports online، FOX One\n—————\n⚽ Al Q
+ adsiah v Al-Ettifaq\n🏆 Saudi Pro League — Matchday 7\n🗓 Fri 11 Sep
+  2026 · 15:25 UTC\n🏟 Prince Saud bin Jalawi Stadium\n📺 FOX Deportes
+ , FOX Sports online, FOX One\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الاتفاق — دوري
+  روشن السعودي — 📺 FOX Deportes، FOX Sports online، FOX O
+ ne | Tomorrow: Al Qadsiah vs Al-Ettifaq | TV: FOX Deportes\, FOX Sports on
+ line\, FOX One
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الاتفاق — 📺 FOX Deportes، FOX Sports online، FOX O
+ ne | Kick-off in 30 min: Al Qadsiah vs Al-Ettifaq | TV: FOX Deportes\, FOX
+  Sports online\, FOX One
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970150@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261009T135000Z
+DTEND:20261009T155000Z
+SUMMARY:Al Kholood vs Al Qadsiah — Saudi Pro League
+LOCATION:King Abdullah Stadium\, Buraydah
+URL:https://www.fotmob.com/match/5970150
+DESCRIPTION:⚽ الخلود × القادسية\n🏆 دوري روشن ا
+ لسعودي — الجولة 8\n🗓 الجمعة 9 أكتوبر 2026 · 
+ 16:50 بتوقيت الرياض\n🏟 King Abdullah Stadium, Buraydah\n—
+ ————\n⚽ Al Kholood v Al Qadsiah\n🏆 Saudi Pro League — Match
+ day 8\n🗓 Fri 09 Oct 2026 · 13:50 UTC\n🏟 King Abdullah Stadium, Bura
+ ydah\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد القادسية — دوري 
+ روشن السعودي | Tomorrow: Al Kholood vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × القادسية | Kick-off in 30 min: Al Kholood vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970159@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261016T131500Z
+DTEND:20261016T151500Z
+SUMMARY:Al Qadsiah vs Abha — Saudi Pro League
+LOCATION:Prince Saud bin Jalawi Stadium
+URL:https://www.fotmob.com/match/5970159
+DESCRIPTION:⚽ القادسية × أبها\n🏆 دوري روشن الس
+ عودي — الجولة 9\n🗓 الجمعة 16 أكتوبر 2026 · 16:
+ 15 بتوقيت الرياض\n🏟 Prince Saud bin Jalawi Stadium\n——
+ ———\n⚽ Al Qadsiah v Abha\n🏆 Saudi Pro League — Matchday 9\n
+ 🗓 Fri 16 Oct 2026 · 13:15 UTC\n🏟 Prince Saud bin Jalawi Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد أبها — دوري رو
+ شن السعودي | Tomorrow: Al Qadsiah vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × أبها | Kick-off in 30 min: Al Qadsiah vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970170@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T151000Z
+DTEND:20261020T171000Z
+SUMMARY:Al-Taawoun vs Al Qadsiah — Saudi Pro League
+LOCATION:Al-Taawoun Club Stadium
+URL:https://www.fotmob.com/match/5970170
+DESCRIPTION:⚽ التعاون × القادسية\n🏆 دوري روشن 
+ السعودي — الجولة 10\n🗓 الثلاثاء 20 أكتوبر 
+ 2026 · 18:10 بتوقيت الرياض\n🏟 Al-Taawoun Club Stadium\n—
+ ————\n⚽ Al-Taawoun v Al Qadsiah\n🏆 Saudi Pro League — Match
+ day 10\n🗓 Tue 20 Oct 2026 · 15:10 UTC\n🏟 Al-Taawoun Club Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد القادسية — دوري
+  روشن السعودي | Tomorrow: Al-Taawoun vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × القادسية | Kick-off in 30 min: Al-Taawoun vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970177@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261023T180000Z
+DTEND:20261023T200000Z
+SUMMARY:Al Qadsiah vs Al Hilal — Saudi Pro League
+LOCATION:Prince Saud bin Jalawi Stadium
+URL:https://www.fotmob.com/match/5970177
+DESCRIPTION:⚽ القادسية × الهلال\n🏆 دوري روشن ا
+ لسعودي — الجولة 11\n🗓 الجمعة 23 أكتوبر 2026 
+ · 21:00 بتوقيت الرياض\n🏟 Prince Saud bin Jalawi Stadium\n
+ —————\n⚽ Al Qadsiah v Al Hilal\n🏆 Saudi Pro League — Matc
+ hday 11\n🗓 Fri 23 Oct 2026 · 18:00 UTC\n🏟 Prince Saud bin Jalawi St
+ adium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الهلال — دوري 
+ روشن السعودي | Tomorrow: Al Qadsiah vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الهلال | Kick-off in 30 min: Al Qadsiah vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970194@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261029T180000Z
+DTEND:20261029T200000Z
+SUMMARY:Al Riyadh vs Al Qadsiah — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium
+URL:https://www.fotmob.com/match/5970194
+DESCRIPTION:⚽ الرياض × القادسية\n🏆 دوري روشن ا
+ لسعودي — الجولة 12\n🗓 الخميس 29 أكتوبر 2026 
+ · 21:00 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium\n
+ —————\n⚽ Al Riyadh v Al Qadsiah\n🏆 Saudi Pro League — Mat
+ chday 12\n🗓 Thu 29 Oct 2026 · 18:00 UTC\n🏟 Prince Faisal bin Fahd S
+ tadium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد القادسية — دوري 
+ روشن السعودي | Tomorrow: Al Riyadh vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × القادسية | Kick-off in 30 min: Al Riyadh vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021476@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:Al Qadsiah vs Al-Fayha — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021476
+DESCRIPTION:⚽ القادسية × الفيحاء\n🏆 دوري روشن 
+ السعودي — الجولة 13\n🗓 الخميس 5 نوفمبر 2026 
+ · 03:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium
+ ، Dammam\n—————\n⚽ Al Qadsiah v Al-Fayha\n🏆 Saudi Pro Leag
+ ue — Matchday 13\n🗓 Thu 05 Nov 2026 · 00:00 UTC\n🏟 Prince Mohamme
+ d Bin Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الفيحاء — دوري
+  روشن السعودي | Tomorrow: Al Qadsiah vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الفيحاء | Kick-off in 30 min: Al Qadsiah vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021481@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Al Nassr FC vs Al Qadsiah — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021481
+DESCRIPTION:⚽ النصر × القادسية\n🏆 دوري روشن ال
+ سعودي — الجولة 14\n🗓 الجمعة 20 نوفمبر 2026 · 
+ 03:00 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n————
+ —\n⚽ Al Nassr FC v Al Qadsiah\n🏆 Saudi Pro League — Matchday 14\n
+ 🗓 Fri 20 Nov 2026 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد القادسية — دوري ر
+ وشن السعودي | Tomorrow: Al Nassr FC vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × القادسية | Kick-off in 30 min: Al Nassr FC vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021492@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Al Qadsiah vs Al Fateh FC — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021492
+DESCRIPTION:⚽ القادسية × الفتح\n🏆 دوري روشن ال
+ سعودي — الجولة 15\n🗓 الخميس 26 نوفمبر 2026 · 
+ 03:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، D
+ ammam\n—————\n⚽ Al Qadsiah v Al Fateh FC\n🏆 Saudi Pro Leagu
+ e — Matchday 15\n🗓 Thu 26 Nov 2026 · 00:00 UTC\n🏟 Prince Mohammed
+  Bin Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الفتح — دوري ر
+ وشن السعودي | Tomorrow: Al Qadsiah vs Al Fateh FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الفتح | Kick-off in 30 min: Al Qadsiah vs Al Fateh FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021498@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Al Hazem vs Al Qadsiah — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021498
+DESCRIPTION:⚽ الحزم × القادسية\n🏆 دوري روشن ال
+ سعودي — الجولة 16\n🗓 الخميس 3 ديسمبر 2026 · 0
+ 3:00 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium
+ )، Ar Rass\n—————\n⚽ Al Hazem v Al Qadsiah\n🏆 Saudi Pro Le
+ ague — Matchday 16\n🗓 Thu 03 Dec 2026 · 00:00 UTC\n🏟 Ar-Rass Stad
+ ium (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد القادسية — دوري ر
+ وشن السعودي | Tomorrow: Al Hazem vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × القادسية | Kick-off in 30 min: Al Hazem vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021510@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Al Qadsiah vs Al Khaleej — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021510
+DESCRIPTION:⚽ القادسية × الخليج\n🏆 دوري روشن ا
+ لسعودي — الجولة 17\n🗓 الخميس 10 ديسمبر 2026 
+ · 03:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium
+ ، Dammam\n—————\n⚽ Al Qadsiah v Al Khaleej\n🏆 Saudi Pro Le
+ ague — Matchday 17\n🗓 Thu 10 Dec 2026 · 00:00 UTC\n🏟 Prince Moham
+ med Bin Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الخليج — دوري 
+ روشن السعودي | Tomorrow: Al Qadsiah vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الخليج | Kick-off in 30 min: Al Qadsiah vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021520@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261214T000000Z
+DTEND:20261214T020000Z
+SUMMARY:Al Qadsiah vs Al Shabab — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021520
+DESCRIPTION:⚽ القادسية × الشباب\n🏆 دوري روشن ا
+ لسعودي — الجولة 18\n🗓 الاثنين 14 ديسمبر 2026
+  · 03:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium
+ ، Dammam\n—————\n⚽ Al Qadsiah v Al Shabab\n🏆 Saudi Pro Lea
+ gue — Matchday 18\n🗓 Mon 14 Dec 2026 · 00:00 UTC\n🏟 Prince Mohamm
+ ed Bin Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الشباب — دوري 
+ روشن السعودي | Tomorrow: Al Qadsiah vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الشباب | Kick-off in 30 min: Al Qadsiah vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021525@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270211T000000Z
+DTEND:20270211T020000Z
+SUMMARY:Al Ittihad vs Al Qadsiah — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021525
+DESCRIPTION:⚽ الاتحاد × القادسية\n🏆 دوري روشن 
+ السعودي — الجولة 19\n🗓 الخميس 11 فبراير 2027
+  · 03:00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdu
+ llah Sport City، Jeddah\n—————\n⚽ Al Ittihad v Al Qadsiah\n
+ 🏆 Saudi Pro League — Matchday 19\n🗓 Thu 11 Feb 2027 · 00:00 UTC\n
+ 🏟 Alinma Bank Stadium at King Abdullah Sport City, Jeddah\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد القادسية — دوري
+  روشن السعودي | Tomorrow: Al Ittihad vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × القادسية | Kick-off in 30 min: Al Ittihad vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021538@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270218T000000Z
+DTEND:20270218T020000Z
+SUMMARY:Al Qadsiah vs Neom SC — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021538
+DESCRIPTION:⚽ القادسية × نيوم\n🏆 دوري روشن الس
+ عودي — الجولة 20\n🗓 الخميس 18 فبراير 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Dam
+ mam\n—————\n⚽ Al Qadsiah v Neom SC\n🏆 Saudi Pro League — 
+ Matchday 20\n🗓 Thu 18 Feb 2027 · 00:00 UTC\n🏟 Prince Mohammed Bin F
+ ahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد نيوم — دوري رو
+ شن السعودي | Tomorrow: Al Qadsiah vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × نيوم | Kick-off in 30 min: Al Qadsiah vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021544@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270225T000000Z
+DTEND:20270225T020000Z
+SUMMARY:Al-Faisaly vs Al Qadsiah — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021544
+DESCRIPTION:⚽ الفيصلي × القادسية\n🏆 دوري روشن 
+ السعودي — الجولة 21\n🗓 الخميس 25 فبراير 2027
+  · 03:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium
+ ، Al Majma'ah\n—————\n⚽ Al-Faisaly v Al Qadsiah\n🏆 Saudi P
+ ro League — Matchday 21\n🗓 Thu 25 Feb 2027 · 00:00 UTC\n🏟 Al Majm
+ a'ah Sports City Stadium, Al Majma'ah\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد القادسية — دوري
+  روشن السعودي | Tomorrow: Al-Faisaly vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × القادسية | Kick-off in 30 min: Al-Faisaly vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021556@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270311T000000Z
+DTEND:20270311T020000Z
+SUMMARY:Al Qadsiah vs Al Diriyah — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021556
+DESCRIPTION:⚽ القادسية × الدرعية\n🏆 دوري روشن 
+ السعودي — الجولة 22\n🗓 الخميس 11 مارس 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، D
+ ammam\n—————\n⚽ Al Qadsiah v Al Diriyah\n🏆 Saudi Pro League
+  — Matchday 22\n🗓 Thu 11 Mar 2027 · 00:00 UTC\n🏟 Prince Mohammed 
+ Bin Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الدرعية — دوري
+  روشن السعودي | Tomorrow: Al Qadsiah vs Al Diriyah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الدرعية | Kick-off in 30 min: Al Qadsiah vs Al Diriyah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021558@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270318T000000Z
+DTEND:20270318T020000Z
+SUMMARY:Al Ahli vs Al Qadsiah — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021558
+DESCRIPTION:⚽ الأهلي × القادسية\n🏆 دوري روشن ا
+ لسعودي — الجولة 23\n🗓 الخميس 18 مارس 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah S
+ port City، Jeddah\n—————\n⚽ Al Ahli v Al Qadsiah\n🏆 Saudi 
+ Pro League — Matchday 23\n🗓 Thu 18 Mar 2027 · 00:00 UTC\n🏟 Alinma
+  Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد القادسية — دوري 
+ روشن السعودي | Tomorrow: Al Ahli vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × القادسية | Kick-off in 30 min: Al Ahli vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021568@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270402T000000Z
+DTEND:20270402T020000Z
+SUMMARY:Al-Ettifaq vs Al Qadsiah — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/1000021568
+DESCRIPTION:⚽ الاتفاق × القادسية\n🏆 دوري روشن 
+ السعودي — الجولة 24\n🗓 الجمعة 2 أبريل 2027 ·
+  03:00 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Dammam\n
+ —————\n⚽ Al-Ettifaq v Al Qadsiah\n🏆 Saudi Pro League — Ma
+ tchday 24\n🗓 Fri 02 Apr 2027 · 00:00 UTC\n🏟 Al Ettifaq Club Stadium
+ , Dammam\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد القادسية — دوري
+  روشن السعودي | Tomorrow: Al-Ettifaq vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × القادسية | Kick-off in 30 min: Al-Ettifaq vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021580@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270408T000000Z
+DTEND:20270408T020000Z
+SUMMARY:Al Qadsiah vs Al Kholood — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021580
+DESCRIPTION:⚽ القادسية × الخلود\n🏆 دوري روشن ا
+ لسعودي — الجولة 25\n🗓 الخميس 8 أبريل 2027 · 0
+ 3:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Da
+ mmam\n—————\n⚽ Al Qadsiah v Al Kholood\n🏆 Saudi Pro League 
+ — Matchday 25\n🗓 Thu 08 Apr 2027 · 00:00 UTC\n🏟 Prince Mohammed B
+ in Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الخلود — دوري 
+ روشن السعودي | Tomorrow: Al Qadsiah vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الخلود | Kick-off in 30 min: Al Qadsiah vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021585@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270415T000000Z
+DTEND:20270415T020000Z
+SUMMARY:Abha vs Al Qadsiah — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/1000021585
+DESCRIPTION:⚽ أبها × القادسية\n🏆 دوري روشن الس
+ عودي — الجولة 26\n🗓 الخميس 15 أبريل 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sports City 
+ Stadium، Abha\n—————\n⚽ Abha v Al Qadsiah\n🏆 Saudi Pro Lea
+ gue — Matchday 26\n🗓 Thu 15 Apr 2027 · 00:00 UTC\n🏟 Prince Sultan
+  bin Abdulaziz Sports City Stadium, Abha\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد القادسية — دوري رو
+ شن السعودي | Tomorrow: Abha vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  القادسية | Kick-off in 30 min: Abha vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021600@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T000000Z
+DTEND:20270418T020000Z
+SUMMARY:Al Qadsiah vs Al-Taawoun — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021600
+DESCRIPTION:⚽ القادسية × التعاون\n🏆 دوري روشن 
+ السعودي — الجولة 27\n🗓 الأحد 18 أبريل 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، D
+ ammam\n—————\n⚽ Al Qadsiah v Al-Taawoun\n🏆 Saudi Pro League
+  — Matchday 27\n🗓 Sun 18 Apr 2027 · 00:00 UTC\n🏟 Prince Mohammed 
+ Bin Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد التعاون — دوري
+  روشن السعودي | Tomorrow: Al Qadsiah vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × التعاون | Kick-off in 30 min: Al Qadsiah vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021606@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270422T000000Z
+DTEND:20270422T020000Z
+SUMMARY:Al Hilal vs Al Qadsiah — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/1000021606
+DESCRIPTION:⚽ الهلال × القادسية\n🏆 دوري روشن ا
+ لسعودي — الجولة 28\n🗓 الخميس 22 أبريل 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n————
+ —\n⚽ Al Hilal v Al Qadsiah\n🏆 Saudi Pro League — Matchday 28\n
+ 🗓 Thu 22 Apr 2027 · 00:00 UTC\n🏟 Kingdom Arena, Riyadh\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد القادسية — دوري 
+ روشن السعودي | Tomorrow: Al Hilal vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × القادسية | Kick-off in 30 min: Al Hilal vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021619@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270429T000000Z
+DTEND:20270429T020000Z
+SUMMARY:Al Qadsiah vs Al Riyadh — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021619
+DESCRIPTION:⚽ القادسية × الرياض\n🏆 دوري روشن ا
+ لسعودي — الجولة 29\n🗓 الخميس 29 أبريل 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، D
+ ammam\n—————\n⚽ Al Qadsiah v Al Riyadh\n🏆 Saudi Pro League 
+ — Matchday 29\n🗓 Thu 29 Apr 2027 · 00:00 UTC\n🏟 Prince Mohammed B
+ in Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الرياض — دوري 
+ روشن السعودي | Tomorrow: Al Qadsiah vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الرياض | Kick-off in 30 min: Al Qadsiah vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021621@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270506T000000Z
+DTEND:20270506T020000Z
+SUMMARY:Al-Fayha vs Al Qadsiah — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021621
+DESCRIPTION:⚽ الفيحاء × القادسية\n🏆 دوري روشن 
+ السعودي — الجولة 30\n🗓 الخميس 6 مايو 2027 · 0
+ 3:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al 
+ Majma'ah\n—————\n⚽ Al-Fayha v Al Qadsiah\n🏆 Saudi Pro Leagu
+ e — Matchday 30\n🗓 Thu 06 May 2027 · 00:00 UTC\n🏟 Al Majma'ah Spo
+ rts City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد القادسية — دوري
+  روشن السعودي | Tomorrow: Al-Fayha vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × القادسية | Kick-off in 30 min: Al-Fayha vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021637@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270512T000000Z
+DTEND:20270512T020000Z
+SUMMARY:Al Qadsiah vs Al Nassr FC — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021637
+DESCRIPTION:⚽ القادسية × النصر\n🏆 دوري روشن ال
+ سعودي — الجولة 31\n🗓 الأربعاء 12 مايو 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، D
+ ammam\n—————\n⚽ Al Qadsiah v Al Nassr FC\n🏆 Saudi Pro Leagu
+ e — Matchday 31\n🗓 Wed 12 May 2027 · 00:00 UTC\n🏟 Prince Mohammed
+  Bin Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد النصر — دوري ر
+ وشن السعودي | Tomorrow: Al Qadsiah vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × النصر | Kick-off in 30 min: Al Qadsiah vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021640@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270520T000000Z
+DTEND:20270520T020000Z
+SUMMARY:Al Fateh FC vs Al Qadsiah — Saudi Pro League
+LOCATION:Maydan Tamweel Aloula\, Al Ahsa\, Saudi Arabia
+GEO:25.429604;49.581390
+URL:https://www.fotmob.com/match/1000021640
+DESCRIPTION:⚽ الفتح × القادسية\n🏆 دوري روشن ال
+ سعودي — الجولة 32\n🗓 الخميس 20 مايو 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Maydan Tamweel Aloula، Al Ahsa\n——
+ ———\n⚽ Al Fateh FC v Al Qadsiah\n🏆 Saudi Pro League — Matchda
+ y 32\n🗓 Thu 20 May 2027 · 00:00 UTC\n🏟 Maydan Tamweel Aloula, Al Ah
+ sa\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفتح ضد القادسية — دوري ر
+ وشن السعودي | Tomorrow: Al Fateh FC vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفتح 
+ × القادسية | Kick-off in 30 min: Al Fateh FC vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021654@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270524T000000Z
+DTEND:20270524T020000Z
+SUMMARY:Al Qadsiah vs Al Hazem — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021654
+DESCRIPTION:⚽ القادسية × الحزم\n🏆 دوري روشن ال
+ سعودي — الجولة 33\n🗓 الاثنين 24 مايو 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Dam
+ mam\n—————\n⚽ Al Qadsiah v Al Hazem\n🏆 Saudi Pro League —
+  Matchday 33\n🗓 Mon 24 May 2027 · 00:00 UTC\n🏟 Prince Mohammed Bin 
+ Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الحزم — دوري ر
+ وشن السعودي | Tomorrow: Al Qadsiah vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الحزم | Kick-off in 30 min: Al Qadsiah vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021662@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270528T000000Z
+DTEND:20270528T020000Z
+SUMMARY:Al Khaleej vs Al Qadsiah — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021662
+DESCRIPTION:⚽ الخليج × القادسية\n🏆 دوري روشن ا
+ لسعودي — الجولة 34\n🗓 الجمعة 28 مايو 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Dam
+ mam\n—————\n⚽ Al Khaleej v Al Qadsiah\n🏆 Saudi Pro League 
+ — Matchday 34\n🗓 Fri 28 May 2027 · 00:00 UTC\n🏟 Prince Mohammed B
+ in Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد القادسية — دوري 
+ روشن السعودي | Tomorrow: Al Khaleej vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × القادسية | Kick-off in 30 min: Al Khaleej vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050069@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260914T181500Z
+DTEND:20260914T201500Z
+SUMMARY:Al Qadsiah vs Al-Wasl — AFC Champions League Elite
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/6050069
+DESCRIPTION:⚽ القادسية × الوصل\n🏆 دوري أبطال آ
+ سيا للنخبة — الجولة 1\n🗓 الاثنين 14 سبتمب
+ ر 2026 · 21:15 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd 
+ Stadium، Dammam\n—————\n⚽ Al Qadsiah v Al-Wasl\n🏆 AFC Cham
+ pions League Elite — Matchday 1\n🗓 Mon 14 Sep 2026 · 18:15 UTC\n🏟
+  Prince Mohammed Bin Fahd Stadium, Dammam\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الوصل — دوري أ
+ بطال آسيا للنخبة | Tomorrow: Al Qadsiah vs Al-Wasl
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الوصل | Kick-off in 30 min: Al Qadsiah vs Al-Wasl
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050072@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261012T134500Z
+DTEND:20261012T154500Z
+SUMMARY:Pakhtakor Tashkent vs Al Qadsiah — AFC Champions League Elite
+LOCATION:Paxtakor Markaziy stadioni\, Toshkent (Tashkent)\, Uzbekistan
+GEO:41.315470;69.260269
+URL:https://www.fotmob.com/match/6050072
+DESCRIPTION:⚽ باختاكور × القادسية\n🏆 دوري أبط
+ ال آسيا للنخبة — الجولة 2\n🗓 الاثنين 12 أك
+ توبر 2026 · 16:45 بتوقيت الرياض\n🏟 Paxtakor Markaziy s
+ tadioni، Toshkent (Tashkent)\n—————\n⚽ Pakhtakor Tashkent v A
+ l Qadsiah\n🏆 AFC Champions League Elite — Matchday 2\n🗓 Mon 12 Oct
+  2026 · 13:45 UTC\n🏟 Paxtakor Markaziy stadioni, Toshkent (Tashkent)\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باختاكور ضد القادسية — دور
+ ي أبطال آسيا للنخبة | Tomorrow: Pakhtakor Tashkent vs Al Q
+ adsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باختا
+ كور × القادسية | Kick-off in 30 min: Pakhtakor Tashkent vs Al 
+ Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050084@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261026T191500Z
+DTEND:20261026T211500Z
+SUMMARY:Al Qadsiah vs Al-Sadd — AFC Champions League Elite
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/6050084
+DESCRIPTION:⚽ القادسية × السد\n🏆 دوري أبطال آس
+ يا للنخبة — الجولة 3\n🗓 الاثنين 26 أكتوبر 
+ 2026 · 22:15 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Sta
+ dium، Dammam\n—————\n⚽ Al Qadsiah v Al-Sadd\n🏆 AFC Champio
+ ns League Elite — Matchday 3\n🗓 Mon 26 Oct 2026 · 19:15 UTC\n🏟 Pr
+ ince Mohammed Bin Fahd Stadium, Dammam\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد السد — دوري أب
+ طال آسيا للنخبة | Tomorrow: Al Qadsiah vs Al-Sadd
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × السد | Kick-off in 30 min: Al Qadsiah vs Al-Sadd
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050092@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261102T191500Z
+DTEND:20261102T211500Z
+SUMMARY:Al-Gharafa vs Al Qadsiah — AFC Champions League Elite
+LOCATION:Thani Bin Jassim Stadium (Al-Gharafah Stadium)\, Al Rayyan (Ar-Ray
+ yan)\, Qatar
+GEO:25.344787;51.440552
+URL:https://www.fotmob.com/match/6050092
+DESCRIPTION:⚽ الغرافة × القادسية\n🏆 دوري أبطا
+ ل آسيا للنخبة — الجولة 4\n🗓 الاثنين 2 نوف
+ مبر 2026 · 22:15 بتوقيت الرياض\n🏟 Thani Bin Jassim Stad
+ ium (Al-Gharafah Stadium)، Al Rayyan (Ar-Rayyan)\n—————\n⚽ Al
+ -Gharafa v Al Qadsiah\n🏆 AFC Champions League Elite — Matchday 4\n
+ 🗓 Mon 02 Nov 2026 · 19:15 UTC\n🏟 Thani Bin Jassim Stadium (Al-Ghara
+ fah Stadium), Al Rayyan (Ar-Rayyan)\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الغرافة ضد القادسية — دوري
+  أبطال آسيا للنخبة | Tomorrow: Al-Gharafa vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الغرا
+ فة × القادسية | Kick-off in 30 min: Al-Gharafa vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050102@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T170000Z
+DTEND:20261124T190000Z
+SUMMARY:Shabab Al-Ahli Dubai FC vs Al Qadsiah — AFC Champions League Elit
+ e
+LOCATION:Rashid Stadium\, Dubayy (Dubai)\, United Arab Emirates
+GEO:25.279704;55.360429
+URL:https://www.fotmob.com/match/6050102
+DESCRIPTION:⚽ شباب الاهلي × القادسية\n🏆 دوري أ
+ بطال آسيا للنخبة — الجولة 5\n🗓 الثلاثاء 2
+ 4 نوفمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Rashid Stadiu
+ m، Dubayy (Dubai)\n—————\n⚽ Shabab Al-Ahli Dubai FC v Al Qads
+ iah\n🏆 AFC Champions League Elite — Matchday 5\n🗓 Tue 24 Nov 2026 
+ · 17:00 UTC\n🏟 Rashid Stadium, Dubayy (Dubai)\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شباب الاهلي ضد القادسية — 
+ دوري أبطال آسيا للنخبة | Tomorrow: Shabab Al-Ahli Dubai
+  FC vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شباب ا
+ لاهلي × القادسية | Kick-off in 30 min: Shabab Al-Ahli Dubai 
+ FC vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050105@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261207T170000Z
+DTEND:20261207T190000Z
+SUMMARY:Al Qadsiah vs Al-Shamal — AFC Champions League Elite
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/6050105
+DESCRIPTION:⚽ القادسية × الشمال\n🏆 دوري أبطال 
+ آسيا للنخبة — الجولة 6\n🗓 الاثنين 7 ديسمب
+ ر 2026 · 20:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd 
+ Stadium، Dammam\n—————\n⚽ Al Qadsiah v Al-Shamal\n🏆 AFC Ch
+ ampions League Elite — Matchday 6\n🗓 Mon 07 Dec 2026 · 17:00 UTC\n
+ 🏟 Prince Mohammed Bin Fahd Stadium, Dammam\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الشمال — دوري 
+ أبطال آسيا للنخبة | Tomorrow: Al Qadsiah vs Al-Shamal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الشمال | Kick-off in 30 min: Al Qadsiah vs Al-Shamal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050113@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270208T170000Z
+DTEND:20270208T190000Z
+SUMMARY:Al-Ain vs Al Qadsiah — AFC Champions League Elite
+LOCATION:Hazza Bin Zayed Stadium\, Al-'Ayn (Al Ain)\, United Arab Emirates
+GEO:24.245056;55.717098
+URL:https://www.fotmob.com/match/6050113
+DESCRIPTION:⚽ العين × القادسية\n🏆 دوري أبطال آ
+ سيا للنخبة — الجولة 7\n🗓 الاثنين 8 فبراير
+  2027 · 20:00 بتوقيت الرياض\n🏟 Hazza Bin Zayed Stadium، A
+ l-'Ayn (Al Ain)\n—————\n⚽ Al-Ain v Al Qadsiah\n🏆 AFC Champi
+ ons League Elite — Matchday 7\n🗓 Mon 08 Feb 2027 · 17:00 UTC\n🏟 H
+ azza Bin Zayed Stadium, Al-'Ayn (Al Ain)\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: العين ضد القادسية — دوري أ
+ بطال آسيا للنخبة | Tomorrow: Al-Ain vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: العين 
+ × القادسية | Kick-off in 30 min: Al-Ain vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050124@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270215T191500Z
+DTEND:20270215T211500Z
+SUMMARY:Al Qadsiah vs Neftchi Fargona — AFC Champions League Elite
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/6050124
+DESCRIPTION:⚽ القادسية × نيفتشي فرغانة\n🏆 دور
+ ي أبطال آسيا للنخبة — الجولة 8\n🗓 الاثني
+ ن 15 فبراير 2027 · 22:15 بتوقيت الرياض\n🏟 Prince Mo
+ hammed Bin Fahd Stadium، Dammam\n—————\n⚽ Al Qadsiah v Neftch
+ i Fargona\n🏆 AFC Champions League Elite — Matchday 8\n🗓 Mon 15 Feb
+  2027 · 19:15 UTC\n🏟 Prince Mohammed Bin Fahd Stadium, Dammam\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد نيفتشي فرغانة 
+ — دوري أبطال آسيا للنخبة | Tomorrow: Al Qadsiah vs Ne
+ ftchi Fargona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × نيفتشي فرغانة | Kick-off in 30 min: Al Qadsiah vs Ne
+ ftchi Fargona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853722@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260817T161500Z
+DTEND:20260817T181500Z
+SUMMARY:Al Taee vs Al Qadsiah (0 - 5) — King's Cup
+LOCATION:Prince Abdul Aziz bin Musa'ed Stadium\, Ha'il (Hail)\, Saudi Arabi
+ a
+GEO:27.503989;41.697600
+URL:https://www.fotmob.com/match/5853722
+DESCRIPTION:⚽ الطائي × القادسية (0 - 5)\n🏆 كأس خا
+ دم الحرمين الشريفين — دور الـ32\n🗓 الاثن
+ ين 17 أغسطس 2026 · 19:15 بتوقيت الرياض\n🏟 Prince Ab
+ dul Aziz bin Musa'ed Stadium، Ha'il (Hail)\n—————\n⚽ Al Taee 
+ v Al Qadsiah (0 - 5)\n🏆 King's Cup — Round of 32\n🗓 Mon 17 Aug 202
+ 6 · 16:15 UTC\n🏟 Prince Abdul Aziz bin Musa'ed Stadium, Ha'il (Hail)\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الطائي ضد القادسية — كأس خ
+ ادم الحرمين الشريفين | Tomorrow: Al Taee vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الطائ
+ ي × القادسية | Kick-off in 30 min: Al Taee vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6125931@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Al Qadsiah vs Neom SC — King's Cup
+URL:https://www.fotmob.com/match/6125931
+DESCRIPTION:⚽ القادسية × نيوم\n🏆 كأس خادم الحر
+ مين الشريفين — دور الـ16\n🗓 الثلاثاء 1 دي
+ سمبر 2026 · 20:00 بتوقيت الرياض\n—————\n⚽ Al 
+ Qadsiah v Neom SC\n🏆 King's Cup — Round of 16\n🗓 Tue 01 Dec 2026 
+ · 17:00 UTC\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد نيوم — كأس خاد
+ م الحرمين الشريفين | Tomorrow: Al Qadsiah vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × نيوم | Kick-off in 30 min: Al Qadsiah vs Neom SC
+END:VALARM
+END:VEVENT
+END:VCALENDAR

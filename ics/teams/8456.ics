@@ -1,0 +1,1750 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Manchester City — Premier League & UEFA Champions League
+  & FA Cup Fixtures | مانشستر سيتي — مباريات الدور
+ ي الإنجليزي الممتاز ودوري أبطال أوروبا و
+ كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Manchester City — all matches in Premier League & UEFA Champ
+ ions League & FA Cup\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 
+ 365scores · auto-updated 2026-09-05T19:31:10Z.  •  مانشستر سي
+ تي — جميع المباريات في الدوري الإنجليزي 
+ الممتاز ودوري أبطال أوروبا وكأس الاتحاد 
+ الإنجليزي بتوقيت UTC الدقيق مع الملاعب وا
+ لقنوات الناقلة. المصدر: FotMob + 365scores · تحدي
+ ث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5795370@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260823T130000Z
+DTEND:20260823T150000Z
+SUMMARY:Manchester City vs AFC Bournemouth (2 - 1) — Premier League
+LOCATION:Etihad Stadium\, Manchester\, England
+GEO:53.483152;-2.200409
+URL:https://www.fotmob.com/match/5795370
+DESCRIPTION:⚽ مانشستر سيتي × بورنموث (2 - 1)\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 1\n🗓 ال
+ أحد 23 أغسطس 2026 · 16:00 بتوقيت الرياض\n🏟 Etihad 
+ Stadium، Manchester\n⚖️ الحكم: Jarred Gillett\n👥 الحضور
+ : 60,645\n—————\n⚽ Manchester City v AFC Bournemouth (2 - 1)\n
+ 🏆 Premier League — Matchday 1\n🗓 Sun 23 Aug 2026 · 13:00 UTC\n
+ 🏟 Etihad Stadium, Manchester\nReferee: Jarred Gillett\nAttendance: 60,6
+ 45\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد بورنموث — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Manchester City
+  vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × بورنموث | Kick-off in 30 min: Manchester City vs A
+ FC Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795429@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260828T190000Z
+DTEND:20260828T210000Z
+SUMMARY:Crystal Palace vs Manchester City (1 - 4) — Premier League
+LOCATION:Selhurst Park\, London\, England
+GEO:51.398279;-0.085503
+URL:https://www.fotmob.com/match/5795429
+DESCRIPTION:⚽ كريستال بالاس × مانشستر سيتي (1 - 4
+ )\n🏆 الدوري الإنجليزي الممتاز — الجولة 2\
+ n🗓 الجمعة 28 أغسطس 2026 · 22:00 بتوقيت الرياض\n
+ 🏟 Selhurst Park، London\n⚖️ الحكم: Andy Madley\n————
+ —\n⚽ Crystal Palace v Manchester City (1 - 4)\n🏆 Premier League —
+  Matchday 2\n🗓 Fri 28 Aug 2026 · 19:00 UTC\n🏟 Selhurst Park, London
+ \nReferee: Andy Madley\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد مانشستر س
+ يتي — الدوري الإنجليزي الممتاز | Tomorrow: Crys
+ tal Palace vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × مانشستر سيتي | Kick-off in 30 min: Crystal P
+ alace vs Manchester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795442@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T140000Z
+DTEND:20260905T160000Z
+SUMMARY:Manchester City vs Coventry City (1 - 0) — Premier League
+LOCATION:Etihad Stadium\, Manchester\, England
+GEO:53.483152;-2.200409
+URL:https://www.fotmob.com/match/5795442
+DESCRIPTION:⚽ مانشستر سيتي × كوفنتري سيتي (1 - 0)\
+ n🏆 الدوري الإنجليزي الممتاز — الجولة 3\n
+ 🗓 السبت 5 سبتمبر 2026 · 17:00 بتوقيت الرياض\n
+ 🏟 Etihad Stadium، Manchester\n📺 beIN SPORTS HD 1\n⚖️ الحكم
+ : Paul Tierney\n👥 الحضور: 60,765\n—————\n⚽ Manchester
+  City v Coventry City (1 - 0)\n🏆 Premier League — Matchday 3\n🗓 Sa
+ t 05 Sep 2026 · 14:00 UTC\n🏟 Etihad Stadium, Manchester\n📺 beIN Spo
+ rt 1 HD\nReferee: Paul Tierney\nAttendance: 60,765\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد كوفنتري سي
+ تي — الدوري الإنجليزي الممتاز — 📺 beIN SPOR
+ TS HD 1 | Tomorrow: Manchester City vs Coventry City | TV: beIN Sport 1 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × كوفنتري سيتي — 📺 beIN SPORTS HD 1 | Kick-
+ off in 30 min: Manchester City vs Coventry City | TV: beIN Sport 1 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795452@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260913T153000Z
+DTEND:20260913T173000Z
+SUMMARY:Manchester United vs Manchester City — Premier League
+LOCATION:Old Trafford\, Manchester\, England
+GEO:53.463094;-2.291374
+URL:https://www.fotmob.com/match/5795452
+DESCRIPTION:⚽ مانشستر يونايتد × مانشستر سيتي\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 4\n
+ 🗓 الأحد 13 سبتمبر 2026 · 18:30 بتوقيت الرياض\n
+ 🏟 Old Trafford، Manchester\n📺 Sky Sports Main Event، Sky Sports+ a
+ pp، Sky Sports Premier League، Sky Sports UHD، NOW، Telemundo، NBC Sp
+ orts Network، Peacock\n—————\n⚽ Manchester United v Mancheste
+ r City\n🏆 Premier League — Matchday 4\n🗓 Sun 13 Sep 2026 · 15:30 
+ UTC\n🏟 Old Trafford, Manchester\n📺 Sky Sports Main Event, Sky Sports
+ + app, Sky Sports Premier League, Sky Sports UHD, NOW, Telemundo, NBC Spor
+ ts Network, Peacock\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد مانشستر
+  سيتي — الدوري الإنجليزي الممتاز — 📺 Sky 
+ Sports Main Event، Sky Sports+ app، Sky Sports Premier League، Sky Spor
+ ts UHD، NOW، Telemundo، NBC Sports Network، Peacock | Tomorrow: Manche
+ ster United vs Manchester City | TV: Sky Sports Main Event\, Sky Sports+ a
+ pp\, Sky Sports Premier League\, Sky Sports UHD\, NOW\, Telemundo\, NBC Sp
+ orts Network\, Peacock
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × مانشستر سيتي — 📺 Sky Sports Main Ev
+ ent، Sky Sports+ app، Sky Sports Premier League، Sky Sports UHD، NOW،
+  Telemundo، NBC Sports Network، Peacock | Kick-off in 30 min: Manchester
+  United vs Manchester City | TV: Sky Sports Main Event\, Sky Sports+ app\,
+  Sky Sports Premier League\, Sky Sports UHD\, NOW\, Telemundo\, NBC Sports
+  Network\, Peacock
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795461@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:Manchester City vs Sunderland — Premier League
+LOCATION:Etihad Stadium\, Manchester\, England
+GEO:53.483152;-2.200409
+URL:https://www.fotmob.com/match/5795461
+DESCRIPTION:⚽ مانشستر سيتي × سندرلاند\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 5\n🗓 الأحد
+  20 سبتمبر 2026 · 16:00 بتوقيت الرياض\n🏟 Etihad Stad
+ ium، Manchester\n—————\n⚽ Manchester City v Sunderland\n🏆 
+ Premier League — Matchday 5\n🗓 Sun 20 Sep 2026 · 13:00 UTC\n🏟 Eti
+ had Stadium, Manchester\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد سندرلاند —
+  الدوري الإنجليزي الممتاز | Tomorrow: Manchester Cit
+ y vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × سندرلاند | Kick-off in 30 min: Manchester City vs
+  Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795472@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T153000Z
+DTEND:20261011T173000Z
+SUMMARY:Liverpool vs Manchester City — Premier League
+LOCATION:Anfield\, Liverpool\, England
+GEO:53.430828;-2.960853
+URL:https://www.fotmob.com/match/5795472
+DESCRIPTION:⚽ ليفربول × مانشستر سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 6\n🗓 الأحد 1
+ 1 أكتوبر 2026 · 18:30 بتوقيت الرياض\n🏟 Anfield، Liv
+ erpool\n—————\n⚽ Liverpool v Manchester City\n🏆 Premier Lea
+ gue — Matchday 6\n🗓 Sun 11 Oct 2026 · 15:30 UTC\n🏟 Anfield, Liver
+ pool\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد مانشستر سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Liverpool vs Ma
+ nchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × مانشستر سيتي | Kick-off in 30 min: Liverpool vs Manches
+ ter City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795481@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T140000Z
+DTEND:20261017T160000Z
+SUMMARY:Manchester City vs Ipswich Town — Premier League
+LOCATION:Etihad Stadium\, Manchester\, England
+GEO:53.483152;-2.200409
+URL:https://www.fotmob.com/match/5795481
+DESCRIPTION:⚽ مانشستر سيتي × إبسويتش تاون\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 7\n🗓 ال
+ سبت 17 أكتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 Etiha
+ d Stadium، Manchester\n—————\n⚽ Manchester City v Ipswich Tow
+ n\n🏆 Premier League — Matchday 7\n🗓 Sat 17 Oct 2026 · 14:00 UTC\n
+ 🏟 Etihad Stadium, Manchester\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد إبسويتش تا
+ ون — الدوري الإنجليزي الممتاز | Tomorrow: Manche
+ ster City vs Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × إبسويتش تاون | Kick-off in 30 min: Manchester 
+ City vs Ipswich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795486@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T113000Z
+DTEND:20261024T133000Z
+SUMMARY:Aston Villa vs Manchester City — Premier League
+LOCATION:Villa Park\, Birmingham\, England
+GEO:52.509091;-1.884842
+URL:https://www.fotmob.com/match/5795486
+DESCRIPTION:⚽ أستون فيلا × مانشستر سيتي\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 8\n🗓 السب
+ ت 24 أكتوبر 2026 · 14:30 بتوقيت الرياض\n🏟 Villa Par
+ k، Birmingham\n—————\n⚽ Aston Villa v Manchester City\n🏆 P
+ remier League — Matchday 8\n🗓 Sat 24 Oct 2026 · 11:30 UTC\n🏟 Vill
+ a Park, Birmingham\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد مانشستر سيتي 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Aston Villa
+  vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × مانشستر سيتي | Kick-off in 30 min: Aston Villa vs M
+ anchester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795502@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:Manchester City vs Brighton & Hove Albion — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795502
+DESCRIPTION:⚽ مانشستر سيتي × برايتون\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 9\n🗓 السبت 3
+ 1 أكتوبر 2026 · 18:00 بتوقيت الرياض\n🏟 Etihad Stadiu
+ m\n—————\n⚽ Manchester City v Brighton & Hove Albion\n🏆 Pre
+ mier League — Matchday 9\n🗓 Sat 31 Oct 2026 · 15:00 UTC\n🏟 Etihad
+  Stadium\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد برايتون — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Manchester City
+  vs Brighton & Hove Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × برايتون | Kick-off in 30 min: Manchester City vs B
+ righton & Hove Albion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795513@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Nottingham Forest vs Manchester City — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795513
+DESCRIPTION:⚽ نوتنجهام فورست × مانشستر سيتي\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 10\n
+ 🗓 السبت 7 نوفمبر 2026 · 18:00 بتوقيت الرياض\n
+ 🏟 City Ground, Nottingham\n—————\n⚽ Nottingham Forest v Man
+ chester City\n🏆 Premier League — Matchday 10\n🗓 Sat 07 Nov 2026 ·
+  15:00 UTC\n🏟 City Ground, Nottingham\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد مانشستر 
+ سيتي — الدوري الإنجليزي الممتاز | Tomorrow: No
+ ttingham Forest vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × مانشستر سيتي | Kick-off in 30 min: Notting
+ ham Forest vs Manchester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795522@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:Manchester City vs Fulham — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795522
+DESCRIPTION:⚽ مانشستر سيتي × فولهام\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 11\n🗓 السبت 21 
+ نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Etihad Stadium\
+ n—————\n⚽ Manchester City v Fulham\n🏆 Premier League — Ma
+ tchday 11\n🗓 Sat 21 Nov 2026 · 15:00 UTC\n🏟 Etihad Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد فولهام — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Manchester City v
+ s Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × فولهام | Kick-off in 30 min: Manchester City vs Ful
+ ham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795525@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:Arsenal vs Manchester City — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795525
+DESCRIPTION:⚽ أرسنال × مانشستر سيتي\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 12\n🗓 السبت 28 
+ نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Emirates Stadiu
+ m\n—————\n⚽ Arsenal v Manchester City\n🏆 Premier League —
+  Matchday 12\n🗓 Sat 28 Nov 2026 · 15:00 UTC\n🏟 Emirates Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد مانشستر سيتي — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Arsenal vs Manche
+ ster City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × مانشستر سيتي | Kick-off in 30 min: Arsenal vs Manchester 
+ City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795542@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Manchester City vs Leeds United — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795542
+DESCRIPTION:⚽ مانشستر سيتي × ليدز يونايتد\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 13\n🗓 ا
+ لأربعاء 2 ديسمبر 2026 · 23:00 بتوقيت الرياض\n
+ 🏟 Etihad Stadium\n—————\n⚽ Manchester City v Leeds United\n
+ 🏆 Premier League — Matchday 13\n🗓 Wed 02 Dec 2026 · 20:00 UTC\n
+ 🏟 Etihad Stadium\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد ليدز يوناي
+ تد — الدوري الإنجليزي الممتاز | Tomorrow: Manche
+ ster City vs Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × ليدز يونايتد | Kick-off in 30 min: Manchester 
+ City vs Leeds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795547@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Brentford vs Manchester City — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795547
+DESCRIPTION:⚽ برينتفورد × مانشستر سيتي\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 14\n🗓 الس
+ بت 5 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Gtech Co
+ mmunity Stadium\n—————\n⚽ Brentford v Manchester City\n🏆 Pr
+ emier League — Matchday 14\n🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 Gtec
+ h Community Stadium\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد مانشستر سيتي 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Brentford v
+ s Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × مانشستر سيتي | Kick-off in 30 min: Brentford vs Man
+ chester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795563@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Manchester City vs Chelsea — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795563
+DESCRIPTION:⚽ مانشستر سيتي × تشيلسي\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 15\n🗓 السبت 12 
+ ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Etihad Stadium\
+ n—————\n⚽ Manchester City v Chelsea\n🏆 Premier League — M
+ atchday 15\n🗓 Sat 12 Dec 2026 · 15:00 UTC\n🏟 Etihad Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد تشيلسي — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Manchester City v
+ s Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × تشيلسي | Kick-off in 30 min: Manchester City vs Che
+ lsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795572@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:Manchester City vs Hull City — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795572
+DESCRIPTION:⚽ مانشستر سيتي × هال سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 16\n🗓 السبت 
+ 19 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Etihad Stadi
+ um\n—————\n⚽ Manchester City v Hull City\n🏆 Premier League 
+ — Matchday 16\n🗓 Sat 19 Dec 2026 · 15:00 UTC\n🏟 Etihad Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد هال سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Manchester City
+  vs Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × هال سيتي | Kick-off in 30 min: Manchester City vs 
+ Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795583@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261226T150000Z
+DTEND:20261226T170000Z
+SUMMARY:Newcastle United vs Manchester City — Premier League
+LOCATION:St James' Park
+URL:https://www.fotmob.com/match/5795583
+DESCRIPTION:⚽ نيوكاسل يونايتد × مانشستر سيتي\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 17\n
+ 🗓 السبت 26 ديسمبر 2026 · 18:00 بتوقيت الرياض\n
+ 🏟 St James' Park\n—————\n⚽ Newcastle United v Manchester Ci
+ ty\n🏆 Premier League — Matchday 17\n🗓 Sat 26 Dec 2026 · 15:00 UTC
+ \n🏟 St James' Park\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل يونايتد ضد مانشستر
+  سيتي — الدوري الإنجليزي الممتاز | Tomorrow: N
+ ewcastle United vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل يونايتد × مانشستر سيتي | Kick-off in 30 min: Newca
+ stle United vs Manchester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795588@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261230T200000Z
+DTEND:20261230T220000Z
+SUMMARY:Everton vs Manchester City — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795588
+DESCRIPTION:⚽ إيفرتون × مانشستر سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 18\n🗓 الأرب
+ عاء 30 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Hill 
+ Dickinson Stadium\n—————\n⚽ Everton v Manchester City\n🏆 Pr
+ emier League — Matchday 18\n🗓 Wed 30 Dec 2026 · 20:00 UTC\n🏟 Hill
+  Dickinson Stadium\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد مانشستر سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Everton vs Manc
+ hester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × مانشستر سيتي | Kick-off in 30 min: Everton vs Mancheste
+ r City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795602@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T150000Z
+DTEND:20270102T170000Z
+SUMMARY:Manchester City vs Tottenham Hotspur — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795602
+DESCRIPTION:⚽ مانشستر سيتي × توتنهام هوتسبر\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 19\n
+ 🗓 السبت 2 يناير 2027 · 18:00 بتوقيت الرياض\n🏟
+  Etihad Stadium\n—————\n⚽ Manchester City v Tottenham Hotspur\
+ n🏆 Premier League — Matchday 19\n🗓 Sat 02 Jan 2027 · 15:00 UTC\n
+ 🏟 Etihad Stadium\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد توتنهام هو
+ تسبر — الدوري الإنجليزي الممتاز | Tomorrow: Ma
+ nchester City vs Tottenham Hotspur
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × توتنهام هوتسبر | Kick-off in 30 min: Manches
+ ter City vs Tottenham Hotspur
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795611@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T200000Z
+DTEND:20270106T220000Z
+SUMMARY:Leeds United vs Manchester City — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795611
+DESCRIPTION:⚽ ليدز يونايتد × مانشستر سيتي\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 20\n🗓 ا
+ لأربعاء 6 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 
+ Elland Road\n—————\n⚽ Leeds United v Manchester City\n🏆 Pre
+ mier League — Matchday 20\n🗓 Wed 06 Jan 2027 · 20:00 UTC\n🏟 Ellan
+ d Road\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد مانشستر سي
+ تي — الدوري الإنجليزي الممتاز | Tomorrow: Leeds 
+ United vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × مانشستر سيتي | Kick-off in 30 min: Leeds United
+  vs Manchester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795622@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:Manchester City vs Nottingham Forest — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795622
+DESCRIPTION:⚽ مانشستر سيتي × نوتنجهام فورست\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 21\n
+ 🗓 السبت 16 يناير 2027 · 18:00 بتوقيت الرياض\n
+ 🏟 Etihad Stadium\n—————\n⚽ Manchester City v Nottingham For
+ est\n🏆 Premier League — Matchday 21\n🗓 Sat 16 Jan 2027 · 15:00 UT
+ C\n🏟 Etihad Stadium\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد نوتنجهام ف
+ ورست — الدوري الإنجليزي الممتاز | Tomorrow: Ma
+ nchester City vs Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × نوتنجهام فورست | Kick-off in 30 min: Manches
+ ter City vs Nottingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795626@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:Brighton & Hove Albion vs Manchester City — Premier League
+LOCATION:The American Express Community Stadium
+URL:https://www.fotmob.com/match/5795626
+DESCRIPTION:⚽ برايتون × مانشستر سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 22\n🗓 السبت 
+ 23 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 The American E
+ xpress Community Stadium\n—————\n⚽ Brighton & Hove Albion v Ma
+ nchester City\n🏆 Premier League — Matchday 22\n🗓 Sat 23 Jan 2027 
+ · 15:00 UTC\n🏟 The American Express Community Stadium\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برايتون ضد مانشستر سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Brighton & Hove
+  Albion vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برايت
+ ون × مانشستر سيتي | Kick-off in 30 min: Brighton & Hove Albi
+ on vs Manchester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795642@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Manchester City vs Arsenal — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795642
+DESCRIPTION:⚽ مانشستر سيتي × أرسنال\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 23\n🗓 السبت 30 
+ يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Etihad Stadium\n
+ —————\n⚽ Manchester City v Arsenal\n🏆 Premier League — Ma
+ tchday 23\n🗓 Sat 30 Jan 2027 · 15:00 UTC\n🏟 Etihad Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد أرسنال — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Manchester City v
+ s Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × أرسنال | Kick-off in 30 min: Manchester City vs Ars
+ enal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795649@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Fulham vs Manchester City — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795649
+DESCRIPTION:⚽ فولهام × مانشستر سيتي\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 24\n🗓 السبت 6 
+ فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Craven Cottage\
+ n—————\n⚽ Fulham v Manchester City\n🏆 Premier League — Ma
+ tchday 24\n🗓 Sat 06 Feb 2027 · 15:00 UTC\n🏟 Craven Cottage\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد مانشستر سيتي — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Fulham vs Manches
+ ter City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × مانشستر سيتي | Kick-off in 30 min: Fulham vs Manchester C
+ ity
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795664@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270210T200000Z
+DTEND:20270210T220000Z
+SUMMARY:Tottenham Hotspur vs Manchester City — Premier League
+LOCATION:Tottenham Hotspur Stadium
+URL:https://www.fotmob.com/match/5795664
+DESCRIPTION:⚽ توتنهام هوتسبر × مانشستر سيتي\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 25\n
+ 🗓 الأربعاء 10 فبراير 2027 · 23:00 بتوقيت الري
+ اض\n🏟 Tottenham Hotspur Stadium\n—————\n⚽ Tottenham Hotsp
+ ur v Manchester City\n🏆 Premier League — Matchday 25\n🗓 Wed 10 Feb
+  2027 · 20:00 UTC\n🏟 Tottenham Hotspur Stadium\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توتنهام هوتسبر ضد مانشستر 
+ سيتي — الدوري الإنجليزي الممتاز | Tomorrow: To
+ ttenham Hotspur vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توتنه
+ ام هوتسبر × مانشستر سيتي | Kick-off in 30 min: Tottenh
+ am Hotspur vs Manchester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795672@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:Manchester City vs Newcastle United — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795672
+DESCRIPTION:⚽ مانشستر سيتي × نيوكاسل يونايتد\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 26\n
+ 🗓 السبت 20 فبراير 2027 · 18:00 بتوقيت الرياض\n
+ 🏟 Etihad Stadium\n—————\n⚽ Manchester City v Newcastle Unit
+ ed\n🏆 Premier League — Matchday 26\n🗓 Sat 20 Feb 2027 · 15:00 UTC
+ \n🏟 Etihad Stadium\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد نيوكاسل يو
+ نايتد — الدوري الإنجليزي الممتاز | Tomorrow: 
+ Manchester City vs Newcastle United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × نيوكاسل يونايتد | Kick-off in 30 min: Manch
+ ester City vs Newcastle United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795680@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T150000Z
+DTEND:20270227T170000Z
+SUMMARY:Hull City vs Manchester City — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795680
+DESCRIPTION:⚽ هال سيتي × مانشستر سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 27\n🗓 السبت 
+ 27 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 The MKM Stad
+ ium\n—————\n⚽ Hull City v Manchester City\n🏆 Premier League
+  — Matchday 27\n🗓 Sat 27 Feb 2027 · 15:00 UTC\n🏟 The MKM Stadium\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد مانشستر سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Hull City vs Ma
+ nchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × مانشستر سيتي | Kick-off in 30 min: Hull City vs Manches
+ ter City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795692@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270303T200000Z
+DTEND:20270303T220000Z
+SUMMARY:Manchester City vs Everton — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795692
+DESCRIPTION:⚽ مانشستر سيتي × إيفرتون\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 28\n🗓 الأرب
+ عاء 3 مارس 2027 · 23:00 بتوقيت الرياض\n🏟 Etihad Sta
+ dium\n—————\n⚽ Manchester City v Everton\n🏆 Premier League 
+ — Matchday 28\n🗓 Wed 03 Mar 2027 · 20:00 UTC\n🏟 Etihad Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد إيفرتون — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Manchester City
+  vs Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × إيفرتون | Kick-off in 30 min: Manchester City vs E
+ verton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795698@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T150000Z
+DTEND:20270313T170000Z
+SUMMARY:Coventry City vs Manchester City — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795698
+DESCRIPTION:⚽ كوفنتري سيتي × مانشستر سيتي\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 29\n🗓 ا
+ لسبت 13 مارس 2027 · 18:00 بتوقيت الرياض\n🏟 Coventr
+ y Building Society Arena\n—————\n⚽ Coventry City v Manchester 
+ City\n🏆 Premier League — Matchday 29\n🗓 Sat 13 Mar 2027 · 15:00 U
+ TC\n🏟 Coventry Building Society Arena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد مانشستر سي
+ تي — الدوري الإنجليزي الممتاز | Tomorrow: Covent
+ ry City vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × مانشستر سيتي | Kick-off in 30 min: Coventry Ci
+ ty vs Manchester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795712@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T150000Z
+DTEND:20270320T170000Z
+SUMMARY:Manchester City vs Manchester United — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795712
+DESCRIPTION:⚽ مانشستر سيتي × مانشستر يونايتد\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 30\n
+ 🗓 السبت 20 مارس 2027 · 18:00 بتوقيت الرياض\n🏟 
+ Etihad Stadium\n—————\n⚽ Manchester City v Manchester United\n
+ 🏆 Premier League — Matchday 30\n🗓 Sat 20 Mar 2027 · 15:00 UTC\n
+ 🏟 Etihad Stadium\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد مانشستر يو
+ نايتد — الدوري الإنجليزي الممتاز | Tomorrow: 
+ Manchester City vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × مانشستر يونايتد | Kick-off in 30 min: Manch
+ ester City vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795715@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T140000Z
+DTEND:20270410T160000Z
+SUMMARY:AFC Bournemouth vs Manchester City — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795715
+DESCRIPTION:⚽ بورنموث × مانشستر سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 31\n🗓 السبت 
+ 10 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 Vitality Stadi
+ um\n—————\n⚽ AFC Bournemouth v Manchester City\n🏆 Premier L
+ eague — Matchday 31\n🗓 Sat 10 Apr 2027 · 14:00 UTC\n🏟 Vitality St
+ adium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد مانشستر سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: AFC Bournemouth
+  vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × مانشستر سيتي | Kick-off in 30 min: AFC Bournemouth vs M
+ anchester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795732@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T140000Z
+DTEND:20270417T160000Z
+SUMMARY:Manchester City vs Crystal Palace — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795732
+DESCRIPTION:⚽ مانشستر سيتي × كريستال بالاس\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 32\n🗓 
+ السبت 17 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 Eti
+ had Stadium\n—————\n⚽ Manchester City v Crystal Palace\n🏆 P
+ remier League — Matchday 32\n🗓 Sat 17 Apr 2027 · 14:00 UTC\n🏟 Eti
+ had Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد كريستال با
+ لاس — الدوري الإنجليزي الممتاز | Tomorrow: Manc
+ hester City vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × كريستال بالاس | Kick-off in 30 min: Mancheste
+ r City vs Crystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795738@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T140000Z
+DTEND:20270424T160000Z
+SUMMARY:Chelsea vs Manchester City — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795738
+DESCRIPTION:⚽ تشيلسي × مانشستر سيتي\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 33\n🗓 السبت 24 
+ أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 Stamford Bridge\n
+ —————\n⚽ Chelsea v Manchester City\n🏆 Premier League — Ma
+ tchday 33\n🗓 Sat 24 Apr 2027 · 14:00 UTC\n🏟 Stamford Bridge\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد مانشستر سيتي — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Chelsea vs Manche
+ ster City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × مانشستر سيتي | Kick-off in 30 min: Chelsea vs Manchester 
+ City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795753@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T140000Z
+DTEND:20270501T160000Z
+SUMMARY:Manchester City vs Brentford — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795753
+DESCRIPTION:⚽ مانشستر سيتي × برينتفورد\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 34\n🗓 الس
+ بت 1 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Etihad Stadi
+ um\n—————\n⚽ Manchester City v Brentford\n🏆 Premier League 
+ — Matchday 34\n🗓 Sat 01 May 2027 · 14:00 UTC\n🏟 Etihad Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد برينتفورد 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Manchester 
+ City vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × برينتفورد | Kick-off in 30 min: Manchester City 
+ vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795774@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T140000Z
+DTEND:20270508T160000Z
+SUMMARY:Manchester City vs Liverpool — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795774
+DESCRIPTION:⚽ مانشستر سيتي × ليفربول\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 35\n🗓 السبت 
+ 8 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Etihad Stadium\n
+ —————\n⚽ Manchester City v Liverpool\n🏆 Premier League — 
+ Matchday 35\n🗓 Sat 08 May 2027 · 14:00 UTC\n🏟 Etihad Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد ليفربول — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Manchester City
+  vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × ليفربول | Kick-off in 30 min: Manchester City vs L
+ iverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795784@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T140000Z
+DTEND:20270515T160000Z
+SUMMARY:Ipswich Town vs Manchester City — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795784
+DESCRIPTION:⚽ إبسويتش تاون × مانشستر سيتي\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 36\n🗓 ا
+ لسبت 15 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Portman
+  Road\n—————\n⚽ Ipswich Town v Manchester City\n🏆 Premier L
+ eague — Matchday 36\n🗓 Sat 15 May 2027 · 14:00 UTC\n🏟 Portman Roa
+ d\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد مانشستر سي
+ تي — الدوري الإنجليزي الممتاز | Tomorrow: Ipswic
+ h Town vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × مانشستر سيتي | Kick-off in 30 min: Ipswich Tow
+ n vs Manchester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795794@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T140000Z
+DTEND:20270523T160000Z
+SUMMARY:Manchester City vs Aston Villa — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795794
+DESCRIPTION:⚽ مانشستر سيتي × أستون فيلا\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 37\n🗓 الأ
+ حد 23 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Etihad Stad
+ ium\n—————\n⚽ Manchester City v Aston Villa\n🏆 Premier Leag
+ ue — Matchday 37\n🗓 Sun 23 May 2027 · 14:00 UTC\n🏟 Etihad Stadium
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد أستون فيلا 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Manchester 
+ City vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × أستون فيلا | Kick-off in 30 min: Manchester City
+  vs Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795807@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T150000Z
+DTEND:20270530T170000Z
+SUMMARY:Sunderland vs Manchester City — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795807
+DESCRIPTION:⚽ سندرلاند × مانشستر سيتي\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 38\n🗓 الأح
+ د 30 مايو 2027 · 18:00 بتوقيت الرياض\n🏟 Stadium of Li
+ ght\n—————\n⚽ Sunderland v Manchester City\n🏆 Premier Leagu
+ e — Matchday 38\n🗓 Sun 30 May 2027 · 15:00 UTC\n🏟 Stadium of Ligh
+ t\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد مانشستر سيتي —
+  الدوري الإنجليزي الممتاز | Tomorrow: Sunderland vs 
+ Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × مانشستر سيتي | Kick-off in 30 min: Sunderland vs Manc
+ hester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106286@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T190000Z
+DTEND:20260908T210000Z
+SUMMARY:FC Porto vs Manchester City — UEFA Champions League
+LOCATION:Estádio Do Dragão\, Porto\, Portugal
+GEO:41.161791;-8.583739
+URL:https://www.fotmob.com/match/6106286
+DESCRIPTION:⚽ بورتو × مانشستر سيتي\n🏆 دوري أبط
+ ال أوروبا — الجولة 1\n🗓 الثلاثاء 8 سبتمبر
+  2026 · 22:00 بتوقيت الرياض\n🏟 Estádio Do Dragão، Porto
+ \n📺 Paramount+ (US)\n—————\n⚽ FC Porto v Manchester City\n
+ 🏆 UEFA Champions League — Matchday 1\n🗓 Tue 08 Sep 2026 · 19:00 U
+ TC\n🏟 Estádio Do Dragão, Porto\n📺 Paramount+ (US)\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورتو ضد مانشستر سيتي — دو
+ ري أبطال أوروبا — 📺 Paramount+ (US) | Tomorrow: FC Porto
+  vs Manchester City | TV: Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورتو 
+ × مانشستر سيتي — 📺 Paramount+ (US) | Kick-off in 30 min: 
+ FC Porto vs Manchester City | TV: Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106254@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+SUMMARY:Manchester City vs Paris Saint-Germain — UEFA Champions League
+LOCATION:Etihad Stadium\, Manchester\, England
+GEO:53.483152;-2.200409
+URL:https://www.fotmob.com/match/6106254
+DESCRIPTION:⚽ مانشستر سيتي × باريس سان جيرمان\n
+ 🏆 دوري أبطال أوروبا — الجولة 2\n🗓 الأرب
+ عاء 14 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Etiha
+ d Stadium، Manchester\n—————\n⚽ Manchester City v Paris Saint
+ -Germain\n🏆 UEFA Champions League — Matchday 2\n🗓 Wed 14 Oct 2026 
+ · 19:00 UTC\n🏟 Etihad Stadium, Manchester\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد باريس سان ج
+ يرمان — دوري أبطال أوروبا | Tomorrow: Manchester Cit
+ y vs Paris Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × باريس سان جيرمان | Kick-off in 30 min: Manc
+ hester City vs Paris Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106257@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:Manchester City vs AEK Athens — UEFA Champions League
+LOCATION:Etihad Stadium\, Manchester\, England
+GEO:53.483152;-2.200409
+URL:https://www.fotmob.com/match/6106257
+DESCRIPTION:⚽ مانشستر سيتي × أيك أثينا\n🏆 دوري
+  أبطال أوروبا — الجولة 3\n🗓 الثلاثاء 20 أك
+ توبر 2026 · 22:00 بتوقيت الرياض\n🏟 Etihad Stadium، Ma
+ nchester\n—————\n⚽ Manchester City v AEK Athens\n🏆 UEFA Cha
+ mpions League — Matchday 3\n🗓 Tue 20 Oct 2026 · 19:00 UTC\n🏟 Etih
+ ad Stadium, Manchester\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد أيك أثينا 
+ — دوري أبطال أوروبا | Tomorrow: Manchester City vs AEK At
+ hens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × أيك أثينا | Kick-off in 30 min: Manchester City v
+ s AEK Athens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106322@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+SUMMARY:RB Leipzig vs Manchester City — UEFA Champions League
+LOCATION:Red Bull Arena Leipzig
+URL:https://www.fotmob.com/match/6106322
+DESCRIPTION:⚽ لايبزيج × مانشستر سيتي\n🏆 دوري أ
+ بطال أوروبا — الجولة 4\n🗓 الأربعاء 4 نوفم
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Red Bull Arena Leipzig\
+ n—————\n⚽ RB Leipzig v Manchester City\n🏆 UEFA Champions Le
+ ague — Matchday 4\n🗓 Wed 04 Nov 2026 · 20:00 UTC\n🏟 Red Bull Aren
+ a Leipzig\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لايبزيج ضد مانشستر سيتي — 
+ دوري أبطال أوروبا | Tomorrow: RB Leipzig vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لايبز
+ يج × مانشستر سيتي | Kick-off in 30 min: RB Leipzig vs Manche
+ ster City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106256@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+SUMMARY:Manchester City vs Napoli — UEFA Champions League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/6106256
+DESCRIPTION:⚽ مانشستر سيتي × نابولي\n🏆 دوري أب
+ طال أوروبا — الجولة 5\n🗓 الثلاثاء 24 نوفم
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Etihad Stadium\n——
+ ———\n⚽ Manchester City v Napoli\n🏆 UEFA Champions League — Ma
+ tchday 5\n🗓 Tue 24 Nov 2026 · 20:00 UTC\n🏟 Etihad Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد نابولي — د
+ وري أبطال أوروبا | Tomorrow: Manchester City vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × نابولي | Kick-off in 30 min: Manchester City vs Nap
+ oli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106262@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+SUMMARY:Barcelona vs Manchester City — UEFA Champions League
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/6106262
+DESCRIPTION:⚽ برشلونة × مانشستر سيتي\n🏆 دوري أ
+ بطال أوروبا — الجولة 6\n🗓 الثلاثاء 8 ديسم
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n—
+ ————\n⚽ Barcelona v Manchester City\n🏆 UEFA Champions League 
+ — Matchday 6\n🗓 Tue 08 Dec 2026 · 20:00 UTC\n🏟 Spotify Camp Nou\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد مانشستر سيتي — 
+ دوري أبطال أوروبا | Tomorrow: Barcelona vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × مانشستر سيتي | Kick-off in 30 min: Barcelona vs Manches
+ ter City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106413@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+SUMMARY:Lens vs Manchester City — UEFA Champions League
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/6106413
+DESCRIPTION:⚽ لانس × مانشستر سيتي\n🏆 دوري أبطا
+ ل أوروبا — الجولة 7\n🗓 الأربعاء 20 يناير 20
+ 27 · 23:00 بتوقيت الرياض\n🏟 Stade Bollaert-Delelis\n——
+ ———\n⚽ Lens v Manchester City\n🏆 UEFA Champions League — Matc
+ hday 7\n🗓 Wed 20 Jan 2027 · 20:00 UTC\n🏟 Stade Bollaert-Delelis\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد مانشستر سيتي — دور
+ ي أبطال أوروبا | Tomorrow: Lens vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  مانشستر سيتي | Kick-off in 30 min: Lens vs Manchester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106255@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Manchester City vs Sporting CP — UEFA Champions League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/6106255
+DESCRIPTION:⚽ مانشستر سيتي × سبورتنج لشبونة\n
+ 🏆 دوري أبطال أوروبا — الجولة 8\n🗓 الأرب
+ عاء 27 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Etihad 
+ Stadium\n—————\n⚽ Manchester City v Sporting CP\n🏆 UEFA Cha
+ mpions League — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Etih
+ ad Stadium\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد سبورتنج لش
+ بونة — دوري أبطال أوروبا | Tomorrow: Manchester City 
+ vs Sporting CP
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × سبورتنج لشبونة | Kick-off in 30 min: Manches
+ ter City vs Sporting CP
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089901@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T150000Z
+DTEND:20260110T170000Z
+SUMMARY:Manchester City vs Exeter City (10 - 1) — FA Cup
+LOCATION:Etihad Stadium\, Manchester\, England
+GEO:53.483152;-2.200409
+URL:https://www.fotmob.com/match/5089901
+DESCRIPTION:⚽ مانشستر سيتي × Exeter City (10 - 1)\n🏆 كأ
+ س الاتحاد الإنجليزي — الدور الثالث\n🗓 ا
+ لسبت 10 يناير 2026 · 18:00 بتوقيت الرياض\n🏟 Etiha
+ d Stadium، Manchester\n⚖️ الحكم: Adam Herczeg\n👥 الحضور
+ : 50,705\n—————\n⚽ Manchester City v Exeter City (10 - 1)\n
+ 🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 15:00 UTC\n🏟 Etihad St
+ adium, Manchester\nReferee: Adam Herczeg\nAttendance: 50,705\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد Exeter City — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Manchester City vs Exeter
+  City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × Exeter City | Kick-off in 30 min: Manchester City vs Exet
+ er City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135175@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260214T150000Z
+DTEND:20260214T170000Z
+SUMMARY:Manchester City vs Salford City (2 - 0) — FA Cup
+LOCATION:Etihad Stadium\, Manchester\, England
+GEO:53.483152;-2.200409
+URL:https://www.fotmob.com/match/5135175
+DESCRIPTION:⚽ مانشستر سيتي × Salford City (2 - 0)\n🏆 كأ
+ س الاتحاد الإنجليزي — الدور الرابع\n🗓 ا
+ لسبت 14 فبراير 2026 · 18:00 بتوقيت الرياض\n🏟 Eti
+ had Stadium، Manchester\n⚖️ الحكم: Matt Donohue\n👥 الحضو
+ ر: 46,774\n—————\n⚽ Manchester City v Salford City (2 - 0)\n
+ 🏆 FA Cup — Round 4\n🗓 Sat 14 Feb 2026 · 15:00 UTC\n🏟 Etihad St
+ adium, Manchester\nReferee: Matt Donohue\nAttendance: 46,774\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد Salford City — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Manchester City vs Salf
+ ord City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × Salford City | Kick-off in 30 min: Manchester City vs Sal
+ ford City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5186380@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260307T200000Z
+DTEND:20260307T220000Z
+SUMMARY:Newcastle United vs Manchester City (1 - 3) — FA Cup
+LOCATION:St. James' Park\, Newcastle upon Tyne\, England
+GEO:54.975540;-1.621621
+URL:https://www.fotmob.com/match/5186380
+DESCRIPTION:⚽ نيوكاسل يونايتد × مانشستر سيتي (1
+  - 3)\n🏆 كأس الاتحاد الإنجليزي — الدور الخ
+ امس\n🗓 السبت 7 مارس 2026 · 23:00 بتوقيت الرياض
+ \n🏟 St. James' Park، Newcastle upon Tyne\n⚖️ الحكم: Samuel Ba
+ rrott\n👥 الحضور: 51,109\n—————\n⚽ Newcastle United v 
+ Manchester City (1 - 3)\n🏆 FA Cup — Round 5\n🗓 Sat 07 Mar 2026 · 
+ 20:00 UTC\n🏟 St. James' Park, Newcastle upon Tyne\nReferee: Samuel Barr
+ ott\nAttendance: 51,109\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل يونايتد ضد مانشستر
+  سيتي — كأس الاتحاد الإنجليزي | Tomorrow: Newcast
+ le United vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل يونايتد × مانشستر سيتي | Kick-off in 30 min: Newca
+ stle United vs Manchester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5231047@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260404T114500Z
+DTEND:20260404T134500Z
+SUMMARY:Manchester City vs Liverpool (4 - 0) — FA Cup
+LOCATION:Etihad Stadium\, Manchester\, England
+GEO:53.483152;-2.200409
+URL:https://www.fotmob.com/match/5231047
+DESCRIPTION:⚽ مانشستر سيتي × ليفربول (4 - 0)\n🏆 ك
+ أس الاتحاد الإنجليزي — ربع النهائي\n🗓 ا
+ لسبت 4 أبريل 2026 · 14:45 بتوقيت الرياض\n🏟 Etihad
+  Stadium، Manchester\n⚖️ الحكم: Michael Oliver\n👥 الحضو
+ ر: 50,754\n—————\n⚽ Manchester City v Liverpool (4 - 0)\n🏆
+  FA Cup — Quarter-Finals\n🗓 Sat 04 Apr 2026 · 11:45 UTC\n🏟 Etihad
+  Stadium, Manchester\nReferee: Michael Oliver\nAttendance: 50,754\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد ليفربول — 
+ كأس الاتحاد الإنجليزي | Tomorrow: Manchester City vs Li
+ verpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × ليفربول | Kick-off in 30 min: Manchester City vs L
+ iverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5293793@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260425T161500Z
+DTEND:20260425T181500Z
+SUMMARY:Manchester City vs Southampton (2 - 1) — FA Cup
+LOCATION:Wembley Stadium\, London\, England
+GEO:51.555855;-0.279593
+URL:https://www.fotmob.com/match/5293793
+DESCRIPTION:⚽ مانشستر سيتي × ساوثهامبتون (2 - 1)\n
+ 🏆 كأس الاتحاد الإنجليزي — نصف النهائي\n
+ 🗓 السبت 25 أبريل 2026 · 19:15 بتوقيت الرياض\n
+ 🏟 Wembley Stadium، London\n⚖️ الحكم: Craig Pawson\n👥 ال
+ حضور: 70,053\n—————\n⚽ Manchester City v Southampton (2 - 
+ 1)\n🏆 FA Cup — Semi-Finals\n🗓 Sat 25 Apr 2026 · 16:15 UTC\n🏟 W
+ embley Stadium, London\nReferee: Craig Pawson\nAttendance: 70,053\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد ساوثهامبتو
+ ن — كأس الاتحاد الإنجليزي | Tomorrow: Manchester Cit
+ y vs Southampton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × ساوثهامبتون | Kick-off in 30 min: Manchester C
+ ity vs Southampton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5315746@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260516T140000Z
+DTEND:20260516T160000Z
+SUMMARY:Chelsea vs Manchester City (0 - 1) — FA Cup
+LOCATION:Wembley Stadium\, London\, England
+GEO:51.555855;-0.279593
+URL:https://www.fotmob.com/match/5315746
+DESCRIPTION:⚽ تشيلسي × مانشستر سيتي (0 - 1)\n🏆 كأ
+ س الاتحاد الإنجليزي — النهائي\n🗓 السبت 1
+ 6 مايو 2026 · 17:00 بتوقيت الرياض\n🏟 Wembley Stadium،
+  London\n⚖️ الحكم: Darren England\n👥 الحضور: 83,337\n—
+ ————\n⚽ Chelsea v Manchester City (0 - 1)\n🏆 FA Cup — Final
+ \n🗓 Sat 16 May 2026 · 14:00 UTC\n🏟 Wembley Stadium, London\nReferee
+ : Darren England\nAttendance: 83,337\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد مانشستر سيتي — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Chelsea vs Manchester C
+ ity
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × مانشستر سيتي | Kick-off in 30 min: Chelsea vs Manchester 
+ City
+END:VALARM
+END:VEVENT
+END:VCALENDAR

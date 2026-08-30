@@ -1,0 +1,1577 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Aston Villa — Premier League & UEFA Champions League & F
+ A Cup Fixtures | أستون فيلا — مباريات الدوري ال
+ إنجليزي الممتاز ودوري أبطال أوروبا وكأس 
+ الاتحاد الإنجليزي
+X-WR-CALDESC:Aston Villa — all matches in Premier League & UEFA Champions
+  League & FA Cup\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365s
+ cores · auto-updated 2026-09-05T19:31:10Z.  •  أستون فيلا — 
+ جميع المباريات في الدوري الإنجليزي المم
+ تاز ودوري أبطال أوروبا وكأس الاتحاد الإن
+ جليزي بتوقيت UTC الدقيق مع الملاعب والقنو
+ ات الناقلة. المصدر: FotMob + 365scores · تحديث تلق
+ ائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5795369@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260823T130000Z
+DTEND:20260823T150000Z
+SUMMARY:Brighton & Hove Albion vs Aston Villa (4 - 0) — Premier League
+LOCATION:American Express Stadium\, Falmer\, East Sussex\, England
+GEO:50.861580;-0.083642
+URL:https://www.fotmob.com/match/5795369
+DESCRIPTION:⚽ برايتون × أستون فيلا (4 - 0)\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 1\n🗓 الأح
+ د 23 أغسطس 2026 · 16:00 بتوقيت الرياض\n🏟 American Ex
+ press Stadium، Falmer, East Sussex\n⚖️ الحكم: Peter Bankes\n👥
+  الحضور: 31,746\n—————\n⚽ Brighton & Hove Albion v Aston
+  Villa (4 - 0)\n🏆 Premier League — Matchday 1\n🗓 Sun 23 Aug 2026 
+ · 13:00 UTC\n🏟 American Express Stadium, Falmer, East Sussex\nReferee:
+  Peter Bankes\nAttendance: 31,746\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برايتون ضد أستون فيلا — ال
+ دوري الإنجليزي الممتاز | Tomorrow: Brighton & Hove Alb
+ ion vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برايت
+ ون × أستون فيلا | Kick-off in 30 min: Brighton & Hove Albion v
+ s Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795426@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260831T190000Z
+DTEND:20260831T210000Z
+SUMMARY:Aston Villa vs Arsenal (0 - 1) — Premier League
+LOCATION:Villa Park\, Birmingham\, England
+GEO:52.509091;-1.884842
+URL:https://www.fotmob.com/match/5795426
+DESCRIPTION:⚽ أستون فيلا × أرسنال (0 - 1)\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 2\n🗓 الاثن
+ ين 31 أغسطس 2026 · 22:00 بتوقيت الرياض\n🏟 Villa Par
+ k، Birmingham\n⚖️ الحكم: Jarred Gillett\n—————\n⚽ As
+ ton Villa v Arsenal (0 - 1)\n🏆 Premier League — Matchday 2\n🗓 Mon 
+ 31 Aug 2026 · 19:00 UTC\n🏟 Villa Park, Birmingham\nReferee: Jarred Gil
+ lett\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد أرسنال — الد
+ وري الإنجليزي الممتاز | Tomorrow: Aston Villa vs Arsena
+ l
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × أرسنال | Kick-off in 30 min: Aston Villa vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795440@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T163000Z
+DTEND:20260905T183000Z
+SUMMARY:Hull City vs Aston Villa (0 - 0) — Premier League
+LOCATION:MKM Stadium\, Hull\, England
+GEO:53.746240;-0.367640
+URL:https://www.fotmob.com/match/5795440
+DESCRIPTION:⚽ هال سيتي × أستون فيلا (0 - 0)\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 3\n🗓 السب
+ ت 5 سبتمبر 2026 · 19:30 بتوقيت الرياض\n🏟 MKM Stadiu
+ m، Hull\n📺 beIN SPORTS HD 1\n⚖️ الحكم: Michael Oliver\n👥 
+ الحضور: 24,425\n—————\n⚽ Hull City v Aston Villa (0 - 0)
+ \n🏆 Premier League — Matchday 3\n🗓 Sat 05 Sep 2026 · 16:30 UTC\n
+ 🏟 MKM Stadium, Hull\n📺 beIN Sport 1 HD\nReferee: Michael Oliver\nAtt
+ endance: 24,425\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد أستون فيلا — ال
+ دوري الإنجليزي الممتاز — 📺 beIN SPORTS HD 1 | Tom
+ orrow: Hull City vs Aston Villa | TV: beIN Sport 1 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × أستون فيلا — 📺 beIN SPORTS HD 1 | Kick-off in 30 min
+ : Hull City vs Aston Villa | TV: beIN Sport 1 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795446@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T140000Z
+DTEND:20260912T160000Z
+SUMMARY:Aston Villa vs Nottingham Forest — Premier League
+LOCATION:Villa Park\, Birmingham\, England
+GEO:52.509091;-1.884842
+URL:https://www.fotmob.com/match/5795446
+DESCRIPTION:⚽ أستون فيلا × نوتنجهام فورست\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 4\n🗓 ال
+ سبت 12 سبتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Villa
+  Park، Birmingham\n📺 Fubo Sports CA، StarHub TV+، Astro Go\n——
+ ———\n⚽ Aston Villa v Nottingham Forest\n🏆 Premier League — Ma
+ tchday 4\n🗓 Sat 12 Sep 2026 · 14:00 UTC\n🏟 Villa Park, Birmingham\n
+ 📺 Fubo Sports CA, StarHub TV+, Astro Go\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد نوتنجهام فور
+ ست — الدوري الإنجليزي الممتاز — 📺 Fubo Spor
+ ts CA، StarHub TV+، Astro Go | Tomorrow: Aston Villa vs Nottingham Fores
+ t | TV: Fubo Sports CA\, StarHub TV+\, Astro Go
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × نوتنجهام فورست — 📺 Fubo Sports CA، StarHub 
+ TV+، Astro Go | Kick-off in 30 min: Aston Villa vs Nottingham Forest | TV
+ : Fubo Sports CA\, StarHub TV+\, Astro Go
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795464@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T113000Z
+DTEND:20260919T133000Z
+SUMMARY:Tottenham Hotspur vs Aston Villa — Premier League
+LOCATION:Tottenham Hotspur Stadium\, London\, England
+GEO:51.604217;-0.066229
+URL:https://www.fotmob.com/match/5795464
+DESCRIPTION:⚽ توتنهام هوتسبر × أستون فيلا\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 5\n🗓 ال
+ سبت 19 سبتمبر 2026 · 14:30 بتوقيت الرياض\n🏟 Totte
+ nham Hotspur Stadium، London\n—————\n⚽ Tottenham Hotspur v As
+ ton Villa\n🏆 Premier League — Matchday 5\n🗓 Sat 19 Sep 2026 · 11:
+ 30 UTC\n🏟 Tottenham Hotspur Stadium, London\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توتنهام هوتسبر ضد أستون في
+ لا — الدوري الإنجليزي الممتاز | Tomorrow: Totten
+ ham Hotspur vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توتنه
+ ام هوتسبر × أستون فيلا | Kick-off in 30 min: Tottenham H
+ otspur vs Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795466@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T140000Z
+DTEND:20261010T160000Z
+SUMMARY:Aston Villa vs Brentford — Premier League
+LOCATION:Villa Park\, Birmingham\, England
+GEO:52.509091;-1.884842
+URL:https://www.fotmob.com/match/5795466
+DESCRIPTION:⚽ أستون فيلا × برينتفورد\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 6\n🗓 السبت 1
+ 0 أكتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 Villa Park، 
+ Birmingham\n—————\n⚽ Aston Villa v Brentford\n🏆 Premier Lea
+ gue — Matchday 6\n🗓 Sat 10 Oct 2026 · 14:00 UTC\n🏟 Villa Park, Bi
+ rmingham\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد برينتفورد — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Aston Villa vs 
+ Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × برينتفورد | Kick-off in 30 min: Aston Villa vs Brentf
+ ord
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795482@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T163000Z
+DTEND:20261017T183000Z
+SUMMARY:Newcastle United vs Aston Villa — Premier League
+LOCATION:St. James' Park\, Newcastle upon Tyne\, England
+GEO:54.975540;-1.621621
+URL:https://www.fotmob.com/match/5795482
+DESCRIPTION:⚽ نيوكاسل يونايتد × أستون فيلا\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 7\n🗓 ا
+ لسبت 17 أكتوبر 2026 · 19:30 بتوقيت الرياض\n🏟 St.
+  James' Park، Newcastle upon Tyne\n—————\n⚽ Newcastle United 
+ v Aston Villa\n🏆 Premier League — Matchday 7\n🗓 Sat 17 Oct 2026 ·
+  16:30 UTC\n🏟 St. James' Park, Newcastle upon Tyne\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل يونايتد ضد أستون ف
+ يلا — الدوري الإنجليزي الممتاز | Tomorrow: Newc
+ astle United vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل يونايتد × أستون فيلا | Kick-off in 30 min: Newcastle
+  United vs Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795486@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T113000Z
+DTEND:20261024T133000Z
+SUMMARY:Aston Villa vs Manchester City — Premier League
+LOCATION:Villa Park\, Birmingham\, England
+GEO:52.509091;-1.884842
+URL:https://www.fotmob.com/match/5795486
+DESCRIPTION:⚽ أستون فيلا × مانشستر سيتي\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 8\n🗓 السب
+ ت 24 أكتوبر 2026 · 14:30 بتوقيت الرياض\n🏟 Villa Par
+ k، Birmingham\n—————\n⚽ Aston Villa v Manchester City\n🏆 P
+ remier League — Matchday 8\n🗓 Sat 24 Oct 2026 · 11:30 UTC\n🏟 Vill
+ a Park, Birmingham\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد مانشستر سيتي 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Aston Villa
+  vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × مانشستر سيتي | Kick-off in 30 min: Aston Villa vs M
+ anchester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795496@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T200000Z
+DTEND:20261031T220000Z
+SUMMARY:Aston Villa vs Fulham — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795496
+DESCRIPTION:⚽ أستون فيلا × فولهام\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 9\n🗓 السبت 31 أك
+ توبر 2026 · 23:00 بتوقيت الرياض\n🏟 Villa Park\n——
+ ———\n⚽ Aston Villa v Fulham\n🏆 Premier League — Matchday 9\n
+ 🗓 Sat 31 Oct 2026 · 20:00 UTC\n🏟 Villa Park\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد فولهام — الد
+ وري الإنجليزي الممتاز | Tomorrow: Aston Villa vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × فولهام | Kick-off in 30 min: Aston Villa vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795512@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Manchester United vs Aston Villa — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795512
+DESCRIPTION:⚽ مانشستر يونايتد × أستون فيلا\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 10\n🗓 
+ السبت 7 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Ol
+ d Trafford\n—————\n⚽ Manchester United v Aston Villa\n🏆 Pre
+ mier League — Matchday 10\n🗓 Sat 07 Nov 2026 · 15:00 UTC\n🏟 Old T
+ rafford\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد أستون ف
+ يلا — الدوري الإنجليزي الممتاز | Tomorrow: Manc
+ hester United vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × أستون فيلا | Kick-off in 30 min: Mancheste
+ r United vs Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795516@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:Aston Villa vs Sunderland — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795516
+DESCRIPTION:⚽ أستون فيلا × سندرلاند\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 11\n🗓 السبت 21 
+ نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Villa Park\n—
+ ————\n⚽ Aston Villa v Sunderland\n🏆 Premier League — Matchd
+ ay 11\n🗓 Sat 21 Nov 2026 · 15:00 UTC\n🏟 Villa Park\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد سندرلاند — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Aston Villa vs Su
+ nderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × سندرلاند | Kick-off in 30 min: Aston Villa vs Sunderla
+ nd
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795530@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:Ipswich Town vs Aston Villa — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795530
+DESCRIPTION:⚽ إبسويتش تاون × أستون فيلا\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 12\n🗓 الس
+ بت 28 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Portman
+  Road\n—————\n⚽ Ipswich Town v Aston Villa\n🏆 Premier Leagu
+ e — Matchday 12\n🗓 Sat 28 Nov 2026 · 15:00 UTC\n🏟 Portman Road\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد أستون فيلا 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Ipswich Tow
+ n vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × أستون فيلا | Kick-off in 30 min: Ipswich Town vs
+  Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795536@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Aston Villa vs Everton — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795536
+DESCRIPTION:⚽ أستون فيلا × إيفرتون\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 13\n🗓 الأربعاء
+  2 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Villa Park\n
+ —————\n⚽ Aston Villa v Everton\n🏆 Premier League — Matchd
+ ay 13\n🗓 Wed 02 Dec 2026 · 20:00 UTC\n🏟 Villa Park\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد إيفرتون — ال
+ دوري الإنجليزي الممتاز | Tomorrow: Aston Villa vs Ever
+ ton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × إيفرتون | Kick-off in 30 min: Aston Villa vs Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795546@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Aston Villa vs Crystal Palace — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795546
+DESCRIPTION:⚽ أستون فيلا × كريستال بالاس\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 14\n🗓 ال
+ سبت 5 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Villa 
+ Park\n—————\n⚽ Aston Villa v Crystal Palace\n🏆 Premier Leag
+ ue — Matchday 14\n🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 Villa Park\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد كريستال بالا
+ س — الدوري الإنجليزي الممتاز | Tomorrow: Aston Vi
+ lla vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × كريستال بالاس | Kick-off in 30 min: Aston Villa vs
+  Crystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795557@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Coventry City vs Aston Villa — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795557
+DESCRIPTION:⚽ كوفنتري سيتي × أستون فيلا\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 15\n🗓 الس
+ بت 12 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Coventr
+ y Building Society Arena\n—————\n⚽ Coventry City v Aston Villa
+ \n🏆 Premier League — Matchday 15\n🗓 Sat 12 Dec 2026 · 15:00 UTC\n
+ 🏟 Coventry Building Society Arena\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد أستون فيلا 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Coventry Ci
+ ty vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × أستون فيلا | Kick-off in 30 min: Coventry City v
+ s Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795569@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:Chelsea vs Aston Villa — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795569
+DESCRIPTION:⚽ تشيلسي × أستون فيلا\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 16\n🗓 السبت 19 دي
+ سمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Stamford Bridge\n
+ —————\n⚽ Chelsea v Aston Villa\n🏆 Premier League — Matchd
+ ay 16\n🗓 Sat 19 Dec 2026 · 15:00 UTC\n🏟 Stamford Bridge\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد أستون فيلا — الد
+ وري الإنجليزي الممتاز | Tomorrow: Chelsea vs Aston Vill
+ a
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × أستون فيلا | Kick-off in 30 min: Chelsea vs Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795575@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261226T150000Z
+DTEND:20261226T170000Z
+SUMMARY:Aston Villa vs Leeds United — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795575
+DESCRIPTION:⚽ أستون فيلا × ليدز يونايتد\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 17\n🗓 الس
+ بت 26 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Villa P
+ ark\n—————\n⚽ Aston Villa v Leeds United\n🏆 Premier League 
+ — Matchday 17\n🗓 Sat 26 Dec 2026 · 15:00 UTC\n🏟 Villa Park\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد ليدز يونايتد 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Aston Villa
+  vs Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × ليدز يونايتد | Kick-off in 30 min: Aston Villa vs L
+ eeds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795585@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261230T200000Z
+DTEND:20261230T220000Z
+SUMMARY:Aston Villa vs Liverpool — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795585
+DESCRIPTION:⚽ أستون فيلا × ليفربول\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 18\n🗓 الأربعاء
+  30 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Villa Park\
+ n—————\n⚽ Aston Villa v Liverpool\n🏆 Premier League — Mat
+ chday 18\n🗓 Wed 30 Dec 2026 · 20:00 UTC\n🏟 Villa Park\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد ليفربول — ال
+ دوري الإنجليزي الممتاز | Tomorrow: Aston Villa vs Live
+ rpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × ليفربول | Kick-off in 30 min: Aston Villa vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795595@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T150000Z
+DTEND:20270102T170000Z
+SUMMARY:AFC Bournemouth vs Aston Villa — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795595
+DESCRIPTION:⚽ بورنموث × أستون فيلا\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 19\n🗓 السبت 2 ي
+ ناير 2027 · 18:00 بتوقيت الرياض\n🏟 Vitality Stadium\n
+ —————\n⚽ AFC Bournemouth v Aston Villa\n🏆 Premier League 
+ — Matchday 19\n🗓 Sat 02 Jan 2027 · 15:00 UTC\n🏟 Vitality Stadium\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد أستون فيلا — ال
+ دوري الإنجليزي الممتاز | Tomorrow: AFC Bournemouth vs 
+ Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × أستون فيلا | Kick-off in 30 min: AFC Bournemouth vs Aston
+  Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795608@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T200000Z
+DTEND:20270106T220000Z
+SUMMARY:Everton vs Aston Villa — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795608
+DESCRIPTION:⚽ إيفرتون × أستون فيلا\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 20\n🗓 الأربعاء
+  6 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Hill Dickinson
+  Stadium\n—————\n⚽ Everton v Aston Villa\n🏆 Premier League 
+ — Matchday 20\n🗓 Wed 06 Jan 2027 · 20:00 UTC\n🏟 Hill Dickinson St
+ adium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد أستون فيلا — ال
+ دوري الإنجليزي الممتاز | Tomorrow: Everton vs Aston Vi
+ lla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × أستون فيلا | Kick-off in 30 min: Everton vs Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795616@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:Aston Villa vs Manchester United — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795616
+DESCRIPTION:⚽ أستون فيلا × مانشستر يونايتد\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 21\n🗓 
+ السبت 16 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Vil
+ la Park\n—————\n⚽ Aston Villa v Manchester United\n🏆 Premie
+ r League — Matchday 21\n🗓 Sat 16 Jan 2027 · 15:00 UTC\n🏟 Villa Pa
+ rk\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد مانشستر يونا
+ يتد — الدوري الإنجليزي الممتاز | Tomorrow: Asto
+ n Villa vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × مانشستر يونايتد | Kick-off in 30 min: Aston Vill
+ a vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795629@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:Fulham vs Aston Villa — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795629
+DESCRIPTION:⚽ فولهام × أستون فيلا\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 22\n🗓 السبت 23 ين
+ اير 2027 · 18:00 بتوقيت الرياض\n🏟 Craven Cottage\n—
+ ————\n⚽ Fulham v Aston Villa\n🏆 Premier League — Matchday 2
+ 2\n🗓 Sat 23 Jan 2027 · 15:00 UTC\n🏟 Craven Cottage\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد أستون فيلا — الد
+ وري الإنجليزي الممتاز | Tomorrow: Fulham vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × أستون فيلا | Kick-off in 30 min: Fulham vs Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795636@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Aston Villa vs Ipswich Town — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795636
+DESCRIPTION:⚽ أستون فيلا × إبسويتش تاون\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 23\n🗓 الس
+ بت 30 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Villa Par
+ k\n—————\n⚽ Aston Villa v Ipswich Town\n🏆 Premier League 
+ — Matchday 23\n🗓 Sat 30 Jan 2027 · 15:00 UTC\n🏟 Villa Park\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد إبسويتش تاون 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Aston Villa
+  vs Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × إبسويتش تاون | Kick-off in 30 min: Aston Villa vs I
+ pswich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795654@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Sunderland vs Aston Villa — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795654
+DESCRIPTION:⚽ سندرلاند × أستون فيلا\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 24\n🗓 السبت 6 
+ فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Stadium of Ligh
+ t\n—————\n⚽ Sunderland v Aston Villa\n🏆 Premier League — 
+ Matchday 24\n🗓 Sat 06 Feb 2027 · 15:00 UTC\n🏟 Stadium of Light\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد أستون فيلا — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Sunderland vs Ast
+ on Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × أستون فيلا | Kick-off in 30 min: Sunderland vs Aston Vi
+ lla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795655@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270210T200000Z
+DTEND:20270210T220000Z
+SUMMARY:Aston Villa vs AFC Bournemouth — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795655
+DESCRIPTION:⚽ أستون فيلا × بورنموث\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 25\n🗓 الأربعاء
+  10 فبراير 2027 · 23:00 بتوقيت الرياض\n🏟 Villa Park\
+ n—————\n⚽ Aston Villa v AFC Bournemouth\n🏆 Premier League 
+ — Matchday 25\n🗓 Wed 10 Feb 2027 · 20:00 UTC\n🏟 Villa Park\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد بورنموث — ال
+ دوري الإنجليزي الممتاز | Tomorrow: Aston Villa vs AFC 
+ Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × بورنموث | Kick-off in 30 min: Aston Villa vs AFC Bourne
+ mouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795670@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:Leeds United vs Aston Villa — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795670
+DESCRIPTION:⚽ ليدز يونايتد × أستون فيلا\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 26\n🗓 الس
+ بت 20 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Elland 
+ Road\n—————\n⚽ Leeds United v Aston Villa\n🏆 Premier League
+  — Matchday 26\n🗓 Sat 20 Feb 2027 · 15:00 UTC\n🏟 Elland Road\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد أستون فيلا 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Leeds Unite
+ d vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × أستون فيلا | Kick-off in 30 min: Leeds United vs 
+ Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795675@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T150000Z
+DTEND:20270227T170000Z
+SUMMARY:Aston Villa vs Chelsea — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795675
+DESCRIPTION:⚽ أستون فيلا × تشيلسي\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 27\n🗓 السبت 27 فب
+ راير 2027 · 18:00 بتوقيت الرياض\n🏟 Villa Park\n——
+ ———\n⚽ Aston Villa v Chelsea\n🏆 Premier League — Matchday 27\
+ n🗓 Sat 27 Feb 2027 · 15:00 UTC\n🏟 Villa Park\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد تشيلسي — الد
+ وري الإنجليزي الممتاز | Tomorrow: Aston Villa vs Chelse
+ a
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × تشيلسي | Kick-off in 30 min: Aston Villa vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795691@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270303T200000Z
+DTEND:20270303T220000Z
+SUMMARY:Liverpool vs Aston Villa — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795691
+DESCRIPTION:⚽ ليفربول × أستون فيلا\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 28\n🗓 الأربعاء
+  3 مارس 2027 · 23:00 بتوقيت الرياض\n🏟 Anfield\n——
+ ———\n⚽ Liverpool v Aston Villa\n🏆 Premier League — Matchday 2
+ 8\n🗓 Wed 03 Mar 2027 · 20:00 UTC\n🏟 Anfield\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد أستون فيلا — ال
+ دوري الإنجليزي الممتاز | Tomorrow: Liverpool vs Aston 
+ Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × أستون فيلا | Kick-off in 30 min: Liverpool vs Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795696@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T150000Z
+DTEND:20270313T170000Z
+SUMMARY:Aston Villa vs Hull City — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795696
+DESCRIPTION:⚽ أستون فيلا × هال سيتي\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 29\n🗓 السبت 13 
+ مارس 2027 · 18:00 بتوقيت الرياض\n🏟 Villa Park\n——
+ ———\n⚽ Aston Villa v Hull City\n🏆 Premier League — Matchday 2
+ 9\n🗓 Sat 13 Mar 2027 · 15:00 UTC\n🏟 Villa Park\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد هال سيتي — ال
+ دوري الإنجليزي الممتاز | Tomorrow: Aston Villa vs Hull
+  City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × هال سيتي | Kick-off in 30 min: Aston Villa vs Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795714@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T150000Z
+DTEND:20270320T170000Z
+SUMMARY:Nottingham Forest vs Aston Villa — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795714
+DESCRIPTION:⚽ نوتنجهام فورست × أستون فيلا\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 30\n🗓 ا
+ لسبت 20 مارس 2027 · 18:00 بتوقيت الرياض\n🏟 City Gr
+ ound, Nottingham\n—————\n⚽ Nottingham Forest v Aston Villa\n
+ 🏆 Premier League — Matchday 30\n🗓 Sat 20 Mar 2027 · 15:00 UTC\n
+ 🏟 City Ground, Nottingham\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد أستون في
+ لا — الدوري الإنجليزي الممتاز | Tomorrow: Nottin
+ gham Forest vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × أستون فيلا | Kick-off in 30 min: Nottingham 
+ Forest vs Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795716@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T140000Z
+DTEND:20270410T160000Z
+SUMMARY:Aston Villa vs Brighton & Hove Albion — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795716
+DESCRIPTION:⚽ أستون فيلا × برايتون\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 31\n🗓 السبت 10 أ
+ بريل 2027 · 17:00 بتوقيت الرياض\n🏟 Villa Park\n——
+ ———\n⚽ Aston Villa v Brighton & Hove Albion\n🏆 Premier League 
+ — Matchday 31\n🗓 Sat 10 Apr 2027 · 14:00 UTC\n🏟 Villa Park\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد برايتون — ال
+ دوري الإنجليزي الممتاز | Tomorrow: Aston Villa vs Brig
+ hton & Hove Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × برايتون | Kick-off in 30 min: Aston Villa vs Brighton &
+  Hove Albion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795725@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T140000Z
+DTEND:20270417T160000Z
+SUMMARY:Arsenal vs Aston Villa — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795725
+DESCRIPTION:⚽ أرسنال × أستون فيلا\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 32\n🗓 السبت 17 أب
+ ريل 2027 · 17:00 بتوقيت الرياض\n🏟 Emirates Stadium\n—
+ ————\n⚽ Arsenal v Aston Villa\n🏆 Premier League — Matchday 
+ 32\n🗓 Sat 17 Apr 2027 · 14:00 UTC\n🏟 Emirates Stadium\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد أستون فيلا — الد
+ وري الإنجليزي الممتاز | Tomorrow: Arsenal vs Aston Vill
+ a
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × أستون فيلا | Kick-off in 30 min: Arsenal vs Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795736@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T140000Z
+DTEND:20270424T160000Z
+SUMMARY:Aston Villa vs Coventry City — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795736
+DESCRIPTION:⚽ أستون فيلا × كوفنتري سيتي\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 33\n🗓 الس
+ بت 24 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 Villa Par
+ k\n—————\n⚽ Aston Villa v Coventry City\n🏆 Premier League 
+ — Matchday 33\n🗓 Sat 24 Apr 2027 · 14:00 UTC\n🏟 Villa Park\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد كوفنتري سيتي 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Aston Villa
+  vs Coventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × كوفنتري سيتي | Kick-off in 30 min: Aston Villa vs C
+ oventry City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795748@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T140000Z
+DTEND:20270501T160000Z
+SUMMARY:Crystal Palace vs Aston Villa — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795748
+DESCRIPTION:⚽ كريستال بالاس × أستون فيلا\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 34\n🗓 ال
+ سبت 1 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Selhurst P
+ ark\n—————\n⚽ Crystal Palace v Aston Villa\n🏆 Premier Leagu
+ e — Matchday 34\n🗓 Sat 01 May 2027 · 14:00 UTC\n🏟 Selhurst Park\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد أستون فيل
+ ا — الدوري الإنجليزي الممتاز | Tomorrow: Crystal 
+ Palace vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × أستون فيلا | Kick-off in 30 min: Crystal Palac
+ e vs Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795756@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T140000Z
+DTEND:20270508T160000Z
+SUMMARY:Brentford vs Aston Villa — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795756
+DESCRIPTION:⚽ برينتفورد × أستون فيلا\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 35\n🗓 السبت 
+ 8 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Gtech Community S
+ tadium\n—————\n⚽ Brentford v Aston Villa\n🏆 Premier League 
+ — Matchday 35\n🗓 Sat 08 May 2027 · 14:00 UTC\n🏟 Gtech Community S
+ tadium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد أستون فيلا — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Brentford vs As
+ ton Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × أستون فيلا | Kick-off in 30 min: Brentford vs Aston V
+ illa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795779@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T140000Z
+DTEND:20270515T160000Z
+SUMMARY:Aston Villa vs Newcastle United — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795779
+DESCRIPTION:⚽ أستون فيلا × نيوكاسل يونايتد\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 36\n🗓 
+ السبت 15 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Villa
+  Park\n—————\n⚽ Aston Villa v Newcastle United\n🏆 Premier L
+ eague — Matchday 36\n🗓 Sat 15 May 2027 · 14:00 UTC\n🏟 Villa Park\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد نيوكاسل يونا
+ يتد — الدوري الإنجليزي الممتاز | Tomorrow: Asto
+ n Villa vs Newcastle United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × نيوكاسل يونايتد | Kick-off in 30 min: Aston Vill
+ a vs Newcastle United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795794@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T140000Z
+DTEND:20270523T160000Z
+SUMMARY:Manchester City vs Aston Villa — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795794
+DESCRIPTION:⚽ مانشستر سيتي × أستون فيلا\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 37\n🗓 الأ
+ حد 23 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Etihad Stad
+ ium\n—————\n⚽ Manchester City v Aston Villa\n🏆 Premier Leag
+ ue — Matchday 37\n🗓 Sun 23 May 2027 · 14:00 UTC\n🏟 Etihad Stadium
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد أستون فيلا 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Manchester 
+ City vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × أستون فيلا | Kick-off in 30 min: Manchester City
+  vs Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795799@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T150000Z
+DTEND:20270530T170000Z
+SUMMARY:Aston Villa vs Tottenham Hotspur — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795799
+DESCRIPTION:⚽ أستون فيلا × توتنهام هوتسبر\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 38\n🗓 ا
+ لأحد 30 مايو 2027 · 18:00 بتوقيت الرياض\n🏟 Villa P
+ ark\n—————\n⚽ Aston Villa v Tottenham Hotspur\n🏆 Premier Le
+ ague — Matchday 38\n🗓 Sun 30 May 2027 · 15:00 UTC\n🏟 Villa Park\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد توتنهام هوتس
+ بر — الدوري الإنجليزي الممتاز | Tomorrow: Aston 
+ Villa vs Tottenham Hotspur
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × توتنهام هوتسبر | Kick-off in 30 min: Aston Villa 
+ vs Tottenham Hotspur
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106295@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T164500Z
+DTEND:20260908T184500Z
+SUMMARY:Club Brugge vs Aston Villa — UEFA Champions League
+LOCATION:Jan Breydelstadion\, Brugge\, Belgium
+GEO:51.193451;3.180542
+URL:https://www.fotmob.com/match/6106295
+DESCRIPTION:⚽ كلوب بروج × أستون فيلا\n🏆 دوري أ
+ بطال أوروبا — الجولة 1\n🗓 الثلاثاء 8 سبتم
+ بر 2026 · 19:45 بتوقيت الرياض\n🏟 Jan Breydelstadion، Br
+ ugge\n📺 Paramount+ (US)\n—————\n⚽ Club Brugge v Aston Villa
+ \n🏆 UEFA Champions League — Matchday 1\n🗓 Tue 08 Sep 2026 · 16:45
+  UTC\n🏟 Jan Breydelstadion, Brugge\n📺 Paramount+ (US)\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كلوب بروج ضد أستون فيلا — د
+ وري أبطال أوروبا — 📺 Paramount+ (US) | Tomorrow: Club B
+ rugge vs Aston Villa | TV: Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كلوب ب
+ روج × أستون فيلا — 📺 Paramount+ (US) | Kick-off in 30 mi
+ n: Club Brugge vs Aston Villa | TV: Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106284@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+SUMMARY:Aston Villa vs Fenerbahçe — UEFA Champions League
+LOCATION:Villa Park\, Birmingham\, England
+GEO:52.509091;-1.884842
+URL:https://www.fotmob.com/match/6106284
+DESCRIPTION:⚽ أستون فيلا × فنربخشة\n🏆 دوري أبط
+ ال أوروبا — الجولة 2\n🗓 الأربعاء 14 أكتوب
+ ر 2026 · 22:00 بتوقيت الرياض\n🏟 Villa Park، Birmingham\n
+ —————\n⚽ Aston Villa v Fenerbahçe\n🏆 UEFA Champions League
+  — Matchday 2\n🗓 Wed 14 Oct 2026 · 19:00 UTC\n🏟 Villa Park, Birmi
+ ngham\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد فنربخشة — دو
+ ري أبطال أوروبا | Tomorrow: Aston Villa vs Fenerbahçe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × فنربخشة | Kick-off in 30 min: Aston Villa vs Fenerbahç
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106285@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+SUMMARY:Aston Villa vs Viking — UEFA Champions League
+LOCATION:Villa Park\, Birmingham\, England
+GEO:52.509091;-1.884842
+URL:https://www.fotmob.com/match/6106285
+DESCRIPTION:⚽ أستون فيلا × فيشينغ ستافانغير\n
+ 🏆 دوري أبطال أوروبا — الجولة 3\n🗓 الأرب
+ عاء 21 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Villa
+  Park، Birmingham\n—————\n⚽ Aston Villa v Viking\n🏆 UEFA C
+ hampions League — Matchday 3\n🗓 Wed 21 Oct 2026 · 19:00 UTC\n🏟 Vi
+ lla Park, Birmingham\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد فيشينغ ستافا
+ نغير — دوري أبطال أوروبا | Tomorrow: Aston Villa vs V
+ iking
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × فيشينغ ستافانغير | Kick-off in 30 min: Aston Vi
+ lla vs Viking
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106263@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+SUMMARY:Barcelona vs Aston Villa — UEFA Champions League
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/6106263
+DESCRIPTION:⚽ برشلونة × أستون فيلا\n🏆 دوري أبط
+ ال أوروبا — الجولة 4\n🗓 الثلاثاء 3 نوفمبر
+  2026 · 23:00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n———
+ ——\n⚽ Barcelona v Aston Villa\n🏆 UEFA Champions League — Matchd
+ ay 4\n🗓 Tue 03 Nov 2026 · 20:00 UTC\n🏟 Spotify Camp Nou\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد أستون فيلا — دو
+ ري أبطال أوروبا | Tomorrow: Barcelona vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × أستون فيلا | Kick-off in 30 min: Barcelona vs Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106339@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T174500Z
+DTEND:20261124T194500Z
+SUMMARY:Galatasaray vs Aston Villa — UEFA Champions League
+LOCATION:Rams Global Stadyumu
+URL:https://www.fotmob.com/match/6106339
+DESCRIPTION:⚽ غلطة سراي × أستون فيلا\n🏆 دوري أ
+ بطال أوروبا — الجولة 5\n🗓 الثلاثاء 24 نوف
+ مبر 2026 · 20:45 بتوقيت الرياض\n🏟 Rams Global Stadyumu\
+ n—————\n⚽ Galatasaray v Aston Villa\n🏆 UEFA Champions Leagu
+ e — Matchday 5\n🗓 Tue 24 Nov 2026 · 17:45 UTC\n🏟 Rams Global Stad
+ yumu\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غلطة سراي ضد أستون فيلا — د
+ وري أبطال أوروبا | Tomorrow: Galatasaray vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غلطة س
+ راي × أستون فيلا | Kick-off in 30 min: Galatasaray vs Aston V
+ illa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106282@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+SUMMARY:Aston Villa vs Paris Saint-Germain — UEFA Champions League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/6106282
+DESCRIPTION:⚽ أستون فيلا × باريس سان جيرمان\n🏆
+  دوري أبطال أوروبا — الجولة 6\n🗓 الثلاثا
+ ء 8 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Villa Park
+ \n—————\n⚽ Aston Villa v Paris Saint-Germain\n🏆 UEFA Champi
+ ons League — Matchday 6\n🗓 Tue 08 Dec 2026 · 20:00 UTC\n🏟 Villa P
+ ark\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد باريس سان جير
+ مان — دوري أبطال أوروبا | Tomorrow: Aston Villa vs Par
+ is Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × باريس سان جيرمان | Kick-off in 30 min: Aston Vil
+ la vs Paris Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106283@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+SUMMARY:Aston Villa vs Borussia Dortmund — UEFA Champions League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/6106283
+DESCRIPTION:⚽ أستون فيلا × بوروسيا دورتموند\n
+ 🏆 دوري أبطال أوروبا — الجولة 7\n🗓 الثلا
+ ثاء 19 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Villa P
+ ark\n—————\n⚽ Aston Villa v Borussia Dortmund\n🏆 UEFA Champ
+ ions League — Matchday 7\n🗓 Tue 19 Jan 2027 · 20:00 UTC\n🏟 Villa 
+ Park\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد بوروسيا دورت
+ موند — دوري أبطال أوروبا | Tomorrow: Aston Villa vs B
+ orussia Dortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × بوروسيا دورتموند | Kick-off in 30 min: Aston Vi
+ lla vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106390@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Slavia Prague vs Aston Villa — UEFA Champions League
+LOCATION:Fortuna Arena
+URL:https://www.fotmob.com/match/6106390
+DESCRIPTION:⚽ سلافيا براغ × أستون فيلا\n🏆 دوري
+  أبطال أوروبا — الجولة 8\n🗓 الأربعاء 27 ين
+ اير 2027 · 23:00 بتوقيت الرياض\n🏟 Fortuna Arena\n——
+ ———\n⚽ Slavia Prague v Aston Villa\n🏆 UEFA Champions League —
+  Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Fortuna Arena\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سلافيا براغ ضد أستون فيلا 
+ — دوري أبطال أوروبا | Tomorrow: Slavia Prague vs Aston Vi
+ lla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سلافي
+ ا براغ × أستون فيلا | Kick-off in 30 min: Slavia Prague vs 
+ Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089895@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T174500Z
+DTEND:20260110T194500Z
+SUMMARY:Tottenham Hotspur vs Aston Villa (1 - 2) — FA Cup
+LOCATION:Tottenham Hotspur Stadium\, London\, England
+GEO:51.604217;-0.066229
+URL:https://www.fotmob.com/match/5089895
+DESCRIPTION:⚽ توتنهام × أستون فيلا (1 - 2)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الثالث\n🗓 الس
+ بت 10 يناير 2026 · 20:45 بتوقيت الرياض\n🏟 Tottenham
+  Hotspur Stadium، London\n⚖️ الحكم: Craig Pawson\n👥 الحض
+ ور: 57,718\n—————\n⚽ Tottenham Hotspur v Aston Villa (1 - 2)
+ \n🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 17:45 UTC\n🏟 Tottenh
+ am Hotspur Stadium, London\nReferee: Craig Pawson\nAttendance: 57,718\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توتنهام ضد أستون فيلا — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Tottenham Hotspur vs Asto
+ n Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توتنه
+ ام × أستون فيلا | Kick-off in 30 min: Tottenham Hotspur vs Ast
+ on Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135174@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260214T174500Z
+DTEND:20260214T194500Z
+SUMMARY:Aston Villa vs Newcastle United (1 - 3) — FA Cup
+LOCATION:Villa Park\, Birmingham\, England
+GEO:52.509091;-1.884842
+URL:https://www.fotmob.com/match/5135174
+DESCRIPTION:⚽ أستون فيلا × نيوكاسل يونايتد (1 - 3
+ )\n🏆 كأس الاتحاد الإنجليزي — الدور الراب
+ ع\n🗓 السبت 14 فبراير 2026 · 20:45 بتوقيت الريا
+ ض\n🏟 Villa Park، Birmingham\n⚖️ الحكم: Chris Kavanagh\n👥 
+ الحضور: 42,101\n—————\n⚽ Aston Villa v Newcastle United 
+ (1 - 3)\n🏆 FA Cup — Round 4\n🗓 Sat 14 Feb 2026 · 17:45 UTC\n🏟 
+ Villa Park, Birmingham\nReferee: Chris Kavanagh\nAttendance: 42,101\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد نيوكاسل يونا
+ يتد — كأس الاتحاد الإنجليزي | Tomorrow: Aston Vill
+ a vs Newcastle United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × نيوكاسل يونايتد | Kick-off in 30 min: Aston Vill
+ a vs Newcastle United
+END:VALARM
+END:VEVENT
+END:VCALENDAR

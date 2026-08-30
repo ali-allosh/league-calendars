@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Buxton — FA Cup Fixtures | Buxton — مباريات ك
+ أس الاتحاد الإنجليزي
+X-WR-CALDESC:Buxton — all matches in FA Cup\, exact UTC kickoffs\, stadiu
+ ms & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10Z.  
+ •  Buxton — جميع المباريات في كأس الاتحاد ا
+ لإنجليزي بتوقيت UTC الدقيق مع الملاعب وال
+ قنوات الناقلة. المصدر: FotMob + 365scores · تحديث 
+ تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010643@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Buxton vs Chatham Town (2 - 1) — FA Cup
+LOCATION:The Tarmac Silverlands Stadium\, Buxton\, Derbyshire\, England
+GEO:53.256604;-1.906627
+URL:https://www.fotmob.com/match/5010643
+DESCRIPTION:⚽ Buxton × Chatham Town (2 - 1)\n🏆 كأس الاتحاد 
+ الإنجليزي — الدور الأول\n🗓 السبت 1 نوفمب
+ ر 2025 · 18:00 بتوقيت الرياض\n🏟 The Tarmac Silverlands St
+ adium، Buxton, Derbyshire\n⚖️ الحكم: William Davis\n👥 الح
+ ضور: 1,652\n—————\n⚽ Buxton v Chatham Town (2 - 1)\n🏆 FA
+  Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 The Tarmac Silve
+ rlands Stadium, Buxton, Derbyshire\nReferee: William Davis\nAttendance: 1,
+ 652\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Buxton ضد Chatham Town — كأس الاتحا
+ د الإنجليزي | Tomorrow: Buxton vs Chatham Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Buxton × C
+ hatham Town | Kick-off in 30 min: Buxton vs Chatham Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040326@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Cheltenham Town vs Buxton (6 - 2) — FA Cup
+LOCATION:EV Charger Points Stadium\, Cheltenham\, Gloucestershire\, England
+GEO:51.906166;-2.060197
+URL:https://www.fotmob.com/match/5040326
+DESCRIPTION:⚽ Cheltenham Town × Buxton (6 - 2)\n🏆 كأس الاتحا
+ د الإنجليزي — الدور الثاني\n🗓 السبت 6 دي
+ سمبر 2025 · 18:00 بتوقيت الرياض\n🏟 EV Charger Points S
+ tadium، Cheltenham, Gloucestershire\n⚖️ الحكم: Charles Breakspea
+ r\n👥 الحضور: 3,589\n—————\n⚽ Cheltenham Town v Buxton
+  (6 - 2)\n🏆 FA Cup — Round 2\n🗓 Sat 06 Dec 2025 · 15:00 UTC\n🏟
+  EV Charger Points Stadium, Cheltenham, Gloucestershire\nReferee: Charles 
+ Breakspear\nAttendance: 3,589\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Cheltenham Town ضد Buxton — كأس الاتح
+ اد الإنجليزي | Tomorrow: Cheltenham Town vs Buxton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Cheltenham 
+ Town × Buxton | Kick-off in 30 min: Cheltenham Town vs Buxton
+END:VALARM
+END:VEVENT
+END:VCALENDAR

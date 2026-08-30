@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al-Sadd — AFC Champions League Elite Fixtures | السد
+  — مباريات دوري أبطال آسيا للنخبة
+X-WR-CALDESC:Al-Sadd — all matches in AFC Champions League Elite\, exact 
+ UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 202
+ 6-09-05T19:31:10Z.  •  السد — جميع المباريات في د
+ وري أبطال آسيا للنخبة بتوقيت UTC الدقيق مع
+  الملاعب والقنوات الناقلة. المصدر: FotMob + 36
+ 5scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6050065@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260914T160000Z
+DTEND:20260914T180000Z
+SUMMARY:Esteghlal vs Al-Sadd — AFC Champions League Elite
+LOCATION:Basra International Stadium\, al-Baṣra (Basra)\, Iraq
+GEO:30.439928;47.779781
+URL:https://www.fotmob.com/match/6050065
+DESCRIPTION:⚽ استقلال × السد\n🏆 دوري أبطال آسي
+ ا للنخبة — الجولة 1\n🗓 الاثنين 14 سبتمبر 20
+ 26 · 19:00 بتوقيت الرياض\n🏟 Basra International Stadium، 
+ al-Baṣra (Basra)\n—————\n⚽ Esteghlal v Al-Sadd\n🏆 AFC Cha
+ mpions League Elite — Matchday 1\n🗓 Mon 14 Sep 2026 · 16:00 UTC\n
+ 🏟 Basra International Stadium, al-Baṣra (Basra)\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: استقلال ضد السد — دوري أبط
+ ال آسيا للنخبة | Tomorrow: Esteghlal vs Al-Sadd
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: استقل
+ ال × السد | Kick-off in 30 min: Esteghlal vs Al-Sadd
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050078@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261013T160000Z
+DTEND:20261013T180000Z
+SUMMARY:Al-Sadd vs Al Hilal — AFC Champions League Elite
+LOCATION:Jassim Bin Hamad Stadium (Al-Sadd Stadium)\, ad-Dōha (Doha)\, Qat
+ ar
+GEO:25.267290;51.484305
+URL:https://www.fotmob.com/match/6050078
+DESCRIPTION:⚽ السد × الهلال\n🏆 دوري أبطال آسيا
+  للنخبة — الجولة 2\n🗓 الثلاثاء 13 أكتوبر 20
+ 26 · 19:00 بتوقيت الرياض\n🏟 Jassim Bin Hamad Stadium (Al-S
+ add Stadium)، ad-Dōha (Doha)\n—————\n⚽ Al-Sadd v Al Hilal\n
+ 🏆 AFC Champions League Elite — Matchday 2\n🗓 Tue 13 Oct 2026 · 16
+ :00 UTC\n🏟 Jassim Bin Hamad Stadium (Al-Sadd Stadium), ad-Dōha (Doha)\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: السد ضد الهلال — دوري أبطا
+ ل آسيا للنخبة | Tomorrow: Al-Sadd vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: السد ×
+  الهلال | Kick-off in 30 min: Al-Sadd vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050084@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261026T191500Z
+DTEND:20261026T211500Z
+SUMMARY:Al Qadsiah vs Al-Sadd — AFC Champions League Elite
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/6050084
+DESCRIPTION:⚽ القادسية × السد\n🏆 دوري أبطال آس
+ يا للنخبة — الجولة 3\n🗓 الاثنين 26 أكتوبر 
+ 2026 · 22:15 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Sta
+ dium، Dammam\n—————\n⚽ Al Qadsiah v Al-Sadd\n🏆 AFC Champio
+ ns League Elite — Matchday 3\n🗓 Mon 26 Oct 2026 · 19:15 UTC\n🏟 Pr
+ ince Mohammed Bin Fahd Stadium, Dammam\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد السد — دوري أب
+ طال آسيا للنخبة | Tomorrow: Al Qadsiah vs Al-Sadd
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × السد | Kick-off in 30 min: Al Qadsiah vs Al-Sadd
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050089@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261102T170000Z
+DTEND:20261102T190000Z
+SUMMARY:Al-Sadd vs Al Ahli — AFC Champions League Elite
+LOCATION:Jassim Bin Hamad Stadium (Al-Sadd Stadium)\, ad-Dōha (Doha)\, Qat
+ ar
+GEO:25.267290;51.484305
+URL:https://www.fotmob.com/match/6050089
+DESCRIPTION:⚽ السد × الأهلي\n🏆 دوري أبطال آسيا
+  للنخبة — الجولة 4\n🗓 الاثنين 2 نوفمبر 2026 
+ · 20:00 بتوقيت الرياض\n🏟 Jassim Bin Hamad Stadium (Al-Sadd
+  Stadium)، ad-Dōha (Doha)\n—————\n⚽ Al-Sadd v Al Ahli\n🏆 
+ AFC Champions League Elite — Matchday 4\n🗓 Mon 02 Nov 2026 · 17:00 U
+ TC\n🏟 Jassim Bin Hamad Stadium (Al-Sadd Stadium), ad-Dōha (Doha)\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: السد ضد الأهلي — دوري أبطا
+ ل آسيا للنخبة | Tomorrow: Al-Sadd vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: السد ×
+  الأهلي | Kick-off in 30 min: Al-Sadd vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050103@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261124T191500Z
+DTEND:20261124T211500Z
+SUMMARY:Al Nassr FC vs Al-Sadd — AFC Champions League Elite
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/6050103
+DESCRIPTION:⚽ النصر × السد\n🏆 دوري أبطال آسيا 
+ للنخبة — الجولة 5\n🗓 الثلاثاء 24 نوفمبر 202
+ 6 · 22:15 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n——
+ ———\n⚽ Al Nassr FC v Al-Sadd\n🏆 AFC Champions League Elite — 
+ Matchday 5\n🗓 Tue 24 Nov 2026 · 19:15 UTC\n🏟 Al-Awwal Park, Riyadh\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد السد — دوري أبطال 
+ آسيا للنخبة | Tomorrow: Al Nassr FC vs Al-Sadd
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × السد | Kick-off in 30 min: Al Nassr FC vs Al-Sadd
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050109@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261207T191500Z
+DTEND:20261207T211500Z
+SUMMARY:Al-Sadd vs Al Quwa Al Jawiya — AFC Champions League Elite
+LOCATION:Jassim Bin Hamad Stadium (Al-Sadd Stadium)\, ad-Dōha (Doha)\, Qat
+ ar
+GEO:25.267290;51.484305
+URL:https://www.fotmob.com/match/6050109
+DESCRIPTION:⚽ السد × القوة الجوية\n🏆 دوري أبطا
+ ل آسيا للنخبة — الجولة 6\n🗓 الاثنين 7 ديس
+ مبر 2026 · 22:15 بتوقيت الرياض\n🏟 Jassim Bin Hamad Stad
+ ium (Al-Sadd Stadium)، ad-Dōha (Doha)\n—————\n⚽ Al-Sadd v Al
+  Quwa Al Jawiya\n🏆 AFC Champions League Elite — Matchday 6\n🗓 Mon 
+ 07 Dec 2026 · 19:15 UTC\n🏟 Jassim Bin Hamad Stadium (Al-Sadd Stadium),
+  ad-Dōha (Doha)\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: السد ضد القوة الجوية — دور
+ ي أبطال آسيا للنخبة | Tomorrow: Al-Sadd vs Al Quwa Al Jawi
+ ya
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: السد ×
+  القوة الجوية | Kick-off in 30 min: Al-Sadd vs Al Quwa Al Jawiy
+ a
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050114@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270208T170000Z
+DTEND:20270208T190000Z
+SUMMARY:Tractor vs Al-Sadd — AFC Champions League Elite
+LOCATION:Sultan Qaboos Sports Complex\, Masqaṭ (Muscat)\, Oman
+GEO:23.573005;58.399565
+URL:https://www.fotmob.com/match/6050114
+DESCRIPTION:⚽ تراکتورسازي × السد\n🏆 دوري أبطا
+ ل آسيا للنخبة — الجولة 7\n🗓 الاثنين 8 فبر
+ اير 2027 · 20:00 بتوقيت الرياض\n🏟 Sultan Qaboos Sports 
+ Complex، Masqaṭ (Muscat)\n—————\n⚽ Tractor v Al-Sadd\n🏆 
+ AFC Champions League Elite — Matchday 7\n🗓 Mon 08 Feb 2027 · 17:00 U
+ TC\n🏟 Sultan Qaboos Sports Complex, Masqaṭ (Muscat)\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تراکتورسازي ضد السد — دوري
+  أبطال آسيا للنخبة | Tomorrow: Tractor vs Al-Sadd
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تراکت
+ ورسازي × السد | Kick-off in 30 min: Tractor vs Al-Sadd
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050125@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270215T191500Z
+DTEND:20270215T211500Z
+SUMMARY:Al-Sadd vs Al Ittihad — AFC Champions League Elite
+LOCATION:Jassim Bin Hamad Stadium (Al-Sadd Stadium)\, ad-Dōha (Doha)\, Qat
+ ar
+GEO:25.267290;51.484305
+URL:https://www.fotmob.com/match/6050125
+DESCRIPTION:⚽ السد × الاتحاد\n🏆 دوري أبطال آسي
+ ا للنخبة — الجولة 8\n🗓 الاثنين 15 فبراير 20
+ 27 · 22:15 بتوقيت الرياض\n🏟 Jassim Bin Hamad Stadium (Al-S
+ add Stadium)، ad-Dōha (Doha)\n—————\n⚽ Al-Sadd v Al Ittihad\
+ n🏆 AFC Champions League Elite — Matchday 8\n🗓 Mon 15 Feb 2027 · 1
+ 9:15 UTC\n🏟 Jassim Bin Hamad Stadium (Al-Sadd Stadium), ad-Dōha (Doha)
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: السد ضد الاتحاد — دوري أبط
+ ال آسيا للنخبة | Tomorrow: Al-Sadd vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: السد ×
+  الاتحاد | Kick-off in 30 min: Al-Sadd vs Al Ittihad
+END:VALARM
+END:VEVENT
+END:VCALENDAR

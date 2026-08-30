@@ -1,0 +1,273 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Torreense — UEFA Europa League Fixtures | توريينس
+ ي — مباريات الدوري الأوروبي
+X-WR-CALDESC:Torreense — all matches in UEFA Europa League\, exact UTC ki
+ ckoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-0
+ 5T19:31:10Z.  •  توريينسي — جميع المباريات في 
+ الدوري الأوروبي بتوقيت UTC الدقيق مع المل
+ اعب والقنوات الناقلة. المصدر: FotMob + 365scores 
+ · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6112377@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260917T190000Z
+DTEND:20260917T210000Z
+SUMMARY:Lillestrøm vs Torreense — UEFA Europa League
+LOCATION:Åråsen Stadion\, Kjeller\, Norway
+GEO:59.962758;11.063527
+URL:https://www.fotmob.com/match/6112377
+DESCRIPTION:⚽ ليلستروم × توريينسي\n🏆 الدوري ا
+ لأوروبي — الجولة 1\n🗓 الخميس 17 سبتمبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Åråsen Stadion، Kjeller\n—
+ ————\n⚽ Lillestrøm v Torreense\n🏆 UEFA Europa League — Mat
+ chday 1\n🗓 Thu 17 Sep 2026 · 19:00 UTC\n🏟 Åråsen Stadion, Kjeller
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليلستروم ضد توريينسي — الد
+ وري الأوروبي | Tomorrow: Lillestrøm vs Torreense
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليلست
+ روم × توريينسي | Kick-off in 30 min: Lillestrøm vs Torreense
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112360@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:Torreense vs Sunderland — UEFA Europa League
+LOCATION:Campo Manuel Marques\, Torres Vedras\, Portugal
+GEO:39.094878;-9.256749
+URL:https://www.fotmob.com/match/6112360
+DESCRIPTION:⚽ توريينسي × سندرلاند\n🏆 الدوري ا
+ لأوروبي — الجولة 2\n🗓 الخميس 15 أكتوبر 2026 
+ · 19:45 بتوقيت الرياض\n🏟 Campo Manuel Marques، Torres Ved
+ ras\n—————\n⚽ Torreense v Sunderland\n🏆 UEFA Europa League 
+ — Matchday 2\n🗓 Thu 15 Oct 2026 · 16:45 UTC\n🏟 Campo Manuel Marqu
+ es, Torres Vedras\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توريينسي ضد سندرلاند — الد
+ وري الأوروبي | Tomorrow: Torreense vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توريي
+ نسي × سندرلاند | Kick-off in 30 min: Torreense vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112281@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261022T164500Z
+DTEND:20261022T184500Z
+SUMMARY:Ferencváros vs Torreense — UEFA Europa League
+LOCATION:Groupama Aréna\, Budapest\, Hungary
+GEO:47.475514;19.095286
+URL:https://www.fotmob.com/match/6112281
+DESCRIPTION:⚽ فيرينتسفاروشي × توريينسي\n🏆 الد
+ وري الأوروبي — الجولة 3\n🗓 الخميس 22 أكتو
+ بر 2026 · 19:45 بتوقيت الرياض\n🏟 Groupama Aréna، Budap
+ est\n—————\n⚽ Ferencváros v Torreense\n🏆 UEFA Europa Leagu
+ e — Matchday 3\n🗓 Thu 22 Oct 2026 · 16:45 UTC\n🏟 Groupama Aréna,
+  Budapest\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيرينتسفاروشي ضد توريينسي 
+ — الدوري الأوروبي | Tomorrow: Ferencváros vs Torreense
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيرين
+ تسفاروشي × توريينسي | Kick-off in 30 min: Ferencváros vs
+  Torreense
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112361@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261105T200000Z
+DTEND:20261105T220000Z
+SUMMARY:Torreense vs Ararat Armenia — UEFA Europa League
+LOCATION:Campo Manuel Marques\, Torres Vedras\, Portugal
+GEO:39.094878;-9.256749
+URL:https://www.fotmob.com/match/6112361
+DESCRIPTION:⚽ توريينسي × أرارات أرمينيا\n🏆 ال
+ دوري الأوروبي — الجولة 4\n🗓 الخميس 5 نوفم
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Campo Manuel Marques، 
+ Torres Vedras\n—————\n⚽ Torreense v Ararat Armenia\n🏆 UEFA 
+ Europa League — Matchday 4\n🗓 Thu 05 Nov 2026 · 20:00 UTC\n🏟 Camp
+ o Manuel Marques, Torres Vedras\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توريينسي ضد أرارات أرمينيا
+  — الدوري الأوروبي | Tomorrow: Torreense vs Ararat Armenia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توريي
+ نسي × أرارات أرمينيا | Kick-off in 30 min: Torreense vs A
+ rarat Armenia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112359@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Torreense vs Celtic — UEFA Europa League
+LOCATION:Campo Manuel Marques\, Torres Vedras\, Portugal
+GEO:39.094878;-9.256749
+URL:https://www.fotmob.com/match/6112359
+DESCRIPTION:⚽ توريينسي × سيلتيك\n🏆 الدوري الأ
+ وروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 2026 · 2
+ 3:00 بتوقيت الرياض\n🏟 Campo Manuel Marques، Torres Vedras\
+ n—————\n⚽ Torreense v Celtic\n🏆 UEFA Europa League — Matc
+ hday 5\n🗓 Thu 26 Nov 2026 · 20:00 UTC\n🏟 Campo Manuel Marques, Torr
+ es Vedras\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توريينسي ضد سيلتيك — الدور
+ ي الأوروبي | Tomorrow: Torreense vs Celtic
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توريي
+ نسي × سيلتيك | Kick-off in 30 min: Torreense vs Celtic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112273@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:Real Sociedad vs Torreense — UEFA Europa League
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/6112273
+DESCRIPTION:⚽ ريال سوسيداد × توريينسي\n🏆 الدو
+ ري الأوروبي — الجولة 6\n🗓 الخميس 10 ديسمب
+ ر 2026 · 23:00 بتوقيت الرياض\n🏟 Reale Arena\n————
+ —\n⚽ Real Sociedad v Torreense\n🏆 UEFA Europa League — Matchday 6
+ \n🗓 Thu 10 Dec 2026 · 20:00 UTC\n🏟 Reale Arena\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد توريينسي —
+  الدوري الأوروبي | Tomorrow: Real Sociedad vs Torreense
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × توريينسي | Kick-off in 30 min: Real Sociedad vs To
+ rreense
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112321@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:Lech Poznań vs Torreense — UEFA Europa League
+LOCATION:Stadion Poznan
+URL:https://www.fotmob.com/match/6112321
+DESCRIPTION:⚽ ليخ بوزنان × توريينسي\n🏆 الدوري 
+ الأوروبي — الجولة 7\n🗓 الخميس 21 يناير 2027 
+ · 23:00 بتوقيت الرياض\n🏟 Stadion Poznan\n—————\n
+ ⚽ Lech Poznań v Torreense\n🏆 UEFA Europa League — Matchday 7\n🗓
+  Thu 21 Jan 2027 · 20:00 UTC\n🏟 Stadion Poznan\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليخ بوزنان ضد توريينسي — ا
+ لدوري الأوروبي | Tomorrow: Lech Poznań vs Torreense
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليخ بو
+ زنان × توريينسي | Kick-off in 30 min: Lech Poznań vs Torreen
+ se
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112358@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Torreense vs Olympiacos — UEFA Europa League
+LOCATION:Campo Manuel Marques\, Torres Vedras\, Portugal
+GEO:39.094878;-9.256749
+URL:https://www.fotmob.com/match/6112358
+DESCRIPTION:⚽ توريينسي × أولمبياكوس\n🏆 الدوري
+  الأوروبي — الجولة 8\n🗓 الخميس 28 يناير 2027
+  · 23:00 بتوقيت الرياض\n🏟 Campo Manuel Marques، Torres Ve
+ dras\n—————\n⚽ Torreense v Olympiacos\n🏆 UEFA Europa League
+  — Matchday 8\n🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 Campo Manuel Marq
+ ues, Torres Vedras\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توريينسي ضد أولمبياكوس — ا
+ لدوري الأوروبي | Tomorrow: Torreense vs Olympiacos
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توريي
+ نسي × أولمبياكوس | Kick-off in 30 min: Torreense vs Olympiac
+ os
+END:VALARM
+END:VEVENT
+END:VCALENDAR

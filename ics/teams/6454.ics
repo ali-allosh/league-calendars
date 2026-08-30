@@ -1,0 +1,293 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Newcastle Jets — AFC Champions League Elite Fixtures | 
+ نيوكاسل جيتس — مباريات دوري أبطال آسيا ل
+ لنخبة
+X-WR-CALDESC:Newcastle Jets — all matches in AFC Champions League Elite\,
+  exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-upda
+ ted 2026-09-05T19:31:10Z.  •  نيوكاسل جيتس — جميع ال
+ مباريات في دوري أبطال آسيا للنخبة بتوقيت
+  UTC الدقيق مع الملاعب والقنوات الناقلة. ا
+ لمصدر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31
+ :10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6049978@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260915T100000Z
+DTEND:20260915T120000Z
+SUMMARY:Kashima Antlers vs Newcastle Jets — AFC Champions League Elite
+LOCATION:Mercari Stadium\, Kashima\, Japan
+GEO:35.991897;140.640192
+URL:https://www.fotmob.com/match/6049978
+DESCRIPTION:⚽ كاشيما أنتليرز × نيوكاسل جيتس\n
+ 🏆 دوري أبطال آسيا للنخبة — الجولة 1\n🗓 ا
+ لثلاثاء 15 سبتمبر 2026 · 13:00 بتوقيت الرياض\n
+ 🏟 Mercari Stadium، Kashima\n—————\n⚽ Kashima Antlers v New
+ castle Jets\n🏆 AFC Champions League Elite — Matchday 1\n🗓 Tue 15 S
+ ep 2026 · 10:00 UTC\n🏟 Mercari Stadium, Kashima\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كاشيما أنتليرز ضد نيوكاسل 
+ جيتس — دوري أبطال آسيا للنخبة | Tomorrow: Kashima
+  Antlers vs Newcastle Jets
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاشيم
+ ا أنتليرز × نيوكاسل جيتس | Kick-off in 30 min: Kashima
+  Antlers vs Newcastle Jets
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049986@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261013T074500Z
+DTEND:20261013T094500Z
+SUMMARY:Newcastle Jets vs Gamba Osaka — AFC Champions League Elite
+LOCATION:McDonald Jones Stadium\, Newcastle\, Australia
+GEO:-32.918895;151.726572
+URL:https://www.fotmob.com/match/6049986
+DESCRIPTION:⚽ نيوكاسل جيتس × غامبا أوساكا\n🏆 د
+ وري أبطال آسيا للنخبة — الجولة 2\n🗓 الثل
+ اثاء 13 أكتوبر 2026 · 10:45 بتوقيت الرياض\n🏟 McD
+ onald Jones Stadium، Newcastle\n—————\n⚽ Newcastle Jets v Gam
+ ba Osaka\n🏆 AFC Champions League Elite — Matchday 2\n🗓 Tue 13 Oct 
+ 2026 · 07:45 UTC\n🏟 McDonald Jones Stadium, Newcastle\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل جيتس ضد غامبا أوسا
+ كا — دوري أبطال آسيا للنخبة | Tomorrow: Newcastle J
+ ets vs Gamba Osaka
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل جيتس × غامبا أوساكا | Kick-off in 30 min: Newcastle J
+ ets vs Gamba Osaka
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049994@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261027T110000Z
+DTEND:20261027T130000Z
+SUMMARY:Kyoto Sanga FC vs Newcastle Jets — AFC Champions League Elite
+LOCATION:Sanga Stadium by Kyocera\, Kameoka\, Japan
+GEO:35.017159;135.584876
+URL:https://www.fotmob.com/match/6049994
+DESCRIPTION:⚽ Kyoto Sanga FC × نيوكاسل جيتس\n🏆 دوري أ
+ بطال آسيا للنخبة — الجولة 3\n🗓 الثلاثاء 2
+ 7 أكتوبر 2026 · 14:00 بتوقيت الرياض\n🏟 Sanga Stadium
+  by Kyocera، Kameoka\n—————\n⚽ Kyoto Sanga FC v Newcastle Jet
+ s\n🏆 AFC Champions League Elite — Matchday 3\n🗓 Tue 27 Oct 2026 ·
+  11:00 UTC\n🏟 Sanga Stadium by Kyocera, Kameoka\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Kyoto Sanga FC ضد نيوكاسل جيتس — 
+ دوري أبطال آسيا للنخبة | Tomorrow: Kyoto Sanga FC vs Ne
+ wcastle Jets
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Kyoto Sanga
+  FC × نيوكاسل جيتس | Kick-off in 30 min: Kyoto Sanga FC vs New
+ castle Jets
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050000@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261103T084500Z
+DTEND:20261103T104500Z
+SUMMARY:Newcastle Jets vs Shanghai Port — AFC Champions League Elite
+LOCATION:McDonald Jones Stadium\, Newcastle\, Australia
+GEO:-32.918895;151.726572
+URL:https://www.fotmob.com/match/6050000
+DESCRIPTION:⚽ نيوكاسل جيتس × شنغهاي بورت\n🏆 دو
+ ري أبطال آسيا للنخبة — الجولة 4\n🗓 الثلا
+ ثاء 3 نوفمبر 2026 · 11:45 بتوقيت الرياض\n🏟 McDona
+ ld Jones Stadium، Newcastle\n—————\n⚽ Newcastle Jets v Shangh
+ ai Port\n🏆 AFC Champions League Elite — Matchday 4\n🗓 Tue 03 Nov 2
+ 026 · 08:45 UTC\n🏟 McDonald Jones Stadium, Newcastle\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل جيتس ضد شنغهاي بور
+ ت — دوري أبطال آسيا للنخبة | Tomorrow: Newcastle Jet
+ s vs Shanghai Port
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل جيتس × شنغهاي بورت | Kick-off in 30 min: Newcastle Jet
+ s vs Shanghai Port
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050008@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261124T084500Z
+DTEND:20261124T104500Z
+SUMMARY:Newcastle Jets vs Kashiwa Reysol — AFC Champions League Elite
+LOCATION:McDonald Jones Stadium\, Newcastle\, Australia
+GEO:-32.918895;151.726572
+URL:https://www.fotmob.com/match/6050008
+DESCRIPTION:⚽ نيوكاسل جيتس × كاشيوا ريسول\n🏆 د
+ وري أبطال آسيا للنخبة — الجولة 5\n🗓 الثل
+ اثاء 24 نوفمبر 2026 · 11:45 بتوقيت الرياض\n🏟 McD
+ onald Jones Stadium، Newcastle\n—————\n⚽ Newcastle Jets v Kas
+ hiwa Reysol\n🏆 AFC Champions League Elite — Matchday 5\n🗓 Tue 24 N
+ ov 2026 · 08:45 UTC\n🏟 McDonald Jones Stadium, Newcastle\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل جيتس ضد كاشيوا ريس
+ ول — دوري أبطال آسيا للنخبة | Tomorrow: Newcastle J
+ ets vs Kashiwa Reysol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل جيتس × كاشيوا ريسول | Kick-off in 30 min: Newcastle J
+ ets vs Kashiwa Reysol
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050018@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261201T110000Z
+DTEND:20261201T130000Z
+SUMMARY:Vissel Kobe vs Newcastle Jets — AFC Champions League Elite
+LOCATION:NOEVIR Stadium Kobe\, Kobe\, Japan
+GEO:34.656691;135.168990
+URL:https://www.fotmob.com/match/6050018
+DESCRIPTION:⚽ فيسيل كوبي × نيوكاسل جيتس\n🏆 دور
+ ي أبطال آسيا للنخبة — الجولة 6\n🗓 الثلاث
+ اء 1 ديسمبر 2026 · 14:00 بتوقيت الرياض\n🏟 NOEVIR S
+ tadium Kobe، Kobe\n—————\n⚽ Vissel Kobe v Newcastle Jets\n
+ 🏆 AFC Champions League Elite — Matchday 6\n🗓 Tue 01 Dec 2026 · 11
+ :00 UTC\n🏟 NOEVIR Stadium Kobe, Kobe\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيسيل كوبي ضد نيوكاسل جيتس 
+ — دوري أبطال آسيا للنخبة | Tomorrow: Vissel Kobe vs N
+ ewcastle Jets
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيسيل 
+ كوبي × نيوكاسل جيتس | Kick-off in 30 min: Vissel Kobe vs N
+ ewcastle Jets
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050024@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270209T084500Z
+DTEND:20270209T104500Z
+SUMMARY:Newcastle Jets vs Johor Darul Ta'zim — AFC Champions League Elite
+LOCATION:McDonald Jones Stadium\, Newcastle\, Australia
+GEO:-32.918895;151.726572
+URL:https://www.fotmob.com/match/6050024
+DESCRIPTION:⚽ نيوكاسل جيتس × جوهور\n🏆 دوري أبط
+ ال آسيا للنخبة — الجولة 7\n🗓 الثلاثاء 9 ف
+ براير 2027 · 11:45 بتوقيت الرياض\n🏟 McDonald Jones St
+ adium، Newcastle\n—————\n⚽ Newcastle Jets v Johor Darul Ta'zi
+ m\n🏆 AFC Champions League Elite — Matchday 7\n🗓 Tue 09 Feb 2027 ·
+  08:45 UTC\n🏟 McDonald Jones Stadium, Newcastle\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل جيتس ضد جوهور — دو
+ ري أبطال آسيا للنخبة | Tomorrow: Newcastle Jets vs Johor 
+ Darul Ta'zim
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل جيتس × جوهور | Kick-off in 30 min: Newcastle Jets vs Johor 
+ Darul Ta'zim
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050032@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270216T110000Z
+DTEND:20270216T130000Z
+SUMMARY:Beijing Guoan vs Newcastle Jets — AFC Champions League Elite
+LOCATION:Workers' Stadium\, Beijing\, China
+GEO:39.929521;116.441002
+URL:https://www.fotmob.com/match/6050032
+DESCRIPTION:⚽ بكين كوان × نيوكاسل جيتس\n🏆 دوري
+  أبطال آسيا للنخبة — الجولة 8\n🗓 الثلاثا
+ ء 16 فبراير 2027 · 14:00 بتوقيت الرياض\n🏟 Workers' 
+ Stadium، Beijing\n—————\n⚽ Beijing Guoan v Newcastle Jets\n
+ 🏆 AFC Champions League Elite — Matchday 8\n🗓 Tue 16 Feb 2027 · 11
+ :00 UTC\n🏟 Workers' Stadium, Beijing\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بكين كوان ضد نيوكاسل جيتس 
+ — دوري أبطال آسيا للنخبة | Tomorrow: Beijing Guoan vs
+  Newcastle Jets
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بكين ك
+ وان × نيوكاسل جيتس | Kick-off in 30 min: Beijing Guoan vs N
+ ewcastle Jets
+END:VALARM
+END:VEVENT
+END:VCALENDAR

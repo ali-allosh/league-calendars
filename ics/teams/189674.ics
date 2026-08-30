@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Rayo Majadahonda — Copa del Rey Fixtures | Rayo Majadaho
+ nda — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Rayo Majadahonda — all matches in Copa del Rey\, exact UTC k
+ ickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-
+ 05T19:31:10Z.  •  Rayo Majadahonda — جميع المباريات في 
+ كأس ملك إسبانيا بتوقيت UTC الدقيق مع الملا
+ عب والقنوات الناقلة. المصدر: FotMob + 365scores · 
+ تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4996037@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251028T190000Z
+DTEND:20251028T210000Z
+SUMMARY:Rayo Majadahonda vs CF Talavera de la Reina (1 - 4) — Copa del Re
+ y
+LOCATION:Miniestadio Cerro del Espino\, Majadahonda\, Spain
+GEO:40.457562;-3.860288
+URL:https://www.fotmob.com/match/4996037
+DESCRIPTION:⚽ Rayo Majadahonda × تالافيرا (1 - 4)\n🏆 كأس 
+ ملك إسبانيا — الدور الأول\n🗓 الثلاثاء 28 
+ أكتوبر 2025 · 22:00 بتوقيت الرياض\n🏟 Miniestadio Cer
+ ro del Espino، Majadahonda\n⚖️ الحكم: Alexandre Alemán Pérez\n
+ —————\n⚽ Rayo Majadahonda v CF Talavera de la Reina (1 - 4)\n
+ 🏆 Copa del Rey — Round 1\n🗓 Tue 28 Oct 2025 · 19:00 UTC\n🏟 Min
+ iestadio Cerro del Espino, Majadahonda\nReferee: Alexandre Alemán Pérez\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Rayo Majadahonda ضد تالافيرا — كأس
+  ملك إسبانيا | Tomorrow: Rayo Majadahonda vs CF Talavera de la R
+ eina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Rayo Majada
+ honda × تالافيرا | Kick-off in 30 min: Rayo Majadahonda vs CF Tal
+ avera de la Reina
+END:VALARM
+END:VEVENT
+END:VCALENDAR

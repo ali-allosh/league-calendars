@@ -1,0 +1,636 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al Masry SC — Egyptian Premier League Fixtures | الم
+ صري — مباريات الدوري المصري الممتاز
+X-WR-CALDESC:Al Masry SC — all matches in Egyptian Premier League\, exact
+  UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 20
+ 26-09-05T19:31:10Z.  •  المصري — جميع المباريات ف
+ ي الدوري المصري الممتاز بتوقيت UTC الدقيق 
+ مع الملاعب والقنوات الناقلة. المصدر: FotMob 
+ + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5995576@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260822T170000Z
+DTEND:20260822T190000Z
+SUMMARY:Al Masry SC vs Smouha SC (1 - 0) — Egyptian Premier League
+LOCATION:New Suez Stadium\, as-Suways (Suez)\, Egypt
+GEO:29.957607;32.542577
+URL:https://www.fotmob.com/match/5995576
+DESCRIPTION:⚽ المصري × سموحة (1 - 0)\n🏆 الدوري ال
+ مصري الممتاز — الجولة 1\n🗓 السبت 22 أغسطس 
+ 2026 · 20:00 بتوقيت الرياض\n🏟 New Suez Stadium، as-Suways
+  (Suez)\n⚖️ الحكم: Mohamed El Ghazi\n—————\n⚽ Al Masr
+ y SC v Smouha SC (1 - 0)\n🏆 Egyptian Premier League — Matchday 1\n
+ 🗓 Sat 22 Aug 2026 · 17:00 UTC\n🏟 New Suez Stadium, as-Suways (Suez)
+ \nReferee: Mohamed El Ghazi\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المصري ضد سموحة — الدوري ا
+ لمصري الممتاز | Tomorrow: Al Masry SC vs Smouha SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المصر
+ ي × سموحة | Kick-off in 30 min: Al Masry SC vs Smouha SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996696@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260827T170000Z
+DTEND:20260827T190000Z
+SUMMARY:Al Mokawloon Al Arab vs Al Masry SC (2 - 3) — Egyptian Premier Le
+ ague
+LOCATION:New Suez Stadium\, as-Suways (Suez)\, Egypt
+GEO:29.957607;32.542577
+URL:https://www.fotmob.com/match/5996696
+DESCRIPTION:⚽ المقاولون العرب × المصري (2 - 3)\n🏆
+  الدوري المصري الممتاز — الجولة 2\n🗓 الخ
+ ميس 27 أغسطس 2026 · 20:00 بتوقيت الرياض\n🏟 New Sue
+ z Stadium، as-Suways (Suez)\n⚖️ الحكم: Ibrahim Ghuloum Mohamed\n
+ —————\n⚽ Al Mokawloon Al Arab v Al Masry SC (2 - 3)\n🏆 Egyp
+ tian Premier League — Matchday 2\n🗓 Thu 27 Aug 2026 · 17:00 UTC\n
+ 🏟 New Suez Stadium, as-Suways (Suez)\nReferee: Ibrahim Ghuloum Mohamed\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المقاولون العرب ضد المصري 
+ — الدوري المصري الممتاز | Tomorrow: Al Mokawloon Al A
+ rab vs Al Masry SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المقا
+ ولون العرب × المصري | Kick-off in 30 min: Al Mokawloon Al 
+ Arab vs Al Masry SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996703@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260831T170000Z
+DTEND:20260831T190000Z
+SUMMARY:Al Masry SC vs Pyramids FC (0 - 1) — Egyptian Premier League
+LOCATION:New Suez Stadium\, as-Suways (Suez)\, Egypt
+GEO:29.957607;32.542577
+URL:https://www.fotmob.com/match/5996703
+DESCRIPTION:⚽ المصري × بيراميدز (0 - 1)\n🏆 الدوري
+  المصري الممتاز — الجولة 3\n🗓 الاثنين 31 أ
+ غسطس 2026 · 20:00 بتوقيت الرياض\n🏟 New Suez Stadium، 
+ as-Suways (Suez)\n⚖️ الحكم: Ahmed Nagy\n—————\n⚽ Al M
+ asry SC v Pyramids FC (0 - 1)\n🏆 Egyptian Premier League — Matchday 3
+ \n🗓 Mon 31 Aug 2026 · 17:00 UTC\n🏟 New Suez Stadium, as-Suways (Sue
+ z)\nReferee: Ahmed Nagy\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المصري ضد بيراميدز — الدور
+ ي المصري الممتاز | Tomorrow: Al Masry SC vs Pyramids FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المصر
+ ي × بيراميدز | Kick-off in 30 min: Al Masry SC vs Pyramids FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996715@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260907T170000Z
+DTEND:20260907T190000Z
+SUMMARY:Petrojet-Suez vs Al Masry SC — Egyptian Premier League
+LOCATION:New Suez Stadium\, as-Suways (Suez)\, Egypt
+GEO:29.957607;32.542577
+URL:https://www.fotmob.com/match/5996715
+DESCRIPTION:⚽ منتخب السويس بتروجت × المصري\n🏆 
+ الدوري المصري الممتاز — الجولة 4\n🗓 الاث
+ نين 7 سبتمبر 2026 · 20:00 بتوقيت الرياض\n🏟 New Su
+ ez Stadium، as-Suways (Suez)\n📺 أون سبورت\n—————\n
+ ⚽ Petrojet-Suez v Al Masry SC\n🏆 Egyptian Premier League — Matchday
+  4\n🗓 Mon 07 Sep 2026 · 17:00 UTC\n🏟 New Suez Stadium, as-Suways (S
+ uez)\n📺 On Sport\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: منتخب السويس بتروجت ضد الم
+ صري — الدوري المصري الممتاز — 📺 أون سبو
+ رت | Tomorrow: Petrojet-Suez vs Al Masry SC | TV: On Sport
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: منتخب 
+ السويس بتروجت × المصري — 📺 أون سبورت | Kic
+ k-off in 30 min: Petrojet-Suez vs Al Masry SC | TV: On Sport
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996728@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260915T170000Z
+DTEND:20260915T190000Z
+SUMMARY:Al Masry SC vs Al Ittihad Alexandria — Egyptian Premier League
+LOCATION:New Suez Stadium\, as-Suways (Suez)\, Egypt
+GEO:29.957607;32.542577
+URL:https://www.fotmob.com/match/5996728
+DESCRIPTION:⚽ المصري × الاتحاد السكندري\n🏆 ال
+ دوري المصري الممتاز — الجولة 5\n🗓 الثلاث
+ اء 15 سبتمبر 2026 · 20:00 بتوقيت الرياض\n🏟 New Sue
+ z Stadium، as-Suways (Suez)\n—————\n⚽ Al Masry SC v Al Ittiha
+ d Alexandria\n🏆 Egyptian Premier League — Matchday 5\n🗓 Tue 15 Sep
+  2026 · 17:00 UTC\n🏟 New Suez Stadium, as-Suways (Suez)\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المصري ضد الاتحاد السكندري
+  — الدوري المصري الممتاز | Tomorrow: Al Masry SC vs A
+ l Ittihad Alexandria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المصر
+ ي × الاتحاد السكندري | Kick-off in 30 min: Al Masry SC vs
+  Al Ittihad Alexandria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996732@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261011T140000Z
+DTEND:20261011T160000Z
+SUMMARY:Olympic El Qanah FC vs Al Masry SC — Egyptian Premier League
+LOCATION:New Suez Stadium\, as-Suways (Suez)\, Egypt
+GEO:29.957607;32.542577
+URL:https://www.fotmob.com/match/5996732
+DESCRIPTION:⚽ القناة × المصري\n🏆 الدوري المصر
+ ي الممتاز — الجولة 6\n🗓 الأحد 11 أكتوبر 2026
+  · 17:00 بتوقيت الرياض\n🏟 New Suez Stadium، as-Suways (Su
+ ez)\n—————\n⚽ Olympic El Qanah FC v Al Masry SC\n🏆 Egyptian
+  Premier League — Matchday 6\n🗓 Sun 11 Oct 2026 · 14:00 UTC\n🏟 Ne
+ w Suez Stadium, as-Suways (Suez)\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القناة ضد المصري — الدوري 
+ المصري الممتاز | Tomorrow: Olympic El Qanah FC vs Al Masry SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القنا
+ ة × المصري | Kick-off in 30 min: Olympic El Qanah FC vs Al Masry S
+ C
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996743@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261019T170000Z
+DTEND:20261019T190000Z
+SUMMARY:Al Masry SC vs Abo Qir Semad — Egyptian Premier League
+LOCATION:New Suez Stadium\, as-Suways (Suez)\, Egypt
+GEO:29.957607;32.542577
+URL:https://www.fotmob.com/match/5996743
+DESCRIPTION:⚽ المصري × ابو قير للاسمدة\n🏆 الدو
+ ري المصري الممتاز — الجولة 7\n🗓 الاثنين 1
+ 9 أكتوبر 2026 · 20:00 بتوقيت الرياض\n🏟 New Suez Stad
+ ium، as-Suways (Suez)\n—————\n⚽ Al Masry SC v Abo Qir Semad\n
+ 🏆 Egyptian Premier League — Matchday 7\n🗓 Mon 19 Oct 2026 · 17:00
+  UTC\n🏟 New Suez Stadium, as-Suways (Suez)\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المصري ضد ابو قير للاسمدة 
+ — الدوري المصري الممتاز | Tomorrow: Al Masry SC vs Ab
+ o Qir Semad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المصر
+ ي × ابو قير للاسمدة | Kick-off in 30 min: Al Masry SC vs Ab
+ o Qir Semad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996752@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261028T140000Z
+DTEND:20261028T160000Z
+SUMMARY:National Bank vs Al Masry SC — Egyptian Premier League
+LOCATION:New Suez Stadium\, as-Suways (Suez)\, Egypt
+GEO:29.957607;32.542577
+URL:https://www.fotmob.com/match/5996752
+DESCRIPTION:⚽ البنك الاهلي × المصري\n🏆 الدوري 
+ المصري الممتاز — الجولة 8\n🗓 الأربعاء 28 
+ أكتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 New Suez Stadiu
+ m، as-Suways (Suez)\n—————\n⚽ National Bank v Al Masry SC\n
+ 🏆 Egyptian Premier League — Matchday 8\n🗓 Wed 28 Oct 2026 · 14:00
+  UTC\n🏟 New Suez Stadium, as-Suways (Suez)\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: البنك الاهلي ضد المصري — ا
+ لدوري المصري الممتاز | Tomorrow: National Bank vs Al Mas
+ ry SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: البنك 
+ الاهلي × المصري | Kick-off in 30 min: National Bank vs Al Mas
+ ry SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996766@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261124T180000Z
+DTEND:20261124T200000Z
+SUMMARY:Al Masry SC vs Asyut Petroleum — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996766
+DESCRIPTION:⚽ المصري × أسيوط بتروليوم\n🏆 الدو
+ ري المصري الممتاز — الجولة 9\n🗓 الثلاثاء
+  24 نوفمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Cairo Int'l
+  Stadium\n—————\n⚽ Al Masry SC v Asyut Petroleum\n🏆 Egyptia
+ n Premier League — Matchday 9\n🗓 Tue 24 Nov 2026 · 18:00 UTC\n🏟 C
+ airo Int'l Stadium\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المصري ضد أسيوط بتروليوم —
+  الدوري المصري الممتاز | Tomorrow: Al Masry SC vs Asyut
+  Petroleum
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المصر
+ ي × أسيوط بتروليوم | Kick-off in 30 min: Al Masry SC vs Asy
+ ut Petroleum
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996778@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261209T180000Z
+DTEND:20261209T200000Z
+SUMMARY:Zamalek SC vs Al Masry SC — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996778
+DESCRIPTION:⚽ الزمالك × المصري\n🏆 الدوري المص
+ ري الممتاز — الجولة 10\n🗓 الأربعاء 9 ديسم
+ بر 2026 · 21:00 بتوقيت الرياض\n🏟 Cairo Int'l Stadium\n
+ —————\n⚽ Zamalek SC v Al Masry SC\n🏆 Egyptian Premier Leagu
+ e — Matchday 10\n🗓 Wed 09 Dec 2026 · 18:00 UTC\n🏟 Cairo Int'l Sta
+ dium\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الزمالك ضد المصري — الدوري
+  المصري الممتاز | Tomorrow: Zamalek SC vs Al Masry SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الزما
+ لك × المصري | Kick-off in 30 min: Zamalek SC vs Al Masry SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996790@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261216T180000Z
+DTEND:20261216T200000Z
+SUMMARY:Al Masry SC vs Ghazl Al Mahalla — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996790
+DESCRIPTION:⚽ المصري × غزل المحلة\n🏆 الدوري ال
+ مصري الممتاز — الجولة 11\n🗓 الأربعاء 16 دي
+ سمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Cairo Int'l Stadium
+ \n—————\n⚽ Al Masry SC v Ghazl Al Mahalla\n🏆 Egyptian Premi
+ er League — Matchday 11\n🗓 Wed 16 Dec 2026 · 18:00 UTC\n🏟 Cairo I
+ nt'l Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المصري ضد غزل المحلة — الد
+ وري المصري الممتاز | Tomorrow: Al Masry SC vs Ghazl Al Mah
+ alla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المصر
+ ي × غزل المحلة | Kick-off in 30 min: Al Masry SC vs Ghazl Al Ma
+ halla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996796@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261223T150000Z
+DTEND:20261223T170000Z
+SUMMARY:Al Masry SC vs El Gouna FC — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996796
+DESCRIPTION:⚽ المصري × الجونة\n🏆 الدوري المصر
+ ي الممتاز — الجولة 12\n🗓 الأربعاء 23 ديسمب
+ ر 2026 · 18:00 بتوقيت الرياض\n🏟 Cairo Int'l Stadium\n—
+ ————\n⚽ Al Masry SC v El Gouna FC\n🏆 Egyptian Premier League 
+ — Matchday 12\n🗓 Wed 23 Dec 2026 · 15:00 UTC\n🏟 Cairo Int'l Stadi
+ um\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المصري ضد الجونة — الدوري 
+ المصري الممتاز | Tomorrow: Al Masry SC vs El Gouna FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المصر
+ ي × الجونة | Kick-off in 30 min: Al Masry SC vs El Gouna FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996804@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261227T180000Z
+DTEND:20261227T200000Z
+SUMMARY:Modern Sport FC vs Al Masry SC — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996804
+DESCRIPTION:⚽ مودرن سبورت × المصري\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 13\n🗓 الأحد 27 ديسم
+ بر 2026 · 21:00 بتوقيت الرياض\n🏟 Cairo Int'l Stadium\n
+ —————\n⚽ Modern Sport FC v Al Masry SC\n🏆 Egyptian Premier 
+ League — Matchday 13\n🗓 Sun 27 Dec 2026 · 18:00 UTC\n🏟 Cairo Int'
+ l Stadium\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مودرن سبورت ضد المصري — ال
+ دوري المصري الممتاز | Tomorrow: Modern Sport FC vs Al Mas
+ ry SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مودرن 
+ سبورت × المصري | Kick-off in 30 min: Modern Sport FC vs Al Mas
+ ry SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996820@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270106T180000Z
+DTEND:20270106T200000Z
+SUMMARY:Al Masry SC vs Ceramica Cleopatra — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996820
+DESCRIPTION:⚽ المصري × سيراميكا كليوباترا\n🏆 
+ الدوري المصري الممتاز — الجولة 14\n🗓 الأ
+ ربعاء 6 يناير 2027 · 21:00 بتوقيت الرياض\n🏟 Cair
+ o Int'l Stadium\n—————\n⚽ Al Masry SC v Ceramica Cleopatra\n
+ 🏆 Egyptian Premier League — Matchday 14\n🗓 Wed 06 Jan 2027 · 18:0
+ 0 UTC\n🏟 Cairo Int'l Stadium\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المصري ضد سيراميكا كليوبات
+ را — الدوري المصري الممتاز | Tomorrow: Al Masry SC 
+ vs Ceramica Cleopatra
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المصر
+ ي × سيراميكا كليوباترا | Kick-off in 30 min: Al Masry S
+ C vs Ceramica Cleopatra
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996827@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270127T150000Z
+DTEND:20270127T170000Z
+SUMMARY:Al Sharkeyah-ENPPI vs Al Masry SC — Egyptian Premier League
+LOCATION:Petrosport Stadium
+URL:https://www.fotmob.com/match/5996827
+DESCRIPTION:⚽ Al Sharkeyah-ENPPI × المصري\n🏆 الدوري ال
+ مصري الممتاز — الجولة 15\n🗓 الأربعاء 27 ين
+ اير 2027 · 18:00 بتوقيت الرياض\n🏟 Petrosport Stadium\n
+ —————\n⚽ Al Sharkeyah-ENPPI v Al Masry SC\n🏆 Egyptian Premi
+ er League — Matchday 15\n🗓 Wed 27 Jan 2027 · 15:00 UTC\n🏟 Petrosp
+ ort Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Al Sharkeyah-ENPPI ضد المصري — الدو
+ ري المصري الممتاز | Tomorrow: Al Sharkeyah-ENPPI vs Al Masr
+ y SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Al Sharkeya
+ h-ENPPI × المصري | Kick-off in 30 min: Al Sharkeyah-ENPPI vs Al Mas
+ ry SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996836@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270131T180000Z
+DTEND:20270131T200000Z
+SUMMARY:Al Masry SC vs ZED FC — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996836
+DESCRIPTION:⚽ المصري × زد\n🏆 الدوري المصري الم
+ متاز — الجولة 16\n🗓 الأحد 31 يناير 2027 · 21:00 
+ بتوقيت الرياض\n🏟 Cairo Int'l Stadium\n—————\n⚽ 
+ Al Masry SC v ZED FC\n🏆 Egyptian Premier League — Matchday 16\n🗓 S
+ un 31 Jan 2027 · 18:00 UTC\n🏟 Cairo Int'l Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المصري ضد زد — الدوري المص
+ ري الممتاز | Tomorrow: Al Masry SC vs ZED FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المصر
+ ي × زد | Kick-off in 30 min: Al Masry SC vs ZED FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996850@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270206T180000Z
+DTEND:20270206T200000Z
+SUMMARY:Al Ahly SC vs Al Masry SC — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996850
+DESCRIPTION:⚽ الأهلي × المصري\n🏆 الدوري المصر
+ ي الممتاز — الجولة 17\n🗓 السبت 6 فبراير 2027
+  · 21:00 بتوقيت الرياض\n🏟 Cairo Int'l Stadium\n———
+ ——\n⚽ Al Ahly SC v Al Masry SC\n🏆 Egyptian Premier League — Mat
+ chday 17\n🗓 Sat 06 Feb 2027 · 18:00 UTC\n🏟 Cairo Int'l Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد المصري — الدوري 
+ المصري الممتاز | Tomorrow: Al Ahly SC vs Al Masry SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × المصري | Kick-off in 30 min: Al Ahly SC vs Al Masry SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996861@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270212T193000Z
+DTEND:20270212T213000Z
+SUMMARY:Al Masry SC vs Wadi Degla FC — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996861
+DESCRIPTION:⚽ المصري × وادي دجلة\n🏆 الدوري الم
+ صري الممتاز — الجولة 18\n🗓 الجمعة 12 فبراي
+ ر 2027 · 22:30 بتوقيت الرياض\n🏟 Cairo Int'l Stadium\n—
+ ————\n⚽ Al Masry SC v Wadi Degla FC\n🏆 Egyptian Premier Leagu
+ e — Matchday 18\n🗓 Fri 12 Feb 2027 · 19:30 UTC\n🏟 Cairo Int'l Sta
+ dium\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المصري ضد وادي دجلة — الدو
+ ري المصري الممتاز | Tomorrow: Al Masry SC vs Wadi Degla FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المصر
+ ي × وادي دجلة | Kick-off in 30 min: Al Masry SC vs Wadi Degla FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996869@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270220T193000Z
+DTEND:20270220T213000Z
+SUMMARY:Tala'ea El Gaish vs Al Masry SC — Egyptian Premier League
+LOCATION:Military Sports Stadium
+URL:https://www.fotmob.com/match/5996869
+DESCRIPTION:⚽ طلائع الجيش × المصري\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 19\n🗓 السبت 20 فبرا
+ ير 2027 · 22:30 بتوقيت الرياض\n🏟 Military Sports Stadium
+ \n—————\n⚽ Tala'ea El Gaish v Al Masry SC\n🏆 Egyptian Premi
+ er League — Matchday 19\n🗓 Sat 20 Feb 2027 · 19:30 UTC\n🏟 Militar
+ y Sports Stadium\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: طلائع الجيش ضد المصري — ال
+ دوري المصري الممتاز | Tomorrow: Tala'ea El Gaish vs Al Ma
+ sry SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: طلائع 
+ الجيش × المصري | Kick-off in 30 min: Tala'ea El Gaish vs Al Ma
+ sry SC
+END:VALARM
+END:VEVENT
+END:VCALENDAR

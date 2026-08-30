@@ -1,0 +1,1430 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Chelsea — Premier League & FA Cup Fixtures | تشيلس
+ ي — مباريات الدوري الإنجليزي الممتاز وك
+ أس الاتحاد الإنجليزي
+X-WR-CALDESC:Chelsea — all matches in Premier League & FA Cup\, exact UTC
+  kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-0
+ 9-05T19:31:10Z.  •  تشيلسي — جميع المباريات في ا
+ لدوري الإنجليزي الممتاز وكأس الاتحاد ال
+ إنجليزي بتوقيت UTC الدقيق مع الملاعب والق
+ نوات الناقلة. المصدر: FotMob + 365scores · تحديث ت
+ لقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5795372@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260824T190000Z
+DTEND:20260824T210000Z
+SUMMARY:Fulham vs Chelsea (2 - 3) — Premier League
+LOCATION:Craven Cottage\, London\, England
+GEO:51.474898;-0.221647
+URL:https://www.fotmob.com/match/5795372
+DESCRIPTION:⚽ فولهام × تشيلسي (2 - 3)\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 1\n🗓 الاثنين 24
+  أغسطس 2026 · 22:00 بتوقيت الرياض\n🏟 Craven Cottage،
+  London\n⚖️ الحكم: John Brooks\n👥 الحضور: 27,461\n——
+ ———\n⚽ Fulham v Chelsea (2 - 3)\n🏆 Premier League — Matchday 
+ 1\n🗓 Mon 24 Aug 2026 · 19:00 UTC\n🏟 Craven Cottage, London\nReferee
+ : John Brooks\nAttendance: 27,461\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد تشيلسي — الدوري 
+ الإنجليزي الممتاز | Tomorrow: Fulham vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × تشيلسي | Kick-off in 30 min: Fulham vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795427@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T130000Z
+DTEND:20260830T150000Z
+SUMMARY:Chelsea vs Brighton & Hove Albion (4 - 3) — Premier League
+LOCATION:Stamford Bridge\, London\, England
+GEO:51.481712;-0.190975
+URL:https://www.fotmob.com/match/5795427
+DESCRIPTION:⚽ تشيلسي × برايتون (4 - 3)\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 2\n🗓 الأحد 30 
+ أغسطس 2026 · 16:00 بتوقيت الرياض\n🏟 Stamford Bridge،
+  London\n⚖️ الحكم: Michael Oliver\n—————\n⚽ Chelsea v
+  Brighton & Hove Albion (4 - 3)\n🏆 Premier League — Matchday 2\n🗓 
+ Sun 30 Aug 2026 · 13:00 UTC\n🏟 Stamford Bridge, London\nReferee: Micha
+ el Oliver\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد برايتون — الدوري
+  الإنجليزي الممتاز | Tomorrow: Chelsea vs Brighton & Hove 
+ Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × برايتون | Kick-off in 30 min: Chelsea vs Brighton & Hove Albi
+ on
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795435@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260906T153000Z
+DTEND:20260906T173000Z
+SUMMARY:Arsenal vs Chelsea — Premier League
+LOCATION:Emirates Stadium\, London\, England
+GEO:51.555075;-0.108458
+URL:https://www.fotmob.com/match/5795435
+DESCRIPTION:⚽ أرسنال × تشيلسي\n🏆 الدوري الإنج
+ ليزي الممتاز — الجولة 3\n🗓 الأحد 6 سبتمبر
+  2026 · 18:30 بتوقيت الرياض\n🏟 Emirates Stadium، London\n
+ 📺 beIN SPORTS HD 1\n—————\n⚽ Arsenal v Chelsea\n🏆 Premie
+ r League — Matchday 3\n🗓 Sun 06 Sep 2026 · 15:30 UTC\n🏟 Emirates 
+ Stadium, London\n📺 beIN Sport 1 HD\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد تشيلسي — الدوري 
+ الإنجليزي الممتاز — 📺 beIN SPORTS HD 1 | Tomorrow: Ar
+ senal vs Chelsea | TV: beIN Sport 1 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × تشيلسي — 📺 beIN SPORTS HD 1 | Kick-off in 30 min: Arsenal
+  vs Chelsea | TV: beIN Sport 1 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795447@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T140000Z
+DTEND:20260912T160000Z
+SUMMARY:Chelsea vs Hull City — Premier League
+LOCATION:Stamford Bridge\, London\, England
+GEO:51.481712;-0.190975
+URL:https://www.fotmob.com/match/5795447
+DESCRIPTION:⚽ تشيلسي × هال سيتي\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 4\n🗓 السبت 12 سبتم
+ بر 2026 · 17:00 بتوقيت الرياض\n🏟 Stamford Bridge، Londo
+ n\n📺 USA Network، Universo، Fubo Sports CA، StarHub TV+، Astro Go\n
+ —————\n⚽ Chelsea v Hull City\n🏆 Premier League — Matchday
+  4\n🗓 Sat 12 Sep 2026 · 14:00 UTC\n🏟 Stamford Bridge, London\n📺 
+ USA Network, Universo, Fubo Sports CA, StarHub TV+, Astro Go\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد هال سيتي — الدور
+ ي الإنجليزي الممتاز — 📺 USA Network، Universo، Fub
+ o Sports CA، StarHub TV+، Astro Go | Tomorrow: Chelsea vs Hull City | TV
+ : USA Network\, Universo\, Fubo Sports CA\, StarHub TV+\, Astro Go
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × هال سيتي — 📺 USA Network، Universo، Fubo Sports CA، S
+ tarHub TV+، Astro Go | Kick-off in 30 min: Chelsea vs Hull City | TV: USA
+  Network\, Universo\, Fubo Sports CA\, StarHub TV+\, Astro Go
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795456@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260918T190000Z
+DTEND:20260918T210000Z
+SUMMARY:Brentford vs Chelsea — Premier League
+LOCATION:Gtech Community Stadium\, Brentford\, Middlesex\, England
+GEO:51.490729;-0.288884
+URL:https://www.fotmob.com/match/5795456
+DESCRIPTION:⚽ برينتفورد × تشيلسي\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 5\n🗓 الجمعة 18 س
+ بتمبر 2026 · 22:00 بتوقيت الرياض\n🏟 Gtech Community S
+ tadium، Brentford, Middlesex\n—————\n⚽ Brentford v Chelsea\n
+ 🏆 Premier League — Matchday 5\n🗓 Fri 18 Sep 2026 · 19:00 UTC\n
+ 🏟 Gtech Community Stadium, Brentford, Middlesex\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد تشيلسي — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Brentford vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × تشيلسي | Kick-off in 30 min: Brentford vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795467@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T140000Z
+DTEND:20261010T160000Z
+SUMMARY:Chelsea vs AFC Bournemouth — Premier League
+LOCATION:Stamford Bridge\, London\, England
+GEO:51.481712;-0.190975
+URL:https://www.fotmob.com/match/5795467
+DESCRIPTION:⚽ تشيلسي × بورنموث\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 6\n🗓 السبت 10 أكتو
+ بر 2026 · 17:00 بتوقيت الرياض\n🏟 Stamford Bridge، Londo
+ n\n—————\n⚽ Chelsea v AFC Bournemouth\n🏆 Premier League —
+  Matchday 6\n🗓 Sat 10 Oct 2026 · 14:00 UTC\n🏟 Stamford Bridge, Lond
+ on\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد بورنموث — الدوري
+  الإنجليزي الممتاز | Tomorrow: Chelsea vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × بورنموث | Kick-off in 30 min: Chelsea vs AFC Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795478@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T113000Z
+DTEND:20261017T133000Z
+SUMMARY:Everton vs Chelsea — Premier League
+LOCATION:Hill Dickinson Stadium\, Liverpool\, Merseyside\, England
+GEO:53.424981;-3.002691
+URL:https://www.fotmob.com/match/5795478
+DESCRIPTION:⚽ إيفرتون × تشيلسي\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 7\n🗓 السبت 17 أكتو
+ بر 2026 · 14:30 بتوقيت الرياض\n🏟 Hill Dickinson Stadium
+ ، Liverpool, Merseyside\n—————\n⚽ Everton v Chelsea\n🏆 Pre
+ mier League — Matchday 7\n🗓 Sat 17 Oct 2026 · 11:30 UTC\n🏟 Hill D
+ ickinson Stadium, Liverpool, Merseyside\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد تشيلسي — الدوري
+  الإنجليزي الممتاز | Tomorrow: Everton vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × تشيلسي | Kick-off in 30 min: Everton vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795487@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T163000Z
+DTEND:20261024T183000Z
+SUMMARY:Chelsea vs Tottenham Hotspur — Premier League
+LOCATION:Stamford Bridge\, London\, England
+GEO:51.481712;-0.190975
+URL:https://www.fotmob.com/match/5795487
+DESCRIPTION:⚽ تشيلسي × توتنهام هوتسبر\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 8\n🗓 السبت
+  24 أكتوبر 2026 · 19:30 بتوقيت الرياض\n🏟 Stamford Br
+ idge، London\n—————\n⚽ Chelsea v Tottenham Hotspur\n🏆 Prem
+ ier League — Matchday 8\n🗓 Sat 24 Oct 2026 · 16:30 UTC\n🏟 Stamfor
+ d Bridge, London\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد توتنهام هوتسبر —
+  الدوري الإنجليزي الممتاز | Tomorrow: Chelsea vs Tot
+ tenham Hotspur
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × توتنهام هوتسبر | Kick-off in 30 min: Chelsea vs Tottenh
+ am Hotspur
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795498@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T123000Z
+DTEND:20261031T143000Z
+SUMMARY:Chelsea vs Manchester United — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795498
+DESCRIPTION:⚽ تشيلسي × مانشستر يونايتد\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 9\n🗓 السب
+ ت 31 أكتوبر 2026 · 15:30 بتوقيت الرياض\n🏟 Stamford 
+ Bridge\n—————\n⚽ Chelsea v Manchester United\n🏆 Premier Lea
+ gue — Matchday 9\n🗓 Sat 31 Oct 2026 · 12:30 UTC\n🏟 Stamford Bridg
+ e\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد مانشستر يونايتد 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Chelsea vs 
+ Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × مانشستر يونايتد | Kick-off in 30 min: Chelsea vs Manch
+ ester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795514@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Sunderland vs Chelsea — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795514
+DESCRIPTION:⚽ سندرلاند × تشيلسي\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 10\n🗓 السبت 7 نوف
+ مبر 2026 · 18:00 بتوقيت الرياض\n🏟 Stadium of Light\n—
+ ————\n⚽ Sunderland v Chelsea\n🏆 Premier League — Matchday 1
+ 0\n🗓 Sat 07 Nov 2026 · 15:00 UTC\n🏟 Stadium of Light\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد تشيلسي — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Sunderland vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × تشيلسي | Kick-off in 30 min: Sunderland vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795518@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:Chelsea vs Leeds United — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795518
+DESCRIPTION:⚽ تشيلسي × ليدز يونايتد\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 11\n🗓 السبت 21 
+ نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Stamford Bridge
+ \n—————\n⚽ Chelsea v Leeds United\n🏆 Premier League — Mat
+ chday 11\n🗓 Sat 21 Nov 2026 · 15:00 UTC\n🏟 Stamford Bridge\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد ليدز يونايتد — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Chelsea vs Leeds 
+ United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × ليدز يونايتد | Kick-off in 30 min: Chelsea vs Leeds Unite
+ d
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795533@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:Nottingham Forest vs Chelsea — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795533
+DESCRIPTION:⚽ نوتنجهام فورست × تشيلسي\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 12\n🗓 السب
+ ت 28 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 City Grou
+ nd, Nottingham\n—————\n⚽ Nottingham Forest v Chelsea\n🏆 Pre
+ mier League — Matchday 12\n🗓 Sat 28 Nov 2026 · 15:00 UTC\n🏟 City 
+ Ground, Nottingham\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد تشيلسي —
+  الدوري الإنجليزي الممتاز | Tomorrow: Nottingham For
+ est vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × تشيلسي | Kick-off in 30 min: Nottingham Forest 
+ vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795538@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Chelsea vs Crystal Palace — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795538
+DESCRIPTION:⚽ تشيلسي × كريستال بالاس\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 13\n🗓 الأرب
+ عاء 2 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Stamfo
+ rd Bridge\n—————\n⚽ Chelsea v Crystal Palace\n🏆 Premier Lea
+ gue — Matchday 13\n🗓 Wed 02 Dec 2026 · 20:00 UTC\n🏟 Stamford Brid
+ ge\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد كريستال بالاس — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Chelsea vs Crys
+ tal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × كريستال بالاس | Kick-off in 30 min: Chelsea vs Crystal P
+ alace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795548@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Chelsea vs Liverpool — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795548
+DESCRIPTION:⚽ تشيلسي × ليفربول\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 14\n🗓 السبت 5 ديسم
+ بر 2026 · 18:00 بتوقيت الرياض\n🏟 Stamford Bridge\n——
+ ———\n⚽ Chelsea v Liverpool\n🏆 Premier League — Matchday 14\n
+ 🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 Stamford Bridge\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد ليفربول — الدوري
+  الإنجليزي الممتاز | Tomorrow: Chelsea vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × ليفربول | Kick-off in 30 min: Chelsea vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795563@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Manchester City vs Chelsea — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795563
+DESCRIPTION:⚽ مانشستر سيتي × تشيلسي\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 15\n🗓 السبت 12 
+ ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Etihad Stadium\
+ n—————\n⚽ Manchester City v Chelsea\n🏆 Premier League — M
+ atchday 15\n🗓 Sat 12 Dec 2026 · 15:00 UTC\n🏟 Etihad Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد تشيلسي — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Manchester City v
+ s Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × تشيلسي | Kick-off in 30 min: Manchester City vs Che
+ lsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795569@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:Chelsea vs Aston Villa — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795569
+DESCRIPTION:⚽ تشيلسي × أستون فيلا\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 16\n🗓 السبت 19 دي
+ سمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Stamford Bridge\n
+ —————\n⚽ Chelsea v Aston Villa\n🏆 Premier League — Matchd
+ ay 16\n🗓 Sat 19 Dec 2026 · 15:00 UTC\n🏟 Stamford Bridge\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد أستون فيلا — الد
+ وري الإنجليزي الممتاز | Tomorrow: Chelsea vs Aston Vill
+ a
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × أستون فيلا | Kick-off in 30 min: Chelsea vs Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795576@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261226T150000Z
+DTEND:20261226T170000Z
+SUMMARY:Coventry City vs Chelsea — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795576
+DESCRIPTION:⚽ كوفنتري سيتي × تشيلسي\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 17\n🗓 السبت 26 
+ ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Coventry Buildi
+ ng Society Arena\n—————\n⚽ Coventry City v Chelsea\n🏆 Premi
+ er League — Matchday 17\n🗓 Sat 26 Dec 2026 · 15:00 UTC\n🏟 Coventr
+ y Building Society Arena\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد تشيلسي — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Coventry City vs 
+ Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × تشيلسي | Kick-off in 30 min: Coventry City vs Chels
+ ea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795591@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261230T200000Z
+DTEND:20261230T220000Z
+SUMMARY:Ipswich Town vs Chelsea — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795591
+DESCRIPTION:⚽ إبسويتش تاون × تشيلسي\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 18\n🗓 الأربعا
+ ء 30 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Portman R
+ oad\n—————\n⚽ Ipswich Town v Chelsea\n🏆 Premier League — 
+ Matchday 18\n🗓 Wed 30 Dec 2026 · 20:00 UTC\n🏟 Portman Road\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد تشيلسي — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Ipswich Town vs C
+ helsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × تشيلسي | Kick-off in 30 min: Ipswich Town vs Chelse
+ a
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795599@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T150000Z
+DTEND:20270102T170000Z
+SUMMARY:Chelsea vs Newcastle United — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795599
+DESCRIPTION:⚽ تشيلسي × نيوكاسل يونايتد\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 19\n🗓 الس
+ بت 2 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Stamford B
+ ridge\n—————\n⚽ Chelsea v Newcastle United\n🏆 Premier Leagu
+ e — Matchday 19\n🗓 Sat 02 Jan 2027 · 15:00 UTC\n🏟 Stamford Bridge
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد نيوكاسل يونايتد 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Chelsea vs 
+ Newcastle United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × نيوكاسل يونايتد | Kick-off in 30 min: Chelsea vs Newca
+ stle United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795607@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T200000Z
+DTEND:20270106T220000Z
+SUMMARY:Crystal Palace vs Chelsea — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795607
+DESCRIPTION:⚽ كريستال بالاس × تشيلسي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 20\n🗓 الأرب
+ عاء 6 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Selhurst
+  Park\n—————\n⚽ Crystal Palace v Chelsea\n🏆 Premier League 
+ — Matchday 20\n🗓 Wed 06 Jan 2027 · 20:00 UTC\n🏟 Selhurst Park\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد تشيلسي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Crystal Palace 
+ vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × تشيلسي | Kick-off in 30 min: Crystal Palace vs Ch
+ elsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795618@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:Chelsea vs Sunderland — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795618
+DESCRIPTION:⚽ تشيلسي × سندرلاند\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 21\n🗓 السبت 16 ينا
+ ير 2027 · 18:00 بتوقيت الرياض\n🏟 Stamford Bridge\n——
+ ———\n⚽ Chelsea v Sunderland\n🏆 Premier League — Matchday 21\n
+ 🗓 Sat 16 Jan 2027 · 15:00 UTC\n🏟 Stamford Bridge\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد سندرلاند — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Chelsea vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × سندرلاند | Kick-off in 30 min: Chelsea vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795631@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:Leeds United vs Chelsea — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795631
+DESCRIPTION:⚽ ليدز يونايتد × تشيلسي\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 22\n🗓 السبت 23 
+ يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Elland Road\n—
+ ————\n⚽ Leeds United v Chelsea\n🏆 Premier League — Matchday
+  22\n🗓 Sat 23 Jan 2027 · 15:00 UTC\n🏟 Elland Road\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد تشيلسي — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Leeds United vs C
+ helsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × تشيلسي | Kick-off in 30 min: Leeds United vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795638@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Chelsea vs Nottingham Forest — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795638
+DESCRIPTION:⚽ تشيلسي × نوتنجهام فورست\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 23\n🗓 السب
+ ت 30 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Stamford Br
+ idge\n—————\n⚽ Chelsea v Nottingham Forest\n🏆 Premier Leagu
+ e — Matchday 23\n🗓 Sat 30 Jan 2027 · 15:00 UTC\n🏟 Stamford Bridge
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد نوتنجهام فورست —
+  الدوري الإنجليزي الممتاز | Tomorrow: Chelsea vs Not
+ tingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × نوتنجهام فورست | Kick-off in 30 min: Chelsea vs Notting
+ ham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795652@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Manchester United vs Chelsea — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795652
+DESCRIPTION:⚽ مانشستر يونايتد × تشيلسي\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 24\n🗓 الس
+ بت 6 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Old Traf
+ ford\n—————\n⚽ Manchester United v Chelsea\n🏆 Premier Leagu
+ e — Matchday 24\n🗓 Sat 06 Feb 2027 · 15:00 UTC\n🏟 Old Trafford\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد تشيلسي 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Manchester 
+ United vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × تشيلسي | Kick-off in 30 min: Manchester Unite
+ d vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795663@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270210T200000Z
+DTEND:20270210T220000Z
+SUMMARY:Newcastle United vs Chelsea — Premier League
+LOCATION:St James' Park
+URL:https://www.fotmob.com/match/5795663
+DESCRIPTION:⚽ نيوكاسل يونايتد × تشيلسي\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 25\n🗓 الأ
+ ربعاء 10 فبراير 2027 · 23:00 بتوقيت الرياض\n🏟 S
+ t James' Park\n—————\n⚽ Newcastle United v Chelsea\n🏆 Premi
+ er League — Matchday 25\n🗓 Wed 10 Feb 2027 · 20:00 UTC\n🏟 St Jame
+ s' Park\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل يونايتد ضد تشيلسي 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Newcastle U
+ nited vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل يونايتد × تشيلسي | Kick-off in 30 min: Newcastle United
+  vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795669@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:Chelsea vs Ipswich Town — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795669
+DESCRIPTION:⚽ تشيلسي × إبسويتش تاون\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 26\n🗓 السبت 20 
+ فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Stamford Bridge
+ \n—————\n⚽ Chelsea v Ipswich Town\n🏆 Premier League — Mat
+ chday 26\n🗓 Sat 20 Feb 2027 · 15:00 UTC\n🏟 Stamford Bridge\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد إبسويتش تاون — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Chelsea vs Ipswic
+ h Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × إبسويتش تاون | Kick-off in 30 min: Chelsea vs Ipswich Tow
+ n
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795675@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T150000Z
+DTEND:20270227T170000Z
+SUMMARY:Aston Villa vs Chelsea — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795675
+DESCRIPTION:⚽ أستون فيلا × تشيلسي\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 27\n🗓 السبت 27 فب
+ راير 2027 · 18:00 بتوقيت الرياض\n🏟 Villa Park\n——
+ ———\n⚽ Aston Villa v Chelsea\n🏆 Premier League — Matchday 27\
+ n🗓 Sat 27 Feb 2027 · 15:00 UTC\n🏟 Villa Park\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد تشيلسي — الد
+ وري الإنجليزي الممتاز | Tomorrow: Aston Villa vs Chelse
+ a
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × تشيلسي | Kick-off in 30 min: Aston Villa vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795689@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270303T200000Z
+DTEND:20270303T220000Z
+SUMMARY:Chelsea vs Coventry City — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795689
+DESCRIPTION:⚽ تشيلسي × كوفنتري سيتي\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 28\n🗓 الأربعا
+ ء 3 مارس 2027 · 23:00 بتوقيت الرياض\n🏟 Stamford Bridg
+ e\n—————\n⚽ Chelsea v Coventry City\n🏆 Premier League — M
+ atchday 28\n🗓 Wed 03 Mar 2027 · 20:00 UTC\n🏟 Stamford Bridge\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد كوفنتري سيتي — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Chelsea vs Covent
+ ry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × كوفنتري سيتي | Kick-off in 30 min: Chelsea vs Coventry Ci
+ ty
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795697@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T150000Z
+DTEND:20270313T170000Z
+SUMMARY:Chelsea vs Arsenal — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795697
+DESCRIPTION:⚽ تشيلسي × أرسنال\n🏆 الدوري الإنج
+ ليزي الممتاز — الجولة 29\n🗓 السبت 13 مارس 2
+ 027 · 18:00 بتوقيت الرياض\n🏟 Stamford Bridge\n————
+ —\n⚽ Chelsea v Arsenal\n🏆 Premier League — Matchday 29\n🗓 Sat 
+ 13 Mar 2027 · 15:00 UTC\n🏟 Stamford Bridge\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد أرسنال — الدوري 
+ الإنجليزي الممتاز | Tomorrow: Chelsea vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × أرسنال | Kick-off in 30 min: Chelsea vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795710@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T150000Z
+DTEND:20270320T170000Z
+SUMMARY:Hull City vs Chelsea — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795710
+DESCRIPTION:⚽ هال سيتي × تشيلسي\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 30\n🗓 السبت 20 مارس
+  2027 · 18:00 بتوقيت الرياض\n🏟 The MKM Stadium\n———
+ ——\n⚽ Hull City v Chelsea\n🏆 Premier League — Matchday 30\n🗓
+  Sat 20 Mar 2027 · 15:00 UTC\n🏟 The MKM Stadium\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد تشيلسي — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Hull City vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × تشيلسي | Kick-off in 30 min: Hull City vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795717@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T140000Z
+DTEND:20270410T160000Z
+SUMMARY:Chelsea vs Fulham — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795717
+DESCRIPTION:⚽ تشيلسي × فولهام\n🏆 الدوري الإنج
+ ليزي الممتاز — الجولة 31\n🗓 السبت 10 أبريل
+  2027 · 17:00 بتوقيت الرياض\n🏟 Stamford Bridge\n———
+ ——\n⚽ Chelsea v Fulham\n🏆 Premier League — Matchday 31\n🗓 Sa
+ t 10 Apr 2027 · 14:00 UTC\n🏟 Stamford Bridge\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد فولهام — الدوري 
+ الإنجليزي الممتاز | Tomorrow: Chelsea vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × فولهام | Kick-off in 30 min: Chelsea vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795727@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T140000Z
+DTEND:20270417T160000Z
+SUMMARY:Brighton & Hove Albion vs Chelsea — Premier League
+LOCATION:The American Express Community Stadium
+URL:https://www.fotmob.com/match/5795727
+DESCRIPTION:⚽ برايتون × تشيلسي\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 32\n🗓 السبت 17 أبري
+ ل 2027 · 17:00 بتوقيت الرياض\n🏟 The American Express Comm
+ unity Stadium\n—————\n⚽ Brighton & Hove Albion v Chelsea\n🏆
+  Premier League — Matchday 32\n🗓 Sat 17 Apr 2027 · 14:00 UTC\n🏟 T
+ he American Express Community Stadium\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برايتون ضد تشيلسي — الدوري
+  الإنجليزي الممتاز | Tomorrow: Brighton & Hove Albion vs C
+ helsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برايت
+ ون × تشيلسي | Kick-off in 30 min: Brighton & Hove Albion vs Chels
+ ea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795738@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T140000Z
+DTEND:20270424T160000Z
+SUMMARY:Chelsea vs Manchester City — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795738
+DESCRIPTION:⚽ تشيلسي × مانشستر سيتي\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 33\n🗓 السبت 24 
+ أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 Stamford Bridge\n
+ —————\n⚽ Chelsea v Manchester City\n🏆 Premier League — Ma
+ tchday 33\n🗓 Sat 24 Apr 2027 · 14:00 UTC\n🏟 Stamford Bridge\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد مانشستر سيتي — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Chelsea vs Manche
+ ster City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × مانشستر سيتي | Kick-off in 30 min: Chelsea vs Manchester 
+ City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795752@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T140000Z
+DTEND:20270501T160000Z
+SUMMARY:Liverpool vs Chelsea — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795752
+DESCRIPTION:⚽ ليفربول × تشيلسي\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 34\n🗓 السبت 1 مايو 
+ 2027 · 17:00 بتوقيت الرياض\n🏟 Anfield\n—————\n
+ ⚽ Liverpool v Chelsea\n🏆 Premier League — Matchday 34\n🗓 Sat 01 
+ May 2027 · 14:00 UTC\n🏟 Anfield\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد تشيلسي — الدوري
+  الإنجليزي الممتاز | Tomorrow: Liverpool vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × تشيلسي | Kick-off in 30 min: Liverpool vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795777@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T140000Z
+DTEND:20270508T160000Z
+SUMMARY:Tottenham Hotspur vs Chelsea — Premier League
+LOCATION:Tottenham Hotspur Stadium
+URL:https://www.fotmob.com/match/5795777
+DESCRIPTION:⚽ توتنهام هوتسبر × تشيلسي\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 35\n🗓 السب
+ ت 8 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Tottenham Hots
+ pur Stadium\n—————\n⚽ Tottenham Hotspur v Chelsea\n🏆 Premie
+ r League — Matchday 35\n🗓 Sat 08 May 2027 · 14:00 UTC\n🏟 Tottenha
+ m Hotspur Stadium\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توتنهام هوتسبر ضد تشيلسي —
+  الدوري الإنجليزي الممتاز | Tomorrow: Tottenham Hots
+ pur vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توتنه
+ ام هوتسبر × تشيلسي | Kick-off in 30 min: Tottenham Hotspur 
+ vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795780@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T140000Z
+DTEND:20270515T160000Z
+SUMMARY:Chelsea vs Everton — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795780
+DESCRIPTION:⚽ تشيلسي × إيفرتون\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 36\n🗓 السبت 15 مايو
+  2027 · 17:00 بتوقيت الرياض\n🏟 Stamford Bridge\n———
+ ——\n⚽ Chelsea v Everton\n🏆 Premier League — Matchday 36\n🗓 S
+ at 15 May 2027 · 14:00 UTC\n🏟 Stamford Bridge\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد إيفرتون — الدوري
+  الإنجليزي الممتاز | Tomorrow: Chelsea vs Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × إيفرتون | Kick-off in 30 min: Chelsea vs Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795788@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T140000Z
+DTEND:20270523T160000Z
+SUMMARY:AFC Bournemouth vs Chelsea — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795788
+DESCRIPTION:⚽ بورنموث × تشيلسي\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 37\n🗓 الأحد 23 مايو
+  2027 · 17:00 بتوقيت الرياض\n🏟 Vitality Stadium\n———
+ ——\n⚽ AFC Bournemouth v Chelsea\n🏆 Premier League — Matchday 37
+ \n🗓 Sun 23 May 2027 · 14:00 UTC\n🏟 Vitality Stadium\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد تشيلسي — الدوري
+  الإنجليزي الممتاز | Tomorrow: AFC Bournemouth vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × تشيلسي | Kick-off in 30 min: AFC Bournemouth vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795800@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T150000Z
+DTEND:20270530T170000Z
+SUMMARY:Chelsea vs Brentford — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795800
+DESCRIPTION:⚽ تشيلسي × برينتفورد\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 38\n🗓 الأحد 30 ما
+ يو 2027 · 18:00 بتوقيت الرياض\n🏟 Stamford Bridge\n——
+ ———\n⚽ Chelsea v Brentford\n🏆 Premier League — Matchday 38\n
+ 🗓 Sun 30 May 2027 · 15:00 UTC\n🏟 Stamford Bridge\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد برينتفورد — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Chelsea vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × برينتفورد | Kick-off in 30 min: Chelsea vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089900@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T200000Z
+DTEND:20260110T220000Z
+SUMMARY:Charlton Athletic vs Chelsea (1 - 5) — FA Cup
+LOCATION:The Valley\, London\, England
+GEO:51.486507;0.036435
+URL:https://www.fotmob.com/match/5089900
+DESCRIPTION:⚽ Charlton Athletic × تشيلسي (1 - 5)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الثالث\n🗓 السبت
+  10 يناير 2026 · 23:00 بتوقيت الرياض\n🏟 The Valley، 
+ London\n⚖️ الحكم: Chris Kavanagh\n👥 الحضور: 26,475\n—
+ ————\n⚽ Charlton Athletic v Chelsea (1 - 5)\n🏆 FA Cup — Rou
+ nd 3\n🗓 Sat 10 Jan 2026 · 20:00 UTC\n🏟 The Valley, London\nReferee:
+  Chris Kavanagh\nAttendance: 26,475\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Charlton Athletic ضد تشيلسي — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Charlton Athletic vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Charlton At
+ hletic × تشيلسي | Kick-off in 30 min: Charlton Athletic vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135167@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260213T194500Z
+DTEND:20260213T214500Z
+SUMMARY:Hull City vs Chelsea (0 - 4) — FA Cup
+LOCATION:The MKM Stadium\, Hull\, England
+GEO:53.746240;-0.367640
+URL:https://www.fotmob.com/match/5135167
+DESCRIPTION:⚽ هال سيتي × تشيلسي (0 - 4)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الرابع\n🗓 الجمعة
+  13 فبراير 2026 · 22:45 بتوقيت الرياض\n🏟 The MKM Sta
+ dium، Hull\n⚖️ الحكم: Farai Hallam\n👥 الحضور: 24,320\n
+ —————\n⚽ Hull City v Chelsea (0 - 4)\n🏆 FA Cup — Round 4\
+ n🗓 Fri 13 Feb 2026 · 19:45 UTC\n🏟 The MKM Stadium, Hull\nReferee: F
+ arai Hallam\nAttendance: 24,320\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد تشيلسي — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Hull City vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × تشيلسي | Kick-off in 30 min: Hull City vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5186384@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260307T174500Z
+DTEND:20260307T194500Z
+SUMMARY:Wrexham vs Chelsea (2 - 4) — FA Cup
+LOCATION:STōK Cae Ras\, Wrexham (Wrecsam)\, Wales
+GEO:53.051941;-3.003819
+URL:https://www.fotmob.com/match/5186384
+DESCRIPTION:⚽ Wrexham × تشيلسي (2 - 4)\n🏆 كأس الاتحاد
+  الإنجليزي — الدور الخامس\n🗓 السبت 7 مار
+ س 2026 · 20:45 بتوقيت الرياض\n🏟 STōK Cae Ras، Wrexham (
+ Wrecsam)\n⚖️ الحكم: Peter Bankes\n👥 الحضور: 10,556\n—
+ ————\n⚽ Wrexham v Chelsea (2 - 4)\n🏆 FA Cup — Round 5\n🗓
+  Sat 07 Mar 2026 · 17:45 UTC\n🏟 STōK Cae Ras, Wrexham (Wrecsam)\nRefe
+ ree: Peter Bankes\nAttendance: 10,556\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Wrexham ضد تشيلسي — كأس الاتحا
+ د الإنجليزي | Tomorrow: Wrexham vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Wrexham × 
+ تشيلسي | Kick-off in 30 min: Wrexham vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5231046@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260404T161500Z
+DTEND:20260404T181500Z
+SUMMARY:Chelsea vs Port Vale (7 - 0) — FA Cup
+LOCATION:Stamford Bridge\, London\, England
+GEO:51.481712;-0.190975
+URL:https://www.fotmob.com/match/5231046
+DESCRIPTION:⚽ تشيلسي × Port Vale (7 - 0)\n🏆 كأس الاتحا
+ د الإنجليزي — ربع النهائي\n🗓 السبت 4 أبر
+ يل 2026 · 19:15 بتوقيت الرياض\n🏟 Stamford Bridge، Londo
+ n\n⚖️ الحكم: Farai Hallam\n👥 الحضور: 38,375\n———
+ ——\n⚽ Chelsea v Port Vale (7 - 0)\n🏆 FA Cup — Quarter-Finals\n
+ 🗓 Sat 04 Apr 2026 · 16:15 UTC\n🏟 Stamford Bridge, London\nReferee: 
+ Farai Hallam\nAttendance: 38,375\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد Port Vale — كأس الاتح
+ اد الإنجليزي | Tomorrow: Chelsea vs Port Vale
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × Port Vale | Kick-off in 30 min: Chelsea vs Port Vale
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5293794@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260426T140000Z
+DTEND:20260426T160000Z
+SUMMARY:Chelsea vs Leeds United (1 - 0) — FA Cup
+LOCATION:Wembley Stadium\, London\, England
+GEO:51.555855;-0.279593
+URL:https://www.fotmob.com/match/5293794
+DESCRIPTION:⚽ تشيلسي × ليدز يونايتد (1 - 0)\n🏆 كأ
+ س الاتحاد الإنجليزي — نصف النهائي\n🗓 ال
+ أحد 26 أبريل 2026 · 17:00 بتوقيت الرياض\n🏟 Wembley
+  Stadium، London\n⚖️ الحكم: Jarred Gillett\n👥 الحضور: 8
+ 2,542\n—————\n⚽ Chelsea v Leeds United (1 - 0)\n🏆 FA Cup 
+ — Semi-Finals\n🗓 Sun 26 Apr 2026 · 14:00 UTC\n🏟 Wembley Stadium, 
+ London\nReferee: Jarred Gillett\nAttendance: 82,542\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد ليدز يونايتد — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Chelsea vs Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × ليدز يونايتد | Kick-off in 30 min: Chelsea vs Leeds Unite
+ d
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5315746@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260516T140000Z
+DTEND:20260516T160000Z
+SUMMARY:Chelsea vs Manchester City (0 - 1) — FA Cup
+LOCATION:Wembley Stadium\, London\, England
+GEO:51.555855;-0.279593
+URL:https://www.fotmob.com/match/5315746
+DESCRIPTION:⚽ تشيلسي × مانشستر سيتي (0 - 1)\n🏆 كأ
+ س الاتحاد الإنجليزي — النهائي\n🗓 السبت 1
+ 6 مايو 2026 · 17:00 بتوقيت الرياض\n🏟 Wembley Stadium،
+  London\n⚖️ الحكم: Darren England\n👥 الحضور: 83,337\n—
+ ————\n⚽ Chelsea v Manchester City (0 - 1)\n🏆 FA Cup — Final
+ \n🗓 Sat 16 May 2026 · 14:00 UTC\n🏟 Wembley Stadium, London\nReferee
+ : Darren England\nAttendance: 83,337\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد مانشستر سيتي — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Chelsea vs Manchester C
+ ity
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × مانشستر سيتي | Kick-off in 30 min: Chelsea vs Manchester 
+ City
+END:VALARM
+END:VEVENT
+END:VCALENDAR

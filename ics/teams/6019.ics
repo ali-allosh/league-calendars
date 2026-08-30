@@ -1,0 +1,286 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Slovan Bratislava — UEFA Champions League Fixtures | س
+ لوفان براتيسلافا — مباريات دوري أبطال أ
+ وروبا
+X-WR-CALDESC:Slovan Bratislava — all matches in UEFA Champions League\, e
+ xact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-update
+ d 2026-09-05T19:31:10Z.  •  سلوفان براتيسلافا — جمي
+ ع المباريات في دوري أبطال أوروبا بتوقيت U
+ TC الدقيق مع الملاعب والقنوات الناقلة. ال
+ مصدر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:1
+ 0Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6106237@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260909T190000Z
+DTEND:20260909T210000Z
+SUMMARY:Paris Saint-Germain vs Slovan Bratislava — UEFA Champions League
+LOCATION:Parc des Princes\, Paris\, France
+GEO:48.841433;2.253049
+URL:https://www.fotmob.com/match/6106237
+DESCRIPTION:⚽ باريس سان جيرمان × سلوفان براتيس
+ لافا\n🏆 دوري أبطال أوروبا — الجولة 1\n🗓 
+ الأربعاء 9 سبتمبر 2026 · 22:00 بتوقيت الرياض\n
+ 🏟 Parc des Princes، Paris\n📺 HBO Max (UK)، Paramount+ (US)\n——
+ ———\n⚽ Paris Saint-Germain v Slovan Bratislava\n🏆 UEFA Champion
+ s League — Matchday 1\n🗓 Wed 09 Sep 2026 · 19:00 UTC\n🏟 Parc des 
+ Princes, Paris\n📺 HBO Max (UK), Paramount+ (US)\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد سلوفان 
+ براتيسلافا — دوري أبطال أوروبا — 📺 HBO Max
+  (UK)، Paramount+ (US) | Tomorrow: Paris Saint-Germain vs Slovan Bratisla
+ va | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × سلوفان براتيسلافا — 📺 HBO Max 
+ (UK)، Paramount+ (US) | Kick-off in 30 min: Paris Saint-Germain vs Slovan
+  Bratislava | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106396@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+SUMMARY:Slovan Bratislava vs VfB Stuttgart — UEFA Champions League
+LOCATION:Štadión Tehelné pole\, Bratislava\, Slovakia
+GEO:48.163495;17.136698
+URL:https://www.fotmob.com/match/6106396
+DESCRIPTION:⚽ سلوفان براتيسلافا × شتوتجارت\n🏆
+  دوري أبطال أوروبا — الجولة 2\n🗓 الأربعا
+ ء 14 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Štadión
+  Tehelné pole، Bratislava\n—————\n⚽ Slovan Bratislava v VfB 
+ Stuttgart\n🏆 UEFA Champions League — Matchday 2\n🗓 Wed 14 Oct 2026
+  · 19:00 UTC\n🏟 Štadión Tehelné pole, Bratislava\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سلوفان براتيسلافا ضد شتوتج
+ ارت — دوري أبطال أوروبا | Tomorrow: Slovan Bratislava 
+ vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سلوفا
+ ن براتيسلافا × شتوتجارت | Kick-off in 30 min: Slovan B
+ ratislava vs VfB Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106277@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:Roma vs Slovan Bratislava — UEFA Champions League
+LOCATION:Stadio Olimpico\, Roma\, Italy
+GEO:41.933948;12.454757
+URL:https://www.fotmob.com/match/6106277
+DESCRIPTION:⚽ روما × سلوفان براتيسلافا\n🏆 دور
+ ي أبطال أوروبا — الجولة 3\n🗓 الثلاثاء 20 أ
+ كتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Stadio Olimpico،
+  Roma\n—————\n⚽ Roma v Slovan Bratislava\n🏆 UEFA Champions 
+ League — Matchday 3\n🗓 Tue 20 Oct 2026 · 19:00 UTC\n🏟 Stadio Olim
+ pico, Roma\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد سلوفان براتيسلافا 
+ — دوري أبطال أوروبا | Tomorrow: Roma vs Slovan Bratislava
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  سلوفان براتيسلافا | Kick-off in 30 min: Roma vs Slovan Br
+ atislava
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106408@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+SUMMARY:LASK vs Slovan Bratislava — UEFA Champions League
+LOCATION:Raiffeisen Arena
+URL:https://www.fotmob.com/match/6106408
+DESCRIPTION:⚽ LASK × سلوفان براتيسلافا\n🏆 دوري أ
+ بطال أوروبا — الجولة 4\n🗓 الثلاثاء 3 نوفم
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Raiffeisen Arena\n—
+ ————\n⚽ LASK v Slovan Bratislava\n🏆 UEFA Champions League —
+  Matchday 4\n🗓 Tue 03 Nov 2026 · 20:00 UTC\n🏟 Raiffeisen Arena\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: LASK ضد سلوفان براتيسلافا — 
+ دوري أبطال أوروبا | Tomorrow: LASK vs Slovan Bratislava
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: LASK × س
+ لوفان براتيسلافا | Kick-off in 30 min: LASK vs Slovan Brati
+ slava
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106394@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+SUMMARY:Slovan Bratislava vs Real Betis — UEFA Champions League
+LOCATION:National Football Stadium
+URL:https://www.fotmob.com/match/6106394
+DESCRIPTION:⚽ سلوفان براتيسلافا × ريال بيتيس\n
+ 🏆 دوري أبطال أوروبا — الجولة 5\n🗓 الثلا
+ ثاء 24 نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Natio
+ nal Football Stadium\n—————\n⚽ Slovan Bratislava v Real Betis\
+ n🏆 UEFA Champions League — Matchday 5\n🗓 Tue 24 Nov 2026 · 20:00 
+ UTC\n🏟 National Football Stadium\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سلوفان براتيسلافا ضد ريال 
+ بيتيس — دوري أبطال أوروبا | Tomorrow: Slovan Bratisl
+ ava vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سلوفا
+ ن براتيسلافا × ريال بيتيس | Kick-off in 30 min: Slova
+ n Bratislava vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106395@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T174500Z
+DTEND:20261209T194500Z
+SUMMARY:Slovan Bratislava vs Shakhtar Donetsk — UEFA Champions League
+LOCATION:National Football Stadium
+URL:https://www.fotmob.com/match/6106395
+DESCRIPTION:⚽ سلوفان براتيسلافا × شاختار دوني
+ تسك\n🏆 دوري أبطال أوروبا — الجولة 6\n🗓 ا
+ لأربعاء 9 ديسمبر 2026 · 20:45 بتوقيت الرياض\n
+ 🏟 National Football Stadium\n—————\n⚽ Slovan Bratislava v S
+ hakhtar Donetsk\n🏆 UEFA Champions League — Matchday 6\n🗓 Wed 09 De
+ c 2026 · 17:45 UTC\n🏟 National Football Stadium\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سلوفان براتيسلافا ضد شاختا
+ ر دونيتسك — دوري أبطال أوروبا | Tomorrow: Slovan 
+ Bratislava vs Shakhtar Donetsk
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سلوفا
+ ن براتيسلافا × شاختار دونيتسك | Kick-off in 30 mi
+ n: Slovan Bratislava vs Shakhtar Donetsk
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106313@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+SUMMARY:Lille vs Slovan Bratislava — UEFA Champions League
+LOCATION:Decathlon Arena-Stade Pierre-Mauroy
+URL:https://www.fotmob.com/match/6106313
+DESCRIPTION:⚽ ليل × سلوفان براتيسلافا\n🏆 دوري 
+ أبطال أوروبا — الجولة 7\n🗓 الثلاثاء 19 ين
+ اير 2027 · 23:00 بتوقيت الرياض\n🏟 Decathlon Arena-Stade
+  Pierre-Mauroy\n—————\n⚽ Lille v Slovan Bratislava\n🏆 UEFA 
+ Champions League — Matchday 7\n🗓 Tue 19 Jan 2027 · 20:00 UTC\n🏟 D
+ ecathlon Arena-Stade Pierre-Mauroy\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليل ضد سلوفان براتيسلافا —
+  دوري أبطال أوروبا | Tomorrow: Lille vs Slovan Bratislava
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليل × 
+ سلوفان براتيسلافا | Kick-off in 30 min: Lille vs Slovan Br
+ atislava
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106393@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Slovan Bratislava vs Inter — UEFA Champions League
+LOCATION:National Football Stadium
+URL:https://www.fotmob.com/match/6106393
+DESCRIPTION:⚽ سلوفان براتيسلافا × إنتر ميلان\n
+ 🏆 دوري أبطال أوروبا — الجولة 8\n🗓 الأرب
+ عاء 27 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Nationa
+ l Football Stadium\n—————\n⚽ Slovan Bratislava v Inter\n🏆 U
+ EFA Champions League — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n
+ 🏟 National Football Stadium\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سلوفان براتيسلافا ضد إنتر 
+ ميلان — دوري أبطال أوروبا | Tomorrow: Slovan Bratisl
+ ava vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سلوفا
+ ن براتيسلافا × إنتر ميلان | Kick-off in 30 min: Slova
+ n Bratislava vs Inter
+END:VALARM
+END:VEVENT
+END:VCALENDAR

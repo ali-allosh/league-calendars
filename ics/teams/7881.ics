@@ -1,0 +1,1240 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Venezia — Serie A & Coppa Italia Fixtures | فينيزي
+ ا — مباريات الدوري الإيطالي وكأس إيطالي
+ ا
+X-WR-CALDESC:Venezia — all matches in Serie A & Coppa Italia\, exact UTC 
+ kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09
+ -05T19:31:10Z.  •  فينيزيا — جميع المباريات في 
+ الدوري الإيطالي وكأس إيطاليا بتوقيت UTC ا
+ لدقيق مع الملاعب والقنوات الناقلة. المصد
+ ر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5749649@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260823T163000Z
+DTEND:20260823T183000Z
+SUMMARY:Venezia vs Lecce (0 - 2) — Serie A
+LOCATION:Stadio Pier Luigi Penzo\, Venezia\, Italy
+GEO:45.427798;12.363972
+URL:https://www.fotmob.com/match/5749649
+DESCRIPTION:⚽ فينيزيا × ليتشي (0 - 2)\n🏆 الدوري ا
+ لإيطالي — الجولة 1\n🗓 الأحد 23 أغسطس 2026 · 1
+ 9:30 بتوقيت الرياض\n🏟 Stadio Pier Luigi Penzo، Venezia\n
+ ⚖️ الحكم: Antonio Rapuano\n👥 الحضور: 11,016\n———
+ ——\n⚽ Venezia v Lecce (0 - 2)\n🏆 Serie A — Matchday 1\n🗓 Sun
+  23 Aug 2026 · 16:30 UTC\n🏟 Stadio Pier Luigi Penzo, Venezia\nReferee:
+  Antonio Rapuano\nAttendance: 11,016\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد ليتشي — الدوري 
+ الإيطالي | Tomorrow: Venezia vs Lecce
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × ليتشي | Kick-off in 30 min: Venezia vs Lecce
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749650@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260828T184500Z
+DTEND:20260828T204500Z
+SUMMARY:Milan vs Venezia (2 - 0) — Serie A
+LOCATION:Stadio Giuseppe Meazza\, Milano\, Italy
+GEO:45.478084;9.123979
+URL:https://www.fotmob.com/match/5749650
+DESCRIPTION:⚽ ميلان × فينيزيا (2 - 0)\n🏆 الدوري ا
+ لإيطالي — الجولة 2\n🗓 الجمعة 28 أغسطس 2026 ·
+  21:45 بتوقيت الرياض\n🏟 Stadio Giuseppe Meazza، Milano\n
+ ⚖️ الحكم: Gianluca Manganiello\n👥 الحضور: 75,141\n——
+ ———\n⚽ Milan v Venezia (2 - 0)\n🏆 Serie A — Matchday 2\n🗓 
+ Fri 28 Aug 2026 · 18:45 UTC\n🏟 Stadio Giuseppe Meazza, Milano\nReferee
+ : Gianluca Manganiello\nAttendance: 75,141\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد فينيزيا — الدوري 
+ الإيطالي | Tomorrow: Milan vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × فينيزيا | Kick-off in 30 min: Milan vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749664@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Frosinone vs Venezia — Serie A
+LOCATION:Stadio Benito Stirpe\, Frosinone\, Italy
+GEO:41.634077;13.321822
+URL:https://www.fotmob.com/match/5749664
+DESCRIPTION:⚽ فروزينوني × فينيزيا\n🏆 الدوري ا
+ لإيطالي — الجولة 3\n🗓 الأحد 6 سبتمبر 2026 · 
+ 16:00 بتوقيت الرياض\n🏟 Stadio Benito Stirpe، Frosinone\n
+ 📺 Starzplay\n—————\n⚽ Frosinone v Venezia\n🏆 Serie A —
+  Matchday 3\n🗓 Sun 06 Sep 2026 · 13:00 UTC\n🏟 Stadio Benito Stirpe,
+  Frosinone\n📺 Starzplay\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد فينيزيا — الد
+ وري الإيطالي — 📺 Starzplay | Tomorrow: Frosinone vs Venezi
+ a | TV: Starzplay
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × فينيزيا — 📺 Starzplay | Kick-off in 30 min: Frosin
+ one vs Venezia | TV: Starzplay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749679@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260911T184500Z
+DTEND:20260911T204500Z
+SUMMARY:Venezia vs Fiorentina — Serie A
+LOCATION:Stadio Pier Luigi Penzo\, Venezia\, Italy
+GEO:45.427798;12.363972
+URL:https://www.fotmob.com/match/5749679
+DESCRIPTION:⚽ فينيزيا × فيورنتينا\n🏆 الدوري ا
+ لإيطالي — الجولة 4\n🗓 الجمعة 11 سبتمبر 2026 
+ · 21:45 بتوقيت الرياض\n🏟 Stadio Pier Luigi Penzo، Venezia
+ \n📺 DAZN UK\n—————\n⚽ Venezia v Fiorentina\n🏆 Serie A 
+ — Matchday 4\n🗓 Fri 11 Sep 2026 · 18:45 UTC\n🏟 Stadio Pier Luigi 
+ Penzo, Venezia\n📺 DAZN UK\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد فيورنتينا — الد
+ وري الإيطالي — 📺 DAZN UK | Tomorrow: Venezia vs Fiorentina
+  | TV: DAZN UK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × فيورنتينا — 📺 DAZN UK | Kick-off in 30 min: Venezia 
+ vs Fiorentina | TV: DAZN UK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749689@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T184500Z
+DTEND:20260919T204500Z
+SUMMARY:Venezia vs Lazio — Serie A
+LOCATION:Stadio Pier Luigi Penzo\, Venezia\, Italy
+GEO:45.427798;12.363972
+URL:https://www.fotmob.com/match/5749689
+DESCRIPTION:⚽ فينيزيا × لاتسيو\n🏆 الدوري الإي
+ طالي — الجولة 5\n🗓 السبت 19 سبتمبر 2026 · 21:45
+  بتوقيت الرياض\n🏟 Stadio Pier Luigi Penzo، Venezia\n——
+ ———\n⚽ Venezia v Lazio\n🏆 Serie A — Matchday 5\n🗓 Sat 19 S
+ ep 2026 · 18:45 UTC\n🏟 Stadio Pier Luigi Penzo, Venezia\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد لاتسيو — الدوري
+  الإيطالي | Tomorrow: Venezia vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × لاتسيو | Kick-off in 30 min: Venezia vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749690@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261012T163000Z
+DTEND:20261012T183000Z
+SUMMARY:Atalanta vs Venezia — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749690
+DESCRIPTION:⚽ أتالانتا × فينيزيا\n🏆 الدوري ال
+ إيطالي — الجولة 6\n🗓 الاثنين 12 أكتوبر 2026 
+ · 19:30 بتوقيت الرياض\n🏟 New Balance Arena\n————
+ —\n⚽ Atalanta v Venezia\n🏆 Serie A — Matchday 6\n🗓 Mon 12 Oct 
+ 2026 · 16:30 UTC\n🏟 New Balance Arena\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد فينيزيا — الدو
+ ري الإيطالي | Tomorrow: Atalanta vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × فينيزيا | Kick-off in 30 min: Atalanta vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749709@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T130000Z
+DTEND:20261017T150000Z
+SUMMARY:Venezia vs Napoli — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749709
+DESCRIPTION:⚽ فينيزيا × نابولي\n🏆 الدوري الإي
+ طالي — الجولة 7\n🗓 السبت 17 أكتوبر 2026 · 16:00
+  بتوقيت الرياض\n🏟 Stadio Pierluigi Penzo\n—————\n
+ ⚽ Venezia v Napoli\n🏆 Serie A — Matchday 7\n🗓 Sat 17 Oct 2026 ·
+  13:00 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد نابولي — الدوري
+  الإيطالي | Tomorrow: Venezia vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × نابولي | Kick-off in 30 min: Venezia vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749713@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Genoa vs Venezia — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749713
+DESCRIPTION:⚽ جنوى × فينيزيا\n🏆 الدوري الإيطا
+ لي — الجولة 8\n🗓 الأحد 25 أكتوبر 2026 · 17:00 ب
+ توقيت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n⚽ 
+ Genoa v Venezia\n🏆 Serie A — Matchday 8\n🗓 Sun 25 Oct 2026 · 14:0
+ 0 UTC\n🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد فينيزيا — الدوري ا
+ لإيطالي | Tomorrow: Genoa vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  فينيزيا | Kick-off in 30 min: Genoa vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749729@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261028T173000Z
+DTEND:20261028T193000Z
+SUMMARY:Venezia vs Inter — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749729
+DESCRIPTION:⚽ فينيزيا × إنتر ميلان\n🏆 الدوري ا
+ لإيطالي — الجولة 9\n🗓 الأربعاء 28 أكتوبر 2
+ 026 · 20:30 بتوقيت الرياض\n🏟 Stadio Pierluigi Penzo\n—
+ ————\n⚽ Venezia v Inter\n🏆 Serie A — Matchday 9\n🗓 Wed 2
+ 8 Oct 2026 · 17:30 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد إنتر ميلان — ال
+ دوري الإيطالي | Tomorrow: Venezia vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × إنتر ميلان | Kick-off in 30 min: Venezia vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749733@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T113000Z
+DTEND:20261101T133000Z
+SUMMARY:Como vs Venezia — Serie A
+LOCATION:Stadio G. Sinigaglia
+URL:https://www.fotmob.com/match/5749733
+DESCRIPTION:⚽ كومو × فينيزيا\n🏆 الدوري الإيطا
+ لي — الجولة 10\n🗓 الأحد 1 نوفمبر 2026 · 14:30 ب
+ توقيت الرياض\n🏟 Stadio G. Sinigaglia\n—————\n⚽ C
+ omo v Venezia\n🏆 Serie A — Matchday 10\n🗓 Sun 01 Nov 2026 · 11:30
+  UTC\n🏟 Stadio G. Sinigaglia\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كومو ضد فينيزيا — الدوري ا
+ لإيطالي | Tomorrow: Como vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كومو ×
+  فينيزيا | Kick-off in 30 min: Como vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749749@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261106T194500Z
+DTEND:20261106T214500Z
+SUMMARY:Venezia vs Udinese — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749749
+DESCRIPTION:⚽ فينيزيا × أودينيزي\n🏆 الدوري ال
+ إيطالي — الجولة 11\n🗓 الجمعة 6 نوفمبر 2026 ·
+  22:45 بتوقيت الرياض\n🏟 Stadio Pierluigi Penzo\n———
+ ——\n⚽ Venezia v Udinese\n🏆 Serie A — Matchday 11\n🗓 Fri 06 N
+ ov 2026 · 19:45 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد أودينيزي — الدو
+ ري الإيطالي | Tomorrow: Venezia vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × أودينيزي | Kick-off in 30 min: Venezia vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749754@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261123T194500Z
+DTEND:20261123T214500Z
+SUMMARY:Juventus vs Venezia — Serie A
+LOCATION:Allianz Stadium
+URL:https://www.fotmob.com/match/5749754
+DESCRIPTION:⚽ يوفنتوس × فينيزيا\n🏆 الدوري الإ
+ يطالي — الجولة 12\n🗓 الاثنين 23 نوفمبر 2026 
+ · 22:45 بتوقيت الرياض\n🏟 Allianz Stadium\n—————\
+ n⚽ Juventus v Venezia\n🏆 Serie A — Matchday 12\n🗓 Mon 23 Nov 202
+ 6 · 19:45 UTC\n🏟 Allianz Stadium\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد فينيزيا — الدور
+ ي الإيطالي | Tomorrow: Juventus vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × فينيزيا | Kick-off in 30 min: Juventus vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749769@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T173000Z
+DTEND:20261129T193000Z
+SUMMARY:Venezia vs Bologna — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749769
+DESCRIPTION:⚽ فينيزيا × بولونيا\n🏆 الدوري الإ
+ يطالي — الجولة 13\n🗓 الأحد 29 نوفمبر 2026 · 20
+ :30 بتوقيت الرياض\n🏟 Stadio Pierluigi Penzo\n————
+ —\n⚽ Venezia v Bologna\n🏆 Serie A — Matchday 13\n🗓 Sun 29 Nov 
+ 2026 · 17:30 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد بولونيا — الدور
+ ي الإيطالي | Tomorrow: Venezia vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × بولونيا | Kick-off in 30 min: Venezia vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749779@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T173000Z
+DTEND:20261206T193000Z
+SUMMARY:Venezia vs Sassuolo — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749779
+DESCRIPTION:⚽ فينيزيا × ساسولو\n🏆 الدوري الإي
+ طالي — الجولة 14\n🗓 الأحد 6 ديسمبر 2026 · 20:30
+  بتوقيت الرياض\n🏟 Stadio Pierluigi Penzo\n—————\n
+ ⚽ Venezia v Sassuolo\n🏆 Serie A — Matchday 14\n🗓 Sun 06 Dec 2026
+  · 17:30 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد ساسولو — الدوري
+  الإيطالي | Tomorrow: Venezia vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × ساسولو | Kick-off in 30 min: Venezia vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749781@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T173000Z
+DTEND:20261213T193000Z
+SUMMARY:Cagliari vs Venezia — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749781
+DESCRIPTION:⚽ كالياري × فينيزيا\n🏆 الدوري الإ
+ يطالي — الجولة 15\n🗓 الأحد 13 ديسمبر 2026 · 20
+ :30 بتوقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cag
+ liari v Venezia\n🏆 Serie A — Matchday 15\n🗓 Sun 13 Dec 2026 · 17:
+ 30 UTC\n🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد فينيزيا — الدور
+ ي الإيطالي | Tomorrow: Cagliari vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × فينيزيا | Kick-off in 30 min: Cagliari vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749799@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T173000Z
+DTEND:20261220T193000Z
+SUMMARY:Venezia vs Monza — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749799
+DESCRIPTION:⚽ فينيزيا × مونزا\n🏆 الدوري الإيط
+ الي — الجولة 16\n🗓 الأحد 20 ديسمبر 2026 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Pierluigi Penzo\n—————\n
+ ⚽ Venezia v Monza\n🏆 Serie A — Matchday 16\n🗓 Sun 20 Dec 2026 ·
+  17:30 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد مونزا — الدوري 
+ الإيطالي | Tomorrow: Venezia vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × مونزا | Kick-off in 30 min: Venezia vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749808@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T173000Z
+DTEND:20270103T193000Z
+SUMMARY:Torino vs Venezia — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749808
+DESCRIPTION:⚽ تورينو × فينيزيا\n🏆 الدوري الإي
+ طالي — الجولة 17\n🗓 الأحد 3 يناير 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n———
+ ——\n⚽ Torino v Venezia\n🏆 Serie A — Matchday 17\n🗓 Sun 03 Ja
+ n 2027 · 17:30 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد فينيزيا — الدوري
+  الإيطالي | Tomorrow: Torino vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × فينيزيا | Kick-off in 30 min: Torino vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749819@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T173000Z
+DTEND:20270106T193000Z
+SUMMARY:Venezia vs Roma — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749819
+DESCRIPTION:⚽ فينيزيا × روما\n🏆 الدوري الإيطا
+ لي — الجولة 18\n🗓 الأربعاء 6 يناير 2027 · 20:30
+  بتوقيت الرياض\n🏟 Stadio Pierluigi Penzo\n—————\n
+ ⚽ Venezia v Roma\n🏆 Serie A — Matchday 18\n🗓 Wed 06 Jan 2027 · 
+ 17:30 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد روما — الدوري ا
+ لإيطالي | Tomorrow: Venezia vs Roma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × روما | Kick-off in 30 min: Venezia vs Roma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749827@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T173000Z
+DTEND:20270110T193000Z
+SUMMARY:Parma vs Venezia — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749827
+DESCRIPTION:⚽ بارما × فينيزيا\n🏆 الدوري الإيط
+ الي — الجولة 19\n🗓 الأحد 10 يناير 2027 · 20:30 ب
+ توقيت الرياض\n🏟 Stadio Ennio Tardini\n—————\n⚽ P
+ arma v Venezia\n🏆 Serie A — Matchday 19\n🗓 Sun 10 Jan 2027 · 17:3
+ 0 UTC\n🏟 Stadio Ennio Tardini\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد فينيزيا — الدوري 
+ الإيطالي | Tomorrow: Parma vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × فينيزيا | Kick-off in 30 min: Parma vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749839@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T173000Z
+DTEND:20270117T193000Z
+SUMMARY:Venezia vs Frosinone — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749839
+DESCRIPTION:⚽ فينيزيا × فروزينوني\n🏆 الدوري ا
+ لإيطالي — الجولة 20\n🗓 الأحد 17 يناير 2027 · 
+ 20:30 بتوقيت الرياض\n🏟 Stadio Pierluigi Penzo\n————
+ —\n⚽ Venezia v Frosinone\n🏆 Serie A — Matchday 20\n🗓 Sun 17 Ja
+ n 2027 · 17:30 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد فروزينوني — الد
+ وري الإيطالي | Tomorrow: Venezia vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × فروزينوني | Kick-off in 30 min: Venezia vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749846@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T173000Z
+DTEND:20270124T193000Z
+SUMMARY:Inter vs Venezia — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749846
+DESCRIPTION:⚽ إنتر ميلان × فينيزيا\n🏆 الدوري ا
+ لإيطالي — الجولة 21\n🗓 الأحد 24 يناير 2027 · 
+ 20:30 بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\n
+ ⚽ Inter v Venezia\n🏆 Serie A — Matchday 21\n🗓 Sun 24 Jan 2027 ·
+  17:30 UTC\n🏟 Giuseppe Meazza\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد فينيزيا — ال
+ دوري الإيطالي | Tomorrow: Inter vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × فينيزيا | Kick-off in 30 min: Inter vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749854@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T173000Z
+DTEND:20270131T193000Z
+SUMMARY:Lazio vs Venezia — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749854
+DESCRIPTION:⚽ لاتسيو × فينيزيا\n🏆 الدوري الإي
+ طالي — الجولة 22\n🗓 الأحد 31 يناير 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n
+ ⚽ Lazio v Venezia\n🏆 Serie A — Matchday 22\n🗓 Sun 31 Jan 2027 ·
+  17:30 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد فينيزيا — الدوري
+  الإيطالي | Tomorrow: Lazio vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × فينيزيا | Kick-off in 30 min: Lazio vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749869@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T173000Z
+DTEND:20270207T193000Z
+SUMMARY:Venezia vs Genoa — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749869
+DESCRIPTION:⚽ فينيزيا × جنوى\n🏆 الدوري الإيطا
+ لي — الجولة 23\n🗓 الأحد 7 فبراير 2027 · 20:30 ب
+ توقيت الرياض\n🏟 Stadio Pierluigi Penzo\n—————\n⚽
+  Venezia v Genoa\n🏆 Serie A — Matchday 23\n🗓 Sun 07 Feb 2027 · 17
+ :30 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد جنوى — الدوري ا
+ لإيطالي | Tomorrow: Venezia vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × جنوى | Kick-off in 30 min: Venezia vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749879@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T173000Z
+DTEND:20270214T193000Z
+SUMMARY:Udinese vs Venezia — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749879
+DESCRIPTION:⚽ أودينيزي × فينيزيا\n🏆 الدوري ال
+ إيطالي — الجولة 24\n🗓 الأحد 14 فبراير 2027 · 
+ 20:30 بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n
+ —————\n⚽ Udinese v Venezia\n🏆 Serie A — Matchday 24\n🗓
+  Sun 14 Feb 2027 · 17:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد فينيزيا — الدو
+ ري الإيطالي | Tomorrow: Udinese vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × فينيزيا | Kick-off in 30 min: Udinese vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749889@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T173000Z
+DTEND:20270221T193000Z
+SUMMARY:Venezia vs Cagliari — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749889
+DESCRIPTION:⚽ فينيزيا × كالياري\n🏆 الدوري الإ
+ يطالي — الجولة 25\n🗓 الأحد 21 فبراير 2027 · 20
+ :30 بتوقيت الرياض\n🏟 Stadio Pierluigi Penzo\n————
+ —\n⚽ Venezia v Cagliari\n🏆 Serie A — Matchday 25\n🗓 Sun 21 Feb
+  2027 · 17:30 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد كالياري — الدور
+ ي الإيطالي | Tomorrow: Venezia vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × كالياري | Kick-off in 30 min: Venezia vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749890@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T173000Z
+DTEND:20270228T193000Z
+SUMMARY:Roma vs Venezia — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749890
+DESCRIPTION:⚽ روما × فينيزيا\n🏆 الدوري الإيطا
+ لي — الجولة 26\n🗓 الأحد 28 فبراير 2027 · 20:30 ب
+ توقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ 
+ Roma v Venezia\n🏆 Serie A — Matchday 26\n🗓 Sun 28 Feb 2027 · 17:3
+ 0 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد فينيزيا — الدوري ا
+ لإيطالي | Tomorrow: Roma vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  فينيزيا | Kick-off in 30 min: Roma vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749902@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T173000Z
+DTEND:20270307T193000Z
+SUMMARY:Fiorentina vs Venezia — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749902
+DESCRIPTION:⚽ فيورنتينا × فينيزيا\n🏆 الدوري ا
+ لإيطالي — الجولة 27\n🗓 الأحد 7 مارس 2027 · 20:
+ 30 بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n————
+ —\n⚽ Fiorentina v Venezia\n🏆 Serie A — Matchday 27\n🗓 Sun 07 M
+ ar 2027 · 17:30 UTC\n🏟 Artemio Franchi, Firenze\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد فينيزيا — الد
+ وري الإيطالي | Tomorrow: Fiorentina vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × فينيزيا | Kick-off in 30 min: Fiorentina vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749919@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T173000Z
+DTEND:20270314T193000Z
+SUMMARY:Venezia vs Atalanta — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749919
+DESCRIPTION:⚽ فينيزيا × أتالانتا\n🏆 الدوري ال
+ إيطالي — الجولة 28\n🗓 الأحد 14 مارس 2027 · 20:3
+ 0 بتوقيت الرياض\n🏟 Stadio Pierluigi Penzo\n—————\
+ n⚽ Venezia v Atalanta\n🏆 Serie A — Matchday 28\n🗓 Sun 14 Mar 202
+ 7 · 17:30 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد أتالانتا — الدو
+ ري الإيطالي | Tomorrow: Venezia vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × أتالانتا | Kick-off in 30 min: Venezia vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749926@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T173000Z
+DTEND:20270321T193000Z
+SUMMARY:Napoli vs Venezia — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749926
+DESCRIPTION:⚽ نابولي × فينيزيا\n🏆 الدوري الإي
+ طالي — الجولة 29\n🗓 الأحد 21 مارس 2027 · 20:30 ب
+ توقيت الرياض\n🏟 Diego Armando Maradona\n—————\n⚽
+  Napoli v Venezia\n🏆 Serie A — Matchday 29\n🗓 Sun 21 Mar 2027 · 1
+ 7:30 UTC\n🏟 Diego Armando Maradona\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد فينيزيا — الدوري
+  الإيطالي | Tomorrow: Napoli vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × فينيزيا | Kick-off in 30 min: Napoli vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749939@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T163000Z
+DTEND:20270404T183000Z
+SUMMARY:Venezia vs Parma — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749939
+DESCRIPTION:⚽ فينيزيا × بارما\n🏆 الدوري الإيط
+ الي — الجولة 30\n🗓 الأحد 4 أبريل 2027 · 19:30 ب
+ توقيت الرياض\n🏟 Stadio Pierluigi Penzo\n—————\n⚽
+  Venezia v Parma\n🏆 Serie A — Matchday 30\n🗓 Sun 04 Apr 2027 · 16
+ :30 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد بارما — الدوري 
+ الإيطالي | Tomorrow: Venezia vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × بارما | Kick-off in 30 min: Venezia vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749940@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T163000Z
+DTEND:20270411T183000Z
+SUMMARY:Bologna vs Venezia — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749940
+DESCRIPTION:⚽ بولونيا × فينيزيا\n🏆 الدوري الإ
+ يطالي — الجولة 31\n🗓 الأحد 11 أبريل 2027 · 19:3
+ 0 بتوقيت الرياض\n🏟 Stadio Renato Dell'Ara\n—————\
+ n⚽ Bologna v Venezia\n🏆 Serie A — Matchday 31\n🗓 Sun 11 Apr 2027
+  · 16:30 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد فينيزيا — الدور
+ ي الإيطالي | Tomorrow: Bologna vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × فينيزيا | Kick-off in 30 min: Bologna vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749959@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T163000Z
+DTEND:20270418T183000Z
+SUMMARY:Venezia vs Juventus — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749959
+DESCRIPTION:⚽ فينيزيا × يوفنتوس\n🏆 الدوري الإ
+ يطالي — الجولة 32\n🗓 الأحد 18 أبريل 2027 · 19:3
+ 0 بتوقيت الرياض\n🏟 Stadio Pierluigi Penzo\n—————\
+ n⚽ Venezia v Juventus\n🏆 Serie A — Matchday 32\n🗓 Sun 18 Apr 202
+ 7 · 16:30 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد يوفنتوس — الدور
+ ي الإيطالي | Tomorrow: Venezia vs Juventus
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × يوفنتوس | Kick-off in 30 min: Venezia vs Juventus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749969@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270425T163000Z
+DTEND:20270425T183000Z
+SUMMARY:Venezia vs Torino — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749969
+DESCRIPTION:⚽ فينيزيا × تورينو\n🏆 الدوري الإي
+ طالي — الجولة 33\n🗓 الأحد 25 أبريل 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Stadio Pierluigi Penzo\n—————\n
+ ⚽ Venezia v Torino\n🏆 Serie A — Matchday 33\n🗓 Sun 25 Apr 2027 
+ · 16:30 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد تورينو — الدوري
+  الإيطالي | Tomorrow: Venezia vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × تورينو | Kick-off in 30 min: Venezia vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749976@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T163000Z
+DTEND:20270502T183000Z
+SUMMARY:Monza vs Venezia — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749976
+DESCRIPTION:⚽ مونزا × فينيزيا\n🏆 الدوري الإيط
+ الي — الجولة 34\n🗓 الأحد 2 مايو 2027 · 19:30 بت
+ وقيت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Monza v 
+ Venezia\n🏆 Serie A — Matchday 34\n🗓 Sun 02 May 2027 · 16:30 UTC\n
+ 🏟 Stadio Brianteo\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد فينيزيا — الدوري 
+ الإيطالي | Tomorrow: Monza vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × فينيزيا | Kick-off in 30 min: Monza vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749989@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T163000Z
+DTEND:20270509T183000Z
+SUMMARY:Venezia vs Como — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749989
+DESCRIPTION:⚽ فينيزيا × كومو\n🏆 الدوري الإيطا
+ لي — الجولة 35\n🗓 الأحد 9 مايو 2027 · 19:30 بتو
+ قيت الرياض\n🏟 Stadio Pierluigi Penzo\n—————\n⚽ Ven
+ ezia v Como\n🏆 Serie A — Matchday 35\n🗓 Sun 09 May 2027 · 16:30 U
+ TC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد كومو — الدوري ا
+ لإيطالي | Tomorrow: Venezia vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × كومو | Kick-off in 30 min: Venezia vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749999@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T163000Z
+DTEND:20270516T183000Z
+SUMMARY:Sassuolo vs Venezia — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749999
+DESCRIPTION:⚽ ساسولو × فينيزيا\n🏆 الدوري الإي
+ طالي — الجولة 36\n🗓 الأحد 16 مايو 2027 · 19:30 ب
+ توقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n——
+ ———\n⚽ Sassuolo v Venezia\n🏆 Serie A — Matchday 36\n🗓 Sun 
+ 16 May 2027 · 16:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد فينيزيا — الدوري
+  الإيطالي | Tomorrow: Sassuolo vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × فينيزيا | Kick-off in 30 min: Sassuolo vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750009@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T163000Z
+DTEND:20270523T183000Z
+SUMMARY:Venezia vs Milan — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5750009
+DESCRIPTION:⚽ فينيزيا × ميلان\n🏆 الدوري الإيط
+ الي — الجولة 37\n🗓 الأحد 23 مايو 2027 · 19:30 بت
+ وقيت الرياض\n🏟 Stadio Pierluigi Penzo\n—————\n⚽ V
+ enezia v Milan\n🏆 Serie A — Matchday 37\n🗓 Sun 23 May 2027 · 16:3
+ 0 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد ميلان — الدوري 
+ الإيطالي | Tomorrow: Venezia vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × ميلان | Kick-off in 30 min: Venezia vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750016@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T163000Z
+DTEND:20270530T183000Z
+SUMMARY:Lecce vs Venezia — Serie A
+LOCATION:Stadio Ettore Giardiniero - Via del Mare
+URL:https://www.fotmob.com/match/5750016
+DESCRIPTION:⚽ ليتشي × فينيزيا\n🏆 الدوري الإيط
+ الي — الجولة 38\n🗓 الأحد 30 مايو 2027 · 19:30 بت
+ وقيت الرياض\n🏟 Stadio Ettore Giardiniero - Via del Mare\n—
+ ————\n⚽ Lecce v Venezia\n🏆 Serie A — Matchday 38\n🗓 Sun 
+ 30 May 2027 · 16:30 UTC\n🏟 Stadio Ettore Giardiniero - Via del Mare\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليتشي ضد فينيزيا — الدوري 
+ الإيطالي | Tomorrow: Lecce vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليتشي 
+ × فينيزيا | Kick-off in 30 min: Lecce vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852777@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260815T184500Z
+DTEND:20260815T204500Z
+SUMMARY:Venezia vs Modena (3 - 2) — Coppa Italia
+LOCATION:Stadio Pier Luigi Penzo\, Venezia\, Italy
+GEO:45.427798;12.363972
+URL:https://www.fotmob.com/match/5852777
+DESCRIPTION:⚽ فينيزيا × مودينا (3 - 2)\n🏆 كأس إيط
+ اليا — دور الـ32\n🗓 السبت 15 أغسطس 2026 · 21:45 
+ بتوقيت الرياض\n🏟 Stadio Pier Luigi Penzo، Venezia\n⚖️ 
+ الحكم: Maria Sole Ferrieri Caputi\n👥 الحضور: 9,327\n——
+ ———\n⚽ Venezia v Modena (3 - 2)\n🏆 Coppa Italia — Round of 32
+ \n🗓 Sat 15 Aug 2026 · 18:45 UTC\n🏟 Stadio Pier Luigi Penzo, Venezia
+ \nReferee: Maria Sole Ferrieri Caputi\nAttendance: 9,327\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد مودينا — كأس إي
+ طاليا | Tomorrow: Venezia vs Modena
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × مودينا | Kick-off in 30 min: Venezia vs Modena
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003658@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260902T160000Z
+DTEND:20260902T180000Z
+SUMMARY:Udinese vs Venezia (2 - 1) — Coppa Italia
+LOCATION:Bluenergy Stadium\, Udine\, Italy
+GEO:46.081644;13.200063
+URL:https://www.fotmob.com/match/6003658
+DESCRIPTION:⚽ أودينيزي × فينيزيا (2 - 1)\n🏆 كأس إ
+ يطاليا — دور الـ32\n🗓 الأربعاء 2 سبتمبر 202
+ 6 · 19:00 بتوقيت الرياض\n🏟 Bluenergy Stadium، Udine\n⚖
+ ️ الحكم: Matteo Marchetti\n—————\n⚽ Udinese v Venezia (
+ 2 - 1)\n🏆 Coppa Italia — Round of 32\n🗓 Wed 02 Sep 2026 · 16:00 U
+ TC\n🏟 Bluenergy Stadium, Udine\nReferee: Matteo Marchetti\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد فينيزيا — كأس 
+ إيطاليا | Tomorrow: Udinese vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × فينيزيا | Kick-off in 30 min: Udinese vs Venezia
+END:VALARM
+END:VEVENT
+END:VCALENDAR

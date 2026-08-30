@@ -1,0 +1,1378 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Rayo Vallecano — LaLiga & Copa del Rey Fixtures | راي
+ و فاييكانو — مباريات الدوري الإسباني وك
+ أس ملك إسبانيا
+X-WR-CALDESC:Rayo Vallecano — all matches in LaLiga & Copa del Rey\, exac
+ t UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2
+ 026-09-05T19:31:10Z.  •  رايو فاييكانو — جميع المب
+ اريات في الدوري الإسباني وكأس ملك إسباني
+ ا بتوقيت UTC الدقيق مع الملاعب والقنوات ال
+ ناقلة. المصدر: FotMob + 365scores · تحديث تلقائي 20
+ 26-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5868019@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260815T193000Z
+DTEND:20260815T213000Z
+SUMMARY:Sevilla vs Rayo Vallecano (2 - 1) — LaLiga
+LOCATION:Estadio Ramón Sánchez Pizjuán\, Sevilla\, Spain
+GEO:37.384046;-5.970592
+URL:https://www.fotmob.com/match/5868019
+DESCRIPTION:⚽ إشبيلية × رايو فاييكانو (2 - 1)\n🏆 
+ الدوري الإسباني — الجولة 1\n🗓 السبت 15 أغ
+ سطس 2026 · 22:30 بتوقيت الرياض\n🏟 Estadio Ramón Sánch
+ ez Pizjuán، Sevilla\n⚖️ الحكم: Ricardo De Burgos Bengoetxea\n
+ 👥 الحضور: 36,777\n—————\n⚽ Sevilla v Rayo Vallecano (
+ 2 - 1)\n🏆 LaLiga — Matchday 1\n🗓 Sat 15 Aug 2026 · 19:30 UTC\n
+ 🏟 Estadio Ramón Sánchez Pizjuán, Sevilla\nReferee: Ricardo De Burgos
+  Bengoetxea\nAttendance: 36,777\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد رايو فاييكانو —
+  الدوري الإسباني | Tomorrow: Sevilla vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × رايو فاييكانو | Kick-off in 30 min: Sevilla vs Rayo Va
+ llecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868029@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260820T190000Z
+DTEND:20260820T210000Z
+SUMMARY:Rayo Vallecano vs Deportivo Alavés (1 - 1) — LaLiga
+LOCATION:Estadio de Vallecas\, Madrid\, Spain
+GEO:40.391823;-3.658589
+URL:https://www.fotmob.com/match/5868029
+DESCRIPTION:⚽ رايو فاييكانو × ديبورتيفو ألافي
+ س (1 - 1)\n🏆 الدوري الإسباني — الجولة 2\n🗓 ا
+ لخميس 20 أغسطس 2026 · 22:00 بتوقيت الرياض\n🏟 Est
+ adio de Vallecas، Madrid\n⚖️ الحكم: José Luis Munuera Montero\n
+ 👥 الحضور: 4,280\n—————\n⚽ Rayo Vallecano v Deportivo 
+ Alavés (1 - 1)\n🏆 LaLiga — Matchday 2\n🗓 Thu 20 Aug 2026 · 19:00
+  UTC\n🏟 Estadio de Vallecas, Madrid\nReferee: José Luis Munuera Monter
+ o\nAttendance: 4,280\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد ديبورتيفو
+  ألافيس — الدوري الإسباني | Tomorrow: Rayo Vallecano
+  vs Deportivo Alavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × ديبورتيفو ألافيس | Kick-off in 30 min: Ra
+ yo Vallecano vs Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868034@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260831T193000Z
+DTEND:20260831T213000Z
+SUMMARY:Barcelona vs Rayo Vallecano (5 - 2) — LaLiga
+LOCATION:Spotify Camp Nou\, Barcelona\, Spain
+GEO:41.380890;2.122813
+URL:https://www.fotmob.com/match/5868034
+DESCRIPTION:⚽ برشلونة × رايو فاييكانو (5 - 2)\n🏆 
+ الدوري الإسباني — الجولة 3\n🗓 الاثنين 31 
+ أغسطس 2026 · 22:30 بتوقيت الرياض\n🏟 Spotify Camp Nou
+ ، Barcelona\n⚖️ الحكم: Francisco José Hernández Maeso\n👥 ا
+ لحضور: 57,768\n—————\n⚽ Barcelona v Rayo Vallecano (5 - 2
+ )\n🏆 LaLiga — Matchday 3\n🗓 Mon 31 Aug 2026 · 19:30 UTC\n🏟 Spo
+ tify Camp Nou, Barcelona\nReferee: Francisco José Hernández Maeso\nAtten
+ dance: 57,768\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد رايو فاييكانو —
+  الدوري الإسباني | Tomorrow: Barcelona vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × رايو فاييكانو | Kick-off in 30 min: Barcelona vs Rayo 
+ Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868048@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T163000Z
+DTEND:20260905T183000Z
+SUMMARY:Rayo Vallecano vs Racing Santander (3 - 2) — LaLiga
+LOCATION:Estadio Ontime Butarque\, Leganés\, Spain
+GEO:40.340472;-3.760688
+URL:https://www.fotmob.com/match/5868048
+DESCRIPTION:⚽ رايو فاييكانو × راسينج سانتاندي
+ ر (3 - 2)\n🏆 الدوري الإسباني — الجولة 4\n🗓 ا
+ لسبت 5 سبتمبر 2026 · 19:30 بتوقيت الرياض\n🏟 Esta
+ dio Ontime Butarque، Leganés\n📺 Bein Sports HD2\n⚖️ الحكم: A
+ lejandro Quintero González\n👥 الحضور: 4,529\n—————\n
+ ⚽ Rayo Vallecano v Racing Santander (3 - 2)\n🏆 LaLiga — Matchday 4\
+ n🗓 Sat 05 Sep 2026 · 16:30 UTC\n🏟 Estadio Ontime Butarque, Leganés
+ \n📺 beIN Sport 2 HD\nReferee: Alejandro Quintero González\nAttendance:
+  4,529\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد راسينج سا
+ نتاندير — الدوري الإسباني — 📺 Bein Sports HD2 
+ | Tomorrow: Rayo Vallecano vs Racing Santander | TV: beIN Sport 2 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × راسينج سانتاندير — 📺 Bein Sports HD2
+  | Kick-off in 30 min: Rayo Vallecano vs Racing Santander | TV: beIN Sport
+  2 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868057@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T190000Z
+DTEND:20260912T210000Z
+SUMMARY:Real Madrid vs Rayo Vallecano — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868057
+DESCRIPTION:⚽ ريال مدريد × رايو فاييكانو\n🏆 ال
+ دوري الإسباني — الجولة 5\n🗓 السبت 12 سبتم
+ بر 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n📺 
+ beIN SPORTS CONNECT، beIN Sports Connect Singapore، FanCode، Now Player
+ \n—————\n⚽ Real Madrid v Rayo Vallecano\n🏆 LaLiga — Match
+ day 5\n🗓 Sat 12 Sep 2026 · 19:00 UTC\n🏟 Estadio Bernabeu\n📺 beIN
+  SPORTS CONNECT, beIN Sports Connect Singapore, FanCode, Now Player\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد رايو فاييكان
+ و — الدوري الإسباني — 📺 beIN SPORTS CONNECT، beIN S
+ ports Connect Singapore، FanCode، Now Player | Tomorrow: Real Madrid vs 
+ Rayo Vallecano | TV: beIN SPORTS CONNECT\, beIN Sports Connect Singapore\,
+  FanCode\, Now Player
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × رايو فاييكانو — 📺 beIN SPORTS CONNECT، beIN 
+ Sports Connect Singapore، FanCode، Now Player | Kick-off in 30 min: Real
+  Madrid vs Rayo Vallecano | TV: beIN SPORTS CONNECT\, beIN Sports Connect 
+ Singapore\, FanCode\, Now Player
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868069@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260915T170000Z
+DTEND:20260915T190000Z
+SUMMARY:Rayo Vallecano vs Espanyol — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868069
+DESCRIPTION:⚽ رايو فاييكانو × إسبانيول\n🏆 الد
+ وري الإسباني — الجولة 6\n🗓 الثلاثاء 15 سب
+ تمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Campo de Futbol de 
+ Vallecas\n—————\n⚽ Rayo Vallecano v Espanyol\n🏆 LaLiga — 
+ Matchday 6\n🗓 Tue 15 Sep 2026 · 17:00 UTC\n🏟 Campo de Futbol de Val
+ lecas\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد إسبانيول 
+ — الدوري الإسباني | Tomorrow: Rayo Vallecano vs Espanyol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × إسبانيول | Kick-off in 30 min: Rayo Vallecano vs
+  Espanyol
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868077@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T120000Z
+DTEND:20260919T140000Z
+SUMMARY:Osasuna vs Rayo Vallecano — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868077
+DESCRIPTION:⚽ أوساسونا × رايو فاييكانو\n🏆 الد
+ وري الإسباني — الجولة 7\n🗓 السبت 19 سبتمب
+ ر 2026 · 15:00 بتوقيت الرياض\n🏟 Estadio El Sadar\n——
+ ———\n⚽ Osasuna v Rayo Vallecano\n🏆 LaLiga — Matchday 7\n🗓 
+ Sat 19 Sep 2026 · 12:00 UTC\n🏟 Estadio El Sadar\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد رايو فاييكانو 
+ — الدوري الإسباني | Tomorrow: Osasuna vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × رايو فاييكانو | Kick-off in 30 min: Osasuna vs Rayo 
+ Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868088@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Rayo Vallecano vs Athletic Club — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868088
+DESCRIPTION:⚽ رايو فاييكانو × أتلتيك بلباو\n🏆 
+ الدوري الإسباني — الجولة 8\n🗓 الأحد 11 أك
+ توبر 2026 · 16:00 بتوقيت الرياض\n🏟 Campo de Futbol de 
+ Vallecas\n—————\n⚽ Rayo Vallecano v Athletic Club\n🏆 LaLiga
+  — Matchday 8\n🗓 Sun 11 Oct 2026 · 13:00 UTC\n🏟 Campo de Futbol d
+ e Vallecas\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد أتلتيك بل
+ باو — الدوري الإسباني | Tomorrow: Rayo Vallecano vs Ath
+ letic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × أتلتيك بلباو | Kick-off in 30 min: Rayo Valle
+ cano vs Athletic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868095@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Getafe vs Rayo Vallecano — LaLiga
+LOCATION:Coliseum
+URL:https://www.fotmob.com/match/5868095
+DESCRIPTION:⚽ خيتافي × رايو فاييكانو\n🏆 الدور
+ ي الإسباني — الجولة 9\n🗓 الأحد 18 أكتوبر 20
+ 26 · 16:00 بتوقيت الرياض\n🏟 Coliseum\n—————\n⚽
+  Getafe v Rayo Vallecano\n🏆 LaLiga — Matchday 9\n🗓 Sun 18 Oct 2026
+  · 13:00 UTC\n🏟 Coliseum\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: خيتافي ضد رايو فاييكانو — 
+ الدوري الإسباني | Tomorrow: Getafe vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: خيتاف
+ ي × رايو فاييكانو | Kick-off in 30 min: Getafe vs Rayo Valle
+ cano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868107@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Rayo Vallecano vs Elche — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868107
+DESCRIPTION:⚽ رايو فاييكانو × إلتشي\n🏆 الدوري 
+ الإسباني — الجولة 10\n🗓 الأحد 25 أكتوبر 2026
+  · 17:00 بتوقيت الرياض\n🏟 Campo de Futbol de Vallecas\n—
+ ————\n⚽ Rayo Vallecano v Elche\n🏆 LaLiga — Matchday 10\n
+ 🗓 Sun 25 Oct 2026 · 14:00 UTC\n🏟 Campo de Futbol de Vallecas\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد إلتشي — ا
+ لدوري الإسباني | Tomorrow: Rayo Vallecano vs Elche
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × إلتشي | Kick-off in 30 min: Rayo Vallecano vs Elche
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868119@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Rayo Vallecano vs Celta Vigo — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868119
+DESCRIPTION:⚽ رايو فاييكانو × سيلتا فيجو\n🏆 ال
+ دوري الإسباني — الجولة 11\n🗓 الأحد 1 نوفم
+ بر 2026 · 17:00 بتوقيت الرياض\n🏟 Campo de Futbol de Vall
+ ecas\n—————\n⚽ Rayo Vallecano v Celta Vigo\n🏆 LaLiga — Ma
+ tchday 11\n🗓 Sun 01 Nov 2026 · 14:00 UTC\n🏟 Campo de Futbol de Vall
+ ecas\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد سيلتا فيج
+ و — الدوري الإسباني | Tomorrow: Rayo Vallecano vs Celta V
+ igo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × سيلتا فيجو | Kick-off in 30 min: Rayo Vallecano
+  vs Celta Vigo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868127@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Real Sociedad vs Rayo Vallecano — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868127
+DESCRIPTION:⚽ ريال سوسيداد × رايو فاييكانو\n🏆 
+ الدوري الإسباني — الجولة 12\n🗓 الأحد 8 نو
+ فمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Reale Arena\n——
+ ———\n⚽ Real Sociedad v Rayo Vallecano\n🏆 LaLiga — Matchday 12
+ \n🗓 Sun 08 Nov 2026 · 14:00 UTC\n🏟 Reale Arena\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد رايو فاييك
+ انو — الدوري الإسباني | Tomorrow: Real Sociedad vs Rayo
+  Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × رايو فاييكانو | Kick-off in 30 min: Real Socie
+ dad vs Rayo Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868138@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Rayo Vallecano vs Valencia — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868138
+DESCRIPTION:⚽ رايو فاييكانو × فالنسيا\n🏆 الدو
+ ري الإسباني — الجولة 13\n🗓 الأحد 22 نوفمبر
+  2026 · 17:00 بتوقيت الرياض\n🏟 Campo de Futbol de Vallecas
+ \n—————\n⚽ Rayo Vallecano v Valencia\n🏆 LaLiga — Matchday
+  13\n🗓 Sun 22 Nov 2026 · 14:00 UTC\n🏟 Campo de Futbol de Vallecas\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد فالنسيا —
+  الدوري الإسباني | Tomorrow: Rayo Vallecano vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × فالنسيا | Kick-off in 30 min: Rayo Vallecano vs V
+ alencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868141@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T140000Z
+DTEND:20261129T160000Z
+SUMMARY:Real Betis vs Rayo Vallecano — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868141
+DESCRIPTION:⚽ ريال بيتيس × رايو فاييكانو\n🏆 ال
+ دوري الإسباني — الجولة 14\n🗓 الأحد 29 نوفم
+ بر 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio de La Cartuja\n
+ —————\n⚽ Real Betis v Rayo Vallecano\n🏆 LaLiga — Matchday
+  14\n🗓 Sun 29 Nov 2026 · 14:00 UTC\n🏟 Estadio de La Cartuja\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد رايو فاييكان
+ و — الدوري الإسباني | Tomorrow: Real Betis vs Rayo Vallec
+ ano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × رايو فاييكانو | Kick-off in 30 min: Real Betis vs 
+ Rayo Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868158@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T140000Z
+DTEND:20261206T160000Z
+SUMMARY:Rayo Vallecano vs Levante — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868158
+DESCRIPTION:⚽ رايو فاييكانو × ليفانتي\n🏆 الدو
+ ري الإسباني — الجولة 15\n🗓 الأحد 6 ديسمبر 
+ 2026 · 17:00 بتوقيت الرياض\n🏟 Campo de Futbol de Vallecas\
+ n—————\n⚽ Rayo Vallecano v Levante\n🏆 LaLiga — Matchday 1
+ 5\n🗓 Sun 06 Dec 2026 · 14:00 UTC\n🏟 Campo de Futbol de Vallecas\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد ليفانتي —
+  الدوري الإسباني | Tomorrow: Rayo Vallecano vs Levante
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × ليفانتي | Kick-off in 30 min: Rayo Vallecano vs L
+ evante
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868170@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T140000Z
+DTEND:20261213T160000Z
+SUMMARY:Villarreal vs Rayo Vallecano — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868170
+DESCRIPTION:⚽ فياريال × رايو فاييكانو\n🏆 الدو
+ ري الإسباني — الجولة 16\n🗓 الأحد 13 ديسمبر
+  2026 · 17:00 بتوقيت الرياض\n🏟 Estadio de la Ceramica\n—
+ ————\n⚽ Villarreal v Rayo Vallecano\n🏆 LaLiga — Matchday 16
+ \n🗓 Sun 13 Dec 2026 · 14:00 UTC\n🏟 Estadio de la Ceramica\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد رايو فاييكانو —
+  الدوري الإسباني | Tomorrow: Villarreal vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × رايو فاييكانو | Kick-off in 30 min: Villarreal vs Rayo
+  Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868178@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T140000Z
+DTEND:20261220T160000Z
+SUMMARY:Rayo Vallecano vs Málaga — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868178
+DESCRIPTION:⚽ رايو فاييكانو × مالقا\n🏆 الدوري 
+ الإسباني — الجولة 17\n🗓 الأحد 20 ديسمبر 2026
+  · 17:00 بتوقيت الرياض\n🏟 Campo de Futbol de Vallecas\n—
+ ————\n⚽ Rayo Vallecano v Málaga\n🏆 LaLiga — Matchday 17\n
+ 🗓 Sun 20 Dec 2026 · 14:00 UTC\n🏟 Campo de Futbol de Vallecas\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد مالقا — ا
+ لدوري الإسباني | Tomorrow: Rayo Vallecano vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × مالقا | Kick-off in 30 min: Rayo Vallecano vs Mála
+ ga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868187@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T140000Z
+DTEND:20270103T160000Z
+SUMMARY:Rayo Vallecano vs Atlético Madrid — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868187
+DESCRIPTION:⚽ رايو فاييكانو × أتلتيكو مدريد\n
+ 🏆 الدوري الإسباني — الجولة 18\n🗓 الأحد 3 
+ يناير 2027 · 17:00 بتوقيت الرياض\n🏟 Campo de Futbol d
+ e Vallecas\n—————\n⚽ Rayo Vallecano v Atlético Madrid\n🏆 L
+ aLiga — Matchday 18\n🗓 Sun 03 Jan 2027 · 14:00 UTC\n🏟 Campo de Fu
+ tbol de Vallecas\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد أتلتيكو م
+ دريد — الدوري الإسباني | Tomorrow: Rayo Vallecano vs A
+ tlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × أتلتيكو مدريد | Kick-off in 30 min: Rayo Val
+ lecano vs Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868194@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T140000Z
+DTEND:20270110T160000Z
+SUMMARY:Deportivo A Coruña vs Rayo Vallecano — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868194
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × رايو فايي
+ كانو\n🏆 الدوري الإسباني — الجولة 19\n🗓 ا
+ لأحد 10 يناير 2027 · 17:00 بتوقيت الرياض\n🏟 Abanc
+ a-Riazor\n—————\n⚽ Deportivo A Coruña v Rayo Vallecano\n🏆 
+ LaLiga — Matchday 19\n🗓 Sun 10 Jan 2027 · 14:00 UTC\n🏟 Abanca-Ria
+ zor\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد راي
+ و فاييكانو — الدوري الإسباني | Tomorrow: Deportiv
+ o A Coruña vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × رايو فاييكانو | Kick-off in 30 
+ min: Deportivo A Coruña vs Rayo Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868209@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T140000Z
+DTEND:20270117T160000Z
+SUMMARY:Rayo Vallecano vs Sevilla — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868209
+DESCRIPTION:⚽ رايو فاييكانو × إشبيلية\n🏆 الدو
+ ري الإسباني — الجولة 20\n🗓 الأحد 17 يناير 2
+ 027 · 17:00 بتوقيت الرياض\n🏟 Campo de Futbol de Vallecas\n
+ —————\n⚽ Rayo Vallecano v Sevilla\n🏆 LaLiga — Matchday 20
+ \n🗓 Sun 17 Jan 2027 · 14:00 UTC\n🏟 Campo de Futbol de Vallecas\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد إشبيلية —
+  الدوري الإسباني | Tomorrow: Rayo Vallecano vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × إشبيلية | Kick-off in 30 min: Rayo Vallecano vs S
+ evilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868214@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T140000Z
+DTEND:20270124T160000Z
+SUMMARY:Elche vs Rayo Vallecano — LaLiga
+LOCATION:Estadio Martinez Valero
+URL:https://www.fotmob.com/match/5868214
+DESCRIPTION:⚽ إلتشي × رايو فاييكانو\n🏆 الدوري 
+ الإسباني — الجولة 21\n🗓 الأحد 24 يناير 2027 
+ · 17:00 بتوقيت الرياض\n🏟 Estadio Martinez Valero\n——
+ ———\n⚽ Elche v Rayo Vallecano\n🏆 LaLiga — Matchday 21\n🗓 S
+ un 24 Jan 2027 · 14:00 UTC\n🏟 Estadio Martinez Valero\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلتشي ضد رايو فاييكانو — ا
+ لدوري الإسباني | Tomorrow: Elche vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلتشي 
+ × رايو فاييكانو | Kick-off in 30 min: Elche vs Rayo Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868228@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Rayo Vallecano vs Real Madrid — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868228
+DESCRIPTION:⚽ رايو فاييكانو × ريال مدريد\n🏆 ال
+ دوري الإسباني — الجولة 22\n🗓 الأحد 31 يناي
+ ر 2027 · 17:00 بتوقيت الرياض\n🏟 Campo de Futbol de Vallec
+ as\n—————\n⚽ Rayo Vallecano v Real Madrid\n🏆 LaLiga — Mat
+ chday 22\n🗓 Sun 31 Jan 2027 · 14:00 UTC\n🏟 Campo de Futbol de Valle
+ cas\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد ريال مدري
+ د — الدوري الإسباني | Tomorrow: Rayo Vallecano vs Real Ma
+ drid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × ريال مدريد | Kick-off in 30 min: Rayo Vallecano
+  vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868236@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:Espanyol vs Rayo Vallecano — LaLiga
+LOCATION:RCDE Stadium
+URL:https://www.fotmob.com/match/5868236
+DESCRIPTION:⚽ إسبانيول × رايو فاييكانو\n🏆 الد
+ وري الإسباني — الجولة 23\n🗓 الأحد 7 فبراي
+ ر 2027 · 17:00 بتوقيت الرياض\n🏟 RCDE Stadium\n———
+ ——\n⚽ Espanyol v Rayo Vallecano\n🏆 LaLiga — Matchday 23\n🗓 S
+ un 07 Feb 2027 · 14:00 UTC\n🏟 RCDE Stadium\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إسبانيول ضد رايو فاييكانو 
+ — الدوري الإسباني | Tomorrow: Espanyol vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إسبان
+ يول × رايو فاييكانو | Kick-off in 30 min: Espanyol vs Rayo
+  Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868241@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T140000Z
+DTEND:20270214T160000Z
+SUMMARY:Celta Vigo vs Rayo Vallecano — LaLiga
+LOCATION:Abanca Balaidos
+URL:https://www.fotmob.com/match/5868241
+DESCRIPTION:⚽ سيلتا فيجو × رايو فاييكانو\n🏆 ال
+ دوري الإسباني — الجولة 24\n🗓 الأحد 14 فبرا
+ ير 2027 · 17:00 بتوقيت الرياض\n🏟 Abanca Balaidos\n——
+ ———\n⚽ Celta Vigo v Rayo Vallecano\n🏆 LaLiga — Matchday 24\n
+ 🗓 Sun 14 Feb 2027 · 14:00 UTC\n🏟 Abanca Balaidos\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتا فيجو ضد رايو فاييكان
+ و — الدوري الإسباني | Tomorrow: Celta Vigo vs Rayo Vallec
+ ano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتا 
+ فيجو × رايو فاييكانو | Kick-off in 30 min: Celta Vigo vs 
+ Rayo Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868258@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T140000Z
+DTEND:20270221T160000Z
+SUMMARY:Rayo Vallecano vs Getafe — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868258
+DESCRIPTION:⚽ رايو فاييكانو × خيتافي\n🏆 الدور
+ ي الإسباني — الجولة 25\n🗓 الأحد 21 فبراير 2
+ 027 · 17:00 بتوقيت الرياض\n🏟 Campo de Futbol de Vallecas\n
+ —————\n⚽ Rayo Vallecano v Getafe\n🏆 LaLiga — Matchday 25\
+ n🗓 Sun 21 Feb 2027 · 14:00 UTC\n🏟 Campo de Futbol de Vallecas\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد خيتافي — 
+ الدوري الإسباني | Tomorrow: Rayo Vallecano vs Getafe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × خيتافي | Kick-off in 30 min: Rayo Vallecano vs Get
+ afe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868268@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T140000Z
+DTEND:20270228T160000Z
+SUMMARY:Racing Santander vs Rayo Vallecano — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868268
+DESCRIPTION:⚽ راسينج سانتاندير × رايو فاييكان
+ و\n🏆 الدوري الإسباني — الجولة 26\n🗓 الأح
+ د 28 فبراير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio E
+ l Sardinero\n—————\n⚽ Racing Santander v Rayo Vallecano\n🏆 
+ LaLiga — Matchday 26\n🗓 Sun 28 Feb 2027 · 14:00 UTC\n🏟 Estadio El
+  Sardinero\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد رايو ف
+ اييكانو — الدوري الإسباني | Tomorrow: Racing Santan
+ der vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × رايو فاييكانو | Kick-off in 30 min: R
+ acing Santander vs Rayo Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868277@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T140000Z
+DTEND:20270307T160000Z
+SUMMARY:Rayo Vallecano vs Osasuna — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868277
+DESCRIPTION:⚽ رايو فاييكانو × أوساسونا\n🏆 الد
+ وري الإسباني — الجولة 27\n🗓 الأحد 7 مارس 20
+ 27 · 17:00 بتوقيت الرياض\n🏟 Campo de Futbol de Vallecas\n
+ —————\n⚽ Rayo Vallecano v Osasuna\n🏆 LaLiga — Matchday 27
+ \n🗓 Sun 07 Mar 2027 · 14:00 UTC\n🏟 Campo de Futbol de Vallecas\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد أوساسونا 
+ — الدوري الإسباني | Tomorrow: Rayo Vallecano vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × أوساسونا | Kick-off in 30 min: Rayo Vallecano vs
+  Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868287@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T140000Z
+DTEND:20270314T160000Z
+SUMMARY:Málaga vs Rayo Vallecano — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868287
+DESCRIPTION:⚽ مالقا × رايو فاييكانو\n🏆 الدوري 
+ الإسباني — الجولة 28\n🗓 الأحد 14 مارس 2027 · 
+ 17:00 بتوقيت الرياض\n🏟 Estadio La Rosaleda\n—————
+ \n⚽ Málaga v Rayo Vallecano\n🏆 LaLiga — Matchday 28\n🗓 Sun 14 M
+ ar 2027 · 14:00 UTC\n🏟 Estadio La Rosaleda\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد رايو فاييكانو — ا
+ لدوري الإسباني | Tomorrow: Málaga vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × رايو فاييكانو | Kick-off in 30 min: Málaga vs Rayo Valleca
+ no
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868296@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T140000Z
+DTEND:20270321T160000Z
+SUMMARY:Rayo Vallecano vs Barcelona — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868296
+DESCRIPTION:⚽ رايو فاييكانو × برشلونة\n🏆 الدو
+ ري الإسباني — الجولة 29\n🗓 الأحد 21 مارس 202
+ 7 · 17:00 بتوقيت الرياض\n🏟 Campo de Futbol de Vallecas\n
+ —————\n⚽ Rayo Vallecano v Barcelona\n🏆 LaLiga — Matchday 
+ 29\n🗓 Sun 21 Mar 2027 · 14:00 UTC\n🏟 Campo de Futbol de Vallecas\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد برشلونة —
+  الدوري الإسباني | Tomorrow: Rayo Vallecano vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × برشلونة | Kick-off in 30 min: Rayo Vallecano vs B
+ arcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868307@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T130000Z
+DTEND:20270404T150000Z
+SUMMARY:Levante vs Rayo Vallecano — LaLiga
+LOCATION:Estadio Ciudad de Valencia
+URL:https://www.fotmob.com/match/5868307
+DESCRIPTION:⚽ ليفانتي × رايو فاييكانو\n🏆 الدو
+ ري الإسباني — الجولة 30\n🗓 الأحد 4 أبريل 20
+ 27 · 16:00 بتوقيت الرياض\n🏟 Estadio Ciudad de Valencia\n
+ —————\n⚽ Levante v Rayo Vallecano\n🏆 LaLiga — Matchday 30
+ \n🗓 Sun 04 Apr 2027 · 13:00 UTC\n🏟 Estadio Ciudad de Valencia\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفانتي ضد رايو فاييكانو —
+  الدوري الإسباني | Tomorrow: Levante vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفان
+ تي × رايو فاييكانو | Kick-off in 30 min: Levante vs Rayo Va
+ llecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868317@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T130000Z
+DTEND:20270411T150000Z
+SUMMARY:Rayo Vallecano vs Real Sociedad — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868317
+DESCRIPTION:⚽ رايو فاييكانو × ريال سوسيداد\n🏆 
+ الدوري الإسباني — الجولة 31\n🗓 الأحد 11 أب
+ ريل 2027 · 16:00 بتوقيت الرياض\n🏟 Campo de Futbol de Va
+ llecas\n—————\n⚽ Rayo Vallecano v Real Sociedad\n🏆 LaLiga 
+ — Matchday 31\n🗓 Sun 11 Apr 2027 · 13:00 UTC\n🏟 Campo de Futbol d
+ e Vallecas\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد ريال سوسي
+ داد — الدوري الإسباني | Tomorrow: Rayo Vallecano vs Rea
+ l Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × ريال سوسيداد | Kick-off in 30 min: Rayo Valle
+ cano vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868321@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T130000Z
+DTEND:20270418T150000Z
+SUMMARY:Deportivo Alavés vs Rayo Vallecano — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868321
+DESCRIPTION:⚽ ديبورتيفو ألافيس × رايو فاييكان
+ و\n🏆 الدوري الإسباني — الجولة 32\n🗓 الأح
+ د 18 أبريل 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio Men
+ dizorroza\n—————\n⚽ Deportivo Alavés v Rayo Vallecano\n🏆 L
+ aLiga — Matchday 32\n🗓 Sun 18 Apr 2027 · 13:00 UTC\n🏟 Estadio Men
+ dizorroza\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد رايو ف
+ اييكانو — الدوري الإسباني | Tomorrow: Deportivo Ala
+ vés vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × رايو فاييكانو | Kick-off in 30 min: D
+ eportivo Alavés vs Rayo Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868339@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270421T130000Z
+DTEND:20270421T150000Z
+SUMMARY:Valencia vs Rayo Vallecano — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868339
+DESCRIPTION:⚽ فالنسيا × رايو فاييكانو\n🏆 الدو
+ ري الإسباني — الجولة 33\n🗓 الأربعاء 21 أبر
+ يل 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio Mestalla\n—
+ ————\n⚽ Valencia v Rayo Vallecano\n🏆 LaLiga — Matchday 33\n
+ 🗓 Wed 21 Apr 2027 · 13:00 UTC\n🏟 Estadio Mestalla\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد رايو فاييكانو —
+  الدوري الإسباني | Tomorrow: Valencia vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × رايو فاييكانو | Kick-off in 30 min: Valencia vs Rayo V
+ allecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868349@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T130000Z
+DTEND:20270502T150000Z
+SUMMARY:Rayo Vallecano vs Villarreal — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868349
+DESCRIPTION:⚽ رايو فاييكانو × فياريال\n🏆 الدو
+ ري الإسباني — الجولة 34\n🗓 الأحد 2 مايو 2027
+  · 16:00 بتوقيت الرياض\n🏟 Campo de Futbol de Vallecas\n—
+ ————\n⚽ Rayo Vallecano v Villarreal\n🏆 LaLiga — Matchday 34
+ \n🗓 Sun 02 May 2027 · 13:00 UTC\n🏟 Campo de Futbol de Vallecas\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد فياريال —
+  الدوري الإسباني | Tomorrow: Rayo Vallecano vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × فياريال | Kick-off in 30 min: Rayo Vallecano vs V
+ illarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868357@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T130000Z
+DTEND:20270509T150000Z
+SUMMARY:Rayo Vallecano vs Deportivo A Coruña — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868357
+DESCRIPTION:⚽ رايو فاييكانو × ديبورتيفو لاكور
+ ونيا\n🏆 الدوري الإسباني — الجولة 35\n🗓 ا
+ لأحد 9 مايو 2027 · 16:00 بتوقيت الرياض\n🏟 Campo de
+  Futbol de Vallecas\n—————\n⚽ Rayo Vallecano v Deportivo A Cor
+ uña\n🏆 LaLiga — Matchday 35\n🗓 Sun 09 May 2027 · 13:00 UTC\n🏟
+  Campo de Futbol de Vallecas\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد ديبورتيفو
+  لاكورونيا — الدوري الإسباني | Tomorrow: Rayo Val
+ lecano vs Deportivo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × ديبورتيفو لاكورونيا | Kick-off in 30 m
+ in: Rayo Vallecano vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868361@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T130000Z
+DTEND:20270516T150000Z
+SUMMARY:Atlético Madrid vs Rayo Vallecano — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868361
+DESCRIPTION:⚽ أتلتيكو مدريد × رايو فاييكانو\n
+ 🏆 الدوري الإسباني — الجولة 36\n🗓 الأحد 16
+  مايو 2027 · 16:00 بتوقيت الرياض\n🏟 Riyadh Air Metropo
+ litano\n—————\n⚽ Atlético Madrid v Rayo Vallecano\n🏆 LaLig
+ a — Matchday 36\n🗓 Sun 16 May 2027 · 13:00 UTC\n🏟 Riyadh Air Metr
+ opolitano\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد رايو فايي
+ كانو — الدوري الإسباني | Tomorrow: Atlético Madrid vs
+  Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × رايو فاييكانو | Kick-off in 30 min: Atléti
+ co Madrid vs Rayo Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868377@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T130000Z
+DTEND:20270523T150000Z
+SUMMARY:Rayo Vallecano vs Real Betis — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868377
+DESCRIPTION:⚽ رايو فاييكانو × ريال بيتيس\n🏆 ال
+ دوري الإسباني — الجولة 37\n🗓 الأحد 23 مايو
+  2027 · 16:00 بتوقيت الرياض\n🏟 Campo de Futbol de Vallecas
+ \n—————\n⚽ Rayo Vallecano v Real Betis\n🏆 LaLiga — Matchd
+ ay 37\n🗓 Sun 23 May 2027 · 13:00 UTC\n🏟 Campo de Futbol de Vallecas
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد ريال بيتي
+ س — الدوري الإسباني | Tomorrow: Rayo Vallecano vs Real Be
+ tis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × ريال بيتيس | Kick-off in 30 min: Rayo Vallecano
+  vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868381@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T130000Z
+DTEND:20270530T150000Z
+SUMMARY:Athletic Club vs Rayo Vallecano — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868381
+DESCRIPTION:⚽ أتلتيك بلباو × رايو فاييكانو\n🏆 
+ الدوري الإسباني — الجولة 38\n🗓 الأحد 30 ما
+ يو 2027 · 16:00 بتوقيت الرياض\n🏟 San Mames\n————
+ —\n⚽ Athletic Club v Rayo Vallecano\n🏆 LaLiga — Matchday 38\n🗓
+  Sun 30 May 2027 · 13:00 UTC\n🏟 San Mames\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد رايو فاييك
+ انو — الدوري الإسباني | Tomorrow: Athletic Club vs Rayo
+  Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × رايو فاييكانو | Kick-off in 30 min: Athletic 
+ Club vs Rayo Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-4996053@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251029T200000Z
+DTEND:20251029T220000Z
+SUMMARY:CD Yuncos vs Rayo Vallecano (1 - 6) — Copa del Rey
+LOCATION:Complejo Deportivo Villa De Yuncos\, Yuncos\, Spain
+GEO:40.095889;-3.876546
+URL:https://www.fotmob.com/match/4996053
+DESCRIPTION:⚽ يونكوس × رايو فاييكانو (1 - 6)\n🏆 ك
+ أس ملك إسبانيا — الدور الأول\n🗓 الأربعا
+ ء 29 أكتوبر 2025 · 23:00 بتوقيت الرياض\n🏟 Complejo 
+ Deportivo Villa De Yuncos، Yuncos\n⚖️ الحكم: José Luis Munuera 
+ Montero\n👥 الحضور: 2,100\n—————\n⚽ CD Yuncos v Rayo V
+ allecano (1 - 6)\n🏆 Copa del Rey — Round 1\n🗓 Wed 29 Oct 2025 · 2
+ 0:00 UTC\n🏟 Complejo Deportivo Villa De Yuncos, Yuncos\nReferee: José 
+ Luis Munuera Montero\nAttendance: 2,100\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونكوس ضد رايو فاييكانو — 
+ كأس ملك إسبانيا | Tomorrow: CD Yuncos vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونكو
+ س × رايو فاييكانو | Kick-off in 30 min: CD Yuncos vs Rayo Va
+ llecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057231@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251204T180000Z
+DTEND:20251204T200000Z
+SUMMARY:Real Ávila vs Rayo Vallecano (1 - 2) — Copa del Rey
+LOCATION:Estadio Municipal Adolfo Suárez\, Ávila\, Spain
+GEO:40.646241;-4.701620
+URL:https://www.fotmob.com/match/5057231
+DESCRIPTION:⚽ ريال أفيلا × رايو فاييكانو (1 - 2)\n
+ 🏆 كأس ملك إسبانيا — الدور الثاني\n🗓 الخ
+ ميس 4 ديسمبر 2025 · 21:00 بتوقيت الرياض\n🏟 Estadi
+ o Municipal Adolfo Suárez، Ávila\n👥 الحضور: 5,500\n———
+ ——\n⚽ Real Ávila v Rayo Vallecano (1 - 2)\n🏆 Copa del Rey — Ro
+ und 2\n🗓 Thu 04 Dec 2025 · 18:00 UTC\n🏟 Estadio Municipal Adolfo Su
+ árez, Ávila\nAttendance: 5,500\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال أفيلا ضد رايو فاييكان
+ و — كأس ملك إسبانيا | Tomorrow: Real Ávila vs Rayo Vallec
+ ano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال أ
+ فيلا × رايو فاييكانو | Kick-off in 30 min: Real Ávila vs
+  Rayo Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5091464@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260106T180000Z
+DTEND:20260106T200000Z
+SUMMARY:Granada vs Rayo Vallecano (1 - 3) — Copa del Rey
+LOCATION:Estadio Nuevo Los Cármenes\, Granada\, Spain
+GEO:37.152946;-3.595737
+URL:https://www.fotmob.com/match/5091464
+DESCRIPTION:⚽ غرناطة × رايو فاييكانو (1 - 3)\n🏆 ك
+ أس ملك إسبانيا — دور الـ32\n🗓 الثلاثاء 6 ي
+ ناير 2026 · 21:00 بتوقيت الرياض\n🏟 Estadio Nuevo Los C
+ ármenes، Granada\n👥 الحضور: 4,468\n—————\n⚽ Granada
+  v Rayo Vallecano (1 - 3)\n🏆 Copa del Rey — Round of 32\n🗓 Tue 06 
+ Jan 2026 · 18:00 UTC\n🏟 Estadio Nuevo Los Cármenes, Granada\nAttendan
+ ce: 4,468\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غرناطة ضد رايو فاييكانو — 
+ كأس ملك إسبانيا | Tomorrow: Granada vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غرناط
+ ة × رايو فاييكانو | Kick-off in 30 min: Granada vs Rayo Vall
+ ecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5125321@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260114T200000Z
+DTEND:20260114T220000Z
+SUMMARY:Deportivo Alavés vs Rayo Vallecano (2 - 0) — Copa del Rey
+LOCATION:Estadio de Mendizorroza\, Vitoria-Gasteiz\, Spain
+GEO:42.837076;-2.688247
+URL:https://www.fotmob.com/match/5125321
+DESCRIPTION:⚽ ديبورتيفو ألافيس × رايو فاييكان
+ و (2 - 0)\n🏆 كأس ملك إسبانيا — دور الـ16\n🗓 ا
+ لأربعاء 14 يناير 2026 · 23:00 بتوقيت الرياض\n🏟
+  Estadio de Mendizorroza، Vitoria-Gasteiz\n⚖️ الحكم: Francisco J
+ osé Hernández Maeso\n👥 الحضور: 10,634\n—————\n⚽ Dep
+ ortivo Alavés v Rayo Vallecano (2 - 0)\n🏆 Copa del Rey — Round of 16
+ \n🗓 Wed 14 Jan 2026 · 20:00 UTC\n🏟 Estadio de Mendizorroza, Vitoria
+ -Gasteiz\nReferee: Francisco José Hernández Maeso\nAttendance: 10,634\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد رايو ف
+ اييكانو — كأس ملك إسبانيا | Tomorrow: Deportivo Alav
+ és vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × رايو فاييكانو | Kick-off in 30 min: D
+ eportivo Alavés vs Rayo Vallecano
+END:VALARM
+END:VEVENT
+END:VCALENDAR

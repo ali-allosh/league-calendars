@@ -1,0 +1,4228 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ FA Cup 2025/2026 — Fixtures | كأس الاتحاد ال
+ إنجليزي 2025/2026 — جدول المباريات
+X-WR-CALDESC:FA Cup 2025/2026 — all fixtures\, exact UTC kickoffs\, stadi
+ ums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10Z.  
+ •  كأس الاتحاد الإنجليزي 2025/2026 — جميع ال
+ مباريات بتوقيت UTC الدقيق مع الملاعب والق
+ نوات الناقلة. المصدر: FotMob + 365scores · تحديث ت
+ لقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010617@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251031T193000Z
+DTEND:20251031T213000Z
+SUMMARY:Luton Town vs Forest Green Rovers (4 - 3) — FA Cup
+LOCATION:Kenilworth Road\, Luton\, Bedfordshire\, England
+GEO:51.884227;-0.431782
+URL:https://www.fotmob.com/match/5010617
+DESCRIPTION:⚽ Luton Town × Forest Green Rovers (4 - 3)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الأول\n🗓 الجمعة
+  31 أكتوبر 2025 · 22:30 بتوقيت الرياض\n🏟 Kenilworth 
+ Road، Luton, Bedfordshire\n⚖️ الحكم: Stephen Parkinson\n👥 ا
+ لحضور: 4,511\n—————\n⚽ Luton Town v Forest Green Rovers (
+ 4 - 3)\n🏆 FA Cup — Round 1\n🗓 Fri 31 Oct 2025 · 19:30 UTC\n🏟 K
+ enilworth Road, Luton, Bedfordshire\nReferee: Stephen Parkinson\nAttendanc
+ e: 4,511\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Luton Town ضد Forest Green Rovers — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Luton Town vs Forest Green Rov
+ ers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Luton Town 
+ × Forest Green Rovers | Kick-off in 30 min: Luton Town vs Forest Green Ro
+ vers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010635@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T120000Z
+DTEND:20251101T140000Z
+SUMMARY:Chelmsford vs Braintree Town (4 - 1) — FA Cup
+LOCATION:Melbourne Stadium\, Chelmsford\, Essex\, England
+GEO:51.753211;0.451432
+URL:https://www.fotmob.com/match/5010635
+DESCRIPTION:⚽ Chelmsford × Braintree Town (4 - 1)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الأول\n🗓 السبت 1 ن
+ وفمبر 2025 · 15:00 بتوقيت الرياض\n🏟 Melbourne Stadium
+ ، Chelmsford, Essex\n⚖️ الحكم: Matthew Russell\n👥 الحضو
+ ر: 3,502\n—————\n⚽ Chelmsford v Braintree Town (4 - 1)\n🏆 
+ FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 12:00 UTC\n🏟 Melbourne Stad
+ ium, Chelmsford, Essex\nReferee: Matthew Russell\nAttendance: 3,502\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Chelmsford ضد Braintree Town — كأس الا
+ تحاد الإنجليزي | Tomorrow: Chelmsford vs Braintree Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Chelmsford 
+ × Braintree Town | Kick-off in 30 min: Chelmsford vs Braintree Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010648@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:AFC Wimbledon vs Gateshead FC (0 - 2) — FA Cup
+LOCATION:The Cherry Red Records Stadium\, London\, England
+GEO:51.431531;-0.186707
+URL:https://www.fotmob.com/match/5010648
+DESCRIPTION:⚽ AFC Wimbledon × Gateshead FC (0 - 2)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الأول\n🗓 السبت 1 ن
+ وفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 The Cherry Red Re
+ cords Stadium، London\n⚖️ الحكم: Aaron Farmer\n👥 الحضور
+ : 5,321\n—————\n⚽ AFC Wimbledon v Gateshead FC (0 - 2)\n🏆 F
+ A Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 The Cherry Red 
+ Records Stadium, London\nReferee: Aaron Farmer\nAttendance: 5,321\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: AFC Wimbledon ضد Gateshead FC — كأس الا
+ تحاد الإنجليزي | Tomorrow: AFC Wimbledon vs Gateshead FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: AFC Wimbled
+ on × Gateshead FC | Kick-off in 30 min: AFC Wimbledon vs Gateshead FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010624@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Barnsley vs York City (3 - 2) — FA Cup
+LOCATION:Oakwell\, Barnsley\, South Yorkshire\, England
+GEO:53.552294;-1.467644
+URL:https://www.fotmob.com/match/5010624
+DESCRIPTION:⚽ Barnsley × York City (3 - 2)\n🏆 كأس الاتحاد 
+ الإنجليزي — الدور الأول\n🗓 السبت 1 نوفمب
+ ر 2025 · 18:00 بتوقيت الرياض\n🏟 Oakwell، Barnsley, South
+  Yorkshire\n⚖️ الحكم: Michael Barlow\n👥 الحضور: 5,953\n
+ —————\n⚽ Barnsley v York City (3 - 2)\n🏆 FA Cup — Round 1
+ \n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Oakwell, Barnsley, South Yorkshi
+ re\nReferee: Michael Barlow\nAttendance: 5,953\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Barnsley ضد York City — كأس الاتحاد
+  الإنجليزي | Tomorrow: Barnsley vs York City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Barnsley ×
+  York City | Kick-off in 30 min: Barnsley vs York City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010646@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Blackpool vs Scunthorpe United (1 - 0) — FA Cup
+LOCATION:Bloomfield Road\, Blackpool\, Lancashire\, England
+GEO:53.804902;-3.048213
+URL:https://www.fotmob.com/match/5010646
+DESCRIPTION:⚽ Blackpool × Scunthorpe United (1 - 0)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الأول\n🗓 السبت 1 
+ نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Bloomfield Road
+ ، Blackpool, Lancashire\n⚖️ الحكم: Elliot Bell\n👥 الحضو
+ ر: 4,503\n—————\n⚽ Blackpool v Scunthorpe United (1 - 0)\n
+ 🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Bloomfiel
+ d Road, Blackpool, Lancashire\nReferee: Elliot Bell\nAttendance: 4,503\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Blackpool ضد Scunthorpe United — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Blackpool vs Scunthorpe United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Blackpool 
+ × Scunthorpe United | Kick-off in 30 min: Blackpool vs Scunthorpe United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010634@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Bolton Wanderers vs Huddersfield Town (2 - 1) — FA Cup
+LOCATION:Toughsheet Community Stadium\, Bolton\, England
+GEO:53.580584;-2.535661
+URL:https://www.fotmob.com/match/5010634
+DESCRIPTION:⚽ Bolton Wanderers × Huddersfield Town (2 - 1)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الأول\n🗓 السب
+ ت 1 نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Toughsheet
+  Community Stadium، Bolton\n⚖️ الحكم: Ross Joyce\n👥 الحض
+ ور: 6,077\n—————\n⚽ Bolton Wanderers v Huddersfield Town (2 
+ - 1)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Tou
+ ghsheet Community Stadium, Bolton\nReferee: Ross Joyce\nAttendance: 6,077\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Bolton Wanderers ضد Huddersfield Town — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Bolton Wanderers vs Hudde
+ rsfield Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Bolton Wand
+ erers × Huddersfield Town | Kick-off in 30 min: Bolton Wanderers vs Hudde
+ rsfield Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010632@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Boreham Wood vs Crawley Town (3 - 0) — FA Cup
+LOCATION:Mangata Pay UK Stadium\, Borehamwood\, Hertfordshire\, England
+GEO:51.661935;-0.272384
+URL:https://www.fotmob.com/match/5010632
+DESCRIPTION:⚽ Boreham Wood × Crawley Town (3 - 0)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الأول\n🗓 السبت 1 ن
+ وفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Mangata Pay UK St
+ adium، Borehamwood, Hertfordshire\n⚖️ الحكم: Sam Mulhall\n👥 
+ الحضور: 1,536\n—————\n⚽ Boreham Wood v Crawley Town (3 -
+  0)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Mang
+ ata Pay UK Stadium, Borehamwood, Hertfordshire\nReferee: Sam Mulhall\nAtte
+ ndance: 1,536\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Boreham Wood ضد Crawley Town — كأس الا
+ تحاد الإنجليزي | Tomorrow: Boreham Wood vs Crawley Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Boreham Woo
+ d × Crawley Town | Kick-off in 30 min: Boreham Wood vs Crawley Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010626@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Bromley vs Bristol Rovers (1 - 2) — FA Cup
+LOCATION:Copperjax Community Stadium\, London\, England
+GEO:51.390098;0.021055
+URL:https://www.fotmob.com/match/5010626
+DESCRIPTION:⚽ Bromley × Bristol Rovers (1 - 2)\n🏆 كأس الاتحا
+ د الإنجليزي — الدور الأول\n🗓 السبت 1 نوف
+ مبر 2025 · 18:00 بتوقيت الرياض\n🏟 Copperjax Community S
+ tadium، London\n⚖️ الحكم: Isaac Searle\n👥 الحضور: 2,500
+ \n—————\n⚽ Bromley v Bristol Rovers (1 - 2)\n🏆 FA Cup — R
+ ound 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Copperjax Community Stadiu
+ m, London\nReferee: Isaac Searle\nAttendance: 2,500\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Bromley ضد Bristol Rovers — كأس الاتح
+ اد الإنجليزي | Tomorrow: Bromley vs Bristol Rovers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Bromley × 
+ Bristol Rovers | Kick-off in 30 min: Bromley vs Bristol Rovers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010644@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Burton Albion vs St Albans (6 - 0) — FA Cup
+LOCATION:Pirelli Stadium\, Burton-upon-Trent\, Staffordshire\, England
+GEO:52.821911;-1.626878
+URL:https://www.fotmob.com/match/5010644
+DESCRIPTION:⚽ Burton Albion × St Albans (6 - 0)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الأول\n🗓 السبت 1 نو
+ فمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Pirelli Stadium، B
+ urton-upon-Trent, Staffordshire\n⚖️ الحكم: Declan Brown\n👥 ا
+ لحضور: 2,523\n—————\n⚽ Burton Albion v St Albans (6 - 0)\
+ n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Pirelli 
+ Stadium, Burton-upon-Trent, Staffordshire\nReferee: Declan Brown\nAttendan
+ ce: 2,523\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Burton Albion ضد St Albans — كأس الات
+ حاد الإنجليزي | Tomorrow: Burton Albion vs St Albans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Burton Albi
+ on × St Albans | Kick-off in 30 min: Burton Albion vs St Albans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010643@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Buxton vs Chatham Town (2 - 1) — FA Cup
+LOCATION:The Tarmac Silverlands Stadium\, Buxton\, Derbyshire\, England
+GEO:53.256604;-1.906627
+URL:https://www.fotmob.com/match/5010643
+DESCRIPTION:⚽ Buxton × Chatham Town (2 - 1)\n🏆 كأس الاتحاد 
+ الإنجليزي — الدور الأول\n🗓 السبت 1 نوفمب
+ ر 2025 · 18:00 بتوقيت الرياض\n🏟 The Tarmac Silverlands St
+ adium، Buxton, Derbyshire\n⚖️ الحكم: William Davis\n👥 الح
+ ضور: 1,652\n—————\n⚽ Buxton v Chatham Town (2 - 1)\n🏆 FA
+  Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 The Tarmac Silve
+ rlands Stadium, Buxton, Derbyshire\nReferee: William Davis\nAttendance: 1,
+ 652\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Buxton ضد Chatham Town — كأس الاتحا
+ د الإنجليزي | Tomorrow: Buxton vs Chatham Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Buxton × C
+ hatham Town | Kick-off in 30 min: Buxton vs Chatham Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010647@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Cambridge United vs Chester FC (3 - 0) — FA Cup
+LOCATION:Cledara Abbey Stadium\, Cambridge\, Cambridgeshire\, England
+GEO:52.212112;0.154150
+URL:https://www.fotmob.com/match/5010647
+DESCRIPTION:⚽ Cambridge United × Chester FC (3 - 0)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الأول\n🗓 السبت 1 
+ نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Cledara Abbey S
+ tadium، Cambridge, Cambridgeshire\n⚖️ الحكم: David Rock\n👥 ا
+ لحضور: 4,329\n—————\n⚽ Cambridge United v Chester FC (3 -
+  0)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Cled
+ ara Abbey Stadium, Cambridge, Cambridgeshire\nReferee: David Rock\nAttenda
+ nce: 4,329\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Cambridge United ضد Chester FC — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Cambridge United vs Chester FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Cambridge U
+ nited × Chester FC | Kick-off in 30 min: Cambridge United vs Chester FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010623@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Cheltenham Town vs Bradford City (1 - 0) — FA Cup
+LOCATION:EV Charger Points Stadium\, Cheltenham\, Gloucestershire\, England
+GEO:51.906166;-2.060197
+URL:https://www.fotmob.com/match/5010623
+DESCRIPTION:⚽ Cheltenham Town × Bradford City (1 - 0)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الأول\n🗓 السبت 1
+  نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 EV Charger Poi
+ nts Stadium، Cheltenham, Gloucestershire\n⚖️ الحكم: Robert Masse
+ y Ellis\n👥 الحضور: 3,075\n—————\n⚽ Cheltenham Town v 
+ Bradford City (1 - 0)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15
+ :00 UTC\n🏟 EV Charger Points Stadium, Cheltenham, Gloucestershire\nRefe
+ ree: Robert Massey Ellis\nAttendance: 3,075\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Cheltenham Town ضد Bradford City — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Cheltenham Town vs Bradford Ci
+ ty
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Cheltenham 
+ Town × Bradford City | Kick-off in 30 min: Cheltenham Town vs Bradford Ci
+ ty
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010619@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Colchester United vs Milton Keynes Dons (2 - 3) — FA Cup
+LOCATION:JobServe Community Stadium\, Colchester\, Essex\, England
+GEO:51.923361;0.897145
+URL:https://www.fotmob.com/match/5010619
+DESCRIPTION:⚽ Colchester United × Milton Keynes Dons (2 - 3)\n🏆 كأ
+ س الاتحاد الإنجليزي — الدور الأول\n🗓 ال
+ سبت 1 نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 JobSer
+ ve Community Stadium، Colchester, Essex\n⚖️ الحكم: Abigail Byrne
+ \n👥 الحضور: 3,639\n—————\n⚽ Colchester United v Milto
+ n Keynes Dons (2 - 3)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15
+ :00 UTC\n🏟 JobServe Community Stadium, Colchester, Essex\nReferee: Abig
+ ail Byrne\nAttendance: 3,639\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Colchester United ضد Milton Keynes Dons — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Colchester United vs Mi
+ lton Keynes Dons
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Colchester 
+ United × Milton Keynes Dons | Kick-off in 30 min: Colchester United vs Mi
+ lton Keynes Dons
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010629@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Crewe Alexandra vs Doncaster Rovers (1 - 2) — FA Cup
+LOCATION:Mornflake Stadium\, Crewe\, Cheshire\, England
+GEO:53.087446;-2.435800
+URL:https://www.fotmob.com/match/5010629
+DESCRIPTION:⚽ Crewe Alexandra × Doncaster Rovers (1 - 2)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الأول\n🗓 السبت
+  1 نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Mornflake St
+ adium، Crewe, Cheshire\n⚖️ الحكم: Neil Hair\n👥 الحضور: 
+ 2,996\n—————\n⚽ Crewe Alexandra v Doncaster Rovers (1 - 2)\n
+ 🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Mornflake
+  Stadium, Crewe, Cheshire\nReferee: Neil Hair\nAttendance: 2,996\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Crewe Alexandra ضد Doncaster Rovers — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Crewe Alexandra vs Doncaster
+  Rovers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Crewe Alexa
+ ndra × Doncaster Rovers | Kick-off in 30 min: Crewe Alexandra vs Doncaste
+ r Rovers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010638@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:FC Halifax Town vs Exeter City (0 - 2) — FA Cup
+LOCATION:The Shay Stadium\, Halifax\, West Yorkshire\, England
+GEO:53.716109;-1.859138
+URL:https://www.fotmob.com/match/5010638
+DESCRIPTION:⚽ FC Halifax Town × Exeter City (0 - 2)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الأول\n🗓 السبت 1 
+ نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 The Shay Stadiu
+ m، Halifax, West Yorkshire\n⚖️ الحكم: Andrew Miller\n👥 الح
+ ضور: 1,994\n—————\n⚽ FC Halifax Town v Exeter City (0 - 2)\
+ n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 The Shay
+  Stadium, Halifax, West Yorkshire\nReferee: Andrew Miller\nAttendance: 1,9
+ 94\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: FC Halifax Town ضد Exeter City — كأس ال
+ اتحاد الإنجليزي | Tomorrow: FC Halifax Town vs Exeter City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: FC Halifax 
+ Town × Exeter City | Kick-off in 30 min: FC Halifax Town vs Exeter City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010651@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Fleetwood Town vs Barnet (2 - 1) — FA Cup
+LOCATION:Highbury Stadium\, Fleetwood\, Lancashire\, England
+GEO:53.916497;-3.024722
+URL:https://www.fotmob.com/match/5010651
+DESCRIPTION:⚽ Fleetwood Town × Barnet (2 - 1)\n🏆 كأس الاتحا
+ د الإنجليزي — الدور الأول\n🗓 السبت 1 نوف
+ مبر 2025 · 18:00 بتوقيت الرياض\n🏟 Highbury Stadium، Fl
+ eetwood, Lancashire\n⚖️ الحكم: Scott Jackson\n👥 الحضور: 
+ 1,076\n—————\n⚽ Fleetwood Town v Barnet (2 - 1)\n🏆 FA Cup 
+ — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Highbury Stadium, Fle
+ etwood, Lancashire\nReferee: Scott Jackson\nAttendance: 1,076\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Fleetwood Town ضد Barnet — كأس الاتح
+ اد الإنجليزي | Tomorrow: Fleetwood Town vs Barnet
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Fleetwood T
+ own × Barnet | Kick-off in 30 min: Fleetwood Town vs Barnet
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010642@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Grimsby Town vs Ebbsfleet United (3 - 1) — FA Cup
+LOCATION:Blundell Park\, Cleethorpes\, North East Lincolns\, England
+GEO:53.570208;-0.046552
+URL:https://www.fotmob.com/match/5010642
+DESCRIPTION:⚽ Grimsby Town × Ebbsfleet United (3 - 1)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الأول\n🗓 السبت 1
+  نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Blundell Park
+ ، Cleethorpes, North East Lincolns\n⚖️ الحكم: Jamie O'Connor\n
+ 👥 الحضور: 3,392\n—————\n⚽ Grimsby Town v Ebbsfleet Un
+ ited (3 - 1)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n
+ 🏟 Blundell Park, Cleethorpes, North East Lincolns\nReferee: Jamie O'Con
+ nor\nAttendance: 3,392\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Grimsby Town ضد Ebbsfleet United — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Grimsby Town vs Ebbsfleet Unit
+ ed
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Grimsby Tow
+ n × Ebbsfleet United | Kick-off in 30 min: Grimsby Town vs Ebbsfleet Unit
+ ed
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010654@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Macclesfield FC vs AFC Totton (6 - 3) — FA Cup
+LOCATION:The Leasing.com Stadium\, Macclesfield\, Cheshire\, England
+GEO:53.242857;-2.127271
+URL:https://www.fotmob.com/match/5010654
+DESCRIPTION:⚽ Macclesfield FC × AFC Totton (6 - 3)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الأول\n🗓 السبت 1 ن
+ وفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 The Leasing.com S
+ tadium، Macclesfield, Cheshire\n⚖️ الحكم: Oliver Yates\n——
+ ———\n⚽ Macclesfield FC v AFC Totton (6 - 3)\n🏆 FA Cup — Round
+  1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 The Leasing.com Stadium, Maccl
+ esfield, Cheshire\nReferee: Oliver Yates\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Macclesfield FC ضد AFC Totton — كأس الا
+ تحاد الإنجليزي | Tomorrow: Macclesfield FC vs AFC Totton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Macclesfiel
+ d FC × AFC Totton | Kick-off in 30 min: Macclesfield FC vs AFC Totton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010649@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Mansfield Town vs Harrogate Town (3 - 2) — FA Cup
+LOCATION:One Call Stadium\, Mansfield\, Nottinghamshire\, England
+GEO:53.138057;-1.200777
+URL:https://www.fotmob.com/match/5010649
+DESCRIPTION:⚽ Mansfield Town × Harrogate Town (3 - 2)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الأول\n🗓 السبت 1
+  نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 One Call Stadi
+ um، Mansfield, Nottinghamshire\n⚖️ الحكم: Wayne Cartmel\n👥 ا
+ لحضور: 3,301\n—————\n⚽ Mansfield Town v Harrogate Town (3
+  - 2)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 On
+ e Call Stadium, Mansfield, Nottinghamshire\nReferee: Wayne Cartmel\nAttend
+ ance: 3,301\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Mansfield Town ضد Harrogate Town — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Mansfield Town vs Harrogate To
+ wn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Mansfield T
+ own × Harrogate Town | Kick-off in 30 min: Mansfield Town vs Harrogate To
+ wn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010622@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Newport County vs Gillingham (2 - 2) — FA Cup
+LOCATION:Rodney Parade\, Newport (Casnewydd)\, Wales
+GEO:51.588230;-2.987908
+URL:https://www.fotmob.com/match/5010622
+DESCRIPTION:⚽ Newport County × Gillingham (2 - 2)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الأول\n🗓 السبت 1 ن
+ وفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Rodney Parade، N
+ ewport (Casnewydd)\n⚖️ الحكم: Ross Martin\n👥 الحضور: 2,5
+ 96\n—————\n⚽ Newport County v Gillingham (2 - 2)\n🏆 FA Cup 
+ — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Rodney Parade, Newpor
+ t (Casnewydd)\nReferee: Ross Martin\nAttendance: 2,596\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Newport County ضد Gillingham — كأس الا
+ تحاد الإنجليزي | Tomorrow: Newport County vs Gillingham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Newport Cou
+ nty × Gillingham | Kick-off in 30 min: Newport County vs Gillingham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010628@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Oldham Athletic vs Northampton Town (3 - 1) — FA Cup
+LOCATION:Boundary Park\, Oldham\, Greater Manchester\, England
+GEO:53.555133;-2.128486
+URL:https://www.fotmob.com/match/5010628
+DESCRIPTION:⚽ Oldham Athletic × Northampton Town (3 - 1)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الأول\n🗓 السبت
+  1 نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Boundary Par
+ k، Oldham, Greater Manchester\n⚖️ الحكم: Peter Wright\n👥 ال
+ حضور: 6,393\n—————\n⚽ Oldham Athletic v Northampton Town (
+ 3 - 1)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 B
+ oundary Park, Oldham, Greater Manchester\nReferee: Peter Wright\nAttendanc
+ e: 6,393\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Oldham Athletic ضد Northampton Town — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Oldham Athletic vs Northampt
+ on Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Oldham Athl
+ etic × Northampton Town | Kick-off in 30 min: Oldham Athletic vs Northamp
+ ton Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010627@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Peterborough United vs Cardiff City (1 - 0) — FA Cup
+LOCATION:Weston Homes Stadium\, Peterborough\, England
+GEO:52.564692;-0.240408
+URL:https://www.fotmob.com/match/5010627
+DESCRIPTION:⚽ Peterborough United × Cardiff City (1 - 0)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الأول\n🗓 السبت
+  1 نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Weston Homes
+  Stadium، Peterborough\n⚖️ الحكم: Seb Stockbridge\n————
+ —\n⚽ Peterborough United v Cardiff City (1 - 0)\n🏆 FA Cup — Round
+  1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Weston Homes Stadium, Peterbor
+ ough\nReferee: Seb Stockbridge\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Peterborough United ضد Cardiff City — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Peterborough United vs Cardi
+ ff City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Peterboroug
+ h United × Cardiff City | Kick-off in 30 min: Peterborough United vs Card
+ iff City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010625@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Reading vs Carlisle United (2 - 3) — FA Cup
+LOCATION:Select Car Leasing Stadium\, Reading\, Berkshire\, England
+GEO:51.422380;-0.982643
+URL:https://www.fotmob.com/match/5010625
+DESCRIPTION:⚽ Reading × Carlisle United (2 - 3)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الأول\n🗓 السبت 1 نو
+ فمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Select Car Leasing 
+ Stadium، Reading, Berkshire\n⚖️ الحكم: Ruebyn Ricardo\n👥 ال
+ حضور: 3,929\n—————\n⚽ Reading v Carlisle United (2 - 3)\n
+ 🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Select Ca
+ r Leasing Stadium, Reading, Berkshire\nReferee: Ruebyn Ricardo\nAttendance
+ : 3,929\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Reading ضد Carlisle United — كأس الات
+ حاد الإنجليزي | Tomorrow: Reading vs Carlisle United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Reading × 
+ Carlisle United | Kick-off in 30 min: Reading vs Carlisle United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010641@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Rotherham United vs Swindon Town (1 - 2) — FA Cup
+LOCATION:AESSEAL New York Stadium\, Rotherham\, South Yorkshire\, England
+GEO:53.427908;-1.362015
+URL:https://www.fotmob.com/match/5010641
+DESCRIPTION:⚽ Rotherham United × Swindon Town (1 - 2)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الأول\n🗓 السبت 1
+  نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 AESSEAL New Yo
+ rk Stadium، Rotherham, South Yorkshire\n⚖️ الحكم: Martin Woods\n
+ 👥 الحضور: 3,351\n—————\n⚽ Rotherham United v Swindon 
+ Town (1 - 2)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n
+ 🏟 AESSEAL New York Stadium, Rotherham, South Yorkshire\nReferee: Martin
+  Woods\nAttendance: 3,351\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Rotherham United ضد Swindon Town — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Rotherham United vs Swindon To
+ wn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Rotherham U
+ nited × Swindon Town | Kick-off in 30 min: Rotherham United vs Swindon To
+ wn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010616@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Salford City vs Lincoln City (1 - 1) — FA Cup
+LOCATION:The Peninsula Stadium\, Salford\, Greater Manchester\, England
+GEO:53.513610;-2.276772
+URL:https://www.fotmob.com/match/5010616
+DESCRIPTION:⚽ Salford City × Lincoln City (1 - 1)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الأول\n🗓 السبت 1 ن
+ وفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 The Peninsula Sta
+ dium، Salford, Greater Manchester\n⚖️ الحكم: Steven Copeland\n
+ —————\n⚽ Salford City v Lincoln City (1 - 1)\n🏆 FA Cup — 
+ Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 The Peninsula Stadium, Sa
+ lford, Greater Manchester\nReferee: Steven Copeland\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Salford City ضد Lincoln City — كأس الا
+ تحاد الإنجليزي | Tomorrow: Salford City vs Lincoln City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Salford Cit
+ y × Lincoln City | Kick-off in 30 min: Salford City vs Lincoln City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010639@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Slough Town vs Altrincham (2 - 1) — FA Cup
+LOCATION:Arbour Park\, Slough\, Buckinghamshire\, England
+GEO:51.519855;-0.588333
+URL:https://www.fotmob.com/match/5010639
+DESCRIPTION:⚽ Slough Town × Altrincham (2 - 1)\n🏆 كأس الاتحا
+ د الإنجليزي — الدور الأول\n🗓 السبت 1 نوف
+ مبر 2025 · 18:00 بتوقيت الرياض\n🏟 Arbour Park، Slough,
+  Buckinghamshire\n⚖️ الحكم: Elliot Swallow\n👥 الحضور: 1,
+ 531\n—————\n⚽ Slough Town v Altrincham (2 - 1)\n🏆 FA Cup 
+ — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Arbour Park, Slough, 
+ Buckinghamshire\nReferee: Elliot Swallow\nAttendance: 1,531\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Slough Town ضد Altrincham — كأس الاتح
+ اد الإنجليزي | Tomorrow: Slough Town vs Altrincham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Slough Town
+  × Altrincham | Kick-off in 30 min: Slough Town vs Altrincham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010636@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Spennymoor Town FC vs Barrow (0 - 2) — FA Cup
+LOCATION:The Brewery Field\, Spennymoor\, County Durham\, England
+GEO:54.704500;-1.599128
+URL:https://www.fotmob.com/match/5010636
+DESCRIPTION:⚽ Spennymoor Town FC × Barrow (0 - 2)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الأول\n🗓 السبت 1 ن
+ وفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 The Brewery Field
+ ، Spennymoor, County Durham\n⚖️ الحكم: Zac Kennard-Kettle\n👥 
+ الحضور: 2,283\n—————\n⚽ Spennymoor Town FC v Barrow (0 -
+  2)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 The 
+ Brewery Field, Spennymoor, County Durham\nReferee: Zac Kennard-Kettle\nAtt
+ endance: 2,283\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Spennymoor Town FC ضد Barrow — كأس الا
+ تحاد الإنجليزي | Tomorrow: Spennymoor Town FC vs Barrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Spennymoor 
+ Town FC × Barrow | Kick-off in 30 min: Spennymoor Town FC vs Barrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010631@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Stevenage vs Chesterfield (0 - 1) — FA Cup
+LOCATION:Lamex Stadium\, Stevenage\, Hertfordshire\, England
+GEO:51.889822;-0.193666
+URL:https://www.fotmob.com/match/5010631
+DESCRIPTION:⚽ Stevenage × Chesterfield (0 - 1)\n🏆 كأس الاتحا
+ د الإنجليزي — الدور الأول\n🗓 السبت 1 نوف
+ مبر 2025 · 18:00 بتوقيت الرياض\n🏟 Lamex Stadium، Steve
+ nage, Hertfordshire\n⚖️ الحكم: Alan Young\n—————\n⚽ S
+ tevenage v Chesterfield (0 - 1)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 
+ 2025 · 15:00 UTC\n🏟 Lamex Stadium, Stevenage, Hertfordshire\nReferee: 
+ Alan Young\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Stevenage ضد Chesterfield — كأس الاتح
+ اد الإنجليزي | Tomorrow: Stevenage vs Chesterfield
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Stevenage 
+ × Chesterfield | Kick-off in 30 min: Stevenage vs Chesterfield
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010633@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Sutton United vs AFC Telford United (2 - 1) — FA Cup
+LOCATION:VBS Community Stadium\, Sutton\, Surrey\, England
+GEO:51.367603;-0.204339
+URL:https://www.fotmob.com/match/5010633
+DESCRIPTION:⚽ Sutton United × AFC Telford United (2 - 1)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الأول\n🗓 السبت
+  1 نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 VBS Communit
+ y Stadium، Sutton, Surrey\n⚖️ الحكم: Alex Chilowicz\n👥 الح
+ ضور: 1,575\n—————\n⚽ Sutton United v AFC Telford United (2 
+ - 1)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 VBS
+  Community Stadium, Sutton, Surrey\nReferee: Alex Chilowicz\nAttendance: 1
+ ,575\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Sutton United ضد AFC Telford United — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Sutton United vs AFC Telford
+  United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Sutton Unit
+ ed × AFC Telford United | Kick-off in 30 min: Sutton United vs AFC Telfor
+ d United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010620@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Tranmere Rovers vs Stockport County (1 - 3) — FA Cup
+LOCATION:Prenton Park\, Birkenhead\, Merseyside\, England
+GEO:53.373748;-3.032548
+URL:https://www.fotmob.com/match/5010620
+DESCRIPTION:⚽ Tranmere Rovers × Stockport County (1 - 3)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الأول\n🗓 السبت
+  1 نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Prenton Park
+ ، Birkenhead, Merseyside\n⚖️ الحكم: Simon Mather\n————
+ —\n⚽ Tranmere Rovers v Stockport County (1 - 3)\n🏆 FA Cup — Round
+  1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Prenton Park, Birkenhead, Mers
+ eyside\nReferee: Simon Mather\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Tranmere Rovers ضد Stockport County — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Tranmere Rovers vs Stockport
+  County
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Tranmere Ro
+ vers × Stockport County | Kick-off in 30 min: Tranmere Rovers vs Stockpor
+ t County
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010640@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Wealdstone vs Southend United (1 - 0) — FA Cup
+LOCATION:Grosvenor Vale\, Ruislip\, Middlesex\, England
+GEO:51.569405;-0.416638
+URL:https://www.fotmob.com/match/5010640
+DESCRIPTION:⚽ Wealdstone × Southend United (1 - 0)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الأول\n🗓 السبت 1 ن
+ وفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Grosvenor Vale، 
+ Ruislip, Middlesex\n⚖️ الحكم: Carl Brook\n👥 الحضور: 2,14
+ 6\n—————\n⚽ Wealdstone v Southend United (1 - 0)\n🏆 FA Cup 
+ — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Grosvenor Vale, Ruisl
+ ip, Middlesex\nReferee: Carl Brook\nAttendance: 2,146\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Wealdstone ضد Southend United — كأس الا
+ تحاد الإنجليزي | Tomorrow: Wealdstone vs Southend United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Wealdstone 
+ × Southend United | Kick-off in 30 min: Wealdstone vs Southend United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010615@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Weston Super Mare vs Aldershot Town (2 - 1) — FA Cup
+LOCATION:The Optima Stadium\, Weston-super-Mare\, Somerset\, England
+GEO:51.330650;-2.956068
+URL:https://www.fotmob.com/match/5010615
+DESCRIPTION:⚽ Weston Super Mare × Aldershot Town (2 - 1)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الأول\n🗓 السبت
+  1 نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 The Optima S
+ tadium، Weston-super-Mare, Somerset\n⚖️ الحكم: James Durkin\n
+ 👥 الحضور: 2,557\n—————\n⚽ Weston Super Mare v Aldersh
+ ot Town (2 - 1)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UT
+ C\n🏟 The Optima Stadium, Weston-super-Mare, Somerset\nReferee: James Du
+ rkin\nAttendance: 2,557\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Weston Super Mare ضد Aldershot Town — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Weston Super Mare vs Aldersh
+ ot Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Weston Supe
+ r Mare × Aldershot Town | Kick-off in 30 min: Weston Super Mare vs Alders
+ hot Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010621@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Wigan Athletic vs Hemel Hempstead (1 - 1) — FA Cup
+LOCATION:The Brick Community Stadium\, Wigan\, England
+GEO:53.547655;-2.654032
+URL:https://www.fotmob.com/match/5010621
+DESCRIPTION:⚽ Wigan Athletic × Hemel Hempstead (1 - 1)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الأول\n🗓 السبت 1
+  نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 The Brick Comm
+ unity Stadium، Wigan\n⚖️ الحكم: Aaron Bannister\n👥 الحضو
+ ر: 4,020\n—————\n⚽ Wigan Athletic v Hemel Hempstead (1 - 1)\n
+ 🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 The Brick
+  Community Stadium, Wigan\nReferee: Aaron Bannister\nAttendance: 4,020\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Wigan Athletic ضد Hemel Hempstead — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Wigan Athletic vs Hemel Hempst
+ ead
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Wigan Athle
+ tic × Hemel Hempstead | Kick-off in 30 min: Wigan Athletic vs Hemel Hemps
+ tead
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010637@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Wycombe Wanderers vs Plymouth Argyle (2 - 0) — FA Cup
+LOCATION:Adams Park\, High Wycombe\, Buckinghamshire\, England
+GEO:51.630559;-0.800212
+URL:https://www.fotmob.com/match/5010637
+DESCRIPTION:⚽ Wycombe Wanderers × Plymouth Argyle (2 - 0)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الأول\n🗓 السب
+ ت 1 نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Adams Park
+ ، High Wycombe, Buckinghamshire\n⚖️ الحكم: Scott Oldham\n👥 ا
+ لحضور: 3,571\n—————\n⚽ Wycombe Wanderers v Plymouth Argyl
+ e (2 - 0)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n
+ 🏟 Adams Park, High Wycombe, Buckinghamshire\nReferee: Scott Oldham\nAtt
+ endance: 3,571\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Wycombe Wanderers ضد Plymouth Argyle — كأس
+  الاتحاد الإنجليزي | Tomorrow: Wycombe Wanderers vs Plymou
+ th Argyle
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Wycombe Wan
+ derers × Plymouth Argyle | Kick-off in 30 min: Wycombe Wanderers vs Plymo
+ uth Argyle
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010645@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251101T173000Z
+DTEND:20251101T193000Z
+SUMMARY:Brackley Town vs Notts County (2 - 2) — FA Cup
+LOCATION:St. James Park\, Brackley\, Northamptonshire\, England
+GEO:52.024594;-1.144075
+URL:https://www.fotmob.com/match/5010645
+DESCRIPTION:⚽ Brackley Town × Notts County (2 - 2)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الأول\n🗓 السبت 1 ن
+ وفمبر 2025 · 20:30 بتوقيت الرياض\n🏟 St. James Park، 
+ Brackley, Northamptonshire\n⚖️ الحكم: Ben Atkinson\n👥 الحض
+ ور: 2,233\n—————\n⚽ Brackley Town v Notts County (2 - 2)\n
+ 🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 17:30 UTC\n🏟 St. James
+  Park, Brackley, Northamptonshire\nReferee: Ben Atkinson\nAttendance: 2,23
+ 3\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Brackley Town ضد Notts County — كأس الا
+ تحاد الإنجليزي | Tomorrow: Brackley Town vs Notts County
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Brackley To
+ wn × Notts County | Kick-off in 30 min: Brackley Town vs Notts County
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010650@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251102T120000Z
+DTEND:20251102T140000Z
+SUMMARY:South Shields vs Shrewsbury Town (1 - 3) — FA Cup
+LOCATION:1st Cloud Arena\, South Shields\, Tyne and Wear\, England
+GEO:54.974556;-1.470103
+URL:https://www.fotmob.com/match/5010650
+DESCRIPTION:⚽ South Shields × Shrewsbury Town (1 - 3)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الأول\n🗓 الأحد 2
+  نوفمبر 2025 · 15:00 بتوقيت الرياض\n🏟 1st Cloud Aren
+ a، South Shields, Tyne and Wear\n⚖️ الحكم: Thomas Parsons\n👥 
+ الحضور: 3,570\n—————\n⚽ South Shields v Shrewsbury Town 
+ (1 - 3)\n🏆 FA Cup — Round 1\n🗓 Sun 02 Nov 2025 · 12:00 UTC\n🏟 
+ 1st Cloud Arena, South Shields, Tyne and Wear\nReferee: Thomas Parsons\nAt
+ tendance: 3,570\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: South Shields ضد Shrewsbury Town — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: South Shields vs Shrewsbury To
+ wn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: South Shiel
+ ds × Shrewsbury Town | Kick-off in 30 min: South Shields vs Shrewsbury To
+ wn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010653@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251102T141500Z
+DTEND:20251102T161500Z
+SUMMARY:Eastleigh vs Walsall (0 - 3) — FA Cup
+LOCATION:Silverlake Stadium\, Eastleigh\, Hampshire\, England
+GEO:50.952297;-1.372030
+URL:https://www.fotmob.com/match/5010653
+DESCRIPTION:⚽ Eastleigh × Walsall (0 - 3)\n🏆 كأس الاتحاد ا
+ لإنجليزي — الدور الأول\n🗓 الأحد 2 نوفمبر
+  2025 · 17:15 بتوقيت الرياض\n🏟 Silverlake Stadium، Eastle
+ igh, Hampshire\n⚖️ الحكم: Lee Swabey\n👥 الحضور: 2,389\n
+ —————\n⚽ Eastleigh v Walsall (0 - 3)\n🏆 FA Cup — Round 1\
+ n🗓 Sun 02 Nov 2025 · 14:15 UTC\n🏟 Silverlake Stadium, Eastleigh, Ha
+ mpshire\nReferee: Lee Swabey\nAttendance: 2,389\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Eastleigh ضد Walsall — كأس الاتحاد 
+ الإنجليزي | Tomorrow: Eastleigh vs Walsall
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Eastleigh 
+ × Walsall | Kick-off in 30 min: Eastleigh vs Walsall
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010652@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251102T150000Z
+DTEND:20251102T170000Z
+SUMMARY:Port Vale vs Maldon & Tiptree (5 - 1) — FA Cup
+LOCATION:Vale Park\, Stoke-on-Trent\, Staffordshire\, England
+GEO:53.050078;-2.192644
+URL:https://www.fotmob.com/match/5010652
+DESCRIPTION:⚽ Port Vale × Maldon & Tiptree (5 - 1)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الأول\n🗓 الأحد 2 ن
+ وفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Vale Park، Stoke
+ -on-Trent, Staffordshire\n⚖️ الحكم: Richard Eley\n👥 الحضو
+ ر: 4,551\n—————\n⚽ Port Vale v Maldon & Tiptree (5 - 1)\n🏆
+  FA Cup — Round 1\n🗓 Sun 02 Nov 2025 · 15:00 UTC\n🏟 Vale Park, St
+ oke-on-Trent, Staffordshire\nReferee: Richard Eley\nAttendance: 4,551\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Port Vale ضد Maldon & Tiptree — كأس الا
+ تحاد الإنجليزي | Tomorrow: Port Vale vs Maldon & Tiptree
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Port Vale 
+ × Maldon & Tiptree | Kick-off in 30 min: Port Vale vs Maldon & Tiptree
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010618@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251102T171500Z
+DTEND:20251102T191500Z
+SUMMARY:Gainsborough vs Accrington Stanley (1 - 2) — FA Cup
+LOCATION:Kal Group Stadium\, Gainsborough\, Lincolnshire\, England
+GEO:53.403408;-0.774499
+URL:https://www.fotmob.com/match/5010618
+DESCRIPTION:⚽ Gainsborough × Accrington Stanley (1 - 2)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الأول\n🗓 الأحد
+  2 نوفمبر 2025 · 20:15 بتوقيت الرياض\n🏟 Kal Group St
+ adium، Gainsborough, Lincolnshire\n⚖️ الحكم: Andrew Humphries\n
+ 👥 الحضور: 2,612\n—————\n⚽ Gainsborough v Accrington S
+ tanley (1 - 2)\n🏆 FA Cup — Round 1\n🗓 Sun 02 Nov 2025 · 17:15 UTC
+ \n🏟 Kal Group Stadium, Gainsborough, Lincolnshire\nReferee: Andrew Hump
+ hries\nAttendance: 2,612\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Gainsborough ضد Accrington Stanley — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Gainsborough vs Accrington S
+ tanley
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Gainsboroug
+ h × Accrington Stanley | Kick-off in 30 min: Gainsborough vs Accrington S
+ tanley
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5010630@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251103T193000Z
+DTEND:20251103T213000Z
+SUMMARY:Tamworth vs Leyton Orient (0 - 1) — FA Cup
+LOCATION:The Lamb Ground\, Tamworth\, Staffordshire\, England
+GEO:52.628402;-1.688931
+URL:https://www.fotmob.com/match/5010630
+DESCRIPTION:⚽ Tamworth × Leyton Orient (0 - 1)\n🏆 كأس الاتحا
+ د الإنجليزي — الدور الأول\n🗓 الاثنين 3 ن
+ وفمبر 2025 · 22:30 بتوقيت الرياض\n🏟 The Lamb Ground،
+  Tamworth, Staffordshire\n⚖️ الحكم: Matthew Corlett\n👥 الح
+ ضور: 2,820\n—————\n⚽ Tamworth v Leyton Orient (0 - 1)\n🏆
+  FA Cup — Round 1\n🗓 Mon 03 Nov 2025 · 19:30 UTC\n🏟 The Lamb Grou
+ nd, Tamworth, Staffordshire\nReferee: Matthew Corlett\nAttendance: 2,820\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Tamworth ضد Leyton Orient — كأس الاتح
+ اد الإنجليزي | Tomorrow: Tamworth vs Leyton Orient
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Tamworth ×
+  Leyton Orient | Kick-off in 30 min: Tamworth vs Leyton Orient
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040472@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251205T193000Z
+DTEND:20251205T213000Z
+SUMMARY:Salford City vs Leyton Orient (4 - 0) — FA Cup
+LOCATION:The Peninsula Stadium\, Salford\, Greater Manchester\, England
+GEO:53.513610;-2.276772
+URL:https://www.fotmob.com/match/5040472
+DESCRIPTION:⚽ Salford City × Leyton Orient (4 - 0)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الثاني\n🗓 الجمعة 5
+  ديسمبر 2025 · 22:30 بتوقيت الرياض\n🏟 The Peninsula 
+ Stadium، Salford, Greater Manchester\n⚖️ الحكم: Ben Speedie\n
+ 👥 الحضور: 1,796\n—————\n⚽ Salford City v Leyton Orien
+ t (4 - 0)\n🏆 FA Cup — Round 2\n🗓 Fri 05 Dec 2025 · 19:30 UTC\n
+ 🏟 The Peninsula Stadium, Salford, Greater Manchester\nReferee: Ben Spee
+ die\nAttendance: 1,796\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Salford City ضد Leyton Orient — كأس الا
+ تحاد الإنجليزي | Tomorrow: Salford City vs Leyton Orient
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Salford Cit
+ y × Leyton Orient | Kick-off in 30 min: Salford City vs Leyton Orient
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040320@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Accrington Stanley vs Mansfield Town (2 - 2) — FA Cup
+LOCATION:Wham Stadium\, Accrington\, Lancashire\, England
+GEO:53.765401;-2.371062
+URL:https://www.fotmob.com/match/5040320
+DESCRIPTION:⚽ Accrington Stanley × Mansfield Town (2 - 2)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الثاني\n🗓 الس
+ بت 6 ديسمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Wham Sta
+ dium، Accrington, Lancashire\n⚖️ الحكم: Stephen Parkinson\n👥 
+ الحضور: 1,873\n—————\n⚽ Accrington Stanley v Mansfield T
+ own (2 - 2)\n🏆 FA Cup — Round 2\n🗓 Sat 06 Dec 2025 · 15:00 UTC\n
+ 🏟 Wham Stadium, Accrington, Lancashire\nReferee: Stephen Parkinson\nAtt
+ endance: 1,873\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Accrington Stanley ضد Mansfield Town — كأس
+  الاتحاد الإنجليزي | Tomorrow: Accrington Stanley vs Mansf
+ ield Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Accrington 
+ Stanley × Mansfield Town | Kick-off in 30 min: Accrington Stanley vs Mans
+ field Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040314@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Chelmsford vs Weston Super Mare (0 - 2) — FA Cup
+LOCATION:Melbourne Stadium\, Chelmsford\, Essex\, England
+GEO:51.753211;0.451432
+URL:https://www.fotmob.com/match/5040314
+DESCRIPTION:⚽ Chelmsford × Weston Super Mare (0 - 2)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الثاني\n🗓 السبت 6
+  ديسمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Melbourne Stad
+ ium، Chelmsford, Essex\n⚖️ الحكم: Carl Brook\n👥 الحضور:
+  3,628\n—————\n⚽ Chelmsford v Weston Super Mare (0 - 2)\n🏆 
+ FA Cup — Round 2\n🗓 Sat 06 Dec 2025 · 15:00 UTC\n🏟 Melbourne Stad
+ ium, Chelmsford, Essex\nReferee: Carl Brook\nAttendance: 3,628\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Chelmsford ضد Weston Super Mare — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Chelmsford vs Weston Super Mare
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Chelmsford 
+ × Weston Super Mare | Kick-off in 30 min: Chelmsford vs Weston Super Mare
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040326@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Cheltenham Town vs Buxton (6 - 2) — FA Cup
+LOCATION:EV Charger Points Stadium\, Cheltenham\, Gloucestershire\, England
+GEO:51.906166;-2.060197
+URL:https://www.fotmob.com/match/5040326
+DESCRIPTION:⚽ Cheltenham Town × Buxton (6 - 2)\n🏆 كأس الاتحا
+ د الإنجليزي — الدور الثاني\n🗓 السبت 6 دي
+ سمبر 2025 · 18:00 بتوقيت الرياض\n🏟 EV Charger Points S
+ tadium، Cheltenham, Gloucestershire\n⚖️ الحكم: Charles Breakspea
+ r\n👥 الحضور: 3,589\n—————\n⚽ Cheltenham Town v Buxton
+  (6 - 2)\n🏆 FA Cup — Round 2\n🗓 Sat 06 Dec 2025 · 15:00 UTC\n🏟
+  EV Charger Points Stadium, Cheltenham, Gloucestershire\nReferee: Charles 
+ Breakspear\nAttendance: 3,589\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Cheltenham Town ضد Buxton — كأس الاتح
+ اد الإنجليزي | Tomorrow: Cheltenham Town vs Buxton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Cheltenham 
+ Town × Buxton | Kick-off in 30 min: Cheltenham Town vs Buxton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040325@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Exeter City vs Wycombe Wanderers (4 - 0) — FA Cup
+LOCATION:St James Park\, Exeter\, Devon\, England
+GEO:50.730716;-3.521153
+URL:https://www.fotmob.com/match/5040325
+DESCRIPTION:⚽ Exeter City × Wycombe Wanderers (4 - 0)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الثاني\n🗓 السبت
+  6 ديسمبر 2025 · 18:00 بتوقيت الرياض\n🏟 St James Par
+ k، Exeter, Devon\n⚖️ الحكم: James Durkin\n👥 الحضور: 5,1
+ 61\n—————\n⚽ Exeter City v Wycombe Wanderers (4 - 0)\n🏆 FA 
+ Cup — Round 2\n🗓 Sat 06 Dec 2025 · 15:00 UTC\n🏟 St James Park, Ex
+ eter, Devon\nReferee: James Durkin\nAttendance: 5,161\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Exeter City ضد Wycombe Wanderers — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Exeter City vs Wycombe Wandere
+ rs
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Exeter City
+  × Wycombe Wanderers | Kick-off in 30 min: Exeter City vs Wycombe Wandere
+ rs
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040319@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Fleetwood Town vs Luton Town (2 - 2) — FA Cup
+LOCATION:Highbury Stadium\, Fleetwood\, Lancashire\, England
+GEO:53.916497;-3.024722
+URL:https://www.fotmob.com/match/5040319
+DESCRIPTION:⚽ Fleetwood Town × Luton Town (2 - 2)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الثاني\n🗓 السبت 6 
+ ديسمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Highbury Stadiu
+ m، Fleetwood, Lancashire\n⚖️ الحكم: Oliver Yates\n👥 الحض
+ ور: 1,180\n—————\n⚽ Fleetwood Town v Luton Town (2 - 2)\n
+ 🏆 FA Cup — Round 2\n🗓 Sat 06 Dec 2025 · 15:00 UTC\n🏟 Highbury 
+ Stadium, Fleetwood, Lancashire\nReferee: Oliver Yates\nAttendance: 1,180\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Fleetwood Town ضد Luton Town — كأس الا
+ تحاد الإنجليزي | Tomorrow: Fleetwood Town vs Luton Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Fleetwood T
+ own × Luton Town | Kick-off in 30 min: Fleetwood Town vs Luton Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040311@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Grimsby Town vs Wealdstone (4 - 0) — FA Cup
+LOCATION:Blundell Park\, Cleethorpes\, North East Lincolns\, England
+GEO:53.570208;-0.046552
+URL:https://www.fotmob.com/match/5040311
+DESCRIPTION:⚽ Grimsby Town × Wealdstone (4 - 0)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الثاني\n🗓 السبت 6 د
+ يسمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Blundell Park، C
+ leethorpes, North East Lincolns\n⚖️ الحكم: Matthew Russell\n👥 
+ الحضور: 3,655\n—————\n⚽ Grimsby Town v Wealdstone (4 - 0
+ )\n🏆 FA Cup — Round 2\n🗓 Sat 06 Dec 2025 · 15:00 UTC\n🏟 Blunde
+ ll Park, Cleethorpes, North East Lincolns\nReferee: Matthew Russell\nAtten
+ dance: 3,655\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Grimsby Town ضد Wealdstone — كأس الات
+ حاد الإنجليزي | Tomorrow: Grimsby Town vs Wealdstone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Grimsby Tow
+ n × Wealdstone | Kick-off in 30 min: Grimsby Town vs Wealdstone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040317@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Milton Keynes Dons vs Oldham Athletic (3 - 1) — FA Cup
+LOCATION:Stadium MK\, Milton Keynes\, Buckinghamshire\, England
+GEO:52.009691;-0.733595
+URL:https://www.fotmob.com/match/5040317
+DESCRIPTION:⚽ Milton Keynes Dons × Oldham Athletic (3 - 1)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الثاني\n🗓 الس
+ بت 6 ديسمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Stadium 
+ MK، Milton Keynes, Buckinghamshire\n⚖️ الحكم: Zac Kennard-Kettle
+ \n👥 الحضور: 3,065\n—————\n⚽ Milton Keynes Dons v Oldh
+ am Athletic (3 - 1)\n🏆 FA Cup — Round 2\n🗓 Sat 06 Dec 2025 · 15:0
+ 0 UTC\n🏟 Stadium MK, Milton Keynes, Buckinghamshire\nReferee: Zac Kenna
+ rd-Kettle\nAttendance: 3,065\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Milton Keynes Dons ضد Oldham Athletic — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Milton Keynes Dons vs Old
+ ham Athletic
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Milton Keyn
+ es Dons × Oldham Athletic | Kick-off in 30 min: Milton Keynes Dons vs Old
+ ham Athletic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040315@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Peterborough United vs Barnsley (0 - 1) — FA Cup
+LOCATION:Weston Homes Stadium\, Peterborough\, England
+GEO:52.564692;-0.240408
+URL:https://www.fotmob.com/match/5040315
+DESCRIPTION:⚽ Peterborough United × Barnsley (0 - 1)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الثاني\n🗓 السبت 6
+  ديسمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Weston Homes S
+ tadium، Peterborough\n⚖️ الحكم: Alan Young\n👥 الحضور: 4
+ ,157\n—————\n⚽ Peterborough United v Barnsley (0 - 1)\n🏆 FA
+  Cup — Round 2\n🗓 Sat 06 Dec 2025 · 15:00 UTC\n🏟 Weston Homes Sta
+ dium, Peterborough\nReferee: Alan Young\nAttendance: 4,157\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Peterborough United ضد Barnsley — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Peterborough United vs Barnsley
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Peterboroug
+ h United × Barnsley | Kick-off in 30 min: Peterborough United vs Barnsley
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5041960@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Port Vale vs Bristol Rovers (1 - 0) — FA Cup
+LOCATION:Vale Park\, Stoke-on-Trent\, Staffordshire\, England
+GEO:53.050078;-2.192644
+URL:https://www.fotmob.com/match/5041960
+DESCRIPTION:⚽ Port Vale × Bristol Rovers (1 - 0)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الثاني\n🗓 السبت 6 د
+ يسمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Vale Park، Stoke
+ -on-Trent, Staffordshire\n⚖️ الحكم: Ross Joyce\n👥 الحضور
+ : 3,227\n—————\n⚽ Port Vale v Bristol Rovers (1 - 0)\n🏆 FA 
+ Cup — Round 2\n🗓 Sat 06 Dec 2025 · 15:00 UTC\n🏟 Vale Park, Stoke-
+ on-Trent, Staffordshire\nReferee: Ross Joyce\nAttendance: 3,227\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Port Vale ضد Bristol Rovers — كأس الات
+ حاد الإنجليزي | Tomorrow: Port Vale vs Bristol Rovers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Port Vale 
+ × Bristol Rovers | Kick-off in 30 min: Port Vale vs Bristol Rovers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040321@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Stockport County vs Cambridge United (0 - 0) — FA Cup
+LOCATION:Edgeley Park\, Stockport\, Greater Manchester\, England
+GEO:53.399688;-2.166420
+URL:https://www.fotmob.com/match/5040321
+DESCRIPTION:⚽ Stockport County × Cambridge United (0 - 0)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الثاني\n🗓 الس
+ بت 6 ديسمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Edgeley 
+ Park، Stockport, Greater Manchester\n⚖️ الحكم: Richard Eley\n
+ 👥 الحضور: 5,105\n—————\n⚽ Stockport County v Cambridg
+ e United (0 - 0)\n🏆 FA Cup — Round 2\n🗓 Sat 06 Dec 2025 · 15:00 U
+ TC\n🏟 Edgeley Park, Stockport, Greater Manchester\nReferee: Richard Ele
+ y\nAttendance: 5,105\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Stockport County ضد Cambridge United — كأس
+  الاتحاد الإنجليزي | Tomorrow: Stockport County vs Cambrid
+ ge United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Stockport C
+ ounty × Cambridge United | Kick-off in 30 min: Stockport County vs Cambri
+ dge United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040313@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Swindon Town vs Bolton Wanderers (4 - 0) — FA Cup
+LOCATION:The Nigel Eady County Ground\, Swindon\, Wiltshire\, England
+GEO:51.564475;-1.771097
+URL:https://www.fotmob.com/match/5040313
+DESCRIPTION:⚽ Swindon Town × Bolton Wanderers (4 - 0)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الثاني\n🗓 السبت
+  6 ديسمبر 2025 · 18:00 بتوقيت الرياض\n🏟 The Nigel Ea
+ dy County Ground، Swindon, Wiltshire\n⚖️ الحكم: Lee Swabey\n👥
+  الحضور: 9,364\n—————\n⚽ Swindon Town v Bolton Wanderers
+  (4 - 0)\n🏆 FA Cup — Round 2\n🗓 Sat 06 Dec 2025 · 15:00 UTC\n🏟
+  The Nigel Eady County Ground, Swindon, Wiltshire\nReferee: Lee Swabey\nAt
+ tendance: 9,364\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Swindon Town ضد Bolton Wanderers — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Swindon Town vs Bolton Wandere
+ rs
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Swindon Tow
+ n × Bolton Wanderers | Kick-off in 30 min: Swindon Town vs Bolton Wandere
+ rs
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040318@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Wigan Athletic vs Barrow (2 - 2) — FA Cup
+LOCATION:The Brick Community Stadium\, Wigan\, England
+GEO:53.547655;-2.654032
+URL:https://www.fotmob.com/match/5040318
+DESCRIPTION:⚽ Wigan Athletic × Barrow (2 - 2)\n🏆 كأس الاتحا
+ د الإنجليزي — الدور الثاني\n🗓 السبت 6 دي
+ سمبر 2025 · 18:00 بتوقيت الرياض\n🏟 The Brick Community
+  Stadium، Wigan\n⚖️ الحكم: Martin Coy\n—————\n⚽ Wiga
+ n Athletic v Barrow (2 - 2)\n🏆 FA Cup — Round 2\n🗓 Sat 06 Dec 2025
+  · 15:00 UTC\n🏟 The Brick Community Stadium, Wigan\nReferee: Martin Co
+ y\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Wigan Athletic ضد Barrow — كأس الاتح
+ اد الإنجليزي | Tomorrow: Wigan Athletic vs Barrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Wigan Athle
+ tic × Barrow | Kick-off in 30 min: Wigan Athletic vs Barrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040312@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251206T171500Z
+DTEND:20251206T191500Z
+SUMMARY:Sutton United vs Shrewsbury Town (1 - 2) — FA Cup
+LOCATION:VBS Community Stadium\, Sutton\, Surrey\, England
+GEO:51.367603;-0.204339
+URL:https://www.fotmob.com/match/5040312
+DESCRIPTION:⚽ Sutton United × Shrewsbury Town (1 - 2)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الثاني\n🗓 السبت
+  6 ديسمبر 2025 · 20:15 بتوقيت الرياض\n🏟 VBS Communit
+ y Stadium، Sutton, Surrey\n⚖️ الحكم: Jacob Miles\n👥 الحض
+ ور: 2,505\n—————\n⚽ Sutton United v Shrewsbury Town (1 - 2)\
+ n🏆 FA Cup — Round 2\n🗓 Sat 06 Dec 2025 · 17:15 UTC\n🏟 VBS Comm
+ unity Stadium, Sutton, Surrey\nReferee: Jacob Miles\nAttendance: 2,505\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Sutton United ضد Shrewsbury Town — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Sutton United vs Shrewsbury To
+ wn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Sutton Unit
+ ed × Shrewsbury Town | Kick-off in 30 min: Sutton United vs Shrewsbury To
+ wn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040327@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251206T193000Z
+DTEND:20251206T213000Z
+SUMMARY:Chesterfield vs Doncaster Rovers (1 - 2) — FA Cup
+LOCATION:SMH Group Stadium\, Chesterfield\, Derbyshire\, England
+GEO:53.253590;-1.426195
+URL:https://www.fotmob.com/match/5040327
+DESCRIPTION:⚽ Chesterfield × Doncaster Rovers (1 - 2)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الثاني\n🗓 السبت
+  6 ديسمبر 2025 · 22:30 بتوقيت الرياض\n🏟 SMH Group St
+ adium، Chesterfield, Derbyshire\n⚖️ الحكم: Neil Hair\n👥 ال
+ حضور: 6,175\n—————\n⚽ Chesterfield v Doncaster Rovers (1 -
+  2)\n🏆 FA Cup — Round 2\n🗓 Sat 06 Dec 2025 · 19:30 UTC\n🏟 SMH 
+ Group Stadium, Chesterfield, Derbyshire\nReferee: Neil Hair\nAttendance: 6
+ ,175\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Chesterfield ضد Doncaster Rovers — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Chesterfield vs Doncaster Rove
+ rs
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Chesterfiel
+ d × Doncaster Rovers | Kick-off in 30 min: Chesterfield vs Doncaster Rove
+ rs
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040310@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251207T123000Z
+DTEND:20251207T143000Z
+SUMMARY:Slough Town vs Macclesfield FC (1 - 3) — FA Cup
+LOCATION:Arbour Park\, Slough\, Buckinghamshire\, England
+GEO:51.519855;-0.588333
+URL:https://www.fotmob.com/match/5040310
+DESCRIPTION:⚽ Slough Town × Macclesfield FC (1 - 3)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الثاني\n🗓 الأحد 7
+  ديسمبر 2025 · 15:30 بتوقيت الرياض\n🏟 Arbour Park، 
+ Slough, Buckinghamshire\n⚖️ الحكم: Aaron Farmer\n👥 الحضو
+ ر: 2,500\n—————\n⚽ Slough Town v Macclesfield FC (1 - 3)\n
+ 🏆 FA Cup — Round 2\n🗓 Sun 07 Dec 2025 · 12:30 UTC\n🏟 Arbour Pa
+ rk, Slough, Buckinghamshire\nReferee: Aaron Farmer\nAttendance: 2,500\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Slough Town ضد Macclesfield FC — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Slough Town vs Macclesfield FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Slough Town
+  × Macclesfield FC | Kick-off in 30 min: Slough Town vs Macclesfield FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040316@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251207T143000Z
+DTEND:20251207T163000Z
+SUMMARY:Boreham Wood vs Newport County (3 - 0) — FA Cup
+LOCATION:Mangata Pay UK Stadium\, Borehamwood\, Hertfordshire\, England
+GEO:51.661935;-0.272384
+URL:https://www.fotmob.com/match/5040316
+DESCRIPTION:⚽ Boreham Wood × Newport County (3 - 0)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الثاني\n🗓 الأحد 7
+  ديسمبر 2025 · 17:30 بتوقيت الرياض\n🏟 Mangata Pay UK
+  Stadium، Borehamwood, Hertfordshire\n⚖️ الحكم: Paul Howard\n
+ 👥 الحضور: 1,825\n—————\n⚽ Boreham Wood v Newport Coun
+ ty (3 - 0)\n🏆 FA Cup — Round 2\n🗓 Sun 07 Dec 2025 · 14:30 UTC\n
+ 🏟 Mangata Pay UK Stadium, Borehamwood, Hertfordshire\nReferee: Paul How
+ ard\nAttendance: 1,825\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Boreham Wood ضد Newport County — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Boreham Wood vs Newport County
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Boreham Woo
+ d × Newport County | Kick-off in 30 min: Boreham Wood vs Newport County
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040324@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251207T153000Z
+DTEND:20251207T173000Z
+SUMMARY:Gateshead FC vs Walsall (0 - 2) — FA Cup
+LOCATION:Gateshead International Stadium\, Gateshead\, Tyne and Wear\, Engl
+ and
+GEO:54.961010;-1.579676
+URL:https://www.fotmob.com/match/5040324
+DESCRIPTION:⚽ Gateshead FC × Walsall (0 - 2)\n🏆 كأس الاتحاد
+  الإنجليزي — الدور الثاني\n🗓 الأحد 7 ديس
+ مبر 2025 · 18:30 بتوقيت الرياض\n🏟 Gateshead Internation
+ al Stadium، Gateshead, Tyne and Wear\n⚖️ الحكم: James Oldham\n
+ 👥 الحضور: 1,608\n—————\n⚽ Gateshead FC v Walsall (0 -
+  2)\n🏆 FA Cup — Round 2\n🗓 Sun 07 Dec 2025 · 15:30 UTC\n🏟 Gate
+ shead International Stadium, Gateshead, Tyne and Wear\nReferee: James Oldh
+ am\nAttendance: 1,608\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Gateshead FC ضد Walsall — كأس الاتحا
+ د الإنجليزي | Tomorrow: Gateshead FC vs Walsall
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Gateshead F
+ C × Walsall | Kick-off in 30 min: Gateshead FC vs Walsall
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040323@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251207T173000Z
+DTEND:20251207T193000Z
+SUMMARY:Blackpool vs Carlisle United (4 - 1) — FA Cup
+LOCATION:Bloomfield Road\, Blackpool\, Lancashire\, England
+GEO:53.804902;-3.048213
+URL:https://www.fotmob.com/match/5040323
+DESCRIPTION:⚽ Blackpool × Carlisle United (4 - 1)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الثاني\n🗓 الأحد 7 
+ ديسمبر 2025 · 20:30 بتوقيت الرياض\n🏟 Bloomfield Road
+ ، Blackpool, Lancashire\n⚖️ الحكم: Tom Reeves\n👥 الحضور
+ : 5,958\n—————\n⚽ Blackpool v Carlisle United (4 - 1)\n🏆 FA
+  Cup — Round 2\n🗓 Sun 07 Dec 2025 · 17:30 UTC\n🏟 Bloomfield Road,
+  Blackpool, Lancashire\nReferee: Tom Reeves\nAttendance: 5,958\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Blackpool ضد Carlisle United — كأس الا
+ تحاد الإنجليزي | Tomorrow: Blackpool vs Carlisle United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Blackpool 
+ × Carlisle United | Kick-off in 30 min: Blackpool vs Carlisle United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040322@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251208T193000Z
+DTEND:20251208T213000Z
+SUMMARY:Brackley Town vs Burton Albion (1 - 3) — FA Cup
+LOCATION:St. James Park\, Brackley\, Northamptonshire\, England
+GEO:52.024594;-1.144075
+URL:https://www.fotmob.com/match/5040322
+DESCRIPTION:⚽ Brackley Town × Burton Albion (1 - 3)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الثاني\n🗓 الاثني
+ ن 8 ديسمبر 2025 · 22:30 بتوقيت الرياض\n🏟 St. James 
+ Park، Brackley, Northamptonshire\n⚖️ الحكم: Alex Chilowicz\n👥
+  الحضور: 2,978\n—————\n⚽ Brackley Town v Burton Albion (
+ 1 - 3)\n🏆 FA Cup — Round 2\n🗓 Mon 08 Dec 2025 · 19:30 UTC\n🏟 S
+ t. James Park, Brackley, Northamptonshire\nReferee: Alex Chilowicz\nAttend
+ ance: 2,978\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Brackley Town ضد Burton Albion — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Brackley Town vs Burton Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Brackley To
+ wn × Burton Albion | Kick-off in 30 min: Brackley Town vs Burton Albion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089916@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260109T193000Z
+DTEND:20260109T213000Z
+SUMMARY:Milton Keynes Dons vs Oxford United (1 - 1) — FA Cup
+LOCATION:Stadium MK\, Milton Keynes\, Buckinghamshire\, England
+GEO:52.009691;-0.733595
+URL:https://www.fotmob.com/match/5089916
+DESCRIPTION:⚽ Milton Keynes Dons × Oxford United (1 - 1)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الثالث\n🗓 الجم
+ عة 9 يناير 2026 · 22:30 بتوقيت الرياض\n🏟 Stadium MK
+ ، Milton Keynes, Buckinghamshire\n⚖️ الحكم: Paul Howard\n👥 ا
+ لحضور: 5,902\n—————\n⚽ Milton Keynes Dons v Oxford United
+  (1 - 1)\n🏆 FA Cup — Round 3\n🗓 Fri 09 Jan 2026 · 19:30 UTC\n🏟
+  Stadium MK, Milton Keynes, Buckinghamshire\nReferee: Paul Howard\nAttenda
+ nce: 5,902\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Milton Keynes Dons ضد Oxford United — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Milton Keynes Dons vs Oxford
+  United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Milton Keyn
+ es Dons × Oxford United | Kick-off in 30 min: Milton Keynes Dons vs Oxfor
+ d United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089896@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260109T193000Z
+DTEND:20260109T213000Z
+SUMMARY:Port Vale vs Fleetwood Town (1 - 0) — FA Cup
+LOCATION:Vale Park\, Stoke-on-Trent\, Staffordshire\, England
+GEO:53.050078;-2.192644
+URL:https://www.fotmob.com/match/5089896
+DESCRIPTION:⚽ Port Vale × Fleetwood Town (1 - 0)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الثالث\n🗓 الجمعة 9 
+ يناير 2026 · 22:30 بتوقيت الرياض\n🏟 Vale Park، Stoke
+ -on-Trent, Staffordshire\n⚖️ الحكم: Ben Speedie\n👥 الحضو
+ ر: 3,366\n—————\n⚽ Port Vale v Fleetwood Town (1 - 0)\n🏆 F
+ A Cup — Round 3\n🗓 Fri 09 Jan 2026 · 19:30 UTC\n🏟 Vale Park, Stok
+ e-on-Trent, Staffordshire\nReferee: Ben Speedie\nAttendance: 3,366\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Port Vale ضد Fleetwood Town — كأس الات
+ حاد الإنجليزي | Tomorrow: Port Vale vs Fleetwood Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Port Vale 
+ × Fleetwood Town | Kick-off in 30 min: Port Vale vs Fleetwood Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089897@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260109T193000Z
+DTEND:20260109T213000Z
+SUMMARY:Preston North End vs Wigan Athletic (0 - 1) — FA Cup
+LOCATION:Deepdale\, Preston\, England
+GEO:53.772181;-2.688432
+URL:https://www.fotmob.com/match/5089897
+DESCRIPTION:⚽ Preston North End × Wigan Athletic (0 - 1)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الثالث\n🗓 الجم
+ عة 9 يناير 2026 · 22:30 بتوقيت الرياض\n🏟 Deepdale،
+  Preston\n⚖️ الحكم: Oliver Langford\n👥 الحضور: 14,366\n
+ —————\n⚽ Preston North End v Wigan Athletic (0 - 1)\n🏆 FA C
+ up — Round 3\n🗓 Fri 09 Jan 2026 · 19:30 UTC\n🏟 Deepdale, Preston\
+ nReferee: Oliver Langford\nAttendance: 14,366\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Preston North End ضد Wigan Athletic — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Preston North End vs Wigan A
+ thletic
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Preston Nor
+ th End × Wigan Athletic | Kick-off in 30 min: Preston North End vs Wigan 
+ Athletic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089899@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260109T193000Z
+DTEND:20260109T213000Z
+SUMMARY:Wrexham vs Nottingham Forest (3 - 3) — FA Cup
+LOCATION:STōK Cae Ras\, Wrexham (Wrecsam)\, Wales
+GEO:53.051941;-3.003819
+URL:https://www.fotmob.com/match/5089899
+DESCRIPTION:⚽ Wrexham × نوتنغهام فورست (3 - 3)\n🏆 كأس
+  الاتحاد الإنجليزي — الدور الثالث\n🗓 ال
+ جمعة 9 يناير 2026 · 22:30 بتوقيت الرياض\n🏟 STōK 
+ Cae Ras، Wrexham (Wrecsam)\n⚖️ الحكم: Paul Tierney\n👥 الح
+ ضور: 10,603\n—————\n⚽ Wrexham v Nottingham Forest (3 - 3)\n
+ 🏆 FA Cup — Round 3\n🗓 Fri 09 Jan 2026 · 19:30 UTC\n🏟 STōK Cae
+  Ras, Wrexham (Wrecsam)\nReferee: Paul Tierney\nAttendance: 10,603\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Wrexham ضد نوتنغهام فورست — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Wrexham vs Nottingham For
+ est
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Wrexham × 
+ نوتنغهام فورست | Kick-off in 30 min: Wrexham vs Nottingham Fo
+ rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089917@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T121500Z
+DTEND:20260110T141500Z
+SUMMARY:Cheltenham Town vs Leicester City (0 - 2) — FA Cup
+LOCATION:EV Charger Points Stadium\, Cheltenham\, Gloucestershire\, England
+GEO:51.906166;-2.060197
+URL:https://www.fotmob.com/match/5089917
+DESCRIPTION:⚽ Cheltenham Town × Leicester City (0 - 2)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الثالث\n🗓 السبت
+  10 يناير 2026 · 15:15 بتوقيت الرياض\n🏟 EV Charger Po
+ ints Stadium، Cheltenham, Gloucestershire\n⚖️ الحكم: James Linin
+ gton\n👥 الحضور: 6,677\n—————\n⚽ Cheltenham Town v Lei
+ cester City (0 - 2)\n🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 12:1
+ 5 UTC\n🏟 EV Charger Points Stadium, Cheltenham, Gloucestershire\nRefere
+ e: James Linington\nAttendance: 6,677\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Cheltenham Town ضد Leicester City — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Cheltenham Town vs Leicester C
+ ity
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Cheltenham 
+ Town × Leicester City | Kick-off in 30 min: Cheltenham Town vs Leicester 
+ City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089905@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T121500Z
+DTEND:20260110T141500Z
+SUMMARY:Everton vs Sunderland (1 - 1) — FA Cup
+LOCATION:Hill Dickinson Stadium\, Liverpool\, Merseyside\, England
+GEO:53.424981;-3.002691
+URL:https://www.fotmob.com/match/5089905
+DESCRIPTION:⚽ إيفرتون × سندرلاند (1 - 1)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الثالث\n🗓 السب
+ ت 10 يناير 2026 · 15:15 بتوقيت الرياض\n🏟 Hill Dickin
+ son Stadium، Liverpool, Merseyside\n⚖️ الحكم: John Brooks\n👥 
+ الحضور: 51,588\n—————\n⚽ Everton v Sunderland (1 - 1)\n
+ 🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 12:15 UTC\n🏟 Hill Dick
+ inson Stadium, Liverpool, Merseyside\nReferee: John Brooks\nAttendance: 51
+ ,588\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد سندرلاند — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Everton vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × سندرلاند | Kick-off in 30 min: Everton vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089921@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T121500Z
+DTEND:20260110T141500Z
+SUMMARY:Macclesfield FC vs Crystal Palace (2 - 1) — FA Cup
+LOCATION:The Leasing.com Stadium\, Macclesfield\, Cheshire\, England
+GEO:53.242857;-2.127271
+URL:https://www.fotmob.com/match/5089921
+DESCRIPTION:⚽ Macclesfield FC × كريستال بالاس (2 - 1)\n🏆 
+ كأس الاتحاد الإنجليزي — الدور الثالث\n🗓
+  السبت 10 يناير 2026 · 15:15 بتوقيت الرياض\n🏟 Th
+ e Leasing.com Stadium، Macclesfield, Cheshire\n⚖️ الحكم: Tim Rob
+ inson\n👥 الحضور: 5,348\n—————\n⚽ Macclesfield FC v Cr
+ ystal Palace (2 - 1)\n🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 12:
+ 15 UTC\n🏟 The Leasing.com Stadium, Macclesfield, Cheshire\nReferee: Tim
+  Robinson\nAttendance: 5,348\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Macclesfield FC ضد كريستال بالاس 
+ — كأس الاتحاد الإنجليزي | Tomorrow: Macclesfield FC v
+ s Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Macclesfiel
+ d FC × كريستال بالاس | Kick-off in 30 min: Macclesfield FC vs
+  Crystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089893@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T121500Z
+DTEND:20260110T141500Z
+SUMMARY:Wolverhampton Wanderers vs Shrewsbury Town (6 - 1) — FA Cup
+LOCATION:Molineux Stadium\, Wolverhampton\, West Midlands\, England
+GEO:52.590238;-2.130433
+URL:https://www.fotmob.com/match/5089893
+DESCRIPTION:⚽ وولفرهامبتون × Shrewsbury Town (6 - 1)\n🏆 
+ كأس الاتحاد الإنجليزي — الدور الثالث\n🗓
+  السبت 10 يناير 2026 · 15:15 بتوقيت الرياض\n🏟 Mo
+ lineux Stadium، Wolverhampton, West Midlands\n⚖️ الحكم: Stephen 
+ Martin\n👥 الحضور: 24,258\n—————\n⚽ Wolverhampton Wand
+ erers v Shrewsbury Town (6 - 1)\n🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 
+ 2026 · 12:15 UTC\n🏟 Molineux Stadium, Wolverhampton, West Midlands\nRe
+ feree: Stephen Martin\nAttendance: 24,258\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وولفرهامبتون ضد Shrewsbury Town —
+  كأس الاتحاد الإنجليزي | Tomorrow: Wolverhampton Wander
+ ers vs Shrewsbury Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وولفر
+ هامبتون × Shrewsbury Town | Kick-off in 30 min: Wolverhampton Wand
+ erers vs Shrewsbury Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5090063@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T150000Z
+DTEND:20260110T170000Z
+SUMMARY:Boreham Wood vs Burton Albion (0 - 5) — FA Cup
+LOCATION:Mangata Developments Stadium Meadow Park\, Borehamwood\, Hertfords
+ hire\, England
+GEO:51.661935;-0.272384
+URL:https://www.fotmob.com/match/5090063
+DESCRIPTION:⚽ Boreham Wood × Burton Albion (0 - 5)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الثالث\n🗓 السبت 10 
+ يناير 2026 · 18:00 بتوقيت الرياض\n🏟 Mangata Developme
+ nts Stadium Meadow Park، Borehamwood, Hertfordshire\n⚖️ الحكم: A
+ ndrew Humphries\n👥 الحضور: 2,201\n—————\n⚽ Boreham Wo
+ od v Burton Albion (0 - 5)\n🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 
+ · 15:00 UTC\n🏟 Mangata Developments Stadium Meadow Park, Borehamwood, 
+ Hertfordshire\nReferee: Andrew Humphries\nAttendance: 2,201\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Boreham Wood ضد Burton Albion — كأس الا
+ تحاد الإنجليزي | Tomorrow: Boreham Wood vs Burton Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Boreham Woo
+ d × Burton Albion | Kick-off in 30 min: Boreham Wood vs Burton Albion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089907@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T150000Z
+DTEND:20260110T170000Z
+SUMMARY:Burnley vs Millwall (5 - 1) — FA Cup
+LOCATION:Turf Moor\, Burnley\, England
+GEO:53.788984;-2.230225
+URL:https://www.fotmob.com/match/5089907
+DESCRIPTION:⚽ بيرنلي × Millwall (5 - 1)\n🏆 كأس الاتحا
+ د الإنجليزي — الدور الثالث\n🗓 السبت 10 ين
+ اير 2026 · 18:00 بتوقيت الرياض\n🏟 Turf Moor، Burnley\n
+ ⚖️ الحكم: Anthony Backhouse\n👥 الحضور: 6,856\n———
+ ——\n⚽ Burnley v Millwall (5 - 1)\n🏆 FA Cup — Round 3\n🗓 Sat 
+ 10 Jan 2026 · 15:00 UTC\n🏟 Turf Moor, Burnley\nReferee: Anthony Backho
+ use\nAttendance: 6,856\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيرنلي ضد Millwall — كأس الاتح
+ اد الإنجليزي | Tomorrow: Burnley vs Millwall
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيرنل
+ ي × Millwall | Kick-off in 30 min: Burnley vs Millwall
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089894@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T150000Z
+DTEND:20260110T170000Z
+SUMMARY:Doncaster Rovers vs Southampton (2 - 3) — FA Cup
+LOCATION:Eco-Power Stadium\, Doncaster\, South Yorkshire\, England
+GEO:53.509821;-1.113758
+URL:https://www.fotmob.com/match/5089894
+DESCRIPTION:⚽ Doncaster Rovers × ساوثهامبتون (2 - 3)\n🏆 ك
+ أس الاتحاد الإنجليزي — الدور الثالث\n🗓 
+ السبت 10 يناير 2026 · 18:00 بتوقيت الرياض\n🏟 Eco
+ -Power Stadium، Doncaster, South Yorkshire\n⚖️ الحكم: John Busby
+ \n👥 الحضور: 7,671\n—————\n⚽ Doncaster Rovers v Southa
+ mpton (2 - 3)\n🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 15:00 UTC\
+ n🏟 Eco-Power Stadium, Doncaster, South Yorkshire\nReferee: John Busby\n
+ Attendance: 7,671\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Doncaster Rovers ضد ساوثهامبتون — 
+ كأس الاتحاد الإنجليزي | Tomorrow: Doncaster Rovers vs S
+ outhampton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Doncaster R
+ overs × ساوثهامبتون | Kick-off in 30 min: Doncaster Rovers vs 
+ Southampton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089904@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T150000Z
+DTEND:20260110T170000Z
+SUMMARY:Fulham vs Middlesbrough (3 - 1) — FA Cup
+LOCATION:Craven Cottage\, London\, England
+GEO:51.474898;-0.221647
+URL:https://www.fotmob.com/match/5089904
+DESCRIPTION:⚽ فولهام × Middlesbrough (3 - 1)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الثالث\n🗓 السبت 10 
+ يناير 2026 · 18:00 بتوقيت الرياض\n🏟 Craven Cottage، 
+ London\n⚖️ الحكم: Lewis Smith\n👥 الحضور: 20,675\n——
+ ———\n⚽ Fulham v Middlesbrough (3 - 1)\n🏆 FA Cup — Round 3\n
+ 🗓 Sat 10 Jan 2026 · 15:00 UTC\n🏟 Craven Cottage, London\nReferee: L
+ ewis Smith\nAttendance: 20,675\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد Middlesbrough — كأس الا
+ تحاد الإنجليزي | Tomorrow: Fulham vs Middlesbrough
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × Middlesbrough | Kick-off in 30 min: Fulham vs Middlesbrough
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089898@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T150000Z
+DTEND:20260110T170000Z
+SUMMARY:Ipswich Town vs Blackpool (2 - 1) — FA Cup
+LOCATION:Portman Road\, Ipswich\, Suffolk\, England
+GEO:52.054950;1.145263
+URL:https://www.fotmob.com/match/5089898
+DESCRIPTION:⚽ إبسويتش تاون × Blackpool (2 - 1)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الثالث\n🗓 الس
+ بت 10 يناير 2026 · 18:00 بتوقيت الرياض\n🏟 Portman R
+ oad، Ipswich, Suffolk\n⚖️ الحكم: Thomas Parsons\n👥 الحضو
+ ر: 27,527\n—————\n⚽ Ipswich Town v Blackpool (2 - 1)\n🏆 FA
+  Cup — Round 3\n🗓 Sat 10 Jan 2026 · 15:00 UTC\n🏟 Portman Road, Ip
+ swich, Suffolk\nReferee: Thomas Parsons\nAttendance: 27,527\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد Blackpool — كأس
+  الاتحاد الإنجليزي | Tomorrow: Ipswich Town vs Blackpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × Blackpool | Kick-off in 30 min: Ipswich Town vs Blackpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089901@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T150000Z
+DTEND:20260110T170000Z
+SUMMARY:Manchester City vs Exeter City (10 - 1) — FA Cup
+LOCATION:Etihad Stadium\, Manchester\, England
+GEO:53.483152;-2.200409
+URL:https://www.fotmob.com/match/5089901
+DESCRIPTION:⚽ مانشستر سيتي × Exeter City (10 - 1)\n🏆 كأ
+ س الاتحاد الإنجليزي — الدور الثالث\n🗓 ا
+ لسبت 10 يناير 2026 · 18:00 بتوقيت الرياض\n🏟 Etiha
+ d Stadium، Manchester\n⚖️ الحكم: Adam Herczeg\n👥 الحضور
+ : 50,705\n—————\n⚽ Manchester City v Exeter City (10 - 1)\n
+ 🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 15:00 UTC\n🏟 Etihad St
+ adium, Manchester\nReferee: Adam Herczeg\nAttendance: 50,705\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد Exeter City — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Manchester City vs Exeter
+  City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × Exeter City | Kick-off in 30 min: Manchester City vs Exet
+ er City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089915@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T150000Z
+DTEND:20260110T170000Z
+SUMMARY:Newcastle United vs AFC Bournemouth (3 - 3) — FA Cup
+LOCATION:St. James' Park\, Newcastle upon Tyne\, England
+GEO:54.975540;-1.621621
+URL:https://www.fotmob.com/match/5089915
+DESCRIPTION:⚽ نيوكاسل يونايتد × بورنموث (3 - 3)\n
+ 🏆 كأس الاتحاد الإنجليزي — الدور الثالث\
+ n🗓 السبت 10 يناير 2026 · 18:00 بتوقيت الرياض\n
+ 🏟 St. James' Park، Newcastle upon Tyne\n⚖️ الحكم: Thomas Bram
+ all\n👥 الحضور: 51,563\n—————\n⚽ Newcastle United v AF
+ C Bournemouth (3 - 3)\n🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 15
+ :00 UTC\n🏟 St. James' Park, Newcastle upon Tyne\nReferee: Thomas Bramal
+ l\nAttendance: 51,563\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل يونايتد ضد بورنموث
+  — كأس الاتحاد الإنجليزي | Tomorrow: Newcastle United
+  vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل يونايتد × بورنموث | Kick-off in 30 min: Newcastle Unit
+ ed vs AFC Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089903@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T150000Z
+DTEND:20260110T170000Z
+SUMMARY:Sheffield Wednesday vs Brentford (0 - 2) — FA Cup
+LOCATION:Hillsborough\, Sheffield\, England
+GEO:53.411423;-1.500684
+URL:https://www.fotmob.com/match/5089903
+DESCRIPTION:⚽ Sheffield Wednesday × برينتفورد (0 - 2)\n🏆 ك
+ أس الاتحاد الإنجليزي — الدور الثالث\n🗓 
+ السبت 10 يناير 2026 · 18:00 بتوقيت الرياض\n🏟 Hil
+ lsborough، Sheffield\n⚖️ الحكم: Joshua Smith\n👥 الحضور:
+  10,642\n—————\n⚽ Sheffield Wednesday v Brentford (0 - 2)\n
+ 🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 15:00 UTC\n🏟 Hillsboro
+ ugh, Sheffield\nReferee: Joshua Smith\nAttendance: 10,642\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Sheffield Wednesday ضد برينتفورد — 
+ كأس الاتحاد الإنجليزي | Tomorrow: Sheffield Wednesday v
+ s Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Sheffield W
+ ednesday × برينتفورد | Kick-off in 30 min: Sheffield Wednesday v
+ s Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089920@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T150000Z
+DTEND:20260110T170000Z
+SUMMARY:Stoke City vs Coventry City (1 - 0) — FA Cup
+LOCATION:bet365 Stadium\, Stoke-on-Trent\, Staffordshire\, England
+GEO:52.988405;-2.175430
+URL:https://www.fotmob.com/match/5089920
+DESCRIPTION:⚽ Stoke City × كوفنتري (1 - 0)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الثالث\n🗓 السبت 10 
+ يناير 2026 · 18:00 بتوقيت الرياض\n🏟 bet365 Stadium، 
+ Stoke-on-Trent, Staffordshire\n⚖️ الحكم: Tom Nield\n👥 الحض
+ ور: 13,894\n—————\n⚽ Stoke City v Coventry City (1 - 0)\n
+ 🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 15:00 UTC\n🏟 bet365 St
+ adium, Stoke-on-Trent, Staffordshire\nReferee: Tom Nield\nAttendance: 13,8
+ 94\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Stoke City ضد كوفنتري — كأس الا
+ تحاد الإنجليزي | Tomorrow: Stoke City vs Coventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Stoke City 
+ × كوفنتري | Kick-off in 30 min: Stoke City vs Coventry City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089919@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T174500Z
+DTEND:20260110T194500Z
+SUMMARY:Bristol City vs Watford (5 - 1) — FA Cup
+LOCATION:Ashton Gate Stadium\, Bristol\, England
+GEO:51.440123;-2.620278
+URL:https://www.fotmob.com/match/5089919
+DESCRIPTION:⚽ Bristol City × Watford (5 - 1)\n🏆 كأس الاتحاد
+  الإنجليزي — الدور الثالث\n🗓 السبت 10 ينا
+ ير 2026 · 20:45 بتوقيت الرياض\n🏟 Ashton Gate Stadium، B
+ ristol\n⚖️ الحكم: Tom Reeves\n👥 الحضور: 13,312\n——
+ ———\n⚽ Bristol City v Watford (5 - 1)\n🏆 FA Cup — Round 3\n
+ 🗓 Sat 10 Jan 2026 · 17:45 UTC\n🏟 Ashton Gate Stadium, Bristol\nRefe
+ ree: Tom Reeves\nAttendance: 13,312\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Bristol City ضد Watford — كأس الاتحا
+ د الإنجليزي | Tomorrow: Bristol City vs Watford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Bristol Cit
+ y × Watford | Kick-off in 30 min: Bristol City vs Watford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089918@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T174500Z
+DTEND:20260110T194500Z
+SUMMARY:Cambridge United vs Birmingham City (2 - 3) — FA Cup
+LOCATION:Cledara Abbey Stadium\, Cambridge\, Cambridgeshire\, England
+GEO:52.212112;0.154150
+URL:https://www.fotmob.com/match/5089918
+DESCRIPTION:⚽ Cambridge United × Birmingham City (2 - 3)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الثالث\n🗓 السب
+ ت 10 يناير 2026 · 20:45 بتوقيت الرياض\n🏟 Cledara Abb
+ ey Stadium، Cambridge, Cambridgeshire\n⚖️ الحكم: Matthew Corlett
+ \n👥 الحضور: 6,241\n—————\n⚽ Cambridge United v Birmin
+ gham City (2 - 3)\n🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 17:45 
+ UTC\n🏟 Cledara Abbey Stadium, Cambridge, Cambridgeshire\nReferee: Matth
+ ew Corlett\nAttendance: 6,241\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Cambridge United ضد Birmingham City — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Cambridge United vs Birmingh
+ am City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Cambridge U
+ nited × Birmingham City | Kick-off in 30 min: Cambridge United vs Birming
+ ham City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089913@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T174500Z
+DTEND:20260110T194500Z
+SUMMARY:Grimsby Town vs Weston Super Mare (3 - 2) — FA Cup
+LOCATION:Blundell Park\, Cleethorpes\, North East Lincolns\, England
+GEO:53.570208;-0.046552
+URL:https://www.fotmob.com/match/5089913
+DESCRIPTION:⚽ Grimsby Town × Weston Super Mare (3 - 2)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الثالث\n🗓 السبت
+  10 يناير 2026 · 20:45 بتوقيت الرياض\n🏟 Blundell Park
+ ، Cleethorpes, North East Lincolns\n⚖️ الحكم: Martin Coy\n👥 
+ الحضور: 4,851\n—————\n⚽ Grimsby Town v Weston Super Mare
+  (3 - 2)\n🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 17:45 UTC\n🏟
+  Blundell Park, Cleethorpes, North East Lincolns\nReferee: Martin Coy\nAtt
+ endance: 4,851\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Grimsby Town ضد Weston Super Mare — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Grimsby Town vs Weston Super M
+ are
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Grimsby Tow
+ n × Weston Super Mare | Kick-off in 30 min: Grimsby Town vs Weston Super 
+ Mare
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089895@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T174500Z
+DTEND:20260110T194500Z
+SUMMARY:Tottenham Hotspur vs Aston Villa (1 - 2) — FA Cup
+LOCATION:Tottenham Hotspur Stadium\, London\, England
+GEO:51.604217;-0.066229
+URL:https://www.fotmob.com/match/5089895
+DESCRIPTION:⚽ توتنهام × أستون فيلا (1 - 2)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الثالث\n🗓 الس
+ بت 10 يناير 2026 · 20:45 بتوقيت الرياض\n🏟 Tottenham
+  Hotspur Stadium، London\n⚖️ الحكم: Craig Pawson\n👥 الحض
+ ور: 57,718\n—————\n⚽ Tottenham Hotspur v Aston Villa (1 - 2)
+ \n🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 17:45 UTC\n🏟 Tottenh
+ am Hotspur Stadium, London\nReferee: Craig Pawson\nAttendance: 57,718\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توتنهام ضد أستون فيلا — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Tottenham Hotspur vs Asto
+ n Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توتنه
+ ام × أستون فيلا | Kick-off in 30 min: Tottenham Hotspur vs Ast
+ on Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089900@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T200000Z
+DTEND:20260110T220000Z
+SUMMARY:Charlton Athletic vs Chelsea (1 - 5) — FA Cup
+LOCATION:The Valley\, London\, England
+GEO:51.486507;0.036435
+URL:https://www.fotmob.com/match/5089900
+DESCRIPTION:⚽ Charlton Athletic × تشيلسي (1 - 5)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الثالث\n🗓 السبت
+  10 يناير 2026 · 23:00 بتوقيت الرياض\n🏟 The Valley، 
+ London\n⚖️ الحكم: Chris Kavanagh\n👥 الحضور: 26,475\n—
+ ————\n⚽ Charlton Athletic v Chelsea (1 - 5)\n🏆 FA Cup — Rou
+ nd 3\n🗓 Sat 10 Jan 2026 · 20:00 UTC\n🏟 The Valley, London\nReferee:
+  Chris Kavanagh\nAttendance: 26,475\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Charlton Athletic ضد تشيلسي — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Charlton Athletic vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Charlton At
+ hletic × تشيلسي | Kick-off in 30 min: Charlton Athletic vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089910@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260111T120000Z
+DTEND:20260111T140000Z
+SUMMARY:Derby County vs Leeds United (1 - 3) — FA Cup
+LOCATION:Pride Park Stadium\, Derby\, England
+GEO:52.914905;-1.447230
+URL:https://www.fotmob.com/match/5089910
+DESCRIPTION:⚽ Derby County × ليدز يونايتد (1 - 3)\n🏆 كأ
+ س الاتحاد الإنجليزي — الدور الثالث\n🗓 ا
+ لأحد 11 يناير 2026 · 15:00 بتوقيت الرياض\n🏟 Pride
+  Park Stadium، Derby\n⚖️ الحكم: Anthony Taylor\n👥 الحضو
+ ر: 21,741\n—————\n⚽ Derby County v Leeds United (1 - 3)\n🏆
+  FA Cup — Round 3\n🗓 Sun 11 Jan 2026 · 12:00 UTC\n🏟 Pride Park St
+ adium, Derby\nReferee: Anthony Taylor\nAttendance: 21,741\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Derby County ضد ليدز يونايتد — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Derby County vs Leeds U
+ nited
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Derby Count
+ y × ليدز يونايتد | Kick-off in 30 min: Derby County vs Leeds U
+ nited
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089909@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260111T140000Z
+DTEND:20260111T160000Z
+SUMMARY:Portsmouth vs Arsenal (1 - 4) — FA Cup
+LOCATION:Fratton Park\, Portsmouth\, England
+GEO:50.796347;-1.063804
+URL:https://www.fotmob.com/match/5089909
+DESCRIPTION:⚽ Portsmouth × أرسنال (1 - 4)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الثالث\n🗓 الأحد 11 ي
+ ناير 2026 · 17:00 بتوقيت الرياض\n🏟 Fratton Park، Port
+ smouth\n⚖️ الحكم: Tony Harrington\n👥 الحضور: 20,611\n—
+ ————\n⚽ Portsmouth v Arsenal (1 - 4)\n🏆 FA Cup — Round 3\n
+ 🗓 Sun 11 Jan 2026 · 14:00 UTC\n🏟 Fratton Park, Portsmouth\nReferee:
+  Tony Harrington\nAttendance: 20,611\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Portsmouth ضد أرسنال — كأس الات
+ حاد الإنجليزي | Tomorrow: Portsmouth vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Portsmouth 
+ × أرسنال | Kick-off in 30 min: Portsmouth vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089914@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260111T143000Z
+DTEND:20260111T163000Z
+SUMMARY:Hull City vs Blackburn Rovers (0 - 0) — FA Cup
+LOCATION:The MKM Stadium\, Hull\, England
+GEO:53.746240;-0.367640
+URL:https://www.fotmob.com/match/5089914
+DESCRIPTION:⚽ هال سيتي × Blackburn Rovers (0 - 0)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الثالث\n🗓 الأح
+ د 11 يناير 2026 · 17:30 بتوقيت الرياض\n🏟 The MKM Sta
+ dium، Hull\n⚖️ الحكم: William James Finnie\n👥 الحضور: 6
+ ,627\n—————\n⚽ Hull City v Blackburn Rovers (0 - 0)\n🏆 FA C
+ up — Round 3\n🗓 Sun 11 Jan 2026 · 14:30 UTC\n🏟 The MKM Stadium, H
+ ull\nReferee: William James Finnie\nAttendance: 6,627\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد Blackburn Rovers — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Hull City vs Blackburn Rover
+ s
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × Blackburn Rovers | Kick-off in 30 min: Hull City vs Blackburn Rove
+ rs
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089908@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260111T143000Z
+DTEND:20260111T163000Z
+SUMMARY:Norwich City vs Walsall (5 - 1) — FA Cup
+LOCATION:Carrow Road\, Norwich\, Norfolk\, England
+GEO:52.622091;1.309122
+URL:https://www.fotmob.com/match/5089908
+DESCRIPTION:⚽ Norwich City × Walsall (5 - 1)\n🏆 كأس الاتحاد
+  الإنجليزي — الدور الثالث\n🗓 الأحد 11 ينا
+ ير 2026 · 17:30 بتوقيت الرياض\n🏟 Carrow Road، Norwich, 
+ Norfolk\n⚖️ الحكم: Edward Duckworth\n👥 الحضور: 19,776\n
+ —————\n⚽ Norwich City v Walsall (5 - 1)\n🏆 FA Cup — Round
+  3\n🗓 Sun 11 Jan 2026 · 14:30 UTC\n🏟 Carrow Road, Norwich, Norfolk\
+ nReferee: Edward Duckworth\nAttendance: 19,776\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Norwich City ضد Walsall — كأس الاتحا
+ د الإنجليزي | Tomorrow: Norwich City vs Walsall
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Norwich Cit
+ y × Walsall | Kick-off in 30 min: Norwich City vs Walsall
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089923@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260111T143000Z
+DTEND:20260111T163000Z
+SUMMARY:Sheffield United vs Mansfield Town (3 - 4) — FA Cup
+LOCATION:Bramall Lane\, Sheffield\, England
+GEO:53.370346;-1.470864
+URL:https://www.fotmob.com/match/5089923
+DESCRIPTION:⚽ Sheffield United × Mansfield Town (3 - 4)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الثالث\n🗓 الأح
+ د 11 يناير 2026 · 17:30 بتوقيت الرياض\n🏟 Bramall Lan
+ e، Sheffield\n⚖️ الحكم: Gavin Ward\n👥 الحضور: 17,514\n
+ —————\n⚽ Sheffield United v Mansfield Town (3 - 4)\n🏆 FA Cu
+ p — Round 3\n🗓 Sun 11 Jan 2026 · 14:30 UTC\n🏟 Bramall Lane, Sheff
+ ield\nReferee: Gavin Ward\nAttendance: 17,514\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Sheffield United ضد Mansfield Town — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Sheffield United vs Mansfiel
+ d Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Sheffield U
+ nited × Mansfield Town | Kick-off in 30 min: Sheffield United vs Mansfiel
+ d Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089911@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260111T143000Z
+DTEND:20260111T163000Z
+SUMMARY:Swansea City vs West Bromwich Albion (2 - 2) — FA Cup
+LOCATION:Swansea.com Stadium\, Swansea\, Wales
+GEO:51.642771;-3.934704
+URL:https://www.fotmob.com/match/5089911
+DESCRIPTION:⚽ Swansea City × وست بروميتش (2 - 2)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الثالث\n🗓 الأ
+ حد 11 يناير 2026 · 17:30 بتوقيت الرياض\n🏟 Swansea.c
+ om Stadium، Swansea\n⚖️ الحكم: Elliot Bell\n👥 الحضور: 9
+ ,918\n—————\n⚽ Swansea City v West Bromwich Albion (2 - 2)\n
+ 🏆 FA Cup — Round 3\n🗓 Sun 11 Jan 2026 · 14:30 UTC\n🏟 Swansea.c
+ om Stadium, Swansea\nReferee: Elliot Bell\nAttendance: 9,918\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Swansea City ضد وست بروميتش — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Swansea City vs West Brom
+ wich Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Swansea Cit
+ y × وست بروميتش | Kick-off in 30 min: Swansea City vs West Brom
+ wich Albion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089902@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260111T143000Z
+DTEND:20260111T163000Z
+SUMMARY:West Ham United vs Queens Park Rangers (2 - 1) — FA Cup
+LOCATION:London Stadium\, London\, England
+GEO:51.538688;-0.016501
+URL:https://www.fotmob.com/match/5089902
+DESCRIPTION:⚽ وست هام × Queens Park Rangers (2 - 1)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الثالث\n🗓 الأ
+ حد 11 يناير 2026 · 17:30 بتوقيت الرياض\n🏟 London St
+ adium، London\n⚖️ الحكم: Thomas Kirk\n👥 الحضور: 58,669\
+ n—————\n⚽ West Ham United v Queens Park Rangers (2 - 1)\n🏆 
+ FA Cup — Round 3\n🗓 Sun 11 Jan 2026 · 14:30 UTC\n🏟 London Stadium
+ , London\nReferee: Thomas Kirk\nAttendance: 58,669\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وست هام ضد Queens Park Rangers — كأس
+  الاتحاد الإنجليزي | Tomorrow: West Ham United vs Queens P
+ ark Rangers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وست ها
+ م × Queens Park Rangers | Kick-off in 30 min: West Ham United vs Queens 
+ Park Rangers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089922@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260111T163000Z
+DTEND:20260111T183000Z
+SUMMARY:Manchester United vs Brighton & Hove Albion (1 - 2) — FA Cup
+LOCATION:Old Trafford\, Manchester\, England
+GEO:53.463094;-2.291374
+URL:https://www.fotmob.com/match/5089922
+DESCRIPTION:⚽ مانشستر يونايتد × برايتون (1 - 2)\n
+ 🏆 كأس الاتحاد الإنجليزي — الدور الثالث\
+ n🗓 الأحد 11 يناير 2026 · 19:30 بتوقيت الرياض\n
+ 🏟 Old Trafford، Manchester\n⚖️ الحكم: Simon Hooper\n👥 ال
+ حضور: 73,888\n—————\n⚽ Manchester United v Brighton & Hove
+  Albion (1 - 2)\n🏆 FA Cup — Round 3\n🗓 Sun 11 Jan 2026 · 16:30 UT
+ C\n🏟 Old Trafford, Manchester\nReferee: Simon Hooper\nAttendance: 73,88
+ 8\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد برايتون
+  — كأس الاتحاد الإنجليزي | Tomorrow: Manchester Unite
+ d vs Brighton & Hove Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × برايتون | Kick-off in 30 min: Manchester Uni
+ ted vs Brighton & Hove Albion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089906@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260112T194500Z
+DTEND:20260112T214500Z
+SUMMARY:Liverpool vs Barnsley (4 - 1) — FA Cup
+LOCATION:Anfield\, Liverpool\, England
+GEO:53.430828;-2.960853
+URL:https://www.fotmob.com/match/5089906
+DESCRIPTION:⚽ ليفربول × Barnsley (4 - 1)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الثالث\n🗓 الاثنين 1
+ 2 يناير 2026 · 22:45 بتوقيت الرياض\n🏟 Anfield، Liver
+ pool\n⚖️ الحكم: Farai Hallam\n👥 الحضور: 60,206\n——
+ ———\n⚽ Liverpool v Barnsley (4 - 1)\n🏆 FA Cup — Round 3\n🗓
+  Mon 12 Jan 2026 · 19:45 UTC\n🏟 Anfield, Liverpool\nReferee: Farai Hal
+ lam\nAttendance: 60,206\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد Barnsley — كأس الات
+ حاد الإنجليزي | Tomorrow: Liverpool vs Barnsley
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × Barnsley | Kick-off in 30 min: Liverpool vs Barnsley
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089912@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260120T194500Z
+DTEND:20260120T214500Z
+SUMMARY:Salford City vs Swindon Town (3 - 2) — FA Cup
+LOCATION:The Peninsula Stadium\, Salford\, Greater Manchester\, England
+GEO:53.513610;-2.276772
+URL:https://www.fotmob.com/match/5089912
+DESCRIPTION:⚽ Salford City × Swindon Town (3 - 2)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الثالث\n🗓 الثلاثا
+ ء 20 يناير 2026 · 22:45 بتوقيت الرياض\n🏟 The Peninsu
+ la Stadium، Salford, Greater Manchester\n⚖️ الحكم: Alex Chilowic
+ z\n👥 الحضور: 2,215\n—————\n⚽ Salford City v Swindon T
+ own (3 - 2)\n🏆 FA Cup — Round 3\n🗓 Tue 20 Jan 2026 · 19:45 UTC\n
+ 🏟 The Peninsula Stadium, Salford, Greater Manchester\nReferee: Alex Chi
+ lowicz\nAttendance: 2,215\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Salford City ضد Swindon Town — كأس الا
+ تحاد الإنجليزي | Tomorrow: Salford City vs Swindon Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Salford Cit
+ y × Swindon Town | Kick-off in 30 min: Salford City vs Swindon Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135167@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260213T194500Z
+DTEND:20260213T214500Z
+SUMMARY:Hull City vs Chelsea (0 - 4) — FA Cup
+LOCATION:The MKM Stadium\, Hull\, England
+GEO:53.746240;-0.367640
+URL:https://www.fotmob.com/match/5135167
+DESCRIPTION:⚽ هال سيتي × تشيلسي (0 - 4)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الرابع\n🗓 الجمعة
+  13 فبراير 2026 · 22:45 بتوقيت الرياض\n🏟 The MKM Sta
+ dium، Hull\n⚖️ الحكم: Farai Hallam\n👥 الحضور: 24,320\n
+ —————\n⚽ Hull City v Chelsea (0 - 4)\n🏆 FA Cup — Round 4\
+ n🗓 Fri 13 Feb 2026 · 19:45 UTC\n🏟 The MKM Stadium, Hull\nReferee: F
+ arai Hallam\nAttendance: 24,320\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد تشيلسي — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Hull City vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × تشيلسي | Kick-off in 30 min: Hull City vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135165@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260213T194500Z
+DTEND:20260213T214500Z
+SUMMARY:Wrexham vs Ipswich Town (1 - 0) — FA Cup
+LOCATION:STōK Cae Ras\, Wrexham (Wrecsam)\, Wales
+GEO:53.051941;-3.003819
+URL:https://www.fotmob.com/match/5135165
+DESCRIPTION:⚽ Wrexham × إبسويتش تاون (1 - 0)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الرابع\n🗓 الجم
+ عة 13 فبراير 2026 · 22:45 بتوقيت الرياض\n🏟 STōK C
+ ae Ras، Wrexham (Wrecsam)\n⚖️ الحكم: Ben Speedie\n👥 الحض
+ ور: 10,496\n—————\n⚽ Wrexham v Ipswich Town (1 - 0)\n🏆 FA
+  Cup — Round 4\n🗓 Fri 13 Feb 2026 · 19:45 UTC\n🏟 STōK Cae Ras, W
+ rexham (Wrecsam)\nReferee: Ben Speedie\nAttendance: 10,496\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Wrexham ضد إبسويتش تاون — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Wrexham vs Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Wrexham × 
+ إبسويتش تاون | Kick-off in 30 min: Wrexham vs Ipswich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135169@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260214T121500Z
+DTEND:20260214T141500Z
+SUMMARY:Burton Albion vs West Ham United (0 - 1) — FA Cup
+LOCATION:Pirelli Stadium\, Burton-upon-Trent\, Staffordshire\, England
+GEO:52.821911;-1.626878
+URL:https://www.fotmob.com/match/5135169
+DESCRIPTION:⚽ Burton Albion × وست هام (0 - 1)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الرابع\n🗓 السبت 1
+ 4 فبراير 2026 · 15:15 بتوقيت الرياض\n🏟 Pirelli Stadi
+ um، Burton-upon-Trent, Staffordshire\n⚖️ الحكم: Lewis Smith\n
+ 👥 الحضور: 6,514\n—————\n⚽ Burton Albion v West Ham Un
+ ited (0 - 1)\n🏆 FA Cup — Round 4\n🗓 Sat 14 Feb 2026 · 12:15 UTC\n
+ 🏟 Pirelli Stadium, Burton-upon-Trent, Staffordshire\nReferee: Lewis Smi
+ th\nAttendance: 6,514\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Burton Albion ضد وست هام — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Burton Albion vs West Ham United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Burton Albi
+ on × وست هام | Kick-off in 30 min: Burton Albion vs West Ham United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135170@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260214T150000Z
+DTEND:20260214T170000Z
+SUMMARY:Burnley vs Mansfield Town (1 - 2) — FA Cup
+LOCATION:Turf Moor\, Burnley\, England
+GEO:53.788984;-2.230225
+URL:https://www.fotmob.com/match/5135170
+DESCRIPTION:⚽ بيرنلي × Mansfield Town (1 - 2)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الرابع\n🗓 السبت 1
+ 4 فبراير 2026 · 18:00 بتوقيت الرياض\n🏟 Turf Moor، B
+ urnley\n⚖️ الحكم: Gavin Ward\n👥 الحضور: 11,914\n——
+ ———\n⚽ Burnley v Mansfield Town (1 - 2)\n🏆 FA Cup — Round 4\n
+ 🗓 Sat 14 Feb 2026 · 15:00 UTC\n🏟 Turf Moor, Burnley\nReferee: Gavin
+  Ward\nAttendance: 11,914\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيرنلي ضد Mansfield Town — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Burnley vs Mansfield Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيرنل
+ ي × Mansfield Town | Kick-off in 30 min: Burnley vs Mansfield Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135175@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260214T150000Z
+DTEND:20260214T170000Z
+SUMMARY:Manchester City vs Salford City (2 - 0) — FA Cup
+LOCATION:Etihad Stadium\, Manchester\, England
+GEO:53.483152;-2.200409
+URL:https://www.fotmob.com/match/5135175
+DESCRIPTION:⚽ مانشستر سيتي × Salford City (2 - 0)\n🏆 كأ
+ س الاتحاد الإنجليزي — الدور الرابع\n🗓 ا
+ لسبت 14 فبراير 2026 · 18:00 بتوقيت الرياض\n🏟 Eti
+ had Stadium، Manchester\n⚖️ الحكم: Matt Donohue\n👥 الحضو
+ ر: 46,774\n—————\n⚽ Manchester City v Salford City (2 - 0)\n
+ 🏆 FA Cup — Round 4\n🗓 Sat 14 Feb 2026 · 15:00 UTC\n🏟 Etihad St
+ adium, Manchester\nReferee: Matt Donohue\nAttendance: 46,774\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد Salford City — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Manchester City vs Salf
+ ord City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × Salford City | Kick-off in 30 min: Manchester City vs Sal
+ ford City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135171@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260214T150000Z
+DTEND:20260214T170000Z
+SUMMARY:Norwich City vs West Bromwich Albion (3 - 1) — FA Cup
+LOCATION:Carrow Road\, Norwich\, Norfolk\, England
+GEO:52.622091;1.309122
+URL:https://www.fotmob.com/match/5135171
+DESCRIPTION:⚽ Norwich City × وست بروميتش (3 - 1)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الرابع\n🗓 الس
+ بت 14 فبراير 2026 · 18:00 بتوقيت الرياض\n🏟 Carrow 
+ Road، Norwich, Norfolk\n⚖️ الحكم: Tom Reeves\n👥 الحضور:
+  25,538\n—————\n⚽ Norwich City v West Bromwich Albion (3 - 1)\
+ n🏆 FA Cup — Round 4\n🗓 Sat 14 Feb 2026 · 15:00 UTC\n🏟 Carrow R
+ oad, Norwich, Norfolk\nReferee: Tom Reeves\nAttendance: 25,538\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Norwich City ضد وست بروميتش — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Norwich City vs West Brom
+ wich Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Norwich Cit
+ y × وست بروميتش | Kick-off in 30 min: Norwich City vs West Brom
+ wich Albion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135164@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260214T150000Z
+DTEND:20260214T170000Z
+SUMMARY:Southampton vs Leicester City (2 - 1) — FA Cup
+LOCATION:St. Mary's Stadium\, Southampton\, Hampshire\, England
+GEO:50.905895;-1.391047
+URL:https://www.fotmob.com/match/5135164
+DESCRIPTION:⚽ ساوثهامبتون × Leicester City (2 - 1)\n🏆 كأ
+ س الاتحاد الإنجليزي — الدور الرابع\n🗓 ا
+ لسبت 14 فبراير 2026 · 18:00 بتوقيت الرياض\n🏟 St.
+  Mary's Stadium، Southampton, Hampshire\n⚖️ الحكم: Matthew Corle
+ tt\n👥 الحضور: 17,359\n—————\n⚽ Southampton v Leiceste
+ r City (2 - 1)\n🏆 FA Cup — Round 4\n🗓 Sat 14 Feb 2026 · 15:00 UTC
+ \n🏟 St. Mary's Stadium, Southampton, Hampshire\nReferee: Matthew Corlet
+ t\nAttendance: 17,359\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساوثهامبتون ضد Leicester City — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Southampton vs Leiceste
+ r City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساوثه
+ امبتون × Leicester City | Kick-off in 30 min: Southampton vs Leices
+ ter City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135174@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260214T174500Z
+DTEND:20260214T194500Z
+SUMMARY:Aston Villa vs Newcastle United (1 - 3) — FA Cup
+LOCATION:Villa Park\, Birmingham\, England
+GEO:52.509091;-1.884842
+URL:https://www.fotmob.com/match/5135174
+DESCRIPTION:⚽ أستون فيلا × نيوكاسل يونايتد (1 - 3
+ )\n🏆 كأس الاتحاد الإنجليزي — الدور الراب
+ ع\n🗓 السبت 14 فبراير 2026 · 20:45 بتوقيت الريا
+ ض\n🏟 Villa Park، Birmingham\n⚖️ الحكم: Chris Kavanagh\n👥 
+ الحضور: 42,101\n—————\n⚽ Aston Villa v Newcastle United 
+ (1 - 3)\n🏆 FA Cup — Round 4\n🗓 Sat 14 Feb 2026 · 17:45 UTC\n🏟 
+ Villa Park, Birmingham\nReferee: Chris Kavanagh\nAttendance: 42,101\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد نيوكاسل يونا
+ يتد — كأس الاتحاد الإنجليزي | Tomorrow: Aston Vill
+ a vs Newcastle United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × نيوكاسل يونايتد | Kick-off in 30 min: Aston Vill
+ a vs Newcastle United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135162@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260214T200000Z
+DTEND:20260214T220000Z
+SUMMARY:Liverpool vs Brighton & Hove Albion (3 - 0) — FA Cup
+LOCATION:Anfield\, Liverpool\, England
+GEO:53.430828;-2.960853
+URL:https://www.fotmob.com/match/5135162
+DESCRIPTION:⚽ ليفربول × برايتون (3 - 0)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الرابع\n🗓 السبت
+  14 فبراير 2026 · 23:00 بتوقيت الرياض\n🏟 Anfield، L
+ iverpool\n⚖️ الحكم: Stuart Attwell\n👥 الحضور: 60,227\n
+ —————\n⚽ Liverpool v Brighton & Hove Albion (3 - 0)\n🏆 FA C
+ up — Round 4\n🗓 Sat 14 Feb 2026 · 20:00 UTC\n🏟 Anfield, Liverpool
+ \nReferee: Stuart Attwell\nAttendance: 60,227\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد برايتون — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Liverpool vs Brighton & Hove A
+ lbion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × برايتون | Kick-off in 30 min: Liverpool vs Brighton & Hove 
+ Albion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135177@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260215T120000Z
+DTEND:20260215T140000Z
+SUMMARY:Birmingham City vs Leeds United (1 - 1) — FA Cup
+LOCATION:St. Andrew's @ Knighthead Park\, Birmingham\, England
+GEO:52.475733;-1.868105
+URL:https://www.fotmob.com/match/5135177
+DESCRIPTION:⚽ Birmingham City × ليدز يونايتد (1 - 1)\n🏆 ك
+ أس الاتحاد الإنجليزي — الدور الرابع\n🗓 
+ الأحد 15 فبراير 2026 · 15:00 بتوقيت الرياض\n🏟 S
+ t. Andrew's @ Knighthead Park، Birmingham\n⚖️ الحكم: Simon Hoope
+ r\n👥 الحضور: 28,035\n—————\n⚽ Birmingham City v Leeds
+  United (1 - 1)\n🏆 FA Cup — Round 4\n🗓 Sun 15 Feb 2026 · 12:00 UT
+ C\n🏟 St. Andrew's @ Knighthead Park, Birmingham\nReferee: Simon Hooper\
+ nAttendance: 28,035\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Birmingham City ضد ليدز يونايتد — 
+ كأس الاتحاد الإنجليزي | Tomorrow: Birmingham City vs Le
+ eds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Birmingham 
+ City × ليدز يونايتد | Kick-off in 30 min: Birmingham City vs L
+ eeds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135173@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260215T133000Z
+DTEND:20260215T153000Z
+SUMMARY:Grimsby Town vs Wolverhampton Wanderers (0 - 1) — FA Cup
+LOCATION:Blundell Park\, Cleethorpes\, North East Lincolns\, England
+GEO:53.570208;-0.046552
+URL:https://www.fotmob.com/match/5135173
+DESCRIPTION:⚽ Grimsby Town × وولفرهامبتون (0 - 1)\n🏆 كأ
+ س الاتحاد الإنجليزي — الدور الرابع\n🗓 ا
+ لأحد 15 فبراير 2026 · 16:30 بتوقيت الرياض\n🏟 Blu
+ ndell Park، Cleethorpes, North East Lincolns\n⚖️ الحكم: Samuel B
+ arrott\n👥 الحضور: 8,594\n—————\n⚽ Grimsby Town v Wolv
+ erhampton Wanderers (0 - 1)\n🏆 FA Cup — Round 4\n🗓 Sun 15 Feb 2026
+  · 13:30 UTC\n🏟 Blundell Park, Cleethorpes, North East Lincolns\nRefer
+ ee: Samuel Barrott\nAttendance: 8,594\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Grimsby Town ضد وولفرهامبتون — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Grimsby Town vs Wolverh
+ ampton Wanderers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Grimsby Tow
+ n × وولفرهامبتون | Kick-off in 30 min: Grimsby Town vs Wolver
+ hampton Wanderers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135163@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260215T140000Z
+DTEND:20260215T160000Z
+SUMMARY:Oxford United vs Sunderland (0 - 1) — FA Cup
+LOCATION:The Kassam Stadium\, Oxford\, Oxfordshire\, England
+GEO:51.716487;-1.207940
+URL:https://www.fotmob.com/match/5135163
+DESCRIPTION:⚽ Oxford United × سندرلاند (0 - 1)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الرابع\n🗓 الأحد
+  15 فبراير 2026 · 17:00 بتوقيت الرياض\n🏟 The Kassam 
+ Stadium، Oxford, Oxfordshire\n⚖️ الحكم: Thomas Kirk\n👥 الح
+ ضور: 9,879\n—————\n⚽ Oxford United v Sunderland (0 - 1)\n
+ 🏆 FA Cup — Round 4\n🗓 Sun 15 Feb 2026 · 14:00 UTC\n🏟 The Kassa
+ m Stadium, Oxford, Oxfordshire\nReferee: Thomas Kirk\nAttendance: 9,879\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Oxford United ضد سندرلاند — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Oxford United vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Oxford Unit
+ ed × سندرلاند | Kick-off in 30 min: Oxford United vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135161@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260215T140000Z
+DTEND:20260215T160000Z
+SUMMARY:Stoke City vs Fulham (1 - 2) — FA Cup
+LOCATION:bet365 Stadium\, Stoke-on-Trent\, Staffordshire\, England
+GEO:52.988405;-2.175430
+URL:https://www.fotmob.com/match/5135161
+DESCRIPTION:⚽ Stoke City × فولهام (1 - 2)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الرابع\n🗓 الأحد 15 ف
+ براير 2026 · 17:00 بتوقيت الرياض\n🏟 bet365 Stadium، 
+ Stoke-on-Trent, Staffordshire\n⚖️ الحكم: Joshua Smith\n👥 ال
+ حضور: 14,871\n—————\n⚽ Stoke City v Fulham (1 - 2)\n🏆 F
+ A Cup — Round 4\n🗓 Sun 15 Feb 2026 · 14:00 UTC\n🏟 bet365 Stadium,
+  Stoke-on-Trent, Staffordshire\nReferee: Joshua Smith\nAttendance: 14,871\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Stoke City ضد فولهام — كأس الات
+ حاد الإنجليزي | Tomorrow: Stoke City vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Stoke City 
+ × فولهام | Kick-off in 30 min: Stoke City vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135166@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260215T163000Z
+DTEND:20260215T183000Z
+SUMMARY:Arsenal vs Wigan Athletic (4 - 0) — FA Cup
+LOCATION:Emirates Stadium\, London\, England
+GEO:51.555075;-0.108458
+URL:https://www.fotmob.com/match/5135166
+DESCRIPTION:⚽ أرسنال × Wigan Athletic (4 - 0)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الرابع\n🗓 الأحد 1
+ 5 فبراير 2026 · 19:30 بتوقيت الرياض\n🏟 Emirates Stad
+ ium، London\n⚖️ الحكم: Tim Robinson\n👥 الحضور: 59,996\n
+ —————\n⚽ Arsenal v Wigan Athletic (4 - 0)\n🏆 FA Cup — Rou
+ nd 4\n🗓 Sun 15 Feb 2026 · 16:30 UTC\n🏟 Emirates Stadium, London\nRe
+ feree: Tim Robinson\nAttendance: 59,996\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد Wigan Athletic — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Arsenal vs Wigan Athletic
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × Wigan Athletic | Kick-off in 30 min: Arsenal vs Wigan Athletic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135176@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260216T193000Z
+DTEND:20260216T213000Z
+SUMMARY:Macclesfield FC vs Brentford (0 - 1) — FA Cup
+LOCATION:The Leasing.com Stadium\, Macclesfield\, Cheshire\, England
+GEO:53.242857;-2.127271
+URL:https://www.fotmob.com/match/5135176
+DESCRIPTION:⚽ Macclesfield FC × برينتفورد (0 - 1)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الرابع\n🗓 الا
+ ثنين 16 فبراير 2026 · 22:30 بتوقيت الرياض\n🏟 The
+  Leasing.com Stadium، Macclesfield, Cheshire\n⚖️ الحكم: Darren E
+ ngland\n👥 الحضور: 5,348\n—————\n⚽ Macclesfield FC v B
+ rentford (0 - 1)\n🏆 FA Cup — Round 4\n🗓 Mon 16 Feb 2026 · 19:30 U
+ TC\n🏟 The Leasing.com Stadium, Macclesfield, Cheshire\nReferee: Darren 
+ England\nAttendance: 5,348\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Macclesfield FC ضد برينتفورد — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Macclesfield FC vs Brentf
+ ord
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Macclesfiel
+ d FC × برينتفورد | Kick-off in 30 min: Macclesfield FC vs Brentf
+ ord
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135172@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260303T194500Z
+DTEND:20260303T214500Z
+SUMMARY:Port Vale vs Bristol City (1 - 0) — FA Cup
+LOCATION:Vale Park\, Stoke-on-Trent\, Staffordshire\, England
+GEO:53.050078;-2.192644
+URL:https://www.fotmob.com/match/5135172
+DESCRIPTION:⚽ Port Vale × Bristol City (1 - 0)\n🏆 كأس الاتحا
+ د الإنجليزي — الدور الرابع\n🗓 الثلاثاء 3
+  مارس 2026 · 22:45 بتوقيت الرياض\n🏟 Vale Park، Stoke-
+ on-Trent, Staffordshire\n⚖️ الحكم: Elliot Bell\n👥 الحضور
+ : 4,611\n—————\n⚽ Port Vale v Bristol City (1 - 0)\n🏆 FA Cu
+ p — Round 4\n🗓 Tue 03 Mar 2026 · 19:45 UTC\n🏟 Vale Park, Stoke-on
+ -Trent, Staffordshire\nReferee: Elliot Bell\nAttendance: 4,611\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Port Vale ضد Bristol City — كأس الاتح
+ اد الإنجليزي | Tomorrow: Port Vale vs Bristol City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Port Vale 
+ × Bristol City | Kick-off in 30 min: Port Vale vs Bristol City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5186383@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260306T200000Z
+DTEND:20260306T220000Z
+SUMMARY:Wolverhampton Wanderers vs Liverpool (1 - 3) — FA Cup
+LOCATION:Molineux Stadium\, Wolverhampton\, West Midlands\, England
+GEO:52.590238;-2.130433
+URL:https://www.fotmob.com/match/5186383
+DESCRIPTION:⚽ وولفرهامبتون × ليفربول (1 - 3)\n🏆 ك
+ أس الاتحاد الإنجليزي — الدور الخامس\n🗓 
+ الجمعة 6 مارس 2026 · 23:00 بتوقيت الرياض\n🏟 Moli
+ neux Stadium، Wolverhampton, West Midlands\n⚖️ الحكم: Farai Hall
+ am\n👥 الحضور: 29,881\n—————\n⚽ Wolverhampton Wanderer
+ s v Liverpool (1 - 3)\n🏆 FA Cup — Round 5\n🗓 Fri 06 Mar 2026 · 20
+ :00 UTC\n🏟 Molineux Stadium, Wolverhampton, West Midlands\nReferee: Far
+ ai Hallam\nAttendance: 29,881\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وولفرهامبتون ضد ليفربول — 
+ كأس الاتحاد الإنجليزي | Tomorrow: Wolverhampton Wandere
+ rs vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وولفر
+ هامبتون × ليفربول | Kick-off in 30 min: Wolverhampton Wande
+ rers vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5186382@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260307T121500Z
+DTEND:20260307T141500Z
+SUMMARY:Mansfield Town vs Arsenal (1 - 2) — FA Cup
+LOCATION:One Call Stadium\, Mansfield\, Nottinghamshire\, England
+GEO:53.138057;-1.200777
+URL:https://www.fotmob.com/match/5186382
+DESCRIPTION:⚽ Mansfield Town × أرسنال (1 - 2)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الخامس\n🗓 السبت 7
+  مارس 2026 · 15:15 بتوقيت الرياض\n🏟 One Call Stadium،
+  Mansfield, Nottinghamshire\n⚖️ الحكم: Thomas Bramall\n👥 ال
+ حضور: 9,260\n—————\n⚽ Mansfield Town v Arsenal (1 - 2)\n
+ 🏆 FA Cup — Round 5\n🗓 Sat 07 Mar 2026 · 12:15 UTC\n🏟 One Call 
+ Stadium, Mansfield, Nottinghamshire\nReferee: Thomas Bramall\nAttendance: 
+ 9,260\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Mansfield Town ضد أرسنال — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Mansfield Town vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Mansfield T
+ own × أرسنال | Kick-off in 30 min: Mansfield Town vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5186384@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260307T174500Z
+DTEND:20260307T194500Z
+SUMMARY:Wrexham vs Chelsea (2 - 4) — FA Cup
+LOCATION:STōK Cae Ras\, Wrexham (Wrecsam)\, Wales
+GEO:53.051941;-3.003819
+URL:https://www.fotmob.com/match/5186384
+DESCRIPTION:⚽ Wrexham × تشيلسي (2 - 4)\n🏆 كأس الاتحاد
+  الإنجليزي — الدور الخامس\n🗓 السبت 7 مار
+ س 2026 · 20:45 بتوقيت الرياض\n🏟 STōK Cae Ras، Wrexham (
+ Wrecsam)\n⚖️ الحكم: Peter Bankes\n👥 الحضور: 10,556\n—
+ ————\n⚽ Wrexham v Chelsea (2 - 4)\n🏆 FA Cup — Round 5\n🗓
+  Sat 07 Mar 2026 · 17:45 UTC\n🏟 STōK Cae Ras, Wrexham (Wrecsam)\nRefe
+ ree: Peter Bankes\nAttendance: 10,556\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Wrexham ضد تشيلسي — كأس الاتحا
+ د الإنجليزي | Tomorrow: Wrexham vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Wrexham × 
+ تشيلسي | Kick-off in 30 min: Wrexham vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5186380@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260307T200000Z
+DTEND:20260307T220000Z
+SUMMARY:Newcastle United vs Manchester City (1 - 3) — FA Cup
+LOCATION:St. James' Park\, Newcastle upon Tyne\, England
+GEO:54.975540;-1.621621
+URL:https://www.fotmob.com/match/5186380
+DESCRIPTION:⚽ نيوكاسل يونايتد × مانشستر سيتي (1
+  - 3)\n🏆 كأس الاتحاد الإنجليزي — الدور الخ
+ امس\n🗓 السبت 7 مارس 2026 · 23:00 بتوقيت الرياض
+ \n🏟 St. James' Park، Newcastle upon Tyne\n⚖️ الحكم: Samuel Ba
+ rrott\n👥 الحضور: 51,109\n—————\n⚽ Newcastle United v 
+ Manchester City (1 - 3)\n🏆 FA Cup — Round 5\n🗓 Sat 07 Mar 2026 · 
+ 20:00 UTC\n🏟 St. James' Park, Newcastle upon Tyne\nReferee: Samuel Barr
+ ott\nAttendance: 51,109\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل يونايتد ضد مانشستر
+  سيتي — كأس الاتحاد الإنجليزي | Tomorrow: Newcast
+ le United vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل يونايتد × مانشستر سيتي | Kick-off in 30 min: Newca
+ stle United vs Manchester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5186378@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260308T120000Z
+DTEND:20260308T140000Z
+SUMMARY:Fulham vs Southampton (0 - 1) — FA Cup
+LOCATION:Craven Cottage\, London\, England
+GEO:51.474898;-0.221647
+URL:https://www.fotmob.com/match/5186378
+DESCRIPTION:⚽ فولهام × ساوثهامبتون (0 - 1)\n🏆 كأس
+  الاتحاد الإنجليزي — الدور الخامس\n🗓 ال
+ أحد 8 مارس 2026 · 15:00 بتوقيت الرياض\n🏟 Craven Cot
+ tage، London\n⚖️ الحكم: Jarred Gillett\n👥 الحضور: 21,97
+ 4\n—————\n⚽ Fulham v Southampton (0 - 1)\n🏆 FA Cup — Roun
+ d 5\n🗓 Sun 08 Mar 2026 · 12:00 UTC\n🏟 Craven Cottage, London\nRefer
+ ee: Jarred Gillett\nAttendance: 21,974\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد ساوثهامبتون — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Fulham vs Southampton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × ساوثهامبتون | Kick-off in 30 min: Fulham vs Southampton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5186379@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260308T133000Z
+DTEND:20260308T153000Z
+SUMMARY:Port Vale vs Sunderland (1 - 0) — FA Cup
+LOCATION:Vale Park\, Stoke-on-Trent\, Staffordshire\, England
+GEO:53.050078;-2.192644
+URL:https://www.fotmob.com/match/5186379
+DESCRIPTION:⚽ Port Vale × سندرلاند (1 - 0)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الخامس\n🗓 الأحد 8 
+ مارس 2026 · 16:30 بتوقيت الرياض\n🏟 Vale Park، Stoke-o
+ n-Trent, Staffordshire\n👥 الحضور: 10,685\n—————\n⚽ Po
+ rt Vale v Sunderland (1 - 0)\n🏆 FA Cup — Round 5\n🗓 Sun 08 Mar 202
+ 6 · 13:30 UTC\n🏟 Vale Park, Stoke-on-Trent, Staffordshire\nAttendance:
+  10,685\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Port Vale ضد سندرلاند — كأس الا
+ تحاد الإنجليزي | Tomorrow: Port Vale vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Port Vale 
+ × سندرلاند | Kick-off in 30 min: Port Vale vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5186381@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260308T163000Z
+DTEND:20260308T183000Z
+SUMMARY:Leeds United vs Norwich City (3 - 0) — FA Cup
+LOCATION:Elland Road\, Leeds\, West Yorkshire\, England
+GEO:53.777834;-1.572279
+URL:https://www.fotmob.com/match/5186381
+DESCRIPTION:⚽ ليدز يونايتد × Norwich City (3 - 0)\n🏆 كأ
+ س الاتحاد الإنجليزي — الدور الخامس\n🗓 ا
+ لأحد 8 مارس 2026 · 19:30 بتوقيت الرياض\n🏟 Elland R
+ oad، Leeds, West Yorkshire\n⚖️ الحكم: Darren England\n👥 ال
+ حضور: 36,213\n—————\n⚽ Leeds United v Norwich City (3 - 0)
+ \n🏆 FA Cup — Round 5\n🗓 Sun 08 Mar 2026 · 16:30 UTC\n🏟 Elland 
+ Road, Leeds, West Yorkshire\nReferee: Darren England\nAttendance: 36,213\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد Norwich City — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Leeds United vs Norwich
+  City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × Norwich City | Kick-off in 30 min: Leeds United vs Norwich
+  City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5186385@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260309T193000Z
+DTEND:20260309T213000Z
+SUMMARY:West Ham United vs Brentford (2 - 2) — FA Cup
+LOCATION:London Stadium\, London\, England
+GEO:51.538688;-0.016501
+URL:https://www.fotmob.com/match/5186385
+DESCRIPTION:⚽ وست هام × برينتفورد (2 - 2)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الخامس\n🗓 الاث
+ نين 9 مارس 2026 · 22:30 بتوقيت الرياض\n🏟 London Sta
+ dium، London\n⚖️ الحكم: Andy Madley\n👥 الحضور: 48,570\n
+ —————\n⚽ West Ham United v Brentford (2 - 2)\n🏆 FA Cup — 
+ Round 5\n🗓 Mon 09 Mar 2026 · 19:30 UTC\n🏟 London Stadium, London\nR
+ eferee: Andy Madley\nAttendance: 48,570\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وست هام ضد برينتفورد — كأس 
+ الاتحاد الإنجليزي | Tomorrow: West Ham United vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وست ها
+ م × برينتفورد | Kick-off in 30 min: West Ham United vs Brentfor
+ d
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5231047@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260404T114500Z
+DTEND:20260404T134500Z
+SUMMARY:Manchester City vs Liverpool (4 - 0) — FA Cup
+LOCATION:Etihad Stadium\, Manchester\, England
+GEO:53.483152;-2.200409
+URL:https://www.fotmob.com/match/5231047
+DESCRIPTION:⚽ مانشستر سيتي × ليفربول (4 - 0)\n🏆 ك
+ أس الاتحاد الإنجليزي — ربع النهائي\n🗓 ا
+ لسبت 4 أبريل 2026 · 14:45 بتوقيت الرياض\n🏟 Etihad
+  Stadium، Manchester\n⚖️ الحكم: Michael Oliver\n👥 الحضو
+ ر: 50,754\n—————\n⚽ Manchester City v Liverpool (4 - 0)\n🏆
+  FA Cup — Quarter-Finals\n🗓 Sat 04 Apr 2026 · 11:45 UTC\n🏟 Etihad
+  Stadium, Manchester\nReferee: Michael Oliver\nAttendance: 50,754\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد ليفربول — 
+ كأس الاتحاد الإنجليزي | Tomorrow: Manchester City vs Li
+ verpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × ليفربول | Kick-off in 30 min: Manchester City vs L
+ iverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5231046@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260404T161500Z
+DTEND:20260404T181500Z
+SUMMARY:Chelsea vs Port Vale (7 - 0) — FA Cup
+LOCATION:Stamford Bridge\, London\, England
+GEO:51.481712;-0.190975
+URL:https://www.fotmob.com/match/5231046
+DESCRIPTION:⚽ تشيلسي × Port Vale (7 - 0)\n🏆 كأس الاتحا
+ د الإنجليزي — ربع النهائي\n🗓 السبت 4 أبر
+ يل 2026 · 19:15 بتوقيت الرياض\n🏟 Stamford Bridge، Londo
+ n\n⚖️ الحكم: Farai Hallam\n👥 الحضور: 38,375\n———
+ ——\n⚽ Chelsea v Port Vale (7 - 0)\n🏆 FA Cup — Quarter-Finals\n
+ 🗓 Sat 04 Apr 2026 · 16:15 UTC\n🏟 Stamford Bridge, London\nReferee: 
+ Farai Hallam\nAttendance: 38,375\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد Port Vale — كأس الاتح
+ اد الإنجليزي | Tomorrow: Chelsea vs Port Vale
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × Port Vale | Kick-off in 30 min: Chelsea vs Port Vale
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5231045@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260404T190000Z
+DTEND:20260404T210000Z
+SUMMARY:Southampton vs Arsenal (2 - 1) — FA Cup
+LOCATION:St. Mary's Stadium\, Southampton\, Hampshire\, England
+GEO:50.905895;-1.391047
+URL:https://www.fotmob.com/match/5231045
+DESCRIPTION:⚽ ساوثهامبتون × أرسنال (2 - 1)\n🏆 كأس
+  الاتحاد الإنجليزي — ربع النهائي\n🗓 الس
+ بت 4 أبريل 2026 · 22:00 بتوقيت الرياض\n🏟 St. Mary's
+  Stadium، Southampton, Hampshire\n⚖️ الحكم: Samuel Barrott\n👥
+  الحضور: 31,067\n—————\n⚽ Southampton v Arsenal (2 - 1)\
+ n🏆 FA Cup — Quarter-Finals\n🗓 Sat 04 Apr 2026 · 19:00 UTC\n🏟 S
+ t. Mary's Stadium, Southampton, Hampshire\nReferee: Samuel Barrott\nAttend
+ ance: 31,067\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساوثهامبتون ضد أرسنال — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Southampton vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساوثه
+ امبتون × أرسنال | Kick-off in 30 min: Southampton vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5231346@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260405T153000Z
+DTEND:20260405T173000Z
+SUMMARY:West Ham United vs Leeds United (2 - 2) — FA Cup
+LOCATION:London Stadium\, London\, England
+GEO:51.538688;-0.016501
+URL:https://www.fotmob.com/match/5231346
+DESCRIPTION:⚽ وست هام × ليدز يونايتد (2 - 2)\n🏆 كأ
+ س الاتحاد الإنجليزي — ربع النهائي\n🗓 ال
+ أحد 5 أبريل 2026 · 18:30 بتوقيت الرياض\n🏟 London S
+ tadium، London\n⚖️ الحكم: Craig Pawson\n👥 الحضور: 62,26
+ 0\n—————\n⚽ West Ham United v Leeds United (2 - 2)\n🏆 FA Cu
+ p — Quarter-Finals\n🗓 Sun 05 Apr 2026 · 15:30 UTC\n🏟 London Stadi
+ um, London\nReferee: Craig Pawson\nAttendance: 62,260\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وست هام ضد ليدز يونايتد — ك
+ أس الاتحاد الإنجليزي | Tomorrow: West Ham United vs Leed
+ s United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وست ها
+ م × ليدز يونايتد | Kick-off in 30 min: West Ham United vs Lee
+ ds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5293793@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260425T161500Z
+DTEND:20260425T181500Z
+SUMMARY:Manchester City vs Southampton (2 - 1) — FA Cup
+LOCATION:Wembley Stadium\, London\, England
+GEO:51.555855;-0.279593
+URL:https://www.fotmob.com/match/5293793
+DESCRIPTION:⚽ مانشستر سيتي × ساوثهامبتون (2 - 1)\n
+ 🏆 كأس الاتحاد الإنجليزي — نصف النهائي\n
+ 🗓 السبت 25 أبريل 2026 · 19:15 بتوقيت الرياض\n
+ 🏟 Wembley Stadium، London\n⚖️ الحكم: Craig Pawson\n👥 ال
+ حضور: 70,053\n—————\n⚽ Manchester City v Southampton (2 - 
+ 1)\n🏆 FA Cup — Semi-Finals\n🗓 Sat 25 Apr 2026 · 16:15 UTC\n🏟 W
+ embley Stadium, London\nReferee: Craig Pawson\nAttendance: 70,053\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد ساوثهامبتو
+ ن — كأس الاتحاد الإنجليزي | Tomorrow: Manchester Cit
+ y vs Southampton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × ساوثهامبتون | Kick-off in 30 min: Manchester C
+ ity vs Southampton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5293794@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260426T140000Z
+DTEND:20260426T160000Z
+SUMMARY:Chelsea vs Leeds United (1 - 0) — FA Cup
+LOCATION:Wembley Stadium\, London\, England
+GEO:51.555855;-0.279593
+URL:https://www.fotmob.com/match/5293794
+DESCRIPTION:⚽ تشيلسي × ليدز يونايتد (1 - 0)\n🏆 كأ
+ س الاتحاد الإنجليزي — نصف النهائي\n🗓 ال
+ أحد 26 أبريل 2026 · 17:00 بتوقيت الرياض\n🏟 Wembley
+  Stadium، London\n⚖️ الحكم: Jarred Gillett\n👥 الحضور: 8
+ 2,542\n—————\n⚽ Chelsea v Leeds United (1 - 0)\n🏆 FA Cup 
+ — Semi-Finals\n🗓 Sun 26 Apr 2026 · 14:00 UTC\n🏟 Wembley Stadium, 
+ London\nReferee: Jarred Gillett\nAttendance: 82,542\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد ليدز يونايتد — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Chelsea vs Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × ليدز يونايتد | Kick-off in 30 min: Chelsea vs Leeds Unite
+ d
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5315746@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260516T140000Z
+DTEND:20260516T160000Z
+SUMMARY:Chelsea vs Manchester City (0 - 1) — FA Cup
+LOCATION:Wembley Stadium\, London\, England
+GEO:51.555855;-0.279593
+URL:https://www.fotmob.com/match/5315746
+DESCRIPTION:⚽ تشيلسي × مانشستر سيتي (0 - 1)\n🏆 كأ
+ س الاتحاد الإنجليزي — النهائي\n🗓 السبت 1
+ 6 مايو 2026 · 17:00 بتوقيت الرياض\n🏟 Wembley Stadium،
+  London\n⚖️ الحكم: Darren England\n👥 الحضور: 83,337\n—
+ ————\n⚽ Chelsea v Manchester City (0 - 1)\n🏆 FA Cup — Final
+ \n🗓 Sat 16 May 2026 · 14:00 UTC\n🏟 Wembley Stadium, London\nReferee
+ : Darren England\nAttendance: 83,337\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد مانشستر سيتي — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Chelsea vs Manchester C
+ ity
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × مانشستر سيتي | Kick-off in 30 min: Chelsea vs Manchester 
+ City
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,4561 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ UEFA Europa League 2026/2027 — Fixtures | الدوري 
+ الأوروبي 2026/2027 — جدول المباريات
+X-WR-CALDESC:UEFA Europa League 2026/2027 — all fixtures\, exact UTC kick
+ offs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T
+ 19:31:10Z.  •  الدوري الأوروبي 2026/2027 — جميع ال
+ مباريات بتوقيت UTC الدقيق مع الملاعب والق
+ نوات الناقلة. المصدر: FotMob + 365scores · تحديث ت
+ لقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6112383@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T164500Z
+DTEND:20260916T184500Z
+SUMMARY:Ararat Armenia vs Sparta Prague — UEFA Europa League
+LOCATION:Kotaik Stadium\, Abovian\, Armenia
+GEO:40.268491;44.635429
+URL:https://www.fotmob.com/match/6112383
+DESCRIPTION:⚽ أرارات أرمينيا × سبارتا براغ\n🏆 
+ الدوري الأوروبي — الجولة 1\n🗓 الأربعاء 16
+  سبتمبر 2026 · 19:45 بتوقيت الرياض\n🏟 Kotaik Stadium
+ ، Abovian\n—————\n⚽ Ararat Armenia v Sparta Prague\n🏆 UEFA
+  Europa League — Matchday 1\n🗓 Wed 16 Sep 2026 · 16:45 UTC\n🏟 Kot
+ aik Stadium, Abovian\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرارات أرمينيا ضد سبارتا ب
+ راغ — الدوري الأوروبي | Tomorrow: Ararat Armenia vs Spa
+ rta Prague
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرارا
+ ت أرمينيا × سبارتا براغ | Kick-off in 30 min: Ararat Ar
+ menia vs Sparta Prague
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112344@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T164500Z
+DTEND:20260916T184500Z
+SUMMARY:Omonia Nicosia vs Celta Vigo — UEFA Europa League
+LOCATION:Neo GSP\, Nicosía (Levkosía)\, Cyprus
+GEO:35.114542;33.362888
+URL:https://www.fotmob.com/match/6112344
+DESCRIPTION:⚽ Omonia Nicosia × سيلتا فيجو\n🏆 الدوري ا
+ لأوروبي — الجولة 1\n🗓 الأربعاء 16 سبتمبر 2
+ 026 · 19:45 بتوقيت الرياض\n🏟 Neo GSP، Nicosía (Levkosía
+ )\n—————\n⚽ Omonia Nicosia v Celta Vigo\n🏆 UEFA Europa Leag
+ ue — Matchday 1\n🗓 Wed 16 Sep 2026 · 16:45 UTC\n🏟 Neo GSP, Nicos
+ ía (Levkosía)\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Omonia Nicosia ضد سيلتا فيجو — ال
+ دوري الأوروبي | Tomorrow: Omonia Nicosia vs Celta Vigo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Omonia Nico
+ sia × سيلتا فيجو | Kick-off in 30 min: Omonia Nicosia vs Celta V
+ igo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112254@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T190000Z
+DTEND:20260916T210000Z
+SUMMARY:Milan vs Benfica — UEFA Europa League
+LOCATION:Stadio Giuseppe Meazza\, Milano\, Italy
+GEO:45.478084;9.123979
+URL:https://www.fotmob.com/match/6112254
+DESCRIPTION:⚽ ميلان × بنفيكا\n🏆 الدوري الأورو
+ بي — الجولة 1\n🗓 الأربعاء 16 سبتمبر 2026 · 22:
+ 00 بتوقيت الرياض\n🏟 Stadio Giuseppe Meazza، Milano\n——
+ ———\n⚽ Milan v Benfica\n🏆 UEFA Europa League — Matchday 1\n
+ 🗓 Wed 16 Sep 2026 · 19:00 UTC\n🏟 Stadio Giuseppe Meazza, Milano\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد بنفيكا — الدوري ا
+ لأوروبي | Tomorrow: Milan vs Benfica
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × بنفيكا | Kick-off in 30 min: Milan vs Benfica
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112310@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T190000Z
+DTEND:20260916T210000Z
+SUMMARY:Anderlecht vs Lyon — UEFA Europa League
+LOCATION:Lotto Park\, Bruxelles (Brussel)\, Belgium
+GEO:50.834182;4.298353
+URL:https://www.fotmob.com/match/6112310
+DESCRIPTION:⚽ أندرلخت × أولمبيك ليون\n🏆 الدور
+ ي الأوروبي — الجولة 1\n🗓 الأربعاء 16 سبتم
+ بر 2026 · 22:00 بتوقيت الرياض\n🏟 Lotto Park، Bruxelles 
+ (Brussel)\n—————\n⚽ Anderlecht v Lyon\n🏆 UEFA Europa League
+  — Matchday 1\n🗓 Wed 16 Sep 2026 · 19:00 UTC\n🏟 Lotto Park, Bruxe
+ lles (Brussel)\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أندرلخت ضد أولمبيك ليون — 
+ الدوري الأوروبي | Tomorrow: Anderlecht vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أندرل
+ خت × أولمبيك ليون | Kick-off in 30 min: Anderlecht vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112244@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T190000Z
+DTEND:20260916T210000Z
+SUMMARY:Bayer Leverkusen vs NK Celje — UEFA Europa League
+LOCATION:BayArena\, Leverkusen\, Germany
+GEO:51.038213;7.002250
+URL:https://www.fotmob.com/match/6112244
+DESCRIPTION:⚽ باير ليفركوزن × تسيليى\n🏆 الدور
+ ي الأوروبي — الجولة 1\n🗓 الأربعاء 16 سبتم
+ بر 2026 · 22:00 بتوقيت الرياض\n🏟 BayArena، Leverkusen\n
+ —————\n⚽ Bayer Leverkusen v NK Celje\n🏆 UEFA Europa League 
+ — Matchday 1\n🗓 Wed 16 Sep 2026 · 19:00 UTC\n🏟 BayArena, Leverkus
+ en\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد تسيليى — 
+ الدوري الأوروبي | Tomorrow: Bayer Leverkusen vs NK Celje
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × تسيليى | Kick-off in 30 min: Bayer Leverkusen vs N
+ K Celje
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112363@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T190000Z
+DTEND:20260916T210000Z
+SUMMARY:Hapoel Beer Sheva vs Dinamo Zagreb — UEFA Europa League
+LOCATION:Turner Stadium\, Be'er Sheva\, Israel
+GEO:31.245300;34.791400
+URL:https://www.fotmob.com/match/6112363
+DESCRIPTION:⚽ هبوعيل بئر سبع × دينامو زغرب\n🏆 
+ الدوري الأوروبي — الجولة 1\n🗓 الأربعاء 16
+  سبتمبر 2026 · 22:00 بتوقيت الرياض\n🏟 Turner Stadium
+ ، Be'er Sheva\n—————\n⚽ Hapoel Beer Sheva v Dinamo Zagreb\n
+ 🏆 UEFA Europa League — Matchday 1\n🗓 Wed 16 Sep 2026 · 19:00 UTC\
+ n🏟 Turner Stadium, Be'er Sheva\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هبوعيل بئر سبع ضد دينامو زغ
+ رب — الدوري الأوروبي | Tomorrow: Hapoel Beer Sheva vs Di
+ namo Zagreb
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هبوعي
+ ل بئر سبع × دينامو زغرب | Kick-off in 30 min: Hapoel Bee
+ r Sheva vs Dinamo Zagreb
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112268@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T190000Z
+DTEND:20260916T210000Z
+SUMMARY:Olympiacos vs Jagiellonia Białystok — UEFA Europa League
+LOCATION:Stadio Georgios Karaiskákis\, Pireás (Piraeus)\, Greece
+GEO:37.946431;23.664384
+URL:https://www.fotmob.com/match/6112268
+DESCRIPTION:⚽ أولمبياكوس × ياغييلونيا بياويست
+ وك\n🏆 الدوري الأوروبي — الجولة 1\n🗓 الأر
+ بعاء 16 سبتمبر 2026 · 22:00 بتوقيت الرياض\n🏟 Sta
+ dio Georgios Karaiskákis، Pireás (Piraeus)\n—————\n⚽ Olympi
+ acos v Jagiellonia Białystok\n🏆 UEFA Europa League — Matchday 1\n
+ 🗓 Wed 16 Sep 2026 · 19:00 UTC\n🏟 Stadio Georgios Karaiskákis, Pire
+ ás (Piraeus)\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبياكوس ضد ياغييلونيا ب
+ ياويستوك — الدوري الأوروبي | Tomorrow: Olympiacos 
+ vs Jagiellonia Białystok
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ ياكوس × ياغييلونيا بياويستوك | Kick-off in 30 min
+ : Olympiacos vs Jagiellonia Białystok
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112315@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T190000Z
+DTEND:20260916T210000Z
+SUMMARY:Sturm Graz vs Rennes — UEFA Europa League
+LOCATION:Stadion Graz-Liebenau\, Graz\, Austria
+GEO:47.046375;15.454781
+URL:https://www.fotmob.com/match/6112315
+DESCRIPTION:⚽ شتورم غراتس × ستاد رين\n🏆 الدوري
+  الأوروبي — الجولة 1\n🗓 الأربعاء 16 سبتمب
+ ر 2026 · 22:00 بتوقيت الرياض\n🏟 Stadion Graz-Liebenau، G
+ raz\n—————\n⚽ Sturm Graz v Rennes\n🏆 UEFA Europa League —
+  Matchday 1\n🗓 Wed 16 Sep 2026 · 19:00 UTC\n🏟 Stadion Graz-Liebenau
+ , Graz\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتورم غراتس ضد ستاد رين — ا
+ لدوري الأوروبي | Tomorrow: Sturm Graz vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتورم 
+ غراتس × ستاد رين | Kick-off in 30 min: Sturm Graz vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112330@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T190000Z
+DTEND:20260916T210000Z
+SUMMARY:Sunderland vs AZ Alkmaar — UEFA Europa League
+LOCATION:Stadium of Light\, Sunderland\, England
+GEO:54.914422;-1.388177
+URL:https://www.fotmob.com/match/6112330
+DESCRIPTION:⚽ سندرلاند × ألكمار\n🏆 الدوري الأ
+ وروبي — الجولة 1\n🗓 الأربعاء 16 سبتمبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Stadium of Light، Sunderland\n
+ —————\n⚽ Sunderland v AZ Alkmaar\n🏆 UEFA Europa League — 
+ Matchday 1\n🗓 Wed 16 Sep 2026 · 19:00 UTC\n🏟 Stadium of Light, Sund
+ erland\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد ألكمار — الدور
+ ي الأوروبي | Tomorrow: Sunderland vs AZ Alkmaar
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × ألكمار | Kick-off in 30 min: Sunderland vs AZ Alkmaar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112379@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260917T164500Z
+DTEND:20260917T184500Z
+SUMMARY:Levski Sofia vs Salzburg — UEFA Europa League
+LOCATION:Stadion Georgi Asparuhov\, Sofia\, Bulgaria
+GEO:42.705304;23.363172
+URL:https://www.fotmob.com/match/6112379
+DESCRIPTION:⚽ ليفسكي صوفيا × Salzburg\n🏆 الدوري ال
+ أوروبي — الجولة 1\n🗓 الخميس 17 سبتمبر 2026 ·
+  19:45 بتوقيت الرياض\n🏟 Stadion Georgi Asparuhov، Sofia\n
+ —————\n⚽ Levski Sofia v Salzburg\n🏆 UEFA Europa League — 
+ Matchday 1\n🗓 Thu 17 Sep 2026 · 16:45 UTC\n🏟 Stadion Georgi Asparuh
+ ov, Sofia\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفسكي صوفيا ضد Salzburg — الد
+ وري الأوروبي | Tomorrow: Levski Sofia vs Salzburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفسك
+ ي صوفيا × Salzburg | Kick-off in 30 min: Levski Sofia vs Salzburg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112373@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260917T164500Z
+DTEND:20260917T184500Z
+SUMMARY:OFI Crete vs Hoffenheim — UEFA Europa League
+LOCATION:Pankritio Stadio\, Iraklio (Heraklion)\, Greece
+GEO:35.336869;25.106163
+URL:https://www.fotmob.com/match/6112373
+DESCRIPTION:⚽ أوفي كريت × هوفنهايم\n🏆 الدوري ا
+ لأوروبي — الجولة 1\n🗓 الخميس 17 سبتمبر 2026 
+ · 19:45 بتوقيت الرياض\n🏟 Pankritio Stadio، Iraklio (Herak
+ lion)\n—————\n⚽ OFI Crete v Hoffenheim\n🏆 UEFA Europa Leagu
+ e — Matchday 1\n🗓 Thu 17 Sep 2026 · 16:45 UTC\n🏟 Pankritio Stadio
+ , Iraklio (Heraklion)\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوفي كريت ضد هوفنهايم — ال
+ دوري الأوروبي | Tomorrow: OFI Crete vs Hoffenheim
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوفي ك
+ ريت × هوفنهايم | Kick-off in 30 min: OFI Crete vs Hoffenheim
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112354@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260917T190000Z
+DTEND:20260917T210000Z
+SUMMARY:Beşiktaş vs Marseille — UEFA Europa League
+LOCATION:Tüpraş Stadyumu\, İstanbul\, Türkiye
+GEO:41.039424;28.994444
+URL:https://www.fotmob.com/match/6112354
+DESCRIPTION:⚽ بشكتاش × مارسيليا\n🏆 الدوري الأ
+ وروبي — الجولة 1\n🗓 الخميس 17 سبتمبر 2026 · 2
+ 2:00 بتوقيت الرياض\n🏟 Tüpraş Stadyumu، İstanbul\n——
+ ———\n⚽ Beşiktaş v Marseille\n🏆 UEFA Europa League — Matchda
+ y 1\n🗓 Thu 17 Sep 2026 · 19:00 UTC\n🏟 Tüpraş Stadyumu, İstanbul\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بشكتاش ضد مارسيليا — الدور
+ ي الأوروبي | Tomorrow: Beşiktaş vs Marseille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بشكتا
+ ش × مارسيليا | Kick-off in 30 min: Beşiktaş vs Marseille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112299@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260917T190000Z
+DTEND:20260917T210000Z
+SUMMARY:Celtic vs Ferencváros — UEFA Europa League
+LOCATION:Celtic Park\, Glasgow\, Scotland
+GEO:55.849719;-4.205580
+URL:https://www.fotmob.com/match/6112299
+DESCRIPTION:⚽ سيلتيك × فيرينتسفاروشي\n🏆 الدور
+ ي الأوروبي — الجولة 1\n🗓 الخميس 17 سبتمبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 Celtic Park، Glasgow\n—
+ ————\n⚽ Celtic v Ferencváros\n🏆 UEFA Europa League — Match
+ day 1\n🗓 Thu 17 Sep 2026 · 19:00 UTC\n🏟 Celtic Park, Glasgow\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتيك ضد فيرينتسفاروشي — 
+ الدوري الأوروبي | Tomorrow: Celtic vs Ferencváros
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتي
+ ك × فيرينتسفاروشي | Kick-off in 30 min: Celtic vs Ferencvá
+ ros
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112324@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260917T190000Z
+DTEND:20260917T210000Z
+SUMMARY:Crystal Palace vs Lech Poznań — UEFA Europa League
+LOCATION:Selhurst Park\, London\, England
+GEO:51.398279;-0.085503
+URL:https://www.fotmob.com/match/6112324
+DESCRIPTION:⚽ كريستال بالاس × ليخ بوزنان\n🏆 ال
+ دوري الأوروبي — الجولة 1\n🗓 الخميس 17 سبت
+ مبر 2026 · 22:00 بتوقيت الرياض\n🏟 Selhurst Park، Londo
+ n\n—————\n⚽ Crystal Palace v Lech Poznań\n🏆 UEFA Europa Le
+ ague — Matchday 1\n🗓 Thu 17 Sep 2026 · 19:00 UTC\n🏟 Selhurst Park
+ , London\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد ليخ بوزنا
+ ن — الدوري الأوروبي | Tomorrow: Crystal Palace vs Lech Po
+ znań
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × ليخ بوزنان | Kick-off in 30 min: Crystal Palac
+ e vs Lech Poznań
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112253@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260917T190000Z
+DTEND:20260917T210000Z
+SUMMARY:Juventus vs NEC Nijmegen — UEFA Europa League
+LOCATION:Allianz Stadium\, Torino\, Italy
+GEO:45.109527;7.641302
+URL:https://www.fotmob.com/match/6112253
+DESCRIPTION:⚽ يوفنتوس × نيميخين\n🏆 الدوري الأ
+ وروبي — الجولة 1\n🗓 الخميس 17 سبتمبر 2026 · 2
+ 2:00 بتوقيت الرياض\n🏟 Allianz Stadium، Torino\n———
+ ——\n⚽ Juventus v NEC Nijmegen\n🏆 UEFA Europa League — Matchday 
+ 1\n🗓 Thu 17 Sep 2026 · 19:00 UTC\n🏟 Allianz Stadium, Torino\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد نيميخين — الدور
+ ي الأوروبي | Tomorrow: Juventus vs NEC Nijmegen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × نيميخين | Kick-off in 30 min: Juventus vs NEC Nijmegen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112377@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260917T190000Z
+DTEND:20260917T210000Z
+SUMMARY:Lillestrøm vs Torreense — UEFA Europa League
+LOCATION:Åråsen Stadion\, Kjeller\, Norway
+GEO:59.962758;11.063527
+URL:https://www.fotmob.com/match/6112377
+DESCRIPTION:⚽ ليلستروم × توريينسي\n🏆 الدوري ا
+ لأوروبي — الجولة 1\n🗓 الخميس 17 سبتمبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Åråsen Stadion، Kjeller\n—
+ ————\n⚽ Lillestrøm v Torreense\n🏆 UEFA Europa League — Mat
+ chday 1\n🗓 Thu 17 Sep 2026 · 19:00 UTC\n🏟 Åråsen Stadion, Kjeller
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليلستروم ضد توريينسي — الد
+ وري الأوروبي | Tomorrow: Lillestrøm vs Torreense
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليلست
+ روم × توريينسي | Kick-off in 30 min: Lillestrøm vs Torreense
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112272@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260917T190000Z
+DTEND:20260917T210000Z
+SUMMARY:Real Sociedad vs AFC Bournemouth — UEFA Europa League
+LOCATION:Estadio Municipal de Anoeta\, Donostia-San Sebastián\, Spain
+GEO:43.301376;-1.973602
+URL:https://www.fotmob.com/match/6112272
+DESCRIPTION:⚽ ريال سوسيداد × بورنموث\n🏆 الدور
+ ي الأوروبي — الجولة 1\n🗓 الخميس 17 سبتمبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio Municipal de Anoeta
+ ، Donostia-San Sebastián\n—————\n⚽ Real Sociedad v AFC Bourn
+ emouth\n🏆 UEFA Europa League — Matchday 1\n🗓 Thu 17 Sep 2026 · 19
+ :00 UTC\n🏟 Estadio Municipal de Anoeta, Donostia-San Sebastián\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد بورنموث — 
+ الدوري الأوروبي | Tomorrow: Real Sociedad vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × بورنموث | Kick-off in 30 min: Real Sociedad vs AFC 
+ Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112283@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260917T190000Z
+DTEND:20260917T210000Z
+SUMMARY:Viktoria Plzeň vs Union St.Gilloise — UEFA Europa League
+LOCATION:Doosan Aréna\, Plzeň\, Czech Republic
+GEO:49.750074;13.385446
+URL:https://www.fotmob.com/match/6112283
+DESCRIPTION:⚽ فيكتوريا بلزن × يونيون سانت جيلو
+ از\n🏆 الدوري الأوروبي — الجولة 1\n🗓 الخم
+ يس 17 سبتمبر 2026 · 22:00 بتوقيت الرياض\n🏟 Doosan 
+ Aréna، Plzeň\n—————\n⚽ Viktoria Plzeň v Union St.Gilloise\
+ n🏆 UEFA Europa League — Matchday 1\n🗓 Thu 17 Sep 2026 · 19:00 UTC
+ \n🏟 Doosan Aréna, Plzeň\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيكتوريا بلزن ضد يونيون سا
+ نت جيلواز — الدوري الأوروبي | Tomorrow: Viktoria P
+ lzeň vs Union St.Gilloise
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيكتو
+ ريا بلزن × يونيون سانت جيلواز | Kick-off in 30 min
+ : Viktoria Plzeň vs Union St.Gilloise
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112265@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:AZ Alkmaar vs Hapoel Beer Sheva — UEFA Europa League
+LOCATION:AFAS Stadion\, Alkmaar\, Netherlands
+GEO:52.612736;4.742103
+URL:https://www.fotmob.com/match/6112265
+DESCRIPTION:⚽ ألكمار × هبوعيل بئر سبع\n🏆 الدور
+ ي الأوروبي — الجولة 2\n🗓 الخميس 15 أكتوبر 
+ 2026 · 19:45 بتوقيت الرياض\n🏟 AFAS Stadion، Alkmaar\n—
+ ————\n⚽ AZ Alkmaar v Hapoel Beer Sheva\n🏆 UEFA Europa League 
+ — Matchday 2\n🗓 Thu 15 Oct 2026 · 16:45 UTC\n🏟 AFAS Stadion, Alkm
+ aar\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ألكمار ضد هبوعيل بئر سبع — 
+ الدوري الأوروبي | Tomorrow: AZ Alkmaar vs Hapoel Beer Sheva
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ألكما
+ ر × هبوعيل بئر سبع | Kick-off in 30 min: AZ Alkmaar vs Hapoe
+ l Beer Sheva
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112318@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:Lech Poznań vs Bayer Leverkusen — UEFA Europa League
+LOCATION:Enea Stadion\, Poznań\, Poland
+GEO:52.397679;16.858161
+URL:https://www.fotmob.com/match/6112318
+DESCRIPTION:⚽ ليخ بوزنان × باير ليفركوزن\n🏆 ال
+ دوري الأوروبي — الجولة 2\n🗓 الخميس 15 أكت
+ وبر 2026 · 19:45 بتوقيت الرياض\n🏟 Enea Stadion، Pozna
+ ń\n—————\n⚽ Lech Poznań v Bayer Leverkusen\n🏆 UEFA Europa
+  League — Matchday 2\n🗓 Thu 15 Oct 2026 · 16:45 UTC\n🏟 Enea Stadi
+ on, Poznań\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليخ بوزنان ضد باير ليفركوز
+ ن — الدوري الأوروبي | Tomorrow: Lech Poznań vs Bayer Lev
+ erkusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليخ بو
+ زنان × باير ليفركوزن | Kick-off in 30 min: Lech Poznań v
+ s Bayer Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112260@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:Lyon vs Crystal Palace — UEFA Europa League
+LOCATION:Groupama Stadium\, Décines-Charpieu\, France
+GEO:45.765310;4.982064
+URL:https://www.fotmob.com/match/6112260
+DESCRIPTION:⚽ أولمبيك ليون × كريستال بالاس\n🏆 
+ الدوري الأوروبي — الجولة 2\n🗓 الخميس 15 أ
+ كتوبر 2026 · 19:45 بتوقيت الرياض\n🏟 Groupama Stadium
+ ، Décines-Charpieu\n—————\n⚽ Lyon v Crystal Palace\n🏆 UEF
+ A Europa League — Matchday 2\n🗓 Thu 15 Oct 2026 · 16:45 UTC\n🏟 Gr
+ oupama Stadium, Décines-Charpieu\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد كريستال با
+ لاس — الدوري الأوروبي | Tomorrow: Lyon vs Crystal Palac
+ e
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × كريستال بالاس | Kick-off in 30 min: Lyon vs C
+ rystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112336@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:NK Celje vs Omonia Nicosia — UEFA Europa League
+LOCATION:Stadion Z'dežele\, Celje\, Slovenia
+GEO:46.246573;15.269923
+URL:https://www.fotmob.com/match/6112336
+DESCRIPTION:⚽ تسيليى × Omonia Nicosia\n🏆 الدوري الأو
+ روبي — الجولة 2\n🗓 الخميس 15 أكتوبر 2026 · 19:
+ 45 بتوقيت الرياض\n🏟 Stadion Z'dežele، Celje\n————
+ —\n⚽ NK Celje v Omonia Nicosia\n🏆 UEFA Europa League — Matchday 2
+ \n🗓 Thu 15 Oct 2026 · 16:45 UTC\n🏟 Stadion Z'dežele, Celje\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تسيليى ضد Omonia Nicosia — الدوري
+  الأوروبي | Tomorrow: NK Celje vs Omonia Nicosia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تسيلي
+ ى × Omonia Nicosia | Kick-off in 30 min: NK Celje vs Omonia Nicosia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112294@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:Salzburg vs Milan — UEFA Europa League
+LOCATION:Red Bull Arena\, Wals-Siezenheim\, Austria
+GEO:47.816294;12.998183
+URL:https://www.fotmob.com/match/6112294
+DESCRIPTION:⚽ Salzburg × ميلان\n🏆 الدوري الأوروبي 
+ — الجولة 2\n🗓 الخميس 15 أكتوبر 2026 · 19:45 بتو
+ قيت الرياض\n🏟 Red Bull Arena، Wals-Siezenheim\n————
+ —\n⚽ Salzburg v Milan\n🏆 UEFA Europa League — Matchday 2\n🗓 Th
+ u 15 Oct 2026 · 16:45 UTC\n🏟 Red Bull Arena, Wals-Siezenheim\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Salzburg ضد ميلان — الدوري الأ
+ وروبي | Tomorrow: Salzburg vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Salzburg ×
+  ميلان | Kick-off in 30 min: Salzburg vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112305@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:Sparta Prague vs Lillestrøm — UEFA Europa League
+LOCATION:epet ARENA\, Praha\, Czech Republic
+GEO:50.099816;14.415827
+URL:https://www.fotmob.com/match/6112305
+DESCRIPTION:⚽ سبارتا براغ × ليلستروم\n🏆 الدور
+ ي الأوروبي — الجولة 2\n🗓 الخميس 15 أكتوبر 
+ 2026 · 19:45 بتوقيت الرياض\n🏟 epet ARENA، Praha\n——
+ ———\n⚽ Sparta Prague v Lillestrøm\n🏆 UEFA Europa League — Ma
+ tchday 2\n🗓 Thu 15 Oct 2026 · 16:45 UTC\n🏟 epet ARENA, Praha\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سبارتا براغ ضد ليلستروم — 
+ الدوري الأوروبي | Tomorrow: Sparta Prague vs Lillestrøm
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سبارت
+ ا براغ × ليلستروم | Kick-off in 30 min: Sparta Prague vs Lil
+ lestrøm
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112360@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:Torreense vs Sunderland — UEFA Europa League
+LOCATION:Campo Manuel Marques\, Torres Vedras\, Portugal
+GEO:39.094878;-9.256749
+URL:https://www.fotmob.com/match/6112360
+DESCRIPTION:⚽ توريينسي × سندرلاند\n🏆 الدوري ا
+ لأوروبي — الجولة 2\n🗓 الخميس 15 أكتوبر 2026 
+ · 19:45 بتوقيت الرياض\n🏟 Campo Manuel Marques، Torres Ved
+ ras\n—————\n⚽ Torreense v Sunderland\n🏆 UEFA Europa League 
+ — Matchday 2\n🗓 Thu 15 Oct 2026 · 16:45 UTC\n🏟 Campo Manuel Marqu
+ es, Torres Vedras\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توريينسي ضد سندرلاند — الد
+ وري الأوروبي | Tomorrow: Torreense vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توريي
+ نسي × سندرلاند | Kick-off in 30 min: Torreense vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112286@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:Union St.Gilloise vs Real Sociedad — UEFA Europa League
+LOCATION:Stade Joseph Mariën\, Bruxelles (Brussels)\, Belgium
+GEO:50.817764;4.329295
+URL:https://www.fotmob.com/match/6112286
+DESCRIPTION:⚽ يونيون سانت جيلواز × ريال سوسيدا
+ د\n🏆 الدوري الأوروبي — الجولة 2\n🗓 الخمي
+ س 15 أكتوبر 2026 · 19:45 بتوقيت الرياض\n🏟 Stade Jos
+ eph Mariën، Bruxelles (Brussels)\n—————\n⚽ Union St.Gilloise
+  v Real Sociedad\n🏆 UEFA Europa League — Matchday 2\n🗓 Thu 15 Oct 
+ 2026 · 16:45 UTC\n🏟 Stade Joseph Mariën, Bruxelles (Brussels)\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون سانت جيلواز ضد ريال 
+ سوسيداد — الدوري الأوروبي | Tomorrow: Union St.Gill
+ oise vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن سانت جيلواز × ريال سوسيداد | Kick-off in 30 min: 
+ Union St.Gilloise vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112328@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:AFC Bournemouth vs Sturm Graz — UEFA Europa League
+LOCATION:Vitality Stadium\, Bournemouth\, Dorset\, England
+GEO:50.735241;-1.838310
+URL:https://www.fotmob.com/match/6112328
+DESCRIPTION:⚽ بورنموث × شتورم غراتس\n🏆 الدوري 
+ الأوروبي — الجولة 2\n🗓 الخميس 15 أكتوبر 202
+ 6 · 22:00 بتوقيت الرياض\n🏟 Vitality Stadium، Bournemouth,
+  Dorset\n—————\n⚽ AFC Bournemouth v Sturm Graz\n🏆 UEFA Euro
+ pa League — Matchday 2\n🗓 Thu 15 Oct 2026 · 19:00 UTC\n🏟 Vitality
+  Stadium, Bournemouth, Dorset\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد شتورم غراتس — ا
+ لدوري الأوروبي | Tomorrow: AFC Bournemouth vs Sturm Graz
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × شتورم غراتس | Kick-off in 30 min: AFC Bournemouth vs Stu
+ rm Graz
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112247@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:Benfica vs Celtic — UEFA Europa League
+LOCATION:Estádio do Sport Lisboa e Benfica (da Luz)\, Lisboa\, Portugal
+GEO:38.752648;-9.184699
+URL:https://www.fotmob.com/match/6112247
+DESCRIPTION:⚽ بنفيكا × سيلتيك\n🏆 الدوري الأور
+ وبي — الجولة 2\n🗓 الخميس 15 أكتوبر 2026 · 22:00
+  بتوقيت الرياض\n🏟 Estádio do Sport Lisboa e Benfica (da Lu
+ z)، Lisboa\n—————\n⚽ Benfica v Celtic\n🏆 UEFA Europa Leagu
+ e — Matchday 2\n🗓 Thu 15 Oct 2026 · 19:00 UTC\n🏟 Estádio do Spor
+ t Lisboa e Benfica (da Luz), Lisboa\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بنفيكا ضد سيلتيك — الدوري 
+ الأوروبي | Tomorrow: Benfica vs Celtic
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بنفيك
+ ا × سيلتيك | Kick-off in 30 min: Benfica vs Celtic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112346@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:Celta Vigo vs Juventus — UEFA Europa League
+LOCATION:Estadio Abanca-Balaídos\, Vigo\, Spain
+GEO:42.211852;-8.739721
+URL:https://www.fotmob.com/match/6112346
+DESCRIPTION:⚽ سيلتا فيجو × يوفنتوس\n🏆 الدوري ا
+ لأوروبي — الجولة 2\n🗓 الخميس 15 أكتوبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Estadio Abanca-Balaídos، Vigo\n
+ —————\n⚽ Celta Vigo v Juventus\n🏆 UEFA Europa League — Ma
+ tchday 2\n🗓 Thu 15 Oct 2026 · 19:00 UTC\n🏟 Estadio Abanca-Balaídos
+ , Vigo\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتا فيجو ضد يوفنتوس — ال
+ دوري الأوروبي | Tomorrow: Celta Vigo vs Juventus
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتا 
+ فيجو × يوفنتوس | Kick-off in 30 min: Celta Vigo vs Juventus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112291@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:Dinamo Zagreb vs Anderlecht — UEFA Europa League
+LOCATION:Stadion Maksimir\, Zagreb\, Croatia
+GEO:45.818781;16.017884
+URL:https://www.fotmob.com/match/6112291
+DESCRIPTION:⚽ دينامو زغرب × أندرلخت\n🏆 الدوري 
+ الأوروبي — الجولة 2\n🗓 الخميس 15 أكتوبر 202
+ 6 · 22:00 بتوقيت الرياض\n🏟 Stadion Maksimir، Zagreb\n—
+ ————\n⚽ Dinamo Zagreb v Anderlecht\n🏆 UEFA Europa League — 
+ Matchday 2\n🗓 Thu 15 Oct 2026 · 19:00 UTC\n🏟 Stadion Maksimir, Zagr
+ eb\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: دينامو زغرب ضد أندرلخت — ا
+ لدوري الأوروبي | Tomorrow: Dinamo Zagreb vs Anderlecht
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: دينام
+ و زغرب × أندرلخت | Kick-off in 30 min: Dinamo Zagreb vs Ander
+ lecht
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112279@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:Ferencváros vs Viktoria Plzeň — UEFA Europa League
+LOCATION:Groupama Aréna\, Budapest\, Hungary
+GEO:47.475514;19.095286
+URL:https://www.fotmob.com/match/6112279
+DESCRIPTION:⚽ فيرينتسفاروشي × فيكتوريا بلزن\n
+ 🏆 الدوري الأوروبي — الجولة 2\n🗓 الخميس 1
+ 5 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Groupama Aré
+ na، Budapest\n—————\n⚽ Ferencváros v Viktoria Plzeň\n🏆 U
+ EFA Europa League — Matchday 2\n🗓 Thu 15 Oct 2026 · 19:00 UTC\n🏟 
+ Groupama Aréna, Budapest\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيرينتسفاروشي ضد فيكتوريا 
+ بلزن — الدوري الأوروبي | Tomorrow: Ferencváros vs Vik
+ toria Plzeň
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيرين
+ تسفاروشي × فيكتوريا بلزن | Kick-off in 30 min: Ferenc
+ város vs Viktoria Plzeň
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112353@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:Hoffenheim vs Beşiktaş — UEFA Europa League
+LOCATION:SNP Arena\, Sinsheim\, Germany
+GEO:49.238005;8.887741
+URL:https://www.fotmob.com/match/6112353
+DESCRIPTION:⚽ هوفنهايم × بشكتاش\n🏆 الدوري الأ
+ وروبي — الجولة 2\n🗓 الخميس 15 أكتوبر 2026 · 2
+ 2:00 بتوقيت الرياض\n🏟 SNP Arena، Sinsheim\n—————
+ \n⚽ Hoffenheim v Beşiktaş\n🏆 UEFA Europa League — Matchday 2\n
+ 🗓 Thu 15 Oct 2026 · 19:00 UTC\n🏟 SNP Arena, Sinsheim\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هوفنهايم ضد بشكتاش — الدور
+ ي الأوروبي | Tomorrow: Hoffenheim vs Beşiktaş
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هوفنه
+ ايم × بشكتاش | Kick-off in 30 min: Hoffenheim vs Beşiktaş
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112341@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:Jagiellonia Białystok vs Ararat Armenia — UEFA Europa League
+LOCATION:Chorten Arena\, Białystok\, Poland
+GEO:53.106006;23.149095
+URL:https://www.fotmob.com/match/6112341
+DESCRIPTION:⚽ ياغييلونيا بياويستوك × أرارات أ
+ رمينيا\n🏆 الدوري الأوروبي — الجولة 2\n🗓 
+ الخميس 15 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟
+  Chorten Arena، Białystok\n—————\n⚽ Jagiellonia Białystok v
+  Ararat Armenia\n🏆 UEFA Europa League — Matchday 2\n🗓 Thu 15 Oct 2
+ 026 · 19:00 UTC\n🏟 Chorten Arena, Białystok\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ياغييلونيا بياويستوك ضد أر
+ ارات أرمينيا — الدوري الأوروبي | Tomorrow: Jagi
+ ellonia Białystok vs Ararat Armenia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ياغيي
+ لونيا بياويستوك × أرارات أرمينيا | Kick-off in
+  30 min: Jagiellonia Białystok vs Ararat Armenia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112274@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:Marseille vs Olympiacos — UEFA Europa League
+LOCATION:Orange Vélodrome\, Marseille\, France
+GEO:43.269870;5.395854
+URL:https://www.fotmob.com/match/6112274
+DESCRIPTION:⚽ مارسيليا × أولمبياكوس\n🏆 الدوري
+  الأوروبي — الجولة 2\n🗓 الخميس 15 أكتوبر 20
+ 26 · 22:00 بتوقيت الرياض\n🏟 Orange Vélodrome، Marseille\
+ n—————\n⚽ Marseille v Olympiacos\n🏆 UEFA Europa League — 
+ Matchday 2\n🗓 Thu 15 Oct 2026 · 19:00 UTC\n🏟 Orange Vélodrome, Mar
+ seille\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مارسيليا ضد أولمبياكوس — ا
+ لدوري الأوروبي | Tomorrow: Marseille vs Olympiacos
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مارسي
+ ليا × أولمبياكوس | Kick-off in 30 min: Marseille vs Olympiac
+ os
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112369@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:NEC Nijmegen vs Levski Sofia — UEFA Europa League
+LOCATION:Goffertstadion\, Nijmegen\, Netherlands
+GEO:51.822455;5.837205
+URL:https://www.fotmob.com/match/6112369
+DESCRIPTION:⚽ نيميخين × ليفسكي صوفيا\n🏆 الدور
+ ي الأوروبي — الجولة 2\n🗓 الخميس 15 أكتوبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 Goffertstadion، Nijmegen\n
+ —————\n⚽ NEC Nijmegen v Levski Sofia\n🏆 UEFA Europa League 
+ — Matchday 2\n🗓 Thu 15 Oct 2026 · 19:00 UTC\n🏟 Goffertstadion, Ni
+ jmegen\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيميخين ضد ليفسكي صوفيا — 
+ الدوري الأوروبي | Tomorrow: NEC Nijmegen vs Levski Sofia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيميخ
+ ين × ليفسكي صوفيا | Kick-off in 30 min: NEC Nijmegen vs Levs
+ ki Sofia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112309@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:Rennes vs OFI Crete — UEFA Europa League
+LOCATION:Roazhon Park\, Rennes\, France
+GEO:48.107467;-1.712884
+URL:https://www.fotmob.com/match/6112309
+DESCRIPTION:⚽ ستاد رين × أوفي كريت\n🏆 الدوري ا
+ لأوروبي — الجولة 2\n🗓 الخميس 15 أكتوبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Roazhon Park، Rennes\n———
+ ——\n⚽ Rennes v OFI Crete\n🏆 UEFA Europa League — Matchday 2\n
+ 🗓 Thu 15 Oct 2026 · 19:00 UTC\n🏟 Roazhon Park, Rennes\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد أوفي كريت — الد
+ وري الأوروبي | Tomorrow: Rennes vs OFI Crete
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × أوفي كريت | Kick-off in 30 min: Rennes vs OFI Crete
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112382@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T164500Z
+DTEND:20261022T184500Z
+SUMMARY:Ararat Armenia vs AZ Alkmaar — UEFA Europa League
+LOCATION:Kotaik Stadium\, Abovian\, Armenia
+GEO:40.268491;44.635429
+URL:https://www.fotmob.com/match/6112382
+DESCRIPTION:⚽ أرارات أرمينيا × ألكمار\n🏆 الدو
+ ري الأوروبي — الجولة 3\n🗓 الخميس 22 أكتوب
+ ر 2026 · 19:45 بتوقيت الرياض\n🏟 Kotaik Stadium، Abovian\
+ n—————\n⚽ Ararat Armenia v AZ Alkmaar\n🏆 UEFA Europa League
+  — Matchday 3\n🗓 Thu 22 Oct 2026 · 16:45 UTC\n🏟 Kotaik Stadium, A
+ bovian\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرارات أرمينيا ضد ألكمار —
+  الدوري الأوروبي | Tomorrow: Ararat Armenia vs AZ Alkmaar
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرارا
+ ت أرمينيا × ألكمار | Kick-off in 30 min: Ararat Armenia vs 
+ AZ Alkmaar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112293@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T164500Z
+DTEND:20261022T184500Z
+SUMMARY:Dinamo Zagreb vs NEC Nijmegen — UEFA Europa League
+LOCATION:Stadion Maksimir\, Zagreb\, Croatia
+GEO:45.818781;16.017884
+URL:https://www.fotmob.com/match/6112293
+DESCRIPTION:⚽ دينامو زغرب × نيميخين\n🏆 الدوري 
+ الأوروبي — الجولة 3\n🗓 الخميس 22 أكتوبر 202
+ 6 · 19:45 بتوقيت الرياض\n🏟 Stadion Maksimir، Zagreb\n—
+ ————\n⚽ Dinamo Zagreb v NEC Nijmegen\n🏆 UEFA Europa League 
+ — Matchday 3\n🗓 Thu 22 Oct 2026 · 16:45 UTC\n🏟 Stadion Maksimir, 
+ Zagreb\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: دينامو زغرب ضد نيميخين — ا
+ لدوري الأوروبي | Tomorrow: Dinamo Zagreb vs NEC Nijmegen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: دينام
+ و زغرب × نيميخين | Kick-off in 30 min: Dinamo Zagreb vs NEC N
+ ijmegen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112281@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T164500Z
+DTEND:20261022T184500Z
+SUMMARY:Ferencváros vs Torreense — UEFA Europa League
+LOCATION:Groupama Aréna\, Budapest\, Hungary
+GEO:47.475514;19.095286
+URL:https://www.fotmob.com/match/6112281
+DESCRIPTION:⚽ فيرينتسفاروشي × توريينسي\n🏆 الد
+ وري الأوروبي — الجولة 3\n🗓 الخميس 22 أكتو
+ بر 2026 · 19:45 بتوقيت الرياض\n🏟 Groupama Aréna، Budap
+ est\n—————\n⚽ Ferencváros v Torreense\n🏆 UEFA Europa Leagu
+ e — Matchday 3\n🗓 Thu 22 Oct 2026 · 16:45 UTC\n🏟 Groupama Aréna,
+  Budapest\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيرينتسفاروشي ضد توريينسي 
+ — الدوري الأوروبي | Tomorrow: Ferencváros vs Torreense
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيرين
+ تسفاروشي × توريينسي | Kick-off in 30 min: Ferencváros vs
+  Torreense
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112251@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T164500Z
+DTEND:20261022T184500Z
+SUMMARY:Juventus vs Rennes — UEFA Europa League
+LOCATION:Allianz Stadium\, Torino\, Italy
+GEO:45.109527;7.641302
+URL:https://www.fotmob.com/match/6112251
+DESCRIPTION:⚽ يوفنتوس × ستاد رين\n🏆 الدوري الأ
+ وروبي — الجولة 3\n🗓 الخميس 22 أكتوبر 2026 · 1
+ 9:45 بتوقيت الرياض\n🏟 Allianz Stadium، Torino\n———
+ ——\n⚽ Juventus v Rennes\n🏆 UEFA Europa League — Matchday 3\n
+ 🗓 Thu 22 Oct 2026 · 16:45 UTC\n🏟 Allianz Stadium, Torino\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد ستاد رين — الدو
+ ري الأوروبي | Tomorrow: Juventus vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × ستاد رين | Kick-off in 30 min: Juventus vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112320@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T164500Z
+DTEND:20261022T184500Z
+SUMMARY:Lech Poznań vs Sunderland — UEFA Europa League
+LOCATION:Enea Stadion\, Poznań\, Poland
+GEO:52.397679;16.858161
+URL:https://www.fotmob.com/match/6112320
+DESCRIPTION:⚽ ليخ بوزنان × سندرلاند\n🏆 الدوري 
+ الأوروبي — الجولة 3\n🗓 الخميس 22 أكتوبر 202
+ 6 · 19:45 بتوقيت الرياض\n🏟 Enea Stadion، Poznań\n——
+ ———\n⚽ Lech Poznań v Sunderland\n🏆 UEFA Europa League — Matc
+ hday 3\n🗓 Thu 22 Oct 2026 · 16:45 UTC\n🏟 Enea Stadion, Poznań\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليخ بوزنان ضد سندرلاند — ا
+ لدوري الأوروبي | Tomorrow: Lech Poznań vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليخ بو
+ زنان × سندرلاند | Kick-off in 30 min: Lech Poznań vs Sunderl
+ and
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112370@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T164500Z
+DTEND:20261022T184500Z
+SUMMARY:OFI Crete vs Bayer Leverkusen — UEFA Europa League
+LOCATION:Pankritio Stadio\, Iraklio (Heraklion)\, Greece
+GEO:35.336869;25.106163
+URL:https://www.fotmob.com/match/6112370
+DESCRIPTION:⚽ أوفي كريت × باير ليفركوزن\n🏆 الد
+ وري الأوروبي — الجولة 3\n🗓 الخميس 22 أكتو
+ بر 2026 · 19:45 بتوقيت الرياض\n🏟 Pankritio Stadio، Irak
+ lio (Heraklion)\n—————\n⚽ OFI Crete v Bayer Leverkusen\n🏆 U
+ EFA Europa League — Matchday 3\n🗓 Thu 22 Oct 2026 · 16:45 UTC\n🏟 
+ Pankritio Stadio, Iraklio (Heraklion)\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوفي كريت ضد باير ليفركوزن 
+ — الدوري الأوروبي | Tomorrow: OFI Crete vs Bayer Leverkuse
+ n
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوفي ك
+ ريت × باير ليفركوزن | Kick-off in 30 min: OFI Crete vs Bay
+ er Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112314@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T164500Z
+DTEND:20261022T184500Z
+SUMMARY:Sturm Graz vs Marseille — UEFA Europa League
+LOCATION:Stadion Graz-Liebenau\, Graz\, Austria
+GEO:47.046375;15.454781
+URL:https://www.fotmob.com/match/6112314
+DESCRIPTION:⚽ شتورم غراتس × مارسيليا\n🏆 الدور
+ ي الأوروبي — الجولة 3\n🗓 الخميس 22 أكتوبر 
+ 2026 · 19:45 بتوقيت الرياض\n🏟 Stadion Graz-Liebenau، Graz
+ \n—————\n⚽ Sturm Graz v Marseille\n🏆 UEFA Europa League —
+  Matchday 3\n🗓 Thu 22 Oct 2026 · 16:45 UTC\n🏟 Stadion Graz-Liebenau
+ , Graz\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتورم غراتس ضد مارسيليا — 
+ الدوري الأوروبي | Tomorrow: Sturm Graz vs Marseille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتورم 
+ غراتس × مارسيليا | Kick-off in 30 min: Sturm Graz vs Marseil
+ le
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112289@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T164500Z
+DTEND:20261022T184500Z
+SUMMARY:Union St.Gilloise vs Hapoel Beer Sheva — UEFA Europa League
+LOCATION:Stade Joseph Mariën\, Bruxelles (Brussels)\, Belgium
+GEO:50.817764;4.329295
+URL:https://www.fotmob.com/match/6112289
+DESCRIPTION:⚽ يونيون سانت جيلواز × هبوعيل بئر 
+ سبع\n🏆 الدوري الأوروبي — الجولة 3\n🗓 الخ
+ ميس 22 أكتوبر 2026 · 19:45 بتوقيت الرياض\n🏟 Stade
+  Joseph Mariën، Bruxelles (Brussels)\n—————\n⚽ Union St.Gill
+ oise v Hapoel Beer Sheva\n🏆 UEFA Europa League — Matchday 3\n🗓 Thu
+  22 Oct 2026 · 16:45 UTC\n🏟 Stade Joseph Mariën, Bruxelles (Brussels)
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون سانت جيلواز ضد هبوع
+ يل بئر سبع — الدوري الأوروبي | Tomorrow: Union St.
+ Gilloise vs Hapoel Beer Sheva
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن سانت جيلواز × هبوعيل بئر سبع | Kick-off in 30 mi
+ n: Union St.Gilloise vs Hapoel Beer Sheva
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112326@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:AFC Bournemouth vs Milan — UEFA Europa League
+LOCATION:Vitality Stadium\, Bournemouth\, Dorset\, England
+GEO:50.735241;-1.838310
+URL:https://www.fotmob.com/match/6112326
+DESCRIPTION:⚽ بورنموث × ميلان\n🏆 الدوري الأور
+ وبي — الجولة 3\n🗓 الخميس 22 أكتوبر 2026 · 22:00
+  بتوقيت الرياض\n🏟 Vitality Stadium، Bournemouth, Dorset\n
+ —————\n⚽ AFC Bournemouth v Milan\n🏆 UEFA Europa League — 
+ Matchday 3\n🗓 Thu 22 Oct 2026 · 19:00 UTC\n🏟 Vitality Stadium, Bour
+ nemouth, Dorset\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد ميلان — الدوري 
+ الأوروبي | Tomorrow: AFC Bournemouth vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × ميلان | Kick-off in 30 min: AFC Bournemouth vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112356@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Beşiktaş vs Crystal Palace — UEFA Europa League
+LOCATION:Tüpraş Stadyumu\, İstanbul\, Türkiye
+GEO:41.039424;28.994444
+URL:https://www.fotmob.com/match/6112356
+DESCRIPTION:⚽ بشكتاش × كريستال بالاس\n🏆 الدور
+ ي الأوروبي — الجولة 3\n🗓 الخميس 22 أكتوبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 Tüpraş Stadyumu، İstanbu
+ l\n—————\n⚽ Beşiktaş v Crystal Palace\n🏆 UEFA Europa Leag
+ ue — Matchday 3\n🗓 Thu 22 Oct 2026 · 19:00 UTC\n🏟 Tüpraş Stadyu
+ mu, İstanbul\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بشكتاش ضد كريستال بالاس — 
+ الدوري الأوروبي | Tomorrow: Beşiktaş vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بشكتا
+ ش × كريستال بالاس | Kick-off in 30 min: Beşiktaş vs Crysta
+ l Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112300@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Celtic vs Celta Vigo — UEFA Europa League
+LOCATION:Celtic Park\, Glasgow\, Scotland
+GEO:55.849719;-4.205580
+URL:https://www.fotmob.com/match/6112300
+DESCRIPTION:⚽ سيلتيك × سيلتا فيجو\n🏆 الدوري ال
+ أوروبي — الجولة 3\n🗓 الخميس 22 أكتوبر 2026 ·
+  22:00 بتوقيت الرياض\n🏟 Celtic Park، Glasgow\n————
+ —\n⚽ Celtic v Celta Vigo\n🏆 UEFA Europa League — Matchday 3\n🗓
+  Thu 22 Oct 2026 · 19:00 UTC\n🏟 Celtic Park, Glasgow\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتيك ضد سيلتا فيجو — الد
+ وري الأوروبي | Tomorrow: Celtic vs Celta Vigo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتي
+ ك × سيلتا فيجو | Kick-off in 30 min: Celtic vs Celta Vigo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112350@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Hoffenheim vs Lyon — UEFA Europa League
+LOCATION:SNP Arena\, Sinsheim\, Germany
+GEO:49.238005;8.887741
+URL:https://www.fotmob.com/match/6112350
+DESCRIPTION:⚽ هوفنهايم × أولمبيك ليون\n🏆 الدو
+ ري الأوروبي — الجولة 3\n🗓 الخميس 22 أكتوب
+ ر 2026 · 22:00 بتوقيت الرياض\n🏟 SNP Arena، Sinsheim\n—
+ ————\n⚽ Hoffenheim v Lyon\n🏆 UEFA Europa League — Matchday 
+ 3\n🗓 Thu 22 Oct 2026 · 19:00 UTC\n🏟 SNP Arena, Sinsheim\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هوفنهايم ضد أولمبيك ليون —
+  الدوري الأوروبي | Tomorrow: Hoffenheim vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هوفنه
+ ايم × أولمبيك ليون | Kick-off in 30 min: Hoffenheim vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112339@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Jagiellonia Białystok vs Anderlecht — UEFA Europa League
+LOCATION:Chorten Arena\, Białystok\, Poland
+GEO:53.106006;23.149095
+URL:https://www.fotmob.com/match/6112339
+DESCRIPTION:⚽ ياغييلونيا بياويستوك × أندرلخت\n
+ 🏆 الدوري الأوروبي — الجولة 3\n🗓 الخميس 2
+ 2 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Chorten Arena
+ ، Białystok\n—————\n⚽ Jagiellonia Białystok v Anderlecht\n
+ 🏆 UEFA Europa League — Matchday 3\n🗓 Thu 22 Oct 2026 · 19:00 UTC\
+ n🏟 Chorten Arena, Białystok\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ياغييلونيا بياويستوك ضد أن
+ درلخت — الدوري الأوروبي | Tomorrow: Jagiellonia Biał
+ ystok vs Anderlecht
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ياغيي
+ لونيا بياويستوك × أندرلخت | Kick-off in 30 min: Jagi
+ ellonia Białystok vs Anderlecht
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112374@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Lillestrøm vs Real Sociedad — UEFA Europa League
+LOCATION:Åråsen Stadion\, Kjeller\, Norway
+GEO:59.962758;11.063527
+URL:https://www.fotmob.com/match/6112374
+DESCRIPTION:⚽ ليلستروم × ريال سوسيداد\n🏆 الدو
+ ري الأوروبي — الجولة 3\n🗓 الخميس 22 أكتوب
+ ر 2026 · 22:00 بتوقيت الرياض\n🏟 Åråsen Stadion، Kjelle
+ r\n—————\n⚽ Lillestrøm v Real Sociedad\n🏆 UEFA Europa Leag
+ ue — Matchday 3\n🗓 Thu 22 Oct 2026 · 19:00 UTC\n🏟 Åråsen Stadio
+ n, Kjeller\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليلستروم ضد ريال سوسيداد —
+  الدوري الأوروبي | Tomorrow: Lillestrøm vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليلست
+ روم × ريال سوسيداد | Kick-off in 30 min: Lillestrøm vs Rea
+ l Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112335@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:NK Celje vs Salzburg — UEFA Europa League
+LOCATION:Stadion Z'dežele\, Celje\, Slovenia
+GEO:46.246573;15.269923
+URL:https://www.fotmob.com/match/6112335
+DESCRIPTION:⚽ تسيليى × Salzburg\n🏆 الدوري الأوروب
+ ي — الجولة 3\n🗓 الخميس 22 أكتوبر 2026 · 22:00 ب
+ توقيت الرياض\n🏟 Stadion Z'dežele، Celje\n—————\n
+ ⚽ NK Celje v Salzburg\n🏆 UEFA Europa League — Matchday 3\n🗓 Thu 
+ 22 Oct 2026 · 19:00 UTC\n🏟 Stadion Z'dežele, Celje\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تسيليى ضد Salzburg — الدوري ال
+ أوروبي | Tomorrow: NK Celje vs Salzburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تسيلي
+ ى × Salzburg | Kick-off in 30 min: NK Celje vs Salzburg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112267@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Olympiacos vs Sparta Prague — UEFA Europa League
+LOCATION:Stadio Georgios Karaiskákis\, Pireás (Piraeus)\, Greece
+GEO:37.946431;23.664384
+URL:https://www.fotmob.com/match/6112267
+DESCRIPTION:⚽ أولمبياكوس × سبارتا براغ\n🏆 الد
+ وري الأوروبي — الجولة 3\n🗓 الخميس 22 أكتو
+ بر 2026 · 22:00 بتوقيت الرياض\n🏟 Stadio Georgios Karaisk
+ ákis، Pireás (Piraeus)\n—————\n⚽ Olympiacos v Sparta Prague
+ \n🏆 UEFA Europa League — Matchday 3\n🗓 Thu 22 Oct 2026 · 19:00 UT
+ C\n🏟 Stadio Georgios Karaiskákis, Pireás (Piraeus)\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبياكوس ضد سبارتا براغ 
+ — الدوري الأوروبي | Tomorrow: Olympiacos vs Sparta Prague
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ ياكوس × سبارتا براغ | Kick-off in 30 min: Olympiacos vs Sp
+ arta Prague
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112342@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Omonia Nicosia vs Benfica — UEFA Europa League
+LOCATION:Neo GSP\, Nicosía (Levkosía)\, Cyprus
+GEO:35.114542;33.362888
+URL:https://www.fotmob.com/match/6112342
+DESCRIPTION:⚽ Omonia Nicosia × بنفيكا\n🏆 الدوري الأو
+ روبي — الجولة 3\n🗓 الخميس 22 أكتوبر 2026 · 22:
+ 00 بتوقيت الرياض\n🏟 Neo GSP، Nicosía (Levkosía)\n——
+ ———\n⚽ Omonia Nicosia v Benfica\n🏆 UEFA Europa League — Match
+ day 3\n🗓 Thu 22 Oct 2026 · 19:00 UTC\n🏟 Neo GSP, Nicosía (Levkosí
+ a)\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Omonia Nicosia ضد بنفيكا — الدوري
+  الأوروبي | Tomorrow: Omonia Nicosia vs Benfica
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Omonia Nico
+ sia × بنفيكا | Kick-off in 30 min: Omonia Nicosia vs Benfica
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112285@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Viktoria Plzeň vs Levski Sofia — UEFA Europa League
+LOCATION:Doosan Aréna\, Plzeň\, Czech Republic
+GEO:49.750074;13.385446
+URL:https://www.fotmob.com/match/6112285
+DESCRIPTION:⚽ فيكتوريا بلزن × ليفسكي صوفيا\n🏆 
+ الدوري الأوروبي — الجولة 3\n🗓 الخميس 22 أ
+ كتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Doosan Aréna، P
+ lzeň\n—————\n⚽ Viktoria Plzeň v Levski Sofia\n🏆 UEFA Euro
+ pa League — Matchday 3\n🗓 Thu 22 Oct 2026 · 19:00 UTC\n🏟 Doosan A
+ réna, Plzeň\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيكتوريا بلزن ضد ليفسكي صو
+ فيا — الدوري الأوروبي | Tomorrow: Viktoria Plzeň vs Le
+ vski Sofia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيكتو
+ ريا بلزن × ليفسكي صوفيا | Kick-off in 30 min: Viktoria 
+ Plzeň vs Levski Sofia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112255@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:Milan vs Ferencváros — UEFA Europa League
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/6112255
+DESCRIPTION:⚽ ميلان × فيرينتسفاروشي\n🏆 الدوري
+  الأوروبي — الجولة 4\n🗓 الخميس 5 نوفمبر 202
+ 6 · 20:45 بتوقيت الرياض\n🏟 San Siro\n—————\n⚽ 
+ Milan v Ferencváros\n🏆 UEFA Europa League — Matchday 4\n🗓 Thu 05 
+ Nov 2026 · 17:45 UTC\n🏟 San Siro\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد فيرينتسفاروشي — ا
+ لدوري الأوروبي | Tomorrow: Milan vs Ferencváros
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × فيرينتسفاروشي | Kick-off in 30 min: Milan vs Ferencváros
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112311@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:Anderlecht vs Salzburg — UEFA Europa League
+LOCATION:Lotto Park
+URL:https://www.fotmob.com/match/6112311
+DESCRIPTION:⚽ أندرلخت × Salzburg\n🏆 الدوري الأورو
+ بي — الجولة 4\n🗓 الخميس 5 نوفمبر 2026 · 20:45 ب
+ توقيت الرياض\n🏟 Lotto Park\n—————\n⚽ Anderlecht 
+ v Salzburg\n🏆 UEFA Europa League — Matchday 4\n🗓 Thu 05 Nov 2026 
+ · 17:45 UTC\n🏟 Lotto Park\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أندرلخت ضد Salzburg — الدوري ا
+ لأوروبي | Tomorrow: Anderlecht vs Salzburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أندرل
+ خت × Salzburg | Kick-off in 30 min: Anderlecht vs Salzburg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112325@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:Crystal Palace vs Hoffenheim — UEFA Europa League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/6112325
+DESCRIPTION:⚽ كريستال بالاس × هوفنهايم\n🏆 الد
+ وري الأوروبي — الجولة 4\n🗓 الخميس 5 نوفمب
+ ر 2026 · 20:45 بتوقيت الرياض\n🏟 Selhurst Park\n———
+ ——\n⚽ Crystal Palace v Hoffenheim\n🏆 UEFA Europa League — Match
+ day 4\n🗓 Thu 05 Nov 2026 · 17:45 UTC\n🏟 Selhurst Park\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد هوفنهايم 
+ — الدوري الأوروبي | Tomorrow: Crystal Palace vs Hoffenheim
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × هوفنهايم | Kick-off in 30 min: Crystal Palace v
+ s Hoffenheim
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112380@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:Levski Sofia vs Jagiellonia Białystok — UEFA Europa League
+LOCATION:Vasil Levski
+URL:https://www.fotmob.com/match/6112380
+DESCRIPTION:⚽ ليفسكي صوفيا × ياغييلونيا بياوي
+ ستوك\n🏆 الدوري الأوروبي — الجولة 4\n🗓 ال
+ خميس 5 نوفمبر 2026 · 20:45 بتوقيت الرياض\n🏟 Vasi
+ l Levski\n—————\n⚽ Levski Sofia v Jagiellonia Białystok\n🏆
+  UEFA Europa League — Matchday 4\n🗓 Thu 05 Nov 2026 · 17:45 UTC\n
+ 🏟 Vasil Levski\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفسكي صوفيا ضد ياغييلونيا
+  بياويستوك — الدوري الأوروبي | Tomorrow: Levski S
+ ofia vs Jagiellonia Białystok
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفسك
+ ي صوفيا × ياغييلونيا بياويستوك | Kick-off in 30 
+ min: Levski Sofia vs Jagiellonia Białystok
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112375@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:Lillestrøm vs Viktoria Plzeň — UEFA Europa League
+LOCATION:Aaraasen Stadion
+URL:https://www.fotmob.com/match/6112375
+DESCRIPTION:⚽ ليلستروم × فيكتوريا بلزن\n🏆 الد
+ وري الأوروبي — الجولة 4\n🗓 الخميس 5 نوفمب
+ ر 2026 · 20:45 بتوقيت الرياض\n🏟 Aaraasen Stadion\n——
+ ———\n⚽ Lillestrøm v Viktoria Plzeň\n🏆 UEFA Europa League — 
+ Matchday 4\n🗓 Thu 05 Nov 2026 · 17:45 UTC\n🏟 Aaraasen Stadion\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليلستروم ضد فيكتوريا بلزن 
+ — الدوري الأوروبي | Tomorrow: Lillestrøm vs Viktoria Plze
+ ň
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليلست
+ روم × فيكتوريا بلزن | Kick-off in 30 min: Lillestrøm vs V
+ iktoria Plzeň
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112368@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:NEC Nijmegen vs Omonia Nicosia — UEFA Europa League
+LOCATION:Stadion De Goffert
+URL:https://www.fotmob.com/match/6112368
+DESCRIPTION:⚽ نيميخين × Omonia Nicosia\n🏆 الدوري الأ
+ وروبي — الجولة 4\n🗓 الخميس 5 نوفمبر 2026 · 20
+ :45 بتوقيت الرياض\n🏟 Stadion De Goffert\n—————\n
+ ⚽ NEC Nijmegen v Omonia Nicosia\n🏆 UEFA Europa League — Matchday 4\
+ n🗓 Thu 05 Nov 2026 · 17:45 UTC\n🏟 Stadion De Goffert\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيميخين ضد Omonia Nicosia — الدور
+ ي الأوروبي | Tomorrow: NEC Nijmegen vs Omonia Nicosia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيميخ
+ ين × Omonia Nicosia | Kick-off in 30 min: NEC Nijmegen vs Omonia Nicosi
+ a
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112270@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:Real Sociedad vs Lyon — UEFA Europa League
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/6112270
+DESCRIPTION:⚽ ريال سوسيداد × أولمبيك ليون\n🏆 ا
+ لدوري الأوروبي — الجولة 4\n🗓 الخميس 5 نوف
+ مبر 2026 · 20:45 بتوقيت الرياض\n🏟 Reale Arena\n——
+ ———\n⚽ Real Sociedad v Lyon\n🏆 UEFA Europa League — Matchday 
+ 4\n🗓 Thu 05 Nov 2026 · 17:45 UTC\n🏟 Reale Arena\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد أولمبيك لي
+ ون — الدوري الأوروبي | Tomorrow: Real Sociedad vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × أولمبيك ليون | Kick-off in 30 min: Real Socieda
+ d vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112306@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:Rennes vs Olympiacos — UEFA Europa League
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/6112306
+DESCRIPTION:⚽ ستاد رين × أولمبياكوس\n🏆 الدوري 
+ الأوروبي — الجولة 4\n🗓 الخميس 5 نوفمبر 2026
+  · 20:45 بتوقيت الرياض\n🏟 Roazhon Park\n—————\n
+ ⚽ Rennes v Olympiacos\n🏆 UEFA Europa League — Matchday 4\n🗓 Thu 
+ 05 Nov 2026 · 17:45 UTC\n🏟 Roazhon Park\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد أولمبياكوس — ا
+ لدوري الأوروبي | Tomorrow: Rennes vs Olympiacos
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × أولمبياكوس | Kick-off in 30 min: Rennes vs Olympiacos
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112304@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:Sparta Prague vs AFC Bournemouth — UEFA Europa League
+LOCATION:epet Arena
+URL:https://www.fotmob.com/match/6112304
+DESCRIPTION:⚽ سبارتا براغ × بورنموث\n🏆 الدوري 
+ الأوروبي — الجولة 4\n🗓 الخميس 5 نوفمبر 2026
+  · 20:45 بتوقيت الرياض\n🏟 epet Arena\n—————\n⚽
+  Sparta Prague v AFC Bournemouth\n🏆 UEFA Europa League — Matchday 4\n
+ 🗓 Thu 05 Nov 2026 · 17:45 UTC\n🏟 epet Arena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سبارتا براغ ضد بورنموث — ا
+ لدوري الأوروبي | Tomorrow: Sparta Prague vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سبارت
+ ا براغ × بورنموث | Kick-off in 30 min: Sparta Prague vs AFC B
+ ournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112262@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T200000Z
+DTEND:20261105T220000Z
+SUMMARY:AZ Alkmaar vs Juventus — UEFA Europa League
+LOCATION:AFAS Stadion
+URL:https://www.fotmob.com/match/6112262
+DESCRIPTION:⚽ ألكمار × يوفنتوس\n🏆 الدوري الأو
+ روبي — الجولة 4\n🗓 الخميس 5 نوفمبر 2026 · 23:0
+ 0 بتوقيت الرياض\n🏟 AFAS Stadion\n—————\n⚽ AZ Al
+ kmaar v Juventus\n🏆 UEFA Europa League — Matchday 4\n🗓 Thu 05 Nov 
+ 2026 · 20:00 UTC\n🏟 AFAS Stadion\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ألكمار ضد يوفنتوس — الدوري
+  الأوروبي | Tomorrow: AZ Alkmaar vs Juventus
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ألكما
+ ر × يوفنتوس | Kick-off in 30 min: AZ Alkmaar vs Juventus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112242@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T200000Z
+DTEND:20261105T220000Z
+SUMMARY:Bayer Leverkusen vs Marseille — UEFA Europa League
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/6112242
+DESCRIPTION:⚽ باير ليفركوزن × مارسيليا\n🏆 الد
+ وري الأوروبي — الجولة 4\n🗓 الخميس 5 نوفمب
+ ر 2026 · 23:00 بتوقيت الرياض\n🏟 BayArena\n—————
+ \n⚽ Bayer Leverkusen v Marseille\n🏆 UEFA Europa League — Matchday 4
+ \n🗓 Thu 05 Nov 2026 · 20:00 UTC\n🏟 BayArena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد مارسيليا 
+ — الدوري الأوروبي | Tomorrow: Bayer Leverkusen vs Marseill
+ e
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × مارسيليا | Kick-off in 30 min: Bayer Leverkusen 
+ vs Marseille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112248@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T200000Z
+DTEND:20261105T220000Z
+SUMMARY:Benfica vs Lech Poznań — UEFA Europa League
+LOCATION:Estadio da Luz
+URL:https://www.fotmob.com/match/6112248
+DESCRIPTION:⚽ بنفيكا × ليخ بوزنان\n🏆 الدوري ال
+ أوروبي — الجولة 4\n🗓 الخميس 5 نوفمبر 2026 · 
+ 23:00 بتوقيت الرياض\n🏟 Estadio da Luz\n—————\n⚽
+  Benfica v Lech Poznań\n🏆 UEFA Europa League — Matchday 4\n🗓 Thu 
+ 05 Nov 2026 · 20:00 UTC\n🏟 Estadio da Luz\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بنفيكا ضد ليخ بوزنان — الد
+ وري الأوروبي | Tomorrow: Benfica vs Lech Poznań
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بنفيك
+ ا × ليخ بوزنان | Kick-off in 30 min: Benfica vs Lech Poznań
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112347@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T200000Z
+DTEND:20261105T220000Z
+SUMMARY:Celta Vigo vs Union St.Gilloise — UEFA Europa League
+LOCATION:Abanca Balaidos
+URL:https://www.fotmob.com/match/6112347
+DESCRIPTION:⚽ سيلتا فيجو × يونيون سانت جيلواز\n
+ 🏆 الدوري الأوروبي — الجولة 4\n🗓 الخميس 5
+  نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Abanca Balaido
+ s\n—————\n⚽ Celta Vigo v Union St.Gilloise\n🏆 UEFA Europa L
+ eague — Matchday 4\n🗓 Thu 05 Nov 2026 · 20:00 UTC\n🏟 Abanca Balai
+ dos\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتا فيجو ضد يونيون سانت ج
+ يلواز — الدوري الأوروبي | Tomorrow: Celta Vigo vs Uni
+ on St.Gilloise
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتا 
+ فيجو × يونيون سانت جيلواز | Kick-off in 30 min: Celta
+  Vigo vs Union St.Gilloise
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112301@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T200000Z
+DTEND:20261105T220000Z
+SUMMARY:Celtic vs Beşiktaş — UEFA Europa League
+LOCATION:Celtic Park
+URL:https://www.fotmob.com/match/6112301
+DESCRIPTION:⚽ سيلتيك × بشكتاش\n🏆 الدوري الأور
+ وبي — الجولة 4\n🗓 الخميس 5 نوفمبر 2026 · 23:00 
+ بتوقيت الرياض\n🏟 Celtic Park\n—————\n⚽ Celtic v
+  Beşiktaş\n🏆 UEFA Europa League — Matchday 4\n🗓 Thu 05 Nov 2026 
+ · 20:00 UTC\n🏟 Celtic Park\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتيك ضد بشكتاش — الدوري 
+ الأوروبي | Tomorrow: Celtic vs Beşiktaş
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتي
+ ك × بشكتاش | Kick-off in 30 min: Celtic vs Beşiktaş
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112365@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T200000Z
+DTEND:20261105T220000Z
+SUMMARY:Hapoel Beer Sheva vs OFI Crete — UEFA Europa League
+LOCATION:Turner Stadium\, Be'er Sheva\, Israel
+GEO:31.245300;34.791400
+URL:https://www.fotmob.com/match/6112365
+DESCRIPTION:⚽ هبوعيل بئر سبع × أوفي كريت\n🏆 ال
+ دوري الأوروبي — الجولة 4\n🗓 الخميس 5 نوفم
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Turner Stadium، Be'er 
+ Sheva\n—————\n⚽ Hapoel Beer Sheva v OFI Crete\n🏆 UEFA Europ
+ a League — Matchday 4\n🗓 Thu 05 Nov 2026 · 20:00 UTC\n🏟 Turner St
+ adium, Be'er Sheva\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هبوعيل بئر سبع ضد أوفي كريت
+  — الدوري الأوروبي | Tomorrow: Hapoel Beer Sheva vs OFI Cr
+ ete
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هبوعي
+ ل بئر سبع × أوفي كريت | Kick-off in 30 min: Hapoel Beer Sh
+ eva vs OFI Crete
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112316@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T200000Z
+DTEND:20261105T220000Z
+SUMMARY:Sturm Graz vs NK Celje — UEFA Europa League
+LOCATION:Graz-Liebenau Stadium
+URL:https://www.fotmob.com/match/6112316
+DESCRIPTION:⚽ شتورم غراتس × تسيليى\n🏆 الدوري ا
+ لأوروبي — الجولة 4\n🗓 الخميس 5 نوفمبر 2026 
+ · 23:00 بتوقيت الرياض\n🏟 Graz-Liebenau Stadium\n———
+ ——\n⚽ Sturm Graz v NK Celje\n🏆 UEFA Europa League — Matchday 4\
+ n🗓 Thu 05 Nov 2026 · 20:00 UTC\n🏟 Graz-Liebenau Stadium\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتورم غراتس ضد تسيليى — ال
+ دوري الأوروبي | Tomorrow: Sturm Graz vs NK Celje
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتورم 
+ غراتس × تسيليى | Kick-off in 30 min: Sturm Graz vs NK Celje
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112331@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T200000Z
+DTEND:20261105T220000Z
+SUMMARY:Sunderland vs Dinamo Zagreb — UEFA Europa League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/6112331
+DESCRIPTION:⚽ سندرلاند × دينامو زغرب\n🏆 الدور
+ ي الأوروبي — الجولة 4\n🗓 الخميس 5 نوفمبر 2
+ 026 · 23:00 بتوقيت الرياض\n🏟 Stadium of Light\n———
+ ——\n⚽ Sunderland v Dinamo Zagreb\n🏆 UEFA Europa League — Matchd
+ ay 4\n🗓 Thu 05 Nov 2026 · 20:00 UTC\n🏟 Stadium of Light\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد دينامو زغرب — 
+ الدوري الأوروبي | Tomorrow: Sunderland vs Dinamo Zagreb
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × دينامو زغرب | Kick-off in 30 min: Sunderland vs Dinamo
+  Zagreb
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112361@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T200000Z
+DTEND:20261105T220000Z
+SUMMARY:Torreense vs Ararat Armenia — UEFA Europa League
+LOCATION:Campo Manuel Marques\, Torres Vedras\, Portugal
+GEO:39.094878;-9.256749
+URL:https://www.fotmob.com/match/6112361
+DESCRIPTION:⚽ توريينسي × أرارات أرمينيا\n🏆 ال
+ دوري الأوروبي — الجولة 4\n🗓 الخميس 5 نوفم
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Campo Manuel Marques، 
+ Torres Vedras\n—————\n⚽ Torreense v Ararat Armenia\n🏆 UEFA 
+ Europa League — Matchday 4\n🗓 Thu 05 Nov 2026 · 20:00 UTC\n🏟 Camp
+ o Manuel Marques, Torres Vedras\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توريينسي ضد أرارات أرمينيا
+  — الدوري الأوروبي | Tomorrow: Torreense vs Ararat Armenia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توريي
+ نسي × أرارات أرمينيا | Kick-off in 30 min: Torreense vs A
+ rarat Armenia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112357@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Beşiktaş vs Hapoel Beer Sheva — UEFA Europa League
+LOCATION:Tupras Stadyumu
+URL:https://www.fotmob.com/match/6112357
+DESCRIPTION:⚽ بشكتاش × هبوعيل بئر سبع\n🏆 الدور
+ ي الأوروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 
+ 2026 · 20:45 بتوقيت الرياض\n🏟 Tupras Stadyumu\n———
+ ——\n⚽ Beşiktaş v Hapoel Beer Sheva\n🏆 UEFA Europa League — Ma
+ tchday 5\n🗓 Thu 26 Nov 2026 · 17:45 UTC\n🏟 Tupras Stadyumu\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بشكتاش ضد هبوعيل بئر سبع — 
+ الدوري الأوروبي | Tomorrow: Beşiktaş vs Hapoel Beer Sheva
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بشكتا
+ ش × هبوعيل بئر سبع | Kick-off in 30 min: Beşiktaş vs Hapoe
+ l Beer Sheva
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112348@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Celta Vigo vs AFC Bournemouth — UEFA Europa League
+LOCATION:Abanca Balaidos
+URL:https://www.fotmob.com/match/6112348
+DESCRIPTION:⚽ سيلتا فيجو × بورنموث\n🏆 الدوري ا
+ لأوروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 2026 
+ · 20:45 بتوقيت الرياض\n🏟 Abanca Balaidos\n—————\
+ n⚽ Celta Vigo v AFC Bournemouth\n🏆 UEFA Europa League — Matchday 5\
+ n🗓 Thu 26 Nov 2026 · 17:45 UTC\n🏟 Abanca Balaidos\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتا فيجو ضد بورنموث — ال
+ دوري الأوروبي | Tomorrow: Celta Vigo vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتا 
+ فيجو × بورنموث | Kick-off in 30 min: Celta Vigo vs AFC Bournem
+ outh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112290@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Dinamo Zagreb vs Bayer Leverkusen — UEFA Europa League
+LOCATION:Stadion Maksimir
+URL:https://www.fotmob.com/match/6112290
+DESCRIPTION:⚽ دينامو زغرب × باير ليفركوزن\n🏆 ا
+ لدوري الأوروبي — الجولة 5\n🗓 الخميس 26 نو
+ فمبر 2026 · 20:45 بتوقيت الرياض\n🏟 Stadion Maksimir\n
+ —————\n⚽ Dinamo Zagreb v Bayer Leverkusen\n🏆 UEFA Europa Le
+ ague — Matchday 5\n🗓 Thu 26 Nov 2026 · 17:45 UTC\n🏟 Stadion Maksi
+ mir\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: دينامو زغرب ضد باير ليفركو
+ زن — الدوري الأوروبي | Tomorrow: Dinamo Zagreb vs Bayer 
+ Leverkusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: دينام
+ و زغرب × باير ليفركوزن | Kick-off in 30 min: Dinamo Zagr
+ eb vs Bayer Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112277@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Marseille vs Levski Sofia — UEFA Europa League
+LOCATION:Stade Orange Velodrome
+URL:https://www.fotmob.com/match/6112277
+DESCRIPTION:⚽ مارسيليا × ليفسكي صوفيا\n🏆 الدو
+ ري الأوروبي — الجولة 5\n🗓 الخميس 26 نوفمب
+ ر 2026 · 20:45 بتوقيت الرياض\n🏟 Stade Orange Velodrome\n
+ —————\n⚽ Marseille v Levski Sofia\n🏆 UEFA Europa League —
+  Matchday 5\n🗓 Thu 26 Nov 2026 · 17:45 UTC\n🏟 Stade Orange Velodrom
+ e\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مارسيليا ضد ليفسكي صوفيا —
+  الدوري الأوروبي | Tomorrow: Marseille vs Levski Sofia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مارسي
+ ليا × ليفسكي صوفيا | Kick-off in 30 min: Marseille vs Levsk
+ i Sofia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112266@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Olympiacos vs Milan — UEFA Europa League
+LOCATION:Karaiskakis Stadium
+URL:https://www.fotmob.com/match/6112266
+DESCRIPTION:⚽ أولمبياكوس × ميلان\n🏆 الدوري ال
+ أوروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 2026 ·
+  20:45 بتوقيت الرياض\n🏟 Karaiskakis Stadium\n————
+ —\n⚽ Olympiacos v Milan\n🏆 UEFA Europa League — Matchday 5\n🗓 
+ Thu 26 Nov 2026 · 17:45 UTC\n🏟 Karaiskakis Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبياكوس ضد ميلان — الدو
+ ري الأوروبي | Tomorrow: Olympiacos vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ ياكوس × ميلان | Kick-off in 30 min: Olympiacos vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112297@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Salzburg vs Ararat Armenia — UEFA Europa League
+LOCATION:Red Bull Arena
+URL:https://www.fotmob.com/match/6112297
+DESCRIPTION:⚽ Salzburg × أرارات أرمينيا\n🏆 الدوري 
+ الأوروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 202
+ 6 · 20:45 بتوقيت الرياض\n🏟 Red Bull Arena\n—————
+ \n⚽ Salzburg v Ararat Armenia\n🏆 UEFA Europa League — Matchday 5\n
+ 🗓 Thu 26 Nov 2026 · 17:45 UTC\n🏟 Red Bull Arena\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Salzburg ضد أرارات أرمينيا — ا
+ لدوري الأوروبي | Tomorrow: Salzburg vs Ararat Armenia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Salzburg ×
+  أرارات أرمينيا | Kick-off in 30 min: Salzburg vs Ararat Arme
+ nia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112288@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Union St.Gilloise vs Lech Poznań — UEFA Europa League
+LOCATION:Stade Joseph Marien
+URL:https://www.fotmob.com/match/6112288
+DESCRIPTION:⚽ يونيون سانت جيلواز × ليخ بوزنان\n
+ 🏆 الدوري الأوروبي — الجولة 5\n🗓 الخميس 2
+ 6 نوفمبر 2026 · 20:45 بتوقيت الرياض\n🏟 Stade Joseph 
+ Marien\n—————\n⚽ Union St.Gilloise v Lech Poznań\n🏆 UEFA E
+ uropa League — Matchday 5\n🗓 Thu 26 Nov 2026 · 17:45 UTC\n🏟 Stade
+  Joseph Marien\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون سانت جيلواز ضد ليخ ب
+ وزنان — الدوري الأوروبي | Tomorrow: Union St.Gilloise
+  vs Lech Poznań
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن سانت جيلواز × ليخ بوزنان | Kick-off in 30 min: Unio
+ n St.Gilloise vs Lech Poznań
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112282@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Viktoria Plzeň vs Benfica — UEFA Europa League
+LOCATION:Doosan Arena Plzen
+URL:https://www.fotmob.com/match/6112282
+DESCRIPTION:⚽ فيكتوريا بلزن × بنفيكا\n🏆 الدور
+ ي الأوروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 
+ 2026 · 20:45 بتوقيت الرياض\n🏟 Doosan Arena Plzen\n——
+ ———\n⚽ Viktoria Plzeň v Benfica\n🏆 UEFA Europa League — Matc
+ hday 5\n🗓 Thu 26 Nov 2026 · 17:45 UTC\n🏟 Doosan Arena Plzen\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيكتوريا بلزن ضد بنفيكا — 
+ الدوري الأوروبي | Tomorrow: Viktoria Plzeň vs Benfica
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيكتو
+ ريا بلزن × بنفيكا | Kick-off in 30 min: Viktoria Plzeň vs B
+ enfica
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112322@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Crystal Palace vs Real Sociedad — UEFA Europa League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/6112322
+DESCRIPTION:⚽ كريستال بالاس × ريال سوسيداد\n🏆 
+ الدوري الأوروبي — الجولة 5\n🗓 الخميس 26 ن
+ وفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Selhurst Park\n
+ —————\n⚽ Crystal Palace v Real Sociedad\n🏆 UEFA Europa Leag
+ ue — Matchday 5\n🗓 Thu 26 Nov 2026 · 20:00 UTC\n🏟 Selhurst Park\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد ريال سوسي
+ داد — الدوري الأوروبي | Tomorrow: Crystal Palace vs Rea
+ l Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × ريال سوسيداد | Kick-off in 30 min: Crystal P
+ alace vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112280@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Ferencváros vs NK Celje — UEFA Europa League
+LOCATION:Groupama Arena
+URL:https://www.fotmob.com/match/6112280
+DESCRIPTION:⚽ فيرينتسفاروشي × تسيليى\n🏆 الدور
+ ي الأوروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 
+ 2026 · 23:00 بتوقيت الرياض\n🏟 Groupama Arena\n————
+ —\n⚽ Ferencváros v NK Celje\n🏆 UEFA Europa League — Matchday 5\n
+ 🗓 Thu 26 Nov 2026 · 20:00 UTC\n🏟 Groupama Arena\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيرينتسفاروشي ضد تسيليى — 
+ الدوري الأوروبي | Tomorrow: Ferencváros vs NK Celje
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيرين
+ تسفاروشي × تسيليى | Kick-off in 30 min: Ferencváros vs NK 
+ Celje
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112352@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Hoffenheim vs Sturm Graz — UEFA Europa League
+LOCATION:SNP Arena
+URL:https://www.fotmob.com/match/6112352
+DESCRIPTION:⚽ هوفنهايم × شتورم غراتس\n🏆 الدور
+ ي الأوروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 
+ 2026 · 23:00 بتوقيت الرياض\n🏟 SNP Arena\n—————\n
+ ⚽ Hoffenheim v Sturm Graz\n🏆 UEFA Europa League — Matchday 5\n🗓 
+ Thu 26 Nov 2026 · 20:00 UTC\n🏟 SNP Arena\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هوفنهايم ضد شتورم غراتس — 
+ الدوري الأوروبي | Tomorrow: Hoffenheim vs Sturm Graz
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هوفنه
+ ايم × شتورم غراتس | Kick-off in 30 min: Hoffenheim vs Sturm 
+ Graz
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112252@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Juventus vs Omonia Nicosia — UEFA Europa League
+LOCATION:Allianz Stadium
+URL:https://www.fotmob.com/match/6112252
+DESCRIPTION:⚽ يوفنتوس × Omonia Nicosia\n🏆 الدوري الأ
+ وروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 2026 · 2
+ 3:00 بتوقيت الرياض\n🏟 Allianz Stadium\n—————\n⚽
+  Juventus v Omonia Nicosia\n🏆 UEFA Europa League — Matchday 5\n🗓 T
+ hu 26 Nov 2026 · 20:00 UTC\n🏟 Allianz Stadium\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد Omonia Nicosia — الدور
+ ي الأوروبي | Tomorrow: Juventus vs Omonia Nicosia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × Omonia Nicosia | Kick-off in 30 min: Juventus vs Omonia Nicosia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112261@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Lyon vs Lillestrøm — UEFA Europa League
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/6112261
+DESCRIPTION:⚽ أولمبيك ليون × ليلستروم\n🏆 الدو
+ ري الأوروبي — الجولة 5\n🗓 الخميس 26 نوفمب
+ ر 2026 · 23:00 بتوقيت الرياض\n🏟 Groupama Stadium\n——
+ ———\n⚽ Lyon v Lillestrøm\n🏆 UEFA Europa League — Matchday 5\
+ n🗓 Thu 26 Nov 2026 · 20:00 UTC\n🏟 Groupama Stadium\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد ليلستروم —
+  الدوري الأوروبي | Tomorrow: Lyon vs Lillestrøm
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × ليلستروم | Kick-off in 30 min: Lyon vs Lillestrø
+ m
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112367@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:NEC Nijmegen vs Rennes — UEFA Europa League
+LOCATION:Stadion De Goffert
+URL:https://www.fotmob.com/match/6112367
+DESCRIPTION:⚽ نيميخين × ستاد رين\n🏆 الدوري الأ
+ وروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 2026 · 2
+ 3:00 بتوقيت الرياض\n🏟 Stadion De Goffert\n—————\n
+ ⚽ NEC Nijmegen v Rennes\n🏆 UEFA Europa League — Matchday 5\n🗓 Th
+ u 26 Nov 2026 · 20:00 UTC\n🏟 Stadion De Goffert\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيميخين ضد ستاد رين — الدو
+ ري الأوروبي | Tomorrow: NEC Nijmegen vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيميخ
+ ين × ستاد رين | Kick-off in 30 min: NEC Nijmegen vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112371@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:OFI Crete vs Anderlecht — UEFA Europa League
+LOCATION:Pankritio Stadium
+URL:https://www.fotmob.com/match/6112371
+DESCRIPTION:⚽ أوفي كريت × أندرلخت\n🏆 الدوري ال
+ أوروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 2026 ·
+  23:00 بتوقيت الرياض\n🏟 Pankritio Stadium\n—————\
+ n⚽ OFI Crete v Anderlecht\n🏆 UEFA Europa League — Matchday 5\n🗓 
+ Thu 26 Nov 2026 · 20:00 UTC\n🏟 Pankritio Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوفي كريت ضد أندرلخت — الد
+ وري الأوروبي | Tomorrow: OFI Crete vs Anderlecht
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوفي ك
+ ريت × أندرلخت | Kick-off in 30 min: OFI Crete vs Anderlecht
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112302@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Sparta Prague vs AZ Alkmaar — UEFA Europa League
+LOCATION:epet Arena
+URL:https://www.fotmob.com/match/6112302
+DESCRIPTION:⚽ سبارتا براغ × ألكمار\n🏆 الدوري ا
+ لأوروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 2026 
+ · 23:00 بتوقيت الرياض\n🏟 epet Arena\n—————\n⚽ 
+ Sparta Prague v AZ Alkmaar\n🏆 UEFA Europa League — Matchday 5\n🗓 T
+ hu 26 Nov 2026 · 20:00 UTC\n🏟 epet Arena\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سبارتا براغ ضد ألكمار — ال
+ دوري الأوروبي | Tomorrow: Sparta Prague vs AZ Alkmaar
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سبارت
+ ا براغ × ألكمار | Kick-off in 30 min: Sparta Prague vs AZ Alkm
+ aar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112332@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Sunderland vs Jagiellonia Białystok — UEFA Europa League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/6112332
+DESCRIPTION:⚽ سندرلاند × ياغييلونيا بياويستوك
+ \n🏆 الدوري الأوروبي — الجولة 5\n🗓 الخميس
+  26 نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Stadium of 
+ Light\n—————\n⚽ Sunderland v Jagiellonia Białystok\n🏆 UEFA
+  Europa League — Matchday 5\n🗓 Thu 26 Nov 2026 · 20:00 UTC\n🏟 Sta
+ dium of Light\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد ياغييلونيا بيا
+ ويستوك — الدوري الأوروبي | Tomorrow: Sunderland vs J
+ agiellonia Białystok
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × ياغييلونيا بياويستوك | Kick-off in 30 min: Su
+ nderland vs Jagiellonia Białystok
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112359@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Torreense vs Celtic — UEFA Europa League
+LOCATION:Campo Manuel Marques\, Torres Vedras\, Portugal
+GEO:39.094878;-9.256749
+URL:https://www.fotmob.com/match/6112359
+DESCRIPTION:⚽ توريينسي × سيلتيك\n🏆 الدوري الأ
+ وروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 2026 · 2
+ 3:00 بتوقيت الرياض\n🏟 Campo Manuel Marques، Torres Vedras\
+ n—————\n⚽ Torreense v Celtic\n🏆 UEFA Europa League — Matc
+ hday 5\n🗓 Thu 26 Nov 2026 · 20:00 UTC\n🏟 Campo Manuel Marques, Torr
+ es Vedras\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توريينسي ضد سيلتيك — الدور
+ ي الأوروبي | Tomorrow: Torreense vs Celtic
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توريي
+ نسي × سيلتيك | Kick-off in 30 min: Torreense vs Celtic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112313@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T174500Z
+DTEND:20261210T194500Z
+SUMMARY:Anderlecht vs Hoffenheim — UEFA Europa League
+LOCATION:Lotto Park
+URL:https://www.fotmob.com/match/6112313
+DESCRIPTION:⚽ أندرلخت × هوفنهايم\n🏆 الدوري ال
+ أوروبي — الجولة 6\n🗓 الخميس 10 ديسمبر 2026 ·
+  20:45 بتوقيت الرياض\n🏟 Lotto Park\n—————\n⚽ An
+ derlecht v Hoffenheim\n🏆 UEFA Europa League — Matchday 6\n🗓 Thu 10
+  Dec 2026 · 17:45 UTC\n🏟 Lotto Park\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أندرلخت ضد هوفنهايم — الدو
+ ري الأوروبي | Tomorrow: Anderlecht vs Hoffenheim
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أندرل
+ خت × هوفنهايم | Kick-off in 30 min: Anderlecht vs Hoffenheim
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112385@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T174500Z
+DTEND:20261210T194500Z
+SUMMARY:Ararat Armenia vs NEC Nijmegen — UEFA Europa League
+LOCATION:Football Academy Stadium
+URL:https://www.fotmob.com/match/6112385
+DESCRIPTION:⚽ أرارات أرمينيا × نيميخين\n🏆 الد
+ وري الأوروبي — الجولة 6\n🗓 الخميس 10 ديسم
+ بر 2026 · 20:45 بتوقيت الرياض\n🏟 Football Academy Stadiu
+ m\n—————\n⚽ Ararat Armenia v NEC Nijmegen\n🏆 UEFA Europa Le
+ ague — Matchday 6\n🗓 Thu 10 Dec 2026 · 17:45 UTC\n🏟 Football Acad
+ emy Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرارات أرمينيا ضد نيميخين 
+ — الدوري الأوروبي | Tomorrow: Ararat Armenia vs NEC Nijmeg
+ en
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرارا
+ ت أرمينيا × نيميخين | Kick-off in 30 min: Ararat Armenia v
+ s NEC Nijmegen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112264@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T174500Z
+DTEND:20261210T194500Z
+SUMMARY:AZ Alkmaar vs Sturm Graz — UEFA Europa League
+LOCATION:AFAS Stadion
+URL:https://www.fotmob.com/match/6112264
+DESCRIPTION:⚽ ألكمار × شتورم غراتس\n🏆 الدوري ا
+ لأوروبي — الجولة 6\n🗓 الخميس 10 ديسمبر 2026 
+ · 20:45 بتوقيت الرياض\n🏟 AFAS Stadion\n—————\n
+ ⚽ AZ Alkmaar v Sturm Graz\n🏆 UEFA Europa League — Matchday 6\n🗓 
+ Thu 10 Dec 2026 · 17:45 UTC\n🏟 AFAS Stadion\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ألكمار ضد شتورم غراتس — ال
+ دوري الأوروبي | Tomorrow: AZ Alkmaar vs Sturm Graz
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ألكما
+ ر × شتورم غراتس | Kick-off in 30 min: AZ Alkmaar vs Sturm Graz
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112362@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T174500Z
+DTEND:20261210T194500Z
+SUMMARY:Hapoel Beer Sheva vs Juventus — UEFA Europa League
+LOCATION:Turner Stadium\, Be'er Sheva\, Israel
+GEO:31.245300;34.791400
+URL:https://www.fotmob.com/match/6112362
+DESCRIPTION:⚽ هبوعيل بئر سبع × يوفنتوس\n🏆 الدو
+ ري الأوروبي — الجولة 6\n🗓 الخميس 10 ديسمب
+ ر 2026 · 20:45 بتوقيت الرياض\n🏟 Turner Stadium، Be'er Sh
+ eva\n—————\n⚽ Hapoel Beer Sheva v Juventus\n🏆 UEFA Europa L
+ eague — Matchday 6\n🗓 Thu 10 Dec 2026 · 17:45 UTC\n🏟 Turner Stadi
+ um, Be'er Sheva\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هبوعيل بئر سبع ضد يوفنتوس 
+ — الدوري الأوروبي | Tomorrow: Hapoel Beer Sheva vs Juventu
+ s
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هبوعي
+ ل بئر سبع × يوفنتوس | Kick-off in 30 min: Hapoel Beer Sheva
+  vs Juventus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112340@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T174500Z
+DTEND:20261210T194500Z
+SUMMARY:Jagiellonia Białystok vs Crystal Palace — UEFA Europa League
+LOCATION:Stadion Miejski\, Bialystok
+URL:https://www.fotmob.com/match/6112340
+DESCRIPTION:⚽ ياغييلونيا بياويستوك × كريستال 
+ بالاس\n🏆 الدوري الأوروبي — الجولة 6\n🗓 ا
+ لخميس 10 ديسمبر 2026 · 20:45 بتوقيت الرياض\n🏟 S
+ tadion Miejski, Bialystok\n—————\n⚽ Jagiellonia Białystok v C
+ rystal Palace\n🏆 UEFA Europa League — Matchday 6\n🗓 Thu 10 Dec 202
+ 6 · 17:45 UTC\n🏟 Stadion Miejski, Bialystok\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ياغييلونيا بياويستوك ضد كر
+ يستال بالاس — الدوري الأوروبي | Tomorrow: Jagiel
+ lonia Białystok vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ياغيي
+ لونيا بياويستوك × كريستال بالاس | Kick-off in 3
+ 0 min: Jagiellonia Białystok vs Crystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112276@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T174500Z
+DTEND:20261210T194500Z
+SUMMARY:Marseille vs Celta Vigo — UEFA Europa League
+LOCATION:Stade Orange Velodrome
+URL:https://www.fotmob.com/match/6112276
+DESCRIPTION:⚽ مارسيليا × سيلتا فيجو\n🏆 الدوري 
+ الأوروبي — الجولة 6\n🗓 الخميس 10 ديسمبر 202
+ 6 · 20:45 بتوقيت الرياض\n🏟 Stade Orange Velodrome\n——
+ ———\n⚽ Marseille v Celta Vigo\n🏆 UEFA Europa League — Matchda
+ y 6\n🗓 Thu 10 Dec 2026 · 17:45 UTC\n🏟 Stade Orange Velodrome\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مارسيليا ضد سيلتا فيجو — ا
+ لدوري الأوروبي | Tomorrow: Marseille vs Celta Vigo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مارسي
+ ليا × سيلتا فيجو | Kick-off in 30 min: Marseille vs Celta Vig
+ o
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112343@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T174500Z
+DTEND:20261210T194500Z
+SUMMARY:Omonia Nicosia vs Celtic — UEFA Europa League
+LOCATION:Neo GSP Stadium
+URL:https://www.fotmob.com/match/6112343
+DESCRIPTION:⚽ Omonia Nicosia × سيلتيك\n🏆 الدوري الأو
+ روبي — الجولة 6\n🗓 الخميس 10 ديسمبر 2026 · 20:
+ 45 بتوقيت الرياض\n🏟 Neo GSP Stadium\n—————\n⚽ O
+ monia Nicosia v Celtic\n🏆 UEFA Europa League — Matchday 6\n🗓 Thu 1
+ 0 Dec 2026 · 17:45 UTC\n🏟 Neo GSP Stadium\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Omonia Nicosia ضد سيلتيك — الدوري
+  الأوروبي | Tomorrow: Omonia Nicosia vs Celtic
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Omonia Nico
+ sia × سيلتيك | Kick-off in 30 min: Omonia Nicosia vs Celtic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112307@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T174500Z
+DTEND:20261210T194500Z
+SUMMARY:Rennes vs Dinamo Zagreb — UEFA Europa League
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/6112307
+DESCRIPTION:⚽ ستاد رين × دينامو زغرب\n🏆 الدوري
+  الأوروبي — الجولة 6\n🗓 الخميس 10 ديسمبر 20
+ 26 · 20:45 بتوقيت الرياض\n🏟 Roazhon Park\n—————\
+ n⚽ Rennes v Dinamo Zagreb\n🏆 UEFA Europa League — Matchday 6\n🗓 
+ Thu 10 Dec 2026 · 17:45 UTC\n🏟 Roazhon Park\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد دينامو زغرب — ا
+ لدوري الأوروبي | Tomorrow: Rennes vs Dinamo Zagreb
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × دينامو زغرب | Kick-off in 30 min: Rennes vs Dinamo Zagre
+ b
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112256@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:Milan vs Sunderland — UEFA Europa League
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/6112256
+DESCRIPTION:⚽ ميلان × سندرلاند\n🏆 الدوري الأو
+ روبي — الجولة 6\n🗓 الخميس 10 ديسمبر 2026 · 23:
+ 00 بتوقيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v 
+ Sunderland\n🏆 UEFA Europa League — Matchday 6\n🗓 Thu 10 Dec 2026 
+ · 20:00 UTC\n🏟 San Siro\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد سندرلاند — الدوري
+  الأوروبي | Tomorrow: Milan vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × سندرلاند | Kick-off in 30 min: Milan vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112327@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:AFC Bournemouth vs Viktoria Plzeň — UEFA Europa League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/6112327
+DESCRIPTION:⚽ بورنموث × فيكتوريا بلزن\n🏆 الدو
+ ري الأوروبي — الجولة 6\n🗓 الخميس 10 ديسمب
+ ر 2026 · 23:00 بتوقيت الرياض\n🏟 Vitality Stadium\n——
+ ———\n⚽ AFC Bournemouth v Viktoria Plzeň\n🏆 UEFA Europa League 
+ — Matchday 6\n🗓 Thu 10 Dec 2026 · 20:00 UTC\n🏟 Vitality Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد فيكتوريا بلزن —
+  الدوري الأوروبي | Tomorrow: AFC Bournemouth vs Viktoria Plz
+ eň
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × فيكتوريا بلزن | Kick-off in 30 min: AFC Bournemouth vs
+  Viktoria Plzeň
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112245@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:Bayer Leverkusen vs Beşiktaş — UEFA Europa League
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/6112245
+DESCRIPTION:⚽ باير ليفركوزن × بشكتاش\n🏆 الدور
+ ي الأوروبي — الجولة 6\n🗓 الخميس 10 ديسمبر 
+ 2026 · 23:00 بتوقيت الرياض\n🏟 BayArena\n—————\n
+ ⚽ Bayer Leverkusen v Beşiktaş\n🏆 UEFA Europa League — Matchday 6\
+ n🗓 Thu 10 Dec 2026 · 20:00 UTC\n🏟 BayArena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد بشكتاش — 
+ الدوري الأوروبي | Tomorrow: Bayer Leverkusen vs Beşiktaş
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × بشكتاش | Kick-off in 30 min: Bayer Leverkusen vs B
+ eşiktaş
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112249@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:Benfica vs OFI Crete — UEFA Europa League
+LOCATION:Estadio da Luz
+URL:https://www.fotmob.com/match/6112249
+DESCRIPTION:⚽ بنفيكا × أوفي كريت\n🏆 الدوري الأ
+ وروبي — الجولة 6\n🗓 الخميس 10 ديسمبر 2026 · 2
+ 3:00 بتوقيت الرياض\n🏟 Estadio da Luz\n—————\n⚽ 
+ Benfica v OFI Crete\n🏆 UEFA Europa League — Matchday 6\n🗓 Thu 10 D
+ ec 2026 · 20:00 UTC\n🏟 Estadio da Luz\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بنفيكا ضد أوفي كريت — الدو
+ ري الأوروبي | Tomorrow: Benfica vs OFI Crete
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بنفيك
+ ا × أوفي كريت | Kick-off in 30 min: Benfica vs OFI Crete
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112319@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:Lech Poznań vs Ferencváros — UEFA Europa League
+LOCATION:Stadion Poznan
+URL:https://www.fotmob.com/match/6112319
+DESCRIPTION:⚽ ليخ بوزنان × فيرينتسفاروشي\n🏆 ا
+ لدوري الأوروبي — الجولة 6\n🗓 الخميس 10 دي
+ سمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Stadion Poznan\n—
+ ————\n⚽ Lech Poznań v Ferencváros\n🏆 UEFA Europa League —
+  Matchday 6\n🗓 Thu 10 Dec 2026 · 20:00 UTC\n🏟 Stadion Poznan\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليخ بوزنان ضد فيرينتسفاروش
+ ي — الدوري الأوروبي | Tomorrow: Lech Poznań vs Ferencvá
+ ros
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليخ بو
+ زنان × فيرينتسفاروشي | Kick-off in 30 min: Lech Poznań 
+ vs Ferencváros
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112381@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:Levski Sofia vs Lillestrøm — UEFA Europa League
+LOCATION:Vasil Levski
+URL:https://www.fotmob.com/match/6112381
+DESCRIPTION:⚽ ليفسكي صوفيا × ليلستروم\n🏆 الدو
+ ري الأوروبي — الجولة 6\n🗓 الخميس 10 ديسمب
+ ر 2026 · 23:00 بتوقيت الرياض\n🏟 Vasil Levski\n———
+ ——\n⚽ Levski Sofia v Lillestrøm\n🏆 UEFA Europa League — Matchd
+ ay 6\n🗓 Thu 10 Dec 2026 · 20:00 UTC\n🏟 Vasil Levski\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفسكي صوفيا ضد ليلستروم —
+  الدوري الأوروبي | Tomorrow: Levski Sofia vs Lillestrøm
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفسك
+ ي صوفيا × ليلستروم | Kick-off in 30 min: Levski Sofia vs Li
+ llestrøm
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112259@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:Lyon vs Union St.Gilloise — UEFA Europa League
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/6112259
+DESCRIPTION:⚽ أولمبيك ليون × يونيون سانت جيلوا
+ ز\n🏆 الدوري الأوروبي — الجولة 6\n🗓 الخمي
+ س 10 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Groupama 
+ Stadium\n—————\n⚽ Lyon v Union St.Gilloise\n🏆 UEFA Europa L
+ eague — Matchday 6\n🗓 Thu 10 Dec 2026 · 20:00 UTC\n🏟 Groupama Sta
+ dium\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد يونيون سان
+ ت جيلواز — الدوري الأوروبي | Tomorrow: Lyon vs Unio
+ n St.Gilloise
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × يونيون سانت جيلواز | Kick-off in 30 min: 
+ Lyon vs Union St.Gilloise
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112334@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:NK Celje vs Olympiacos — UEFA Europa League
+LOCATION:Stadion Z'dezele
+URL:https://www.fotmob.com/match/6112334
+DESCRIPTION:⚽ تسيليى × أولمبياكوس\n🏆 الدوري ا
+ لأوروبي — الجولة 6\n🗓 الخميس 10 ديسمبر 2026 
+ · 23:00 بتوقيت الرياض\n🏟 Stadion Z'dezele\n—————
+ \n⚽ NK Celje v Olympiacos\n🏆 UEFA Europa League — Matchday 6\n🗓 
+ Thu 10 Dec 2026 · 20:00 UTC\n🏟 Stadion Z'dezele\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تسيليى ضد أولمبياكوس — الد
+ وري الأوروبي | Tomorrow: NK Celje vs Olympiacos
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تسيلي
+ ى × أولمبياكوس | Kick-off in 30 min: NK Celje vs Olympiacos
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112273@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:Real Sociedad vs Torreense — UEFA Europa League
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/6112273
+DESCRIPTION:⚽ ريال سوسيداد × توريينسي\n🏆 الدو
+ ري الأوروبي — الجولة 6\n🗓 الخميس 10 ديسمب
+ ر 2026 · 23:00 بتوقيت الرياض\n🏟 Reale Arena\n————
+ —\n⚽ Real Sociedad v Torreense\n🏆 UEFA Europa League — Matchday 6
+ \n🗓 Thu 10 Dec 2026 · 20:00 UTC\n🏟 Reale Arena\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد توريينسي —
+  الدوري الأوروبي | Tomorrow: Real Sociedad vs Torreense
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × توريينسي | Kick-off in 30 min: Real Sociedad vs To
+ rreense
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112295@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:Salzburg vs Sparta Prague — UEFA Europa League
+LOCATION:Red Bull Arena
+URL:https://www.fotmob.com/match/6112295
+DESCRIPTION:⚽ Salzburg × سبارتا براغ\n🏆 الدوري الأ
+ وروبي — الجولة 6\n🗓 الخميس 10 ديسمبر 2026 · 2
+ 3:00 بتوقيت الرياض\n🏟 Red Bull Arena\n—————\n⚽ 
+ Salzburg v Sparta Prague\n🏆 UEFA Europa League — Matchday 6\n🗓 Thu
+  10 Dec 2026 · 20:00 UTC\n🏟 Red Bull Arena\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Salzburg ضد سبارتا براغ — الدو
+ ري الأوروبي | Tomorrow: Salzburg vs Sparta Prague
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Salzburg ×
+  سبارتا براغ | Kick-off in 30 min: Salzburg vs Sparta Prague
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112384@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T174500Z
+DTEND:20270121T194500Z
+SUMMARY:Ararat Armenia vs NK Celje — UEFA Europa League
+LOCATION:Football Academy Stadium
+URL:https://www.fotmob.com/match/6112384
+DESCRIPTION:⚽ أرارات أرمينيا × تسيليى\n🏆 الدو
+ ري الأوروبي — الجولة 7\n🗓 الخميس 21 يناير 
+ 2027 · 20:45 بتوقيت الرياض\n🏟 Football Academy Stadium\n
+ —————\n⚽ Ararat Armenia v NK Celje\n🏆 UEFA Europa League 
+ — Matchday 7\n🗓 Thu 21 Jan 2027 · 17:45 UTC\n🏟 Football Academy S
+ tadium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرارات أرمينيا ضد تسيليى —
+  الدوري الأوروبي | Tomorrow: Ararat Armenia vs NK Celje
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرارا
+ ت أرمينيا × تسيليى | Kick-off in 30 min: Ararat Armenia vs 
+ NK Celje
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112355@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T174500Z
+DTEND:20270121T194500Z
+SUMMARY:Beşiktaş vs Union St.Gilloise — UEFA Europa League
+LOCATION:Tupras Stadyumu
+URL:https://www.fotmob.com/match/6112355
+DESCRIPTION:⚽ بشكتاش × يونيون سانت جيلواز\n🏆 ا
+ لدوري الأوروبي — الجولة 7\n🗓 الخميس 21 ين
+ اير 2027 · 20:45 بتوقيت الرياض\n🏟 Tupras Stadyumu\n—
+ ————\n⚽ Beşiktaş v Union St.Gilloise\n🏆 UEFA Europa League 
+ — Matchday 7\n🗓 Thu 21 Jan 2027 · 17:45 UTC\n🏟 Tupras Stadyumu\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بشكتاش ضد يونيون سانت جيلو
+ از — الدوري الأوروبي | Tomorrow: Beşiktaş vs Union St.
+ Gilloise
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بشكتا
+ ش × يونيون سانت جيلواز | Kick-off in 30 min: Beşiktaş 
+ vs Union St.Gilloise
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112278@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T174500Z
+DTEND:20270121T194500Z
+SUMMARY:Ferencváros vs Juventus — UEFA Europa League
+LOCATION:Groupama Arena
+URL:https://www.fotmob.com/match/6112278
+DESCRIPTION:⚽ فيرينتسفاروشي × يوفنتوس\n🏆 الدو
+ ري الأوروبي — الجولة 7\n🗓 الخميس 21 يناير 
+ 2027 · 20:45 بتوقيت الرياض\n🏟 Groupama Arena\n————
+ —\n⚽ Ferencváros v Juventus\n🏆 UEFA Europa League — Matchday 7\n
+ 🗓 Thu 21 Jan 2027 · 17:45 UTC\n🏟 Groupama Arena\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيرينتسفاروشي ضد يوفنتوس 
+ — الدوري الأوروبي | Tomorrow: Ferencváros vs Juventus
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيرين
+ تسفاروشي × يوفنتوس | Kick-off in 30 min: Ferencváros vs J
+ uventus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112338@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T174500Z
+DTEND:20270121T194500Z
+SUMMARY:Jagiellonia Białystok vs Lyon — UEFA Europa League
+LOCATION:Stadion Miejski\, Bialystok
+URL:https://www.fotmob.com/match/6112338
+DESCRIPTION:⚽ ياغييلونيا بياويستوك × أولمبيك 
+ ليون\n🏆 الدوري الأوروبي — الجولة 7\n🗓 ال
+ خميس 21 يناير 2027 · 20:45 بتوقيت الرياض\n🏟 Stadi
+ on Miejski, Bialystok\n—————\n⚽ Jagiellonia Białystok v Lyon\
+ n🏆 UEFA Europa League — Matchday 7\n🗓 Thu 21 Jan 2027 · 17:45 UTC
+ \n🏟 Stadion Miejski, Bialystok\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ياغييلونيا بياويستوك ضد أو
+ لمبيك ليون — الدوري الأوروبي | Tomorrow: Jagiello
+ nia Białystok vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ياغيي
+ لونيا بياويستوك × أولمبيك ليون | Kick-off in 30 
+ min: Jagiellonia Białystok vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112376@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T174500Z
+DTEND:20270121T194500Z
+SUMMARY:Lillestrøm vs AFC Bournemouth — UEFA Europa League
+LOCATION:Aaraasen Stadion
+URL:https://www.fotmob.com/match/6112376
+DESCRIPTION:⚽ ليلستروم × بورنموث\n🏆 الدوري ال
+ أوروبي — الجولة 7\n🗓 الخميس 21 يناير 2027 · 2
+ 0:45 بتوقيت الرياض\n🏟 Aaraasen Stadion\n—————\n
+ ⚽ Lillestrøm v AFC Bournemouth\n🏆 UEFA Europa League — Matchday 7\
+ n🗓 Thu 21 Jan 2027 · 17:45 UTC\n🏟 Aaraasen Stadion\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليلستروم ضد بورنموث — الدو
+ ري الأوروبي | Tomorrow: Lillestrøm vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليلست
+ روم × بورنموث | Kick-off in 30 min: Lillestrøm vs AFC Bournemo
+ uth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112366@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T174500Z
+DTEND:20270121T194500Z
+SUMMARY:NEC Nijmegen vs Benfica — UEFA Europa League
+LOCATION:Stadion De Goffert
+URL:https://www.fotmob.com/match/6112366
+DESCRIPTION:⚽ نيميخين × بنفيكا\n🏆 الدوري الأو
+ روبي — الجولة 7\n🗓 الخميس 21 يناير 2027 · 20:45
+  بتوقيت الرياض\n🏟 Stadion De Goffert\n—————\n⚽ 
+ NEC Nijmegen v Benfica\n🏆 UEFA Europa League — Matchday 7\n🗓 Thu 2
+ 1 Jan 2027 · 17:45 UTC\n🏟 Stadion De Goffert\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيميخين ضد بنفيكا — الدوري
+  الأوروبي | Tomorrow: NEC Nijmegen vs Benfica
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيميخ
+ ين × بنفيكا | Kick-off in 30 min: NEC Nijmegen vs Benfica
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112269@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T174500Z
+DTEND:20270121T194500Z
+SUMMARY:Olympiacos vs Hoffenheim — UEFA Europa League
+LOCATION:Karaiskakis Stadium
+URL:https://www.fotmob.com/match/6112269
+DESCRIPTION:⚽ أولمبياكوس × هوفنهايم\n🏆 الدوري
+  الأوروبي — الجولة 7\n🗓 الخميس 21 يناير 2027
+  · 20:45 بتوقيت الرياض\n🏟 Karaiskakis Stadium\n———
+ ——\n⚽ Olympiacos v Hoffenheim\n🏆 UEFA Europa League — Matchday 
+ 7\n🗓 Thu 21 Jan 2027 · 17:45 UTC\n🏟 Karaiskakis Stadium\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبياكوس ضد هوفنهايم — ا
+ لدوري الأوروبي | Tomorrow: Olympiacos vs Hoffenheim
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ ياكوس × هوفنهايم | Kick-off in 30 min: Olympiacos vs Hoffenh
+ eim
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112271@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T174500Z
+DTEND:20270121T194500Z
+SUMMARY:Real Sociedad vs Viktoria Plzeň — UEFA Europa League
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/6112271
+DESCRIPTION:⚽ ريال سوسيداد × فيكتوريا بلزن\n🏆 
+ الدوري الأوروبي — الجولة 7\n🗓 الخميس 21 ي
+ ناير 2027 · 20:45 بتوقيت الرياض\n🏟 Reale Arena\n——
+ ———\n⚽ Real Sociedad v Viktoria Plzeň\n🏆 UEFA Europa League 
+ — Matchday 7\n🗓 Thu 21 Jan 2027 · 17:45 UTC\n🏟 Reale Arena\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد فيكتوريا ب
+ لزن — الدوري الأوروبي | Tomorrow: Real Sociedad vs Vikt
+ oria Plzeň
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × فيكتوريا بلزن | Kick-off in 30 min: Real Socie
+ dad vs Viktoria Plzeň
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112317@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T174500Z
+DTEND:20270121T194500Z
+SUMMARY:Sturm Graz vs OFI Crete — UEFA Europa League
+LOCATION:Graz-Liebenau Stadium
+URL:https://www.fotmob.com/match/6112317
+DESCRIPTION:⚽ شتورم غراتس × أوفي كريت\n🏆 الدور
+ ي الأوروبي — الجولة 7\n🗓 الخميس 21 يناير 20
+ 27 · 20:45 بتوقيت الرياض\n🏟 Graz-Liebenau Stadium\n——
+ ———\n⚽ Sturm Graz v OFI Crete\n🏆 UEFA Europa League — Matchda
+ y 7\n🗓 Thu 21 Jan 2027 · 17:45 UTC\n🏟 Graz-Liebenau Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتورم غراتس ضد أوفي كريت — 
+ الدوري الأوروبي | Tomorrow: Sturm Graz vs OFI Crete
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتورم 
+ غراتس × أوفي كريت | Kick-off in 30 min: Sturm Graz vs OFI Cr
+ ete
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112312@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:Anderlecht vs Sunderland — UEFA Europa League
+LOCATION:Lotto Park
+URL:https://www.fotmob.com/match/6112312
+DESCRIPTION:⚽ أندرلخت × سندرلاند\n🏆 الدوري ال
+ أوروبي — الجولة 7\n🗓 الخميس 21 يناير 2027 · 2
+ 3:00 بتوقيت الرياض\n🏟 Lotto Park\n—————\n⚽ Ande
+ rlecht v Sunderland\n🏆 UEFA Europa League — Matchday 7\n🗓 Thu 21 J
+ an 2027 · 20:00 UTC\n🏟 Lotto Park\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أندرلخت ضد سندرلاند — الدو
+ ري الأوروبي | Tomorrow: Anderlecht vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أندرل
+ خت × سندرلاند | Kick-off in 30 min: Anderlecht vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112263@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:AZ Alkmaar vs Dinamo Zagreb — UEFA Europa League
+LOCATION:AFAS Stadion
+URL:https://www.fotmob.com/match/6112263
+DESCRIPTION:⚽ ألكمار × دينامو زغرب\n🏆 الدوري ا
+ لأوروبي — الجولة 7\n🗓 الخميس 21 يناير 2027 ·
+  23:00 بتوقيت الرياض\n🏟 AFAS Stadion\n—————\n⚽ 
+ AZ Alkmaar v Dinamo Zagreb\n🏆 UEFA Europa League — Matchday 7\n🗓 T
+ hu 21 Jan 2027 · 20:00 UTC\n🏟 AFAS Stadion\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ألكمار ضد دينامو زغرب — ال
+ دوري الأوروبي | Tomorrow: AZ Alkmaar vs Dinamo Zagreb
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ألكما
+ ر × دينامو زغرب | Kick-off in 30 min: AZ Alkmaar vs Dinamo Zag
+ reb
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112243@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:Bayer Leverkusen vs Salzburg — UEFA Europa League
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/6112243
+DESCRIPTION:⚽ باير ليفركوزن × Salzburg\n🏆 الدوري ا
+ لأوروبي — الجولة 7\n🗓 الخميس 21 يناير 2027 ·
+  23:00 بتوقيت الرياض\n🏟 BayArena\n—————\n⚽ Baye
+ r Leverkusen v Salzburg\n🏆 UEFA Europa League — Matchday 7\n🗓 Thu 
+ 21 Jan 2027 · 20:00 UTC\n🏟 BayArena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد Salzburg — ال
+ دوري الأوروبي | Tomorrow: Bayer Leverkusen vs Salzburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × Salzburg | Kick-off in 30 min: Bayer Leverkusen vs Salzb
+ urg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112298@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:Celtic vs Marseille — UEFA Europa League
+LOCATION:Celtic Park
+URL:https://www.fotmob.com/match/6112298
+DESCRIPTION:⚽ سيلتيك × مارسيليا\n🏆 الدوري الأ
+ وروبي — الجولة 7\n🗓 الخميس 21 يناير 2027 · 23:
+ 00 بتوقيت الرياض\n🏟 Celtic Park\n—————\n⚽ Celti
+ c v Marseille\n🏆 UEFA Europa League — Matchday 7\n🗓 Thu 21 Jan 202
+ 7 · 20:00 UTC\n🏟 Celtic Park\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتيك ضد مارسيليا — الدور
+ ي الأوروبي | Tomorrow: Celtic vs Marseille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتي
+ ك × مارسيليا | Kick-off in 30 min: Celtic vs Marseille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112323@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:Crystal Palace vs Sparta Prague — UEFA Europa League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/6112323
+DESCRIPTION:⚽ كريستال بالاس × سبارتا براغ\n🏆 ا
+ لدوري الأوروبي — الجولة 7\n🗓 الخميس 21 ين
+ اير 2027 · 23:00 بتوقيت الرياض\n🏟 Selhurst Park\n——
+ ———\n⚽ Crystal Palace v Sparta Prague\n🏆 UEFA Europa League —
+  Matchday 7\n🗓 Thu 21 Jan 2027 · 20:00 UTC\n🏟 Selhurst Park\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد سبارتا بر
+ اغ — الدوري الأوروبي | Tomorrow: Crystal Palace vs Spart
+ a Prague
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × سبارتا براغ | Kick-off in 30 min: Crystal Pal
+ ace vs Sparta Prague
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112364@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:Hapoel Beer Sheva vs Celta Vigo — UEFA Europa League
+LOCATION:Turner Stadium\, Be'er Sheva\, Israel
+GEO:31.245300;34.791400
+URL:https://www.fotmob.com/match/6112364
+DESCRIPTION:⚽ هبوعيل بئر سبع × سيلتا فيجو\n🏆 ا
+ لدوري الأوروبي — الجولة 7\n🗓 الخميس 21 ين
+ اير 2027 · 23:00 بتوقيت الرياض\n🏟 Turner Stadium، Be'e
+ r Sheva\n—————\n⚽ Hapoel Beer Sheva v Celta Vigo\n🏆 UEFA Eu
+ ropa League — Matchday 7\n🗓 Thu 21 Jan 2027 · 20:00 UTC\n🏟 Turner
+  Stadium, Be'er Sheva\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هبوعيل بئر سبع ضد سيلتا فيج
+ و — الدوري الأوروبي | Tomorrow: Hapoel Beer Sheva vs Celt
+ a Vigo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هبوعي
+ ل بئر سبع × سيلتا فيجو | Kick-off in 30 min: Hapoel Beer 
+ Sheva vs Celta Vigo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112321@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:Lech Poznań vs Torreense — UEFA Europa League
+LOCATION:Stadion Poznan
+URL:https://www.fotmob.com/match/6112321
+DESCRIPTION:⚽ ليخ بوزنان × توريينسي\n🏆 الدوري 
+ الأوروبي — الجولة 7\n🗓 الخميس 21 يناير 2027 
+ · 23:00 بتوقيت الرياض\n🏟 Stadion Poznan\n—————\n
+ ⚽ Lech Poznań v Torreense\n🏆 UEFA Europa League — Matchday 7\n🗓
+  Thu 21 Jan 2027 · 20:00 UTC\n🏟 Stadion Poznan\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليخ بوزنان ضد توريينسي — ا
+ لدوري الأوروبي | Tomorrow: Lech Poznań vs Torreense
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليخ بو
+ زنان × توريينسي | Kick-off in 30 min: Lech Poznań vs Torreen
+ se
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112378@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:Levski Sofia vs Milan — UEFA Europa League
+LOCATION:Vasil Levski
+URL:https://www.fotmob.com/match/6112378
+DESCRIPTION:⚽ ليفسكي صوفيا × ميلان\n🏆 الدوري ا
+ لأوروبي — الجولة 7\n🗓 الخميس 21 يناير 2027 ·
+  23:00 بتوقيت الرياض\n🏟 Vasil Levski\n—————\n⚽ 
+ Levski Sofia v Milan\n🏆 UEFA Europa League — Matchday 7\n🗓 Thu 21 
+ Jan 2027 · 20:00 UTC\n🏟 Vasil Levski\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفسكي صوفيا ضد ميلان — ال
+ دوري الأوروبي | Tomorrow: Levski Sofia vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفسك
+ ي صوفيا × ميلان | Kick-off in 30 min: Levski Sofia vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112308@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:Rennes vs Omonia Nicosia — UEFA Europa League
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/6112308
+DESCRIPTION:⚽ ستاد رين × Omonia Nicosia\n🏆 الدوري الأ
+ وروبي — الجولة 7\n🗓 الخميس 21 يناير 2027 · 23:
+ 00 بتوقيت الرياض\n🏟 Roazhon Park\n—————\n⚽ Renn
+ es v Omonia Nicosia\n🏆 UEFA Europa League — Matchday 7\n🗓 Thu 21 J
+ an 2027 · 20:00 UTC\n🏟 Roazhon Park\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد Omonia Nicosia — الدو
+ ري الأوروبي | Tomorrow: Rennes vs Omonia Nicosia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × Omonia Nicosia | Kick-off in 30 min: Rennes vs Omonia Nicosia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112257@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Milan vs Ararat Armenia — UEFA Europa League
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/6112257
+DESCRIPTION:⚽ ميلان × أرارات أرمينيا\n🏆 الدور
+ ي الأوروبي — الجولة 8\n🗓 الخميس 28 يناير 20
+ 27 · 23:00 بتوقيت الرياض\n🏟 San Siro\n—————\n⚽
+  Milan v Ararat Armenia\n🏆 UEFA Europa League — Matchday 8\n🗓 Thu 
+ 28 Jan 2027 · 20:00 UTC\n🏟 San Siro\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد أرارات أرمينيا — 
+ الدوري الأوروبي | Tomorrow: Milan vs Ararat Armenia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × أرارات أرمينيا | Kick-off in 30 min: Milan vs Ararat Armen
+ ia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112329@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:AFC Bournemouth vs Hapoel Beer Sheva — UEFA Europa League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/6112329
+DESCRIPTION:⚽ بورنموث × هبوعيل بئر سبع\n🏆 الدو
+ ري الأوروبي — الجولة 8\n🗓 الخميس 28 يناير 
+ 2027 · 23:00 بتوقيت الرياض\n🏟 Vitality Stadium\n———
+ ——\n⚽ AFC Bournemouth v Hapoel Beer Sheva\n🏆 UEFA Europa League 
+ — Matchday 8\n🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 Vitality Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد هبوعيل بئر سبع 
+ — الدوري الأوروبي | Tomorrow: AFC Bournemouth vs Hapoel Be
+ er Sheva
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × هبوعيل بئر سبع | Kick-off in 30 min: AFC Bournemouth v
+ s Hapoel Beer Sheva
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112246@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Benfica vs AZ Alkmaar — UEFA Europa League
+LOCATION:Estadio da Luz
+URL:https://www.fotmob.com/match/6112246
+DESCRIPTION:⚽ بنفيكا × ألكمار\n🏆 الدوري الأور
+ وبي — الجولة 8\n🗓 الخميس 28 يناير 2027 · 23:00 
+ بتوقيت الرياض\n🏟 Estadio da Luz\n—————\n⚽ Benfi
+ ca v AZ Alkmaar\n🏆 UEFA Europa League — Matchday 8\n🗓 Thu 28 Jan 2
+ 027 · 20:00 UTC\n🏟 Estadio da Luz\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بنفيكا ضد ألكمار — الدوري 
+ الأوروبي | Tomorrow: Benfica vs AZ Alkmaar
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بنفيك
+ ا × ألكمار | Kick-off in 30 min: Benfica vs AZ Alkmaar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112349@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Celta Vigo vs Lillestrøm — UEFA Europa League
+LOCATION:Abanca Balaidos
+URL:https://www.fotmob.com/match/6112349
+DESCRIPTION:⚽ سيلتا فيجو × ليلستروم\n🏆 الدوري 
+ الأوروبي — الجولة 8\n🗓 الخميس 28 يناير 2027 
+ · 23:00 بتوقيت الرياض\n🏟 Abanca Balaidos\n—————\
+ n⚽ Celta Vigo v Lillestrøm\n🏆 UEFA Europa League — Matchday 8\n
+ 🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 Abanca Balaidos\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتا فيجو ضد ليلستروم — ا
+ لدوري الأوروبي | Tomorrow: Celta Vigo vs Lillestrøm
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتا 
+ فيجو × ليلستروم | Kick-off in 30 min: Celta Vigo vs Lillestr
+ øm
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112292@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Dinamo Zagreb vs Sturm Graz — UEFA Europa League
+LOCATION:Stadion Maksimir
+URL:https://www.fotmob.com/match/6112292
+DESCRIPTION:⚽ دينامو زغرب × شتورم غراتس\n🏆 الد
+ وري الأوروبي — الجولة 8\n🗓 الخميس 28 يناي
+ ر 2027 · 23:00 بتوقيت الرياض\n🏟 Stadion Maksimir\n——
+ ———\n⚽ Dinamo Zagreb v Sturm Graz\n🏆 UEFA Europa League — Mat
+ chday 8\n🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 Stadion Maksimir\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: دينامو زغرب ضد شتورم غراتس 
+ — الدوري الأوروبي | Tomorrow: Dinamo Zagreb vs Sturm Graz
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: دينام
+ و زغرب × شتورم غراتس | Kick-off in 30 min: Dinamo Zagreb v
+ s Sturm Graz
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112351@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Hoffenheim vs Ferencváros — UEFA Europa League
+LOCATION:SNP Arena
+URL:https://www.fotmob.com/match/6112351
+DESCRIPTION:⚽ هوفنهايم × فيرينتسفاروشي\n🏆 الد
+ وري الأوروبي — الجولة 8\n🗓 الخميس 28 يناي
+ ر 2027 · 23:00 بتوقيت الرياض\n🏟 SNP Arena\n————
+ —\n⚽ Hoffenheim v Ferencváros\n🏆 UEFA Europa League — Matchday 8
+ \n🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 SNP Arena\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هوفنهايم ضد فيرينتسفاروشي 
+ — الدوري الأوروبي | Tomorrow: Hoffenheim vs Ferencváros
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هوفنه
+ ايم × فيرينتسفاروشي | Kick-off in 30 min: Hoffenheim vs F
+ erencváros
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112250@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Juventus vs Real Sociedad — UEFA Europa League
+LOCATION:Allianz Stadium
+URL:https://www.fotmob.com/match/6112250
+DESCRIPTION:⚽ يوفنتوس × ريال سوسيداد\n🏆 الدور
+ ي الأوروبي — الجولة 8\n🗓 الخميس 28 يناير 20
+ 27 · 23:00 بتوقيت الرياض\n🏟 Allianz Stadium\n————
+ —\n⚽ Juventus v Real Sociedad\n🏆 UEFA Europa League — Matchday 8\
+ n🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 Allianz Stadium\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد ريال سوسيداد — 
+ الدوري الأوروبي | Tomorrow: Juventus vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × ريال سوسيداد | Kick-off in 30 min: Juventus vs Real Soc
+ iedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112258@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Lyon vs Bayer Leverkusen — UEFA Europa League
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/6112258
+DESCRIPTION:⚽ أولمبيك ليون × باير ليفركوزن\n🏆 
+ الدوري الأوروبي — الجولة 8\n🗓 الخميس 28 ي
+ ناير 2027 · 23:00 بتوقيت الرياض\n🏟 Groupama Stadium\n
+ —————\n⚽ Lyon v Bayer Leverkusen\n🏆 UEFA Europa League — 
+ Matchday 8\n🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 Groupama Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد باير ليفرك
+ وزن — الدوري الأوروبي | Tomorrow: Lyon vs Bayer Leverku
+ sen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × باير ليفركوزن | Kick-off in 30 min: Lyon vs B
+ ayer Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112275@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Marseille vs Anderlecht — UEFA Europa League
+LOCATION:Stade Orange Velodrome
+URL:https://www.fotmob.com/match/6112275
+DESCRIPTION:⚽ مارسيليا × أندرلخت\n🏆 الدوري ال
+ أوروبي — الجولة 8\n🗓 الخميس 28 يناير 2027 · 2
+ 3:00 بتوقيت الرياض\n🏟 Stade Orange Velodrome\n————
+ —\n⚽ Marseille v Anderlecht\n🏆 UEFA Europa League — Matchday 8\n
+ 🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 Stade Orange Velodrome\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مارسيليا ضد أندرلخت — الدو
+ ري الأوروبي | Tomorrow: Marseille vs Anderlecht
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مارسي
+ ليا × أندرلخت | Kick-off in 30 min: Marseille vs Anderlecht
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112337@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:NK Celje vs NEC Nijmegen — UEFA Europa League
+LOCATION:Stadion Z'dezele
+URL:https://www.fotmob.com/match/6112337
+DESCRIPTION:⚽ تسيليى × نيميخين\n🏆 الدوري الأو
+ روبي — الجولة 8\n🗓 الخميس 28 يناير 2027 · 23:00
+  بتوقيت الرياض\n🏟 Stadion Z'dezele\n—————\n⚽ NK
+  Celje v NEC Nijmegen\n🏆 UEFA Europa League — Matchday 8\n🗓 Thu 28
+  Jan 2027 · 20:00 UTC\n🏟 Stadion Z'dezele\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تسيليى ضد نيميخين — الدوري
+  الأوروبي | Tomorrow: NK Celje vs NEC Nijmegen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تسيلي
+ ى × نيميخين | Kick-off in 30 min: NK Celje vs NEC Nijmegen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112372@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:OFI Crete vs Lech Poznań — UEFA Europa League
+LOCATION:Pankritio Stadium
+URL:https://www.fotmob.com/match/6112372
+DESCRIPTION:⚽ أوفي كريت × ليخ بوزنان\n🏆 الدوري
+  الأوروبي — الجولة 8\n🗓 الخميس 28 يناير 2027
+  · 23:00 بتوقيت الرياض\n🏟 Pankritio Stadium\n————
+ —\n⚽ OFI Crete v Lech Poznań\n🏆 UEFA Europa League — Matchday 8\
+ n🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 Pankritio Stadium\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوفي كريت ضد ليخ بوزنان — ا
+ لدوري الأوروبي | Tomorrow: OFI Crete vs Lech Poznań
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوفي ك
+ ريت × ليخ بوزنان | Kick-off in 30 min: OFI Crete vs Lech Pozn
+ ań
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112345@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Omonia Nicosia vs Beşiktaş — UEFA Europa League
+LOCATION:Neo GSP Stadium
+URL:https://www.fotmob.com/match/6112345
+DESCRIPTION:⚽ Omonia Nicosia × بشكتاش\n🏆 الدوري الأو
+ روبي — الجولة 8\n🗓 الخميس 28 يناير 2027 · 23:00
+  بتوقيت الرياض\n🏟 Neo GSP Stadium\n—————\n⚽ Omo
+ nia Nicosia v Beşiktaş\n🏆 UEFA Europa League — Matchday 8\n🗓 Thu
+  28 Jan 2027 · 20:00 UTC\n🏟 Neo GSP Stadium\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Omonia Nicosia ضد بشكتاش — الدوري
+  الأوروبي | Tomorrow: Omonia Nicosia vs Beşiktaş
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Omonia Nico
+ sia × بشكتاش | Kick-off in 30 min: Omonia Nicosia vs Beşiktaş
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112296@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Salzburg vs Crystal Palace — UEFA Europa League
+LOCATION:Red Bull Arena
+URL:https://www.fotmob.com/match/6112296
+DESCRIPTION:⚽ Salzburg × كريستال بالاس\n🏆 الدوري ا
+ لأوروبي — الجولة 8\n🗓 الخميس 28 يناير 2027 ·
+  23:00 بتوقيت الرياض\n🏟 Red Bull Arena\n—————\n
+ ⚽ Salzburg v Crystal Palace\n🏆 UEFA Europa League — Matchday 8\n
+ 🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 Red Bull Arena\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Salzburg ضد كريستال بالاس — ال
+ دوري الأوروبي | Tomorrow: Salzburg vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Salzburg ×
+  كريستال بالاس | Kick-off in 30 min: Salzburg vs Crystal Palac
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112303@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Sparta Prague vs Rennes — UEFA Europa League
+LOCATION:epet Arena
+URL:https://www.fotmob.com/match/6112303
+DESCRIPTION:⚽ سبارتا براغ × ستاد رين\n🏆 الدوري
+  الأوروبي — الجولة 8\n🗓 الخميس 28 يناير 2027
+  · 23:00 بتوقيت الرياض\n🏟 epet Arena\n—————\n⚽
+  Sparta Prague v Rennes\n🏆 UEFA Europa League — Matchday 8\n🗓 Thu 
+ 28 Jan 2027 · 20:00 UTC\n🏟 epet Arena\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سبارتا براغ ضد ستاد رين — ا
+ لدوري الأوروبي | Tomorrow: Sparta Prague vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سبارت
+ ا براغ × ستاد رين | Kick-off in 30 min: Sparta Prague vs Renn
+ es
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112333@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Sunderland vs Levski Sofia — UEFA Europa League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/6112333
+DESCRIPTION:⚽ سندرلاند × ليفسكي صوفيا\n🏆 الدو
+ ري الأوروبي — الجولة 8\n🗓 الخميس 28 يناير 
+ 2027 · 23:00 بتوقيت الرياض\n🏟 Stadium of Light\n———
+ ——\n⚽ Sunderland v Levski Sofia\n🏆 UEFA Europa League — Matchda
+ y 8\n🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 Stadium of Light\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد ليفسكي صوفيا —
+  الدوري الأوروبي | Tomorrow: Sunderland vs Levski Sofia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × ليفسكي صوفيا | Kick-off in 30 min: Sunderland vs Levs
+ ki Sofia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112358@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Torreense vs Olympiacos — UEFA Europa League
+LOCATION:Campo Manuel Marques\, Torres Vedras\, Portugal
+GEO:39.094878;-9.256749
+URL:https://www.fotmob.com/match/6112358
+DESCRIPTION:⚽ توريينسي × أولمبياكوس\n🏆 الدوري
+  الأوروبي — الجولة 8\n🗓 الخميس 28 يناير 2027
+  · 23:00 بتوقيت الرياض\n🏟 Campo Manuel Marques، Torres Ve
+ dras\n—————\n⚽ Torreense v Olympiacos\n🏆 UEFA Europa League
+  — Matchday 8\n🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 Campo Manuel Marq
+ ues, Torres Vedras\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توريينسي ضد أولمبياكوس — ا
+ لدوري الأوروبي | Tomorrow: Torreense vs Olympiacos
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توريي
+ نسي × أولمبياكوس | Kick-off in 30 min: Torreense vs Olympiac
+ os
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112287@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Union St.Gilloise vs Celtic — UEFA Europa League
+LOCATION:Stade Joseph Marien
+URL:https://www.fotmob.com/match/6112287
+DESCRIPTION:⚽ يونيون سانت جيلواز × سيلتيك\n🏆 ا
+ لدوري الأوروبي — الجولة 8\n🗓 الخميس 28 ين
+ اير 2027 · 23:00 بتوقيت الرياض\n🏟 Stade Joseph Marien\n
+ —————\n⚽ Union St.Gilloise v Celtic\n🏆 UEFA Europa League 
+ — Matchday 8\n🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 Stade Joseph Marie
+ n\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون سانت جيلواز ضد سيلت
+ يك — الدوري الأوروبي | Tomorrow: Union St.Gilloise vs Ce
+ ltic
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن سانت جيلواز × سيلتيك | Kick-off in 30 min: Union St.Gi
+ lloise vs Celtic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112284@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Viktoria Plzeň vs Jagiellonia Białystok — UEFA Europa League
+LOCATION:Doosan Arena Plzen
+URL:https://www.fotmob.com/match/6112284
+DESCRIPTION:⚽ فيكتوريا بلزن × ياغييلونيا بياو
+ يستوك\n🏆 الدوري الأوروبي — الجولة 8\n🗓 ا
+ لخميس 28 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Doo
+ san Arena Plzen\n—————\n⚽ Viktoria Plzeň v Jagiellonia Biały
+ stok\n🏆 UEFA Europa League — Matchday 8\n🗓 Thu 28 Jan 2027 · 20:0
+ 0 UTC\n🏟 Doosan Arena Plzen\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيكتوريا بلزن ضد ياغييلوني
+ ا بياويستوك — الدوري الأوروبي | Tomorrow: Viktor
+ ia Plzeň vs Jagiellonia Białystok
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيكتو
+ ريا بلزن × ياغييلونيا بياويستوك | Kick-off in 3
+ 0 min: Viktoria Plzeň vs Jagiellonia Białystok
+END:VALARM
+END:VEVENT
+END:VCALENDAR

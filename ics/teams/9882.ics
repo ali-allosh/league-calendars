@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Sampdoria — Coppa Italia Fixtures | سامبدوريا 
+ — مباريات كأس إيطاليا
+X-WR-CALDESC:Sampdoria — all matches in Coppa Italia\, exact UTC kickoffs
+ \, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:3
+ 1:10Z.  •  سامبدوريا — جميع المباريات في كأ
+ س إيطاليا بتوقيت UTC الدقيق مع الملاعب وال
+ قنوات الناقلة. المصدر: FotMob + 365scores · تحديث 
+ تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5852785@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260817T184500Z
+DTEND:20260817T204500Z
+SUMMARY:Cremonese vs Sampdoria (2 - 0) — Coppa Italia
+LOCATION:Stadio Marco Druso\, Bolzano (Bozen)\, Italy
+GEO:46.492026;11.346055
+URL:https://www.fotmob.com/match/5852785
+DESCRIPTION:⚽ كريمونيسي × سامبدوريا (2 - 0)\n🏆 كأ
+ س إيطاليا — دور الـ32\n🗓 الاثنين 17 أغسطس 2
+ 026 · 21:45 بتوقيت الرياض\n🏟 Stadio Marco Druso، Bolzano 
+ (Bozen)\n⚖️ الحكم: Daniele Perenzoni\n👥 الحضور: 1,048\n
+ —————\n⚽ Cremonese v Sampdoria (2 - 0)\n🏆 Coppa Italia — 
+ Round of 32\n🗓 Mon 17 Aug 2026 · 18:45 UTC\n🏟 Stadio Marco Druso, B
+ olzano (Bozen)\nReferee: Daniele Perenzoni\nAttendance: 1,048\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريمونيسي ضد سامبدوريا — ك
+ أس إيطاليا | Tomorrow: Cremonese vs Sampdoria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريمو
+ نيسي × سامبدوريا | Kick-off in 30 min: Cremonese vs Sampdori
+ a
+END:VALARM
+END:VEVENT
+END:VCALENDAR

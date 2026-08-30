@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Altrincham — FA Cup Fixtures | Altrincham — مباري
+ ات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Altrincham — all matches in FA Cup\, exact UTC kickoffs\, st
+ adiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10Z
+ .  •  Altrincham — جميع المباريات في كأس الاتح
+ اد الإنجليزي بتوقيت UTC الدقيق مع الملاعب 
+ والقنوات الناقلة. المصدر: FotMob + 365scores · تح
+ ديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010639@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Slough Town vs Altrincham (2 - 1) — FA Cup
+LOCATION:Arbour Park\, Slough\, Buckinghamshire\, England
+GEO:51.519855;-0.588333
+URL:https://www.fotmob.com/match/5010639
+DESCRIPTION:⚽ Slough Town × Altrincham (2 - 1)\n🏆 كأس الاتحا
+ د الإنجليزي — الدور الأول\n🗓 السبت 1 نوف
+ مبر 2025 · 18:00 بتوقيت الرياض\n🏟 Arbour Park، Slough,
+  Buckinghamshire\n⚖️ الحكم: Elliot Swallow\n👥 الحضور: 1,
+ 531\n—————\n⚽ Slough Town v Altrincham (2 - 1)\n🏆 FA Cup 
+ — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Arbour Park, Slough, 
+ Buckinghamshire\nReferee: Elliot Swallow\nAttendance: 1,531\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Slough Town ضد Altrincham — كأس الاتح
+ اد الإنجليزي | Tomorrow: Slough Town vs Altrincham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Slough Town
+  × Altrincham | Kick-off in 30 min: Slough Town vs Altrincham
+END:VALARM
+END:VEVENT
+END:VCALENDAR

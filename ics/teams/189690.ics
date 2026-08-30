@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Atlético Tordesillas — Copa del Rey Fixtures | Atlétic
+ o Tordesillas — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Atlético Tordesillas — all matches in Copa del Rey\, exact 
+ UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 202
+ 6-09-05T19:31:10Z.  •  Atlético Tordesillas — جميع المباري
+ ات في كأس ملك إسبانيا بتوقيت UTC الدقيق مع 
+ الملاعب والقنوات الناقلة. المصدر: FotMob + 365
+ scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4995993@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251028T180000Z
+DTEND:20251028T200000Z
+SUMMARY:Atlético Tordesillas vs Burgos CF (1 - 2) — Copa del Rey
+LOCATION:Estadio Las Salinas\, Tordesillas\, Spain
+GEO:41.488223;-4.999750
+URL:https://www.fotmob.com/match/4995993
+DESCRIPTION:⚽ Atlético Tordesillas × بورغوس (1 - 2)\n🏆 كأس 
+ ملك إسبانيا — الدور الأول\n🗓 الثلاثاء 28 
+ أكتوبر 2025 · 21:00 بتوقيت الرياض\n🏟 Estadio Las Sal
+ inas، Tordesillas\n⚖️ الحكم: Eder Mallo Fernández\n————
+ —\n⚽ Atlético Tordesillas v Burgos CF (1 - 2)\n🏆 Copa del Rey — 
+ Round 1\n🗓 Tue 28 Oct 2025 · 18:00 UTC\n🏟 Estadio Las Salinas, Tord
+ esillas\nReferee: Eder Mallo Fernández\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Atlético Tordesillas ضد بورغوس — كأ
+ س ملك إسبانيا | Tomorrow: Atlético Tordesillas vs Burgos CF
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Atlético T
+ ordesillas × بورغوس | Kick-off in 30 min: Atlético Tordesillas vs 
+ Burgos CF
+END:VALARM
+END:VEVENT
+END:VCALENDAR

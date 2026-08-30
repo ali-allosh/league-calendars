@@ -1,0 +1,1132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al-Ettifaq — Saudi Pro League & King's Cup Fixtures | ا
+ لاتفاق — مباريات دوري روشن السعودي وكأس 
+ خادم الحرمين الشريفين
+X-WR-CALDESC:Al-Ettifaq — all matches in Saudi Pro League & King's Cup\, 
+ exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updat
+ ed 2026-09-05T19:31:10Z.  •  الاتفاق — جميع المباري
+ ات في دوري روشن السعودي وكأس خادم الحرمي
+ ن الشريفين بتوقيت UTC الدقيق مع الملاعب وا
+ لقنوات الناقلة. المصدر: FotMob + 365scores · تحدي
+ ث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5969050@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260814T180000Z
+DTEND:20260814T200000Z
+SUMMARY:Al-Ettifaq vs Al Riyadh (4 - 2) — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/5969050
+DESCRIPTION:⚽ الاتفاق × الرياض (4 - 2)\n🏆 دوري رو
+ شن السعودي — الجولة 1\n🗓 الجمعة 14 أغسطس 20
+ 26 · 21:00 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Damm
+ am\n👥 الحضور: 2,303\n—————\n⚽ Al-Ettifaq v Al Riyadh 
+ (4 - 2)\n🏆 Saudi Pro League — Matchday 1\n🗓 Fri 14 Aug 2026 · 18:
+ 00 UTC\n🏟 Al Ettifaq Club Stadium, Dammam\nAttendance: 2,303\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد الرياض — دوري ر
+ وشن السعودي | Tomorrow: Al-Ettifaq vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × الرياض | Kick-off in 30 min: Al-Ettifaq vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970095@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T154500Z
+DTEND:20260822T174500Z
+SUMMARY:Al Fateh FC vs Al-Ettifaq (0 - 1) — Saudi Pro League
+LOCATION:Maydan Tamweel Aloula\, Al Ahsa\, Saudi Arabia
+GEO:25.429604;49.581390
+URL:https://www.fotmob.com/match/5970095
+DESCRIPTION:⚽ الفتح × الاتفاق (0 - 1)\n🏆 دوري روش
+ ن السعودي — الجولة 2\n🗓 السبت 22 أغسطس 2026 
+ · 18:45 بتوقيت الرياض\n🏟 Maydan Tamweel Aloula، Al Ahsa\n
+ ⚖️ الحكم: Ali Al Qahtani\n👥 الحضور: 8,678\n————
+ —\n⚽ Al Fateh FC v Al-Ettifaq (0 - 1)\n🏆 Saudi Pro League — Match
+ day 2\n🗓 Sat 22 Aug 2026 · 15:45 UTC\n🏟 Maydan Tamweel Aloula, Al A
+ hsa\nReferee: Ali Al Qahtani\nAttendance: 8,678\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفتح ضد الاتفاق — دوري رو
+ شن السعودي | Tomorrow: Al Fateh FC vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفتح 
+ × الاتفاق | Kick-off in 30 min: Al Fateh FC vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970103@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260825T180000Z
+DTEND:20260825T200000Z
+SUMMARY:Al-Ettifaq vs Al Nassr FC (2 - 3) — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/5970103
+DESCRIPTION:⚽ الاتفاق × النصر (2 - 3)\n🏆 دوري روش
+ ن السعودي — الجولة 3\n🗓 الثلاثاء 25 أغسطس 
+ 2026 · 21:00 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Da
+ mmam\n⚖️ الحكم: Mohammed Al Hoaish\n👥 الحضور: 8,525\n—
+ ————\n⚽ Al-Ettifaq v Al Nassr FC (2 - 3)\n🏆 Saudi Pro League 
+ — Matchday 3\n🗓 Tue 25 Aug 2026 · 18:00 UTC\n🏟 Al Ettifaq Club St
+ adium, Dammam\nReferee: Mohammed Al Hoaish\nAttendance: 8,525\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد النصر — دوري رو
+ شن السعودي | Tomorrow: Al-Ettifaq vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × النصر | Kick-off in 30 min: Al-Ettifaq vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970112@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T180000Z
+DTEND:20260829T200000Z
+SUMMARY:Al-Ettifaq vs Al Diriyah (0 - 3) — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/5970112
+DESCRIPTION:⚽ الاتفاق × الدرعية (0 - 3)\n🏆 دوري ر
+ وشن السعودي — الجولة 4\n🗓 السبت 29 أغسطس 20
+ 26 · 21:00 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Damm
+ am\n⚖️ الحكم: Abdullah Al Owaydan\n👥 الحضور: 1,130\n—
+ ————\n⚽ Al-Ettifaq v Al Diriyah (0 - 3)\n🏆 Saudi Pro League 
+ — Matchday 4\n🗓 Sat 29 Aug 2026 · 18:00 UTC\n🏟 Al Ettifaq Club St
+ adium, Dammam\nReferee: Abdullah Al Owaydan\nAttendance: 1,130\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد الدرعية — دوري 
+ روشن السعودي | Tomorrow: Al-Ettifaq vs Al Diriyah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × الدرعية | Kick-off in 30 min: Al-Ettifaq vs Al Diriyah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970120@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260904T160000Z
+DTEND:20260904T180000Z
+SUMMARY:Abha vs Al-Ettifaq (0 - 1) — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/5970120
+DESCRIPTION:⚽ أبها × الاتفاق (0 - 1)\n🏆 دوري روشن 
+ السعودي — الجولة 5\n🗓 الجمعة 4 سبتمبر 2026 
+ · 19:00 بتوقيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sport
+ s City Stadium، Abha\n⚖️ الحكم: Mohammed Al Shahrani\n———
+ ——\n⚽ Abha v Al-Ettifaq (0 - 1)\n🏆 Saudi Pro League — Matchday 
+ 5\n🗓 Fri 04 Sep 2026 · 16:00 UTC\n🏟 Prince Sultan bin Abdulaziz Spo
+ rts City Stadium, Abha\nReferee: Mohammed Al Shahrani\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الاتفاق — دوري روش
+ ن السعودي | Tomorrow: Abha vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الاتفاق | Kick-off in 30 min: Abha vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970128@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T153000Z
+DTEND:20260908T173000Z
+SUMMARY:Al-Ettifaq vs Al-Faisaly — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/5970128
+DESCRIPTION:⚽ الاتفاق × الفيصلي\n🏆 دوري روشن ا
+ لسعودي — الجولة 6\n🗓 الثلاثاء 8 سبتمبر 2026
+  · 18:30 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Dammam
+ \n📺 OneFootball PPV\n—————\n⚽ Al-Ettifaq v Al-Faisaly\n🏆
+  Saudi Pro League — Matchday 6\n🗓 Tue 08 Sep 2026 · 15:30 UTC\n🏟 
+ Al Ettifaq Club Stadium, Dammam\n📺 OneFootball PPV\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد الفيصلي — دوري 
+ روشن السعودي — 📺 OneFootball PPV | Tomorrow: Al-Ettifaq vs
+  Al-Faisaly | TV: OneFootball PPV
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × الفيصلي — 📺 OneFootball PPV | Kick-off in 30 min: Al-E
+ ttifaq vs Al-Faisaly | TV: OneFootball PPV
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970139@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260911T152500Z
+DTEND:20260911T172500Z
+SUMMARY:Al Qadsiah vs Al-Ettifaq — Saudi Pro League
+LOCATION:Prince Saud bin Jalawi Stadium
+URL:https://www.fotmob.com/match/5970139
+DESCRIPTION:⚽ القادسية × الاتفاق\n🏆 دوري روشن 
+ السعودي — الجولة 7\n🗓 الجمعة 11 سبتمبر 2026 
+ · 18:25 بتوقيت الرياض\n🏟 Prince Saud bin Jalawi Stadium\n
+ 📺 FOX Deportes، FOX Sports online، FOX One\n—————\n⚽ Al Q
+ adsiah v Al-Ettifaq\n🏆 Saudi Pro League — Matchday 7\n🗓 Fri 11 Sep
+  2026 · 15:25 UTC\n🏟 Prince Saud bin Jalawi Stadium\n📺 FOX Deportes
+ , FOX Sports online, FOX One\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الاتفاق — دوري
+  روشن السعودي — 📺 FOX Deportes، FOX Sports online، FOX O
+ ne | Tomorrow: Al Qadsiah vs Al-Ettifaq | TV: FOX Deportes\, FOX Sports on
+ line\, FOX One
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الاتفاق — 📺 FOX Deportes، FOX Sports online، FOX O
+ ne | Kick-off in 30 min: Al Qadsiah vs Al-Ettifaq | TV: FOX Deportes\, FOX
+  Sports online\, FOX One
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970145@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T145500Z
+DTEND:20261010T165500Z
+SUMMARY:Al-Ettifaq vs Al Khaleej — Saudi Pro League
+LOCATION:Prince Mohamed bin Fahd Stadium
+URL:https://www.fotmob.com/match/5970145
+DESCRIPTION:⚽ الاتفاق × الخليج\n🏆 دوري روشن ال
+ سعودي — الجولة 8\n🗓 السبت 10 أكتوبر 2026 · 17:
+ 55 بتوقيت الرياض\n🏟 Prince Mohamed bin Fahd Stadium\n——
+ ———\n⚽ Al-Ettifaq v Al Khaleej\n🏆 Saudi Pro League — Matchday
+  8\n🗓 Sat 10 Oct 2026 · 14:55 UTC\n🏟 Prince Mohamed bin Fahd Stadiu
+ m\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد الخليج — دوري ر
+ وشن السعودي | Tomorrow: Al-Ettifaq vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × الخليج | Kick-off in 30 min: Al-Ettifaq vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970161@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T154000Z
+DTEND:20261017T174000Z
+SUMMARY:Neom SC vs Al-Ettifaq — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium
+URL:https://www.fotmob.com/match/5970161
+DESCRIPTION:⚽ نيوم × الاتفاق\n🏆 دوري روشن السع
+ ودي — الجولة 9\n🗓 السبت 17 أكتوبر 2026 · 18:40 
+ بتوقيت الرياض\n🏟 King Khalid Sport City Stadium\n———
+ ——\n⚽ Neom SC v Al-Ettifaq\n🏆 Saudi Pro League — Matchday 9\n
+ 🗓 Sat 17 Oct 2026 · 15:40 UTC\n🏟 King Khalid Sport City Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الاتفاق — دوري روش
+ ن السعودي | Tomorrow: Neom SC vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الاتفاق | Kick-off in 30 min: Neom SC vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970164@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T180000Z
+DTEND:20261020T200000Z
+SUMMARY:Al-Ettifaq vs Al Ittihad — Saudi Pro League
+LOCATION:Prince Mohamed bin Fahd Stadium
+URL:https://www.fotmob.com/match/5970164
+DESCRIPTION:⚽ الاتفاق × الاتحاد\n🏆 دوري روشن ا
+ لسعودي — الجولة 10\n🗓 الثلاثاء 20 أكتوبر 20
+ 26 · 21:00 بتوقيت الرياض\n🏟 Prince Mohamed bin Fahd Stadiu
+ m\n—————\n⚽ Al-Ettifaq v Al Ittihad\n🏆 Saudi Pro League —
+  Matchday 10\n🗓 Tue 20 Oct 2026 · 18:00 UTC\n🏟 Prince Mohamed bin F
+ ahd Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد الاتحاد — دوري 
+ روشن السعودي | Tomorrow: Al-Ettifaq vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × الاتحاد | Kick-off in 30 min: Al-Ettifaq vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970176@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T150500Z
+DTEND:20261024T170500Z
+SUMMARY:Al Kholood vs Al-Ettifaq — Saudi Pro League
+LOCATION:King Abdullah Stadium\, Buraydah
+URL:https://www.fotmob.com/match/5970176
+DESCRIPTION:⚽ الخلود × الاتفاق\n🏆 دوري روشن ال
+ سعودي — الجولة 11\n🗓 السبت 24 أكتوبر 2026 · 18
+ :05 بتوقيت الرياض\n🏟 King Abdullah Stadium, Buraydah\n—
+ ————\n⚽ Al Kholood v Al-Ettifaq\n🏆 Saudi Pro League — Match
+ day 11\n🗓 Sat 24 Oct 2026 · 15:05 UTC\n🏟 King Abdullah Stadium, Bur
+ aydah\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد الاتفاق — دوري ر
+ وشن السعودي | Tomorrow: Al Kholood vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × الاتفاق | Kick-off in 30 min: Al Kholood vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970196@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T133000Z
+DTEND:20261031T153000Z
+SUMMARY:Al-Taawoun vs Al-Ettifaq — Saudi Pro League
+LOCATION:Al-Taawoun Club Stadium
+URL:https://www.fotmob.com/match/5970196
+DESCRIPTION:⚽ التعاون × الاتفاق\n🏆 دوري روشن ا
+ لسعودي — الجولة 12\n🗓 السبت 31 أكتوبر 2026 · 
+ 16:30 بتوقيت الرياض\n🏟 Al-Taawoun Club Stadium\n———
+ ——\n⚽ Al-Taawoun v Al-Ettifaq\n🏆 Saudi Pro League — Matchday 12
+ \n🗓 Sat 31 Oct 2026 · 13:30 UTC\n🏟 Al-Taawoun Club Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الاتفاق — دوري 
+ روشن السعودي | Tomorrow: Al-Taawoun vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الاتفاق | Kick-off in 30 min: Al-Taawoun vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021470@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:Al-Ettifaq vs Al Hilal — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/1000021470
+DESCRIPTION:⚽ الاتفاق × الهلال\n🏆 دوري روشن ال
+ سعودي — الجولة 13\n🗓 الخميس 5 نوفمبر 2026 · 0
+ 3:00 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Dammam\n—
+ ————\n⚽ Al-Ettifaq v Al Hilal\n🏆 Saudi Pro League — Matchda
+ y 13\n🗓 Thu 05 Nov 2026 · 00:00 UTC\n🏟 Al Ettifaq Club Stadium, Dam
+ mam\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد الهلال — دوري ر
+ وشن السعودي | Tomorrow: Al-Ettifaq vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × الهلال | Kick-off in 30 min: Al-Ettifaq vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021483@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Al Shabab vs Al-Ettifaq — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/1000021483
+DESCRIPTION:⚽ الشباب × الاتفاق\n🏆 دوري روشن ال
+ سعودي — الجولة 14\n🗓 الجمعة 20 نوفمبر 2026 · 
+ 03:00 بتوقيت الرياض\n🏟 SHG Arena، Riyadh\n—————\
+ n⚽ Al Shabab v Al-Ettifaq\n🏆 Saudi Pro League — Matchday 14\n🗓 F
+ ri 20 Nov 2026 · 00:00 UTC\n🏟 SHG Arena, Riyadh\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد الاتفاق — دوري ر
+ وشن السعودي | Tomorrow: Al Shabab vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × الاتفاق | Kick-off in 30 min: Al Shabab vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021487@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Al-Ettifaq vs Al Hazem — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/1000021487
+DESCRIPTION:⚽ الاتفاق × الحزم\n🏆 دوري روشن الس
+ عودي — الجولة 15\n🗓 الخميس 26 نوفمبر 2026 · 03
+ :00 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Dammam\n—
+ ————\n⚽ Al-Ettifaq v Al Hazem\n🏆 Saudi Pro League — Matchda
+ y 15\n🗓 Thu 26 Nov 2026 · 00:00 UTC\n🏟 Al Ettifaq Club Stadium, Dam
+ mam\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد الحزم — دوري رو
+ شن السعودي | Tomorrow: Al-Ettifaq vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × الحزم | Kick-off in 30 min: Al-Ettifaq vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021495@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Al Ahli vs Al-Ettifaq — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021495
+DESCRIPTION:⚽ الأهلي × الاتفاق\n🏆 دوري روشن ال
+ سعودي — الجولة 16\n🗓 الخميس 3 ديسمبر 2026 · 0
+ 3:00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah 
+ Sport City، Jeddah\n—————\n⚽ Al Ahli v Al-Ettifaq\n🏆 Saudi
+  Pro League — Matchday 16\n🗓 Thu 03 Dec 2026 · 00:00 UTC\n🏟 Alinm
+ a Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الاتفاق — دوري ر
+ وشن السعودي | Tomorrow: Al Ahli vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الاتفاق | Kick-off in 30 min: Al Ahli vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021505@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Al-Ettifaq vs Al-Fayha — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/1000021505
+DESCRIPTION:⚽ الاتفاق × الفيحاء\n🏆 دوري روشن ا
+ لسعودي — الجولة 17\n🗓 الخميس 10 ديسمبر 2026 
+ · 03:00 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Dammam\
+ n—————\n⚽ Al-Ettifaq v Al-Fayha\n🏆 Saudi Pro League — Mat
+ chday 17\n🗓 Thu 10 Dec 2026 · 00:00 UTC\n🏟 Al Ettifaq Club Stadium,
+  Dammam\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد الفيحاء — دوري 
+ روشن السعودي | Tomorrow: Al-Ettifaq vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × الفيحاء | Kick-off in 30 min: Al-Ettifaq vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021521@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261214T000000Z
+DTEND:20261214T020000Z
+SUMMARY:Al Riyadh vs Al-Ettifaq — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/1000021521
+DESCRIPTION:⚽ الرياض × الاتفاق\n🏆 دوري روشن ال
+ سعودي — الجولة 18\n🗓 الاثنين 14 ديسمبر 2026 
+ · 03:00 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، 
+ Riyadh\n—————\n⚽ Al Riyadh v Al-Ettifaq\n🏆 Saudi Pro League
+  — Matchday 18\n🗓 Mon 14 Dec 2026 · 00:00 UTC\n🏟 Prince Faisal bi
+ n Fahd Stadium, Riyadh\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الاتفاق — دوري ر
+ وشن السعودي | Tomorrow: Al Riyadh vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الاتفاق | Kick-off in 30 min: Al Riyadh vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021523@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270211T000000Z
+DTEND:20270211T020000Z
+SUMMARY:Al-Ettifaq vs Al Fateh FC — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/1000021523
+DESCRIPTION:⚽ الاتفاق × الفتح\n🏆 دوري روشن الس
+ عودي — الجولة 19\n🗓 الخميس 11 فبراير 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Dammam\n—
+ ————\n⚽ Al-Ettifaq v Al Fateh FC\n🏆 Saudi Pro League — Matc
+ hday 19\n🗓 Thu 11 Feb 2027 · 00:00 UTC\n🏟 Al Ettifaq Club Stadium, 
+ Dammam\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد الفتح — دوري رو
+ شن السعودي | Tomorrow: Al-Ettifaq vs Al Fateh FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × الفتح | Kick-off in 30 min: Al-Ettifaq vs Al Fateh FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021537@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270218T000000Z
+DTEND:20270218T020000Z
+SUMMARY:Al Nassr FC vs Al-Ettifaq — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021537
+DESCRIPTION:⚽ النصر × الاتفاق\n🏆 دوري روشن الس
+ عودي — الجولة 20\n🗓 الخميس 18 فبراير 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n————
+ —\n⚽ Al Nassr FC v Al-Ettifaq\n🏆 Saudi Pro League — Matchday 20\n
+ 🗓 Thu 18 Feb 2027 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الاتفاق — دوري رو
+ شن السعودي | Tomorrow: Al Nassr FC vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الاتفاق | Kick-off in 30 min: Al Nassr FC vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021547@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270225T000000Z
+DTEND:20270225T020000Z
+SUMMARY:Al Diriyah vs Al-Ettifaq — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021547
+DESCRIPTION:⚽ الدرعية × الاتفاق\n🏆 دوري روشن ا
+ لسعودي — الجولة 21\n🗓 الخميس 25 فبراير 2027 
+ · 03:00 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n———
+ ——\n⚽ Al Diriyah v Al-Ettifaq\n🏆 Saudi Pro League — Matchday 21
+ \n🗓 Thu 25 Feb 2027 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الدرعية ضد الاتفاق — دوري 
+ روشن السعودي | Tomorrow: Al Diriyah vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الدرع
+ ية × الاتفاق | Kick-off in 30 min: Al Diriyah vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021549@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270311T000000Z
+DTEND:20270311T020000Z
+SUMMARY:Al-Ettifaq vs Abha — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/1000021549
+DESCRIPTION:⚽ الاتفاق × أبها\n🏆 دوري روشن السع
+ ودي — الجولة 22\n🗓 الخميس 11 مارس 2027 · 03:00 ب
+ توقيت الرياض\n🏟 Al Ettifaq Club Stadium، Dammam\n———
+ ——\n⚽ Al-Ettifaq v Abha\n🏆 Saudi Pro League — Matchday 22\n🗓
+  Thu 11 Mar 2027 · 00:00 UTC\n🏟 Al Ettifaq Club Stadium, Dammam\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد أبها — دوري روش
+ ن السعودي | Tomorrow: Al-Ettifaq vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × أبها | Kick-off in 30 min: Al-Ettifaq vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021561@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270318T000000Z
+DTEND:20270318T020000Z
+SUMMARY:Al-Faisaly vs Al-Ettifaq — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021561
+DESCRIPTION:⚽ الفيصلي × الاتفاق\n🏆 دوري روشن ا
+ لسعودي — الجولة 23\n🗓 الخميس 18 مارس 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al M
+ ajma'ah\n—————\n⚽ Al-Faisaly v Al-Ettifaq\n🏆 Saudi Pro Leag
+ ue — Matchday 23\n🗓 Thu 18 Mar 2027 · 00:00 UTC\n🏟 Al Majma'ah Sp
+ orts City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد الاتفاق — دوري 
+ روشن السعودي | Tomorrow: Al-Faisaly vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × الاتفاق | Kick-off in 30 min: Al-Faisaly vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021568@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270402T000000Z
+DTEND:20270402T020000Z
+SUMMARY:Al-Ettifaq vs Al Qadsiah — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/1000021568
+DESCRIPTION:⚽ الاتفاق × القادسية\n🏆 دوري روشن 
+ السعودي — الجولة 24\n🗓 الجمعة 2 أبريل 2027 ·
+  03:00 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Dammam\n
+ —————\n⚽ Al-Ettifaq v Al Qadsiah\n🏆 Saudi Pro League — Ma
+ tchday 24\n🗓 Fri 02 Apr 2027 · 00:00 UTC\n🏟 Al Ettifaq Club Stadium
+ , Dammam\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد القادسية — دوري
+  روشن السعودي | Tomorrow: Al-Ettifaq vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × القادسية | Kick-off in 30 min: Al-Ettifaq vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021578@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270408T000000Z
+DTEND:20270408T020000Z
+SUMMARY:Al Khaleej vs Al-Ettifaq — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021578
+DESCRIPTION:⚽ الخليج × الاتفاق\n🏆 دوري روشن ال
+ سعودي — الجولة 25\n🗓 الخميس 8 أبريل 2027 · 03:
+ 00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Damm
+ am\n—————\n⚽ Al Khaleej v Al-Ettifaq\n🏆 Saudi Pro League 
+ — Matchday 25\n🗓 Thu 08 Apr 2027 · 00:00 UTC\n🏟 Prince Mohammed B
+ in Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد الاتفاق — دوري ر
+ وشن السعودي | Tomorrow: Al Khaleej vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × الاتفاق | Kick-off in 30 min: Al Khaleej vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021586@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270415T000000Z
+DTEND:20270415T020000Z
+SUMMARY:Al-Ettifaq vs Neom SC — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/1000021586
+DESCRIPTION:⚽ الاتفاق × نيوم\n🏆 دوري روشن السع
+ ودي — الجولة 26\n🗓 الخميس 15 أبريل 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Dammam\n——
+ ———\n⚽ Al-Ettifaq v Neom SC\n🏆 Saudi Pro League — Matchday 26
+ \n🗓 Thu 15 Apr 2027 · 00:00 UTC\n🏟 Al Ettifaq Club Stadium, Dammam\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد نيوم — دوري روش
+ ن السعودي | Tomorrow: Al-Ettifaq vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × نيوم | Kick-off in 30 min: Al-Ettifaq vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021596@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T000000Z
+DTEND:20270418T020000Z
+SUMMARY:Al Ittihad vs Al-Ettifaq — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021596
+DESCRIPTION:⚽ الاتحاد × الاتفاق\n🏆 دوري روشن ا
+ لسعودي — الجولة 27\n🗓 الأحد 18 أبريل 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah S
+ port City، Jeddah\n—————\n⚽ Al Ittihad v Al-Ettifaq\n🏆 Sau
+ di Pro League — Matchday 27\n🗓 Sun 18 Apr 2027 · 00:00 UTC\n🏟 Ali
+ nma Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الاتفاق — دوري 
+ روشن السعودي | Tomorrow: Al Ittihad vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الاتفاق | Kick-off in 30 min: Al Ittihad vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021604@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270422T000000Z
+DTEND:20270422T020000Z
+SUMMARY:Al-Ettifaq vs Al Kholood — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/1000021604
+DESCRIPTION:⚽ الاتفاق × الخلود\n🏆 دوري روشن ال
+ سعودي — الجولة 28\n🗓 الخميس 22 أبريل 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Dammam\n—
+ ————\n⚽ Al-Ettifaq v Al Kholood\n🏆 Saudi Pro League — Match
+ day 28\n🗓 Thu 22 Apr 2027 · 00:00 UTC\n🏟 Al Ettifaq Club Stadium, D
+ ammam\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد الخلود — دوري ر
+ وشن السعودي | Tomorrow: Al-Ettifaq vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × الخلود | Kick-off in 30 min: Al-Ettifaq vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021613@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270429T000000Z
+DTEND:20270429T020000Z
+SUMMARY:Al-Ettifaq vs Al-Taawoun — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/1000021613
+DESCRIPTION:⚽ الاتفاق × التعاون\n🏆 دوري روشن ا
+ لسعودي — الجولة 29\n🗓 الخميس 29 أبريل 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Dammam\n
+ —————\n⚽ Al-Ettifaq v Al-Taawoun\n🏆 Saudi Pro League — Ma
+ tchday 29\n🗓 Thu 29 Apr 2027 · 00:00 UTC\n🏟 Al Ettifaq Club Stadium
+ , Dammam\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد التعاون — دوري 
+ روشن السعودي | Tomorrow: Al-Ettifaq vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × التعاون | Kick-off in 30 min: Al-Ettifaq vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021622@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270506T000000Z
+DTEND:20270506T020000Z
+SUMMARY:Al Hilal vs Al-Ettifaq — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/1000021622
+DESCRIPTION:⚽ الهلال × الاتفاق\n🏆 دوري روشن ال
+ سعودي — الجولة 30\n🗓 الخميس 6 مايو 2027 · 03:00
+  بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n—————\n
+ ⚽ Al Hilal v Al-Ettifaq\n🏆 Saudi Pro League — Matchday 30\n🗓 Thu
+  06 May 2027 · 00:00 UTC\n🏟 Kingdom Arena, Riyadh\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الاتفاق — دوري ر
+ وشن السعودي | Tomorrow: Al Hilal vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الاتفاق | Kick-off in 30 min: Al Hilal vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021631@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270512T000000Z
+DTEND:20270512T020000Z
+SUMMARY:Al-Ettifaq vs Al Shabab — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/1000021631
+DESCRIPTION:⚽ الاتفاق × الشباب\n🏆 دوري روشن ال
+ سعودي — الجولة 31\n🗓 الأربعاء 12 مايو 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Dammam\n
+ —————\n⚽ Al-Ettifaq v Al Shabab\n🏆 Saudi Pro League — Mat
+ chday 31\n🗓 Wed 12 May 2027 · 00:00 UTC\n🏟 Al Ettifaq Club Stadium,
+  Dammam\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد الشباب — دوري ر
+ وشن السعودي | Tomorrow: Al-Ettifaq vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × الشباب | Kick-off in 30 min: Al-Ettifaq vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021642@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270520T000000Z
+DTEND:20270520T020000Z
+SUMMARY:Al Hazem vs Al-Ettifaq — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021642
+DESCRIPTION:⚽ الحزم × الاتفاق\n🏆 دوري روشن الس
+ عودي — الجولة 32\n🗓 الخميس 20 مايو 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، A
+ r Rass\n—————\n⚽ Al Hazem v Al-Ettifaq\n🏆 Saudi Pro League 
+ — Matchday 32\n🗓 Thu 20 May 2027 · 00:00 UTC\n🏟 Ar-Rass Stadium (
+ Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد الاتفاق — دوري رو
+ شن السعودي | Tomorrow: Al Hazem vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × الاتفاق | Kick-off in 30 min: Al Hazem vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021649@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270524T000000Z
+DTEND:20270524T020000Z
+SUMMARY:Al-Ettifaq vs Al Ahli — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/1000021649
+DESCRIPTION:⚽ الاتفاق × الأهلي\n🏆 دوري روشن ال
+ سعودي — الجولة 33\n🗓 الاثنين 24 مايو 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Dammam\n—
+ ————\n⚽ Al-Ettifaq v Al Ahli\n🏆 Saudi Pro League — Matchday
+  33\n🗓 Mon 24 May 2027 · 00:00 UTC\n🏟 Al Ettifaq Club Stadium, Damm
+ am\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد الأهلي — دوري ر
+ وشن السعودي | Tomorrow: Al-Ettifaq vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × الأهلي | Kick-off in 30 min: Al-Ettifaq vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021659@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270528T000000Z
+DTEND:20270528T020000Z
+SUMMARY:Al-Fayha vs Al-Ettifaq — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021659
+DESCRIPTION:⚽ الفيحاء × الاتفاق\n🏆 دوري روشن ا
+ لسعودي — الجولة 34\n🗓 الجمعة 28 مايو 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al M
+ ajma'ah\n—————\n⚽ Al-Fayha v Al-Ettifaq\n🏆 Saudi Pro League
+  — Matchday 34\n🗓 Fri 28 May 2027 · 00:00 UTC\n🏟 Al Majma'ah Spor
+ ts City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد الاتفاق — دوري 
+ روشن السعودي | Tomorrow: Al-Fayha vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × الاتفاق | Kick-off in 30 min: Al-Fayha vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853719@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260818T161500Z
+DTEND:20260818T181500Z
+SUMMARY:Al Jabalain vs Al-Ettifaq (1 - 0) — King's Cup
+LOCATION:Prince Abdul Aziz bin Musa'ed Stadium\, Ha'il (Hail)\, Saudi Arabi
+ a
+GEO:27.503989;41.697600
+URL:https://www.fotmob.com/match/5853719
+DESCRIPTION:⚽ الجبلين × الاتفاق (1 - 0)\n🏆 كأس خا
+ دم الحرمين الشريفين — دور الـ32\n🗓 الثلا
+ ثاء 18 أغسطس 2026 · 19:15 بتوقيت الرياض\n🏟 Prince 
+ Abdul Aziz bin Musa'ed Stadium، Ha'il (Hail)\n⚖️ الحكم: Abdullah
+  Al-Harbi\n—————\n⚽ Al Jabalain v Al-Ettifaq (1 - 0)\n🏆 Kin
+ g's Cup — Round of 32\n🗓 Tue 18 Aug 2026 · 16:15 UTC\n🏟 Prince Ab
+ dul Aziz bin Musa'ed Stadium, Ha'il (Hail)\nReferee: Abdullah Al-Harbi\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجبلين ضد الاتفاق — كأس خ
+ ادم الحرمين الشريفين | Tomorrow: Al Jabalain vs Al-Ettif
+ aq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجبل
+ ين × الاتفاق | Kick-off in 30 min: Al Jabalain vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+END:VCALENDAR

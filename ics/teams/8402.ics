@@ -1,0 +1,274 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Bodø/Glimt — UEFA Champions League Fixtures | بودو 
+ جليمت — مباريات دوري أبطال أوروبا
+X-WR-CALDESC:Bodø/Glimt — all matches in UEFA Champions League\, exact U
+ TC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026
+ -09-05T19:31:10Z.  •  بودو جليمت — جميع المباريا
+ ت في دوري أبطال أوروبا بتوقيت UTC الدقيق م
+ ع الملاعب والقنوات الناقلة. المصدر: FotMob + 
+ 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6106240@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260910T190000Z
+DTEND:20260910T210000Z
+SUMMARY:Bayern München vs Bodø/Glimt — UEFA Champions League
+LOCATION:Allianz Arena\, München\, Germany
+GEO:48.218779;11.624743
+URL:https://www.fotmob.com/match/6106240
+DESCRIPTION:⚽ بايرن ميونخ × بودو جليمت\n🏆 دوري
+  أبطال أوروبا — الجولة 1\n🗓 الخميس 10 سبتم
+ بر 2026 · 22:00 بتوقيت الرياض\n🏟 Allianz Arena، Münche
+ n\n📺 HBO Max (UK)، Paramount+ (US)\n—————\n⚽ Bayern Münch
+ en v Bodø/Glimt\n🏆 UEFA Champions League — Matchday 1\n🗓 Thu 10 S
+ ep 2026 · 19:00 UTC\n🏟 Allianz Arena, München\n📺 HBO Max (UK), Par
+ amount+ (US)\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد بودو جليمت 
+ — دوري أبطال أوروبا — 📺 HBO Max (UK)، Paramount+ (U
+ S) | Tomorrow: Bayern München vs Bodø/Glimt | TV: HBO Max (UK)\, Paramou
+ nt+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × بودو جليمت — 📺 HBO Max (UK)، Paramount+ (US) 
+ | Kick-off in 30 min: Bayern München vs Bodø/Glimt | TV: HBO Max (UK)\, 
+ Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106315@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+SUMMARY:Bodø/Glimt vs Borussia Dortmund — UEFA Champions League
+LOCATION:Aspmyra Stadion\, Bodø\, Norway
+GEO:67.276677;14.384365
+URL:https://www.fotmob.com/match/6106315
+DESCRIPTION:⚽ بودو جليمت × بوروسيا دورتموند\n
+ 🏆 دوري أبطال أوروبا — الجولة 2\n🗓 الأرب
+ عاء 14 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Aspmy
+ ra Stadion، Bodø\n—————\n⚽ Bodø/Glimt v Borussia Dortmund\n
+ 🏆 UEFA Champions League — Matchday 2\n🗓 Wed 14 Oct 2026 · 19:00 U
+ TC\n🏟 Aspmyra Stadion, Bodø\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بودو جليمت ضد بوروسيا دورت
+ موند — دوري أبطال أوروبا | Tomorrow: Bodø/Glimt vs B
+ orussia Dortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بودو ج
+ ليمت × بوروسيا دورتموند | Kick-off in 30 min: Bodø/Gl
+ imt vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106320@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:Napoli vs Bodø/Glimt — UEFA Champions League
+LOCATION:Stadio Diego Armando Maradona\, Napoli\, Italy
+GEO:40.827974;14.192930
+URL:https://www.fotmob.com/match/6106320
+DESCRIPTION:⚽ نابولي × بودو جليمت\n🏆 دوري أبطا
+ ل أوروبا — الجولة 3\n🗓 الثلاثاء 20 أكتوبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 Stadio Diego Armando Maradon
+ a، Napoli\n—————\n⚽ Napoli v Bodø/Glimt\n🏆 UEFA Champions
+  League — Matchday 3\n🗓 Tue 20 Oct 2026 · 19:00 UTC\n🏟 Stadio Die
+ go Armando Maradona, Napoli\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد بودو جليمت — دور
+ ي أبطال أوروبا | Tomorrow: Napoli vs Bodø/Glimt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × بودو جليمت | Kick-off in 30 min: Napoli vs Bodø/Glimt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106316@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+SUMMARY:Bodø/Glimt vs Lille — UEFA Champions League
+LOCATION:Aspmyra Stadion
+URL:https://www.fotmob.com/match/6106316
+DESCRIPTION:⚽ بودو جليمت × ليل\n🏆 دوري أبطال أ
+ وروبا — الجولة 4\n🗓 الثلاثاء 3 نوفمبر 2026 
+ · 23:00 بتوقيت الرياض\n🏟 Aspmyra Stadion\n—————\
+ n⚽ Bodø/Glimt v Lille\n🏆 UEFA Champions League — Matchday 4\n🗓 
+ Tue 03 Nov 2026 · 20:00 UTC\n🏟 Aspmyra Stadion\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بودو جليمت ضد ليل — دوري أب
+ طال أوروبا | Tomorrow: Bodø/Glimt vs Lille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بودو ج
+ ليمت × ليل | Kick-off in 30 min: Bodø/Glimt vs Lille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106317@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T174500Z
+DTEND:20261124T194500Z
+SUMMARY:Bodø/Glimt vs LASK — UEFA Champions League
+LOCATION:Aspmyra Stadion
+URL:https://www.fotmob.com/match/6106317
+DESCRIPTION:⚽ بودو جليمت × LASK\n🏆 دوري أبطال أو
+ روبا — الجولة 5\n🗓 الثلاثاء 24 نوفمبر 2026 ·
+  20:45 بتوقيت الرياض\n🏟 Aspmyra Stadion\n—————\n
+ ⚽ Bodø/Glimt v LASK\n🏆 UEFA Champions League — Matchday 5\n🗓 Tu
+ e 24 Nov 2026 · 17:45 UTC\n🏟 Aspmyra Stadion\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بودو جليمت ضد LASK — دوري أبط
+ ال أوروبا | Tomorrow: Bodø/Glimt vs LASK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بودو ج
+ ليمت × LASK | Kick-off in 30 min: Bodø/Glimt vs LASK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106415@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:Lens vs Bodø/Glimt — UEFA Champions League
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/6106415
+DESCRIPTION:⚽ لانس × بودو جليمت\n🏆 دوري أبطال 
+ أوروبا — الجولة 6\n🗓 الأربعاء 9 ديسمبر 2026
+  · 23:00 بتوقيت الرياض\n🏟 Stade Bollaert-Delelis\n——
+ ———\n⚽ Lens v Bodø/Glimt\n🏆 UEFA Champions League — Matchday
+  6\n🗓 Wed 09 Dec 2026 · 20:00 UTC\n🏟 Stade Bollaert-Delelis\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد بودو جليمت — دوري أ
+ بطال أوروبا | Tomorrow: Lens vs Bodø/Glimt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  بودو جليمت | Kick-off in 30 min: Lens vs Bodø/Glimt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106314@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270119T174500Z
+DTEND:20270119T194500Z
+SUMMARY:Bodø/Glimt vs Atlético Madrid — UEFA Champions League
+LOCATION:Aspmyra Stadion
+URL:https://www.fotmob.com/match/6106314
+DESCRIPTION:⚽ بودو جليمت × أتلتيكو مدريد\n🏆 دو
+ ري أبطال أوروبا — الجولة 7\n🗓 الثلاثاء 19 
+ يناير 2027 · 20:45 بتوقيت الرياض\n🏟 Aspmyra Stadion\n
+ —————\n⚽ Bodø/Glimt v Atlético Madrid\n🏆 UEFA Champions L
+ eague — Matchday 7\n🗓 Tue 19 Jan 2027 · 17:45 UTC\n🏟 Aspmyra Stad
+ ion\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بودو جليمت ضد أتلتيكو مدري
+ د — دوري أبطال أوروبا | Tomorrow: Bodø/Glimt vs Atléti
+ co Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بودو ج
+ ليمت × أتلتيكو مدريد | Kick-off in 30 min: Bodø/Glimt vs
+  Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106296@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Club Brugge vs Bodø/Glimt — UEFA Champions League
+LOCATION:Jan Breydel Stadion
+URL:https://www.fotmob.com/match/6106296
+DESCRIPTION:⚽ كلوب بروج × بودو جليمت\n🏆 دوري أ
+ بطال أوروبا — الجولة 8\n🗓 الأربعاء 27 ينا
+ ير 2027 · 23:00 بتوقيت الرياض\n🏟 Jan Breydel Stadion\n
+ —————\n⚽ Club Brugge v Bodø/Glimt\n🏆 UEFA Champions League
+  — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Jan Breydel Stadi
+ on\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كلوب بروج ضد بودو جليمت — د
+ وري أبطال أوروبا | Tomorrow: Club Brugge vs Bodø/Glimt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كلوب ب
+ روج × بودو جليمت | Kick-off in 30 min: Club Brugge vs Bodø/G
+ limt
+END:VALARM
+END:VEVENT
+END:VCALENDAR

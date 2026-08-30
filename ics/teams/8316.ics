@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ RSD Alcalá — Copa del Rey Fixtures | RSD Alcalá — م
+ باريات كأس ملك إسبانيا
+X-WR-CALDESC:RSD Alcalá — all matches in Copa del Rey\, exact UTC kickof
+ fs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19
+ :31:10Z.  •  RSD Alcalá — جميع المباريات في كأس م
+ لك إسبانيا بتوقيت UTC الدقيق مع الملاعب وا
+ لقنوات الناقلة. المصدر: FotMob + 365scores · تحدي
+ ث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4996038@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251028T193000Z
+DTEND:20251028T213000Z
+SUMMARY:RSD Alcalá vs Tenerife (0 - 4) — Copa del Rey
+LOCATION:Estadio Municipal Virgen del Val\, Alcalá de Henares\, Spain
+GEO:40.482756;-3.347161
+URL:https://www.fotmob.com/match/4996038
+DESCRIPTION:⚽ RSD Alcalá × تنريفة (0 - 4)\n🏆 كأس ملك إ
+ سبانيا — الدور الأول\n🗓 الثلاثاء 28 أكتو
+ بر 2025 · 22:30 بتوقيت الرياض\n🏟 Estadio Municipal Virge
+ n del Val، Alcalá de Henares\n⚖️ الحكم: Rubén Ruipérez Marín
+ \n—————\n⚽ RSD Alcalá v Tenerife (0 - 4)\n🏆 Copa del Rey 
+ — Round 1\n🗓 Tue 28 Oct 2025 · 19:30 UTC\n🏟 Estadio Municipal Vir
+ gen del Val, Alcalá de Henares\nReferee: Rubén Ruipérez Marín\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: RSD Alcalá ضد تنريفة — كأس ملك 
+ إسبانيا | Tomorrow: RSD Alcalá vs Tenerife
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: RSD Alcalá
+  × تنريفة | Kick-off in 30 min: RSD Alcalá vs Tenerife
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Anderlecht — UEFA Europa League Fixtures | أندرلخ
+ ت — مباريات الدوري الأوروبي
+X-WR-CALDESC:Anderlecht — all matches in UEFA Europa League\, exact UTC k
+ ickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-
+ 05T19:31:10Z.  •  أندرلخت — جميع المباريات في ا
+ لدوري الأوروبي بتوقيت UTC الدقيق مع الملا
+ عب والقنوات الناقلة. المصدر: FotMob + 365scores · 
+ تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6112310@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T190000Z
+DTEND:20260916T210000Z
+SUMMARY:Anderlecht vs Lyon — UEFA Europa League
+LOCATION:Lotto Park\, Bruxelles (Brussel)\, Belgium
+GEO:50.834182;4.298353
+URL:https://www.fotmob.com/match/6112310
+DESCRIPTION:⚽ أندرلخت × أولمبيك ليون\n🏆 الدور
+ ي الأوروبي — الجولة 1\n🗓 الأربعاء 16 سبتم
+ بر 2026 · 22:00 بتوقيت الرياض\n🏟 Lotto Park، Bruxelles 
+ (Brussel)\n—————\n⚽ Anderlecht v Lyon\n🏆 UEFA Europa League
+  — Matchday 1\n🗓 Wed 16 Sep 2026 · 19:00 UTC\n🏟 Lotto Park, Bruxe
+ lles (Brussel)\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أندرلخت ضد أولمبيك ليون — 
+ الدوري الأوروبي | Tomorrow: Anderlecht vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أندرل
+ خت × أولمبيك ليون | Kick-off in 30 min: Anderlecht vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112291@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:Dinamo Zagreb vs Anderlecht — UEFA Europa League
+LOCATION:Stadion Maksimir\, Zagreb\, Croatia
+GEO:45.818781;16.017884
+URL:https://www.fotmob.com/match/6112291
+DESCRIPTION:⚽ دينامو زغرب × أندرلخت\n🏆 الدوري 
+ الأوروبي — الجولة 2\n🗓 الخميس 15 أكتوبر 202
+ 6 · 22:00 بتوقيت الرياض\n🏟 Stadion Maksimir، Zagreb\n—
+ ————\n⚽ Dinamo Zagreb v Anderlecht\n🏆 UEFA Europa League — 
+ Matchday 2\n🗓 Thu 15 Oct 2026 · 19:00 UTC\n🏟 Stadion Maksimir, Zagr
+ eb\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: دينامو زغرب ضد أندرلخت — ا
+ لدوري الأوروبي | Tomorrow: Dinamo Zagreb vs Anderlecht
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: دينام
+ و زغرب × أندرلخت | Kick-off in 30 min: Dinamo Zagreb vs Ander
+ lecht
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112339@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Jagiellonia Białystok vs Anderlecht — UEFA Europa League
+LOCATION:Chorten Arena\, Białystok\, Poland
+GEO:53.106006;23.149095
+URL:https://www.fotmob.com/match/6112339
+DESCRIPTION:⚽ ياغييلونيا بياويستوك × أندرلخت\n
+ 🏆 الدوري الأوروبي — الجولة 3\n🗓 الخميس 2
+ 2 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Chorten Arena
+ ، Białystok\n—————\n⚽ Jagiellonia Białystok v Anderlecht\n
+ 🏆 UEFA Europa League — Matchday 3\n🗓 Thu 22 Oct 2026 · 19:00 UTC\
+ n🏟 Chorten Arena, Białystok\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ياغييلونيا بياويستوك ضد أن
+ درلخت — الدوري الأوروبي | Tomorrow: Jagiellonia Biał
+ ystok vs Anderlecht
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ياغيي
+ لونيا بياويستوك × أندرلخت | Kick-off in 30 min: Jagi
+ ellonia Białystok vs Anderlecht
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112311@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:Anderlecht vs Salzburg — UEFA Europa League
+LOCATION:Lotto Park
+URL:https://www.fotmob.com/match/6112311
+DESCRIPTION:⚽ أندرلخت × Salzburg\n🏆 الدوري الأورو
+ بي — الجولة 4\n🗓 الخميس 5 نوفمبر 2026 · 20:45 ب
+ توقيت الرياض\n🏟 Lotto Park\n—————\n⚽ Anderlecht 
+ v Salzburg\n🏆 UEFA Europa League — Matchday 4\n🗓 Thu 05 Nov 2026 
+ · 17:45 UTC\n🏟 Lotto Park\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أندرلخت ضد Salzburg — الدوري ا
+ لأوروبي | Tomorrow: Anderlecht vs Salzburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أندرل
+ خت × Salzburg | Kick-off in 30 min: Anderlecht vs Salzburg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112371@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:OFI Crete vs Anderlecht — UEFA Europa League
+LOCATION:Pankritio Stadium
+URL:https://www.fotmob.com/match/6112371
+DESCRIPTION:⚽ أوفي كريت × أندرلخت\n🏆 الدوري ال
+ أوروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 2026 ·
+  23:00 بتوقيت الرياض\n🏟 Pankritio Stadium\n—————\
+ n⚽ OFI Crete v Anderlecht\n🏆 UEFA Europa League — Matchday 5\n🗓 
+ Thu 26 Nov 2026 · 20:00 UTC\n🏟 Pankritio Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوفي كريت ضد أندرلخت — الد
+ وري الأوروبي | Tomorrow: OFI Crete vs Anderlecht
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوفي ك
+ ريت × أندرلخت | Kick-off in 30 min: OFI Crete vs Anderlecht
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112313@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T174500Z
+DTEND:20261210T194500Z
+SUMMARY:Anderlecht vs Hoffenheim — UEFA Europa League
+LOCATION:Lotto Park
+URL:https://www.fotmob.com/match/6112313
+DESCRIPTION:⚽ أندرلخت × هوفنهايم\n🏆 الدوري ال
+ أوروبي — الجولة 6\n🗓 الخميس 10 ديسمبر 2026 ·
+  20:45 بتوقيت الرياض\n🏟 Lotto Park\n—————\n⚽ An
+ derlecht v Hoffenheim\n🏆 UEFA Europa League — Matchday 6\n🗓 Thu 10
+  Dec 2026 · 17:45 UTC\n🏟 Lotto Park\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أندرلخت ضد هوفنهايم — الدو
+ ري الأوروبي | Tomorrow: Anderlecht vs Hoffenheim
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أندرل
+ خت × هوفنهايم | Kick-off in 30 min: Anderlecht vs Hoffenheim
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112312@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:Anderlecht vs Sunderland — UEFA Europa League
+LOCATION:Lotto Park
+URL:https://www.fotmob.com/match/6112312
+DESCRIPTION:⚽ أندرلخت × سندرلاند\n🏆 الدوري ال
+ أوروبي — الجولة 7\n🗓 الخميس 21 يناير 2027 · 2
+ 3:00 بتوقيت الرياض\n🏟 Lotto Park\n—————\n⚽ Ande
+ rlecht v Sunderland\n🏆 UEFA Europa League — Matchday 7\n🗓 Thu 21 J
+ an 2027 · 20:00 UTC\n🏟 Lotto Park\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أندرلخت ضد سندرلاند — الدو
+ ري الأوروبي | Tomorrow: Anderlecht vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أندرل
+ خت × سندرلاند | Kick-off in 30 min: Anderlecht vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112275@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Marseille vs Anderlecht — UEFA Europa League
+LOCATION:Stade Orange Velodrome
+URL:https://www.fotmob.com/match/6112275
+DESCRIPTION:⚽ مارسيليا × أندرلخت\n🏆 الدوري ال
+ أوروبي — الجولة 8\n🗓 الخميس 28 يناير 2027 · 2
+ 3:00 بتوقيت الرياض\n🏟 Stade Orange Velodrome\n————
+ —\n⚽ Marseille v Anderlecht\n🏆 UEFA Europa League — Matchday 8\n
+ 🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 Stade Orange Velodrome\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مارسيليا ضد أندرلخت — الدو
+ ري الأوروبي | Tomorrow: Marseille vs Anderlecht
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مارسي
+ ليا × أندرلخت | Kick-off in 30 min: Marseille vs Anderlecht
+END:VALARM
+END:VEVENT
+END:VCALENDAR

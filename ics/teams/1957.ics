@@ -1,0 +1,287 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Jagiellonia Białystok — UEFA Europa League Fixtures | 
+ ياغييلونيا بياويستوك — مباريات الدوري ا
+ لأوروبي
+X-WR-CALDESC:Jagiellonia Białystok — all matches in UEFA Europa League\,
+  exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-upda
+ ted 2026-09-05T19:31:10Z.  •  ياغييلونيا بياويستوك 
+ — جميع المباريات في الدوري الأوروبي بتو
+ قيت UTC الدقيق مع الملاعب والقنوات الناقل
+ ة. المصدر: FotMob + 365scores · تحديث تلقائي 2026-09-05
+ T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6112268@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T190000Z
+DTEND:20260916T210000Z
+SUMMARY:Olympiacos vs Jagiellonia Białystok — UEFA Europa League
+LOCATION:Stadio Georgios Karaiskákis\, Pireás (Piraeus)\, Greece
+GEO:37.946431;23.664384
+URL:https://www.fotmob.com/match/6112268
+DESCRIPTION:⚽ أولمبياكوس × ياغييلونيا بياويست
+ وك\n🏆 الدوري الأوروبي — الجولة 1\n🗓 الأر
+ بعاء 16 سبتمبر 2026 · 22:00 بتوقيت الرياض\n🏟 Sta
+ dio Georgios Karaiskákis، Pireás (Piraeus)\n—————\n⚽ Olympi
+ acos v Jagiellonia Białystok\n🏆 UEFA Europa League — Matchday 1\n
+ 🗓 Wed 16 Sep 2026 · 19:00 UTC\n🏟 Stadio Georgios Karaiskákis, Pire
+ ás (Piraeus)\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبياكوس ضد ياغييلونيا ب
+ ياويستوك — الدوري الأوروبي | Tomorrow: Olympiacos 
+ vs Jagiellonia Białystok
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ ياكوس × ياغييلونيا بياويستوك | Kick-off in 30 min
+ : Olympiacos vs Jagiellonia Białystok
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112341@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:Jagiellonia Białystok vs Ararat Armenia — UEFA Europa League
+LOCATION:Chorten Arena\, Białystok\, Poland
+GEO:53.106006;23.149095
+URL:https://www.fotmob.com/match/6112341
+DESCRIPTION:⚽ ياغييلونيا بياويستوك × أرارات أ
+ رمينيا\n🏆 الدوري الأوروبي — الجولة 2\n🗓 
+ الخميس 15 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟
+  Chorten Arena، Białystok\n—————\n⚽ Jagiellonia Białystok v
+  Ararat Armenia\n🏆 UEFA Europa League — Matchday 2\n🗓 Thu 15 Oct 2
+ 026 · 19:00 UTC\n🏟 Chorten Arena, Białystok\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ياغييلونيا بياويستوك ضد أر
+ ارات أرمينيا — الدوري الأوروبي | Tomorrow: Jagi
+ ellonia Białystok vs Ararat Armenia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ياغيي
+ لونيا بياويستوك × أرارات أرمينيا | Kick-off in
+  30 min: Jagiellonia Białystok vs Ararat Armenia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112339@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Jagiellonia Białystok vs Anderlecht — UEFA Europa League
+LOCATION:Chorten Arena\, Białystok\, Poland
+GEO:53.106006;23.149095
+URL:https://www.fotmob.com/match/6112339
+DESCRIPTION:⚽ ياغييلونيا بياويستوك × أندرلخت\n
+ 🏆 الدوري الأوروبي — الجولة 3\n🗓 الخميس 2
+ 2 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Chorten Arena
+ ، Białystok\n—————\n⚽ Jagiellonia Białystok v Anderlecht\n
+ 🏆 UEFA Europa League — Matchday 3\n🗓 Thu 22 Oct 2026 · 19:00 UTC\
+ n🏟 Chorten Arena, Białystok\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ياغييلونيا بياويستوك ضد أن
+ درلخت — الدوري الأوروبي | Tomorrow: Jagiellonia Biał
+ ystok vs Anderlecht
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ياغيي
+ لونيا بياويستوك × أندرلخت | Kick-off in 30 min: Jagi
+ ellonia Białystok vs Anderlecht
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112380@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:Levski Sofia vs Jagiellonia Białystok — UEFA Europa League
+LOCATION:Vasil Levski
+URL:https://www.fotmob.com/match/6112380
+DESCRIPTION:⚽ ليفسكي صوفيا × ياغييلونيا بياوي
+ ستوك\n🏆 الدوري الأوروبي — الجولة 4\n🗓 ال
+ خميس 5 نوفمبر 2026 · 20:45 بتوقيت الرياض\n🏟 Vasi
+ l Levski\n—————\n⚽ Levski Sofia v Jagiellonia Białystok\n🏆
+  UEFA Europa League — Matchday 4\n🗓 Thu 05 Nov 2026 · 17:45 UTC\n
+ 🏟 Vasil Levski\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفسكي صوفيا ضد ياغييلونيا
+  بياويستوك — الدوري الأوروبي | Tomorrow: Levski S
+ ofia vs Jagiellonia Białystok
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفسك
+ ي صوفيا × ياغييلونيا بياويستوك | Kick-off in 30 
+ min: Levski Sofia vs Jagiellonia Białystok
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112332@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Sunderland vs Jagiellonia Białystok — UEFA Europa League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/6112332
+DESCRIPTION:⚽ سندرلاند × ياغييلونيا بياويستوك
+ \n🏆 الدوري الأوروبي — الجولة 5\n🗓 الخميس
+  26 نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Stadium of 
+ Light\n—————\n⚽ Sunderland v Jagiellonia Białystok\n🏆 UEFA
+  Europa League — Matchday 5\n🗓 Thu 26 Nov 2026 · 20:00 UTC\n🏟 Sta
+ dium of Light\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد ياغييلونيا بيا
+ ويستوك — الدوري الأوروبي | Tomorrow: Sunderland vs J
+ agiellonia Białystok
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × ياغييلونيا بياويستوك | Kick-off in 30 min: Su
+ nderland vs Jagiellonia Białystok
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112340@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T174500Z
+DTEND:20261210T194500Z
+SUMMARY:Jagiellonia Białystok vs Crystal Palace — UEFA Europa League
+LOCATION:Stadion Miejski\, Bialystok
+URL:https://www.fotmob.com/match/6112340
+DESCRIPTION:⚽ ياغييلونيا بياويستوك × كريستال 
+ بالاس\n🏆 الدوري الأوروبي — الجولة 6\n🗓 ا
+ لخميس 10 ديسمبر 2026 · 20:45 بتوقيت الرياض\n🏟 S
+ tadion Miejski, Bialystok\n—————\n⚽ Jagiellonia Białystok v C
+ rystal Palace\n🏆 UEFA Europa League — Matchday 6\n🗓 Thu 10 Dec 202
+ 6 · 17:45 UTC\n🏟 Stadion Miejski, Bialystok\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ياغييلونيا بياويستوك ضد كر
+ يستال بالاس — الدوري الأوروبي | Tomorrow: Jagiel
+ lonia Białystok vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ياغيي
+ لونيا بياويستوك × كريستال بالاس | Kick-off in 3
+ 0 min: Jagiellonia Białystok vs Crystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112338@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T174500Z
+DTEND:20270121T194500Z
+SUMMARY:Jagiellonia Białystok vs Lyon — UEFA Europa League
+LOCATION:Stadion Miejski\, Bialystok
+URL:https://www.fotmob.com/match/6112338
+DESCRIPTION:⚽ ياغييلونيا بياويستوك × أولمبيك 
+ ليون\n🏆 الدوري الأوروبي — الجولة 7\n🗓 ال
+ خميس 21 يناير 2027 · 20:45 بتوقيت الرياض\n🏟 Stadi
+ on Miejski, Bialystok\n—————\n⚽ Jagiellonia Białystok v Lyon\
+ n🏆 UEFA Europa League — Matchday 7\n🗓 Thu 21 Jan 2027 · 17:45 UTC
+ \n🏟 Stadion Miejski, Bialystok\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ياغييلونيا بياويستوك ضد أو
+ لمبيك ليون — الدوري الأوروبي | Tomorrow: Jagiello
+ nia Białystok vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ياغيي
+ لونيا بياويستوك × أولمبيك ليون | Kick-off in 30 
+ min: Jagiellonia Białystok vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112284@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Viktoria Plzeň vs Jagiellonia Białystok — UEFA Europa League
+LOCATION:Doosan Arena Plzen
+URL:https://www.fotmob.com/match/6112284
+DESCRIPTION:⚽ فيكتوريا بلزن × ياغييلونيا بياو
+ يستوك\n🏆 الدوري الأوروبي — الجولة 8\n🗓 ا
+ لخميس 28 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Doo
+ san Arena Plzen\n—————\n⚽ Viktoria Plzeň v Jagiellonia Biały
+ stok\n🏆 UEFA Europa League — Matchday 8\n🗓 Thu 28 Jan 2027 · 20:0
+ 0 UTC\n🏟 Doosan Arena Plzen\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيكتوريا بلزن ضد ياغييلوني
+ ا بياويستوك — الدوري الأوروبي | Tomorrow: Viktor
+ ia Plzeň vs Jagiellonia Białystok
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيكتو
+ ريا بلزن × ياغييلونيا بياويستوك | Kick-off in 3
+ 0 min: Viktoria Plzeň vs Jagiellonia Białystok
+END:VALARM
+END:VEVENT
+END:VCALENDAR

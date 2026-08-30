@@ -1,0 +1,673 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al Mokawloon Al Arab — Egyptian Premier League Fixtures 
+ | المقاولون العرب — مباريات الدوري المصر
+ ي الممتاز
+X-WR-CALDESC:Al Mokawloon Al Arab — all matches in Egyptian Premier Leagu
+ e\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-u
+ pdated 2026-09-05T19:31:10Z.  •  المقاولون العرب — جم
+ يع المباريات في الدوري المصري الممتاز بت
+ وقيت UTC الدقيق مع الملاعب والقنوات الناق
+ لة. المصدر: FotMob + 365scores · تحديث تلقائي 2026-09-
+ 05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5995573@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260822T140000Z
+DTEND:20260822T160000Z
+SUMMARY:Tala'ea El Gaish vs Al Mokawloon Al Arab (1 - 0) — Egyptian Premi
+ er League
+LOCATION:Gehaz El Reyada Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.081149;31.303520
+URL:https://www.fotmob.com/match/5995573
+DESCRIPTION:⚽ طلائع الجيش × المقاولون العرب (1 -
+  0)\n🏆 الدوري المصري الممتاز — الجولة 1\n
+ 🗓 السبت 22 أغسطس 2026 · 17:00 بتوقيت الرياض\n
+ 🏟 Gehaz El Reyada Stadium، al-Qāhirah (Cairo)\n⚖️ الحكم: Mah
+ moud Nassif\n—————\n⚽ Tala'ea El Gaish v Al Mokawloon Al Arab 
+ (1 - 0)\n🏆 Egyptian Premier League — Matchday 1\n🗓 Sat 22 Aug 2026
+  · 14:00 UTC\n🏟 Gehaz El Reyada Stadium, al-Qāhirah (Cairo)\nReferee:
+  Mahmoud Nassif\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: طلائع الجيش ضد المقاولون ا
+ لعرب — الدوري المصري الممتاز | Tomorrow: Tala'ea 
+ El Gaish vs Al Mokawloon Al Arab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: طلائع 
+ الجيش × المقاولون العرب | Kick-off in 30 min: Tala'ea 
+ El Gaish vs Al Mokawloon Al Arab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996696@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260827T170000Z
+DTEND:20260827T190000Z
+SUMMARY:Al Mokawloon Al Arab vs Al Masry SC (2 - 3) — Egyptian Premier Le
+ ague
+LOCATION:New Suez Stadium\, as-Suways (Suez)\, Egypt
+GEO:29.957607;32.542577
+URL:https://www.fotmob.com/match/5996696
+DESCRIPTION:⚽ المقاولون العرب × المصري (2 - 3)\n🏆
+  الدوري المصري الممتاز — الجولة 2\n🗓 الخ
+ ميس 27 أغسطس 2026 · 20:00 بتوقيت الرياض\n🏟 New Sue
+ z Stadium، as-Suways (Suez)\n⚖️ الحكم: Ibrahim Ghuloum Mohamed\n
+ —————\n⚽ Al Mokawloon Al Arab v Al Masry SC (2 - 3)\n🏆 Egyp
+ tian Premier League — Matchday 2\n🗓 Thu 27 Aug 2026 · 17:00 UTC\n
+ 🏟 New Suez Stadium, as-Suways (Suez)\nReferee: Ibrahim Ghuloum Mohamed\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المقاولون العرب ضد المصري 
+ — الدوري المصري الممتاز | Tomorrow: Al Mokawloon Al A
+ rab vs Al Masry SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المقا
+ ولون العرب × المصري | Kick-off in 30 min: Al Mokawloon Al 
+ Arab vs Al Masry SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996709@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260902T140000Z
+DTEND:20260902T160000Z
+SUMMARY:El Gouna FC vs Al Mokawloon Al Arab (0 - 1) — Egyptian Premier Le
+ ague
+LOCATION:Khaled Bichara Stadium\, El-Gouna\, Egypt
+GEO:27.360219;33.659851
+URL:https://www.fotmob.com/match/5996709
+DESCRIPTION:⚽ الجونة × المقاولون العرب (0 - 1)\n🏆
+  الدوري المصري الممتاز — الجولة 3\n🗓 الأ
+ ربعاء 2 سبتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Kh
+ aled Bichara Stadium، El-Gouna\n⚖️ الحكم: Ahmed El Ghandour\n—
+ ————\n⚽ El Gouna FC v Al Mokawloon Al Arab (0 - 1)\n🏆 Egyptia
+ n Premier League — Matchday 3\n🗓 Wed 02 Sep 2026 · 14:00 UTC\n🏟 K
+ haled Bichara Stadium, El-Gouna\nReferee: Ahmed El Ghandour\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجونة ضد المقاولون العرب 
+ — الدوري المصري الممتاز | Tomorrow: El Gouna FC vs Al
+  Mokawloon Al Arab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجون
+ ة × المقاولون العرب | Kick-off in 30 min: El Gouna FC vs A
+ l Mokawloon Al Arab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996720@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260909T170000Z
+DTEND:20260909T190000Z
+SUMMARY:Al Mokawloon Al Arab vs Al Ahly SC — Egyptian Premier League
+LOCATION:Arab Contractors Stadium (Osman Ahmed Osman Stadium)\, al-Qāhirah
+  (Cairo)\, Egypt
+GEO:30.051154;31.296996
+URL:https://www.fotmob.com/match/5996720
+DESCRIPTION:⚽ المقاولون العرب × الأهلي\n🏆 الد
+ وري المصري الممتاز — الجولة 4\n🗓 الأربعا
+ ء 9 سبتمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Arab Contr
+ actors Stadium (Osman Ahmed Osman Stadium)، al-Qāhirah (Cairo)\n——
+ ———\n⚽ Al Mokawloon Al Arab v Al Ahly SC\n🏆 Egyptian Premier Le
+ ague — Matchday 4\n🗓 Wed 09 Sep 2026 · 17:00 UTC\n🏟 Arab Contract
+ ors Stadium (Osman Ahmed Osman Stadium), al-Qāhirah (Cairo)\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المقاولون العرب ضد الأهلي 
+ — الدوري المصري الممتاز | Tomorrow: Al Mokawloon Al A
+ rab vs Al Ahly SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المقا
+ ولون العرب × الأهلي | Kick-off in 30 min: Al Mokawloon Al 
+ Arab vs Al Ahly SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996726@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260915T140000Z
+DTEND:20260915T160000Z
+SUMMARY:Wadi Degla FC vs Al Mokawloon Al Arab — Egyptian Premier League
+LOCATION:Al Salam Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.174408;31.435096
+URL:https://www.fotmob.com/match/5996726
+DESCRIPTION:⚽ وادي دجلة × المقاولون العرب\n🏆 ا
+ لدوري المصري الممتاز — الجولة 5\n🗓 الثلا
+ ثاء 15 سبتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Al Sa
+ lam Stadium، al-Qāhirah (Cairo)\n—————\n⚽ Wadi Degla FC v Al
+  Mokawloon Al Arab\n🏆 Egyptian Premier League — Matchday 5\n🗓 Tue 
+ 15 Sep 2026 · 14:00 UTC\n🏟 Al Salam Stadium, al-Qāhirah (Cairo)\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وادي دجلة ضد المقاولون الع
+ رب — الدوري المصري الممتاز | Tomorrow: Wadi Degla F
+ C vs Al Mokawloon Al Arab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وادي د
+ جلة × المقاولون العرب | Kick-off in 30 min: Wadi Degla F
+ C vs Al Mokawloon Al Arab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996734@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261012T140000Z
+DTEND:20261012T160000Z
+SUMMARY:Al Mokawloon Al Arab vs ZED FC — Egyptian Premier League
+LOCATION:Arab Contractors Stadium (Osman Ahmed Osman Stadium)\, al-Qāhirah
+  (Cairo)\, Egypt
+GEO:30.051154;31.296996
+URL:https://www.fotmob.com/match/5996734
+DESCRIPTION:⚽ المقاولون العرب × زد\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 6\n🗓 الاثنين 12 أك
+ توبر 2026 · 17:00 بتوقيت الرياض\n🏟 Arab Contractors St
+ adium (Osman Ahmed Osman Stadium)، al-Qāhirah (Cairo)\n—————\n
+ ⚽ Al Mokawloon Al Arab v ZED FC\n🏆 Egyptian Premier League — Matchd
+ ay 6\n🗓 Mon 12 Oct 2026 · 14:00 UTC\n🏟 Arab Contractors Stadium (Os
+ man Ahmed Osman Stadium), al-Qāhirah (Cairo)\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المقاولون العرب ضد زد — ال
+ دوري المصري الممتاز | Tomorrow: Al Mokawloon Al Arab vs Z
+ ED FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المقا
+ ولون العرب × زد | Kick-off in 30 min: Al Mokawloon Al Arab vs 
+ ZED FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996744@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261019T170000Z
+DTEND:20261019T190000Z
+SUMMARY:Al Sharkeyah-ENPPI vs Al Mokawloon Al Arab — Egyptian Premier Lea
+ gue
+LOCATION:Al Salam Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.174408;31.435096
+URL:https://www.fotmob.com/match/5996744
+DESCRIPTION:⚽ Al Sharkeyah-ENPPI × المقاولون العرب\n🏆 
+ الدوري المصري الممتاز — الجولة 7\n🗓 الاث
+ نين 19 أكتوبر 2026 · 20:00 بتوقيت الرياض\n🏟 Al Sa
+ lam Stadium، al-Qāhirah (Cairo)\n—————\n⚽ Al Sharkeyah-ENPPI
+  v Al Mokawloon Al Arab\n🏆 Egyptian Premier League — Matchday 7\n🗓
+  Mon 19 Oct 2026 · 17:00 UTC\n🏟 Al Salam Stadium, al-Qāhirah (Cairo)\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Al Sharkeyah-ENPPI ضد المقاولون الع
+ رب — الدوري المصري الممتاز | Tomorrow: Al Sharkeyah
+ -ENPPI vs Al Mokawloon Al Arab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Al Sharkeya
+ h-ENPPI × المقاولون العرب | Kick-off in 30 min: Al Sharkeya
+ h-ENPPI vs Al Mokawloon Al Arab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996753@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261028T170000Z
+DTEND:20261028T190000Z
+SUMMARY:Zamalek SC vs Al Mokawloon Al Arab — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996753
+DESCRIPTION:⚽ الزمالك × المقاولون العرب\n🏆 ال
+ دوري المصري الممتاز — الجولة 8\n🗓 الأربع
+ اء 28 أكتوبر 2026 · 20:00 بتوقيت الرياض\n🏟 Cairo I
+ nternational Stadium، al-Qāhirah (Cairo)\n—————\n⚽ Zamalek S
+ C v Al Mokawloon Al Arab\n🏆 Egyptian Premier League — Matchday 8\n
+ 🗓 Wed 28 Oct 2026 · 17:00 UTC\n🏟 Cairo International Stadium, al-Q
+ āhirah (Cairo)\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الزمالك ضد المقاولون العرب
+  — الدوري المصري الممتاز | Tomorrow: Zamalek SC vs Al
+  Mokawloon Al Arab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الزما
+ لك × المقاولون العرب | Kick-off in 30 min: Zamalek SC vs 
+ Al Mokawloon Al Arab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996768@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261125T150000Z
+DTEND:20261125T170000Z
+SUMMARY:Al Mokawloon Al Arab vs Olympic El Qanah FC — Egyptian Premier Le
+ ague
+LOCATION:Al-Mokawloon al-Arab Stadium
+URL:https://www.fotmob.com/match/5996768
+DESCRIPTION:⚽ المقاولون العرب × القناة\n🏆 الد
+ وري المصري الممتاز — الجولة 9\n🗓 الأربعا
+ ء 25 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Al-Mokawl
+ oon al-Arab Stadium\n—————\n⚽ Al Mokawloon Al Arab v Olympic E
+ l Qanah FC\n🏆 Egyptian Premier League — Matchday 9\n🗓 Wed 25 Nov 2
+ 026 · 15:00 UTC\n🏟 Al-Mokawloon al-Arab Stadium\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المقاولون العرب ضد القناة 
+ — الدوري المصري الممتاز | Tomorrow: Al Mokawloon Al A
+ rab vs Olympic El Qanah FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المقا
+ ولون العرب × القناة | Kick-off in 30 min: Al Mokawloon Al 
+ Arab vs Olympic El Qanah FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996775@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261208T180000Z
+DTEND:20261208T200000Z
+SUMMARY:Ceramica Cleopatra vs Al Mokawloon Al Arab — Egyptian Premier Lea
+ gue
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996775
+DESCRIPTION:⚽ سيراميكا كليوباترا × المقاولون 
+ العرب\n🏆 الدوري المصري الممتاز — الجولة
+  10\n🗓 الثلاثاء 8 ديسمبر 2026 · 21:00 بتوقيت ال
+ رياض\n🏟 Suez Canal Authority Stadium\n—————\n⚽ Ceramica
+  Cleopatra v Al Mokawloon Al Arab\n🏆 Egyptian Premier League — Matchd
+ ay 10\n🗓 Tue 08 Dec 2026 · 18:00 UTC\n🏟 Suez Canal Authority Stadiu
+ m\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيراميكا كليوباترا ضد المق
+ اولون العرب — الدوري المصري الممتاز | Tomor
+ row: Ceramica Cleopatra vs Al Mokawloon Al Arab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيرام
+ يكا كليوباترا × المقاولون العرب | Kick-off in 3
+ 0 min: Ceramica Cleopatra vs Al Mokawloon Al Arab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996789@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261216T150000Z
+DTEND:20261216T170000Z
+SUMMARY:Al Mokawloon Al Arab vs Modern Sport FC — Egyptian Premier League
+LOCATION:Al-Mokawloon al-Arab Stadium
+URL:https://www.fotmob.com/match/5996789
+DESCRIPTION:⚽ المقاولون العرب × مودرن سبورت\n
+ 🏆 الدوري المصري الممتاز — الجولة 11\n🗓 ا
+ لأربعاء 16 ديسمبر 2026 · 18:00 بتوقيت الرياض\n
+ 🏟 Al-Mokawloon al-Arab Stadium\n—————\n⚽ Al Mokawloon Al Ar
+ ab v Modern Sport FC\n🏆 Egyptian Premier League — Matchday 11\n🗓 W
+ ed 16 Dec 2026 · 15:00 UTC\n🏟 Al-Mokawloon al-Arab Stadium\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المقاولون العرب ضد مودرن س
+ بورت — الدوري المصري الممتاز | Tomorrow: Al Mokaw
+ loon Al Arab vs Modern Sport FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المقا
+ ولون العرب × مودرن سبورت | Kick-off in 30 min: Al Moka
+ wloon Al Arab vs Modern Sport FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996794@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261222T180000Z
+DTEND:20261222T200000Z
+SUMMARY:Ghazl Al Mahalla vs Al Mokawloon Al Arab — Egyptian Premier Leagu
+ e
+LOCATION:Ghazl El Mahalla Stadium
+URL:https://www.fotmob.com/match/5996794
+DESCRIPTION:⚽ غزل المحلة × المقاولون العرب\n🏆 
+ الدوري المصري الممتاز — الجولة 12\n🗓 الث
+ لاثاء 22 ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 G
+ hazl El Mahalla Stadium\n—————\n⚽ Ghazl Al Mahalla v Al Mokawl
+ oon Al Arab\n🏆 Egyptian Premier League — Matchday 12\n🗓 Tue 22 Dec
+  2026 · 18:00 UTC\n🏟 Ghazl El Mahalla Stadium\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غزل المحلة ضد المقاولون ال
+ عرب — الدوري المصري الممتاز | Tomorrow: Ghazl Al M
+ ahalla vs Al Mokawloon Al Arab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غزل ال
+ محلة × المقاولون العرب | Kick-off in 30 min: Ghazl Al M
+ ahalla vs Al Mokawloon Al Arab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996805@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261228T150000Z
+DTEND:20261228T170000Z
+SUMMARY:Al Mokawloon Al Arab vs Abo Qir Semad — Egyptian Premier League
+LOCATION:Al-Mokawloon al-Arab Stadium
+URL:https://www.fotmob.com/match/5996805
+DESCRIPTION:⚽ المقاولون العرب × ابو قير للاسمد
+ ة\n🏆 الدوري المصري الممتاز — الجولة 13\n
+ 🗓 الاثنين 28 ديسمبر 2026 · 18:00 بتوقيت الريا
+ ض\n🏟 Al-Mokawloon al-Arab Stadium\n—————\n⚽ Al Mokawloon A
+ l Arab v Abo Qir Semad\n🏆 Egyptian Premier League — Matchday 13\n🗓
+  Mon 28 Dec 2026 · 15:00 UTC\n🏟 Al-Mokawloon al-Arab Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المقاولون العرب ضد ابو قير 
+ للاسمدة — الدوري المصري الممتاز | Tomorrow: Al
+  Mokawloon Al Arab vs Abo Qir Semad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المقا
+ ولون العرب × ابو قير للاسمدة | Kick-off in 30 min: 
+ Al Mokawloon Al Arab vs Abo Qir Semad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996812@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270104T150000Z
+DTEND:20270104T170000Z
+SUMMARY:Pyramids FC vs Al Mokawloon Al Arab — Egyptian Premier League
+LOCATION:30 June Stadium
+URL:https://www.fotmob.com/match/5996812
+DESCRIPTION:⚽ بيراميدز × المقاولون العرب\n🏆 ا
+ لدوري المصري الممتاز — الجولة 14\n🗓 الاث
+ نين 4 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 30 June 
+ Stadium\n—————\n⚽ Pyramids FC v Al Mokawloon Al Arab\n🏆 Egy
+ ptian Premier League — Matchday 14\n🗓 Mon 04 Jan 2027 · 15:00 UTC\n
+ 🏟 30 June Stadium\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيراميدز ضد المقاولون العر
+ ب — الدوري المصري الممتاز | Tomorrow: Pyramids FC vs
+  Al Mokawloon Al Arab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيرام
+ يدز × المقاولون العرب | Kick-off in 30 min: Pyramids FC 
+ vs Al Mokawloon Al Arab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996830@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270128T150000Z
+DTEND:20270128T170000Z
+SUMMARY:Al Mokawloon Al Arab vs National Bank — Egyptian Premier League
+LOCATION:Al-Mokawloon al-Arab Stadium
+URL:https://www.fotmob.com/match/5996830
+DESCRIPTION:⚽ المقاولون العرب × البنك الاهلي\n
+ 🏆 الدوري المصري الممتاز — الجولة 15\n🗓 ا
+ لخميس 28 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Al-
+ Mokawloon al-Arab Stadium\n—————\n⚽ Al Mokawloon Al Arab v Nat
+ ional Bank\n🏆 Egyptian Premier League — Matchday 15\n🗓 Thu 28 Jan 
+ 2027 · 15:00 UTC\n🏟 Al-Mokawloon al-Arab Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المقاولون العرب ضد البنك ا
+ لاهلي — الدوري المصري الممتاز | Tomorrow: Al Mok
+ awloon Al Arab vs National Bank
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المقا
+ ولون العرب × البنك الاهلي | Kick-off in 30 min: Al Mo
+ kawloon Al Arab vs National Bank
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996839@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270201T150000Z
+DTEND:20270201T170000Z
+SUMMARY:Petrojet-Suez vs Al Mokawloon Al Arab — Egyptian Premier League
+LOCATION:Petrosport Stadium
+URL:https://www.fotmob.com/match/5996839
+DESCRIPTION:⚽ منتخب السويس بتروجت × المقاولون 
+ العرب\n🏆 الدوري المصري الممتاز — الجولة
+  16\n🗓 الاثنين 1 فبراير 2027 · 18:00 بتوقيت الر
+ ياض\n🏟 Petrosport Stadium\n—————\n⚽ Petrojet-Suez v Al M
+ okawloon Al Arab\n🏆 Egyptian Premier League — Matchday 16\n🗓 Mon 0
+ 1 Feb 2027 · 15:00 UTC\n🏟 Petrosport Stadium\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: منتخب السويس بتروجت ضد الم
+ قاولون العرب — الدوري المصري الممتاز | Tom
+ orrow: Petrojet-Suez vs Al Mokawloon Al Arab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: منتخب 
+ السويس بتروجت × المقاولون العرب | Kick-off in 3
+ 0 min: Petrojet-Suez vs Al Mokawloon Al Arab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996849@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Al Mokawloon Al Arab vs Asyut Petroleum — Egyptian Premier League
+LOCATION:Al-Mokawloon al-Arab Stadium
+URL:https://www.fotmob.com/match/5996849
+DESCRIPTION:⚽ المقاولون العرب × أسيوط بتروليو
+ م\n🏆 الدوري المصري الممتاز — الجولة 17\n
+ 🗓 السبت 6 فبراير 2027 · 18:00 بتوقيت الرياض\n
+ 🏟 Al-Mokawloon al-Arab Stadium\n—————\n⚽ Al Mokawloon Al Ar
+ ab v Asyut Petroleum\n🏆 Egyptian Premier League — Matchday 17\n🗓 S
+ at 06 Feb 2027 · 15:00 UTC\n🏟 Al-Mokawloon al-Arab Stadium\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المقاولون العرب ضد أسيوط ب
+ تروليوم — الدوري المصري الممتاز | Tomorrow: Al
+  Mokawloon Al Arab vs Asyut Petroleum
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المقا
+ ولون العرب × أسيوط بتروليوم | Kick-off in 30 min: A
+ l Mokawloon Al Arab vs Asyut Petroleum
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996860@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270212T193000Z
+DTEND:20270212T213000Z
+SUMMARY:Al Ittihad Alexandria vs Al Mokawloon Al Arab — Egyptian Premier 
+ League
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996860
+DESCRIPTION:⚽ الاتحاد السكندري × المقاولون ال
+ عرب\n🏆 الدوري المصري الممتاز — الجولة 18\
+ n🗓 الجمعة 12 فبراير 2027 · 22:30 بتوقيت الرياض
+ \n🏟 Alexandria Stadium\n—————\n⚽ Al Ittihad Alexandria v Al
+  Mokawloon Al Arab\n🏆 Egyptian Premier League — Matchday 18\n🗓 Fri
+  12 Feb 2027 · 19:30 UTC\n🏟 Alexandria Stadium\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد السكندري ضد المقاو
+ لون العرب — الدوري المصري الممتاز | Tomorrow:
+  Al Ittihad Alexandria vs Al Mokawloon Al Arab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد السكندري × المقاولون العرب | Kick-off in 30 mi
+ n: Al Ittihad Alexandria vs Al Mokawloon Al Arab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996868@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270220T193000Z
+DTEND:20270220T213000Z
+SUMMARY:Al Mokawloon Al Arab vs Smouha SC — Egyptian Premier League
+LOCATION:Al-Mokawloon al-Arab Stadium
+URL:https://www.fotmob.com/match/5996868
+DESCRIPTION:⚽ المقاولون العرب × سموحة\n🏆 الدو
+ ري المصري الممتاز — الجولة 19\n🗓 السبت 20 
+ فبراير 2027 · 22:30 بتوقيت الرياض\n🏟 Al-Mokawloon al
+ -Arab Stadium\n—————\n⚽ Al Mokawloon Al Arab v Smouha SC\n🏆
+  Egyptian Premier League — Matchday 19\n🗓 Sat 20 Feb 2027 · 19:30 UT
+ C\n🏟 Al-Mokawloon al-Arab Stadium\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المقاولون العرب ضد سموحة —
+  الدوري المصري الممتاز | Tomorrow: Al Mokawloon Al Arab
+  vs Smouha SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المقا
+ ولون العرب × سموحة | Kick-off in 30 min: Al Mokawloon Al Ar
+ ab vs Smouha SC
+END:VALARM
+END:VEVENT
+END:VCALENDAR

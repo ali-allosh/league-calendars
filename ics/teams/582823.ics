@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Damac FC — King's Cup Fixtures | ضمك — مباريا
+ ت كأس خادم الحرمين الشريفين
+X-WR-CALDESC:Damac FC — all matches in King's Cup\, exact UTC kickoffs\, 
+ stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:1
+ 0Z.  •  ضمك — جميع المباريات في كأس خادم ال
+ حرمين الشريفين بتوقيت UTC الدقيق مع الملا
+ عب والقنوات الناقلة. المصدر: FotMob + 365scores · 
+ تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5853728@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260819T161500Z
+DTEND:20260819T181500Z
+SUMMARY:Damac FC vs Al-Taawoun (0 - 3) — King's Cup
+LOCATION:Dhamak Club Stadium\, Khamis Mushait\, Saudi Arabia
+GEO:18.290350;42.726656
+URL:https://www.fotmob.com/match/5853728
+DESCRIPTION:⚽ ضمك × التعاون (0 - 3)\n🏆 كأس خادم ال
+ حرمين الشريفين — دور الـ32\n🗓 الأربعاء 19 
+ أغسطس 2026 · 19:15 بتوقيت الرياض\n🏟 Dhamak Club Stadi
+ um، Khamis Mushait\n⚖️ الحكم: Abdullah Al-Khurbush\n————
+ —\n⚽ Damac FC v Al-Taawoun (0 - 3)\n🏆 King's Cup — Round of 32\n
+ 🗓 Wed 19 Aug 2026 · 16:15 UTC\n🏟 Dhamak Club Stadium, Khamis Mushai
+ t\nReferee: Abdullah Al-Khurbush\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ضمك ضد التعاون — كأس خادم ا
+ لحرمين الشريفين | Tomorrow: Damac FC vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ضمك × 
+ التعاون | Kick-off in 30 min: Damac FC vs Al-Taawoun
+END:VALARM
+END:VEVENT
+END:VCALENDAR

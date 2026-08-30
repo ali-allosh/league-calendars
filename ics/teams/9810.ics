@@ -1,0 +1,1126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Eintracht Frankfurt — Bundesliga Fixtures | آينترا
+ خت فرانكفورت — مباريات الدوري الألماني
+X-WR-CALDESC:Eintracht Frankfurt — all matches in Bundesliga\, exact UTC 
+ kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09
+ -05T19:31:10Z.  •  آينتراخت فرانكفورت — جميع ال
+ مباريات في الدوري الألماني بتوقيت UTC الد
+ قيق مع الملاعب والقنوات الناقلة. المصدر: 
+ FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5881151@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T133000Z
+DTEND:20260829T153000Z
+SUMMARY:Union Berlin vs Eintracht Frankfurt (3 - 3) — Bundesliga
+LOCATION:Stadion An der Alten Försterei\, Berlin\, Germany
+GEO:52.457395;13.568126
+URL:https://www.fotmob.com/match/5881151
+DESCRIPTION:⚽ يونيون برلين × آينتراخت فرانكفو
+ رت (3 - 3)\n🏆 الدوري الألماني — الجولة 1\n🗓 
+ السبت 29 أغسطس 2026 · 16:30 بتوقيت الرياض\n🏟 Sta
+ dion An der Alten Försterei، Berlin\n⚖️ الحكم: Bastian Dankert\
+ n👥 الحضور: 22,012\n—————\n⚽ Union Berlin v Eintracht 
+ Frankfurt (3 - 3)\n🏆 Bundesliga — Matchday 1\n🗓 Sat 29 Aug 2026 ·
+  13:30 UTC\n🏟 Stadion An der Alten Försterei, Berlin\nReferee: Bastian
+  Dankert\nAttendance: 22,012\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد آينتراخت ف
+ رانكفورت — الدوري الألماني | Tomorrow: Union Berli
+ n vs Eintracht Frankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × آينتراخت فرانكفورت | Kick-off in 30 min:
+  Union Berlin vs Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881154@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260906T153000Z
+DTEND:20260906T173000Z
+SUMMARY:Eintracht Frankfurt vs Augsburg — Bundesliga
+LOCATION:Deutsche Bank Park\, Frankfurt am Main\, Germany
+GEO:50.068577;8.645448
+URL:https://www.fotmob.com/match/5881154
+DESCRIPTION:⚽ آينتراخت فرانكفورت × أوغسبورغ\n
+ 🏆 الدوري الألماني — الجولة 2\n🗓 الأحد 6 
+ سبتمبر 2026 · 18:30 بتوقيت الرياض\n🏟 Deutsche Bank P
+ ark، Frankfurt am Main\n📺 MBC Action، شاهد - Shahid VIP\n——
+ ———\n⚽ Eintracht Frankfurt v Augsburg\n🏆 Bundesliga — Matchda
+ y 2\n🗓 Sun 06 Sep 2026 · 15:30 UTC\n🏟 Deutsche Bank Park, Frankfurt
+  am Main\n📺 MBC Action, شاهد - Shahid VIP\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد أوغس
+ بورغ — الدوري الألماني — 📺 MBC Action، شاهد 
+ - Shahid VIP | Tomorrow: Eintracht Frankfurt vs Augsburg | TV: MBC Action\
+ , شاهد - Shahid VIP
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × أوغسبورغ — 📺 MBC Action، شاه
+ د - Shahid VIP | Kick-off in 30 min: Eintracht Frankfurt vs Augsburg | TV
+ : MBC Action\, شاهد - Shahid VIP
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881167@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T133000Z
+DTEND:20260912T153000Z
+SUMMARY:Mainz 05 vs Eintracht Frankfurt — Bundesliga
+LOCATION:MEWA ARENA\, Mainz\, Germany
+GEO:49.984627;8.224125
+URL:https://www.fotmob.com/match/5881167
+DESCRIPTION:⚽ ماينز 05 × آينتراخت فرانكفورت\n🏆 
+ الدوري الألماني — الجولة 3\n🗓 السبت 12 سب
+ تمبر 2026 · 16:30 بتوقيت الرياض\n🏟 MEWA ARENA، Mainz\
+ n📺 Peacock (Español)\n—————\n⚽ Mainz 05 v Eintracht Frankf
+ urt\n🏆 Bundesliga — Matchday 3\n🗓 Sat 12 Sep 2026 · 13:30 UTC\n
+ 🏟 MEWA ARENA, Mainz\n📺 Peacock (Español)\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ماينز 05 ضد آينتراخت فرانكف
+ ورت — الدوري الألماني — 📺 Peacock (Español) | Tom
+ orrow: Mainz 05 vs Eintracht Frankfurt | TV: Peacock (Español)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ماينز 
+ 05 × آينتراخت فرانكفورت — 📺 Peacock (Español) | Ki
+ ck-off in 30 min: Mainz 05 vs Eintracht Frankfurt | TV: Peacock (Español)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881173@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T133000Z
+DTEND:20260919T153000Z
+SUMMARY:Eintracht Frankfurt vs Freiburg — Bundesliga
+LOCATION:Deutsche Bank Park\, Frankfurt am Main\, Germany
+GEO:50.068577;8.645448
+URL:https://www.fotmob.com/match/5881173
+DESCRIPTION:⚽ آينتراخت فرانكفورت × فرايبورج\n
+ 🏆 الدوري الألماني — الجولة 4\n🗓 السبت 19 
+ سبتمبر 2026 · 16:30 بتوقيت الرياض\n🏟 Deutsche Bank P
+ ark، Frankfurt am Main\n—————\n⚽ Eintracht Frankfurt v Freibu
+ rg\n🏆 Bundesliga — Matchday 4\n🗓 Sat 19 Sep 2026 · 13:30 UTC\n
+ 🏟 Deutsche Bank Park, Frankfurt am Main\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد فراي
+ بورج — الدوري الألماني | Tomorrow: Eintracht Frankfurt
+  vs Freiburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × فرايبورج | Kick-off in 30 min: Eintra
+ cht Frankfurt vs Freiburg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881186@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T133000Z
+DTEND:20261010T153000Z
+SUMMARY:RB Leipzig vs Eintracht Frankfurt — Bundesliga
+LOCATION:Red Bull Arena Leipzig
+URL:https://www.fotmob.com/match/5881186
+DESCRIPTION:⚽ لايبزيج × آينتراخت فرانكفورت\n🏆
+  الدوري الألماني — الجولة 5\n🗓 السبت 10 أك
+ توبر 2026 · 16:30 بتوقيت الرياض\n🏟 Red Bull Arena Leip
+ zig\n—————\n⚽ RB Leipzig v Eintracht Frankfurt\n🏆 Bundeslig
+ a — Matchday 5\n🗓 Sat 10 Oct 2026 · 13:30 UTC\n🏟 Red Bull Arena L
+ eipzig\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لايبزيج ضد آينتراخت فرانكف
+ ورت — الدوري الألماني | Tomorrow: RB Leipzig vs Eintrac
+ ht Frankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لايبز
+ يج × آينتراخت فرانكفورت | Kick-off in 30 min: RB Leipz
+ ig vs Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881191@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T133000Z
+DTEND:20261017T153000Z
+SUMMARY:Eintracht Frankfurt vs 1. FC Köln — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881191
+DESCRIPTION:⚽ آينتراخت فرانكفورت × كولن\n🏆 ال
+ دوري الألماني — الجولة 6\n🗓 السبت 17 أكتو
+ بر 2026 · 16:30 بتوقيت الرياض\n🏟 Deutsche Bank Park\n—
+ ————\n⚽ Eintracht Frankfurt v 1. FC Köln\n🏆 Bundesliga — M
+ atchday 6\n🗓 Sat 17 Oct 2026 · 13:30 UTC\n🏟 Deutsche Bank Park\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد كولن
+  — الدوري الألماني | Tomorrow: Eintracht Frankfurt vs 1. F
+ C Köln
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × كولن | Kick-off in 30 min: Eintracht Fran
+ kfurt vs 1. FC Köln
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881198@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T133000Z
+DTEND:20261024T153000Z
+SUMMARY:Borussia Dortmund vs Eintracht Frankfurt — Bundesliga
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/5881198
+DESCRIPTION:⚽ بوروسيا دورتموند × آينتراخت فرا
+ نكفورت\n🏆 الدوري الألماني — الجولة 7\n🗓 
+ السبت 24 أكتوبر 2026 · 16:30 بتوقيت الرياض\n🏟 S
+ ignal Iduna Park\n—————\n⚽ Borussia Dortmund v Eintracht Frank
+ furt\n🏆 Bundesliga — Matchday 7\n🗓 Sat 24 Oct 2026 · 13:30 UTC\n
+ 🏟 Signal Iduna Park\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد آينترا
+ خت فرانكفورت — الدوري الألماني | Tomorrow: Boru
+ ssia Dortmund vs Eintracht Frankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × آينتراخت فرانكفورت | Kick-off in
+  30 min: Borussia Dortmund vs Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881210@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T143000Z
+DTEND:20261031T163000Z
+SUMMARY:Eintracht Frankfurt vs Hamburger SV — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881210
+DESCRIPTION:⚽ آينتراخت فرانكفورت × هامبورج\n🏆
+  الدوري الألماني — الجولة 8\n🗓 السبت 31 أك
+ توبر 2026 · 17:30 بتوقيت الرياض\n🏟 Deutsche Bank Park\
+ n—————\n⚽ Eintracht Frankfurt v Hamburger SV\n🏆 Bundesliga 
+ — Matchday 8\n🗓 Sat 31 Oct 2026 · 14:30 UTC\n🏟 Deutsche Bank Park
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد هامب
+ ورج — الدوري الألماني | Tomorrow: Eintracht Frankfurt v
+ s Hamburger SV
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × هامبورج | Kick-off in 30 min: Eintrach
+ t Frankfurt vs Hamburger SV
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881221@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T143000Z
+DTEND:20261107T163000Z
+SUMMARY:Paderborn vs Eintracht Frankfurt — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881221
+DESCRIPTION:⚽ بادربورن × آينتراخت فرانكفورت\n
+ 🏆 الدوري الألماني — الجولة 9\n🗓 السبت 7 
+ نوفمبر 2026 · 17:30 بتوقيت الرياض\n🏟 Home Deluxe Are
+ na\n—————\n⚽ Paderborn v Eintracht Frankfurt\n🏆 Bundesliga 
+ — Matchday 9\n🗓 Sat 07 Nov 2026 · 14:30 UTC\n🏟 Home Deluxe Arena\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد آينتراخت فرانك
+ فورت — الدوري الألماني | Tomorrow: Paderborn vs Eintra
+ cht Frankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × آينتراخت فرانكفورت | Kick-off in 30 min: Paderb
+ orn vs Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881228@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T143000Z
+DTEND:20261121T163000Z
+SUMMARY:Eintracht Frankfurt vs Hoffenheim — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881228
+DESCRIPTION:⚽ آينتراخت فرانكفورت × هوفنهايم\n
+ 🏆 الدوري الألماني — الجولة 10\n🗓 السبت 21
+  نوفمبر 2026 · 17:30 بتوقيت الرياض\n🏟 Deutsche Bank 
+ Park\n—————\n⚽ Eintracht Frankfurt v Hoffenheim\n🏆 Bundesli
+ ga — Matchday 10\n🗓 Sat 21 Nov 2026 · 14:30 UTC\n🏟 Deutsche Bank 
+ Park\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد هوفن
+ هايم — الدوري الألماني | Tomorrow: Eintracht Frankfurt
+  vs Hoffenheim
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × هوفنهايم | Kick-off in 30 min: Eintra
+ cht Frankfurt vs Hoffenheim
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881240@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T143000Z
+DTEND:20261128T163000Z
+SUMMARY:VfB Stuttgart vs Eintracht Frankfurt — Bundesliga
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/5881240
+DESCRIPTION:⚽ شتوتجارت × آينتراخت فرانكفورت\n
+ 🏆 الدوري الألماني — الجولة 11\n🗓 السبت 28
+  نوفمبر 2026 · 17:30 بتوقيت الرياض\n🏟 MHPArena\n—
+ ————\n⚽ VfB Stuttgart v Eintracht Frankfurt\n🏆 Bundesliga —
+  Matchday 11\n🗓 Sat 28 Nov 2026 · 14:30 UTC\n🏟 MHPArena\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد آينتراخت فرانك
+ فورت — الدوري الألماني | Tomorrow: VfB Stuttgart vs Ei
+ ntracht Frankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × آينتراخت فرانكفورت | Kick-off in 30 min: VfB St
+ uttgart vs Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881245@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T143000Z
+DTEND:20261205T163000Z
+SUMMARY:Eintracht Frankfurt vs Werder Bremen — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881245
+DESCRIPTION:⚽ آينتراخت فرانكفورت × فيردر بريم
+ ن\n🏆 الدوري الألماني — الجولة 12\n🗓 السب
+ ت 5 ديسمبر 2026 · 17:30 بتوقيت الرياض\n🏟 Deutsche B
+ ank Park\n—————\n⚽ Eintracht Frankfurt v Werder Bremen\n🏆 B
+ undesliga — Matchday 12\n🗓 Sat 05 Dec 2026 · 14:30 UTC\n🏟 Deutsch
+ e Bank Park\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد فيرد
+ ر بريمن — الدوري الألماني | Tomorrow: Eintracht Fran
+ kfurt vs Werder Bremen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × فيردر بريمن | Kick-off in 30 min: E
+ intracht Frankfurt vs Werder Bremen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881251@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T143000Z
+DTEND:20261212T163000Z
+SUMMARY:Borussia Mönchengladbach vs Eintracht Frankfurt — Bundesliga
+LOCATION:Ista-Borussia-Park
+URL:https://www.fotmob.com/match/5881251
+DESCRIPTION:⚽ بوروسيا مونشنجلادباخ × آينتراخت
+  فرانكفورت\n🏆 الدوري الألماني — الجولة 1
+ 3\n🗓 السبت 12 ديسمبر 2026 · 17:30 بتوقيت الرياض
+ \n🏟 Ista-Borussia-Park\n—————\n⚽ Borussia Mönchengladbach 
+ v Eintracht Frankfurt\n🏆 Bundesliga — Matchday 13\n🗓 Sat 12 Dec 20
+ 26 · 14:30 UTC\n🏟 Ista-Borussia-Park\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا مونشنجلادباخ ضد آي
+ نتراخت فرانكفورت — الدوري الألماني | Tomorr
+ ow: Borussia Mönchengladbach vs Eintracht Frankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا مونشنجلادباخ × آينتراخت فرانكفورت | Kic
+ k-off in 30 min: Borussia Mönchengladbach vs Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881261@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T143000Z
+DTEND:20261219T163000Z
+SUMMARY:Bayer Leverkusen vs Eintracht Frankfurt — Bundesliga
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/5881261
+DESCRIPTION:⚽ باير ليفركوزن × آينتراخت فرانكف
+ ورت\n🏆 الدوري الألماني — الجولة 14\n🗓 ال
+ سبت 19 ديسمبر 2026 · 17:30 بتوقيت الرياض\n🏟 BayAr
+ ena\n—————\n⚽ Bayer Leverkusen v Eintracht Frankfurt\n🏆 Bun
+ desliga — Matchday 14\n🗓 Sat 19 Dec 2026 · 14:30 UTC\n🏟 BayArena\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد آينتراخت 
+ فرانكفورت — الدوري الألماني | Tomorrow: Bayer Lev
+ erkusen vs Eintracht Frankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × آينتراخت فرانكفورت | Kick-off in 30 min
+ : Bayer Leverkusen vs Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881271@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270109T143000Z
+DTEND:20270109T163000Z
+SUMMARY:Eintracht Frankfurt vs Schalke 04 — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881271
+DESCRIPTION:⚽ آينتراخت فرانكفورت × شالكة\n🏆 ا
+ لدوري الألماني — الجولة 15\n🗓 السبت 9 ينا
+ ير 2027 · 17:30 بتوقيت الرياض\n🏟 Deutsche Bank Park\n—
+ ————\n⚽ Eintracht Frankfurt v Schalke 04\n🏆 Bundesliga — Ma
+ tchday 15\n🗓 Sat 09 Jan 2027 · 14:30 UTC\n🏟 Deutsche Bank Park\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد شالك
+ ة — الدوري الألماني | Tomorrow: Eintracht Frankfurt vs Sc
+ halke 04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × شالكة | Kick-off in 30 min: Eintracht Fr
+ ankfurt vs Schalke 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881280@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270112T193000Z
+DTEND:20270112T213000Z
+SUMMARY:Elversberg vs Eintracht Frankfurt — Bundesliga
+LOCATION:Ursapharm-Arena
+URL:https://www.fotmob.com/match/5881280
+DESCRIPTION:⚽ إلفيرسبيرغ × آينتراخت فرانكفورت
+ \n🏆 الدوري الألماني — الجولة 16\n🗓 الثلا
+ ثاء 12 يناير 2027 · 22:30 بتوقيت الرياض\n🏟 Ursapha
+ rm-Arena\n—————\n⚽ Elversberg v Eintracht Frankfurt\n🏆 Bund
+ esliga — Matchday 16\n🗓 Tue 12 Jan 2027 · 19:30 UTC\n🏟 Ursapharm-
+ Arena\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد آينتراخت فرا
+ نكفورت — الدوري الألماني | Tomorrow: Elversberg vs E
+ intracht Frankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × آينتراخت فرانكفورت | Kick-off in 30 min: El
+ versberg vs Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881290@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T143000Z
+DTEND:20270116T163000Z
+SUMMARY:Eintracht Frankfurt vs Bayern München — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881290
+DESCRIPTION:⚽ آينتراخت فرانكفورت × بايرن ميون
+ خ\n🏆 الدوري الألماني — الجولة 17\n🗓 السب
+ ت 16 يناير 2027 · 17:30 بتوقيت الرياض\n🏟 Deutsche Ba
+ nk Park\n—————\n⚽ Eintracht Frankfurt v Bayern München\n🏆 
+ Bundesliga — Matchday 17\n🗓 Sat 16 Jan 2027 · 14:30 UTC\n🏟 Deutsc
+ he Bank Park\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد باير
+ ن ميونخ — الدوري الألماني | Tomorrow: Eintracht Fran
+ kfurt vs Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × بايرن ميونخ | Kick-off in 30 min: E
+ intracht Frankfurt vs Bayern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881298@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T143000Z
+DTEND:20270123T163000Z
+SUMMARY:Eintracht Frankfurt vs Union Berlin — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881298
+DESCRIPTION:⚽ آينتراخت فرانكفورت × يونيون برل
+ ين\n🏆 الدوري الألماني — الجولة 18\n🗓 الس
+ بت 23 يناير 2027 · 17:30 بتوقيت الرياض\n🏟 Deutsche 
+ Bank Park\n—————\n⚽ Eintracht Frankfurt v Union Berlin\n🏆 B
+ undesliga — Matchday 18\n🗓 Sat 23 Jan 2027 · 14:30 UTC\n🏟 Deutsch
+ e Bank Park\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد يوني
+ ون برلين — الدوري الألماني | Tomorrow: Eintracht Fr
+ ankfurt vs Union Berlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × يونيون برلين | Kick-off in 30 min:
+  Eintracht Frankfurt vs Union Berlin
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881305@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T143000Z
+DTEND:20270130T163000Z
+SUMMARY:Augsburg vs Eintracht Frankfurt — Bundesliga
+LOCATION:WWK Arena
+URL:https://www.fotmob.com/match/5881305
+DESCRIPTION:⚽ أوغسبورغ × آينتراخت فرانكفورت\n
+ 🏆 الدوري الألماني — الجولة 19\n🗓 السبت 30
+  يناير 2027 · 17:30 بتوقيت الرياض\n🏟 WWK Arena\n—
+ ————\n⚽ Augsburg v Eintracht Frankfurt\n🏆 Bundesliga — Matc
+ hday 19\n🗓 Sat 30 Jan 2027 · 14:30 UTC\n🏟 WWK Arena\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوغسبورغ ضد آينتراخت فرانك
+ فورت — الدوري الألماني | Tomorrow: Augsburg vs Eintrac
+ ht Frankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوغسب
+ ورغ × آينتراخت فرانكفورت | Kick-off in 30 min: Augsbu
+ rg vs Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881317@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T143000Z
+DTEND:20270206T163000Z
+SUMMARY:Eintracht Frankfurt vs Mainz 05 — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881317
+DESCRIPTION:⚽ آينتراخت فرانكفورت × ماينز 05\n🏆 
+ الدوري الألماني — الجولة 20\n🗓 السبت 6 فب
+ راير 2027 · 17:30 بتوقيت الرياض\n🏟 Deutsche Bank Park\
+ n—————\n⚽ Eintracht Frankfurt v Mainz 05\n🏆 Bundesliga — 
+ Matchday 20\n🗓 Sat 06 Feb 2027 · 14:30 UTC\n🏟 Deutsche Bank Park\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد ماين
+ ز 05 — الدوري الألماني | Tomorrow: Eintracht Frankfurt vs
+  Mainz 05
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × ماينز 05 | Kick-off in 30 min: Eintracht
+  Frankfurt vs Mainz 05
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881327@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270213T143000Z
+DTEND:20270213T163000Z
+SUMMARY:Freiburg vs Eintracht Frankfurt — Bundesliga
+LOCATION:Europa-Park Stadion
+URL:https://www.fotmob.com/match/5881327
+DESCRIPTION:⚽ فرايبورج × آينتراخت فرانكفورت\n
+ 🏆 الدوري الألماني — الجولة 21\n🗓 السبت 13
+  فبراير 2027 · 17:30 بتوقيت الرياض\n🏟 Europa-Park St
+ adion\n—————\n⚽ Freiburg v Eintracht Frankfurt\n🏆 Bundeslig
+ a — Matchday 21\n🗓 Sat 13 Feb 2027 · 14:30 UTC\n🏟 Europa-Park Sta
+ dion\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فرايبورج ضد آينتراخت فرانك
+ فورت — الدوري الألماني | Tomorrow: Freiburg vs Eintrac
+ ht Frankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فرايب
+ ورج × آينتراخت فرانكفورت | Kick-off in 30 min: Freibu
+ rg vs Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881335@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T143000Z
+DTEND:20270220T163000Z
+SUMMARY:Eintracht Frankfurt vs RB Leipzig — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881335
+DESCRIPTION:⚽ آينتراخت فرانكفورت × لايبزيج\n🏆
+  الدوري الألماني — الجولة 22\n🗓 السبت 20 ف
+ براير 2027 · 17:30 بتوقيت الرياض\n🏟 Deutsche Bank Par
+ k\n—————\n⚽ Eintracht Frankfurt v RB Leipzig\n🏆 Bundesliga 
+ — Matchday 22\n🗓 Sat 20 Feb 2027 · 14:30 UTC\n🏟 Deutsche Bank Par
+ k\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد لايب
+ زيج — الدوري الألماني | Tomorrow: Eintracht Frankfurt v
+ s RB Leipzig
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × لايبزيج | Kick-off in 30 min: Eintrach
+ t Frankfurt vs RB Leipzig
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881343@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T143000Z
+DTEND:20270227T163000Z
+SUMMARY:1. FC Köln vs Eintracht Frankfurt — Bundesliga
+LOCATION:RheinEnergieSTADION
+URL:https://www.fotmob.com/match/5881343
+DESCRIPTION:⚽ كولن × آينتراخت فرانكفورت\n🏆 ال
+ دوري الألماني — الجولة 23\n🗓 السبت 27 فبرا
+ ير 2027 · 17:30 بتوقيت الرياض\n🏟 RheinEnergieSTADION\n
+ —————\n⚽ 1. FC Köln v Eintracht Frankfurt\n🏆 Bundesliga 
+ — Matchday 23\n🗓 Sat 27 Feb 2027 · 14:30 UTC\n🏟 RheinEnergieSTADI
+ ON\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كولن ضد آينتراخت فرانكفورت
+  — الدوري الألماني | Tomorrow: 1. FC Köln vs Eintracht Fr
+ ankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كولن ×
+  آينتراخت فرانكفورت | Kick-off in 30 min: 1. FC Köln vs 
+ Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881353@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270302T193000Z
+DTEND:20270302T213000Z
+SUMMARY:Eintracht Frankfurt vs Borussia Dortmund — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881353
+DESCRIPTION:⚽ آينتراخت فرانكفورت × بوروسيا دو
+ رتموند\n🏆 الدوري الألماني — الجولة 24\n🗓
+  الثلاثاء 2 مارس 2027 · 22:30 بتوقيت الرياض\n🏟
+  Deutsche Bank Park\n—————\n⚽ Eintracht Frankfurt v Borussia D
+ ortmund\n🏆 Bundesliga — Matchday 24\n🗓 Tue 02 Mar 2027 · 19:30 UT
+ C\n🏟 Deutsche Bank Park\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد بورو
+ سيا دورتموند — الدوري الألماني | Tomorrow: Eint
+ racht Frankfurt vs Borussia Dortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × بوروسيا دورتموند | Kick-off in
+  30 min: Eintracht Frankfurt vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881362@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270306T143000Z
+DTEND:20270306T163000Z
+SUMMARY:Hamburger SV vs Eintracht Frankfurt — Bundesliga
+LOCATION:Volksparkstadion
+URL:https://www.fotmob.com/match/5881362
+DESCRIPTION:⚽ هامبورج × آينتراخت فرانكفورت\n🏆
+  الدوري الألماني — الجولة 25\n🗓 السبت 6 ما
+ رس 2027 · 17:30 بتوقيت الرياض\n🏟 Volksparkstadion\n—
+ ————\n⚽ Hamburger SV v Eintracht Frankfurt\n🏆 Bundesliga — 
+ Matchday 25\n🗓 Sat 06 Mar 2027 · 14:30 UTC\n🏟 Volksparkstadion\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هامبورج ضد آينتراخت فرانكف
+ ورت — الدوري الألماني | Tomorrow: Hamburger SV vs Eintr
+ acht Frankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هامبو
+ رج × آينتراخت فرانكفورت | Kick-off in 30 min: Hamburge
+ r SV vs Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881372@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T143000Z
+DTEND:20270313T163000Z
+SUMMARY:Eintracht Frankfurt vs Paderborn — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881372
+DESCRIPTION:⚽ آينتراخت فرانكفورت × بادربورن\n
+ 🏆 الدوري الألماني — الجولة 26\n🗓 السبت 13
+  مارس 2027 · 17:30 بتوقيت الرياض\n🏟 Deutsche Bank Park
+ \n—————\n⚽ Eintracht Frankfurt v Paderborn\n🏆 Bundesliga 
+ — Matchday 26\n🗓 Sat 13 Mar 2027 · 14:30 UTC\n🏟 Deutsche Bank Par
+ k\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد بادر
+ بورن — الدوري الألماني | Tomorrow: Eintracht Frankfurt
+  vs Paderborn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × بادربورن | Kick-off in 30 min: Eintra
+ cht Frankfurt vs Paderborn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881381@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T143000Z
+DTEND:20270320T163000Z
+SUMMARY:Hoffenheim vs Eintracht Frankfurt — Bundesliga
+LOCATION:SNP Arena
+URL:https://www.fotmob.com/match/5881381
+DESCRIPTION:⚽ هوفنهايم × آينتراخت فرانكفورت\n
+ 🏆 الدوري الألماني — الجولة 27\n🗓 السبت 20
+  مارس 2027 · 17:30 بتوقيت الرياض\n🏟 SNP Arena\n——
+ ———\n⚽ Hoffenheim v Eintracht Frankfurt\n🏆 Bundesliga — Match
+ day 27\n🗓 Sat 20 Mar 2027 · 14:30 UTC\n🏟 SNP Arena\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هوفنهايم ضد آينتراخت فرانك
+ فورت — الدوري الألماني | Tomorrow: Hoffenheim vs Eintr
+ acht Frankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هوفنه
+ ايم × آينتراخت فرانكفورت | Kick-off in 30 min: Hoffen
+ heim vs Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881390@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270403T133000Z
+DTEND:20270403T153000Z
+SUMMARY:Eintracht Frankfurt vs VfB Stuttgart — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881390
+DESCRIPTION:⚽ آينتراخت فرانكفورت × شتوتجارت\n
+ 🏆 الدوري الألماني — الجولة 28\n🗓 السبت 3 
+ أبريل 2027 · 16:30 بتوقيت الرياض\n🏟 Deutsche Bank Par
+ k\n—————\n⚽ Eintracht Frankfurt v VfB Stuttgart\n🏆 Bundesli
+ ga — Matchday 28\n🗓 Sat 03 Apr 2027 · 13:30 UTC\n🏟 Deutsche Bank 
+ Park\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد شتوت
+ جارت — الدوري الألماني | Tomorrow: Eintracht Frankfurt
+  vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × شتوتجارت | Kick-off in 30 min: Eintra
+ cht Frankfurt vs VfB Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881403@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T133000Z
+DTEND:20270410T153000Z
+SUMMARY:Werder Bremen vs Eintracht Frankfurt — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881403
+DESCRIPTION:⚽ فيردر بريمن × آينتراخت فرانكفور
+ ت\n🏆 الدوري الألماني — الجولة 29\n🗓 السب
+ ت 10 أبريل 2027 · 16:30 بتوقيت الرياض\n🏟 Wohninvest 
+ WESERSTADION\n—————\n⚽ Werder Bremen v Eintracht Frankfurt\n
+ 🏆 Bundesliga — Matchday 29\n🗓 Sat 10 Apr 2027 · 13:30 UTC\n🏟 W
+ ohninvest WESERSTADION\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد آينتراخت فر
+ انكفورت — الدوري الألماني | Tomorrow: Werder Bremen
+  vs Eintracht Frankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × آينتراخت فرانكفورت | Kick-off in 30 min: We
+ rder Bremen vs Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881407@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T133000Z
+DTEND:20270417T153000Z
+SUMMARY:Eintracht Frankfurt vs Borussia Mönchengladbach — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881407
+DESCRIPTION:⚽ آينتراخت فرانكفورت × بوروسيا مو
+ نشنجلادباخ\n🏆 الدوري الألماني — الجولة 
+ 30\n🗓 السبت 17 أبريل 2027 · 16:30 بتوقيت الرياض\
+ n🏟 Deutsche Bank Park\n—————\n⚽ Eintracht Frankfurt v Borus
+ sia Mönchengladbach\n🏆 Bundesliga — Matchday 30\n🗓 Sat 17 Apr 202
+ 7 · 13:30 UTC\n🏟 Deutsche Bank Park\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد بورو
+ سيا مونشنجلادباخ — الدوري الألماني | Tomorr
+ ow: Eintracht Frankfurt vs Borussia Mönchengladbach
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × بوروسيا مونشنجلادباخ | Kic
+ k-off in 30 min: Eintracht Frankfurt vs Borussia Mönchengladbach
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881415@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T133000Z
+DTEND:20270424T153000Z
+SUMMARY:Eintracht Frankfurt vs Bayer Leverkusen — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881415
+DESCRIPTION:⚽ آينتراخت فرانكفورت × باير ليفرك
+ وزن\n🏆 الدوري الألماني — الجولة 31\n🗓 ال
+ سبت 24 أبريل 2027 · 16:30 بتوقيت الرياض\n🏟 Deutsch
+ e Bank Park\n—————\n⚽ Eintracht Frankfurt v Bayer Leverkusen\n
+ 🏆 Bundesliga — Matchday 31\n🗓 Sat 24 Apr 2027 · 13:30 UTC\n🏟 D
+ eutsche Bank Park\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد باير
+  ليفركوزن — الدوري الألماني | Tomorrow: Eintracht 
+ Frankfurt vs Bayer Leverkusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × باير ليفركوزن | Kick-off in 30 mi
+ n: Eintracht Frankfurt vs Bayer Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881429@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T133000Z
+DTEND:20270508T153000Z
+SUMMARY:Schalke 04 vs Eintracht Frankfurt — Bundesliga
+LOCATION:VELTINS-Arena
+URL:https://www.fotmob.com/match/5881429
+DESCRIPTION:⚽ شالكة × آينتراخت فرانكفورت\n🏆 ا
+ لدوري الألماني — الجولة 32\n🗓 السبت 8 ماي
+ و 2027 · 16:30 بتوقيت الرياض\n🏟 VELTINS-Arena\n———
+ ——\n⚽ Schalke 04 v Eintracht Frankfurt\n🏆 Bundesliga — Matchday
+  32\n🗓 Sat 08 May 2027 · 13:30 UTC\n🏟 VELTINS-Arena\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد آينتراخت فرانكفور
+ ت — الدوري الألماني | Tomorrow: Schalke 04 vs Eintracht F
+ rankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × آينتراخت فرانكفورت | Kick-off in 30 min: Schalke 04 vs
+  Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881434@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T133000Z
+DTEND:20270515T153000Z
+SUMMARY:Eintracht Frankfurt vs Elversberg — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881434
+DESCRIPTION:⚽ آينتراخت فرانكفورت × إلفيرسبيرغ
+ \n🏆 الدوري الألماني — الجولة 33\n🗓 السبت 
+ 15 مايو 2027 · 16:30 بتوقيت الرياض\n🏟 Deutsche Bank Pa
+ rk\n—————\n⚽ Eintracht Frankfurt v Elversberg\n🏆 Bundesliga
+  — Matchday 33\n🗓 Sat 15 May 2027 · 13:30 UTC\n🏟 Deutsche Bank Pa
+ rk\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد إلفي
+ رسبيرغ — الدوري الألماني | Tomorrow: Eintracht Frank
+ furt vs Elversberg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × إلفيرسبيرغ | Kick-off in 30 min: Ei
+ ntracht Frankfurt vs Elversberg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881441@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270522T133000Z
+DTEND:20270522T153000Z
+SUMMARY:Bayern München vs Eintracht Frankfurt — Bundesliga
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/5881441
+DESCRIPTION:⚽ بايرن ميونخ × آينتراخت فرانكفور
+ ت\n🏆 الدوري الألماني — الجولة 34\n🗓 السب
+ ت 22 مايو 2027 · 16:30 بتوقيت الرياض\n🏟 Allianz Arena
+ \n—————\n⚽ Bayern München v Eintracht Frankfurt\n🏆 Bundesl
+ iga — Matchday 34\n🗓 Sat 22 May 2027 · 13:30 UTC\n🏟 Allianz Arena
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد آينتراخت فر
+ انكفورت — الدوري الألماني | Tomorrow: Bayern Münch
+ en vs Eintracht Frankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × آينتراخت فرانكفورت | Kick-off in 30 min: Ba
+ yern München vs Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,298 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Kashima Antlers — AFC Champions League Elite Fixtures | 
+ كاشيما أنتليرز — مباريات دوري أبطال آسي
+ ا للنخبة
+X-WR-CALDESC:Kashima Antlers — all matches in AFC Champions League Elite\
+ , exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-upd
+ ated 2026-09-05T19:31:10Z.  •  كاشيما أنتليرز — جميع 
+ المباريات في دوري أبطال آسيا للنخبة بتوق
+ يت UTC الدقيق مع الملاعب والقنوات الناقلة.
+  المصدر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19
+ :31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6049978@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260915T100000Z
+DTEND:20260915T120000Z
+SUMMARY:Kashima Antlers vs Newcastle Jets — AFC Champions League Elite
+LOCATION:Mercari Stadium\, Kashima\, Japan
+GEO:35.991897;140.640192
+URL:https://www.fotmob.com/match/6049978
+DESCRIPTION:⚽ كاشيما أنتليرز × نيوكاسل جيتس\n
+ 🏆 دوري أبطال آسيا للنخبة — الجولة 1\n🗓 ا
+ لثلاثاء 15 سبتمبر 2026 · 13:00 بتوقيت الرياض\n
+ 🏟 Mercari Stadium، Kashima\n—————\n⚽ Kashima Antlers v New
+ castle Jets\n🏆 AFC Champions League Elite — Matchday 1\n🗓 Tue 15 S
+ ep 2026 · 10:00 UTC\n🏟 Mercari Stadium, Kashima\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كاشيما أنتليرز ضد نيوكاسل 
+ جيتس — دوري أبطال آسيا للنخبة | Tomorrow: Kashima
+  Antlers vs Newcastle Jets
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاشيم
+ ا أنتليرز × نيوكاسل جيتس | Kick-off in 30 min: Kashima
+  Antlers vs Newcastle Jets
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049991@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261013T121500Z
+DTEND:20261013T141500Z
+SUMMARY:Công An Hà Nội vs Kashima Antlers — AFC Champions League Elit
+ e
+LOCATION:Sân vận động Hàng Đẫy (Hang Day Stadium)\, Hà Nội (Ha
+ noi)\, Vietnam
+GEO:21.029837;105.832973
+URL:https://www.fotmob.com/match/6049991
+DESCRIPTION:⚽ كونغ آن هانوي × كاشيما أنتليرز\n
+ 🏆 دوري أبطال آسيا للنخبة — الجولة 2\n🗓 ا
+ لثلاثاء 13 أكتوبر 2026 · 15:15 بتوقيت الرياض\n
+ 🏟 Sân vận động Hàng Đẫy (Hang Day Stadium)، Hà Nội (Hanoi
+ )\n—————\n⚽ Công An Hà Nội v Kashima Antlers\n🏆 AFC Cha
+ mpions League Elite — Matchday 2\n🗓 Tue 13 Oct 2026 · 12:15 UTC\n
+ 🏟 Sân vận động Hàng Đẫy (Hang Day Stadium), Hà Nội (Hanoi)
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كونغ آن هانوي ضد كاشيما أنت
+ ليرز — دوري أبطال آسيا للنخبة | Tomorrow: Công A
+ n Hà Nội vs Kashima Antlers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كونغ آ
+ ن هانوي × كاشيما أنتليرز | Kick-off in 30 min: Công A
+ n Hà Nội vs Kashima Antlers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049999@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261028T110000Z
+DTEND:20261028T130000Z
+SUMMARY:Kashima Antlers vs Pohang Steelers — AFC Champions League Elite
+LOCATION:Mercari Stadium\, Kashima\, Japan
+GEO:35.991897;140.640192
+URL:https://www.fotmob.com/match/6049999
+DESCRIPTION:⚽ كاشيما أنتليرز × بوهانغ ستيليرز\
+ n🏆 دوري أبطال آسيا للنخبة — الجولة 3\n🗓 
+ الأربعاء 28 أكتوبر 2026 · 14:00 بتوقيت الرياض\n
+ 🏟 Mercari Stadium، Kashima\n—————\n⚽ Kashima Antlers v Poh
+ ang Steelers\n🏆 AFC Champions League Elite — Matchday 3\n🗓 Wed 28 
+ Oct 2026 · 11:00 UTC\n🏟 Mercari Stadium, Kashima\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كاشيما أنتليرز ضد بوهانغ س
+ تيليرز — دوري أبطال آسيا للنخبة | Tomorrow: Kas
+ hima Antlers vs Pohang Steelers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاشيم
+ ا أنتليرز × بوهانغ ستيليرز | Kick-off in 30 min: Kas
+ hima Antlers vs Pohang Steelers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050007@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261104T131500Z
+DTEND:20261104T151500Z
+SUMMARY:Buriram United vs Kashima Antlers — AFC Champions League Elite
+LOCATION:Chang Arena\, Buriram\, Thailand
+GEO:14.966666;103.096036
+URL:https://www.fotmob.com/match/6050007
+DESCRIPTION:⚽ بوريرام يونايتد × كاشيما أنتلير
+ ز\n🏆 دوري أبطال آسيا للنخبة — الجولة 4\n
+ 🗓 الأربعاء 4 نوفمبر 2026 · 16:15 بتوقيت الريا
+ ض\n🏟 Chang Arena، Buriram\n—————\n⚽ Buriram United v Kash
+ ima Antlers\n🏆 AFC Champions League Elite — Matchday 4\n🗓 Wed 04 N
+ ov 2026 · 13:15 UTC\n🏟 Chang Arena, Buriram\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوريرام يونايتد ضد كاشيما 
+ أنتليرز — دوري أبطال آسيا للنخبة | Tomorrow: B
+ uriram United vs Kashima Antlers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورير
+ ام يونايتد × كاشيما أنتليرز | Kick-off in 30 min: B
+ uriram United vs Kashima Antlers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050015@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261125T110000Z
+DTEND:20261125T130000Z
+SUMMARY:Kashima Antlers vs Jeonbuk Hyundai Motors FC — AFC Champions Leag
+ ue Elite
+LOCATION:Mercari Stadium\, Kashima\, Japan
+GEO:35.991897;140.640192
+URL:https://www.fotmob.com/match/6050015
+DESCRIPTION:⚽ كاشيما أنتليرز × تشانبوك موتورز\
+ n🏆 دوري أبطال آسيا للنخبة — الجولة 5\n🗓 
+ الأربعاء 25 نوفمبر 2026 · 14:00 بتوقيت الرياض\n
+ 🏟 Mercari Stadium، Kashima\n—————\n⚽ Kashima Antlers v Jeo
+ nbuk Hyundai Motors FC\n🏆 AFC Champions League Elite — Matchday 5\n
+ 🗓 Wed 25 Nov 2026 · 11:00 UTC\n🏟 Mercari Stadium, Kashima\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كاشيما أنتليرز ضد تشانبوك 
+ موتورز — دوري أبطال آسيا للنخبة | Tomorrow: Kas
+ hima Antlers vs Jeonbuk Hyundai Motors FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاشيم
+ ا أنتليرز × تشانبوك موتورز | Kick-off in 30 min: Kas
+ hima Antlers vs Jeonbuk Hyundai Motors FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050023@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261202T131500Z
+DTEND:20261202T151500Z
+SUMMARY:Port FC vs Kashima Antlers — AFC Champions League Elite
+LOCATION:Thammasat Stadium\, Pathum Thani\, Thailand
+GEO:14.068009;100.598931
+URL:https://www.fotmob.com/match/6050023
+DESCRIPTION:⚽ Port FC × كاشيما أنتليرز\n🏆 دوري أب
+ طال آسيا للنخبة — الجولة 6\n🗓 الأربعاء 2 
+ ديسمبر 2026 · 16:15 بتوقيت الرياض\n🏟 Thammasat Stadi
+ um، Pathum Thani\n—————\n⚽ Port FC v Kashima Antlers\n🏆 AF
+ C Champions League Elite — Matchday 6\n🗓 Wed 02 Dec 2026 · 13:15 UTC
+ \n🏟 Thammasat Stadium, Pathum Thani\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Port FC ضد كاشيما أنتليرز — دو
+ ري أبطال آسيا للنخبة | Tomorrow: Port FC vs Kashima Antle
+ rs
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Port FC × 
+ كاشيما أنتليرز | Kick-off in 30 min: Port FC vs Kashima Antle
+ rs
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050025@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270209T110000Z
+DTEND:20270209T130000Z
+SUMMARY:Daejeon Hana Citizen vs Kashima Antlers — AFC Champions League El
+ ite
+LOCATION:Daejeon World Cup Stadium\, Daejeon\, South Korea
+GEO:36.365207;127.325213
+URL:https://www.fotmob.com/match/6050025
+DESCRIPTION:⚽ دايجيون سيتيزن × كاشيما أنتليرز\
+ n🏆 دوري أبطال آسيا للنخبة — الجولة 7\n🗓 
+ الثلاثاء 9 فبراير 2027 · 14:00 بتوقيت الرياض\n
+ 🏟 Daejeon World Cup Stadium، Daejeon\n—————\n⚽ Daejeon Han
+ a Citizen v Kashima Antlers\n🏆 AFC Champions League Elite — Matchday 
+ 7\n🗓 Tue 09 Feb 2027 · 11:00 UTC\n🏟 Daejeon World Cup Stadium, Daej
+ eon\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: دايجيون سيتيزن ضد كاشيما أ
+ نتليرز — دوري أبطال آسيا للنخبة | Tomorrow: Dae
+ jeon Hana Citizen vs Kashima Antlers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: دايجي
+ ون سيتيزن × كاشيما أنتليرز | Kick-off in 30 min: Dae
+ jeon Hana Citizen vs Kashima Antlers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050037@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270216T110000Z
+DTEND:20270216T130000Z
+SUMMARY:Kashima Antlers vs Ratchaburi FC — AFC Champions League Elite
+LOCATION:Mercari Stadium\, Kashima\, Japan
+GEO:35.991897;140.640192
+URL:https://www.fotmob.com/match/6050037
+DESCRIPTION:⚽ كاشيما أنتليرز × راتشابوري\n🏆 د
+ وري أبطال آسيا للنخبة — الجولة 8\n🗓 الثل
+ اثاء 16 فبراير 2027 · 14:00 بتوقيت الرياض\n🏟 Mer
+ cari Stadium، Kashima\n—————\n⚽ Kashima Antlers v Ratchaburi 
+ FC\n🏆 AFC Champions League Elite — Matchday 8\n🗓 Tue 16 Feb 2027 
+ · 11:00 UTC\n🏟 Mercari Stadium, Kashima\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كاشيما أنتليرز ضد راتشابور
+ ي — دوري أبطال آسيا للنخبة | Tomorrow: Kashima Antle
+ rs vs Ratchaburi FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاشيم
+ ا أنتليرز × راتشابوري | Kick-off in 30 min: Kashima Antl
+ ers vs Ratchaburi FC
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,216 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Port Vale — FA Cup Fixtures | Port Vale — مباريا
+ ت كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Port Vale — all matches in FA Cup\, exact UTC kickoffs\, sta
+ diums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10Z.
+   •  Port Vale — جميع المباريات في كأس الاتحا
+ د الإنجليزي بتوقيت UTC الدقيق مع الملاعب و
+ القنوات الناقلة. المصدر: FotMob + 365scores · تحد
+ يث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010652@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251102T150000Z
+DTEND:20251102T170000Z
+SUMMARY:Port Vale vs Maldon & Tiptree (5 - 1) — FA Cup
+LOCATION:Vale Park\, Stoke-on-Trent\, Staffordshire\, England
+GEO:53.050078;-2.192644
+URL:https://www.fotmob.com/match/5010652
+DESCRIPTION:⚽ Port Vale × Maldon & Tiptree (5 - 1)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الأول\n🗓 الأحد 2 ن
+ وفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Vale Park، Stoke
+ -on-Trent, Staffordshire\n⚖️ الحكم: Richard Eley\n👥 الحضو
+ ر: 4,551\n—————\n⚽ Port Vale v Maldon & Tiptree (5 - 1)\n🏆
+  FA Cup — Round 1\n🗓 Sun 02 Nov 2025 · 15:00 UTC\n🏟 Vale Park, St
+ oke-on-Trent, Staffordshire\nReferee: Richard Eley\nAttendance: 4,551\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Port Vale ضد Maldon & Tiptree — كأس الا
+ تحاد الإنجليزي | Tomorrow: Port Vale vs Maldon & Tiptree
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Port Vale 
+ × Maldon & Tiptree | Kick-off in 30 min: Port Vale vs Maldon & Tiptree
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5041960@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Port Vale vs Bristol Rovers (1 - 0) — FA Cup
+LOCATION:Vale Park\, Stoke-on-Trent\, Staffordshire\, England
+GEO:53.050078;-2.192644
+URL:https://www.fotmob.com/match/5041960
+DESCRIPTION:⚽ Port Vale × Bristol Rovers (1 - 0)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الثاني\n🗓 السبت 6 د
+ يسمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Vale Park، Stoke
+ -on-Trent, Staffordshire\n⚖️ الحكم: Ross Joyce\n👥 الحضور
+ : 3,227\n—————\n⚽ Port Vale v Bristol Rovers (1 - 0)\n🏆 FA 
+ Cup — Round 2\n🗓 Sat 06 Dec 2025 · 15:00 UTC\n🏟 Vale Park, Stoke-
+ on-Trent, Staffordshire\nReferee: Ross Joyce\nAttendance: 3,227\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Port Vale ضد Bristol Rovers — كأس الات
+ حاد الإنجليزي | Tomorrow: Port Vale vs Bristol Rovers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Port Vale 
+ × Bristol Rovers | Kick-off in 30 min: Port Vale vs Bristol Rovers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089896@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260109T193000Z
+DTEND:20260109T213000Z
+SUMMARY:Port Vale vs Fleetwood Town (1 - 0) — FA Cup
+LOCATION:Vale Park\, Stoke-on-Trent\, Staffordshire\, England
+GEO:53.050078;-2.192644
+URL:https://www.fotmob.com/match/5089896
+DESCRIPTION:⚽ Port Vale × Fleetwood Town (1 - 0)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الثالث\n🗓 الجمعة 9 
+ يناير 2026 · 22:30 بتوقيت الرياض\n🏟 Vale Park، Stoke
+ -on-Trent, Staffordshire\n⚖️ الحكم: Ben Speedie\n👥 الحضو
+ ر: 3,366\n—————\n⚽ Port Vale v Fleetwood Town (1 - 0)\n🏆 F
+ A Cup — Round 3\n🗓 Fri 09 Jan 2026 · 19:30 UTC\n🏟 Vale Park, Stok
+ e-on-Trent, Staffordshire\nReferee: Ben Speedie\nAttendance: 3,366\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Port Vale ضد Fleetwood Town — كأس الات
+ حاد الإنجليزي | Tomorrow: Port Vale vs Fleetwood Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Port Vale 
+ × Fleetwood Town | Kick-off in 30 min: Port Vale vs Fleetwood Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135172@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260303T194500Z
+DTEND:20260303T214500Z
+SUMMARY:Port Vale vs Bristol City (1 - 0) — FA Cup
+LOCATION:Vale Park\, Stoke-on-Trent\, Staffordshire\, England
+GEO:53.050078;-2.192644
+URL:https://www.fotmob.com/match/5135172
+DESCRIPTION:⚽ Port Vale × Bristol City (1 - 0)\n🏆 كأس الاتحا
+ د الإنجليزي — الدور الرابع\n🗓 الثلاثاء 3
+  مارس 2026 · 22:45 بتوقيت الرياض\n🏟 Vale Park، Stoke-
+ on-Trent, Staffordshire\n⚖️ الحكم: Elliot Bell\n👥 الحضور
+ : 4,611\n—————\n⚽ Port Vale v Bristol City (1 - 0)\n🏆 FA Cu
+ p — Round 4\n🗓 Tue 03 Mar 2026 · 19:45 UTC\n🏟 Vale Park, Stoke-on
+ -Trent, Staffordshire\nReferee: Elliot Bell\nAttendance: 4,611\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Port Vale ضد Bristol City — كأس الاتح
+ اد الإنجليزي | Tomorrow: Port Vale vs Bristol City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Port Vale 
+ × Bristol City | Kick-off in 30 min: Port Vale vs Bristol City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5186379@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260308T133000Z
+DTEND:20260308T153000Z
+SUMMARY:Port Vale vs Sunderland (1 - 0) — FA Cup
+LOCATION:Vale Park\, Stoke-on-Trent\, Staffordshire\, England
+GEO:53.050078;-2.192644
+URL:https://www.fotmob.com/match/5186379
+DESCRIPTION:⚽ Port Vale × سندرلاند (1 - 0)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الخامس\n🗓 الأحد 8 
+ مارس 2026 · 16:30 بتوقيت الرياض\n🏟 Vale Park، Stoke-o
+ n-Trent, Staffordshire\n👥 الحضور: 10,685\n—————\n⚽ Po
+ rt Vale v Sunderland (1 - 0)\n🏆 FA Cup — Round 5\n🗓 Sun 08 Mar 202
+ 6 · 13:30 UTC\n🏟 Vale Park, Stoke-on-Trent, Staffordshire\nAttendance:
+  10,685\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Port Vale ضد سندرلاند — كأس الا
+ تحاد الإنجليزي | Tomorrow: Port Vale vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Port Vale 
+ × سندرلاند | Kick-off in 30 min: Port Vale vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5231046@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260404T161500Z
+DTEND:20260404T181500Z
+SUMMARY:Chelsea vs Port Vale (7 - 0) — FA Cup
+LOCATION:Stamford Bridge\, London\, England
+GEO:51.481712;-0.190975
+URL:https://www.fotmob.com/match/5231046
+DESCRIPTION:⚽ تشيلسي × Port Vale (7 - 0)\n🏆 كأس الاتحا
+ د الإنجليزي — ربع النهائي\n🗓 السبت 4 أبر
+ يل 2026 · 19:15 بتوقيت الرياض\n🏟 Stamford Bridge، Londo
+ n\n⚖️ الحكم: Farai Hallam\n👥 الحضور: 38,375\n———
+ ——\n⚽ Chelsea v Port Vale (7 - 0)\n🏆 FA Cup — Quarter-Finals\n
+ 🗓 Sat 04 Apr 2026 · 16:15 UTC\n🏟 Stamford Bridge, London\nReferee: 
+ Farai Hallam\nAttendance: 38,375\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد Port Vale — كأس الاتح
+ اد الإنجليزي | Tomorrow: Chelsea vs Port Vale
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × Port Vale | Kick-off in 30 min: Chelsea vs Port Vale
+END:VALARM
+END:VEVENT
+END:VCALENDAR

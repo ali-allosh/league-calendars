@@ -1,0 +1,1767 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Real Sociedad — LaLiga & UEFA Europa League & Copa del R
+ ey Fixtures | ريال سوسيداد — مباريات الدوري ال
+ إسباني والدوري الأوروبي وكأس ملك إسباني
+ ا
+X-WR-CALDESC:Real Sociedad — all matches in LaLiga & UEFA Europa League &
+  Copa del Rey\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scor
+ es · auto-updated 2026-09-05T19:31:10Z.  •  ريال سوسيداد —
+  جميع المباريات في الدوري الإسباني والدو
+ ري الأوروبي وكأس ملك إسبانيا بتوقيت UTC ال
+ دقيق مع الملاعب والقنوات الناقلة. المصدر
+ : FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5868023@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260821T190000Z
+DTEND:20260821T210000Z
+SUMMARY:Real Betis vs Real Sociedad (1 - 0) — LaLiga
+LOCATION:Estadio La Cartuja de Sevilla\, Sevilla\, Spain
+GEO:37.417209;-6.004661
+URL:https://www.fotmob.com/match/5868023
+DESCRIPTION:⚽ ريال بيتيس × ريال سوسيداد (1 - 0)\n
+ 🏆 الدوري الإسباني — الجولة 2\n🗓 الجمعة 2
+ 1 أغسطس 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio La Cart
+ uja de Sevilla، Sevilla\n⚖️ الحكم: Isidro Díaz de Mera Escudero
+ s\n👥 الحضور: 59,490\n—————\n⚽ Real Betis v Real Socie
+ dad (1 - 0)\n🏆 LaLiga — Matchday 2\n🗓 Fri 21 Aug 2026 · 19:00 UTC
+ \n🏟 Estadio La Cartuja de Sevilla, Sevilla\nReferee: Isidro Díaz de Me
+ ra Escuderos\nAttendance: 59,490\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد ريال سوسيداد 
+ — الدوري الإسباني | Tomorrow: Real Betis vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × ريال سوسيداد | Kick-off in 30 min: Real Betis vs Re
+ al Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868018@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260826T190000Z
+DTEND:20260826T210000Z
+SUMMARY:Real Madrid vs Real Sociedad (4 - 1) — LaLiga
+LOCATION:Estadio Bernabéu\, Madrid\, Spain
+GEO:40.453068;-3.688354
+URL:https://www.fotmob.com/match/5868018
+DESCRIPTION:⚽ ريال مدريد × ريال سوسيداد (4 - 1)\n
+ 🏆 الدوري الإسباني — الجولة 1\n🗓 الأربعا
+ ء 26 أغسطس 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio Ber
+ nabéu، Madrid\n⚖️ الحكم: Mateo Busquets Ferrer\n👥 الحضو
+ ر: 72,226\n—————\n⚽ Real Madrid v Real Sociedad (4 - 1)\n🏆
+  LaLiga — Matchday 1\n🗓 Wed 26 Aug 2026 · 19:00 UTC\n🏟 Estadio Be
+ rnabéu, Madrid\nReferee: Mateo Busquets Ferrer\nAttendance: 72,226\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد ريال سوسيداد 
+ — الدوري الإسباني | Tomorrow: Real Madrid vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × ريال سوسيداد | Kick-off in 30 min: Real Madrid vs R
+ eal Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868039@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T170000Z
+DTEND:20260829T190000Z
+SUMMARY:Real Sociedad vs Espanyol (2 - 1) — LaLiga
+LOCATION:Estadio Municipal de Anoeta\, Donostia-San Sebastián\, Spain
+GEO:43.301376;-1.973602
+URL:https://www.fotmob.com/match/5868039
+DESCRIPTION:⚽ ريال سوسيداد × إسبانيول (2 - 1)\n🏆 
+ الدوري الإسباني — الجولة 3\n🗓 السبت 29 أغ
+ سطس 2026 · 20:00 بتوقيت الرياض\n🏟 Estadio Municipal de 
+ Anoeta، Donostia-San Sebastián\n⚖️ الحكم: Manuel Jesús Orellan
+ a Cid\n👥 الحضور: 31,884\n—————\n⚽ Real Sociedad v Esp
+ anyol (2 - 1)\n🏆 LaLiga — Matchday 3\n🗓 Sat 29 Aug 2026 · 17:00 U
+ TC\n🏟 Estadio Municipal de Anoeta, Donostia-San Sebastián\nReferee: Ma
+ nuel Jesús Orellana Cid\nAttendance: 31,884\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد إسبانيول —
+  الدوري الإسباني | Tomorrow: Real Sociedad vs Espanyol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × إسبانيول | Kick-off in 30 min: Real Sociedad vs Es
+ panyol
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868070@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260903T190000Z
+DTEND:20260903T210000Z
+SUMMARY:Real Sociedad vs Celta Vigo (0 - 0) — LaLiga
+LOCATION:Estadio Municipal de Anoeta\, Donostia-San Sebastián\, Spain
+GEO:43.301376;-1.973602
+URL:https://www.fotmob.com/match/5868070
+DESCRIPTION:⚽ ريال سوسيداد × سيلتا فيجو (0 - 0)\n
+ 🏆 الدوري الإسباني — الجولة 6\n🗓 الخميس 3
+  سبتمبر 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio Munici
+ pal de Anoeta، Donostia-San Sebastián\n⚖️ الحكم: Víctor Garcí
+ a Verdura\n👥 الحضور: 30,364\n—————\n⚽ Real Sociedad v
+  Celta Vigo (0 - 0)\n🏆 LaLiga — Matchday 6\n🗓 Thu 03 Sep 2026 · 1
+ 9:00 UTC\n🏟 Estadio Municipal de Anoeta, Donostia-San Sebastián\nRefer
+ ee: Víctor García Verdura\nAttendance: 30,364\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد سيلتا فيجو 
+ — الدوري الإسباني | Tomorrow: Real Sociedad vs Celta Vigo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × سيلتا فيجو | Kick-off in 30 min: Real Sociedad vs
+  Celta Vigo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868044@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260907T193000Z
+DTEND:20260907T213000Z
+SUMMARY:Elche vs Real Sociedad — LaLiga
+LOCATION:Estadio Manuel Martínez Valero\, Elche\, Spain
+GEO:38.267129;-0.663300
+URL:https://www.fotmob.com/match/5868044
+DESCRIPTION:⚽ إلتشي × ريال سوسيداد\n🏆 الدوري ا
+ لإسباني — الجولة 4\n🗓 الاثنين 7 سبتمبر 2026
+  · 22:30 بتوقيت الرياض\n🏟 Estadio Manuel Martínez Valero
+ ، Elche\n📺 beIN SPORTS HD 1\n—————\n⚽ Elche v Real Socieda
+ d\n🏆 LaLiga — Matchday 4\n🗓 Mon 07 Sep 2026 · 19:30 UTC\n🏟 Est
+ adio Manuel Martínez Valero, Elche\n📺 beIN Sport 1 HD\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلتشي ضد ريال سوسيداد — ال
+ دوري الإسباني — 📺 beIN SPORTS HD 1 | Tomorrow: Elche vs R
+ eal Sociedad | TV: beIN Sport 1 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلتشي 
+ × ريال سوسيداد — 📺 beIN SPORTS HD 1 | Kick-off in 30 min:
+  Elche vs Real Sociedad | TV: beIN Sport 1 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868058@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260913T190000Z
+DTEND:20260913T210000Z
+SUMMARY:Real Sociedad vs Atlético Madrid — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868058
+DESCRIPTION:⚽ ريال سوسيداد × أتلتيكو مدريد\n🏆 
+ الدوري الإسباني — الجولة 5\n🗓 الأحد 13 سب
+ تمبر 2026 · 22:00 بتوقيت الرياض\n🏟 Reale Arena\n📺 b
+ eIN SPORTS CONNECT، beIN Sports Connect Singapore، FanCode، Now Player\
+ n—————\n⚽ Real Sociedad v Atlético Madrid\n🏆 LaLiga — Ma
+ tchday 5\n🗓 Sun 13 Sep 2026 · 19:00 UTC\n🏟 Reale Arena\n📺 beIN S
+ PORTS CONNECT, beIN Sports Connect Singapore, FanCode, Now Player\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد أتلتيكو مد
+ ريد — الدوري الإسباني — 📺 beIN SPORTS CONNECT، be
+ IN Sports Connect Singapore، FanCode، Now Player | Tomorrow: Real Socied
+ ad vs Atlético Madrid | TV: beIN SPORTS CONNECT\, beIN Sports Connect Sin
+ gapore\, FanCode\, Now Player
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × أتلتيكو مدريد — 📺 beIN SPORTS CONNECT، b
+ eIN Sports Connect Singapore، FanCode، Now Player | Kick-off in 30 min: 
+ Real Sociedad vs Atlético Madrid | TV: beIN SPORTS CONNECT\, beIN Sports 
+ Connect Singapore\, FanCode\, Now Player
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868079@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T190000Z
+DTEND:20260920T210000Z
+SUMMARY:Valencia vs Real Sociedad — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868079
+DESCRIPTION:⚽ فالنسيا × ريال سوسيداد\n🏆 الدور
+ ي الإسباني — الجولة 7\n🗓 الأحد 20 سبتمبر 20
+ 26 · 22:00 بتوقيت الرياض\n🏟 Estadio Mestalla\n————
+ —\n⚽ Valencia v Real Sociedad\n🏆 LaLiga — Matchday 7\n🗓 Sun 20
+  Sep 2026 · 19:00 UTC\n🏟 Estadio Mestalla\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد ريال سوسيداد — 
+ الدوري الإسباني | Tomorrow: Valencia vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × ريال سوسيداد | Kick-off in 30 min: Valencia vs Real Soc
+ iedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868090@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Real Sociedad vs Deportivo A Coruña — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868090
+DESCRIPTION:⚽ ريال سوسيداد × ديبورتيفو لاكورو
+ نيا\n🏆 الدوري الإسباني — الجولة 8\n🗓 الأ
+ حد 11 أكتوبر 2026 · 16:00 بتوقيت الرياض\n🏟 Reale A
+ rena\n—————\n⚽ Real Sociedad v Deportivo A Coruña\n🏆 LaLig
+ a — Matchday 8\n🗓 Sun 11 Oct 2026 · 13:00 UTC\n🏟 Reale Arena\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد ديبورتيفو 
+ لاكورونيا — الدوري الإسباني | Tomorrow: Real Soci
+ edad vs Deportivo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × ديبورتيفو لاكورونيا | Kick-off in 30 min
+ : Real Sociedad vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868096@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Málaga vs Real Sociedad — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868096
+DESCRIPTION:⚽ مالقا × ريال سوسيداد\n🏆 الدوري ا
+ لإسباني — الجولة 9\n🗓 الأحد 18 أكتوبر 2026 ·
+  16:00 بتوقيت الرياض\n🏟 Estadio La Rosaleda\n————
+ —\n⚽ Málaga v Real Sociedad\n🏆 LaLiga — Matchday 9\n🗓 Sun 18 
+ Oct 2026 · 13:00 UTC\n🏟 Estadio La Rosaleda\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد ريال سوسيداد — ال
+ دوري الإسباني | Tomorrow: Málaga vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × ريال سوسيداد | Kick-off in 30 min: Málaga vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868108@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Real Sociedad vs Levante — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868108
+DESCRIPTION:⚽ ريال سوسيداد × ليفانتي\n🏆 الدور
+ ي الإسباني — الجولة 10\n🗓 الأحد 25 أكتوبر 2
+ 026 · 17:00 بتوقيت الرياض\n🏟 Reale Arena\n—————\
+ n⚽ Real Sociedad v Levante\n🏆 LaLiga — Matchday 10\n🗓 Sun 25 Oct
+  2026 · 14:00 UTC\n🏟 Reale Arena\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد ليفانتي — 
+ الدوري الإسباني | Tomorrow: Real Sociedad vs Levante
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × ليفانتي | Kick-off in 30 min: Real Sociedad vs Leva
+ nte
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868111@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Athletic Club vs Real Sociedad — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868111
+DESCRIPTION:⚽ أتلتيك بلباو × ريال سوسيداد\n🏆 ا
+ لدوري الإسباني — الجولة 11\n🗓 الأحد 1 نوف
+ مبر 2026 · 17:00 بتوقيت الرياض\n🏟 San Mames\n———
+ ——\n⚽ Athletic Club v Real Sociedad\n🏆 LaLiga — Matchday 11\n
+ 🗓 Sun 01 Nov 2026 · 14:00 UTC\n🏟 San Mames\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد ريال سوسيد
+ اد — الدوري الإسباني | Tomorrow: Athletic Club vs Real S
+ ociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × ريال سوسيداد | Kick-off in 30 min: Athletic Cl
+ ub vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868127@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Real Sociedad vs Rayo Vallecano — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868127
+DESCRIPTION:⚽ ريال سوسيداد × رايو فاييكانو\n🏆 
+ الدوري الإسباني — الجولة 12\n🗓 الأحد 8 نو
+ فمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Reale Arena\n——
+ ———\n⚽ Real Sociedad v Rayo Vallecano\n🏆 LaLiga — Matchday 12
+ \n🗓 Sun 08 Nov 2026 · 14:00 UTC\n🏟 Reale Arena\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد رايو فاييك
+ انو — الدوري الإسباني | Tomorrow: Real Sociedad vs Rayo
+  Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × رايو فاييكانو | Kick-off in 30 min: Real Socie
+ dad vs Rayo Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868137@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Racing Santander vs Real Sociedad — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868137
+DESCRIPTION:⚽ راسينج سانتاندير × ريال سوسيداد\
+ n🏆 الدوري الإسباني — الجولة 13\n🗓 الأحد 2
+ 2 نوفمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio El Sa
+ rdinero\n—————\n⚽ Racing Santander v Real Sociedad\n🏆 LaLig
+ a — Matchday 13\n🗓 Sun 22 Nov 2026 · 14:00 UTC\n🏟 Estadio El Sard
+ inero\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد ريال س
+ وسيداد — الدوري الإسباني | Tomorrow: Racing Santande
+ r vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × ريال سوسيداد | Kick-off in 30 min: Rac
+ ing Santander vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868149@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T140000Z
+DTEND:20261129T160000Z
+SUMMARY:Real Sociedad vs Sevilla — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868149
+DESCRIPTION:⚽ ريال سوسيداد × إشبيلية\n🏆 الدور
+ ي الإسباني — الجولة 14\n🗓 الأحد 29 نوفمبر 2
+ 026 · 17:00 بتوقيت الرياض\n🏟 Reale Arena\n—————\
+ n⚽ Real Sociedad v Sevilla\n🏆 LaLiga — Matchday 14\n🗓 Sun 29 Nov
+  2026 · 14:00 UTC\n🏟 Reale Arena\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد إشبيلية — 
+ الدوري الإسباني | Tomorrow: Real Sociedad vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × إشبيلية | Kick-off in 30 min: Real Sociedad vs Sevi
+ lla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868160@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T140000Z
+DTEND:20261206T160000Z
+SUMMARY:Villarreal vs Real Sociedad — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868160
+DESCRIPTION:⚽ فياريال × ريال سوسيداد\n🏆 الدور
+ ي الإسباني — الجولة 15\n🗓 الأحد 6 ديسمبر 20
+ 26 · 17:00 بتوقيت الرياض\n🏟 Estadio de la Ceramica\n——
+ ———\n⚽ Villarreal v Real Sociedad\n🏆 LaLiga — Matchday 15\n
+ 🗓 Sun 06 Dec 2026 · 14:00 UTC\n🏟 Estadio de la Ceramica\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد ريال سوسيداد — 
+ الدوري الإسباني | Tomorrow: Villarreal vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × ريال سوسيداد | Kick-off in 30 min: Villarreal vs Real S
+ ociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868169@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T140000Z
+DTEND:20261213T160000Z
+SUMMARY:Real Sociedad vs Getafe — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868169
+DESCRIPTION:⚽ ريال سوسيداد × خيتافي\n🏆 الدوري 
+ الإسباني — الجولة 16\n🗓 الأحد 13 ديسمبر 2026
+  · 17:00 بتوقيت الرياض\n🏟 Reale Arena\n—————\n
+ ⚽ Real Sociedad v Getafe\n🏆 LaLiga — Matchday 16\n🗓 Sun 13 Dec 2
+ 026 · 14:00 UTC\n🏟 Reale Arena\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد خيتافي — ا
+ لدوري الإسباني | Tomorrow: Real Sociedad vs Getafe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × خيتافي | Kick-off in 30 min: Real Sociedad vs Getafe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868175@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T140000Z
+DTEND:20261220T160000Z
+SUMMARY:Barcelona vs Real Sociedad — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868175
+DESCRIPTION:⚽ برشلونة × ريال سوسيداد\n🏆 الدور
+ ي الإسباني — الجولة 17\n🗓 الأحد 20 ديسمبر 2
+ 026 · 17:00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n———
+ ——\n⚽ Barcelona v Real Sociedad\n🏆 LaLiga — Matchday 17\n🗓 S
+ un 20 Dec 2026 · 14:00 UTC\n🏟 Spotify Camp Nou\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد ريال سوسيداد — 
+ الدوري الإسباني | Tomorrow: Barcelona vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × ريال سوسيداد | Kick-off in 30 min: Barcelona vs Real So
+ ciedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868189@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T140000Z
+DTEND:20270103T160000Z
+SUMMARY:Real Sociedad vs Osasuna — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868189
+DESCRIPTION:⚽ ريال سوسيداد × أوساسونا\n🏆 الدو
+ ري الإسباني — الجولة 18\n🗓 الأحد 3 يناير 20
+ 27 · 17:00 بتوقيت الرياض\n🏟 Reale Arena\n—————\n
+ ⚽ Real Sociedad v Osasuna\n🏆 LaLiga — Matchday 18\n🗓 Sun 03 Jan 
+ 2027 · 14:00 UTC\n🏟 Reale Arena\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد أوساسونا —
+  الدوري الإسباني | Tomorrow: Real Sociedad vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × أوساسونا | Kick-off in 30 min: Real Sociedad vs Os
+ asuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868191@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T140000Z
+DTEND:20270110T160000Z
+SUMMARY:Deportivo Alavés vs Real Sociedad — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868191
+DESCRIPTION:⚽ ديبورتيفو ألافيس × ريال سوسيداد\
+ n🏆 الدوري الإسباني — الجولة 19\n🗓 الأحد 1
+ 0 يناير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio Mendizo
+ rroza\n—————\n⚽ Deportivo Alavés v Real Sociedad\n🏆 LaLiga
+  — Matchday 19\n🗓 Sun 10 Jan 2027 · 14:00 UTC\n🏟 Estadio Mendizor
+ roza\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد ريال س
+ وسيداد — الدوري الإسباني | Tomorrow: Deportivo Alav
+ és vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × ريال سوسيداد | Kick-off in 30 min: Dep
+ ortivo Alavés vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868201@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T140000Z
+DTEND:20270117T160000Z
+SUMMARY:Atlético Madrid vs Real Sociedad — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868201
+DESCRIPTION:⚽ أتلتيكو مدريد × ريال سوسيداد\n🏆 
+ الدوري الإسباني — الجولة 20\n🗓 الأحد 17 ين
+ اير 2027 · 17:00 بتوقيت الرياض\n🏟 Riyadh Air Metropolit
+ ano\n—————\n⚽ Atlético Madrid v Real Sociedad\n🏆 LaLiga 
+ — Matchday 20\n🗓 Sun 17 Jan 2027 · 14:00 UTC\n🏟 Riyadh Air Metrop
+ olitano\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد ريال سوسي
+ داد — الدوري الإسباني | Tomorrow: Atlético Madrid vs R
+ eal Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × ريال سوسيداد | Kick-off in 30 min: Atlético
+  Madrid vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868219@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T140000Z
+DTEND:20270124T160000Z
+SUMMARY:Real Sociedad vs Málaga — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868219
+DESCRIPTION:⚽ ريال سوسيداد × مالقا\n🏆 الدوري ا
+ لإسباني — الجولة 21\n🗓 الأحد 24 يناير 2027 · 
+ 17:00 بتوقيت الرياض\n🏟 Reale Arena\n—————\n⚽ Re
+ al Sociedad v Málaga\n🏆 LaLiga — Matchday 21\n🗓 Sun 24 Jan 2027 
+ · 14:00 UTC\n🏟 Reale Arena\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد مالقا — ال
+ دوري الإسباني | Tomorrow: Real Sociedad vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × مالقا | Kick-off in 30 min: Real Sociedad vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868225@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Levante vs Real Sociedad — LaLiga
+LOCATION:Estadio Ciudad de Valencia
+URL:https://www.fotmob.com/match/5868225
+DESCRIPTION:⚽ ليفانتي × ريال سوسيداد\n🏆 الدور
+ ي الإسباني — الجولة 22\n🗓 الأحد 31 يناير 202
+ 7 · 17:00 بتوقيت الرياض\n🏟 Estadio Ciudad de Valencia\n—
+ ————\n⚽ Levante v Real Sociedad\n🏆 LaLiga — Matchday 22\n
+ 🗓 Sun 31 Jan 2027 · 14:00 UTC\n🏟 Estadio Ciudad de Valencia\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفانتي ضد ريال سوسيداد — 
+ الدوري الإسباني | Tomorrow: Levante vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفان
+ تي × ريال سوسيداد | Kick-off in 30 min: Levante vs Real Soci
+ edad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868239@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:Real Sociedad vs Real Madrid — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868239
+DESCRIPTION:⚽ ريال سوسيداد × ريال مدريد\n🏆 الد
+ وري الإسباني — الجولة 23\n🗓 الأحد 7 فبراي
+ ر 2027 · 17:00 بتوقيت الرياض\n🏟 Reale Arena\n————
+ —\n⚽ Real Sociedad v Real Madrid\n🏆 LaLiga — Matchday 23\n🗓 Su
+ n 07 Feb 2027 · 14:00 UTC\n🏟 Reale Arena\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد ريال مدريد 
+ — الدوري الإسباني | Tomorrow: Real Sociedad vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × ريال مدريد | Kick-off in 30 min: Real Sociedad vs
+  Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868247@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T140000Z
+DTEND:20270214T160000Z
+SUMMARY:Real Sociedad vs Real Betis — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868247
+DESCRIPTION:⚽ ريال سوسيداد × ريال بيتيس\n🏆 الد
+ وري الإسباني — الجولة 24\n🗓 الأحد 14 فبراي
+ ر 2027 · 17:00 بتوقيت الرياض\n🏟 Reale Arena\n————
+ —\n⚽ Real Sociedad v Real Betis\n🏆 LaLiga — Matchday 24\n🗓 Sun
+  14 Feb 2027 · 14:00 UTC\n🏟 Reale Arena\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد ريال بيتيس 
+ — الدوري الإسباني | Tomorrow: Real Sociedad vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × ريال بيتيس | Kick-off in 30 min: Real Sociedad vs
+  Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868254@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T140000Z
+DTEND:20270221T160000Z
+SUMMARY:Deportivo A Coruña vs Real Sociedad — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868254
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × ريال سوسي
+ داد\n🏆 الدوري الإسباني — الجولة 25\n🗓 ال
+ أحد 21 فبراير 2027 · 17:00 بتوقيت الرياض\n🏟 Abanc
+ a-Riazor\n—————\n⚽ Deportivo A Coruña v Real Sociedad\n🏆 L
+ aLiga — Matchday 25\n🗓 Sun 21 Feb 2027 · 14:00 UTC\n🏟 Abanca-Riaz
+ or\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد ريا
+ ل سوسيداد — الدوري الإسباني | Tomorrow: Deportivo 
+ A Coruña vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × ريال سوسيداد | Kick-off in 30 mi
+ n: Deportivo A Coruña vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868270@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T140000Z
+DTEND:20270228T160000Z
+SUMMARY:Real Sociedad vs Elche — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868270
+DESCRIPTION:⚽ ريال سوسيداد × إلتشي\n🏆 الدوري ا
+ لإسباني — الجولة 26\n🗓 الأحد 28 فبراير 2027 
+ · 17:00 بتوقيت الرياض\n🏟 Reale Arena\n—————\n⚽
+  Real Sociedad v Elche\n🏆 LaLiga — Matchday 26\n🗓 Sun 28 Feb 2027 
+ · 14:00 UTC\n🏟 Reale Arena\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد إلتشي — ال
+ دوري الإسباني | Tomorrow: Real Sociedad vs Elche
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × إلتشي | Kick-off in 30 min: Real Sociedad vs Elche
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868278@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T140000Z
+DTEND:20270307T160000Z
+SUMMARY:Sevilla vs Real Sociedad — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868278
+DESCRIPTION:⚽ إشبيلية × ريال سوسيداد\n🏆 الدور
+ ي الإسباني — الجولة 27\n🗓 الأحد 7 مارس 2027 
+ · 17:00 بتوقيت الرياض\n🏟 Estadio R. Sanchez Pizjuan\n—
+ ————\n⚽ Sevilla v Real Sociedad\n🏆 LaLiga — Matchday 27\n
+ 🗓 Sun 07 Mar 2027 · 14:00 UTC\n🏟 Estadio R. Sanchez Pizjuan\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد ريال سوسيداد — 
+ الدوري الإسباني | Tomorrow: Sevilla vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × ريال سوسيداد | Kick-off in 30 min: Sevilla vs Real Soci
+ edad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868286@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T140000Z
+DTEND:20270314T160000Z
+SUMMARY:Getafe vs Real Sociedad — LaLiga
+LOCATION:Coliseum
+URL:https://www.fotmob.com/match/5868286
+DESCRIPTION:⚽ خيتافي × ريال سوسيداد\n🏆 الدوري 
+ الإسباني — الجولة 28\n🗓 الأحد 14 مارس 2027 · 
+ 17:00 بتوقيت الرياض\n🏟 Coliseum\n—————\n⚽ Getaf
+ e v Real Sociedad\n🏆 LaLiga — Matchday 28\n🗓 Sun 14 Mar 2027 · 14
+ :00 UTC\n🏟 Coliseum\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: خيتافي ضد ريال سوسيداد — ا
+ لدوري الإسباني | Tomorrow: Getafe vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: خيتاف
+ ي × ريال سوسيداد | Kick-off in 30 min: Getafe vs Real Socieda
+ d
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868297@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T140000Z
+DTEND:20270321T160000Z
+SUMMARY:Real Sociedad vs Deportivo Alavés — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868297
+DESCRIPTION:⚽ ريال سوسيداد × ديبورتيفو ألافيس\
+ n🏆 الدوري الإسباني — الجولة 29\n🗓 الأحد 2
+ 1 مارس 2027 · 17:00 بتوقيت الرياض\n🏟 Reale Arena\n—
+ ————\n⚽ Real Sociedad v Deportivo Alavés\n🏆 LaLiga — Match
+ day 29\n🗓 Sun 21 Mar 2027 · 14:00 UTC\n🏟 Reale Arena\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد ديبورتيفو 
+ ألافيس — الدوري الإسباني | Tomorrow: Real Sociedad v
+ s Deportivo Alavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × ديبورتيفو ألافيس | Kick-off in 30 min: Real
+  Sociedad vs Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868310@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T130000Z
+DTEND:20270404T150000Z
+SUMMARY:Real Sociedad vs Valencia — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868310
+DESCRIPTION:⚽ ريال سوسيداد × فالنسيا\n🏆 الدور
+ ي الإسباني — الجولة 30\n🗓 الأحد 4 أبريل 2027
+  · 16:00 بتوقيت الرياض\n🏟 Reale Arena\n—————\n
+ ⚽ Real Sociedad v Valencia\n🏆 LaLiga — Matchday 30\n🗓 Sun 04 Apr
+  2027 · 13:00 UTC\n🏟 Reale Arena\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد فالنسيا — 
+ الدوري الإسباني | Tomorrow: Real Sociedad vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × فالنسيا | Kick-off in 30 min: Real Sociedad vs Vale
+ ncia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868317@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T130000Z
+DTEND:20270411T150000Z
+SUMMARY:Rayo Vallecano vs Real Sociedad — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868317
+DESCRIPTION:⚽ رايو فاييكانو × ريال سوسيداد\n🏆 
+ الدوري الإسباني — الجولة 31\n🗓 الأحد 11 أب
+ ريل 2027 · 16:00 بتوقيت الرياض\n🏟 Campo de Futbol de Va
+ llecas\n—————\n⚽ Rayo Vallecano v Real Sociedad\n🏆 LaLiga 
+ — Matchday 31\n🗓 Sun 11 Apr 2027 · 13:00 UTC\n🏟 Campo de Futbol d
+ e Vallecas\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد ريال سوسي
+ داد — الدوري الإسباني | Tomorrow: Rayo Vallecano vs Rea
+ l Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × ريال سوسيداد | Kick-off in 30 min: Rayo Valle
+ cano vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868330@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T130000Z
+DTEND:20270418T150000Z
+SUMMARY:Real Sociedad vs Racing Santander — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868330
+DESCRIPTION:⚽ ريال سوسيداد × راسينج سانتاندير\
+ n🏆 الدوري الإسباني — الجولة 32\n🗓 الأحد 1
+ 8 أبريل 2027 · 16:00 بتوقيت الرياض\n🏟 Reale Arena\n
+ —————\n⚽ Real Sociedad v Racing Santander\n🏆 LaLiga — Mat
+ chday 32\n🗓 Sun 18 Apr 2027 · 13:00 UTC\n🏟 Reale Arena\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد راسينج سان
+ تاندير — الدوري الإسباني | Tomorrow: Real Sociedad v
+ s Racing Santander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × راسينج سانتاندير | Kick-off in 30 min: Real
+  Sociedad vs Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868333@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270421T130000Z
+DTEND:20270421T150000Z
+SUMMARY:Espanyol vs Real Sociedad — LaLiga
+LOCATION:RCDE Stadium
+URL:https://www.fotmob.com/match/5868333
+DESCRIPTION:⚽ إسبانيول × ريال سوسيداد\n🏆 الدو
+ ري الإسباني — الجولة 33\n🗓 الأربعاء 21 أبر
+ يل 2027 · 16:00 بتوقيت الرياض\n🏟 RCDE Stadium\n———
+ ——\n⚽ Espanyol v Real Sociedad\n🏆 LaLiga — Matchday 33\n🗓 We
+ d 21 Apr 2027 · 13:00 UTC\n🏟 RCDE Stadium\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إسبانيول ضد ريال سوسيداد —
+  الدوري الإسباني | Tomorrow: Espanyol vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إسبان
+ يول × ريال سوسيداد | Kick-off in 30 min: Espanyol vs Real S
+ ociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868350@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T130000Z
+DTEND:20270502T150000Z
+SUMMARY:Real Sociedad vs Athletic Club — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868350
+DESCRIPTION:⚽ ريال سوسيداد × أتلتيك بلباو\n🏆 ا
+ لدوري الإسباني — الجولة 34\n🗓 الأحد 2 ماي
+ و 2027 · 16:00 بتوقيت الرياض\n🏟 Reale Arena\n————
+ —\n⚽ Real Sociedad v Athletic Club\n🏆 LaLiga — Matchday 34\n🗓 
+ Sun 02 May 2027 · 13:00 UTC\n🏟 Reale Arena\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد أتلتيك بلب
+ او — الدوري الإسباني | Tomorrow: Real Sociedad vs Athlet
+ ic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × أتلتيك بلباو | Kick-off in 30 min: Real Socieda
+ d vs Athletic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868355@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T130000Z
+DTEND:20270509T150000Z
+SUMMARY:Osasuna vs Real Sociedad — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868355
+DESCRIPTION:⚽ أوساسونا × ريال سوسيداد\n🏆 الدو
+ ري الإسباني — الجولة 35\n🗓 الأحد 9 مايو 2027
+  · 16:00 بتوقيت الرياض\n🏟 Estadio El Sadar\n————
+ —\n⚽ Osasuna v Real Sociedad\n🏆 LaLiga — Matchday 35\n🗓 Sun 09
+  May 2027 · 13:00 UTC\n🏟 Estadio El Sadar\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد ريال سوسيداد —
+  الدوري الإسباني | Tomorrow: Osasuna vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × ريال سوسيداد | Kick-off in 30 min: Osasuna vs Real So
+ ciedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868369@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T130000Z
+DTEND:20270516T150000Z
+SUMMARY:Real Sociedad vs Barcelona — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868369
+DESCRIPTION:⚽ ريال سوسيداد × برشلونة\n🏆 الدور
+ ي الإسباني — الجولة 36\n🗓 الأحد 16 مايو 2027 
+ · 16:00 بتوقيت الرياض\n🏟 Reale Arena\n—————\n⚽
+  Real Sociedad v Barcelona\n🏆 LaLiga — Matchday 36\n🗓 Sun 16 May 2
+ 027 · 13:00 UTC\n🏟 Reale Arena\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد برشلونة — 
+ الدوري الإسباني | Tomorrow: Real Sociedad vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × برشلونة | Kick-off in 30 min: Real Sociedad vs Barc
+ elona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868373@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T130000Z
+DTEND:20270523T150000Z
+SUMMARY:Celta Vigo vs Real Sociedad — LaLiga
+LOCATION:Abanca Balaidos
+URL:https://www.fotmob.com/match/5868373
+DESCRIPTION:⚽ سيلتا فيجو × ريال سوسيداد\n🏆 الد
+ وري الإسباني — الجولة 37\n🗓 الأحد 23 مايو 2
+ 027 · 16:00 بتوقيت الرياض\n🏟 Abanca Balaidos\n————
+ —\n⚽ Celta Vigo v Real Sociedad\n🏆 LaLiga — Matchday 37\n🗓 Sun
+  23 May 2027 · 13:00 UTC\n🏟 Abanca Balaidos\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتا فيجو ضد ريال سوسيداد 
+ — الدوري الإسباني | Tomorrow: Celta Vigo vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتا 
+ فيجو × ريال سوسيداد | Kick-off in 30 min: Celta Vigo vs Re
+ al Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868390@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T130000Z
+DTEND:20270530T150000Z
+SUMMARY:Real Sociedad vs Villarreal — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868390
+DESCRIPTION:⚽ ريال سوسيداد × فياريال\n🏆 الدور
+ ي الإسباني — الجولة 38\n🗓 الأحد 30 مايو 2027 
+ · 16:00 بتوقيت الرياض\n🏟 Reale Arena\n—————\n⚽
+  Real Sociedad v Villarreal\n🏆 LaLiga — Matchday 38\n🗓 Sun 30 May 
+ 2027 · 13:00 UTC\n🏟 Reale Arena\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد فياريال — 
+ الدوري الإسباني | Tomorrow: Real Sociedad vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × فياريال | Kick-off in 30 min: Real Sociedad vs Vill
+ arreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112272@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260917T190000Z
+DTEND:20260917T210000Z
+SUMMARY:Real Sociedad vs AFC Bournemouth — UEFA Europa League
+LOCATION:Estadio Municipal de Anoeta\, Donostia-San Sebastián\, Spain
+GEO:43.301376;-1.973602
+URL:https://www.fotmob.com/match/6112272
+DESCRIPTION:⚽ ريال سوسيداد × بورنموث\n🏆 الدور
+ ي الأوروبي — الجولة 1\n🗓 الخميس 17 سبتمبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio Municipal de Anoeta
+ ، Donostia-San Sebastián\n—————\n⚽ Real Sociedad v AFC Bourn
+ emouth\n🏆 UEFA Europa League — Matchday 1\n🗓 Thu 17 Sep 2026 · 19
+ :00 UTC\n🏟 Estadio Municipal de Anoeta, Donostia-San Sebastián\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد بورنموث — 
+ الدوري الأوروبي | Tomorrow: Real Sociedad vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × بورنموث | Kick-off in 30 min: Real Sociedad vs AFC 
+ Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112286@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:Union St.Gilloise vs Real Sociedad — UEFA Europa League
+LOCATION:Stade Joseph Mariën\, Bruxelles (Brussels)\, Belgium
+GEO:50.817764;4.329295
+URL:https://www.fotmob.com/match/6112286
+DESCRIPTION:⚽ يونيون سانت جيلواز × ريال سوسيدا
+ د\n🏆 الدوري الأوروبي — الجولة 2\n🗓 الخمي
+ س 15 أكتوبر 2026 · 19:45 بتوقيت الرياض\n🏟 Stade Jos
+ eph Mariën، Bruxelles (Brussels)\n—————\n⚽ Union St.Gilloise
+  v Real Sociedad\n🏆 UEFA Europa League — Matchday 2\n🗓 Thu 15 Oct 
+ 2026 · 16:45 UTC\n🏟 Stade Joseph Mariën, Bruxelles (Brussels)\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون سانت جيلواز ضد ريال 
+ سوسيداد — الدوري الأوروبي | Tomorrow: Union St.Gill
+ oise vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن سانت جيلواز × ريال سوسيداد | Kick-off in 30 min: 
+ Union St.Gilloise vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112374@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Lillestrøm vs Real Sociedad — UEFA Europa League
+LOCATION:Åråsen Stadion\, Kjeller\, Norway
+GEO:59.962758;11.063527
+URL:https://www.fotmob.com/match/6112374
+DESCRIPTION:⚽ ليلستروم × ريال سوسيداد\n🏆 الدو
+ ري الأوروبي — الجولة 3\n🗓 الخميس 22 أكتوب
+ ر 2026 · 22:00 بتوقيت الرياض\n🏟 Åråsen Stadion، Kjelle
+ r\n—————\n⚽ Lillestrøm v Real Sociedad\n🏆 UEFA Europa Leag
+ ue — Matchday 3\n🗓 Thu 22 Oct 2026 · 19:00 UTC\n🏟 Åråsen Stadio
+ n, Kjeller\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليلستروم ضد ريال سوسيداد —
+  الدوري الأوروبي | Tomorrow: Lillestrøm vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليلست
+ روم × ريال سوسيداد | Kick-off in 30 min: Lillestrøm vs Rea
+ l Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112270@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:Real Sociedad vs Lyon — UEFA Europa League
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/6112270
+DESCRIPTION:⚽ ريال سوسيداد × أولمبيك ليون\n🏆 ا
+ لدوري الأوروبي — الجولة 4\n🗓 الخميس 5 نوف
+ مبر 2026 · 20:45 بتوقيت الرياض\n🏟 Reale Arena\n——
+ ———\n⚽ Real Sociedad v Lyon\n🏆 UEFA Europa League — Matchday 
+ 4\n🗓 Thu 05 Nov 2026 · 17:45 UTC\n🏟 Reale Arena\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد أولمبيك لي
+ ون — الدوري الأوروبي | Tomorrow: Real Sociedad vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × أولمبيك ليون | Kick-off in 30 min: Real Socieda
+ d vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112322@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Crystal Palace vs Real Sociedad — UEFA Europa League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/6112322
+DESCRIPTION:⚽ كريستال بالاس × ريال سوسيداد\n🏆 
+ الدوري الأوروبي — الجولة 5\n🗓 الخميس 26 ن
+ وفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Selhurst Park\n
+ —————\n⚽ Crystal Palace v Real Sociedad\n🏆 UEFA Europa Leag
+ ue — Matchday 5\n🗓 Thu 26 Nov 2026 · 20:00 UTC\n🏟 Selhurst Park\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد ريال سوسي
+ داد — الدوري الأوروبي | Tomorrow: Crystal Palace vs Rea
+ l Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × ريال سوسيداد | Kick-off in 30 min: Crystal P
+ alace vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112273@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:Real Sociedad vs Torreense — UEFA Europa League
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/6112273
+DESCRIPTION:⚽ ريال سوسيداد × توريينسي\n🏆 الدو
+ ري الأوروبي — الجولة 6\n🗓 الخميس 10 ديسمب
+ ر 2026 · 23:00 بتوقيت الرياض\n🏟 Reale Arena\n————
+ —\n⚽ Real Sociedad v Torreense\n🏆 UEFA Europa League — Matchday 6
+ \n🗓 Thu 10 Dec 2026 · 20:00 UTC\n🏟 Reale Arena\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد توريينسي —
+  الدوري الأوروبي | Tomorrow: Real Sociedad vs Torreense
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × توريينسي | Kick-off in 30 min: Real Sociedad vs To
+ rreense
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112271@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T174500Z
+DTEND:20270121T194500Z
+SUMMARY:Real Sociedad vs Viktoria Plzeň — UEFA Europa League
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/6112271
+DESCRIPTION:⚽ ريال سوسيداد × فيكتوريا بلزن\n🏆 
+ الدوري الأوروبي — الجولة 7\n🗓 الخميس 21 ي
+ ناير 2027 · 20:45 بتوقيت الرياض\n🏟 Reale Arena\n——
+ ———\n⚽ Real Sociedad v Viktoria Plzeň\n🏆 UEFA Europa League 
+ — Matchday 7\n🗓 Thu 21 Jan 2027 · 17:45 UTC\n🏟 Reale Arena\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد فيكتوريا ب
+ لزن — الدوري الأوروبي | Tomorrow: Real Sociedad vs Vikt
+ oria Plzeň
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × فيكتوريا بلزن | Kick-off in 30 min: Real Socie
+ dad vs Viktoria Plzeň
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112250@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Juventus vs Real Sociedad — UEFA Europa League
+LOCATION:Allianz Stadium
+URL:https://www.fotmob.com/match/6112250
+DESCRIPTION:⚽ يوفنتوس × ريال سوسيداد\n🏆 الدور
+ ي الأوروبي — الجولة 8\n🗓 الخميس 28 يناير 20
+ 27 · 23:00 بتوقيت الرياض\n🏟 Allianz Stadium\n————
+ —\n⚽ Juventus v Real Sociedad\n🏆 UEFA Europa League — Matchday 8\
+ n🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 Allianz Stadium\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد ريال سوسيداد — 
+ الدوري الأوروبي | Tomorrow: Juventus vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × ريال سوسيداد | Kick-off in 30 min: Juventus vs Real Soc
+ iedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-4995989@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251028T200000Z
+DTEND:20251028T220000Z
+SUMMARY:Negreira vs Real Sociedad (0 - 3) — Copa del Rey
+LOCATION:Estadio Xesús García Calvo\, Negreira\, Spain
+GEO:42.917664;-8.740954
+URL:https://www.fotmob.com/match/4995989
+DESCRIPTION:⚽ Negreira × ريال سوسيداد (0 - 3)\n🏆 كأس م
+ لك إسبانيا — الدور الأول\n🗓 الثلاثاء 28 أ
+ كتوبر 2025 · 23:00 بتوقيت الرياض\n🏟 Estadio Xesús Ga
+ rcía Calvo، Negreira\n⚖️ الحكم: Isidro Díaz de Mera Escuderos\
+ n👥 الحضور: 3,000\n—————\n⚽ Negreira v Real Sociedad (
+ 0 - 3)\n🏆 Copa del Rey — Round 1\n🗓 Tue 28 Oct 2025 · 20:00 UTC\n
+ 🏟 Estadio Xesús García Calvo, Negreira\nReferee: Isidro Díaz de Mera
+  Escuderos\nAttendance: 3,000\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Negreira ضد ريال سوسيداد — كأس 
+ ملك إسبانيا | Tomorrow: Negreira vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Negreira ×
+  ريال سوسيداد | Kick-off in 30 min: Negreira vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057232@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251203T200000Z
+DTEND:20251203T220000Z
+SUMMARY:Reus vs Real Sociedad (0 - 2) — Copa del Rey
+LOCATION:Estadio Camp Nou Municipal\, Reus\, Spain
+GEO:41.156355;1.086391
+URL:https://www.fotmob.com/match/5057232
+DESCRIPTION:⚽ Reus × ريال سوسيداد (0 - 2)\n🏆 كأس ملك
+  إسبانيا — الدور الثاني\n🗓 الأربعاء 3 دي
+ سمبر 2025 · 23:00 بتوقيت الرياض\n🏟 Estadio Camp Nou Mu
+ nicipal، Reus\n⚖️ الحكم: Juan Martínez Munuera\n👥 الحضو
+ ر: 4,500\n—————\n⚽ Reus v Real Sociedad (0 - 2)\n🏆 Copa de
+ l Rey — Round 2\n🗓 Wed 03 Dec 2025 · 20:00 UTC\n🏟 Estadio Camp No
+ u Municipal, Reus\nReferee: Juan Martínez Munuera\nAttendance: 4,500\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Reus ضد ريال سوسيداد — كأس مل
+ ك إسبانيا | Tomorrow: Reus vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Reus × ر
+ يال سوسيداد | Kick-off in 30 min: Reus vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5091462@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251216T200000Z
+DTEND:20251216T220000Z
+SUMMARY:Eldense vs Real Sociedad (1 - 2) — Copa del Rey
+LOCATION:Estadio Municipal Nuevo Pepico Amat\, Elda\, Spain
+GEO:38.467446;-0.796106
+URL:https://www.fotmob.com/match/5091462
+DESCRIPTION:⚽ إلدينسي × ريال سوسيداد (1 - 2)\n🏆 ك
+ أس ملك إسبانيا — دور الـ32\n🗓 الثلاثاء 16 
+ ديسمبر 2025 · 23:00 بتوقيت الرياض\n🏟 Estadio Municip
+ al Nuevo Pepico Amat، Elda\n👥 الحضور: 3,392\n—————\n
+ ⚽ Eldense v Real Sociedad (1 - 2)\n🏆 Copa del Rey — Round of 32\n
+ 🗓 Tue 16 Dec 2025 · 20:00 UTC\n🏟 Estadio Municipal Nuevo Pepico Ama
+ t, Elda\nAttendance: 3,392\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلدينسي ضد ريال سوسيداد — 
+ كأس ملك إسبانيا | Tomorrow: Eldense vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلدين
+ سي × ريال سوسيداد | Kick-off in 30 min: Eldense vs Real Soci
+ edad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5125328@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260113T200000Z
+DTEND:20260113T220000Z
+SUMMARY:Real Sociedad vs Osasuna (2 - 2) — Copa del Rey
+LOCATION:Estadio Municipal de Anoeta\, Donostia-San Sebastián\, Spain
+GEO:43.301376;-1.973602
+URL:https://www.fotmob.com/match/5125328
+DESCRIPTION:⚽ ريال سوسيداد × أوساسونا (2 - 2)\n🏆 
+ كأس ملك إسبانيا — دور الـ16\n🗓 الثلاثاء 13
+  يناير 2026 · 23:00 بتوقيت الرياض\n🏟 Estadio Municipa
+ l de Anoeta، Donostia-San Sebastián\n👥 الحضور: 30,147\n——
+ ———\n⚽ Real Sociedad v Osasuna (2 - 2)\n🏆 Copa del Rey — Roun
+ d of 16\n🗓 Tue 13 Jan 2026 · 20:00 UTC\n🏟 Estadio Municipal de Anoe
+ ta, Donostia-San Sebastián\nAttendance: 30,147\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد أوساسونا —
+  كأس ملك إسبانيا | Tomorrow: Real Sociedad vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × أوساسونا | Kick-off in 30 min: Real Sociedad vs Os
+ asuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5144837@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260204T200000Z
+DTEND:20260204T220000Z
+SUMMARY:Deportivo Alavés vs Real Sociedad (2 - 3) — Copa del Rey
+LOCATION:Estadio de Mendizorroza\, Vitoria-Gasteiz\, Spain
+GEO:42.837076;-2.688247
+URL:https://www.fotmob.com/match/5144837
+DESCRIPTION:⚽ ديبورتيفو ألافيس × ريال سوسيداد 
+ (2 - 3)\n🏆 كأس ملك إسبانيا — ربع النهائي\n🗓
+  الأربعاء 4 فبراير 2026 · 23:00 بتوقيت الرياض\n
+ 🏟 Estadio de Mendizorroza، Vitoria-Gasteiz\n⚖️ الحكم: Alejand
+ ro Quintero González\n👥 الحضور: 18,874\n—————\n⚽ Dep
+ ortivo Alavés v Real Sociedad (2 - 3)\n🏆 Copa del Rey — Quarter-Fina
+ ls\n🗓 Wed 04 Feb 2026 · 20:00 UTC\n🏟 Estadio de Mendizorroza, Vitor
+ ia-Gasteiz\nReferee: Alejandro Quintero González\nAttendance: 18,874\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد ريال س
+ وسيداد — كأس ملك إسبانيا | Tomorrow: Deportivo Alavé
+ s vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × ريال سوسيداد | Kick-off in 30 min: Dep
+ ortivo Alavés vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5173358@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260211T200000Z
+DTEND:20260211T220000Z
+SUMMARY:Athletic Club vs Real Sociedad (0 - 1) — Copa del Rey
+LOCATION:Estadio de San Mamés\, Bilbao\, Spain
+GEO:43.264173;-2.949383
+URL:https://www.fotmob.com/match/5173358
+DESCRIPTION:⚽ أتلتيك بلباو × ريال سوسيداد (0 - 1)\
+ n🏆 كأس ملك إسبانيا — نصف النهائي\n🗓 الأ
+ ربعاء 11 فبراير 2026 · 23:00 بتوقيت الرياض\n🏟 E
+ stadio de San Mamés، Bilbao\n⚖️ الحكم: José María Sánchez Ma
+ rtínez\n👥 الحضور: 51,281\n—————\n⚽ Athletic Club v R
+ eal Sociedad (0 - 1)\n🏆 Copa del Rey — Semi-Finals\n🗓 Wed 11 Feb 2
+ 026 · 20:00 UTC\n🏟 Estadio de San Mamés, Bilbao\nReferee: José Marí
+ a Sánchez Martínez\nAttendance: 51,281\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد ريال سوسيد
+ اد — كأس ملك إسبانيا | Tomorrow: Athletic Club vs Real So
+ ciedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × ريال سوسيداد | Kick-off in 30 min: Athletic Cl
+ ub vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5173359@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260304T200000Z
+DTEND:20260304T220000Z
+SUMMARY:Real Sociedad vs Athletic Club (1 - 0) — Copa del Rey
+LOCATION:Estadio Municipal de Anoeta\, Donostia-San Sebastián\, Spain
+GEO:43.301376;-1.973602
+URL:https://www.fotmob.com/match/5173359
+DESCRIPTION:⚽ ريال سوسيداد × أتلتيك بلباو (1 - 0)\
+ n🏆 كأس ملك إسبانيا — نصف النهائي\n🗓 الأ
+ ربعاء 4 مارس 2026 · 23:00 بتوقيت الرياض\n🏟 Estadi
+ o Municipal de Anoeta، Donostia-San Sebastián\n⚖️ الحكم: César
+  Soto Grado\n👥 الحضور: 38,738\n—————\n⚽ Real Sociedad
+  v Athletic Club (1 - 0)\n🏆 Copa del Rey — Semi-Finals\n🗓 Wed 04 M
+ ar 2026 · 20:00 UTC\n🏟 Estadio Municipal de Anoeta, Donostia-San Sebas
+ tián\nReferee: César Soto Grado\nAttendance: 38,738\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد أتلتيك بلب
+ او — كأس ملك إسبانيا | Tomorrow: Real Sociedad vs Athleti
+ c Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × أتلتيك بلباو | Kick-off in 30 min: Real Socieda
+ d vs Athletic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5173387@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260418T190000Z
+DTEND:20260418T210000Z
+SUMMARY:Atlético Madrid vs Real Sociedad (2 - 2) — Copa del Rey
+LOCATION:Estadio La Cartuja de Sevilla\, Sevilla\, Spain
+GEO:37.417209;-6.004661
+URL:https://www.fotmob.com/match/5173387
+DESCRIPTION:⚽ أتلتيكو مدريد × ريال سوسيداد (2 - 2
+ )\n🏆 كأس ملك إسبانيا — النهائي\n🗓 السبت 1
+ 8 أبريل 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio La Cart
+ uja de Sevilla، Sevilla\n⚖️ الحكم: Javier Alberola Rojas\n👥 
+ الحضور: 70,000\n—————\n⚽ Atlético Madrid v Real Socieda
+ d (2 - 2)\n🏆 Copa del Rey — Final\n🗓 Sat 18 Apr 2026 · 19:00 UTC\
+ n🏟 Estadio La Cartuja de Sevilla, Sevilla\nReferee: Javier Alberola Roj
+ as\nAttendance: 70,000\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد ريال سوسي
+ داد — كأس ملك إسبانيا | Tomorrow: Atlético Madrid vs Re
+ al Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × ريال سوسيداد | Kick-off in 30 min: Atlético
+  Madrid vs Real Sociedad
+END:VALARM
+END:VEVENT
+END:VCALENDAR

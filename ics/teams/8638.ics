@@ -1,0 +1,272 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Olympiacos — UEFA Europa League Fixtures | أولمبي
+ اكوس — مباريات الدوري الأوروبي
+X-WR-CALDESC:Olympiacos — all matches in UEFA Europa League\, exact UTC k
+ ickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-
+ 05T19:31:10Z.  •  أولمبياكوس — جميع المباريات 
+ في الدوري الأوروبي بتوقيت UTC الدقيق مع ال
+ ملاعب والقنوات الناقلة. المصدر: FotMob + 365scor
+ es · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6112268@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T190000Z
+DTEND:20260916T210000Z
+SUMMARY:Olympiacos vs Jagiellonia Białystok — UEFA Europa League
+LOCATION:Stadio Georgios Karaiskákis\, Pireás (Piraeus)\, Greece
+GEO:37.946431;23.664384
+URL:https://www.fotmob.com/match/6112268
+DESCRIPTION:⚽ أولمبياكوس × ياغييلونيا بياويست
+ وك\n🏆 الدوري الأوروبي — الجولة 1\n🗓 الأر
+ بعاء 16 سبتمبر 2026 · 22:00 بتوقيت الرياض\n🏟 Sta
+ dio Georgios Karaiskákis، Pireás (Piraeus)\n—————\n⚽ Olympi
+ acos v Jagiellonia Białystok\n🏆 UEFA Europa League — Matchday 1\n
+ 🗓 Wed 16 Sep 2026 · 19:00 UTC\n🏟 Stadio Georgios Karaiskákis, Pire
+ ás (Piraeus)\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبياكوس ضد ياغييلونيا ب
+ ياويستوك — الدوري الأوروبي | Tomorrow: Olympiacos 
+ vs Jagiellonia Białystok
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ ياكوس × ياغييلونيا بياويستوك | Kick-off in 30 min
+ : Olympiacos vs Jagiellonia Białystok
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112274@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:Marseille vs Olympiacos — UEFA Europa League
+LOCATION:Orange Vélodrome\, Marseille\, France
+GEO:43.269870;5.395854
+URL:https://www.fotmob.com/match/6112274
+DESCRIPTION:⚽ مارسيليا × أولمبياكوس\n🏆 الدوري
+  الأوروبي — الجولة 2\n🗓 الخميس 15 أكتوبر 20
+ 26 · 22:00 بتوقيت الرياض\n🏟 Orange Vélodrome، Marseille\
+ n—————\n⚽ Marseille v Olympiacos\n🏆 UEFA Europa League — 
+ Matchday 2\n🗓 Thu 15 Oct 2026 · 19:00 UTC\n🏟 Orange Vélodrome, Mar
+ seille\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مارسيليا ضد أولمبياكوس — ا
+ لدوري الأوروبي | Tomorrow: Marseille vs Olympiacos
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مارسي
+ ليا × أولمبياكوس | Kick-off in 30 min: Marseille vs Olympiac
+ os
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112267@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Olympiacos vs Sparta Prague — UEFA Europa League
+LOCATION:Stadio Georgios Karaiskákis\, Pireás (Piraeus)\, Greece
+GEO:37.946431;23.664384
+URL:https://www.fotmob.com/match/6112267
+DESCRIPTION:⚽ أولمبياكوس × سبارتا براغ\n🏆 الد
+ وري الأوروبي — الجولة 3\n🗓 الخميس 22 أكتو
+ بر 2026 · 22:00 بتوقيت الرياض\n🏟 Stadio Georgios Karaisk
+ ákis، Pireás (Piraeus)\n—————\n⚽ Olympiacos v Sparta Prague
+ \n🏆 UEFA Europa League — Matchday 3\n🗓 Thu 22 Oct 2026 · 19:00 UT
+ C\n🏟 Stadio Georgios Karaiskákis, Pireás (Piraeus)\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبياكوس ضد سبارتا براغ 
+ — الدوري الأوروبي | Tomorrow: Olympiacos vs Sparta Prague
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ ياكوس × سبارتا براغ | Kick-off in 30 min: Olympiacos vs Sp
+ arta Prague
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112306@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:Rennes vs Olympiacos — UEFA Europa League
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/6112306
+DESCRIPTION:⚽ ستاد رين × أولمبياكوس\n🏆 الدوري 
+ الأوروبي — الجولة 4\n🗓 الخميس 5 نوفمبر 2026
+  · 20:45 بتوقيت الرياض\n🏟 Roazhon Park\n—————\n
+ ⚽ Rennes v Olympiacos\n🏆 UEFA Europa League — Matchday 4\n🗓 Thu 
+ 05 Nov 2026 · 17:45 UTC\n🏟 Roazhon Park\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد أولمبياكوس — ا
+ لدوري الأوروبي | Tomorrow: Rennes vs Olympiacos
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × أولمبياكوس | Kick-off in 30 min: Rennes vs Olympiacos
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112266@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Olympiacos vs Milan — UEFA Europa League
+LOCATION:Karaiskakis Stadium
+URL:https://www.fotmob.com/match/6112266
+DESCRIPTION:⚽ أولمبياكوس × ميلان\n🏆 الدوري ال
+ أوروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 2026 ·
+  20:45 بتوقيت الرياض\n🏟 Karaiskakis Stadium\n————
+ —\n⚽ Olympiacos v Milan\n🏆 UEFA Europa League — Matchday 5\n🗓 
+ Thu 26 Nov 2026 · 17:45 UTC\n🏟 Karaiskakis Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبياكوس ضد ميلان — الدو
+ ري الأوروبي | Tomorrow: Olympiacos vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ ياكوس × ميلان | Kick-off in 30 min: Olympiacos vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112334@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:NK Celje vs Olympiacos — UEFA Europa League
+LOCATION:Stadion Z'dezele
+URL:https://www.fotmob.com/match/6112334
+DESCRIPTION:⚽ تسيليى × أولمبياكوس\n🏆 الدوري ا
+ لأوروبي — الجولة 6\n🗓 الخميس 10 ديسمبر 2026 
+ · 23:00 بتوقيت الرياض\n🏟 Stadion Z'dezele\n—————
+ \n⚽ NK Celje v Olympiacos\n🏆 UEFA Europa League — Matchday 6\n🗓 
+ Thu 10 Dec 2026 · 20:00 UTC\n🏟 Stadion Z'dezele\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تسيليى ضد أولمبياكوس — الد
+ وري الأوروبي | Tomorrow: NK Celje vs Olympiacos
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تسيلي
+ ى × أولمبياكوس | Kick-off in 30 min: NK Celje vs Olympiacos
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112269@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T174500Z
+DTEND:20270121T194500Z
+SUMMARY:Olympiacos vs Hoffenheim — UEFA Europa League
+LOCATION:Karaiskakis Stadium
+URL:https://www.fotmob.com/match/6112269
+DESCRIPTION:⚽ أولمبياكوس × هوفنهايم\n🏆 الدوري
+  الأوروبي — الجولة 7\n🗓 الخميس 21 يناير 2027
+  · 20:45 بتوقيت الرياض\n🏟 Karaiskakis Stadium\n———
+ ——\n⚽ Olympiacos v Hoffenheim\n🏆 UEFA Europa League — Matchday 
+ 7\n🗓 Thu 21 Jan 2027 · 17:45 UTC\n🏟 Karaiskakis Stadium\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبياكوس ضد هوفنهايم — ا
+ لدوري الأوروبي | Tomorrow: Olympiacos vs Hoffenheim
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ ياكوس × هوفنهايم | Kick-off in 30 min: Olympiacos vs Hoffenh
+ eim
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112358@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Torreense vs Olympiacos — UEFA Europa League
+LOCATION:Campo Manuel Marques\, Torres Vedras\, Portugal
+GEO:39.094878;-9.256749
+URL:https://www.fotmob.com/match/6112358
+DESCRIPTION:⚽ توريينسي × أولمبياكوس\n🏆 الدوري
+  الأوروبي — الجولة 8\n🗓 الخميس 28 يناير 2027
+  · 23:00 بتوقيت الرياض\n🏟 Campo Manuel Marques، Torres Ve
+ dras\n—————\n⚽ Torreense v Olympiacos\n🏆 UEFA Europa League
+  — Matchday 8\n🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 Campo Manuel Marq
+ ues, Torres Vedras\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توريينسي ضد أولمبياكوس — ا
+ لدوري الأوروبي | Tomorrow: Torreense vs Olympiacos
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توريي
+ نسي × أولمبياكوس | Kick-off in 30 min: Torreense vs Olympiac
+ os
+END:VALARM
+END:VEVENT
+END:VCALENDAR

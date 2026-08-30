@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Beşiktaş — UEFA Europa League Fixtures | بشكتاش 
+ — مباريات الدوري الأوروبي
+X-WR-CALDESC:Beşiktaş — all matches in UEFA Europa League\, exact UTC k
+ ickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-
+ 05T19:31:10Z.  •  بشكتاش — جميع المباريات في ال
+ دوري الأوروبي بتوقيت UTC الدقيق مع الملاع
+ ب والقنوات الناقلة. المصدر: FotMob + 365scores · ت
+ حديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6112354@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260917T190000Z
+DTEND:20260917T210000Z
+SUMMARY:Beşiktaş vs Marseille — UEFA Europa League
+LOCATION:Tüpraş Stadyumu\, İstanbul\, Türkiye
+GEO:41.039424;28.994444
+URL:https://www.fotmob.com/match/6112354
+DESCRIPTION:⚽ بشكتاش × مارسيليا\n🏆 الدوري الأ
+ وروبي — الجولة 1\n🗓 الخميس 17 سبتمبر 2026 · 2
+ 2:00 بتوقيت الرياض\n🏟 Tüpraş Stadyumu، İstanbul\n——
+ ———\n⚽ Beşiktaş v Marseille\n🏆 UEFA Europa League — Matchda
+ y 1\n🗓 Thu 17 Sep 2026 · 19:00 UTC\n🏟 Tüpraş Stadyumu, İstanbul\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بشكتاش ضد مارسيليا — الدور
+ ي الأوروبي | Tomorrow: Beşiktaş vs Marseille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بشكتا
+ ش × مارسيليا | Kick-off in 30 min: Beşiktaş vs Marseille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112353@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:Hoffenheim vs Beşiktaş — UEFA Europa League
+LOCATION:SNP Arena\, Sinsheim\, Germany
+GEO:49.238005;8.887741
+URL:https://www.fotmob.com/match/6112353
+DESCRIPTION:⚽ هوفنهايم × بشكتاش\n🏆 الدوري الأ
+ وروبي — الجولة 2\n🗓 الخميس 15 أكتوبر 2026 · 2
+ 2:00 بتوقيت الرياض\n🏟 SNP Arena، Sinsheim\n—————
+ \n⚽ Hoffenheim v Beşiktaş\n🏆 UEFA Europa League — Matchday 2\n
+ 🗓 Thu 15 Oct 2026 · 19:00 UTC\n🏟 SNP Arena, Sinsheim\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هوفنهايم ضد بشكتاش — الدور
+ ي الأوروبي | Tomorrow: Hoffenheim vs Beşiktaş
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هوفنه
+ ايم × بشكتاش | Kick-off in 30 min: Hoffenheim vs Beşiktaş
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112356@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Beşiktaş vs Crystal Palace — UEFA Europa League
+LOCATION:Tüpraş Stadyumu\, İstanbul\, Türkiye
+GEO:41.039424;28.994444
+URL:https://www.fotmob.com/match/6112356
+DESCRIPTION:⚽ بشكتاش × كريستال بالاس\n🏆 الدور
+ ي الأوروبي — الجولة 3\n🗓 الخميس 22 أكتوبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 Tüpraş Stadyumu، İstanbu
+ l\n—————\n⚽ Beşiktaş v Crystal Palace\n🏆 UEFA Europa Leag
+ ue — Matchday 3\n🗓 Thu 22 Oct 2026 · 19:00 UTC\n🏟 Tüpraş Stadyu
+ mu, İstanbul\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بشكتاش ضد كريستال بالاس — 
+ الدوري الأوروبي | Tomorrow: Beşiktaş vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بشكتا
+ ش × كريستال بالاس | Kick-off in 30 min: Beşiktaş vs Crysta
+ l Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112301@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261105T200000Z
+DTEND:20261105T220000Z
+SUMMARY:Celtic vs Beşiktaş — UEFA Europa League
+LOCATION:Celtic Park
+URL:https://www.fotmob.com/match/6112301
+DESCRIPTION:⚽ سيلتيك × بشكتاش\n🏆 الدوري الأور
+ وبي — الجولة 4\n🗓 الخميس 5 نوفمبر 2026 · 23:00 
+ بتوقيت الرياض\n🏟 Celtic Park\n—————\n⚽ Celtic v
+  Beşiktaş\n🏆 UEFA Europa League — Matchday 4\n🗓 Thu 05 Nov 2026 
+ · 20:00 UTC\n🏟 Celtic Park\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتيك ضد بشكتاش — الدوري 
+ الأوروبي | Tomorrow: Celtic vs Beşiktaş
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتي
+ ك × بشكتاش | Kick-off in 30 min: Celtic vs Beşiktaş
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112357@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Beşiktaş vs Hapoel Beer Sheva — UEFA Europa League
+LOCATION:Tupras Stadyumu
+URL:https://www.fotmob.com/match/6112357
+DESCRIPTION:⚽ بشكتاش × هبوعيل بئر سبع\n🏆 الدور
+ ي الأوروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 
+ 2026 · 20:45 بتوقيت الرياض\n🏟 Tupras Stadyumu\n———
+ ——\n⚽ Beşiktaş v Hapoel Beer Sheva\n🏆 UEFA Europa League — Ma
+ tchday 5\n🗓 Thu 26 Nov 2026 · 17:45 UTC\n🏟 Tupras Stadyumu\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بشكتاش ضد هبوعيل بئر سبع — 
+ الدوري الأوروبي | Tomorrow: Beşiktaş vs Hapoel Beer Sheva
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بشكتا
+ ش × هبوعيل بئر سبع | Kick-off in 30 min: Beşiktaş vs Hapoe
+ l Beer Sheva
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112245@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:Bayer Leverkusen vs Beşiktaş — UEFA Europa League
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/6112245
+DESCRIPTION:⚽ باير ليفركوزن × بشكتاش\n🏆 الدور
+ ي الأوروبي — الجولة 6\n🗓 الخميس 10 ديسمبر 
+ 2026 · 23:00 بتوقيت الرياض\n🏟 BayArena\n—————\n
+ ⚽ Bayer Leverkusen v Beşiktaş\n🏆 UEFA Europa League — Matchday 6\
+ n🗓 Thu 10 Dec 2026 · 20:00 UTC\n🏟 BayArena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد بشكتاش — 
+ الدوري الأوروبي | Tomorrow: Bayer Leverkusen vs Beşiktaş
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × بشكتاش | Kick-off in 30 min: Bayer Leverkusen vs B
+ eşiktaş
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112355@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270121T174500Z
+DTEND:20270121T194500Z
+SUMMARY:Beşiktaş vs Union St.Gilloise — UEFA Europa League
+LOCATION:Tupras Stadyumu
+URL:https://www.fotmob.com/match/6112355
+DESCRIPTION:⚽ بشكتاش × يونيون سانت جيلواز\n🏆 ا
+ لدوري الأوروبي — الجولة 7\n🗓 الخميس 21 ين
+ اير 2027 · 20:45 بتوقيت الرياض\n🏟 Tupras Stadyumu\n—
+ ————\n⚽ Beşiktaş v Union St.Gilloise\n🏆 UEFA Europa League 
+ — Matchday 7\n🗓 Thu 21 Jan 2027 · 17:45 UTC\n🏟 Tupras Stadyumu\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بشكتاش ضد يونيون سانت جيلو
+ از — الدوري الأوروبي | Tomorrow: Beşiktaş vs Union St.
+ Gilloise
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بشكتا
+ ش × يونيون سانت جيلواز | Kick-off in 30 min: Beşiktaş 
+ vs Union St.Gilloise
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112345@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Omonia Nicosia vs Beşiktaş — UEFA Europa League
+LOCATION:Neo GSP Stadium
+URL:https://www.fotmob.com/match/6112345
+DESCRIPTION:⚽ Omonia Nicosia × بشكتاش\n🏆 الدوري الأو
+ روبي — الجولة 8\n🗓 الخميس 28 يناير 2027 · 23:00
+  بتوقيت الرياض\n🏟 Neo GSP Stadium\n—————\n⚽ Omo
+ nia Nicosia v Beşiktaş\n🏆 UEFA Europa League — Matchday 8\n🗓 Thu
+  28 Jan 2027 · 20:00 UTC\n🏟 Neo GSP Stadium\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Omonia Nicosia ضد بشكتاش — الدوري
+  الأوروبي | Tomorrow: Omonia Nicosia vs Beşiktaş
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Omonia Nico
+ sia × بشكتاش | Kick-off in 30 min: Omonia Nicosia vs Beşiktaş
+END:VALARM
+END:VEVENT
+END:VCALENDAR

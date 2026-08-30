@@ -1,0 +1,1061 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Paris FC — Ligue 1 Fixtures | باريس أف.سي. — 
+ مباريات الدوري الفرنسي
+X-WR-CALDESC:Paris FC — all matches in Ligue 1\, exact UTC kickoffs\, sta
+ diums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10Z.
+   •  باريس أف.سي. — جميع المباريات في الدو
+ ري الفرنسي بتوقيت UTC الدقيق مع الملاعب وا
+ لقنوات الناقلة. المصدر: FotMob + 365scores · تحدي
+ ث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5802909@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T184500Z
+DTEND:20260822T204500Z
+SUMMARY:Troyes vs Paris FC (0 - 0) — Ligue 1
+LOCATION:Stade de l'Aube\, Troyes\, France
+GEO:48.307533;4.098485
+URL:https://www.fotmob.com/match/5802909
+DESCRIPTION:⚽ تروا × باريس أف.سي. (0 - 0)\n🏆 الدور
+ ي الفرنسي — الجولة 1\n🗓 السبت 22 أغسطس 2026 
+ · 21:45 بتوقيت الرياض\n🏟 Stade de l'Aube، Troyes\n⚖️ 
+ الحكم: Marc Bollengier\n👥 الحضور: 11,655\n—————\n
+ ⚽ Troyes v Paris FC (0 - 0)\n🏆 Ligue 1 — Matchday 1\n🗓 Sat 22 Au
+ g 2026 · 18:45 UTC\n🏟 Stade de l'Aube, Troyes\nReferee: Marc Bollengie
+ r\nAttendance: 11,655\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد باريس أف.سي. — الدو
+ ري الفرنسي | Tomorrow: Troyes vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  باريس أف.سي. | Kick-off in 30 min: Troyes vs Paris FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802915@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T130000Z
+DTEND:20260830T150000Z
+SUMMARY:Paris FC vs Nice (3 - 0) — Ligue 1
+LOCATION:Stade Jean Bouin\, Paris\, France
+GEO:48.843148;2.252916
+URL:https://www.fotmob.com/match/5802915
+DESCRIPTION:⚽ باريس أف.سي. × نيس (3 - 0)\n🏆 الدوري 
+ الفرنسي — الجولة 2\n🗓 الأحد 30 أغسطس 2026 · 1
+ 6:00 بتوقيت الرياض\n🏟 Stade Jean Bouin، Paris\n⚖️ ال
+ حكم: Jeremy Stinat\n—————\n⚽ Paris FC v Nice (3 - 0)\n🏆 
+ Ligue 1 — Matchday 2\n🗓 Sun 30 Aug 2026 · 13:00 UTC\n🏟 Stade Jean
+  Bouin, Paris\nReferee: Jeremy Stinat\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد نيس — الدور
+ ي الفرنسي | Tomorrow: Paris FC vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × نيس | Kick-off in 30 min: Paris FC vs Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802923@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260906T184500Z
+DTEND:20260906T204500Z
+SUMMARY:Marseille vs Paris FC — Ligue 1
+LOCATION:Orange Vélodrome\, Marseille\, France
+GEO:43.269870;5.395854
+URL:https://www.fotmob.com/match/5802923
+DESCRIPTION:⚽ مارسيليا × باريس أف.سي.\n🏆 الدور
+ ي الفرنسي — الجولة 3\n🗓 الأحد 6 سبتمبر 2026 
+ · 21:45 بتوقيت الرياض\n🏟 Orange Vélodrome، Marseille\n
+ 📺 beIN SPORTS HD 4\n—————\n⚽ Marseille v Paris FC\n🏆 Lig
+ ue 1 — Matchday 3\n🗓 Sun 06 Sep 2026 · 18:45 UTC\n🏟 Orange Vélod
+ rome, Marseille\n📺 beIN Sport 4 HD\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مارسيليا ضد باريس أف.سي. — 
+ الدوري الفرنسي — 📺 beIN SPORTS HD 4 | Tomorrow: Marseill
+ e vs Paris FC | TV: beIN Sport 4 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مارسي
+ ليا × باريس أف.سي. — 📺 beIN SPORTS HD 4 | Kick-off in 30
+  min: Marseille vs Paris FC | TV: beIN Sport 4 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802934@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T184500Z
+DTEND:20260912T204500Z
+SUMMARY:Paris FC vs Lyon — Ligue 1
+LOCATION:Stade Jean Bouin\, Paris\, France
+GEO:48.843148;2.252916
+URL:https://www.fotmob.com/match/5802934
+DESCRIPTION:⚽ باريس أف.سي. × أولمبيك ليون\n🏆 ال
+ دوري الفرنسي — الجولة 4\n🗓 السبت 12 سبتمب
+ ر 2026 · 21:45 بتوقيت الرياض\n🏟 Stade Jean Bouin، Paris\
+ n📺 TV5MONDE، OneFootball PPV، Ligue 1+\n—————\n⚽ Paris FC
+  v Lyon\n🏆 Ligue 1 — Matchday 4\n🗓 Sat 12 Sep 2026 · 18:45 UTC\n
+ 🏟 Stade Jean Bouin, Paris\n📺 TV5MONDE, OneFootball PPV, Ligue 1+\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد أولمبيك ليو
+ ن — الدوري الفرنسي — 📺 TV5MONDE، OneFootball PPV، L
+ igue 1+ | Tomorrow: Paris FC vs Lyon | TV: TV5MONDE\, OneFootball PPV\, Li
+ gue 1+
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × أولمبيك ليون — 📺 TV5MONDE، OneFootball PPV
+ ، Ligue 1+ | Kick-off in 30 min: Paris FC vs Lyon | TV: TV5MONDE\, OneFoo
+ tball PPV\, Ligue 1+
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802943@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T151500Z
+DTEND:20260919T171500Z
+SUMMARY:Paris FC vs Strasbourg — Ligue 1
+LOCATION:Stade Jean Bouin
+URL:https://www.fotmob.com/match/5802943
+DESCRIPTION:⚽ باريس أف.سي. × ستراسبورج\n🏆 الدو
+ ري الفرنسي — الجولة 5\n🗓 السبت 19 سبتمبر 20
+ 26 · 18:15 بتوقيت الرياض\n🏟 Stade Jean Bouin\n————
+ —\n⚽ Paris FC v Strasbourg\n🏆 Ligue 1 — Matchday 5\n🗓 Sat 19 S
+ ep 2026 · 15:15 UTC\n🏟 Stade Jean Bouin\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد ستراسبورج —
+  الدوري الفرنسي | Tomorrow: Paris FC vs Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × ستراسبورج | Kick-off in 30 min: Paris FC vs Strasbo
+ urg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802949@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T184500Z
+DTEND:20261010T204500Z
+SUMMARY:Lorient vs Paris FC — Ligue 1
+LOCATION:Stade du Moustoir
+URL:https://www.fotmob.com/match/5802949
+DESCRIPTION:⚽ لوريان × باريس أف.سي.\n🏆 الدوري ا
+ لفرنسي — الجولة 6\n🗓 السبت 10 أكتوبر 2026 · 2
+ 1:45 بتوقيت الرياض\n🏟 Stade du Moustoir\n—————\n
+ ⚽ Lorient v Paris FC\n🏆 Ligue 1 — Matchday 6\n🗓 Sat 10 Oct 2026 
+ · 18:45 UTC\n🏟 Stade du Moustoir\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لوريان ضد باريس أف.سي. — ال
+ دوري الفرنسي | Tomorrow: Lorient vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لوريا
+ ن × باريس أف.سي. | Kick-off in 30 min: Lorient vs Paris FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802961@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T151500Z
+DTEND:20261018T171500Z
+SUMMARY:Paris FC vs Rennes — Ligue 1
+LOCATION:Stade Jean Bouin
+URL:https://www.fotmob.com/match/5802961
+DESCRIPTION:⚽ باريس أف.سي. × ستاد رين\n🏆 الدوري
+  الفرنسي — الجولة 7\n🗓 الأحد 18 أكتوبر 2026 
+ · 18:15 بتوقيت الرياض\n🏟 Stade Jean Bouin\n—————
+ \n⚽ Paris FC v Rennes\n🏆 Ligue 1 — Matchday 7\n🗓 Sun 18 Oct 2026
+  · 15:15 UTC\n🏟 Stade Jean Bouin\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد ستاد رين — ا
+ لدوري الفرنسي | Tomorrow: Paris FC vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × ستاد رين | Kick-off in 30 min: Paris FC vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802967@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T184500Z
+DTEND:20261024T204500Z
+SUMMARY:Lens vs Paris FC — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5802967
+DESCRIPTION:⚽ لانس × باريس أف.سي.\n🏆 الدوري الف
+ رنسي — الجولة 8\n🗓 السبت 24 أكتوبر 2026 · 21:45
+  بتوقيت الرياض\n🏟 Stade Bollaert-Delelis\n—————\n
+ ⚽ Lens v Paris FC\n🏆 Ligue 1 — Matchday 8\n🗓 Sat 24 Oct 2026 · 
+ 18:45 UTC\n🏟 Stade Bollaert-Delelis\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد باريس أف.سي. — الدو
+ ري الفرنسي | Tomorrow: Lens vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  باريس أف.سي. | Kick-off in 30 min: Lens vs Paris FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802979@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T161500Z
+DTEND:20261101T181500Z
+SUMMARY:Paris FC vs Monaco — Ligue 1
+LOCATION:Stade Jean Bouin
+URL:https://www.fotmob.com/match/5802979
+DESCRIPTION:⚽ باريس أف.سي. × موناكو\n🏆 الدوري ا
+ لفرنسي — الجولة 9\n🗓 الأحد 1 نوفمبر 2026 · 19
+ :15 بتوقيت الرياض\n🏟 Stade Jean Bouin\n—————\n⚽
+  Paris FC v Monaco\n🏆 Ligue 1 — Matchday 9\n🗓 Sun 01 Nov 2026 · 1
+ 6:15 UTC\n🏟 Stade Jean Bouin\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد موناكو — ال
+ دوري الفرنسي | Tomorrow: Paris FC vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × موناكو | Kick-off in 30 min: Paris FC vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802983@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T161500Z
+DTEND:20261107T181500Z
+SUMMARY:Auxerre vs Paris FC — Ligue 1
+LOCATION:Stade de l'Abbe-Deschamps
+URL:https://www.fotmob.com/match/5802983
+DESCRIPTION:⚽ أوكسير × باريس أف.سي.\n🏆 الدوري ا
+ لفرنسي — الجولة 10\n🗓 السبت 7 نوفمبر 2026 · 1
+ 9:15 بتوقيت الرياض\n🏟 Stade de l'Abbe-Deschamps\n———
+ ——\n⚽ Auxerre v Paris FC\n🏆 Ligue 1 — Matchday 10\n🗓 Sat 07 
+ Nov 2026 · 16:15 UTC\n🏟 Stade de l'Abbe-Deschamps\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوكسير ضد باريس أف.سي. — ال
+ دوري الفرنسي | Tomorrow: Auxerre vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوكسي
+ ر × باريس أف.سي. | Kick-off in 30 min: Auxerre vs Paris FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802997@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Paris FC vs Angers — Ligue 1
+LOCATION:Stade Jean Bouin
+URL:https://www.fotmob.com/match/5802997
+DESCRIPTION:⚽ باريس أف.سي. × أنجيه\n🏆 الدوري ال
+ فرنسي — الجولة 11\n🗓 الأحد 22 نوفمبر 2026 · 17
+ :00 بتوقيت الرياض\n🏟 Stade Jean Bouin\n—————\n⚽
+  Paris FC v Angers\n🏆 Ligue 1 — Matchday 11\n🗓 Sun 22 Nov 2026 · 
+ 14:00 UTC\n🏟 Stade Jean Bouin\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد أنجيه — الد
+ وري الفرنسي | Tomorrow: Paris FC vs Angers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × أنجيه | Kick-off in 30 min: Paris FC vs Angers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803002@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:Brest vs Paris FC — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5803002
+DESCRIPTION:⚽ بريست × باريس أف.سي.\n🏆 الدوري ال
+ فرنسي — الجولة 12\n🗓 السبت 28 نوفمبر 2026 · 19
+ :00 بتوقيت الرياض\n🏟 Stade Francis le Ble\n—————\
+ n⚽ Brest v Paris FC\n🏆 Ligue 1 — Matchday 12\n🗓 Sat 28 Nov 2026 
+ · 16:00 UTC\n🏟 Stade Francis le Ble\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد باريس أف.سي. — الد
+ وري الفرنسي | Tomorrow: Brest vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × باريس أف.سي. | Kick-off in 30 min: Brest vs Paris FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803013@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T160000Z
+DTEND:20261205T180000Z
+SUMMARY:Paris FC vs Le Mans — Ligue 1
+LOCATION:Stade Jean Bouin
+URL:https://www.fotmob.com/match/5803013
+DESCRIPTION:⚽ باريس أف.سي. × لومان\n🏆 الدوري ال
+ فرنسي — الجولة 13\n🗓 السبت 5 ديسمبر 2026 · 19:
+ 00 بتوقيت الرياض\n🏟 Stade Jean Bouin\n—————\n⚽ 
+ Paris FC v Le Mans\n🏆 Ligue 1 — Matchday 13\n🗓 Sat 05 Dec 2026 · 
+ 16:00 UTC\n🏟 Stade Jean Bouin\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد لومان — الد
+ وري الفرنسي | Tomorrow: Paris FC vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × لومان | Kick-off in 30 min: Paris FC vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803024@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T160000Z
+DTEND:20261212T180000Z
+SUMMARY:Paris Saint-Germain vs Paris FC — Ligue 1
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/5803024
+DESCRIPTION:⚽ باريس سان جيرمان × باريس أف.سي.\n
+ 🏆 الدوري الفرنسي — الجولة 14\n🗓 السبت 12 
+ ديسمبر 2026 · 19:00 بتوقيت الرياض\n🏟 Parc des Prince
+ s\n—————\n⚽ Paris Saint-Germain v Paris FC\n🏆 Ligue 1 — M
+ atchday 14\n🗓 Sat 12 Dec 2026 · 16:00 UTC\n🏟 Parc des Princes\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد باريس أ
+ ف.سي. — الدوري الفرنسي | Tomorrow: Paris Saint-Germain v
+ s Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × باريس أف.سي. | Kick-off in 30 min: Paris S
+ aint-Germain vs Paris FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803032@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T160000Z
+DTEND:20270102T180000Z
+SUMMARY:Paris FC vs Le Havre — Ligue 1
+LOCATION:Stade Jean Bouin
+URL:https://www.fotmob.com/match/5803032
+DESCRIPTION:⚽ باريس أف.سي. × لو آفر\n🏆 الدوري ا
+ لفرنسي — الجولة 15\n🗓 السبت 2 يناير 2027 · 19:
+ 00 بتوقيت الرياض\n🏟 Stade Jean Bouin\n—————\n⚽ 
+ Paris FC v Le Havre\n🏆 Ligue 1 — Matchday 15\n🗓 Sat 02 Jan 2027 ·
+  16:00 UTC\n🏟 Stade Jean Bouin\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد لو آفر — الد
+ وري الفرنسي | Tomorrow: Paris FC vs Le Havre
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × لو آفر | Kick-off in 30 min: Paris FC vs Le Havre
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803042@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T160000Z
+DTEND:20270116T180000Z
+SUMMARY:Paris FC vs Toulouse — Ligue 1
+LOCATION:Stade Jean Bouin
+URL:https://www.fotmob.com/match/5803042
+DESCRIPTION:⚽ باريس أف.سي. × تولوز\n🏆 الدوري ال
+ فرنسي — الجولة 16\n🗓 السبت 16 يناير 2027 · 19:0
+ 0 بتوقيت الرياض\n🏟 Stade Jean Bouin\n—————\n⚽ P
+ aris FC v Toulouse\n🏆 Ligue 1 — Matchday 16\n🗓 Sat 16 Jan 2027 · 
+ 16:00 UTC\n🏟 Stade Jean Bouin\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد تولوز — الد
+ وري الفرنسي | Tomorrow: Paris FC vs Toulouse
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × تولوز | Kick-off in 30 min: Paris FC vs Toulouse
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803048@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T160000Z
+DTEND:20270123T180000Z
+SUMMARY:Lille vs Paris FC — Ligue 1
+LOCATION:Decathlon Arena-Stade Pierre-Mauroy
+URL:https://www.fotmob.com/match/5803048
+DESCRIPTION:⚽ ليل × باريس أف.سي.\n🏆 الدوري الفر
+ نسي — الجولة 17\n🗓 السبت 23 يناير 2027 · 19:00 ب
+ توقيت الرياض\n🏟 Decathlon Arena-Stade Pierre-Mauroy\n——
+ ———\n⚽ Lille v Paris FC\n🏆 Ligue 1 — Matchday 17\n🗓 Sat 23
+  Jan 2027 · 16:00 UTC\n🏟 Decathlon Arena-Stade Pierre-Mauroy\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليل ضد باريس أف.سي. — الدور
+ ي الفرنسي | Tomorrow: Lille vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليل × 
+ باريس أف.سي. | Kick-off in 30 min: Lille vs Paris FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803060@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T160000Z
+DTEND:20270130T180000Z
+SUMMARY:Paris FC vs Auxerre — Ligue 1
+LOCATION:Stade Jean Bouin
+URL:https://www.fotmob.com/match/5803060
+DESCRIPTION:⚽ باريس أف.سي. × أوكسير\n🏆 الدوري ا
+ لفرنسي — الجولة 18\n🗓 السبت 30 يناير 2027 · 19
+ :00 بتوقيت الرياض\n🏟 Stade Jean Bouin\n—————\n⚽
+  Paris FC v Auxerre\n🏆 Ligue 1 — Matchday 18\n🗓 Sat 30 Jan 2027 ·
+  16:00 UTC\n🏟 Stade Jean Bouin\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد أوكسير — ال
+ دوري الفرنسي | Tomorrow: Paris FC vs Auxerre
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × أوكسير | Kick-off in 30 min: Paris FC vs Auxerre
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803069@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T160000Z
+DTEND:20270206T180000Z
+SUMMARY:Strasbourg vs Paris FC — Ligue 1
+LOCATION:Stade de la Meinau
+URL:https://www.fotmob.com/match/5803069
+DESCRIPTION:⚽ ستراسبورج × باريس أف.سي.\n🏆 الدو
+ ري الفرنسي — الجولة 19\n🗓 السبت 6 فبراير 20
+ 27 · 19:00 بتوقيت الرياض\n🏟 Stade de la Meinau\n———
+ ——\n⚽ Strasbourg v Paris FC\n🏆 Ligue 1 — Matchday 19\n🗓 Sat 
+ 06 Feb 2027 · 16:00 UTC\n🏟 Stade de la Meinau\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد باريس أف.سي. —
+  الدوري الفرنسي | Tomorrow: Strasbourg vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × باريس أف.سي. | Kick-off in 30 min: Strasbourg vs Pari
+ s FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803079@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270213T160000Z
+DTEND:20270213T180000Z
+SUMMARY:Paris FC vs Troyes — Ligue 1
+LOCATION:Stade Jean Bouin
+URL:https://www.fotmob.com/match/5803079
+DESCRIPTION:⚽ باريس أف.سي. × تروا\n🏆 الدوري الف
+ رنسي — الجولة 20\n🗓 السبت 13 فبراير 2027 · 19:0
+ 0 بتوقيت الرياض\n🏟 Stade Jean Bouin\n—————\n⚽ P
+ aris FC v Troyes\n🏆 Ligue 1 — Matchday 20\n🗓 Sat 13 Feb 2027 · 16
+ :00 UTC\n🏟 Stade Jean Bouin\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد تروا — الدو
+ ري الفرنسي | Tomorrow: Paris FC vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × تروا | Kick-off in 30 min: Paris FC vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803081@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T160000Z
+DTEND:20270220T180000Z
+SUMMARY:Angers vs Paris FC — Ligue 1
+LOCATION:Stade Raymond Kopa
+URL:https://www.fotmob.com/match/5803081
+DESCRIPTION:⚽ أنجيه × باريس أف.سي.\n🏆 الدوري ال
+ فرنسي — الجولة 21\n🗓 السبت 20 فبراير 2027 · 19
+ :00 بتوقيت الرياض\n🏟 Stade Raymond Kopa\n—————\n
+ ⚽ Angers v Paris FC\n🏆 Ligue 1 — Matchday 21\n🗓 Sat 20 Feb 2027 
+ · 16:00 UTC\n🏟 Stade Raymond Kopa\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أنجيه ضد باريس أف.سي. — الد
+ وري الفرنسي | Tomorrow: Angers vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أنجيه 
+ × باريس أف.سي. | Kick-off in 30 min: Angers vs Paris FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803092@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T160000Z
+DTEND:20270227T180000Z
+SUMMARY:Le Mans vs Paris FC — Ligue 1
+LOCATION:Stade Marie-Marvingt
+URL:https://www.fotmob.com/match/5803092
+DESCRIPTION:⚽ لومان × باريس أف.سي.\n🏆 الدوري ال
+ فرنسي — الجولة 22\n🗓 السبت 27 فبراير 2027 · 19
+ :00 بتوقيت الرياض\n🏟 Stade Marie-Marvingt\n—————\
+ n⚽ Le Mans v Paris FC\n🏆 Ligue 1 — Matchday 22\n🗓 Sat 27 Feb 202
+ 7 · 16:00 UTC\n🏟 Stade Marie-Marvingt\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد باريس أف.سي. — الد
+ وري الفرنسي | Tomorrow: Le Mans vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × باريس أف.سي. | Kick-off in 30 min: Le Mans vs Paris FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803104@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270306T160000Z
+DTEND:20270306T180000Z
+SUMMARY:Paris FC vs Brest — Ligue 1
+LOCATION:Stade Jean Bouin
+URL:https://www.fotmob.com/match/5803104
+DESCRIPTION:⚽ باريس أف.سي. × بريست\n🏆 الدوري ال
+ فرنسي — الجولة 23\n🗓 السبت 6 مارس 2027 · 19:00 
+ بتوقيت الرياض\n🏟 Stade Jean Bouin\n—————\n⚽ Par
+ is FC v Brest\n🏆 Ligue 1 — Matchday 23\n🗓 Sat 06 Mar 2027 · 16:00
+  UTC\n🏟 Stade Jean Bouin\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد بريست — الد
+ وري الفرنسي | Tomorrow: Paris FC vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × بريست | Kick-off in 30 min: Paris FC vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803115@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T160000Z
+DTEND:20270313T180000Z
+SUMMARY:Paris FC vs Lorient — Ligue 1
+LOCATION:Stade Jean Bouin
+URL:https://www.fotmob.com/match/5803115
+DESCRIPTION:⚽ باريس أف.سي. × لوريان\n🏆 الدوري ا
+ لفرنسي — الجولة 24\n🗓 السبت 13 مارس 2027 · 19:0
+ 0 بتوقيت الرياض\n🏟 Stade Jean Bouin\n—————\n⚽ P
+ aris FC v Lorient\n🏆 Ligue 1 — Matchday 24\n🗓 Sat 13 Mar 2027 · 1
+ 6:00 UTC\n🏟 Stade Jean Bouin\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد لوريان — ال
+ دوري الفرنسي | Tomorrow: Paris FC vs Lorient
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × لوريان | Kick-off in 30 min: Paris FC vs Lorient
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803122@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T160000Z
+DTEND:20270320T180000Z
+SUMMARY:Rennes vs Paris FC — Ligue 1
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/5803122
+DESCRIPTION:⚽ ستاد رين × باريس أف.سي.\n🏆 الدوري
+  الفرنسي — الجولة 25\n🗓 السبت 20 مارس 2027 · 1
+ 9:00 بتوقيت الرياض\n🏟 Roazhon Park\n—————\n⚽ Re
+ nnes v Paris FC\n🏆 Ligue 1 — Matchday 25\n🗓 Sat 20 Mar 2027 · 16:
+ 00 UTC\n🏟 Roazhon Park\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد باريس أف.سي. — ا
+ لدوري الفرنسي | Tomorrow: Rennes vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × باريس أف.سي. | Kick-off in 30 min: Rennes vs Paris FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803133@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270403T150000Z
+DTEND:20270403T170000Z
+SUMMARY:Paris FC vs Paris Saint-Germain — Ligue 1
+LOCATION:Stade Jean Bouin
+URL:https://www.fotmob.com/match/5803133
+DESCRIPTION:⚽ باريس أف.سي. × باريس سان جيرمان\n
+ 🏆 الدوري الفرنسي — الجولة 26\n🗓 السبت 3 أ
+ بريل 2027 · 18:00 بتوقيت الرياض\n🏟 Stade Jean Bouin\n
+ —————\n⚽ Paris FC v Paris Saint-Germain\n🏆 Ligue 1 — Matc
+ hday 26\n🗓 Sat 03 Apr 2027 · 15:00 UTC\n🏟 Stade Jean Bouin\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد باريس سان جي
+ رمان — الدوري الفرنسي | Tomorrow: Paris FC vs Paris Sai
+ nt-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × باريس سان جيرمان | Kick-off in 30 min: Paris F
+ C vs Paris Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803141@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T150000Z
+DTEND:20270410T170000Z
+SUMMARY:Nice vs Paris FC — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5803141
+DESCRIPTION:⚽ نيس × باريس أف.سي.\n🏆 الدوري الفر
+ نسي — الجولة 27\n🗓 السبت 10 أبريل 2027 · 18:00 ب
+ توقيت الرياض\n🏟 Allianz Riviera\n—————\n⚽ Nice v
+  Paris FC\n🏆 Ligue 1 — Matchday 27\n🗓 Sat 10 Apr 2027 · 15:00 UTC
+ \n🏟 Allianz Riviera\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد باريس أف.سي. — الدور
+ ي الفرنسي | Tomorrow: Nice vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ باريس أف.سي. | Kick-off in 30 min: Nice vs Paris FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803152@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T150000Z
+DTEND:20270417T170000Z
+SUMMARY:Toulouse vs Paris FC — Ligue 1
+LOCATION:Stadium de Toulouse
+URL:https://www.fotmob.com/match/5803152
+DESCRIPTION:⚽ تولوز × باريس أف.سي.\n🏆 الدوري ال
+ فرنسي — الجولة 28\n🗓 السبت 17 أبريل 2027 · 18:0
+ 0 بتوقيت الرياض\n🏟 Stadium de Toulouse\n—————\n
+ ⚽ Toulouse v Paris FC\n🏆 Ligue 1 — Matchday 28\n🗓 Sat 17 Apr 202
+ 7 · 15:00 UTC\n🏟 Stadium de Toulouse\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تولوز ضد باريس أف.سي. — الد
+ وري الفرنسي | Tomorrow: Toulouse vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تولوز 
+ × باريس أف.سي. | Kick-off in 30 min: Toulouse vs Paris FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803159@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T150000Z
+DTEND:20270424T170000Z
+SUMMARY:Paris FC vs Lens — Ligue 1
+LOCATION:Stade Jean Bouin
+URL:https://www.fotmob.com/match/5803159
+DESCRIPTION:⚽ باريس أف.سي. × لانس\n🏆 الدوري الف
+ رنسي — الجولة 29\n🗓 السبت 24 أبريل 2027 · 18:00 
+ بتوقيت الرياض\n🏟 Stade Jean Bouin\n—————\n⚽ Par
+ is FC v Lens\n🏆 Ligue 1 — Matchday 29\n🗓 Sat 24 Apr 2027 · 15:00 
+ UTC\n🏟 Stade Jean Bouin\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد لانس — الدو
+ ري الفرنسي | Tomorrow: Paris FC vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × لانس | Kick-off in 30 min: Paris FC vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803163@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T150000Z
+DTEND:20270501T170000Z
+SUMMARY:Le Havre vs Paris FC — Ligue 1
+LOCATION:Stade Oceane
+URL:https://www.fotmob.com/match/5803163
+DESCRIPTION:⚽ لو آفر × باريس أف.سي.\n🏆 الدوري ا
+ لفرنسي — الجولة 30\n🗓 السبت 1 مايو 2027 · 18:00
+  بتوقيت الرياض\n🏟 Stade Oceane\n—————\n⚽ Le Hav
+ re v Paris FC\n🏆 Ligue 1 — Matchday 30\n🗓 Sat 01 May 2027 · 15:00
+  UTC\n🏟 Stade Oceane\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لو آفر ضد باريس أف.سي. — الد
+ وري الفرنسي | Tomorrow: Le Havre vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لو آفر
+  × باريس أف.سي. | Kick-off in 30 min: Le Havre vs Paris FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803177@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T150000Z
+DTEND:20270508T170000Z
+SUMMARY:Paris FC vs Lille — Ligue 1
+LOCATION:Stade Jean Bouin
+URL:https://www.fotmob.com/match/5803177
+DESCRIPTION:⚽ باريس أف.سي. × ليل\n🏆 الدوري الفر
+ نسي — الجولة 31\n🗓 السبت 8 مايو 2027 · 18:00 بت
+ وقيت الرياض\n🏟 Stade Jean Bouin\n—————\n⚽ Paris F
+ C v Lille\n🏆 Ligue 1 — Matchday 31\n🗓 Sat 08 May 2027 · 15:00 UTC
+ \n🏟 Stade Jean Bouin\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد ليل — الدور
+ ي الفرنسي | Tomorrow: Paris FC vs Lille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × ليل | Kick-off in 30 min: Paris FC vs Lille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803185@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T150000Z
+DTEND:20270516T170000Z
+SUMMARY:Monaco vs Paris FC — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5803185
+DESCRIPTION:⚽ موناكو × باريس أف.سي.\n🏆 الدوري ا
+ لفرنسي — الجولة 32\n🗓 الأحد 16 مايو 2027 · 18:0
+ 0 بتوقيت الرياض\n🏟 Stade Louis II, Monaco\n—————\
+ n⚽ Monaco v Paris FC\n🏆 Ligue 1 — Matchday 32\n🗓 Sun 16 May 2027
+  · 15:00 UTC\n🏟 Stade Louis II, Monaco\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد باريس أف.سي. — ال
+ دوري الفرنسي | Tomorrow: Monaco vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × باريس أف.سي. | Kick-off in 30 min: Monaco vs Paris FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803195@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270522T150000Z
+DTEND:20270522T170000Z
+SUMMARY:Paris FC vs Marseille — Ligue 1
+LOCATION:Stade Jean Bouin
+URL:https://www.fotmob.com/match/5803195
+DESCRIPTION:⚽ باريس أف.سي. × مارسيليا\n🏆 الدور
+ ي الفرنسي — الجولة 33\n🗓 السبت 22 مايو 2027 ·
+  18:00 بتوقيت الرياض\n🏟 Stade Jean Bouin\n—————\n
+ ⚽ Paris FC v Marseille\n🏆 Ligue 1 — Matchday 33\n🗓 Sat 22 May 20
+ 27 · 15:00 UTC\n🏟 Stade Jean Bouin\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد مارسيليا — 
+ الدوري الفرنسي | Tomorrow: Paris FC vs Marseille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × مارسيليا | Kick-off in 30 min: Paris FC vs Marseille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803201@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270529T190000Z
+DTEND:20270529T210000Z
+SUMMARY:Lyon vs Paris FC — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5803201
+DESCRIPTION:⚽ أولمبيك ليون × باريس أف.سي.\n🏆 ال
+ دوري الفرنسي — الجولة 34\n🗓 السبت 29 مايو 2
+ 027 · 22:00 بتوقيت الرياض\n🏟 Groupama Stadium\n———
+ ——\n⚽ Lyon v Paris FC\n🏆 Ligue 1 — Matchday 34\n🗓 Sat 29 May
+  2027 · 19:00 UTC\n🏟 Groupama Stadium\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد باريس أف.سي
+ . — الدوري الفرنسي | Tomorrow: Lyon vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × باريس أف.سي. | Kick-off in 30 min: Lyon vs Paris
+  FC
+END:VALARM
+END:VEVENT
+END:VCALENDAR

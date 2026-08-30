@@ -1,0 +1,1404 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Racing Santander — LaLiga & Copa del Rey Fixtures | را
+ سينج سانتاندير — مباريات الدوري الإسبان
+ ي وكأس ملك إسبانيا
+X-WR-CALDESC:Racing Santander — all matches in LaLiga & Copa del Rey\, ex
+ act UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated
+  2026-09-05T19:31:10Z.  •  راسينج سانتاندير — جميع 
+ المباريات في الدوري الإسباني وكأس ملك إس
+ بانيا بتوقيت UTC الدقيق مع الملاعب والقنو
+ ات الناقلة. المصدر: FotMob + 365scores · تحديث تلق
+ ائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5868017@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260816T150000Z
+DTEND:20260816T170000Z
+SUMMARY:Racing Santander vs Villarreal (2 - 2) — LaLiga
+LOCATION:Campos de Sport de El Sardinero\, Santander\, Spain
+GEO:43.476299;-3.793282
+URL:https://www.fotmob.com/match/5868017
+DESCRIPTION:⚽ راسينج سانتاندير × فياريال (2 - 2)\n
+ 🏆 الدوري الإسباني — الجولة 1\n🗓 الأحد 16 
+ أغسطس 2026 · 18:00 بتوقيت الرياض\n🏟 Campos de Sport d
+ e El Sardinero، Santander\n⚖️ الحكم: Miguel Sesma Espinosa\n👥
+  الحضور: 22,413\n—————\n⚽ Racing Santander v Villarreal 
+ (2 - 2)\n🏆 LaLiga — Matchday 1\n🗓 Sun 16 Aug 2026 · 15:00 UTC\n
+ 🏟 Campos de Sport de El Sardinero, Santander\nReferee: Miguel Sesma Esp
+ inosa\nAttendance: 22,413\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد فياريا
+ ل — الدوري الإسباني | Tomorrow: Racing Santander vs Villa
+ rreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × فياريال | Kick-off in 30 min: Racing Santa
+ nder vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868026@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260823T173000Z
+DTEND:20260823T193000Z
+SUMMARY:Getafe vs Racing Santander (1 - 0) — LaLiga
+LOCATION:Estadio Coliseum\, Getafe\, Spain
+GEO:40.325729;-3.714964
+URL:https://www.fotmob.com/match/5868026
+DESCRIPTION:⚽ خيتافي × راسينج سانتاندير (1 - 0)\n
+ 🏆 الدوري الإسباني — الجولة 2\n🗓 الأحد 23 
+ أغسطس 2026 · 20:30 بتوقيت الرياض\n🏟 Estadio Coliseum
+ ، Getafe\n⚖️ الحكم: Juan Martínez Munuera\n👥 الحضور: 7
+ ,005\n—————\n⚽ Getafe v Racing Santander (1 - 0)\n🏆 LaLiga 
+ — Matchday 2\n🗓 Sun 23 Aug 2026 · 17:30 UTC\n🏟 Estadio Coliseum, 
+ Getafe\nReferee: Juan Martínez Munuera\nAttendance: 7,005\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: خيتافي ضد راسينج سانتاندير
+  — الدوري الإسباني | Tomorrow: Getafe vs Racing Santander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: خيتاف
+ ي × راسينج سانتاندير | Kick-off in 30 min: Getafe vs Raci
+ ng Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868037@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260828T170000Z
+DTEND:20260828T190000Z
+SUMMARY:Racing Santander vs Elche (3 - 2) — LaLiga
+LOCATION:Campos de Sport de El Sardinero\, Santander\, Spain
+GEO:43.476299;-3.793282
+URL:https://www.fotmob.com/match/5868037
+DESCRIPTION:⚽ راسينج سانتاندير × إلتشي (3 - 2)\n🏆
+  الدوري الإسباني — الجولة 3\n🗓 الجمعة 28 أ
+ غسطس 2026 · 20:00 بتوقيت الرياض\n🏟 Campos de Sport de 
+ El Sardinero، Santander\n⚖️ الحكم: Carlos Muñiz Muñoz\n👥 ا
+ لحضور: 22,496\n—————\n⚽ Racing Santander v Elche (3 - 2)\
+ n🏆 LaLiga — Matchday 3\n🗓 Fri 28 Aug 2026 · 17:00 UTC\n🏟 Campo
+ s de Sport de El Sardinero, Santander\nReferee: Carlos Muñiz Muñoz\nAtte
+ ndance: 22,496\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد إلتشي 
+ — الدوري الإسباني | Tomorrow: Racing Santander vs Elche
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × إلتشي | Kick-off in 30 min: Racing Santander
+  vs Elche
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868048@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T163000Z
+DTEND:20260905T183000Z
+SUMMARY:Rayo Vallecano vs Racing Santander (3 - 2) — LaLiga
+LOCATION:Estadio Ontime Butarque\, Leganés\, Spain
+GEO:40.340472;-3.760688
+URL:https://www.fotmob.com/match/5868048
+DESCRIPTION:⚽ رايو فاييكانو × راسينج سانتاندي
+ ر (3 - 2)\n🏆 الدوري الإسباني — الجولة 4\n🗓 ا
+ لسبت 5 سبتمبر 2026 · 19:30 بتوقيت الرياض\n🏟 Esta
+ dio Ontime Butarque، Leganés\n📺 Bein Sports HD2\n⚖️ الحكم: A
+ lejandro Quintero González\n👥 الحضور: 4,529\n—————\n
+ ⚽ Rayo Vallecano v Racing Santander (3 - 2)\n🏆 LaLiga — Matchday 4\
+ n🗓 Sat 05 Sep 2026 · 16:30 UTC\n🏟 Estadio Ontime Butarque, Leganés
+ \n📺 beIN Sport 2 HD\nReferee: Alejandro Quintero González\nAttendance:
+  4,529\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد راسينج سا
+ نتاندير — الدوري الإسباني — 📺 Bein Sports HD2 
+ | Tomorrow: Rayo Vallecano vs Racing Santander | TV: beIN Sport 2 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × راسينج سانتاندير — 📺 Bein Sports HD2
+  | Kick-off in 30 min: Rayo Vallecano vs Racing Santander | TV: beIN Sport
+  2 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868056@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T120000Z
+DTEND:20260912T140000Z
+SUMMARY:Racing Santander vs Deportivo Alavés — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868056
+DESCRIPTION:⚽ راسينج سانتاندير × ديبورتيفو أل
+ افيس\n🏆 الدوري الإسباني — الجولة 5\n🗓 ال
+ سبت 12 سبتمبر 2026 · 15:00 بتوقيت الرياض\n🏟 Estad
+ io El Sardinero\n📺 Premier Sports 1 UK، LaLigaTV، Premier Sports Play
+ er، Premier Sports 1 ROI، beIN SPORTS CONNECT، beIN Sports Connect Sing
+ apore، FanCode، Now Player\n—————\n⚽ Racing Santander v Depo
+ rtivo Alavés\n🏆 LaLiga — Matchday 5\n🗓 Sat 12 Sep 2026 · 12:00 U
+ TC\n🏟 Estadio El Sardinero\n📺 Premier Sports 1 UK, LaLigaTV, Premier
+  Sports Player, Premier Sports 1 ROI, beIN SPORTS CONNECT, beIN Sports Con
+ nect Singapore, FanCode, Now Player\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد ديبورت
+ يفو ألافيس — الدوري الإسباني — 📺 Premier Spo
+ rts 1 UK، LaLigaTV، Premier Sports Player، Premier Sports 1 ROI، beIN 
+ SPORTS CONNECT، beIN Sports Connect Singapore، FanCode، Now Player | To
+ morrow: Racing Santander vs Deportivo Alavés | TV: Premier Sports 1 UK\, 
+ LaLigaTV\, Premier Sports Player\, Premier Sports 1 ROI\, beIN SPORTS CONN
+ ECT\, beIN Sports Connect Singapore\, FanCode\, Now Player
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × ديبورتيفو ألافيس — 📺 Premier 
+ Sports 1 UK، LaLigaTV، Premier Sports Player، Premier Sports 1 ROI، be
+ IN SPORTS CONNECT، beIN Sports Connect Singapore، FanCode، Now Player |
+  Kick-off in 30 min: Racing Santander vs Deportivo Alavés | TV: Premier S
+ ports 1 UK\, LaLigaTV\, Premier Sports Player\, Premier Sports 1 ROI\, beI
+ N SPORTS CONNECT\, beIN Sports Connect Singapore\, FanCode\, Now Player
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868066@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T193000Z
+DTEND:20260916T213000Z
+SUMMARY:Barcelona vs Racing Santander — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868066
+DESCRIPTION:⚽ برشلونة × راسينج سانتاندير\n🏆 ا
+ لدوري الإسباني — الجولة 6\n🗓 الأربعاء 16 
+ سبتمبر 2026 · 22:30 بتوقيت الرياض\n🏟 Spotify Camp No
+ u\n—————\n⚽ Barcelona v Racing Santander\n🏆 LaLiga — Matc
+ hday 6\n🗓 Wed 16 Sep 2026 · 19:30 UTC\n🏟 Spotify Camp Nou\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد راسينج سانتاندي
+ ر — الدوري الإسباني | Tomorrow: Barcelona vs Racing Santa
+ nder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × راسينج سانتاندير | Kick-off in 30 min: Barcelona vs
+  Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868073@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T163000Z
+DTEND:20260919T183000Z
+SUMMARY:Celta Vigo vs Racing Santander — LaLiga
+LOCATION:Abanca Balaidos
+URL:https://www.fotmob.com/match/5868073
+DESCRIPTION:⚽ سيلتا فيجو × راسينج سانتاندير\n
+ 🏆 الدوري الإسباني — الجولة 7\n🗓 السبت 19 
+ سبتمبر 2026 · 19:30 بتوقيت الرياض\n🏟 Abanca Balaidos
+ \n—————\n⚽ Celta Vigo v Racing Santander\n🏆 LaLiga — Matc
+ hday 7\n🗓 Sat 19 Sep 2026 · 16:30 UTC\n🏟 Abanca Balaidos\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتا فيجو ضد راسينج سانتا
+ ندير — الدوري الإسباني | Tomorrow: Celta Vigo vs Racin
+ g Santander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتا 
+ فيجو × راسينج سانتاندير | Kick-off in 30 min: Celta Vi
+ go vs Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868087@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Racing Santander vs Valencia — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868087
+DESCRIPTION:⚽ راسينج سانتاندير × فالنسيا\n🏆 ا
+ لدوري الإسباني — الجولة 8\n🗓 الأحد 11 أكت
+ وبر 2026 · 16:00 بتوقيت الرياض\n🏟 Estadio El Sardinero\
+ n—————\n⚽ Racing Santander v Valencia\n🏆 LaLiga — Matchda
+ y 8\n🗓 Sun 11 Oct 2026 · 13:00 UTC\n🏟 Estadio El Sardinero\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد فالنسي
+ ا — الدوري الإسباني | Tomorrow: Racing Santander vs Valen
+ cia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × فالنسيا | Kick-off in 30 min: Racing Santa
+ nder vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868097@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Osasuna vs Racing Santander — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868097
+DESCRIPTION:⚽ أوساسونا × راسينج سانتاندير\n🏆 
+ الدوري الإسباني — الجولة 9\n🗓 الأحد 18 أك
+ توبر 2026 · 16:00 بتوقيت الرياض\n🏟 Estadio El Sadar\n
+ —————\n⚽ Osasuna v Racing Santander\n🏆 LaLiga — Matchday 
+ 9\n🗓 Sun 18 Oct 2026 · 13:00 UTC\n🏟 Estadio El Sadar\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد راسينج سانتاند
+ ير — الدوري الإسباني | Tomorrow: Osasuna vs Racing Santa
+ nder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × راسينج سانتاندير | Kick-off in 30 min: Osasuna vs
+  Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868106@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Racing Santander vs Espanyol — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868106
+DESCRIPTION:⚽ راسينج سانتاندير × إسبانيول\n🏆 
+ الدوري الإسباني — الجولة 10\n🗓 الأحد 25 أك
+ توبر 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio El Sardiner
+ o\n—————\n⚽ Racing Santander v Espanyol\n🏆 LaLiga — Match
+ day 10\n🗓 Sun 25 Oct 2026 · 14:00 UTC\n🏟 Estadio El Sardinero\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد إسباني
+ ول — الدوري الإسباني | Tomorrow: Racing Santander vs Esp
+ anyol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × إسبانيول | Kick-off in 30 min: Racing San
+ tander vs Espanyol
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868118@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Racing Santander vs Real Madrid — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868118
+DESCRIPTION:⚽ راسينج سانتاندير × ريال مدريد\n
+ 🏆 الدوري الإسباني — الجولة 11\n🗓 الأحد 1 
+ نوفمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio El Sard
+ inero\n—————\n⚽ Racing Santander v Real Madrid\n🏆 LaLiga 
+ — Matchday 11\n🗓 Sun 01 Nov 2026 · 14:00 UTC\n🏟 Estadio El Sardin
+ ero\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد ريال م
+ دريد — الدوري الإسباني | Tomorrow: Racing Santander vs
+  Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × ريال مدريد | Kick-off in 30 min: Racing 
+ Santander vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868125@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Málaga vs Racing Santander — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868125
+DESCRIPTION:⚽ مالقا × راسينج سانتاندير\n🏆 الد
+ وري الإسباني — الجولة 12\n🗓 الأحد 8 نوفمب
+ ر 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio La Rosaleda\n—
+ ————\n⚽ Málaga v Racing Santander\n🏆 LaLiga — Matchday 12\
+ n🗓 Sun 08 Nov 2026 · 14:00 UTC\n🏟 Estadio La Rosaleda\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد راسينج سانتاندير 
+ — الدوري الإسباني | Tomorrow: Málaga vs Racing Santander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × راسينج سانتاندير | Kick-off in 30 min: Málaga vs Racing
+  Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868137@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Racing Santander vs Real Sociedad — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868137
+DESCRIPTION:⚽ راسينج سانتاندير × ريال سوسيداد\
+ n🏆 الدوري الإسباني — الجولة 13\n🗓 الأحد 2
+ 2 نوفمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio El Sa
+ rdinero\n—————\n⚽ Racing Santander v Real Sociedad\n🏆 LaLig
+ a — Matchday 13\n🗓 Sun 22 Nov 2026 · 14:00 UTC\n🏟 Estadio El Sard
+ inero\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد ريال س
+ وسيداد — الدوري الإسباني | Tomorrow: Racing Santande
+ r vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × ريال سوسيداد | Kick-off in 30 min: Rac
+ ing Santander vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868146@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T140000Z
+DTEND:20261129T160000Z
+SUMMARY:Levante vs Racing Santander — LaLiga
+LOCATION:Estadio Ciudad de Valencia
+URL:https://www.fotmob.com/match/5868146
+DESCRIPTION:⚽ ليفانتي × راسينج سانتاندير\n🏆 ا
+ لدوري الإسباني — الجولة 14\n🗓 الأحد 29 نوف
+ مبر 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio Ciudad de Val
+ encia\n—————\n⚽ Levante v Racing Santander\n🏆 LaLiga — Ma
+ tchday 14\n🗓 Sun 29 Nov 2026 · 14:00 UTC\n🏟 Estadio Ciudad de Valen
+ cia\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفانتي ضد راسينج سانتاندي
+ ر — الدوري الإسباني | Tomorrow: Levante vs Racing Santand
+ er
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفان
+ تي × راسينج سانتاندير | Kick-off in 30 min: Levante vs R
+ acing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868157@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T140000Z
+DTEND:20261206T160000Z
+SUMMARY:Racing Santander vs Deportivo A Coruña — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868157
+DESCRIPTION:⚽ راسينج سانتاندير × ديبورتيفو لا
+ كورونيا\n🏆 الدوري الإسباني — الجولة 15\n
+ 🗓 الأحد 6 ديسمبر 2026 · 17:00 بتوقيت الرياض\n
+ 🏟 Estadio El Sardinero\n—————\n⚽ Racing Santander v Deporti
+ vo A Coruña\n🏆 LaLiga — Matchday 15\n🗓 Sun 06 Dec 2026 · 14:00 U
+ TC\n🏟 Estadio El Sardinero\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد ديبورت
+ يفو لاكورونيا — الدوري الإسباني | Tomorrow: Ra
+ cing Santander vs Deportivo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × ديبورتيفو لاكورونيا | Kick-off 
+ in 30 min: Racing Santander vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868162@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T140000Z
+DTEND:20261213T160000Z
+SUMMARY:Real Betis vs Racing Santander — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868162
+DESCRIPTION:⚽ ريال بيتيس × راسينج سانتاندير\n
+ 🏆 الدوري الإسباني — الجولة 16\n🗓 الأحد 13
+  ديسمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio de La 
+ Cartuja\n—————\n⚽ Real Betis v Racing Santander\n🏆 LaLiga 
+ — Matchday 16\n🗓 Sun 13 Dec 2026 · 14:00 UTC\n🏟 Estadio de La Car
+ tuja\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد راسينج سانتا
+ ندير — الدوري الإسباني | Tomorrow: Real Betis vs Racin
+ g Santander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × راسينج سانتاندير | Kick-off in 30 min: Real Bet
+ is vs Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868179@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T140000Z
+DTEND:20261220T160000Z
+SUMMARY:Sevilla vs Racing Santander — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868179
+DESCRIPTION:⚽ إشبيلية × راسينج سانتاندير\n🏆 ا
+ لدوري الإسباني — الجولة 17\n🗓 الأحد 20 ديس
+ مبر 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio R. Sanchez Pi
+ zjuan\n—————\n⚽ Sevilla v Racing Santander\n🏆 LaLiga — Ma
+ tchday 17\n🗓 Sun 20 Dec 2026 · 14:00 UTC\n🏟 Estadio R. Sanchez Pizj
+ uan\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد راسينج سانتاندي
+ ر — الدوري الإسباني | Tomorrow: Sevilla vs Racing Santand
+ er
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × راسينج سانتاندير | Kick-off in 30 min: Sevilla vs R
+ acing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868186@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T140000Z
+DTEND:20270103T160000Z
+SUMMARY:Racing Santander vs Athletic Club — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868186
+DESCRIPTION:⚽ راسينج سانتاندير × أتلتيك بلباو\
+ n🏆 الدوري الإسباني — الجولة 18\n🗓 الأحد 3
+  يناير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio El Sardi
+ nero\n—————\n⚽ Racing Santander v Athletic Club\n🏆 LaLiga 
+ — Matchday 18\n🗓 Sun 03 Jan 2027 · 14:00 UTC\n🏟 Estadio El Sardin
+ ero\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد أتلتيك
+  بلباو — الدوري الإسباني | Tomorrow: Racing Santander
+  vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × أتلتيك بلباو | Kick-off in 30 min: Rac
+ ing Santander vs Athletic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868193@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T140000Z
+DTEND:20270110T160000Z
+SUMMARY:Atlético Madrid vs Racing Santander — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868193
+DESCRIPTION:⚽ أتلتيكو مدريد × راسينج سانتاندي
+ ر\n🏆 الدوري الإسباني — الجولة 19\n🗓 الأح
+ د 10 يناير 2027 · 17:00 بتوقيت الرياض\n🏟 Riyadh Air 
+ Metropolitano\n—————\n⚽ Atlético Madrid v Racing Santander\n
+ 🏆 LaLiga — Matchday 19\n🗓 Sun 10 Jan 2027 · 14:00 UTC\n🏟 Riyad
+ h Air Metropolitano\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد راسينج سا
+ نتاندير — الدوري الإسباني | Tomorrow: Atlético Mad
+ rid vs Racing Santander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × راسينج سانتاندير | Kick-off in 30 min: A
+ tlético Madrid vs Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868208@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T140000Z
+DTEND:20270117T160000Z
+SUMMARY:Racing Santander vs Osasuna — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868208
+DESCRIPTION:⚽ راسينج سانتاندير × أوساسونا\n🏆 
+ الدوري الإسباني — الجولة 20\n🗓 الأحد 17 ين
+ اير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio El Sardinero\
+ n—————\n⚽ Racing Santander v Osasuna\n🏆 LaLiga — Matchday
+  20\n🗓 Sun 17 Jan 2027 · 14:00 UTC\n🏟 Estadio El Sardinero\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد أوساسو
+ نا — الدوري الإسباني | Tomorrow: Racing Santander vs Osa
+ suna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × أوساسونا | Kick-off in 30 min: Racing San
+ tander vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868217@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T140000Z
+DTEND:20270124T160000Z
+SUMMARY:Racing Santander vs Celta Vigo — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868217
+DESCRIPTION:⚽ راسينج سانتاندير × سيلتا فيجو\n
+ 🏆 الدوري الإسباني — الجولة 21\n🗓 الأحد 24
+  يناير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio El Sardi
+ nero\n—————\n⚽ Racing Santander v Celta Vigo\n🏆 LaLiga — 
+ Matchday 21\n🗓 Sun 24 Jan 2027 · 14:00 UTC\n🏟 Estadio El Sardinero\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد سيلتا 
+ فيجو — الدوري الإسباني | Tomorrow: Racing Santander vs
+  Celta Vigo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × سيلتا فيجو | Kick-off in 30 min: Racing 
+ Santander vs Celta Vigo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868230@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Villarreal vs Racing Santander — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868230
+DESCRIPTION:⚽ فياريال × راسينج سانتاندير\n🏆 ا
+ لدوري الإسباني — الجولة 22\n🗓 الأحد 31 ينا
+ ير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio de la Ceramica\
+ n—————\n⚽ Villarreal v Racing Santander\n🏆 LaLiga — Match
+ day 22\n🗓 Sun 31 Jan 2027 · 14:00 UTC\n🏟 Estadio de la Ceramica\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد راسينج سانتاندي
+ ر — الدوري الإسباني | Tomorrow: Villarreal vs Racing Sant
+ ander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × راسينج سانتاندير | Kick-off in 30 min: Villarreal v
+ s Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868240@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:Valencia vs Racing Santander — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868240
+DESCRIPTION:⚽ فالنسيا × راسينج سانتاندير\n🏆 ا
+ لدوري الإسباني — الجولة 23\n🗓 الأحد 7 فبر
+ اير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio Mestalla\n—
+ ————\n⚽ Valencia v Racing Santander\n🏆 LaLiga — Matchday 23
+ \n🗓 Sun 07 Feb 2027 · 14:00 UTC\n🏟 Estadio Mestalla\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد راسينج سانتاندي
+ ر — الدوري الإسباني | Tomorrow: Valencia vs Racing Santan
+ der
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × راسينج سانتاندير | Kick-off in 30 min: Valencia vs 
+ Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868245@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T140000Z
+DTEND:20270214T160000Z
+SUMMARY:Racing Santander vs Getafe — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868245
+DESCRIPTION:⚽ راسينج سانتاندير × خيتافي\n🏆 ال
+ دوري الإسباني — الجولة 24\n🗓 الأحد 14 فبرا
+ ير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio El Sardinero\n
+ —————\n⚽ Racing Santander v Getafe\n🏆 LaLiga — Matchday 2
+ 4\n🗓 Sun 14 Feb 2027 · 14:00 UTC\n🏟 Estadio El Sardinero\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد خيتافي
+  — الدوري الإسباني | Tomorrow: Racing Santander vs Getafe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × خيتافي | Kick-off in 30 min: Racing Santand
+ er vs Getafe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868251@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T140000Z
+DTEND:20270221T160000Z
+SUMMARY:Deportivo Alavés vs Racing Santander — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868251
+DESCRIPTION:⚽ ديبورتيفو ألافيس × راسينج سانتا
+ ندير\n🏆 الدوري الإسباني — الجولة 25\n🗓 ا
+ لأحد 21 فبراير 2027 · 17:00 بتوقيت الرياض\n🏟 Est
+ adio Mendizorroza\n—————\n⚽ Deportivo Alavés v Racing Santand
+ er\n🏆 LaLiga — Matchday 25\n🗓 Sun 21 Feb 2027 · 14:00 UTC\n🏟 E
+ stadio Mendizorroza\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد راسينج
+  سانتاندير — الدوري الإسباني | Tomorrow: Deportiv
+ o Alavés vs Racing Santander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × راسينج سانتاندير | Kick-off in 30 
+ min: Deportivo Alavés vs Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868268@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T140000Z
+DTEND:20270228T160000Z
+SUMMARY:Racing Santander vs Rayo Vallecano — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868268
+DESCRIPTION:⚽ راسينج سانتاندير × رايو فاييكان
+ و\n🏆 الدوري الإسباني — الجولة 26\n🗓 الأح
+ د 28 فبراير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio E
+ l Sardinero\n—————\n⚽ Racing Santander v Rayo Vallecano\n🏆 
+ LaLiga — Matchday 26\n🗓 Sun 28 Feb 2027 · 14:00 UTC\n🏟 Estadio El
+  Sardinero\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد رايو ف
+ اييكانو — الدوري الإسباني | Tomorrow: Racing Santan
+ der vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × رايو فاييكانو | Kick-off in 30 min: R
+ acing Santander vs Rayo Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868275@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T140000Z
+DTEND:20270307T160000Z
+SUMMARY:Espanyol vs Racing Santander — LaLiga
+LOCATION:RCDE Stadium
+URL:https://www.fotmob.com/match/5868275
+DESCRIPTION:⚽ إسبانيول × راسينج سانتاندير\n🏆 
+ الدوري الإسباني — الجولة 27\n🗓 الأحد 7 ما
+ رس 2027 · 17:00 بتوقيت الرياض\n🏟 RCDE Stadium\n———
+ ——\n⚽ Espanyol v Racing Santander\n🏆 LaLiga — Matchday 27\n🗓
+  Sun 07 Mar 2027 · 14:00 UTC\n🏟 RCDE Stadium\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إسبانيول ضد راسينج سانتاند
+ ير — الدوري الإسباني | Tomorrow: Espanyol vs Racing Sant
+ ander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إسبان
+ يول × راسينج سانتاندير | Kick-off in 30 min: Espanyol v
+ s Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868289@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T140000Z
+DTEND:20270314T160000Z
+SUMMARY:Racing Santander vs Atlético Madrid — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868289
+DESCRIPTION:⚽ راسينج سانتاندير × أتلتيكو مدري
+ د\n🏆 الدوري الإسباني — الجولة 28\n🗓 الأح
+ د 14 مارس 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio El Sa
+ rdinero\n—————\n⚽ Racing Santander v Atlético Madrid\n🏆 La
+ Liga — Matchday 28\n🗓 Sun 14 Mar 2027 · 14:00 UTC\n🏟 Estadio El S
+ ardinero\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد أتلتيك
+ و مدريد — الدوري الإسباني | Tomorrow: Racing Santand
+ er vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × أتلتيكو مدريد | Kick-off in 30 min: R
+ acing Santander vs Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868295@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T140000Z
+DTEND:20270321T160000Z
+SUMMARY:Racing Santander vs Real Betis — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868295
+DESCRIPTION:⚽ راسينج سانتاندير × ريال بيتيس\n
+ 🏆 الدوري الإسباني — الجولة 29\n🗓 الأحد 21
+  مارس 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio El Sardine
+ ro\n—————\n⚽ Racing Santander v Real Betis\n🏆 LaLiga — Ma
+ tchday 29\n🗓 Sun 21 Mar 2027 · 14:00 UTC\n🏟 Estadio El Sardinero\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد ريال ب
+ يتيس — الدوري الإسباني | Tomorrow: Racing Santander vs
+  Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × ريال بيتيس | Kick-off in 30 min: Racing 
+ Santander vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868301@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T130000Z
+DTEND:20270404T150000Z
+SUMMARY:Athletic Club vs Racing Santander — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868301
+DESCRIPTION:⚽ أتلتيك بلباو × راسينج سانتاندير\
+ n🏆 الدوري الإسباني — الجولة 30\n🗓 الأحد 4
+  أبريل 2027 · 16:00 بتوقيت الرياض\n🏟 San Mames\n—
+ ————\n⚽ Athletic Club v Racing Santander\n🏆 LaLiga — Matchd
+ ay 30\n🗓 Sun 04 Apr 2027 · 13:00 UTC\n🏟 San Mames\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد راسينج سان
+ تاندير — الدوري الإسباني | Tomorrow: Athletic Club v
+ s Racing Santander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × راسينج سانتاندير | Kick-off in 30 min: Ath
+ letic Club vs Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868316@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T130000Z
+DTEND:20270411T150000Z
+SUMMARY:Racing Santander vs Barcelona — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868316
+DESCRIPTION:⚽ راسينج سانتاندير × برشلونة\n🏆 ا
+ لدوري الإسباني — الجولة 31\n🗓 الأحد 11 أبر
+ يل 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio El Sardinero\n
+ —————\n⚽ Racing Santander v Barcelona\n🏆 LaLiga — Matchda
+ y 31\n🗓 Sun 11 Apr 2027 · 13:00 UTC\n🏟 Estadio El Sardinero\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد برشلون
+ ة — الدوري الإسباني | Tomorrow: Racing Santander vs Barce
+ lona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × برشلونة | Kick-off in 30 min: Racing Santa
+ nder vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868330@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T130000Z
+DTEND:20270418T150000Z
+SUMMARY:Real Sociedad vs Racing Santander — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868330
+DESCRIPTION:⚽ ريال سوسيداد × راسينج سانتاندير\
+ n🏆 الدوري الإسباني — الجولة 32\n🗓 الأحد 1
+ 8 أبريل 2027 · 16:00 بتوقيت الرياض\n🏟 Reale Arena\n
+ —————\n⚽ Real Sociedad v Racing Santander\n🏆 LaLiga — Mat
+ chday 32\n🗓 Sun 18 Apr 2027 · 13:00 UTC\n🏟 Reale Arena\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد راسينج سان
+ تاندير — الدوري الإسباني | Tomorrow: Real Sociedad v
+ s Racing Santander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × راسينج سانتاندير | Kick-off in 30 min: Real
+  Sociedad vs Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868336@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270421T130000Z
+DTEND:20270421T150000Z
+SUMMARY:Racing Santander vs Málaga — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868336
+DESCRIPTION:⚽ راسينج سانتاندير × مالقا\n🏆 الد
+ وري الإسباني — الجولة 33\n🗓 الأربعاء 21 أب
+ ريل 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio El Sardinero\
+ n—————\n⚽ Racing Santander v Málaga\n🏆 LaLiga — Matchday
+  33\n🗓 Wed 21 Apr 2027 · 13:00 UTC\n🏟 Estadio El Sardinero\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد مالقا 
+ — الدوري الإسباني | Tomorrow: Racing Santander vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × مالقا | Kick-off in 30 min: Racing Santander
+  vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868344@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T130000Z
+DTEND:20270502T150000Z
+SUMMARY:Deportivo A Coruña vs Racing Santander — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868344
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × راسينج سا
+ نتاندير\n🏆 الدوري الإسباني — الجولة 34\n
+ 🗓 الأحد 2 مايو 2027 · 16:00 بتوقيت الرياض\n🏟 A
+ banca-Riazor\n—————\n⚽ Deportivo A Coruña v Racing Santander\
+ n🏆 LaLiga — Matchday 34\n🗓 Sun 02 May 2027 · 13:00 UTC\n🏟 Aban
+ ca-Riazor\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد راس
+ ينج سانتاندير — الدوري الإسباني | Tomorrow: De
+ portivo A Coruña vs Racing Santander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × راسينج سانتاندير | Kick-off 
+ in 30 min: Deportivo A Coruña vs Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868356@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T130000Z
+DTEND:20270509T150000Z
+SUMMARY:Racing Santander vs Sevilla — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868356
+DESCRIPTION:⚽ راسينج سانتاندير × إشبيلية\n🏆 ا
+ لدوري الإسباني — الجولة 35\n🗓 الأحد 9 ماي
+ و 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio El Sardinero\n—
+ ————\n⚽ Racing Santander v Sevilla\n🏆 LaLiga — Matchday 35\
+ n🗓 Sun 09 May 2027 · 13:00 UTC\n🏟 Estadio El Sardinero\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد إشبيلي
+ ة — الدوري الإسباني | Tomorrow: Racing Santander vs Sevil
+ la
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × إشبيلية | Kick-off in 30 min: Racing Santa
+ nder vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868368@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T130000Z
+DTEND:20270516T150000Z
+SUMMARY:Real Madrid vs Racing Santander — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868368
+DESCRIPTION:⚽ ريال مدريد × راسينج سانتاندير\n
+ 🏆 الدوري الإسباني — الجولة 36\n🗓 الأحد 16
+  مايو 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n
+ —————\n⚽ Real Madrid v Racing Santander\n🏆 LaLiga — Match
+ day 36\n🗓 Sun 16 May 2027 · 13:00 UTC\n🏟 Estadio Bernabeu\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد راسينج سانتا
+ ندير — الدوري الإسباني | Tomorrow: Real Madrid vs Raci
+ ng Santander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × راسينج سانتاندير | Kick-off in 30 min: Real Mad
+ rid vs Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868376@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T130000Z
+DTEND:20270523T150000Z
+SUMMARY:Racing Santander vs Levante — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868376
+DESCRIPTION:⚽ راسينج سانتاندير × ليفانتي\n🏆 ا
+ لدوري الإسباني — الجولة 37\n🗓 الأحد 23 ماي
+ و 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio El Sardinero\n—
+ ————\n⚽ Racing Santander v Levante\n🏆 LaLiga — Matchday 37\
+ n🗓 Sun 23 May 2027 · 13:00 UTC\n🏟 Estadio El Sardinero\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد ليفانت
+ ي — الدوري الإسباني | Tomorrow: Racing Santander vs Levan
+ te
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × ليفانتي | Kick-off in 30 min: Racing Santa
+ nder vs Levante
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868383@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T130000Z
+DTEND:20270530T150000Z
+SUMMARY:Elche vs Racing Santander — LaLiga
+LOCATION:Estadio Martinez Valero
+URL:https://www.fotmob.com/match/5868383
+DESCRIPTION:⚽ إلتشي × راسينج سانتاندير\n🏆 الد
+ وري الإسباني — الجولة 38\n🗓 الأحد 30 مايو 2
+ 027 · 16:00 بتوقيت الرياض\n🏟 Estadio Martinez Valero\n—
+ ————\n⚽ Elche v Racing Santander\n🏆 LaLiga — Matchday 38\n
+ 🗓 Sun 30 May 2027 · 13:00 UTC\n🏟 Estadio Martinez Valero\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلتشي ضد راسينج سانتاندير 
+ — الدوري الإسباني | Tomorrow: Elche vs Racing Santander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلتشي 
+ × راسينج سانتاندير | Kick-off in 30 min: Elche vs Racing S
+ antander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-4995998@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251028T183000Z
+DTEND:20251028T203000Z
+SUMMARY:SD Logroñés vs Racing Santander (0 - 4) — Copa del Rey
+LOCATION:Estadio Nuevo Municipal Las Gaunas\, Logroño\, Spain
+GEO:42.453212;-2.453379
+URL:https://www.fotmob.com/match/4995998
+DESCRIPTION:⚽ SD Logroñés × راسينج سانتاندير (0 - 4)\n
+ 🏆 كأس ملك إسبانيا — الدور الأول\n🗓 الثل
+ اثاء 28 أكتوبر 2025 · 21:30 بتوقيت الرياض\n🏟 Est
+ adio Nuevo Municipal Las Gaunas، Logroño\n⚖️ الحكم: Alonso de E
+ na Wolf\n👥 الحضور: 3,857\n—————\n⚽ SD Logroñés v Ra
+ cing Santander (0 - 4)\n🏆 Copa del Rey — Round 1\n🗓 Tue 28 Oct 202
+ 5 · 18:30 UTC\n🏟 Estadio Nuevo Municipal Las Gaunas, Logroño\nReferee
+ : Alonso de Ena Wolf\nAttendance: 3,857\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: SD Logroñés ضد راسينج سانتاندي
+ ر — كأس ملك إسبانيا | Tomorrow: SD Logroñés vs Racing Sa
+ ntander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: SD Logroñ
+ és × راسينج سانتاندير | Kick-off in 30 min: SD Logroñés
+  vs Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057228@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251204T190000Z
+DTEND:20251204T210000Z
+SUMMARY:Ponferradina vs Racing Santander (1 - 2) — Copa del Rey
+LOCATION:Estadio El Toralín\, Ponferrada\, Spain
+GEO:42.557411;-6.599983
+URL:https://www.fotmob.com/match/5057228
+DESCRIPTION:⚽ بونفيراذينا × راسينج سانتاندير (
+ 1 - 2)\n🏆 كأس ملك إسبانيا — الدور الثاني\n
+ 🗓 الخميس 4 ديسمبر 2025 · 22:00 بتوقيت الرياض\n
+ 🏟 Estadio El Toralín، Ponferrada\n👥 الحضور: 3,577\n———
+ ——\n⚽ Ponferradina v Racing Santander (1 - 2)\n🏆 Copa del Rey —
+  Round 2\n🗓 Thu 04 Dec 2025 · 19:00 UTC\n🏟 Estadio El Toralín, Pon
+ ferrada\nAttendance: 3,577\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بونفيراذينا ضد راسينج سانت
+ اندير — كأس ملك إسبانيا | Tomorrow: Ponferradina vs Ra
+ cing Santander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بونفي
+ راذينا × راسينج سانتاندير | Kick-off in 30 min: Ponf
+ erradina vs Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5091469@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251217T180000Z
+DTEND:20251217T200000Z
+SUMMARY:Racing Santander vs Villarreal (2 - 1) — Copa del Rey
+LOCATION:Campos de Sport de El Sardinero\, Santander\, Spain
+GEO:43.476299;-3.793282
+URL:https://www.fotmob.com/match/5091469
+DESCRIPTION:⚽ راسينج سانتاندير × فياريال (2 - 1)\n
+ 🏆 كأس ملك إسبانيا — دور الـ32\n🗓 الأربعا
+ ء 17 ديسمبر 2025 · 21:00 بتوقيت الرياض\n🏟 Campos de
+  Sport de El Sardinero، Santander\n👥 الحضور: 20,768\n———
+ ——\n⚽ Racing Santander v Villarreal (2 - 1)\n🏆 Copa del Rey — R
+ ound of 32\n🗓 Wed 17 Dec 2025 · 18:00 UTC\n🏟 Campos de Sport de El 
+ Sardinero, Santander\nAttendance: 20,768\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد فياريا
+ ل — كأس ملك إسبانيا | Tomorrow: Racing Santander vs Villar
+ real
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × فياريال | Kick-off in 30 min: Racing Santa
+ nder vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5125326@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260115T201500Z
+DTEND:20260115T221500Z
+SUMMARY:Racing Santander vs Barcelona (0 - 2) — Copa del Rey
+LOCATION:Campos de Sport de El Sardinero\, Santander\, Spain
+GEO:43.476299;-3.793282
+URL:https://www.fotmob.com/match/5125326
+DESCRIPTION:⚽ راسينج سانتاندير × برشلونة (0 - 2)\n
+ 🏆 كأس ملك إسبانيا — دور الـ16\n🗓 الخميس 1
+ 5 يناير 2026 · 23:15 بتوقيت الرياض\n🏟 Campos de Sport
+  de El Sardinero، Santander\n👥 الحضور: 22,481\n—————\n
+ ⚽ Racing Santander v Barcelona (0 - 2)\n🏆 Copa del Rey — Round of 1
+ 6\n🗓 Thu 15 Jan 2026 · 20:15 UTC\n🏟 Campos de Sport de El Sardinero
+ , Santander\nAttendance: 22,481\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد برشلون
+ ة — كأس ملك إسبانيا | Tomorrow: Racing Santander vs Barcel
+ ona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × برشلونة | Kick-off in 30 min: Racing Santa
+ nder vs Barcelona
+END:VALARM
+END:VEVENT
+END:VCALENDAR

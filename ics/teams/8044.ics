@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Omonia Nicosia — UEFA Europa League Fixtures | Omonia Ni
+ cosia — مباريات الدوري الأوروبي
+X-WR-CALDESC:Omonia Nicosia — all matches in UEFA Europa League\, exact U
+ TC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026
+ -09-05T19:31:10Z.  •  Omonia Nicosia — جميع المباريات ف
+ ي الدوري الأوروبي بتوقيت UTC الدقيق مع الم
+ لاعب والقنوات الناقلة. المصدر: FotMob + 365scores
+  · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6112344@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T164500Z
+DTEND:20260916T184500Z
+SUMMARY:Omonia Nicosia vs Celta Vigo — UEFA Europa League
+LOCATION:Neo GSP\, Nicosía (Levkosía)\, Cyprus
+GEO:35.114542;33.362888
+URL:https://www.fotmob.com/match/6112344
+DESCRIPTION:⚽ Omonia Nicosia × سيلتا فيجو\n🏆 الدوري ا
+ لأوروبي — الجولة 1\n🗓 الأربعاء 16 سبتمبر 2
+ 026 · 19:45 بتوقيت الرياض\n🏟 Neo GSP، Nicosía (Levkosía
+ )\n—————\n⚽ Omonia Nicosia v Celta Vigo\n🏆 UEFA Europa Leag
+ ue — Matchday 1\n🗓 Wed 16 Sep 2026 · 16:45 UTC\n🏟 Neo GSP, Nicos
+ ía (Levkosía)\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Omonia Nicosia ضد سيلتا فيجو — ال
+ دوري الأوروبي | Tomorrow: Omonia Nicosia vs Celta Vigo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Omonia Nico
+ sia × سيلتا فيجو | Kick-off in 30 min: Omonia Nicosia vs Celta V
+ igo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112336@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:NK Celje vs Omonia Nicosia — UEFA Europa League
+LOCATION:Stadion Z'dežele\, Celje\, Slovenia
+GEO:46.246573;15.269923
+URL:https://www.fotmob.com/match/6112336
+DESCRIPTION:⚽ تسيليى × Omonia Nicosia\n🏆 الدوري الأو
+ روبي — الجولة 2\n🗓 الخميس 15 أكتوبر 2026 · 19:
+ 45 بتوقيت الرياض\n🏟 Stadion Z'dežele، Celje\n————
+ —\n⚽ NK Celje v Omonia Nicosia\n🏆 UEFA Europa League — Matchday 2
+ \n🗓 Thu 15 Oct 2026 · 16:45 UTC\n🏟 Stadion Z'dežele, Celje\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تسيليى ضد Omonia Nicosia — الدوري
+  الأوروبي | Tomorrow: NK Celje vs Omonia Nicosia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تسيلي
+ ى × Omonia Nicosia | Kick-off in 30 min: NK Celje vs Omonia Nicosia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112342@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Omonia Nicosia vs Benfica — UEFA Europa League
+LOCATION:Neo GSP\, Nicosía (Levkosía)\, Cyprus
+GEO:35.114542;33.362888
+URL:https://www.fotmob.com/match/6112342
+DESCRIPTION:⚽ Omonia Nicosia × بنفيكا\n🏆 الدوري الأو
+ روبي — الجولة 3\n🗓 الخميس 22 أكتوبر 2026 · 22:
+ 00 بتوقيت الرياض\n🏟 Neo GSP، Nicosía (Levkosía)\n——
+ ———\n⚽ Omonia Nicosia v Benfica\n🏆 UEFA Europa League — Match
+ day 3\n🗓 Thu 22 Oct 2026 · 19:00 UTC\n🏟 Neo GSP, Nicosía (Levkosí
+ a)\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Omonia Nicosia ضد بنفيكا — الدوري
+  الأوروبي | Tomorrow: Omonia Nicosia vs Benfica
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Omonia Nico
+ sia × بنفيكا | Kick-off in 30 min: Omonia Nicosia vs Benfica
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112368@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:NEC Nijmegen vs Omonia Nicosia — UEFA Europa League
+LOCATION:Stadion De Goffert
+URL:https://www.fotmob.com/match/6112368
+DESCRIPTION:⚽ نيميخين × Omonia Nicosia\n🏆 الدوري الأ
+ وروبي — الجولة 4\n🗓 الخميس 5 نوفمبر 2026 · 20
+ :45 بتوقيت الرياض\n🏟 Stadion De Goffert\n—————\n
+ ⚽ NEC Nijmegen v Omonia Nicosia\n🏆 UEFA Europa League — Matchday 4\
+ n🗓 Thu 05 Nov 2026 · 17:45 UTC\n🏟 Stadion De Goffert\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيميخين ضد Omonia Nicosia — الدور
+ ي الأوروبي | Tomorrow: NEC Nijmegen vs Omonia Nicosia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيميخ
+ ين × Omonia Nicosia | Kick-off in 30 min: NEC Nijmegen vs Omonia Nicosi
+ a
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112252@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Juventus vs Omonia Nicosia — UEFA Europa League
+LOCATION:Allianz Stadium
+URL:https://www.fotmob.com/match/6112252
+DESCRIPTION:⚽ يوفنتوس × Omonia Nicosia\n🏆 الدوري الأ
+ وروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 2026 · 2
+ 3:00 بتوقيت الرياض\n🏟 Allianz Stadium\n—————\n⚽
+  Juventus v Omonia Nicosia\n🏆 UEFA Europa League — Matchday 5\n🗓 T
+ hu 26 Nov 2026 · 20:00 UTC\n🏟 Allianz Stadium\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد Omonia Nicosia — الدور
+ ي الأوروبي | Tomorrow: Juventus vs Omonia Nicosia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × Omonia Nicosia | Kick-off in 30 min: Juventus vs Omonia Nicosia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112343@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T174500Z
+DTEND:20261210T194500Z
+SUMMARY:Omonia Nicosia vs Celtic — UEFA Europa League
+LOCATION:Neo GSP Stadium
+URL:https://www.fotmob.com/match/6112343
+DESCRIPTION:⚽ Omonia Nicosia × سيلتيك\n🏆 الدوري الأو
+ روبي — الجولة 6\n🗓 الخميس 10 ديسمبر 2026 · 20:
+ 45 بتوقيت الرياض\n🏟 Neo GSP Stadium\n—————\n⚽ O
+ monia Nicosia v Celtic\n🏆 UEFA Europa League — Matchday 6\n🗓 Thu 1
+ 0 Dec 2026 · 17:45 UTC\n🏟 Neo GSP Stadium\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Omonia Nicosia ضد سيلتيك — الدوري
+  الأوروبي | Tomorrow: Omonia Nicosia vs Celtic
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Omonia Nico
+ sia × سيلتيك | Kick-off in 30 min: Omonia Nicosia vs Celtic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112308@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:Rennes vs Omonia Nicosia — UEFA Europa League
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/6112308
+DESCRIPTION:⚽ ستاد رين × Omonia Nicosia\n🏆 الدوري الأ
+ وروبي — الجولة 7\n🗓 الخميس 21 يناير 2027 · 23:
+ 00 بتوقيت الرياض\n🏟 Roazhon Park\n—————\n⚽ Renn
+ es v Omonia Nicosia\n🏆 UEFA Europa League — Matchday 7\n🗓 Thu 21 J
+ an 2027 · 20:00 UTC\n🏟 Roazhon Park\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد Omonia Nicosia — الدو
+ ري الأوروبي | Tomorrow: Rennes vs Omonia Nicosia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × Omonia Nicosia | Kick-off in 30 min: Rennes vs Omonia Nicosia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112345@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Omonia Nicosia vs Beşiktaş — UEFA Europa League
+LOCATION:Neo GSP Stadium
+URL:https://www.fotmob.com/match/6112345
+DESCRIPTION:⚽ Omonia Nicosia × بشكتاش\n🏆 الدوري الأو
+ روبي — الجولة 8\n🗓 الخميس 28 يناير 2027 · 23:00
+  بتوقيت الرياض\n🏟 Neo GSP Stadium\n—————\n⚽ Omo
+ nia Nicosia v Beşiktaş\n🏆 UEFA Europa League — Matchday 8\n🗓 Thu
+  28 Jan 2027 · 20:00 UTC\n🏟 Neo GSP Stadium\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Omonia Nicosia ضد بشكتاش — الدوري
+  الأوروبي | Tomorrow: Omonia Nicosia vs Beşiktaş
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Omonia Nico
+ sia × بشكتاش | Kick-off in 30 min: Omonia Nicosia vs Beşiktaş
+END:VALARM
+END:VEVENT
+END:VCALENDAR

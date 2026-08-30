@@ -1,0 +1,185 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Albacete — Copa del Rey Fixtures | ألباسيتي — 
+ مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Albacete — all matches in Copa del Rey\, exact UTC kickoffs\
+ , stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31
+ :10Z.  •  ألباسيتي — جميع المباريات في كأس 
+ ملك إسبانيا بتوقيت UTC الدقيق مع الملاعب و
+ القنوات الناقلة. المصدر: FotMob + 365scores · تحد
+ يث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4996034@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251028T190000Z
+DTEND:20251028T210000Z
+SUMMARY:UD San Fernando vs Albacete (0 - 3) — Copa del Rey
+LOCATION:Estadio de Gran Canaria\, Las Palmas de Gran Canaria\, Spain
+GEO:28.100362;-15.456707
+URL:https://www.fotmob.com/match/4996034
+DESCRIPTION:⚽ UD San Fernando × ألباسيتي (0 - 3)\n🏆 كأس م
+ لك إسبانيا — الدور الأول\n🗓 الثلاثاء 28 أ
+ كتوبر 2025 · 22:00 بتوقيت الرياض\n🏟 Estadio de Gran C
+ anaria، Las Palmas de Gran Canaria\n⚖️ الحكم: Rafael Sánchez L
+ ópez\n👥 الحضور: 2,000\n—————\n⚽ UD San Fernando v Al
+ bacete (0 - 3)\n🏆 Copa del Rey — Round 1\n🗓 Tue 28 Oct 2025 · 19:
+ 00 UTC\n🏟 Estadio de Gran Canaria, Las Palmas de Gran Canaria\nReferee:
+  Rafael Sánchez López\nAttendance: 2,000\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: UD San Fernando ضد ألباسيتي — كأس 
+ ملك إسبانيا | Tomorrow: UD San Fernando vs Albacete
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: UD San Fern
+ ando × ألباسيتي | Kick-off in 30 min: UD San Fernando vs Albacete
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057222@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251204T180000Z
+DTEND:20251204T200000Z
+SUMMARY:Leganés vs Albacete (1 - 2) — Copa del Rey
+LOCATION:Estadio Ontime Butarque\, Leganés\, Spain
+GEO:40.340472;-3.760688
+URL:https://www.fotmob.com/match/5057222
+DESCRIPTION:⚽ ليجانيس × ألباسيتي (1 - 2)\n🏆 كأس م
+ لك إسبانيا — الدور الثاني\n🗓 الخميس 4 دي
+ سمبر 2025 · 21:00 بتوقيت الرياض\n🏟 Estadio Ontime Buta
+ rque، Leganés\n👥 الحضور: 6,144\n—————\n⚽ Leganés v
+  Albacete (1 - 2)\n🏆 Copa del Rey — Round 2\n🗓 Thu 04 Dec 2025 · 
+ 18:00 UTC\n🏟 Estadio Ontime Butarque, Leganés\nAttendance: 6,144\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليجانيس ضد ألباسيتي — كأس 
+ ملك إسبانيا | Tomorrow: Leganés vs Albacete
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليجان
+ يس × ألباسيتي | Kick-off in 30 min: Leganés vs Albacete
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5091455@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251217T180000Z
+DTEND:20251217T200000Z
+SUMMARY:Albacete vs Celta Vigo (2 - 2) — Copa del Rey
+LOCATION:Estadio Carlos Belmonte\, Albacete\, Spain
+GEO:38.981146;-1.852114
+URL:https://www.fotmob.com/match/5091455
+DESCRIPTION:⚽ ألباسيتي × سيلتا فيجو (2 - 2)\n🏆 كأ
+ س ملك إسبانيا — دور الـ32\n🗓 الأربعاء 17 د
+ يسمبر 2025 · 21:00 بتوقيت الرياض\n🏟 Estadio Carlos Be
+ lmonte، Albacete\n👥 الحضور: 12,106\n—————\n⚽ Albacet
+ e v Celta Vigo (2 - 2)\n🏆 Copa del Rey — Round of 32\n🗓 Wed 17 Dec
+  2025 · 18:00 UTC\n🏟 Estadio Carlos Belmonte, Albacete\nAttendance: 12
+ ,106\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ألباسيتي ضد سيلتا فيجو — ك
+ أس ملك إسبانيا | Tomorrow: Albacete vs Celta Vigo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ألباس
+ يتي × سيلتا فيجو | Kick-off in 30 min: Albacete vs Celta Vigo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5125322@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260114T200000Z
+DTEND:20260114T220000Z
+SUMMARY:Albacete vs Real Madrid (3 - 2) — Copa del Rey
+LOCATION:Estadio Carlos Belmonte\, Albacete\, Spain
+GEO:38.981146;-1.852114
+URL:https://www.fotmob.com/match/5125322
+DESCRIPTION:⚽ ألباسيتي × ريال مدريد (3 - 2)\n🏆 كأ
+ س ملك إسبانيا — دور الـ16\n🗓 الأربعاء 14 ي
+ ناير 2026 · 23:00 بتوقيت الرياض\n🏟 Estadio Carlos Belm
+ onte، Albacete\n⚖️ الحكم: Víctor García Verdura\n👥 الحض
+ ور: 16,807\n—————\n⚽ Albacete v Real Madrid (3 - 2)\n🏆 Co
+ pa del Rey — Round of 16\n🗓 Wed 14 Jan 2026 · 20:00 UTC\n🏟 Estadi
+ o Carlos Belmonte, Albacete\nReferee: Víctor García Verdura\nAttendance:
+  16,807\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ألباسيتي ضد ريال مدريد — ك
+ أس ملك إسبانيا | Tomorrow: Albacete vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ألباس
+ يتي × ريال مدريد | Kick-off in 30 min: Albacete vs Real Madri
+ d
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5144838@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260203T200000Z
+DTEND:20260203T220000Z
+SUMMARY:Albacete vs Barcelona (1 - 2) — Copa del Rey
+LOCATION:Estadio Carlos Belmonte\, Albacete\, Spain
+GEO:38.981146;-1.852114
+URL:https://www.fotmob.com/match/5144838
+DESCRIPTION:⚽ ألباسيتي × برشلونة (1 - 2)\n🏆 كأس م
+ لك إسبانيا — ربع النهائي\n🗓 الثلاثاء 3 ف
+ براير 2026 · 23:00 بتوقيت الرياض\n🏟 Estadio Carlos Be
+ lmonte، Albacete\n⚖️ الحكم: José Luis Munuera Montero\n👥 ا
+ لحضور: 16,745\n—————\n⚽ Albacete v Barcelona (1 - 2)\n
+ 🏆 Copa del Rey — Quarter-Finals\n🗓 Tue 03 Feb 2026 · 20:00 UTC\n
+ 🏟 Estadio Carlos Belmonte, Albacete\nReferee: José Luis Munuera Monter
+ o\nAttendance: 16,745\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ألباسيتي ضد برشلونة — كأس 
+ ملك إسبانيا | Tomorrow: Albacete vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ألباس
+ يتي × برشلونة | Kick-off in 30 min: Albacete vs Barcelona
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ LASK — UEFA Champions League Fixtures | LASK — مبا
+ ريات دوري أبطال أوروبا
+X-WR-CALDESC:LASK — all matches in UEFA Champions League\, exact UTC kick
+ offs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T
+ 19:31:10Z.  •  LASK — جميع المباريات في دوري أبط
+ ال أوروبا بتوقيت UTC الدقيق مع الملاعب وال
+ قنوات الناقلة. المصدر: FotMob + 365scores · تحديث 
+ تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6106404@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T164500Z
+DTEND:20260908T184500Z
+SUMMARY:AEK Athens vs LASK — UEFA Champions League
+LOCATION:ALLWYN Arena\, Athína (Athens)\, Greece
+GEO:38.037166;23.741439
+URL:https://www.fotmob.com/match/6106404
+DESCRIPTION:⚽ أيك أثينا × LASK\n🏆 دوري أبطال أور
+ وبا — الجولة 1\n🗓 الثلاثاء 8 سبتمبر 2026 · 19
+ :45 بتوقيت الرياض\n🏟 ALLWYN Arena، Athína (Athens)\n📺 
+ Paramount+ (US)\n—————\n⚽ AEK Athens v LASK\n🏆 UEFA Champio
+ ns League — Matchday 1\n🗓 Tue 08 Sep 2026 · 16:45 UTC\n🏟 ALLWYN A
+ rena, Athína (Athens)\n📺 Paramount+ (US)\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أيك أثينا ضد LASK — دوري أبطا
+ ل أوروبا — 📺 Paramount+ (US) | Tomorrow: AEK Athens vs LASK | 
+ TV: Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أيك أث
+ ينا × LASK — 📺 Paramount+ (US) | Kick-off in 30 min: AEK Athens v
+ s LASK | TV: Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106405@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261014T164500Z
+DTEND:20261014T184500Z
+SUMMARY:LASK vs Liverpool — UEFA Champions League
+LOCATION:Raiffeisen Arena\, Linz\, Austria
+GEO:48.293703;14.276587
+URL:https://www.fotmob.com/match/6106405
+DESCRIPTION:⚽ LASK × ليفربول\n🏆 دوري أبطال أوروب
+ ا — الجولة 2\n🗓 الأربعاء 14 أكتوبر 2026 · 19:45
+  بتوقيت الرياض\n🏟 Raiffeisen Arena، Linz\n—————\
+ n⚽ LASK v Liverpool\n🏆 UEFA Champions League — Matchday 2\n🗓 Wed
+  14 Oct 2026 · 16:45 UTC\n🏟 Raiffeisen Arena, Linz\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: LASK ضد ليفربول — دوري أبطال 
+ أوروبا | Tomorrow: LASK vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: LASK × ل
+ يفربول | Kick-off in 30 min: LASK vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106281@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+SUMMARY:Sporting CP vs LASK — UEFA Champions League
+LOCATION:Estádio José Alvalade\, Lisboa\, Portugal
+GEO:38.761207;-9.160876
+URL:https://www.fotmob.com/match/6106281
+DESCRIPTION:⚽ سبورتنج لشبونة × LASK\n🏆 دوري أبطا
+ ل أوروبا — الجولة 3\n🗓 الأربعاء 21 أكتوبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 Estádio José Alvalade، Li
+ sboa\n—————\n⚽ Sporting CP v LASK\n🏆 UEFA Champions League 
+ — Matchday 3\n🗓 Wed 21 Oct 2026 · 19:00 UTC\n🏟 Estádio José Alv
+ alade, Lisboa\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سبورتنج لشبونة ضد LASK — دور
+ ي أبطال أوروبا | Tomorrow: Sporting CP vs LASK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سبورت
+ نج لشبونة × LASK | Kick-off in 30 min: Sporting CP vs LASK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106408@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+SUMMARY:LASK vs Slovan Bratislava — UEFA Champions League
+LOCATION:Raiffeisen Arena
+URL:https://www.fotmob.com/match/6106408
+DESCRIPTION:⚽ LASK × سلوفان براتيسلافا\n🏆 دوري أ
+ بطال أوروبا — الجولة 4\n🗓 الثلاثاء 3 نوفم
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Raiffeisen Arena\n—
+ ————\n⚽ LASK v Slovan Bratislava\n🏆 UEFA Champions League —
+  Matchday 4\n🗓 Tue 03 Nov 2026 · 20:00 UTC\n🏟 Raiffeisen Arena\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: LASK ضد سلوفان براتيسلافا — 
+ دوري أبطال أوروبا | Tomorrow: LASK vs Slovan Bratislava
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: LASK × س
+ لوفان براتيسلافا | Kick-off in 30 min: LASK vs Slovan Brati
+ slava
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106317@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T174500Z
+DTEND:20261124T194500Z
+SUMMARY:Bodø/Glimt vs LASK — UEFA Champions League
+LOCATION:Aspmyra Stadion
+URL:https://www.fotmob.com/match/6106317
+DESCRIPTION:⚽ بودو جليمت × LASK\n🏆 دوري أبطال أو
+ روبا — الجولة 5\n🗓 الثلاثاء 24 نوفمبر 2026 ·
+  20:45 بتوقيت الرياض\n🏟 Aspmyra Stadion\n—————\n
+ ⚽ Bodø/Glimt v LASK\n🏆 UEFA Champions League — Matchday 5\n🗓 Tu
+ e 24 Nov 2026 · 17:45 UTC\n🏟 Aspmyra Stadion\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بودو جليمت ضد LASK — دوري أبط
+ ال أوروبا | Tomorrow: Bodø/Glimt vs LASK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بودو ج
+ ليمت × LASK | Kick-off in 30 min: Bodø/Glimt vs LASK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106407@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:LASK vs Fenerbahçe — UEFA Champions League
+LOCATION:Raiffeisen Arena
+URL:https://www.fotmob.com/match/6106407
+DESCRIPTION:⚽ LASK × فنربخشة\n🏆 دوري أبطال أوروب
+ ا — الجولة 6\n🗓 الأربعاء 9 ديسمبر 2026 · 23:00 
+ بتوقيت الرياض\n🏟 Raiffeisen Arena\n—————\n⚽ LAS
+ K v Fenerbahçe\n🏆 UEFA Champions League — Matchday 6\n🗓 Wed 09 De
+ c 2026 · 20:00 UTC\n🏟 Raiffeisen Arena\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: LASK ضد فنربخشة — دوري أبطال 
+ أوروبا | Tomorrow: LASK vs Fenerbahçe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: LASK × ف
+ نربخشة | Kick-off in 30 min: LASK vs Fenerbahçe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106245@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+SUMMARY:Real Madrid vs LASK — UEFA Champions League
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/6106245
+DESCRIPTION:⚽ ريال مدريد × LASK\n🏆 دوري أبطال أو
+ روبا — الجولة 7\n🗓 الثلاثاء 19 يناير 2027 · 2
+ 3:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n—————\n
+ ⚽ Real Madrid v LASK\n🏆 UEFA Champions League — Matchday 7\n🗓 Tu
+ e 19 Jan 2027 · 20:00 UTC\n🏟 Estadio Bernabeu\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد LASK — دوري أبط
+ ال أوروبا | Tomorrow: Real Madrid vs LASK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × LASK | Kick-off in 30 min: Real Madrid vs LASK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106406@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:LASK vs FC Porto — UEFA Champions League
+LOCATION:Raiffeisen Arena
+URL:https://www.fotmob.com/match/6106406
+DESCRIPTION:⚽ LASK × بورتو\n🏆 دوري أبطال أوروبا 
+ — الجولة 8\n🗓 الأربعاء 27 يناير 2027 · 23:00 بت
+ وقيت الرياض\n🏟 Raiffeisen Arena\n—————\n⚽ LASK v 
+ FC Porto\n🏆 UEFA Champions League — Matchday 8\n🗓 Wed 27 Jan 2027 
+ · 20:00 UTC\n🏟 Raiffeisen Arena\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: LASK ضد بورتو — دوري أبطال أو
+ روبا | Tomorrow: LASK vs FC Porto
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: LASK × ب
+ ورتو | Kick-off in 30 min: LASK vs FC Porto
+END:VALARM
+END:VEVENT
+END:VCALENDAR

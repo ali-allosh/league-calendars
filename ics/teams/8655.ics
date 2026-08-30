@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Blackburn Rovers — FA Cup Fixtures | Blackburn Rovers 
+ — مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Blackburn Rovers — all matches in FA Cup\, exact UTC kickoff
+ s\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:
+ 31:10Z.  •  Blackburn Rovers — جميع المباريات في كأس
+  الاتحاد الإنجليزي بتوقيت UTC الدقيق مع ال
+ ملاعب والقنوات الناقلة. المصدر: FotMob + 365scor
+ es · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5089914@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260111T143000Z
+DTEND:20260111T163000Z
+SUMMARY:Hull City vs Blackburn Rovers (0 - 0) — FA Cup
+LOCATION:The MKM Stadium\, Hull\, England
+GEO:53.746240;-0.367640
+URL:https://www.fotmob.com/match/5089914
+DESCRIPTION:⚽ هال سيتي × Blackburn Rovers (0 - 0)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الثالث\n🗓 الأح
+ د 11 يناير 2026 · 17:30 بتوقيت الرياض\n🏟 The MKM Sta
+ dium، Hull\n⚖️ الحكم: William James Finnie\n👥 الحضور: 6
+ ,627\n—————\n⚽ Hull City v Blackburn Rovers (0 - 0)\n🏆 FA C
+ up — Round 3\n🗓 Sun 11 Jan 2026 · 14:30 UTC\n🏟 The MKM Stadium, H
+ ull\nReferee: William James Finnie\nAttendance: 6,627\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد Blackburn Rovers — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Hull City vs Blackburn Rover
+ s
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × Blackburn Rovers | Kick-off in 30 min: Hull City vs Blackburn Rove
+ rs
+END:VALARM
+END:VEVENT
+END:VCALENDAR

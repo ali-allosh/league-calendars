@@ -1,0 +1,1415 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al Hilal — Saudi Pro League & AFC Champions League Elite
+  & King's Cup Fixtures | الهلال — مباريات دوري روشن
+  السعودي ودوري أبطال آسيا للنخبة وكأس خا
+ دم الحرمين الشريفين
+X-WR-CALDESC:Al Hilal — all matches in Saudi Pro League & AFC Champions L
+ eague Elite & King's Cup\, exact UTC kickoffs\, stadiums & TV. Data: FotMo
+ b + 365scores · auto-updated 2026-09-05T19:31:10Z.  •  الهلال —
+  جميع المباريات في دوري روشن السعودي ودو
+ ري أبطال آسيا للنخبة وكأس خادم الحرمين ا
+ لشريفين بتوقيت UTC الدقيق مع الملاعب والق
+ نوات الناقلة. المصدر: FotMob + 365scores · تحديث ت
+ لقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5969051@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260814T180000Z
+DTEND:20260814T200000Z
+SUMMARY:Al Hilal vs Al-Faisaly (4 - 2) — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/5969051
+DESCRIPTION:⚽ الهلال × الفيصلي (4 - 2)\n🏆 دوري رو
+ شن السعودي — الجولة 1\n🗓 الجمعة 14 أغسطس 20
+ 26 · 21:00 بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n👥 
+ الحضور: 20,616\n—————\n⚽ Al Hilal v Al-Faisaly (4 - 2)\n
+ 🏆 Saudi Pro League — Matchday 1\n🗓 Fri 14 Aug 2026 · 18:00 UTC\n
+ 🏟 Kingdom Arena, Riyadh\nAttendance: 20,616\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الفيصلي — دوري ر
+ وشن السعودي | Tomorrow: Al Hilal vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الفيصلي | Kick-off in 30 min: Al Hilal vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970090@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260820T180000Z
+DTEND:20260820T200000Z
+SUMMARY:Al-Fayha vs Al Hilal (0 - 3) — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/5970090
+DESCRIPTION:⚽ الفيحاء × الهلال (0 - 3)\n🏆 دوري رو
+ شن السعودي — الجولة 2\n🗓 الخميس 20 أغسطس 20
+ 26 · 21:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadiu
+ m، Al Majma'ah\n⚖️ الحكم: Danny Makkelie\n👥 الحضور: 3,4
+ 70\n—————\n⚽ Al-Fayha v Al Hilal (0 - 3)\n🏆 Saudi Pro Leagu
+ e — Matchday 2\n🗓 Thu 20 Aug 2026 · 18:00 UTC\n🏟 Al Majma'ah Spor
+ ts City Stadium, Al Majma'ah\nReferee: Danny Makkelie\nAttendance: 3,470\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد الهلال — دوري ر
+ وشن السعودي | Tomorrow: Al-Fayha vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × الهلال | Kick-off in 30 min: Al-Fayha vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970109@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260828T180000Z
+DTEND:20260828T200000Z
+SUMMARY:Al Khaleej vs Al Hilal (1 - 5) — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/5970109
+DESCRIPTION:⚽ الخليج × الهلال (1 - 5)\n🏆 دوري روش
+ ن السعودي — الجولة 4\n🗓 الجمعة 28 أغسطس 2026
+  · 21:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium
+ ، Dammam\n⚖️ الحكم: István Kovács\n👥 الحضور: 12,083\n
+ —————\n⚽ Al Khaleej v Al Hilal (1 - 5)\n🏆 Saudi Pro League 
+ — Matchday 4\n🗓 Fri 28 Aug 2026 · 18:00 UTC\n🏟 Prince Mohammed Bi
+ n Fahd Stadium, Dammam\nReferee: István Kovács\nAttendance: 12,083\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد الهلال — دوري رو
+ شن السعودي | Tomorrow: Al Khaleej vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × الهلال | Kick-off in 30 min: Al Khaleej vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970116@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260901T180000Z
+DTEND:20260901T200000Z
+SUMMARY:Al Hilal vs Al Ahli (3 - 0) — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/5970116
+DESCRIPTION:⚽ الهلال × الأهلي (3 - 0)\n🏆 دوري روش
+ ن السعودي — الجولة 3\n🗓 الثلاثاء 1 سبتمبر
+  2026 · 21:00 بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n⚖
+ ️ الحكم: Jesús Valenzuela\n👥 الحضور: 23,051\n————
+ —\n⚽ Al Hilal v Al Ahli (3 - 0)\n🏆 Saudi Pro League — Matchday 3\
+ n🗓 Tue 01 Sep 2026 · 18:00 UTC\n🏟 Kingdom Arena, Riyadh\nReferee: J
+ esús Valenzuela\nAttendance: 23,051\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الأهلي — دوري رو
+ شن السعودي | Tomorrow: Al Hilal vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الأهلي | Kick-off in 30 min: Al Hilal vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970122@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260904T180000Z
+DTEND:20260904T200000Z
+SUMMARY:Al Shabab vs Al Hilal (0 - 2) — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/5970122
+DESCRIPTION:⚽ الشباب × الهلال (0 - 2)\n🏆 دوري روش
+ ن السعودي — الجولة 5\n🗓 الجمعة 4 سبتمبر 202
+ 6 · 21:00 بتوقيت الرياض\n🏟 SHG Arena، Riyadh\n⚖️ ال
+ حكم: Facundo Tello\n—————\n⚽ Al Shabab v Al Hilal (0 - 2)\n
+ 🏆 Saudi Pro League — Matchday 5\n🗓 Fri 04 Sep 2026 · 18:00 UTC\n
+ 🏟 SHG Arena, Riyadh\nReferee: Facundo Tello\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد الهلال — دوري رو
+ شن السعودي | Tomorrow: Al Shabab vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × الهلال | Kick-off in 30 min: Al Shabab vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970127@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260907T180000Z
+DTEND:20260907T200000Z
+SUMMARY:Al Hilal vs Neom SC — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/5970127
+DESCRIPTION:⚽ الهلال × نيوم\n🏆 دوري روشن السعو
+ دي — الجولة 6\n🗓 الاثنين 7 سبتمبر 2026 · 21:00 
+ بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n📺 ثمانية 
+ 1، تطبيق ثمانية\n—————\n⚽ Al Hilal v Neom SC\n🏆
+  Saudi Pro League — Matchday 6\n🗓 Mon 07 Sep 2026 · 18:00 UTC\n🏟 
+ Kingdom Arena, Riyadh\n📺 Thmanyah 1, Thmanyah\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد نيوم — دوري روشن 
+ السعودي — 📺 ثمانية 1، تطبيق ثمانية | Tomorro
+ w: Al Hilal vs Neom SC | TV: Thmanyah 1\, Thmanyah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × نيوم — 📺 ثمانية 1، تطبيق ثمانية | Kick-of
+ f in 30 min: Al Hilal vs Neom SC | TV: Thmanyah 1\, Thmanyah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970142@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T155000Z
+DTEND:20260912T175000Z
+SUMMARY:Al-Taawoun vs Al Hilal — Saudi Pro League
+LOCATION:Al-Taawoun Club Stadium
+URL:https://www.fotmob.com/match/5970142
+DESCRIPTION:⚽ التعاون × الهلال\n🏆 دوري روشن ال
+ سعودي — الجولة 7\n🗓 السبت 12 سبتمبر 2026 · 18:
+ 50 بتوقيت الرياض\n🏟 Al-Taawoun Club Stadium\n📺 OneFootba
+ ll PPV\n—————\n⚽ Al-Taawoun v Al Hilal\n🏆 Saudi Pro League 
+ — Matchday 7\n🗓 Sat 12 Sep 2026 · 15:50 UTC\n🏟 Al-Taawoun Club St
+ adium\n📺 OneFootball PPV\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الهلال — دوري ر
+ وشن السعودي — 📺 OneFootball PPV | Tomorrow: Al-Taawoun vs A
+ l Hilal | TV: OneFootball PPV
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الهلال — 📺 OneFootball PPV | Kick-off in 30 min: Al-Taa
+ woun vs Al Hilal | TV: OneFootball PPV
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970149@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T180000Z
+DTEND:20261010T200000Z
+SUMMARY:Al Hilal vs Al Ittihad — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium
+URL:https://www.fotmob.com/match/5970149
+DESCRIPTION:⚽ الهلال × الاتحاد\n🏆 دوري روشن ال
+ سعودي — الجولة 8\n🗓 السبت 10 أكتوبر 2026 · 21:
+ 00 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium\n——
+ ———\n⚽ Al Hilal v Al Ittihad\n🏆 Saudi Pro League — Matchday 8
+ \n🗓 Sat 10 Oct 2026 · 18:00 UTC\n🏟 Prince Faisal bin Fahd Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الاتحاد — دوري ر
+ وشن السعودي | Tomorrow: Al Hilal vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الاتحاد | Kick-off in 30 min: Al Hilal vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970160@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261016T150000Z
+DTEND:20261016T170000Z
+SUMMARY:Al Riyadh vs Al Hilal — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium
+URL:https://www.fotmob.com/match/5970160
+DESCRIPTION:⚽ الرياض × الهلال\n🏆 دوري روشن الس
+ عودي — الجولة 9\n🗓 الجمعة 16 أكتوبر 2026 · 18:
+ 00 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium\n——
+ ———\n⚽ Al Riyadh v Al Hilal\n🏆 Saudi Pro League — Matchday 9\
+ n🗓 Fri 16 Oct 2026 · 15:00 UTC\n🏟 Prince Faisal bin Fahd Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الهلال — دوري رو
+ شن السعودي | Tomorrow: Al Riyadh vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الهلال | Kick-off in 30 min: Al Riyadh vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970167@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261019T180000Z
+DTEND:20261019T200000Z
+SUMMARY:Al Hilal vs Al Hazem — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium
+URL:https://www.fotmob.com/match/5970167
+DESCRIPTION:⚽ الهلال × الحزم\n🏆 دوري روشن السع
+ ودي — الجولة 10\n🗓 الاثنين 19 أكتوبر 2026 · 21
+ :00 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium\n——
+ ———\n⚽ Al Hilal v Al Hazem\n🏆 Saudi Pro League — Matchday 10\
+ n🗓 Mon 19 Oct 2026 · 18:00 UTC\n🏟 Prince Faisal bin Fahd Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الحزم — دوري روش
+ ن السعودي | Tomorrow: Al Hilal vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الحزم | Kick-off in 30 min: Al Hilal vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970177@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261023T180000Z
+DTEND:20261023T200000Z
+SUMMARY:Al Qadsiah vs Al Hilal — Saudi Pro League
+LOCATION:Prince Saud bin Jalawi Stadium
+URL:https://www.fotmob.com/match/5970177
+DESCRIPTION:⚽ القادسية × الهلال\n🏆 دوري روشن ا
+ لسعودي — الجولة 11\n🗓 الجمعة 23 أكتوبر 2026 
+ · 21:00 بتوقيت الرياض\n🏟 Prince Saud bin Jalawi Stadium\n
+ —————\n⚽ Al Qadsiah v Al Hilal\n🏆 Saudi Pro League — Matc
+ hday 11\n🗓 Fri 23 Oct 2026 · 18:00 UTC\n🏟 Prince Saud bin Jalawi St
+ adium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الهلال — دوري 
+ روشن السعودي | Tomorrow: Al Qadsiah vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الهلال | Kick-off in 30 min: Al Qadsiah vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970189@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T180000Z
+DTEND:20261031T200000Z
+SUMMARY:Al Hilal vs Al Fateh FC — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium
+URL:https://www.fotmob.com/match/5970189
+DESCRIPTION:⚽ الهلال × الفتح\n🏆 دوري روشن السع
+ ودي — الجولة 12\n🗓 السبت 31 أكتوبر 2026 · 21:00 
+ بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium\n———
+ ——\n⚽ Al Hilal v Al Fateh FC\n🏆 Saudi Pro League — Matchday 12\
+ n🗓 Sat 31 Oct 2026 · 18:00 UTC\n🏟 Prince Faisal bin Fahd Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الفتح — دوري روش
+ ن السعودي | Tomorrow: Al Hilal vs Al Fateh FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الفتح | Kick-off in 30 min: Al Hilal vs Al Fateh FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021470@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:Al-Ettifaq vs Al Hilal — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/1000021470
+DESCRIPTION:⚽ الاتفاق × الهلال\n🏆 دوري روشن ال
+ سعودي — الجولة 13\n🗓 الخميس 5 نوفمبر 2026 · 0
+ 3:00 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Dammam\n—
+ ————\n⚽ Al-Ettifaq v Al Hilal\n🏆 Saudi Pro League — Matchda
+ y 13\n🗓 Thu 05 Nov 2026 · 00:00 UTC\n🏟 Al Ettifaq Club Stadium, Dam
+ mam\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد الهلال — دوري ر
+ وشن السعودي | Tomorrow: Al-Ettifaq vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × الهلال | Kick-off in 30 min: Al-Ettifaq vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021479@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Al Hilal vs Al Diriyah — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/1000021479
+DESCRIPTION:⚽ الهلال × الدرعية\n🏆 دوري روشن ال
+ سعودي — الجولة 14\n🗓 الجمعة 20 نوفمبر 2026 · 
+ 03:00 بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n————
+ —\n⚽ Al Hilal v Al Diriyah\n🏆 Saudi Pro League — Matchday 14\n
+ 🗓 Fri 20 Nov 2026 · 00:00 UTC\n🏟 Kingdom Arena, Riyadh\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الدرعية — دوري ر
+ وشن السعودي | Tomorrow: Al Hilal vs Al Diriyah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الدرعية | Kick-off in 30 min: Al Hilal vs Al Diriyah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021489@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Al Kholood vs Al Hilal — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021489
+DESCRIPTION:⚽ الخلود × الهلال\n🏆 دوري روشن الس
+ عودي — الجولة 15\n🗓 الخميس 26 نوفمبر 2026 · 03
+ :00 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)
+ ، Ar Rass\n—————\n⚽ Al Kholood v Al Hilal\n🏆 Saudi Pro Lea
+ gue — Matchday 15\n🗓 Thu 26 Nov 2026 · 00:00 UTC\n🏟 Ar-Rass Stadi
+ um (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد الهلال — دوري رو
+ شن السعودي | Tomorrow: Al Kholood vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × الهلال | Kick-off in 30 min: Al Kholood vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021499@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Al Hilal vs Abha — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/1000021499
+DESCRIPTION:⚽ الهلال × أبها\n🏆 دوري روشن السعو
+ دي — الجولة 16\n🗓 الخميس 3 ديسمبر 2026 · 03:00 
+ بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n—————\n
+ ⚽ Al Hilal v Abha\n🏆 Saudi Pro League — Matchday 16\n🗓 Thu 03 De
+ c 2026 · 00:00 UTC\n🏟 Kingdom Arena, Riyadh\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد أبها — دوري روشن 
+ السعودي | Tomorrow: Al Hilal vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × أبها | Kick-off in 30 min: Al Hilal vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021509@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Al Nassr FC vs Al Hilal — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021509
+DESCRIPTION:⚽ النصر × الهلال\n🏆 دوري روشن السع
+ ودي — الجولة 17\n🗓 الخميس 10 ديسمبر 2026 · 03:0
+ 0 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n—————\
+ n⚽ Al Nassr FC v Al Hilal\n🏆 Saudi Pro League — Matchday 17\n🗓 T
+ hu 10 Dec 2026 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الهلال — دوري روش
+ ن السعودي | Tomorrow: Al Nassr FC vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الهلال | Kick-off in 30 min: Al Nassr FC vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021519@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261214T000000Z
+DTEND:20261214T020000Z
+SUMMARY:Al-Faisaly vs Al Hilal — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021519
+DESCRIPTION:⚽ الفيصلي × الهلال\n🏆 دوري روشن ال
+ سعودي — الجولة 18\n🗓 الاثنين 14 ديسمبر 2026 
+ · 03:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium،
+  Al Majma'ah\n—————\n⚽ Al-Faisaly v Al Hilal\n🏆 Saudi Pro L
+ eague — Matchday 18\n🗓 Mon 14 Dec 2026 · 00:00 UTC\n🏟 Al Majma'ah
+  Sports City Stadium, Al Majma'ah\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد الهلال — دوري ر
+ وشن السعودي | Tomorrow: Al-Faisaly vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × الهلال | Kick-off in 30 min: Al-Faisaly vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021524@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270211T000000Z
+DTEND:20270211T020000Z
+SUMMARY:Al Hilal vs Al-Fayha — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/1000021524
+DESCRIPTION:⚽ الهلال × الفيحاء\n🏆 دوري روشن ال
+ سعودي — الجولة 19\n🗓 الخميس 11 فبراير 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n————
+ —\n⚽ Al Hilal v Al-Fayha\n🏆 Saudi Pro League — Matchday 19\n🗓 
+ Thu 11 Feb 2027 · 00:00 UTC\n🏟 Kingdom Arena, Riyadh\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الفيحاء — دوري ر
+ وشن السعودي | Tomorrow: Al Hilal vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الفيحاء | Kick-off in 30 min: Al Hilal vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021531@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270218T000000Z
+DTEND:20270218T020000Z
+SUMMARY:Al Ahli vs Al Hilal — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021531
+DESCRIPTION:⚽ الأهلي × الهلال\n🏆 دوري روشن الس
+ عودي — الجولة 20\n🗓 الخميس 18 فبراير 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah S
+ port City، Jeddah\n—————\n⚽ Al Ahli v Al Hilal\n🏆 Saudi Pr
+ o League — Matchday 20\n🗓 Thu 18 Feb 2027 · 00:00 UTC\n🏟 Alinma B
+ ank Stadium at King Abdullah Sport City, Jeddah\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الهلال — دوري رو
+ شن السعودي | Tomorrow: Al Ahli vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الهلال | Kick-off in 30 min: Al Ahli vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021542@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270225T000000Z
+DTEND:20270225T020000Z
+SUMMARY:Al Hilal vs Al Khaleej — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/1000021542
+DESCRIPTION:⚽ الهلال × الخليج\n🏆 دوري روشن الس
+ عودي — الجولة 21\n🗓 الخميس 25 فبراير 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n————
+ —\n⚽ Al Hilal v Al Khaleej\n🏆 Saudi Pro League — Matchday 21\n
+ 🗓 Thu 25 Feb 2027 · 00:00 UTC\n🏟 Kingdom Arena, Riyadh\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الخليج — دوري رو
+ شن السعودي | Tomorrow: Al Hilal vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الخليج | Kick-off in 30 min: Al Hilal vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021552@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270311T000000Z
+DTEND:20270311T020000Z
+SUMMARY:Al Hilal vs Al Shabab — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/1000021552
+DESCRIPTION:⚽ الهلال × الشباب\n🏆 دوري روشن الس
+ عودي — الجولة 22\n🗓 الخميس 11 مارس 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n—————\n
+ ⚽ Al Hilal v Al Shabab\n🏆 Saudi Pro League — Matchday 22\n🗓 Thu 
+ 11 Mar 2027 · 00:00 UTC\n🏟 Kingdom Arena, Riyadh\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الشباب — دوري رو
+ شن السعودي | Tomorrow: Al Hilal vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الشباب | Kick-off in 30 min: Al Hilal vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021566@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270318T000000Z
+DTEND:20270318T020000Z
+SUMMARY:Neom SC vs Al Hilal — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/1000021566
+DESCRIPTION:⚽ نيوم × الهلال\n🏆 دوري روشن السعو
+ دي — الجولة 23\n🗓 الخميس 18 مارس 2027 · 03:00 بت
+ وقيت الرياض\n🏟 King Khalid Sport City Stadium، Tabuk\n——
+ ———\n⚽ Neom SC v Al Hilal\n🏆 Saudi Pro League — Matchday 23\n
+ 🗓 Thu 18 Mar 2027 · 00:00 UTC\n🏟 King Khalid Sport City Stadium, Ta
+ buk\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الهلال — دوري روشن 
+ السعودي | Tomorrow: Neom SC vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الهلال | Kick-off in 30 min: Neom SC vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021572@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270402T000000Z
+DTEND:20270402T020000Z
+SUMMARY:Al Hilal vs Al-Taawoun — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/1000021572
+DESCRIPTION:⚽ الهلال × التعاون\n🏆 دوري روشن ال
+ سعودي — الجولة 24\n🗓 الجمعة 2 أبريل 2027 · 03:
+ 00 بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n—————
+ \n⚽ Al Hilal v Al-Taawoun\n🏆 Saudi Pro League — Matchday 24\n🗓 F
+ ri 02 Apr 2027 · 00:00 UTC\n🏟 Kingdom Arena, Riyadh\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد التعاون — دوري ر
+ وشن السعودي | Tomorrow: Al Hilal vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × التعاون | Kick-off in 30 min: Al Hilal vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021577@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270408T000000Z
+DTEND:20270408T020000Z
+SUMMARY:Al Ittihad vs Al Hilal — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021577
+DESCRIPTION:⚽ الاتحاد × الهلال\n🏆 دوري روشن ال
+ سعودي — الجولة 25\n🗓 الخميس 8 أبريل 2027 · 03:
+ 00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah Sp
+ ort City، Jeddah\n—————\n⚽ Al Ittihad v Al Hilal\n🏆 Saudi 
+ Pro League — Matchday 25\n🗓 Thu 08 Apr 2027 · 00:00 UTC\n🏟 Alinma
+  Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الهلال — دوري ر
+ وشن السعودي | Tomorrow: Al Ittihad vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الهلال | Kick-off in 30 min: Al Ittihad vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021589@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270415T000000Z
+DTEND:20270415T020000Z
+SUMMARY:Al Hilal vs Al Riyadh — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/1000021589
+DESCRIPTION:⚽ الهلال × الرياض\n🏆 دوري روشن الس
+ عودي — الجولة 26\n🗓 الخميس 15 أبريل 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n—————\
+ n⚽ Al Hilal v Al Riyadh\n🏆 Saudi Pro League — Matchday 26\n🗓 Thu
+  15 Apr 2027 · 00:00 UTC\n🏟 Kingdom Arena, Riyadh\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الرياض — دوري رو
+ شن السعودي | Tomorrow: Al Hilal vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الرياض | Kick-off in 30 min: Al Hilal vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021595@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T000000Z
+DTEND:20270418T020000Z
+SUMMARY:Al Hazem vs Al Hilal — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021595
+DESCRIPTION:⚽ الحزم × الهلال\n🏆 دوري روشن السع
+ ودي — الجولة 27\n🗓 الأحد 18 أبريل 2027 · 03:00 ب
+ توقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، Ar 
+ Rass\n—————\n⚽ Al Hazem v Al Hilal\n🏆 Saudi Pro League — 
+ Matchday 27\n🗓 Sun 18 Apr 2027 · 00:00 UTC\n🏟 Ar-Rass Stadium (Al H
+ azm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد الهلال — دوري روش
+ ن السعودي | Tomorrow: Al Hazem vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × الهلال | Kick-off in 30 min: Al Hazem vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021606@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270422T000000Z
+DTEND:20270422T020000Z
+SUMMARY:Al Hilal vs Al Qadsiah — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/1000021606
+DESCRIPTION:⚽ الهلال × القادسية\n🏆 دوري روشن ا
+ لسعودي — الجولة 28\n🗓 الخميس 22 أبريل 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n————
+ —\n⚽ Al Hilal v Al Qadsiah\n🏆 Saudi Pro League — Matchday 28\n
+ 🗓 Thu 22 Apr 2027 · 00:00 UTC\n🏟 Kingdom Arena, Riyadh\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد القادسية — دوري 
+ روشن السعودي | Tomorrow: Al Hilal vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × القادسية | Kick-off in 30 min: Al Hilal vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021614@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270429T000000Z
+DTEND:20270429T020000Z
+SUMMARY:Al Fateh FC vs Al Hilal — Saudi Pro League
+LOCATION:Maydan Tamweel Aloula\, Al Ahsa\, Saudi Arabia
+GEO:25.429604;49.581390
+URL:https://www.fotmob.com/match/1000021614
+DESCRIPTION:⚽ الفتح × الهلال\n🏆 دوري روشن السع
+ ودي — الجولة 29\n🗓 الخميس 29 أبريل 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Maydan Tamweel Aloula، Al Ahsa\n———
+ ——\n⚽ Al Fateh FC v Al Hilal\n🏆 Saudi Pro League — Matchday 29\
+ n🗓 Thu 29 Apr 2027 · 00:00 UTC\n🏟 Maydan Tamweel Aloula, Al Ahsa\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفتح ضد الهلال — دوري روش
+ ن السعودي | Tomorrow: Al Fateh FC vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفتح 
+ × الهلال | Kick-off in 30 min: Al Fateh FC vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021622@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270506T000000Z
+DTEND:20270506T020000Z
+SUMMARY:Al Hilal vs Al-Ettifaq — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/1000021622
+DESCRIPTION:⚽ الهلال × الاتفاق\n🏆 دوري روشن ال
+ سعودي — الجولة 30\n🗓 الخميس 6 مايو 2027 · 03:00
+  بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n—————\n
+ ⚽ Al Hilal v Al-Ettifaq\n🏆 Saudi Pro League — Matchday 30\n🗓 Thu
+  06 May 2027 · 00:00 UTC\n🏟 Kingdom Arena, Riyadh\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الاتفاق — دوري ر
+ وشن السعودي | Tomorrow: Al Hilal vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الاتفاق | Kick-off in 30 min: Al Hilal vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021638@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270512T000000Z
+DTEND:20270512T020000Z
+SUMMARY:Al Diriyah vs Al Hilal — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021638
+DESCRIPTION:⚽ الدرعية × الهلال\n🏆 دوري روشن ال
+ سعودي — الجولة 31\n🗓 الأربعاء 12 مايو 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n————
+ —\n⚽ Al Diriyah v Al Hilal\n🏆 Saudi Pro League — Matchday 31\n
+ 🗓 Wed 12 May 2027 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الدرعية ضد الهلال — دوري ر
+ وشن السعودي | Tomorrow: Al Diriyah vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الدرع
+ ية × الهلال | Kick-off in 30 min: Al Diriyah vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021643@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270520T000000Z
+DTEND:20270520T020000Z
+SUMMARY:Al Hilal vs Al Kholood — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/1000021643
+DESCRIPTION:⚽ الهلال × الخلود\n🏆 دوري روشن الس
+ عودي — الجولة 32\n🗓 الخميس 20 مايو 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n—————\n
+ ⚽ Al Hilal v Al Kholood\n🏆 Saudi Pro League — Matchday 32\n🗓 Thu
+  20 May 2027 · 00:00 UTC\n🏟 Kingdom Arena, Riyadh\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الخلود — دوري رو
+ شن السعودي | Tomorrow: Al Hilal vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الخلود | Kick-off in 30 min: Al Hilal vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021648@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270524T000000Z
+DTEND:20270524T020000Z
+SUMMARY:Abha vs Al Hilal — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/1000021648
+DESCRIPTION:⚽ أبها × الهلال\n🏆 دوري روشن السعو
+ دي — الجولة 33\n🗓 الاثنين 24 مايو 2027 · 03:00 ب
+ توقيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sports City Stad
+ ium، Abha\n—————\n⚽ Abha v Al Hilal\n🏆 Saudi Pro League 
+ — Matchday 33\n🗓 Mon 24 May 2027 · 00:00 UTC\n🏟 Prince Sultan bin
+  Abdulaziz Sports City Stadium, Abha\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الهلال — دوري روشن 
+ السعودي | Tomorrow: Abha vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الهلال | Kick-off in 30 min: Abha vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021661@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270528T000000Z
+DTEND:20270528T020000Z
+SUMMARY:Al Hilal vs Al Nassr FC — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/1000021661
+DESCRIPTION:⚽ الهلال × النصر\n🏆 دوري روشن السع
+ ودي — الجولة 34\n🗓 الجمعة 28 مايو 2027 · 03:00 ب
+ توقيت الرياض\n🏟 Kingdom Arena، Riyadh\n—————\n⚽
+  Al Hilal v Al Nassr FC\n🏆 Saudi Pro League — Matchday 34\n🗓 Fri 2
+ 8 May 2027 · 00:00 UTC\n🏟 Kingdom Arena, Riyadh\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد النصر — دوري روش
+ ن السعودي | Tomorrow: Al Hilal vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × النصر | Kick-off in 30 min: Al Hilal vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050071@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260915T181500Z
+DTEND:20260915T201500Z
+SUMMARY:Al Hilal vs Al-Gharafa — AFC Champions League Elite
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/6050071
+DESCRIPTION:⚽ الهلال × الغرافة\n🏆 دوري أبطال آ
+ سيا للنخبة — الجولة 1\n🗓 الثلاثاء 15 سبتم
+ بر 2026 · 21:15 بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\
+ n—————\n⚽ Al Hilal v Al-Gharafa\n🏆 AFC Champions League Eli
+ te — Matchday 1\n🗓 Tue 15 Sep 2026 · 18:15 UTC\n🏟 Kingdom Arena, 
+ Riyadh\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الغرافة — دوري أ
+ بطال آسيا للنخبة | Tomorrow: Al Hilal vs Al-Gharafa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الغرافة | Kick-off in 30 min: Al Hilal vs Al-Gharafa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050078@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T160000Z
+DTEND:20261013T180000Z
+SUMMARY:Al-Sadd vs Al Hilal — AFC Champions League Elite
+LOCATION:Jassim Bin Hamad Stadium (Al-Sadd Stadium)\, ad-Dōha (Doha)\, Qat
+ ar
+GEO:25.267290;51.484305
+URL:https://www.fotmob.com/match/6050078
+DESCRIPTION:⚽ السد × الهلال\n🏆 دوري أبطال آسيا
+  للنخبة — الجولة 2\n🗓 الثلاثاء 13 أكتوبر 20
+ 26 · 19:00 بتوقيت الرياض\n🏟 Jassim Bin Hamad Stadium (Al-S
+ add Stadium)، ad-Dōha (Doha)\n—————\n⚽ Al-Sadd v Al Hilal\n
+ 🏆 AFC Champions League Elite — Matchday 2\n🗓 Tue 13 Oct 2026 · 16
+ :00 UTC\n🏟 Jassim Bin Hamad Stadium (Al-Sadd Stadium), ad-Dōha (Doha)\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: السد ضد الهلال — دوري أبطا
+ ل آسيا للنخبة | Tomorrow: Al-Sadd vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: السد ×
+  الهلال | Kick-off in 30 min: Al-Sadd vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050087@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261027T191500Z
+DTEND:20261027T211500Z
+SUMMARY:Al-Shamal vs Al Hilal — AFC Champions League Elite
+LOCATION:Al Bayt Stadium\, Al Khor\, Qatar
+GEO:25.652198;51.487934
+URL:https://www.fotmob.com/match/6050087
+DESCRIPTION:⚽ الشمال × الهلال\n🏆 دوري أبطال آس
+ يا للنخبة — الجولة 3\n🗓 الثلاثاء 27 أكتوب
+ ر 2026 · 22:15 بتوقيت الرياض\n🏟 Al Bayt Stadium، Al Khor
+ \n—————\n⚽ Al-Shamal v Al Hilal\n🏆 AFC Champions League Eli
+ te — Matchday 3\n🗓 Tue 27 Oct 2026 · 19:15 UTC\n🏟 Al Bayt Stadium
+ , Al Khor\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشمال ضد الهلال — دوري أب
+ طال آسيا للنخبة | Tomorrow: Al-Shamal vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشما
+ ل × الهلال | Kick-off in 30 min: Al-Shamal vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050095@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261103T191500Z
+DTEND:20261103T211500Z
+SUMMARY:Al Hilal vs Shabab Al-Ahli Dubai FC — AFC Champions League Elite
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/6050095
+DESCRIPTION:⚽ الهلال × شباب الاهلي\n🏆 دوري أبط
+ ال آسيا للنخبة — الجولة 4\n🗓 الثلاثاء 3 ن
+ وفمبر 2026 · 22:15 بتوقيت الرياض\n🏟 Kingdom Arena، R
+ iyadh\n—————\n⚽ Al Hilal v Shabab Al-Ahli Dubai FC\n🏆 AFC C
+ hampions League Elite — Matchday 4\n🗓 Tue 03 Nov 2026 · 19:15 UTC\n
+ 🏟 Kingdom Arena, Riyadh\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد شباب الاهلي — دو
+ ري أبطال آسيا للنخبة | Tomorrow: Al Hilal vs Shabab Al-Ah
+ li Dubai FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × شباب الاهلي | Kick-off in 30 min: Al Hilal vs Shabab Al-Ah
+ li Dubai FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050096@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261123T144500Z
+DTEND:20261123T164500Z
+SUMMARY:Neftchi Fargona vs Al Hilal — AFC Champions League Elite
+LOCATION:Istiqlol stadioni\, Farg'ona (Fergana)\, Uzbekistan
+GEO:40.390534;71.749676
+URL:https://www.fotmob.com/match/6050096
+DESCRIPTION:⚽ نيفتشي فرغانة × الهلال\n🏆 دوري أ
+ بطال آسيا للنخبة — الجولة 5\n🗓 الاثنين 23 
+ نوفمبر 2026 · 17:45 بتوقيت الرياض\n🏟 Istiqlol stadio
+ ni، Farg'ona (Fergana)\n—————\n⚽ Neftchi Fargona v Al Hilal\n
+ 🏆 AFC Champions League Elite — Matchday 5\n🗓 Mon 23 Nov 2026 · 14
+ :45 UTC\n🏟 Istiqlol stadioni, Farg'ona (Fergana)\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيفتشي فرغانة ضد الهلال — 
+ دوري أبطال آسيا للنخبة | Tomorrow: Neftchi Fargona vs A
+ l Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيفتش
+ ي فرغانة × الهلال | Kick-off in 30 min: Neftchi Fargona vs A
+ l Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050108@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261207T191500Z
+DTEND:20261207T211500Z
+SUMMARY:Al Hilal vs Al-Ain — AFC Champions League Elite
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/6050108
+DESCRIPTION:⚽ الهلال × العين\n🏆 دوري أبطال آسي
+ ا للنخبة — الجولة 6\n🗓 الاثنين 7 ديسمبر 202
+ 6 · 22:15 بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n——
+ ———\n⚽ Al Hilal v Al-Ain\n🏆 AFC Champions League Elite — Matc
+ hday 6\n🗓 Mon 07 Dec 2026 · 19:15 UTC\n🏟 Kingdom Arena, Riyadh\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد العين — دوري أبط
+ ال آسيا للنخبة | Tomorrow: Al Hilal vs Al-Ain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × العين | Kick-off in 30 min: Al Hilal vs Al-Ain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050119@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270209T170000Z
+DTEND:20270209T190000Z
+SUMMARY:Al-Wasl vs Al Hilal — AFC Champions League Elite
+LOCATION:Zabeel Stadium\, Dubayy (Dubai)\, United Arab Emirates
+GEO:25.219098;55.316918
+URL:https://www.fotmob.com/match/6050119
+DESCRIPTION:⚽ الوصل × الهلال\n🏆 دوري أبطال آسي
+ ا للنخبة — الجولة 7\n🗓 الثلاثاء 9 فبراير 2
+ 027 · 20:00 بتوقيت الرياض\n🏟 Zabeel Stadium، Dubayy (Duba
+ i)\n—————\n⚽ Al-Wasl v Al Hilal\n🏆 AFC Champions League Eli
+ te — Matchday 7\n🗓 Tue 09 Feb 2027 · 17:00 UTC\n🏟 Zabeel Stadium,
+  Dubayy (Dubai)\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الوصل ضد الهلال — دوري أبط
+ ال آسيا للنخبة | Tomorrow: Al-Wasl vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الوصل 
+ × الهلال | Kick-off in 30 min: Al-Wasl vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050123@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270215T191500Z
+DTEND:20270215T211500Z
+SUMMARY:Al Hilal vs Pakhtakor Tashkent — AFC Champions League Elite
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/6050123
+DESCRIPTION:⚽ الهلال × باختاكور\n🏆 دوري أبطال 
+ آسيا للنخبة — الجولة 8\n🗓 الاثنين 15 فبرا
+ ير 2027 · 22:15 بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\
+ n—————\n⚽ Al Hilal v Pakhtakor Tashkent\n🏆 AFC Champions Le
+ ague Elite — Matchday 8\n🗓 Mon 15 Feb 2027 · 19:15 UTC\n🏟 Kingdom
+  Arena, Riyadh\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد باختاكور — دوري 
+ أبطال آسيا للنخبة | Tomorrow: Al Hilal vs Pakhtakor Tashken
+ t
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × باختاكور | Kick-off in 30 min: Al Hilal vs Pakhtakor Tashken
+ t
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853721@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260817T180000Z
+DTEND:20260817T200000Z
+SUMMARY:Al-Raed vs Al Hilal (0 - 2) — King's Cup
+LOCATION:King Abdullah Sport City Stadium\, Buraydah\, Saudi Arabia
+GEO:26.378967;43.947845
+URL:https://www.fotmob.com/match/5853721
+DESCRIPTION:⚽ الرائد × الهلال (0 - 2)\n🏆 كأس خادم 
+ الحرمين الشريفين — دور الـ32\n🗓 الاثنين 1
+ 7 أغسطس 2026 · 21:00 بتوقيت الرياض\n🏟 King Abdullah S
+ port City Stadium، Buraydah\n⚖️ الحكم: Kirill Levnikov\n——
+ ———\n⚽ Al-Raed v Al Hilal (0 - 2)\n🏆 King's Cup — Round of 32
+ \n🗓 Mon 17 Aug 2026 · 18:00 UTC\n🏟 King Abdullah Sport City Stadium
+ , Buraydah\nReferee: Kirill Levnikov\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرائد ضد الهلال — كأس خاد
+ م الحرمين الشريفين | Tomorrow: Al-Raed vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الرائ
+ د × الهلال | Kick-off in 30 min: Al-Raed vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6125927@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Al Hilal vs Al Hazem — King's Cup
+URL:https://www.fotmob.com/match/6125927
+DESCRIPTION:⚽ الهلال × الحزم\n🏆 كأس خادم الحرم
+ ين الشريفين — دور الـ16\n🗓 الثلاثاء 1 ديس
+ مبر 2026 · 20:00 بتوقيت الرياض\n—————\n⚽ Al Hi
+ lal v Al Hazem\n🏆 King's Cup — Round of 16\n🗓 Tue 01 Dec 2026 · 1
+ 7:00 UTC\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الحزم — كأس خادم 
+ الحرمين الشريفين | Tomorrow: Al Hilal vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الحزم | Kick-off in 30 min: Al Hilal vs Al Hazem
+END:VALARM
+END:VEVENT
+END:VCALENDAR

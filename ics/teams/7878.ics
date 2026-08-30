@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Granada — Copa del Rey Fixtures | غرناطة — مب
+ اريات كأس ملك إسبانيا
+X-WR-CALDESC:Granada — all matches in Copa del Rey\, exact UTC kickoffs\,
+  stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:
+ 10Z.  •  غرناطة — جميع المباريات في كأس ملك
+  إسبانيا بتوقيت UTC الدقيق مع الملاعب والق
+ نوات الناقلة. المصدر: FotMob + 365scores · تحديث ت
+ لقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4996051@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251028T190000Z
+DTEND:20251028T210000Z
+SUMMARY:CD Roda vs Granada (1 - 5) — Copa del Rey
+LOCATION:Ciudad Deportiva del Villarreal\, Villarreal\, Spain
+GEO:39.939801;-0.115212
+URL:https://www.fotmob.com/match/4996051
+DESCRIPTION:⚽ CD Roda × غرناطة (1 - 5)\n🏆 كأس ملك إسب
+ انيا — الدور الأول\n🗓 الثلاثاء 28 أكتوبر 
+ 2025 · 22:00 بتوقيت الرياض\n🏟 Ciudad Deportiva del Villarr
+ eal، Villarreal\n⚖️ الحكم: Salvador Lax Franco\n👥 الحضو
+ ر: 1,200\n—————\n⚽ CD Roda v Granada (1 - 5)\n🏆 Copa del R
+ ey — Round 1\n🗓 Tue 28 Oct 2025 · 19:00 UTC\n🏟 Ciudad Deportiva d
+ el Villarreal, Villarreal\nReferee: Salvador Lax Franco\nAttendance: 1,200
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: CD Roda ضد غرناطة — كأس ملك إس
+ بانيا | Tomorrow: CD Roda vs Granada
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: CD Roda × 
+ غرناطة | Kick-off in 30 min: CD Roda vs Granada
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057235@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251204T210000Z
+DTEND:20251204T230000Z
+SUMMARY:Tenerife vs Granada (0 - 1) — Copa del Rey
+LOCATION:Estadio Heliodoro Rodríguez Lopéz\, Santa Cruz de Tenerife (Tene
+ rife\, Spain
+GEO:28.463282;-16.260517
+URL:https://www.fotmob.com/match/5057235
+DESCRIPTION:⚽ تنريفة × غرناطة (0 - 1)\n🏆 كأس ملك إ
+ سبانيا — الدور الثاني\n🗓 الخميس 4 ديسمبر
+  2025 · 00:00 بتوقيت الرياض\n🏟 Estadio Heliodoro Rodrígue
+ z Lopéz، Santa Cruz de Tenerife (Tenerife\n⚖️ الحكم: Manuel Án
+ gel Pérez Hernández\n👥 الحضور: 14,886\n—————\n⚽ Ten
+ erife v Granada (0 - 1)\n🏆 Copa del Rey — Round 2\n🗓 Thu 04 Dec 20
+ 25 · 21:00 UTC\n🏟 Estadio Heliodoro Rodríguez Lopéz, Santa Cruz de T
+ enerife (Tenerife\nReferee: Manuel Ángel Pérez Hernández\nAttendance: 1
+ 4,886\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تنريفة ضد غرناطة — كأس ملك 
+ إسبانيا | Tomorrow: Tenerife vs Granada
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تنريف
+ ة × غرناطة | Kick-off in 30 min: Tenerife vs Granada
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5091464@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260106T180000Z
+DTEND:20260106T200000Z
+SUMMARY:Granada vs Rayo Vallecano (1 - 3) — Copa del Rey
+LOCATION:Estadio Nuevo Los Cármenes\, Granada\, Spain
+GEO:37.152946;-3.595737
+URL:https://www.fotmob.com/match/5091464
+DESCRIPTION:⚽ غرناطة × رايو فاييكانو (1 - 3)\n🏆 ك
+ أس ملك إسبانيا — دور الـ32\n🗓 الثلاثاء 6 ي
+ ناير 2026 · 21:00 بتوقيت الرياض\n🏟 Estadio Nuevo Los C
+ ármenes، Granada\n👥 الحضور: 4,468\n—————\n⚽ Granada
+  v Rayo Vallecano (1 - 3)\n🏆 Copa del Rey — Round of 32\n🗓 Tue 06 
+ Jan 2026 · 18:00 UTC\n🏟 Estadio Nuevo Los Cármenes, Granada\nAttendan
+ ce: 4,468\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غرناطة ضد رايو فاييكانو — 
+ كأس ملك إسبانيا | Tomorrow: Granada vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غرناط
+ ة × رايو فاييكانو | Kick-off in 30 min: Granada vs Rayo Vall
+ ecano
+END:VALARM
+END:VEVENT
+END:VCALENDAR

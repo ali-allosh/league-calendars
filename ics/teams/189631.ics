@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Arenas Getxo — Copa del Rey Fixtures | أريناس دي
+  غيتكسو — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Arenas Getxo — all matches in Copa del Rey\, exact UTC kicko
+ ffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T1
+ 9:31:10Z.  •  أريناس دي غيتكسو — جميع المباري
+ ات في كأس ملك إسبانيا بتوقيت UTC الدقيق مع 
+ الملاعب والقنوات الناقلة. المصدر: FotMob + 365
+ scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4996000@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251029T190000Z
+DTEND:20251029T210000Z
+SUMMARY:Numancia vs Arenas Getxo (3 - 0) — Copa del Rey
+LOCATION:Nuevo Estadio Los Pajaritos\, Soria\, Spain
+GEO:41.754602;-2.467997
+URL:https://www.fotmob.com/match/4996000
+DESCRIPTION:⚽ نومانسيا × أريناس دي غيتكسو (3 - 0)\
+ n🏆 كأس ملك إسبانيا — الدور الأول\n🗓 الأ
+ ربعاء 29 أكتوبر 2025 · 22:00 بتوقيت الرياض\n🏟 N
+ uevo Estadio Los Pajaritos، Soria\n⚖️ الحكم: Guillermo Conejero 
+ Sánchez\n—————\n⚽ Numancia v Arenas Getxo (3 - 0)\n🏆 Copa 
+ del Rey — Round 1\n🗓 Wed 29 Oct 2025 · 19:00 UTC\n🏟 Nuevo Estadio
+  Los Pajaritos, Soria\nReferee: Guillermo Conejero Sánchez\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نومانسيا ضد أريناس دي غيتك
+ سو — كأس ملك إسبانيا | Tomorrow: Numancia vs Arenas Getxo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نومان
+ سيا × أريناس دي غيتكسو | Kick-off in 30 min: Numancia vs
+  Arenas Getxo
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Utebo — Copa del Rey Fixtures | Utebo — مباريات
+  كأس ملك إسبانيا
+X-WR-CALDESC:Utebo — all matches in Copa del Rey\, exact UTC kickoffs\, s
+ tadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10
+ Z.  •  Utebo — جميع المباريات في كأس ملك إسبا
+ نيا بتوقيت UTC الدقيق مع الملاعب والقنوات 
+ الناقلة. المصدر: FotMob + 365scores · تحديث تلقائ
+ ي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4996011@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251028T193000Z
+DTEND:20251028T213000Z
+SUMMARY:Utebo vs SD Huesca (0 - 3) — Copa del Rey
+LOCATION:Estadio Santa Ana\, Utebo\, Spain
+GEO:41.711872;-0.998715
+URL:https://www.fotmob.com/match/4996011
+DESCRIPTION:⚽ Utebo × هويسكا (0 - 3)\n🏆 كأس ملك إسبا
+ نيا — الدور الأول\n🗓 الثلاثاء 28 أكتوبر 20
+ 25 · 22:30 بتوقيت الرياض\n🏟 Estadio Santa Ana، Utebo\n⚖
+ ️ الحكم: Manuel Ángel Pérez Hernández\n👥 الحضور: 5,000\
+ n—————\n⚽ Utebo v SD Huesca (0 - 3)\n🏆 Copa del Rey — Rou
+ nd 1\n🗓 Tue 28 Oct 2025 · 19:30 UTC\n🏟 Estadio Santa Ana, Utebo\nRe
+ feree: Manuel Ángel Pérez Hernández\nAttendance: 5,000\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Utebo ضد هويسكا — كأس ملك إسب
+ انيا | Tomorrow: Utebo vs SD Huesca
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Utebo × ه
+ ويسكا | Kick-off in 30 min: Utebo vs SD Huesca
+END:VALARM
+END:VEVENT
+END:VCALENDAR

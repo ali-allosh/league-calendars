@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ UCAM Murcia — Copa del Rey Fixtures | UCAM Murcia — م
+ باريات كأس ملك إسبانيا
+X-WR-CALDESC:UCAM Murcia — all matches in Copa del Rey\, exact UTC kickof
+ fs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19
+ :31:10Z.  •  UCAM Murcia — جميع المباريات في كأس م
+ لك إسبانيا بتوقيت UTC الدقيق مع الملاعب وا
+ لقنوات الناقلة. المصدر: FotMob + 365scores · تحدي
+ ث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4996026@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251028T183000Z
+DTEND:20251028T203000Z
+SUMMARY:UCAM Murcia vs Cádiz (1 - 3) — Copa del Rey
+LOCATION:Estadio BeSoccer La Condomina\, Murcia\, Spain
+GEO:37.986185;-1.121399
+URL:https://www.fotmob.com/match/4996026
+DESCRIPTION:⚽ UCAM Murcia × قادش (1 - 3)\n🏆 كأس ملك إسب
+ انيا — الدور الأول\n🗓 الثلاثاء 28 أكتوبر 
+ 2025 · 21:30 بتوقيت الرياض\n🏟 Estadio BeSoccer La Condomin
+ a، Murcia\n⚖️ الحكم: Lluís Bestard Servera\n👥 الحضور: 
+ 6,500\n—————\n⚽ UCAM Murcia v Cádiz (1 - 3)\n🏆 Copa del Re
+ y — Round 1\n🗓 Tue 28 Oct 2025 · 18:30 UTC\n🏟 Estadio BeSoccer La
+  Condomina, Murcia\nReferee: Lluís Bestard Servera\nAttendance: 6,500\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: UCAM Murcia ضد قادش — كأس ملك إس
+ بانيا | Tomorrow: UCAM Murcia vs Cádiz
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: UCAM Murcia
+  × قادش | Kick-off in 30 min: UCAM Murcia vs Cádiz
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1339 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ VfB Stuttgart — Bundesliga & UEFA Champions League Fixtu
+ res | شتوتجارت — مباريات الدوري الألماني و
+ دوري أبطال أوروبا
+X-WR-CALDESC:VfB Stuttgart — all matches in Bundesliga & UEFA Champions L
+ eague\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · au
+ to-updated 2026-09-05T19:31:10Z.  •  شتوتجارت — جميع ال
+ مباريات في الدوري الألماني ودوري أبطال أ
+ وروبا بتوقيت UTC الدقيق مع الملاعب والقنو
+ ات الناقلة. المصدر: FotMob + 365scores · تحديث تلق
+ ائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5881143@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260828T183000Z
+DTEND:20260828T203000Z
+SUMMARY:Bayern München vs VfB Stuttgart (5 - 1) — Bundesliga
+LOCATION:Allianz Arena\, München\, Germany
+GEO:48.218779;11.624743
+URL:https://www.fotmob.com/match/5881143
+DESCRIPTION:⚽ بايرن ميونخ × شتوتجارت (5 - 1)\n🏆 ا
+ لدوري الألماني — الجولة 1\n🗓 الجمعة 28 أغ
+ سطس 2026 · 21:30 بتوقيت الرياض\n🏟 Allianz Arena، Münc
+ hen\n⚖️ الحكم: Sören Storks\n👥 الحضور: 75,000\n——
+ ———\n⚽ Bayern München v VfB Stuttgart (5 - 1)\n🏆 Bundesliga 
+ — Matchday 1\n🗓 Fri 28 Aug 2026 · 18:30 UTC\n🏟 Allianz Arena, Mü
+ nchen\nReferee: Sören Storks\nAttendance: 75,000\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد شتوتجارت — 
+ الدوري الألماني | Tomorrow: Bayern München vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × شتوتجارت | Kick-off in 30 min: Bayern München vs Vf
+ B Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881159@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260904T183000Z
+DTEND:20260904T203000Z
+SUMMARY:VfB Stuttgart vs 1. FC Köln (4 - 1) — Bundesliga
+LOCATION:MHPArena\, Stuttgart\, Germany
+GEO:48.792284;9.232024
+URL:https://www.fotmob.com/match/5881159
+DESCRIPTION:⚽ شتوتجارت × كولن (4 - 1)\n🏆 الدوري ا
+ لألماني — الجولة 2\n🗓 الجمعة 4 سبتمبر 2026 
+ · 21:30 بتوقيت الرياض\n🏟 MHPArena، Stuttgart\n⚖️ ال
+ حكم: Christian Dingert\n👥 الحضور: 60,058\n—————\n⚽
+  VfB Stuttgart v 1. FC Köln (4 - 1)\n🏆 Bundesliga — Matchday 2\n🗓
+  Fri 04 Sep 2026 · 18:30 UTC\n🏟 MHPArena, Stuttgart\nReferee: Christia
+ n Dingert\nAttendance: 60,058\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد كولن — الدوري 
+ الألماني | Tomorrow: VfB Stuttgart vs 1. FC Köln
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × كولن | Kick-off in 30 min: VfB Stuttgart vs 1. FC Köln
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881166@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T133000Z
+DTEND:20260912T153000Z
+SUMMARY:Hoffenheim vs VfB Stuttgart — Bundesliga
+LOCATION:SNP Arena\, Sinsheim\, Germany
+GEO:49.238005;8.887741
+URL:https://www.fotmob.com/match/5881166
+DESCRIPTION:⚽ هوفنهايم × شتوتجارت\n🏆 الدوري ا
+ لألماني — الجولة 3\n🗓 السبت 12 سبتمبر 2026 ·
+  16:30 بتوقيت الرياض\n🏟 SNP Arena، Sinsheim\n📺 Peacock 
+ (Español)\n—————\n⚽ Hoffenheim v VfB Stuttgart\n🏆 Bundesli
+ ga — Matchday 3\n🗓 Sat 12 Sep 2026 · 13:30 UTC\n🏟 SNP Arena, Sins
+ heim\n📺 Peacock (Español)\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هوفنهايم ضد شتوتجارت — الد
+ وري الألماني — 📺 Peacock (Español) | Tomorrow: Hoffenheim
+  vs VfB Stuttgart | TV: Peacock (Español)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هوفنه
+ ايم × شتوتجارت — 📺 Peacock (Español) | Kick-off in 30 mi
+ n: Hoffenheim vs VfB Stuttgart | TV: Peacock (Español)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881177@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T163000Z
+DTEND:20260919T183000Z
+SUMMARY:VfB Stuttgart vs Borussia Dortmund — Bundesliga
+LOCATION:MHPArena\, Stuttgart\, Germany
+GEO:48.792284;9.232024
+URL:https://www.fotmob.com/match/5881177
+DESCRIPTION:⚽ شتوتجارت × بوروسيا دورتموند\n🏆 
+ الدوري الألماني — الجولة 4\n🗓 السبت 19 سب
+ تمبر 2026 · 19:30 بتوقيت الرياض\n🏟 MHPArena، Stuttgar
+ t\n—————\n⚽ VfB Stuttgart v Borussia Dortmund\n🏆 Bundesliga
+  — Matchday 4\n🗓 Sat 19 Sep 2026 · 16:30 UTC\n🏟 MHPArena, Stuttga
+ rt\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد بوروسيا دورتمو
+ ند — الدوري الألماني | Tomorrow: VfB Stuttgart vs Boruss
+ ia Dortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × بوروسيا دورتموند | Kick-off in 30 min: VfB Stuttg
+ art vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881185@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T133000Z
+DTEND:20261010T153000Z
+SUMMARY:Paderborn vs VfB Stuttgart — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881185
+DESCRIPTION:⚽ بادربورن × شتوتجارت\n🏆 الدوري ا
+ لألماني — الجولة 5\n🗓 السبت 10 أكتوبر 2026 ·
+  16:30 بتوقيت الرياض\n🏟 Home Deluxe Arena\n—————\
+ n⚽ Paderborn v VfB Stuttgart\n🏆 Bundesliga — Matchday 5\n🗓 Sat 1
+ 0 Oct 2026 · 13:30 UTC\n🏟 Home Deluxe Arena\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد شتوتجارت — الد
+ وري الألماني | Tomorrow: Paderborn vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × شتوتجارت | Kick-off in 30 min: Paderborn vs VfB Stuttgar
+ t
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881193@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T133000Z
+DTEND:20261017T153000Z
+SUMMARY:Hamburger SV vs VfB Stuttgart — Bundesliga
+LOCATION:Volksparkstadion
+URL:https://www.fotmob.com/match/5881193
+DESCRIPTION:⚽ هامبورج × شتوتجارت\n🏆 الدوري ال
+ ألماني — الجولة 6\n🗓 السبت 17 أكتوبر 2026 · 1
+ 6:30 بتوقيت الرياض\n🏟 Volksparkstadion\n—————\n
+ ⚽ Hamburger SV v VfB Stuttgart\n🏆 Bundesliga — Matchday 6\n🗓 Sat
+  17 Oct 2026 · 13:30 UTC\n🏟 Volksparkstadion\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هامبورج ضد شتوتجارت — الدو
+ ري الألماني | Tomorrow: Hamburger SV vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هامبو
+ رج × شتوتجارت | Kick-off in 30 min: Hamburger SV vs VfB Stuttga
+ rt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881205@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T133000Z
+DTEND:20261024T153000Z
+SUMMARY:VfB Stuttgart vs Borussia Mönchengladbach — Bundesliga
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/5881205
+DESCRIPTION:⚽ شتوتجارت × بوروسيا مونشنجلادباخ
+ \n🏆 الدوري الألماني — الجولة 7\n🗓 السبت 2
+ 4 أكتوبر 2026 · 16:30 بتوقيت الرياض\n🏟 MHPArena\n—
+ ————\n⚽ VfB Stuttgart v Borussia Mönchengladbach\n🏆 Bundesli
+ ga — Matchday 7\n🗓 Sat 24 Oct 2026 · 13:30 UTC\n🏟 MHPArena\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد بوروسيا مونشنج
+ لادباخ — الدوري الألماني | Tomorrow: VfB Stuttgart v
+ s Borussia Mönchengladbach
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × بوروسيا مونشنجلادباخ | Kick-off in 30 min: Vf
+ B Stuttgart vs Borussia Mönchengladbach
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881207@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T143000Z
+DTEND:20261031T163000Z
+SUMMARY:Bayer Leverkusen vs VfB Stuttgart — Bundesliga
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/5881207
+DESCRIPTION:⚽ باير ليفركوزن × شتوتجارت\n🏆 الد
+ وري الألماني — الجولة 8\n🗓 السبت 31 أكتوب
+ ر 2026 · 17:30 بتوقيت الرياض\n🏟 BayArena\n—————
+ \n⚽ Bayer Leverkusen v VfB Stuttgart\n🏆 Bundesliga — Matchday 8\n
+ 🗓 Sat 31 Oct 2026 · 14:30 UTC\n🏟 BayArena\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد شتوتجارت 
+ — الدوري الألماني | Tomorrow: Bayer Leverkusen vs VfB Stut
+ tgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × شتوتجارت | Kick-off in 30 min: Bayer Leverkusen 
+ vs VfB Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881223@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T143000Z
+DTEND:20261107T163000Z
+SUMMARY:VfB Stuttgart vs Werder Bremen — Bundesliga
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/5881223
+DESCRIPTION:⚽ شتوتجارت × فيردر بريمن\n🏆 الدور
+ ي الألماني — الجولة 9\n🗓 السبت 7 نوفمبر 202
+ 6 · 17:30 بتوقيت الرياض\n🏟 MHPArena\n—————\n⚽ 
+ VfB Stuttgart v Werder Bremen\n🏆 Bundesliga — Matchday 9\n🗓 Sat 07
+  Nov 2026 · 14:30 UTC\n🏟 MHPArena\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد فيردر بريمن — 
+ الدوري الألماني | Tomorrow: VfB Stuttgart vs Werder Bremen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × فيردر بريمن | Kick-off in 30 min: VfB Stuttgart vs Wer
+ der Bremen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881230@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T143000Z
+DTEND:20261121T163000Z
+SUMMARY:Schalke 04 vs VfB Stuttgart — Bundesliga
+LOCATION:VELTINS-Arena
+URL:https://www.fotmob.com/match/5881230
+DESCRIPTION:⚽ شالكة × شتوتجارت\n🏆 الدوري الأل
+ ماني — الجولة 10\n🗓 السبت 21 نوفمبر 2026 · 17:3
+ 0 بتوقيت الرياض\n🏟 VELTINS-Arena\n—————\n⚽ Scha
+ lke 04 v VfB Stuttgart\n🏆 Bundesliga — Matchday 10\n🗓 Sat 21 Nov 2
+ 026 · 14:30 UTC\n🏟 VELTINS-Arena\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد شتوتجارت — الدوري
+  الألماني | Tomorrow: Schalke 04 vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × شتوتجارت | Kick-off in 30 min: Schalke 04 vs VfB Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881240@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T143000Z
+DTEND:20261128T163000Z
+SUMMARY:VfB Stuttgart vs Eintracht Frankfurt — Bundesliga
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/5881240
+DESCRIPTION:⚽ شتوتجارت × آينتراخت فرانكفورت\n
+ 🏆 الدوري الألماني — الجولة 11\n🗓 السبت 28
+  نوفمبر 2026 · 17:30 بتوقيت الرياض\n🏟 MHPArena\n—
+ ————\n⚽ VfB Stuttgart v Eintracht Frankfurt\n🏆 Bundesliga —
+  Matchday 11\n🗓 Sat 28 Nov 2026 · 14:30 UTC\n🏟 MHPArena\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد آينتراخت فرانك
+ فورت — الدوري الألماني | Tomorrow: VfB Stuttgart vs Ei
+ ntracht Frankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × آينتراخت فرانكفورت | Kick-off in 30 min: VfB St
+ uttgart vs Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881246@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T143000Z
+DTEND:20261205T163000Z
+SUMMARY:Elversberg vs VfB Stuttgart — Bundesliga
+LOCATION:Ursapharm-Arena
+URL:https://www.fotmob.com/match/5881246
+DESCRIPTION:⚽ إلفيرسبيرغ × شتوتجارت\n🏆 الدوري
+  الألماني — الجولة 12\n🗓 السبت 5 ديسمبر 2026
+  · 17:30 بتوقيت الرياض\n🏟 Ursapharm-Arena\n—————
+ \n⚽ Elversberg v VfB Stuttgart\n🏆 Bundesliga — Matchday 12\n🗓 Sa
+ t 05 Dec 2026 · 14:30 UTC\n🏟 Ursapharm-Arena\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد شتوتجارت — ا
+ لدوري الألماني | Tomorrow: Elversberg vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × شتوتجارت | Kick-off in 30 min: Elversberg vs VfB Stu
+ ttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881258@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T143000Z
+DTEND:20261212T163000Z
+SUMMARY:VfB Stuttgart vs Union Berlin — Bundesliga
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/5881258
+DESCRIPTION:⚽ شتوتجارت × يونيون برلين\n🏆 الدو
+ ري الألماني — الجولة 13\n🗓 السبت 12 ديسمبر
+  2026 · 17:30 بتوقيت الرياض\n🏟 MHPArena\n—————\n
+ ⚽ VfB Stuttgart v Union Berlin\n🏆 Bundesliga — Matchday 13\n🗓 Sa
+ t 12 Dec 2026 · 14:30 UTC\n🏟 MHPArena\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد يونيون برلين —
+  الدوري الألماني | Tomorrow: VfB Stuttgart vs Union Berlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × يونيون برلين | Kick-off in 30 min: VfB Stuttgart vs U
+ nion Berlin
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881264@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T143000Z
+DTEND:20261219T163000Z
+SUMMARY:Freiburg vs VfB Stuttgart — Bundesliga
+LOCATION:Europa-Park Stadion
+URL:https://www.fotmob.com/match/5881264
+DESCRIPTION:⚽ فرايبورج × شتوتجارت\n🏆 الدوري ا
+ لألماني — الجولة 14\n🗓 السبت 19 ديسمبر 2026 
+ · 17:30 بتوقيت الرياض\n🏟 Europa-Park Stadion\n————
+ —\n⚽ Freiburg v VfB Stuttgart\n🏆 Bundesliga — Matchday 14\n🗓 S
+ at 19 Dec 2026 · 14:30 UTC\n🏟 Europa-Park Stadion\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فرايبورج ضد شتوتجارت — الد
+ وري الألماني | Tomorrow: Freiburg vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فرايب
+ ورج × شتوتجارت | Kick-off in 30 min: Freiburg vs VfB Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881276@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270109T143000Z
+DTEND:20270109T163000Z
+SUMMARY:VfB Stuttgart vs Augsburg — Bundesliga
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/5881276
+DESCRIPTION:⚽ شتوتجارت × أوغسبورغ\n🏆 الدوري ا
+ لألماني — الجولة 15\n🗓 السبت 9 يناير 2027 · 1
+ 7:30 بتوقيت الرياض\n🏟 MHPArena\n—————\n⚽ VfB St
+ uttgart v Augsburg\n🏆 Bundesliga — Matchday 15\n🗓 Sat 09 Jan 2027 
+ · 14:30 UTC\n🏟 MHPArena\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد أوغسبورغ — الد
+ وري الألماني | Tomorrow: VfB Stuttgart vs Augsburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × أوغسبورغ | Kick-off in 30 min: VfB Stuttgart vs Augsburg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881284@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270112T193000Z
+DTEND:20270112T213000Z
+SUMMARY:RB Leipzig vs VfB Stuttgart — Bundesliga
+LOCATION:Red Bull Arena Leipzig
+URL:https://www.fotmob.com/match/5881284
+DESCRIPTION:⚽ لايبزيج × شتوتجارت\n🏆 الدوري ال
+ ألماني — الجولة 16\n🗓 الثلاثاء 12 يناير 2027
+  · 22:30 بتوقيت الرياض\n🏟 Red Bull Arena Leipzig\n——
+ ———\n⚽ RB Leipzig v VfB Stuttgart\n🏆 Bundesliga — Matchday 16
+ \n🗓 Tue 12 Jan 2027 · 19:30 UTC\n🏟 Red Bull Arena Leipzig\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لايبزيج ضد شتوتجارت — الدو
+ ري الألماني | Tomorrow: RB Leipzig vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لايبز
+ يج × شتوتجارت | Kick-off in 30 min: RB Leipzig vs VfB Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881294@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T143000Z
+DTEND:20270116T163000Z
+SUMMARY:VfB Stuttgart vs Mainz 05 — Bundesliga
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/5881294
+DESCRIPTION:⚽ شتوتجارت × ماينز 05\n🏆 الدوري الأ
+ لماني — الجولة 17\n🗓 السبت 16 يناير 2027 · 17:3
+ 0 بتوقيت الرياض\n🏟 MHPArena\n—————\n⚽ VfB Stutt
+ gart v Mainz 05\n🏆 Bundesliga — Matchday 17\n🗓 Sat 16 Jan 2027 · 
+ 14:30 UTC\n🏟 MHPArena\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد ماينز 05 — الدو
+ ري الألماني | Tomorrow: VfB Stuttgart vs Mainz 05
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × ماينز 05 | Kick-off in 30 min: VfB Stuttgart vs Mainz 05
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881303@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T143000Z
+DTEND:20270123T163000Z
+SUMMARY:VfB Stuttgart vs Bayern München — Bundesliga
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/5881303
+DESCRIPTION:⚽ شتوتجارت × بايرن ميونخ\n🏆 الدور
+ ي الألماني — الجولة 18\n🗓 السبت 23 يناير 202
+ 7 · 17:30 بتوقيت الرياض\n🏟 MHPArena\n—————\n⚽ 
+ VfB Stuttgart v Bayern München\n🏆 Bundesliga — Matchday 18\n🗓 Sat
+  23 Jan 2027 · 14:30 UTC\n🏟 MHPArena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد بايرن ميونخ — 
+ الدوري الألماني | Tomorrow: VfB Stuttgart vs Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × بايرن ميونخ | Kick-off in 30 min: VfB Stuttgart vs Bay
+ ern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881309@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T143000Z
+DTEND:20270130T163000Z
+SUMMARY:1. FC Köln vs VfB Stuttgart — Bundesliga
+LOCATION:RheinEnergieSTADION
+URL:https://www.fotmob.com/match/5881309
+DESCRIPTION:⚽ كولن × شتوتجارت\n🏆 الدوري الألم
+ اني — الجولة 19\n🗓 السبت 30 يناير 2027 · 17:30 ب
+ توقيت الرياض\n🏟 RheinEnergieSTADION\n—————\n⚽ 1.
+  FC Köln v VfB Stuttgart\n🏆 Bundesliga — Matchday 19\n🗓 Sat 30 Ja
+ n 2027 · 14:30 UTC\n🏟 RheinEnergieSTADION\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كولن ضد شتوتجارت — الدوري 
+ الألماني | Tomorrow: 1. FC Köln vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كولن ×
+  شتوتجارت | Kick-off in 30 min: 1. FC Köln vs VfB Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881321@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T143000Z
+DTEND:20270206T163000Z
+SUMMARY:VfB Stuttgart vs Hoffenheim — Bundesliga
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/5881321
+DESCRIPTION:⚽ شتوتجارت × هوفنهايم\n🏆 الدوري ا
+ لألماني — الجولة 20\n🗓 السبت 6 فبراير 2027 ·
+  17:30 بتوقيت الرياض\n🏟 MHPArena\n—————\n⚽ VfB 
+ Stuttgart v Hoffenheim\n🏆 Bundesliga — Matchday 20\n🗓 Sat 06 Feb 2
+ 027 · 14:30 UTC\n🏟 MHPArena\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد هوفنهايم — الد
+ وري الألماني | Tomorrow: VfB Stuttgart vs Hoffenheim
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × هوفنهايم | Kick-off in 30 min: VfB Stuttgart vs Hoffenhe
+ im
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881324@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270213T143000Z
+DTEND:20270213T163000Z
+SUMMARY:Borussia Dortmund vs VfB Stuttgart — Bundesliga
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/5881324
+DESCRIPTION:⚽ بوروسيا دورتموند × شتوتجارت\n🏆 
+ الدوري الألماني — الجولة 21\n🗓 السبت 13 فب
+ راير 2027 · 17:30 بتوقيت الرياض\n🏟 Signal Iduna Park\n
+ —————\n⚽ Borussia Dortmund v VfB Stuttgart\n🏆 Bundesliga 
+ — Matchday 21\n🗓 Sat 13 Feb 2027 · 14:30 UTC\n🏟 Signal Iduna Park
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد شتوتجا
+ رت — الدوري الألماني | Tomorrow: Borussia Dortmund vs Vf
+ B Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × شتوتجارت | Kick-off in 30 min: Borussia D
+ ortmund vs VfB Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881339@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T143000Z
+DTEND:20270220T163000Z
+SUMMARY:VfB Stuttgart vs Paderborn — Bundesliga
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/5881339
+DESCRIPTION:⚽ شتوتجارت × بادربورن\n🏆 الدوري ا
+ لألماني — الجولة 22\n🗓 السبت 20 فبراير 2027 
+ · 17:30 بتوقيت الرياض\n🏟 MHPArena\n—————\n⚽ Vf
+ B Stuttgart v Paderborn\n🏆 Bundesliga — Matchday 22\n🗓 Sat 20 Feb 
+ 2027 · 14:30 UTC\n🏟 MHPArena\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد بادربورن — الد
+ وري الألماني | Tomorrow: VfB Stuttgart vs Paderborn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × بادربورن | Kick-off in 30 min: VfB Stuttgart vs Paderbor
+ n
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881349@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T143000Z
+DTEND:20270227T163000Z
+SUMMARY:VfB Stuttgart vs Hamburger SV — Bundesliga
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/5881349
+DESCRIPTION:⚽ شتوتجارت × هامبورج\n🏆 الدوري ال
+ ألماني — الجولة 23\n🗓 السبت 27 فبراير 2027 · 
+ 17:30 بتوقيت الرياض\n🏟 MHPArena\n—————\n⚽ VfB S
+ tuttgart v Hamburger SV\n🏆 Bundesliga — Matchday 23\n🗓 Sat 27 Feb 
+ 2027 · 14:30 UTC\n🏟 MHPArena\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد هامبورج — الدو
+ ري الألماني | Tomorrow: VfB Stuttgart vs Hamburger SV
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × هامبورج | Kick-off in 30 min: VfB Stuttgart vs Hamburger 
+ SV
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881352@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270302T193000Z
+DTEND:20270302T213000Z
+SUMMARY:Borussia Mönchengladbach vs VfB Stuttgart — Bundesliga
+LOCATION:Ista-Borussia-Park
+URL:https://www.fotmob.com/match/5881352
+DESCRIPTION:⚽ بوروسيا مونشنجلادباخ × شتوتجارت
+ \n🏆 الدوري الألماني — الجولة 24\n🗓 الثلا
+ ثاء 2 مارس 2027 · 22:30 بتوقيت الرياض\n🏟 Ista-Borus
+ sia-Park\n—————\n⚽ Borussia Mönchengladbach v VfB Stuttgart\n
+ 🏆 Bundesliga — Matchday 24\n🗓 Tue 02 Mar 2027 · 19:30 UTC\n🏟 I
+ sta-Borussia-Park\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا مونشنجلادباخ ضد شت
+ وتجارت — الدوري الألماني | Tomorrow: Borussia Mönch
+ engladbach vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا مونشنجلادباخ × شتوتجارت | Kick-off in 30 min: Bo
+ russia Mönchengladbach vs VfB Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881367@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270306T143000Z
+DTEND:20270306T163000Z
+SUMMARY:VfB Stuttgart vs Bayer Leverkusen — Bundesliga
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/5881367
+DESCRIPTION:⚽ شتوتجارت × باير ليفركوزن\n🏆 الد
+ وري الألماني — الجولة 25\n🗓 السبت 6 مارس 20
+ 27 · 17:30 بتوقيت الرياض\n🏟 MHPArena\n—————\n⚽
+  VfB Stuttgart v Bayer Leverkusen\n🏆 Bundesliga — Matchday 25\n🗓 S
+ at 06 Mar 2027 · 14:30 UTC\n🏟 MHPArena\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد باير ليفركوزن 
+ — الدوري الألماني | Tomorrow: VfB Stuttgart vs Bayer Lever
+ kusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × باير ليفركوزن | Kick-off in 30 min: VfB Stuttgart vs
+  Bayer Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881376@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T143000Z
+DTEND:20270313T163000Z
+SUMMARY:Werder Bremen vs VfB Stuttgart — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881376
+DESCRIPTION:⚽ فيردر بريمن × شتوتجارت\n🏆 الدور
+ ي الألماني — الجولة 26\n🗓 السبت 13 مارس 2027 
+ · 17:30 بتوقيت الرياض\n🏟 Wohninvest WESERSTADION\n——
+ ———\n⚽ Werder Bremen v VfB Stuttgart\n🏆 Bundesliga — Matchday
+  26\n🗓 Sat 13 Mar 2027 · 14:30 UTC\n🏟 Wohninvest WESERSTADION\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد شتوتجارت — 
+ الدوري الألماني | Tomorrow: Werder Bremen vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × شتوتجارت | Kick-off in 30 min: Werder Bremen vs VfB 
+ Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881385@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T143000Z
+DTEND:20270320T163000Z
+SUMMARY:VfB Stuttgart vs Schalke 04 — Bundesliga
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/5881385
+DESCRIPTION:⚽ شتوتجارت × شالكة\n🏆 الدوري الأل
+ ماني — الجولة 27\n🗓 السبت 20 مارس 2027 · 17:30 ب
+ توقيت الرياض\n🏟 MHPArena\n—————\n⚽ VfB Stuttgart
+  v Schalke 04\n🏆 Bundesliga — Matchday 27\n🗓 Sat 20 Mar 2027 · 14
+ :30 UTC\n🏟 MHPArena\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد شالكة — الدوري
+  الألماني | Tomorrow: VfB Stuttgart vs Schalke 04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × شالكة | Kick-off in 30 min: VfB Stuttgart vs Schalke 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881390@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270403T133000Z
+DTEND:20270403T153000Z
+SUMMARY:Eintracht Frankfurt vs VfB Stuttgart — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881390
+DESCRIPTION:⚽ آينتراخت فرانكفورت × شتوتجارت\n
+ 🏆 الدوري الألماني — الجولة 28\n🗓 السبت 3 
+ أبريل 2027 · 16:30 بتوقيت الرياض\n🏟 Deutsche Bank Par
+ k\n—————\n⚽ Eintracht Frankfurt v VfB Stuttgart\n🏆 Bundesli
+ ga — Matchday 28\n🗓 Sat 03 Apr 2027 · 13:30 UTC\n🏟 Deutsche Bank 
+ Park\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد شتوت
+ جارت — الدوري الألماني | Tomorrow: Eintracht Frankfurt
+  vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × شتوتجارت | Kick-off in 30 min: Eintra
+ cht Frankfurt vs VfB Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881402@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T133000Z
+DTEND:20270410T153000Z
+SUMMARY:VfB Stuttgart vs Elversberg — Bundesliga
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/5881402
+DESCRIPTION:⚽ شتوتجارت × إلفيرسبيرغ\n🏆 الدوري
+  الألماني — الجولة 29\n🗓 السبت 10 أبريل 2027 
+ · 16:30 بتوقيت الرياض\n🏟 MHPArena\n—————\n⚽ Vf
+ B Stuttgart v Elversberg\n🏆 Bundesliga — Matchday 29\n🗓 Sat 10 Apr
+  2027 · 13:30 UTC\n🏟 MHPArena\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد إلفيرسبيرغ — ا
+ لدوري الألماني | Tomorrow: VfB Stuttgart vs Elversberg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × إلفيرسبيرغ | Kick-off in 30 min: VfB Stuttgart vs Elve
+ rsberg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881412@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T133000Z
+DTEND:20270417T153000Z
+SUMMARY:Union Berlin vs VfB Stuttgart — Bundesliga
+LOCATION:Alte Foersterei
+URL:https://www.fotmob.com/match/5881412
+DESCRIPTION:⚽ يونيون برلين × شتوتجارت\n🏆 الدو
+ ري الألماني — الجولة 30\n🗓 السبت 17 أبريل 2
+ 027 · 16:30 بتوقيت الرياض\n🏟 Alte Foersterei\n————
+ —\n⚽ Union Berlin v VfB Stuttgart\n🏆 Bundesliga — Matchday 30\n
+ 🗓 Sat 17 Apr 2027 · 13:30 UTC\n🏟 Alte Foersterei\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد شتوتجارت —
+  الدوري الألماني | Tomorrow: Union Berlin vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × شتوتجارت | Kick-off in 30 min: Union Berlin vs Vf
+ B Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881420@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T133000Z
+DTEND:20270424T153000Z
+SUMMARY:VfB Stuttgart vs Freiburg — Bundesliga
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/5881420
+DESCRIPTION:⚽ شتوتجارت × فرايبورج\n🏆 الدوري ا
+ لألماني — الجولة 31\n🗓 السبت 24 أبريل 2027 · 
+ 16:30 بتوقيت الرياض\n🏟 MHPArena\n—————\n⚽ VfB S
+ tuttgart v Freiburg\n🏆 Bundesliga — Matchday 31\n🗓 Sat 24 Apr 2027
+  · 13:30 UTC\n🏟 MHPArena\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد فرايبورج — الد
+ وري الألماني | Tomorrow: VfB Stuttgart vs Freiburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × فرايبورج | Kick-off in 30 min: VfB Stuttgart vs Freiburg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881422@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T133000Z
+DTEND:20270508T153000Z
+SUMMARY:Augsburg vs VfB Stuttgart — Bundesliga
+LOCATION:WWK Arena
+URL:https://www.fotmob.com/match/5881422
+DESCRIPTION:⚽ أوغسبورغ × شتوتجارت\n🏆 الدوري ا
+ لألماني — الجولة 32\n🗓 السبت 8 مايو 2027 · 16:
+ 30 بتوقيت الرياض\n🏟 WWK Arena\n—————\n⚽ Augsbur
+ g v VfB Stuttgart\n🏆 Bundesliga — Matchday 32\n🗓 Sat 08 May 2027 
+ · 13:30 UTC\n🏟 WWK Arena\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوغسبورغ ضد شتوتجارت — الد
+ وري الألماني | Tomorrow: Augsburg vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوغسب
+ ورغ × شتوتجارت | Kick-off in 30 min: Augsburg vs VfB Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881438@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T133000Z
+DTEND:20270515T153000Z
+SUMMARY:VfB Stuttgart vs RB Leipzig — Bundesliga
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/5881438
+DESCRIPTION:⚽ شتوتجارت × لايبزيج\n🏆 الدوري ال
+ ألماني — الجولة 33\n🗓 السبت 15 مايو 2027 · 16:3
+ 0 بتوقيت الرياض\n🏟 MHPArena\n—————\n⚽ VfB Stutt
+ gart v RB Leipzig\n🏆 Bundesliga — Matchday 33\n🗓 Sat 15 May 2027 
+ · 13:30 UTC\n🏟 MHPArena\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد لايبزيج — الدو
+ ري الألماني | Tomorrow: VfB Stuttgart vs RB Leipzig
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × لايبزيج | Kick-off in 30 min: VfB Stuttgart vs RB Leipzig
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881445@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270522T133000Z
+DTEND:20270522T153000Z
+SUMMARY:Mainz 05 vs VfB Stuttgart — Bundesliga
+LOCATION:MEWA Arena
+URL:https://www.fotmob.com/match/5881445
+DESCRIPTION:⚽ ماينز 05 × شتوتجارت\n🏆 الدوري الأ
+ لماني — الجولة 34\n🗓 السبت 22 مايو 2027 · 16:30 
+ بتوقيت الرياض\n🏟 MEWA Arena\n—————\n⚽ Mainz 05 
+ v VfB Stuttgart\n🏆 Bundesliga — Matchday 34\n🗓 Sat 22 May 2027 · 
+ 13:30 UTC\n🏟 MEWA Arena\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ماينز 05 ضد شتوتجارت — الدو
+ ري الألماني | Tomorrow: Mainz 05 vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ماينز 
+ 05 × شتوتجارت | Kick-off in 30 min: Mainz 05 vs VfB Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106400@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260909T164500Z
+DTEND:20260909T184500Z
+SUMMARY:VfB Stuttgart vs Viking — UEFA Champions League
+LOCATION:MHPArena\, Stuttgart\, Germany
+GEO:48.792284;9.232024
+URL:https://www.fotmob.com/match/6106400
+DESCRIPTION:⚽ شتوتجارت × فيشينغ ستافانغير\n🏆 
+ دوري أبطال أوروبا — الجولة 1\n🗓 الأربعاء
+  9 سبتمبر 2026 · 19:45 بتوقيت الرياض\n🏟 MHPArena، S
+ tuttgart\n📺 HBO Max (UK)، Paramount+ (US)\n—————\n⚽ VfB St
+ uttgart v Viking\n🏆 UEFA Champions League — Matchday 1\n🗓 Wed 09 S
+ ep 2026 · 16:45 UTC\n🏟 MHPArena, Stuttgart\n📺 HBO Max (UK), Paramou
+ nt+ (US)\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد فيشينغ ستافانغ
+ ير — دوري أبطال أوروبا — 📺 HBO Max (UK)، Paramoun
+ t+ (US) | Tomorrow: VfB Stuttgart vs Viking | TV: HBO Max (UK)\, Paramount
+ + (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × فيشينغ ستافانغير — 📺 HBO Max (UK)، Paramoun
+ t+ (US) | Kick-off in 30 min: VfB Stuttgart vs Viking | TV: HBO Max (UK)\,
+  Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106396@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+SUMMARY:Slovan Bratislava vs VfB Stuttgart — UEFA Champions League
+LOCATION:Štadión Tehelné pole\, Bratislava\, Slovakia
+GEO:48.163495;17.136698
+URL:https://www.fotmob.com/match/6106396
+DESCRIPTION:⚽ سلوفان براتيسلافا × شتوتجارت\n🏆
+  دوري أبطال أوروبا — الجولة 2\n🗓 الأربعا
+ ء 14 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Štadión
+  Tehelné pole، Bratislava\n—————\n⚽ Slovan Bratislava v VfB 
+ Stuttgart\n🏆 UEFA Champions League — Matchday 2\n🗓 Wed 14 Oct 2026
+  · 19:00 UTC\n🏟 Štadión Tehelné pole, Bratislava\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سلوفان براتيسلافا ضد شتوتج
+ ارت — دوري أبطال أوروبا | Tomorrow: Slovan Bratislava 
+ vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سلوفا
+ ن براتيسلافا × شتوتجارت | Kick-off in 30 min: Slovan B
+ ratislava vs VfB Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106397@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:VfB Stuttgart vs Atlético Madrid — UEFA Champions League
+LOCATION:MHPArena\, Stuttgart\, Germany
+GEO:48.792284;9.232024
+URL:https://www.fotmob.com/match/6106397
+DESCRIPTION:⚽ شتوتجارت × أتلتيكو مدريد\n🏆 دور
+ ي أبطال أوروبا — الجولة 3\n🗓 الثلاثاء 20 أ
+ كتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 MHPArena، Stuttg
+ art\n—————\n⚽ VfB Stuttgart v Atlético Madrid\n🏆 UEFA Cham
+ pions League — Matchday 3\n🗓 Tue 20 Oct 2026 · 19:00 UTC\n🏟 MHPAr
+ ena, Stuttgart\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد أتلتيكو مدريد 
+ — دوري أبطال أوروبا | Tomorrow: VfB Stuttgart vs Atlétic
+ o Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × أتلتيكو مدريد | Kick-off in 30 min: VfB Stuttgart vs
+  Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106341@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261103T174500Z
+DTEND:20261103T194500Z
+SUMMARY:Galatasaray vs VfB Stuttgart — UEFA Champions League
+LOCATION:Rams Global Stadyumu
+URL:https://www.fotmob.com/match/6106341
+DESCRIPTION:⚽ غلطة سراي × شتوتجارت\n🏆 دوري أبط
+ ال أوروبا — الجولة 4\n🗓 الثلاثاء 3 نوفمبر
+  2026 · 20:45 بتوقيت الرياض\n🏟 Rams Global Stadyumu\n—
+ ————\n⚽ Galatasaray v VfB Stuttgart\n🏆 UEFA Champions League 
+ — Matchday 4\n🗓 Tue 03 Nov 2026 · 17:45 UTC\n🏟 Rams Global Stadyu
+ mu\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غلطة سراي ضد شتوتجارت — دو
+ ري أبطال أوروبا | Tomorrow: Galatasaray vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غلطة س
+ راي × شتوتجارت | Kick-off in 30 min: Galatasaray vs VfB Stuttg
+ art
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106253@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Inter vs VfB Stuttgart — UEFA Champions League
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/6106253
+DESCRIPTION:⚽ إنتر ميلان × شتوتجارت\n🏆 دوري أب
+ طال أوروبا — الجولة 5\n🗓 الأربعاء 25 نوفم
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Giuseppe Meazza\n——
+ ———\n⚽ Inter v VfB Stuttgart\n🏆 UEFA Champions League — Match
+ day 5\n🗓 Wed 25 Nov 2026 · 20:00 UTC\n🏟 Giuseppe Meazza\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد شتوتجارت — د
+ وري أبطال أوروبا | Tomorrow: Inter vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × شتوتجارت | Kick-off in 30 min: Inter vs VfB Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106399@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:VfB Stuttgart vs Lille — UEFA Champions League
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/6106399
+DESCRIPTION:⚽ شتوتجارت × ليل\n🏆 دوري أبطال أور
+ وبا — الجولة 6\n🗓 الأربعاء 9 ديسمبر 2026 · 23
+ :00 بتوقيت الرياض\n🏟 MHPArena\n—————\n⚽ VfB Stu
+ ttgart v Lille\n🏆 UEFA Champions League — Matchday 6\n🗓 Wed 09 Dec
+  2026 · 20:00 UTC\n🏟 MHPArena\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد ليل — دوري أبط
+ ال أوروبا | Tomorrow: VfB Stuttgart vs Lille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × ليل | Kick-off in 30 min: VfB Stuttgart vs Lille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106398@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+SUMMARY:VfB Stuttgart vs Club Brugge — UEFA Champions League
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/6106398
+DESCRIPTION:⚽ شتوتجارت × كلوب بروج\n🏆 دوري أبط
+ ال أوروبا — الجولة 7\n🗓 الثلاثاء 19 يناير 
+ 2027 · 23:00 بتوقيت الرياض\n🏟 MHPArena\n—————\n
+ ⚽ VfB Stuttgart v Club Brugge\n🏆 UEFA Champions League — Matchday 7
+ \n🗓 Tue 19 Jan 2027 · 20:00 UTC\n🏟 MHPArena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد كلوب بروج — دو
+ ري أبطال أوروبا | Tomorrow: VfB Stuttgart vs Club Brugge
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × كلوب بروج | Kick-off in 30 min: VfB Stuttgart vs Club Br
+ ugge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106305@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:PSV Eindhoven vs VfB Stuttgart — UEFA Champions League
+LOCATION:Philips Stadion
+URL:https://www.fotmob.com/match/6106305
+DESCRIPTION:⚽ آيندهوفن × شتوتجارت\n🏆 دوري أبط
+ ال أوروبا — الجولة 8\n🗓 الأربعاء 27 يناير 
+ 2027 · 23:00 بتوقيت الرياض\n🏟 Philips Stadion\n———
+ ——\n⚽ PSV Eindhoven v VfB Stuttgart\n🏆 UEFA Champions League — 
+ Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Philips Stadion\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آيندهوفن ضد شتوتجارت — دور
+ ي أبطال أوروبا | Tomorrow: PSV Eindhoven vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينده
+ وفن × شتوتجارت | Kick-off in 30 min: PSV Eindhoven vs VfB Stut
+ tgart
+END:VALARM
+END:VEVENT
+END:VCALENDAR

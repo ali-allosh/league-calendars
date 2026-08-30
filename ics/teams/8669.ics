@@ -1,0 +1,1326 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Coventry City — Premier League & FA Cup Fixtures | كو
+ فنتري سيتي — مباريات الدوري الإنجليزي ا
+ لممتاز وكأس الاتحاد الإنجليزي
+X-WR-CALDESC:Coventry City — all matches in Premier League & FA Cup\, exa
+ ct UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 
+ 2026-09-05T19:31:10Z.  •  كوفنتري سيتي — جميع المب
+ اريات في الدوري الإنجليزي الممتاز وكأس ا
+ لاتحاد الإنجليزي بتوقيت UTC الدقيق مع الم
+ لاعب والقنوات الناقلة. المصدر: FotMob + 365scores
+  · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5795363@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260821T190000Z
+DTEND:20260821T210000Z
+SUMMARY:Arsenal vs Coventry City (3 - 0) — Premier League
+LOCATION:Emirates Stadium\, London\, England
+GEO:51.555075;-0.108458
+URL:https://www.fotmob.com/match/5795363
+DESCRIPTION:⚽ أرسنال × كوفنتري سيتي (3 - 0)\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 1\n🗓 الج
+ معة 21 أغسطس 2026 · 22:00 بتوقيت الرياض\n🏟 Emirate
+ s Stadium، London\n⚖️ الحكم: Thomas Bramall\n👥 الحضور: 
+ 60,098\n—————\n⚽ Arsenal v Coventry City (3 - 0)\n🏆 Premier
+  League — Matchday 1\n🗓 Fri 21 Aug 2026 · 19:00 UTC\n🏟 Emirates S
+ tadium, London\nReferee: Thomas Bramall\nAttendance: 60,098\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد كوفنتري سيتي — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Arsenal vs Covent
+ ry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × كوفنتري سيتي | Kick-off in 30 min: Arsenal vs Coventry Ci
+ ty
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795428@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T140000Z
+DTEND:20260829T160000Z
+SUMMARY:Coventry City vs Hull City (0 - 1) — Premier League
+LOCATION:Coventry Building Society Arena\, Coventry\, West Midlands\, Engla
+ nd
+GEO:52.448111;-1.495629
+URL:https://www.fotmob.com/match/5795428
+DESCRIPTION:⚽ كوفنتري سيتي × هال سيتي (0 - 1)\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 2\n🗓 ال
+ سبت 29 أغسطس 2026 · 17:00 بتوقيت الرياض\n🏟 Coventr
+ y Building Society Arena، Coventry, West Midlands\n⚖️ الحكم: Jos
+ h Smith\n👥 الحضور: 31,239\n—————\n⚽ Coventry City v H
+ ull City (0 - 1)\n🏆 Premier League — Matchday 2\n🗓 Sat 29 Aug 2026
+  · 14:00 UTC\n🏟 Coventry Building Society Arena, Coventry, West Midlan
+ ds\nReferee: Josh Smith\nAttendance: 31,239\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد هال سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Coventry City v
+ s Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × هال سيتي | Kick-off in 30 min: Coventry City vs Hu
+ ll City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795442@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T140000Z
+DTEND:20260905T160000Z
+SUMMARY:Manchester City vs Coventry City (1 - 0) — Premier League
+LOCATION:Etihad Stadium\, Manchester\, England
+GEO:53.483152;-2.200409
+URL:https://www.fotmob.com/match/5795442
+DESCRIPTION:⚽ مانشستر سيتي × كوفنتري سيتي (1 - 0)\
+ n🏆 الدوري الإنجليزي الممتاز — الجولة 3\n
+ 🗓 السبت 5 سبتمبر 2026 · 17:00 بتوقيت الرياض\n
+ 🏟 Etihad Stadium، Manchester\n📺 beIN SPORTS HD 1\n⚖️ الحكم
+ : Paul Tierney\n👥 الحضور: 60,765\n—————\n⚽ Manchester
+  City v Coventry City (1 - 0)\n🏆 Premier League — Matchday 3\n🗓 Sa
+ t 05 Sep 2026 · 14:00 UTC\n🏟 Etihad Stadium, Manchester\n📺 beIN Spo
+ rt 1 HD\nReferee: Paul Tierney\nAttendance: 60,765\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد كوفنتري سي
+ تي — الدوري الإنجليزي الممتاز — 📺 beIN SPOR
+ TS HD 1 | Tomorrow: Manchester City vs Coventry City | TV: beIN Sport 1 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × كوفنتري سيتي — 📺 beIN SPORTS HD 1 | Kick-
+ off in 30 min: Manchester City vs Coventry City | TV: beIN Sport 1 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795448@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:Coventry City vs Brighton & Hove Albion — Premier League
+LOCATION:Coventry Building Society Arena\, Coventry\, West Midlands\, Engla
+ nd
+GEO:52.448111;-1.495629
+URL:https://www.fotmob.com/match/5795448
+DESCRIPTION:⚽ كوفنتري سيتي × برايتون\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 4\n🗓 الأحد 1
+ 3 سبتمبر 2026 · 16:00 بتوقيت الرياض\n🏟 Coventry Buil
+ ding Society Arena، Coventry, West Midlands\n📺 Sky Sports Premier Leag
+ ue، Sky Sports Main Event، Sky Sports+ app، Sky Sports UHD، NOW، USA 
+ Network، Fubo Sports CA، StarHub TV+\n—————\n⚽ Coventry City
+  v Brighton & Hove Albion\n🏆 Premier League — Matchday 4\n🗓 Sun 13
+  Sep 2026 · 13:00 UTC\n🏟 Coventry Building Society Arena, Coventry, We
+ st Midlands\n📺 Sky Sports Premier League, Sky Sports Main Event, Sky Sp
+ orts+ app, Sky Sports UHD, NOW, USA Network, Fubo Sports CA, StarHub TV+\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد برايتون — 
+ الدوري الإنجليزي الممتاز — 📺 Sky Sports Premier
+  League، Sky Sports Main Event، Sky Sports+ app، Sky Sports UHD، NOW،
+  USA Network، Fubo Sports CA، StarHub TV+ | Tomorrow: Coventry City vs B
+ righton & Hove Albion | TV: Sky Sports Premier League\, Sky Sports Main Ev
+ ent\, Sky Sports+ app\, Sky Sports UHD\, NOW\, USA Network\, Fubo Sports C
+ A\, StarHub TV+
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × برايتون — 📺 Sky Sports Premier League، Sky S
+ ports Main Event، Sky Sports+ app، Sky Sports UHD، NOW، USA Network، 
+ Fubo Sports CA، StarHub TV+ | Kick-off in 30 min: Coventry City vs Bright
+ on & Hove Albion | TV: Sky Sports Premier League\, Sky Sports Main Event\,
+  Sky Sports+ app\, Sky Sports UHD\, NOW\, USA Network\, Fubo Sports CA\, S
+ tarHub TV+
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795463@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T163000Z
+DTEND:20260919T183000Z
+SUMMARY:Nottingham Forest vs Coventry City — Premier League
+LOCATION:The City Ground\, Nottingham\, Nottinghamshire\, England
+GEO:52.939913;-1.132894
+URL:https://www.fotmob.com/match/5795463
+DESCRIPTION:⚽ نوتنجهام فورست × كوفنتري سيتي\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 5\n
+ 🗓 السبت 19 سبتمبر 2026 · 19:30 بتوقيت الرياض\n
+ 🏟 The City Ground، Nottingham, Nottinghamshire\n—————\n⚽ N
+ ottingham Forest v Coventry City\n🏆 Premier League — Matchday 5\n🗓
+  Sat 19 Sep 2026 · 16:30 UTC\n🏟 The City Ground, Nottingham, Nottingha
+ mshire\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد كوفنتري 
+ سيتي — الدوري الإنجليزي الممتاز | Tomorrow: No
+ ttingham Forest vs Coventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × كوفنتري سيتي | Kick-off in 30 min: Notting
+ ham Forest vs Coventry City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795468@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261012T190000Z
+DTEND:20261012T210000Z
+SUMMARY:Coventry City vs Newcastle United — Premier League
+LOCATION:Coventry Building Society Arena\, Coventry\, West Midlands\, Engla
+ nd
+GEO:52.448111;-1.495629
+URL:https://www.fotmob.com/match/5795468
+DESCRIPTION:⚽ كوفنتري سيتي × نيوكاسل يونايتد\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 6\n
+ 🗓 الاثنين 12 أكتوبر 2026 · 22:00 بتوقيت الريا
+ ض\n🏟 Coventry Building Society Arena، Coventry, West Midlands\n——
+ ———\n⚽ Coventry City v Newcastle United\n🏆 Premier League — M
+ atchday 6\n🗓 Mon 12 Oct 2026 · 19:00 UTC\n🏟 Coventry Building Socie
+ ty Arena, Coventry, West Midlands\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد نيوكاسل يو
+ نايتد — الدوري الإنجليزي الممتاز | Tomorrow: 
+ Coventry City vs Newcastle United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × نيوكاسل يونايتد | Kick-off in 30 min: Coven
+ try City vs Newcastle United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795484@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261019T190000Z
+DTEND:20261019T210000Z
+SUMMARY:Tottenham Hotspur vs Coventry City — Premier League
+LOCATION:Tottenham Hotspur Stadium\, London\, England
+GEO:51.604217;-0.066229
+URL:https://www.fotmob.com/match/5795484
+DESCRIPTION:⚽ توتنهام هوتسبر × كوفنتري سيتي\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 7\n
+ 🗓 الاثنين 19 أكتوبر 2026 · 22:00 بتوقيت الريا
+ ض\n🏟 Tottenham Hotspur Stadium، London\n—————\n⚽ Tottenha
+ m Hotspur v Coventry City\n🏆 Premier League — Matchday 7\n🗓 Mon 19
+  Oct 2026 · 19:00 UTC\n🏟 Tottenham Hotspur Stadium, London\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توتنهام هوتسبر ضد كوفنتري 
+ سيتي — الدوري الإنجليزي الممتاز | Tomorrow: To
+ ttenham Hotspur vs Coventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توتنه
+ ام هوتسبر × كوفنتري سيتي | Kick-off in 30 min: Tottenh
+ am Hotspur vs Coventry City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795488@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Coventry City vs Fulham — Premier League
+LOCATION:Coventry Building Society Arena\, Coventry\, West Midlands\, Engla
+ nd
+GEO:52.448111;-1.495629
+URL:https://www.fotmob.com/match/5795488
+DESCRIPTION:⚽ كوفنتري سيتي × فولهام\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 8\n🗓 السبت 24 
+ أكتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 Coventry Buildi
+ ng Society Arena، Coventry, West Midlands\n—————\n⚽ Coventry 
+ City v Fulham\n🏆 Premier League — Matchday 8\n🗓 Sat 24 Oct 2026 ·
+  14:00 UTC\n🏟 Coventry Building Society Arena, Coventry, West Midlands\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد فولهام — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Coventry City vs 
+ Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × فولهام | Kick-off in 30 min: Coventry City vs Fulha
+ m
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795499@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:Coventry City vs Sunderland — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795499
+DESCRIPTION:⚽ كوفنتري سيتي × سندرلاند\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 9\n🗓 السبت
+  31 أكتوبر 2026 · 18:00 بتوقيت الرياض\n🏟 Coventry Bu
+ ilding Society Arena\n—————\n⚽ Coventry City v Sunderland\n
+ 🏆 Premier League — Matchday 9\n🗓 Sat 31 Oct 2026 · 15:00 UTC\n
+ 🏟 Coventry Building Society Arena\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد سندرلاند —
+  الدوري الإنجليزي الممتاز | Tomorrow: Coventry City 
+ vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × سندرلاند | Kick-off in 30 min: Coventry City vs S
+ underland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795508@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Everton vs Coventry City — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795508
+DESCRIPTION:⚽ إيفرتون × كوفنتري سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 10\n🗓 السبت 
+ 7 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Hill Dickinso
+ n Stadium\n—————\n⚽ Everton v Coventry City\n🏆 Premier Leag
+ ue — Matchday 10\n🗓 Sat 07 Nov 2026 · 15:00 UTC\n🏟 Hill Dickinson
+  Stadium\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد كوفنتري سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Everton vs Cove
+ ntry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × كوفنتري سيتي | Kick-off in 30 min: Everton vs Coventry 
+ City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795519@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:Coventry City vs Crystal Palace — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795519
+DESCRIPTION:⚽ كوفنتري سيتي × كريستال بالاس\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 11\n🗓 
+ السبت 21 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 C
+ oventry Building Society Arena\n—————\n⚽ Coventry City v Cryst
+ al Palace\n🏆 Premier League — Matchday 11\n🗓 Sat 21 Nov 2026 · 15
+ :00 UTC\n🏟 Coventry Building Society Arena\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد كريستال با
+ لاس — الدوري الإنجليزي الممتاز | Tomorrow: Cove
+ ntry City vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × كريستال بالاس | Kick-off in 30 min: Coventry 
+ City vs Crystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795531@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:Leeds United vs Coventry City — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795531
+DESCRIPTION:⚽ ليدز يونايتد × كوفنتري سيتي\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 12\n🗓 ا
+ لسبت 28 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Ell
+ and Road\n—————\n⚽ Leeds United v Coventry City\n🏆 Premier 
+ League — Matchday 12\n🗓 Sat 28 Nov 2026 · 15:00 UTC\n🏟 Elland Roa
+ d\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد كوفنتري سي
+ تي — الدوري الإنجليزي الممتاز | Tomorrow: Leeds 
+ United vs Coventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × كوفنتري سيتي | Kick-off in 30 min: Leeds United
+  vs Coventry City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795539@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Coventry City vs Ipswich Town — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795539
+DESCRIPTION:⚽ كوفنتري سيتي × إبسويتش تاون\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 13\n🗓 ا
+ لأربعاء 2 ديسمبر 2026 · 23:00 بتوقيت الرياض\n
+ 🏟 Coventry Building Society Arena\n—————\n⚽ Coventry City v
+  Ipswich Town\n🏆 Premier League — Matchday 13\n🗓 Wed 02 Dec 2026 
+ · 20:00 UTC\n🏟 Coventry Building Society Arena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد إبسويتش تا
+ ون — الدوري الإنجليزي الممتاز | Tomorrow: Covent
+ ry City vs Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × إبسويتش تاون | Kick-off in 30 min: Coventry Ci
+ ty vs Ipswich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795551@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Manchester United vs Coventry City — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795551
+DESCRIPTION:⚽ مانشستر يونايتد × كوفنتري سيتي\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 14\n
+ 🗓 السبت 5 ديسمبر 2026 · 18:00 بتوقيت الرياض\n
+ 🏟 Old Trafford\n—————\n⚽ Manchester United v Coventry City\
+ n🏆 Premier League — Matchday 14\n🗓 Sat 05 Dec 2026 · 15:00 UTC\n
+ 🏟 Old Trafford\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد كوفنتري
+  سيتي — الدوري الإنجليزي الممتاز | Tomorrow: M
+ anchester United vs Coventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × كوفنتري سيتي | Kick-off in 30 min: Manch
+ ester United vs Coventry City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795557@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Coventry City vs Aston Villa — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795557
+DESCRIPTION:⚽ كوفنتري سيتي × أستون فيلا\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 15\n🗓 الس
+ بت 12 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Coventr
+ y Building Society Arena\n—————\n⚽ Coventry City v Aston Villa
+ \n🏆 Premier League — Matchday 15\n🗓 Sat 12 Dec 2026 · 15:00 UTC\n
+ 🏟 Coventry Building Society Arena\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد أستون فيلا 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Coventry Ci
+ ty vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × أستون فيلا | Kick-off in 30 min: Coventry City v
+ s Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795565@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:AFC Bournemouth vs Coventry City — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795565
+DESCRIPTION:⚽ بورنموث × كوفنتري سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 16\n🗓 السبت 
+ 19 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Vitality Sta
+ dium\n—————\n⚽ AFC Bournemouth v Coventry City\n🏆 Premier L
+ eague — Matchday 16\n🗓 Sat 19 Dec 2026 · 15:00 UTC\n🏟 Vitality St
+ adium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد كوفنتري سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: AFC Bournemouth
+  vs Coventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × كوفنتري سيتي | Kick-off in 30 min: AFC Bournemouth vs C
+ oventry City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795576@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261226T150000Z
+DTEND:20261226T170000Z
+SUMMARY:Coventry City vs Chelsea — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795576
+DESCRIPTION:⚽ كوفنتري سيتي × تشيلسي\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 17\n🗓 السبت 26 
+ ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Coventry Buildi
+ ng Society Arena\n—————\n⚽ Coventry City v Chelsea\n🏆 Premi
+ er League — Matchday 17\n🗓 Sat 26 Dec 2026 · 15:00 UTC\n🏟 Coventr
+ y Building Society Arena\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد تشيلسي — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Coventry City vs 
+ Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × تشيلسي | Kick-off in 30 min: Coventry City vs Chels
+ ea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795586@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261230T200000Z
+DTEND:20261230T220000Z
+SUMMARY:Coventry City vs Brentford — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795586
+DESCRIPTION:⚽ كوفنتري سيتي × برينتفورد\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 18\n🗓 الأ
+ ربعاء 30 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 C
+ oventry Building Society Arena\n—————\n⚽ Coventry City v Brent
+ ford\n🏆 Premier League — Matchday 18\n🗓 Wed 30 Dec 2026 · 20:00 U
+ TC\n🏟 Coventry Building Society Arena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد برينتفورد 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Coventry Ci
+ ty vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × برينتفورد | Kick-off in 30 min: Coventry City vs
+  Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795601@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T150000Z
+DTEND:20270102T170000Z
+SUMMARY:Liverpool vs Coventry City — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795601
+DESCRIPTION:⚽ ليفربول × كوفنتري سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 19\n🗓 السبت 
+ 2 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Anfield\n——
+ ———\n⚽ Liverpool v Coventry City\n🏆 Premier League — Matchday
+  19\n🗓 Sat 02 Jan 2027 · 15:00 UTC\n🏟 Anfield\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد كوفنتري سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Liverpool vs Co
+ ventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × كوفنتري سيتي | Kick-off in 30 min: Liverpool vs Coventr
+ y City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795610@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T200000Z
+DTEND:20270106T220000Z
+SUMMARY:Ipswich Town vs Coventry City — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795610
+DESCRIPTION:⚽ إبسويتش تاون × كوفنتري سيتي\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 20\n🗓 ا
+ لأربعاء 6 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 
+ Portman Road\n—————\n⚽ Ipswich Town v Coventry City\n🏆 Prem
+ ier League — Matchday 20\n🗓 Wed 06 Jan 2027 · 20:00 UTC\n🏟 Portma
+ n Road\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد كوفنتري سي
+ تي — الدوري الإنجليزي الممتاز | Tomorrow: Ipswic
+ h Town vs Coventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × كوفنتري سيتي | Kick-off in 30 min: Ipswich Tow
+ n vs Coventry City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795619@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:Coventry City vs Everton — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795619
+DESCRIPTION:⚽ كوفنتري سيتي × إيفرتون\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 21\n🗓 السبت 
+ 16 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Coventry Build
+ ing Society Arena\n—————\n⚽ Coventry City v Everton\n🏆 Prem
+ ier League — Matchday 21\n🗓 Sat 16 Jan 2027 · 15:00 UTC\n🏟 Covent
+ ry Building Society Arena\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد إيفرتون — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Coventry City v
+ s Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × إيفرتون | Kick-off in 30 min: Coventry City vs Eve
+ rton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795634@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:Sunderland vs Coventry City — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795634
+DESCRIPTION:⚽ سندرلاند × كوفنتري سيتي\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 22\n🗓 السب
+ ت 23 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Stadium of 
+ Light\n—————\n⚽ Sunderland v Coventry City\n🏆 Premier Leagu
+ e — Matchday 22\n🗓 Sat 23 Jan 2027 · 15:00 UTC\n🏟 Stadium of Ligh
+ t\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد كوفنتري سيتي —
+  الدوري الإنجليزي الممتاز | Tomorrow: Sunderland vs 
+ Coventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × كوفنتري سيتي | Kick-off in 30 min: Sunderland vs Cove
+ ntry City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795639@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Coventry City vs Leeds United — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795639
+DESCRIPTION:⚽ كوفنتري سيتي × ليدز يونايتد\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 23\n🗓 ا
+ لسبت 30 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Coven
+ try Building Society Arena\n—————\n⚽ Coventry City v Leeds Uni
+ ted\n🏆 Premier League — Matchday 23\n🗓 Sat 30 Jan 2027 · 15:00 UT
+ C\n🏟 Coventry Building Society Arena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد ليدز يوناي
+ تد — الدوري الإنجليزي الممتاز | Tomorrow: Covent
+ ry City vs Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × ليدز يونايتد | Kick-off in 30 min: Coventry Ci
+ ty vs Leeds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795647@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Crystal Palace vs Coventry City — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795647
+DESCRIPTION:⚽ كريستال بالاس × كوفنتري سيتي\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 24\n🗓 
+ السبت 6 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Se
+ lhurst Park\n—————\n⚽ Crystal Palace v Coventry City\n🏆 Pre
+ mier League — Matchday 24\n🗓 Sat 06 Feb 2027 · 15:00 UTC\n🏟 Selhu
+ rst Park\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد كوفنتري س
+ يتي — الدوري الإنجليزي الممتاز | Tomorrow: Crys
+ tal Palace vs Coventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × كوفنتري سيتي | Kick-off in 30 min: Crystal P
+ alace vs Coventry City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795656@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270210T200000Z
+DTEND:20270210T220000Z
+SUMMARY:Coventry City vs Liverpool — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795656
+DESCRIPTION:⚽ كوفنتري سيتي × ليفربول\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 25\n🗓 الأرب
+ عاء 10 فبراير 2027 · 23:00 بتوقيت الرياض\n🏟 Coven
+ try Building Society Arena\n—————\n⚽ Coventry City v Liverpool
+ \n🏆 Premier League — Matchday 25\n🗓 Wed 10 Feb 2027 · 20:00 UTC\n
+ 🏟 Coventry Building Society Arena\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد ليفربول — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Coventry City v
+ s Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × ليفربول | Kick-off in 30 min: Coventry City vs Liv
+ erpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795667@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:Brentford vs Coventry City — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795667
+DESCRIPTION:⚽ برينتفورد × كوفنتري سيتي\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 26\n🗓 الس
+ بت 20 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Gtech C
+ ommunity Stadium\n—————\n⚽ Brentford v Coventry City\n🏆 Pre
+ mier League — Matchday 26\n🗓 Sat 20 Feb 2027 · 15:00 UTC\n🏟 Gtech
+  Community Stadium\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد كوفنتري سيتي 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Brentford v
+ s Coventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × كوفنتري سيتي | Kick-off in 30 min: Brentford vs Cov
+ entry City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795676@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T150000Z
+DTEND:20270227T170000Z
+SUMMARY:Coventry City vs AFC Bournemouth — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795676
+DESCRIPTION:⚽ كوفنتري سيتي × بورنموث\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 27\n🗓 السبت 
+ 27 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Coventry Bui
+ lding Society Arena\n—————\n⚽ Coventry City v AFC Bournemouth\
+ n🏆 Premier League — Matchday 27\n🗓 Sat 27 Feb 2027 · 15:00 UTC\n
+ 🏟 Coventry Building Society Arena\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد بورنموث — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Coventry City v
+ s AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × بورنموث | Kick-off in 30 min: Coventry City vs AFC
+  Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795689@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270303T200000Z
+DTEND:20270303T220000Z
+SUMMARY:Chelsea vs Coventry City — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795689
+DESCRIPTION:⚽ تشيلسي × كوفنتري سيتي\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 28\n🗓 الأربعا
+ ء 3 مارس 2027 · 23:00 بتوقيت الرياض\n🏟 Stamford Bridg
+ e\n—————\n⚽ Chelsea v Coventry City\n🏆 Premier League — M
+ atchday 28\n🗓 Wed 03 Mar 2027 · 20:00 UTC\n🏟 Stamford Bridge\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد كوفنتري سيتي — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Chelsea vs Covent
+ ry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × كوفنتري سيتي | Kick-off in 30 min: Chelsea vs Coventry Ci
+ ty
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795698@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T150000Z
+DTEND:20270313T170000Z
+SUMMARY:Coventry City vs Manchester City — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795698
+DESCRIPTION:⚽ كوفنتري سيتي × مانشستر سيتي\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 29\n🗓 ا
+ لسبت 13 مارس 2027 · 18:00 بتوقيت الرياض\n🏟 Coventr
+ y Building Society Arena\n—————\n⚽ Coventry City v Manchester 
+ City\n🏆 Premier League — Matchday 29\n🗓 Sat 13 Mar 2027 · 15:00 U
+ TC\n🏟 Coventry Building Society Arena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد مانشستر سي
+ تي — الدوري الإنجليزي الممتاز | Tomorrow: Covent
+ ry City vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × مانشستر سيتي | Kick-off in 30 min: Coventry Ci
+ ty vs Manchester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795707@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T150000Z
+DTEND:20270320T170000Z
+SUMMARY:Brighton & Hove Albion vs Coventry City — Premier League
+LOCATION:The American Express Community Stadium
+URL:https://www.fotmob.com/match/5795707
+DESCRIPTION:⚽ برايتون × كوفنتري سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 30\n🗓 السبت 
+ 20 مارس 2027 · 18:00 بتوقيت الرياض\n🏟 The American Exp
+ ress Community Stadium\n—————\n⚽ Brighton & Hove Albion v Cove
+ ntry City\n🏆 Premier League — Matchday 30\n🗓 Sat 20 Mar 2027 · 15
+ :00 UTC\n🏟 The American Express Community Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برايتون ضد كوفنتري سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Brighton & Hove
+  Albion vs Coventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برايت
+ ون × كوفنتري سيتي | Kick-off in 30 min: Brighton & Hove Albi
+ on vs Coventry City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795718@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T140000Z
+DTEND:20270410T160000Z
+SUMMARY:Coventry City vs Arsenal — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795718
+DESCRIPTION:⚽ كوفنتري سيتي × أرسنال\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 31\n🗓 السبت 10 
+ أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 Coventry Building
+  Society Arena\n—————\n⚽ Coventry City v Arsenal\n🏆 Premier
+  League — Matchday 31\n🗓 Sat 10 Apr 2027 · 14:00 UTC\n🏟 Coventry 
+ Building Society Arena\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد أرسنال — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Coventry City vs 
+ Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × أرسنال | Kick-off in 30 min: Coventry City vs Arsen
+ al
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795730@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T140000Z
+DTEND:20270417T160000Z
+SUMMARY:Hull City vs Coventry City — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795730
+DESCRIPTION:⚽ هال سيتي × كوفنتري سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 32\n🗓 السبت 
+ 17 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 The MKM Stadiu
+ m\n—————\n⚽ Hull City v Coventry City\n🏆 Premier League —
+  Matchday 32\n🗓 Sat 17 Apr 2027 · 14:00 UTC\n🏟 The MKM Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد كوفنتري سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Hull City vs Co
+ ventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × كوفنتري سيتي | Kick-off in 30 min: Hull City vs Coventr
+ y City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795736@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T140000Z
+DTEND:20270424T160000Z
+SUMMARY:Aston Villa vs Coventry City — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795736
+DESCRIPTION:⚽ أستون فيلا × كوفنتري سيتي\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 33\n🗓 الس
+ بت 24 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 Villa Par
+ k\n—————\n⚽ Aston Villa v Coventry City\n🏆 Premier League 
+ — Matchday 33\n🗓 Sat 24 Apr 2027 · 14:00 UTC\n🏟 Villa Park\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد كوفنتري سيتي 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Aston Villa
+  vs Coventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × كوفنتري سيتي | Kick-off in 30 min: Aston Villa vs C
+ oventry City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795747@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T140000Z
+DTEND:20270501T160000Z
+SUMMARY:Coventry City vs Manchester United — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795747
+DESCRIPTION:⚽ كوفنتري سيتي × مانشستر يونايتد\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 34\n
+ 🗓 السبت 1 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 C
+ oventry Building Society Arena\n—————\n⚽ Coventry City v Manch
+ ester United\n🏆 Premier League — Matchday 34\n🗓 Sat 01 May 2027 ·
+  14:00 UTC\n🏟 Coventry Building Society Arena\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد مانشستر يو
+ نايتد — الدوري الإنجليزي الممتاز | Tomorrow: 
+ Coventry City vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × مانشستر يونايتد | Kick-off in 30 min: Coven
+ try City vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795775@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T140000Z
+DTEND:20270508T160000Z
+SUMMARY:Newcastle United vs Coventry City — Premier League
+LOCATION:St James' Park
+URL:https://www.fotmob.com/match/5795775
+DESCRIPTION:⚽ نيوكاسل يونايتد × كوفنتري سيتي\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 35\n
+ 🗓 السبت 8 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 S
+ t James' Park\n—————\n⚽ Newcastle United v Coventry City\n🏆
+  Premier League — Matchday 35\n🗓 Sat 08 May 2027 · 14:00 UTC\n🏟 S
+ t James' Park\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل يونايتد ضد كوفنتري
+  سيتي — الدوري الإنجليزي الممتاز | Tomorrow: N
+ ewcastle United vs Coventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل يونايتد × كوفنتري سيتي | Kick-off in 30 min: Newca
+ stle United vs Coventry City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795781@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T140000Z
+DTEND:20270515T160000Z
+SUMMARY:Coventry City vs Tottenham Hotspur — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795781
+DESCRIPTION:⚽ كوفنتري سيتي × توتنهام هوتسبر\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 36\n
+ 🗓 السبت 15 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 
+ Coventry Building Society Arena\n—————\n⚽ Coventry City v Tott
+ enham Hotspur\n🏆 Premier League — Matchday 36\n🗓 Sat 15 May 2027 
+ · 14:00 UTC\n🏟 Coventry Building Society Arena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد توتنهام هو
+ تسبر — الدوري الإنجليزي الممتاز | Tomorrow: Co
+ ventry City vs Tottenham Hotspur
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × توتنهام هوتسبر | Kick-off in 30 min: Coventr
+ y City vs Tottenham Hotspur
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795792@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T140000Z
+DTEND:20270523T160000Z
+SUMMARY:Fulham vs Coventry City — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795792
+DESCRIPTION:⚽ فولهام × كوفنتري سيتي\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 37\n🗓 الأحد 23 
+ مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Craven Cottage\n—
+ ————\n⚽ Fulham v Coventry City\n🏆 Premier League — Matchday
+  37\n🗓 Sun 23 May 2027 · 14:00 UTC\n🏟 Craven Cottage\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد كوفنتري سيتي — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Fulham vs Coventr
+ y City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × كوفنتري سيتي | Kick-off in 30 min: Fulham vs Coventry Cit
+ y
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795801@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T150000Z
+DTEND:20270530T170000Z
+SUMMARY:Coventry City vs Nottingham Forest — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795801
+DESCRIPTION:⚽ كوفنتري سيتي × نوتنجهام فورست\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 38\n
+ 🗓 الأحد 30 مايو 2027 · 18:00 بتوقيت الرياض\n🏟 
+ Coventry Building Society Arena\n—————\n⚽ Coventry City v Nott
+ ingham Forest\n🏆 Premier League — Matchday 38\n🗓 Sun 30 May 2027 
+ · 15:00 UTC\n🏟 Coventry Building Society Arena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد نوتنجهام ف
+ ورست — الدوري الإنجليزي الممتاز | Tomorrow: Co
+ ventry City vs Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × نوتنجهام فورست | Kick-off in 30 min: Coventr
+ y City vs Nottingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089920@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T150000Z
+DTEND:20260110T170000Z
+SUMMARY:Stoke City vs Coventry City (1 - 0) — FA Cup
+LOCATION:bet365 Stadium\, Stoke-on-Trent\, Staffordshire\, England
+GEO:52.988405;-2.175430
+URL:https://www.fotmob.com/match/5089920
+DESCRIPTION:⚽ Stoke City × كوفنتري (1 - 0)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الثالث\n🗓 السبت 10 
+ يناير 2026 · 18:00 بتوقيت الرياض\n🏟 bet365 Stadium، 
+ Stoke-on-Trent, Staffordshire\n⚖️ الحكم: Tom Nield\n👥 الحض
+ ور: 13,894\n—————\n⚽ Stoke City v Coventry City (1 - 0)\n
+ 🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 15:00 UTC\n🏟 bet365 St
+ adium, Stoke-on-Trent, Staffordshire\nReferee: Tom Nield\nAttendance: 13,8
+ 94\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Stoke City ضد كوفنتري — كأس الا
+ تحاد الإنجليزي | Tomorrow: Stoke City vs Coventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Stoke City 
+ × كوفنتري | Kick-off in 30 min: Stoke City vs Coventry City
+END:VALARM
+END:VEVENT
+END:VCALENDAR

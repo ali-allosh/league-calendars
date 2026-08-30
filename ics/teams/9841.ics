@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Wrexham — FA Cup Fixtures | Wrexham — مباريات 
+ كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Wrexham — all matches in FA Cup\, exact UTC kickoffs\, stadi
+ ums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10Z.  
+ •  Wrexham — جميع المباريات في كأس الاتحاد ا
+ لإنجليزي بتوقيت UTC الدقيق مع الملاعب وال
+ قنوات الناقلة. المصدر: FotMob + 365scores · تحديث 
+ تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5089899@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260109T193000Z
+DTEND:20260109T213000Z
+SUMMARY:Wrexham vs Nottingham Forest (3 - 3) — FA Cup
+LOCATION:STōK Cae Ras\, Wrexham (Wrecsam)\, Wales
+GEO:53.051941;-3.003819
+URL:https://www.fotmob.com/match/5089899
+DESCRIPTION:⚽ Wrexham × نوتنغهام فورست (3 - 3)\n🏆 كأس
+  الاتحاد الإنجليزي — الدور الثالث\n🗓 ال
+ جمعة 9 يناير 2026 · 22:30 بتوقيت الرياض\n🏟 STōK 
+ Cae Ras، Wrexham (Wrecsam)\n⚖️ الحكم: Paul Tierney\n👥 الح
+ ضور: 10,603\n—————\n⚽ Wrexham v Nottingham Forest (3 - 3)\n
+ 🏆 FA Cup — Round 3\n🗓 Fri 09 Jan 2026 · 19:30 UTC\n🏟 STōK Cae
+  Ras, Wrexham (Wrecsam)\nReferee: Paul Tierney\nAttendance: 10,603\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Wrexham ضد نوتنغهام فورست — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Wrexham vs Nottingham For
+ est
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Wrexham × 
+ نوتنغهام فورست | Kick-off in 30 min: Wrexham vs Nottingham Fo
+ rest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135165@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260213T194500Z
+DTEND:20260213T214500Z
+SUMMARY:Wrexham vs Ipswich Town (1 - 0) — FA Cup
+LOCATION:STōK Cae Ras\, Wrexham (Wrecsam)\, Wales
+GEO:53.051941;-3.003819
+URL:https://www.fotmob.com/match/5135165
+DESCRIPTION:⚽ Wrexham × إبسويتش تاون (1 - 0)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الرابع\n🗓 الجم
+ عة 13 فبراير 2026 · 22:45 بتوقيت الرياض\n🏟 STōK C
+ ae Ras، Wrexham (Wrecsam)\n⚖️ الحكم: Ben Speedie\n👥 الحض
+ ور: 10,496\n—————\n⚽ Wrexham v Ipswich Town (1 - 0)\n🏆 FA
+  Cup — Round 4\n🗓 Fri 13 Feb 2026 · 19:45 UTC\n🏟 STōK Cae Ras, W
+ rexham (Wrecsam)\nReferee: Ben Speedie\nAttendance: 10,496\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Wrexham ضد إبسويتش تاون — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Wrexham vs Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Wrexham × 
+ إبسويتش تاون | Kick-off in 30 min: Wrexham vs Ipswich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5186384@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260307T174500Z
+DTEND:20260307T194500Z
+SUMMARY:Wrexham vs Chelsea (2 - 4) — FA Cup
+LOCATION:STōK Cae Ras\, Wrexham (Wrecsam)\, Wales
+GEO:53.051941;-3.003819
+URL:https://www.fotmob.com/match/5186384
+DESCRIPTION:⚽ Wrexham × تشيلسي (2 - 4)\n🏆 كأس الاتحاد
+  الإنجليزي — الدور الخامس\n🗓 السبت 7 مار
+ س 2026 · 20:45 بتوقيت الرياض\n🏟 STōK Cae Ras، Wrexham (
+ Wrecsam)\n⚖️ الحكم: Peter Bankes\n👥 الحضور: 10,556\n—
+ ————\n⚽ Wrexham v Chelsea (2 - 4)\n🏆 FA Cup — Round 5\n🗓
+  Sat 07 Mar 2026 · 17:45 UTC\n🏟 STōK Cae Ras, Wrexham (Wrecsam)\nRefe
+ ree: Peter Bankes\nAttendance: 10,556\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Wrexham ضد تشيلسي — كأس الاتحا
+ د الإنجليزي | Tomorrow: Wrexham vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Wrexham × 
+ تشيلسي | Kick-off in 30 min: Wrexham vs Chelsea
+END:VALARM
+END:VEVENT
+END:VCALENDAR

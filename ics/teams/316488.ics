@@ -1,0 +1,653 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Olympic El Qanah FC — Egyptian Premier League Fixtures |
+  القناة — مباريات الدوري المصري الممتاز
+X-WR-CALDESC:Olympic El Qanah FC — all matches in Egyptian Premier League
+ \, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-up
+ dated 2026-09-05T19:31:10Z.  •  القناة — جميع المباري
+ ات في الدوري المصري الممتاز بتوقيت UTC الد
+ قيق مع الملاعب والقنوات الناقلة. المصدر: 
+ FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5995578@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260823T170000Z
+DTEND:20260823T190000Z
+SUMMARY:Ceramica Cleopatra vs Olympic El Qanah FC (1 - 2) — Egyptian Prem
+ ier League
+LOCATION:Suez Canal Stadium\, Ismailia\, Egypt
+GEO:30.592679;32.292551
+URL:https://www.fotmob.com/match/5995578
+DESCRIPTION:⚽ سيراميكا كليوباترا × القناة (1 - 2)
+ \n🏆 الدوري المصري الممتاز — الجولة 1\n🗓 
+ الأحد 23 أغسطس 2026 · 20:00 بتوقيت الرياض\n🏟 Sue
+ z Canal Stadium، Ismailia\n⚖️ الحكم: Mohamed El Kalawy\n——
+ ———\n⚽ Ceramica Cleopatra v Olympic El Qanah FC (1 - 2)\n🏆 Egyp
+ tian Premier League — Matchday 1\n🗓 Sun 23 Aug 2026 · 17:00 UTC\n
+ 🏟 Suez Canal Stadium, Ismailia\nReferee: Mohamed El Kalawy\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيراميكا كليوباترا ضد القن
+ اة — الدوري المصري الممتاز | Tomorrow: Ceramica Cle
+ opatra vs Olympic El Qanah FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيرام
+ يكا كليوباترا × القناة | Kick-off in 30 min: Ceramica C
+ leopatra vs Olympic El Qanah FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996698@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260828T140000Z
+DTEND:20260828T160000Z
+SUMMARY:Olympic El Qanah FC vs El Gouna FC (1 - 1) — Egyptian Premier Lea
+ gue
+LOCATION:Suez Canal Stadium\, Ismailia\, Egypt
+GEO:30.592679;32.292551
+URL:https://www.fotmob.com/match/5996698
+DESCRIPTION:⚽ القناة × الجونة (1 - 1)\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 2\n🗓 الجمعة 28 أغس
+ طس 2026 · 17:00 بتوقيت الرياض\n🏟 Suez Canal Stadium، Is
+ mailia\n⚖️ الحكم: Abdel Rahman Salah\n—————\n⚽ Olympi
+ c El Qanah FC v El Gouna FC (1 - 1)\n🏆 Egyptian Premier League — Matc
+ hday 2\n🗓 Fri 28 Aug 2026 · 14:00 UTC\n🏟 Suez Canal Stadium, Ismail
+ ia\nReferee: Abdel Rahman Salah\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القناة ضد الجونة — الدوري 
+ المصري الممتاز | Tomorrow: Olympic El Qanah FC vs El Gouna FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القنا
+ ة × الجونة | Kick-off in 30 min: Olympic El Qanah FC vs El Gouna F
+ C
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996708@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260901T170000Z
+DTEND:20260901T190000Z
+SUMMARY:Wadi Degla FC vs Olympic El Qanah FC (0 - 0) — Egyptian Premier L
+ eague
+LOCATION:Al Salam Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.174408;31.435096
+URL:https://www.fotmob.com/match/5996708
+DESCRIPTION:⚽ وادي دجلة × القناة (0 - 0)\n🏆 الدور
+ ي المصري الممتاز — الجولة 3\n🗓 الثلاثاء 1
+  سبتمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Al Salam Stadi
+ um، al-Qāhirah (Cairo)\n⚖️ الحكم: Mahmoud Wafa\n—————
+ \n⚽ Wadi Degla FC v Olympic El Qanah FC (0 - 0)\n🏆 Egyptian Premier L
+ eague — Matchday 3\n🗓 Tue 01 Sep 2026 · 17:00 UTC\n🏟 Al Salam Sta
+ dium, al-Qāhirah (Cairo)\nReferee: Mahmoud Wafa\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وادي دجلة ضد القناة — الدو
+ ري المصري الممتاز | Tomorrow: Wadi Degla FC vs Olympic El Q
+ anah FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وادي د
+ جلة × القناة | Kick-off in 30 min: Wadi Degla FC vs Olympic El Q
+ anah FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996713@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260907T140000Z
+DTEND:20260907T160000Z
+SUMMARY:Olympic El Qanah FC vs Tala'ea El Gaish — Egyptian Premier League
+LOCATION:Suez Canal Stadium\, Ismailia\, Egypt
+GEO:30.592679;32.292551
+URL:https://www.fotmob.com/match/5996713
+DESCRIPTION:⚽ القناة × طلائع الجيش\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 4\n🗓 الاثنين 7 سبت
+ مبر 2026 · 17:00 بتوقيت الرياض\n🏟 Suez Canal Stadium، 
+ Ismailia\n📺 أون سبورت بلس\n—————\n⚽ Olympic El Q
+ anah FC v Tala'ea El Gaish\n🏆 Egyptian Premier League — Matchday 4\n
+ 🗓 Mon 07 Sep 2026 · 14:00 UTC\n🏟 Suez Canal Stadium, Ismailia\n📺
+  ON Sport Plus\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القناة ضد طلائع الجيش — ال
+ دوري المصري الممتاز — 📺 أون سبورت بلس | T
+ omorrow: Olympic El Qanah FC vs Tala'ea El Gaish | TV: ON Sport Plus
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القنا
+ ة × طلائع الجيش — 📺 أون سبورت بلس | Kick-off i
+ n 30 min: Olympic El Qanah FC vs Tala'ea El Gaish | TV: ON Sport Plus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996724@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260914T170000Z
+DTEND:20260914T190000Z
+SUMMARY:ZED FC vs Olympic El Qanah FC — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996724
+DESCRIPTION:⚽ زد × القناة\n🏆 الدوري المصري الم
+ متاز — الجولة 5\n🗓 الاثنين 14 سبتمبر 2026 · 2
+ 0:00 بتوقيت الرياض\n🏟 Cairo International Stadium، al-Qāh
+ irah (Cairo)\n—————\n⚽ ZED FC v Olympic El Qanah FC\n🏆 Egyp
+ tian Premier League — Matchday 5\n🗓 Mon 14 Sep 2026 · 17:00 UTC\n
+ 🏟 Cairo International Stadium, al-Qāhirah (Cairo)\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: زد ضد القناة — الدوري المص
+ ري الممتاز | Tomorrow: ZED FC vs Olympic El Qanah FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: زد × ا
+ لقناة | Kick-off in 30 min: ZED FC vs Olympic El Qanah FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996732@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261011T140000Z
+DTEND:20261011T160000Z
+SUMMARY:Olympic El Qanah FC vs Al Masry SC — Egyptian Premier League
+LOCATION:New Suez Stadium\, as-Suways (Suez)\, Egypt
+GEO:29.957607;32.542577
+URL:https://www.fotmob.com/match/5996732
+DESCRIPTION:⚽ القناة × المصري\n🏆 الدوري المصر
+ ي الممتاز — الجولة 6\n🗓 الأحد 11 أكتوبر 2026
+  · 17:00 بتوقيت الرياض\n🏟 New Suez Stadium، as-Suways (Su
+ ez)\n—————\n⚽ Olympic El Qanah FC v Al Masry SC\n🏆 Egyptian
+  Premier League — Matchday 6\n🗓 Sun 11 Oct 2026 · 14:00 UTC\n🏟 Ne
+ w Suez Stadium, as-Suways (Suez)\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القناة ضد المصري — الدوري 
+ المصري الممتاز | Tomorrow: Olympic El Qanah FC vs Al Masry SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القنا
+ ة × المصري | Kick-off in 30 min: Olympic El Qanah FC vs Al Masry S
+ C
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996750@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261021T170000Z
+DTEND:20261021T190000Z
+SUMMARY:Al Ahly SC vs Olympic El Qanah FC — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996750
+DESCRIPTION:⚽ الأهلي × القناة\n🏆 الدوري المصر
+ ي الممتاز — الجولة 7\n🗓 الأربعاء 21 أكتوب
+ ر 2026 · 20:00 بتوقيت الرياض\n🏟 Cairo International Stadi
+ um، al-Qāhirah (Cairo)\n—————\n⚽ Al Ahly SC v Olympic El Qan
+ ah FC\n🏆 Egyptian Premier League — Matchday 7\n🗓 Wed 21 Oct 2026 
+ · 17:00 UTC\n🏟 Cairo International Stadium, al-Qāhirah (Cairo)\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد القناة — الدوري 
+ المصري الممتاز | Tomorrow: Al Ahly SC vs Olympic El Qanah FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × القناة | Kick-off in 30 min: Al Ahly SC vs Olympic El Qanah FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996758@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261030T180000Z
+DTEND:20261030T200000Z
+SUMMARY:Olympic El Qanah FC vs Al Sharkeyah-ENPPI — Egyptian Premier Leag
+ ue
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996758
+DESCRIPTION:⚽ القناة × Al Sharkeyah-ENPPI\n🏆 الدوري ال
+ مصري الممتاز — الجولة 8\n🗓 الجمعة 30 أكتو
+ بر 2026 · 21:00 بتوقيت الرياض\n🏟 Suez Canal Authority St
+ adium\n—————\n⚽ Olympic El Qanah FC v Al Sharkeyah-ENPPI\n🏆
+  Egyptian Premier League — Matchday 8\n🗓 Fri 30 Oct 2026 · 18:00 UTC
+ \n🏟 Suez Canal Authority Stadium\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القناة ضد Al Sharkeyah-ENPPI — الدو
+ ري المصري الممتاز | Tomorrow: Olympic El Qanah FC vs Al Sha
+ rkeyah-ENPPI
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القنا
+ ة × Al Sharkeyah-ENPPI | Kick-off in 30 min: Olympic El Qanah FC vs Al S
+ harkeyah-ENPPI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996768@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261125T150000Z
+DTEND:20261125T170000Z
+SUMMARY:Al Mokawloon Al Arab vs Olympic El Qanah FC — Egyptian Premier Le
+ ague
+LOCATION:Al-Mokawloon al-Arab Stadium
+URL:https://www.fotmob.com/match/5996768
+DESCRIPTION:⚽ المقاولون العرب × القناة\n🏆 الد
+ وري المصري الممتاز — الجولة 9\n🗓 الأربعا
+ ء 25 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Al-Mokawl
+ oon al-Arab Stadium\n—————\n⚽ Al Mokawloon Al Arab v Olympic E
+ l Qanah FC\n🏆 Egyptian Premier League — Matchday 9\n🗓 Wed 25 Nov 2
+ 026 · 15:00 UTC\n🏟 Al-Mokawloon al-Arab Stadium\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المقاولون العرب ضد القناة 
+ — الدوري المصري الممتاز | Tomorrow: Al Mokawloon Al A
+ rab vs Olympic El Qanah FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المقا
+ ولون العرب × القناة | Kick-off in 30 min: Al Mokawloon Al 
+ Arab vs Olympic El Qanah FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996777@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261209T180000Z
+DTEND:20261209T200000Z
+SUMMARY:Modern Sport FC vs Olympic El Qanah FC — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996777
+DESCRIPTION:⚽ مودرن سبورت × القناة\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 10\n🗓 الأربعاء 9 د
+ يسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Cairo Int'l Stadi
+ um\n—————\n⚽ Modern Sport FC v Olympic El Qanah FC\n🏆 Egypt
+ ian Premier League — Matchday 10\n🗓 Wed 09 Dec 2026 · 18:00 UTC\n
+ 🏟 Cairo Int'l Stadium\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مودرن سبورت ضد القناة — ال
+ دوري المصري الممتاز | Tomorrow: Modern Sport FC vs Olympi
+ c El Qanah FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مودرن 
+ سبورت × القناة | Kick-off in 30 min: Modern Sport FC vs Olympi
+ c El Qanah FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996787@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261215T180000Z
+DTEND:20261215T200000Z
+SUMMARY:Olympic El Qanah FC vs Al Ittihad Alexandria — Egyptian Premier L
+ eague
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996787
+DESCRIPTION:⚽ القناة × الاتحاد السكندري\n🏆 ال
+ دوري المصري الممتاز — الجولة 11\n🗓 الثلا
+ ثاء 15 ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Suez 
+ Canal Authority Stadium\n—————\n⚽ Olympic El Qanah FC v Al Itt
+ ihad Alexandria\n🏆 Egyptian Premier League — Matchday 11\n🗓 Tue 15
+  Dec 2026 · 18:00 UTC\n🏟 Suez Canal Authority Stadium\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القناة ضد الاتحاد السكندري
+  — الدوري المصري الممتاز | Tomorrow: Olympic El Qanah
+  FC vs Al Ittihad Alexandria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القنا
+ ة × الاتحاد السكندري | Kick-off in 30 min: Olympic El Qan
+ ah FC vs Al Ittihad Alexandria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996795@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261222T180000Z
+DTEND:20261222T200000Z
+SUMMARY:National Bank vs Olympic El Qanah FC — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996795
+DESCRIPTION:⚽ البنك الاهلي × القناة\n🏆 الدوري 
+ المصري الممتاز — الجولة 12\n🗓 الثلاثاء 22 
+ ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Suez Canal Auth
+ ority Stadium\n—————\n⚽ National Bank v Olympic El Qanah FC\n
+ 🏆 Egyptian Premier League — Matchday 12\n🗓 Tue 22 Dec 2026 · 18:0
+ 0 UTC\n🏟 Suez Canal Authority Stadium\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: البنك الاهلي ضد القناة — ا
+ لدوري المصري الممتاز | Tomorrow: National Bank vs Olympi
+ c El Qanah FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: البنك 
+ الاهلي × القناة | Kick-off in 30 min: National Bank vs Olympi
+ c El Qanah FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996808@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261229T150000Z
+DTEND:20261229T170000Z
+SUMMARY:Olympic El Qanah FC vs Petrojet-Suez — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996808
+DESCRIPTION:⚽ القناة × منتخب السويس بتروجت\n🏆 
+ الدوري المصري الممتاز — الجولة 13\n🗓 الث
+ لاثاء 29 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 S
+ uez Canal Authority Stadium\n—————\n⚽ Olympic El Qanah FC v Pe
+ trojet-Suez\n🏆 Egyptian Premier League — Matchday 13\n🗓 Tue 29 Dec
+  2026 · 15:00 UTC\n🏟 Suez Canal Authority Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القناة ضد منتخب السويس بتر
+ وجت — الدوري المصري الممتاز | Tomorrow: Olympic El
+  Qanah FC vs Petrojet-Suez
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القنا
+ ة × منتخب السويس بتروجت | Kick-off in 30 min: Olympic E
+ l Qanah FC vs Petrojet-Suez
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996818@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270106T150000Z
+DTEND:20270106T170000Z
+SUMMARY:Abo Qir Semad vs Olympic El Qanah FC — Egyptian Premier League
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996818
+DESCRIPTION:⚽ ابو قير للاسمدة × القناة\n🏆 الدو
+ ري المصري الممتاز — الجولة 14\n🗓 الأربعا
+ ء 6 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Alexandria S
+ tadium\n—————\n⚽ Abo Qir Semad v Olympic El Qanah FC\n🏆 Egy
+ ptian Premier League — Matchday 14\n🗓 Wed 06 Jan 2027 · 15:00 UTC\n
+ 🏟 Alexandria Stadium\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ابو قير للاسمدة ضد القناة 
+ — الدوري المصري الممتاز | Tomorrow: Abo Qir Semad vs 
+ Olympic El Qanah FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ابو قي
+ ر للاسمدة × القناة | Kick-off in 30 min: Abo Qir Semad vs O
+ lympic El Qanah FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996828@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270127T180000Z
+DTEND:20270127T200000Z
+SUMMARY:Olympic El Qanah FC vs Pyramids FC — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996828
+DESCRIPTION:⚽ القناة × بيراميدز\n🏆 الدوري الم
+ صري الممتاز — الجولة 15\n🗓 الأربعاء 27 ينا
+ ير 2027 · 21:00 بتوقيت الرياض\n🏟 Suez Canal Authority St
+ adium\n—————\n⚽ Olympic El Qanah FC v Pyramids FC\n🏆 Egypti
+ an Premier League — Matchday 15\n🗓 Wed 27 Jan 2027 · 18:00 UTC\n🏟
+  Suez Canal Authority Stadium\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القناة ضد بيراميدز — الدور
+ ي المصري الممتاز | Tomorrow: Olympic El Qanah FC vs Pyramids
+  FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القنا
+ ة × بيراميدز | Kick-off in 30 min: Olympic El Qanah FC vs Pyrami
+ ds FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996838@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270201T150000Z
+DTEND:20270201T170000Z
+SUMMARY:Asyut Petroleum vs Olympic El Qanah FC — Egyptian Premier League
+LOCATION:Asyut University Stadium
+URL:https://www.fotmob.com/match/5996838
+DESCRIPTION:⚽ أسيوط بتروليوم × القناة\n🏆 الدو
+ ري المصري الممتاز — الجولة 16\n🗓 الاثنين 
+ 1 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Asyut Univers
+ ity Stadium\n—————\n⚽ Asyut Petroleum v Olympic El Qanah FC\n
+ 🏆 Egyptian Premier League — Matchday 16\n🗓 Mon 01 Feb 2027 · 15:0
+ 0 UTC\n🏟 Asyut University Stadium\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أسيوط بتروليوم ضد القناة —
+  الدوري المصري الممتاز | Tomorrow: Asyut Petroleum vs O
+ lympic El Qanah FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أسيوط 
+ بتروليوم × القناة | Kick-off in 30 min: Asyut Petroleum vs 
+ Olympic El Qanah FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996848@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Olympic El Qanah FC vs Ghazl Al Mahalla — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996848
+DESCRIPTION:⚽ القناة × غزل المحلة\n🏆 الدوري ال
+ مصري الممتاز — الجولة 17\n🗓 السبت 6 فبراي
+ ر 2027 · 18:00 بتوقيت الرياض\n🏟 Suez Canal Authority Stad
+ ium\n—————\n⚽ Olympic El Qanah FC v Ghazl Al Mahalla\n🏆 Egy
+ ptian Premier League — Matchday 17\n🗓 Sat 06 Feb 2027 · 15:00 UTC\n
+ 🏟 Suez Canal Authority Stadium\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القناة ضد غزل المحلة — الد
+ وري المصري الممتاز | Tomorrow: Olympic El Qanah FC vs Ghaz
+ l Al Mahalla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القنا
+ ة × غزل المحلة | Kick-off in 30 min: Olympic El Qanah FC vs Gha
+ zl Al Mahalla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996857@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270211T193000Z
+DTEND:20270211T213000Z
+SUMMARY:Smouha SC vs Olympic El Qanah FC — Egyptian Premier League
+LOCATION:Borg El Arab Stadium
+URL:https://www.fotmob.com/match/5996857
+DESCRIPTION:⚽ سموحة × القناة\n🏆 الدوري المصري 
+ الممتاز — الجولة 18\n🗓 الخميس 11 فبراير 2027
+  · 22:30 بتوقيت الرياض\n🏟 Borg El Arab Stadium\n———
+ ——\n⚽ Smouha SC v Olympic El Qanah FC\n🏆 Egyptian Premier League 
+ — Matchday 18\n🗓 Thu 11 Feb 2027 · 19:30 UTC\n🏟 Borg El Arab Stad
+ ium\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سموحة ضد القناة — الدوري ا
+ لمصري الممتاز | Tomorrow: Smouha SC vs Olympic El Qanah FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سموحة 
+ × القناة | Kick-off in 30 min: Smouha SC vs Olympic El Qanah FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996862@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270218T193000Z
+DTEND:20270218T213000Z
+SUMMARY:Olympic El Qanah FC vs Zamalek SC — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996862
+DESCRIPTION:⚽ القناة × الزمالك\n🏆 الدوري المص
+ ري الممتاز — الجولة 19\n🗓 الخميس 18 فبراير
+  2027 · 22:30 بتوقيت الرياض\n🏟 Suez Canal Authority Stadiu
+ m\n—————\n⚽ Olympic El Qanah FC v Zamalek SC\n🏆 Egyptian Pr
+ emier League — Matchday 19\n🗓 Thu 18 Feb 2027 · 19:30 UTC\n🏟 Suez
+  Canal Authority Stadium\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القناة ضد الزمالك — الدوري
+  المصري الممتاز | Tomorrow: Olympic El Qanah FC vs Zamalek SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القنا
+ ة × الزمالك | Kick-off in 30 min: Olympic El Qanah FC vs Zamalek 
+ SC
+END:VALARM
+END:VEVENT
+END:VCALENDAR

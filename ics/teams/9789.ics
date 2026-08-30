@@ -1,0 +1,1391 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Borussia Dortmund — Bundesliga & UEFA Champions League F
+ ixtures | بوروسيا دورتموند — مباريات الدوري 
+ الألماني ودوري أبطال أوروبا
+X-WR-CALDESC:Borussia Dortmund — all matches in Bundesliga & UEFA Champio
+ ns League\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores 
+ · auto-updated 2026-09-05T19:31:10Z.  •  بوروسيا دورتمون
+ د — جميع المباريات في الدوري الألماني ود
+ وري أبطال أوروبا بتوقيت UTC الدقيق مع المل
+ اعب والقنوات الناقلة. المصدر: FotMob + 365scores 
+ · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5881145@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T163000Z
+DTEND:20260829T183000Z
+SUMMARY:Borussia Dortmund vs Hamburger SV (2 - 0) — Bundesliga
+LOCATION:SIGNAL IDUNA PARK\, Dortmund\, Germany
+GEO:51.492607;7.451777
+URL:https://www.fotmob.com/match/5881145
+DESCRIPTION:⚽ بوروسيا دورتموند × هامبورج (2 - 0)\n
+ 🏆 الدوري الألماني — الجولة 1\n🗓 السبت 29 
+ أغسطس 2026 · 19:30 بتوقيت الرياض\n🏟 SIGNAL IDUNA PARK
+ ، Dortmund\n⚖️ الحكم: Felix Zwayer\n👥 الحضور: 81,365\n
+ —————\n⚽ Borussia Dortmund v Hamburger SV (2 - 0)\n🏆 Bundes
+ liga — Matchday 1\n🗓 Sat 29 Aug 2026 · 16:30 UTC\n🏟 SIGNAL IDUNA 
+ PARK, Dortmund\nReferee: Felix Zwayer\nAttendance: 81,365\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد هامبور
+ ج — الدوري الألماني | Tomorrow: Borussia Dortmund vs Hamb
+ urger SV
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × هامبورج | Kick-off in 30 min: Borussia Dor
+ tmund vs Hamburger SV
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881156@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T133000Z
+DTEND:20260905T153000Z
+SUMMARY:Hoffenheim vs Borussia Dortmund (2 - 3) — Bundesliga
+LOCATION:SNP Arena\, Sinsheim\, Germany
+GEO:49.238005;8.887741
+URL:https://www.fotmob.com/match/5881156
+DESCRIPTION:⚽ هوفنهايم × بوروسيا دورتموند (2 - 3)
+ \n🏆 الدوري الألماني — الجولة 2\n🗓 السبت 5
+  سبتمبر 2026 · 16:30 بتوقيت الرياض\n🏟 SNP Arena، Si
+ nsheim\n📺 شاهد - Shahid VIP\n⚖️ الحكم: Dr. Matthias Jölle
+ nbeck\n👥 الحضور: 30,150\n—————\n⚽ Hoffenheim v Boruss
+ ia Dortmund (2 - 3)\n🏆 Bundesliga — Matchday 2\n🗓 Sat 05 Sep 2026 
+ · 13:30 UTC\n🏟 SNP Arena, Sinsheim\n📺 شاهد - Shahid VIP\nRefere
+ e: Dr. Matthias Jöllenbeck\nAttendance: 30,150\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هوفنهايم ضد بوروسيا دورتمو
+ ند — الدوري الألماني — 📺 شاهد - Shahid VIP | To
+ morrow: Hoffenheim vs Borussia Dortmund | TV: شاهد - Shahid VIP
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هوفنه
+ ايم × بوروسيا دورتموند — 📺 شاهد - Shahid VIP |
+  Kick-off in 30 min: Hoffenheim vs Borussia Dortmund | TV: شاهد - Shah
+ id VIP
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881162@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T133000Z
+DTEND:20260912T153000Z
+SUMMARY:Borussia Dortmund vs Paderborn — Bundesliga
+LOCATION:SIGNAL IDUNA PARK\, Dortmund\, Germany
+GEO:51.492607;7.451777
+URL:https://www.fotmob.com/match/5881162
+DESCRIPTION:⚽ بوروسيا دورتموند × بادربورن\n🏆 
+ الدوري الألماني — الجولة 3\n🗓 السبت 12 سب
+ تمبر 2026 · 16:30 بتوقيت الرياض\n🏟 SIGNAL IDUNA PARK،
+  Dortmund\n📺 Peacock (Español)\n—————\n⚽ Borussia Dortmund
+  v Paderborn\n🏆 Bundesliga — Matchday 3\n🗓 Sat 12 Sep 2026 · 13:3
+ 0 UTC\n🏟 SIGNAL IDUNA PARK, Dortmund\n📺 Peacock (Español)\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد بادربو
+ رن — الدوري الألماني — 📺 Peacock (Español) | Tomor
+ row: Borussia Dortmund vs Paderborn | TV: Peacock (Español)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × بادربورن — 📺 Peacock (Español) | Ki
+ ck-off in 30 min: Borussia Dortmund vs Paderborn | TV: Peacock (Español)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881177@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T163000Z
+DTEND:20260919T183000Z
+SUMMARY:VfB Stuttgart vs Borussia Dortmund — Bundesliga
+LOCATION:MHPArena\, Stuttgart\, Germany
+GEO:48.792284;9.232024
+URL:https://www.fotmob.com/match/5881177
+DESCRIPTION:⚽ شتوتجارت × بوروسيا دورتموند\n🏆 
+ الدوري الألماني — الجولة 4\n🗓 السبت 19 سب
+ تمبر 2026 · 19:30 بتوقيت الرياض\n🏟 MHPArena، Stuttgar
+ t\n—————\n⚽ VfB Stuttgart v Borussia Dortmund\n🏆 Bundesliga
+  — Matchday 4\n🗓 Sat 19 Sep 2026 · 16:30 UTC\n🏟 MHPArena, Stuttga
+ rt\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد بوروسيا دورتمو
+ ند — الدوري الألماني | Tomorrow: VfB Stuttgart vs Boruss
+ ia Dortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × بوروسيا دورتموند | Kick-off in 30 min: VfB Stuttg
+ art vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881180@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T133000Z
+DTEND:20261010T153000Z
+SUMMARY:Borussia Dortmund vs Werder Bremen — Bundesliga
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/5881180
+DESCRIPTION:⚽ بوروسيا دورتموند × فيردر بريمن\n
+ 🏆 الدوري الألماني — الجولة 5\n🗓 السبت 10 
+ أكتوبر 2026 · 16:30 بتوقيت الرياض\n🏟 Signal Iduna Pa
+ rk\n—————\n⚽ Borussia Dortmund v Werder Bremen\n🏆 Bundeslig
+ a — Matchday 5\n🗓 Sat 10 Oct 2026 · 13:30 UTC\n🏟 Signal Iduna Par
+ k\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد فيردر 
+ بريمن — الدوري الألماني | Tomorrow: Borussia Dortmund
+  vs Werder Bremen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × فيردر بريمن | Kick-off in 30 min: Borus
+ sia Dortmund vs Werder Bremen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881195@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T133000Z
+DTEND:20261017T153000Z
+SUMMARY:Union Berlin vs Borussia Dortmund — Bundesliga
+LOCATION:Alte Foersterei
+URL:https://www.fotmob.com/match/5881195
+DESCRIPTION:⚽ يونيون برلين × بوروسيا دورتموند\
+ n🏆 الدوري الألماني — الجولة 6\n🗓 السبت 17
+  أكتوبر 2026 · 16:30 بتوقيت الرياض\n🏟 Alte Foerstere
+ i\n—————\n⚽ Union Berlin v Borussia Dortmund\n🏆 Bundesliga 
+ — Matchday 6\n🗓 Sat 17 Oct 2026 · 13:30 UTC\n🏟 Alte Foersterei\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد بوروسيا دو
+ رتموند — الدوري الألماني | Tomorrow: Union Berlin vs
+  Borussia Dortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × بوروسيا دورتموند | Kick-off in 30 min: Uni
+ on Berlin vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881198@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T133000Z
+DTEND:20261024T153000Z
+SUMMARY:Borussia Dortmund vs Eintracht Frankfurt — Bundesliga
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/5881198
+DESCRIPTION:⚽ بوروسيا دورتموند × آينتراخت فرا
+ نكفورت\n🏆 الدوري الألماني — الجولة 7\n🗓 
+ السبت 24 أكتوبر 2026 · 16:30 بتوقيت الرياض\n🏟 S
+ ignal Iduna Park\n—————\n⚽ Borussia Dortmund v Eintracht Frank
+ furt\n🏆 Bundesliga — Matchday 7\n🗓 Sat 24 Oct 2026 · 13:30 UTC\n
+ 🏟 Signal Iduna Park\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد آينترا
+ خت فرانكفورت — الدوري الألماني | Tomorrow: Boru
+ ssia Dortmund vs Eintracht Frankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × آينتراخت فرانكفورت | Kick-off in
+  30 min: Borussia Dortmund vs Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881208@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T143000Z
+DTEND:20261031T163000Z
+SUMMARY:Bayern München vs Borussia Dortmund — Bundesliga
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/5881208
+DESCRIPTION:⚽ بايرن ميونخ × بوروسيا دورتموند\n
+ 🏆 الدوري الألماني — الجولة 8\n🗓 السبت 31 
+ أكتوبر 2026 · 17:30 بتوقيت الرياض\n🏟 Allianz Arena\n
+ —————\n⚽ Bayern München v Borussia Dortmund\n🏆 Bundesliga 
+ — Matchday 8\n🗓 Sat 31 Oct 2026 · 14:30 UTC\n🏟 Allianz Arena\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد بوروسيا دور
+ تموند — الدوري الألماني | Tomorrow: Bayern München v
+ s Borussia Dortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × بوروسيا دورتموند | Kick-off in 30 min: Bayern
+  München vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881215@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T143000Z
+DTEND:20261107T163000Z
+SUMMARY:Borussia Dortmund vs Elversberg — Bundesliga
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/5881215
+DESCRIPTION:⚽ بوروسيا دورتموند × إلفيرسبيرغ\n
+ 🏆 الدوري الألماني — الجولة 9\n🗓 السبت 7 
+ نوفمبر 2026 · 17:30 بتوقيت الرياض\n🏟 Signal Iduna Pa
+ rk\n—————\n⚽ Borussia Dortmund v Elversberg\n🏆 Bundesliga 
+ — Matchday 9\n🗓 Sat 07 Nov 2026 · 14:30 UTC\n🏟 Signal Iduna Park\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد إلفيرس
+ بيرغ — الدوري الألماني | Tomorrow: Borussia Dortmund v
+ s Elversberg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × إلفيرسبيرغ | Kick-off in 30 min: Boruss
+ ia Dortmund vs Elversberg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881227@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T143000Z
+DTEND:20261121T163000Z
+SUMMARY:Borussia Mönchengladbach vs Borussia Dortmund — Bundesliga
+LOCATION:Ista-Borussia-Park
+URL:https://www.fotmob.com/match/5881227
+DESCRIPTION:⚽ بوروسيا مونشنجلادباخ × بوروسيا 
+ دورتموند\n🏆 الدوري الألماني — الجولة 10\n
+ 🗓 السبت 21 نوفمبر 2026 · 17:30 بتوقيت الرياض\n
+ 🏟 Ista-Borussia-Park\n—————\n⚽ Borussia Mönchengladbach v 
+ Borussia Dortmund\n🏆 Bundesliga — Matchday 10\n🗓 Sat 21 Nov 2026 
+ · 14:30 UTC\n🏟 Ista-Borussia-Park\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا مونشنجلادباخ ضد بو
+ روسيا دورتموند — الدوري الألماني | Tomorrow: 
+ Borussia Mönchengladbach vs Borussia Dortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا مونشنجلادباخ × بوروسيا دورتموند | Kick-of
+ f in 30 min: Borussia Mönchengladbach vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881233@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T143000Z
+DTEND:20261128T163000Z
+SUMMARY:Borussia Dortmund vs Bayer Leverkusen — Bundesliga
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/5881233
+DESCRIPTION:⚽ بوروسيا دورتموند × باير ليفركوز
+ ن\n🏆 الدوري الألماني — الجولة 11\n🗓 السب
+ ت 28 نوفمبر 2026 · 17:30 بتوقيت الرياض\n🏟 Signal Id
+ una Park\n—————\n⚽ Borussia Dortmund v Bayer Leverkusen\n🏆 
+ Bundesliga — Matchday 11\n🗓 Sat 28 Nov 2026 · 14:30 UTC\n🏟 Signal
+  Iduna Park\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد باير ل
+ يفركوزن — الدوري الألماني | Tomorrow: Borussia Dort
+ mund vs Bayer Leverkusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × باير ليفركوزن | Kick-off in 30 min: B
+ orussia Dortmund vs Bayer Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881249@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T143000Z
+DTEND:20261205T163000Z
+SUMMARY:Schalke 04 vs Borussia Dortmund — Bundesliga
+LOCATION:VELTINS-Arena
+URL:https://www.fotmob.com/match/5881249
+DESCRIPTION:⚽ شالكة × بوروسيا دورتموند\n🏆 الد
+ وري الألماني — الجولة 12\n🗓 السبت 5 ديسمب
+ ر 2026 · 17:30 بتوقيت الرياض\n🏟 VELTINS-Arena\n———
+ ——\n⚽ Schalke 04 v Borussia Dortmund\n🏆 Bundesliga — Matchday 1
+ 2\n🗓 Sat 05 Dec 2026 · 14:30 UTC\n🏟 VELTINS-Arena\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد بوروسيا دورتموند 
+ — الدوري الألماني | Tomorrow: Schalke 04 vs Borussia Dortm
+ und
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × بوروسيا دورتموند | Kick-off in 30 min: Schalke 04 vs Bor
+ ussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881252@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T143000Z
+DTEND:20261212T163000Z
+SUMMARY:Borussia Dortmund vs Augsburg — Bundesliga
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/5881252
+DESCRIPTION:⚽ بوروسيا دورتموند × أوغسبورغ\n🏆 
+ الدوري الألماني — الجولة 13\n🗓 السبت 12 دي
+ سمبر 2026 · 17:30 بتوقيت الرياض\n🏟 Signal Iduna Park\n
+ —————\n⚽ Borussia Dortmund v Augsburg\n🏆 Bundesliga — Mat
+ chday 13\n🗓 Sat 12 Dec 2026 · 14:30 UTC\n🏟 Signal Iduna Park\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد أوغسبو
+ رغ — الدوري الألماني | Tomorrow: Borussia Dortmund vs Au
+ gsburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × أوغسبورغ | Kick-off in 30 min: Borussia D
+ ortmund vs Augsburg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881266@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T143000Z
+DTEND:20261219T163000Z
+SUMMARY:RB Leipzig vs Borussia Dortmund — Bundesliga
+LOCATION:Red Bull Arena Leipzig
+URL:https://www.fotmob.com/match/5881266
+DESCRIPTION:⚽ لايبزيج × بوروسيا دورتموند\n🏆 ا
+ لدوري الألماني — الجولة 14\n🗓 السبت 19 ديس
+ مبر 2026 · 17:30 بتوقيت الرياض\n🏟 Red Bull Arena Leipzi
+ g\n—————\n⚽ RB Leipzig v Borussia Dortmund\n🏆 Bundesliga 
+ — Matchday 14\n🗓 Sat 19 Dec 2026 · 14:30 UTC\n🏟 Red Bull Arena Le
+ ipzig\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لايبزيج ضد بوروسيا دورتمون
+ د — الدوري الألماني | Tomorrow: RB Leipzig vs Borussia Do
+ rtmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لايبز
+ يج × بوروسيا دورتموند | Kick-off in 30 min: RB Leipzig v
+ s Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881270@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270109T143000Z
+DTEND:20270109T163000Z
+SUMMARY:Borussia Dortmund vs Mainz 05 — Bundesliga
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/5881270
+DESCRIPTION:⚽ بوروسيا دورتموند × ماينز 05\n🏆 ال
+ دوري الألماني — الجولة 15\n🗓 السبت 9 يناي
+ ر 2027 · 17:30 بتوقيت الرياض\n🏟 Signal Iduna Park\n——
+ ———\n⚽ Borussia Dortmund v Mainz 05\n🏆 Bundesliga — Matchday 
+ 15\n🗓 Sat 09 Jan 2027 · 14:30 UTC\n🏟 Signal Iduna Park\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد ماينز 0
+ 5 — الدوري الألماني | Tomorrow: Borussia Dortmund vs Mainz
+  05
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × ماينز 05 | Kick-off in 30 min: Borussia Dort
+ mund vs Mainz 05
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881281@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270112T193000Z
+DTEND:20270112T213000Z
+SUMMARY:1. FC Köln vs Borussia Dortmund — Bundesliga
+LOCATION:RheinEnergieSTADION
+URL:https://www.fotmob.com/match/5881281
+DESCRIPTION:⚽ كولن × بوروسيا دورتموند\n🏆 الدو
+ ري الألماني — الجولة 16\n🗓 الثلاثاء 12 ينا
+ ير 2027 · 22:30 بتوقيت الرياض\n🏟 RheinEnergieSTADION\n
+ —————\n⚽ 1. FC Köln v Borussia Dortmund\n🏆 Bundesliga — 
+ Matchday 16\n🗓 Tue 12 Jan 2027 · 19:30 UTC\n🏟 RheinEnergieSTADION\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كولن ضد بوروسيا دورتموند —
+  الدوري الألماني | Tomorrow: 1. FC Köln vs Borussia Dortmun
+ d
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كولن ×
+  بوروسيا دورتموند | Kick-off in 30 min: 1. FC Köln vs Boru
+ ssia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881289@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T143000Z
+DTEND:20270116T163000Z
+SUMMARY:Borussia Dortmund vs Freiburg — Bundesliga
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/5881289
+DESCRIPTION:⚽ بوروسيا دورتموند × فرايبورج\n🏆 
+ الدوري الألماني — الجولة 17\n🗓 السبت 16 ين
+ اير 2027 · 17:30 بتوقيت الرياض\n🏟 Signal Iduna Park\n
+ —————\n⚽ Borussia Dortmund v Freiburg\n🏆 Bundesliga — Mat
+ chday 17\n🗓 Sat 16 Jan 2027 · 14:30 UTC\n🏟 Signal Iduna Park\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد فرايبو
+ رج — الدوري الألماني | Tomorrow: Borussia Dortmund vs Fr
+ eiburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × فرايبورج | Kick-off in 30 min: Borussia D
+ ortmund vs Freiburg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881299@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T143000Z
+DTEND:20270123T163000Z
+SUMMARY:Hamburger SV vs Borussia Dortmund — Bundesliga
+LOCATION:Volksparkstadion
+URL:https://www.fotmob.com/match/5881299
+DESCRIPTION:⚽ هامبورج × بوروسيا دورتموند\n🏆 ا
+ لدوري الألماني — الجولة 18\n🗓 السبت 23 ينا
+ ير 2027 · 17:30 بتوقيت الرياض\n🏟 Volksparkstadion\n—
+ ————\n⚽ Hamburger SV v Borussia Dortmund\n🏆 Bundesliga — Ma
+ tchday 18\n🗓 Sat 23 Jan 2027 · 14:30 UTC\n🏟 Volksparkstadion\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هامبورج ضد بوروسيا دورتمون
+ د — الدوري الألماني | Tomorrow: Hamburger SV vs Borussia 
+ Dortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هامبو
+ رج × بوروسيا دورتموند | Kick-off in 30 min: Hamburger SV
+  vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881307@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T143000Z
+DTEND:20270130T163000Z
+SUMMARY:Borussia Dortmund vs Hoffenheim — Bundesliga
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/5881307
+DESCRIPTION:⚽ بوروسيا دورتموند × هوفنهايم\n🏆 
+ الدوري الألماني — الجولة 19\n🗓 السبت 30 ين
+ اير 2027 · 17:30 بتوقيت الرياض\n🏟 Signal Iduna Park\n
+ —————\n⚽ Borussia Dortmund v Hoffenheim\n🏆 Bundesliga — M
+ atchday 19\n🗓 Sat 30 Jan 2027 · 14:30 UTC\n🏟 Signal Iduna Park\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد هوفنها
+ يم — الدوري الألماني | Tomorrow: Borussia Dortmund vs Ho
+ ffenheim
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × هوفنهايم | Kick-off in 30 min: Borussia D
+ ortmund vs Hoffenheim
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881319@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T143000Z
+DTEND:20270206T163000Z
+SUMMARY:Paderborn vs Borussia Dortmund — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881319
+DESCRIPTION:⚽ بادربورن × بوروسيا دورتموند\n🏆 
+ الدوري الألماني — الجولة 20\n🗓 السبت 6 فب
+ راير 2027 · 17:30 بتوقيت الرياض\n🏟 Home Deluxe Arena\n
+ —————\n⚽ Paderborn v Borussia Dortmund\n🏆 Bundesliga — Ma
+ tchday 20\n🗓 Sat 06 Feb 2027 · 14:30 UTC\n🏟 Home Deluxe Arena\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد بوروسيا دورتمو
+ ند — الدوري الألماني | Tomorrow: Paderborn vs Borussia D
+ ortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × بوروسيا دورتموند | Kick-off in 30 min: Paderborn 
+ vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881324@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270213T143000Z
+DTEND:20270213T163000Z
+SUMMARY:Borussia Dortmund vs VfB Stuttgart — Bundesliga
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/5881324
+DESCRIPTION:⚽ بوروسيا دورتموند × شتوتجارت\n🏆 
+ الدوري الألماني — الجولة 21\n🗓 السبت 13 فب
+ راير 2027 · 17:30 بتوقيت الرياض\n🏟 Signal Iduna Park\n
+ —————\n⚽ Borussia Dortmund v VfB Stuttgart\n🏆 Bundesliga 
+ — Matchday 21\n🗓 Sat 13 Feb 2027 · 14:30 UTC\n🏟 Signal Iduna Park
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد شتوتجا
+ رت — الدوري الألماني | Tomorrow: Borussia Dortmund vs Vf
+ B Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × شتوتجارت | Kick-off in 30 min: Borussia D
+ ortmund vs VfB Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881340@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T143000Z
+DTEND:20270220T163000Z
+SUMMARY:Werder Bremen vs Borussia Dortmund — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881340
+DESCRIPTION:⚽ فيردر بريمن × بوروسيا دورتموند\n
+ 🏆 الدوري الألماني — الجولة 22\n🗓 السبت 20
+  فبراير 2027 · 17:30 بتوقيت الرياض\n🏟 Wohninvest WES
+ ERSTADION\n—————\n⚽ Werder Bremen v Borussia Dortmund\n🏆 Bu
+ ndesliga — Matchday 22\n🗓 Sat 20 Feb 2027 · 14:30 UTC\n🏟 Wohninve
+ st WESERSTADION\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد بوروسيا دور
+ تموند — الدوري الألماني | Tomorrow: Werder Bremen vs 
+ Borussia Dortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × بوروسيا دورتموند | Kick-off in 30 min: Werder
+  Bremen vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881342@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T143000Z
+DTEND:20270227T163000Z
+SUMMARY:Borussia Dortmund vs Union Berlin — Bundesliga
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/5881342
+DESCRIPTION:⚽ بوروسيا دورتموند × يونيون برلين\
+ n🏆 الدوري الألماني — الجولة 23\n🗓 السبت 2
+ 7 فبراير 2027 · 17:30 بتوقيت الرياض\n🏟 Signal Iduna 
+ Park\n—————\n⚽ Borussia Dortmund v Union Berlin\n🏆 Bundesli
+ ga — Matchday 23\n🗓 Sat 27 Feb 2027 · 14:30 UTC\n🏟 Signal Iduna P
+ ark\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد يونيون
+  برلين — الدوري الألماني | Tomorrow: Borussia Dortmun
+ d vs Union Berlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × يونيون برلين | Kick-off in 30 min: Bor
+ ussia Dortmund vs Union Berlin
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881353@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270302T193000Z
+DTEND:20270302T213000Z
+SUMMARY:Eintracht Frankfurt vs Borussia Dortmund — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881353
+DESCRIPTION:⚽ آينتراخت فرانكفورت × بوروسيا دو
+ رتموند\n🏆 الدوري الألماني — الجولة 24\n🗓
+  الثلاثاء 2 مارس 2027 · 22:30 بتوقيت الرياض\n🏟
+  Deutsche Bank Park\n—————\n⚽ Eintracht Frankfurt v Borussia D
+ ortmund\n🏆 Bundesliga — Matchday 24\n🗓 Tue 02 Mar 2027 · 19:30 UT
+ C\n🏟 Deutsche Bank Park\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد بورو
+ سيا دورتموند — الدوري الألماني | Tomorrow: Eint
+ racht Frankfurt vs Borussia Dortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × بوروسيا دورتموند | Kick-off in
+  30 min: Eintracht Frankfurt vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881359@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270306T143000Z
+DTEND:20270306T163000Z
+SUMMARY:Borussia Dortmund vs Bayern München — Bundesliga
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/5881359
+DESCRIPTION:⚽ بوروسيا دورتموند × بايرن ميونخ\n
+ 🏆 الدوري الألماني — الجولة 25\n🗓 السبت 6 
+ مارس 2027 · 17:30 بتوقيت الرياض\n🏟 Signal Iduna Park\n
+ —————\n⚽ Borussia Dortmund v Bayern München\n🏆 Bundesliga 
+ — Matchday 25\n🗓 Sat 06 Mar 2027 · 14:30 UTC\n🏟 Signal Iduna Park
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد بايرن 
+ ميونخ — الدوري الألماني | Tomorrow: Borussia Dortmund
+  vs Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × بايرن ميونخ | Kick-off in 30 min: Borus
+ sia Dortmund vs Bayern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881373@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T143000Z
+DTEND:20270313T163000Z
+SUMMARY:Elversberg vs Borussia Dortmund — Bundesliga
+LOCATION:Ursapharm-Arena
+URL:https://www.fotmob.com/match/5881373
+DESCRIPTION:⚽ إلفيرسبيرغ × بوروسيا دورتموند\n
+ 🏆 الدوري الألماني — الجولة 26\n🗓 السبت 13
+  مارس 2027 · 17:30 بتوقيت الرياض\n🏟 Ursapharm-Arena\n
+ —————\n⚽ Elversberg v Borussia Dortmund\n🏆 Bundesliga — M
+ atchday 26\n🗓 Sat 13 Mar 2027 · 14:30 UTC\n🏟 Ursapharm-Arena\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد بوروسيا دورت
+ موند — الدوري الألماني | Tomorrow: Elversberg vs Borus
+ sia Dortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × بوروسيا دورتموند | Kick-off in 30 min: Elvers
+ berg vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881377@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T143000Z
+DTEND:20270320T163000Z
+SUMMARY:Borussia Dortmund vs Borussia Mönchengladbach — Bundesliga
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/5881377
+DESCRIPTION:⚽ بوروسيا دورتموند × بوروسيا مونش
+ نجلادباخ\n🏆 الدوري الألماني — الجولة 27\n
+ 🗓 السبت 20 مارس 2027 · 17:30 بتوقيت الرياض\n🏟 
+ Signal Iduna Park\n—————\n⚽ Borussia Dortmund v Borussia Mönc
+ hengladbach\n🏆 Bundesliga — Matchday 27\n🗓 Sat 20 Mar 2027 · 14:3
+ 0 UTC\n🏟 Signal Iduna Park\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد بوروسي
+ ا مونشنجلادباخ — الدوري الألماني | Tomorrow: 
+ Borussia Dortmund vs Borussia Mönchengladbach
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × بوروسيا مونشنجلادباخ | Kick-of
+ f in 30 min: Borussia Dortmund vs Borussia Mönchengladbach
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881387@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270403T133000Z
+DTEND:20270403T153000Z
+SUMMARY:Bayer Leverkusen vs Borussia Dortmund — Bundesliga
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/5881387
+DESCRIPTION:⚽ باير ليفركوزن × بوروسيا دورتمون
+ د\n🏆 الدوري الألماني — الجولة 28\n🗓 السب
+ ت 3 أبريل 2027 · 16:30 بتوقيت الرياض\n🏟 BayArena\n
+ —————\n⚽ Bayer Leverkusen v Borussia Dortmund\n🏆 Bundesliga
+  — Matchday 28\n🗓 Sat 03 Apr 2027 · 13:30 UTC\n🏟 BayArena\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد بوروسيا د
+ ورتموند — الدوري الألماني | Tomorrow: Bayer Leverku
+ sen vs Borussia Dortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × بوروسيا دورتموند | Kick-off in 30 min: Ba
+ yer Leverkusen vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881396@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T133000Z
+DTEND:20270410T153000Z
+SUMMARY:Borussia Dortmund vs Schalke 04 — Bundesliga
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/5881396
+DESCRIPTION:⚽ بوروسيا دورتموند × شالكة\n🏆 الد
+ وري الألماني — الجولة 29\n🗓 السبت 10 أبريل
+  2027 · 16:30 بتوقيت الرياض\n🏟 Signal Iduna Park\n——
+ ———\n⚽ Borussia Dortmund v Schalke 04\n🏆 Bundesliga — Matchda
+ y 29\n🗓 Sat 10 Apr 2027 · 13:30 UTC\n🏟 Signal Iduna Park\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد شالكة 
+ — الدوري الألماني | Tomorrow: Borussia Dortmund vs Schalke
+  04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × شالكة | Kick-off in 30 min: Borussia Dortmun
+ d vs Schalke 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881404@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T133000Z
+DTEND:20270417T153000Z
+SUMMARY:Augsburg vs Borussia Dortmund — Bundesliga
+LOCATION:WWK Arena
+URL:https://www.fotmob.com/match/5881404
+DESCRIPTION:⚽ أوغسبورغ × بوروسيا دورتموند\n🏆 
+ الدوري الألماني — الجولة 30\n🗓 السبت 17 أب
+ ريل 2027 · 16:30 بتوقيت الرياض\n🏟 WWK Arena\n———
+ ——\n⚽ Augsburg v Borussia Dortmund\n🏆 Bundesliga — Matchday 30\
+ n🗓 Sat 17 Apr 2027 · 13:30 UTC\n🏟 WWK Arena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوغسبورغ ضد بوروسيا دورتمو
+ ند — الدوري الألماني | Tomorrow: Augsburg vs Borussia Do
+ rtmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوغسب
+ ورغ × بوروسيا دورتموند | Kick-off in 30 min: Augsburg v
+ s Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881414@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T133000Z
+DTEND:20270424T153000Z
+SUMMARY:Borussia Dortmund vs RB Leipzig — Bundesliga
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/5881414
+DESCRIPTION:⚽ بوروسيا دورتموند × لايبزيج\n🏆 ا
+ لدوري الألماني — الجولة 31\n🗓 السبت 24 أبر
+ يل 2027 · 16:30 بتوقيت الرياض\n🏟 Signal Iduna Park\n—
+ ————\n⚽ Borussia Dortmund v RB Leipzig\n🏆 Bundesliga — Matc
+ hday 31\n🗓 Sat 24 Apr 2027 · 13:30 UTC\n🏟 Signal Iduna Park\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد لايبزي
+ ج — الدوري الألماني | Tomorrow: Borussia Dortmund vs RB L
+ eipzig
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × لايبزيج | Kick-off in 30 min: Borussia Dor
+ tmund vs RB Leipzig
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881427@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T133000Z
+DTEND:20270508T153000Z
+SUMMARY:Mainz 05 vs Borussia Dortmund — Bundesliga
+LOCATION:MEWA Arena
+URL:https://www.fotmob.com/match/5881427
+DESCRIPTION:⚽ ماينز 05 × بوروسيا دورتموند\n🏆 ال
+ دوري الألماني — الجولة 32\n🗓 السبت 8 مايو 
+ 2027 · 16:30 بتوقيت الرياض\n🏟 MEWA Arena\n—————\
+ n⚽ Mainz 05 v Borussia Dortmund\n🏆 Bundesliga — Matchday 32\n🗓 S
+ at 08 May 2027 · 13:30 UTC\n🏟 MEWA Arena\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ماينز 05 ضد بوروسيا دورتمون
+ د — الدوري الألماني | Tomorrow: Mainz 05 vs Borussia Dort
+ mund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ماينز 
+ 05 × بوروسيا دورتموند | Kick-off in 30 min: Mainz 05 vs Bo
+ russia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881433@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T133000Z
+DTEND:20270515T153000Z
+SUMMARY:Borussia Dortmund vs 1. FC Köln — Bundesliga
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/5881433
+DESCRIPTION:⚽ بوروسيا دورتموند × كولن\n🏆 الدو
+ ري الألماني — الجولة 33\n🗓 السبت 15 مايو 202
+ 7 · 16:30 بتوقيت الرياض\n🏟 Signal Iduna Park\n————
+ —\n⚽ Borussia Dortmund v 1. FC Köln\n🏆 Bundesliga — Matchday 33\
+ n🗓 Sat 15 May 2027 · 13:30 UTC\n🏟 Signal Iduna Park\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد كولن —
+  الدوري الألماني | Tomorrow: Borussia Dortmund vs 1. FC Köl
+ n
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × كولن | Kick-off in 30 min: Borussia Dortmund 
+ vs 1. FC Köln
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881444@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270522T133000Z
+DTEND:20270522T153000Z
+SUMMARY:Freiburg vs Borussia Dortmund — Bundesliga
+LOCATION:Europa-Park Stadion
+URL:https://www.fotmob.com/match/5881444
+DESCRIPTION:⚽ فرايبورج × بوروسيا دورتموند\n🏆 
+ الدوري الألماني — الجولة 34\n🗓 السبت 22 ما
+ يو 2027 · 16:30 بتوقيت الرياض\n🏟 Europa-Park Stadion\n
+ —————\n⚽ Freiburg v Borussia Dortmund\n🏆 Bundesliga — Mat
+ chday 34\n🗓 Sat 22 May 2027 · 13:30 UTC\n🏟 Europa-Park Stadion\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فرايبورج ضد بوروسيا دورتمو
+ ند — الدوري الألماني | Tomorrow: Freiburg vs Borussia Do
+ rtmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فرايب
+ ورج × بوروسيا دورتموند | Kick-off in 30 min: Freiburg v
+ s Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106272@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T190000Z
+DTEND:20260908T210000Z
+SUMMARY:Borussia Dortmund vs Villarreal — UEFA Champions League
+LOCATION:SIGNAL IDUNA PARK\, Dortmund\, Germany
+GEO:51.492607;7.451777
+URL:https://www.fotmob.com/match/6106272
+DESCRIPTION:⚽ بوروسيا دورتموند × فياريال\n🏆 د
+ وري أبطال أوروبا — الجولة 1\n🗓 الثلاثاء 8
+  سبتمبر 2026 · 22:00 بتوقيت الرياض\n🏟 SIGNAL IDUNA P
+ ARK، Dortmund\n📺 HBO Max (UK)، Paramount+ (US)\n—————\n⚽ 
+ Borussia Dortmund v Villarreal\n🏆 UEFA Champions League — Matchday 1\
+ n🗓 Tue 08 Sep 2026 · 19:00 UTC\n🏟 SIGNAL IDUNA PARK, Dortmund\n📺
+  HBO Max (UK), Paramount+ (US)\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد فياريا
+ ل — دوري أبطال أوروبا — 📺 HBO Max (UK)، Paramount+
+  (US) | Tomorrow: Borussia Dortmund vs Villarreal | TV: HBO Max (UK)\, Par
+ amount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × فياريال — 📺 HBO Max (UK)، Paramount+
+  (US) | Kick-off in 30 min: Borussia Dortmund vs Villarreal | TV: HBO Max 
+ (UK)\, Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106315@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+SUMMARY:Bodø/Glimt vs Borussia Dortmund — UEFA Champions League
+LOCATION:Aspmyra Stadion\, Bodø\, Norway
+GEO:67.276677;14.384365
+URL:https://www.fotmob.com/match/6106315
+DESCRIPTION:⚽ بودو جليمت × بوروسيا دورتموند\n
+ 🏆 دوري أبطال أوروبا — الجولة 2\n🗓 الأرب
+ عاء 14 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Aspmy
+ ra Stadion، Bodø\n—————\n⚽ Bodø/Glimt v Borussia Dortmund\n
+ 🏆 UEFA Champions League — Matchday 2\n🗓 Wed 14 Oct 2026 · 19:00 U
+ TC\n🏟 Aspmyra Stadion, Bodø\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بودو جليمت ضد بوروسيا دورت
+ موند — دوري أبطال أوروبا | Tomorrow: Bodø/Glimt vs B
+ orussia Dortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بودو ج
+ ليمت × بوروسيا دورتموند | Kick-off in 30 min: Bodø/Gl
+ imt vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106422@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T164500Z
+DTEND:20261020T184500Z
+SUMMARY:Sabah FK vs Borussia Dortmund — UEFA Champions League
+LOCATION:Bank Respublika Arena\, Masazyr (Masazir)\, Azerbaijan
+GEO:40.486179;49.766298
+URL:https://www.fotmob.com/match/6106422
+DESCRIPTION:⚽ صباح × بوروسيا دورتموند\n🏆 دوري 
+ أبطال أوروبا — الجولة 3\n🗓 الثلاثاء 20 أك
+ توبر 2026 · 19:45 بتوقيت الرياض\n🏟 Bank Respublika Are
+ na، Masazyr (Masazir)\n—————\n⚽ Sabah FK v Borussia Dortmund\
+ n🏆 UEFA Champions League — Matchday 3\n🗓 Tue 20 Oct 2026 · 16:45 
+ UTC\n🏟 Bank Respublika Arena, Masazyr (Masazir)\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: صباح ضد بوروسيا دورتموند —
+  دوري أبطال أوروبا | Tomorrow: Sabah FK vs Borussia Dortmun
+ d
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: صباح ×
+  بوروسيا دورتموند | Kick-off in 30 min: Sabah FK vs Borussi
+ a Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106271@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+SUMMARY:Borussia Dortmund vs Real Betis — UEFA Champions League
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/6106271
+DESCRIPTION:⚽ بوروسيا دورتموند × ريال بيتيس\n
+ 🏆 دوري أبطال أوروبا — الجولة 4\n🗓 الأرب
+ عاء 4 نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Signal
+  Iduna Park\n—————\n⚽ Borussia Dortmund v Real Betis\n🏆 UEF
+ A Champions League — Matchday 4\n🗓 Wed 04 Nov 2026 · 20:00 UTC\n🏟
+  Signal Iduna Park\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد ريال ب
+ يتيس — دوري أبطال أوروبا | Tomorrow: Borussia Dortmun
+ d vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × ريال بيتيس | Kick-off in 30 min: Borussi
+ a Dortmund vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106259@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+SUMMARY:Arsenal vs Borussia Dortmund — UEFA Champions League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/6106259
+DESCRIPTION:⚽ أرسنال × بوروسيا دورتموند\n🏆 دو
+ ري أبطال أوروبا — الجولة 5\n🗓 الثلاثاء 24 
+ نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Emirates Stadiu
+ m\n—————\n⚽ Arsenal v Borussia Dortmund\n🏆 UEFA Champions L
+ eague — Matchday 5\n🗓 Tue 24 Nov 2026 · 20:00 UTC\n🏟 Emirates Sta
+ dium\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد بوروسيا دورتموند
+  — دوري أبطال أوروبا | Tomorrow: Arsenal vs Borussia Dort
+ mund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × بوروسيا دورتموند | Kick-off in 30 min: Arsenal vs Bor
+ ussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106270@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:Borussia Dortmund vs Inter — UEFA Champions League
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/6106270
+DESCRIPTION:⚽ بوروسيا دورتموند × إنتر ميلان\n
+ 🏆 دوري أبطال أوروبا — الجولة 6\n🗓 الأرب
+ عاء 9 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Signal
+  Iduna Park\n—————\n⚽ Borussia Dortmund v Inter\n🏆 UEFA Cha
+ mpions League — Matchday 6\n🗓 Wed 09 Dec 2026 · 20:00 UTC\n🏟 Sign
+ al Iduna Park\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد إنتر م
+ يلان — دوري أبطال أوروبا | Tomorrow: Borussia Dortmun
+ d vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × إنتر ميلان | Kick-off in 30 min: Borussi
+ a Dortmund vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106283@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+SUMMARY:Aston Villa vs Borussia Dortmund — UEFA Champions League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/6106283
+DESCRIPTION:⚽ أستون فيلا × بوروسيا دورتموند\n
+ 🏆 دوري أبطال أوروبا — الجولة 7\n🗓 الثلا
+ ثاء 19 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Villa P
+ ark\n—————\n⚽ Aston Villa v Borussia Dortmund\n🏆 UEFA Champ
+ ions League — Matchday 7\n🗓 Tue 19 Jan 2027 · 20:00 UTC\n🏟 Villa 
+ Park\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد بوروسيا دورت
+ موند — دوري أبطال أوروبا | Tomorrow: Aston Villa vs B
+ orussia Dortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × بوروسيا دورتموند | Kick-off in 30 min: Aston Vi
+ lla vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106273@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Borussia Dortmund vs AEK Athens — UEFA Champions League
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/6106273
+DESCRIPTION:⚽ بوروسيا دورتموند × أيك أثينا\n🏆 
+ دوري أبطال أوروبا — الجولة 8\n🗓 الأربعاء
+  27 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Signal Iduna 
+ Park\n—————\n⚽ Borussia Dortmund v AEK Athens\n🏆 UEFA Champ
+ ions League — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Signal
+  Iduna Park\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد أيك أث
+ ينا — دوري أبطال أوروبا | Tomorrow: Borussia Dortmund 
+ vs AEK Athens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × أيك أثينا | Kick-off in 30 min: Borussia 
+ Dortmund vs AEK Athens
+END:VALARM
+END:VEVENT
+END:VCALENDAR

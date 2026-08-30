@@ -1,0 +1,1630 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Liverpool — Premier League & UEFA Champions League & FA 
+ Cup Fixtures | ليفربول — مباريات الدوري الإنجل
+ يزي الممتاز ودوري أبطال أوروبا وكأس الات
+ حاد الإنجليزي
+X-WR-CALDESC:Liverpool — all matches in Premier League & UEFA Champions L
+ eague & FA Cup\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365sco
+ res · auto-updated 2026-09-05T19:31:10Z.  •  ليفربول — جمي
+ ع المباريات في الدوري الإنجليزي الممتاز 
+ ودوري أبطال أوروبا وكأس الاتحاد الإنجلي
+ زي بتوقيت UTC الدقيق مع الملاعب والقنوات ا
+ لناقلة. المصدر: FotMob + 365scores · تحديث تلقائي 
+ 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5795371@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260823T153000Z
+DTEND:20260823T173000Z
+SUMMARY:Newcastle United vs Liverpool (2 - 2) — Premier League
+LOCATION:St. James' Park\, Newcastle upon Tyne\, England
+GEO:54.975540;-1.621621
+URL:https://www.fotmob.com/match/5795371
+DESCRIPTION:⚽ نيوكاسل يونايتد × ليفربول (2 - 2)\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 1\n
+ 🗓 الأحد 23 أغسطس 2026 · 18:30 بتوقيت الرياض\n
+ 🏟 St. James' Park، Newcastle upon Tyne\n⚖️ الحكم: Stuart Attw
+ ell\n👥 الحضور: 52,630\n—————\n⚽ Newcastle United v Li
+ verpool (2 - 2)\n🏆 Premier League — Matchday 1\n🗓 Sun 23 Aug 2026 
+ · 15:30 UTC\n🏟 St. James' Park, Newcastle upon Tyne\nReferee: Stuart A
+ ttwell\nAttendance: 52,630\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل يونايتد ضد ليفربول
+  — الدوري الإنجليزي الممتاز | Tomorrow: Newcastle 
+ United vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل يونايتد × ليفربول | Kick-off in 30 min: Newcastle Unit
+ ed vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795431@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T113000Z
+DTEND:20260829T133000Z
+SUMMARY:Liverpool vs Nottingham Forest (2 - 2) — Premier League
+LOCATION:Anfield\, Liverpool\, England
+GEO:53.430828;-2.960853
+URL:https://www.fotmob.com/match/5795431
+DESCRIPTION:⚽ ليفربول × نوتنجهام فورست (2 - 2)\n🏆
+  الدوري الإنجليزي الممتاز — الجولة 2\n🗓 
+ السبت 29 أغسطس 2026 · 14:30 بتوقيت الرياض\n🏟 Anf
+ ield، Liverpool\n⚖️ الحكم: Samuel Barrott\n👥 الحضور: 60
+ ,415\n—————\n⚽ Liverpool v Nottingham Forest (2 - 2)\n🏆 Pre
+ mier League — Matchday 2\n🗓 Sat 29 Aug 2026 · 11:30 UTC\n🏟 Anfiel
+ d, Liverpool\nReferee: Samuel Barrott\nAttendance: 60,415\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد نوتنجهام فورست 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Liverpool v
+ s Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × نوتنجهام فورست | Kick-off in 30 min: Liverpool vs Not
+ tingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795441@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260904T190000Z
+DTEND:20260904T210000Z
+SUMMARY:Ipswich Town vs Liverpool (0 - 2) — Premier League
+LOCATION:Portman Road\, Ipswich\, Suffolk\, England
+GEO:52.054950;1.145263
+URL:https://www.fotmob.com/match/5795441
+DESCRIPTION:⚽ إبسويتش تاون × ليفربول (0 - 2)\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 3\n🗓 ال
+ جمعة 4 سبتمبر 2026 · 22:00 بتوقيت الرياض\n🏟 Port
+ man Road، Ipswich, Suffolk\n⚖️ الحكم: Darren England\n👥 ال
+ حضور: 30,019\n—————\n⚽ Ipswich Town v Liverpool (0 - 2)\n
+ 🏆 Premier League — Matchday 3\n🗓 Fri 04 Sep 2026 · 19:00 UTC\n
+ 🏟 Portman Road, Ipswich, Suffolk\nReferee: Darren England\nAttendance: 
+ 30,019\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد ليفربول — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Ipswich Town vs
+  Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × ليفربول | Kick-off in 30 min: Ipswich Town vs Live
+ rpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795451@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T140000Z
+DTEND:20260912T160000Z
+SUMMARY:Liverpool vs Fulham — Premier League
+LOCATION:Anfield\, Liverpool\, England
+GEO:53.430828;-2.960853
+URL:https://www.fotmob.com/match/5795451
+DESCRIPTION:⚽ ليفربول × فولهام\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 4\n🗓 السبت 12 سبتم
+ بر 2026 · 17:00 بتوقيت الرياض\n🏟 Anfield، Liverpool\n
+ 📺 NBC Sports Network، Peacock، Peacock (Español)، Fubo Sports CA، 
+ Premier Sports 1 ROI، StarHub TV+، Astro Go\n—————\n⚽ Liverp
+ ool v Fulham\n🏆 Premier League — Matchday 4\n🗓 Sat 12 Sep 2026 · 
+ 14:00 UTC\n🏟 Anfield, Liverpool\n📺 NBC Sports Network, Peacock, Peac
+ ock (Español), Fubo Sports CA, Premier Sports 1 ROI, StarHub TV+, Astro G
+ o\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد فولهام — الدوري
+  الإنجليزي الممتاز — 📺 NBC Sports Network، Peacock،
+  Peacock (Español)، Fubo Sports CA، Premier Sports 1 ROI، StarHub TV+
+ ، Astro Go | Tomorrow: Liverpool vs Fulham | TV: NBC Sports Network\, Pea
+ cock\, Peacock (Español)\, Fubo Sports CA\, Premier Sports 1 ROI\, StarHu
+ b TV+\, Astro Go
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × فولهام — 📺 NBC Sports Network، Peacock، Peacock (Espa
+ ñol)، Fubo Sports CA، Premier Sports 1 ROI، StarHub TV+، Astro Go | K
+ ick-off in 30 min: Liverpool vs Fulham | TV: NBC Sports Network\, Peacock\
+ , Peacock (Español)\, Fubo Sports CA\, Premier Sports 1 ROI\, StarHub TV+
+ \, Astro Go
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795455@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:AFC Bournemouth vs Liverpool — Premier League
+LOCATION:Vitality Stadium\, Bournemouth\, Dorset\, England
+GEO:50.735241;-1.838310
+URL:https://www.fotmob.com/match/5795455
+DESCRIPTION:⚽ بورنموث × ليفربول\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 5\n🗓 الأحد 20 سبت
+ مبر 2026 · 16:00 بتوقيت الرياض\n🏟 Vitality Stadium، Bo
+ urnemouth, Dorset\n—————\n⚽ AFC Bournemouth v Liverpool\n🏆 
+ Premier League — Matchday 5\n🗓 Sun 20 Sep 2026 · 13:00 UTC\n🏟 Vit
+ ality Stadium, Bournemouth, Dorset\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد ليفربول — الدور
+ ي الإنجليزي الممتاز | Tomorrow: AFC Bournemouth vs Liverp
+ ool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × ليفربول | Kick-off in 30 min: AFC Bournemouth vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795472@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T153000Z
+DTEND:20261011T173000Z
+SUMMARY:Liverpool vs Manchester City — Premier League
+LOCATION:Anfield\, Liverpool\, England
+GEO:53.430828;-2.960853
+URL:https://www.fotmob.com/match/5795472
+DESCRIPTION:⚽ ليفربول × مانشستر سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 6\n🗓 الأحد 1
+ 1 أكتوبر 2026 · 18:30 بتوقيت الرياض\n🏟 Anfield، Liv
+ erpool\n—————\n⚽ Liverpool v Manchester City\n🏆 Premier Lea
+ gue — Matchday 6\n🗓 Sun 11 Oct 2026 · 15:30 UTC\n🏟 Anfield, Liver
+ pool\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد مانشستر سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Liverpool vs Ma
+ nchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × مانشستر سيتي | Kick-off in 30 min: Liverpool vs Manches
+ ter City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795476@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T140000Z
+DTEND:20261017T160000Z
+SUMMARY:Brentford vs Liverpool — Premier League
+LOCATION:Gtech Community Stadium\, Brentford\, Middlesex\, England
+GEO:51.490729;-0.288884
+URL:https://www.fotmob.com/match/5795476
+DESCRIPTION:⚽ برينتفورد × ليفربول\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 7\n🗓 السبت 17 أ
+ كتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 Gtech Community S
+ tadium، Brentford, Middlesex\n—————\n⚽ Brentford v Liverpool\
+ n🏆 Premier League — Matchday 7\n🗓 Sat 17 Oct 2026 · 14:00 UTC\n
+ 🏟 Gtech Community Stadium, Brentford, Middlesex\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد ليفربول — الد
+ وري الإنجليزي الممتاز | Tomorrow: Brentford vs Liverpoo
+ l
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × ليفربول | Kick-off in 30 min: Brentford vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795492@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Liverpool vs Brighton & Hove Albion — Premier League
+LOCATION:Anfield\, Liverpool\, England
+GEO:53.430828;-2.960853
+URL:https://www.fotmob.com/match/5795492
+DESCRIPTION:⚽ ليفربول × برايتون\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 8\n🗓 الأحد 25 أكت
+ وبر 2026 · 17:00 بتوقيت الرياض\n🏟 Anfield، Liverpool\n
+ —————\n⚽ Liverpool v Brighton & Hove Albion\n🏆 Premier Leag
+ ue — Matchday 8\n🗓 Sun 25 Oct 2026 · 14:00 UTC\n🏟 Anfield, Liverp
+ ool\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد برايتون — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Liverpool vs Brighton & H
+ ove Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × برايتون | Kick-off in 30 min: Liverpool vs Brighton & Hove 
+ Albion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795501@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T163000Z
+DTEND:20261101T183000Z
+SUMMARY:Liverpool vs Arsenal — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795501
+DESCRIPTION:⚽ ليفربول × أرسنال\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 9\n🗓 الأحد 1 نوفمب
+ ر 2026 · 19:30 بتوقيت الرياض\n🏟 Anfield\n—————\
+ n⚽ Liverpool v Arsenal\n🏆 Premier League — Matchday 9\n🗓 Sun 01 
+ Nov 2026 · 16:30 UTC\n🏟 Anfield\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد أرسنال — الدوري
+  الإنجليزي الممتاز | Tomorrow: Liverpool vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × أرسنال | Kick-off in 30 min: Liverpool vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795507@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Crystal Palace vs Liverpool — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795507
+DESCRIPTION:⚽ كريستال بالاس × ليفربول\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 10\n🗓 السب
+ ت 7 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Selhurst P
+ ark\n—————\n⚽ Crystal Palace v Liverpool\n🏆 Premier League 
+ — Matchday 10\n🗓 Sat 07 Nov 2026 · 15:00 UTC\n🏟 Selhurst Park\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد ليفربول —
+  الدوري الإنجليزي الممتاز | Tomorrow: Crystal Palace
+  vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × ليفربول | Kick-off in 30 min: Crystal Palace vs 
+ Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795521@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:Liverpool vs Manchester United — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795521
+DESCRIPTION:⚽ ليفربول × مانشستر يونايتد\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 11\n🗓 ال
+ سبت 21 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Anfie
+ ld\n—————\n⚽ Liverpool v Manchester United\n🏆 Premier Leagu
+ e — Matchday 11\n🗓 Sat 21 Nov 2026 · 15:00 UTC\n🏟 Anfield\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد مانشستر يونايتد
+  — الدوري الإنجليزي الممتاز | Tomorrow: Liverpool 
+ vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × مانشستر يونايتد | Kick-off in 30 min: Liverpool vs M
+ anchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795528@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:Everton vs Liverpool — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795528
+DESCRIPTION:⚽ إيفرتون × ليفربول\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 12\n🗓 السبت 28 نوف
+ مبر 2026 · 18:00 بتوقيت الرياض\n🏟 Hill Dickinson Stadiu
+ m\n—————\n⚽ Everton v Liverpool\n🏆 Premier League — Match
+ day 12\n🗓 Sat 28 Nov 2026 · 15:00 UTC\n🏟 Hill Dickinson Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد ليفربول — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Everton vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × ليفربول | Kick-off in 30 min: Everton vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795541@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Liverpool vs Sunderland — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795541
+DESCRIPTION:⚽ ليفربول × سندرلاند\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 13\n🗓 الأربعاء 2
+  ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Anfield\n—
+ ————\n⚽ Liverpool v Sunderland\n🏆 Premier League — Matchday
+  13\n🗓 Wed 02 Dec 2026 · 20:00 UTC\n🏟 Anfield\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد سندرلاند — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Liverpool vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × سندرلاند | Kick-off in 30 min: Liverpool vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795548@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Chelsea vs Liverpool — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795548
+DESCRIPTION:⚽ تشيلسي × ليفربول\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 14\n🗓 السبت 5 ديسم
+ بر 2026 · 18:00 بتوقيت الرياض\n🏟 Stamford Bridge\n——
+ ———\n⚽ Chelsea v Liverpool\n🏆 Premier League — Matchday 14\n
+ 🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 Stamford Bridge\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد ليفربول — الدوري
+  الإنجليزي الممتاز | Tomorrow: Chelsea vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × ليفربول | Kick-off in 30 min: Chelsea vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795562@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Liverpool vs Leeds United — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795562
+DESCRIPTION:⚽ ليفربول × ليدز يونايتد\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 15\n🗓 السبت 
+ 12 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Anfield\n—
+ ————\n⚽ Liverpool v Leeds United\n🏆 Premier League — Matchd
+ ay 15\n🗓 Sat 12 Dec 2026 · 15:00 UTC\n🏟 Anfield\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد ليدز يونايتد — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Liverpool vs Le
+ eds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × ليدز يونايتد | Kick-off in 30 min: Liverpool vs Leeds U
+ nited
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795571@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:Liverpool vs Tottenham Hotspur — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795571
+DESCRIPTION:⚽ ليفربول × توتنهام هوتسبر\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 16\n🗓 الس
+ بت 19 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Anfield
+ \n—————\n⚽ Liverpool v Tottenham Hotspur\n🏆 Premier League 
+ — Matchday 16\n🗓 Sat 19 Dec 2026 · 15:00 UTC\n🏟 Anfield\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد توتنهام هوتسبر 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Liverpool v
+ s Tottenham Hotspur
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × توتنهام هوتسبر | Kick-off in 30 min: Liverpool vs Tot
+ tenham Hotspur
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795580@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261226T150000Z
+DTEND:20261226T170000Z
+SUMMARY:Hull City vs Liverpool — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795580
+DESCRIPTION:⚽ هال سيتي × ليفربول\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 17\n🗓 السبت 26 ديس
+ مبر 2026 · 18:00 بتوقيت الرياض\n🏟 The MKM Stadium\n—
+ ————\n⚽ Hull City v Liverpool\n🏆 Premier League — Matchday 
+ 17\n🗓 Sat 26 Dec 2026 · 15:00 UTC\n🏟 The MKM Stadium\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد ليفربول — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Hull City vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × ليفربول | Kick-off in 30 min: Hull City vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795585@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261230T200000Z
+DTEND:20261230T220000Z
+SUMMARY:Aston Villa vs Liverpool — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795585
+DESCRIPTION:⚽ أستون فيلا × ليفربول\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 18\n🗓 الأربعاء
+  30 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Villa Park\
+ n—————\n⚽ Aston Villa v Liverpool\n🏆 Premier League — Mat
+ chday 18\n🗓 Wed 30 Dec 2026 · 20:00 UTC\n🏟 Villa Park\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد ليفربول — ال
+ دوري الإنجليزي الممتاز | Tomorrow: Aston Villa vs Live
+ rpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × ليفربول | Kick-off in 30 min: Aston Villa vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795601@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T150000Z
+DTEND:20270102T170000Z
+SUMMARY:Liverpool vs Coventry City — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795601
+DESCRIPTION:⚽ ليفربول × كوفنتري سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 19\n🗓 السبت 
+ 2 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Anfield\n——
+ ———\n⚽ Liverpool v Coventry City\n🏆 Premier League — Matchday
+  19\n🗓 Sat 02 Jan 2027 · 15:00 UTC\n🏟 Anfield\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد كوفنتري سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Liverpool vs Co
+ ventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × كوفنتري سيتي | Kick-off in 30 min: Liverpool vs Coventr
+ y City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795614@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T200000Z
+DTEND:20270106T220000Z
+SUMMARY:Sunderland vs Liverpool — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795614
+DESCRIPTION:⚽ سندرلاند × ليفربول\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 20\n🗓 الأربعاء 6
+  يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Stadium of Light
+ \n—————\n⚽ Sunderland v Liverpool\n🏆 Premier League — Mat
+ chday 20\n🗓 Wed 06 Jan 2027 · 20:00 UTC\n🏟 Stadium of Light\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد ليفربول — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Sunderland vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × ليفربول | Kick-off in 30 min: Sunderland vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795621@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:Liverpool vs Crystal Palace — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795621
+DESCRIPTION:⚽ ليفربول × كريستال بالاس\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 21\n🗓 السب
+ ت 16 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Anfield\n
+ —————\n⚽ Liverpool v Crystal Palace\n🏆 Premier League — M
+ atchday 21\n🗓 Sat 16 Jan 2027 · 15:00 UTC\n🏟 Anfield\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد كريستال بالاس —
+  الدوري الإنجليزي الممتاز | Tomorrow: Liverpool vs C
+ rystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × كريستال بالاس | Kick-off in 30 min: Liverpool vs Cryst
+ al Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795632@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:Manchester United vs Liverpool — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795632
+DESCRIPTION:⚽ مانشستر يونايتد × ليفربول\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 22\n🗓 ال
+ سبت 23 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Old Tra
+ fford\n—————\n⚽ Manchester United v Liverpool\n🏆 Premier Le
+ ague — Matchday 22\n🗓 Sat 23 Jan 2027 · 15:00 UTC\n🏟 Old Trafford
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد ليفربول
+  — الدوري الإنجليزي الممتاز | Tomorrow: Manchester
+  United vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × ليفربول | Kick-off in 30 min: Manchester Uni
+ ted vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795641@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Liverpool vs Everton — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795641
+DESCRIPTION:⚽ ليفربول × إيفرتون\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 23\n🗓 السبت 30 ينا
+ ير 2027 · 18:00 بتوقيت الرياض\n🏟 Anfield\n————
+ —\n⚽ Liverpool v Everton\n🏆 Premier League — Matchday 23\n🗓 Sa
+ t 30 Jan 2027 · 15:00 UTC\n🏟 Anfield\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد إيفرتون — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Liverpool vs Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × إيفرتون | Kick-off in 30 min: Liverpool vs Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795645@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Arsenal vs Liverpool — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795645
+DESCRIPTION:⚽ أرسنال × ليفربول\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 24\n🗓 السبت 6 فبرا
+ ير 2027 · 18:00 بتوقيت الرياض\n🏟 Emirates Stadium\n—
+ ————\n⚽ Arsenal v Liverpool\n🏆 Premier League — Matchday 24
+ \n🗓 Sat 06 Feb 2027 · 15:00 UTC\n🏟 Emirates Stadium\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد ليفربول — الدوري
+  الإنجليزي الممتاز | Tomorrow: Arsenal vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × ليفربول | Kick-off in 30 min: Arsenal vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795656@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270210T200000Z
+DTEND:20270210T220000Z
+SUMMARY:Coventry City vs Liverpool — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795656
+DESCRIPTION:⚽ كوفنتري سيتي × ليفربول\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 25\n🗓 الأرب
+ عاء 10 فبراير 2027 · 23:00 بتوقيت الرياض\n🏟 Coven
+ try Building Society Arena\n—————\n⚽ Coventry City v Liverpool
+ \n🏆 Premier League — Matchday 25\n🗓 Wed 10 Feb 2027 · 20:00 UTC\n
+ 🏟 Coventry Building Society Arena\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد ليفربول — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Coventry City v
+ s Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × ليفربول | Kick-off in 30 min: Coventry City vs Liv
+ erpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795671@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:Liverpool vs Hull City — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795671
+DESCRIPTION:⚽ ليفربول × هال سيتي\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 26\n🗓 السبت 20 فبر
+ اير 2027 · 18:00 بتوقيت الرياض\n🏟 Anfield\n————
+ —\n⚽ Liverpool v Hull City\n🏆 Premier League — Matchday 26\n🗓 
+ Sat 20 Feb 2027 · 15:00 UTC\n🏟 Anfield\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد هال سيتي — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Liverpool vs Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × هال سيتي | Kick-off in 30 min: Liverpool vs Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795684@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T150000Z
+DTEND:20270227T170000Z
+SUMMARY:Tottenham Hotspur vs Liverpool — Premier League
+LOCATION:Tottenham Hotspur Stadium
+URL:https://www.fotmob.com/match/5795684
+DESCRIPTION:⚽ توتنهام هوتسبر × ليفربول\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 27\n🗓 الس
+ بت 27 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Tottenh
+ am Hotspur Stadium\n—————\n⚽ Tottenham Hotspur v Liverpool\n
+ 🏆 Premier League — Matchday 27\n🗓 Sat 27 Feb 2027 · 15:00 UTC\n
+ 🏟 Tottenham Hotspur Stadium\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توتنهام هوتسبر ضد ليفربول 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Tottenham H
+ otspur vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توتنه
+ ام هوتسبر × ليفربول | Kick-off in 30 min: Tottenham Hotspu
+ r vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795691@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270303T200000Z
+DTEND:20270303T220000Z
+SUMMARY:Liverpool vs Aston Villa — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795691
+DESCRIPTION:⚽ ليفربول × أستون فيلا\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 28\n🗓 الأربعاء
+  3 مارس 2027 · 23:00 بتوقيت الرياض\n🏟 Anfield\n——
+ ———\n⚽ Liverpool v Aston Villa\n🏆 Premier League — Matchday 2
+ 8\n🗓 Wed 03 Mar 2027 · 20:00 UTC\n🏟 Anfield\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد أستون فيلا — ال
+ دوري الإنجليزي الممتاز | Tomorrow: Liverpool vs Aston 
+ Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × أستون فيلا | Kick-off in 30 min: Liverpool vs Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795701@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T150000Z
+DTEND:20270313T170000Z
+SUMMARY:Liverpool vs Ipswich Town — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795701
+DESCRIPTION:⚽ ليفربول × إبسويتش تاون\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 29\n🗓 السبت 
+ 13 مارس 2027 · 18:00 بتوقيت الرياض\n🏟 Anfield\n——
+ ———\n⚽ Liverpool v Ipswich Town\n🏆 Premier League — Matchday 
+ 29\n🗓 Sat 13 Mar 2027 · 15:00 UTC\n🏟 Anfield\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد إبسويتش تاون — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Liverpool vs Ip
+ swich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × إبسويتش تاون | Kick-off in 30 min: Liverpool vs Ipswich
+  Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795709@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T150000Z
+DTEND:20270320T170000Z
+SUMMARY:Fulham vs Liverpool — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795709
+DESCRIPTION:⚽ فولهام × ليفربول\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 30\n🗓 السبت 20 مارس
+  2027 · 18:00 بتوقيت الرياض\n🏟 Craven Cottage\n———
+ ——\n⚽ Fulham v Liverpool\n🏆 Premier League — Matchday 30\n🗓 
+ Sat 20 Mar 2027 · 15:00 UTC\n🏟 Craven Cottage\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد ليفربول — الدوري
+  الإنجليزي الممتاز | Tomorrow: Fulham vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × ليفربول | Kick-off in 30 min: Fulham vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795721@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T140000Z
+DTEND:20270410T160000Z
+SUMMARY:Liverpool vs Newcastle United — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795721
+DESCRIPTION:⚽ ليفربول × نيوكاسل يونايتد\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 31\n🗓 ال
+ سبت 10 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 Anfield
+ \n—————\n⚽ Liverpool v Newcastle United\n🏆 Premier League 
+ — Matchday 31\n🗓 Sat 10 Apr 2027 · 14:00 UTC\n🏟 Anfield\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد نيوكاسل يونايتد
+  — الدوري الإنجليزي الممتاز | Tomorrow: Liverpool 
+ vs Newcastle United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × نيوكاسل يونايتد | Kick-off in 30 min: Liverpool vs N
+ ewcastle United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795734@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T140000Z
+DTEND:20270417T160000Z
+SUMMARY:Nottingham Forest vs Liverpool — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795734
+DESCRIPTION:⚽ نوتنجهام فورست × ليفربول\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 32\n🗓 الس
+ بت 17 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 City Grou
+ nd, Nottingham\n—————\n⚽ Nottingham Forest v Liverpool\n🏆 P
+ remier League — Matchday 32\n🗓 Sat 17 Apr 2027 · 14:00 UTC\n🏟 Cit
+ y Ground, Nottingham\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد ليفربول 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Nottingham 
+ Forest vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × ليفربول | Kick-off in 30 min: Nottingham Fores
+ t vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795740@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T140000Z
+DTEND:20270424T160000Z
+SUMMARY:Leeds United vs Liverpool — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795740
+DESCRIPTION:⚽ ليدز يونايتد × ليفربول\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 33\n🗓 السبت 
+ 24 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 Elland Road\n
+ —————\n⚽ Leeds United v Liverpool\n🏆 Premier League — Mat
+ chday 33\n🗓 Sat 24 Apr 2027 · 14:00 UTC\n🏟 Elland Road\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد ليفربول — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Leeds United vs
+  Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × ليفربول | Kick-off in 30 min: Leeds United vs Liver
+ pool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795752@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T140000Z
+DTEND:20270501T160000Z
+SUMMARY:Liverpool vs Chelsea — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795752
+DESCRIPTION:⚽ ليفربول × تشيلسي\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 34\n🗓 السبت 1 مايو 
+ 2027 · 17:00 بتوقيت الرياض\n🏟 Anfield\n—————\n
+ ⚽ Liverpool v Chelsea\n🏆 Premier League — Matchday 34\n🗓 Sat 01 
+ May 2027 · 14:00 UTC\n🏟 Anfield\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد تشيلسي — الدوري
+  الإنجليزي الممتاز | Tomorrow: Liverpool vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × تشيلسي | Kick-off in 30 min: Liverpool vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795774@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T140000Z
+DTEND:20270508T160000Z
+SUMMARY:Manchester City vs Liverpool — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795774
+DESCRIPTION:⚽ مانشستر سيتي × ليفربول\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 35\n🗓 السبت 
+ 8 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Etihad Stadium\n
+ —————\n⚽ Manchester City v Liverpool\n🏆 Premier League — 
+ Matchday 35\n🗓 Sat 08 May 2027 · 14:00 UTC\n🏟 Etihad Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد ليفربول — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Manchester City
+  vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × ليفربول | Kick-off in 30 min: Manchester City vs L
+ iverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795785@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T140000Z
+DTEND:20270515T160000Z
+SUMMARY:Liverpool vs Brentford — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795785
+DESCRIPTION:⚽ ليفربول × برينتفورد\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 36\n🗓 السبت 15 م
+ ايو 2027 · 17:00 بتوقيت الرياض\n🏟 Anfield\n————
+ —\n⚽ Liverpool v Brentford\n🏆 Premier League — Matchday 36\n🗓 
+ Sat 15 May 2027 · 14:00 UTC\n🏟 Anfield\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد برينتفورد — الد
+ وري الإنجليزي الممتاز | Tomorrow: Liverpool vs Brentfor
+ d
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × برينتفورد | Kick-off in 30 min: Liverpool vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795790@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T140000Z
+DTEND:20270523T160000Z
+SUMMARY:Brighton & Hove Albion vs Liverpool — Premier League
+LOCATION:The American Express Community Stadium
+URL:https://www.fotmob.com/match/5795790
+DESCRIPTION:⚽ برايتون × ليفربول\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 37\n🗓 الأحد 23 ماي
+ و 2027 · 17:00 بتوقيت الرياض\n🏟 The American Express Comm
+ unity Stadium\n—————\n⚽ Brighton & Hove Albion v Liverpool\n
+ 🏆 Premier League — Matchday 37\n🗓 Sun 23 May 2027 · 14:00 UTC\n
+ 🏟 The American Express Community Stadium\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برايتون ضد ليفربول — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Brighton & Hove Albion vs
+  Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برايت
+ ون × ليفربول | Kick-off in 30 min: Brighton & Hove Albion vs Liv
+ erpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795805@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T150000Z
+DTEND:20270530T170000Z
+SUMMARY:Liverpool vs AFC Bournemouth — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795805
+DESCRIPTION:⚽ ليفربول × بورنموث\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 38\n🗓 الأحد 30 ماي
+ و 2027 · 18:00 بتوقيت الرياض\n🏟 Anfield\n—————\
+ n⚽ Liverpool v AFC Bournemouth\n🏆 Premier League — Matchday 38\n
+ 🗓 Sun 30 May 2027 · 15:00 UTC\n🏟 Anfield\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد بورنموث — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Liverpool vs AFC Bournemo
+ uth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × بورنموث | Kick-off in 30 min: Liverpool vs AFC Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106246@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260909T190000Z
+DTEND:20260909T210000Z
+SUMMARY:Liverpool vs Atlético Madrid — UEFA Champions League
+LOCATION:Anfield\, Liverpool\, England
+GEO:53.430828;-2.960853
+URL:https://www.fotmob.com/match/6106246
+DESCRIPTION:⚽ ليفربول × أتلتيكو مدريد\n🏆 دوري 
+ أبطال أوروبا — الجولة 1\n🗓 الأربعاء 9 سبت
+ مبر 2026 · 22:00 بتوقيت الرياض\n🏟 Anfield، Liverpool\n
+ 📺 HBO Max (UK)، Paramount+ (US)، Premier Sports 1 ROI\n————
+ —\n⚽ Liverpool v Atlético Madrid\n🏆 UEFA Champions League — Matc
+ hday 1\n🗓 Wed 09 Sep 2026 · 19:00 UTC\n🏟 Anfield, Liverpool\n📺 H
+ BO Max (UK), Paramount+ (US), Premier Sports 1 ROI\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد أتلتيكو مدريد —
+  دوري أبطال أوروبا — 📺 HBO Max (UK)، Paramount+ (US)
+ ، Premier Sports 1 ROI | Tomorrow: Liverpool vs Atlético Madrid | TV: HB
+ O Max (UK)\, Paramount+ (US)\, Premier Sports 1 ROI
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × أتلتيكو مدريد — 📺 HBO Max (UK)، Paramount+ (US)
+ ، Premier Sports 1 ROI | Kick-off in 30 min: Liverpool vs Atlético Madri
+ d | TV: HBO Max (UK)\, Paramount+ (US)\, Premier Sports 1 ROI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106405@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261014T164500Z
+DTEND:20261014T184500Z
+SUMMARY:LASK vs Liverpool — UEFA Champions League
+LOCATION:Raiffeisen Arena\, Linz\, Austria
+GEO:48.293703;14.276587
+URL:https://www.fotmob.com/match/6106405
+DESCRIPTION:⚽ LASK × ليفربول\n🏆 دوري أبطال أوروب
+ ا — الجولة 2\n🗓 الأربعاء 14 أكتوبر 2026 · 19:45
+  بتوقيت الرياض\n🏟 Raiffeisen Arena، Linz\n—————\
+ n⚽ LASK v Liverpool\n🏆 UEFA Champions League — Matchday 2\n🗓 Wed
+  14 Oct 2026 · 16:45 UTC\n🏟 Raiffeisen Arena, Linz\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: LASK ضد ليفربول — دوري أبطال 
+ أوروبا | Tomorrow: LASK vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: LASK × ل
+ يفربول | Kick-off in 30 min: LASK vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106248@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:Liverpool vs Villarreal — UEFA Champions League
+LOCATION:Anfield\, Liverpool\, England
+GEO:53.430828;-2.960853
+URL:https://www.fotmob.com/match/6106248
+DESCRIPTION:⚽ ليفربول × فياريال\n🏆 دوري أبطال 
+ أوروبا — الجولة 3\n🗓 الثلاثاء 20 أكتوبر 202
+ 6 · 22:00 بتوقيت الرياض\n🏟 Anfield، Liverpool\n———
+ ——\n⚽ Liverpool v Villarreal\n🏆 UEFA Champions League — Matchda
+ y 3\n🗓 Tue 20 Oct 2026 · 19:00 UTC\n🏟 Anfield, Liverpool\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد فياريال — دوري 
+ أبطال أوروبا | Tomorrow: Liverpool vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × فياريال | Kick-off in 30 min: Liverpool vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106330@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261104T174500Z
+DTEND:20261104T194500Z
+SUMMARY:Fenerbahçe vs Liverpool — UEFA Champions League
+LOCATION:Chobani Stadyumu Fenerbahce Sukru Saracoglu Spor Kompleksi
+URL:https://www.fotmob.com/match/6106330
+DESCRIPTION:⚽ فنربخشة × ليفربول\n🏆 دوري أبطال 
+ أوروبا — الجولة 4\n🗓 الأربعاء 4 نوفمبر 2026
+  · 20:45 بتوقيت الرياض\n🏟 Chobani Stadyumu Fenerbahce Sukr
+ u Saracoglu Spor Kompleksi\n—————\n⚽ Fenerbahçe v Liverpool\n
+ 🏆 UEFA Champions League — Matchday 4\n🗓 Wed 04 Nov 2026 · 17:45 U
+ TC\n🏟 Chobani Stadyumu Fenerbahce Sukru Saracoglu Spor Kompleksi\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فنربخشة ضد ليفربول — دوري 
+ أبطال أوروبا | Tomorrow: Fenerbahçe vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فنربخ
+ شة × ليفربول | Kick-off in 30 min: Fenerbahçe vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106294@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Club Brugge vs Liverpool — UEFA Champions League
+LOCATION:Jan Breydel Stadion
+URL:https://www.fotmob.com/match/6106294
+DESCRIPTION:⚽ كلوب بروج × ليفربول\n🏆 دوري أبطا
+ ل أوروبا — الجولة 5\n🗓 الأربعاء 25 نوفمبر 
+ 2026 · 23:00 بتوقيت الرياض\n🏟 Jan Breydel Stadion\n——
+ ———\n⚽ Club Brugge v Liverpool\n🏆 UEFA Champions League — Mat
+ chday 5\n🗓 Wed 25 Nov 2026 · 20:00 UTC\n🏟 Jan Breydel Stadion\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كلوب بروج ضد ليفربول — دور
+ ي أبطال أوروبا | Tomorrow: Club Brugge vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كلوب ب
+ روج × ليفربول | Kick-off in 30 min: Club Brugge vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106247@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:Liverpool vs FC Porto — UEFA Champions League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/6106247
+DESCRIPTION:⚽ ليفربول × بورتو\n🏆 دوري أبطال أو
+ روبا — الجولة 6\n🗓 الأربعاء 9 ديسمبر 2026 · 
+ 23:00 بتوقيت الرياض\n🏟 Anfield\n—————\n⚽ Liverp
+ ool v FC Porto\n🏆 UEFA Champions League — Matchday 6\n🗓 Wed 09 Dec
+  2026 · 20:00 UTC\n🏟 Anfield\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد بورتو — دوري أب
+ طال أوروبا | Tomorrow: Liverpool vs FC Porto
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × بورتو | Kick-off in 30 min: Liverpool vs FC Porto
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106250@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+SUMMARY:Inter vs Liverpool — UEFA Champions League
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/6106250
+DESCRIPTION:⚽ إنتر ميلان × ليفربول\n🏆 دوري أبط
+ ال أوروبا — الجولة 7\n🗓 الثلاثاء 19 يناير 
+ 2027 · 23:00 بتوقيت الرياض\n🏟 Giuseppe Meazza\n———
+ ——\n⚽ Inter v Liverpool\n🏆 UEFA Champions League — Matchday 7\n
+ 🗓 Tue 19 Jan 2027 · 20:00 UTC\n🏟 Giuseppe Meazza\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد ليفربول — دو
+ ري أبطال أوروبا | Tomorrow: Inter vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × ليفربول | Kick-off in 30 min: Inter vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106249@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Liverpool vs Lens — UEFA Champions League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/6106249
+DESCRIPTION:⚽ ليفربول × لانس\n🏆 دوري أبطال أور
+ وبا — الجولة 8\n🗓 الأربعاء 27 يناير 2027 · 23:
+ 00 بتوقيت الرياض\n🏟 Anfield\n—————\n⚽ Liverpool
+  v Lens\n🏆 UEFA Champions League — Matchday 8\n🗓 Wed 27 Jan 2027 
+ · 20:00 UTC\n🏟 Anfield\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد لانس — دوري أبط
+ ال أوروبا | Tomorrow: Liverpool vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × لانس | Kick-off in 30 min: Liverpool vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089906@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260112T194500Z
+DTEND:20260112T214500Z
+SUMMARY:Liverpool vs Barnsley (4 - 1) — FA Cup
+LOCATION:Anfield\, Liverpool\, England
+GEO:53.430828;-2.960853
+URL:https://www.fotmob.com/match/5089906
+DESCRIPTION:⚽ ليفربول × Barnsley (4 - 1)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الثالث\n🗓 الاثنين 1
+ 2 يناير 2026 · 22:45 بتوقيت الرياض\n🏟 Anfield، Liver
+ pool\n⚖️ الحكم: Farai Hallam\n👥 الحضور: 60,206\n——
+ ———\n⚽ Liverpool v Barnsley (4 - 1)\n🏆 FA Cup — Round 3\n🗓
+  Mon 12 Jan 2026 · 19:45 UTC\n🏟 Anfield, Liverpool\nReferee: Farai Hal
+ lam\nAttendance: 60,206\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد Barnsley — كأس الات
+ حاد الإنجليزي | Tomorrow: Liverpool vs Barnsley
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × Barnsley | Kick-off in 30 min: Liverpool vs Barnsley
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135162@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260214T200000Z
+DTEND:20260214T220000Z
+SUMMARY:Liverpool vs Brighton & Hove Albion (3 - 0) — FA Cup
+LOCATION:Anfield\, Liverpool\, England
+GEO:53.430828;-2.960853
+URL:https://www.fotmob.com/match/5135162
+DESCRIPTION:⚽ ليفربول × برايتون (3 - 0)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الرابع\n🗓 السبت
+  14 فبراير 2026 · 23:00 بتوقيت الرياض\n🏟 Anfield، L
+ iverpool\n⚖️ الحكم: Stuart Attwell\n👥 الحضور: 60,227\n
+ —————\n⚽ Liverpool v Brighton & Hove Albion (3 - 0)\n🏆 FA C
+ up — Round 4\n🗓 Sat 14 Feb 2026 · 20:00 UTC\n🏟 Anfield, Liverpool
+ \nReferee: Stuart Attwell\nAttendance: 60,227\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد برايتون — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Liverpool vs Brighton & Hove A
+ lbion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × برايتون | Kick-off in 30 min: Liverpool vs Brighton & Hove 
+ Albion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5186383@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260306T200000Z
+DTEND:20260306T220000Z
+SUMMARY:Wolverhampton Wanderers vs Liverpool (1 - 3) — FA Cup
+LOCATION:Molineux Stadium\, Wolverhampton\, West Midlands\, England
+GEO:52.590238;-2.130433
+URL:https://www.fotmob.com/match/5186383
+DESCRIPTION:⚽ وولفرهامبتون × ليفربول (1 - 3)\n🏆 ك
+ أس الاتحاد الإنجليزي — الدور الخامس\n🗓 
+ الجمعة 6 مارس 2026 · 23:00 بتوقيت الرياض\n🏟 Moli
+ neux Stadium، Wolverhampton, West Midlands\n⚖️ الحكم: Farai Hall
+ am\n👥 الحضور: 29,881\n—————\n⚽ Wolverhampton Wanderer
+ s v Liverpool (1 - 3)\n🏆 FA Cup — Round 5\n🗓 Fri 06 Mar 2026 · 20
+ :00 UTC\n🏟 Molineux Stadium, Wolverhampton, West Midlands\nReferee: Far
+ ai Hallam\nAttendance: 29,881\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وولفرهامبتون ضد ليفربول — 
+ كأس الاتحاد الإنجليزي | Tomorrow: Wolverhampton Wandere
+ rs vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وولفر
+ هامبتون × ليفربول | Kick-off in 30 min: Wolverhampton Wande
+ rers vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5231047@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260404T114500Z
+DTEND:20260404T134500Z
+SUMMARY:Manchester City vs Liverpool (4 - 0) — FA Cup
+LOCATION:Etihad Stadium\, Manchester\, England
+GEO:53.483152;-2.200409
+URL:https://www.fotmob.com/match/5231047
+DESCRIPTION:⚽ مانشستر سيتي × ليفربول (4 - 0)\n🏆 ك
+ أس الاتحاد الإنجليزي — ربع النهائي\n🗓 ا
+ لسبت 4 أبريل 2026 · 14:45 بتوقيت الرياض\n🏟 Etihad
+  Stadium، Manchester\n⚖️ الحكم: Michael Oliver\n👥 الحضو
+ ر: 50,754\n—————\n⚽ Manchester City v Liverpool (4 - 0)\n🏆
+  FA Cup — Quarter-Finals\n🗓 Sat 04 Apr 2026 · 11:45 UTC\n🏟 Etihad
+  Stadium, Manchester\nReferee: Michael Oliver\nAttendance: 50,754\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد ليفربول — 
+ كأس الاتحاد الإنجليزي | Tomorrow: Manchester City vs Li
+ verpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × ليفربول | Kick-off in 30 min: Manchester City vs L
+ iverpool
+END:VALARM
+END:VEVENT
+END:VCALENDAR

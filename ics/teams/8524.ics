@@ -1,0 +1,1203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Atalanta — Serie A & Coppa Italia Fixtures | أتالا
+ نتا — مباريات الدوري الإيطالي وكأس إيطا
+ ليا
+X-WR-CALDESC:Atalanta — all matches in Serie A & Coppa Italia\, exact UTC
+  kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-0
+ 9-05T19:31:10Z.  •  أتالانتا — جميع المباريات ف
+ ي الدوري الإيطالي وكأس إيطاليا بتوقيت UTC 
+ الدقيق مع الملاعب والقنوات الناقلة. المص
+ در: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5749641@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260823T184500Z
+DTEND:20260823T204500Z
+SUMMARY:Atalanta vs Sassuolo (2 - 1) — Serie A
+LOCATION:New Balance Arena\, Bergamo\, Italy
+GEO:45.709236;9.680693
+URL:https://www.fotmob.com/match/5749641
+DESCRIPTION:⚽ أتالانتا × ساسولو (2 - 1)\n🏆 الدوري
+  الإيطالي — الجولة 1\n🗓 الأحد 23 أغسطس 2026 
+ · 21:45 بتوقيت الرياض\n🏟 New Balance Arena، Bergamo\n⚖
+ ️ الحكم: Valerio Crezzini\n👥 الحضور: 20,828\n————
+ —\n⚽ Atalanta v Sassuolo (2 - 1)\n🏆 Serie A — Matchday 1\n🗓 Su
+ n 23 Aug 2026 · 18:45 UTC\n🏟 New Balance Arena, Bergamo\nReferee: Vale
+ rio Crezzini\nAttendance: 20,828\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد ساسولو — الدور
+ ي الإيطالي | Tomorrow: Atalanta vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × ساسولو | Kick-off in 30 min: Atalanta vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749651@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260831T184500Z
+DTEND:20260831T204500Z
+SUMMARY:Atalanta vs Bologna (1 - 0) — Serie A
+LOCATION:New Balance Arena\, Bergamo\, Italy
+GEO:45.709236;9.680693
+URL:https://www.fotmob.com/match/5749651
+DESCRIPTION:⚽ أتالانتا × بولونيا (1 - 0)\n🏆 الدور
+ ي الإيطالي — الجولة 2\n🗓 الاثنين 31 أغسطس 
+ 2026 · 21:45 بتوقيت الرياض\n🏟 New Balance Arena، Bergamo\
+ n⚖️ الحكم: Daniele Doveri\n—————\n⚽ Atalanta v Bologn
+ a (1 - 0)\n🏆 Serie A — Matchday 2\n🗓 Mon 31 Aug 2026 · 18:45 UTC\
+ n🏟 New Balance Arena, Bergamo\nReferee: Daniele Doveri\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد بولونيا — الدو
+ ري الإيطالي | Tomorrow: Atalanta vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × بولونيا | Kick-off in 30 min: Atalanta vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749660@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T184500Z
+DTEND:20260905T204500Z
+SUMMARY:Roma vs Atalanta — Serie A
+LOCATION:Stadio Olimpico\, Roma\, Italy
+GEO:41.933948;12.454757
+URL:https://www.fotmob.com/match/5749660
+DESCRIPTION:⚽ روما × أتالانتا\n🏆 الدوري الإيط
+ الي — الجولة 3\n🗓 السبت 5 سبتمبر 2026 · 21:45 ب
+ توقيت الرياض\n🏟 Stadio Olimpico، Roma\n📺 Starzplay\n—
+ ————\n⚽ Roma v Atalanta\n🏆 Serie A — Matchday 3\n🗓 Sat 0
+ 5 Sep 2026 · 18:45 UTC\n🏟 Stadio Olimpico, Roma\n📺 Starzplay\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد أتالانتا — الدوري 
+ الإيطالي — 📺 Starzplay | Tomorrow: Roma vs Atalanta | TV: Sta
+ rzplay
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  أتالانتا — 📺 Starzplay | Kick-off in 30 min: Roma vs Atalant
+ a | TV: Starzplay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749670@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T184500Z
+DTEND:20260912T204500Z
+SUMMARY:Atalanta vs Cagliari — Serie A
+LOCATION:New Balance Arena\, Bergamo\, Italy
+GEO:45.709236;9.680693
+URL:https://www.fotmob.com/match/5749670
+DESCRIPTION:⚽ أتالانتا × كالياري\n🏆 الدوري ال
+ إيطالي — الجولة 4\n🗓 السبت 12 سبتمبر 2026 · 2
+ 1:45 بتوقيت الرياض\n🏟 New Balance Arena، Bergamo\n📺 DAZ
+ N UK، Peacock (Español)\n—————\n⚽ Atalanta v Cagliari\n🏆 
+ Serie A — Matchday 4\n🗓 Sat 12 Sep 2026 · 18:45 UTC\n🏟 New Balanc
+ e Arena, Bergamo\n📺 DAZN UK, Peacock (Español)\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد كالياري — الدو
+ ري الإيطالي — 📺 DAZN UK، Peacock (Español) | Tomorrow: At
+ alanta vs Cagliari | TV: DAZN UK\, Peacock (Español)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × كالياري — 📺 DAZN UK، Peacock (Español) | Kick-off 
+ in 30 min: Atalanta vs Cagliari | TV: DAZN UK\, Peacock (Español)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749685@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T160000Z
+DTEND:20260920T180000Z
+SUMMARY:Juventus vs Atalanta — Serie A
+LOCATION:Allianz Stadium\, Torino\, Italy
+GEO:45.109527;7.641302
+URL:https://www.fotmob.com/match/5749685
+DESCRIPTION:⚽ يوفنتوس × أتالانتا\n🏆 الدوري ال
+ إيطالي — الجولة 5\n🗓 الأحد 20 سبتمبر 2026 · 1
+ 9:00 بتوقيت الرياض\n🏟 Allianz Stadium، Torino\n———
+ ——\n⚽ Juventus v Atalanta\n🏆 Serie A — Matchday 5\n🗓 Sun 20 
+ Sep 2026 · 16:00 UTC\n🏟 Allianz Stadium, Torino\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد أتالانتا — الدو
+ ري الإيطالي | Tomorrow: Juventus vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × أتالانتا | Kick-off in 30 min: Juventus vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749690@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261012T163000Z
+DTEND:20261012T183000Z
+SUMMARY:Atalanta vs Venezia — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749690
+DESCRIPTION:⚽ أتالانتا × فينيزيا\n🏆 الدوري ال
+ إيطالي — الجولة 6\n🗓 الاثنين 12 أكتوبر 2026 
+ · 19:30 بتوقيت الرياض\n🏟 New Balance Arena\n————
+ —\n⚽ Atalanta v Venezia\n🏆 Serie A — Matchday 6\n🗓 Mon 12 Oct 
+ 2026 · 16:30 UTC\n🏟 New Balance Arena\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد فينيزيا — الدو
+ ري الإيطالي | Tomorrow: Atalanta vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × فينيزيا | Kick-off in 30 min: Atalanta vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749700@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T160000Z
+DTEND:20261018T180000Z
+SUMMARY:Milan vs Atalanta — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749700
+DESCRIPTION:⚽ ميلان × أتالانتا\n🏆 الدوري الإي
+ طالي — الجولة 7\n🗓 الأحد 18 أكتوبر 2026 · 19:00
+  بتوقيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v At
+ alanta\n🏆 Serie A — Matchday 7\n🗓 Sun 18 Oct 2026 · 16:00 UTC\n
+ 🏟 San Siro\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد أتالانتا — الدوري
+  الإيطالي | Tomorrow: Milan vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × أتالانتا | Kick-off in 30 min: Milan vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749710@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Atalanta vs Frosinone — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749710
+DESCRIPTION:⚽ أتالانتا × فروزينوني\n🏆 الدوري 
+ الإيطالي — الجولة 8\n🗓 الأحد 25 أكتوبر 2026 
+ · 17:00 بتوقيت الرياض\n🏟 New Balance Arena\n————
+ —\n⚽ Atalanta v Frosinone\n🏆 Serie A — Matchday 8\n🗓 Sun 25 Oc
+ t 2026 · 14:00 UTC\n🏟 New Balance Arena\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد فروزينوني — ال
+ دوري الإيطالي | Tomorrow: Atalanta vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × فروزينوني | Kick-off in 30 min: Atalanta vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749722@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261029T194500Z
+DTEND:20261029T214500Z
+SUMMARY:Fiorentina vs Atalanta — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749722
+DESCRIPTION:⚽ فيورنتينا × أتالانتا\n🏆 الدوري 
+ الإيطالي — الجولة 9\n🗓 الخميس 29 أكتوبر 202
+ 6 · 22:45 بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n—
+ ————\n⚽ Fiorentina v Atalanta\n🏆 Serie A — Matchday 9\n🗓
+  Thu 29 Oct 2026 · 19:45 UTC\n🏟 Artemio Franchi, Firenze\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد أتالانتا — ال
+ دوري الإيطالي | Tomorrow: Fiorentina vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × أتالانتا | Kick-off in 30 min: Fiorentina vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749731@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261102T194500Z
+DTEND:20261102T214500Z
+SUMMARY:Atalanta vs Parma — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749731
+DESCRIPTION:⚽ أتالانتا × بارما\n🏆 الدوري الإي
+ طالي — الجولة 10\n🗓 الاثنين 2 نوفمبر 2026 · 2
+ 2:45 بتوقيت الرياض\n🏟 New Balance Arena\n—————\n
+ ⚽ Atalanta v Parma\n🏆 Serie A — Matchday 10\n🗓 Mon 02 Nov 2026 
+ · 19:45 UTC\n🏟 New Balance Arena\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد بارما — الدوري
+  الإيطالي | Tomorrow: Atalanta vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × بارما | Kick-off in 30 min: Atalanta vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749745@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Monza vs Atalanta — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749745
+DESCRIPTION:⚽ مونزا × أتالانتا\n🏆 الدوري الإي
+ طالي — الجولة 11\n🗓 الأحد 8 نوفمبر 2026 · 17:00
+  بتوقيت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Mon
+ za v Atalanta\n🏆 Serie A — Matchday 11\n🗓 Sun 08 Nov 2026 · 14:00
+  UTC\n🏟 Stadio Brianteo\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد أتالانتا — الدوري
+  الإيطالي | Tomorrow: Monza vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × أتالانتا | Kick-off in 30 min: Monza vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749751@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T194500Z
+DTEND:20261122T214500Z
+SUMMARY:Atalanta vs Inter — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749751
+DESCRIPTION:⚽ أتالانتا × إنتر ميلان\n🏆 الدوري 
+ الإيطالي — الجولة 12\n🗓 الأحد 22 نوفمبر 2026
+  · 22:45 بتوقيت الرياض\n🏟 New Balance Arena\n————
+ —\n⚽ Atalanta v Inter\n🏆 Serie A — Matchday 12\n🗓 Sun 22 Nov 2
+ 026 · 19:45 UTC\n🏟 New Balance Arena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد إنتر ميلان — ا
+ لدوري الإيطالي | Tomorrow: Atalanta vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × إنتر ميلان | Kick-off in 30 min: Atalanta vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749765@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T173000Z
+DTEND:20261129T193000Z
+SUMMARY:Lecce vs Atalanta — Serie A
+LOCATION:Stadio Ettore Giardiniero - Via del Mare
+URL:https://www.fotmob.com/match/5749765
+DESCRIPTION:⚽ ليتشي × أتالانتا\n🏆 الدوري الإي
+ طالي — الجولة 13\n🗓 الأحد 29 نوفمبر 2026 · 20:3
+ 0 بتوقيت الرياض\n🏟 Stadio Ettore Giardiniero - Via del Mare
+ \n—————\n⚽ Lecce v Atalanta\n🏆 Serie A — Matchday 13\n
+ 🗓 Sun 29 Nov 2026 · 17:30 UTC\n🏟 Stadio Ettore Giardiniero - Via de
+ l Mare\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليتشي ضد أتالانتا — الدوري
+  الإيطالي | Tomorrow: Lecce vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليتشي 
+ × أتالانتا | Kick-off in 30 min: Lecce vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749776@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T173000Z
+DTEND:20261206T193000Z
+SUMMARY:Lazio vs Atalanta — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749776
+DESCRIPTION:⚽ لاتسيو × أتالانتا\n🏆 الدوري الإ
+ يطالي — الجولة 14\n🗓 الأحد 6 ديسمبر 2026 · 20:
+ 30 بتوقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\
+ n⚽ Lazio v Atalanta\n🏆 Serie A — Matchday 14\n🗓 Sun 06 Dec 2026 
+ · 17:30 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد أتالانتا — الدور
+ ي الإيطالي | Tomorrow: Lazio vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × أتالانتا | Kick-off in 30 min: Lazio vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749780@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T173000Z
+DTEND:20261213T193000Z
+SUMMARY:Atalanta vs Genoa — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749780
+DESCRIPTION:⚽ أتالانتا × جنوى\n🏆 الدوري الإيط
+ الي — الجولة 15\n🗓 الأحد 13 ديسمبر 2026 · 20:30 
+ بتوقيت الرياض\n🏟 New Balance Arena\n—————\n⚽ At
+ alanta v Genoa\n🏆 Serie A — Matchday 15\n🗓 Sun 13 Dec 2026 · 17:3
+ 0 UTC\n🏟 New Balance Arena\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد جنوى — الدوري 
+ الإيطالي | Tomorrow: Atalanta vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × جنوى | Kick-off in 30 min: Atalanta vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749792@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T173000Z
+DTEND:20261220T193000Z
+SUMMARY:Atalanta vs Napoli — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749792
+DESCRIPTION:⚽ أتالانتا × نابولي\n🏆 الدوري الإ
+ يطالي — الجولة 16\n🗓 الأحد 20 ديسمبر 2026 · 20
+ :30 بتوقيت الرياض\n🏟 New Balance Arena\n—————\n
+ ⚽ Atalanta v Napoli\n🏆 Serie A — Matchday 16\n🗓 Sun 20 Dec 2026 
+ · 17:30 UTC\n🏟 New Balance Arena\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد نابولي — الدور
+ ي الإيطالي | Tomorrow: Atalanta vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × نابولي | Kick-off in 30 min: Atalanta vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749809@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T173000Z
+DTEND:20270103T193000Z
+SUMMARY:Udinese vs Atalanta — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749809
+DESCRIPTION:⚽ أودينيزي × أتالانتا\n🏆 الدوري ا
+ لإيطالي — الجولة 17\n🗓 الأحد 3 يناير 2027 · 2
+ 0:30 بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n
+ —————\n⚽ Udinese v Atalanta\n🏆 Serie A — Matchday 17\n
+ 🗓 Sun 03 Jan 2027 · 17:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد أتالانتا — الد
+ وري الإيطالي | Tomorrow: Udinese vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × أتالانتا | Kick-off in 30 min: Udinese vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749811@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T173000Z
+DTEND:20270106T193000Z
+SUMMARY:Atalanta vs Como — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749811
+DESCRIPTION:⚽ أتالانتا × كومو\n🏆 الدوري الإيط
+ الي — الجولة 18\n🗓 الأربعاء 6 يناير 2027 · 20:
+ 30 بتوقيت الرياض\n🏟 New Balance Arena\n—————\n⚽
+  Atalanta v Como\n🏆 Serie A — Matchday 18\n🗓 Wed 06 Jan 2027 · 17
+ :30 UTC\n🏟 New Balance Arena\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد كومو — الدوري 
+ الإيطالي | Tomorrow: Atalanta vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × كومو | Kick-off in 30 min: Atalanta vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749828@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T173000Z
+DTEND:20270110T193000Z
+SUMMARY:Torino vs Atalanta — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749828
+DESCRIPTION:⚽ تورينو × أتالانتا\n🏆 الدوري الإ
+ يطالي — الجولة 19\n🗓 الأحد 10 يناير 2027 · 20:3
+ 0 بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n———
+ ——\n⚽ Torino v Atalanta\n🏆 Serie A — Matchday 19\n🗓 Sun 10 J
+ an 2027 · 17:30 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد أتالانتا — الدور
+ ي الإيطالي | Tomorrow: Torino vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × أتالانتا | Kick-off in 30 min: Torino vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749831@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T173000Z
+DTEND:20270117T193000Z
+SUMMARY:Atalanta vs Roma — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749831
+DESCRIPTION:⚽ أتالانتا × روما\n🏆 الدوري الإيط
+ الي — الجولة 20\n🗓 الأحد 17 يناير 2027 · 20:30 ب
+ توقيت الرياض\n🏟 New Balance Arena\n—————\n⚽ Atal
+ anta v Roma\n🏆 Serie A — Matchday 20\n🗓 Sun 17 Jan 2027 · 17:30 U
+ TC\n🏟 New Balance Arena\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد روما — الدوري 
+ الإيطالي | Tomorrow: Atalanta vs Roma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × روما | Kick-off in 30 min: Atalanta vs Roma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749841@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T173000Z
+DTEND:20270124T193000Z
+SUMMARY:Bologna vs Atalanta — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749841
+DESCRIPTION:⚽ بولونيا × أتالانتا\n🏆 الدوري ال
+ إيطالي — الجولة 21\n🗓 الأحد 24 يناير 2027 · 20
+ :30 بتوقيت الرياض\n🏟 Stadio Renato Dell'Ara\n————
+ —\n⚽ Bologna v Atalanta\n🏆 Serie A — Matchday 21\n🗓 Sun 24 Jan
+  2027 · 17:30 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد أتالانتا — الدو
+ ري الإيطالي | Tomorrow: Bologna vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × أتالانتا | Kick-off in 30 min: Bologna vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749851@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T173000Z
+DTEND:20270131T193000Z
+SUMMARY:Atalanta vs Fiorentina — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749851
+DESCRIPTION:⚽ أتالانتا × فيورنتينا\n🏆 الدوري 
+ الإيطالي — الجولة 22\n🗓 الأحد 31 يناير 2027 
+ · 20:30 بتوقيت الرياض\n🏟 New Balance Arena\n————
+ —\n⚽ Atalanta v Fiorentina\n🏆 Serie A — Matchday 22\n🗓 Sun 31 
+ Jan 2027 · 17:30 UTC\n🏟 New Balance Arena\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد فيورنتينا — ال
+ دوري الإيطالي | Tomorrow: Atalanta vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × فيورنتينا | Kick-off in 30 min: Atalanta vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749861@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T173000Z
+DTEND:20270207T193000Z
+SUMMARY:Atalanta vs Lazio — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749861
+DESCRIPTION:⚽ أتالانتا × لاتسيو\n🏆 الدوري الإ
+ يطالي — الجولة 23\n🗓 الأحد 7 فبراير 2027 · 20:
+ 30 بتوقيت الرياض\n🏟 New Balance Arena\n—————\n⚽
+  Atalanta v Lazio\n🏆 Serie A — Matchday 23\n🗓 Sun 07 Feb 2027 · 1
+ 7:30 UTC\n🏟 New Balance Arena\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد لاتسيو — الدور
+ ي الإيطالي | Tomorrow: Atalanta vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × لاتسيو | Kick-off in 30 min: Atalanta vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749874@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T173000Z
+DTEND:20270214T193000Z
+SUMMARY:Genoa vs Atalanta — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749874
+DESCRIPTION:⚽ جنوى × أتالانتا\n🏆 الدوري الإيط
+ الي — الجولة 24\n🗓 الأحد 14 فبراير 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n
+ ⚽ Genoa v Atalanta\n🏆 Serie A — Matchday 24\n🗓 Sun 14 Feb 2027 
+ · 17:30 UTC\n🏟 Stadio Luigi Ferraris\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد أتالانتا — الدوري 
+ الإيطالي | Tomorrow: Genoa vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  أتالانتا | Kick-off in 30 min: Genoa vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749881@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T173000Z
+DTEND:20270221T193000Z
+SUMMARY:Atalanta vs Monza — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749881
+DESCRIPTION:⚽ أتالانتا × مونزا\n🏆 الدوري الإي
+ طالي — الجولة 25\n🗓 الأحد 21 فبراير 2027 · 20:3
+ 0 بتوقيت الرياض\n🏟 New Balance Arena\n—————\n⚽ 
+ Atalanta v Monza\n🏆 Serie A — Matchday 25\n🗓 Sun 21 Feb 2027 · 17
+ :30 UTC\n🏟 New Balance Arena\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد مونزا — الدوري
+  الإيطالي | Tomorrow: Atalanta vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × مونزا | Kick-off in 30 min: Atalanta vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749896@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T173000Z
+DTEND:20270228T193000Z
+SUMMARY:Inter vs Atalanta — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749896
+DESCRIPTION:⚽ إنتر ميلان × أتالانتا\n🏆 الدوري 
+ الإيطالي — الجولة 26\n🗓 الأحد 28 فبراير 2027
+  · 20:30 بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————
+ \n⚽ Inter v Atalanta\n🏆 Serie A — Matchday 26\n🗓 Sun 28 Feb 2027
+  · 17:30 UTC\n🏟 Giuseppe Meazza\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد أتالانتا — ا
+ لدوري الإيطالي | Tomorrow: Inter vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × أتالانتا | Kick-off in 30 min: Inter vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749901@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T173000Z
+DTEND:20270307T193000Z
+SUMMARY:Atalanta vs Torino — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749901
+DESCRIPTION:⚽ أتالانتا × تورينو\n🏆 الدوري الإ
+ يطالي — الجولة 27\n🗓 الأحد 7 مارس 2027 · 20:30 
+ بتوقيت الرياض\n🏟 New Balance Arena\n—————\n⚽ At
+ alanta v Torino\n🏆 Serie A — Matchday 27\n🗓 Sun 07 Mar 2027 · 17:
+ 30 UTC\n🏟 New Balance Arena\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد تورينو — الدور
+ ي الإيطالي | Tomorrow: Atalanta vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × تورينو | Kick-off in 30 min: Atalanta vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749919@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T173000Z
+DTEND:20270314T193000Z
+SUMMARY:Venezia vs Atalanta — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749919
+DESCRIPTION:⚽ فينيزيا × أتالانتا\n🏆 الدوري ال
+ إيطالي — الجولة 28\n🗓 الأحد 14 مارس 2027 · 20:3
+ 0 بتوقيت الرياض\n🏟 Stadio Pierluigi Penzo\n—————\
+ n⚽ Venezia v Atalanta\n🏆 Serie A — Matchday 28\n🗓 Sun 14 Mar 202
+ 7 · 17:30 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد أتالانتا — الدو
+ ري الإيطالي | Tomorrow: Venezia vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × أتالانتا | Kick-off in 30 min: Venezia vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749921@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T173000Z
+DTEND:20270321T193000Z
+SUMMARY:Atalanta vs Milan — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749921
+DESCRIPTION:⚽ أتالانتا × ميلان\n🏆 الدوري الإي
+ طالي — الجولة 29\n🗓 الأحد 21 مارس 2027 · 20:30 ب
+ توقيت الرياض\n🏟 New Balance Arena\n—————\n⚽ Atal
+ anta v Milan\n🏆 Serie A — Matchday 29\n🗓 Sun 21 Mar 2027 · 17:30 
+ UTC\n🏟 New Balance Arena\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد ميلان — الدوري
+  الإيطالي | Tomorrow: Atalanta vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × ميلان | Kick-off in 30 min: Atalanta vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749937@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T163000Z
+DTEND:20270404T183000Z
+SUMMARY:Sassuolo vs Atalanta — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749937
+DESCRIPTION:⚽ ساسولو × أتالانتا\n🏆 الدوري الإ
+ يطالي — الجولة 30\n🗓 الأحد 4 أبريل 2027 · 19:30
+  بتوقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n—
+ ————\n⚽ Sassuolo v Atalanta\n🏆 Serie A — Matchday 30\n🗓 
+ Sun 04 Apr 2027 · 16:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد أتالانتا — الدور
+ ي الإيطالي | Tomorrow: Sassuolo vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × أتالانتا | Kick-off in 30 min: Sassuolo vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749941@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T163000Z
+DTEND:20270411T183000Z
+SUMMARY:Cagliari vs Atalanta — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749941
+DESCRIPTION:⚽ كالياري × أتالانتا\n🏆 الدوري ال
+ إيطالي — الجولة 31\n🗓 الأحد 11 أبريل 2027 · 19
+ :30 بتوقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cag
+ liari v Atalanta\n🏆 Serie A — Matchday 31\n🗓 Sun 11 Apr 2027 · 16
+ :30 UTC\n🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد أتالانتا — الدو
+ ري الإيطالي | Tomorrow: Cagliari vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × أتالانتا | Kick-off in 30 min: Cagliari vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749952@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T163000Z
+DTEND:20270418T183000Z
+SUMMARY:Atalanta vs Udinese — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749952
+DESCRIPTION:⚽ أتالانتا × أودينيزي\n🏆 الدوري ا
+ لإيطالي — الجولة 32\n🗓 الأحد 18 أبريل 2027 · 
+ 19:30 بتوقيت الرياض\n🏟 New Balance Arena\n—————\n
+ ⚽ Atalanta v Udinese\n🏆 Serie A — Matchday 32\n🗓 Sun 18 Apr 2027
+  · 16:30 UTC\n🏟 New Balance Arena\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد أودينيزي — الد
+ وري الإيطالي | Tomorrow: Atalanta vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × أودينيزي | Kick-off in 30 min: Atalanta vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749968@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270425T163000Z
+DTEND:20270425T183000Z
+SUMMARY:Parma vs Atalanta — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749968
+DESCRIPTION:⚽ بارما × أتالانتا\n🏆 الدوري الإي
+ طالي — الجولة 33\n🗓 الأحد 25 أبريل 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Stadio Ennio Tardini\n—————\n⚽
+  Parma v Atalanta\n🏆 Serie A — Matchday 33\n🗓 Sun 25 Apr 2027 · 1
+ 6:30 UTC\n🏟 Stadio Ennio Tardini\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد أتالانتا — الدوري
+  الإيطالي | Tomorrow: Parma vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × أتالانتا | Kick-off in 30 min: Parma vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749972@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T163000Z
+DTEND:20270502T183000Z
+SUMMARY:Atalanta vs Juventus — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749972
+DESCRIPTION:⚽ أتالانتا × يوفنتوس\n🏆 الدوري ال
+ إيطالي — الجولة 34\n🗓 الأحد 2 مايو 2027 · 19:30
+  بتوقيت الرياض\n🏟 New Balance Arena\n—————\n⚽ A
+ talanta v Juventus\n🏆 Serie A — Matchday 34\n🗓 Sun 02 May 2027 · 
+ 16:30 UTC\n🏟 New Balance Arena\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد يوفنتوس — الدو
+ ري الإيطالي | Tomorrow: Atalanta vs Juventus
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × يوفنتوس | Kick-off in 30 min: Atalanta vs Juventus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749981@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T163000Z
+DTEND:20270509T183000Z
+SUMMARY:Frosinone vs Atalanta — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749981
+DESCRIPTION:⚽ فروزينوني × أتالانتا\n🏆 الدوري 
+ الإيطالي — الجولة 35\n🗓 الأحد 9 مايو 2027 · 1
+ 9:30 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n—————
+ \n⚽ Frosinone v Atalanta\n🏆 Serie A — Matchday 35\n🗓 Sun 09 May 
+ 2027 · 16:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد أتالانتا — ال
+ دوري الإيطالي | Tomorrow: Frosinone vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × أتالانتا | Kick-off in 30 min: Frosinone vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749993@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T163000Z
+DTEND:20270516T183000Z
+SUMMARY:Como vs Atalanta — Serie A
+LOCATION:Stadio G. Sinigaglia
+URL:https://www.fotmob.com/match/5749993
+DESCRIPTION:⚽ كومو × أتالانتا\n🏆 الدوري الإيط
+ الي — الجولة 36\n🗓 الأحد 16 مايو 2027 · 19:30 بت
+ وقيت الرياض\n🏟 Stadio G. Sinigaglia\n—————\n⚽ Com
+ o v Atalanta\n🏆 Serie A — Matchday 36\n🗓 Sun 16 May 2027 · 16:30 
+ UTC\n🏟 Stadio G. Sinigaglia\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كومو ضد أتالانتا — الدوري 
+ الإيطالي | Tomorrow: Como vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كومو ×
+  أتالانتا | Kick-off in 30 min: Como vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750001@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T163000Z
+DTEND:20270523T183000Z
+SUMMARY:Atalanta vs Lecce — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5750001
+DESCRIPTION:⚽ أتالانتا × ليتشي\n🏆 الدوري الإي
+ طالي — الجولة 37\n🗓 الأحد 23 مايو 2027 · 19:30 ب
+ توقيت الرياض\n🏟 New Balance Arena\n—————\n⚽ Atal
+ anta v Lecce\n🏆 Serie A — Matchday 37\n🗓 Sun 23 May 2027 · 16:30 
+ UTC\n🏟 New Balance Arena\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد ليتشي — الدوري
+  الإيطالي | Tomorrow: Atalanta vs Lecce
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × ليتشي | Kick-off in 30 min: Atalanta vs Lecce
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750018@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T163000Z
+DTEND:20270530T183000Z
+SUMMARY:Napoli vs Atalanta — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5750018
+DESCRIPTION:⚽ نابولي × أتالانتا\n🏆 الدوري الإ
+ يطالي — الجولة 38\n🗓 الأحد 30 مايو 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Diego Armando Maradona\n—————\n
+ ⚽ Napoli v Atalanta\n🏆 Serie A — Matchday 38\n🗓 Sun 30 May 2027 
+ · 16:30 UTC\n🏟 Diego Armando Maradona\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد أتالانتا — الدور
+ ي الإيطالي | Tomorrow: Napoli vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × أتالانتا | Kick-off in 30 min: Napoli vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003681@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T170000Z
+DTEND:20261202T190000Z
+SUMMARY:Udinese vs Atalanta — Coppa Italia
+LOCATION:Bluenergy Stadium\, Udine\, Italy
+GEO:46.081644;13.200063
+URL:https://www.fotmob.com/match/6003681
+DESCRIPTION:⚽ أودينيزي × أتالانتا\n🏆 كأس إيطا
+ ليا — دور الـ16\n🗓 الأربعاء 2 ديسمبر 2026 · 2
+ 0:00 بتوقيت الرياض\n🏟 Bluenergy Stadium، Udine\n———
+ ——\n⚽ Udinese v Atalanta\n🏆 Coppa Italia — Round of 16\n🗓 We
+ d 02 Dec 2026 · 17:00 UTC\n🏟 Bluenergy Stadium, Udine\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد أتالانتا — كأس
+  إيطاليا | Tomorrow: Udinese vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × أتالانتا | Kick-off in 30 min: Udinese vs Atalanta
+END:VALARM
+END:VEVENT
+END:VCALENDAR

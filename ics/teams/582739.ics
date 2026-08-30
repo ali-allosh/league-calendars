@@ -1,0 +1,1158 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al Riyadh — Saudi Pro League & King's Cup Fixtures | ا
+ لرياض — مباريات دوري روشن السعودي وكأس خ
+ ادم الحرمين الشريفين
+X-WR-CALDESC:Al Riyadh — all matches in Saudi Pro League & King's Cup\, e
+ xact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-update
+ d 2026-09-05T19:31:10Z.  •  الرياض — جميع المباريات
+  في دوري روشن السعودي وكأس خادم الحرمين ا
+ لشريفين بتوقيت UTC الدقيق مع الملاعب والق
+ نوات الناقلة. المصدر: FotMob + 365scores · تحديث ت
+ لقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5969050@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260814T180000Z
+DTEND:20260814T200000Z
+SUMMARY:Al-Ettifaq vs Al Riyadh (4 - 2) — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/5969050
+DESCRIPTION:⚽ الاتفاق × الرياض (4 - 2)\n🏆 دوري رو
+ شن السعودي — الجولة 1\n🗓 الجمعة 14 أغسطس 20
+ 26 · 21:00 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Damm
+ am\n👥 الحضور: 2,303\n—————\n⚽ Al-Ettifaq v Al Riyadh 
+ (4 - 2)\n🏆 Saudi Pro League — Matchday 1\n🗓 Fri 14 Aug 2026 · 18:
+ 00 UTC\n🏟 Al Ettifaq Club Stadium, Dammam\nAttendance: 2,303\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد الرياض — دوري ر
+ وشن السعودي | Tomorrow: Al-Ettifaq vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × الرياض | Kick-off in 30 min: Al-Ettifaq vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970091@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260821T160000Z
+DTEND:20260821T180000Z
+SUMMARY:Al Riyadh vs Al Nassr FC (0 - 4) — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/5970091
+DESCRIPTION:⚽ الرياض × النصر (0 - 4)\n🏆 دوري روشن 
+ السعودي — الجولة 2\n🗓 الجمعة 21 أغسطس 2026 ·
+  19:00 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، Ri
+ yadh\n⚖️ الحكم: Abdullah Al Owaydan\n👥 الحضور: 9,240\n
+ —————\n⚽ Al Riyadh v Al Nassr FC (0 - 4)\n🏆 Saudi Pro Leagu
+ e — Matchday 2\n🗓 Fri 21 Aug 2026 · 16:00 UTC\n🏟 Prince Faisal bi
+ n Fahd Stadium, Riyadh\nReferee: Abdullah Al Owaydan\nAttendance: 9,240\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد النصر — دوري روش
+ ن السعودي | Tomorrow: Al Riyadh vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × النصر | Kick-off in 30 min: Al Riyadh vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970104@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260825T180000Z
+DTEND:20260825T200000Z
+SUMMARY:Al Shabab vs Al Riyadh (3 - 3) — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/5970104
+DESCRIPTION:⚽ الشباب × الرياض (3 - 3)\n🏆 دوري روش
+ ن السعودي — الجولة 3\n🗓 الثلاثاء 25 أغسطس 
+ 2026 · 21:00 بتوقيت الرياض\n🏟 SHG Arena، Riyadh\n⚖️ 
+ الحكم: Ahmed Al-Rumaykhani\n👥 الحضور: 3,325\n—————
+ \n⚽ Al Shabab v Al Riyadh (3 - 3)\n🏆 Saudi Pro League — Matchday 3\
+ n🗓 Tue 25 Aug 2026 · 18:00 UTC\n🏟 SHG Arena, Riyadh\nReferee: Ahmed
+  Al-Rumaykhani\nAttendance: 3,325\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد الرياض — دوري رو
+ شن السعودي | Tomorrow: Al Shabab vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × الرياض | Kick-off in 30 min: Al Shabab vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970107@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260828T155000Z
+DTEND:20260828T175000Z
+SUMMARY:Al Riyadh vs Neom SC (1 - 0) — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/5970107
+DESCRIPTION:⚽ الرياض × نيوم (1 - 0)\n🏆 دوري روشن ا
+ لسعودي — الجولة 4\n🗓 الجمعة 28 أغسطس 2026 · 1
+ 8:50 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، Riya
+ dh\n⚖️ الحكم: Mohammed Abu Shaqarah\n👥 الحضور: 732\n—
+ ————\n⚽ Al Riyadh v Neom SC (1 - 0)\n🏆 Saudi Pro League — M
+ atchday 4\n🗓 Fri 28 Aug 2026 · 15:50 UTC\n🏟 Prince Faisal bin Fahd 
+ Stadium, Riyadh\nReferee: Mohammed Abu Shaqarah\nAttendance: 732\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد نيوم — دوري روشن 
+ السعودي | Tomorrow: Al Riyadh vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × نيوم | Kick-off in 30 min: Al Riyadh vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970121@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260904T180000Z
+DTEND:20260904T200000Z
+SUMMARY:Al Ahli vs Al Riyadh (5 - 0) — Saudi Pro League
+LOCATION:Prince Abdullah Al Faisal Sports City Stadium\, Jeddah\, Saudi Ara
+ bia
+GEO:21.446598;39.251704
+URL:https://www.fotmob.com/match/5970121
+DESCRIPTION:⚽ الأهلي × الرياض (5 - 0)\n🏆 دوري روش
+ ن السعودي — الجولة 5\n🗓 الجمعة 4 سبتمبر 202
+ 6 · 21:00 بتوقيت الرياض\n🏟 Prince Abdullah Al Faisal Sport
+ s City Stadium، Jeddah\n⚖️ الحكم: Abdullah Al Owaydan\n———
+ ——\n⚽ Al Ahli v Al Riyadh (5 - 0)\n🏆 Saudi Pro League — Matchda
+ y 5\n🗓 Fri 04 Sep 2026 · 18:00 UTC\n🏟 Prince Abdullah Al Faisal Spo
+ rts City Stadium, Jeddah\nReferee: Abdullah Al Owaydan\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الرياض — دوري رو
+ شن السعودي | Tomorrow: Al Ahli vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الرياض | Kick-off in 30 min: Al Ahli vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970126@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260907T153000Z
+DTEND:20260907T173000Z
+SUMMARY:Al Khaleej vs Al Riyadh — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/5970126
+DESCRIPTION:⚽ الخليج × الرياض\n🏆 دوري روشن الس
+ عودي — الجولة 6\n🗓 الاثنين 7 سبتمبر 2026 · 18
+ :30 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Dam
+ mam\n📺 تطبيق ثمانية\n—————\n⚽ Al Khaleej v Al Ri
+ yadh\n🏆 Saudi Pro League — Matchday 6\n🗓 Mon 07 Sep 2026 · 15:30 
+ UTC\n🏟 Prince Mohammed Bin Fahd Stadium, Dammam\n📺 Thmanyah\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد الرياض — دوري رو
+ شن السعودي — 📺 تطبيق ثمانية | Tomorrow: Al Khalee
+ j vs Al Riyadh | TV: Thmanyah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × الرياض — 📺 تطبيق ثمانية | Kick-off in 30 min: 
+ Al Khaleej vs Al Riyadh | TV: Thmanyah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970140@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260913T180000Z
+DTEND:20260913T200000Z
+SUMMARY:Al Riyadh vs Al Kholood — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium
+URL:https://www.fotmob.com/match/5970140
+DESCRIPTION:⚽ الرياض × الخلود\n🏆 دوري روشن الس
+ عودي — الجولة 7\n🗓 الأحد 13 سبتمبر 2026 · 21:00
+  بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium\n———
+ ——\n⚽ Al Riyadh v Al Kholood\n🏆 Saudi Pro League — Matchday 7\n
+ 🗓 Sun 13 Sep 2026 · 18:00 UTC\n🏟 Prince Faisal bin Fahd Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الخلود — دوري رو
+ شن السعودي | Tomorrow: Al Riyadh vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الخلود | Kick-off in 30 min: Al Riyadh vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970147@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T134000Z
+DTEND:20261011T154000Z
+SUMMARY:Al-Fayha vs Al Riyadh — Saudi Pro League
+LOCATION:Majmaah Sports City
+URL:https://www.fotmob.com/match/5970147
+DESCRIPTION:⚽ الفيحاء × الرياض\n🏆 دوري روشن ال
+ سعودي — الجولة 8\n🗓 الأحد 11 أكتوبر 2026 · 16:
+ 40 بتوقيت الرياض\n🏟 Majmaah Sports City\n—————\n
+ ⚽ Al-Fayha v Al Riyadh\n🏆 Saudi Pro League — Matchday 8\n🗓 Sun 1
+ 1 Oct 2026 · 13:40 UTC\n🏟 Majmaah Sports City\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد الرياض — دوري ر
+ وشن السعودي | Tomorrow: Al-Fayha vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × الرياض | Kick-off in 30 min: Al-Fayha vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970160@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261016T150000Z
+DTEND:20261016T170000Z
+SUMMARY:Al Riyadh vs Al Hilal — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium
+URL:https://www.fotmob.com/match/5970160
+DESCRIPTION:⚽ الرياض × الهلال\n🏆 دوري روشن الس
+ عودي — الجولة 9\n🗓 الجمعة 16 أكتوبر 2026 · 18:
+ 00 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium\n——
+ ———\n⚽ Al Riyadh v Al Hilal\n🏆 Saudi Pro League — Matchday 9\
+ n🗓 Fri 16 Oct 2026 · 15:00 UTC\n🏟 Prince Faisal bin Fahd Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الهلال — دوري رو
+ شن السعودي | Tomorrow: Al Riyadh vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الهلال | Kick-off in 30 min: Al Riyadh vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970163@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T150000Z
+DTEND:20261020T170000Z
+SUMMARY:Al Diriyah vs Al Riyadh — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/5970163
+DESCRIPTION:⚽ الدرعية × الرياض\n🏆 دوري روشن ال
+ سعودي — الجولة 10\n🗓 الثلاثاء 20 أكتوبر 2026
+  · 18:00 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n——
+ ———\n⚽ Al Diriyah v Al Riyadh\n🏆 Saudi Pro League — Matchday 
+ 10\n🗓 Tue 20 Oct 2026 · 15:00 UTC\n🏟 Al-Awwal Park, Riyadh\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الدرعية ضد الرياض — دوري ر
+ وشن السعودي | Tomorrow: Al Diriyah vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الدرع
+ ية × الرياض | Kick-off in 30 min: Al Diriyah vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970179@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T180000Z
+DTEND:20261024T200000Z
+SUMMARY:Al Riyadh vs Al-Taawoun — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium
+URL:https://www.fotmob.com/match/5970179
+DESCRIPTION:⚽ الرياض × التعاون\n🏆 دوري روشن ال
+ سعودي — الجولة 11\n🗓 السبت 24 أكتوبر 2026 · 21
+ :00 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium\n——
+ ———\n⚽ Al Riyadh v Al-Taawoun\n🏆 Saudi Pro League — Matchday 
+ 11\n🗓 Sat 24 Oct 2026 · 18:00 UTC\n🏟 Prince Faisal bin Fahd Stadium
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد التعاون — دوري ر
+ وشن السعودي | Tomorrow: Al Riyadh vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × التعاون | Kick-off in 30 min: Al Riyadh vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970194@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261029T180000Z
+DTEND:20261029T200000Z
+SUMMARY:Al Riyadh vs Al Qadsiah — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium
+URL:https://www.fotmob.com/match/5970194
+DESCRIPTION:⚽ الرياض × القادسية\n🏆 دوري روشن ا
+ لسعودي — الجولة 12\n🗓 الخميس 29 أكتوبر 2026 
+ · 21:00 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium\n
+ —————\n⚽ Al Riyadh v Al Qadsiah\n🏆 Saudi Pro League — Mat
+ chday 12\n🗓 Thu 29 Oct 2026 · 18:00 UTC\n🏟 Prince Faisal bin Fahd S
+ tadium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد القادسية — دوري 
+ روشن السعودي | Tomorrow: Al Riyadh vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × القادسية | Kick-off in 30 min: Al Riyadh vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021471@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:Al Fateh FC vs Al Riyadh — Saudi Pro League
+LOCATION:Maydan Tamweel Aloula\, Al Ahsa\, Saudi Arabia
+GEO:25.429604;49.581390
+URL:https://www.fotmob.com/match/1000021471
+DESCRIPTION:⚽ الفتح × الرياض\n🏆 دوري روشن السع
+ ودي — الجولة 13\n🗓 الخميس 5 نوفمبر 2026 · 03:00
+  بتوقيت الرياض\n🏟 Maydan Tamweel Aloula، Al Ahsa\n——
+ ———\n⚽ Al Fateh FC v Al Riyadh\n🏆 Saudi Pro League — Matchday
+  13\n🗓 Thu 05 Nov 2026 · 00:00 UTC\n🏟 Maydan Tamweel Aloula, Al Ahs
+ a\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفتح ضد الرياض — دوري روش
+ ن السعودي | Tomorrow: Al Fateh FC vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفتح 
+ × الرياض | Kick-off in 30 min: Al Fateh FC vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021482@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Al Riyadh vs Al Hazem — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/1000021482
+DESCRIPTION:⚽ الرياض × الحزم\n🏆 دوري روشن السع
+ ودي — الجولة 14\n🗓 الجمعة 20 نوفمبر 2026 · 03:0
+ 0 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، Riyadh\
+ n—————\n⚽ Al Riyadh v Al Hazem\n🏆 Saudi Pro League — Matc
+ hday 14\n🗓 Fri 20 Nov 2026 · 00:00 UTC\n🏟 Prince Faisal bin Fahd St
+ adium, Riyadh\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الحزم — دوري روش
+ ن السعودي | Tomorrow: Al Riyadh vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الحزم | Kick-off in 30 min: Al Riyadh vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021486@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Abha vs Al Riyadh — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/1000021486
+DESCRIPTION:⚽ أبها × الرياض\n🏆 دوري روشن السعو
+ دي — الجولة 15\n🗓 الخميس 26 نوفمبر 2026 · 03:00 
+ بتوقيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sports City St
+ adium، Abha\n—————\n⚽ Abha v Al Riyadh\n🏆 Saudi Pro League
+  — Matchday 15\n🗓 Thu 26 Nov 2026 · 00:00 UTC\n🏟 Prince Sultan bi
+ n Abdulaziz Sports City Stadium, Abha\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الرياض — دوري روشن 
+ السعودي | Tomorrow: Abha vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الرياض | Kick-off in 30 min: Abha vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021501@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Al Riyadh vs Al Ittihad — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/1000021501
+DESCRIPTION:⚽ الرياض × الاتحاد\n🏆 دوري روشن ال
+ سعودي — الجولة 16\n🗓 الخميس 3 ديسمبر 2026 · 0
+ 3:00 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، Riya
+ dh\n—————\n⚽ Al Riyadh v Al Ittihad\n🏆 Saudi Pro League —
+  Matchday 16\n🗓 Thu 03 Dec 2026 · 00:00 UTC\n🏟 Prince Faisal bin Fa
+ hd Stadium, Riyadh\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الاتحاد — دوري ر
+ وشن السعودي | Tomorrow: Al Riyadh vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الاتحاد | Kick-off in 30 min: Al Riyadh vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021508@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Al-Faisaly vs Al Riyadh — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021508
+DESCRIPTION:⚽ الفيصلي × الرياض\n🏆 دوري روشن ال
+ سعودي — الجولة 17\n🗓 الخميس 10 ديسمبر 2026 · 
+ 03:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al
+  Majma'ah\n—————\n⚽ Al-Faisaly v Al Riyadh\n🏆 Saudi Pro Lea
+ gue — Matchday 17\n🗓 Thu 10 Dec 2026 · 00:00 UTC\n🏟 Al Majma'ah S
+ ports City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد الرياض — دوري ر
+ وشن السعودي | Tomorrow: Al-Faisaly vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × الرياض | Kick-off in 30 min: Al-Faisaly vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021521@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261214T000000Z
+DTEND:20261214T020000Z
+SUMMARY:Al Riyadh vs Al-Ettifaq — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/1000021521
+DESCRIPTION:⚽ الرياض × الاتفاق\n🏆 دوري روشن ال
+ سعودي — الجولة 18\n🗓 الاثنين 14 ديسمبر 2026 
+ · 03:00 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، 
+ Riyadh\n—————\n⚽ Al Riyadh v Al-Ettifaq\n🏆 Saudi Pro League
+  — Matchday 18\n🗓 Mon 14 Dec 2026 · 00:00 UTC\n🏟 Prince Faisal bi
+ n Fahd Stadium, Riyadh\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الاتفاق — دوري ر
+ وشن السعودي | Tomorrow: Al Riyadh vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الاتفاق | Kick-off in 30 min: Al Riyadh vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021526@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270211T000000Z
+DTEND:20270211T020000Z
+SUMMARY:Al Nassr FC vs Al Riyadh — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021526
+DESCRIPTION:⚽ النصر × الرياض\n🏆 دوري روشن السع
+ ودي — الجولة 19\n🗓 الخميس 11 فبراير 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n—————\
+ n⚽ Al Nassr FC v Al Riyadh\n🏆 Saudi Pro League — Matchday 19\n🗓 
+ Thu 11 Feb 2027 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الرياض — دوري روش
+ ن السعودي | Tomorrow: Al Nassr FC vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الرياض | Kick-off in 30 min: Al Nassr FC vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021539@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270218T000000Z
+DTEND:20270218T020000Z
+SUMMARY:Al Riyadh vs Al Shabab — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/1000021539
+DESCRIPTION:⚽ الرياض × الشباب\n🏆 دوري روشن الس
+ عودي — الجولة 20\n🗓 الخميس 18 فبراير 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، Riyad
+ h\n—————\n⚽ Al Riyadh v Al Shabab\n🏆 Saudi Pro League — M
+ atchday 20\n🗓 Thu 18 Feb 2027 · 00:00 UTC\n🏟 Prince Faisal bin Fahd
+  Stadium, Riyadh\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الشباب — دوري رو
+ شن السعودي | Tomorrow: Al Riyadh vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الشباب | Kick-off in 30 min: Al Riyadh vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021548@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270225T000000Z
+DTEND:20270225T020000Z
+SUMMARY:Neom SC vs Al Riyadh — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/1000021548
+DESCRIPTION:⚽ نيوم × الرياض\n🏆 دوري روشن السعو
+ دي — الجولة 21\n🗓 الخميس 25 فبراير 2027 · 03:00 
+ بتوقيت الرياض\n🏟 King Khalid Sport City Stadium، Tabuk\n
+ —————\n⚽ Neom SC v Al Riyadh\n🏆 Saudi Pro League — Matchd
+ ay 21\n🗓 Thu 25 Feb 2027 · 00:00 UTC\n🏟 King Khalid Sport City Stad
+ ium, Tabuk\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الرياض — دوري روشن 
+ السعودي | Tomorrow: Neom SC vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الرياض | Kick-off in 30 min: Neom SC vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021557@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270311T000000Z
+DTEND:20270311T020000Z
+SUMMARY:Al Riyadh vs Al Ahli — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/1000021557
+DESCRIPTION:⚽ الرياض × الأهلي\n🏆 دوري روشن الس
+ عودي — الجولة 22\n🗓 الخميس 11 مارس 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، Riyadh\n
+ —————\n⚽ Al Riyadh v Al Ahli\n🏆 Saudi Pro League — Matchd
+ ay 22\n🗓 Thu 11 Mar 2027 · 00:00 UTC\n🏟 Prince Faisal bin Fahd Stad
+ ium, Riyadh\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الأهلي — دوري رو
+ شن السعودي | Tomorrow: Al Riyadh vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الأهلي | Kick-off in 30 min: Al Riyadh vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021562@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270318T000000Z
+DTEND:20270318T020000Z
+SUMMARY:Al Riyadh vs Al Khaleej — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/1000021562
+DESCRIPTION:⚽ الرياض × الخليج\n🏆 دوري روشن الس
+ عودي — الجولة 23\n🗓 الخميس 18 مارس 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، Riyadh\n
+ —————\n⚽ Al Riyadh v Al Khaleej\n🏆 Saudi Pro League — Mat
+ chday 23\n🗓 Thu 18 Mar 2027 · 00:00 UTC\n🏟 Prince Faisal bin Fahd S
+ tadium, Riyadh\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الخليج — دوري رو
+ شن السعودي | Tomorrow: Al Riyadh vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الخليج | Kick-off in 30 min: Al Riyadh vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021574@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270402T000000Z
+DTEND:20270402T020000Z
+SUMMARY:Al Kholood vs Al Riyadh — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021574
+DESCRIPTION:⚽ الخلود × الرياض\n🏆 دوري روشن الس
+ عودي — الجولة 24\n🗓 الجمعة 2 أبريل 2027 · 03:00
+  بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، 
+ Ar Rass\n—————\n⚽ Al Kholood v Al Riyadh\n🏆 Saudi Pro Leagu
+ e — Matchday 24\n🗓 Fri 02 Apr 2027 · 00:00 UTC\n🏟 Ar-Rass Stadium
+  (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد الرياض — دوري رو
+ شن السعودي | Tomorrow: Al Kholood vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × الرياض | Kick-off in 30 min: Al Kholood vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021581@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270408T000000Z
+DTEND:20270408T020000Z
+SUMMARY:Al Riyadh vs Al-Fayha — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/1000021581
+DESCRIPTION:⚽ الرياض × الفيحاء\n🏆 دوري روشن ال
+ سعودي — الجولة 25\n🗓 الخميس 8 أبريل 2027 · 03:
+ 00 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، Riyadh
+ \n—————\n⚽ Al Riyadh v Al-Fayha\n🏆 Saudi Pro League — Mat
+ chday 25\n🗓 Thu 08 Apr 2027 · 00:00 UTC\n🏟 Prince Faisal bin Fahd S
+ tadium, Riyadh\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الفيحاء — دوري ر
+ وشن السعودي | Tomorrow: Al Riyadh vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الفيحاء | Kick-off in 30 min: Al Riyadh vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021589@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270415T000000Z
+DTEND:20270415T020000Z
+SUMMARY:Al Hilal vs Al Riyadh — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/1000021589
+DESCRIPTION:⚽ الهلال × الرياض\n🏆 دوري روشن الس
+ عودي — الجولة 26\n🗓 الخميس 15 أبريل 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n—————\
+ n⚽ Al Hilal v Al Riyadh\n🏆 Saudi Pro League — Matchday 26\n🗓 Thu
+  15 Apr 2027 · 00:00 UTC\n🏟 Kingdom Arena, Riyadh\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الرياض — دوري رو
+ شن السعودي | Tomorrow: Al Hilal vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الرياض | Kick-off in 30 min: Al Hilal vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021601@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T000000Z
+DTEND:20270418T020000Z
+SUMMARY:Al Riyadh vs Al Diriyah — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/1000021601
+DESCRIPTION:⚽ الرياض × الدرعية\n🏆 دوري روشن ال
+ سعودي — الجولة 27\n🗓 الأحد 18 أبريل 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، Riyadh\
+ n—————\n⚽ Al Riyadh v Al Diriyah\n🏆 Saudi Pro League — Ma
+ tchday 27\n🗓 Sun 18 Apr 2027 · 00:00 UTC\n🏟 Prince Faisal bin Fahd 
+ Stadium, Riyadh\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الدرعية — دوري ر
+ وشن السعودي | Tomorrow: Al Riyadh vs Al Diriyah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الدرعية | Kick-off in 30 min: Al Riyadh vs Al Diriyah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021610@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270422T000000Z
+DTEND:20270422T020000Z
+SUMMARY:Al-Taawoun vs Al Riyadh — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/1000021610
+DESCRIPTION:⚽ التعاون × الرياض\n🏆 دوري روشن ال
+ سعودي — الجولة 28\n🗓 الخميس 22 أبريل 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al Taawoun Club Stadium، Buraydah\n
+ —————\n⚽ Al-Taawoun v Al Riyadh\n🏆 Saudi Pro League — Mat
+ chday 28\n🗓 Thu 22 Apr 2027 · 00:00 UTC\n🏟 Al Taawoun Club Stadium,
+  Buraydah\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الرياض — دوري ر
+ وشن السعودي | Tomorrow: Al-Taawoun vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الرياض | Kick-off in 30 min: Al-Taawoun vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021619@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270429T000000Z
+DTEND:20270429T020000Z
+SUMMARY:Al Qadsiah vs Al Riyadh — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021619
+DESCRIPTION:⚽ القادسية × الرياض\n🏆 دوري روشن ا
+ لسعودي — الجولة 29\n🗓 الخميس 29 أبريل 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، D
+ ammam\n—————\n⚽ Al Qadsiah v Al Riyadh\n🏆 Saudi Pro League 
+ — Matchday 29\n🗓 Thu 29 Apr 2027 · 00:00 UTC\n🏟 Prince Mohammed B
+ in Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الرياض — دوري 
+ روشن السعودي | Tomorrow: Al Qadsiah vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الرياض | Kick-off in 30 min: Al Qadsiah vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021625@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270506T000000Z
+DTEND:20270506T020000Z
+SUMMARY:Al Riyadh vs Al Fateh FC — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/1000021625
+DESCRIPTION:⚽ الرياض × الفتح\n🏆 دوري روشن السع
+ ودي — الجولة 30\n🗓 الخميس 6 مايو 2027 · 03:00 ب
+ توقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، Riyadh\n—
+ ————\n⚽ Al Riyadh v Al Fateh FC\n🏆 Saudi Pro League — Match
+ day 30\n🗓 Thu 06 May 2027 · 00:00 UTC\n🏟 Prince Faisal bin Fahd Sta
+ dium, Riyadh\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الفتح — دوري روش
+ ن السعودي | Tomorrow: Al Riyadh vs Al Fateh FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الفتح | Kick-off in 30 min: Al Riyadh vs Al Fateh FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021633@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270512T000000Z
+DTEND:20270512T020000Z
+SUMMARY:Al Hazem vs Al Riyadh — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021633
+DESCRIPTION:⚽ الحزم × الرياض\n🏆 دوري روشن السع
+ ودي — الجولة 31\n🗓 الأربعاء 12 مايو 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)،
+  Ar Rass\n—————\n⚽ Al Hazem v Al Riyadh\n🏆 Saudi Pro League
+  — Matchday 31\n🗓 Wed 12 May 2027 · 00:00 UTC\n🏟 Ar-Rass Stadium 
+ (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد الرياض — دوري روش
+ ن السعودي | Tomorrow: Al Hazem vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × الرياض | Kick-off in 30 min: Al Hazem vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021645@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270520T000000Z
+DTEND:20270520T020000Z
+SUMMARY:Al Riyadh vs Abha — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/1000021645
+DESCRIPTION:⚽ الرياض × أبها\n🏆 دوري روشن السعو
+ دي — الجولة 32\n🗓 الخميس 20 مايو 2027 · 03:00 بت
+ وقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، Riyadh\n—
+ ————\n⚽ Al Riyadh v Abha\n🏆 Saudi Pro League — Matchday 32\
+ n🗓 Thu 20 May 2027 · 00:00 UTC\n🏟 Prince Faisal bin Fahd Stadium, R
+ iyadh\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد أبها — دوري روشن 
+ السعودي | Tomorrow: Al Riyadh vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × أبها | Kick-off in 30 min: Al Riyadh vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021650@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270524T000000Z
+DTEND:20270524T020000Z
+SUMMARY:Al Ittihad vs Al Riyadh — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021650
+DESCRIPTION:⚽ الاتحاد × الرياض\n🏆 دوري روشن ال
+ سعودي — الجولة 33\n🗓 الاثنين 24 مايو 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah S
+ port City، Jeddah\n—————\n⚽ Al Ittihad v Al Riyadh\n🏆 Saud
+ i Pro League — Matchday 33\n🗓 Mon 24 May 2027 · 00:00 UTC\n🏟 Alin
+ ma Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الرياض — دوري ر
+ وشن السعودي | Tomorrow: Al Ittihad vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الرياض | Kick-off in 30 min: Al Ittihad vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021663@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270528T000000Z
+DTEND:20270528T020000Z
+SUMMARY:Al Riyadh vs Al-Faisaly — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/1000021663
+DESCRIPTION:⚽ الرياض × الفيصلي\n🏆 دوري روشن ال
+ سعودي — الجولة 34\n🗓 الجمعة 28 مايو 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، Riyadh\
+ n—————\n⚽ Al Riyadh v Al-Faisaly\n🏆 Saudi Pro League — Ma
+ tchday 34\n🗓 Fri 28 May 2027 · 00:00 UTC\n🏟 Prince Faisal bin Fahd 
+ Stadium, Riyadh\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الفيصلي — دوري ر
+ وشن السعودي | Tomorrow: Al Riyadh vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الفيصلي | Kick-off in 30 min: Al Riyadh vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853725@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260817T161500Z
+DTEND:20260817T181500Z
+SUMMARY:Al-Zulfi vs Al Riyadh (0 - 2) — King's Cup
+LOCATION:Al Zulfi Stadium\, Al Zulfi\, Saudi Arabia
+GEO:26.306342;44.837372
+URL:https://www.fotmob.com/match/5853725
+DESCRIPTION:⚽ الزلفي × الرياض (0 - 2)\n🏆 كأس خادم 
+ الحرمين الشريفين — دور الـ32\n🗓 الاثنين 1
+ 7 أغسطس 2026 · 19:15 بتوقيت الرياض\n🏟 Al Zulfi Stadiu
+ m، Al Zulfi\n⚖️ الحكم: Faisal Al-Balawi\n—————\n⚽ Al
+ -Zulfi v Al Riyadh (0 - 2)\n🏆 King's Cup — Round of 32\n🗓 Mon 17 A
+ ug 2026 · 16:15 UTC\n🏟 Al Zulfi Stadium, Al Zulfi\nReferee: Faisal Al-
+ Balawi\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الزلفي ضد الرياض — كأس خاد
+ م الحرمين الشريفين | Tomorrow: Al-Zulfi vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الزلف
+ ي × الرياض | Kick-off in 30 min: Al-Zulfi vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6125932@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Al Riyadh vs Al-Fayha — King's Cup
+URL:https://www.fotmob.com/match/6125932
+DESCRIPTION:⚽ الرياض × الفيحاء\n🏆 كأس خادم الح
+ رمين الشريفين — دور الـ16\n🗓 الثلاثاء 1 د
+ يسمبر 2026 · 20:00 بتوقيت الرياض\n—————\n⚽ A
+ l Riyadh v Al-Fayha\n🏆 King's Cup — Round of 16\n🗓 Tue 01 Dec 2026
+  · 17:00 UTC\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الفيحاء — كأس خا
+ دم الحرمين الشريفين | Tomorrow: Al Riyadh vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الفيحاء | Kick-off in 30 min: Al Riyadh vs Al-Fayha
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1457 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al Ahli — Saudi Pro League & AFC Champions League Elite 
+ & King's Cup Fixtures | الأهلي — مباريات دوري روشن 
+ السعودي ودوري أبطال آسيا للنخبة وكأس خاد
+ م الحرمين الشريفين
+X-WR-CALDESC:Al Ahli — all matches in Saudi Pro League & AFC Champions Le
+ ague Elite & King's Cup\, exact UTC kickoffs\, stadiums & TV. Data: FotMob
+  + 365scores · auto-updated 2026-09-05T19:31:10Z.  •  الأهلي — 
+ جميع المباريات في دوري روشن السعودي ودور
+ ي أبطال آسيا للنخبة وكأس خادم الحرمين ال
+ شريفين بتوقيت UTC الدقيق مع الملاعب والقن
+ وات الناقلة. المصدر: FotMob + 365scores · تحديث تل
+ قائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5969048@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260813T180000Z
+DTEND:20260813T200000Z
+SUMMARY:Al Diriyah vs Al Ahli (0 - 1) — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/5969048
+DESCRIPTION:⚽ الدرعية × الأهلي (0 - 1)\n🏆 دوري رو
+ شن السعودي — الجولة 1\n🗓 الخميس 13 أغسطس 20
+ 26 · 21:00 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n👥 
+ الحضور: 13,609\n—————\n⚽ Al Diriyah v Al Ahli (0 - 1)\n
+ 🏆 Saudi Pro League — Matchday 1\n🗓 Thu 13 Aug 2026 · 18:00 UTC\n
+ 🏟 Al-Awwal Park, Riyadh\nAttendance: 13,609\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الدرعية ضد الأهلي — دوري ر
+ وشن السعودي | Tomorrow: Al Diriyah vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الدرع
+ ية × الأهلي | Kick-off in 30 min: Al Diriyah vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970097@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T180000Z
+DTEND:20260822T200000Z
+SUMMARY:Al Ahli vs Abha (4 - 0) — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/5970097
+DESCRIPTION:⚽ الأهلي × أبها (4 - 0)\n🏆 دوري روشن ا
+ لسعودي — الجولة 2\n🗓 السبت 22 أغسطس 2026 · 21:
+ 00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah Sp
+ ort City، Jeddah\n⚖️ الحكم: Majed Al-Shamrani\n👥 الحضور
+ : 20,784\n—————\n⚽ Al Ahli v Abha (4 - 0)\n🏆 Saudi Pro Leag
+ ue — Matchday 2\n🗓 Sat 22 Aug 2026 · 18:00 UTC\n🏟 Alinma Bank Sta
+ dium at King Abdullah Sport City, Jeddah\nReferee: Majed Al-Shamrani\nAtte
+ ndance: 20,784\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد أبها — دوري روشن 
+ السعودي | Tomorrow: Al Ahli vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × أبها | Kick-off in 30 min: Al Ahli vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970111@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T160500Z
+DTEND:20260829T180500Z
+SUMMARY:Al Kholood vs Al Ahli (3 - 1) — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/5970111
+DESCRIPTION:⚽ الخلود × الأهلي (3 - 1)\n🏆 دوري روش
+ ن السعودي — الجولة 4\n🗓 السبت 29 أغسطس 2026 
+ · 19:05 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Sta
+ dium)، Ar Rass\n⚖️ الحكم: Shukri Al-Hunfush\n👥 الحضور: 
+ 2,634\n—————\n⚽ Al Kholood v Al Ahli (3 - 1)\n🏆 Saudi Pro L
+ eague — Matchday 4\n🗓 Sat 29 Aug 2026 · 16:05 UTC\n🏟 Ar-Rass Stad
+ ium (Al Hazm Club Stadium), Ar Rass\nReferee: Shukri Al-Hunfush\nAttendanc
+ e: 2,634\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد الأهلي — دوري رو
+ شن السعودي | Tomorrow: Al Kholood vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × الأهلي | Kick-off in 30 min: Al Kholood vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970116@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260901T180000Z
+DTEND:20260901T200000Z
+SUMMARY:Al Hilal vs Al Ahli (3 - 0) — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/5970116
+DESCRIPTION:⚽ الهلال × الأهلي (3 - 0)\n🏆 دوري روش
+ ن السعودي — الجولة 3\n🗓 الثلاثاء 1 سبتمبر
+  2026 · 21:00 بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n⚖
+ ️ الحكم: Jesús Valenzuela\n👥 الحضور: 23,051\n————
+ —\n⚽ Al Hilal v Al Ahli (3 - 0)\n🏆 Saudi Pro League — Matchday 3\
+ n🗓 Tue 01 Sep 2026 · 18:00 UTC\n🏟 Kingdom Arena, Riyadh\nReferee: J
+ esús Valenzuela\nAttendance: 23,051\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الأهلي — دوري رو
+ شن السعودي | Tomorrow: Al Hilal vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الأهلي | Kick-off in 30 min: Al Hilal vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970121@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260904T180000Z
+DTEND:20260904T200000Z
+SUMMARY:Al Ahli vs Al Riyadh (5 - 0) — Saudi Pro League
+LOCATION:Prince Abdullah Al Faisal Sports City Stadium\, Jeddah\, Saudi Ara
+ bia
+GEO:21.446598;39.251704
+URL:https://www.fotmob.com/match/5970121
+DESCRIPTION:⚽ الأهلي × الرياض (5 - 0)\n🏆 دوري روش
+ ن السعودي — الجولة 5\n🗓 الجمعة 4 سبتمبر 202
+ 6 · 21:00 بتوقيت الرياض\n🏟 Prince Abdullah Al Faisal Sport
+ s City Stadium، Jeddah\n⚖️ الحكم: Abdullah Al Owaydan\n———
+ ——\n⚽ Al Ahli v Al Riyadh (5 - 0)\n🏆 Saudi Pro League — Matchda
+ y 5\n🗓 Fri 04 Sep 2026 · 18:00 UTC\n🏟 Prince Abdullah Al Faisal Spo
+ rts City Stadium, Jeddah\nReferee: Abdullah Al Owaydan\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الرياض — دوري رو
+ شن السعودي | Tomorrow: Al Ahli vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الرياض | Kick-off in 30 min: Al Ahli vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970131@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T180000Z
+DTEND:20260908T200000Z
+SUMMARY:Al Qadsiah vs Al Ahli — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/5970131
+DESCRIPTION:⚽ القادسية × الأهلي\n🏆 دوري روشن ا
+ لسعودي — الجولة 6\n🗓 الثلاثاء 8 سبتمبر 2026
+  · 21:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium
+ ، Dammam\n📺 FOX Deportes، FOX Sports 2، Fubo Sports، FOX One، FOX 
+ Sports online\n—————\n⚽ Al Qadsiah v Al Ahli\n🏆 Saudi Pro L
+ eague — Matchday 6\n🗓 Tue 08 Sep 2026 · 18:00 UTC\n🏟 Prince Moham
+ med Bin Fahd Stadium, Dammam\n📺 FOX Deportes, FOX Sports 2, Fubo Sports
+ , FOX One, FOX Sports online\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الأهلي — دوري 
+ روشن السعودي — 📺 FOX Deportes، FOX Sports 2، Fubo Sports
+ ، FOX One، FOX Sports online | Tomorrow: Al Qadsiah vs Al Ahli | TV: FOX
+  Deportes\, FOX Sports 2\, Fubo Sports\, FOX One\, FOX Sports online
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الأهلي — 📺 FOX Deportes، FOX Sports 2، Fubo Sports
+ ، FOX One، FOX Sports online | Kick-off in 30 min: Al Qadsiah vs Al Ahli
+  | TV: FOX Deportes\, FOX Sports 2\, Fubo Sports\, FOX One\, FOX Sports on
+ line
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970135@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260911T180000Z
+DTEND:20260911T200000Z
+SUMMARY:Al Ahli vs Al Hazem — Saudi Pro League
+LOCATION:King Abdullah Sports City
+URL:https://www.fotmob.com/match/5970135
+DESCRIPTION:⚽ الأهلي × الحزم\n🏆 دوري روشن السع
+ ودي — الجولة 7\n🗓 الجمعة 11 سبتمبر 2026 · 21:00
+  بتوقيت الرياض\n🏟 King Abdullah Sports City\n📺 FOX Depor
+ tes، FOX Sports online، FOX One\n—————\n⚽ Al Ahli v Al Hazem
+ \n🏆 Saudi Pro League — Matchday 7\n🗓 Fri 11 Sep 2026 · 18:00 UTC\
+ n🏟 King Abdullah Sports City\n📺 FOX Deportes, FOX Sports online, FOX
+  One\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الحزم — دوري روش
+ ن السعودي — 📺 FOX Deportes، FOX Sports online، FOX One | To
+ morrow: Al Ahli vs Al Hazem | TV: FOX Deportes\, FOX Sports online\, FOX O
+ ne
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الحزم — 📺 FOX Deportes، FOX Sports online، FOX One | Kic
+ k-off in 30 min: Al Ahli vs Al Hazem | TV: FOX Deportes\, FOX Sports onlin
+ e\, FOX One
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970146@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261009T145500Z
+DTEND:20261009T165500Z
+SUMMARY:Al Fateh FC vs Al Ahli — Saudi Pro League
+LOCATION:Prince Abdullah Bin Jalawi Sport City Stadium
+URL:https://www.fotmob.com/match/5970146
+DESCRIPTION:⚽ الفتح × الأهلي\n🏆 دوري روشن السع
+ ودي — الجولة 8\n🗓 الجمعة 9 أكتوبر 2026 · 17:55 
+ بتوقيت الرياض\n🏟 Prince Abdullah Bin Jalawi Sport City Stad
+ ium\n—————\n⚽ Al Fateh FC v Al Ahli\n🏆 Saudi Pro League —
+  Matchday 8\n🗓 Fri 09 Oct 2026 · 14:55 UTC\n🏟 Prince Abdullah Bin J
+ alawi Sport City Stadium\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفتح ضد الأهلي — دوري روش
+ ن السعودي | Tomorrow: Al Fateh FC vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفتح 
+ × الأهلي | Kick-off in 30 min: Al Fateh FC vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970153@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T180000Z
+DTEND:20261015T200000Z
+SUMMARY:Al Ahli vs Al Nassr FC — Saudi Pro League
+LOCATION:King Abdullah Sports City
+URL:https://www.fotmob.com/match/5970153
+DESCRIPTION:⚽ الأهلي × النصر\n🏆 دوري روشن السع
+ ودي — الجولة 9\n🗓 الخميس 15 أكتوبر 2026 · 21:00
+  بتوقيت الرياض\n🏟 King Abdullah Sports City\n————
+ —\n⚽ Al Ahli v Al Nassr FC\n🏆 Saudi Pro League — Matchday 9\n🗓
+  Thu 15 Oct 2026 · 18:00 UTC\n🏟 King Abdullah Sports City\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد النصر — دوري روش
+ ن السعودي | Tomorrow: Al Ahli vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × النصر | Kick-off in 30 min: Al Ahli vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970166@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261019T150500Z
+DTEND:20261019T170500Z
+SUMMARY:Al-Fayha vs Al Ahli — Saudi Pro League
+LOCATION:Majmaah Sports City
+URL:https://www.fotmob.com/match/5970166
+DESCRIPTION:⚽ الفيحاء × الأهلي\n🏆 دوري روشن ال
+ سعودي — الجولة 10\n🗓 الاثنين 19 أكتوبر 2026 
+ · 18:05 بتوقيت الرياض\n🏟 Majmaah Sports City\n————
+ —\n⚽ Al-Fayha v Al Ahli\n🏆 Saudi Pro League — Matchday 10\n🗓 M
+ on 19 Oct 2026 · 15:05 UTC\n🏟 Majmaah Sports City\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد الأهلي — دوري ر
+ وشن السعودي | Tomorrow: Al-Fayha vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × الأهلي | Kick-off in 30 min: Al-Fayha vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970171@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T180000Z
+DTEND:20261022T200000Z
+SUMMARY:Al Ahli vs Al Khaleej — Saudi Pro League
+LOCATION:Prince Abdullah Al Faisal Sports City Stadium\, Jeddah\, Saudi Ara
+ bia
+GEO:21.446598;39.251704
+URL:https://www.fotmob.com/match/5970171
+DESCRIPTION:⚽ الأهلي × الخليج\n🏆 دوري روشن الس
+ عودي — الجولة 11\n🗓 الخميس 22 أكتوبر 2026 · 21
+ :00 بتوقيت الرياض\n🏟 Prince Abdullah Al Faisal Sports City 
+ Stadium، Jeddah\n—————\n⚽ Al Ahli v Al Khaleej\n🏆 Saudi Pr
+ o League — Matchday 11\n🗓 Thu 22 Oct 2026 · 18:00 UTC\n🏟 Prince A
+ bdullah Al Faisal Sports City Stadium, Jeddah\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الخليج — دوري رو
+ شن السعودي | Tomorrow: Al Ahli vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الخليج | Kick-off in 30 min: Al Ahli vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970195@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261030T180000Z
+DTEND:20261030T200000Z
+SUMMARY:Al Shabab vs Al Ahli — Saudi Pro League
+LOCATION:SHG Arena
+URL:https://www.fotmob.com/match/5970195
+DESCRIPTION:⚽ الشباب × الأهلي\n🏆 دوري روشن الس
+ عودي — الجولة 12\n🗓 الجمعة 30 أكتوبر 2026 · 21
+ :00 بتوقيت الرياض\n🏟 SHG Arena\n—————\n⚽ Al Sha
+ bab v Al Ahli\n🏆 Saudi Pro League — Matchday 12\n🗓 Fri 30 Oct 2026
+  · 18:00 UTC\n🏟 SHG Arena\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد الأهلي — دوري رو
+ شن السعودي | Tomorrow: Al Shabab vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × الأهلي | Kick-off in 30 min: Al Shabab vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021468@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:Al Ahli vs Al-Taawoun — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021468
+DESCRIPTION:⚽ الأهلي × التعاون\n🏆 دوري روشن ال
+ سعودي — الجولة 13\n🗓 الخميس 5 نوفمبر 2026 · 0
+ 3:00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah 
+ Sport City، Jeddah\n—————\n⚽ Al Ahli v Al-Taawoun\n🏆 Saudi
+  Pro League — Matchday 13\n🗓 Thu 05 Nov 2026 · 00:00 UTC\n🏟 Alinm
+ a Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد التعاون — دوري ر
+ وشن السعودي | Tomorrow: Al Ahli vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × التعاون | Kick-off in 30 min: Al Ahli vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021477@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Al Ahli vs Al-Faisaly — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021477
+DESCRIPTION:⚽ الأهلي × الفيصلي\n🏆 دوري روشن ال
+ سعودي — الجولة 14\n🗓 الجمعة 20 نوفمبر 2026 · 
+ 03:00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah
+  Sport City، Jeddah\n—————\n⚽ Al Ahli v Al-Faisaly\n🏆 Saud
+ i Pro League — Matchday 14\n🗓 Fri 20 Nov 2026 · 00:00 UTC\n🏟 Alin
+ ma Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الفيصلي — دوري ر
+ وشن السعودي | Tomorrow: Al Ahli vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الفيصلي | Kick-off in 30 min: Al Ahli vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021488@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Al Ittihad vs Al Ahli — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021488
+DESCRIPTION:⚽ الاتحاد × الأهلي\n🏆 دوري روشن ال
+ سعودي — الجولة 15\n🗓 الخميس 26 نوفمبر 2026 · 
+ 03:00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah
+  Sport City، Jeddah\n—————\n⚽ Al Ittihad v Al Ahli\n🏆 Saud
+ i Pro League — Matchday 15\n🗓 Thu 26 Nov 2026 · 00:00 UTC\n🏟 Alin
+ ma Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الأهلي — دوري ر
+ وشن السعودي | Tomorrow: Al Ittihad vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الأهلي | Kick-off in 30 min: Al Ittihad vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021495@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Al Ahli vs Al-Ettifaq — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021495
+DESCRIPTION:⚽ الأهلي × الاتفاق\n🏆 دوري روشن ال
+ سعودي — الجولة 16\n🗓 الخميس 3 ديسمبر 2026 · 0
+ 3:00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah 
+ Sport City، Jeddah\n—————\n⚽ Al Ahli v Al-Ettifaq\n🏆 Saudi
+  Pro League — Matchday 16\n🗓 Thu 03 Dec 2026 · 00:00 UTC\n🏟 Alinm
+ a Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الاتفاق — دوري ر
+ وشن السعودي | Tomorrow: Al Ahli vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الاتفاق | Kick-off in 30 min: Al Ahli vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021512@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Neom SC vs Al Ahli — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/1000021512
+DESCRIPTION:⚽ نيوم × الأهلي\n🏆 دوري روشن السعو
+ دي — الجولة 17\n🗓 الخميس 10 ديسمبر 2026 · 03:00 
+ بتوقيت الرياض\n🏟 King Khalid Sport City Stadium، Tabuk\n
+ —————\n⚽ Neom SC v Al Ahli\n🏆 Saudi Pro League — Matchday
+  17\n🗓 Thu 10 Dec 2026 · 00:00 UTC\n🏟 King Khalid Sport City Stadiu
+ m, Tabuk\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الأهلي — دوري روشن 
+ السعودي | Tomorrow: Neom SC vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الأهلي | Kick-off in 30 min: Neom SC vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021513@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261214T000000Z
+DTEND:20261214T020000Z
+SUMMARY:Al Ahli vs Al Diriyah — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021513
+DESCRIPTION:⚽ الأهلي × الدرعية\n🏆 دوري روشن ال
+ سعودي — الجولة 18\n🗓 الاثنين 14 ديسمبر 2026 
+ · 03:00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdul
+ lah Sport City، Jeddah\n—————\n⚽ Al Ahli v Al Diriyah\n🏆 S
+ audi Pro League — Matchday 18\n🗓 Mon 14 Dec 2026 · 00:00 UTC\n🏟 A
+ linma Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الدرعية — دوري ر
+ وشن السعودي | Tomorrow: Al Ahli vs Al Diriyah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الدرعية | Kick-off in 30 min: Al Ahli vs Al Diriyah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021522@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270211T000000Z
+DTEND:20270211T020000Z
+SUMMARY:Abha vs Al Ahli — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/1000021522
+DESCRIPTION:⚽ أبها × الأهلي\n🏆 دوري روشن السعو
+ دي — الجولة 19\n🗓 الخميس 11 فبراير 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sports City St
+ adium، Abha\n—————\n⚽ Abha v Al Ahli\n🏆 Saudi Pro League 
+ — Matchday 19\n🗓 Thu 11 Feb 2027 · 00:00 UTC\n🏟 Prince Sultan bin
+  Abdulaziz Sports City Stadium, Abha\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الأهلي — دوري روشن 
+ السعودي | Tomorrow: Abha vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الأهلي | Kick-off in 30 min: Abha vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021531@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270218T000000Z
+DTEND:20270218T020000Z
+SUMMARY:Al Ahli vs Al Hilal — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021531
+DESCRIPTION:⚽ الأهلي × الهلال\n🏆 دوري روشن الس
+ عودي — الجولة 20\n🗓 الخميس 18 فبراير 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah S
+ port City، Jeddah\n—————\n⚽ Al Ahli v Al Hilal\n🏆 Saudi Pr
+ o League — Matchday 20\n🗓 Thu 18 Feb 2027 · 00:00 UTC\n🏟 Alinma B
+ ank Stadium at King Abdullah Sport City, Jeddah\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الهلال — دوري رو
+ شن السعودي | Tomorrow: Al Ahli vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الهلال | Kick-off in 30 min: Al Ahli vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021540@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270225T000000Z
+DTEND:20270225T020000Z
+SUMMARY:Al Ahli vs Al Kholood — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021540
+DESCRIPTION:⚽ الأهلي × الخلود\n🏆 دوري روشن الس
+ عودي — الجولة 21\n🗓 الخميس 25 فبراير 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah S
+ port City، Jeddah\n—————\n⚽ Al Ahli v Al Kholood\n🏆 Saudi 
+ Pro League — Matchday 21\n🗓 Thu 25 Feb 2027 · 00:00 UTC\n🏟 Alinma
+  Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الخلود — دوري رو
+ شن السعودي | Tomorrow: Al Ahli vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الخلود | Kick-off in 30 min: Al Ahli vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021557@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270311T000000Z
+DTEND:20270311T020000Z
+SUMMARY:Al Riyadh vs Al Ahli — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/1000021557
+DESCRIPTION:⚽ الرياض × الأهلي\n🏆 دوري روشن الس
+ عودي — الجولة 22\n🗓 الخميس 11 مارس 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، Riyadh\n
+ —————\n⚽ Al Riyadh v Al Ahli\n🏆 Saudi Pro League — Matchd
+ ay 22\n🗓 Thu 11 Mar 2027 · 00:00 UTC\n🏟 Prince Faisal bin Fahd Stad
+ ium, Riyadh\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الأهلي — دوري رو
+ شن السعودي | Tomorrow: Al Riyadh vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الأهلي | Kick-off in 30 min: Al Riyadh vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021558@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270318T000000Z
+DTEND:20270318T020000Z
+SUMMARY:Al Ahli vs Al Qadsiah — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021558
+DESCRIPTION:⚽ الأهلي × القادسية\n🏆 دوري روشن ا
+ لسعودي — الجولة 23\n🗓 الخميس 18 مارس 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah S
+ port City، Jeddah\n—————\n⚽ Al Ahli v Al Qadsiah\n🏆 Saudi 
+ Pro League — Matchday 23\n🗓 Thu 18 Mar 2027 · 00:00 UTC\n🏟 Alinma
+  Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد القادسية — دوري 
+ روشن السعودي | Tomorrow: Al Ahli vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × القادسية | Kick-off in 30 min: Al Ahli vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021571@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270402T000000Z
+DTEND:20270402T020000Z
+SUMMARY:Al Hazem vs Al Ahli — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021571
+DESCRIPTION:⚽ الحزم × الأهلي\n🏆 دوري روشن السع
+ ودي — الجولة 24\n🗓 الجمعة 2 أبريل 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، A
+ r Rass\n—————\n⚽ Al Hazem v Al Ahli\n🏆 Saudi Pro League —
+  Matchday 24\n🗓 Fri 02 Apr 2027 · 00:00 UTC\n🏟 Ar-Rass Stadium (Al 
+ Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد الأهلي — دوري روش
+ ن السعودي | Tomorrow: Al Hazem vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × الأهلي | Kick-off in 30 min: Al Hazem vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021576@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270408T000000Z
+DTEND:20270408T020000Z
+SUMMARY:Al Ahli vs Al Fateh FC — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021576
+DESCRIPTION:⚽ الأهلي × الفتح\n🏆 دوري روشن السع
+ ودي — الجولة 25\n🗓 الخميس 8 أبريل 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah Sport
+  City، Jeddah\n—————\n⚽ Al Ahli v Al Fateh FC\n🏆 Saudi Pro
+  League — Matchday 25\n🗓 Thu 08 Apr 2027 · 00:00 UTC\n🏟 Alinma Ba
+ nk Stadium at King Abdullah Sport City, Jeddah\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الفتح — دوري روش
+ ن السعودي | Tomorrow: Al Ahli vs Al Fateh FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الفتح | Kick-off in 30 min: Al Ahli vs Al Fateh FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021591@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270415T000000Z
+DTEND:20270415T020000Z
+SUMMARY:Al Nassr FC vs Al Ahli — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021591
+DESCRIPTION:⚽ النصر × الأهلي\n🏆 دوري روشن السع
+ ودي — الجولة 26\n🗓 الخميس 15 أبريل 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n—————\n
+ ⚽ Al Nassr FC v Al Ahli\n🏆 Saudi Pro League — Matchday 26\n🗓 Thu
+  15 Apr 2027 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الأهلي — دوري روش
+ ن السعودي | Tomorrow: Al Nassr FC vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الأهلي | Kick-off in 30 min: Al Nassr FC vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021594@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T000000Z
+DTEND:20270418T020000Z
+SUMMARY:Al Ahli vs Al-Fayha — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021594
+DESCRIPTION:⚽ الأهلي × الفيحاء\n🏆 دوري روشن ال
+ سعودي — الجولة 27\n🗓 الأحد 18 أبريل 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah Spo
+ rt City، Jeddah\n—————\n⚽ Al Ahli v Al-Fayha\n🏆 Saudi Pro 
+ League — Matchday 27\n🗓 Sun 18 Apr 2027 · 00:00 UTC\n🏟 Alinma Ban
+ k Stadium at King Abdullah Sport City, Jeddah\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الفيحاء — دوري ر
+ وشن السعودي | Tomorrow: Al Ahli vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الفيحاء | Kick-off in 30 min: Al Ahli vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021607@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270422T000000Z
+DTEND:20270422T020000Z
+SUMMARY:Al Khaleej vs Al Ahli — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021607
+DESCRIPTION:⚽ الخليج × الأهلي\n🏆 دوري روشن الس
+ عودي — الجولة 28\n🗓 الخميس 22 أبريل 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Damma
+ m\n—————\n⚽ Al Khaleej v Al Ahli\n🏆 Saudi Pro League — Ma
+ tchday 28\n🗓 Thu 22 Apr 2027 · 00:00 UTC\n🏟 Prince Mohammed Bin Fah
+ d Stadium, Dammam\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد الأهلي — دوري رو
+ شن السعودي | Tomorrow: Al Khaleej vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × الأهلي | Kick-off in 30 min: Al Khaleej vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021612@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270429T000000Z
+DTEND:20270429T020000Z
+SUMMARY:Al Ahli vs Al Shabab — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021612
+DESCRIPTION:⚽ الأهلي × الشباب\n🏆 دوري روشن الس
+ عودي — الجولة 29\n🗓 الخميس 29 أبريل 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah Spo
+ rt City، Jeddah\n—————\n⚽ Al Ahli v Al Shabab\n🏆 Saudi Pro
+  League — Matchday 29\n🗓 Thu 29 Apr 2027 · 00:00 UTC\n🏟 Alinma Ba
+ nk Stadium at King Abdullah Sport City, Jeddah\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الشباب — دوري رو
+ شن السعودي | Tomorrow: Al Ahli vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الشباب | Kick-off in 30 min: Al Ahli vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021627@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270506T000000Z
+DTEND:20270506T020000Z
+SUMMARY:Al-Taawoun vs Al Ahli — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/1000021627
+DESCRIPTION:⚽ التعاون × الأهلي\n🏆 دوري روشن ال
+ سعودي — الجولة 30\n🗓 الخميس 6 مايو 2027 · 03:00
+  بتوقيت الرياض\n🏟 Al Taawoun Club Stadium، Buraydah\n—
+ ————\n⚽ Al-Taawoun v Al Ahli\n🏆 Saudi Pro League — Matchday
+  30\n🗓 Thu 06 May 2027 · 00:00 UTC\n🏟 Al Taawoun Club Stadium, Bura
+ ydah\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الأهلي — دوري ر
+ وشن السعودي | Tomorrow: Al-Taawoun vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الأهلي | Kick-off in 30 min: Al-Taawoun vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021636@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270512T000000Z
+DTEND:20270512T020000Z
+SUMMARY:Al-Faisaly vs Al Ahli — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021636
+DESCRIPTION:⚽ الفيصلي × الأهلي\n🏆 دوري روشن ال
+ سعودي — الجولة 31\n🗓 الأربعاء 12 مايو 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al
+  Majma'ah\n—————\n⚽ Al-Faisaly v Al Ahli\n🏆 Saudi Pro Leagu
+ e — Matchday 31\n🗓 Wed 12 May 2027 · 00:00 UTC\n🏟 Al Majma'ah Spo
+ rts City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد الأهلي — دوري ر
+ وشن السعودي | Tomorrow: Al-Faisaly vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × الأهلي | Kick-off in 30 min: Al-Faisaly vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021639@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270520T000000Z
+DTEND:20270520T020000Z
+SUMMARY:Al Ahli vs Al Ittihad — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021639
+DESCRIPTION:⚽ الأهلي × الاتحاد\n🏆 دوري روشن ال
+ سعودي — الجولة 32\n🗓 الخميس 20 مايو 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah Spo
+ rt City، Jeddah\n—————\n⚽ Al Ahli v Al Ittihad\n🏆 Saudi Pr
+ o League — Matchday 32\n🗓 Thu 20 May 2027 · 00:00 UTC\n🏟 Alinma B
+ ank Stadium at King Abdullah Sport City, Jeddah\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الاتحاد — دوري ر
+ وشن السعودي | Tomorrow: Al Ahli vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الاتحاد | Kick-off in 30 min: Al Ahli vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021649@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270524T000000Z
+DTEND:20270524T020000Z
+SUMMARY:Al-Ettifaq vs Al Ahli — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/1000021649
+DESCRIPTION:⚽ الاتفاق × الأهلي\n🏆 دوري روشن ال
+ سعودي — الجولة 33\n🗓 الاثنين 24 مايو 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Dammam\n—
+ ————\n⚽ Al-Ettifaq v Al Ahli\n🏆 Saudi Pro League — Matchday
+  33\n🗓 Mon 24 May 2027 · 00:00 UTC\n🏟 Al Ettifaq Club Stadium, Damm
+ am\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد الأهلي — دوري ر
+ وشن السعودي | Tomorrow: Al-Ettifaq vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × الأهلي | Kick-off in 30 min: Al-Ettifaq vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021657@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270528T000000Z
+DTEND:20270528T020000Z
+SUMMARY:Al Ahli vs Neom SC — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021657
+DESCRIPTION:⚽ الأهلي × نيوم\n🏆 دوري روشن السعو
+ دي — الجولة 34\n🗓 الجمعة 28 مايو 2027 · 03:00 بت
+ وقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah Sport Cit
+ y، Jeddah\n—————\n⚽ Al Ahli v Neom SC\n🏆 Saudi Pro League 
+ — Matchday 34\n🗓 Fri 28 May 2027 · 00:00 UTC\n🏟 Alinma Bank Stadi
+ um at King Abdullah Sport City, Jeddah\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد نيوم — دوري روشن 
+ السعودي | Tomorrow: Al Ahli vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × نيوم | Kick-off in 30 min: Al Ahli vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050068@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260914T181500Z
+DTEND:20260914T201500Z
+SUMMARY:Al Ahli vs Pakhtakor Tashkent — AFC Champions League Elite
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/6050068
+DESCRIPTION:⚽ الأهلي × باختاكور\n🏆 دوري أبطال 
+ آسيا للنخبة — الجولة 1\n🗓 الاثنين 14 سبتم
+ بر 2026 · 21:15 بتوقيت الرياض\n🏟 Alinma Bank Stadium at 
+ King Abdullah Sport City، Jeddah\n—————\n⚽ Al Ahli v Pakhtako
+ r Tashkent\n🏆 AFC Champions League Elite — Matchday 1\n🗓 Mon 14 Se
+ p 2026 · 18:15 UTC\n🏟 Alinma Bank Stadium at King Abdullah Sport City,
+  Jeddah\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد باختاكور — دوري 
+ أبطال آسيا للنخبة | Tomorrow: Al Ahli vs Pakhtakor Tashkent
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × باختاكور | Kick-off in 30 min: Al Ahli vs Pakhtakor Tashkent
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050073@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261012T160000Z
+DTEND:20261012T180000Z
+SUMMARY:Al-Wasl vs Al Ahli — AFC Champions League Elite
+LOCATION:Zabeel Stadium\, Dubayy (Dubai)\, United Arab Emirates
+GEO:25.219098;55.316918
+URL:https://www.fotmob.com/match/6050073
+DESCRIPTION:⚽ الوصل × الأهلي\n🏆 دوري أبطال آسي
+ ا للنخبة — الجولة 2\n🗓 الاثنين 12 أكتوبر 20
+ 26 · 19:00 بتوقيت الرياض\n🏟 Zabeel Stadium، Dubayy (Dubai
+ )\n—————\n⚽ Al-Wasl v Al Ahli\n🏆 AFC Champions League Elite
+  — Matchday 2\n🗓 Mon 12 Oct 2026 · 16:00 UTC\n🏟 Zabeel Stadium, D
+ ubayy (Dubai)\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الوصل ضد الأهلي — دوري أبط
+ ال آسيا للنخبة | Tomorrow: Al-Wasl vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الوصل 
+ × الأهلي | Kick-off in 30 min: Al-Wasl vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050081@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261026T170000Z
+DTEND:20261026T190000Z
+SUMMARY:Al Ahli vs Al-Gharafa — AFC Champions League Elite
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/6050081
+DESCRIPTION:⚽ الأهلي × الغرافة\n🏆 دوري أبطال آ
+ سيا للنخبة — الجولة 3\n🗓 الاثنين 26 أكتوب
+ ر 2026 · 20:00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at Ki
+ ng Abdullah Sport City، Jeddah\n—————\n⚽ Al Ahli v Al-Gharafa
+ \n🏆 AFC Champions League Elite — Matchday 3\n🗓 Mon 26 Oct 2026 · 
+ 17:00 UTC\n🏟 Alinma Bank Stadium at King Abdullah Sport City, Jeddah\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الغرافة — دوري أ
+ بطال آسيا للنخبة | Tomorrow: Al Ahli vs Al-Gharafa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الغرافة | Kick-off in 30 min: Al Ahli vs Al-Gharafa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050089@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261102T170000Z
+DTEND:20261102T190000Z
+SUMMARY:Al-Sadd vs Al Ahli — AFC Champions League Elite
+LOCATION:Jassim Bin Hamad Stadium (Al-Sadd Stadium)\, ad-Dōha (Doha)\, Qat
+ ar
+GEO:25.267290;51.484305
+URL:https://www.fotmob.com/match/6050089
+DESCRIPTION:⚽ السد × الأهلي\n🏆 دوري أبطال آسيا
+  للنخبة — الجولة 4\n🗓 الاثنين 2 نوفمبر 2026 
+ · 20:00 بتوقيت الرياض\n🏟 Jassim Bin Hamad Stadium (Al-Sadd
+  Stadium)، ad-Dōha (Doha)\n—————\n⚽ Al-Sadd v Al Ahli\n🏆 
+ AFC Champions League Elite — Matchday 4\n🗓 Mon 02 Nov 2026 · 17:00 U
+ TC\n🏟 Jassim Bin Hamad Stadium (Al-Sadd Stadium), ad-Dōha (Doha)\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: السد ضد الأهلي — دوري أبطا
+ ل آسيا للنخبة | Tomorrow: Al-Sadd vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: السد ×
+  الأهلي | Kick-off in 30 min: Al-Sadd vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050098@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261123T170000Z
+DTEND:20261123T190000Z
+SUMMARY:Al-Shamal vs Al Ahli — AFC Champions League Elite
+LOCATION:Al Bayt Stadium\, Al Khor\, Qatar
+GEO:25.652198;51.487934
+URL:https://www.fotmob.com/match/6050098
+DESCRIPTION:⚽ الشمال × الأهلي\n🏆 دوري أبطال آس
+ يا للنخبة — الجولة 5\n🗓 الاثنين 23 نوفمبر 
+ 2026 · 20:00 بتوقيت الرياض\n🏟 Al Bayt Stadium، Al Khor\n
+ —————\n⚽ Al-Shamal v Al Ahli\n🏆 AFC Champions League Elite 
+ — Matchday 5\n🗓 Mon 23 Nov 2026 · 17:00 UTC\n🏟 Al Bayt Stadium, A
+ l Khor\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشمال ضد الأهلي — دوري أب
+ طال آسيا للنخبة | Tomorrow: Al-Shamal vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشما
+ ل × الأهلي | Kick-off in 30 min: Al-Shamal vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050111@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261208T191500Z
+DTEND:20261208T211500Z
+SUMMARY:Al Ahli vs Shabab Al-Ahli Dubai FC — AFC Champions League Elite
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/6050111
+DESCRIPTION:⚽ الأهلي × شباب الاهلي\n🏆 دوري أبط
+ ال آسيا للنخبة — الجولة 6\n🗓 الثلاثاء 8 د
+ يسمبر 2026 · 22:15 بتوقيت الرياض\n🏟 Alinma Bank Stadi
+ um at King Abdullah Sport City، Jeddah\n—————\n⚽ Al Ahli v Sh
+ abab Al-Ahli Dubai FC\n🏆 AFC Champions League Elite — Matchday 6\n
+ 🗓 Tue 08 Dec 2026 · 19:15 UTC\n🏟 Alinma Bank Stadium at King Abdull
+ ah Sport City, Jeddah\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد شباب الاهلي — دو
+ ري أبطال آسيا للنخبة | Tomorrow: Al Ahli vs Shabab Al-Ahl
+ i Dubai FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × شباب الاهلي | Kick-off in 30 min: Al Ahli vs Shabab Al-Ahl
+ i Dubai FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050118@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270209T144500Z
+DTEND:20270209T164500Z
+SUMMARY:Neftchi Fargona vs Al Ahli — AFC Champions League Elite
+LOCATION:Istiqlol stadioni\, Farg'ona (Fergana)\, Uzbekistan
+GEO:40.390534;71.749676
+URL:https://www.fotmob.com/match/6050118
+DESCRIPTION:⚽ نيفتشي فرغانة × الأهلي\n🏆 دوري أ
+ بطال آسيا للنخبة — الجولة 7\n🗓 الثلاثاء 9
+  فبراير 2027 · 17:45 بتوقيت الرياض\n🏟 Istiqlol stadi
+ oni، Farg'ona (Fergana)\n—————\n⚽ Neftchi Fargona v Al Ahli\n
+ 🏆 AFC Champions League Elite — Matchday 7\n🗓 Tue 09 Feb 2027 · 14
+ :45 UTC\n🏟 Istiqlol stadioni, Farg'ona (Fergana)\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيفتشي فرغانة ضد الأهلي — 
+ دوري أبطال آسيا للنخبة | Tomorrow: Neftchi Fargona vs A
+ l Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيفتش
+ ي فرغانة × الأهلي | Kick-off in 30 min: Neftchi Fargona vs A
+ l Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050121@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270215T191500Z
+DTEND:20270215T211500Z
+SUMMARY:Al Ahli vs Al-Ain — AFC Champions League Elite
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/6050121
+DESCRIPTION:⚽ الأهلي × العين\n🏆 دوري أبطال آسي
+ ا للنخبة — الجولة 8\n🗓 الاثنين 15 فبراير 20
+ 27 · 22:15 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Ab
+ dullah Sport City، Jeddah\n—————\n⚽ Al Ahli v Al-Ain\n🏆 AF
+ C Champions League Elite — Matchday 8\n🗓 Mon 15 Feb 2027 · 19:15 UTC
+ \n🏟 Alinma Bank Stadium at King Abdullah Sport City, Jeddah\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد العين — دوري أبط
+ ال آسيا للنخبة | Tomorrow: Al Ahli vs Al-Ain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × العين | Kick-off in 30 min: Al Ahli vs Al-Ain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853715@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260817T160000Z
+DTEND:20260817T180000Z
+SUMMARY:Al Anwar vs Al Ahli (1 - 2) — King's Cup
+LOCATION:Al Anwar Club Stadium\, Howtat Bani Tamim\, Saudi Arabia
+GEO:23.506883;46.893466
+URL:https://www.fotmob.com/match/5853715
+DESCRIPTION:⚽ الأنوار × الأهلي (1 - 2)\n🏆 كأس خاد
+ م الحرمين الشريفين — دور الـ32\n🗓 الاثني
+ ن 17 أغسطس 2026 · 19:00 بتوقيت الرياض\n🏟 Al Anwar Cl
+ ub Stadium، Howtat Bani Tamim\n⚖️ الحكم: Abdullah Al Owaydan\n
+ 👥 الحضور: 3,009\n—————\n⚽ Al Anwar v Al Ahli (1 - 2)\
+ n🏆 King's Cup — Round of 32\n🗓 Mon 17 Aug 2026 · 16:00 UTC\n🏟 
+ Al Anwar Club Stadium, Howtat Bani Tamim\nReferee: Abdullah Al Owaydan\nAt
+ tendance: 3,009\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأنوار ضد الأهلي — كأس خا
+ دم الحرمين الشريفين | Tomorrow: Al Anwar vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأنو
+ ار × الأهلي | Kick-off in 30 min: Al Anwar vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6125934@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Al-Ula FC vs Al Ahli — King's Cup
+URL:https://www.fotmob.com/match/6125934
+DESCRIPTION:⚽ العلا × الأهلي\n🏆 كأس خادم الحرم
+ ين الشريفين — دور الـ16\n🗓 الثلاثاء 1 ديس
+ مبر 2026 · 20:00 بتوقيت الرياض\n—————\n⚽ Al-Ul
+ a FC v Al Ahli\n🏆 King's Cup — Round of 16\n🗓 Tue 01 Dec 2026 · 1
+ 7:00 UTC\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: العلا ضد الأهلي — كأس خادم 
+ الحرمين الشريفين | Tomorrow: Al-Ula FC vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: العلا 
+ × الأهلي | Kick-off in 30 min: Al-Ula FC vs Al Ahli
+END:VALARM
+END:VEVENT
+END:VCALENDAR

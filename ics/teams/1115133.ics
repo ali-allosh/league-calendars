@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al Jabalain — King's Cup Fixtures | الجبلين — 
+ مباريات كأس خادم الحرمين الشريفين
+X-WR-CALDESC:Al Jabalain — all matches in King's Cup\, exact UTC kickoffs
+ \, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:3
+ 1:10Z.  •  الجبلين — جميع المباريات في كأس خ
+ ادم الحرمين الشريفين بتوقيت UTC الدقيق مع 
+ الملاعب والقنوات الناقلة. المصدر: FotMob + 365
+ scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5853719@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260818T161500Z
+DTEND:20260818T181500Z
+SUMMARY:Al Jabalain vs Al-Ettifaq (1 - 0) — King's Cup
+LOCATION:Prince Abdul Aziz bin Musa'ed Stadium\, Ha'il (Hail)\, Saudi Arabi
+ a
+GEO:27.503989;41.697600
+URL:https://www.fotmob.com/match/5853719
+DESCRIPTION:⚽ الجبلين × الاتفاق (1 - 0)\n🏆 كأس خا
+ دم الحرمين الشريفين — دور الـ32\n🗓 الثلا
+ ثاء 18 أغسطس 2026 · 19:15 بتوقيت الرياض\n🏟 Prince 
+ Abdul Aziz bin Musa'ed Stadium، Ha'il (Hail)\n⚖️ الحكم: Abdullah
+  Al-Harbi\n—————\n⚽ Al Jabalain v Al-Ettifaq (1 - 0)\n🏆 Kin
+ g's Cup — Round of 32\n🗓 Tue 18 Aug 2026 · 16:15 UTC\n🏟 Prince Ab
+ dul Aziz bin Musa'ed Stadium, Ha'il (Hail)\nReferee: Abdullah Al-Harbi\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجبلين ضد الاتفاق — كأس خ
+ ادم الحرمين الشريفين | Tomorrow: Al Jabalain vs Al-Ettif
+ aq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجبل
+ ين × الاتفاق | Kick-off in 30 min: Al Jabalain vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6125928@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Al Jabalain vs Al Ittihad — King's Cup
+LOCATION:Prince Abdul Aziz bin Musa'ed Stadium\, Ha'il (Hail)\, Saudi Arabi
+ a
+GEO:27.503989;41.697600
+URL:https://www.fotmob.com/match/6125928
+DESCRIPTION:⚽ الجبلين × الاتحاد\n🏆 كأس خادم ال
+ حرمين الشريفين — دور الـ16\n🗓 الثلاثاء 1 
+ ديسمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Prince Abdul Az
+ iz bin Musa'ed Stadium، Ha'il (Hail)\n—————\n⚽ Al Jabalain v 
+ Al Ittihad\n🏆 King's Cup — Round of 16\n🗓 Tue 01 Dec 2026 · 17:00
+  UTC\n🏟 Prince Abdul Aziz bin Musa'ed Stadium, Ha'il (Hail)\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجبلين ضد الاتحاد — كأس خ
+ ادم الحرمين الشريفين | Tomorrow: Al Jabalain vs Al Ittih
+ ad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجبل
+ ين × الاتحاد | Kick-off in 30 min: Al Jabalain vs Al Ittihad
+END:VALARM
+END:VEVENT
+END:VCALENDAR

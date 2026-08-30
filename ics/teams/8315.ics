@@ -1,0 +1,1418 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Athletic Club — LaLiga & Copa del Rey Fixtures | أتل
+ تيك بلباو — مباريات الدوري الإسباني وكأ
+ س ملك إسبانيا
+X-WR-CALDESC:Athletic Club — all matches in LaLiga & Copa del Rey\, exact
+  UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 20
+ 26-09-05T19:31:10Z.  •  أتلتيك بلباو — جميع المبا
+ ريات في الدوري الإسباني وكأس ملك إسبانيا
+  بتوقيت UTC الدقيق مع الملاعب والقنوات الن
+ اقلة. المصدر: FotMob + 365scores · تحديث تلقائي 2026
+ -09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5868021@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T150000Z
+DTEND:20260822T170000Z
+SUMMARY:Athletic Club vs Sevilla (1 - 3) — LaLiga
+LOCATION:Estadio de San Mamés\, Bilbao\, Spain
+GEO:43.264173;-2.949383
+URL:https://www.fotmob.com/match/5868021
+DESCRIPTION:⚽ أتلتيك بلباو × إشبيلية (1 - 3)\n🏆 ا
+ لدوري الإسباني — الجولة 2\n🗓 السبت 22 أغس
+ طس 2026 · 18:00 بتوقيت الرياض\n🏟 Estadio de San Mamés،
+  Bilbao\n⚖️ الحكم: César Soto Grado\n👥 الحضور: 49,416\n
+ —————\n⚽ Athletic Club v Sevilla (1 - 3)\n🏆 LaLiga — Matc
+ hday 2\n🗓 Sat 22 Aug 2026 · 15:00 UTC\n🏟 Estadio de San Mamés, Bil
+ bao\nReferee: César Soto Grado\nAttendance: 49,416\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد إشبيلية — 
+ الدوري الإسباني | Tomorrow: Athletic Club vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × إشبيلية | Kick-off in 30 min: Athletic Club vs Sev
+ illa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868016@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260827T190000Z
+DTEND:20260827T210000Z
+SUMMARY:Barcelona vs Athletic Club (2 - 0) — LaLiga
+LOCATION:Spotify Camp Nou\, Barcelona\, Spain
+GEO:41.380890;2.122813
+URL:https://www.fotmob.com/match/5868016
+DESCRIPTION:⚽ برشلونة × أتلتيك بلباو (2 - 0)\n🏆 ا
+ لدوري الإسباني — الجولة 1\n🗓 الخميس 27 أغ
+ سطس 2026 · 22:00 بتوقيت الرياض\n🏟 Spotify Camp Nou، Ba
+ rcelona\n⚖️ الحكم: Miguel Ángel Ortiz Arias\n👥 الحضور: 
+ 59,326\n—————\n⚽ Barcelona v Athletic Club (2 - 0)\n🏆 LaLig
+ a — Matchday 1\n🗓 Thu 27 Aug 2026 · 19:00 UTC\n🏟 Spotify Camp Nou
+ , Barcelona\nReferee: Miguel Ángel Ortiz Arias\nAttendance: 59,326\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد أتلتيك بلباو — 
+ الدوري الإسباني | Tomorrow: Barcelona vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × أتلتيك بلباو | Kick-off in 30 min: Barcelona vs Athleti
+ c Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868032@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T193000Z
+DTEND:20260830T213000Z
+SUMMARY:Celta Vigo vs Athletic Club (0 - 2) — LaLiga
+LOCATION:Estadio Abanca-Balaídos\, Vigo\, Spain
+GEO:42.211852;-8.739721
+URL:https://www.fotmob.com/match/5868032
+DESCRIPTION:⚽ سيلتا فيجو × أتلتيك بلباو (0 - 2)\n
+ 🏆 الدوري الإسباني — الجولة 3\n🗓 الأحد 30 
+ أغسطس 2026 · 22:30 بتوقيت الرياض\n🏟 Estadio Abanca-Ba
+ laídos، Vigo\n⚖️ الحكم: Mateo Busquets Ferrer\n—————\
+ n⚽ Celta Vigo v Athletic Club (0 - 2)\n🏆 LaLiga — Matchday 3\n🗓 
+ Sun 30 Aug 2026 · 19:30 UTC\n🏟 Estadio Abanca-Balaídos, Vigo\nReferee
+ : Mateo Busquets Ferrer\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتا فيجو ضد أتلتيك بلباو 
+ — الدوري الإسباني | Tomorrow: Celta Vigo vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتا 
+ فيجو × أتلتيك بلباو | Kick-off in 30 min: Celta Vigo vs At
+ hletic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868042@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T141500Z
+DTEND:20260905T161500Z
+SUMMARY:Athletic Club vs Atlético Madrid (3 - 0) — LaLiga
+LOCATION:Estadio de San Mamés\, Bilbao\, Spain
+GEO:43.264173;-2.949383
+URL:https://www.fotmob.com/match/5868042
+DESCRIPTION:⚽ أتلتيك بلباو × أتلتيكو مدريد (3 - 0
+ )\n🏆 الدوري الإسباني — الجولة 4\n🗓 السبت 
+ 5 سبتمبر 2026 · 17:15 بتوقيت الرياض\n🏟 Estadio de Sa
+ n Mamés، Bilbao\n📺 LaLigaTV، Premier Sports Player، ESPN Deportes،
+  ESPN Unlimited، Fubo Sports، ESPN Select، TSN+، LaLiga TV\n⚖️ ا
+ لحكم: José Luis Munuera Montero\n👥 الحضور: 48,425\n———
+ ——\n⚽ Athletic Club v Atlético Madrid (3 - 0)\n🏆 LaLiga — Matc
+ hday 4\n🗓 Sat 05 Sep 2026 · 14:15 UTC\n🏟 Estadio de San Mamés, Bil
+ bao\n📺 LaLigaTV, Premier Sports Player, ESPN Deportes, ESPN Unlimited, 
+ Fubo Sports, ESPN Select, TSN+, LaLiga TV\nReferee: José Luis Munuera Mon
+ tero\nAttendance: 48,425\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد أتلتيكو مد
+ ريد — الدوري الإسباني — 📺 LaLigaTV، Premier Sport
+ s Player، ESPN Deportes، ESPN Unlimited، Fubo Sports، ESPN Select، TS
+ N+، LaLiga TV | Tomorrow: Athletic Club vs Atlético Madrid | TV: LaLigaT
+ V\, Premier Sports Player\, ESPN Deportes\, ESPN Unlimited\, Fubo Sports\,
+  ESPN Select\, TSN+\, LaLiga TV
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × أتلتيكو مدريد — 📺 LaLigaTV، Premier Spo
+ rts Player، ESPN Deportes، ESPN Unlimited، Fubo Sports، ESPN Select، 
+ TSN+، LaLiga TV | Kick-off in 30 min: Athletic Club vs Atlético Madrid |
+  TV: LaLigaTV\, Premier Sports Player\, ESPN Deportes\, ESPN Unlimited\, F
+ ubo Sports\, ESPN Select\, TSN+\, LaLiga TV
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868051@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T163000Z
+DTEND:20260912T183000Z
+SUMMARY:Athletic Club vs Elche — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868051
+DESCRIPTION:⚽ أتلتيك بلباو × إلتشي\n🏆 الدوري ا
+ لإسباني — الجولة 5\n🗓 السبت 12 سبتمبر 2026 ·
+  19:30 بتوقيت الرياض\n🏟 San Mames\n📺 Premier Sports 2 UK
+ ، LaLigaTV، Premier Sports Player، Premier Sports 2 ROI، beIN Sports C
+ onnect Singapore، beIN SPORTS CONNECT، FanCode، Now Player\n———
+ ——\n⚽ Athletic Club v Elche\n🏆 LaLiga — Matchday 5\n🗓 Sat 12
+  Sep 2026 · 16:30 UTC\n🏟 San Mames\n📺 Premier Sports 2 UK, LaLigaTV
+ , Premier Sports Player, Premier Sports 2 ROI, beIN Sports Connect Singapo
+ re, beIN SPORTS CONNECT, FanCode, Now Player\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد إلتشي — ال
+ دوري الإسباني — 📺 Premier Sports 2 UK، LaLigaTV، Premie
+ r Sports Player، Premier Sports 2 ROI، beIN Sports Connect Singapore، b
+ eIN SPORTS CONNECT، FanCode، Now Player | Tomorrow: Athletic Club vs Elc
+ he | TV: Premier Sports 2 UK\, LaLigaTV\, Premier Sports Player\, Premier 
+ Sports 2 ROI\, beIN Sports Connect Singapore\, beIN SPORTS CONNECT\, FanCo
+ de\, Now Player
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × إلتشي — 📺 Premier Sports 2 UK، LaLigaTV، Prem
+ ier Sports Player، Premier Sports 2 ROI، beIN Sports Connect Singapore،
+  beIN SPORTS CONNECT، FanCode، Now Player | Kick-off in 30 min: Athletic
+  Club vs Elche | TV: Premier Sports 2 UK\, LaLigaTV\, Premier Sports Playe
+ r\, Premier Sports 2 ROI\, beIN Sports Connect Singapore\, beIN SPORTS CON
+ NECT\, FanCode\, Now Player
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868067@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T193000Z
+DTEND:20260916T213000Z
+SUMMARY:Levante vs Athletic Club — LaLiga
+LOCATION:Estadio Ciudad de Valencia
+URL:https://www.fotmob.com/match/5868067
+DESCRIPTION:⚽ ليفانتي × أتلتيك بلباو\n🏆 الدور
+ ي الإسباني — الجولة 6\n🗓 الأربعاء 16 سبتم
+ بر 2026 · 22:30 بتوقيت الرياض\n🏟 Estadio Ciudad de Valen
+ cia\n—————\n⚽ Levante v Athletic Club\n🏆 LaLiga — Matchda
+ y 6\n🗓 Wed 16 Sep 2026 · 19:30 UTC\n🏟 Estadio Ciudad de Valencia\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفانتي ضد أتلتيك بلباو — 
+ الدوري الإسباني | Tomorrow: Levante vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفان
+ تي × أتلتيك بلباو | Kick-off in 30 min: Levante vs Athletic 
+ Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868071@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T141500Z
+DTEND:20260919T161500Z
+SUMMARY:Athletic Club vs Deportivo Alavés — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868071
+DESCRIPTION:⚽ أتلتيك بلباو × ديبورتيفو ألافيس\
+ n🏆 الدوري الإسباني — الجولة 7\n🗓 السبت 19
+  سبتمبر 2026 · 17:15 بتوقيت الرياض\n🏟 San Mames\n—
+ ————\n⚽ Athletic Club v Deportivo Alavés\n🏆 LaLiga — Match
+ day 7\n🗓 Sat 19 Sep 2026 · 14:15 UTC\n🏟 San Mames\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد ديبورتيفو 
+ ألافيس — الدوري الإسباني | Tomorrow: Athletic Club v
+ s Deportivo Alavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × ديبورتيفو ألافيس | Kick-off in 30 min: Ath
+ letic Club vs Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868088@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Rayo Vallecano vs Athletic Club — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868088
+DESCRIPTION:⚽ رايو فاييكانو × أتلتيك بلباو\n🏆 
+ الدوري الإسباني — الجولة 8\n🗓 الأحد 11 أك
+ توبر 2026 · 16:00 بتوقيت الرياض\n🏟 Campo de Futbol de 
+ Vallecas\n—————\n⚽ Rayo Vallecano v Athletic Club\n🏆 LaLiga
+  — Matchday 8\n🗓 Sun 11 Oct 2026 · 13:00 UTC\n🏟 Campo de Futbol d
+ e Vallecas\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد أتلتيك بل
+ باو — الدوري الإسباني | Tomorrow: Rayo Vallecano vs Ath
+ letic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × أتلتيك بلباو | Kick-off in 30 min: Rayo Valle
+ cano vs Athletic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868099@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Valencia vs Athletic Club — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868099
+DESCRIPTION:⚽ فالنسيا × أتلتيك بلباو\n🏆 الدور
+ ي الإسباني — الجولة 9\n🗓 الأحد 18 أكتوبر 20
+ 26 · 16:00 بتوقيت الرياض\n🏟 Estadio Mestalla\n————
+ —\n⚽ Valencia v Athletic Club\n🏆 LaLiga — Matchday 9\n🗓 Sun 18
+  Oct 2026 · 13:00 UTC\n🏟 Estadio Mestalla\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد أتلتيك بلباو — 
+ الدوري الإسباني | Tomorrow: Valencia vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × أتلتيك بلباو | Kick-off in 30 min: Valencia vs Athletic
+  Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868102@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Athletic Club vs Getafe — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868102
+DESCRIPTION:⚽ أتلتيك بلباو × خيتافي\n🏆 الدوري 
+ الإسباني — الجولة 10\n🗓 الأحد 25 أكتوبر 2026
+  · 17:00 بتوقيت الرياض\n🏟 San Mames\n—————\n⚽ 
+ Athletic Club v Getafe\n🏆 LaLiga — Matchday 10\n🗓 Sun 25 Oct 2026 
+ · 14:00 UTC\n🏟 San Mames\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد خيتافي — ا
+ لدوري الإسباني | Tomorrow: Athletic Club vs Getafe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × خيتافي | Kick-off in 30 min: Athletic Club vs Getaf
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868111@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Athletic Club vs Real Sociedad — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868111
+DESCRIPTION:⚽ أتلتيك بلباو × ريال سوسيداد\n🏆 ا
+ لدوري الإسباني — الجولة 11\n🗓 الأحد 1 نوف
+ مبر 2026 · 17:00 بتوقيت الرياض\n🏟 San Mames\n———
+ ——\n⚽ Athletic Club v Real Sociedad\n🏆 LaLiga — Matchday 11\n
+ 🗓 Sun 01 Nov 2026 · 14:00 UTC\n🏟 San Mames\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد ريال سوسيد
+ اد — الدوري الإسباني | Tomorrow: Athletic Club vs Real S
+ ociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × ريال سوسيداد | Kick-off in 30 min: Athletic Cl
+ ub vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868126@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Osasuna vs Athletic Club — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868126
+DESCRIPTION:⚽ أوساسونا × أتلتيك بلباو\n🏆 الدو
+ ري الإسباني — الجولة 12\n🗓 الأحد 8 نوفمبر 
+ 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio El Sadar\n———
+ ——\n⚽ Osasuna v Athletic Club\n🏆 LaLiga — Matchday 12\n🗓 Sun
+  08 Nov 2026 · 14:00 UTC\n🏟 Estadio El Sadar\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد أتلتيك بلباو —
+  الدوري الإسباني | Tomorrow: Osasuna vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × أتلتيك بلباو | Kick-off in 30 min: Osasuna vs Athleti
+ c Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868132@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Athletic Club vs Espanyol — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868132
+DESCRIPTION:⚽ أتلتيك بلباو × إسبانيول\n🏆 الدو
+ ري الإسباني — الجولة 13\n🗓 الأحد 22 نوفمبر
+  2026 · 17:00 بتوقيت الرياض\n🏟 San Mames\n—————\
+ n⚽ Athletic Club v Espanyol\n🏆 LaLiga — Matchday 13\n🗓 Sun 22 No
+ v 2026 · 14:00 UTC\n🏟 San Mames\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد إسبانيول —
+  الدوري الإسباني | Tomorrow: Athletic Club vs Espanyol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × إسبانيول | Kick-off in 30 min: Athletic Club vs E
+ spanyol
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868147@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T140000Z
+DTEND:20261129T160000Z
+SUMMARY:Málaga vs Athletic Club — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868147
+DESCRIPTION:⚽ مالقا × أتلتيك بلباو\n🏆 الدوري ا
+ لإسباني — الجولة 14\n🗓 الأحد 29 نوفمبر 2026 
+ · 17:00 بتوقيت الرياض\n🏟 Estadio La Rosaleda\n————
+ —\n⚽ Málaga v Athletic Club\n🏆 LaLiga — Matchday 14\n🗓 Sun 29
+  Nov 2026 · 14:00 UTC\n🏟 Estadio La Rosaleda\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد أتلتيك بلباو — ال
+ دوري الإسباني | Tomorrow: Málaga vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × أتلتيك بلباو | Kick-off in 30 min: Málaga vs Athletic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868152@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T140000Z
+DTEND:20261206T160000Z
+SUMMARY:Athletic Club vs Real Madrid — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868152
+DESCRIPTION:⚽ أتلتيك بلباو × ريال مدريد\n🏆 الد
+ وري الإسباني — الجولة 15\n🗓 الأحد 6 ديسمب
+ ر 2026 · 17:00 بتوقيت الرياض\n🏟 San Mames\n————
+ —\n⚽ Athletic Club v Real Madrid\n🏆 LaLiga — Matchday 15\n🗓 Su
+ n 06 Dec 2026 · 14:00 UTC\n🏟 San Mames\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد ريال مدريد 
+ — الدوري الإسباني | Tomorrow: Athletic Club vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × ريال مدريد | Kick-off in 30 min: Athletic Club v
+ s Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868163@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T140000Z
+DTEND:20261213T160000Z
+SUMMARY:Deportivo A Coruña vs Athletic Club — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868163
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × أتلتيك بل
+ باو\n🏆 الدوري الإسباني — الجولة 16\n🗓 ال
+ أحد 13 ديسمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Abanc
+ a-Riazor\n—————\n⚽ Deportivo A Coruña v Athletic Club\n🏆 L
+ aLiga — Matchday 16\n🗓 Sun 13 Dec 2026 · 14:00 UTC\n🏟 Abanca-Riaz
+ or\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد أتل
+ تيك بلباو — الدوري الإسباني | Tomorrow: Deportivo 
+ A Coruña vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × أتلتيك بلباو | Kick-off in 30 mi
+ n: Deportivo A Coruña vs Athletic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868172@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T140000Z
+DTEND:20261220T160000Z
+SUMMARY:Athletic Club vs Real Betis — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868172
+DESCRIPTION:⚽ أتلتيك بلباو × ريال بيتيس\n🏆 الد
+ وري الإسباني — الجولة 17\n🗓 الأحد 20 ديسمب
+ ر 2026 · 17:00 بتوقيت الرياض\n🏟 San Mames\n————
+ —\n⚽ Athletic Club v Real Betis\n🏆 LaLiga — Matchday 17\n🗓 Sun
+  20 Dec 2026 · 14:00 UTC\n🏟 San Mames\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد ريال بيتيس 
+ — الدوري الإسباني | Tomorrow: Athletic Club vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × ريال بيتيس | Kick-off in 30 min: Athletic Club v
+ s Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868186@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T140000Z
+DTEND:20270103T160000Z
+SUMMARY:Racing Santander vs Athletic Club — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868186
+DESCRIPTION:⚽ راسينج سانتاندير × أتلتيك بلباو\
+ n🏆 الدوري الإسباني — الجولة 18\n🗓 الأحد 3
+  يناير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio El Sardi
+ nero\n—————\n⚽ Racing Santander v Athletic Club\n🏆 LaLiga 
+ — Matchday 18\n🗓 Sun 03 Jan 2027 · 14:00 UTC\n🏟 Estadio El Sardin
+ ero\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد أتلتيك
+  بلباو — الدوري الإسباني | Tomorrow: Racing Santander
+  vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × أتلتيك بلباو | Kick-off in 30 min: Rac
+ ing Santander vs Athletic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868192@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T140000Z
+DTEND:20270110T160000Z
+SUMMARY:Athletic Club vs Villarreal — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868192
+DESCRIPTION:⚽ أتلتيك بلباو × فياريال\n🏆 الدور
+ ي الإسباني — الجولة 19\n🗓 الأحد 10 يناير 202
+ 7 · 17:00 بتوقيت الرياض\n🏟 San Mames\n—————\n⚽
+  Athletic Club v Villarreal\n🏆 LaLiga — Matchday 19\n🗓 Sun 10 Jan 
+ 2027 · 14:00 UTC\n🏟 San Mames\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد فياريال — 
+ الدوري الإسباني | Tomorrow: Athletic Club vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × فياريال | Kick-off in 30 min: Athletic Club vs Vil
+ larreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868205@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T140000Z
+DTEND:20270117T160000Z
+SUMMARY:Getafe vs Athletic Club — LaLiga
+LOCATION:Coliseum
+URL:https://www.fotmob.com/match/5868205
+DESCRIPTION:⚽ خيتافي × أتلتيك بلباو\n🏆 الدوري 
+ الإسباني — الجولة 20\n🗓 الأحد 17 يناير 2027 
+ · 17:00 بتوقيت الرياض\n🏟 Coliseum\n—————\n⚽ Ge
+ tafe v Athletic Club\n🏆 LaLiga — Matchday 20\n🗓 Sun 17 Jan 2027 ·
+  14:00 UTC\n🏟 Coliseum\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: خيتافي ضد أتلتيك بلباو — ا
+ لدوري الإسباني | Tomorrow: Getafe vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: خيتاف
+ ي × أتلتيك بلباو | Kick-off in 30 min: Getafe vs Athletic Clu
+ b
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868212@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T140000Z
+DTEND:20270124T160000Z
+SUMMARY:Athletic Club vs Levante — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868212
+DESCRIPTION:⚽ أتلتيك بلباو × ليفانتي\n🏆 الدور
+ ي الإسباني — الجولة 21\n🗓 الأحد 24 يناير 202
+ 7 · 17:00 بتوقيت الرياض\n🏟 San Mames\n—————\n⚽
+  Athletic Club v Levante\n🏆 LaLiga — Matchday 21\n🗓 Sun 24 Jan 202
+ 7 · 14:00 UTC\n🏟 San Mames\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد ليفانتي — 
+ الدوري الإسباني | Tomorrow: Athletic Club vs Levante
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × ليفانتي | Kick-off in 30 min: Athletic Club vs Lev
+ ante
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868229@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Sevilla vs Athletic Club — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868229
+DESCRIPTION:⚽ إشبيلية × أتلتيك بلباو\n🏆 الدور
+ ي الإسباني — الجولة 22\n🗓 الأحد 31 يناير 202
+ 7 · 17:00 بتوقيت الرياض\n🏟 Estadio R. Sanchez Pizjuan\n—
+ ————\n⚽ Sevilla v Athletic Club\n🏆 LaLiga — Matchday 22\n
+ 🗓 Sun 31 Jan 2027 · 14:00 UTC\n🏟 Estadio R. Sanchez Pizjuan\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد أتلتيك بلباو — 
+ الدوري الإسباني | Tomorrow: Sevilla vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × أتلتيك بلباو | Kick-off in 30 min: Sevilla vs Athletic 
+ Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868232@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:Athletic Club vs Osasuna — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868232
+DESCRIPTION:⚽ أتلتيك بلباو × أوساسونا\n🏆 الدو
+ ري الإسباني — الجولة 23\n🗓 الأحد 7 فبراير 
+ 2027 · 17:00 بتوقيت الرياض\n🏟 San Mames\n—————\n
+ ⚽ Athletic Club v Osasuna\n🏆 LaLiga — Matchday 23\n🗓 Sun 07 Feb 
+ 2027 · 14:00 UTC\n🏟 San Mames\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد أوساسونا —
+  الدوري الإسباني | Tomorrow: Athletic Club vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × أوساسونا | Kick-off in 30 min: Athletic Club vs O
+ sasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868246@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T140000Z
+DTEND:20270214T160000Z
+SUMMARY:Real Madrid vs Athletic Club — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868246
+DESCRIPTION:⚽ ريال مدريد × أتلتيك بلباو\n🏆 الد
+ وري الإسباني — الجولة 24\n🗓 الأحد 14 فبراي
+ ر 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n——
+ ———\n⚽ Real Madrid v Athletic Club\n🏆 LaLiga — Matchday 24\n
+ 🗓 Sun 14 Feb 2027 · 14:00 UTC\n🏟 Estadio Bernabeu\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد أتلتيك بلباو 
+ — الدوري الإسباني | Tomorrow: Real Madrid vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × أتلتيك بلباو | Kick-off in 30 min: Real Madrid vs A
+ thletic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868252@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T140000Z
+DTEND:20270221T160000Z
+SUMMARY:Athletic Club vs Celta Vigo — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868252
+DESCRIPTION:⚽ أتلتيك بلباو × سيلتا فيجو\n🏆 الد
+ وري الإسباني — الجولة 25\n🗓 الأحد 21 فبراي
+ ر 2027 · 17:00 بتوقيت الرياض\n🏟 San Mames\n————
+ —\n⚽ Athletic Club v Celta Vigo\n🏆 LaLiga — Matchday 25\n🗓 Sun
+  21 Feb 2027 · 14:00 UTC\n🏟 San Mames\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد سيلتا فيجو 
+ — الدوري الإسباني | Tomorrow: Athletic Club vs Celta Vigo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × سيلتا فيجو | Kick-off in 30 min: Athletic Club v
+ s Celta Vigo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868261@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T140000Z
+DTEND:20270228T160000Z
+SUMMARY:Athletic Club vs Barcelona — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868261
+DESCRIPTION:⚽ أتلتيك بلباو × برشلونة\n🏆 الدور
+ ي الإسباني — الجولة 26\n🗓 الأحد 28 فبراير 2
+ 027 · 17:00 بتوقيت الرياض\n🏟 San Mames\n—————\n
+ ⚽ Athletic Club v Barcelona\n🏆 LaLiga — Matchday 26\n🗓 Sun 28 Fe
+ b 2027 · 14:00 UTC\n🏟 San Mames\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد برشلونة — 
+ الدوري الإسباني | Tomorrow: Athletic Club vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × برشلونة | Kick-off in 30 min: Athletic Club vs Bar
+ celona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868271@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T140000Z
+DTEND:20270307T160000Z
+SUMMARY:Deportivo Alavés vs Athletic Club — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868271
+DESCRIPTION:⚽ ديبورتيفو ألافيس × أتلتيك بلباو\
+ n🏆 الدوري الإسباني — الجولة 27\n🗓 الأحد 7
+  مارس 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio Mendizorro
+ za\n—————\n⚽ Deportivo Alavés v Athletic Club\n🏆 LaLiga 
+ — Matchday 27\n🗓 Sun 07 Mar 2027 · 14:00 UTC\n🏟 Estadio Mendizorr
+ oza\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد أتلتيك
+  بلباو — الدوري الإسباني | Tomorrow: Deportivo Alavé
+ s vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × أتلتيك بلباو | Kick-off in 30 min: Dep
+ ortivo Alavés vs Athletic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868282@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T140000Z
+DTEND:20270314T160000Z
+SUMMARY:Athletic Club vs Valencia — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868282
+DESCRIPTION:⚽ أتلتيك بلباو × فالنسيا\n🏆 الدور
+ ي الإسباني — الجولة 28\n🗓 الأحد 14 مارس 2027 
+ · 17:00 بتوقيت الرياض\n🏟 San Mames\n—————\n⚽ A
+ thletic Club v Valencia\n🏆 LaLiga — Matchday 28\n🗓 Sun 14 Mar 2027
+  · 14:00 UTC\n🏟 San Mames\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد فالنسيا — 
+ الدوري الإسباني | Tomorrow: Athletic Club vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × فالنسيا | Kick-off in 30 min: Athletic Club vs Val
+ encia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868293@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T140000Z
+DTEND:20270321T160000Z
+SUMMARY:Espanyol vs Athletic Club — LaLiga
+LOCATION:RCDE Stadium
+URL:https://www.fotmob.com/match/5868293
+DESCRIPTION:⚽ إسبانيول × أتلتيك بلباو\n🏆 الدو
+ ري الإسباني — الجولة 29\n🗓 الأحد 21 مارس 202
+ 7 · 17:00 بتوقيت الرياض\n🏟 RCDE Stadium\n—————\n
+ ⚽ Espanyol v Athletic Club\n🏆 LaLiga — Matchday 29\n🗓 Sun 21 Mar
+  2027 · 14:00 UTC\n🏟 RCDE Stadium\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إسبانيول ضد أتلتيك بلباو —
+  الدوري الإسباني | Tomorrow: Espanyol vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إسبان
+ يول × أتلتيك بلباو | Kick-off in 30 min: Espanyol vs Athlet
+ ic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868301@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T130000Z
+DTEND:20270404T150000Z
+SUMMARY:Athletic Club vs Racing Santander — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868301
+DESCRIPTION:⚽ أتلتيك بلباو × راسينج سانتاندير\
+ n🏆 الدوري الإسباني — الجولة 30\n🗓 الأحد 4
+  أبريل 2027 · 16:00 بتوقيت الرياض\n🏟 San Mames\n—
+ ————\n⚽ Athletic Club v Racing Santander\n🏆 LaLiga — Matchd
+ ay 30\n🗓 Sun 04 Apr 2027 · 13:00 UTC\n🏟 San Mames\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد راسينج سان
+ تاندير — الدوري الإسباني | Tomorrow: Athletic Club v
+ s Racing Santander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × راسينج سانتاندير | Kick-off in 30 min: Ath
+ letic Club vs Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868320@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T130000Z
+DTEND:20270411T150000Z
+SUMMARY:Villarreal vs Athletic Club — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868320
+DESCRIPTION:⚽ فياريال × أتلتيك بلباو\n🏆 الدور
+ ي الإسباني — الجولة 31\n🗓 الأحد 11 أبريل 202
+ 7 · 16:00 بتوقيت الرياض\n🏟 Estadio de la Ceramica\n——
+ ———\n⚽ Villarreal v Athletic Club\n🏆 LaLiga — Matchday 31\n
+ 🗓 Sun 11 Apr 2027 · 13:00 UTC\n🏟 Estadio de la Ceramica\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد أتلتيك بلباو — 
+ الدوري الإسباني | Tomorrow: Villarreal vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × أتلتيك بلباو | Kick-off in 30 min: Villarreal vs Athlet
+ ic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868323@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T130000Z
+DTEND:20270418T150000Z
+SUMMARY:Real Betis vs Athletic Club — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868323
+DESCRIPTION:⚽ ريال بيتيس × أتلتيك بلباو\n🏆 الد
+ وري الإسباني — الجولة 32\n🗓 الأحد 18 أبريل
+  2027 · 16:00 بتوقيت الرياض\n🏟 Estadio de La Cartuja\n—
+ ————\n⚽ Real Betis v Athletic Club\n🏆 LaLiga — Matchday 32\
+ n🗓 Sun 18 Apr 2027 · 13:00 UTC\n🏟 Estadio de La Cartuja\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد أتلتيك بلباو 
+ — الدوري الإسباني | Tomorrow: Real Betis vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × أتلتيك بلباو | Kick-off in 30 min: Real Betis vs At
+ hletic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868331@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270421T130000Z
+DTEND:20270421T150000Z
+SUMMARY:Athletic Club vs Deportivo A Coruña — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868331
+DESCRIPTION:⚽ أتلتيك بلباو × ديبورتيفو لاكورو
+ نيا\n🏆 الدوري الإسباني — الجولة 33\n🗓 ال
+ أربعاء 21 أبريل 2027 · 16:00 بتوقيت الرياض\n🏟 S
+ an Mames\n—————\n⚽ Athletic Club v Deportivo A Coruña\n🏆 L
+ aLiga — Matchday 33\n🗓 Wed 21 Apr 2027 · 13:00 UTC\n🏟 San Mames\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد ديبورتيفو 
+ لاكورونيا — الدوري الإسباني | Tomorrow: Athletic 
+ Club vs Deportivo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × ديبورتيفو لاكورونيا | Kick-off in 30 mi
+ n: Athletic Club vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868350@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T130000Z
+DTEND:20270502T150000Z
+SUMMARY:Real Sociedad vs Athletic Club — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868350
+DESCRIPTION:⚽ ريال سوسيداد × أتلتيك بلباو\n🏆 ا
+ لدوري الإسباني — الجولة 34\n🗓 الأحد 2 ماي
+ و 2027 · 16:00 بتوقيت الرياض\n🏟 Reale Arena\n————
+ —\n⚽ Real Sociedad v Athletic Club\n🏆 LaLiga — Matchday 34\n🗓 
+ Sun 02 May 2027 · 13:00 UTC\n🏟 Reale Arena\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد أتلتيك بلب
+ او — الدوري الإسباني | Tomorrow: Real Sociedad vs Athlet
+ ic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × أتلتيك بلباو | Kick-off in 30 min: Real Socieda
+ d vs Athletic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868352@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T130000Z
+DTEND:20270509T150000Z
+SUMMARY:Athletic Club vs Málaga — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868352
+DESCRIPTION:⚽ أتلتيك بلباو × مالقا\n🏆 الدوري ا
+ لإسباني — الجولة 35\n🗓 الأحد 9 مايو 2027 · 16:
+ 00 بتوقيت الرياض\n🏟 San Mames\n—————\n⚽ Athleti
+ c Club v Málaga\n🏆 LaLiga — Matchday 35\n🗓 Sun 09 May 2027 · 13:
+ 00 UTC\n🏟 San Mames\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد مالقا — ال
+ دوري الإسباني | Tomorrow: Athletic Club vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × مالقا | Kick-off in 30 min: Athletic Club vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868363@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T130000Z
+DTEND:20270516T150000Z
+SUMMARY:Elche vs Athletic Club — LaLiga
+LOCATION:Estadio Martinez Valero
+URL:https://www.fotmob.com/match/5868363
+DESCRIPTION:⚽ إلتشي × أتلتيك بلباو\n🏆 الدوري ا
+ لإسباني — الجولة 36\n🗓 الأحد 16 مايو 2027 · 16
+ :00 بتوقيت الرياض\n🏟 Estadio Martinez Valero\n————
+ —\n⚽ Elche v Athletic Club\n🏆 LaLiga — Matchday 36\n🗓 Sun 16 M
+ ay 2027 · 13:00 UTC\n🏟 Estadio Martinez Valero\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلتشي ضد أتلتيك بلباو — ال
+ دوري الإسباني | Tomorrow: Elche vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلتشي 
+ × أتلتيك بلباو | Kick-off in 30 min: Elche vs Athletic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868372@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T130000Z
+DTEND:20270523T150000Z
+SUMMARY:Atlético Madrid vs Athletic Club — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868372
+DESCRIPTION:⚽ أتلتيكو مدريد × أتلتيك بلباو\n🏆 
+ الدوري الإسباني — الجولة 37\n🗓 الأحد 23 ما
+ يو 2027 · 16:00 بتوقيت الرياض\n🏟 Riyadh Air Metropolitan
+ o\n—————\n⚽ Atlético Madrid v Athletic Club\n🏆 LaLiga — 
+ Matchday 37\n🗓 Sun 23 May 2027 · 13:00 UTC\n🏟 Riyadh Air Metropolit
+ ano\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد أتلتيك بل
+ باو — الدوري الإسباني | Tomorrow: Atlético Madrid vs A
+ thletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × أتلتيك بلباو | Kick-off in 30 min: Atlético
+  Madrid vs Athletic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868381@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T130000Z
+DTEND:20270530T150000Z
+SUMMARY:Athletic Club vs Rayo Vallecano — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868381
+DESCRIPTION:⚽ أتلتيك بلباو × رايو فاييكانو\n🏆 
+ الدوري الإسباني — الجولة 38\n🗓 الأحد 30 ما
+ يو 2027 · 16:00 بتوقيت الرياض\n🏟 San Mames\n————
+ —\n⚽ Athletic Club v Rayo Vallecano\n🏆 LaLiga — Matchday 38\n🗓
+  Sun 30 May 2027 · 13:00 UTC\n🏟 San Mames\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد رايو فاييك
+ انو — الدوري الإسباني | Tomorrow: Athletic Club vs Rayo
+  Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × رايو فاييكانو | Kick-off in 30 min: Athletic 
+ Club vs Rayo Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5091467@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251218T180000Z
+DTEND:20251218T200000Z
+SUMMARY:Ourense vs Athletic Club (0 - 1) — Copa del Rey
+LOCATION:Estadio O Couto\, Ourense\, Spain
+GEO:42.340806;-7.875808
+URL:https://www.fotmob.com/match/5091467
+DESCRIPTION:⚽ أورينسي × أتلتيك بلباو (0 - 1)\n🏆 ك
+ أس ملك إسبانيا — دور الـ32\n🗓 الخميس 18 دي
+ سمبر 2025 · 21:00 بتوقيت الرياض\n🏟 Estadio O Couto، O
+ urense\n👥 الحضور: 6,200\n—————\n⚽ Ourense v Athletic 
+ Club (0 - 1)\n🏆 Copa del Rey — Round of 32\n🗓 Thu 18 Dec 2025 · 1
+ 8:00 UTC\n🏟 Estadio O Couto, Ourense\nAttendance: 6,200\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أورينسي ضد أتلتيك بلباو — 
+ كأس ملك إسبانيا | Tomorrow: Ourense vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أورين
+ سي × أتلتيك بلباو | Kick-off in 30 min: Ourense vs Athletic 
+ Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5125324@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260113T200000Z
+DTEND:20260113T220000Z
+SUMMARY:Cultural Leonesa vs Athletic Club (3 - 4) — Copa del Rey
+LOCATION:Estadio Municipal Reino de León\, León\, Spain
+GEO:42.587397;-5.577064
+URL:https://www.fotmob.com/match/5125324
+DESCRIPTION:⚽ ديبورتيفا ليونيسا × أتلتيك بلبا
+ و (3 - 4)\n🏆 كأس ملك إسبانيا — دور الـ16\n🗓 ا
+ لثلاثاء 13 يناير 2026 · 23:00 بتوقيت الرياض\n🏟
+  Estadio Municipal Reino de León، León\n👥 الحضور: 11,004\n—
+ ————\n⚽ Cultural Leonesa v Athletic Club (3 - 4)\n🏆 Copa del 
+ Rey — Round of 16\n🗓 Tue 13 Jan 2026 · 20:00 UTC\n🏟 Estadio Munic
+ ipal Reino de León, León\nAttendance: 11,004\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفا ليونيسا ضد أتلتي
+ ك بلباو — كأس ملك إسبانيا | Tomorrow: Cultural Leones
+ a vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفا ليونيسا × أتلتيك بلباو | Kick-off in 30 min: C
+ ultural Leonesa vs Athletic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5144840@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260204T200000Z
+DTEND:20260204T220000Z
+SUMMARY:Valencia vs Athletic Club (1 - 2) — Copa del Rey
+LOCATION:Estadio de Mestalla\, Valencia\, Spain
+GEO:39.474602;-0.358257
+URL:https://www.fotmob.com/match/5144840
+DESCRIPTION:⚽ فالنسيا × أتلتيك بلباو (1 - 2)\n🏆 ك
+ أس ملك إسبانيا — ربع النهائي\n🗓 الأربعا
+ ء 4 فبراير 2026 · 23:00 بتوقيت الرياض\n🏟 Estadio de
+  Mestalla، Valencia\n⚖️ الحكم: Víctor García Verdura\n👥 ا
+ لحضور: 46,931\n—————\n⚽ Valencia v Athletic Club (1 - 2)\
+ n🏆 Copa del Rey — Quarter-Finals\n🗓 Wed 04 Feb 2026 · 20:00 UTC\n
+ 🏟 Estadio de Mestalla, Valencia\nReferee: Víctor García Verdura\nAtte
+ ndance: 46,931\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد أتلتيك بلباو — 
+ كأس ملك إسبانيا | Tomorrow: Valencia vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × أتلتيك بلباو | Kick-off in 30 min: Valencia vs Athletic
+  Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5173358@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260211T200000Z
+DTEND:20260211T220000Z
+SUMMARY:Athletic Club vs Real Sociedad (0 - 1) — Copa del Rey
+LOCATION:Estadio de San Mamés\, Bilbao\, Spain
+GEO:43.264173;-2.949383
+URL:https://www.fotmob.com/match/5173358
+DESCRIPTION:⚽ أتلتيك بلباو × ريال سوسيداد (0 - 1)\
+ n🏆 كأس ملك إسبانيا — نصف النهائي\n🗓 الأ
+ ربعاء 11 فبراير 2026 · 23:00 بتوقيت الرياض\n🏟 E
+ stadio de San Mamés، Bilbao\n⚖️ الحكم: José María Sánchez Ma
+ rtínez\n👥 الحضور: 51,281\n—————\n⚽ Athletic Club v R
+ eal Sociedad (0 - 1)\n🏆 Copa del Rey — Semi-Finals\n🗓 Wed 11 Feb 2
+ 026 · 20:00 UTC\n🏟 Estadio de San Mamés, Bilbao\nReferee: José Marí
+ a Sánchez Martínez\nAttendance: 51,281\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد ريال سوسيد
+ اد — كأس ملك إسبانيا | Tomorrow: Athletic Club vs Real So
+ ciedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × ريال سوسيداد | Kick-off in 30 min: Athletic Cl
+ ub vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5173359@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260304T200000Z
+DTEND:20260304T220000Z
+SUMMARY:Real Sociedad vs Athletic Club (1 - 0) — Copa del Rey
+LOCATION:Estadio Municipal de Anoeta\, Donostia-San Sebastián\, Spain
+GEO:43.301376;-1.973602
+URL:https://www.fotmob.com/match/5173359
+DESCRIPTION:⚽ ريال سوسيداد × أتلتيك بلباو (1 - 0)\
+ n🏆 كأس ملك إسبانيا — نصف النهائي\n🗓 الأ
+ ربعاء 4 مارس 2026 · 23:00 بتوقيت الرياض\n🏟 Estadi
+ o Municipal de Anoeta، Donostia-San Sebastián\n⚖️ الحكم: César
+  Soto Grado\n👥 الحضور: 38,738\n—————\n⚽ Real Sociedad
+  v Athletic Club (1 - 0)\n🏆 Copa del Rey — Semi-Finals\n🗓 Wed 04 M
+ ar 2026 · 20:00 UTC\n🏟 Estadio Municipal de Anoeta, Donostia-San Sebas
+ tián\nReferee: César Soto Grado\nAttendance: 38,738\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد أتلتيك بلب
+ او — كأس ملك إسبانيا | Tomorrow: Real Sociedad vs Athleti
+ c Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × أتلتيك بلباو | Kick-off in 30 min: Real Socieda
+ d vs Athletic Club
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ NEC Nijmegen — UEFA Europa League Fixtures | نيميخ
+ ين — مباريات الدوري الأوروبي
+X-WR-CALDESC:NEC Nijmegen — all matches in UEFA Europa League\, exact UTC
+  kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-0
+ 9-05T19:31:10Z.  •  نيميخين — جميع المباريات في 
+ الدوري الأوروبي بتوقيت UTC الدقيق مع المل
+ اعب والقنوات الناقلة. المصدر: FotMob + 365scores 
+ · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6112253@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260917T190000Z
+DTEND:20260917T210000Z
+SUMMARY:Juventus vs NEC Nijmegen — UEFA Europa League
+LOCATION:Allianz Stadium\, Torino\, Italy
+GEO:45.109527;7.641302
+URL:https://www.fotmob.com/match/6112253
+DESCRIPTION:⚽ يوفنتوس × نيميخين\n🏆 الدوري الأ
+ وروبي — الجولة 1\n🗓 الخميس 17 سبتمبر 2026 · 2
+ 2:00 بتوقيت الرياض\n🏟 Allianz Stadium، Torino\n———
+ ——\n⚽ Juventus v NEC Nijmegen\n🏆 UEFA Europa League — Matchday 
+ 1\n🗓 Thu 17 Sep 2026 · 19:00 UTC\n🏟 Allianz Stadium, Torino\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد نيميخين — الدور
+ ي الأوروبي | Tomorrow: Juventus vs NEC Nijmegen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × نيميخين | Kick-off in 30 min: Juventus vs NEC Nijmegen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112369@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:NEC Nijmegen vs Levski Sofia — UEFA Europa League
+LOCATION:Goffertstadion\, Nijmegen\, Netherlands
+GEO:51.822455;5.837205
+URL:https://www.fotmob.com/match/6112369
+DESCRIPTION:⚽ نيميخين × ليفسكي صوفيا\n🏆 الدور
+ ي الأوروبي — الجولة 2\n🗓 الخميس 15 أكتوبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 Goffertstadion، Nijmegen\n
+ —————\n⚽ NEC Nijmegen v Levski Sofia\n🏆 UEFA Europa League 
+ — Matchday 2\n🗓 Thu 15 Oct 2026 · 19:00 UTC\n🏟 Goffertstadion, Ni
+ jmegen\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيميخين ضد ليفسكي صوفيا — 
+ الدوري الأوروبي | Tomorrow: NEC Nijmegen vs Levski Sofia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيميخ
+ ين × ليفسكي صوفيا | Kick-off in 30 min: NEC Nijmegen vs Levs
+ ki Sofia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112293@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261022T164500Z
+DTEND:20261022T184500Z
+SUMMARY:Dinamo Zagreb vs NEC Nijmegen — UEFA Europa League
+LOCATION:Stadion Maksimir\, Zagreb\, Croatia
+GEO:45.818781;16.017884
+URL:https://www.fotmob.com/match/6112293
+DESCRIPTION:⚽ دينامو زغرب × نيميخين\n🏆 الدوري 
+ الأوروبي — الجولة 3\n🗓 الخميس 22 أكتوبر 202
+ 6 · 19:45 بتوقيت الرياض\n🏟 Stadion Maksimir، Zagreb\n—
+ ————\n⚽ Dinamo Zagreb v NEC Nijmegen\n🏆 UEFA Europa League 
+ — Matchday 3\n🗓 Thu 22 Oct 2026 · 16:45 UTC\n🏟 Stadion Maksimir, 
+ Zagreb\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: دينامو زغرب ضد نيميخين — ا
+ لدوري الأوروبي | Tomorrow: Dinamo Zagreb vs NEC Nijmegen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: دينام
+ و زغرب × نيميخين | Kick-off in 30 min: Dinamo Zagreb vs NEC N
+ ijmegen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112368@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:NEC Nijmegen vs Omonia Nicosia — UEFA Europa League
+LOCATION:Stadion De Goffert
+URL:https://www.fotmob.com/match/6112368
+DESCRIPTION:⚽ نيميخين × Omonia Nicosia\n🏆 الدوري الأ
+ وروبي — الجولة 4\n🗓 الخميس 5 نوفمبر 2026 · 20
+ :45 بتوقيت الرياض\n🏟 Stadion De Goffert\n—————\n
+ ⚽ NEC Nijmegen v Omonia Nicosia\n🏆 UEFA Europa League — Matchday 4\
+ n🗓 Thu 05 Nov 2026 · 17:45 UTC\n🏟 Stadion De Goffert\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيميخين ضد Omonia Nicosia — الدور
+ ي الأوروبي | Tomorrow: NEC Nijmegen vs Omonia Nicosia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيميخ
+ ين × Omonia Nicosia | Kick-off in 30 min: NEC Nijmegen vs Omonia Nicosi
+ a
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112367@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:NEC Nijmegen vs Rennes — UEFA Europa League
+LOCATION:Stadion De Goffert
+URL:https://www.fotmob.com/match/6112367
+DESCRIPTION:⚽ نيميخين × ستاد رين\n🏆 الدوري الأ
+ وروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 2026 · 2
+ 3:00 بتوقيت الرياض\n🏟 Stadion De Goffert\n—————\n
+ ⚽ NEC Nijmegen v Rennes\n🏆 UEFA Europa League — Matchday 5\n🗓 Th
+ u 26 Nov 2026 · 20:00 UTC\n🏟 Stadion De Goffert\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيميخين ضد ستاد رين — الدو
+ ري الأوروبي | Tomorrow: NEC Nijmegen vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيميخ
+ ين × ستاد رين | Kick-off in 30 min: NEC Nijmegen vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112385@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261210T174500Z
+DTEND:20261210T194500Z
+SUMMARY:Ararat Armenia vs NEC Nijmegen — UEFA Europa League
+LOCATION:Football Academy Stadium
+URL:https://www.fotmob.com/match/6112385
+DESCRIPTION:⚽ أرارات أرمينيا × نيميخين\n🏆 الد
+ وري الأوروبي — الجولة 6\n🗓 الخميس 10 ديسم
+ بر 2026 · 20:45 بتوقيت الرياض\n🏟 Football Academy Stadiu
+ m\n—————\n⚽ Ararat Armenia v NEC Nijmegen\n🏆 UEFA Europa Le
+ ague — Matchday 6\n🗓 Thu 10 Dec 2026 · 17:45 UTC\n🏟 Football Acad
+ emy Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرارات أرمينيا ضد نيميخين 
+ — الدوري الأوروبي | Tomorrow: Ararat Armenia vs NEC Nijmeg
+ en
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرارا
+ ت أرمينيا × نيميخين | Kick-off in 30 min: Ararat Armenia v
+ s NEC Nijmegen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112366@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270121T174500Z
+DTEND:20270121T194500Z
+SUMMARY:NEC Nijmegen vs Benfica — UEFA Europa League
+LOCATION:Stadion De Goffert
+URL:https://www.fotmob.com/match/6112366
+DESCRIPTION:⚽ نيميخين × بنفيكا\n🏆 الدوري الأو
+ روبي — الجولة 7\n🗓 الخميس 21 يناير 2027 · 20:45
+  بتوقيت الرياض\n🏟 Stadion De Goffert\n—————\n⚽ 
+ NEC Nijmegen v Benfica\n🏆 UEFA Europa League — Matchday 7\n🗓 Thu 2
+ 1 Jan 2027 · 17:45 UTC\n🏟 Stadion De Goffert\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيميخين ضد بنفيكا — الدوري
+  الأوروبي | Tomorrow: NEC Nijmegen vs Benfica
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيميخ
+ ين × بنفيكا | Kick-off in 30 min: NEC Nijmegen vs Benfica
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112337@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:NK Celje vs NEC Nijmegen — UEFA Europa League
+LOCATION:Stadion Z'dezele
+URL:https://www.fotmob.com/match/6112337
+DESCRIPTION:⚽ تسيليى × نيميخين\n🏆 الدوري الأو
+ روبي — الجولة 8\n🗓 الخميس 28 يناير 2027 · 23:00
+  بتوقيت الرياض\n🏟 Stadion Z'dezele\n—————\n⚽ NK
+  Celje v NEC Nijmegen\n🏆 UEFA Europa League — Matchday 8\n🗓 Thu 28
+  Jan 2027 · 20:00 UTC\n🏟 Stadion Z'dezele\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تسيليى ضد نيميخين — الدوري
+  الأوروبي | Tomorrow: NK Celje vs NEC Nijmegen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تسيلي
+ ى × نيميخين | Kick-off in 30 min: NK Celje vs NEC Nijmegen
+END:VALARM
+END:VEVENT
+END:VCALENDAR

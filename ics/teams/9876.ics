@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Hellas Verona — Coppa Italia Fixtures | هيلاس في
+ رونا — مباريات كأس إيطاليا
+X-WR-CALDESC:Hellas Verona — all matches in Coppa Italia\, exact UTC kick
+ offs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T
+ 19:31:10Z.  •  هيلاس فيرونا — جميع المباريات 
+ في كأس إيطاليا بتوقيت UTC الدقيق مع الملاع
+ ب والقنوات الناقلة. المصدر: FotMob + 365scores · ت
+ حديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5852781@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260816T184500Z
+DTEND:20260816T204500Z
+SUMMARY:Hellas Verona vs Virtus Entella (2 - 2) — Coppa Italia
+LOCATION:Stadio Marcantonio Bentegodi\, Verona\, Italy
+GEO:45.435324;10.968585
+URL:https://www.fotmob.com/match/5852781
+DESCRIPTION:⚽ هيلاس فيرونا × فيرتوس إنتيلا (2 - 2
+ )\n🏆 كأس إيطاليا — دور الـ32\n🗓 الأحد 16 أغ
+ سطس 2026 · 21:45 بتوقيت الرياض\n🏟 Stadio Marcantonio Be
+ ntegodi، Verona\n⚖️ الحكم: Edoardo Mazzoni\n👥 الحضور: 7
+ ,559\n—————\n⚽ Hellas Verona v Virtus Entella (2 - 2)\n🏆 Co
+ ppa Italia — Round of 32\n🗓 Sun 16 Aug 2026 · 18:45 UTC\n🏟 Stadio
+  Marcantonio Bentegodi, Verona\nReferee: Edoardo Mazzoni\nAttendance: 7,55
+ 9\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هيلاس فيرونا ضد فيرتوس إنت
+ يلا — كأس إيطاليا | Tomorrow: Hellas Verona vs Virtus Entel
+ la
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هيلاس 
+ فيرونا × فيرتوس إنتيلا | Kick-off in 30 min: Hellas Ver
+ ona vs Virtus Entella
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003656@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260903T190000Z
+DTEND:20260903T210000Z
+SUMMARY:Cagliari vs Hellas Verona (1 - 2) — Coppa Italia
+LOCATION:Unipol Domus\, Cagliari\, Italy
+GEO:39.199802;9.137473
+URL:https://www.fotmob.com/match/6003656
+DESCRIPTION:⚽ كالياري × هيلاس فيرونا (1 - 2)\n🏆 ك
+ أس إيطاليا — دور الـ32\n🗓 الخميس 3 سبتمبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 Unipol Domus، Cagliari\n⚖
+ ️ الحكم: Andrea Zanotti\n—————\n⚽ Cagliari v Hellas Ver
+ ona (1 - 2)\n🏆 Coppa Italia — Round of 32\n🗓 Thu 03 Sep 2026 · 19
+ :00 UTC\n🏟 Unipol Domus, Cagliari\nReferee: Andrea Zanotti\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد هيلاس فيرونا — 
+ كأس إيطاليا | Tomorrow: Cagliari vs Hellas Verona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × هيلاس فيرونا | Kick-off in 30 min: Cagliari vs Hellas V
+ erona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003679@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261202T170000Z
+DTEND:20261202T190000Z
+SUMMARY:Roma vs Hellas Verona — Coppa Italia
+URL:https://www.fotmob.com/match/6003679
+DESCRIPTION:⚽ روما × هيلاس فيرونا\n🏆 كأس إيطال
+ يا — دور الـ16\n🗓 الأربعاء 2 ديسمبر 2026 · 20:
+ 00 بتوقيت الرياض\n—————\n⚽ Roma v Hellas Verona\n
+ 🏆 Coppa Italia — Round of 16\n🗓 Wed 02 Dec 2026 · 17:00 UTC\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد هيلاس فيرونا — كأس 
+ إيطاليا | Tomorrow: Roma vs Hellas Verona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  هيلاس فيرونا | Kick-off in 30 min: Roma vs Hellas Verona
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Southampton — FA Cup Fixtures | ساوثهامبتون 
+ — مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Southampton — all matches in FA Cup\, exact UTC kickoffs\, s
+ tadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10
+ Z.  •  ساوثهامبتون — جميع المباريات في كأ
+ س الاتحاد الإنجليزي بتوقيت UTC الدقيق مع ا
+ لملاعب والقنوات الناقلة. المصدر: FotMob + 365sc
+ ores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5089894@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260110T150000Z
+DTEND:20260110T170000Z
+SUMMARY:Doncaster Rovers vs Southampton (2 - 3) — FA Cup
+LOCATION:Eco-Power Stadium\, Doncaster\, South Yorkshire\, England
+GEO:53.509821;-1.113758
+URL:https://www.fotmob.com/match/5089894
+DESCRIPTION:⚽ Doncaster Rovers × ساوثهامبتون (2 - 3)\n🏆 ك
+ أس الاتحاد الإنجليزي — الدور الثالث\n🗓 
+ السبت 10 يناير 2026 · 18:00 بتوقيت الرياض\n🏟 Eco
+ -Power Stadium، Doncaster, South Yorkshire\n⚖️ الحكم: John Busby
+ \n👥 الحضور: 7,671\n—————\n⚽ Doncaster Rovers v Southa
+ mpton (2 - 3)\n🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 15:00 UTC\
+ n🏟 Eco-Power Stadium, Doncaster, South Yorkshire\nReferee: John Busby\n
+ Attendance: 7,671\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Doncaster Rovers ضد ساوثهامبتون — 
+ كأس الاتحاد الإنجليزي | Tomorrow: Doncaster Rovers vs S
+ outhampton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Doncaster R
+ overs × ساوثهامبتون | Kick-off in 30 min: Doncaster Rovers vs 
+ Southampton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135164@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260214T150000Z
+DTEND:20260214T170000Z
+SUMMARY:Southampton vs Leicester City (2 - 1) — FA Cup
+LOCATION:St. Mary's Stadium\, Southampton\, Hampshire\, England
+GEO:50.905895;-1.391047
+URL:https://www.fotmob.com/match/5135164
+DESCRIPTION:⚽ ساوثهامبتون × Leicester City (2 - 1)\n🏆 كأ
+ س الاتحاد الإنجليزي — الدور الرابع\n🗓 ا
+ لسبت 14 فبراير 2026 · 18:00 بتوقيت الرياض\n🏟 St.
+  Mary's Stadium، Southampton, Hampshire\n⚖️ الحكم: Matthew Corle
+ tt\n👥 الحضور: 17,359\n—————\n⚽ Southampton v Leiceste
+ r City (2 - 1)\n🏆 FA Cup — Round 4\n🗓 Sat 14 Feb 2026 · 15:00 UTC
+ \n🏟 St. Mary's Stadium, Southampton, Hampshire\nReferee: Matthew Corlet
+ t\nAttendance: 17,359\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساوثهامبتون ضد Leicester City — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Southampton vs Leiceste
+ r City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساوثه
+ امبتون × Leicester City | Kick-off in 30 min: Southampton vs Leices
+ ter City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5186378@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260308T120000Z
+DTEND:20260308T140000Z
+SUMMARY:Fulham vs Southampton (0 - 1) — FA Cup
+LOCATION:Craven Cottage\, London\, England
+GEO:51.474898;-0.221647
+URL:https://www.fotmob.com/match/5186378
+DESCRIPTION:⚽ فولهام × ساوثهامبتون (0 - 1)\n🏆 كأس
+  الاتحاد الإنجليزي — الدور الخامس\n🗓 ال
+ أحد 8 مارس 2026 · 15:00 بتوقيت الرياض\n🏟 Craven Cot
+ tage، London\n⚖️ الحكم: Jarred Gillett\n👥 الحضور: 21,97
+ 4\n—————\n⚽ Fulham v Southampton (0 - 1)\n🏆 FA Cup — Roun
+ d 5\n🗓 Sun 08 Mar 2026 · 12:00 UTC\n🏟 Craven Cottage, London\nRefer
+ ee: Jarred Gillett\nAttendance: 21,974\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد ساوثهامبتون — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Fulham vs Southampton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × ساوثهامبتون | Kick-off in 30 min: Fulham vs Southampton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5231045@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260404T190000Z
+DTEND:20260404T210000Z
+SUMMARY:Southampton vs Arsenal (2 - 1) — FA Cup
+LOCATION:St. Mary's Stadium\, Southampton\, Hampshire\, England
+GEO:50.905895;-1.391047
+URL:https://www.fotmob.com/match/5231045
+DESCRIPTION:⚽ ساوثهامبتون × أرسنال (2 - 1)\n🏆 كأس
+  الاتحاد الإنجليزي — ربع النهائي\n🗓 الس
+ بت 4 أبريل 2026 · 22:00 بتوقيت الرياض\n🏟 St. Mary's
+  Stadium، Southampton, Hampshire\n⚖️ الحكم: Samuel Barrott\n👥
+  الحضور: 31,067\n—————\n⚽ Southampton v Arsenal (2 - 1)\
+ n🏆 FA Cup — Quarter-Finals\n🗓 Sat 04 Apr 2026 · 19:00 UTC\n🏟 S
+ t. Mary's Stadium, Southampton, Hampshire\nReferee: Samuel Barrott\nAttend
+ ance: 31,067\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساوثهامبتون ضد أرسنال — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Southampton vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساوثه
+ امبتون × أرسنال | Kick-off in 30 min: Southampton vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5293793@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260425T161500Z
+DTEND:20260425T181500Z
+SUMMARY:Manchester City vs Southampton (2 - 1) — FA Cup
+LOCATION:Wembley Stadium\, London\, England
+GEO:51.555855;-0.279593
+URL:https://www.fotmob.com/match/5293793
+DESCRIPTION:⚽ مانشستر سيتي × ساوثهامبتون (2 - 1)\n
+ 🏆 كأس الاتحاد الإنجليزي — نصف النهائي\n
+ 🗓 السبت 25 أبريل 2026 · 19:15 بتوقيت الرياض\n
+ 🏟 Wembley Stadium، London\n⚖️ الحكم: Craig Pawson\n👥 ال
+ حضور: 70,053\n—————\n⚽ Manchester City v Southampton (2 - 
+ 1)\n🏆 FA Cup — Semi-Finals\n🗓 Sat 25 Apr 2026 · 16:15 UTC\n🏟 W
+ embley Stadium, London\nReferee: Craig Pawson\nAttendance: 70,053\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد ساوثهامبتو
+ ن — كأس الاتحاد الإنجليزي | Tomorrow: Manchester Cit
+ y vs Southampton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × ساوثهامبتون | Kick-off in 30 min: Manchester C
+ ity vs Southampton
+END:VALARM
+END:VEVENT
+END:VCALENDAR

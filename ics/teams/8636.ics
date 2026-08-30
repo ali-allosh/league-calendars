@@ -1,0 +1,1428 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Inter — Serie A & UEFA Champions League & Coppa Italia F
+ ixtures | إنتر ميلان — مباريات الدوري الإيطا
+ لي ودوري أبطال أوروبا وكأس إيطاليا
+X-WR-CALDESC:Inter — all matches in Serie A & UEFA Champions League & Cop
+ pa Italia\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores 
+ · auto-updated 2026-09-05T19:31:10Z.  •  إنتر ميلان — جمي
+ ع المباريات في الدوري الإيطالي ودوري أبط
+ ال أوروبا وكأس إيطاليا بتوقيت UTC الدقيق م
+ ع الملاعب والقنوات الناقلة. المصدر: FotMob + 
+ 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5749645@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T163000Z
+DTEND:20260822T183000Z
+SUMMARY:Inter vs Monza (4 - 1) — Serie A
+LOCATION:Stadio Giuseppe Meazza\, Milano\, Italy
+GEO:45.478084;9.123979
+URL:https://www.fotmob.com/match/5749645
+DESCRIPTION:⚽ إنتر ميلان × مونزا (4 - 1)\n🏆 الدور
+ ي الإيطالي — الجولة 1\n🗓 السبت 22 أغسطس 2026
+  · 19:30 بتوقيت الرياض\n🏟 Stadio Giuseppe Meazza، Milano\
+ n⚖️ الحكم: Livio Marinelli\n👥 الحضور: 75,013\n———
+ ——\n⚽ Inter v Monza (4 - 1)\n🏆 Serie A — Matchday 1\n🗓 Sat 2
+ 2 Aug 2026 · 16:30 UTC\n🏟 Stadio Giuseppe Meazza, Milano\nReferee: Liv
+ io Marinelli\nAttendance: 75,013\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد مونزا — الدو
+ ري الإيطالي | Tomorrow: Inter vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × مونزا | Kick-off in 30 min: Inter vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749652@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T184500Z
+DTEND:20260830T204500Z
+SUMMARY:Cagliari vs Inter (0 - 1) — Serie A
+LOCATION:Unipol Domus\, Cagliari\, Italy
+GEO:39.199802;9.137473
+URL:https://www.fotmob.com/match/5749652
+DESCRIPTION:⚽ كالياري × إنتر ميلان (0 - 1)\n🏆 الد
+ وري الإيطالي — الجولة 2\n🗓 الأحد 30 أغسطس 
+ 2026 · 21:45 بتوقيت الرياض\n🏟 Unipol Domus، Cagliari\n⚖
+ ️ الحكم: Michael Fabbri\n—————\n⚽ Cagliari v Inter (0 -
+  1)\n🏆 Serie A — Matchday 2\n🗓 Sun 30 Aug 2026 · 18:45 UTC\n🏟 
+ Unipol Domus, Cagliari\nReferee: Michael Fabbri\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد إنتر ميلان — ال
+ دوري الإيطالي | Tomorrow: Cagliari vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × إنتر ميلان | Kick-off in 30 min: Cagliari vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749666@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T160000Z
+DTEND:20260905T180000Z
+SUMMARY:Inter vs Napoli (3 - 2) — Serie A
+LOCATION:Stadio Giuseppe Meazza\, Milano\, Italy
+GEO:45.478084;9.123979
+URL:https://www.fotmob.com/match/5749666
+DESCRIPTION:⚽ إنتر ميلان × نابولي (3 - 2)\n🏆 الدو
+ ري الإيطالي — الجولة 3\n🗓 السبت 5 سبتمبر 2
+ 026 · 19:00 بتوقيت الرياض\n🏟 Stadio Giuseppe Meazza، Mila
+ no\n📺 Starzplay\n⚖️ الحكم: Simone Sozza\n—————\n⚽ 
+ Inter v Napoli (3 - 2)\n🏆 Serie A — Matchday 3\n🗓 Sat 05 Sep 2026 
+ · 16:00 UTC\n🏟 Stadio Giuseppe Meazza, Milano\n📺 Starzplay\nReferee
+ : Simone Sozza\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد نابولي — الد
+ وري الإيطالي — 📺 Starzplay | Tomorrow: Inter vs Napoli | T
+ V: Starzplay
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × نابولي — 📺 Starzplay | Kick-off in 30 min: Inter vs
+  Napoli | TV: Starzplay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749673@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260914T184500Z
+DTEND:20260914T204500Z
+SUMMARY:Inter vs Udinese — Serie A
+LOCATION:Stadio Giuseppe Meazza\, Milano\, Italy
+GEO:45.478084;9.123979
+URL:https://www.fotmob.com/match/5749673
+DESCRIPTION:⚽ إنتر ميلان × أودينيزي\n🏆 الدوري 
+ الإيطالي — الجولة 4\n🗓 الاثنين 14 سبتمبر 2
+ 026 · 21:45 بتوقيت الرياض\n🏟 Stadio Giuseppe Meazza، Mila
+ no\n—————\n⚽ Inter v Udinese\n🏆 Serie A — Matchday 4\n
+ 🗓 Mon 14 Sep 2026 · 18:45 UTC\n🏟 Stadio Giuseppe Meazza, Milano\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد أودينيزي — ا
+ لدوري الإيطالي | Tomorrow: Inter vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × أودينيزي | Kick-off in 30 min: Inter vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749681@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T160000Z
+DTEND:20260919T180000Z
+SUMMARY:Roma vs Inter — Serie A
+LOCATION:Stadio Olimpico\, Roma\, Italy
+GEO:41.933948;12.454757
+URL:https://www.fotmob.com/match/5749681
+DESCRIPTION:⚽ روما × إنتر ميلان\n🏆 الدوري الإي
+ طالي — الجولة 5\n🗓 السبت 19 سبتمبر 2026 · 19:00
+  بتوقيت الرياض\n🏟 Stadio Olimpico، Roma\n—————\n
+ ⚽ Roma v Inter\n🏆 Serie A — Matchday 5\n🗓 Sat 19 Sep 2026 · 16:
+ 00 UTC\n🏟 Stadio Olimpico, Roma\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد إنتر ميلان — الدور
+ ي الإيطالي | Tomorrow: Roma vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  إنتر ميلان | Kick-off in 30 min: Roma vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749694@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T160000Z
+DTEND:20261010T180000Z
+SUMMARY:Inter vs Parma — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749694
+DESCRIPTION:⚽ إنتر ميلان × بارما\n🏆 الدوري الإ
+ يطالي — الجولة 6\n🗓 السبت 10 أكتوبر 2026 · 19:
+ 00 بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\n⚽ I
+ nter v Parma\n🏆 Serie A — Matchday 6\n🗓 Sat 10 Oct 2026 · 16:00 U
+ TC\n🏟 Giuseppe Meazza\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد بارما — الدو
+ ري الإيطالي | Tomorrow: Inter vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × بارما | Kick-off in 30 min: Inter vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749702@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T160000Z
+DTEND:20261017T180000Z
+SUMMARY:Bologna vs Inter — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749702
+DESCRIPTION:⚽ بولونيا × إنتر ميلان\n🏆 الدوري ا
+ لإيطالي — الجولة 7\n🗓 السبت 17 أكتوبر 2026 ·
+  19:00 بتوقيت الرياض\n🏟 Stadio Renato Dell'Ara\n———
+ ——\n⚽ Bologna v Inter\n🏆 Serie A — Matchday 7\n🗓 Sat 17 Oct 
+ 2026 · 16:00 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد إنتر ميلان — ال
+ دوري الإيطالي | Tomorrow: Bologna vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × إنتر ميلان | Kick-off in 30 min: Bologna vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749714@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T113000Z
+DTEND:20261025T133000Z
+SUMMARY:Inter vs Fiorentina — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749714
+DESCRIPTION:⚽ إنتر ميلان × فيورنتينا\n🏆 الدور
+ ي الإيطالي — الجولة 8\n🗓 الأحد 25 أكتوبر 20
+ 26 · 14:30 بتوقيت الرياض\n🏟 Giuseppe Meazza\n————
+ —\n⚽ Inter v Fiorentina\n🏆 Serie A — Matchday 8\n🗓 Sun 25 Oct 
+ 2026 · 11:30 UTC\n🏟 Giuseppe Meazza\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد فيورنتينا — 
+ الدوري الإيطالي | Tomorrow: Inter vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × فيورنتينا | Kick-off in 30 min: Inter vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749729@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261028T173000Z
+DTEND:20261028T193000Z
+SUMMARY:Venezia vs Inter — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749729
+DESCRIPTION:⚽ فينيزيا × إنتر ميلان\n🏆 الدوري ا
+ لإيطالي — الجولة 9\n🗓 الأربعاء 28 أكتوبر 2
+ 026 · 20:30 بتوقيت الرياض\n🏟 Stadio Pierluigi Penzo\n—
+ ————\n⚽ Venezia v Inter\n🏆 Serie A — Matchday 9\n🗓 Wed 2
+ 8 Oct 2026 · 17:30 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد إنتر ميلان — ال
+ دوري الإيطالي | Tomorrow: Venezia vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × إنتر ميلان | Kick-off in 30 min: Venezia vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749730@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T194500Z
+DTEND:20261031T214500Z
+SUMMARY:Milan vs Inter — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749730
+DESCRIPTION:⚽ ميلان × إنتر ميلان\n🏆 الدوري الإ
+ يطالي — الجولة 10\n🗓 السبت 31 أكتوبر 2026 · 22
+ :45 بتوقيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v
+  Inter\n🏆 Serie A — Matchday 10\n🗓 Sat 31 Oct 2026 · 19:45 UTC\n
+ 🏟 San Siro\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد إنتر ميلان — الدو
+ ري الإيطالي | Tomorrow: Milan vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × إنتر ميلان | Kick-off in 30 min: Milan vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749744@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T170000Z
+DTEND:20261108T190000Z
+SUMMARY:Inter vs Como — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749744
+DESCRIPTION:⚽ إنتر ميلان × كومو\n🏆 الدوري الإي
+ طالي — الجولة 11\n🗓 الأحد 8 نوفمبر 2026 · 20:00
+  بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\n⚽ Int
+ er v Como\n🏆 Serie A — Matchday 11\n🗓 Sun 08 Nov 2026 · 17:00 UTC
+ \n🏟 Giuseppe Meazza\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد كومو — الدور
+ ي الإيطالي | Tomorrow: Inter vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × كومو | Kick-off in 30 min: Inter vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749751@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T194500Z
+DTEND:20261122T214500Z
+SUMMARY:Atalanta vs Inter — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749751
+DESCRIPTION:⚽ أتالانتا × إنتر ميلان\n🏆 الدوري 
+ الإيطالي — الجولة 12\n🗓 الأحد 22 نوفمبر 2026
+  · 22:45 بتوقيت الرياض\n🏟 New Balance Arena\n————
+ —\n⚽ Atalanta v Inter\n🏆 Serie A — Matchday 12\n🗓 Sun 22 Nov 2
+ 026 · 19:45 UTC\n🏟 New Balance Arena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد إنتر ميلان — ا
+ لدوري الإيطالي | Tomorrow: Atalanta vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × إنتر ميلان | Kick-off in 30 min: Atalanta vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749764@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T173000Z
+DTEND:20261129T193000Z
+SUMMARY:Inter vs Genoa — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749764
+DESCRIPTION:⚽ إنتر ميلان × جنوى\n🏆 الدوري الإي
+ طالي — الجولة 13\n🗓 الأحد 29 نوفمبر 2026 · 20:3
+ 0 بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\n⚽ In
+ ter v Genoa\n🏆 Serie A — Matchday 13\n🗓 Sun 29 Nov 2026 · 17:30 U
+ TC\n🏟 Giuseppe Meazza\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد جنوى — الدور
+ ي الإيطالي | Tomorrow: Inter vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × جنوى | Kick-off in 30 min: Inter vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749773@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T173000Z
+DTEND:20261206T193000Z
+SUMMARY:Frosinone vs Inter — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749773
+DESCRIPTION:⚽ فروزينوني × إنتر ميلان\n🏆 الدور
+ ي الإيطالي — الجولة 14\n🗓 الأحد 6 ديسمبر 20
+ 26 · 20:30 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n——
+ ———\n⚽ Frosinone v Inter\n🏆 Serie A — Matchday 14\n🗓 Sun 0
+ 6 Dec 2026 · 17:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد إنتر ميلان — 
+ الدوري الإيطالي | Tomorrow: Frosinone vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × إنتر ميلان | Kick-off in 30 min: Frosinone vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749783@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T173000Z
+DTEND:20261213T193000Z
+SUMMARY:Inter vs Torino — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749783
+DESCRIPTION:⚽ إنتر ميلان × تورينو\n🏆 الدوري ال
+ إيطالي — الجولة 15\n🗓 الأحد 13 ديسمبر 2026 · 
+ 20:30 بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\n
+ ⚽ Inter v Torino\n🏆 Serie A — Matchday 15\n🗓 Sun 13 Dec 2026 · 
+ 17:30 UTC\n🏟 Giuseppe Meazza\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد تورينو — الد
+ وري الإيطالي | Tomorrow: Inter vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × تورينو | Kick-off in 30 min: Inter vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749796@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T173000Z
+DTEND:20261220T193000Z
+SUMMARY:Lecce vs Inter — Serie A
+LOCATION:Stadio Ettore Giardiniero - Via del Mare
+URL:https://www.fotmob.com/match/5749796
+DESCRIPTION:⚽ ليتشي × إنتر ميلان\n🏆 الدوري الإ
+ يطالي — الجولة 16\n🗓 الأحد 20 ديسمبر 2026 · 20
+ :30 بتوقيت الرياض\n🏟 Stadio Ettore Giardiniero - Via del Ma
+ re\n—————\n⚽ Lecce v Inter\n🏆 Serie A — Matchday 16\n🗓
+  Sun 20 Dec 2026 · 17:30 UTC\n🏟 Stadio Ettore Giardiniero - Via del Ma
+ re\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليتشي ضد إنتر ميلان — الدو
+ ري الإيطالي | Tomorrow: Lecce vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليتشي 
+ × إنتر ميلان | Kick-off in 30 min: Lecce vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749805@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T173000Z
+DTEND:20270103T193000Z
+SUMMARY:Inter vs Sassuolo — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749805
+DESCRIPTION:⚽ إنتر ميلان × ساسولو\n🏆 الدوري ال
+ إيطالي — الجولة 17\n🗓 الأحد 3 يناير 2027 · 20:
+ 30 بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\n⚽ I
+ nter v Sassuolo\n🏆 Serie A — Matchday 17\n🗓 Sun 03 Jan 2027 · 17:
+ 30 UTC\n🏟 Giuseppe Meazza\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد ساسولو — الد
+ وري الإيطالي | Tomorrow: Inter vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × ساسولو | Kick-off in 30 min: Inter vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749815@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T173000Z
+DTEND:20270106T193000Z
+SUMMARY:Lazio vs Inter — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749815
+DESCRIPTION:⚽ لاتسيو × إنتر ميلان\n🏆 الدوري ال
+ إيطالي — الجولة 18\n🗓 الأربعاء 6 يناير 2027 
+ · 20:30 بتوقيت الرياض\n🏟 Stadio Olimpico, Rome\n———
+ ——\n⚽ Lazio v Inter\n🏆 Serie A — Matchday 18\n🗓 Wed 06 Jan 2
+ 027 · 17:30 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد إنتر ميلان — الد
+ وري الإيطالي | Tomorrow: Lazio vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × إنتر ميلان | Kick-off in 30 min: Lazio vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749825@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T173000Z
+DTEND:20270110T193000Z
+SUMMARY:Inter vs Juventus — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749825
+DESCRIPTION:⚽ إنتر ميلان × يوفنتوس\n🏆 الدوري ا
+ لإيطالي — الجولة 19\n🗓 الأحد 10 يناير 2027 · 
+ 20:30 بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\n
+ ⚽ Inter v Juventus\n🏆 Serie A — Matchday 19\n🗓 Sun 10 Jan 2027 
+ · 17:30 UTC\n🏟 Giuseppe Meazza\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد يوفنتوس — ال
+ دوري الإيطالي | Tomorrow: Inter vs Juventus
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × يوفنتوس | Kick-off in 30 min: Inter vs Juventus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749837@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T173000Z
+DTEND:20270117T193000Z
+SUMMARY:Parma vs Inter — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749837
+DESCRIPTION:⚽ بارما × إنتر ميلان\n🏆 الدوري الإ
+ يطالي — الجولة 20\n🗓 الأحد 17 يناير 2027 · 20:3
+ 0 بتوقيت الرياض\n🏟 Stadio Ennio Tardini\n—————\n
+ ⚽ Parma v Inter\n🏆 Serie A — Matchday 20\n🗓 Sun 17 Jan 2027 · 1
+ 7:30 UTC\n🏟 Stadio Ennio Tardini\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد إنتر ميلان — الدو
+ ري الإيطالي | Tomorrow: Parma vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × إنتر ميلان | Kick-off in 30 min: Parma vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749846@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T173000Z
+DTEND:20270124T193000Z
+SUMMARY:Inter vs Venezia — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749846
+DESCRIPTION:⚽ إنتر ميلان × فينيزيا\n🏆 الدوري ا
+ لإيطالي — الجولة 21\n🗓 الأحد 24 يناير 2027 · 
+ 20:30 بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\n
+ ⚽ Inter v Venezia\n🏆 Serie A — Matchday 21\n🗓 Sun 24 Jan 2027 ·
+  17:30 UTC\n🏟 Giuseppe Meazza\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد فينيزيا — ال
+ دوري الإيطالي | Tomorrow: Inter vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × فينيزيا | Kick-off in 30 min: Inter vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749856@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T173000Z
+DTEND:20270131T193000Z
+SUMMARY:Napoli vs Inter — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749856
+DESCRIPTION:⚽ نابولي × إنتر ميلان\n🏆 الدوري ال
+ إيطالي — الجولة 22\n🗓 الأحد 31 يناير 2027 · 20
+ :30 بتوقيت الرياض\n🏟 Diego Armando Maradona\n————
+ —\n⚽ Napoli v Inter\n🏆 Serie A — Matchday 22\n🗓 Sun 31 Jan 202
+ 7 · 17:30 UTC\n🏟 Diego Armando Maradona\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد إنتر ميلان — الد
+ وري الإيطالي | Tomorrow: Napoli vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × إنتر ميلان | Kick-off in 30 min: Napoli vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749865@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T173000Z
+DTEND:20270207T193000Z
+SUMMARY:Inter vs Cagliari — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749865
+DESCRIPTION:⚽ إنتر ميلان × كالياري\n🏆 الدوري ا
+ لإيطالي — الجولة 23\n🗓 الأحد 7 فبراير 2027 ·
+  20:30 بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\n
+ ⚽ Inter v Cagliari\n🏆 Serie A — Matchday 23\n🗓 Sun 07 Feb 2027 
+ · 17:30 UTC\n🏟 Giuseppe Meazza\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد كالياري — ال
+ دوري الإيطالي | Tomorrow: Inter vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × كالياري | Kick-off in 30 min: Inter vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749875@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T173000Z
+DTEND:20270214T193000Z
+SUMMARY:Inter vs Milan — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749875
+DESCRIPTION:⚽ إنتر ميلان × ميلان\n🏆 الدوري الإ
+ يطالي — الجولة 24\n🗓 الأحد 14 فبراير 2027 · 20
+ :30 بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\n⚽ 
+ Inter v Milan\n🏆 Serie A — Matchday 24\n🗓 Sun 14 Feb 2027 · 17:30
+  UTC\n🏟 Giuseppe Meazza\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد ميلان — الدو
+ ري الإيطالي | Tomorrow: Inter vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × ميلان | Kick-off in 30 min: Inter vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749883@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T173000Z
+DTEND:20270221T193000Z
+SUMMARY:Fiorentina vs Inter — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749883
+DESCRIPTION:⚽ فيورنتينا × إنتر ميلان\n🏆 الدور
+ ي الإيطالي — الجولة 25\n🗓 الأحد 21 فبراير 2
+ 027 · 20:30 بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n—
+ ————\n⚽ Fiorentina v Inter\n🏆 Serie A — Matchday 25\n🗓 S
+ un 21 Feb 2027 · 17:30 UTC\n🏟 Artemio Franchi, Firenze\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد إنتر ميلان — 
+ الدوري الإيطالي | Tomorrow: Fiorentina vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × إنتر ميلان | Kick-off in 30 min: Fiorentina vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749896@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T173000Z
+DTEND:20270228T193000Z
+SUMMARY:Inter vs Atalanta — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749896
+DESCRIPTION:⚽ إنتر ميلان × أتالانتا\n🏆 الدوري 
+ الإيطالي — الجولة 26\n🗓 الأحد 28 فبراير 2027
+  · 20:30 بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————
+ \n⚽ Inter v Atalanta\n🏆 Serie A — Matchday 26\n🗓 Sun 28 Feb 2027
+  · 17:30 UTC\n🏟 Giuseppe Meazza\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد أتالانتا — ا
+ لدوري الإيطالي | Tomorrow: Inter vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × أتالانتا | Kick-off in 30 min: Inter vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749909@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T173000Z
+DTEND:20270307T193000Z
+SUMMARY:Udinese vs Inter — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749909
+DESCRIPTION:⚽ أودينيزي × إنتر ميلان\n🏆 الدوري 
+ الإيطالي — الجولة 27\n🗓 الأحد 7 مارس 2027 · 2
+ 0:30 بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n
+ —————\n⚽ Udinese v Inter\n🏆 Serie A — Matchday 27\n🗓 S
+ un 07 Mar 2027 · 17:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد إنتر ميلان — ا
+ لدوري الإيطالي | Tomorrow: Udinese vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × إنتر ميلان | Kick-off in 30 min: Udinese vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749918@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T173000Z
+DTEND:20270314T193000Z
+SUMMARY:Torino vs Inter — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749918
+DESCRIPTION:⚽ تورينو × إنتر ميلان\n🏆 الدوري ال
+ إيطالي — الجولة 28\n🗓 الأحد 14 مارس 2027 · 20:3
+ 0 بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n———
+ ——\n⚽ Torino v Inter\n🏆 Serie A — Matchday 28\n🗓 Sun 14 Mar 
+ 2027 · 17:30 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد إنتر ميلان — الد
+ وري الإيطالي | Tomorrow: Torino vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × إنتر ميلان | Kick-off in 30 min: Torino vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749923@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T173000Z
+DTEND:20270321T193000Z
+SUMMARY:Inter vs Frosinone — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749923
+DESCRIPTION:⚽ إنتر ميلان × فروزينوني\n🏆 الدور
+ ي الإيطالي — الجولة 29\n🗓 الأحد 21 مارس 2027 
+ · 20:30 بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\
+ n⚽ Inter v Frosinone\n🏆 Serie A — Matchday 29\n🗓 Sun 21 Mar 2027
+  · 17:30 UTC\n🏟 Giuseppe Meazza\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد فروزينوني — 
+ الدوري الإيطالي | Tomorrow: Inter vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × فروزينوني | Kick-off in 30 min: Inter vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749935@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T163000Z
+DTEND:20270404T183000Z
+SUMMARY:Genoa vs Inter — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749935
+DESCRIPTION:⚽ جنوى × إنتر ميلان\n🏆 الدوري الإي
+ طالي — الجولة 30\n🗓 الأحد 4 أبريل 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n
+ ⚽ Genoa v Inter\n🏆 Serie A — Matchday 30\n🗓 Sun 04 Apr 2027 · 1
+ 6:30 UTC\n🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد إنتر ميلان — الدور
+ ي الإيطالي | Tomorrow: Genoa vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  إنتر ميلان | Kick-off in 30 min: Genoa vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749944@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T163000Z
+DTEND:20270411T183000Z
+SUMMARY:Inter vs Roma — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749944
+DESCRIPTION:⚽ إنتر ميلان × روما\n🏆 الدوري الإي
+ طالي — الجولة 31\n🗓 الأحد 11 أبريل 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\n⚽ Inte
+ r v Roma\n🏆 Serie A — Matchday 31\n🗓 Sun 11 Apr 2027 · 16:30 UTC\
+ n🏟 Giuseppe Meazza\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد روما — الدور
+ ي الإيطالي | Tomorrow: Inter vs Roma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × روما | Kick-off in 30 min: Inter vs Roma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749956@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T163000Z
+DTEND:20270418T183000Z
+SUMMARY:Monza vs Inter — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749956
+DESCRIPTION:⚽ مونزا × إنتر ميلان\n🏆 الدوري الإ
+ يطالي — الجولة 32\n🗓 الأحد 18 أبريل 2027 · 19:3
+ 0 بتوقيت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Mo
+ nza v Inter\n🏆 Serie A — Matchday 32\n🗓 Sun 18 Apr 2027 · 16:30 U
+ TC\n🏟 Stadio Brianteo\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد إنتر ميلان — الدو
+ ري الإيطالي | Tomorrow: Monza vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × إنتر ميلان | Kick-off in 30 min: Monza vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749963@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270425T163000Z
+DTEND:20270425T183000Z
+SUMMARY:Inter vs Bologna — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749963
+DESCRIPTION:⚽ إنتر ميلان × بولونيا\n🏆 الدوري ا
+ لإيطالي — الجولة 33\n🗓 الأحد 25 أبريل 2027 · 
+ 19:30 بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\n
+ ⚽ Inter v Bologna\n🏆 Serie A — Matchday 33\n🗓 Sun 25 Apr 2027 ·
+  16:30 UTC\n🏟 Giuseppe Meazza\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد بولونيا — ال
+ دوري الإيطالي | Tomorrow: Inter vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × بولونيا | Kick-off in 30 min: Inter vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749974@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T163000Z
+DTEND:20270502T183000Z
+SUMMARY:Como vs Inter — Serie A
+LOCATION:Stadio G. Sinigaglia
+URL:https://www.fotmob.com/match/5749974
+DESCRIPTION:⚽ كومو × إنتر ميلان\n🏆 الدوري الإي
+ طالي — الجولة 34\n🗓 الأحد 2 مايو 2027 · 19:30 ب
+ توقيت الرياض\n🏟 Stadio G. Sinigaglia\n—————\n⚽ C
+ omo v Inter\n🏆 Serie A — Matchday 34\n🗓 Sun 02 May 2027 · 16:30 U
+ TC\n🏟 Stadio G. Sinigaglia\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كومو ضد إنتر ميلان — الدور
+ ي الإيطالي | Tomorrow: Como vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كومو ×
+  إنتر ميلان | Kick-off in 30 min: Como vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749983@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T163000Z
+DTEND:20270509T183000Z
+SUMMARY:Inter vs Lecce — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749983
+DESCRIPTION:⚽ إنتر ميلان × ليتشي\n🏆 الدوري الإ
+ يطالي — الجولة 35\n🗓 الأحد 9 مايو 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\n⚽ Inte
+ r v Lecce\n🏆 Serie A — Matchday 35\n🗓 Sun 09 May 2027 · 16:30 UTC
+ \n🏟 Giuseppe Meazza\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد ليتشي — الدو
+ ري الإيطالي | Tomorrow: Inter vs Lecce
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × ليتشي | Kick-off in 30 min: Inter vs Lecce
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749994@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T163000Z
+DTEND:20270516T183000Z
+SUMMARY:Juventus vs Inter — Serie A
+LOCATION:Allianz Stadium
+URL:https://www.fotmob.com/match/5749994
+DESCRIPTION:⚽ يوفنتوس × إنتر ميلان\n🏆 الدوري ا
+ لإيطالي — الجولة 36\n🗓 الأحد 16 مايو 2027 · 19
+ :30 بتوقيت الرياض\n🏟 Allianz Stadium\n—————\n⚽ 
+ Juventus v Inter\n🏆 Serie A — Matchday 36\n🗓 Sun 16 May 2027 · 16
+ :30 UTC\n🏟 Allianz Stadium\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد إنتر ميلان — ال
+ دوري الإيطالي | Tomorrow: Juventus vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × إنتر ميلان | Kick-off in 30 min: Juventus vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750005@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T163000Z
+DTEND:20270523T183000Z
+SUMMARY:Inter vs Lazio — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5750005
+DESCRIPTION:⚽ إنتر ميلان × لاتسيو\n🏆 الدوري ال
+ إيطالي — الجولة 37\n🗓 الأحد 23 مايو 2027 · 19:3
+ 0 بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\n⚽ In
+ ter v Lazio\n🏆 Serie A — Matchday 37\n🗓 Sun 23 May 2027 · 16:30 U
+ TC\n🏟 Giuseppe Meazza\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد لاتسيو — الد
+ وري الإيطالي | Tomorrow: Inter vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × لاتسيو | Kick-off in 30 min: Inter vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750019@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T163000Z
+DTEND:20270530T183000Z
+SUMMARY:Sassuolo vs Inter — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5750019
+DESCRIPTION:⚽ ساسولو × إنتر ميلان\n🏆 الدوري ال
+ إيطالي — الجولة 38\n🗓 الأحد 30 مايو 2027 · 19:3
+ 0 بتوقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n—
+ ————\n⚽ Sassuolo v Inter\n🏆 Serie A — Matchday 38\n🗓 Sun
+  30 May 2027 · 16:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد إنتر ميلان — الد
+ وري الإيطالي | Tomorrow: Sassuolo vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × إنتر ميلان | Kick-off in 30 min: Sassuolo vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106242@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T190000Z
+DTEND:20260908T210000Z
+SUMMARY:Real Madrid vs Inter — UEFA Champions League
+LOCATION:Estadio Bernabéu\, Madrid\, Spain
+GEO:40.453068;-3.688354
+URL:https://www.fotmob.com/match/6106242
+DESCRIPTION:⚽ ريال مدريد × إنتر ميلان\n🏆 دوري 
+ أبطال أوروبا — الجولة 1\n🗓 الثلاثاء 8 سبت
+ مبر 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio Bernabéu، M
+ adrid\n📺 HBO Max (UK)، Paramount+ (US)\n—————\n⚽ Real Madr
+ id v Inter\n🏆 UEFA Champions League — Matchday 1\n🗓 Tue 08 Sep 202
+ 6 · 19:00 UTC\n🏟 Estadio Bernabéu, Madrid\n📺 HBO Max (UK), Paramou
+ nt+ (US)\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد إنتر ميلان — 
+ دوري أبطال أوروبا — 📺 HBO Max (UK)، Paramount+ (US) |
+  Tomorrow: Real Madrid vs Inter | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × إنتر ميلان — 📺 HBO Max (UK)، Paramount+ (US) | 
+ Kick-off in 30 min: Real Madrid vs Inter | TV: HBO Max (UK)\, Paramount+ (
+ US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106251@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Inter vs Club Brugge — UEFA Champions League
+LOCATION:Stadio Giuseppe Meazza\, Milano\, Italy
+GEO:45.478084;9.123979
+URL:https://www.fotmob.com/match/6106251
+DESCRIPTION:⚽ إنتر ميلان × كلوب بروج\n🏆 دوري أ
+ بطال أوروبا — الجولة 2\n🗓 الثلاثاء 13 أكت
+ وبر 2026 · 22:00 بتوقيت الرياض\n🏟 Stadio Giuseppe Meazz
+ a، Milano\n—————\n⚽ Inter v Club Brugge\n🏆 UEFA Champions 
+ League — Matchday 2\n🗓 Tue 13 Oct 2026 · 19:00 UTC\n🏟 Stadio Gius
+ eppe Meazza, Milano\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد كلوب بروج — د
+ وري أبطال أوروبا | Tomorrow: Inter vs Club Brugge
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × كلوب بروج | Kick-off in 30 min: Inter vs Club Brugge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106252@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+SUMMARY:Inter vs Shakhtar Donetsk — UEFA Champions League
+LOCATION:Stadio Giuseppe Meazza\, Milano\, Italy
+GEO:45.478084;9.123979
+URL:https://www.fotmob.com/match/6106252
+DESCRIPTION:⚽ إنتر ميلان × شاختار دونيتسك\n🏆 د
+ وري أبطال أوروبا — الجولة 3\n🗓 الأربعاء 2
+ 1 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Stadio Giusep
+ pe Meazza، Milano\n—————\n⚽ Inter v Shakhtar Donetsk\n🏆 UE
+ FA Champions League — Matchday 3\n🗓 Wed 21 Oct 2026 · 19:00 UTC\n
+ 🏟 Stadio Giuseppe Meazza, Milano\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد شاختار دونيت
+ سك — دوري أبطال أوروبا | Tomorrow: Inter vs Shakhtar Do
+ netsk
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × شاختار دونيتسك | Kick-off in 30 min: Inter vs Sha
+ khtar Donetsk
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106306@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+SUMMARY:Feyenoord vs Inter — UEFA Champions League
+LOCATION:de Kuip
+URL:https://www.fotmob.com/match/6106306
+DESCRIPTION:⚽ فاينورد × إنتر ميلان\n🏆 دوري أبط
+ ال أوروبا — الجولة 4\n🗓 الثلاثاء 3 نوفمبر
+  2026 · 23:00 بتوقيت الرياض\n🏟 de Kuip\n—————\n
+ ⚽ Feyenoord v Inter\n🏆 UEFA Champions League — Matchday 4\n🗓 Tue
+  03 Nov 2026 · 20:00 UTC\n🏟 de Kuip\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فاينورد ضد إنتر ميلان — دو
+ ري أبطال أوروبا | Tomorrow: Feyenoord vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فاينو
+ رد × إنتر ميلان | Kick-off in 30 min: Feyenoord vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106253@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Inter vs VfB Stuttgart — UEFA Champions League
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/6106253
+DESCRIPTION:⚽ إنتر ميلان × شتوتجارت\n🏆 دوري أب
+ طال أوروبا — الجولة 5\n🗓 الأربعاء 25 نوفم
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Giuseppe Meazza\n——
+ ———\n⚽ Inter v VfB Stuttgart\n🏆 UEFA Champions League — Match
+ day 5\n🗓 Wed 25 Nov 2026 · 20:00 UTC\n🏟 Giuseppe Meazza\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد شتوتجارت — د
+ وري أبطال أوروبا | Tomorrow: Inter vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × شتوتجارت | Kick-off in 30 min: Inter vs VfB Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106270@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:Borussia Dortmund vs Inter — UEFA Champions League
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/6106270
+DESCRIPTION:⚽ بوروسيا دورتموند × إنتر ميلان\n
+ 🏆 دوري أبطال أوروبا — الجولة 6\n🗓 الأرب
+ عاء 9 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Signal
+  Iduna Park\n—————\n⚽ Borussia Dortmund v Inter\n🏆 UEFA Cha
+ mpions League — Matchday 6\n🗓 Wed 09 Dec 2026 · 20:00 UTC\n🏟 Sign
+ al Iduna Park\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد إنتر م
+ يلان — دوري أبطال أوروبا | Tomorrow: Borussia Dortmun
+ d vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × إنتر ميلان | Kick-off in 30 min: Borussi
+ a Dortmund vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106250@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+SUMMARY:Inter vs Liverpool — UEFA Champions League
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/6106250
+DESCRIPTION:⚽ إنتر ميلان × ليفربول\n🏆 دوري أبط
+ ال أوروبا — الجولة 7\n🗓 الثلاثاء 19 يناير 
+ 2027 · 23:00 بتوقيت الرياض\n🏟 Giuseppe Meazza\n———
+ ——\n⚽ Inter v Liverpool\n🏆 UEFA Champions League — Matchday 7\n
+ 🗓 Tue 19 Jan 2027 · 20:00 UTC\n🏟 Giuseppe Meazza\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد ليفربول — دو
+ ري أبطال أوروبا | Tomorrow: Inter vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × ليفربول | Kick-off in 30 min: Inter vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106393@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Slovan Bratislava vs Inter — UEFA Champions League
+LOCATION:National Football Stadium
+URL:https://www.fotmob.com/match/6106393
+DESCRIPTION:⚽ سلوفان براتيسلافا × إنتر ميلان\n
+ 🏆 دوري أبطال أوروبا — الجولة 8\n🗓 الأرب
+ عاء 27 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Nationa
+ l Football Stadium\n—————\n⚽ Slovan Bratislava v Inter\n🏆 U
+ EFA Champions League — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n
+ 🏟 National Football Stadium\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سلوفان براتيسلافا ضد إنتر 
+ ميلان — دوري أبطال أوروبا | Tomorrow: Slovan Bratisl
+ ava vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سلوفا
+ ن براتيسلافا × إنتر ميلان | Kick-off in 30 min: Slova
+ n Bratislava vs Inter
+END:VALARM
+END:VEVENT
+END:VCALENDAR

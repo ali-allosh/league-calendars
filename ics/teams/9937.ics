@@ -1,0 +1,1358 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Brentford — Premier League & FA Cup Fixtures | برين
+ تفورد — مباريات الدوري الإنجليزي الممتا
+ ز وكأس الاتحاد الإنجليزي
+X-WR-CALDESC:Brentford — all matches in Premier League & FA Cup\, exact U
+ TC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026
+ -09-05T19:31:10Z.  •  برينتفورد — جميع المباريات
+  في الدوري الإنجليزي الممتاز وكأس الاتحا
+ د الإنجليزي بتوقيت UTC الدقيق مع الملاعب و
+ القنوات الناقلة. المصدر: FotMob + 365scores · تحد
+ يث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5795368@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T163000Z
+DTEND:20260822T183000Z
+SUMMARY:Brentford vs Tottenham Hotspur (3 - 0) — Premier League
+LOCATION:Gtech Community Stadium\, Brentford\, Middlesex\, England
+GEO:51.490729;-0.288884
+URL:https://www.fotmob.com/match/5795368
+DESCRIPTION:⚽ برينتفورد × توتنهام هوتسبر (3 - 0)\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 1\n
+ 🗓 السبت 22 أغسطس 2026 · 19:30 بتوقيت الرياض\n
+ 🏟 Gtech Community Stadium، Brentford, Middlesex\n⚖️ الحكم: Mi
+ chael Oliver\n👥 الحضور: 17,180\n—————\n⚽ Brentford v 
+ Tottenham Hotspur (3 - 0)\n🏆 Premier League — Matchday 1\n🗓 Sat 22
+  Aug 2026 · 16:30 UTC\n🏟 Gtech Community Stadium, Brentford, Middlesex
+ \nReferee: Michael Oliver\nAttendance: 17,180\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد توتنهام هوتسب
+ ر — الدوري الإنجليزي الممتاز | Tomorrow: Brentfor
+ d vs Tottenham Hotspur
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × توتنهام هوتسبر | Kick-off in 30 min: Brentford vs
+  Tottenham Hotspur
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795430@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T130000Z
+DTEND:20260830T150000Z
+SUMMARY:Leeds United vs Brentford (1 - 1) — Premier League
+LOCATION:Elland Road\, Leeds\, West Yorkshire\, England
+GEO:53.777834;-1.572279
+URL:https://www.fotmob.com/match/5795430
+DESCRIPTION:⚽ ليدز يونايتد × برينتفورد (1 - 1)\n🏆
+  الدوري الإنجليزي الممتاز — الجولة 2\n🗓 
+ الأحد 30 أغسطس 2026 · 16:00 بتوقيت الرياض\n🏟 Ell
+ and Road، Leeds, West Yorkshire\n⚖️ الحكم: Tony Harrington\n—
+ ————\n⚽ Leeds United v Brentford (1 - 1)\n🏆 Premier League 
+ — Matchday 2\n🗓 Sun 30 Aug 2026 · 13:00 UTC\n🏟 Elland Road, Leeds
+ , West Yorkshire\nReferee: Tony Harrington\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد برينتفورد 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Leeds Unite
+ d vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × برينتفورد | Kick-off in 30 min: Leeds United vs B
+ rentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795436@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T140000Z
+DTEND:20260905T160000Z
+SUMMARY:Brentford vs Sunderland (1 - 1) — Premier League
+LOCATION:Gtech Community Stadium\, Brentford\, Middlesex\, England
+GEO:51.490729;-0.288884
+URL:https://www.fotmob.com/match/5795436
+DESCRIPTION:⚽ برينتفورد × سندرلاند (1 - 1)\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 3\n🗓 السب
+ ت 5 سبتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Gtech Comm
+ unity Stadium، Brentford, Middlesex\n📺 beIN Sports 5 HD\n⚖️ الح
+ كم: Thomas Bramall\n👥 الحضور: 17,131\n—————\n⚽ Bren
+ tford v Sunderland (1 - 1)\n🏆 Premier League — Matchday 3\n🗓 Sat 0
+ 5 Sep 2026 · 14:00 UTC\n🏟 Gtech Community Stadium, Brentford, Middlese
+ x\n📺 beIN Sports 5 HD\nReferee: Thomas Bramall\nAttendance: 17,131\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد سندرلاند — ال
+ دوري الإنجليزي الممتاز — 📺 beIN Sports 5 HD | Tom
+ orrow: Brentford vs Sunderland | TV: beIN Sports 5 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × سندرلاند — 📺 beIN Sports 5 HD | Kick-off in 30 mi
+ n: Brentford vs Sunderland | TV: beIN Sports 5 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795445@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T140000Z
+DTEND:20260912T160000Z
+SUMMARY:AFC Bournemouth vs Brentford — Premier League
+LOCATION:Vitality Stadium\, Bournemouth\, Dorset\, England
+GEO:50.735241;-1.838310
+URL:https://www.fotmob.com/match/5795445
+DESCRIPTION:⚽ بورنموث × برينتفورد\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 4\n🗓 السبت 12 س
+ بتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Vitality Stadium
+ ، Bournemouth, Dorset\n📺 NBCSN Extra، Peacock، Fubo Sports CA، Star
+ Hub TV+، Astro Go\n—————\n⚽ AFC Bournemouth v Brentford\n🏆
+  Premier League — Matchday 4\n🗓 Sat 12 Sep 2026 · 14:00 UTC\n🏟 Vi
+ tality Stadium, Bournemouth, Dorset\n📺 NBCSN Extra, Peacock, Fubo Sport
+ s CA, StarHub TV+, Astro Go\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد برينتفورد — الد
+ وري الإنجليزي الممتاز — 📺 NBCSN Extra، Peacock، 
+ Fubo Sports CA، StarHub TV+، Astro Go | Tomorrow: AFC Bournemouth vs Bre
+ ntford | TV: NBCSN Extra\, Peacock\, Fubo Sports CA\, StarHub TV+\, Astro 
+ Go
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × برينتفورد — 📺 NBCSN Extra، Peacock، Fubo Sports CA
+ ، StarHub TV+، Astro Go | Kick-off in 30 min: AFC Bournemouth vs Brentfo
+ rd | TV: NBCSN Extra\, Peacock\, Fubo Sports CA\, StarHub TV+\, Astro Go
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795456@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260918T190000Z
+DTEND:20260918T210000Z
+SUMMARY:Brentford vs Chelsea — Premier League
+LOCATION:Gtech Community Stadium\, Brentford\, Middlesex\, England
+GEO:51.490729;-0.288884
+URL:https://www.fotmob.com/match/5795456
+DESCRIPTION:⚽ برينتفورد × تشيلسي\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 5\n🗓 الجمعة 18 س
+ بتمبر 2026 · 22:00 بتوقيت الرياض\n🏟 Gtech Community S
+ tadium، Brentford, Middlesex\n—————\n⚽ Brentford v Chelsea\n
+ 🏆 Premier League — Matchday 5\n🗓 Fri 18 Sep 2026 · 19:00 UTC\n
+ 🏟 Gtech Community Stadium, Brentford, Middlesex\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد تشيلسي — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Brentford vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × تشيلسي | Kick-off in 30 min: Brentford vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795466@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T140000Z
+DTEND:20261010T160000Z
+SUMMARY:Aston Villa vs Brentford — Premier League
+LOCATION:Villa Park\, Birmingham\, England
+GEO:52.509091;-1.884842
+URL:https://www.fotmob.com/match/5795466
+DESCRIPTION:⚽ أستون فيلا × برينتفورد\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 6\n🗓 السبت 1
+ 0 أكتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 Villa Park، 
+ Birmingham\n—————\n⚽ Aston Villa v Brentford\n🏆 Premier Lea
+ gue — Matchday 6\n🗓 Sat 10 Oct 2026 · 14:00 UTC\n🏟 Villa Park, Bi
+ rmingham\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد برينتفورد — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Aston Villa vs 
+ Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × برينتفورد | Kick-off in 30 min: Aston Villa vs Brentf
+ ord
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795476@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T140000Z
+DTEND:20261017T160000Z
+SUMMARY:Brentford vs Liverpool — Premier League
+LOCATION:Gtech Community Stadium\, Brentford\, Middlesex\, England
+GEO:51.490729;-0.288884
+URL:https://www.fotmob.com/match/5795476
+DESCRIPTION:⚽ برينتفورد × ليفربول\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 7\n🗓 السبت 17 أ
+ كتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 Gtech Community S
+ tadium، Brentford, Middlesex\n—————\n⚽ Brentford v Liverpool\
+ n🏆 Premier League — Matchday 7\n🗓 Sat 17 Oct 2026 · 14:00 UTC\n
+ 🏟 Gtech Community Stadium, Brentford, Middlesex\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد ليفربول — الد
+ وري الإنجليزي الممتاز | Tomorrow: Brentford vs Liverpoo
+ l
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × ليفربول | Kick-off in 30 min: Brentford vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795490@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Hull City vs Brentford — Premier League
+LOCATION:MKM Stadium\, Hull\, England
+GEO:53.746240;-0.367640
+URL:https://www.fotmob.com/match/5795490
+DESCRIPTION:⚽ هال سيتي × برينتفورد\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 8\n🗓 الأحد 25 أ
+ كتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 MKM Stadium، Hul
+ l\n—————\n⚽ Hull City v Brentford\n🏆 Premier League — Mat
+ chday 8\n🗓 Sun 25 Oct 2026 · 14:00 UTC\n🏟 MKM Stadium, Hull\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد برينتفورد — ال
+ دوري الإنجليزي الممتاز | Tomorrow: Hull City vs Brentf
+ ord
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × برينتفورد | Kick-off in 30 min: Hull City vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795497@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:Brentford vs Nottingham Forest — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795497
+DESCRIPTION:⚽ برينتفورد × نوتنجهام فورست\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 9\n🗓 ال
+ سبت 31 أكتوبر 2026 · 18:00 بتوقيت الرياض\n🏟 Gtech
+  Community Stadium\n—————\n⚽ Brentford v Nottingham Forest\n
+ 🏆 Premier League — Matchday 9\n🗓 Sat 31 Oct 2026 · 15:00 UTC\n
+ 🏟 Gtech Community Stadium\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد نوتنجهام فورس
+ ت — الدوري الإنجليزي الممتاز | Tomorrow: Brentfor
+ d vs Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × نوتنجهام فورست | Kick-off in 30 min: Brentford vs
+  Nottingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795506@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Brighton & Hove Albion vs Brentford — Premier League
+LOCATION:The American Express Community Stadium
+URL:https://www.fotmob.com/match/5795506
+DESCRIPTION:⚽ برايتون × برينتفورد\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 10\n🗓 السبت 7 ن
+ وفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 The American Expr
+ ess Community Stadium\n—————\n⚽ Brighton & Hove Albion v Brent
+ ford\n🏆 Premier League — Matchday 10\n🗓 Sat 07 Nov 2026 · 15:00 U
+ TC\n🏟 The American Express Community Stadium\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برايتون ضد برينتفورد — الد
+ وري الإنجليزي الممتاز | Tomorrow: Brighton & Hove Albio
+ n vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برايت
+ ون × برينتفورد | Kick-off in 30 min: Brighton & Hove Albion vs
+  Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795517@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:Brentford vs Everton — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795517
+DESCRIPTION:⚽ برينتفورد × إيفرتون\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 11\n🗓 السبت 21 ن
+ وفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Gtech Community S
+ tadium\n—————\n⚽ Brentford v Everton\n🏆 Premier League — 
+ Matchday 11\n🗓 Sat 21 Nov 2026 · 15:00 UTC\n🏟 Gtech Community Stadi
+ um\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد إيفرتون — الد
+ وري الإنجليزي الممتاز | Tomorrow: Brentford vs Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × إيفرتون | Kick-off in 30 min: Brentford vs Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795532@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:Manchester United vs Brentford — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795532
+DESCRIPTION:⚽ مانشستر يونايتد × برينتفورد\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 12\n🗓 
+ السبت 28 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 O
+ ld Trafford\n—————\n⚽ Manchester United v Brentford\n🏆 Prem
+ ier League — Matchday 12\n🗓 Sat 28 Nov 2026 · 15:00 UTC\n🏟 Old Tr
+ afford\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد برينتفو
+ رد — الدوري الإنجليزي الممتاز | Tomorrow: Manche
+ ster United vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × برينتفورد | Kick-off in 30 min: Manchester
+  United vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795537@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Brentford vs Arsenal — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795537
+DESCRIPTION:⚽ برينتفورد × أرسنال\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 13\n🗓 الأربعاء 2
+  ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Gtech Communit
+ y Stadium\n—————\n⚽ Brentford v Arsenal\n🏆 Premier League 
+ — Matchday 13\n🗓 Wed 02 Dec 2026 · 20:00 UTC\n🏟 Gtech Community S
+ tadium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد أرسنال — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Brentford vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × أرسنال | Kick-off in 30 min: Brentford vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795547@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Brentford vs Manchester City — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795547
+DESCRIPTION:⚽ برينتفورد × مانشستر سيتي\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 14\n🗓 الس
+ بت 5 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Gtech Co
+ mmunity Stadium\n—————\n⚽ Brentford v Manchester City\n🏆 Pr
+ emier League — Matchday 14\n🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 Gtec
+ h Community Stadium\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد مانشستر سيتي 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Brentford v
+ s Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × مانشستر سيتي | Kick-off in 30 min: Brentford vs Man
+ chester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795559@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Fulham vs Brentford — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795559
+DESCRIPTION:⚽ فولهام × برينتفورد\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 15\n🗓 السبت 12 دي
+ سمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Craven Cottage\n—
+ ————\n⚽ Fulham v Brentford\n🏆 Premier League — Matchday 15\
+ n🗓 Sat 12 Dec 2026 · 15:00 UTC\n🏟 Craven Cottage\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد برينتفورد — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Fulham vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × برينتفورد | Kick-off in 30 min: Fulham vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795567@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:Brentford vs Newcastle United — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795567
+DESCRIPTION:⚽ برينتفورد × نيوكاسل يونايتد\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 16\n🗓 
+ السبت 19 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 G
+ tech Community Stadium\n—————\n⚽ Brentford v Newcastle United\
+ n🏆 Premier League — Matchday 16\n🗓 Sat 19 Dec 2026 · 15:00 UTC\n
+ 🏟 Gtech Community Stadium\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد نيوكاسل يوناي
+ تد — الدوري الإنجليزي الممتاز | Tomorrow: Brentf
+ ord vs Newcastle United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × نيوكاسل يونايتد | Kick-off in 30 min: Brentford 
+ vs Newcastle United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795581@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261226T150000Z
+DTEND:20261226T170000Z
+SUMMARY:Ipswich Town vs Brentford — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795581
+DESCRIPTION:⚽ إبسويتش تاون × برينتفورد\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 17\n🗓 الس
+ بت 26 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Portman
+  Road\n—————\n⚽ Ipswich Town v Brentford\n🏆 Premier League 
+ — Matchday 17\n🗓 Sat 26 Dec 2026 · 15:00 UTC\n🏟 Portman Road\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد برينتفورد 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Ipswich Tow
+ n vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × برينتفورد | Kick-off in 30 min: Ipswich Town vs 
+ Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795586@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261230T200000Z
+DTEND:20261230T220000Z
+SUMMARY:Coventry City vs Brentford — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795586
+DESCRIPTION:⚽ كوفنتري سيتي × برينتفورد\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 18\n🗓 الأ
+ ربعاء 30 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 C
+ oventry Building Society Arena\n—————\n⚽ Coventry City v Brent
+ ford\n🏆 Premier League — Matchday 18\n🗓 Wed 30 Dec 2026 · 20:00 U
+ TC\n🏟 Coventry Building Society Arena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد برينتفورد 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Coventry Ci
+ ty vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × برينتفورد | Kick-off in 30 min: Coventry City vs
+  Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795597@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T150000Z
+DTEND:20270102T170000Z
+SUMMARY:Brentford vs Crystal Palace — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795597
+DESCRIPTION:⚽ برينتفورد × كريستال بالاس\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 19\n🗓 ال
+ سبت 2 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Gtech Co
+ mmunity Stadium\n—————\n⚽ Brentford v Crystal Palace\n🏆 Pre
+ mier League — Matchday 19\n🗓 Sat 02 Jan 2027 · 15:00 UTC\n🏟 Gtech
+  Community Stadium\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد كريستال بالاس
+  — الدوري الإنجليزي الممتاز | Tomorrow: Brentford 
+ vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × كريستال بالاس | Kick-off in 30 min: Brentford vs C
+ rystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795605@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T200000Z
+DTEND:20270106T220000Z
+SUMMARY:Arsenal vs Brentford — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795605
+DESCRIPTION:⚽ أرسنال × برينتفورد\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 20\n🗓 الأربعاء 6
+  يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Emirates Stadium
+ \n—————\n⚽ Arsenal v Brentford\n🏆 Premier League — Matchd
+ ay 20\n🗓 Wed 06 Jan 2027 · 20:00 UTC\n🏟 Emirates Stadium\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد برينتفورد — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Arsenal vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × برينتفورد | Kick-off in 30 min: Arsenal vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795617@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:Brentford vs Brighton & Hove Albion — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795617
+DESCRIPTION:⚽ برينتفورد × برايتون\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 21\n🗓 السبت 16 ي
+ ناير 2027 · 18:00 بتوقيت الرياض\n🏟 Gtech Community Sta
+ dium\n—————\n⚽ Brentford v Brighton & Hove Albion\n🏆 Premie
+ r League — Matchday 21\n🗓 Sat 16 Jan 2027 · 15:00 UTC\n🏟 Gtech Co
+ mmunity Stadium\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد برايتون — الد
+ وري الإنجليزي الممتاز | Tomorrow: Brentford vs Brighton
+  & Hove Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × برايتون | Kick-off in 30 min: Brentford vs Brighton & H
+ ove Albion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795628@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:Everton vs Brentford — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795628
+DESCRIPTION:⚽ إيفرتون × برينتفورد\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 22\n🗓 السبت 23 ي
+ ناير 2027 · 18:00 بتوقيت الرياض\n🏟 Hill Dickinson Stad
+ ium\n—————\n⚽ Everton v Brentford\n🏆 Premier League — Mat
+ chday 22\n🗓 Sat 23 Jan 2027 · 15:00 UTC\n🏟 Hill Dickinson Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد برينتفورد — الد
+ وري الإنجليزي الممتاز | Tomorrow: Everton vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × برينتفورد | Kick-off in 30 min: Everton vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795637@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Brentford vs Manchester United — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795637
+DESCRIPTION:⚽ برينتفورد × مانشستر يونايتد\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 23\n🗓 
+ السبت 30 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Gte
+ ch Community Stadium\n—————\n⚽ Brentford v Manchester United\n
+ 🏆 Premier League — Matchday 23\n🗓 Sat 30 Jan 2027 · 15:00 UTC\n
+ 🏟 Gtech Community Stadium\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد مانشستر يوناي
+ تد — الدوري الإنجليزي الممتاز | Tomorrow: Brentf
+ ord vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × مانشستر يونايتد | Kick-off in 30 min: Brentford 
+ vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795653@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Nottingham Forest vs Brentford — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795653
+DESCRIPTION:⚽ نوتنجهام فورست × برينتفورد\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 24\n🗓 ا
+ لسبت 6 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 City
+  Ground, Nottingham\n—————\n⚽ Nottingham Forest v Brentford\n
+ 🏆 Premier League — Matchday 24\n🗓 Sat 06 Feb 2027 · 15:00 UTC\n
+ 🏟 City Ground, Nottingham\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد برينتفور
+ د — الدوري الإنجليزي الممتاز | Tomorrow: Nottingh
+ am Forest vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × برينتفورد | Kick-off in 30 min: Nottingham F
+ orest vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795657@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270210T200000Z
+DTEND:20270210T220000Z
+SUMMARY:Crystal Palace vs Brentford — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795657
+DESCRIPTION:⚽ كريستال بالاس × برينتفورد\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 25\n🗓 ال
+ أربعاء 10 فبراير 2027 · 23:00 بتوقيت الرياض\n🏟
+  Selhurst Park\n—————\n⚽ Crystal Palace v Brentford\n🏆 Prem
+ ier League — Matchday 25\n🗓 Wed 10 Feb 2027 · 20:00 UTC\n🏟 Selhur
+ st Park\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد برينتفورد
+  — الدوري الإنجليزي الممتاز | Tomorrow: Crystal Pa
+ lace vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × برينتفورد | Kick-off in 30 min: Crystal Palace
+  vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795667@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:Brentford vs Coventry City — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795667
+DESCRIPTION:⚽ برينتفورد × كوفنتري سيتي\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 26\n🗓 الس
+ بت 20 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Gtech C
+ ommunity Stadium\n—————\n⚽ Brentford v Coventry City\n🏆 Pre
+ mier League — Matchday 26\n🗓 Sat 20 Feb 2027 · 15:00 UTC\n🏟 Gtech
+  Community Stadium\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد كوفنتري سيتي 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Brentford v
+ s Coventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × كوفنتري سيتي | Kick-off in 30 min: Brentford vs Cov
+ entry City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795683@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T150000Z
+DTEND:20270227T170000Z
+SUMMARY:Newcastle United vs Brentford — Premier League
+LOCATION:St James' Park
+URL:https://www.fotmob.com/match/5795683
+DESCRIPTION:⚽ نيوكاسل يونايتد × برينتفورد\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 27\n🗓 
+ السبت 27 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 S
+ t James' Park\n—————\n⚽ Newcastle United v Brentford\n🏆 Pre
+ mier League — Matchday 27\n🗓 Sat 27 Feb 2027 · 15:00 UTC\n🏟 St Ja
+ mes' Park\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل يونايتد ضد برينتفو
+ رد — الدوري الإنجليزي الممتاز | Tomorrow: Newcas
+ tle United vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل يونايتد × برينتفورد | Kick-off in 30 min: Newcastle 
+ United vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795687@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270303T200000Z
+DTEND:20270303T220000Z
+SUMMARY:Brentford vs Ipswich Town — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795687
+DESCRIPTION:⚽ برينتفورد × إبسويتش تاون\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 28\n🗓 الأ
+ ربعاء 3 مارس 2027 · 23:00 بتوقيت الرياض\n🏟 Gtech 
+ Community Stadium\n—————\n⚽ Brentford v Ipswich Town\n🏆 Pre
+ mier League — Matchday 28\n🗓 Wed 03 Mar 2027 · 20:00 UTC\n🏟 Gtech
+  Community Stadium\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد إبسويتش تاون 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Brentford v
+ s Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × إبسويتش تاون | Kick-off in 30 min: Brentford vs Ips
+ wich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795703@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T150000Z
+DTEND:20270313T170000Z
+SUMMARY:Sunderland vs Brentford — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795703
+DESCRIPTION:⚽ سندرلاند × برينتفورد\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 29\n🗓 السبت 13 
+ مارس 2027 · 18:00 بتوقيت الرياض\n🏟 Stadium of Light\n
+ —————\n⚽ Sunderland v Brentford\n🏆 Premier League — Match
+ day 29\n🗓 Sat 13 Mar 2027 · 15:00 UTC\n🏟 Stadium of Light\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد برينتفورد — ال
+ دوري الإنجليزي الممتاز | Tomorrow: Sunderland vs Brent
+ ford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × برينتفورد | Kick-off in 30 min: Sunderland vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795706@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T150000Z
+DTEND:20270320T170000Z
+SUMMARY:Brentford vs AFC Bournemouth — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795706
+DESCRIPTION:⚽ برينتفورد × بورنموث\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 30\n🗓 السبت 20 م
+ ارس 2027 · 18:00 بتوقيت الرياض\n🏟 Gtech Community Stadi
+ um\n—————\n⚽ Brentford v AFC Bournemouth\n🏆 Premier League 
+ — Matchday 30\n🗓 Sat 20 Mar 2027 · 15:00 UTC\n🏟 Gtech Community S
+ tadium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد بورنموث — الد
+ وري الإنجليزي الممتاز | Tomorrow: Brentford vs AFC Bour
+ nemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × بورنموث | Kick-off in 30 min: Brentford vs AFC Bournemo
+ uth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795724@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T140000Z
+DTEND:20270410T160000Z
+SUMMARY:Tottenham Hotspur vs Brentford — Premier League
+LOCATION:Tottenham Hotspur Stadium
+URL:https://www.fotmob.com/match/5795724
+DESCRIPTION:⚽ توتنهام هوتسبر × برينتفورد\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 31\n🗓 ا
+ لسبت 10 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 Totte
+ nham Hotspur Stadium\n—————\n⚽ Tottenham Hotspur v Brentford\n
+ 🏆 Premier League — Matchday 31\n🗓 Sat 10 Apr 2027 · 14:00 UTC\n
+ 🏟 Tottenham Hotspur Stadium\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توتنهام هوتسبر ضد برينتفور
+ د — الدوري الإنجليزي الممتاز | Tomorrow: Tottenha
+ m Hotspur vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توتنه
+ ام هوتسبر × برينتفورد | Kick-off in 30 min: Tottenham Ho
+ tspur vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795726@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T140000Z
+DTEND:20270417T160000Z
+SUMMARY:Brentford vs Leeds United — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795726
+DESCRIPTION:⚽ برينتفورد × ليدز يونايتد\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 32\n🗓 الس
+ بت 17 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 Gtech Com
+ munity Stadium\n—————\n⚽ Brentford v Leeds United\n🏆 Premie
+ r League — Matchday 32\n🗓 Sat 17 Apr 2027 · 14:00 UTC\n🏟 Gtech Co
+ mmunity Stadium\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد ليدز يونايتد 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Brentford v
+ s Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × ليدز يونايتد | Kick-off in 30 min: Brentford vs Lee
+ ds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795737@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T140000Z
+DTEND:20270424T160000Z
+SUMMARY:Brentford vs Fulham — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795737
+DESCRIPTION:⚽ برينتفورد × فولهام\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 33\n🗓 السبت 24 أب
+ ريل 2027 · 17:00 بتوقيت الرياض\n🏟 Gtech Community Stadi
+ um\n—————\n⚽ Brentford v Fulham\n🏆 Premier League — Match
+ day 33\n🗓 Sat 24 Apr 2027 · 14:00 UTC\n🏟 Gtech Community Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد فولهام — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Brentford vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × فولهام | Kick-off in 30 min: Brentford vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795753@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T140000Z
+DTEND:20270501T160000Z
+SUMMARY:Manchester City vs Brentford — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795753
+DESCRIPTION:⚽ مانشستر سيتي × برينتفورد\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 34\n🗓 الس
+ بت 1 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Etihad Stadi
+ um\n—————\n⚽ Manchester City v Brentford\n🏆 Premier League 
+ — Matchday 34\n🗓 Sat 01 May 2027 · 14:00 UTC\n🏟 Etihad Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد برينتفورد 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Manchester 
+ City vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × برينتفورد | Kick-off in 30 min: Manchester City 
+ vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795756@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T140000Z
+DTEND:20270508T160000Z
+SUMMARY:Brentford vs Aston Villa — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795756
+DESCRIPTION:⚽ برينتفورد × أستون فيلا\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 35\n🗓 السبت 
+ 8 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Gtech Community S
+ tadium\n—————\n⚽ Brentford v Aston Villa\n🏆 Premier League 
+ — Matchday 35\n🗓 Sat 08 May 2027 · 14:00 UTC\n🏟 Gtech Community S
+ tadium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد أستون فيلا — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Brentford vs As
+ ton Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × أستون فيلا | Kick-off in 30 min: Brentford vs Aston V
+ illa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795785@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T140000Z
+DTEND:20270515T160000Z
+SUMMARY:Liverpool vs Brentford — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795785
+DESCRIPTION:⚽ ليفربول × برينتفورد\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 36\n🗓 السبت 15 م
+ ايو 2027 · 17:00 بتوقيت الرياض\n🏟 Anfield\n————
+ —\n⚽ Liverpool v Brentford\n🏆 Premier League — Matchday 36\n🗓 
+ Sat 15 May 2027 · 14:00 UTC\n🏟 Anfield\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد برينتفورد — الد
+ وري الإنجليزي الممتاز | Tomorrow: Liverpool vs Brentfor
+ d
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × برينتفورد | Kick-off in 30 min: Liverpool vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795789@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T140000Z
+DTEND:20270523T160000Z
+SUMMARY:Brentford vs Hull City — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795789
+DESCRIPTION:⚽ برينتفورد × هال سيتي\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 37\n🗓 الأحد 23 م
+ ايو 2027 · 17:00 بتوقيت الرياض\n🏟 Gtech Community Stadi
+ um\n—————\n⚽ Brentford v Hull City\n🏆 Premier League — Ma
+ tchday 37\n🗓 Sun 23 May 2027 · 14:00 UTC\n🏟 Gtech Community Stadium
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد هال سيتي — ال
+ دوري الإنجليزي الممتاز | Tomorrow: Brentford vs Hull C
+ ity
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × هال سيتي | Kick-off in 30 min: Brentford vs Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795800@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T150000Z
+DTEND:20270530T170000Z
+SUMMARY:Chelsea vs Brentford — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795800
+DESCRIPTION:⚽ تشيلسي × برينتفورد\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 38\n🗓 الأحد 30 ما
+ يو 2027 · 18:00 بتوقيت الرياض\n🏟 Stamford Bridge\n——
+ ———\n⚽ Chelsea v Brentford\n🏆 Premier League — Matchday 38\n
+ 🗓 Sun 30 May 2027 · 15:00 UTC\n🏟 Stamford Bridge\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد برينتفورد — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Chelsea vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × برينتفورد | Kick-off in 30 min: Chelsea vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089903@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T150000Z
+DTEND:20260110T170000Z
+SUMMARY:Sheffield Wednesday vs Brentford (0 - 2) — FA Cup
+LOCATION:Hillsborough\, Sheffield\, England
+GEO:53.411423;-1.500684
+URL:https://www.fotmob.com/match/5089903
+DESCRIPTION:⚽ Sheffield Wednesday × برينتفورد (0 - 2)\n🏆 ك
+ أس الاتحاد الإنجليزي — الدور الثالث\n🗓 
+ السبت 10 يناير 2026 · 18:00 بتوقيت الرياض\n🏟 Hil
+ lsborough، Sheffield\n⚖️ الحكم: Joshua Smith\n👥 الحضور:
+  10,642\n—————\n⚽ Sheffield Wednesday v Brentford (0 - 2)\n
+ 🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 15:00 UTC\n🏟 Hillsboro
+ ugh, Sheffield\nReferee: Joshua Smith\nAttendance: 10,642\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Sheffield Wednesday ضد برينتفورد — 
+ كأس الاتحاد الإنجليزي | Tomorrow: Sheffield Wednesday v
+ s Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Sheffield W
+ ednesday × برينتفورد | Kick-off in 30 min: Sheffield Wednesday v
+ s Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135176@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260216T193000Z
+DTEND:20260216T213000Z
+SUMMARY:Macclesfield FC vs Brentford (0 - 1) — FA Cup
+LOCATION:The Leasing.com Stadium\, Macclesfield\, Cheshire\, England
+GEO:53.242857;-2.127271
+URL:https://www.fotmob.com/match/5135176
+DESCRIPTION:⚽ Macclesfield FC × برينتفورد (0 - 1)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الرابع\n🗓 الا
+ ثنين 16 فبراير 2026 · 22:30 بتوقيت الرياض\n🏟 The
+  Leasing.com Stadium، Macclesfield, Cheshire\n⚖️ الحكم: Darren E
+ ngland\n👥 الحضور: 5,348\n—————\n⚽ Macclesfield FC v B
+ rentford (0 - 1)\n🏆 FA Cup — Round 4\n🗓 Mon 16 Feb 2026 · 19:30 U
+ TC\n🏟 The Leasing.com Stadium, Macclesfield, Cheshire\nReferee: Darren 
+ England\nAttendance: 5,348\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Macclesfield FC ضد برينتفورد — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Macclesfield FC vs Brentf
+ ord
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Macclesfiel
+ d FC × برينتفورد | Kick-off in 30 min: Macclesfield FC vs Brentf
+ ord
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5186385@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260309T193000Z
+DTEND:20260309T213000Z
+SUMMARY:West Ham United vs Brentford (2 - 2) — FA Cup
+LOCATION:London Stadium\, London\, England
+GEO:51.538688;-0.016501
+URL:https://www.fotmob.com/match/5186385
+DESCRIPTION:⚽ وست هام × برينتفورد (2 - 2)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الخامس\n🗓 الاث
+ نين 9 مارس 2026 · 22:30 بتوقيت الرياض\n🏟 London Sta
+ dium، London\n⚖️ الحكم: Andy Madley\n👥 الحضور: 48,570\n
+ —————\n⚽ West Ham United v Brentford (2 - 2)\n🏆 FA Cup — 
+ Round 5\n🗓 Mon 09 Mar 2026 · 19:30 UTC\n🏟 London Stadium, London\nR
+ eferee: Andy Madley\nAttendance: 48,570\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وست هام ضد برينتفورد — كأس 
+ الاتحاد الإنجليزي | Tomorrow: West Ham United vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وست ها
+ م × برينتفورد | Kick-off in 30 min: West Ham United vs Brentfor
+ d
+END:VALARM
+END:VEVENT
+END:VCALENDAR

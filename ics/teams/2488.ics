@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Boreham Wood — FA Cup Fixtures | Boreham Wood — مبا
+ ريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Boreham Wood — all matches in FA Cup\, exact UTC kickoffs\, 
+ stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:1
+ 0Z.  •  Boreham Wood — جميع المباريات في كأس الا
+ تحاد الإنجليزي بتوقيت UTC الدقيق مع الملا
+ عب والقنوات الناقلة. المصدر: FotMob + 365scores · 
+ تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010632@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Boreham Wood vs Crawley Town (3 - 0) — FA Cup
+LOCATION:Mangata Pay UK Stadium\, Borehamwood\, Hertfordshire\, England
+GEO:51.661935;-0.272384
+URL:https://www.fotmob.com/match/5010632
+DESCRIPTION:⚽ Boreham Wood × Crawley Town (3 - 0)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الأول\n🗓 السبت 1 ن
+ وفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Mangata Pay UK St
+ adium، Borehamwood, Hertfordshire\n⚖️ الحكم: Sam Mulhall\n👥 
+ الحضور: 1,536\n—————\n⚽ Boreham Wood v Crawley Town (3 -
+  0)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Mang
+ ata Pay UK Stadium, Borehamwood, Hertfordshire\nReferee: Sam Mulhall\nAtte
+ ndance: 1,536\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Boreham Wood ضد Crawley Town — كأس الا
+ تحاد الإنجليزي | Tomorrow: Boreham Wood vs Crawley Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Boreham Woo
+ d × Crawley Town | Kick-off in 30 min: Boreham Wood vs Crawley Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040316@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251207T143000Z
+DTEND:20251207T163000Z
+SUMMARY:Boreham Wood vs Newport County (3 - 0) — FA Cup
+LOCATION:Mangata Pay UK Stadium\, Borehamwood\, Hertfordshire\, England
+GEO:51.661935;-0.272384
+URL:https://www.fotmob.com/match/5040316
+DESCRIPTION:⚽ Boreham Wood × Newport County (3 - 0)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الثاني\n🗓 الأحد 7
+  ديسمبر 2025 · 17:30 بتوقيت الرياض\n🏟 Mangata Pay UK
+  Stadium، Borehamwood, Hertfordshire\n⚖️ الحكم: Paul Howard\n
+ 👥 الحضور: 1,825\n—————\n⚽ Boreham Wood v Newport Coun
+ ty (3 - 0)\n🏆 FA Cup — Round 2\n🗓 Sun 07 Dec 2025 · 14:30 UTC\n
+ 🏟 Mangata Pay UK Stadium, Borehamwood, Hertfordshire\nReferee: Paul How
+ ard\nAttendance: 1,825\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Boreham Wood ضد Newport County — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Boreham Wood vs Newport County
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Boreham Woo
+ d × Newport County | Kick-off in 30 min: Boreham Wood vs Newport County
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5090063@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260110T150000Z
+DTEND:20260110T170000Z
+SUMMARY:Boreham Wood vs Burton Albion (0 - 5) — FA Cup
+LOCATION:Mangata Developments Stadium Meadow Park\, Borehamwood\, Hertfords
+ hire\, England
+GEO:51.661935;-0.272384
+URL:https://www.fotmob.com/match/5090063
+DESCRIPTION:⚽ Boreham Wood × Burton Albion (0 - 5)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الثالث\n🗓 السبت 10 
+ يناير 2026 · 18:00 بتوقيت الرياض\n🏟 Mangata Developme
+ nts Stadium Meadow Park، Borehamwood, Hertfordshire\n⚖️ الحكم: A
+ ndrew Humphries\n👥 الحضور: 2,201\n—————\n⚽ Boreham Wo
+ od v Burton Albion (0 - 5)\n🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 
+ · 15:00 UTC\n🏟 Mangata Developments Stadium Meadow Park, Borehamwood, 
+ Hertfordshire\nReferee: Andrew Humphries\nAttendance: 2,201\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Boreham Wood ضد Burton Albion — كأس الا
+ تحاد الإنجليزي | Tomorrow: Boreham Wood vs Burton Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Boreham Woo
+ d × Burton Albion | Kick-off in 30 min: Boreham Wood vs Burton Albion
+END:VALARM
+END:VEVENT
+END:VCALENDAR

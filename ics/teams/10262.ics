@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Newport County — FA Cup Fixtures | Newport County — م
+ باريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Newport County — all matches in FA Cup\, exact UTC kickoffs\
+ , stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31
+ :10Z.  •  Newport County — جميع المباريات في كأس ا
+ لاتحاد الإنجليزي بتوقيت UTC الدقيق مع الم
+ لاعب والقنوات الناقلة. المصدر: FotMob + 365scores
+  · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010622@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Newport County vs Gillingham (2 - 2) — FA Cup
+LOCATION:Rodney Parade\, Newport (Casnewydd)\, Wales
+GEO:51.588230;-2.987908
+URL:https://www.fotmob.com/match/5010622
+DESCRIPTION:⚽ Newport County × Gillingham (2 - 2)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الأول\n🗓 السبت 1 ن
+ وفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Rodney Parade، N
+ ewport (Casnewydd)\n⚖️ الحكم: Ross Martin\n👥 الحضور: 2,5
+ 96\n—————\n⚽ Newport County v Gillingham (2 - 2)\n🏆 FA Cup 
+ — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Rodney Parade, Newpor
+ t (Casnewydd)\nReferee: Ross Martin\nAttendance: 2,596\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Newport County ضد Gillingham — كأس الا
+ تحاد الإنجليزي | Tomorrow: Newport County vs Gillingham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Newport Cou
+ nty × Gillingham | Kick-off in 30 min: Newport County vs Gillingham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040316@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251207T143000Z
+DTEND:20251207T163000Z
+SUMMARY:Boreham Wood vs Newport County (3 - 0) — FA Cup
+LOCATION:Mangata Pay UK Stadium\, Borehamwood\, Hertfordshire\, England
+GEO:51.661935;-0.272384
+URL:https://www.fotmob.com/match/5040316
+DESCRIPTION:⚽ Boreham Wood × Newport County (3 - 0)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الثاني\n🗓 الأحد 7
+  ديسمبر 2025 · 17:30 بتوقيت الرياض\n🏟 Mangata Pay UK
+  Stadium، Borehamwood, Hertfordshire\n⚖️ الحكم: Paul Howard\n
+ 👥 الحضور: 1,825\n—————\n⚽ Boreham Wood v Newport Coun
+ ty (3 - 0)\n🏆 FA Cup — Round 2\n🗓 Sun 07 Dec 2025 · 14:30 UTC\n
+ 🏟 Mangata Pay UK Stadium, Borehamwood, Hertfordshire\nReferee: Paul How
+ ard\nAttendance: 1,825\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Boreham Wood ضد Newport County — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Boreham Wood vs Newport County
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Boreham Woo
+ d × Newport County | Kick-off in 30 min: Boreham Wood vs Newport County
+END:VALARM
+END:VEVENT
+END:VCALENDAR

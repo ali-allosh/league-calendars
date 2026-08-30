@@ -1,0 +1,1050 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Brest — Ligue 1 Fixtures | بريست — مباريات
+  الدوري الفرنسي
+X-WR-CALDESC:Brest — all matches in Ligue 1\, exact UTC kickoffs\, stadiu
+ ms & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10Z.  
+ •  بريست — جميع المباريات في الدوري الفر
+ نسي بتوقيت UTC الدقيق مع الملاعب والقنوات 
+ الناقلة. المصدر: FotMob + 365scores · تحديث تلقائ
+ ي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5802903@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T184500Z
+DTEND:20260822T204500Z
+SUMMARY:Le Mans vs Brest (2 - 2) — Ligue 1
+LOCATION:Stade Marie-Marvingt\, Le Mans\, France
+GEO:47.959224;0.223525
+URL:https://www.fotmob.com/match/5802903
+DESCRIPTION:⚽ لومان × بريست (2 - 2)\n🏆 الدوري الف
+ رنسي — الجولة 1\n🗓 السبت 22 أغسطس 2026 · 21:45 
+ بتوقيت الرياض\n🏟 Stade Marie-Marvingt، Le Mans\n⚖️ ا
+ لحكم: Aurélien Petit\n👥 الحضور: 19,809\n—————\n⚽
+  Le Mans v Brest (2 - 2)\n🏆 Ligue 1 — Matchday 1\n🗓 Sat 22 Aug 202
+ 6 · 18:45 UTC\n🏟 Stade Marie-Marvingt, Le Mans\nReferee: Aurélien Pet
+ it\nAttendance: 19,809\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد بريست — الدوري ال
+ فرنسي | Tomorrow: Le Mans vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × بريست | Kick-off in 30 min: Le Mans vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802911@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T184500Z
+DTEND:20260829T204500Z
+SUMMARY:Brest vs Toulouse (2 - 2) — Ligue 1
+LOCATION:Stade Francis-Le Blé\, Brest\, France
+GEO:48.402882;-4.461458
+URL:https://www.fotmob.com/match/5802911
+DESCRIPTION:⚽ بريست × تولوز (2 - 2)\n🏆 الدوري الف
+ رنسي — الجولة 2\n🗓 السبت 29 أغسطس 2026 · 21:45 
+ بتوقيت الرياض\n🏟 Stade Francis-Le Blé، Brest\n⚖️ ال
+ حكم: Jerome Brisard\n👥 الحضور: 13,701\n—————\n⚽ Br
+ est v Toulouse (2 - 2)\n🏆 Ligue 1 — Matchday 2\n🗓 Sat 29 Aug 2026 
+ · 18:45 UTC\n🏟 Stade Francis-Le Blé, Brest\nReferee: Jerome Brisard\n
+ Attendance: 13,701\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد تولوز — الدوري ال
+ فرنسي | Tomorrow: Brest vs Toulouse
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × تولوز | Kick-off in 30 min: Brest vs Toulouse
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802920@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T184500Z
+DTEND:20260905T204500Z
+SUMMARY:Le Havre vs Brest — Ligue 1
+LOCATION:Stade CMA CGM Océane\, Le Havre\, France
+GEO:49.498869;0.169709
+URL:https://www.fotmob.com/match/5802920
+DESCRIPTION:⚽ لو آفر × بريست\n🏆 الدوري الفرنسي
+  — الجولة 3\n🗓 السبت 5 سبتمبر 2026 · 21:45 بتوق
+ يت الرياض\n🏟 Stade CMA CGM Océane، Le Havre\n📺 beIN SPORTS
+  HD 4\n—————\n⚽ Le Havre v Brest\n🏆 Ligue 1 — Matchday 3\
+ n🗓 Sat 05 Sep 2026 · 18:45 UTC\n🏟 Stade CMA CGM Océane, Le Havre\n
+ 📺 beIN Sport 4 HD\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لو آفر ضد بريست — الدوري ال
+ فرنسي — 📺 beIN SPORTS HD 4 | Tomorrow: Le Havre vs Brest | TV: b
+ eIN Sport 4 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لو آفر
+  × بريست — 📺 beIN SPORTS HD 4 | Kick-off in 30 min: Le Havre vs
+  Brest | TV: beIN Sport 4 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802929@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260913T184500Z
+DTEND:20260913T204500Z
+SUMMARY:Brest vs Paris Saint-Germain — Ligue 1
+LOCATION:Stade Francis-Le Blé\, Brest\, France
+GEO:48.402882;-4.461458
+URL:https://www.fotmob.com/match/5802929
+DESCRIPTION:⚽ بريست × باريس سان جيرمان\n🏆 الدو
+ ري الفرنسي — الجولة 4\n🗓 الأحد 13 سبتمبر 20
+ 26 · 21:45 بتوقيت الرياض\n🏟 Stade Francis-Le Blé، Brest\
+ n—————\n⚽ Brest v Paris Saint-Germain\n🏆 Ligue 1 — Matchd
+ ay 4\n🗓 Sun 13 Sep 2026 · 18:45 UTC\n🏟 Stade Francis-Le Blé, Brest
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد باريس سان جيرمان 
+ — الدوري الفرنسي | Tomorrow: Brest vs Paris Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × باريس سان جيرمان | Kick-off in 30 min: Brest vs Paris Sai
+ nt-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802938@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:Auxerre vs Brest — Ligue 1
+LOCATION:Stade de l'Abbe-Deschamps
+URL:https://www.fotmob.com/match/5802938
+DESCRIPTION:⚽ أوكسير × بريست\n🏆 الدوري الفرنس
+ ي — الجولة 5\n🗓 الأحد 20 سبتمبر 2026 · 16:00 بت
+ وقيت الرياض\n🏟 Stade de l'Abbe-Deschamps\n—————\n
+ ⚽ Auxerre v Brest\n🏆 Ligue 1 — Matchday 5\n🗓 Sun 20 Sep 2026 · 
+ 13:00 UTC\n🏟 Stade de l'Abbe-Deschamps\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوكسير ضد بريست — الدوري ا
+ لفرنسي | Tomorrow: Auxerre vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوكسي
+ ر × بريست | Kick-off in 30 min: Auxerre vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802946@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T184500Z
+DTEND:20261010T204500Z
+SUMMARY:Brest vs Angers — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5802946
+DESCRIPTION:⚽ بريست × أنجيه\n🏆 الدوري الفرنسي 
+ — الجولة 6\n🗓 السبت 10 أكتوبر 2026 · 21:45 بتوق
+ يت الرياض\n🏟 Stade Francis le Ble\n—————\n⚽ Brest v
+  Angers\n🏆 Ligue 1 — Matchday 6\n🗓 Sat 10 Oct 2026 · 18:45 UTC\n
+ 🏟 Stade Francis le Ble\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد أنجيه — الدوري ال
+ فرنسي | Tomorrow: Brest vs Angers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × أنجيه | Kick-off in 30 min: Brest vs Angers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802958@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T184500Z
+DTEND:20261017T204500Z
+SUMMARY:Lille vs Brest — Ligue 1
+LOCATION:Decathlon Arena-Stade Pierre-Mauroy
+URL:https://www.fotmob.com/match/5802958
+DESCRIPTION:⚽ ليل × بريست\n🏆 الدوري الفرنسي — 
+ الجولة 7\n🗓 السبت 17 أكتوبر 2026 · 21:45 بتوقيت
+  الرياض\n🏟 Decathlon Arena-Stade Pierre-Mauroy\n—————\n
+ ⚽ Lille v Brest\n🏆 Ligue 1 — Matchday 7\n🗓 Sat 17 Oct 2026 · 18
+ :45 UTC\n🏟 Decathlon Arena-Stade Pierre-Mauroy\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليل ضد بريست — الدوري الفر
+ نسي | Tomorrow: Lille vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليل × 
+ بريست | Kick-off in 30 min: Lille vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802966@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261023T184500Z
+DTEND:20261023T204500Z
+SUMMARY:Brest vs Nice — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5802966
+DESCRIPTION:⚽ بريست × نيس\n🏆 الدوري الفرنسي — 
+ الجولة 8\n🗓 الجمعة 23 أكتوبر 2026 · 21:45 بتوقي
+ ت الرياض\n🏟 Stade Francis le Ble\n—————\n⚽ Brest v N
+ ice\n🏆 Ligue 1 — Matchday 8\n🗓 Fri 23 Oct 2026 · 18:45 UTC\n🏟 
+ Stade Francis le Ble\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد نيس — الدوري الفر
+ نسي | Tomorrow: Brest vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × نيس | Kick-off in 30 min: Brest vs Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802975@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T194500Z
+DTEND:20261031T214500Z
+SUMMARY:Lorient vs Brest — Ligue 1
+LOCATION:Stade du Moustoir
+URL:https://www.fotmob.com/match/5802975
+DESCRIPTION:⚽ لوريان × بريست\n🏆 الدوري الفرنس
+ ي — الجولة 9\n🗓 السبت 31 أكتوبر 2026 · 22:45 بت
+ وقيت الرياض\n🏟 Stade du Moustoir\n—————\n⚽ Lorien
+ t v Brest\n🏆 Ligue 1 — Matchday 9\n🗓 Sat 31 Oct 2026 · 19:45 UTC\
+ n🏟 Stade du Moustoir\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لوريان ضد بريست — الدوري ا
+ لفرنسي | Tomorrow: Lorient vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لوريا
+ ن × بريست | Kick-off in 30 min: Lorient vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802984@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T161500Z
+DTEND:20261108T181500Z
+SUMMARY:Brest vs Lyon — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5802984
+DESCRIPTION:⚽ بريست × أولمبيك ليون\n🏆 الدوري ا
+ لفرنسي — الجولة 10\n🗓 الأحد 8 نوفمبر 2026 · 1
+ 9:15 بتوقيت الرياض\n🏟 Stade Francis le Ble\n—————
+ \n⚽ Brest v Lyon\n🏆 Ligue 1 — Matchday 10\n🗓 Sun 08 Nov 2026 · 
+ 16:15 UTC\n🏟 Stade Francis le Ble\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد أولمبيك ليون — ال
+ دوري الفرنسي | Tomorrow: Brest vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × أولمبيك ليون | Kick-off in 30 min: Brest vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802998@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T194500Z
+DTEND:20261121T214500Z
+SUMMARY:Strasbourg vs Brest — Ligue 1
+LOCATION:Stade de la Meinau
+URL:https://www.fotmob.com/match/5802998
+DESCRIPTION:⚽ ستراسبورج × بريست\n🏆 الدوري الف
+ رنسي — الجولة 11\n🗓 السبت 21 نوفمبر 2026 · 22:4
+ 5 بتوقيت الرياض\n🏟 Stade de la Meinau\n—————\n⚽
+  Strasbourg v Brest\n🏆 Ligue 1 — Matchday 11\n🗓 Sat 21 Nov 2026 ·
+  19:45 UTC\n🏟 Stade de la Meinau\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد بريست — الدور
+ ي الفرنسي | Tomorrow: Strasbourg vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × بريست | Kick-off in 30 min: Strasbourg vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803002@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:Brest vs Paris FC — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5803002
+DESCRIPTION:⚽ بريست × باريس أف.سي.\n🏆 الدوري ال
+ فرنسي — الجولة 12\n🗓 السبت 28 نوفمبر 2026 · 19
+ :00 بتوقيت الرياض\n🏟 Stade Francis le Ble\n—————\
+ n⚽ Brest v Paris FC\n🏆 Ligue 1 — Matchday 12\n🗓 Sat 28 Nov 2026 
+ · 16:00 UTC\n🏟 Stade Francis le Ble\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد باريس أف.سي. — الد
+ وري الفرنسي | Tomorrow: Brest vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × باريس أف.سي. | Kick-off in 30 min: Brest vs Paris FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803014@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T160000Z
+DTEND:20261205T180000Z
+SUMMARY:Rennes vs Brest — Ligue 1
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/5803014
+DESCRIPTION:⚽ ستاد رين × بريست\n🏆 الدوري الفرن
+ سي — الجولة 13\n🗓 السبت 5 ديسمبر 2026 · 19:00 ب
+ توقيت الرياض\n🏟 Roazhon Park\n—————\n⚽ Rennes v 
+ Brest\n🏆 Ligue 1 — Matchday 13\n🗓 Sat 05 Dec 2026 · 16:00 UTC\n
+ 🏟 Roazhon Park\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد بريست — الدوري 
+ الفرنسي | Tomorrow: Rennes vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × بريست | Kick-off in 30 min: Rennes vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803020@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T160000Z
+DTEND:20261212T180000Z
+SUMMARY:Brest vs Troyes — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5803020
+DESCRIPTION:⚽ بريست × تروا\n🏆 الدوري الفرنسي 
+ — الجولة 14\n🗓 السبت 12 ديسمبر 2026 · 19:00 بتو
+ قيت الرياض\n🏟 Stade Francis le Ble\n—————\n⚽ Brest
+  v Troyes\n🏆 Ligue 1 — Matchday 14\n🗓 Sat 12 Dec 2026 · 16:00 UTC
+ \n🏟 Stade Francis le Ble\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد تروا — الدوري الف
+ رنسي | Tomorrow: Brest vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × تروا | Kick-off in 30 min: Brest vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803027@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T160000Z
+DTEND:20270102T180000Z
+SUMMARY:Brest vs Marseille — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5803027
+DESCRIPTION:⚽ بريست × مارسيليا\n🏆 الدوري الفر
+ نسي — الجولة 15\n🗓 السبت 2 يناير 2027 · 19:00 ب
+ توقيت الرياض\n🏟 Stade Francis le Ble\n—————\n⚽ B
+ rest v Marseille\n🏆 Ligue 1 — Matchday 15\n🗓 Sat 02 Jan 2027 · 16
+ :00 UTC\n🏟 Stade Francis le Ble\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد مارسيليا — الدوري
+  الفرنسي | Tomorrow: Brest vs Marseille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × مارسيليا | Kick-off in 30 min: Brest vs Marseille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803040@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T160000Z
+DTEND:20270116T180000Z
+SUMMARY:Monaco vs Brest — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5803040
+DESCRIPTION:⚽ موناكو × بريست\n🏆 الدوري الفرنس
+ ي — الجولة 16\n🗓 السبت 16 يناير 2027 · 19:00 بتو
+ قيت الرياض\n🏟 Stade Louis II, Monaco\n—————\n⚽ Mon
+ aco v Brest\n🏆 Ligue 1 — Matchday 16\n🗓 Sat 16 Jan 2027 · 16:00 U
+ TC\n🏟 Stade Louis II, Monaco\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد بريست — الدوري ا
+ لفرنسي | Tomorrow: Monaco vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × بريست | Kick-off in 30 min: Monaco vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803047@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T160000Z
+DTEND:20270123T180000Z
+SUMMARY:Lens vs Brest — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5803047
+DESCRIPTION:⚽ لانس × بريست\n🏆 الدوري الفرنسي 
+ — الجولة 17\n🗓 السبت 23 يناير 2027 · 19:00 بتوق
+ يت الرياض\n🏟 Stade Bollaert-Delelis\n—————\n⚽ Lens 
+ v Brest\n🏆 Ligue 1 — Matchday 17\n🗓 Sat 23 Jan 2027 · 16:00 UTC\n
+ 🏟 Stade Bollaert-Delelis\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد بريست — الدوري الف
+ رنسي | Tomorrow: Lens vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  بريست | Kick-off in 30 min: Lens vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803055@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T160000Z
+DTEND:20270130T180000Z
+SUMMARY:Brest vs Strasbourg — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5803055
+DESCRIPTION:⚽ بريست × ستراسبورج\n🏆 الدوري الف
+ رنسي — الجولة 18\n🗓 السبت 30 يناير 2027 · 19:00 
+ بتوقيت الرياض\n🏟 Stade Francis le Ble\n—————\n⚽
+  Brest v Strasbourg\n🏆 Ligue 1 — Matchday 18\n🗓 Sat 30 Jan 2027 ·
+  16:00 UTC\n🏟 Stade Francis le Ble\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد ستراسبورج — الدور
+ ي الفرنسي | Tomorrow: Brest vs Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × ستراسبورج | Kick-off in 30 min: Brest vs Strasbourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803067@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T160000Z
+DTEND:20270206T180000Z
+SUMMARY:Nice vs Brest — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5803067
+DESCRIPTION:⚽ نيس × بريست\n🏆 الدوري الفرنسي — 
+ الجولة 19\n🗓 السبت 6 فبراير 2027 · 19:00 بتوقيت
+  الرياض\n🏟 Allianz Riviera\n—————\n⚽ Nice v Brest\n
+ 🏆 Ligue 1 — Matchday 19\n🗓 Sat 06 Feb 2027 · 16:00 UTC\n🏟 Alli
+ anz Riviera\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد بريست — الدوري الفر
+ نسي | Tomorrow: Nice vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ بريست | Kick-off in 30 min: Nice vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803073@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270213T160000Z
+DTEND:20270213T180000Z
+SUMMARY:Brest vs Rennes — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5803073
+DESCRIPTION:⚽ بريست × ستاد رين\n🏆 الدوري الفرن
+ سي — الجولة 20\n🗓 السبت 13 فبراير 2027 · 19:00 ب
+ توقيت الرياض\n🏟 Stade Francis le Ble\n—————\n⚽ B
+ rest v Rennes\n🏆 Ligue 1 — Matchday 20\n🗓 Sat 13 Feb 2027 · 16:00
+  UTC\n🏟 Stade Francis le Ble\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد ستاد رين — الدوري 
+ الفرنسي | Tomorrow: Brest vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × ستاد رين | Kick-off in 30 min: Brest vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803087@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T160000Z
+DTEND:20270220T180000Z
+SUMMARY:Paris Saint-Germain vs Brest — Ligue 1
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/5803087
+DESCRIPTION:⚽ باريس سان جيرمان × بريست\n🏆 الدو
+ ري الفرنسي — الجولة 21\n🗓 السبت 20 فبراير 2
+ 027 · 19:00 بتوقيت الرياض\n🏟 Parc des Princes\n———
+ ——\n⚽ Paris Saint-Germain v Brest\n🏆 Ligue 1 — Matchday 21\n
+ 🗓 Sat 20 Feb 2027 · 16:00 UTC\n🏟 Parc des Princes\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد بريست 
+ — الدوري الفرنسي | Tomorrow: Paris Saint-Germain vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × بريست | Kick-off in 30 min: Paris Saint-Germai
+ n vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803091@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T160000Z
+DTEND:20270227T180000Z
+SUMMARY:Brest vs Monaco — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5803091
+DESCRIPTION:⚽ بريست × موناكو\n🏆 الدوري الفرنس
+ ي — الجولة 22\n🗓 السبت 27 فبراير 2027 · 19:00 بت
+ وقيت الرياض\n🏟 Stade Francis le Ble\n—————\n⚽ Bre
+ st v Monaco\n🏆 Ligue 1 — Matchday 22\n🗓 Sat 27 Feb 2027 · 16:00 U
+ TC\n🏟 Stade Francis le Ble\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد موناكو — الدوري ا
+ لفرنسي | Tomorrow: Brest vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × موناكو | Kick-off in 30 min: Brest vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803104@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270306T160000Z
+DTEND:20270306T180000Z
+SUMMARY:Paris FC vs Brest — Ligue 1
+LOCATION:Stade Jean Bouin
+URL:https://www.fotmob.com/match/5803104
+DESCRIPTION:⚽ باريس أف.سي. × بريست\n🏆 الدوري ال
+ فرنسي — الجولة 23\n🗓 السبت 6 مارس 2027 · 19:00 
+ بتوقيت الرياض\n🏟 Stade Jean Bouin\n—————\n⚽ Par
+ is FC v Brest\n🏆 Ligue 1 — Matchday 23\n🗓 Sat 06 Mar 2027 · 16:00
+  UTC\n🏟 Stade Jean Bouin\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد بريست — الد
+ وري الفرنسي | Tomorrow: Paris FC vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × بريست | Kick-off in 30 min: Paris FC vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803109@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T160000Z
+DTEND:20270313T180000Z
+SUMMARY:Brest vs Lille — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5803109
+DESCRIPTION:⚽ بريست × ليل\n🏆 الدوري الفرنسي — 
+ الجولة 24\n🗓 السبت 13 مارس 2027 · 19:00 بتوقيت ا
+ لرياض\n🏟 Stade Francis le Ble\n—————\n⚽ Brest v Lille\
+ n🏆 Ligue 1 — Matchday 24\n🗓 Sat 13 Mar 2027 · 16:00 UTC\n🏟 Sta
+ de Francis le Ble\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد ليل — الدوري الفر
+ نسي | Tomorrow: Brest vs Lille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × ليل | Kick-off in 30 min: Brest vs Lille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803123@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T160000Z
+DTEND:20270320T180000Z
+SUMMARY:Toulouse vs Brest — Ligue 1
+LOCATION:Stadium de Toulouse
+URL:https://www.fotmob.com/match/5803123
+DESCRIPTION:⚽ تولوز × بريست\n🏆 الدوري الفرنسي 
+ — الجولة 25\n🗓 السبت 20 مارس 2027 · 19:00 بتوقي
+ ت الرياض\n🏟 Stadium de Toulouse\n—————\n⚽ Toulouse v
+  Brest\n🏆 Ligue 1 — Matchday 25\n🗓 Sat 20 Mar 2027 · 16:00 UTC\n
+ 🏟 Stadium de Toulouse\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تولوز ضد بريست — الدوري ال
+ فرنسي | Tomorrow: Toulouse vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تولوز 
+ × بريست | Kick-off in 30 min: Toulouse vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803128@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270403T150000Z
+DTEND:20270403T170000Z
+SUMMARY:Brest vs Lorient — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5803128
+DESCRIPTION:⚽ بريست × لوريان\n🏆 الدوري الفرنس
+ ي — الجولة 26\n🗓 السبت 3 أبريل 2027 · 18:00 بتو
+ قيت الرياض\n🏟 Stade Francis le Ble\n—————\n⚽ Brest
+  v Lorient\n🏆 Ligue 1 — Matchday 26\n🗓 Sat 03 Apr 2027 · 15:00 UT
+ C\n🏟 Stade Francis le Ble\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد لوريان — الدوري ا
+ لفرنسي | Tomorrow: Brest vs Lorient
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × لوريان | Kick-off in 30 min: Brest vs Lorient
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803139@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T150000Z
+DTEND:20270410T170000Z
+SUMMARY:Marseille vs Brest — Ligue 1
+LOCATION:Stade Orange Velodrome
+URL:https://www.fotmob.com/match/5803139
+DESCRIPTION:⚽ مارسيليا × بريست\n🏆 الدوري الفر
+ نسي — الجولة 27\n🗓 السبت 10 أبريل 2027 · 18:00 ب
+ توقيت الرياض\n🏟 Stade Orange Velodrome\n—————\n⚽
+  Marseille v Brest\n🏆 Ligue 1 — Matchday 27\n🗓 Sat 10 Apr 2027 · 
+ 15:00 UTC\n🏟 Stade Orange Velodrome\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مارسيليا ضد بريست — الدوري
+  الفرنسي | Tomorrow: Marseille vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مارسي
+ ليا × بريست | Kick-off in 30 min: Marseille vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803146@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T150000Z
+DTEND:20270417T170000Z
+SUMMARY:Brest vs Le Mans — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5803146
+DESCRIPTION:⚽ بريست × لومان\n🏆 الدوري الفرنسي 
+ — الجولة 28\n🗓 السبت 17 أبريل 2027 · 18:00 بتوق
+ يت الرياض\n🏟 Stade Francis le Ble\n—————\n⚽ Brest v
+  Le Mans\n🏆 Ligue 1 — Matchday 28\n🗓 Sat 17 Apr 2027 · 15:00 UTC\
+ n🏟 Stade Francis le Ble\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد لومان — الدوري ال
+ فرنسي | Tomorrow: Brest vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × لومان | Kick-off in 30 min: Brest vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803156@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T150000Z
+DTEND:20270424T170000Z
+SUMMARY:Lyon vs Brest — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5803156
+DESCRIPTION:⚽ أولمبيك ليون × بريست\n🏆 الدوري ا
+ لفرنسي — الجولة 29\n🗓 السبت 24 أبريل 2027 · 18
+ :00 بتوقيت الرياض\n🏟 Groupama Stadium\n—————\n⚽
+  Lyon v Brest\n🏆 Ligue 1 — Matchday 29\n🗓 Sat 24 Apr 2027 · 15:00
+  UTC\n🏟 Groupama Stadium\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد بريست — ال
+ دوري الفرنسي | Tomorrow: Lyon vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × بريست | Kick-off in 30 min: Lyon vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803170@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T150000Z
+DTEND:20270501T170000Z
+SUMMARY:Troyes vs Brest — Ligue 1
+LOCATION:Stade de l'Aube
+URL:https://www.fotmob.com/match/5803170
+DESCRIPTION:⚽ تروا × بريست\n🏆 الدوري الفرنسي 
+ — الجولة 30\n🗓 السبت 1 مايو 2027 · 18:00 بتوقيت
+  الرياض\n🏟 Stade de l'Aube\n—————\n⚽ Troyes v Brest\n
+ 🏆 Ligue 1 — Matchday 30\n🗓 Sat 01 May 2027 · 15:00 UTC\n🏟 Stad
+ e de l'Aube\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد بريست — الدوري الف
+ رنسي | Tomorrow: Troyes vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  بريست | Kick-off in 30 min: Troyes vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803172@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T150000Z
+DTEND:20270508T170000Z
+SUMMARY:Brest vs Auxerre — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5803172
+DESCRIPTION:⚽ بريست × أوكسير\n🏆 الدوري الفرنس
+ ي — الجولة 31\n🗓 السبت 8 مايو 2027 · 18:00 بتوق
+ يت الرياض\n🏟 Stade Francis le Ble\n—————\n⚽ Brest v
+  Auxerre\n🏆 Ligue 1 — Matchday 31\n🗓 Sat 08 May 2027 · 15:00 UTC\
+ n🏟 Stade Francis le Ble\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد أوكسير — الدوري ا
+ لفرنسي | Tomorrow: Brest vs Auxerre
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × أوكسير | Kick-off in 30 min: Brest vs Auxerre
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803181@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T150000Z
+DTEND:20270516T170000Z
+SUMMARY:Brest vs Le Havre — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5803181
+DESCRIPTION:⚽ بريست × لو آفر\n🏆 الدوري الفرنسي
+  — الجولة 32\n🗓 الأحد 16 مايو 2027 · 18:00 بتوقي
+ ت الرياض\n🏟 Stade Francis le Ble\n—————\n⚽ Brest v L
+ e Havre\n🏆 Ligue 1 — Matchday 32\n🗓 Sun 16 May 2027 · 15:00 UTC\n
+ 🏟 Stade Francis le Ble\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد لو آفر — الدوري ال
+ فرنسي | Tomorrow: Brest vs Le Havre
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × لو آفر | Kick-off in 30 min: Brest vs Le Havre
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803189@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270522T150000Z
+DTEND:20270522T170000Z
+SUMMARY:Angers vs Brest — Ligue 1
+LOCATION:Stade Raymond Kopa
+URL:https://www.fotmob.com/match/5803189
+DESCRIPTION:⚽ أنجيه × بريست\n🏆 الدوري الفرنسي 
+ — الجولة 33\n🗓 السبت 22 مايو 2027 · 18:00 بتوقي
+ ت الرياض\n🏟 Stade Raymond Kopa\n—————\n⚽ Angers v Br
+ est\n🏆 Ligue 1 — Matchday 33\n🗓 Sat 22 May 2027 · 15:00 UTC\n🏟
+  Stade Raymond Kopa\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أنجيه ضد بريست — الدوري ال
+ فرنسي | Tomorrow: Angers vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أنجيه 
+ × بريست | Kick-off in 30 min: Angers vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803199@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270529T190000Z
+DTEND:20270529T210000Z
+SUMMARY:Brest vs Lens — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5803199
+DESCRIPTION:⚽ بريست × لانس\n🏆 الدوري الفرنسي 
+ — الجولة 34\n🗓 السبت 29 مايو 2027 · 22:00 بتوقي
+ ت الرياض\n🏟 Stade Francis le Ble\n—————\n⚽ Brest v L
+ ens\n🏆 Ligue 1 — Matchday 34\n🗓 Sat 29 May 2027 · 19:00 UTC\n🏟
+  Stade Francis le Ble\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد لانس — الدوري الف
+ رنسي | Tomorrow: Brest vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × لانس | Kick-off in 30 min: Brest vs Lens
+END:VALARM
+END:VEVENT
+END:VCALENDAR

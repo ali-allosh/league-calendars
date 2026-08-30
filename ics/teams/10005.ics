@@ -1,0 +1,160 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Grimsby Town — FA Cup Fixtures | Grimsby Town — مبا
+ ريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Grimsby Town — all matches in FA Cup\, exact UTC kickoffs\, 
+ stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:1
+ 0Z.  •  Grimsby Town — جميع المباريات في كأس الا
+ تحاد الإنجليزي بتوقيت UTC الدقيق مع الملا
+ عب والقنوات الناقلة. المصدر: FotMob + 365scores · 
+ تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010642@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Grimsby Town vs Ebbsfleet United (3 - 1) — FA Cup
+LOCATION:Blundell Park\, Cleethorpes\, North East Lincolns\, England
+GEO:53.570208;-0.046552
+URL:https://www.fotmob.com/match/5010642
+DESCRIPTION:⚽ Grimsby Town × Ebbsfleet United (3 - 1)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الأول\n🗓 السبت 1
+  نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Blundell Park
+ ، Cleethorpes, North East Lincolns\n⚖️ الحكم: Jamie O'Connor\n
+ 👥 الحضور: 3,392\n—————\n⚽ Grimsby Town v Ebbsfleet Un
+ ited (3 - 1)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n
+ 🏟 Blundell Park, Cleethorpes, North East Lincolns\nReferee: Jamie O'Con
+ nor\nAttendance: 3,392\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Grimsby Town ضد Ebbsfleet United — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Grimsby Town vs Ebbsfleet Unit
+ ed
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Grimsby Tow
+ n × Ebbsfleet United | Kick-off in 30 min: Grimsby Town vs Ebbsfleet Unit
+ ed
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040311@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Grimsby Town vs Wealdstone (4 - 0) — FA Cup
+LOCATION:Blundell Park\, Cleethorpes\, North East Lincolns\, England
+GEO:53.570208;-0.046552
+URL:https://www.fotmob.com/match/5040311
+DESCRIPTION:⚽ Grimsby Town × Wealdstone (4 - 0)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الثاني\n🗓 السبت 6 د
+ يسمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Blundell Park، C
+ leethorpes, North East Lincolns\n⚖️ الحكم: Matthew Russell\n👥 
+ الحضور: 3,655\n—————\n⚽ Grimsby Town v Wealdstone (4 - 0
+ )\n🏆 FA Cup — Round 2\n🗓 Sat 06 Dec 2025 · 15:00 UTC\n🏟 Blunde
+ ll Park, Cleethorpes, North East Lincolns\nReferee: Matthew Russell\nAtten
+ dance: 3,655\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Grimsby Town ضد Wealdstone — كأس الات
+ حاد الإنجليزي | Tomorrow: Grimsby Town vs Wealdstone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Grimsby Tow
+ n × Wealdstone | Kick-off in 30 min: Grimsby Town vs Wealdstone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089913@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260110T174500Z
+DTEND:20260110T194500Z
+SUMMARY:Grimsby Town vs Weston Super Mare (3 - 2) — FA Cup
+LOCATION:Blundell Park\, Cleethorpes\, North East Lincolns\, England
+GEO:53.570208;-0.046552
+URL:https://www.fotmob.com/match/5089913
+DESCRIPTION:⚽ Grimsby Town × Weston Super Mare (3 - 2)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الثالث\n🗓 السبت
+  10 يناير 2026 · 20:45 بتوقيت الرياض\n🏟 Blundell Park
+ ، Cleethorpes, North East Lincolns\n⚖️ الحكم: Martin Coy\n👥 
+ الحضور: 4,851\n—————\n⚽ Grimsby Town v Weston Super Mare
+  (3 - 2)\n🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 17:45 UTC\n🏟
+  Blundell Park, Cleethorpes, North East Lincolns\nReferee: Martin Coy\nAtt
+ endance: 4,851\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Grimsby Town ضد Weston Super Mare — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Grimsby Town vs Weston Super M
+ are
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Grimsby Tow
+ n × Weston Super Mare | Kick-off in 30 min: Grimsby Town vs Weston Super 
+ Mare
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135173@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260215T133000Z
+DTEND:20260215T153000Z
+SUMMARY:Grimsby Town vs Wolverhampton Wanderers (0 - 1) — FA Cup
+LOCATION:Blundell Park\, Cleethorpes\, North East Lincolns\, England
+GEO:53.570208;-0.046552
+URL:https://www.fotmob.com/match/5135173
+DESCRIPTION:⚽ Grimsby Town × وولفرهامبتون (0 - 1)\n🏆 كأ
+ س الاتحاد الإنجليزي — الدور الرابع\n🗓 ا
+ لأحد 15 فبراير 2026 · 16:30 بتوقيت الرياض\n🏟 Blu
+ ndell Park، Cleethorpes, North East Lincolns\n⚖️ الحكم: Samuel B
+ arrott\n👥 الحضور: 8,594\n—————\n⚽ Grimsby Town v Wolv
+ erhampton Wanderers (0 - 1)\n🏆 FA Cup — Round 4\n🗓 Sun 15 Feb 2026
+  · 13:30 UTC\n🏟 Blundell Park, Cleethorpes, North East Lincolns\nRefer
+ ee: Samuel Barrott\nAttendance: 8,594\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Grimsby Town ضد وولفرهامبتون — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Grimsby Town vs Wolverh
+ ampton Wanderers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Grimsby Tow
+ n × وولفرهامبتون | Kick-off in 30 min: Grimsby Town vs Wolver
+ hampton Wanderers
+END:VALARM
+END:VEVENT
+END:VCALENDAR

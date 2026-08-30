@@ -1,0 +1,1363 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Bayern München — Bundesliga & UEFA Champions League Fix
+ tures | بايرن ميونخ — مباريات الدوري الألما
+ ني ودوري أبطال أوروبا
+X-WR-CALDESC:Bayern München — all matches in Bundesliga & UEFA Champions
+  League\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · 
+ auto-updated 2026-09-05T19:31:10Z.  •  بايرن ميونخ — جمي
+ ع المباريات في الدوري الألماني ودوري أبط
+ ال أوروبا بتوقيت UTC الدقيق مع الملاعب وال
+ قنوات الناقلة. المصدر: FotMob + 365scores · تحديث 
+ تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5881143@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260828T183000Z
+DTEND:20260828T203000Z
+SUMMARY:Bayern München vs VfB Stuttgart (5 - 1) — Bundesliga
+LOCATION:Allianz Arena\, München\, Germany
+GEO:48.218779;11.624743
+URL:https://www.fotmob.com/match/5881143
+DESCRIPTION:⚽ بايرن ميونخ × شتوتجارت (5 - 1)\n🏆 ا
+ لدوري الألماني — الجولة 1\n🗓 الجمعة 28 أغ
+ سطس 2026 · 21:30 بتوقيت الرياض\n🏟 Allianz Arena، Münc
+ hen\n⚖️ الحكم: Sören Storks\n👥 الحضور: 75,000\n——
+ ———\n⚽ Bayern München v VfB Stuttgart (5 - 1)\n🏆 Bundesliga 
+ — Matchday 1\n🗓 Fri 28 Aug 2026 · 18:30 UTC\n🏟 Allianz Arena, Mü
+ nchen\nReferee: Sören Storks\nAttendance: 75,000\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد شتوتجارت — 
+ الدوري الألماني | Tomorrow: Bayern München vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × شتوتجارت | Kick-off in 30 min: Bayern München vs Vf
+ B Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881158@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T163000Z
+DTEND:20260905T183000Z
+SUMMARY:Schalke 04 vs Bayern München (0 - 0) — Bundesliga
+LOCATION:VELTINS-Arena\, Gelsenkirchen\, Germany
+GEO:51.554581;7.067385
+URL:https://www.fotmob.com/match/5881158
+DESCRIPTION:⚽ شالكة × بايرن ميونخ (0 - 0)\n🏆 الدو
+ ري الألماني — الجولة 2\n🗓 السبت 5 سبتمبر 2
+ 026 · 19:30 بتوقيت الرياض\n🏟 VELTINS-Arena، Gelsenkirchen
+ \n📺 شاهد - Shahid VIP\n⚖️ الحكم: Robert Schröder\n👥 ا
+ لحضور: 62,094\n—————\n⚽ Schalke 04 v Bayern München (0 -
+  0)\n🏆 Bundesliga — Matchday 2\n🗓 Sat 05 Sep 2026 · 16:30 UTC\n
+ 🏟 VELTINS-Arena, Gelsenkirchen\n📺 شاهد - Shahid VIP\nReferee: Ro
+ bert Schröder\nAttendance: 62,094\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد بايرن ميونخ — الد
+ وري الألماني — 📺 شاهد - Shahid VIP | Tomorrow: Schalke
+  04 vs Bayern München | TV: شاهد - Shahid VIP
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × بايرن ميونخ — 📺 شاهد - Shahid VIP | Kick-off in 30 m
+ in: Schalke 04 vs Bayern München | TV: شاهد - Shahid VIP
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881163@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260913T153000Z
+DTEND:20260913T173000Z
+SUMMARY:Elversberg vs Bayern München — Bundesliga
+LOCATION:URSAPHARM-Arena an der Kaiserlinde\, Spiesen-Elversberg\, Germany
+GEO:49.318814;7.121705
+URL:https://www.fotmob.com/match/5881163
+DESCRIPTION:⚽ إلفيرسبيرغ × بايرن ميونخ\n🏆 الد
+ وري الألماني — الجولة 3\n🗓 الأحد 13 سبتمب
+ ر 2026 · 18:30 بتوقيت الرياض\n🏟 URSAPHARM-Arena an der Ka
+ iserlinde، Spiesen-Elversberg\n—————\n⚽ Elversberg v Bayern M
+ ünchen\n🏆 Bundesliga — Matchday 3\n🗓 Sun 13 Sep 2026 · 15:30 UTC
+ \n🏟 URSAPHARM-Arena an der Kaiserlinde, Spiesen-Elversberg\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد بايرن ميونخ 
+ — الدوري الألماني | Tomorrow: Elversberg vs Bayern Münche
+ n
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × بايرن ميونخ | Kick-off in 30 min: Elversberg vs Ba
+ yern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881171@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260918T183000Z
+DTEND:20260918T203000Z
+SUMMARY:Bayern München vs Union Berlin — Bundesliga
+LOCATION:Allianz Arena\, München\, Germany
+GEO:48.218779;11.624743
+URL:https://www.fotmob.com/match/5881171
+DESCRIPTION:⚽ بايرن ميونخ × يونيون برلين\n🏆 ال
+ دوري الألماني — الجولة 4\n🗓 الجمعة 18 سبت
+ مبر 2026 · 21:30 بتوقيت الرياض\n🏟 Allianz Arena، Münc
+ hen\n—————\n⚽ Bayern München v Union Berlin\n🏆 Bundesliga 
+ — Matchday 4\n🗓 Fri 18 Sep 2026 · 18:30 UTC\n🏟 Allianz Arena, Mü
+ nchen\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد يونيون برلي
+ ن — الدوري الألماني | Tomorrow: Bayern München vs Union 
+ Berlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × يونيون برلين | Kick-off in 30 min: Bayern Münche
+ n vs Union Berlin
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881179@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T133000Z
+DTEND:20261010T153000Z
+SUMMARY:Augsburg vs Bayern München — Bundesliga
+LOCATION:WWK Arena
+URL:https://www.fotmob.com/match/5881179
+DESCRIPTION:⚽ أوغسبورغ × بايرن ميونخ\n🏆 الدور
+ ي الألماني — الجولة 5\n🗓 السبت 10 أكتوبر 20
+ 26 · 16:30 بتوقيت الرياض\n🏟 WWK Arena\n—————\n
+ ⚽ Augsburg v Bayern München\n🏆 Bundesliga — Matchday 5\n🗓 Sat 1
+ 0 Oct 2026 · 13:30 UTC\n🏟 WWK Arena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوغسبورغ ضد بايرن ميونخ — 
+ الدوري الألماني | Tomorrow: Augsburg vs Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوغسب
+ ورغ × بايرن ميونخ | Kick-off in 30 min: Augsburg vs Bayern M
+ ünchen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881189@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T133000Z
+DTEND:20261017T153000Z
+SUMMARY:Bayern München vs RB Leipzig — Bundesliga
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/5881189
+DESCRIPTION:⚽ بايرن ميونخ × لايبزيج\n🏆 الدوري 
+ الألماني — الجولة 6\n🗓 السبت 17 أكتوبر 2026 
+ · 16:30 بتوقيت الرياض\n🏟 Allianz Arena\n—————\n
+ ⚽ Bayern München v RB Leipzig\n🏆 Bundesliga — Matchday 6\n🗓 Sat
+  17 Oct 2026 · 13:30 UTC\n🏟 Allianz Arena\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد لايبزيج — ا
+ لدوري الألماني | Tomorrow: Bayern München vs RB Leipzig
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × لايبزيج | Kick-off in 30 min: Bayern München vs RB L
+ eipzig
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881200@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T133000Z
+DTEND:20261024T153000Z
+SUMMARY:Freiburg vs Bayern München — Bundesliga
+LOCATION:Europa-Park Stadion
+URL:https://www.fotmob.com/match/5881200
+DESCRIPTION:⚽ فرايبورج × بايرن ميونخ\n🏆 الدور
+ ي الألماني — الجولة 7\n🗓 السبت 24 أكتوبر 20
+ 26 · 16:30 بتوقيت الرياض\n🏟 Europa-Park Stadion\n———
+ ——\n⚽ Freiburg v Bayern München\n🏆 Bundesliga — Matchday 7\n
+ 🗓 Sat 24 Oct 2026 · 13:30 UTC\n🏟 Europa-Park Stadion\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فرايبورج ضد بايرن ميونخ — 
+ الدوري الألماني | Tomorrow: Freiburg vs Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فرايب
+ ورج × بايرن ميونخ | Kick-off in 30 min: Freiburg vs Bayern M
+ ünchen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881208@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T143000Z
+DTEND:20261031T163000Z
+SUMMARY:Bayern München vs Borussia Dortmund — Bundesliga
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/5881208
+DESCRIPTION:⚽ بايرن ميونخ × بوروسيا دورتموند\n
+ 🏆 الدوري الألماني — الجولة 8\n🗓 السبت 31 
+ أكتوبر 2026 · 17:30 بتوقيت الرياض\n🏟 Allianz Arena\n
+ —————\n⚽ Bayern München v Borussia Dortmund\n🏆 Bundesliga 
+ — Matchday 8\n🗓 Sat 31 Oct 2026 · 14:30 UTC\n🏟 Allianz Arena\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد بوروسيا دور
+ تموند — الدوري الألماني | Tomorrow: Bayern München v
+ s Borussia Dortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × بوروسيا دورتموند | Kick-off in 30 min: Bayern
+  München vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881220@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T143000Z
+DTEND:20261107T163000Z
+SUMMARY:Mainz 05 vs Bayern München — Bundesliga
+LOCATION:MEWA Arena
+URL:https://www.fotmob.com/match/5881220
+DESCRIPTION:⚽ ماينز 05 × بايرن ميونخ\n🏆 الدوري 
+ الألماني — الجولة 9\n🗓 السبت 7 نوفمبر 2026 
+ · 17:30 بتوقيت الرياض\n🏟 MEWA Arena\n—————\n⚽ 
+ Mainz 05 v Bayern München\n🏆 Bundesliga — Matchday 9\n🗓 Sat 07 No
+ v 2026 · 14:30 UTC\n🏟 MEWA Arena\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ماينز 05 ضد بايرن ميونخ — ال
+ دوري الألماني | Tomorrow: Mainz 05 vs Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ماينز 
+ 05 × بايرن ميونخ | Kick-off in 30 min: Mainz 05 vs Bayern Münc
+ hen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881226@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T143000Z
+DTEND:20261121T163000Z
+SUMMARY:Bayern München vs 1. FC Köln — Bundesliga
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/5881226
+DESCRIPTION:⚽ بايرن ميونخ × كولن\n🏆 الدوري الأ
+ لماني — الجولة 10\n🗓 السبت 21 نوفمبر 2026 · 17
+ :30 بتوقيت الرياض\n🏟 Allianz Arena\n—————\n⚽ Ba
+ yern München v 1. FC Köln\n🏆 Bundesliga — Matchday 10\n🗓 Sat 21 
+ Nov 2026 · 14:30 UTC\n🏟 Allianz Arena\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد كولن — الدو
+ ري الألماني | Tomorrow: Bayern München vs 1. FC Köln
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × كولن | Kick-off in 30 min: Bayern München vs 1. FC Köl
+ n
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881236@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T143000Z
+DTEND:20261128T163000Z
+SUMMARY:Hamburger SV vs Bayern München — Bundesliga
+LOCATION:Volksparkstadion
+URL:https://www.fotmob.com/match/5881236
+DESCRIPTION:⚽ هامبورج × بايرن ميونخ\n🏆 الدوري 
+ الألماني — الجولة 11\n🗓 السبت 28 نوفمبر 2026
+  · 17:30 بتوقيت الرياض\n🏟 Volksparkstadion\n————
+ —\n⚽ Hamburger SV v Bayern München\n🏆 Bundesliga — Matchday 11\n
+ 🗓 Sat 28 Nov 2026 · 14:30 UTC\n🏟 Volksparkstadion\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هامبورج ضد بايرن ميونخ — ا
+ لدوري الألماني | Tomorrow: Hamburger SV vs Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هامبو
+ رج × بايرن ميونخ | Kick-off in 30 min: Hamburger SV vs Bayern
+  München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881244@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T143000Z
+DTEND:20261205T163000Z
+SUMMARY:Bayern München vs Paderborn — Bundesliga
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/5881244
+DESCRIPTION:⚽ بايرن ميونخ × بادربورن\n🏆 الدور
+ ي الألماني — الجولة 12\n🗓 السبت 5 ديسمبر 20
+ 26 · 17:30 بتوقيت الرياض\n🏟 Allianz Arena\n—————
+ \n⚽ Bayern München v Paderborn\n🏆 Bundesliga — Matchday 12\n🗓 S
+ at 05 Dec 2026 · 14:30 UTC\n🏟 Allianz Arena\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد بادربورن — 
+ الدوري الألماني | Tomorrow: Bayern München vs Paderborn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × بادربورن | Kick-off in 30 min: Bayern München vs Pa
+ derborn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881255@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T143000Z
+DTEND:20261212T163000Z
+SUMMARY:Hoffenheim vs Bayern München — Bundesliga
+LOCATION:SNP Arena
+URL:https://www.fotmob.com/match/5881255
+DESCRIPTION:⚽ هوفنهايم × بايرن ميونخ\n🏆 الدور
+ ي الألماني — الجولة 13\n🗓 السبت 12 ديسمبر 2
+ 026 · 17:30 بتوقيت الرياض\n🏟 SNP Arena\n—————\n
+ ⚽ Hoffenheim v Bayern München\n🏆 Bundesliga — Matchday 13\n🗓 Sa
+ t 12 Dec 2026 · 14:30 UTC\n🏟 SNP Arena\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هوفنهايم ضد بايرن ميونخ — 
+ الدوري الألماني | Tomorrow: Hoffenheim vs Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هوفنه
+ ايم × بايرن ميونخ | Kick-off in 30 min: Hoffenheim vs Bayern
+  München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881262@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T143000Z
+DTEND:20261219T163000Z
+SUMMARY:Bayern München vs Werder Bremen — Bundesliga
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/5881262
+DESCRIPTION:⚽ بايرن ميونخ × فيردر بريمن\n🏆 الد
+ وري الألماني — الجولة 14\n🗓 السبت 19 ديسمب
+ ر 2026 · 17:30 بتوقيت الرياض\n🏟 Allianz Arena\n———
+ ——\n⚽ Bayern München v Werder Bremen\n🏆 Bundesliga — Matchday 
+ 14\n🗓 Sat 19 Dec 2026 · 14:30 UTC\n🏟 Allianz Arena\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد فيردر بريمن 
+ — الدوري الألماني | Tomorrow: Bayern München vs Werder Br
+ emen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × فيردر بريمن | Kick-off in 30 min: Bayern München 
+ vs Werder Bremen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881269@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270109T143000Z
+DTEND:20270109T163000Z
+SUMMARY:Borussia Mönchengladbach vs Bayern München — Bundesliga
+LOCATION:Ista-Borussia-Park
+URL:https://www.fotmob.com/match/5881269
+DESCRIPTION:⚽ بوروسيا مونشنجلادباخ × بايرن مي
+ ونخ\n🏆 الدوري الألماني — الجولة 15\n🗓 ال
+ سبت 9 يناير 2027 · 17:30 بتوقيت الرياض\n🏟 Ista-Bor
+ ussia-Park\n—————\n⚽ Borussia Mönchengladbach v Bayern Münch
+ en\n🏆 Bundesliga — Matchday 15\n🗓 Sat 09 Jan 2027 · 14:30 UTC\n
+ 🏟 Ista-Borussia-Park\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا مونشنجلادباخ ضد با
+ يرن ميونخ — الدوري الألماني | Tomorrow: Borussia M
+ önchengladbach vs Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا مونشنجلادباخ × بايرن ميونخ | Kick-off in 30 mi
+ n: Borussia Mönchengladbach vs Bayern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881279@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270112T193000Z
+DTEND:20270112T213000Z
+SUMMARY:Bayern München vs Bayer Leverkusen — Bundesliga
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/5881279
+DESCRIPTION:⚽ بايرن ميونخ × باير ليفركوزن\n🏆 ا
+ لدوري الألماني — الجولة 16\n🗓 الثلاثاء 12 
+ يناير 2027 · 22:30 بتوقيت الرياض\n🏟 Allianz Arena\n
+ —————\n⚽ Bayern München v Bayer Leverkusen\n🏆 Bundesliga 
+ — Matchday 16\n🗓 Tue 12 Jan 2027 · 19:30 UTC\n🏟 Allianz Arena\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد باير ليفركو
+ زن — الدوري الألماني | Tomorrow: Bayern München vs Baye
+ r Leverkusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × باير ليفركوزن | Kick-off in 30 min: Bayern Münc
+ hen vs Bayer Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881290@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T143000Z
+DTEND:20270116T163000Z
+SUMMARY:Eintracht Frankfurt vs Bayern München — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881290
+DESCRIPTION:⚽ آينتراخت فرانكفورت × بايرن ميون
+ خ\n🏆 الدوري الألماني — الجولة 17\n🗓 السب
+ ت 16 يناير 2027 · 17:30 بتوقيت الرياض\n🏟 Deutsche Ba
+ nk Park\n—————\n⚽ Eintracht Frankfurt v Bayern München\n🏆 
+ Bundesliga — Matchday 17\n🗓 Sat 16 Jan 2027 · 14:30 UTC\n🏟 Deutsc
+ he Bank Park\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد باير
+ ن ميونخ — الدوري الألماني | Tomorrow: Eintracht Fran
+ kfurt vs Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × بايرن ميونخ | Kick-off in 30 min: E
+ intracht Frankfurt vs Bayern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881303@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T143000Z
+DTEND:20270123T163000Z
+SUMMARY:VfB Stuttgart vs Bayern München — Bundesliga
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/5881303
+DESCRIPTION:⚽ شتوتجارت × بايرن ميونخ\n🏆 الدور
+ ي الألماني — الجولة 18\n🗓 السبت 23 يناير 202
+ 7 · 17:30 بتوقيت الرياض\n🏟 MHPArena\n—————\n⚽ 
+ VfB Stuttgart v Bayern München\n🏆 Bundesliga — Matchday 18\n🗓 Sat
+  23 Jan 2027 · 14:30 UTC\n🏟 MHPArena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد بايرن ميونخ — 
+ الدوري الألماني | Tomorrow: VfB Stuttgart vs Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × بايرن ميونخ | Kick-off in 30 min: VfB Stuttgart vs Bay
+ ern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881306@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T143000Z
+DTEND:20270130T163000Z
+SUMMARY:Bayern München vs Schalke 04 — Bundesliga
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/5881306
+DESCRIPTION:⚽ بايرن ميونخ × شالكة\n🏆 الدوري ال
+ ألماني — الجولة 19\n🗓 السبت 30 يناير 2027 · 17
+ :30 بتوقيت الرياض\n🏟 Allianz Arena\n—————\n⚽ Ba
+ yern München v Schalke 04\n🏆 Bundesliga — Matchday 19\n🗓 Sat 30 J
+ an 2027 · 14:30 UTC\n🏟 Allianz Arena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد شالكة — الد
+ وري الألماني | Tomorrow: Bayern München vs Schalke 04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × شالكة | Kick-off in 30 min: Bayern München vs Schalke 
+ 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881315@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T143000Z
+DTEND:20270206T163000Z
+SUMMARY:Bayern München vs Elversberg — Bundesliga
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/5881315
+DESCRIPTION:⚽ بايرن ميونخ × إلفيرسبيرغ\n🏆 الد
+ وري الألماني — الجولة 20\n🗓 السبت 6 فبراي
+ ر 2027 · 17:30 بتوقيت الرياض\n🏟 Allianz Arena\n———
+ ——\n⚽ Bayern München v Elversberg\n🏆 Bundesliga — Matchday 20\
+ n🗓 Sat 06 Feb 2027 · 14:30 UTC\n🏟 Allianz Arena\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد إلفيرسبيرغ 
+ — الدوري الألماني | Tomorrow: Bayern München vs Elversber
+ g
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × إلفيرسبيرغ | Kick-off in 30 min: Bayern München v
+ s Elversberg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881331@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270213T143000Z
+DTEND:20270213T163000Z
+SUMMARY:Union Berlin vs Bayern München — Bundesliga
+LOCATION:Alte Foersterei
+URL:https://www.fotmob.com/match/5881331
+DESCRIPTION:⚽ يونيون برلين × بايرن ميونخ\n🏆 ال
+ دوري الألماني — الجولة 21\n🗓 السبت 13 فبرا
+ ير 2027 · 17:30 بتوقيت الرياض\n🏟 Alte Foersterei\n——
+ ———\n⚽ Union Berlin v Bayern München\n🏆 Bundesliga — Matchda
+ y 21\n🗓 Sat 13 Feb 2027 · 14:30 UTC\n🏟 Alte Foersterei\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد بايرن ميون
+ خ — الدوري الألماني | Tomorrow: Union Berlin vs Bayern M
+ ünchen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × بايرن ميونخ | Kick-off in 30 min: Union Berlin 
+ vs Bayern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881333@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T143000Z
+DTEND:20270220T163000Z
+SUMMARY:Bayern München vs Augsburg — Bundesliga
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/5881333
+DESCRIPTION:⚽ بايرن ميونخ × أوغسبورغ\n🏆 الدور
+ ي الألماني — الجولة 22\n🗓 السبت 20 فبراير 2
+ 027 · 17:30 بتوقيت الرياض\n🏟 Allianz Arena\n————
+ —\n⚽ Bayern München v Augsburg\n🏆 Bundesliga — Matchday 22\n🗓
+  Sat 20 Feb 2027 · 14:30 UTC\n🏟 Allianz Arena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد أوغسبورغ — 
+ الدوري الألماني | Tomorrow: Bayern München vs Augsburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × أوغسبورغ | Kick-off in 30 min: Bayern München vs Au
+ gsburg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881348@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T143000Z
+DTEND:20270227T163000Z
+SUMMARY:RB Leipzig vs Bayern München — Bundesliga
+LOCATION:Red Bull Arena Leipzig
+URL:https://www.fotmob.com/match/5881348
+DESCRIPTION:⚽ لايبزيج × بايرن ميونخ\n🏆 الدوري 
+ الألماني — الجولة 23\n🗓 السبت 27 فبراير 2027
+  · 17:30 بتوقيت الرياض\n🏟 Red Bull Arena Leipzig\n——
+ ———\n⚽ RB Leipzig v Bayern München\n🏆 Bundesliga — Matchday 
+ 23\n🗓 Sat 27 Feb 2027 · 14:30 UTC\n🏟 Red Bull Arena Leipzig\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لايبزيج ضد بايرن ميونخ — ا
+ لدوري الألماني | Tomorrow: RB Leipzig vs Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لايبز
+ يج × بايرن ميونخ | Kick-off in 30 min: RB Leipzig vs Bayern M
+ ünchen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881351@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270302T193000Z
+DTEND:20270302T213000Z
+SUMMARY:Bayern München vs Freiburg — Bundesliga
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/5881351
+DESCRIPTION:⚽ بايرن ميونخ × فرايبورج\n🏆 الدور
+ ي الألماني — الجولة 24\n🗓 الثلاثاء 2 مارس 
+ 2027 · 22:30 بتوقيت الرياض\n🏟 Allianz Arena\n————
+ —\n⚽ Bayern München v Freiburg\n🏆 Bundesliga — Matchday 24\n🗓
+  Tue 02 Mar 2027 · 19:30 UTC\n🏟 Allianz Arena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد فرايبورج — 
+ الدوري الألماني | Tomorrow: Bayern München vs Freiburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × فرايبورج | Kick-off in 30 min: Bayern München vs Fr
+ eiburg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881359@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270306T143000Z
+DTEND:20270306T163000Z
+SUMMARY:Borussia Dortmund vs Bayern München — Bundesliga
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/5881359
+DESCRIPTION:⚽ بوروسيا دورتموند × بايرن ميونخ\n
+ 🏆 الدوري الألماني — الجولة 25\n🗓 السبت 6 
+ مارس 2027 · 17:30 بتوقيت الرياض\n🏟 Signal Iduna Park\n
+ —————\n⚽ Borussia Dortmund v Bayern München\n🏆 Bundesliga 
+ — Matchday 25\n🗓 Sat 06 Mar 2027 · 14:30 UTC\n🏟 Signal Iduna Park
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد بايرن 
+ ميونخ — الدوري الألماني | Tomorrow: Borussia Dortmund
+  vs Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × بايرن ميونخ | Kick-off in 30 min: Borus
+ sia Dortmund vs Bayern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881370@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T143000Z
+DTEND:20270313T163000Z
+SUMMARY:Bayern München vs Mainz 05 — Bundesliga
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/5881370
+DESCRIPTION:⚽ بايرن ميونخ × ماينز 05\n🏆 الدوري 
+ الألماني — الجولة 26\n🗓 السبت 13 مارس 2027 · 
+ 17:30 بتوقيت الرياض\n🏟 Allianz Arena\n—————\n⚽ 
+ Bayern München v Mainz 05\n🏆 Bundesliga — Matchday 26\n🗓 Sat 13 M
+ ar 2027 · 14:30 UTC\n🏟 Allianz Arena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد ماينز 05 — ال
+ دوري الألماني | Tomorrow: Bayern München vs Mainz 05
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × ماينز 05 | Kick-off in 30 min: Bayern München vs Mainz
+  05
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881378@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T143000Z
+DTEND:20270320T163000Z
+SUMMARY:1. FC Köln vs Bayern München — Bundesliga
+LOCATION:RheinEnergieSTADION
+URL:https://www.fotmob.com/match/5881378
+DESCRIPTION:⚽ كولن × بايرن ميونخ\n🏆 الدوري الأ
+ لماني — الجولة 27\n🗓 السبت 20 مارس 2027 · 17:30 
+ بتوقيت الرياض\n🏟 RheinEnergieSTADION\n—————\n⚽ 
+ 1. FC Köln v Bayern München\n🏆 Bundesliga — Matchday 27\n🗓 Sat 2
+ 0 Mar 2027 · 14:30 UTC\n🏟 RheinEnergieSTADION\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كولن ضد بايرن ميونخ — الدو
+ ري الألماني | Tomorrow: 1. FC Köln vs Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كولن ×
+  بايرن ميونخ | Kick-off in 30 min: 1. FC Köln vs Bayern Münche
+ n
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881388@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270403T133000Z
+DTEND:20270403T153000Z
+SUMMARY:Bayern München vs Hamburger SV — Bundesliga
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/5881388
+DESCRIPTION:⚽ بايرن ميونخ × هامبورج\n🏆 الدوري 
+ الألماني — الجولة 28\n🗓 السبت 3 أبريل 2027 ·
+  16:30 بتوقيت الرياض\n🏟 Allianz Arena\n—————\n⚽
+  Bayern München v Hamburger SV\n🏆 Bundesliga — Matchday 28\n🗓 Sat
+  03 Apr 2027 · 13:30 UTC\n🏟 Allianz Arena\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد هامبورج — ا
+ لدوري الألماني | Tomorrow: Bayern München vs Hamburger SV
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × هامبورج | Kick-off in 30 min: Bayern München vs Hamb
+ urger SV
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881401@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T133000Z
+DTEND:20270410T153000Z
+SUMMARY:Paderborn vs Bayern München — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881401
+DESCRIPTION:⚽ بادربورن × بايرن ميونخ\n🏆 الدور
+ ي الألماني — الجولة 29\n🗓 السبت 10 أبريل 202
+ 7 · 16:30 بتوقيت الرياض\n🏟 Home Deluxe Arena\n————
+ —\n⚽ Paderborn v Bayern München\n🏆 Bundesliga — Matchday 29\n
+ 🗓 Sat 10 Apr 2027 · 13:30 UTC\n🏟 Home Deluxe Arena\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد بايرن ميونخ — 
+ الدوري الألماني | Tomorrow: Paderborn vs Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × بايرن ميونخ | Kick-off in 30 min: Paderborn vs Bayern 
+ München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881406@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T133000Z
+DTEND:20270417T153000Z
+SUMMARY:Bayern München vs Hoffenheim — Bundesliga
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/5881406
+DESCRIPTION:⚽ بايرن ميونخ × هوفنهايم\n🏆 الدور
+ ي الألماني — الجولة 30\n🗓 السبت 17 أبريل 202
+ 7 · 16:30 بتوقيت الرياض\n🏟 Allianz Arena\n—————\
+ n⚽ Bayern München v Hoffenheim\n🏆 Bundesliga — Matchday 30\n🗓 S
+ at 17 Apr 2027 · 13:30 UTC\n🏟 Allianz Arena\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد هوفنهايم — 
+ الدوري الألماني | Tomorrow: Bayern München vs Hoffenheim
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × هوفنهايم | Kick-off in 30 min: Bayern München vs Ho
+ ffenheim
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881421@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T133000Z
+DTEND:20270424T153000Z
+SUMMARY:Werder Bremen vs Bayern München — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881421
+DESCRIPTION:⚽ فيردر بريمن × بايرن ميونخ\n🏆 الد
+ وري الألماني — الجولة 31\n🗓 السبت 24 أبريل
+  2027 · 16:30 بتوقيت الرياض\n🏟 Wohninvest WESERSTADION\n
+ —————\n⚽ Werder Bremen v Bayern München\n🏆 Bundesliga — 
+ Matchday 31\n🗓 Sat 24 Apr 2027 · 13:30 UTC\n🏟 Wohninvest WESERSTADI
+ ON\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد بايرن ميونخ 
+ — الدوري الألماني | Tomorrow: Werder Bremen vs Bayern Mün
+ chen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × بايرن ميونخ | Kick-off in 30 min: Werder Bremen vs
+  Bayern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881424@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T133000Z
+DTEND:20270508T153000Z
+SUMMARY:Bayern München vs Borussia Mönchengladbach — Bundesliga
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/5881424
+DESCRIPTION:⚽ بايرن ميونخ × بوروسيا مونشنجلاد
+ باخ\n🏆 الدوري الألماني — الجولة 32\n🗓 ال
+ سبت 8 مايو 2027 · 16:30 بتوقيت الرياض\n🏟 Allianz Ar
+ ena\n—————\n⚽ Bayern München v Borussia Mönchengladbach\n
+ 🏆 Bundesliga — Matchday 32\n🗓 Sat 08 May 2027 · 13:30 UTC\n🏟 A
+ llianz Arena\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد بوروسيا مون
+ شنجلادباخ — الدوري الألماني | Tomorrow: Bayern M
+ ünchen vs Borussia Mönchengladbach
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × بوروسيا مونشنجلادباخ | Kick-off in 30 min
+ : Bayern München vs Borussia Mönchengladbach
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881431@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T133000Z
+DTEND:20270515T153000Z
+SUMMARY:Bayer Leverkusen vs Bayern München — Bundesliga
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/5881431
+DESCRIPTION:⚽ باير ليفركوزن × بايرن ميونخ\n🏆 ا
+ لدوري الألماني — الجولة 33\n🗓 السبت 15 ماي
+ و 2027 · 16:30 بتوقيت الرياض\n🏟 BayArena\n—————
+ \n⚽ Bayer Leverkusen v Bayern München\n🏆 Bundesliga — Matchday 33\
+ n🗓 Sat 15 May 2027 · 13:30 UTC\n🏟 BayArena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد بايرن ميو
+ نخ — الدوري الألماني | Tomorrow: Bayer Leverkusen vs Bay
+ ern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × بايرن ميونخ | Kick-off in 30 min: Bayer Leverk
+ usen vs Bayern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881441@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270522T133000Z
+DTEND:20270522T153000Z
+SUMMARY:Bayern München vs Eintracht Frankfurt — Bundesliga
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/5881441
+DESCRIPTION:⚽ بايرن ميونخ × آينتراخت فرانكفور
+ ت\n🏆 الدوري الألماني — الجولة 34\n🗓 السب
+ ت 22 مايو 2027 · 16:30 بتوقيت الرياض\n🏟 Allianz Arena
+ \n—————\n⚽ Bayern München v Eintracht Frankfurt\n🏆 Bundesl
+ iga — Matchday 34\n🗓 Sat 22 May 2027 · 13:30 UTC\n🏟 Allianz Arena
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد آينتراخت فر
+ انكفورت — الدوري الألماني | Tomorrow: Bayern Münch
+ en vs Eintracht Frankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × آينتراخت فرانكفورت | Kick-off in 30 min: Ba
+ yern München vs Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106240@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260910T190000Z
+DTEND:20260910T210000Z
+SUMMARY:Bayern München vs Bodø/Glimt — UEFA Champions League
+LOCATION:Allianz Arena\, München\, Germany
+GEO:48.218779;11.624743
+URL:https://www.fotmob.com/match/6106240
+DESCRIPTION:⚽ بايرن ميونخ × بودو جليمت\n🏆 دوري
+  أبطال أوروبا — الجولة 1\n🗓 الخميس 10 سبتم
+ بر 2026 · 22:00 بتوقيت الرياض\n🏟 Allianz Arena، Münche
+ n\n📺 HBO Max (UK)، Paramount+ (US)\n—————\n⚽ Bayern Münch
+ en v Bodø/Glimt\n🏆 UEFA Champions League — Matchday 1\n🗓 Thu 10 S
+ ep 2026 · 19:00 UTC\n🏟 Allianz Arena, München\n📺 HBO Max (UK), Par
+ amount+ (US)\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد بودو جليمت 
+ — دوري أبطال أوروبا — 📺 HBO Max (UK)، Paramount+ (U
+ S) | Tomorrow: Bayern München vs Bodø/Glimt | TV: HBO Max (UK)\, Paramou
+ nt+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × بودو جليمت — 📺 HBO Max (UK)، Paramount+ (US) 
+ | Kick-off in 30 min: Bayern München vs Bodø/Glimt | TV: HBO Max (UK)\, 
+ Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106417@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Viking vs Bayern München — UEFA Champions League
+LOCATION:Lyse Arena\, Stavanger\, Norway
+GEO:58.914596;5.730926
+URL:https://www.fotmob.com/match/6106417
+DESCRIPTION:⚽ فيشينغ ستافانغير × بايرن ميونخ\n
+ 🏆 دوري أبطال أوروبا — الجولة 2\n🗓 الثلا
+ ثاء 13 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Lyse 
+ Arena، Stavanger\n—————\n⚽ Viking v Bayern München\n🏆 UEF
+ A Champions League — Matchday 2\n🗓 Tue 13 Oct 2026 · 19:00 UTC\n🏟
+  Lyse Arena, Stavanger\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيشينغ ستافانغير ضد بايرن 
+ ميونخ — دوري أبطال أوروبا | Tomorrow: Viking vs Baye
+ rn München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيشين
+ غ ستافانغير × بايرن ميونخ | Kick-off in 30 min: Vikin
+ g vs Bayern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106238@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+SUMMARY:Bayern München vs Arsenal — UEFA Champions League
+LOCATION:Allianz Arena\, München\, Germany
+GEO:48.218779;11.624743
+URL:https://www.fotmob.com/match/6106238
+DESCRIPTION:⚽ بايرن ميونخ × أرسنال\n🏆 دوري أبط
+ ال أوروبا — الجولة 3\n🗓 الأربعاء 21 أكتوب
+ ر 2026 · 22:00 بتوقيت الرياض\n🏟 Allianz Arena، München\
+ n—————\n⚽ Bayern München v Arsenal\n🏆 UEFA Champions Leagu
+ e — Matchday 3\n🗓 Wed 21 Oct 2026 · 19:00 UTC\n🏟 Allianz Arena, M
+ ünchen\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد أرسنال — دو
+ ري أبطال أوروبا | Tomorrow: Bayern München vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × أرسنال | Kick-off in 30 min: Bayern München vs Arsena
+ l
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106266@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+SUMMARY:Atlético Madrid vs Bayern München — UEFA Champions League
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/6106266
+DESCRIPTION:⚽ أتلتيكو مدريد × بايرن ميونخ\n🏆 د
+ وري أبطال أوروبا — الجولة 4\n🗓 الثلاثاء 3
+  نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Riyadh Air Met
+ ropolitano\n—————\n⚽ Atlético Madrid v Bayern München\n🏆 
+ UEFA Champions League — Matchday 4\n🗓 Tue 03 Nov 2026 · 20:00 UTC\n
+ 🏟 Riyadh Air Metropolitano\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد بايرن ميو
+ نخ — دوري أبطال أوروبا | Tomorrow: Atlético Madrid vs 
+ Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × بايرن ميونخ | Kick-off in 30 min: Atlético M
+ adrid vs Bayern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106310@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Lille vs Bayern München — UEFA Champions League
+LOCATION:Decathlon Arena-Stade Pierre-Mauroy
+URL:https://www.fotmob.com/match/6106310
+DESCRIPTION:⚽ ليل × بايرن ميونخ\n🏆 دوري أبطال 
+ أوروبا — الجولة 5\n🗓 الأربعاء 25 نوفمبر 202
+ 6 · 23:00 بتوقيت الرياض\n🏟 Decathlon Arena-Stade Pierre-Ma
+ uroy\n—————\n⚽ Lille v Bayern München\n🏆 UEFA Champions Le
+ ague — Matchday 5\n🗓 Wed 25 Nov 2026 · 20:00 UTC\n🏟 Decathlon Are
+ na-Stade Pierre-Mauroy\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليل ضد بايرن ميونخ — دوري أ
+ بطال أوروبا | Tomorrow: Lille vs Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليل × 
+ بايرن ميونخ | Kick-off in 30 min: Lille vs Bayern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106241@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+SUMMARY:Bayern München vs Slavia Prague — UEFA Champions League
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/6106241
+DESCRIPTION:⚽ بايرن ميونخ × سلافيا براغ\n🏆 دور
+ ي أبطال أوروبا — الجولة 6\n🗓 الثلاثاء 8 د
+ يسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Allianz Arena\n
+ —————\n⚽ Bayern München v Slavia Prague\n🏆 UEFA Champions 
+ League — Matchday 6\n🗓 Tue 08 Dec 2026 · 20:00 UTC\n🏟 Allianz Are
+ na\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد سلافيا براغ 
+ — دوري أبطال أوروبا | Tomorrow: Bayern München vs Slavia
+  Prague
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × سلافيا براغ | Kick-off in 30 min: Bayern München 
+ vs Slavia Prague
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106290@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+SUMMARY:Manchester United vs Bayern München — UEFA Champions League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/6106290
+DESCRIPTION:⚽ مانشستر يونايتد × بايرن ميونخ\n
+ 🏆 دوري أبطال أوروبا — الجولة 7\n🗓 الأرب
+ عاء 20 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Old Tra
+ fford\n—————\n⚽ Manchester United v Bayern München\n🏆 UEFA
+  Champions League — Matchday 7\n🗓 Wed 20 Jan 2027 · 20:00 UTC\n🏟 
+ Old Trafford\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد بايرن م
+ يونخ — دوري أبطال أوروبا | Tomorrow: Manchester Unite
+ d vs Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × بايرن ميونخ | Kick-off in 30 min: Manches
+ ter United vs Bayern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106239@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Bayern München vs Real Betis — UEFA Champions League
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/6106239
+DESCRIPTION:⚽ بايرن ميونخ × ريال بيتيس\n🏆 دوري
+  أبطال أوروبا — الجولة 8\n🗓 الأربعاء 27 ين
+ اير 2027 · 23:00 بتوقيت الرياض\n🏟 Allianz Arena\n——
+ ———\n⚽ Bayern München v Real Betis\n🏆 UEFA Champions League 
+ — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Allianz Arena\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد ريال بيتيس 
+ — دوري أبطال أوروبا | Tomorrow: Bayern München vs Real B
+ etis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × ريال بيتيس | Kick-off in 30 min: Bayern München vs
+  Real Betis
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Gainsborough — FA Cup Fixtures | Gainsborough — مبا
+ ريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Gainsborough — all matches in FA Cup\, exact UTC kickoffs\, 
+ stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:1
+ 0Z.  •  Gainsborough — جميع المباريات في كأس الا
+ تحاد الإنجليزي بتوقيت UTC الدقيق مع الملا
+ عب والقنوات الناقلة. المصدر: FotMob + 365scores · 
+ تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010618@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251102T171500Z
+DTEND:20251102T191500Z
+SUMMARY:Gainsborough vs Accrington Stanley (1 - 2) — FA Cup
+LOCATION:Kal Group Stadium\, Gainsborough\, Lincolnshire\, England
+GEO:53.403408;-0.774499
+URL:https://www.fotmob.com/match/5010618
+DESCRIPTION:⚽ Gainsborough × Accrington Stanley (1 - 2)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الأول\n🗓 الأحد
+  2 نوفمبر 2025 · 20:15 بتوقيت الرياض\n🏟 Kal Group St
+ adium، Gainsborough, Lincolnshire\n⚖️ الحكم: Andrew Humphries\n
+ 👥 الحضور: 2,612\n—————\n⚽ Gainsborough v Accrington S
+ tanley (1 - 2)\n🏆 FA Cup — Round 1\n🗓 Sun 02 Nov 2025 · 17:15 UTC
+ \n🏟 Kal Group Stadium, Gainsborough, Lincolnshire\nReferee: Andrew Hump
+ hries\nAttendance: 2,612\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Gainsborough ضد Accrington Stanley — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Gainsborough vs Accrington S
+ tanley
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Gainsboroug
+ h × Accrington Stanley | Kick-off in 30 min: Gainsborough vs Accrington S
+ tanley
+END:VALARM
+END:VEVENT
+END:VCALENDAR

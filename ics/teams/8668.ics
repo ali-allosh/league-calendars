@@ -1,0 +1,1273 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Everton — Premier League & FA Cup Fixtures | إيفرت
+ ون — مباريات الدوري الإنجليزي الممتاز و
+ كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Everton — all matches in Premier League & FA Cup\, exact UTC
+  kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-0
+ 9-05T19:31:10Z.  •  إيفرتون — جميع المباريات في 
+ الدوري الإنجليزي الممتاز وكأس الاتحاد ا
+ لإنجليزي بتوقيت UTC الدقيق مع الملاعب وال
+ قنوات الناقلة. المصدر: FotMob + 365scores · تحديث 
+ تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5795365@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T140000Z
+DTEND:20260822T160000Z
+SUMMARY:Everton vs Crystal Palace (2 - 0) — Premier League
+LOCATION:Hill Dickinson Stadium\, Liverpool\, Merseyside\, England
+GEO:53.424981;-3.002691
+URL:https://www.fotmob.com/match/5795365
+DESCRIPTION:⚽ إيفرتون × كريستال بالاس (2 - 0)\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 1\n🗓 ا
+ لسبت 22 أغسطس 2026 · 17:00 بتوقيت الرياض\n🏟 Hill 
+ Dickinson Stadium، Liverpool, Merseyside\n⚖️ الحكم: Paul Tierney
+ \n👥 الحضور: 51,820\n—————\n⚽ Everton v Crystal Palace
+  (2 - 0)\n🏆 Premier League — Matchday 1\n🗓 Sat 22 Aug 2026 · 14:0
+ 0 UTC\n🏟 Hill Dickinson Stadium, Liverpool, Merseyside\nReferee: Paul T
+ ierney\nAttendance: 51,820\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد كريستال بالاس —
+  الدوري الإنجليزي الممتاز | Tomorrow: Everton vs Cry
+ stal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × كريستال بالاس | Kick-off in 30 min: Everton vs Crystal
+  Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795425@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T140000Z
+DTEND:20260829T160000Z
+SUMMARY:AFC Bournemouth vs Everton (1 - 1) — Premier League
+LOCATION:Vitality Stadium\, Bournemouth\, Dorset\, England
+GEO:50.735241;-1.838310
+URL:https://www.fotmob.com/match/5795425
+DESCRIPTION:⚽ بورنموث × إيفرتون (1 - 1)\n🏆 الدوري
+  الإنجليزي الممتاز — الجولة 2\n🗓 السبت 29 
+ أغسطس 2026 · 17:00 بتوقيت الرياض\n🏟 Vitality Stadium
+ ، Bournemouth, Dorset\n⚖️ الحكم: Chris Kavanagh\n👥 الحضو
+ ر: 11,135\n—————\n⚽ AFC Bournemouth v Everton (1 - 1)\n🏆 P
+ remier League — Matchday 2\n🗓 Sat 29 Aug 2026 · 14:00 UTC\n🏟 Vita
+ lity Stadium, Bournemouth, Dorset\nReferee: Chris Kavanagh\nAttendance: 11
+ ,135\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد إيفرتون — الدور
+ ي الإنجليزي الممتاز | Tomorrow: AFC Bournemouth vs Everto
+ n
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × إيفرتون | Kick-off in 30 min: AFC Bournemouth vs Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795438@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Everton vs Manchester United — Premier League
+LOCATION:Hill Dickinson Stadium\, Liverpool\, Merseyside\, England
+GEO:53.424981;-3.002691
+URL:https://www.fotmob.com/match/5795438
+DESCRIPTION:⚽ إيفرتون × مانشستر يونايتد\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 3\n🗓 الأ
+ حد 6 سبتمبر 2026 · 16:00 بتوقيت الرياض\n🏟 Hill Dic
+ kinson Stadium، Liverpool, Merseyside\n📺 beIN SPORTS HD 1\n———
+ ——\n⚽ Everton v Manchester United\n🏆 Premier League — Matchday 
+ 3\n🗓 Sun 06 Sep 2026 · 13:00 UTC\n🏟 Hill Dickinson Stadium, Liverpo
+ ol, Merseyside\n📺 beIN Sport 1 HD\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد مانشستر يونايتد
+  — الدوري الإنجليزي الممتاز — 📺 beIN SPORTS H
+ D 1 | Tomorrow: Everton vs Manchester United | TV: beIN Sport 1 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × مانشستر يونايتد — 📺 beIN SPORTS HD 1 | Kick-off
+  in 30 min: Everton vs Manchester United | TV: beIN Sport 1 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795454@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T163000Z
+DTEND:20260912T183000Z
+SUMMARY:Tottenham Hotspur vs Everton — Premier League
+LOCATION:Tottenham Hotspur Stadium\, London\, England
+GEO:51.604217;-0.066229
+URL:https://www.fotmob.com/match/5795454
+DESCRIPTION:⚽ توتنهام هوتسبر × إيفرتون\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 4\n🗓 السب
+ ت 12 سبتمبر 2026 · 19:30 بتوقيت الرياض\n🏟 Tottenham
+  Hotspur Stadium، London\n📺 Sky Sports Main Event، Sky Sports Premier
+  League، Sky Sports+ app، Sky Sports UHD، NOW، NBC، NBC Sports 4K، F
+ ubo Sports CA\n—————\n⚽ Tottenham Hotspur v Everton\n🏆 Prem
+ ier League — Matchday 4\n🗓 Sat 12 Sep 2026 · 16:30 UTC\n🏟 Tottenh
+ am Hotspur Stadium, London\n📺 Sky Sports Main Event, Sky Sports Premier
+  League, Sky Sports+ app, Sky Sports UHD, NOW, NBC, NBC Sports 4K, Fubo Sp
+ orts CA\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توتنهام هوتسبر ضد إيفرتون 
+ — الدوري الإنجليزي الممتاز — 📺 Sky Sports Mai
+ n Event، Sky Sports Premier League، Sky Sports+ app، Sky Sports UHD، N
+ OW، NBC، NBC Sports 4K، Fubo Sports CA | Tomorrow: Tottenham Hotspur vs
+  Everton | TV: Sky Sports Main Event\, Sky Sports Premier League\, Sky Spo
+ rts+ app\, Sky Sports UHD\, NOW\, NBC\, NBC Sports 4K\, Fubo Sports CA
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توتنه
+ ام هوتسبر × إيفرتون — 📺 Sky Sports Main Event، Sky S
+ ports Premier League، Sky Sports+ app، Sky Sports UHD، NOW، NBC، NBC 
+ Sports 4K، Fubo Sports CA | Kick-off in 30 min: Tottenham Hotspur vs Ever
+ ton | TV: Sky Sports Main Event\, Sky Sports Premier League\, Sky Sports+ 
+ app\, Sky Sports UHD\, NOW\, NBC\, NBC Sports 4K\, Fubo Sports CA
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795458@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T140000Z
+DTEND:20260919T160000Z
+SUMMARY:Everton vs Ipswich Town — Premier League
+LOCATION:Hill Dickinson Stadium\, Liverpool\, Merseyside\, England
+GEO:53.424981;-3.002691
+URL:https://www.fotmob.com/match/5795458
+DESCRIPTION:⚽ إيفرتون × إبسويتش تاون\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 5\n🗓 السبت 1
+ 9 سبتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Hill Dickinso
+ n Stadium، Liverpool, Merseyside\n—————\n⚽ Everton v Ipswich 
+ Town\n🏆 Premier League — Matchday 5\n🗓 Sat 19 Sep 2026 · 14:00 UT
+ C\n🏟 Hill Dickinson Stadium, Liverpool, Merseyside\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد إبسويتش تاون — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Everton vs Ipsw
+ ich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × إبسويتش تاون | Kick-off in 30 min: Everton vs Ipswich T
+ own
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795470@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Hull City vs Everton — Premier League
+LOCATION:MKM Stadium\, Hull\, England
+GEO:53.746240;-0.367640
+URL:https://www.fotmob.com/match/5795470
+DESCRIPTION:⚽ هال سيتي × إيفرتون\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 6\n🗓 الأحد 11 أكت
+ وبر 2026 · 16:00 بتوقيت الرياض\n🏟 MKM Stadium، Hull\n
+ —————\n⚽ Hull City v Everton\n🏆 Premier League — Matchday
+  6\n🗓 Sun 11 Oct 2026 · 13:00 UTC\n🏟 MKM Stadium, Hull\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد إيفرتون — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Hull City vs Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × إيفرتون | Kick-off in 30 min: Hull City vs Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795478@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T113000Z
+DTEND:20261017T133000Z
+SUMMARY:Everton vs Chelsea — Premier League
+LOCATION:Hill Dickinson Stadium\, Liverpool\, Merseyside\, England
+GEO:53.424981;-3.002691
+URL:https://www.fotmob.com/match/5795478
+DESCRIPTION:⚽ إيفرتون × تشيلسي\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 7\n🗓 السبت 17 أكتو
+ بر 2026 · 14:30 بتوقيت الرياض\n🏟 Hill Dickinson Stadium
+ ، Liverpool, Merseyside\n—————\n⚽ Everton v Chelsea\n🏆 Pre
+ mier League — Matchday 7\n🗓 Sat 17 Oct 2026 · 11:30 UTC\n🏟 Hill D
+ ickinson Stadium, Liverpool, Merseyside\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد تشيلسي — الدوري
+  الإنجليزي الممتاز | Tomorrow: Everton vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × تشيلسي | Kick-off in 30 min: Everton vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795485@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Arsenal vs Everton — Premier League
+LOCATION:Emirates Stadium\, London\, England
+GEO:51.555075;-0.108458
+URL:https://www.fotmob.com/match/5795485
+DESCRIPTION:⚽ أرسنال × إيفرتون\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 8\n🗓 السبت 24 أكتو
+ بر 2026 · 17:00 بتوقيت الرياض\n🏟 Emirates Stadium، Lond
+ on\n—————\n⚽ Arsenal v Everton\n🏆 Premier League — Matchd
+ ay 8\n🗓 Sat 24 Oct 2026 · 14:00 UTC\n🏟 Emirates Stadium, London\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد إيفرتون — الدوري
+  الإنجليزي الممتاز | Tomorrow: Arsenal vs Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × إيفرتون | Kick-off in 30 min: Arsenal vs Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795503@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261102T200000Z
+DTEND:20261102T220000Z
+SUMMARY:Newcastle United vs Everton — Premier League
+LOCATION:St James' Park
+URL:https://www.fotmob.com/match/5795503
+DESCRIPTION:⚽ نيوكاسل يونايتد × إيفرتون\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 9\n🗓 الا
+ ثنين 2 نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 St J
+ ames' Park\n—————\n⚽ Newcastle United v Everton\n🏆 Premier 
+ League — Matchday 9\n🗓 Mon 02 Nov 2026 · 20:00 UTC\n🏟 St James' P
+ ark\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل يونايتد ضد إيفرتون
+  — الدوري الإنجليزي الممتاز | Tomorrow: Newcastle 
+ United vs Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل يونايتد × إيفرتون | Kick-off in 30 min: Newcastle Unit
+ ed vs Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795508@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Everton vs Coventry City — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795508
+DESCRIPTION:⚽ إيفرتون × كوفنتري سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 10\n🗓 السبت 
+ 7 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Hill Dickinso
+ n Stadium\n—————\n⚽ Everton v Coventry City\n🏆 Premier Leag
+ ue — Matchday 10\n🗓 Sat 07 Nov 2026 · 15:00 UTC\n🏟 Hill Dickinson
+  Stadium\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد كوفنتري سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Everton vs Cove
+ ntry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × كوفنتري سيتي | Kick-off in 30 min: Everton vs Coventry 
+ City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795517@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:Brentford vs Everton — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795517
+DESCRIPTION:⚽ برينتفورد × إيفرتون\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 11\n🗓 السبت 21 ن
+ وفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Gtech Community S
+ tadium\n—————\n⚽ Brentford v Everton\n🏆 Premier League — 
+ Matchday 11\n🗓 Sat 21 Nov 2026 · 15:00 UTC\n🏟 Gtech Community Stadi
+ um\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد إيفرتون — الد
+ وري الإنجليزي الممتاز | Tomorrow: Brentford vs Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × إيفرتون | Kick-off in 30 min: Brentford vs Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795528@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:Everton vs Liverpool — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795528
+DESCRIPTION:⚽ إيفرتون × ليفربول\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 12\n🗓 السبت 28 نوف
+ مبر 2026 · 18:00 بتوقيت الرياض\n🏟 Hill Dickinson Stadiu
+ m\n—————\n⚽ Everton v Liverpool\n🏆 Premier League — Match
+ day 12\n🗓 Sat 28 Nov 2026 · 15:00 UTC\n🏟 Hill Dickinson Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد ليفربول — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Everton vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × ليفربول | Kick-off in 30 min: Everton vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795536@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Aston Villa vs Everton — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795536
+DESCRIPTION:⚽ أستون فيلا × إيفرتون\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 13\n🗓 الأربعاء
+  2 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Villa Park\n
+ —————\n⚽ Aston Villa v Everton\n🏆 Premier League — Matchd
+ ay 13\n🗓 Wed 02 Dec 2026 · 20:00 UTC\n🏟 Villa Park\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد إيفرتون — ال
+ دوري الإنجليزي الممتاز | Tomorrow: Aston Villa vs Ever
+ ton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × إيفرتون | Kick-off in 30 min: Aston Villa vs Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795549@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Everton vs Fulham — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795549
+DESCRIPTION:⚽ إيفرتون × فولهام\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 14\n🗓 السبت 5 ديسم
+ بر 2026 · 18:00 بتوقيت الرياض\n🏟 Hill Dickinson Stadium\
+ n—————\n⚽ Everton v Fulham\n🏆 Premier League — Matchday 1
+ 4\n🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 Hill Dickinson Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد فولهام — الدوري
+  الإنجليزي الممتاز | Tomorrow: Everton vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × فولهام | Kick-off in 30 min: Everton vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795556@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Brighton & Hove Albion vs Everton — Premier League
+LOCATION:The American Express Community Stadium
+URL:https://www.fotmob.com/match/5795556
+DESCRIPTION:⚽ برايتون × إيفرتون\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 15\n🗓 السبت 12 ديس
+ مبر 2026 · 18:00 بتوقيت الرياض\n🏟 The American Express 
+ Community Stadium\n—————\n⚽ Brighton & Hove Albion v Everton\n
+ 🏆 Premier League — Matchday 15\n🗓 Sat 12 Dec 2026 · 15:00 UTC\n
+ 🏟 The American Express Community Stadium\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برايتون ضد إيفرتون — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Brighton & Hove Albion vs
+  Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برايت
+ ون × إيفرتون | Kick-off in 30 min: Brighton & Hove Albion vs Eve
+ rton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795573@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:Nottingham Forest vs Everton — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795573
+DESCRIPTION:⚽ نوتنجهام فورست × إيفرتون\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 16\n🗓 الس
+ بت 19 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 City Gr
+ ound, Nottingham\n—————\n⚽ Nottingham Forest v Everton\n🏆 P
+ remier League — Matchday 16\n🗓 Sat 19 Dec 2026 · 15:00 UTC\n🏟 Cit
+ y Ground, Nottingham\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد إيفرتون 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Nottingham 
+ Forest vs Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × إيفرتون | Kick-off in 30 min: Nottingham Fores
+ t vs Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795578@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261226T150000Z
+DTEND:20261226T170000Z
+SUMMARY:Everton vs Sunderland — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795578
+DESCRIPTION:⚽ إيفرتون × سندرلاند\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 17\n🗓 السبت 26 دي
+ سمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Hill Dickinson Stad
+ ium\n—————\n⚽ Everton v Sunderland\n🏆 Premier League — Ma
+ tchday 17\n🗓 Sat 26 Dec 2026 · 15:00 UTC\n🏟 Hill Dickinson Stadium\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد سندرلاند — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Everton vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × سندرلاند | Kick-off in 30 min: Everton vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795588@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261230T200000Z
+DTEND:20261230T220000Z
+SUMMARY:Everton vs Manchester City — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795588
+DESCRIPTION:⚽ إيفرتون × مانشستر سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 18\n🗓 الأرب
+ عاء 30 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Hill 
+ Dickinson Stadium\n—————\n⚽ Everton v Manchester City\n🏆 Pr
+ emier League — Matchday 18\n🗓 Wed 30 Dec 2026 · 20:00 UTC\n🏟 Hill
+  Dickinson Stadium\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد مانشستر سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Everton vs Manc
+ hester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × مانشستر سيتي | Kick-off in 30 min: Everton vs Mancheste
+ r City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795600@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T150000Z
+DTEND:20270102T170000Z
+SUMMARY:Leeds United vs Everton — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795600
+DESCRIPTION:⚽ ليدز يونايتد × إيفرتون\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 19\n🗓 السبت 
+ 2 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Elland Road\n
+ —————\n⚽ Leeds United v Everton\n🏆 Premier League — Match
+ day 19\n🗓 Sat 02 Jan 2027 · 15:00 UTC\n🏟 Elland Road\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد إيفرتون — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Leeds United vs
+  Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × إيفرتون | Kick-off in 30 min: Leeds United vs Evert
+ on
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795608@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T200000Z
+DTEND:20270106T220000Z
+SUMMARY:Everton vs Aston Villa — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795608
+DESCRIPTION:⚽ إيفرتون × أستون فيلا\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 20\n🗓 الأربعاء
+  6 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Hill Dickinson
+  Stadium\n—————\n⚽ Everton v Aston Villa\n🏆 Premier League 
+ — Matchday 20\n🗓 Wed 06 Jan 2027 · 20:00 UTC\n🏟 Hill Dickinson St
+ adium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد أستون فيلا — ال
+ دوري الإنجليزي الممتاز | Tomorrow: Everton vs Aston Vi
+ lla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × أستون فيلا | Kick-off in 30 min: Everton vs Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795619@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:Coventry City vs Everton — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795619
+DESCRIPTION:⚽ كوفنتري سيتي × إيفرتون\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 21\n🗓 السبت 
+ 16 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Coventry Build
+ ing Society Arena\n—————\n⚽ Coventry City v Everton\n🏆 Prem
+ ier League — Matchday 21\n🗓 Sat 16 Jan 2027 · 15:00 UTC\n🏟 Covent
+ ry Building Society Arena\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد إيفرتون — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Coventry City v
+ s Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × إيفرتون | Kick-off in 30 min: Coventry City vs Eve
+ rton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795628@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:Everton vs Brentford — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795628
+DESCRIPTION:⚽ إيفرتون × برينتفورد\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 22\n🗓 السبت 23 ي
+ ناير 2027 · 18:00 بتوقيت الرياض\n🏟 Hill Dickinson Stad
+ ium\n—————\n⚽ Everton v Brentford\n🏆 Premier League — Mat
+ chday 22\n🗓 Sat 23 Jan 2027 · 15:00 UTC\n🏟 Hill Dickinson Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد برينتفورد — الد
+ وري الإنجليزي الممتاز | Tomorrow: Everton vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × برينتفورد | Kick-off in 30 min: Everton vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795641@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Liverpool vs Everton — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795641
+DESCRIPTION:⚽ ليفربول × إيفرتون\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 23\n🗓 السبت 30 ينا
+ ير 2027 · 18:00 بتوقيت الرياض\n🏟 Anfield\n————
+ —\n⚽ Liverpool v Everton\n🏆 Premier League — Matchday 23\n🗓 Sa
+ t 30 Jan 2027 · 15:00 UTC\n🏟 Anfield\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد إيفرتون — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Liverpool vs Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × إيفرتون | Kick-off in 30 min: Liverpool vs Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795648@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Everton vs Newcastle United — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795648
+DESCRIPTION:⚽ إيفرتون × نيوكاسل يونايتد\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 24\n🗓 ال
+ سبت 6 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Hill D
+ ickinson Stadium\n—————\n⚽ Everton v Newcastle United\n🏆 Pr
+ emier League — Matchday 24\n🗓 Sat 06 Feb 2027 · 15:00 UTC\n🏟 Hill
+  Dickinson Stadium\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد نيوكاسل يونايتد
+  — الدوري الإنجليزي الممتاز | Tomorrow: Everton vs
+  Newcastle United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × نيوكاسل يونايتد | Kick-off in 30 min: Everton vs New
+ castle United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795658@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270210T200000Z
+DTEND:20270210T220000Z
+SUMMARY:Everton vs Leeds United — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795658
+DESCRIPTION:⚽ إيفرتون × ليدز يونايتد\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 25\n🗓 الأرب
+ عاء 10 فبراير 2027 · 23:00 بتوقيت الرياض\n🏟 Hill 
+ Dickinson Stadium\n—————\n⚽ Everton v Leeds United\n🏆 Premi
+ er League — Matchday 25\n🗓 Wed 10 Feb 2027 · 20:00 UTC\n🏟 Hill Di
+ ckinson Stadium\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد ليدز يونايتد — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Everton vs Leed
+ s United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × ليدز يونايتد | Kick-off in 30 min: Everton vs Leeds Uni
+ ted
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795674@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:Sunderland vs Everton — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795674
+DESCRIPTION:⚽ سندرلاند × إيفرتون\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 26\n🗓 السبت 20 فب
+ راير 2027 · 18:00 بتوقيت الرياض\n🏟 Stadium of Light\n
+ —————\n⚽ Sunderland v Everton\n🏆 Premier League — Matchda
+ y 26\n🗓 Sat 20 Feb 2027 · 15:00 UTC\n🏟 Stadium of Light\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد إيفرتون — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Sunderland vs Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × إيفرتون | Kick-off in 30 min: Sunderland vs Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795678@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T150000Z
+DTEND:20270227T170000Z
+SUMMARY:Everton vs Nottingham Forest — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795678
+DESCRIPTION:⚽ إيفرتون × نوتنجهام فورست\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 27\n🗓 الس
+ بت 27 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Hill Di
+ ckinson Stadium\n—————\n⚽ Everton v Nottingham Forest\n🏆 Pr
+ emier League — Matchday 27\n🗓 Sat 27 Feb 2027 · 15:00 UTC\n🏟 Hill
+  Dickinson Stadium\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد نوتنجهام فورست 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Everton vs 
+ Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × نوتنجهام فورست | Kick-off in 30 min: Everton vs Notti
+ ngham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795692@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270303T200000Z
+DTEND:20270303T220000Z
+SUMMARY:Manchester City vs Everton — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795692
+DESCRIPTION:⚽ مانشستر سيتي × إيفرتون\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 28\n🗓 الأرب
+ عاء 3 مارس 2027 · 23:00 بتوقيت الرياض\n🏟 Etihad Sta
+ dium\n—————\n⚽ Manchester City v Everton\n🏆 Premier League 
+ — Matchday 28\n🗓 Wed 03 Mar 2027 · 20:00 UTC\n🏟 Etihad Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد إيفرتون — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Manchester City
+  vs Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × إيفرتون | Kick-off in 30 min: Manchester City vs E
+ verton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795702@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T150000Z
+DTEND:20270313T170000Z
+SUMMARY:Manchester United vs Everton — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795702
+DESCRIPTION:⚽ مانشستر يونايتد × إيفرتون\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 29\n🗓 ال
+ سبت 13 مارس 2027 · 18:00 بتوقيت الرياض\n🏟 Old Traff
+ ord\n—————\n⚽ Manchester United v Everton\n🏆 Premier League
+  — Matchday 29\n🗓 Sat 13 Mar 2027 · 15:00 UTC\n🏟 Old Trafford\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد إيفرتون
+  — الدوري الإنجليزي الممتاز | Tomorrow: Manchester
+  United vs Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × إيفرتون | Kick-off in 30 min: Manchester Uni
+ ted vs Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795708@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T150000Z
+DTEND:20270320T170000Z
+SUMMARY:Everton vs Tottenham Hotspur — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795708
+DESCRIPTION:⚽ إيفرتون × توتنهام هوتسبر\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 30\n🗓 الس
+ بت 20 مارس 2027 · 18:00 بتوقيت الرياض\n🏟 Hill Dickin
+ son Stadium\n—————\n⚽ Everton v Tottenham Hotspur\n🏆 Premie
+ r League — Matchday 30\n🗓 Sat 20 Mar 2027 · 15:00 UTC\n🏟 Hill Dic
+ kinson Stadium\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد توتنهام هوتسبر 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Everton vs 
+ Tottenham Hotspur
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × توتنهام هوتسبر | Kick-off in 30 min: Everton vs Totte
+ nham Hotspur
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795719@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T140000Z
+DTEND:20270410T160000Z
+SUMMARY:Crystal Palace vs Everton — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795719
+DESCRIPTION:⚽ كريستال بالاس × إيفرتون\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 31\n🗓 السب
+ ت 10 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 Selhurst Pa
+ rk\n—————\n⚽ Crystal Palace v Everton\n🏆 Premier League —
+  Matchday 31\n🗓 Sat 10 Apr 2027 · 14:00 UTC\n🏟 Selhurst Park\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد إيفرتون —
+  الدوري الإنجليزي الممتاز | Tomorrow: Crystal Palace
+  vs Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × إيفرتون | Kick-off in 30 min: Crystal Palace vs 
+ Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795728@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T140000Z
+DTEND:20270417T160000Z
+SUMMARY:Everton vs AFC Bournemouth — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795728
+DESCRIPTION:⚽ إيفرتون × بورنموث\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 32\n🗓 السبت 17 أبر
+ يل 2027 · 17:00 بتوقيت الرياض\n🏟 Hill Dickinson Stadium\
+ n—————\n⚽ Everton v AFC Bournemouth\n🏆 Premier League — M
+ atchday 32\n🗓 Sat 17 Apr 2027 · 14:00 UTC\n🏟 Hill Dickinson Stadium
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد بورنموث — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Everton vs AFC Bournemout
+ h
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × بورنموث | Kick-off in 30 min: Everton vs AFC Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795739@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T140000Z
+DTEND:20270424T160000Z
+SUMMARY:Everton vs Brighton & Hove Albion — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795739
+DESCRIPTION:⚽ إيفرتون × برايتون\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 33\n🗓 السبت 24 أبر
+ يل 2027 · 17:00 بتوقيت الرياض\n🏟 Hill Dickinson Stadium\
+ n—————\n⚽ Everton v Brighton & Hove Albion\n🏆 Premier Leagu
+ e — Matchday 33\n🗓 Sat 24 Apr 2027 · 14:00 UTC\n🏟 Hill Dickinson 
+ Stadium\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد برايتون — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Everton vs Brighton & Hov
+ e Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × برايتون | Kick-off in 30 min: Everton vs Brighton & Hove Al
+ bion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795749@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T140000Z
+DTEND:20270501T160000Z
+SUMMARY:Fulham vs Everton — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795749
+DESCRIPTION:⚽ فولهام × إيفرتون\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 34\n🗓 السبت 1 مايو 
+ 2027 · 17:00 بتوقيت الرياض\n🏟 Craven Cottage\n————
+ —\n⚽ Fulham v Everton\n🏆 Premier League — Matchday 34\n🗓 Sat 0
+ 1 May 2027 · 14:00 UTC\n🏟 Craven Cottage\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد إيفرتون — الدوري
+  الإنجليزي الممتاز | Tomorrow: Fulham vs Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × إيفرتون | Kick-off in 30 min: Fulham vs Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795771@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T140000Z
+DTEND:20270508T160000Z
+SUMMARY:Everton vs Hull City — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795771
+DESCRIPTION:⚽ إيفرتون × هال سيتي\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 35\n🗓 السبت 8 ماي
+ و 2027 · 17:00 بتوقيت الرياض\n🏟 Hill Dickinson Stadium\n
+ —————\n⚽ Everton v Hull City\n🏆 Premier League — Matchday
+  35\n🗓 Sat 08 May 2027 · 14:00 UTC\n🏟 Hill Dickinson Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد هال سيتي — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Everton vs Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × هال سيتي | Kick-off in 30 min: Everton vs Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795780@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T140000Z
+DTEND:20270515T160000Z
+SUMMARY:Chelsea vs Everton — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795780
+DESCRIPTION:⚽ تشيلسي × إيفرتون\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 36\n🗓 السبت 15 مايو
+  2027 · 17:00 بتوقيت الرياض\n🏟 Stamford Bridge\n———
+ ——\n⚽ Chelsea v Everton\n🏆 Premier League — Matchday 36\n🗓 S
+ at 15 May 2027 · 14:00 UTC\n🏟 Stamford Bridge\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد إيفرتون — الدوري
+  الإنجليزي الممتاز | Tomorrow: Chelsea vs Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × إيفرتون | Kick-off in 30 min: Chelsea vs Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795791@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T140000Z
+DTEND:20270523T160000Z
+SUMMARY:Everton vs Arsenal — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795791
+DESCRIPTION:⚽ إيفرتون × أرسنال\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 37\n🗓 الأحد 23 مايو
+  2027 · 17:00 بتوقيت الرياض\n🏟 Hill Dickinson Stadium\n—
+ ————\n⚽ Everton v Arsenal\n🏆 Premier League — Matchday 37\n
+ 🗓 Sun 23 May 2027 · 14:00 UTC\n🏟 Hill Dickinson Stadium\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد أرسنال — الدوري
+  الإنجليزي الممتاز | Tomorrow: Everton vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × أرسنال | Kick-off in 30 min: Everton vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795804@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T150000Z
+DTEND:20270530T170000Z
+SUMMARY:Ipswich Town vs Everton — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795804
+DESCRIPTION:⚽ إبسويتش تاون × إيفرتون\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 38\n🗓 الأحد 
+ 30 مايو 2027 · 18:00 بتوقيت الرياض\n🏟 Portman Road\n
+ —————\n⚽ Ipswich Town v Everton\n🏆 Premier League — Match
+ day 38\n🗓 Sun 30 May 2027 · 15:00 UTC\n🏟 Portman Road\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد إيفرتون — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Ipswich Town vs
+  Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × إيفرتون | Kick-off in 30 min: Ipswich Town vs Ever
+ ton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089905@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T121500Z
+DTEND:20260110T141500Z
+SUMMARY:Everton vs Sunderland (1 - 1) — FA Cup
+LOCATION:Hill Dickinson Stadium\, Liverpool\, Merseyside\, England
+GEO:53.424981;-3.002691
+URL:https://www.fotmob.com/match/5089905
+DESCRIPTION:⚽ إيفرتون × سندرلاند (1 - 1)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الثالث\n🗓 السب
+ ت 10 يناير 2026 · 15:15 بتوقيت الرياض\n🏟 Hill Dickin
+ son Stadium، Liverpool, Merseyside\n⚖️ الحكم: John Brooks\n👥 
+ الحضور: 51,588\n—————\n⚽ Everton v Sunderland (1 - 1)\n
+ 🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 12:15 UTC\n🏟 Hill Dick
+ inson Stadium, Liverpool, Merseyside\nReferee: John Brooks\nAttendance: 51
+ ,588\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد سندرلاند — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Everton vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × سندرلاند | Kick-off in 30 min: Everton vs Sunderland
+END:VALARM
+END:VEVENT
+END:VCALENDAR

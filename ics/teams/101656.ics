@@ -1,0 +1,298 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al Quwa Al Jawiya — AFC Champions League Elite Fixtures 
+ | القوة الجوية — مباريات دوري أبطال آسيا 
+ للنخبة
+X-WR-CALDESC:Al Quwa Al Jawiya — all matches in AFC Champions League Elit
+ e\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-u
+ pdated 2026-09-05T19:31:10Z.  •  القوة الجوية — جميع ا
+ لمباريات في دوري أبطال آسيا للنخبة بتوقي
+ ت UTC الدقيق مع الملاعب والقنوات الناقلة. 
+ المصدر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:
+ 31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6050064@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260914T134500Z
+DTEND:20260914T154500Z
+SUMMARY:Neftchi Fargona vs Al Quwa Al Jawiya — AFC Champions League Elite
+LOCATION:Istiqlol stadioni\, Farg'ona (Fergana)\, Uzbekistan
+GEO:40.390534;71.749676
+URL:https://www.fotmob.com/match/6050064
+DESCRIPTION:⚽ نيفتشي فرغانة × القوة الجوية\n🏆 
+ دوري أبطال آسيا للنخبة — الجولة 1\n🗓 الا
+ ثنين 14 سبتمبر 2026 · 16:45 بتوقيت الرياض\n🏟 Ist
+ iqlol stadioni، Farg'ona (Fergana)\n—————\n⚽ Neftchi Fargona 
+ v Al Quwa Al Jawiya\n🏆 AFC Champions League Elite — Matchday 1\n🗓 
+ Mon 14 Sep 2026 · 13:45 UTC\n🏟 Istiqlol stadioni, Farg'ona (Fergana)\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيفتشي فرغانة ضد القوة الج
+ وية — دوري أبطال آسيا للنخبة | Tomorrow: Neftchi F
+ argona vs Al Quwa Al Jawiya
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيفتش
+ ي فرغانة × القوة الجوية | Kick-off in 30 min: Neftchi F
+ argona vs Al Quwa Al Jawiya
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050077@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261012T181500Z
+DTEND:20261012T201500Z
+SUMMARY:Al Quwa Al Jawiya vs Al-Ain — AFC Champions League Elite
+LOCATION:Basra International Stadium\, al-Baṣra (Basra)\, Iraq
+GEO:30.439928;47.779781
+URL:https://www.fotmob.com/match/6050077
+DESCRIPTION:⚽ القوة الجوية × العين\n🏆 دوري أبط
+ ال آسيا للنخبة — الجولة 2\n🗓 الاثنين 12 أك
+ توبر 2026 · 21:15 بتوقيت الرياض\n🏟 Basra International
+  Stadium، al-Baṣra (Basra)\n—————\n⚽ Al Quwa Al Jawiya v Al
+ -Ain\n🏆 AFC Champions League Elite — Matchday 2\n🗓 Mon 12 Oct 2026
+  · 18:15 UTC\n🏟 Basra International Stadium, al-Baṣra (Basra)\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القوة الجوية ضد العين — دو
+ ري أبطال آسيا للنخبة | Tomorrow: Al Quwa Al Jawiya vs Al-
+ Ain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القوة 
+ الجوية × العين | Kick-off in 30 min: Al Quwa Al Jawiya vs Al-A
+ in
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050085@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261026T191500Z
+DTEND:20261026T211500Z
+SUMMARY:Al Quwa Al Jawiya vs Pakhtakor Tashkent — AFC Champions League El
+ ite
+LOCATION:Basra International Stadium\, al-Baṣra (Basra)\, Iraq
+GEO:30.439928;47.779781
+URL:https://www.fotmob.com/match/6050085
+DESCRIPTION:⚽ القوة الجوية × باختاكور\n🏆 دوري 
+ أبطال آسيا للنخبة — الجولة 3\n🗓 الاثنين 2
+ 6 أكتوبر 2026 · 22:15 بتوقيت الرياض\n🏟 Basra Interna
+ tional Stadium، al-Baṣra (Basra)\n—————\n⚽ Al Quwa Al Jawiy
+ a v Pakhtakor Tashkent\n🏆 AFC Champions League Elite — Matchday 3\n
+ 🗓 Mon 26 Oct 2026 · 19:15 UTC\n🏟 Basra International Stadium, al-Ba
+ ṣra (Basra)\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القوة الجوية ضد باختاكور —
+  دوري أبطال آسيا للنخبة | Tomorrow: Al Quwa Al Jawiya v
+ s Pakhtakor Tashkent
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القوة 
+ الجوية × باختاكور | Kick-off in 30 min: Al Quwa Al Jawiya v
+ s Pakhtakor Tashkent
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050090@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261102T170000Z
+DTEND:20261102T190000Z
+SUMMARY:Al-Wasl vs Al Quwa Al Jawiya — AFC Champions League Elite
+LOCATION:Zabeel Stadium\, Dubayy (Dubai)\, United Arab Emirates
+GEO:25.219098;55.316918
+URL:https://www.fotmob.com/match/6050090
+DESCRIPTION:⚽ الوصل × القوة الجوية\n🏆 دوري أبط
+ ال آسيا للنخبة — الجولة 4\n🗓 الاثنين 2 نو
+ فمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Zabeel Stadium، Du
+ bayy (Dubai)\n—————\n⚽ Al-Wasl v Al Quwa Al Jawiya\n🏆 AFC C
+ hampions League Elite — Matchday 4\n🗓 Mon 02 Nov 2026 · 17:00 UTC\n
+ 🏟 Zabeel Stadium, Dubayy (Dubai)\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الوصل ضد القوة الجوية — دو
+ ري أبطال آسيا للنخبة | Tomorrow: Al-Wasl vs Al Quwa Al Ja
+ wiya
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الوصل 
+ × القوة الجوية | Kick-off in 30 min: Al-Wasl vs Al Quwa Al Jaw
+ iya
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050101@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261123T191500Z
+DTEND:20261123T211500Z
+SUMMARY:Al Quwa Al Jawiya vs Al-Gharafa — AFC Champions League Elite
+LOCATION:Basra International Stadium\, al-Baṣra (Basra)\, Iraq
+GEO:30.439928;47.779781
+URL:https://www.fotmob.com/match/6050101
+DESCRIPTION:⚽ القوة الجوية × الغرافة\n🏆 دوري أ
+ بطال آسيا للنخبة — الجولة 5\n🗓 الاثنين 23 
+ نوفمبر 2026 · 22:15 بتوقيت الرياض\n🏟 Basra Internati
+ onal Stadium، al-Baṣra (Basra)\n—————\n⚽ Al Quwa Al Jawiya 
+ v Al-Gharafa\n🏆 AFC Champions League Elite — Matchday 5\n🗓 Mon 23 
+ Nov 2026 · 19:15 UTC\n🏟 Basra International Stadium, al-Baṣra (Basra
+ )\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القوة الجوية ضد الغرافة — 
+ دوري أبطال آسيا للنخبة | Tomorrow: Al Quwa Al Jawiya vs
+  Al-Gharafa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القوة 
+ الجوية × الغرافة | Kick-off in 30 min: Al Quwa Al Jawiya vs 
+ Al-Gharafa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050109@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261207T191500Z
+DTEND:20261207T211500Z
+SUMMARY:Al-Sadd vs Al Quwa Al Jawiya — AFC Champions League Elite
+LOCATION:Jassim Bin Hamad Stadium (Al-Sadd Stadium)\, ad-Dōha (Doha)\, Qat
+ ar
+GEO:25.267290;51.484305
+URL:https://www.fotmob.com/match/6050109
+DESCRIPTION:⚽ السد × القوة الجوية\n🏆 دوري أبطا
+ ل آسيا للنخبة — الجولة 6\n🗓 الاثنين 7 ديس
+ مبر 2026 · 22:15 بتوقيت الرياض\n🏟 Jassim Bin Hamad Stad
+ ium (Al-Sadd Stadium)، ad-Dōha (Doha)\n—————\n⚽ Al-Sadd v Al
+  Quwa Al Jawiya\n🏆 AFC Champions League Elite — Matchday 6\n🗓 Mon 
+ 07 Dec 2026 · 19:15 UTC\n🏟 Jassim Bin Hamad Stadium (Al-Sadd Stadium),
+  ad-Dōha (Doha)\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: السد ضد القوة الجوية — دور
+ ي أبطال آسيا للنخبة | Tomorrow: Al-Sadd vs Al Quwa Al Jawi
+ ya
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: السد ×
+  القوة الجوية | Kick-off in 30 min: Al-Sadd vs Al Quwa Al Jawiy
+ a
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050117@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270208T191500Z
+DTEND:20270208T211500Z
+SUMMARY:Al Quwa Al Jawiya vs Shabab Al-Ahli Dubai FC — AFC Champions Leag
+ ue Elite
+LOCATION:Basra International Stadium\, al-Baṣra (Basra)\, Iraq
+GEO:30.439928;47.779781
+URL:https://www.fotmob.com/match/6050117
+DESCRIPTION:⚽ القوة الجوية × شباب الاهلي\n🏆 دو
+ ري أبطال آسيا للنخبة — الجولة 7\n🗓 الاثن
+ ين 8 فبراير 2027 · 22:15 بتوقيت الرياض\n🏟 Basra In
+ ternational Stadium، al-Baṣra (Basra)\n—————\n⚽ Al Quwa Al 
+ Jawiya v Shabab Al-Ahli Dubai FC\n🏆 AFC Champions League Elite — Matc
+ hday 7\n🗓 Mon 08 Feb 2027 · 19:15 UTC\n🏟 Basra International Stadiu
+ m, al-Baṣra (Basra)\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القوة الجوية ضد شباب الاهل
+ ي — دوري أبطال آسيا للنخبة | Tomorrow: Al Quwa Al Ja
+ wiya vs Shabab Al-Ahli Dubai FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القوة 
+ الجوية × شباب الاهلي | Kick-off in 30 min: Al Quwa Al Jaw
+ iya vs Shabab Al-Ahli Dubai FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050127@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270215T191500Z
+DTEND:20270215T211500Z
+SUMMARY:Al-Shamal vs Al Quwa Al Jawiya — AFC Champions League Elite
+LOCATION:Al Bayt Stadium\, Al Khor\, Qatar
+GEO:25.652198;51.487934
+URL:https://www.fotmob.com/match/6050127
+DESCRIPTION:⚽ الشمال × القوة الجوية\n🏆 دوري أب
+ طال آسيا للنخبة — الجولة 8\n🗓 الاثنين 15 ف
+ براير 2027 · 22:15 بتوقيت الرياض\n🏟 Al Bayt Stadium،
+  Al Khor\n—————\n⚽ Al-Shamal v Al Quwa Al Jawiya\n🏆 AFC Cha
+ mpions League Elite — Matchday 8\n🗓 Mon 15 Feb 2027 · 19:15 UTC\n
+ 🏟 Al Bayt Stadium, Al Khor\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشمال ضد القوة الجوية — د
+ وري أبطال آسيا للنخبة | Tomorrow: Al-Shamal vs Al Quwa A
+ l Jawiya
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشما
+ ل × القوة الجوية | Kick-off in 30 min: Al-Shamal vs Al Quwa A
+ l Jawiya
+END:VALARM
+END:VEVENT
+END:VCALENDAR

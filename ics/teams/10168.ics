@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Catanzaro — Coppa Italia Fixtures | كاتانزارو 
+ — مباريات كأس إيطاليا
+X-WR-CALDESC:Catanzaro — all matches in Coppa Italia\, exact UTC kickoffs
+ \, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:3
+ 1:10Z.  •  كاتانزارو — جميع المباريات في كأ
+ س إيطاليا بتوقيت UTC الدقيق مع الملاعب وال
+ قنوات الناقلة. المصدر: FotMob + 365scores · تحديث 
+ تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5852775@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260815T160000Z
+DTEND:20260815T180000Z
+SUMMARY:Catanzaro vs Südtirol (2 - 2) — Coppa Italia
+LOCATION:Stadio Nicola Ceravolo\, Catanzaro\, Italy
+GEO:38.919730;16.587805
+URL:https://www.fotmob.com/match/5852775
+DESCRIPTION:⚽ كاتانزارو × سودتيرول (2 - 2)\n🏆 كأس
+  إيطاليا — دور الـ32\n🗓 السبت 15 أغسطس 2026 ·
+  19:00 بتوقيت الرياض\n🏟 Stadio Nicola Ceravolo، Catanzaro\
+ n⚖️ الحكم: Claudio Giuseppe Allegretta\n👥 الحضور: 3,302\
+ n—————\n⚽ Catanzaro v Südtirol (2 - 2)\n🏆 Coppa Italia —
+  Round of 32\n🗓 Sat 15 Aug 2026 · 16:00 UTC\n🏟 Stadio Nicola Ceravo
+ lo, Catanzaro\nReferee: Claudio Giuseppe Allegretta\nAttendance: 3,302\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كاتانزارو ضد سودتيرول — كأ
+ س إيطاليا | Tomorrow: Catanzaro vs Südtirol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاتان
+ زارو × سودتيرول | Kick-off in 30 min: Catanzaro vs Südtirol
+END:VALARM
+END:VEVENT
+END:VCALENDAR

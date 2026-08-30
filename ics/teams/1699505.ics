@@ -1,0 +1,1152 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Neom SC — Saudi Pro League & King's Cup Fixtures | ني
+ وم — مباريات دوري روشن السعودي وكأس خادم
+  الحرمين الشريفين
+X-WR-CALDESC:Neom SC — all matches in Saudi Pro League & King's Cup\, exa
+ ct UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 
+ 2026-09-05T19:31:10Z.  •  نيوم — جميع المباريات في 
+ دوري روشن السعودي وكأس خادم الحرمين الشر
+ يفين بتوقيت UTC الدقيق مع الملاعب والقنوا
+ ت الناقلة. المصدر: FotMob + 365scores · تحديث تلقا
+ ئي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5969049@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260814T165000Z
+DTEND:20260814T185000Z
+SUMMARY:Neom SC vs Al-Fayha (2 - 1) — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/5969049
+DESCRIPTION:⚽ نيوم × الفيحاء (2 - 1)\n🏆 دوري روشن 
+ السعودي — الجولة 1\n🗓 الجمعة 14 أغسطس 2026 ·
+  19:50 بتوقيت الرياض\n🏟 King Khalid Sport City Stadium، Ta
+ buk\n⚖️ الحكم: Ali Mohammed Sawia Al Qahtani\n👥 الحضور: 
+ 1,450\n—————\n⚽ Neom SC v Al-Fayha (2 - 1)\n🏆 Saudi Pro Lea
+ gue — Matchday 1\n🗓 Fri 14 Aug 2026 · 16:50 UTC\n🏟 King Khalid Sp
+ ort City Stadium, Tabuk\nReferee: Ali Mohammed Sawia Al Qahtani\nAttendanc
+ e: 1,450\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الفيحاء — دوري روش
+ ن السعودي | Tomorrow: Neom SC vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الفيحاء | Kick-off in 30 min: Neom SC vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970093@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260821T180000Z
+DTEND:20260821T200000Z
+SUMMARY:Al-Faisaly vs Neom SC (0 - 2) — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/5970093
+DESCRIPTION:⚽ الفيصلي × نيوم (0 - 2)\n🏆 دوري روشن 
+ السعودي — الجولة 2\n🗓 الجمعة 21 أغسطس 2026 ·
+  21:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، A
+ l Majma'ah\n⚖️ الحكم: Shukri Al-Hunfush\n👥 الحضور: 637\n
+ —————\n⚽ Al-Faisaly v Neom SC (0 - 2)\n🏆 Saudi Pro League 
+ — Matchday 2\n🗓 Fri 21 Aug 2026 · 18:00 UTC\n🏟 Al Majma'ah Sports
+  City Stadium, Al Majma'ah\nReferee: Shukri Al-Hunfush\nAttendance: 637\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد نيوم — دوري روش
+ ن السعودي | Tomorrow: Al-Faisaly vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × نيوم | Kick-off in 30 min: Al-Faisaly vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970099@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260824T164000Z
+DTEND:20260824T184000Z
+SUMMARY:Neom SC vs Al Qadsiah (0 - 2) — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/5970099
+DESCRIPTION:⚽ نيوم × القادسية (0 - 2)\n🏆 دوري روش
+ ن السعودي — الجولة 3\n🗓 الاثنين 24 أغسطس 20
+ 26 · 19:40 بتوقيت الرياض\n🏟 King Khalid Sport City Stadium
+ ، Tabuk\n⚖️ الحكم: Faisal Al-Balawi\n👥 الحضور: 3,699\n
+ —————\n⚽ Neom SC v Al Qadsiah (0 - 2)\n🏆 Saudi Pro League 
+ — Matchday 3\n🗓 Mon 24 Aug 2026 · 16:40 UTC\n🏟 King Khalid Sport 
+ City Stadium, Tabuk\nReferee: Faisal Al-Balawi\nAttendance: 3,699\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد القادسية — دوري رو
+ شن السعودي | Tomorrow: Neom SC vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  القادسية | Kick-off in 30 min: Neom SC vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970107@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260828T155000Z
+DTEND:20260828T175000Z
+SUMMARY:Al Riyadh vs Neom SC (1 - 0) — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/5970107
+DESCRIPTION:⚽ الرياض × نيوم (1 - 0)\n🏆 دوري روشن ا
+ لسعودي — الجولة 4\n🗓 الجمعة 28 أغسطس 2026 · 1
+ 8:50 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، Riya
+ dh\n⚖️ الحكم: Mohammed Abu Shaqarah\n👥 الحضور: 732\n—
+ ————\n⚽ Al Riyadh v Neom SC (1 - 0)\n🏆 Saudi Pro League — M
+ atchday 4\n🗓 Fri 28 Aug 2026 · 15:50 UTC\n🏟 Prince Faisal bin Fahd 
+ Stadium, Riyadh\nReferee: Mohammed Abu Shaqarah\nAttendance: 732\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد نيوم — دوري روشن 
+ السعودي | Tomorrow: Al Riyadh vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × نيوم | Kick-off in 30 min: Al Riyadh vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970118@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260903T163000Z
+DTEND:20260903T183000Z
+SUMMARY:Neom SC vs Al Khaleej (3 - 0) — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/5970118
+DESCRIPTION:⚽ نيوم × الخليج (3 - 0)\n🏆 دوري روشن ا
+ لسعودي — الجولة 5\n🗓 الخميس 3 سبتمبر 2026 · 
+ 19:30 بتوقيت الرياض\n🏟 King Khalid Sport City Stadium، Tab
+ uk\n⚖️ الحكم: Sultan Al-Harbi\n—————\n⚽ Neom SC v Al 
+ Khaleej (3 - 0)\n🏆 Saudi Pro League — Matchday 5\n🗓 Thu 03 Sep 202
+ 6 · 16:30 UTC\n🏟 King Khalid Sport City Stadium, Tabuk\nReferee: Sulta
+ n Al-Harbi\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الخليج — دوري روشن 
+ السعودي | Tomorrow: Neom SC vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الخليج | Kick-off in 30 min: Neom SC vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970127@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260907T180000Z
+DTEND:20260907T200000Z
+SUMMARY:Al Hilal vs Neom SC — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/5970127
+DESCRIPTION:⚽ الهلال × نيوم\n🏆 دوري روشن السعو
+ دي — الجولة 6\n🗓 الاثنين 7 سبتمبر 2026 · 21:00 
+ بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n📺 ثمانية 
+ 1، تطبيق ثمانية\n—————\n⚽ Al Hilal v Neom SC\n🏆
+  Saudi Pro League — Matchday 6\n🗓 Mon 07 Sep 2026 · 18:00 UTC\n🏟 
+ Kingdom Arena, Riyadh\n📺 Thmanyah 1, Thmanyah\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد نيوم — دوري روشن 
+ السعودي — 📺 ثمانية 1، تطبيق ثمانية | Tomorro
+ w: Al Hilal vs Neom SC | TV: Thmanyah 1\, Thmanyah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × نيوم — 📺 ثمانية 1، تطبيق ثمانية | Kick-of
+ f in 30 min: Al Hilal vs Neom SC | TV: Thmanyah 1\, Thmanyah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970143@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260913T162000Z
+DTEND:20260913T182000Z
+SUMMARY:Neom SC vs Al Fateh FC — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium
+URL:https://www.fotmob.com/match/5970143
+DESCRIPTION:⚽ نيوم × الفتح\n🏆 دوري روشن السعود
+ ي — الجولة 7\n🗓 الأحد 13 سبتمبر 2026 · 19:20 بت
+ وقيت الرياض\n🏟 King Khalid Sport City Stadium\n————
+ —\n⚽ Neom SC v Al Fateh FC\n🏆 Saudi Pro League — Matchday 7\n🗓
+  Sun 13 Sep 2026 · 16:20 UTC\n🏟 King Khalid Sport City Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الفتح — دوري روشن ا
+ لسعودي | Tomorrow: Neom SC vs Al Fateh FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الفتح | Kick-off in 30 min: Neom SC vs Al Fateh FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970148@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T135000Z
+DTEND:20261010T155000Z
+SUMMARY:Al Hazem vs Neom SC — Saudi Pro League
+LOCATION:Al Hazem Club Stadium
+URL:https://www.fotmob.com/match/5970148
+DESCRIPTION:⚽ الحزم × نيوم\n🏆 دوري روشن السعود
+ ي — الجولة 8\n🗓 السبت 10 أكتوبر 2026 · 16:50 بت
+ وقيت الرياض\n🏟 Al Hazem Club Stadium\n—————\n⚽ Al
+  Hazem v Neom SC\n🏆 Saudi Pro League — Matchday 8\n🗓 Sat 10 Oct 20
+ 26 · 13:50 UTC\n🏟 Al Hazem Club Stadium\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد نيوم — دوري روشن ا
+ لسعودي | Tomorrow: Al Hazem vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × نيوم | Kick-off in 30 min: Al Hazem vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970161@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T154000Z
+DTEND:20261017T174000Z
+SUMMARY:Neom SC vs Al-Ettifaq — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium
+URL:https://www.fotmob.com/match/5970161
+DESCRIPTION:⚽ نيوم × الاتفاق\n🏆 دوري روشن السع
+ ودي — الجولة 9\n🗓 السبت 17 أكتوبر 2026 · 18:40 
+ بتوقيت الرياض\n🏟 King Khalid Sport City Stadium\n———
+ ——\n⚽ Neom SC v Al-Ettifaq\n🏆 Saudi Pro League — Matchday 9\n
+ 🗓 Sat 17 Oct 2026 · 15:40 UTC\n🏟 King Khalid Sport City Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الاتفاق — دوري روش
+ ن السعودي | Tomorrow: Neom SC vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الاتفاق | Kick-off in 30 min: Neom SC vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970168@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T180000Z
+DTEND:20261020T200000Z
+SUMMARY:Al Nassr FC vs Neom SC — Saudi Pro League
+LOCATION:Al-Awwal Park
+URL:https://www.fotmob.com/match/5970168
+DESCRIPTION:⚽ النصر × نيوم\n🏆 دوري روشن السعود
+ ي — الجولة 10\n🗓 الثلاثاء 20 أكتوبر 2026 · 21:0
+ 0 بتوقيت الرياض\n🏟 Al-Awwal Park\n—————\n⚽ Al N
+ assr FC v Neom SC\n🏆 Saudi Pro League — Matchday 10\n🗓 Tue 20 Oct 
+ 2026 · 18:00 UTC\n🏟 Al-Awwal Park\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد نيوم — دوري روشن ا
+ لسعودي | Tomorrow: Al Nassr FC vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × نيوم | Kick-off in 30 min: Al Nassr FC vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970181@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Neom SC vs Abha — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium
+URL:https://www.fotmob.com/match/5970181
+DESCRIPTION:⚽ نيوم × أبها\n🏆 دوري روشن السعودي
+  — الجولة 11\n🗓 السبت 24 أكتوبر 2026 · 17:00 بتو
+ قيت الرياض\n🏟 King Khalid Sport City Stadium\n—————\
+ n⚽ Neom SC v Abha\n🏆 Saudi Pro League — Matchday 11\n🗓 Sat 24 Oc
+ t 2026 · 14:00 UTC\n🏟 King Khalid Sport City Stadium\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد أبها — دوري روشن ال
+ سعودي | Tomorrow: Neom SC vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  أبها | Kick-off in 30 min: Neom SC vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970184@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261030T145000Z
+DTEND:20261030T165000Z
+SUMMARY:Al Diriyah vs Neom SC — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/5970184
+DESCRIPTION:⚽ الدرعية × نيوم\n🏆 دوري روشن السع
+ ودي — الجولة 12\n🗓 الجمعة 30 أكتوبر 2026 · 17:5
+ 0 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n—————\
+ n⚽ Al Diriyah v Neom SC\n🏆 Saudi Pro League — Matchday 12\n🗓 Fri
+  30 Oct 2026 · 14:50 UTC\n🏟 Al-Awwal Park, Riyadh\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الدرعية ضد نيوم — دوري روش
+ ن السعودي | Tomorrow: Al Diriyah vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الدرع
+ ية × نيوم | Kick-off in 30 min: Al Diriyah vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021473@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:Al Ittihad vs Neom SC — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021473
+DESCRIPTION:⚽ الاتحاد × نيوم\n🏆 دوري روشن السع
+ ودي — الجولة 13\n🗓 الخميس 5 نوفمبر 2026 · 03:00
+  بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah Spor
+ t City، Jeddah\n—————\n⚽ Al Ittihad v Neom SC\n🏆 Saudi Pro
+  League — Matchday 13\n🗓 Thu 05 Nov 2026 · 00:00 UTC\n🏟 Alinma Ba
+ nk Stadium at King Abdullah Sport City, Jeddah\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد نيوم — دوري روش
+ ن السعودي | Tomorrow: Al Ittihad vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × نيوم | Kick-off in 30 min: Al Ittihad vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021485@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Neom SC vs Al Kholood — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/1000021485
+DESCRIPTION:⚽ نيوم × الخلود\n🏆 دوري روشن السعو
+ دي — الجولة 14\n🗓 الجمعة 20 نوفمبر 2026 · 03:00 
+ بتوقيت الرياض\n🏟 King Khalid Sport City Stadium، Tabuk\n
+ —————\n⚽ Neom SC v Al Kholood\n🏆 Saudi Pro League — Match
+ day 14\n🗓 Fri 20 Nov 2026 · 00:00 UTC\n🏟 King Khalid Sport City Sta
+ dium, Tabuk\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الخلود — دوري روشن 
+ السعودي | Tomorrow: Neom SC vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الخلود | Kick-off in 30 min: Neom SC vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021494@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Neom SC vs Al-Taawoun — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/1000021494
+DESCRIPTION:⚽ نيوم × التعاون\n🏆 دوري روشن السع
+ ودي — الجولة 15\n🗓 الخميس 26 نوفمبر 2026 · 03:0
+ 0 بتوقيت الرياض\n🏟 King Khalid Sport City Stadium، Tabuk\n
+ —————\n⚽ Neom SC v Al-Taawoun\n🏆 Saudi Pro League — Match
+ day 15\n🗓 Thu 26 Nov 2026 · 00:00 UTC\n🏟 King Khalid Sport City Sta
+ dium, Tabuk\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد التعاون — دوري روش
+ ن السعودي | Tomorrow: Neom SC vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  التعاون | Kick-off in 30 min: Neom SC vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021502@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Al Shabab vs Neom SC — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/1000021502
+DESCRIPTION:⚽ الشباب × نيوم\n🏆 دوري روشن السعو
+ دي — الجولة 16\n🗓 الخميس 3 ديسمبر 2026 · 03:00 
+ بتوقيت الرياض\n🏟 SHG Arena، Riyadh\n—————\n⚽ A
+ l Shabab v Neom SC\n🏆 Saudi Pro League — Matchday 16\n🗓 Thu 03 Dec
+  2026 · 00:00 UTC\n🏟 SHG Arena, Riyadh\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد نيوم — دوري روشن 
+ السعودي | Tomorrow: Al Shabab vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × نيوم | Kick-off in 30 min: Al Shabab vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021512@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Neom SC vs Al Ahli — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/1000021512
+DESCRIPTION:⚽ نيوم × الأهلي\n🏆 دوري روشن السعو
+ دي — الجولة 17\n🗓 الخميس 10 ديسمبر 2026 · 03:00 
+ بتوقيت الرياض\n🏟 King Khalid Sport City Stadium، Tabuk\n
+ —————\n⚽ Neom SC v Al Ahli\n🏆 Saudi Pro League — Matchday
+  17\n🗓 Thu 10 Dec 2026 · 00:00 UTC\n🏟 King Khalid Sport City Stadiu
+ m, Tabuk\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الأهلي — دوري روشن 
+ السعودي | Tomorrow: Neom SC vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الأهلي | Kick-off in 30 min: Neom SC vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021515@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261214T000000Z
+DTEND:20261214T020000Z
+SUMMARY:Al-Fayha vs Neom SC — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021515
+DESCRIPTION:⚽ الفيحاء × نيوم\n🏆 دوري روشن السع
+ ودي — الجولة 18\n🗓 الاثنين 14 ديسمبر 2026 · 03
+ :00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al M
+ ajma'ah\n—————\n⚽ Al-Fayha v Neom SC\n🏆 Saudi Pro League 
+ — Matchday 18\n🗓 Mon 14 Dec 2026 · 00:00 UTC\n🏟 Al Majma'ah Sport
+ s City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد نيوم — دوري روش
+ ن السعودي | Tomorrow: Al-Fayha vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × نيوم | Kick-off in 30 min: Al-Fayha vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021530@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270211T000000Z
+DTEND:20270211T020000Z
+SUMMARY:Neom SC vs Al-Faisaly — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/1000021530
+DESCRIPTION:⚽ نيوم × الفيصلي\n🏆 دوري روشن السع
+ ودي — الجولة 19\n🗓 الخميس 11 فبراير 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 King Khalid Sport City Stadium، Tabuk\n
+ —————\n⚽ Neom SC v Al-Faisaly\n🏆 Saudi Pro League — Match
+ day 19\n🗓 Thu 11 Feb 2027 · 00:00 UTC\n🏟 King Khalid Sport City Sta
+ dium, Tabuk\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الفيصلي — دوري روش
+ ن السعودي | Tomorrow: Neom SC vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الفيصلي | Kick-off in 30 min: Neom SC vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021538@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270218T000000Z
+DTEND:20270218T020000Z
+SUMMARY:Al Qadsiah vs Neom SC — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021538
+DESCRIPTION:⚽ القادسية × نيوم\n🏆 دوري روشن الس
+ عودي — الجولة 20\n🗓 الخميس 18 فبراير 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Dam
+ mam\n—————\n⚽ Al Qadsiah v Neom SC\n🏆 Saudi Pro League — 
+ Matchday 20\n🗓 Thu 18 Feb 2027 · 00:00 UTC\n🏟 Prince Mohammed Bin F
+ ahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد نيوم — دوري رو
+ شن السعودي | Tomorrow: Al Qadsiah vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × نيوم | Kick-off in 30 min: Al Qadsiah vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021548@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270225T000000Z
+DTEND:20270225T020000Z
+SUMMARY:Neom SC vs Al Riyadh — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/1000021548
+DESCRIPTION:⚽ نيوم × الرياض\n🏆 دوري روشن السعو
+ دي — الجولة 21\n🗓 الخميس 25 فبراير 2027 · 03:00 
+ بتوقيت الرياض\n🏟 King Khalid Sport City Stadium، Tabuk\n
+ —————\n⚽ Neom SC v Al Riyadh\n🏆 Saudi Pro League — Matchd
+ ay 21\n🗓 Thu 25 Feb 2027 · 00:00 UTC\n🏟 King Khalid Sport City Stad
+ ium, Tabuk\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الرياض — دوري روشن 
+ السعودي | Tomorrow: Neom SC vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الرياض | Kick-off in 30 min: Neom SC vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021553@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270311T000000Z
+DTEND:20270311T020000Z
+SUMMARY:Al Khaleej vs Neom SC — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021553
+DESCRIPTION:⚽ الخليج × نيوم\n🏆 دوري روشن السعو
+ دي — الجولة 22\n🗓 الخميس 11 مارس 2027 · 03:00 بت
+ وقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Dammam\n—
+ ————\n⚽ Al Khaleej v Neom SC\n🏆 Saudi Pro League — Matchday
+  22\n🗓 Thu 11 Mar 2027 · 00:00 UTC\n🏟 Prince Mohammed Bin Fahd Stad
+ ium, Dammam\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد نيوم — دوري روشن 
+ السعودي | Tomorrow: Al Khaleej vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × نيوم | Kick-off in 30 min: Al Khaleej vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021566@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270318T000000Z
+DTEND:20270318T020000Z
+SUMMARY:Neom SC vs Al Hilal — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/1000021566
+DESCRIPTION:⚽ نيوم × الهلال\n🏆 دوري روشن السعو
+ دي — الجولة 23\n🗓 الخميس 18 مارس 2027 · 03:00 بت
+ وقيت الرياض\n🏟 King Khalid Sport City Stadium، Tabuk\n——
+ ———\n⚽ Neom SC v Al Hilal\n🏆 Saudi Pro League — Matchday 23\n
+ 🗓 Thu 18 Mar 2027 · 00:00 UTC\n🏟 King Khalid Sport City Stadium, Ta
+ buk\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الهلال — دوري روشن 
+ السعودي | Tomorrow: Neom SC vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الهلال | Kick-off in 30 min: Neom SC vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021569@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270402T000000Z
+DTEND:20270402T020000Z
+SUMMARY:Al Fateh FC vs Neom SC — Saudi Pro League
+LOCATION:Maydan Tamweel Aloula\, Al Ahsa\, Saudi Arabia
+GEO:25.429604;49.581390
+URL:https://www.fotmob.com/match/1000021569
+DESCRIPTION:⚽ الفتح × نيوم\n🏆 دوري روشن السعود
+ ي — الجولة 24\n🗓 الجمعة 2 أبريل 2027 · 03:00 بت
+ وقيت الرياض\n🏟 Maydan Tamweel Aloula، Al Ahsa\n————
+ —\n⚽ Al Fateh FC v Neom SC\n🏆 Saudi Pro League — Matchday 24\n
+ 🗓 Fri 02 Apr 2027 · 00:00 UTC\n🏟 Maydan Tamweel Aloula, Al Ahsa\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفتح ضد نيوم — دوري روشن ا
+ لسعودي | Tomorrow: Al Fateh FC vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفتح 
+ × نيوم | Kick-off in 30 min: Al Fateh FC vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021584@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270408T000000Z
+DTEND:20270408T020000Z
+SUMMARY:Neom SC vs Al Hazem — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/1000021584
+DESCRIPTION:⚽ نيوم × الحزم\n🏆 دوري روشن السعود
+ ي — الجولة 25\n🗓 الخميس 8 أبريل 2027 · 03:00 بت
+ وقيت الرياض\n🏟 King Khalid Sport City Stadium، Tabuk\n——
+ ———\n⚽ Neom SC v Al Hazem\n🏆 Saudi Pro League — Matchday 25\n
+ 🗓 Thu 08 Apr 2027 · 00:00 UTC\n🏟 King Khalid Sport City Stadium, Ta
+ buk\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الحزم — دوري روشن ا
+ لسعودي | Tomorrow: Neom SC vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الحزم | Kick-off in 30 min: Neom SC vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021586@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270415T000000Z
+DTEND:20270415T020000Z
+SUMMARY:Al-Ettifaq vs Neom SC — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/1000021586
+DESCRIPTION:⚽ الاتفاق × نيوم\n🏆 دوري روشن السع
+ ودي — الجولة 26\n🗓 الخميس 15 أبريل 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Dammam\n——
+ ———\n⚽ Al-Ettifaq v Neom SC\n🏆 Saudi Pro League — Matchday 26
+ \n🗓 Thu 15 Apr 2027 · 00:00 UTC\n🏟 Al Ettifaq Club Stadium, Dammam\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد نيوم — دوري روش
+ ن السعودي | Tomorrow: Al-Ettifaq vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × نيوم | Kick-off in 30 min: Al-Ettifaq vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021602@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T000000Z
+DTEND:20270418T020000Z
+SUMMARY:Neom SC vs Al Nassr FC — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/1000021602
+DESCRIPTION:⚽ نيوم × النصر\n🏆 دوري روشن السعود
+ ي — الجولة 27\n🗓 الأحد 18 أبريل 2027 · 03:00 بتو
+ قيت الرياض\n🏟 King Khalid Sport City Stadium، Tabuk\n——
+ ———\n⚽ Neom SC v Al Nassr FC\n🏆 Saudi Pro League — Matchday 2
+ 7\n🗓 Sun 18 Apr 2027 · 00:00 UTC\n🏟 King Khalid Sport City Stadium,
+  Tabuk\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد النصر — دوري روشن ا
+ لسعودي | Tomorrow: Neom SC vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  النصر | Kick-off in 30 min: Neom SC vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021603@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270422T000000Z
+DTEND:20270422T020000Z
+SUMMARY:Abha vs Neom SC — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/1000021603
+DESCRIPTION:⚽ أبها × نيوم\n🏆 دوري روشن السعودي
+  — الجولة 28\n🗓 الخميس 22 أبريل 2027 · 03:00 بتو
+ قيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sports City Stadium
+ ، Abha\n—————\n⚽ Abha v Neom SC\n🏆 Saudi Pro League — Ma
+ tchday 28\n🗓 Thu 22 Apr 2027 · 00:00 UTC\n🏟 Prince Sultan bin Abdul
+ aziz Sports City Stadium, Abha\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد نيوم — دوري روشن ال
+ سعودي | Tomorrow: Abha vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  نيوم | Kick-off in 30 min: Abha vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021620@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270429T000000Z
+DTEND:20270429T020000Z
+SUMMARY:Neom SC vs Al Diriyah — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/1000021620
+DESCRIPTION:⚽ نيوم × الدرعية\n🏆 دوري روشن السع
+ ودي — الجولة 29\n🗓 الخميس 29 أبريل 2027 · 03:00 
+ بتوقيت الرياض\n🏟 King Khalid Sport City Stadium، Tabuk\n
+ —————\n⚽ Neom SC v Al Diriyah\n🏆 Saudi Pro League — Match
+ day 29\n🗓 Thu 29 Apr 2027 · 00:00 UTC\n🏟 King Khalid Sport City Sta
+ dium, Tabuk\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الدرعية — دوري روش
+ ن السعودي | Tomorrow: Neom SC vs Al Diriyah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الدرعية | Kick-off in 30 min: Neom SC vs Al Diriyah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021629@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270506T000000Z
+DTEND:20270506T020000Z
+SUMMARY:Neom SC vs Al Ittihad — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/1000021629
+DESCRIPTION:⚽ نيوم × الاتحاد\n🏆 دوري روشن السع
+ ودي — الجولة 30\n🗓 الخميس 6 مايو 2027 · 03:00 ب
+ توقيت الرياض\n🏟 King Khalid Sport City Stadium، Tabuk\n—
+ ————\n⚽ Neom SC v Al Ittihad\n🏆 Saudi Pro League — Matchday
+  30\n🗓 Thu 06 May 2027 · 00:00 UTC\n🏟 King Khalid Sport City Stadiu
+ m, Tabuk\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الاتحاد — دوري روش
+ ن السعودي | Tomorrow: Neom SC vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الاتحاد | Kick-off in 30 min: Neom SC vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021635@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270512T000000Z
+DTEND:20270512T020000Z
+SUMMARY:Al Kholood vs Neom SC — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021635
+DESCRIPTION:⚽ الخلود × نيوم\n🏆 دوري روشن السعو
+ دي — الجولة 31\n🗓 الأربعاء 12 مايو 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، A
+ r Rass\n—————\n⚽ Al Kholood v Neom SC\n🏆 Saudi Pro League 
+ — Matchday 31\n🗓 Wed 12 May 2027 · 00:00 UTC\n🏟 Ar-Rass Stadium (
+ Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد نيوم — دوري روشن 
+ السعودي | Tomorrow: Al Kholood vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × نيوم | Kick-off in 30 min: Al Kholood vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021647@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270520T000000Z
+DTEND:20270520T020000Z
+SUMMARY:Al-Taawoun vs Neom SC — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/1000021647
+DESCRIPTION:⚽ التعاون × نيوم\n🏆 دوري روشن السع
+ ودي — الجولة 32\n🗓 الخميس 20 مايو 2027 · 03:00 ب
+ توقيت الرياض\n🏟 Al Taawoun Club Stadium، Buraydah\n——
+ ———\n⚽ Al-Taawoun v Neom SC\n🏆 Saudi Pro League — Matchday 32
+ \n🗓 Thu 20 May 2027 · 00:00 UTC\n🏟 Al Taawoun Club Stadium, Burayda
+ h\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد نيوم — دوري روش
+ ن السعودي | Tomorrow: Al-Taawoun vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × نيوم | Kick-off in 30 min: Al-Taawoun vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021656@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270524T000000Z
+DTEND:20270524T020000Z
+SUMMARY:Neom SC vs Al Shabab — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/1000021656
+DESCRIPTION:⚽ نيوم × الشباب\n🏆 دوري روشن السعو
+ دي — الجولة 33\n🗓 الاثنين 24 مايو 2027 · 03:00 ب
+ توقيت الرياض\n🏟 King Khalid Sport City Stadium، Tabuk\n—
+ ————\n⚽ Neom SC v Al Shabab\n🏆 Saudi Pro League — Matchday 
+ 33\n🗓 Mon 24 May 2027 · 00:00 UTC\n🏟 King Khalid Sport City Stadium
+ , Tabuk\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الشباب — دوري روشن 
+ السعودي | Tomorrow: Neom SC vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الشباب | Kick-off in 30 min: Neom SC vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021657@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270528T000000Z
+DTEND:20270528T020000Z
+SUMMARY:Al Ahli vs Neom SC — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021657
+DESCRIPTION:⚽ الأهلي × نيوم\n🏆 دوري روشن السعو
+ دي — الجولة 34\n🗓 الجمعة 28 مايو 2027 · 03:00 بت
+ وقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah Sport Cit
+ y، Jeddah\n—————\n⚽ Al Ahli v Neom SC\n🏆 Saudi Pro League 
+ — Matchday 34\n🗓 Fri 28 May 2027 · 00:00 UTC\n🏟 Alinma Bank Stadi
+ um at King Abdullah Sport City, Jeddah\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد نيوم — دوري روشن 
+ السعودي | Tomorrow: Al Ahli vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × نيوم | Kick-off in 30 min: Al Ahli vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853718@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260818T180000Z
+DTEND:20260818T200000Z
+SUMMARY:Al-Faisaly vs Neom SC (1 - 3) — King's Cup
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/5853718
+DESCRIPTION:⚽ الفيصلي × نيوم (1 - 3)\n🏆 كأس خادم ا
+ لحرمين الشريفين — دور الـ32\n🗓 الثلاثاء 1
+ 8 أغسطس 2026 · 21:00 بتوقيت الرياض\n🏟 Al Majma'ah Spo
+ rts City Stadium، Al Majma'ah\n⚖️ الحكم: Mohammed Abu Shaqarah\n
+ —————\n⚽ Al-Faisaly v Neom SC (1 - 3)\n🏆 King's Cup — Rou
+ nd of 32\n🗓 Tue 18 Aug 2026 · 18:00 UTC\n🏟 Al Majma'ah Sports City 
+ Stadium, Al Majma'ah\nReferee: Mohammed Abu Shaqarah\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد نيوم — كأس خادم 
+ الحرمين الشريفين | Tomorrow: Al-Faisaly vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × نيوم | Kick-off in 30 min: Al-Faisaly vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6125931@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Al Qadsiah vs Neom SC — King's Cup
+URL:https://www.fotmob.com/match/6125931
+DESCRIPTION:⚽ القادسية × نيوم\n🏆 كأس خادم الحر
+ مين الشريفين — دور الـ16\n🗓 الثلاثاء 1 دي
+ سمبر 2026 · 20:00 بتوقيت الرياض\n—————\n⚽ Al 
+ Qadsiah v Neom SC\n🏆 King's Cup — Round of 16\n🗓 Tue 01 Dec 2026 
+ · 17:00 UTC\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد نيوم — كأس خاد
+ م الحرمين الشريفين | Tomorrow: Al Qadsiah vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × نيوم | Kick-off in 30 min: Al Qadsiah vs Neom SC
+END:VALARM
+END:VEVENT
+END:VCALENDAR

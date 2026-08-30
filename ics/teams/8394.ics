@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Real Zaragoza — Copa del Rey Fixtures | ريال سرق
+ سطة — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Real Zaragoza — all matches in Copa del Rey\, exact UTC kick
+ offs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T
+ 19:31:10Z.  •  ريال سرقسطة — جميع المباريات ف
+ ي كأس ملك إسبانيا بتوقيت UTC الدقيق مع الم
+ لاعب والقنوات الناقلة. المصدر: FotMob + 365scores
+  · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4996010@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251029T180000Z
+DTEND:20251029T200000Z
+SUMMARY:UD Mutilvera vs Real Zaragoza (1 - 3) — Copa del Rey
+LOCATION:Estadio Municipal Valle de Aranguren\, Mutilva Baja\, Spain
+GEO:42.790409;-1.621095
+URL:https://www.fotmob.com/match/4996010
+DESCRIPTION:⚽ موتيلفيرا × ريال سرقسطة (1 - 3)\n🏆 
+ كأس ملك إسبانيا — الدور الأول\n🗓 الأربع
+ اء 29 أكتوبر 2025 · 21:00 بتوقيت الرياض\n🏟 Estadio
+  Municipal Valle de Aranguren، Mutilva Baja\n⚖️ الحكم: Daniel Pa
+ lencia Caballero\n—————\n⚽ UD Mutilvera v Real Zaragoza (1 - 3
+ )\n🏆 Copa del Rey — Round 1\n🗓 Wed 29 Oct 2025 · 18:00 UTC\n🏟 
+ Estadio Municipal Valle de Aranguren, Mutilva Baja\nReferee: Daniel Palenc
+ ia Caballero\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موتيلفيرا ضد ريال سرقسطة —
+  كأس ملك إسبانيا | Tomorrow: UD Mutilvera vs Real Zaragoza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موتيل
+ فيرا × ريال سرقسطة | Kick-off in 30 min: UD Mutilvera vs Re
+ al Zaragoza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057237@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251204T200000Z
+DTEND:20251204T220000Z
+SUMMARY:Real Zaragoza vs Burgos CF (0 - 1) — Copa del Rey
+LOCATION:Ibercaja Estadio\, Zaragoza\, Spain
+GEO:41.684111;-0.895763
+URL:https://www.fotmob.com/match/5057237
+DESCRIPTION:⚽ ريال سرقسطة × بورغوس (0 - 1)\n🏆 كأس 
+ ملك إسبانيا — الدور الثاني\n🗓 الخميس 4 د
+ يسمبر 2025 · 23:00 بتوقيت الرياض\n🏟 Ibercaja Estadio
+ ، Zaragoza\n👥 الحضور: 7,051\n—————\n⚽ Real Zaragoza 
+ v Burgos CF (0 - 1)\n🏆 Copa del Rey — Round 2\n🗓 Thu 04 Dec 2025 
+ · 20:00 UTC\n🏟 Ibercaja Estadio, Zaragoza\nAttendance: 7,051\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سرقسطة ضد بورغوس — كأ
+ س ملك إسبانيا | Tomorrow: Real Zaragoza vs Burgos CF
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ رقسطة × بورغوس | Kick-off in 30 min: Real Zaragoza vs Burgos C
+ F
+END:VALARM
+END:VEVENT
+END:VCALENDAR

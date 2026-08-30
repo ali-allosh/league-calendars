@@ -1,0 +1,1575 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Crystal Palace — Premier League & UEFA Europa League & F
+ A Cup Fixtures | كريستال بالاس — مباريات الدوري
+  الإنجليزي الممتاز والدوري الأوروبي وكأ
+ س الاتحاد الإنجليزي
+X-WR-CALDESC:Crystal Palace — all matches in Premier League & UEFA Europa
+  League & FA Cup\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365s
+ cores · auto-updated 2026-09-05T19:31:10Z.  •  كريستال بالا
+ س — جميع المباريات في الدوري الإنجليزي ا
+ لممتاز والدوري الأوروبي وكأس الاتحاد ال
+ إنجليزي بتوقيت UTC الدقيق مع الملاعب والق
+ نوات الناقلة. المصدر: FotMob + 365scores · تحديث ت
+ لقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5795365@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T140000Z
+DTEND:20260822T160000Z
+SUMMARY:Everton vs Crystal Palace (2 - 0) — Premier League
+LOCATION:Hill Dickinson Stadium\, Liverpool\, Merseyside\, England
+GEO:53.424981;-3.002691
+URL:https://www.fotmob.com/match/5795365
+DESCRIPTION:⚽ إيفرتون × كريستال بالاس (2 - 0)\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 1\n🗓 ا
+ لسبت 22 أغسطس 2026 · 17:00 بتوقيت الرياض\n🏟 Hill 
+ Dickinson Stadium، Liverpool, Merseyside\n⚖️ الحكم: Paul Tierney
+ \n👥 الحضور: 51,820\n—————\n⚽ Everton v Crystal Palace
+  (2 - 0)\n🏆 Premier League — Matchday 1\n🗓 Sat 22 Aug 2026 · 14:0
+ 0 UTC\n🏟 Hill Dickinson Stadium, Liverpool, Merseyside\nReferee: Paul T
+ ierney\nAttendance: 51,820\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد كريستال بالاس —
+  الدوري الإنجليزي الممتاز | Tomorrow: Everton vs Cry
+ stal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × كريستال بالاس | Kick-off in 30 min: Everton vs Crystal
+  Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795429@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260828T190000Z
+DTEND:20260828T210000Z
+SUMMARY:Crystal Palace vs Manchester City (1 - 4) — Premier League
+LOCATION:Selhurst Park\, London\, England
+GEO:51.398279;-0.085503
+URL:https://www.fotmob.com/match/5795429
+DESCRIPTION:⚽ كريستال بالاس × مانشستر سيتي (1 - 4
+ )\n🏆 الدوري الإنجليزي الممتاز — الجولة 2\
+ n🗓 الجمعة 28 أغسطس 2026 · 22:00 بتوقيت الرياض\n
+ 🏟 Selhurst Park، London\n⚖️ الحكم: Andy Madley\n————
+ —\n⚽ Crystal Palace v Manchester City (1 - 4)\n🏆 Premier League —
+  Matchday 2\n🗓 Fri 28 Aug 2026 · 19:00 UTC\n🏟 Selhurst Park, London
+ \nReferee: Andy Madley\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد مانشستر س
+ يتي — الدوري الإنجليزي الممتاز | Tomorrow: Crys
+ tal Palace vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × مانشستر سيتي | Kick-off in 30 min: Crystal P
+ alace vs Manchester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795439@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T140000Z
+DTEND:20260905T160000Z
+SUMMARY:Fulham vs Crystal Palace (2 - 3) — Premier League
+LOCATION:Craven Cottage\, London\, England
+GEO:51.474898;-0.221647
+URL:https://www.fotmob.com/match/5795439
+DESCRIPTION:⚽ فولهام × كريستال بالاس (2 - 3)\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 3\n🗓 ال
+ سبت 5 سبتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Craven
+  Cottage، London\n📺 NBCSN Extra، Peacock، Stan Sport، DAZN Canada،
+  Fubo Sports CA، To be confirmed، DStv App، SuperSport Football\n⚖️
+  الحكم: Samuel Barrott\n—————\n⚽ Fulham v Crystal Palace 
+ (2 - 3)\n🏆 Premier League — Matchday 3\n🗓 Sat 05 Sep 2026 · 14:00
+  UTC\n🏟 Craven Cottage, London\n📺 NBCSN Extra, Peacock, Stan Sport, 
+ DAZN Canada, Fubo Sports CA, To be confirmed, DStv App, SuperSport Footbal
+ l\nReferee: Samuel Barrott\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد كريستال بالاس — 
+ الدوري الإنجليزي الممتاز — 📺 NBCSN Extra، Peac
+ ock، Stan Sport، DAZN Canada، Fubo Sports CA، To be confirmed، DStv A
+ pp، SuperSport Football | Tomorrow: Fulham vs Crystal Palace | TV: NBCSN 
+ Extra\, Peacock\, Stan Sport\, DAZN Canada\, Fubo Sports CA\, To be confir
+ med\, DStv App\, SuperSport Football
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × كريستال بالاس — 📺 NBCSN Extra، Peacock، Stan Spor
+ t، DAZN Canada، Fubo Sports CA، To be confirmed، DStv App، SuperSport
+  Football | Kick-off in 30 min: Fulham vs Crystal Palace | TV: NBCSN Extra
+ \, Peacock\, Stan Sport\, DAZN Canada\, Fubo Sports CA\, To be confirmed\,
+  DStv App\, SuperSport Football
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795449@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T140000Z
+DTEND:20260912T160000Z
+SUMMARY:Crystal Palace vs Ipswich Town — Premier League
+LOCATION:Selhurst Park\, London\, England
+GEO:51.398279;-0.085503
+URL:https://www.fotmob.com/match/5795449
+DESCRIPTION:⚽ كريستال بالاس × إبسويتش تاون\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 4\n🗓 ا
+ لسبت 12 سبتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Sel
+ hurst Park، London\n📺 NBCSN Extra، Peacock، Fubo Sports CA، StarHub
+  TV+، Astro Go\n—————\n⚽ Crystal Palace v Ipswich Town\n🏆 
+ Premier League — Matchday 4\n🗓 Sat 12 Sep 2026 · 14:00 UTC\n🏟 Sel
+ hurst Park, London\n📺 NBCSN Extra, Peacock, Fubo Sports CA, StarHub TV+
+ , Astro Go\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد إبسويتش ت
+ اون — الدوري الإنجليزي الممتاز — 📺 NBCSN E
+ xtra، Peacock، Fubo Sports CA، StarHub TV+، Astro Go | Tomorrow: Cryst
+ al Palace vs Ipswich Town | TV: NBCSN Extra\, Peacock\, Fubo Sports CA\, S
+ tarHub TV+\, Astro Go
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × إبسويتش تاون — 📺 NBCSN Extra، Peacock
+ ، Fubo Sports CA، StarHub TV+، Astro Go | Kick-off in 30 min: Crystal P
+ alace vs Ipswich Town | TV: NBCSN Extra\, Peacock\, Fubo Sports CA\, StarH
+ ub TV+\, Astro Go
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795460@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:Leeds United vs Crystal Palace — Premier League
+LOCATION:Elland Road\, Leeds\, West Yorkshire\, England
+GEO:53.777834;-1.572279
+URL:https://www.fotmob.com/match/5795460
+DESCRIPTION:⚽ ليدز يونايتد × كريستال بالاس\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 5\n🗓 ا
+ لأحد 20 سبتمبر 2026 · 16:00 بتوقيت الرياض\n🏟 Ell
+ and Road، Leeds, West Yorkshire\n—————\n⚽ Leeds United v Crys
+ tal Palace\n🏆 Premier League — Matchday 5\n🗓 Sun 20 Sep 2026 · 13
+ :00 UTC\n🏟 Elland Road, Leeds, West Yorkshire\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد كريستال با
+ لاس — الدوري الإنجليزي الممتاز | Tomorrow: Leed
+ s United vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × كريستال بالاس | Kick-off in 30 min: Leeds Unit
+ ed vs Crystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795469@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Crystal Palace vs Nottingham Forest — Premier League
+LOCATION:Selhurst Park\, London\, England
+GEO:51.398279;-0.085503
+URL:https://www.fotmob.com/match/5795469
+DESCRIPTION:⚽ كريستال بالاس × نوتنجهام فورست\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 6\n
+ 🗓 الأحد 11 أكتوبر 2026 · 16:00 بتوقيت الرياض\n
+ 🏟 Selhurst Park، London\n—————\n⚽ Crystal Palace v Notting
+ ham Forest\n🏆 Premier League — Matchday 6\n🗓 Sun 11 Oct 2026 · 13
+ :00 UTC\n🏟 Selhurst Park, London\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد نوتنجهام 
+ فورست — الدوري الإنجليزي الممتاز | Tomorrow: 
+ Crystal Palace vs Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × نوتنجهام فورست | Kick-off in 30 min: Cryst
+ al Palace vs Nottingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795477@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Brighton & Hove Albion vs Crystal Palace — Premier League
+LOCATION:American Express Stadium\, Falmer\, East Sussex\, England
+GEO:50.861580;-0.083642
+URL:https://www.fotmob.com/match/5795477
+DESCRIPTION:⚽ برايتون × كريستال بالاس\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 7\n🗓 الأحد
+  18 أكتوبر 2026 · 16:00 بتوقيت الرياض\n🏟 American Ex
+ press Stadium، Falmer, East Sussex\n—————\n⚽ Brighton & Hove 
+ Albion v Crystal Palace\n🏆 Premier League — Matchday 7\n🗓 Sun 18 O
+ ct 2026 · 13:00 UTC\n🏟 American Express Stadium, Falmer, East Sussex\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برايتون ضد كريستال بالاس —
+  الدوري الإنجليزي الممتاز | Tomorrow: Brighton & Hov
+ e Albion vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برايت
+ ون × كريستال بالاس | Kick-off in 30 min: Brighton & Hove Al
+ bion vs Crystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795489@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Crystal Palace vs Newcastle United — Premier League
+LOCATION:Selhurst Park\, London\, England
+GEO:51.398279;-0.085503
+URL:https://www.fotmob.com/match/5795489
+DESCRIPTION:⚽ كريستال بالاس × نيوكاسل يونايتد\
+ n🏆 الدوري الإنجليزي الممتاز — الجولة 8\n
+ 🗓 الأحد 25 أكتوبر 2026 · 17:00 بتوقيت الرياض\n
+ 🏟 Selhurst Park، London\n—————\n⚽ Crystal Palace v Newcast
+ le United\n🏆 Premier League — Matchday 8\n🗓 Sun 25 Oct 2026 · 14:
+ 00 UTC\n🏟 Selhurst Park, London\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد نيوكاسل ي
+ ونايتد — الدوري الإنجليزي الممتاز | Tomorrow
+ : Crystal Palace vs Newcastle United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × نيوكاسل يونايتد | Kick-off in 30 min: Cry
+ stal Palace vs Newcastle United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795504@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T173000Z
+DTEND:20261031T193000Z
+SUMMARY:Tottenham Hotspur vs Crystal Palace — Premier League
+LOCATION:Tottenham Hotspur Stadium
+URL:https://www.fotmob.com/match/5795504
+DESCRIPTION:⚽ توتنهام هوتسبر × كريستال بالاس\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 9\n
+ 🗓 السبت 31 أكتوبر 2026 · 20:30 بتوقيت الرياض\n
+ 🏟 Tottenham Hotspur Stadium\n—————\n⚽ Tottenham Hotspur v C
+ rystal Palace\n🏆 Premier League — Matchday 9\n🗓 Sat 31 Oct 2026 ·
+  17:30 UTC\n🏟 Tottenham Hotspur Stadium\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توتنهام هوتسبر ضد كريستال 
+ بالاس — الدوري الإنجليزي الممتاز | Tomorrow: 
+ Tottenham Hotspur vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توتنه
+ ام هوتسبر × كريستال بالاس | Kick-off in 30 min: Totte
+ nham Hotspur vs Crystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795507@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Crystal Palace vs Liverpool — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795507
+DESCRIPTION:⚽ كريستال بالاس × ليفربول\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 10\n🗓 السب
+ ت 7 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Selhurst P
+ ark\n—————\n⚽ Crystal Palace v Liverpool\n🏆 Premier League 
+ — Matchday 10\n🗓 Sat 07 Nov 2026 · 15:00 UTC\n🏟 Selhurst Park\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد ليفربول —
+  الدوري الإنجليزي الممتاز | Tomorrow: Crystal Palace
+  vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × ليفربول | Kick-off in 30 min: Crystal Palace vs 
+ Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795519@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:Coventry City vs Crystal Palace — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795519
+DESCRIPTION:⚽ كوفنتري سيتي × كريستال بالاس\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 11\n🗓 
+ السبت 21 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 C
+ oventry Building Society Arena\n—————\n⚽ Coventry City v Cryst
+ al Palace\n🏆 Premier League — Matchday 11\n🗓 Sat 21 Nov 2026 · 15
+ :00 UTC\n🏟 Coventry Building Society Arena\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد كريستال با
+ لاس — الدوري الإنجليزي الممتاز | Tomorrow: Cove
+ ntry City vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × كريستال بالاس | Kick-off in 30 min: Coventry 
+ City vs Crystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795527@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:Crystal Palace vs Hull City — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795527
+DESCRIPTION:⚽ كريستال بالاس × هال سيتي\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 12\n🗓 السب
+ ت 28 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Selhurst 
+ Park\n—————\n⚽ Crystal Palace v Hull City\n🏆 Premier League
+  — Matchday 12\n🗓 Sat 28 Nov 2026 · 15:00 UTC\n🏟 Selhurst Park\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد هال سيتي 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Crystal Pal
+ ace vs Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × هال سيتي | Kick-off in 30 min: Crystal Palace vs
+  Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795538@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Chelsea vs Crystal Palace — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795538
+DESCRIPTION:⚽ تشيلسي × كريستال بالاس\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 13\n🗓 الأرب
+ عاء 2 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Stamfo
+ rd Bridge\n—————\n⚽ Chelsea v Crystal Palace\n🏆 Premier Lea
+ gue — Matchday 13\n🗓 Wed 02 Dec 2026 · 20:00 UTC\n🏟 Stamford Brid
+ ge\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد كريستال بالاس — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Chelsea vs Crys
+ tal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × كريستال بالاس | Kick-off in 30 min: Chelsea vs Crystal P
+ alace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795546@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Aston Villa vs Crystal Palace — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795546
+DESCRIPTION:⚽ أستون فيلا × كريستال بالاس\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 14\n🗓 ال
+ سبت 5 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Villa 
+ Park\n—————\n⚽ Aston Villa v Crystal Palace\n🏆 Premier Leag
+ ue — Matchday 14\n🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 Villa Park\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد كريستال بالا
+ س — الدوري الإنجليزي الممتاز | Tomorrow: Aston Vi
+ lla vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × كريستال بالاس | Kick-off in 30 min: Aston Villa vs
+  Crystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795558@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Crystal Palace vs Manchester United — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795558
+DESCRIPTION:⚽ كريستال بالاس × مانشستر يونايتد\
+ n🏆 الدوري الإنجليزي الممتاز — الجولة 15\n
+ 🗓 السبت 12 ديسمبر 2026 · 18:00 بتوقيت الرياض\n
+ 🏟 Selhurst Park\n—————\n⚽ Crystal Palace v Manchester Unite
+ d\n🏆 Premier League — Matchday 15\n🗓 Sat 12 Dec 2026 · 15:00 UTC\
+ n🏟 Selhurst Park\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد مانشستر ي
+ ونايتد — الدوري الإنجليزي الممتاز | Tomorrow
+ : Crystal Palace vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × مانشستر يونايتد | Kick-off in 30 min: Cry
+ stal Palace vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795574@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:Sunderland vs Crystal Palace — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795574
+DESCRIPTION:⚽ سندرلاند × كريستال بالاس\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 16\n🗓 الس
+ بت 19 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Stadium
+  of Light\n—————\n⚽ Sunderland v Crystal Palace\n🏆 Premier 
+ League — Matchday 16\n🗓 Sat 19 Dec 2026 · 15:00 UTC\n🏟 Stadium of
+  Light\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد كريستال بالاس 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Sunderland 
+ vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × كريستال بالاس | Kick-off in 30 min: Sunderland vs Cr
+ ystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795577@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261226T150000Z
+DTEND:20261226T170000Z
+SUMMARY:Crystal Palace vs Arsenal — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795577
+DESCRIPTION:⚽ كريستال بالاس × أرسنال\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 17\n🗓 السبت 
+ 26 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Selhurst Par
+ k\n—————\n⚽ Crystal Palace v Arsenal\n🏆 Premier League — 
+ Matchday 17\n🗓 Sat 26 Dec 2026 · 15:00 UTC\n🏟 Selhurst Park\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد أرسنال — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Crystal Palace 
+ vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × أرسنال | Kick-off in 30 min: Crystal Palace vs Ar
+ senal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795587@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261230T200000Z
+DTEND:20261230T220000Z
+SUMMARY:Crystal Palace vs AFC Bournemouth — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795587
+DESCRIPTION:⚽ كريستال بالاس × بورنموث\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 18\n🗓 الأر
+ بعاء 30 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Sel
+ hurst Park\n—————\n⚽ Crystal Palace v AFC Bournemouth\n🏆 Pr
+ emier League — Matchday 18\n🗓 Wed 30 Dec 2026 · 20:00 UTC\n🏟 Selh
+ urst Park\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد بورنموث —
+  الدوري الإنجليزي الممتاز | Tomorrow: Crystal Palace
+  vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × بورنموث | Kick-off in 30 min: Crystal Palace vs 
+ AFC Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795597@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T150000Z
+DTEND:20270102T170000Z
+SUMMARY:Brentford vs Crystal Palace — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795597
+DESCRIPTION:⚽ برينتفورد × كريستال بالاس\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 19\n🗓 ال
+ سبت 2 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Gtech Co
+ mmunity Stadium\n—————\n⚽ Brentford v Crystal Palace\n🏆 Pre
+ mier League — Matchday 19\n🗓 Sat 02 Jan 2027 · 15:00 UTC\n🏟 Gtech
+  Community Stadium\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد كريستال بالاس
+  — الدوري الإنجليزي الممتاز | Tomorrow: Brentford 
+ vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × كريستال بالاس | Kick-off in 30 min: Brentford vs C
+ rystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795607@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T200000Z
+DTEND:20270106T220000Z
+SUMMARY:Crystal Palace vs Chelsea — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795607
+DESCRIPTION:⚽ كريستال بالاس × تشيلسي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 20\n🗓 الأرب
+ عاء 6 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Selhurst
+  Park\n—————\n⚽ Crystal Palace v Chelsea\n🏆 Premier League 
+ — Matchday 20\n🗓 Wed 06 Jan 2027 · 20:00 UTC\n🏟 Selhurst Park\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد تشيلسي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Crystal Palace 
+ vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × تشيلسي | Kick-off in 30 min: Crystal Palace vs Ch
+ elsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795621@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:Liverpool vs Crystal Palace — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795621
+DESCRIPTION:⚽ ليفربول × كريستال بالاس\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 21\n🗓 السب
+ ت 16 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Anfield\n
+ —————\n⚽ Liverpool v Crystal Palace\n🏆 Premier League — M
+ atchday 21\n🗓 Sat 16 Jan 2027 · 15:00 UTC\n🏟 Anfield\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد كريستال بالاس —
+  الدوري الإنجليزي الممتاز | Tomorrow: Liverpool vs C
+ rystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × كريستال بالاس | Kick-off in 30 min: Liverpool vs Cryst
+ al Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795627@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:Crystal Palace vs Tottenham Hotspur — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795627
+DESCRIPTION:⚽ كريستال بالاس × توتنهام هوتسبر\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 22\n
+ 🗓 السبت 23 يناير 2027 · 18:00 بتوقيت الرياض\n
+ 🏟 Selhurst Park\n—————\n⚽ Crystal Palace v Tottenham Hotspu
+ r\n🏆 Premier League — Matchday 22\n🗓 Sat 23 Jan 2027 · 15:00 UTC\
+ n🏟 Selhurst Park\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد توتنهام ه
+ وتسبر — الدوري الإنجليزي الممتاز | Tomorrow: 
+ Crystal Palace vs Tottenham Hotspur
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × توتنهام هوتسبر | Kick-off in 30 min: Cryst
+ al Palace vs Tottenham Hotspur
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795640@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Hull City vs Crystal Palace — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795640
+DESCRIPTION:⚽ هال سيتي × كريستال بالاس\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 23\n🗓 السب
+ ت 30 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 The MKM Sta
+ dium\n—————\n⚽ Hull City v Crystal Palace\n🏆 Premier League
+  — Matchday 23\n🗓 Sat 30 Jan 2027 · 15:00 UTC\n🏟 The MKM Stadium\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد كريستال بالاس 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Hull City v
+ s Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × كريستال بالاس | Kick-off in 30 min: Hull City vs Cryst
+ al Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795647@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Crystal Palace vs Coventry City — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795647
+DESCRIPTION:⚽ كريستال بالاس × كوفنتري سيتي\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 24\n🗓 
+ السبت 6 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Se
+ lhurst Park\n—————\n⚽ Crystal Palace v Coventry City\n🏆 Pre
+ mier League — Matchday 24\n🗓 Sat 06 Feb 2027 · 15:00 UTC\n🏟 Selhu
+ rst Park\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد كوفنتري س
+ يتي — الدوري الإنجليزي الممتاز | Tomorrow: Crys
+ tal Palace vs Coventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × كوفنتري سيتي | Kick-off in 30 min: Crystal P
+ alace vs Coventry City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795657@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270210T200000Z
+DTEND:20270210T220000Z
+SUMMARY:Crystal Palace vs Brentford — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795657
+DESCRIPTION:⚽ كريستال بالاس × برينتفورد\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 25\n🗓 ال
+ أربعاء 10 فبراير 2027 · 23:00 بتوقيت الرياض\n🏟
+  Selhurst Park\n—————\n⚽ Crystal Palace v Brentford\n🏆 Prem
+ ier League — Matchday 25\n🗓 Wed 10 Feb 2027 · 20:00 UTC\n🏟 Selhur
+ st Park\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد برينتفورد
+  — الدوري الإنجليزي الممتاز | Tomorrow: Crystal Pa
+ lace vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × برينتفورد | Kick-off in 30 min: Crystal Palace
+  vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795665@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:AFC Bournemouth vs Crystal Palace — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795665
+DESCRIPTION:⚽ بورنموث × كريستال بالاس\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 26\n🗓 السب
+ ت 20 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Vitality 
+ Stadium\n—————\n⚽ AFC Bournemouth v Crystal Palace\n🏆 Premi
+ er League — Matchday 26\n🗓 Sat 20 Feb 2027 · 15:00 UTC\n🏟 Vitalit
+ y Stadium\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد كريستال بالاس —
+  الدوري الإنجليزي الممتاز | Tomorrow: AFC Bournemout
+ h vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × كريستال بالاس | Kick-off in 30 min: AFC Bournemouth vs
+  Crystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795677@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T150000Z
+DTEND:20270227T170000Z
+SUMMARY:Crystal Palace vs Sunderland — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795677
+DESCRIPTION:⚽ كريستال بالاس × سندرلاند\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 27\n🗓 الس
+ بت 27 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Selhurs
+ t Park\n—————\n⚽ Crystal Palace v Sunderland\n🏆 Premier Lea
+ gue — Matchday 27\n🗓 Sat 27 Feb 2027 · 15:00 UTC\n🏟 Selhurst Park
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد سندرلاند 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Crystal Pal
+ ace vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × سندرلاند | Kick-off in 30 min: Crystal Palace v
+ s Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795686@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270303T200000Z
+DTEND:20270303T220000Z
+SUMMARY:Arsenal vs Crystal Palace — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795686
+DESCRIPTION:⚽ أرسنال × كريستال بالاس\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 28\n🗓 الأرب
+ عاء 3 مارس 2027 · 23:00 بتوقيت الرياض\n🏟 Emirates S
+ tadium\n—————\n⚽ Arsenal v Crystal Palace\n🏆 Premier League
+  — Matchday 28\n🗓 Wed 03 Mar 2027 · 20:00 UTC\n🏟 Emirates Stadium
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد كريستال بالاس — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Arsenal vs Crys
+ tal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × كريستال بالاس | Kick-off in 30 min: Arsenal vs Crystal P
+ alace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795699@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T150000Z
+DTEND:20270313T170000Z
+SUMMARY:Crystal Palace vs Fulham — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795699
+DESCRIPTION:⚽ كريستال بالاس × فولهام\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 29\n🗓 السبت 
+ 13 مارس 2027 · 18:00 بتوقيت الرياض\n🏟 Selhurst Park\n
+ —————\n⚽ Crystal Palace v Fulham\n🏆 Premier League — Matc
+ hday 29\n🗓 Sat 13 Mar 2027 · 15:00 UTC\n🏟 Selhurst Park\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد فولهام — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Crystal Palace 
+ vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × فولهام | Kick-off in 30 min: Crystal Palace vs Fu
+ lham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795711@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T150000Z
+DTEND:20270320T170000Z
+SUMMARY:Ipswich Town vs Crystal Palace — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795711
+DESCRIPTION:⚽ إبسويتش تاون × كريستال بالاس\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 30\n🗓 
+ السبت 20 مارس 2027 · 18:00 بتوقيت الرياض\n🏟 Portm
+ an Road\n—————\n⚽ Ipswich Town v Crystal Palace\n🏆 Premier 
+ League — Matchday 30\n🗓 Sat 20 Mar 2027 · 15:00 UTC\n🏟 Portman Ro
+ ad\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد كريستال با
+ لاس — الدوري الإنجليزي الممتاز | Tomorrow: Ipsw
+ ich Town vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × كريستال بالاس | Kick-off in 30 min: Ipswich T
+ own vs Crystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795719@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T140000Z
+DTEND:20270410T160000Z
+SUMMARY:Crystal Palace vs Everton — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795719
+DESCRIPTION:⚽ كريستال بالاس × إيفرتون\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 31\n🗓 السب
+ ت 10 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 Selhurst Pa
+ rk\n—————\n⚽ Crystal Palace v Everton\n🏆 Premier League —
+  Matchday 31\n🗓 Sat 10 Apr 2027 · 14:00 UTC\n🏟 Selhurst Park\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد إيفرتون —
+  الدوري الإنجليزي الممتاز | Tomorrow: Crystal Palace
+  vs Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × إيفرتون | Kick-off in 30 min: Crystal Palace vs 
+ Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795732@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T140000Z
+DTEND:20270417T160000Z
+SUMMARY:Manchester City vs Crystal Palace — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795732
+DESCRIPTION:⚽ مانشستر سيتي × كريستال بالاس\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 32\n🗓 
+ السبت 17 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 Eti
+ had Stadium\n—————\n⚽ Manchester City v Crystal Palace\n🏆 P
+ remier League — Matchday 32\n🗓 Sat 17 Apr 2027 · 14:00 UTC\n🏟 Eti
+ had Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد كريستال با
+ لاس — الدوري الإنجليزي الممتاز | Tomorrow: Manc
+ hester City vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × كريستال بالاس | Kick-off in 30 min: Mancheste
+ r City vs Crystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795741@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T140000Z
+DTEND:20270424T160000Z
+SUMMARY:Manchester United vs Crystal Palace — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795741
+DESCRIPTION:⚽ مانشستر يونايتد × كريستال بالاس\
+ n🏆 الدوري الإنجليزي الممتاز — الجولة 33\n
+ 🗓 السبت 24 أبريل 2027 · 17:00 بتوقيت الرياض\n
+ 🏟 Old Trafford\n—————\n⚽ Manchester United v Crystal Palace
+ \n🏆 Premier League — Matchday 33\n🗓 Sat 24 Apr 2027 · 14:00 UTC\n
+ 🏟 Old Trafford\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد كريستال
+  بالاس — الدوري الإنجليزي الممتاز | Tomorrow:
+  Manchester United vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × كريستال بالاس | Kick-off in 30 min: Man
+ chester United vs Crystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795748@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T140000Z
+DTEND:20270501T160000Z
+SUMMARY:Crystal Palace vs Aston Villa — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795748
+DESCRIPTION:⚽ كريستال بالاس × أستون فيلا\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 34\n🗓 ال
+ سبت 1 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Selhurst P
+ ark\n—————\n⚽ Crystal Palace v Aston Villa\n🏆 Premier Leagu
+ e — Matchday 34\n🗓 Sat 01 May 2027 · 14:00 UTC\n🏟 Selhurst Park\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد أستون فيل
+ ا — الدوري الإنجليزي الممتاز | Tomorrow: Crystal 
+ Palace vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × أستون فيلا | Kick-off in 30 min: Crystal Palac
+ e vs Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795776@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T140000Z
+DTEND:20270508T160000Z
+SUMMARY:Nottingham Forest vs Crystal Palace — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795776
+DESCRIPTION:⚽ نوتنجهام فورست × كريستال بالاس\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 35\n
+ 🗓 السبت 8 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 C
+ ity Ground, Nottingham\n—————\n⚽ Nottingham Forest v Crystal P
+ alace\n🏆 Premier League — Matchday 35\n🗓 Sat 08 May 2027 · 14:00 
+ UTC\n🏟 City Ground, Nottingham\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد كريستال 
+ بالاس — الدوري الإنجليزي الممتاز | Tomorrow: 
+ Nottingham Forest vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × كريستال بالاس | Kick-off in 30 min: Notti
+ ngham Forest vs Crystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795782@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T140000Z
+DTEND:20270515T160000Z
+SUMMARY:Crystal Palace vs Brighton & Hove Albion — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795782
+DESCRIPTION:⚽ كريستال بالاس × برايتون\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 36\n🗓 السب
+ ت 15 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Selhurst Park
+ \n—————\n⚽ Crystal Palace v Brighton & Hove Albion\n🏆 Premi
+ er League — Matchday 36\n🗓 Sat 15 May 2027 · 14:00 UTC\n🏟 Selhurs
+ t Park\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد برايتون —
+  الدوري الإنجليزي الممتاز | Tomorrow: Crystal Palace
+  vs Brighton & Hove Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × برايتون | Kick-off in 30 min: Crystal Palace vs 
+ Brighton & Hove Albion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795795@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T140000Z
+DTEND:20270523T160000Z
+SUMMARY:Newcastle United vs Crystal Palace — Premier League
+LOCATION:St James' Park
+URL:https://www.fotmob.com/match/5795795
+DESCRIPTION:⚽ نيوكاسل يونايتد × كريستال بالاس\
+ n🏆 الدوري الإنجليزي الممتاز — الجولة 37\n
+ 🗓 الأحد 23 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 
+ St James' Park\n—————\n⚽ Newcastle United v Crystal Palace\n
+ 🏆 Premier League — Matchday 37\n🗓 Sun 23 May 2027 · 14:00 UTC\n
+ 🏟 St James' Park\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل يونايتد ضد كريستال
+  بالاس — الدوري الإنجليزي الممتاز | Tomorrow:
+  Newcastle United vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل يونايتد × كريستال بالاس | Kick-off in 30 min: New
+ castle United vs Crystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795802@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T150000Z
+DTEND:20270530T170000Z
+SUMMARY:Crystal Palace vs Leeds United — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795802
+DESCRIPTION:⚽ كريستال بالاس × ليدز يونايتد\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 38\n🗓 
+ الأحد 30 مايو 2027 · 18:00 بتوقيت الرياض\n🏟 Selhu
+ rst Park\n—————\n⚽ Crystal Palace v Leeds United\n🏆 Premier
+  League — Matchday 38\n🗓 Sun 30 May 2027 · 15:00 UTC\n🏟 Selhurst 
+ Park\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد ليدز يونا
+ يتد — الدوري الإنجليزي الممتاز | Tomorrow: Crys
+ tal Palace vs Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × ليدز يونايتد | Kick-off in 30 min: Crystal P
+ alace vs Leeds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112324@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260917T190000Z
+DTEND:20260917T210000Z
+SUMMARY:Crystal Palace vs Lech Poznań — UEFA Europa League
+LOCATION:Selhurst Park\, London\, England
+GEO:51.398279;-0.085503
+URL:https://www.fotmob.com/match/6112324
+DESCRIPTION:⚽ كريستال بالاس × ليخ بوزنان\n🏆 ال
+ دوري الأوروبي — الجولة 1\n🗓 الخميس 17 سبت
+ مبر 2026 · 22:00 بتوقيت الرياض\n🏟 Selhurst Park، Londo
+ n\n—————\n⚽ Crystal Palace v Lech Poznań\n🏆 UEFA Europa Le
+ ague — Matchday 1\n🗓 Thu 17 Sep 2026 · 19:00 UTC\n🏟 Selhurst Park
+ , London\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد ليخ بوزنا
+ ن — الدوري الأوروبي | Tomorrow: Crystal Palace vs Lech Po
+ znań
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × ليخ بوزنان | Kick-off in 30 min: Crystal Palac
+ e vs Lech Poznań
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112260@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:Lyon vs Crystal Palace — UEFA Europa League
+LOCATION:Groupama Stadium\, Décines-Charpieu\, France
+GEO:45.765310;4.982064
+URL:https://www.fotmob.com/match/6112260
+DESCRIPTION:⚽ أولمبيك ليون × كريستال بالاس\n🏆 
+ الدوري الأوروبي — الجولة 2\n🗓 الخميس 15 أ
+ كتوبر 2026 · 19:45 بتوقيت الرياض\n🏟 Groupama Stadium
+ ، Décines-Charpieu\n—————\n⚽ Lyon v Crystal Palace\n🏆 UEF
+ A Europa League — Matchday 2\n🗓 Thu 15 Oct 2026 · 16:45 UTC\n🏟 Gr
+ oupama Stadium, Décines-Charpieu\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد كريستال با
+ لاس — الدوري الأوروبي | Tomorrow: Lyon vs Crystal Palac
+ e
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × كريستال بالاس | Kick-off in 30 min: Lyon vs C
+ rystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112356@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Beşiktaş vs Crystal Palace — UEFA Europa League
+LOCATION:Tüpraş Stadyumu\, İstanbul\, Türkiye
+GEO:41.039424;28.994444
+URL:https://www.fotmob.com/match/6112356
+DESCRIPTION:⚽ بشكتاش × كريستال بالاس\n🏆 الدور
+ ي الأوروبي — الجولة 3\n🗓 الخميس 22 أكتوبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 Tüpraş Stadyumu، İstanbu
+ l\n—————\n⚽ Beşiktaş v Crystal Palace\n🏆 UEFA Europa Leag
+ ue — Matchday 3\n🗓 Thu 22 Oct 2026 · 19:00 UTC\n🏟 Tüpraş Stadyu
+ mu, İstanbul\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بشكتاش ضد كريستال بالاس — 
+ الدوري الأوروبي | Tomorrow: Beşiktaş vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بشكتا
+ ش × كريستال بالاس | Kick-off in 30 min: Beşiktaş vs Crysta
+ l Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112325@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:Crystal Palace vs Hoffenheim — UEFA Europa League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/6112325
+DESCRIPTION:⚽ كريستال بالاس × هوفنهايم\n🏆 الد
+ وري الأوروبي — الجولة 4\n🗓 الخميس 5 نوفمب
+ ر 2026 · 20:45 بتوقيت الرياض\n🏟 Selhurst Park\n———
+ ——\n⚽ Crystal Palace v Hoffenheim\n🏆 UEFA Europa League — Match
+ day 4\n🗓 Thu 05 Nov 2026 · 17:45 UTC\n🏟 Selhurst Park\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد هوفنهايم 
+ — الدوري الأوروبي | Tomorrow: Crystal Palace vs Hoffenheim
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × هوفنهايم | Kick-off in 30 min: Crystal Palace v
+ s Hoffenheim
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112322@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Crystal Palace vs Real Sociedad — UEFA Europa League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/6112322
+DESCRIPTION:⚽ كريستال بالاس × ريال سوسيداد\n🏆 
+ الدوري الأوروبي — الجولة 5\n🗓 الخميس 26 ن
+ وفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Selhurst Park\n
+ —————\n⚽ Crystal Palace v Real Sociedad\n🏆 UEFA Europa Leag
+ ue — Matchday 5\n🗓 Thu 26 Nov 2026 · 20:00 UTC\n🏟 Selhurst Park\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد ريال سوسي
+ داد — الدوري الأوروبي | Tomorrow: Crystal Palace vs Rea
+ l Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × ريال سوسيداد | Kick-off in 30 min: Crystal P
+ alace vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112340@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T174500Z
+DTEND:20261210T194500Z
+SUMMARY:Jagiellonia Białystok vs Crystal Palace — UEFA Europa League
+LOCATION:Stadion Miejski\, Bialystok
+URL:https://www.fotmob.com/match/6112340
+DESCRIPTION:⚽ ياغييلونيا بياويستوك × كريستال 
+ بالاس\n🏆 الدوري الأوروبي — الجولة 6\n🗓 ا
+ لخميس 10 ديسمبر 2026 · 20:45 بتوقيت الرياض\n🏟 S
+ tadion Miejski, Bialystok\n—————\n⚽ Jagiellonia Białystok v C
+ rystal Palace\n🏆 UEFA Europa League — Matchday 6\n🗓 Thu 10 Dec 202
+ 6 · 17:45 UTC\n🏟 Stadion Miejski, Bialystok\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ياغييلونيا بياويستوك ضد كر
+ يستال بالاس — الدوري الأوروبي | Tomorrow: Jagiel
+ lonia Białystok vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ياغيي
+ لونيا بياويستوك × كريستال بالاس | Kick-off in 3
+ 0 min: Jagiellonia Białystok vs Crystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112323@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:Crystal Palace vs Sparta Prague — UEFA Europa League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/6112323
+DESCRIPTION:⚽ كريستال بالاس × سبارتا براغ\n🏆 ا
+ لدوري الأوروبي — الجولة 7\n🗓 الخميس 21 ين
+ اير 2027 · 23:00 بتوقيت الرياض\n🏟 Selhurst Park\n——
+ ———\n⚽ Crystal Palace v Sparta Prague\n🏆 UEFA Europa League —
+  Matchday 7\n🗓 Thu 21 Jan 2027 · 20:00 UTC\n🏟 Selhurst Park\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد سبارتا بر
+ اغ — الدوري الأوروبي | Tomorrow: Crystal Palace vs Spart
+ a Prague
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × سبارتا براغ | Kick-off in 30 min: Crystal Pal
+ ace vs Sparta Prague
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112296@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Salzburg vs Crystal Palace — UEFA Europa League
+LOCATION:Red Bull Arena
+URL:https://www.fotmob.com/match/6112296
+DESCRIPTION:⚽ Salzburg × كريستال بالاس\n🏆 الدوري ا
+ لأوروبي — الجولة 8\n🗓 الخميس 28 يناير 2027 ·
+  23:00 بتوقيت الرياض\n🏟 Red Bull Arena\n—————\n
+ ⚽ Salzburg v Crystal Palace\n🏆 UEFA Europa League — Matchday 8\n
+ 🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 Red Bull Arena\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Salzburg ضد كريستال بالاس — ال
+ دوري الأوروبي | Tomorrow: Salzburg vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Salzburg ×
+  كريستال بالاس | Kick-off in 30 min: Salzburg vs Crystal Palac
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089921@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T121500Z
+DTEND:20260110T141500Z
+SUMMARY:Macclesfield FC vs Crystal Palace (2 - 1) — FA Cup
+LOCATION:The Leasing.com Stadium\, Macclesfield\, Cheshire\, England
+GEO:53.242857;-2.127271
+URL:https://www.fotmob.com/match/5089921
+DESCRIPTION:⚽ Macclesfield FC × كريستال بالاس (2 - 1)\n🏆 
+ كأس الاتحاد الإنجليزي — الدور الثالث\n🗓
+  السبت 10 يناير 2026 · 15:15 بتوقيت الرياض\n🏟 Th
+ e Leasing.com Stadium، Macclesfield, Cheshire\n⚖️ الحكم: Tim Rob
+ inson\n👥 الحضور: 5,348\n—————\n⚽ Macclesfield FC v Cr
+ ystal Palace (2 - 1)\n🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 12:
+ 15 UTC\n🏟 The Leasing.com Stadium, Macclesfield, Cheshire\nReferee: Tim
+  Robinson\nAttendance: 5,348\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Macclesfield FC ضد كريستال بالاس 
+ — كأس الاتحاد الإنجليزي | Tomorrow: Macclesfield FC v
+ s Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Macclesfiel
+ d FC × كريستال بالاس | Kick-off in 30 min: Macclesfield FC vs
+  Crystal Palace
+END:VALARM
+END:VEVENT
+END:VCALENDAR

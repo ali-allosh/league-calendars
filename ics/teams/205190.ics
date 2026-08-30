@@ -1,0 +1,640 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Wadi Degla FC — Egyptian Premier League Fixtures | وا
+ دي دجلة — مباريات الدوري المصري الممتاز
+X-WR-CALDESC:Wadi Degla FC — all matches in Egyptian Premier League\, exa
+ ct UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 
+ 2026-09-05T19:31:10Z.  •  وادي دجلة — جميع المباري
+ ات في الدوري المصري الممتاز بتوقيت UTC الد
+ قيق مع الملاعب والقنوات الناقلة. المصدر: 
+ FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5995570@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260821T140000Z
+DTEND:20260821T160000Z
+SUMMARY:Wadi Degla FC vs ZED FC (0 - 0) — Egyptian Premier League
+LOCATION:Al Salam Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.174408;31.435096
+URL:https://www.fotmob.com/match/5995570
+DESCRIPTION:⚽ وادي دجلة × زد (0 - 0)\n🏆 الدوري الم
+ صري الممتاز — الجولة 1\n🗓 الجمعة 21 أغسطس 
+ 2026 · 17:00 بتوقيت الرياض\n🏟 Al Salam Stadium، al-Qāhir
+ ah (Cairo)\n⚖️ الحكم: Ibrahim Ghuloum Mohamed\n—————\n
+ ⚽ Wadi Degla FC v ZED FC (0 - 0)\n🏆 Egyptian Premier League — Match
+ day 1\n🗓 Fri 21 Aug 2026 · 14:00 UTC\n🏟 Al Salam Stadium, al-Qāhir
+ ah (Cairo)\nReferee: Ibrahim Ghuloum Mohamed\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وادي دجلة ضد زد — الدوري ال
+ مصري الممتاز | Tomorrow: Wadi Degla FC vs ZED FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وادي د
+ جلة × زد | Kick-off in 30 min: Wadi Degla FC vs ZED FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996699@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260828T140000Z
+DTEND:20260828T160000Z
+SUMMARY:Al Sharkeyah-ENPPI vs Wadi Degla FC (1 - 3) — Egyptian Premier Le
+ ague
+LOCATION:Al Salam Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.174408;31.435096
+URL:https://www.fotmob.com/match/5996699
+DESCRIPTION:⚽ Al Sharkeyah-ENPPI × وادي دجلة (1 - 3)\n🏆 ال
+ دوري المصري الممتاز — الجولة 2\n🗓 الجمعة
+  28 أغسطس 2026 · 17:00 بتوقيت الرياض\n🏟 Al Salam Stad
+ ium، al-Qāhirah (Cairo)\n⚖️ الحكم: Mohamed Abassa Kabeel\n—
+ ————\n⚽ Al Sharkeyah-ENPPI v Wadi Degla FC (1 - 3)\n🏆 Egyptia
+ n Premier League — Matchday 2\n🗓 Fri 28 Aug 2026 · 14:00 UTC\n🏟 A
+ l Salam Stadium, al-Qāhirah (Cairo)\nReferee: Mohamed Abassa Kabeel\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Al Sharkeyah-ENPPI ضد وادي دجلة — ا
+ لدوري المصري الممتاز | Tomorrow: Al Sharkeyah-ENPPI vs W
+ adi Degla FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Al Sharkeya
+ h-ENPPI × وادي دجلة | Kick-off in 30 min: Al Sharkeyah-ENPPI vs W
+ adi Degla FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996708@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260901T170000Z
+DTEND:20260901T190000Z
+SUMMARY:Wadi Degla FC vs Olympic El Qanah FC (0 - 0) — Egyptian Premier L
+ eague
+LOCATION:Al Salam Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.174408;31.435096
+URL:https://www.fotmob.com/match/5996708
+DESCRIPTION:⚽ وادي دجلة × القناة (0 - 0)\n🏆 الدور
+ ي المصري الممتاز — الجولة 3\n🗓 الثلاثاء 1
+  سبتمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Al Salam Stadi
+ um، al-Qāhirah (Cairo)\n⚖️ الحكم: Mahmoud Wafa\n—————
+ \n⚽ Wadi Degla FC v Olympic El Qanah FC (0 - 0)\n🏆 Egyptian Premier L
+ eague — Matchday 3\n🗓 Tue 01 Sep 2026 · 17:00 UTC\n🏟 Al Salam Sta
+ dium, al-Qāhirah (Cairo)\nReferee: Mahmoud Wafa\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وادي دجلة ضد القناة — الدو
+ ري المصري الممتاز | Tomorrow: Wadi Degla FC vs Olympic El Q
+ anah FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وادي د
+ جلة × القناة | Kick-off in 30 min: Wadi Degla FC vs Olympic El Q
+ anah FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996719@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260909T140000Z
+DTEND:20260909T160000Z
+SUMMARY:Modern Sport FC vs Wadi Degla FC — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996719
+DESCRIPTION:⚽ مودرن سبورت × وادي دجلة\n🏆 الدور
+ ي المصري الممتاز — الجولة 4\n🗓 الأربعاء 9
+  سبتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Cairo Internat
+ ional Stadium، al-Qāhirah (Cairo)\n—————\n⚽ Modern Sport FC 
+ v Wadi Degla FC\n🏆 Egyptian Premier League — Matchday 4\n🗓 Wed 09 
+ Sep 2026 · 14:00 UTC\n🏟 Cairo International Stadium, al-Qāhirah (Cair
+ o)\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مودرن سبورت ضد وادي دجلة — 
+ الدوري المصري الممتاز | Tomorrow: Modern Sport FC vs Wa
+ di Degla FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مودرن 
+ سبورت × وادي دجلة | Kick-off in 30 min: Modern Sport FC vs W
+ adi Degla FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996726@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260915T140000Z
+DTEND:20260915T160000Z
+SUMMARY:Wadi Degla FC vs Al Mokawloon Al Arab — Egyptian Premier League
+LOCATION:Al Salam Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.174408;31.435096
+URL:https://www.fotmob.com/match/5996726
+DESCRIPTION:⚽ وادي دجلة × المقاولون العرب\n🏆 ا
+ لدوري المصري الممتاز — الجولة 5\n🗓 الثلا
+ ثاء 15 سبتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Al Sa
+ lam Stadium، al-Qāhirah (Cairo)\n—————\n⚽ Wadi Degla FC v Al
+  Mokawloon Al Arab\n🏆 Egyptian Premier League — Matchday 5\n🗓 Tue 
+ 15 Sep 2026 · 14:00 UTC\n🏟 Al Salam Stadium, al-Qāhirah (Cairo)\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وادي دجلة ضد المقاولون الع
+ رب — الدوري المصري الممتاز | Tomorrow: Wadi Degla F
+ C vs Al Mokawloon Al Arab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وادي د
+ جلة × المقاولون العرب | Kick-off in 30 min: Wadi Degla F
+ C vs Al Mokawloon Al Arab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996741@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261013T170000Z
+DTEND:20261013T190000Z
+SUMMARY:Petrojet-Suez vs Wadi Degla FC — Egyptian Premier League
+LOCATION:New Suez Stadium\, as-Suways (Suez)\, Egypt
+GEO:29.957607;32.542577
+URL:https://www.fotmob.com/match/5996741
+DESCRIPTION:⚽ منتخب السويس بتروجت × وادي دجلة\n
+ 🏆 الدوري المصري الممتاز — الجولة 6\n🗓 ا
+ لثلاثاء 13 أكتوبر 2026 · 20:00 بتوقيت الرياض\n
+ 🏟 New Suez Stadium، as-Suways (Suez)\n—————\n⚽ Petrojet-Su
+ ez v Wadi Degla FC\n🏆 Egyptian Premier League — Matchday 6\n🗓 Tue 
+ 13 Oct 2026 · 17:00 UTC\n🏟 New Suez Stadium, as-Suways (Suez)\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: منتخب السويس بتروجت ضد واد
+ ي دجلة — الدوري المصري الممتاز | Tomorrow: Petro
+ jet-Suez vs Wadi Degla FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: منتخب 
+ السويس بتروجت × وادي دجلة | Kick-off in 30 min: Petro
+ jet-Suez vs Wadi Degla FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996746@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261020T140000Z
+DTEND:20261020T160000Z
+SUMMARY:Wadi Degla FC vs National Bank — Egyptian Premier League
+LOCATION:Al Salam Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.174408;31.435096
+URL:https://www.fotmob.com/match/5996746
+DESCRIPTION:⚽ وادي دجلة × البنك الاهلي\n🏆 الدو
+ ري المصري الممتاز — الجولة 7\n🗓 الثلاثاء
+  20 أكتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 Al Salam St
+ adium، al-Qāhirah (Cairo)\n—————\n⚽ Wadi Degla FC v National
+  Bank\n🏆 Egyptian Premier League — Matchday 7\n🗓 Tue 20 Oct 2026 
+ · 14:00 UTC\n🏟 Al Salam Stadium, al-Qāhirah (Cairo)\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وادي دجلة ضد البنك الاهلي 
+ — الدوري المصري الممتاز | Tomorrow: Wadi Degla FC vs 
+ National Bank
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وادي د
+ جلة × البنك الاهلي | Kick-off in 30 min: Wadi Degla FC vs N
+ ational Bank
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996755@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261029T170000Z
+DTEND:20261029T190000Z
+SUMMARY:Pyramids FC vs Wadi Degla FC — Egyptian Premier League
+LOCATION:30 June Stadium
+URL:https://www.fotmob.com/match/5996755
+DESCRIPTION:⚽ بيراميدز × وادي دجلة\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 8\n🗓 الخميس 29 أكت
+ وبر 2026 · 20:00 بتوقيت الرياض\n🏟 30 June Stadium\n—
+ ————\n⚽ Pyramids FC v Wadi Degla FC\n🏆 Egyptian Premier Leagu
+ e — Matchday 8\n🗓 Thu 29 Oct 2026 · 17:00 UTC\n🏟 30 June Stadium\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيراميدز ضد وادي دجلة — ال
+ دوري المصري الممتاز | Tomorrow: Pyramids FC vs Wadi Degla
+  FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيرام
+ يدز × وادي دجلة | Kick-off in 30 min: Pyramids FC vs Wadi Degl
+ a FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996767@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261124T180000Z
+DTEND:20261124T200000Z
+SUMMARY:Wadi Degla FC vs Al Ittihad Alexandria — Egyptian Premier League
+LOCATION:Al Salam Stadium
+URL:https://www.fotmob.com/match/5996767
+DESCRIPTION:⚽ وادي دجلة × الاتحاد السكندري\n🏆 
+ الدوري المصري الممتاز — الجولة 9\n🗓 الثل
+ اثاء 24 نوفمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Al 
+ Salam Stadium\n—————\n⚽ Wadi Degla FC v Al Ittihad Alexandria\
+ n🏆 Egyptian Premier League — Matchday 9\n🗓 Tue 24 Nov 2026 · 18:0
+ 0 UTC\n🏟 Al Salam Stadium\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وادي دجلة ضد الاتحاد السكن
+ دري — الدوري المصري الممتاز | Tomorrow: Wadi Degla
+  FC vs Al Ittihad Alexandria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وادي د
+ جلة × الاتحاد السكندري | Kick-off in 30 min: Wadi Degla
+  FC vs Al Ittihad Alexandria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996772@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261208T150000Z
+DTEND:20261208T170000Z
+SUMMARY:Tala'ea El Gaish vs Wadi Degla FC — Egyptian Premier League
+LOCATION:Military Sports Stadium
+URL:https://www.fotmob.com/match/5996772
+DESCRIPTION:⚽ طلائع الجيش × وادي دجلة\n🏆 الدور
+ ي المصري الممتاز — الجولة 10\n🗓 الثلاثاء 
+ 8 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Military Spor
+ ts Stadium\n—————\n⚽ Tala'ea El Gaish v Wadi Degla FC\n🏆 Eg
+ yptian Premier League — Matchday 10\n🗓 Tue 08 Dec 2026 · 15:00 UTC\n
+ 🏟 Military Sports Stadium\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: طلائع الجيش ضد وادي دجلة — 
+ الدوري المصري الممتاز | Tomorrow: Tala'ea El Gaish vs W
+ adi Degla FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: طلائع 
+ الجيش × وادي دجلة | Kick-off in 30 min: Tala'ea El Gaish vs 
+ Wadi Degla FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996788@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261215T180000Z
+DTEND:20261215T200000Z
+SUMMARY:Wadi Degla FC vs Ceramica Cleopatra — Egyptian Premier League
+LOCATION:Al Salam Stadium
+URL:https://www.fotmob.com/match/5996788
+DESCRIPTION:⚽ وادي دجلة × سيراميكا كليوباترا\n
+ 🏆 الدوري المصري الممتاز — الجولة 11\n🗓 ا
+ لثلاثاء 15 ديسمبر 2026 · 21:00 بتوقيت الرياض\n
+ 🏟 Al Salam Stadium\n—————\n⚽ Wadi Degla FC v Ceramica Cleop
+ atra\n🏆 Egyptian Premier League — Matchday 11\n🗓 Tue 15 Dec 2026 
+ · 18:00 UTC\n🏟 Al Salam Stadium\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وادي دجلة ضد سيراميكا كليو
+ باترا — الدوري المصري الممتاز | Tomorrow: Wadi D
+ egla FC vs Ceramica Cleopatra
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وادي د
+ جلة × سيراميكا كليوباترا | Kick-off in 30 min: Wadi D
+ egla FC vs Ceramica Cleopatra
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996792@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261222T150000Z
+DTEND:20261222T170000Z
+SUMMARY:Abo Qir Semad vs Wadi Degla FC — Egyptian Premier League
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996792
+DESCRIPTION:⚽ ابو قير للاسمدة × وادي دجلة\n🏆 ا
+ لدوري المصري الممتاز — الجولة 12\n🗓 الثل
+ اثاء 22 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Ale
+ xandria Stadium\n—————\n⚽ Abo Qir Semad v Wadi Degla FC\n🏆 
+ Egyptian Premier League — Matchday 12\n🗓 Tue 22 Dec 2026 · 15:00 UTC
+ \n🏟 Alexandria Stadium\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ابو قير للاسمدة ضد وادي دجل
+ ة — الدوري المصري الممتاز | Tomorrow: Abo Qir Semad 
+ vs Wadi Degla FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ابو قي
+ ر للاسمدة × وادي دجلة | Kick-off in 30 min: Abo Qir Semad
+  vs Wadi Degla FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996809@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261229T150000Z
+DTEND:20261229T170000Z
+SUMMARY:Wadi Degla FC vs Asyut Petroleum — Egyptian Premier League
+LOCATION:Al Salam Stadium
+URL:https://www.fotmob.com/match/5996809
+DESCRIPTION:⚽ وادي دجلة × أسيوط بتروليوم\n🏆 ال
+ دوري المصري الممتاز — الجولة 13\n🗓 الثلا
+ ثاء 29 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Al Sa
+ lam Stadium\n—————\n⚽ Wadi Degla FC v Asyut Petroleum\n🏆 Eg
+ yptian Premier League — Matchday 13\n🗓 Tue 29 Dec 2026 · 15:00 UTC\n
+ 🏟 Al Salam Stadium\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وادي دجلة ضد أسيوط بتروليو
+ م — الدوري المصري الممتاز | Tomorrow: Wadi Degla FC 
+ vs Asyut Petroleum
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وادي د
+ جلة × أسيوط بتروليوم | Kick-off in 30 min: Wadi Degla FC 
+ vs Asyut Petroleum
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996814@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270104T180000Z
+DTEND:20270104T200000Z
+SUMMARY:Zamalek SC vs Wadi Degla FC — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996814
+DESCRIPTION:⚽ الزمالك × وادي دجلة\n🏆 الدوري ال
+ مصري الممتاز — الجولة 14\n🗓 الاثنين 4 ينا
+ ير 2027 · 21:00 بتوقيت الرياض\n🏟 Cairo Int'l Stadium\n
+ —————\n⚽ Zamalek SC v Wadi Degla FC\n🏆 Egyptian Premier Lea
+ gue — Matchday 14\n🗓 Mon 04 Jan 2027 · 18:00 UTC\n🏟 Cairo Int'l S
+ tadium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الزمالك ضد وادي دجلة — الد
+ وري المصري الممتاز | Tomorrow: Zamalek SC vs Wadi Degla FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الزما
+ لك × وادي دجلة | Kick-off in 30 min: Zamalek SC vs Wadi Degla F
+ C
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996825@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270126T180000Z
+DTEND:20270126T200000Z
+SUMMARY:Wadi Degla FC vs Ghazl Al Mahalla — Egyptian Premier League
+LOCATION:Al Salam Stadium
+URL:https://www.fotmob.com/match/5996825
+DESCRIPTION:⚽ وادي دجلة × غزل المحلة\n🏆 الدوري
+  المصري الممتاز — الجولة 15\n🗓 الثلاثاء 26
+  يناير 2027 · 21:00 بتوقيت الرياض\n🏟 Al Salam Stadium
+ \n—————\n⚽ Wadi Degla FC v Ghazl Al Mahalla\n🏆 Egyptian Pre
+ mier League — Matchday 15\n🗓 Tue 26 Jan 2027 · 18:00 UTC\n🏟 Al Sa
+ lam Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وادي دجلة ضد غزل المحلة — ا
+ لدوري المصري الممتاز | Tomorrow: Wadi Degla FC vs Ghazl 
+ Al Mahalla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وادي د
+ جلة × غزل المحلة | Kick-off in 30 min: Wadi Degla FC vs Ghazl
+  Al Mahalla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996832@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Smouha SC vs Wadi Degla FC — Egyptian Premier League
+LOCATION:Borg El Arab Stadium
+URL:https://www.fotmob.com/match/5996832
+DESCRIPTION:⚽ سموحة × وادي دجلة\n🏆 الدوري المص
+ ري الممتاز — الجولة 16\n🗓 السبت 30 يناير 202
+ 7 · 18:00 بتوقيت الرياض\n🏟 Borg El Arab Stadium\n———
+ ——\n⚽ Smouha SC v Wadi Degla FC\n🏆 Egyptian Premier League — Ma
+ tchday 16\n🗓 Sat 30 Jan 2027 · 15:00 UTC\n🏟 Borg El Arab Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سموحة ضد وادي دجلة — الدور
+ ي المصري الممتاز | Tomorrow: Smouha SC vs Wadi Degla FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سموحة 
+ × وادي دجلة | Kick-off in 30 min: Smouha SC vs Wadi Degla FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996845@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270205T150000Z
+DTEND:20270205T170000Z
+SUMMARY:Wadi Degla FC vs El Gouna FC — Egyptian Premier League
+LOCATION:Al Salam Stadium
+URL:https://www.fotmob.com/match/5996845
+DESCRIPTION:⚽ وادي دجلة × الجونة\n🏆 الدوري الم
+ صري الممتاز — الجولة 17\n🗓 الجمعة 5 فبراي
+ ر 2027 · 18:00 بتوقيت الرياض\n🏟 Al Salam Stadium\n——
+ ———\n⚽ Wadi Degla FC v El Gouna FC\n🏆 Egyptian Premier League 
+ — Matchday 17\n🗓 Fri 05 Feb 2027 · 15:00 UTC\n🏟 Al Salam Stadium\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وادي دجلة ضد الجونة — الدو
+ ري المصري الممتاز | Tomorrow: Wadi Degla FC vs El Gouna FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وادي د
+ جلة × الجونة | Kick-off in 30 min: Wadi Degla FC vs El Gouna FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996861@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270212T193000Z
+DTEND:20270212T213000Z
+SUMMARY:Al Masry SC vs Wadi Degla FC — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996861
+DESCRIPTION:⚽ المصري × وادي دجلة\n🏆 الدوري الم
+ صري الممتاز — الجولة 18\n🗓 الجمعة 12 فبراي
+ ر 2027 · 22:30 بتوقيت الرياض\n🏟 Cairo Int'l Stadium\n—
+ ————\n⚽ Al Masry SC v Wadi Degla FC\n🏆 Egyptian Premier Leagu
+ e — Matchday 18\n🗓 Fri 12 Feb 2027 · 19:30 UTC\n🏟 Cairo Int'l Sta
+ dium\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المصري ضد وادي دجلة — الدو
+ ري المصري الممتاز | Tomorrow: Al Masry SC vs Wadi Degla FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المصر
+ ي × وادي دجلة | Kick-off in 30 min: Al Masry SC vs Wadi Degla FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996867@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270219T193000Z
+DTEND:20270219T213000Z
+SUMMARY:Wadi Degla FC vs Al Ahly SC — Egyptian Premier League
+LOCATION:Al Salam Stadium
+URL:https://www.fotmob.com/match/5996867
+DESCRIPTION:⚽ وادي دجلة × الأهلي\n🏆 الدوري الم
+ صري الممتاز — الجولة 19\n🗓 الجمعة 19 فبراي
+ ر 2027 · 22:30 بتوقيت الرياض\n🏟 Al Salam Stadium\n——
+ ———\n⚽ Wadi Degla FC v Al Ahly SC\n🏆 Egyptian Premier League 
+ — Matchday 19\n🗓 Fri 19 Feb 2027 · 19:30 UTC\n🏟 Al Salam Stadium\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وادي دجلة ضد الأهلي — الدو
+ ري المصري الممتاز | Tomorrow: Wadi Degla FC vs Al Ahly SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وادي د
+ جلة × الأهلي | Kick-off in 30 min: Wadi Degla FC vs Al Ahly SC
+END:VALARM
+END:VEVENT
+END:VCALENDAR

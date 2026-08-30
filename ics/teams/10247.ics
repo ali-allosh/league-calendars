@@ -1,0 +1,273 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Sparta Prague — UEFA Europa League Fixtures | سبارت
+ ا براغ — مباريات الدوري الأوروبي
+X-WR-CALDESC:Sparta Prague — all matches in UEFA Europa League\, exact UT
+ C kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-
+ 09-05T19:31:10Z.  •  سبارتا براغ — جميع المباريا
+ ت في الدوري الأوروبي بتوقيت UTC الدقيق مع 
+ الملاعب والقنوات الناقلة. المصدر: FotMob + 365
+ scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6112383@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T164500Z
+DTEND:20260916T184500Z
+SUMMARY:Ararat Armenia vs Sparta Prague — UEFA Europa League
+LOCATION:Kotaik Stadium\, Abovian\, Armenia
+GEO:40.268491;44.635429
+URL:https://www.fotmob.com/match/6112383
+DESCRIPTION:⚽ أرارات أرمينيا × سبارتا براغ\n🏆 
+ الدوري الأوروبي — الجولة 1\n🗓 الأربعاء 16
+  سبتمبر 2026 · 19:45 بتوقيت الرياض\n🏟 Kotaik Stadium
+ ، Abovian\n—————\n⚽ Ararat Armenia v Sparta Prague\n🏆 UEFA
+  Europa League — Matchday 1\n🗓 Wed 16 Sep 2026 · 16:45 UTC\n🏟 Kot
+ aik Stadium, Abovian\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرارات أرمينيا ضد سبارتا ب
+ راغ — الدوري الأوروبي | Tomorrow: Ararat Armenia vs Spa
+ rta Prague
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرارا
+ ت أرمينيا × سبارتا براغ | Kick-off in 30 min: Ararat Ar
+ menia vs Sparta Prague
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112305@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:Sparta Prague vs Lillestrøm — UEFA Europa League
+LOCATION:epet ARENA\, Praha\, Czech Republic
+GEO:50.099816;14.415827
+URL:https://www.fotmob.com/match/6112305
+DESCRIPTION:⚽ سبارتا براغ × ليلستروم\n🏆 الدور
+ ي الأوروبي — الجولة 2\n🗓 الخميس 15 أكتوبر 
+ 2026 · 19:45 بتوقيت الرياض\n🏟 epet ARENA، Praha\n——
+ ———\n⚽ Sparta Prague v Lillestrøm\n🏆 UEFA Europa League — Ma
+ tchday 2\n🗓 Thu 15 Oct 2026 · 16:45 UTC\n🏟 epet ARENA, Praha\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سبارتا براغ ضد ليلستروم — 
+ الدوري الأوروبي | Tomorrow: Sparta Prague vs Lillestrøm
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سبارت
+ ا براغ × ليلستروم | Kick-off in 30 min: Sparta Prague vs Lil
+ lestrøm
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112267@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Olympiacos vs Sparta Prague — UEFA Europa League
+LOCATION:Stadio Georgios Karaiskákis\, Pireás (Piraeus)\, Greece
+GEO:37.946431;23.664384
+URL:https://www.fotmob.com/match/6112267
+DESCRIPTION:⚽ أولمبياكوس × سبارتا براغ\n🏆 الد
+ وري الأوروبي — الجولة 3\n🗓 الخميس 22 أكتو
+ بر 2026 · 22:00 بتوقيت الرياض\n🏟 Stadio Georgios Karaisk
+ ákis، Pireás (Piraeus)\n—————\n⚽ Olympiacos v Sparta Prague
+ \n🏆 UEFA Europa League — Matchday 3\n🗓 Thu 22 Oct 2026 · 19:00 UT
+ C\n🏟 Stadio Georgios Karaiskákis, Pireás (Piraeus)\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبياكوس ضد سبارتا براغ 
+ — الدوري الأوروبي | Tomorrow: Olympiacos vs Sparta Prague
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ ياكوس × سبارتا براغ | Kick-off in 30 min: Olympiacos vs Sp
+ arta Prague
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112304@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:Sparta Prague vs AFC Bournemouth — UEFA Europa League
+LOCATION:epet Arena
+URL:https://www.fotmob.com/match/6112304
+DESCRIPTION:⚽ سبارتا براغ × بورنموث\n🏆 الدوري 
+ الأوروبي — الجولة 4\n🗓 الخميس 5 نوفمبر 2026
+  · 20:45 بتوقيت الرياض\n🏟 epet Arena\n—————\n⚽
+  Sparta Prague v AFC Bournemouth\n🏆 UEFA Europa League — Matchday 4\n
+ 🗓 Thu 05 Nov 2026 · 17:45 UTC\n🏟 epet Arena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سبارتا براغ ضد بورنموث — ا
+ لدوري الأوروبي | Tomorrow: Sparta Prague vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سبارت
+ ا براغ × بورنموث | Kick-off in 30 min: Sparta Prague vs AFC B
+ ournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112302@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Sparta Prague vs AZ Alkmaar — UEFA Europa League
+LOCATION:epet Arena
+URL:https://www.fotmob.com/match/6112302
+DESCRIPTION:⚽ سبارتا براغ × ألكمار\n🏆 الدوري ا
+ لأوروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 2026 
+ · 23:00 بتوقيت الرياض\n🏟 epet Arena\n—————\n⚽ 
+ Sparta Prague v AZ Alkmaar\n🏆 UEFA Europa League — Matchday 5\n🗓 T
+ hu 26 Nov 2026 · 20:00 UTC\n🏟 epet Arena\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سبارتا براغ ضد ألكمار — ال
+ دوري الأوروبي | Tomorrow: Sparta Prague vs AZ Alkmaar
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سبارت
+ ا براغ × ألكمار | Kick-off in 30 min: Sparta Prague vs AZ Alkm
+ aar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112295@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:Salzburg vs Sparta Prague — UEFA Europa League
+LOCATION:Red Bull Arena
+URL:https://www.fotmob.com/match/6112295
+DESCRIPTION:⚽ Salzburg × سبارتا براغ\n🏆 الدوري الأ
+ وروبي — الجولة 6\n🗓 الخميس 10 ديسمبر 2026 · 2
+ 3:00 بتوقيت الرياض\n🏟 Red Bull Arena\n—————\n⚽ 
+ Salzburg v Sparta Prague\n🏆 UEFA Europa League — Matchday 6\n🗓 Thu
+  10 Dec 2026 · 20:00 UTC\n🏟 Red Bull Arena\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Salzburg ضد سبارتا براغ — الدو
+ ري الأوروبي | Tomorrow: Salzburg vs Sparta Prague
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Salzburg ×
+  سبارتا براغ | Kick-off in 30 min: Salzburg vs Sparta Prague
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112323@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:Crystal Palace vs Sparta Prague — UEFA Europa League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/6112323
+DESCRIPTION:⚽ كريستال بالاس × سبارتا براغ\n🏆 ا
+ لدوري الأوروبي — الجولة 7\n🗓 الخميس 21 ين
+ اير 2027 · 23:00 بتوقيت الرياض\n🏟 Selhurst Park\n——
+ ———\n⚽ Crystal Palace v Sparta Prague\n🏆 UEFA Europa League —
+  Matchday 7\n🗓 Thu 21 Jan 2027 · 20:00 UTC\n🏟 Selhurst Park\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد سبارتا بر
+ اغ — الدوري الأوروبي | Tomorrow: Crystal Palace vs Spart
+ a Prague
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × سبارتا براغ | Kick-off in 30 min: Crystal Pal
+ ace vs Sparta Prague
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112303@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Sparta Prague vs Rennes — UEFA Europa League
+LOCATION:epet Arena
+URL:https://www.fotmob.com/match/6112303
+DESCRIPTION:⚽ سبارتا براغ × ستاد رين\n🏆 الدوري
+  الأوروبي — الجولة 8\n🗓 الخميس 28 يناير 2027
+  · 23:00 بتوقيت الرياض\n🏟 epet Arena\n—————\n⚽
+  Sparta Prague v Rennes\n🏆 UEFA Europa League — Matchday 8\n🗓 Thu 
+ 28 Jan 2027 · 20:00 UTC\n🏟 epet Arena\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سبارتا براغ ضد ستاد رين — ا
+ لدوري الأوروبي | Tomorrow: Sparta Prague vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سبارت
+ ا براغ × ستاد رين | Kick-off in 30 min: Sparta Prague vs Renn
+ es
+END:VALARM
+END:VEVENT
+END:VCALENDAR

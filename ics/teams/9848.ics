@@ -1,0 +1,1061 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Strasbourg — Ligue 1 Fixtures | ستراسبورج — 
+ مباريات الدوري الفرنسي
+X-WR-CALDESC:Strasbourg — all matches in Ligue 1\, exact UTC kickoffs\, s
+ tadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10
+ Z.  •  ستراسبورج — جميع المباريات في الدو
+ ري الفرنسي بتوقيت UTC الدقيق مع الملاعب وا
+ لقنوات الناقلة. المصدر: FotMob + 365scores · تحدي
+ ث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5802905@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260821T184500Z
+DTEND:20260821T204500Z
+SUMMARY:Marseille vs Strasbourg (4 - 0) — Ligue 1
+LOCATION:Orange Vélodrome\, Marseille\, France
+GEO:43.269870;5.395854
+URL:https://www.fotmob.com/match/5802905
+DESCRIPTION:⚽ مارسيليا × ستراسبورج (4 - 0)\n🏆 الد
+ وري الفرنسي — الجولة 1\n🗓 الجمعة 21 أغسطس 
+ 2026 · 21:45 بتوقيت الرياض\n🏟 Orange Vélodrome، Marseill
+ e\n⚖️ الحكم: Ruddy Buquet\n👥 الحضور: 65,089\n———
+ ——\n⚽ Marseille v Strasbourg (4 - 0)\n🏆 Ligue 1 — Matchday 1\n
+ 🗓 Fri 21 Aug 2026 · 18:45 UTC\n🏟 Orange Vélodrome, Marseille\nRefe
+ ree: Ruddy Buquet\nAttendance: 65,089\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مارسيليا ضد ستراسبورج — ال
+ دوري الفرنسي | Tomorrow: Marseille vs Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مارسي
+ ليا × ستراسبورج | Kick-off in 30 min: Marseille vs Strasbourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802917@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T151500Z
+DTEND:20260829T171500Z
+SUMMARY:Strasbourg vs Lens (2 - 1) — Ligue 1
+LOCATION:Stade de la Meinau\, Strasbourg\, France
+GEO:48.560069;7.755157
+URL:https://www.fotmob.com/match/5802917
+DESCRIPTION:⚽ ستراسبورج × لانس (2 - 1)\n🏆 الدوري 
+ الفرنسي — الجولة 2\n🗓 السبت 29 أغسطس 2026 · 1
+ 8:15 بتوقيت الرياض\n🏟 Stade de la Meinau، Strasbourg\n⚖
+ ️ الحكم: Bastien Dechepy\n👥 الحضور: 29,000\n————
+ —\n⚽ Strasbourg v Lens (2 - 1)\n🏆 Ligue 1 — Matchday 2\n🗓 Sat 
+ 29 Aug 2026 · 15:15 UTC\n🏟 Stade de la Meinau, Strasbourg\nReferee: Ba
+ stien Dechepy\nAttendance: 29,000\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد لانس — الدوري
+  الفرنسي | Tomorrow: Strasbourg vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × لانس | Kick-off in 30 min: Strasbourg vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802927@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Troyes vs Strasbourg — Ligue 1
+LOCATION:Stade de l'Aube\, Troyes\, France
+GEO:48.307533;4.098485
+URL:https://www.fotmob.com/match/5802927
+DESCRIPTION:⚽ تروا × ستراسبورج\n🏆 الدوري الفر
+ نسي — الجولة 3\n🗓 الأحد 6 سبتمبر 2026 · 16:00 ب
+ توقيت الرياض\n🏟 Stade de l'Aube، Troyes\n📺 beIN Sports 3
+  HD\n—————\n⚽ Troyes v Strasbourg\n🏆 Ligue 1 — Matchday 3
+ \n🗓 Sun 06 Sep 2026 · 13:00 UTC\n🏟 Stade de l'Aube, Troyes\n📺 be
+ IN Sports 3 HD\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد ستراسبورج — الدوري
+  الفرنسي — 📺 beIN Sports 3 HD | Tomorrow: Troyes vs Strasbourg
+  | TV: beIN Sports 3 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  ستراسبورج — 📺 beIN Sports 3 HD | Kick-off in 30 min: Troyes
+  vs Strasbourg | TV: beIN Sports 3 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802936@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T151500Z
+DTEND:20260912T171500Z
+SUMMARY:Strasbourg vs Monaco — Ligue 1
+LOCATION:Stade de la Meinau\, Strasbourg\, France
+GEO:48.560069;7.755157
+URL:https://www.fotmob.com/match/5802936
+DESCRIPTION:⚽ ستراسبورج × موناكو\n🏆 الدوري ال
+ فرنسي — الجولة 4\n🗓 السبت 12 سبتمبر 2026 · 18:
+ 15 بتوقيت الرياض\n🏟 Stade de la Meinau، Strasbourg\n📺 O
+ neFootball PPV\n—————\n⚽ Strasbourg v Monaco\n🏆 Ligue 1 —
+  Matchday 4\n🗓 Sat 12 Sep 2026 · 15:15 UTC\n🏟 Stade de la Meinau, S
+ trasbourg\n📺 OneFootball PPV\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد موناكو — الدو
+ ري الفرنسي — 📺 OneFootball PPV | Tomorrow: Strasbourg vs Mon
+ aco | TV: OneFootball PPV
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × موناكو — 📺 OneFootball PPV | Kick-off in 30 min: St
+ rasbourg vs Monaco | TV: OneFootball PPV
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802943@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T151500Z
+DTEND:20260919T171500Z
+SUMMARY:Paris FC vs Strasbourg — Ligue 1
+LOCATION:Stade Jean Bouin
+URL:https://www.fotmob.com/match/5802943
+DESCRIPTION:⚽ باريس أف.سي. × ستراسبورج\n🏆 الدو
+ ري الفرنسي — الجولة 5\n🗓 السبت 19 سبتمبر 20
+ 26 · 18:15 بتوقيت الرياض\n🏟 Stade Jean Bouin\n————
+ —\n⚽ Paris FC v Strasbourg\n🏆 Ligue 1 — Matchday 5\n🗓 Sat 19 S
+ ep 2026 · 15:15 UTC\n🏟 Stade Jean Bouin\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد ستراسبورج —
+  الدوري الفرنسي | Tomorrow: Paris FC vs Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × ستراسبورج | Kick-off in 30 min: Paris FC vs Strasbo
+ urg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802951@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Nice vs Strasbourg — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5802951
+DESCRIPTION:⚽ نيس × ستراسبورج\n🏆 الدوري الفرن
+ سي — الجولة 6\n🗓 الأحد 11 أكتوبر 2026 · 16:00 ب
+ توقيت الرياض\n🏟 Allianz Riviera\n—————\n⚽ Nice v
+  Strasbourg\n🏆 Ligue 1 — Matchday 6\n🗓 Sun 11 Oct 2026 · 13:00 UT
+ C\n🏟 Allianz Riviera\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد ستراسبورج — الدوري 
+ الفرنسي | Tomorrow: Nice vs Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ ستراسبورج | Kick-off in 30 min: Nice vs Strasbourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802962@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T151500Z
+DTEND:20261017T171500Z
+SUMMARY:Strasbourg vs Paris Saint-Germain — Ligue 1
+LOCATION:Stade de la Meinau
+URL:https://www.fotmob.com/match/5802962
+DESCRIPTION:⚽ ستراسبورج × باريس سان جيرمان\n🏆 
+ الدوري الفرنسي — الجولة 7\n🗓 السبت 17 أكت
+ وبر 2026 · 18:15 بتوقيت الرياض\n🏟 Stade de la Meinau\n
+ —————\n⚽ Strasbourg v Paris Saint-Germain\n🏆 Ligue 1 — Ma
+ tchday 7\n🗓 Sat 17 Oct 2026 · 15:15 UTC\n🏟 Stade de la Meinau\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد باريس سان جير
+ مان — الدوري الفرنسي | Tomorrow: Strasbourg vs Paris Sai
+ nt-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × باريس سان جيرمان | Kick-off in 30 min: Strasbour
+ g vs Paris Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802970@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T161500Z
+DTEND:20261025T181500Z
+SUMMARY:Rennes vs Strasbourg — Ligue 1
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/5802970
+DESCRIPTION:⚽ ستاد رين × ستراسبورج\n🏆 الدوري ا
+ لفرنسي — الجولة 8\n🗓 الأحد 25 أكتوبر 2026 · 1
+ 9:15 بتوقيت الرياض\n🏟 Roazhon Park\n—————\n⚽ Re
+ nnes v Strasbourg\n🏆 Ligue 1 — Matchday 8\n🗓 Sun 25 Oct 2026 · 16
+ :15 UTC\n🏟 Roazhon Park\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد ستراسبورج — ال
+ دوري الفرنسي | Tomorrow: Rennes vs Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × ستراسبورج | Kick-off in 30 min: Rennes vs Strasbourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802980@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Strasbourg vs Auxerre — Ligue 1
+LOCATION:Stade de la Meinau
+URL:https://www.fotmob.com/match/5802980
+DESCRIPTION:⚽ ستراسبورج × أوكسير\n🏆 الدوري ال
+ فرنسي — الجولة 9\n🗓 الأحد 1 نوفمبر 2026 · 17:0
+ 0 بتوقيت الرياض\n🏟 Stade de la Meinau\n—————\n⚽
+  Strasbourg v Auxerre\n🏆 Ligue 1 — Matchday 9\n🗓 Sun 01 Nov 2026 
+ · 14:00 UTC\n🏟 Stade de la Meinau\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد أوكسير — الدو
+ ري الفرنسي | Tomorrow: Strasbourg vs Auxerre
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × أوكسير | Kick-off in 30 min: Strasbourg vs Auxerre
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802989@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261106T194500Z
+DTEND:20261106T214500Z
+SUMMARY:Toulouse vs Strasbourg — Ligue 1
+LOCATION:Stadium de Toulouse
+URL:https://www.fotmob.com/match/5802989
+DESCRIPTION:⚽ تولوز × ستراسبورج\n🏆 الدوري الف
+ رنسي — الجولة 10\n🗓 الجمعة 6 نوفمبر 2026 · 22:
+ 45 بتوقيت الرياض\n🏟 Stadium de Toulouse\n—————\n
+ ⚽ Toulouse v Strasbourg\n🏆 Ligue 1 — Matchday 10\n🗓 Fri 06 Nov 2
+ 026 · 19:45 UTC\n🏟 Stadium de Toulouse\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تولوز ضد ستراسبورج — الدور
+ ي الفرنسي | Tomorrow: Toulouse vs Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تولوز 
+ × ستراسبورج | Kick-off in 30 min: Toulouse vs Strasbourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802998@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T194500Z
+DTEND:20261121T214500Z
+SUMMARY:Strasbourg vs Brest — Ligue 1
+LOCATION:Stade de la Meinau
+URL:https://www.fotmob.com/match/5802998
+DESCRIPTION:⚽ ستراسبورج × بريست\n🏆 الدوري الف
+ رنسي — الجولة 11\n🗓 السبت 21 نوفمبر 2026 · 22:4
+ 5 بتوقيت الرياض\n🏟 Stade de la Meinau\n—————\n⚽
+  Strasbourg v Brest\n🏆 Ligue 1 — Matchday 11\n🗓 Sat 21 Nov 2026 ·
+  19:45 UTC\n🏟 Stade de la Meinau\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد بريست — الدور
+ ي الفرنسي | Tomorrow: Strasbourg vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × بريست | Kick-off in 30 min: Strasbourg vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803003@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:Le Havre vs Strasbourg — Ligue 1
+LOCATION:Stade Oceane
+URL:https://www.fotmob.com/match/5803003
+DESCRIPTION:⚽ لو آفر × ستراسبورج\n🏆 الدوري الف
+ رنسي — الجولة 12\n🗓 السبت 28 نوفمبر 2026 · 19:0
+ 0 بتوقيت الرياض\n🏟 Stade Oceane\n—————\n⚽ Le Ha
+ vre v Strasbourg\n🏆 Ligue 1 — Matchday 12\n🗓 Sat 28 Nov 2026 · 16
+ :00 UTC\n🏟 Stade Oceane\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لو آفر ضد ستراسبورج — الدو
+ ري الفرنسي | Tomorrow: Le Havre vs Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لو آفر
+  × ستراسبورج | Kick-off in 30 min: Le Havre vs Strasbourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803015@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T160000Z
+DTEND:20261205T180000Z
+SUMMARY:Strasbourg vs Lorient — Ligue 1
+LOCATION:Stade de la Meinau
+URL:https://www.fotmob.com/match/5803015
+DESCRIPTION:⚽ ستراسبورج × لوريان\n🏆 الدوري ال
+ فرنسي — الجولة 13\n🗓 السبت 5 ديسمبر 2026 · 19:
+ 00 بتوقيت الرياض\n🏟 Stade de la Meinau\n—————\n
+ ⚽ Strasbourg v Lorient\n🏆 Ligue 1 — Matchday 13\n🗓 Sat 05 Dec 20
+ 26 · 16:00 UTC\n🏟 Stade de la Meinau\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد لوريان — الدو
+ ري الفرنسي | Tomorrow: Strasbourg vs Lorient
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × لوريان | Kick-off in 30 min: Strasbourg vs Lorient
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803018@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T160000Z
+DTEND:20261212T180000Z
+SUMMARY:Angers vs Strasbourg — Ligue 1
+LOCATION:Stade Raymond Kopa
+URL:https://www.fotmob.com/match/5803018
+DESCRIPTION:⚽ أنجيه × ستراسبورج\n🏆 الدوري الف
+ رنسي — الجولة 14\n🗓 السبت 12 ديسمبر 2026 · 19:0
+ 0 بتوقيت الرياض\n🏟 Stade Raymond Kopa\n—————\n⚽
+  Angers v Strasbourg\n🏆 Ligue 1 — Matchday 14\n🗓 Sat 12 Dec 2026 
+ · 16:00 UTC\n🏟 Stade Raymond Kopa\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أنجيه ضد ستراسبورج — الدور
+ ي الفرنسي | Tomorrow: Angers vs Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أنجيه 
+ × ستراسبورج | Kick-off in 30 min: Angers vs Strasbourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803029@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T160000Z
+DTEND:20270102T180000Z
+SUMMARY:Lille vs Strasbourg — Ligue 1
+LOCATION:Decathlon Arena-Stade Pierre-Mauroy
+URL:https://www.fotmob.com/match/5803029
+DESCRIPTION:⚽ ليل × ستراسبورج\n🏆 الدوري الفرن
+ سي — الجولة 15\n🗓 السبت 2 يناير 2027 · 19:00 بت
+ وقيت الرياض\n🏟 Decathlon Arena-Stade Pierre-Mauroy\n———
+ ——\n⚽ Lille v Strasbourg\n🏆 Ligue 1 — Matchday 15\n🗓 Sat 02 
+ Jan 2027 · 16:00 UTC\n🏟 Decathlon Arena-Stade Pierre-Mauroy\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليل ضد ستراسبورج — الدوري 
+ الفرنسي | Tomorrow: Lille vs Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليل × 
+ ستراسبورج | Kick-off in 30 min: Lille vs Strasbourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803044@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T160000Z
+DTEND:20270116T180000Z
+SUMMARY:Strasbourg vs Le Mans — Ligue 1
+LOCATION:Stade de la Meinau
+URL:https://www.fotmob.com/match/5803044
+DESCRIPTION:⚽ ستراسبورج × لومان\n🏆 الدوري الف
+ رنسي — الجولة 16\n🗓 السبت 16 يناير 2027 · 19:00 
+ بتوقيت الرياض\n🏟 Stade de la Meinau\n—————\n⚽ S
+ trasbourg v Le Mans\n🏆 Ligue 1 — Matchday 16\n🗓 Sat 16 Jan 2027 ·
+  16:00 UTC\n🏟 Stade de la Meinau\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد لومان — الدور
+ ي الفرنسي | Tomorrow: Strasbourg vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × لومان | Kick-off in 30 min: Strasbourg vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803051@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T160000Z
+DTEND:20270123T180000Z
+SUMMARY:Strasbourg vs Lyon — Ligue 1
+LOCATION:Stade de la Meinau
+URL:https://www.fotmob.com/match/5803051
+DESCRIPTION:⚽ ستراسبورج × أولمبيك ليون\n🏆 الد
+ وري الفرنسي — الجولة 17\n🗓 السبت 23 يناير 2
+ 027 · 19:00 بتوقيت الرياض\n🏟 Stade de la Meinau\n———
+ ——\n⚽ Strasbourg v Lyon\n🏆 Ligue 1 — Matchday 17\n🗓 Sat 23 J
+ an 2027 · 16:00 UTC\n🏟 Stade de la Meinau\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد أولمبيك ليون 
+ — الدوري الفرنسي | Tomorrow: Strasbourg vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × أولمبيك ليون | Kick-off in 30 min: Strasbourg vs Ly
+ on
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803055@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T160000Z
+DTEND:20270130T180000Z
+SUMMARY:Brest vs Strasbourg — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5803055
+DESCRIPTION:⚽ بريست × ستراسبورج\n🏆 الدوري الف
+ رنسي — الجولة 18\n🗓 السبت 30 يناير 2027 · 19:00 
+ بتوقيت الرياض\n🏟 Stade Francis le Ble\n—————\n⚽
+  Brest v Strasbourg\n🏆 Ligue 1 — Matchday 18\n🗓 Sat 30 Jan 2027 ·
+  16:00 UTC\n🏟 Stade Francis le Ble\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد ستراسبورج — الدور
+ ي الفرنسي | Tomorrow: Brest vs Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × ستراسبورج | Kick-off in 30 min: Brest vs Strasbourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803069@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T160000Z
+DTEND:20270206T180000Z
+SUMMARY:Strasbourg vs Paris FC — Ligue 1
+LOCATION:Stade de la Meinau
+URL:https://www.fotmob.com/match/5803069
+DESCRIPTION:⚽ ستراسبورج × باريس أف.سي.\n🏆 الدو
+ ري الفرنسي — الجولة 19\n🗓 السبت 6 فبراير 20
+ 27 · 19:00 بتوقيت الرياض\n🏟 Stade de la Meinau\n———
+ ——\n⚽ Strasbourg v Paris FC\n🏆 Ligue 1 — Matchday 19\n🗓 Sat 
+ 06 Feb 2027 · 16:00 UTC\n🏟 Stade de la Meinau\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد باريس أف.سي. —
+  الدوري الفرنسي | Tomorrow: Strasbourg vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × باريس أف.سي. | Kick-off in 30 min: Strasbourg vs Pari
+ s FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803072@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270213T160000Z
+DTEND:20270213T180000Z
+SUMMARY:Auxerre vs Strasbourg — Ligue 1
+LOCATION:Stade de l'Abbe-Deschamps
+URL:https://www.fotmob.com/match/5803072
+DESCRIPTION:⚽ أوكسير × ستراسبورج\n🏆 الدوري ال
+ فرنسي — الجولة 20\n🗓 السبت 13 فبراير 2027 · 19
+ :00 بتوقيت الرياض\n🏟 Stade de l'Abbe-Deschamps\n———
+ ——\n⚽ Auxerre v Strasbourg\n🏆 Ligue 1 — Matchday 20\n🗓 Sat 1
+ 3 Feb 2027 · 16:00 UTC\n🏟 Stade de l'Abbe-Deschamps\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوكسير ضد ستراسبورج — الدو
+ ري الفرنسي | Tomorrow: Auxerre vs Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوكسي
+ ر × ستراسبورج | Kick-off in 30 min: Auxerre vs Strasbourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803089@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T160000Z
+DTEND:20270220T180000Z
+SUMMARY:Strasbourg vs Marseille — Ligue 1
+LOCATION:Stade de la Meinau
+URL:https://www.fotmob.com/match/5803089
+DESCRIPTION:⚽ ستراسبورج × مارسيليا\n🏆 الدوري 
+ الفرنسي — الجولة 21\n🗓 السبت 20 فبراير 2027 
+ · 19:00 بتوقيت الرياض\n🏟 Stade de la Meinau\n————
+ —\n⚽ Strasbourg v Marseille\n🏆 Ligue 1 — Matchday 21\n🗓 Sat 20
+  Feb 2027 · 16:00 UTC\n🏟 Stade de la Meinau\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد مارسيليا — ال
+ دوري الفرنسي | Tomorrow: Strasbourg vs Marseille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × مارسيليا | Kick-off in 30 min: Strasbourg vs Marseille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803096@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T160000Z
+DTEND:20270227T180000Z
+SUMMARY:Strasbourg vs Le Havre — Ligue 1
+LOCATION:Stade de la Meinau
+URL:https://www.fotmob.com/match/5803096
+DESCRIPTION:⚽ ستراسبورج × لو آفر\n🏆 الدوري الف
+ رنسي — الجولة 22\n🗓 السبت 27 فبراير 2027 · 19:0
+ 0 بتوقيت الرياض\n🏟 Stade de la Meinau\n—————\n⚽
+  Strasbourg v Le Havre\n🏆 Ligue 1 — Matchday 22\n🗓 Sat 27 Feb 2027
+  · 16:00 UTC\n🏟 Stade de la Meinau\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد لو آفر — الدو
+ ري الفرنسي | Tomorrow: Strasbourg vs Le Havre
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × لو آفر | Kick-off in 30 min: Strasbourg vs Le Havre
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803101@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270306T160000Z
+DTEND:20270306T180000Z
+SUMMARY:Lens vs Strasbourg — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5803101
+DESCRIPTION:⚽ لانس × ستراسبورج\n🏆 الدوري الفر
+ نسي — الجولة 23\n🗓 السبت 6 مارس 2027 · 19:00 بت
+ وقيت الرياض\n🏟 Stade Bollaert-Delelis\n—————\n⚽ L
+ ens v Strasbourg\n🏆 Ligue 1 — Matchday 23\n🗓 Sat 06 Mar 2027 · 16
+ :00 UTC\n🏟 Stade Bollaert-Delelis\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد ستراسبورج — الدوري
+  الفرنسي | Tomorrow: Lens vs Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  ستراسبورج | Kick-off in 30 min: Lens vs Strasbourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803116@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T160000Z
+DTEND:20270313T180000Z
+SUMMARY:Strasbourg vs Angers — Ligue 1
+LOCATION:Stade de la Meinau
+URL:https://www.fotmob.com/match/5803116
+DESCRIPTION:⚽ ستراسبورج × أنجيه\n🏆 الدوري الف
+ رنسي — الجولة 24\n🗓 السبت 13 مارس 2027 · 19:00 ب
+ توقيت الرياض\n🏟 Stade de la Meinau\n—————\n⚽ Str
+ asbourg v Angers\n🏆 Ligue 1 — Matchday 24\n🗓 Sat 13 Mar 2027 · 16
+ :00 UTC\n🏟 Stade de la Meinau\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد أنجيه — الدور
+ ي الفرنسي | Tomorrow: Strasbourg vs Angers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × أنجيه | Kick-off in 30 min: Strasbourg vs Angers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803121@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T160000Z
+DTEND:20270320T180000Z
+SUMMARY:Paris Saint-Germain vs Strasbourg — Ligue 1
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/5803121
+DESCRIPTION:⚽ باريس سان جيرمان × ستراسبورج\n🏆 
+ الدوري الفرنسي — الجولة 25\n🗓 السبت 20 مار
+ س 2027 · 19:00 بتوقيت الرياض\n🏟 Parc des Princes\n——
+ ———\n⚽ Paris Saint-Germain v Strasbourg\n🏆 Ligue 1 — Matchday
+  25\n🗓 Sat 20 Mar 2027 · 16:00 UTC\n🏟 Parc des Princes\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد ستراسب
+ ورج — الدوري الفرنسي | Tomorrow: Paris Saint-Germain vs 
+ Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × ستراسبورج | Kick-off in 30 min: Paris Sain
+ t-Germain vs Strasbourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803134@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270403T150000Z
+DTEND:20270403T170000Z
+SUMMARY:Strasbourg vs Toulouse — Ligue 1
+LOCATION:Stade de la Meinau
+URL:https://www.fotmob.com/match/5803134
+DESCRIPTION:⚽ ستراسبورج × تولوز\n🏆 الدوري الف
+ رنسي — الجولة 26\n🗓 السبت 3 أبريل 2027 · 18:00 
+ بتوقيت الرياض\n🏟 Stade de la Meinau\n—————\n⚽ S
+ trasbourg v Toulouse\n🏆 Ligue 1 — Matchday 26\n🗓 Sat 03 Apr 2027 
+ · 15:00 UTC\n🏟 Stade de la Meinau\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد تولوز — الدور
+ ي الفرنسي | Tomorrow: Strasbourg vs Toulouse
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × تولوز | Kick-off in 30 min: Strasbourg vs Toulouse
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803138@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T150000Z
+DTEND:20270410T170000Z
+SUMMARY:Lyon vs Strasbourg — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5803138
+DESCRIPTION:⚽ أولمبيك ليون × ستراسبورج\n🏆 الد
+ وري الفرنسي — الجولة 27\n🗓 السبت 10 أبريل 2
+ 027 · 18:00 بتوقيت الرياض\n🏟 Groupama Stadium\n———
+ ——\n⚽ Lyon v Strasbourg\n🏆 Ligue 1 — Matchday 27\n🗓 Sat 10 A
+ pr 2027 · 15:00 UTC\n🏟 Groupama Stadium\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد ستراسبورج 
+ — الدوري الفرنسي | Tomorrow: Lyon vs Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × ستراسبورج | Kick-off in 30 min: Lyon vs Strasbou
+ rg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803149@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T150000Z
+DTEND:20270417T170000Z
+SUMMARY:Monaco vs Strasbourg — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5803149
+DESCRIPTION:⚽ موناكو × ستراسبورج\n🏆 الدوري ال
+ فرنسي — الجولة 28\n🗓 السبت 17 أبريل 2027 · 18:0
+ 0 بتوقيت الرياض\n🏟 Stade Louis II, Monaco\n—————\
+ n⚽ Monaco v Strasbourg\n🏆 Ligue 1 — Matchday 28\n🗓 Sat 17 Apr 20
+ 27 · 15:00 UTC\n🏟 Stade Louis II, Monaco\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد ستراسبورج — الدو
+ ري الفرنسي | Tomorrow: Monaco vs Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × ستراسبورج | Kick-off in 30 min: Monaco vs Strasbourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803160@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T150000Z
+DTEND:20270424T170000Z
+SUMMARY:Strasbourg vs Rennes — Ligue 1
+LOCATION:Stade de la Meinau
+URL:https://www.fotmob.com/match/5803160
+DESCRIPTION:⚽ ستراسبورج × ستاد رين\n🏆 الدوري ا
+ لفرنسي — الجولة 29\n🗓 السبت 24 أبريل 2027 · 18
+ :00 بتوقيت الرياض\n🏟 Stade de la Meinau\n—————\n
+ ⚽ Strasbourg v Rennes\n🏆 Ligue 1 — Matchday 29\n🗓 Sat 24 Apr 202
+ 7 · 15:00 UTC\n🏟 Stade de la Meinau\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد ستاد رين — ال
+ دوري الفرنسي | Tomorrow: Strasbourg vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × ستاد رين | Kick-off in 30 min: Strasbourg vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803168@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T150000Z
+DTEND:20270501T170000Z
+SUMMARY:Strasbourg vs Lille — Ligue 1
+LOCATION:Stade de la Meinau
+URL:https://www.fotmob.com/match/5803168
+DESCRIPTION:⚽ ستراسبورج × ليل\n🏆 الدوري الفرن
+ سي — الجولة 30\n🗓 السبت 1 مايو 2027 · 18:00 بتو
+ قيت الرياض\n🏟 Stade de la Meinau\n—————\n⚽ Strasbo
+ urg v Lille\n🏆 Ligue 1 — Matchday 30\n🗓 Sat 01 May 2027 · 15:00 U
+ TC\n🏟 Stade de la Meinau\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد ليل — الدوري 
+ الفرنسي | Tomorrow: Strasbourg vs Lille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × ليل | Kick-off in 30 min: Strasbourg vs Lille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803175@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T150000Z
+DTEND:20270508T170000Z
+SUMMARY:Lorient vs Strasbourg — Ligue 1
+LOCATION:Stade du Moustoir
+URL:https://www.fotmob.com/match/5803175
+DESCRIPTION:⚽ لوريان × ستراسبورج\n🏆 الدوري ال
+ فرنسي — الجولة 31\n🗓 السبت 8 مايو 2027 · 18:00 
+ بتوقيت الرياض\n🏟 Stade du Moustoir\n—————\n⚽ Lo
+ rient v Strasbourg\n🏆 Ligue 1 — Matchday 31\n🗓 Sat 08 May 2027 · 
+ 15:00 UTC\n🏟 Stade du Moustoir\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لوريان ضد ستراسبورج — الدو
+ ري الفرنسي | Tomorrow: Lorient vs Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لوريا
+ ن × ستراسبورج | Kick-off in 30 min: Lorient vs Strasbourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803187@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T150000Z
+DTEND:20270516T170000Z
+SUMMARY:Strasbourg vs Troyes — Ligue 1
+LOCATION:Stade de la Meinau
+URL:https://www.fotmob.com/match/5803187
+DESCRIPTION:⚽ ستراسبورج × تروا\n🏆 الدوري الفر
+ نسي — الجولة 32\n🗓 الأحد 16 مايو 2027 · 18:00 بت
+ وقيت الرياض\n🏟 Stade de la Meinau\n—————\n⚽ Stras
+ bourg v Troyes\n🏆 Ligue 1 — Matchday 32\n🗓 Sun 16 May 2027 · 15:0
+ 0 UTC\n🏟 Stade de la Meinau\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد تروا — الدوري
+  الفرنسي | Tomorrow: Strasbourg vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × تروا | Kick-off in 30 min: Strasbourg vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803191@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270522T150000Z
+DTEND:20270522T170000Z
+SUMMARY:Le Mans vs Strasbourg — Ligue 1
+LOCATION:Stade Marie-Marvingt
+URL:https://www.fotmob.com/match/5803191
+DESCRIPTION:⚽ لومان × ستراسبورج\n🏆 الدوري الف
+ رنسي — الجولة 33\n🗓 السبت 22 مايو 2027 · 18:00 ب
+ توقيت الرياض\n🏟 Stade Marie-Marvingt\n—————\n⚽ L
+ e Mans v Strasbourg\n🏆 Ligue 1 — Matchday 33\n🗓 Sat 22 May 2027 ·
+  15:00 UTC\n🏟 Stade Marie-Marvingt\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد ستراسبورج — الدور
+ ي الفرنسي | Tomorrow: Le Mans vs Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × ستراسبورج | Kick-off in 30 min: Le Mans vs Strasbourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803206@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270529T190000Z
+DTEND:20270529T210000Z
+SUMMARY:Strasbourg vs Nice — Ligue 1
+LOCATION:Stade de la Meinau
+URL:https://www.fotmob.com/match/5803206
+DESCRIPTION:⚽ ستراسبورج × نيس\n🏆 الدوري الفرن
+ سي — الجولة 34\n🗓 السبت 29 مايو 2027 · 22:00 بتو
+ قيت الرياض\n🏟 Stade de la Meinau\n—————\n⚽ Strasbo
+ urg v Nice\n🏆 Ligue 1 — Matchday 34\n🗓 Sat 29 May 2027 · 19:00 UT
+ C\n🏟 Stade de la Meinau\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد نيس — الدوري 
+ الفرنسي | Tomorrow: Strasbourg vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × نيس | Kick-off in 30 min: Strasbourg vs Nice
+END:VALARM
+END:VEVENT
+END:VCALENDAR

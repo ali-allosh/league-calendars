@@ -1,0 +1,1090 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Elversberg — Bundesliga Fixtures | إلفيرسبيرغ 
+ — مباريات الدوري الألماني
+X-WR-CALDESC:Elversberg — all matches in Bundesliga\, exact UTC kickoffs\
+ , stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31
+ :10Z.  •  إلفيرسبيرغ — جميع المباريات في ال
+ دوري الألماني بتوقيت UTC الدقيق مع الملاع
+ ب والقنوات الناقلة. المصدر: FotMob + 365scores · ت
+ حديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5881146@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T133000Z
+DTEND:20260829T153000Z
+SUMMARY:Elversberg vs Bayer Leverkusen (3 - 2) — Bundesliga
+LOCATION:URSAPHARM-Arena an der Kaiserlinde\, Spiesen-Elversberg\, Germany
+GEO:49.318814;7.121705
+URL:https://www.fotmob.com/match/5881146
+DESCRIPTION:⚽ إلفيرسبيرغ × باير ليفركوزن (3 - 2)\n
+ 🏆 الدوري الألماني — الجولة 1\n🗓 السبت 29 
+ أغسطس 2026 · 16:30 بتوقيت الرياض\n🏟 URSAPHARM-Arena a
+ n der Kaiserlinde، Spiesen-Elversberg\n⚖️ الحكم: Robert Hartmann
+ \n👥 الحضور: 9,307\n—————\n⚽ Elversberg v Bayer Leverk
+ usen (3 - 2)\n🏆 Bundesliga — Matchday 1\n🗓 Sat 29 Aug 2026 · 13:3
+ 0 UTC\n🏟 URSAPHARM-Arena an der Kaiserlinde, Spiesen-Elversberg\nRefere
+ e: Robert Hartmann\nAttendance: 9,307\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد باير ليفركوز
+ ن — الدوري الألماني | Tomorrow: Elversberg vs Bayer Lever
+ kusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × باير ليفركوزن | Kick-off in 30 min: Elversberg v
+ s Bayer Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881153@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T133000Z
+DTEND:20260905T153000Z
+SUMMARY:Borussia Mönchengladbach vs Elversberg (3 - 4) — Bundesliga
+LOCATION:ista-Borussia-Park\, Mönchengladbach\, Germany
+GEO:51.174648;6.385320
+URL:https://www.fotmob.com/match/5881153
+DESCRIPTION:⚽ بوروسيا مونشنجلادباخ × إلفيرسبي
+ رغ (3 - 4)\n🏆 الدوري الألماني — الجولة 2\n🗓 
+ السبت 5 سبتمبر 2026 · 16:30 بتوقيت الرياض\n🏟 is
+ ta-Borussia-Park، Mönchengladbach\n📺 شاهد - Shahid VIP\n⚖️ ا
+ لحكم: Martin Petersen\n👥 الحضور: 51,042\n—————\n⚽
+  Borussia Mönchengladbach v Elversberg (3 - 4)\n🏆 Bundesliga — Match
+ day 2\n🗓 Sat 05 Sep 2026 · 13:30 UTC\n🏟 ista-Borussia-Park, Mönche
+ ngladbach\n📺 شاهد - Shahid VIP\nReferee: Martin Petersen\nAttendanc
+ e: 51,042\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا مونشنجلادباخ ضد إل
+ فيرسبيرغ — الدوري الألماني — 📺 شاهد - Sha
+ hid VIP | Tomorrow: Borussia Mönchengladbach vs Elversberg | TV: شاهد
+  - Shahid VIP
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا مونشنجلادباخ × إلفيرسبيرغ — 📺 شاهد - 
+ Shahid VIP | Kick-off in 30 min: Borussia Mönchengladbach vs Elversberg |
+  TV: شاهد - Shahid VIP
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881163@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260913T153000Z
+DTEND:20260913T173000Z
+SUMMARY:Elversberg vs Bayern München — Bundesliga
+LOCATION:URSAPHARM-Arena an der Kaiserlinde\, Spiesen-Elversberg\, Germany
+GEO:49.318814;7.121705
+URL:https://www.fotmob.com/match/5881163
+DESCRIPTION:⚽ إلفيرسبيرغ × بايرن ميونخ\n🏆 الد
+ وري الألماني — الجولة 3\n🗓 الأحد 13 سبتمب
+ ر 2026 · 18:30 بتوقيت الرياض\n🏟 URSAPHARM-Arena an der Ka
+ iserlinde، Spiesen-Elversberg\n—————\n⚽ Elversberg v Bayern M
+ ünchen\n🏆 Bundesliga — Matchday 3\n🗓 Sun 13 Sep 2026 · 15:30 UTC
+ \n🏟 URSAPHARM-Arena an der Kaiserlinde, Spiesen-Elversberg\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد بايرن ميونخ 
+ — الدوري الألماني | Tomorrow: Elversberg vs Bayern Münche
+ n
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × بايرن ميونخ | Kick-off in 30 min: Elversberg vs Ba
+ yern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881176@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T153000Z
+DTEND:20260920T173000Z
+SUMMARY:Schalke 04 vs Elversberg — Bundesliga
+LOCATION:VELTINS-Arena\, Gelsenkirchen\, Germany
+GEO:51.554581;7.067385
+URL:https://www.fotmob.com/match/5881176
+DESCRIPTION:⚽ شالكة × إلفيرسبيرغ\n🏆 الدوري ال
+ ألماني — الجولة 4\n🗓 الأحد 20 سبتمبر 2026 · 1
+ 8:30 بتوقيت الرياض\n🏟 VELTINS-Arena، Gelsenkirchen\n——
+ ———\n⚽ Schalke 04 v Elversberg\n🏆 Bundesliga — Matchday 4\n
+ 🗓 Sun 20 Sep 2026 · 15:30 UTC\n🏟 VELTINS-Arena, Gelsenkirchen\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد إلفيرسبيرغ — الدو
+ ري الألماني | Tomorrow: Schalke 04 vs Elversberg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × إلفيرسبيرغ | Kick-off in 30 min: Schalke 04 vs Elversberg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881187@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T133000Z
+DTEND:20261010T153000Z
+SUMMARY:Union Berlin vs Elversberg — Bundesliga
+LOCATION:Alte Foersterei
+URL:https://www.fotmob.com/match/5881187
+DESCRIPTION:⚽ يونيون برلين × إلفيرسبيرغ\n🏆 ال
+ دوري الألماني — الجولة 5\n🗓 السبت 10 أكتو
+ بر 2026 · 16:30 بتوقيت الرياض\n🏟 Alte Foersterei\n——
+ ———\n⚽ Union Berlin v Elversberg\n🏆 Bundesliga — Matchday 5\n
+ 🗓 Sat 10 Oct 2026 · 13:30 UTC\n🏟 Alte Foersterei\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد إلفيرسبيرغ
+  — الدوري الألماني | Tomorrow: Union Berlin vs Elversberg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × إلفيرسبيرغ | Kick-off in 30 min: Union Berlin v
+ s Elversberg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881192@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T133000Z
+DTEND:20261017T153000Z
+SUMMARY:Elversberg vs Augsburg — Bundesliga
+LOCATION:Ursapharm-Arena
+URL:https://www.fotmob.com/match/5881192
+DESCRIPTION:⚽ إلفيرسبيرغ × أوغسبورغ\n🏆 الدوري
+  الألماني — الجولة 6\n🗓 السبت 17 أكتوبر 2026
+  · 16:30 بتوقيت الرياض\n🏟 Ursapharm-Arena\n—————
+ \n⚽ Elversberg v Augsburg\n🏆 Bundesliga — Matchday 6\n🗓 Sat 17 O
+ ct 2026 · 13:30 UTC\n🏟 Ursapharm-Arena\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد أوغسبورغ — ا
+ لدوري الألماني | Tomorrow: Elversberg vs Augsburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × أوغسبورغ | Kick-off in 30 min: Elversberg vs Augsbur
+ g
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881204@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T133000Z
+DTEND:20261024T153000Z
+SUMMARY:RB Leipzig vs Elversberg — Bundesliga
+LOCATION:Red Bull Arena Leipzig
+URL:https://www.fotmob.com/match/5881204
+DESCRIPTION:⚽ لايبزيج × إلفيرسبيرغ\n🏆 الدوري 
+ الألماني — الجولة 7\n🗓 السبت 24 أكتوبر 2026 
+ · 16:30 بتوقيت الرياض\n🏟 Red Bull Arena Leipzig\n———
+ ——\n⚽ RB Leipzig v Elversberg\n🏆 Bundesliga — Matchday 7\n🗓 
+ Sat 24 Oct 2026 · 13:30 UTC\n🏟 Red Bull Arena Leipzig\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لايبزيج ضد إلفيرسبيرغ — ال
+ دوري الألماني | Tomorrow: RB Leipzig vs Elversberg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لايبز
+ يج × إلفيرسبيرغ | Kick-off in 30 min: RB Leipzig vs Elversber
+ g
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881211@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T143000Z
+DTEND:20261031T163000Z
+SUMMARY:Elversberg vs Mainz 05 — Bundesliga
+LOCATION:Ursapharm-Arena
+URL:https://www.fotmob.com/match/5881211
+DESCRIPTION:⚽ إلفيرسبيرغ × ماينز 05\n🏆 الدوري ا
+ لألماني — الجولة 8\n🗓 السبت 31 أكتوبر 2026 ·
+  17:30 بتوقيت الرياض\n🏟 Ursapharm-Arena\n—————\n
+ ⚽ Elversberg v Mainz 05\n🏆 Bundesliga — Matchday 8\n🗓 Sat 31 Oct
+  2026 · 14:30 UTC\n🏟 Ursapharm-Arena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد ماينز 05 — ال
+ دوري الألماني | Tomorrow: Elversberg vs Mainz 05
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × ماينز 05 | Kick-off in 30 min: Elversberg vs Mainz 05
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881215@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T143000Z
+DTEND:20261107T163000Z
+SUMMARY:Borussia Dortmund vs Elversberg — Bundesliga
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/5881215
+DESCRIPTION:⚽ بوروسيا دورتموند × إلفيرسبيرغ\n
+ 🏆 الدوري الألماني — الجولة 9\n🗓 السبت 7 
+ نوفمبر 2026 · 17:30 بتوقيت الرياض\n🏟 Signal Iduna Pa
+ rk\n—————\n⚽ Borussia Dortmund v Elversberg\n🏆 Bundesliga 
+ — Matchday 9\n🗓 Sat 07 Nov 2026 · 14:30 UTC\n🏟 Signal Iduna Park\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد إلفيرس
+ بيرغ — الدوري الألماني | Tomorrow: Borussia Dortmund v
+ s Elversberg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × إلفيرسبيرغ | Kick-off in 30 min: Boruss
+ ia Dortmund vs Elversberg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881229@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T143000Z
+DTEND:20261121T163000Z
+SUMMARY:Elversberg vs Freiburg — Bundesliga
+LOCATION:Ursapharm-Arena
+URL:https://www.fotmob.com/match/5881229
+DESCRIPTION:⚽ إلفيرسبيرغ × فرايبورج\n🏆 الدوري
+  الألماني — الجولة 10\n🗓 السبت 21 نوفمبر 202
+ 6 · 17:30 بتوقيت الرياض\n🏟 Ursapharm-Arena\n————
+ —\n⚽ Elversberg v Freiburg\n🏆 Bundesliga — Matchday 10\n🗓 Sat 
+ 21 Nov 2026 · 14:30 UTC\n🏟 Ursapharm-Arena\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد فرايبورج — ا
+ لدوري الألماني | Tomorrow: Elversberg vs Freiburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × فرايبورج | Kick-off in 30 min: Elversberg vs Freibur
+ g
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881234@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T143000Z
+DTEND:20261128T163000Z
+SUMMARY:1. FC Köln vs Elversberg — Bundesliga
+LOCATION:RheinEnergieSTADION
+URL:https://www.fotmob.com/match/5881234
+DESCRIPTION:⚽ كولن × إلفيرسبيرغ\n🏆 الدوري الأ
+ لماني — الجولة 11\n🗓 السبت 28 نوفمبر 2026 · 17
+ :30 بتوقيت الرياض\n🏟 RheinEnergieSTADION\n—————\n
+ ⚽ 1. FC Köln v Elversberg\n🏆 Bundesliga — Matchday 11\n🗓 Sat 28
+  Nov 2026 · 14:30 UTC\n🏟 RheinEnergieSTADION\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كولن ضد إلفيرسبيرغ — الدور
+ ي الألماني | Tomorrow: 1. FC Köln vs Elversberg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كولن ×
+  إلفيرسبيرغ | Kick-off in 30 min: 1. FC Köln vs Elversberg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881246@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T143000Z
+DTEND:20261205T163000Z
+SUMMARY:Elversberg vs VfB Stuttgart — Bundesliga
+LOCATION:Ursapharm-Arena
+URL:https://www.fotmob.com/match/5881246
+DESCRIPTION:⚽ إلفيرسبيرغ × شتوتجارت\n🏆 الدوري
+  الألماني — الجولة 12\n🗓 السبت 5 ديسمبر 2026
+  · 17:30 بتوقيت الرياض\n🏟 Ursapharm-Arena\n—————
+ \n⚽ Elversberg v VfB Stuttgart\n🏆 Bundesliga — Matchday 12\n🗓 Sa
+ t 05 Dec 2026 · 14:30 UTC\n🏟 Ursapharm-Arena\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد شتوتجارت — ا
+ لدوري الألماني | Tomorrow: Elversberg vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × شتوتجارت | Kick-off in 30 min: Elversberg vs VfB Stu
+ ttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881257@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T143000Z
+DTEND:20261212T163000Z
+SUMMARY:Paderborn vs Elversberg — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881257
+DESCRIPTION:⚽ بادربورن × إلفيرسبيرغ\n🏆 الدوري
+  الألماني — الجولة 13\n🗓 السبت 12 ديسمبر 202
+ 6 · 17:30 بتوقيت الرياض\n🏟 Home Deluxe Arena\n————
+ —\n⚽ Paderborn v Elversberg\n🏆 Bundesliga — Matchday 13\n🗓 Sat
+  12 Dec 2026 · 14:30 UTC\n🏟 Home Deluxe Arena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد إلفيرسبيرغ — ا
+ لدوري الألماني | Tomorrow: Paderborn vs Elversberg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × إلفيرسبيرغ | Kick-off in 30 min: Paderborn vs Elversbe
+ rg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881263@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T143000Z
+DTEND:20261219T163000Z
+SUMMARY:Elversberg vs Hamburger SV — Bundesliga
+LOCATION:Ursapharm-Arena
+URL:https://www.fotmob.com/match/5881263
+DESCRIPTION:⚽ إلفيرسبيرغ × هامبورج\n🏆 الدوري 
+ الألماني — الجولة 14\n🗓 السبت 19 ديسمبر 2026
+  · 17:30 بتوقيت الرياض\n🏟 Ursapharm-Arena\n—————
+ \n⚽ Elversberg v Hamburger SV\n🏆 Bundesliga — Matchday 14\n🗓 Sat
+  19 Dec 2026 · 14:30 UTC\n🏟 Ursapharm-Arena\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد هامبورج — ال
+ دوري الألماني | Tomorrow: Elversberg vs Hamburger SV
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × هامبورج | Kick-off in 30 min: Elversberg vs Hamburger
+  SV
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881274@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270109T143000Z
+DTEND:20270109T163000Z
+SUMMARY:Hoffenheim vs Elversberg — Bundesliga
+LOCATION:SNP Arena
+URL:https://www.fotmob.com/match/5881274
+DESCRIPTION:⚽ هوفنهايم × إلفيرسبيرغ\n🏆 الدوري
+  الألماني — الجولة 15\n🗓 السبت 9 يناير 2027 
+ · 17:30 بتوقيت الرياض\n🏟 SNP Arena\n—————\n⚽ H
+ offenheim v Elversberg\n🏆 Bundesliga — Matchday 15\n🗓 Sat 09 Jan 2
+ 027 · 14:30 UTC\n🏟 SNP Arena\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هوفنهايم ضد إلفيرسبيرغ — ا
+ لدوري الألماني | Tomorrow: Hoffenheim vs Elversberg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هوفنه
+ ايم × إلفيرسبيرغ | Kick-off in 30 min: Hoffenheim vs Elversb
+ erg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881280@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270112T193000Z
+DTEND:20270112T213000Z
+SUMMARY:Elversberg vs Eintracht Frankfurt — Bundesliga
+LOCATION:Ursapharm-Arena
+URL:https://www.fotmob.com/match/5881280
+DESCRIPTION:⚽ إلفيرسبيرغ × آينتراخت فرانكفورت
+ \n🏆 الدوري الألماني — الجولة 16\n🗓 الثلا
+ ثاء 12 يناير 2027 · 22:30 بتوقيت الرياض\n🏟 Ursapha
+ rm-Arena\n—————\n⚽ Elversberg v Eintracht Frankfurt\n🏆 Bund
+ esliga — Matchday 16\n🗓 Tue 12 Jan 2027 · 19:30 UTC\n🏟 Ursapharm-
+ Arena\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد آينتراخت فرا
+ نكفورت — الدوري الألماني | Tomorrow: Elversberg vs E
+ intracht Frankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × آينتراخت فرانكفورت | Kick-off in 30 min: El
+ versberg vs Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881295@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T143000Z
+DTEND:20270116T163000Z
+SUMMARY:Werder Bremen vs Elversberg — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881295
+DESCRIPTION:⚽ فيردر بريمن × إلفيرسبيرغ\n🏆 الد
+ وري الألماني — الجولة 17\n🗓 السبت 16 يناير
+  2027 · 17:30 بتوقيت الرياض\n🏟 Wohninvest WESERSTADION\n
+ —————\n⚽ Werder Bremen v Elversberg\n🏆 Bundesliga — Match
+ day 17\n🗓 Sat 16 Jan 2027 · 14:30 UTC\n🏟 Wohninvest WESERSTADION\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد إلفيرسبيرغ 
+ — الدوري الألماني | Tomorrow: Werder Bremen vs Elversberg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × إلفيرسبيرغ | Kick-off in 30 min: Werder Bremen vs 
+ Elversberg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881296@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T143000Z
+DTEND:20270123T163000Z
+SUMMARY:Bayer Leverkusen vs Elversberg — Bundesliga
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/5881296
+DESCRIPTION:⚽ باير ليفركوزن × إلفيرسبيرغ\n🏆 ا
+ لدوري الألماني — الجولة 18\n🗓 السبت 23 ينا
+ ير 2027 · 17:30 بتوقيت الرياض\n🏟 BayArena\n————
+ —\n⚽ Bayer Leverkusen v Elversberg\n🏆 Bundesliga — Matchday 18\n
+ 🗓 Sat 23 Jan 2027 · 14:30 UTC\n🏟 BayArena\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد إلفيرسبير
+ غ — الدوري الألماني | Tomorrow: Bayer Leverkusen vs Elver
+ sberg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × إلفيرسبيرغ | Kick-off in 30 min: Bayer Leverku
+ sen vs Elversberg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881308@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T143000Z
+DTEND:20270130T163000Z
+SUMMARY:Elversberg vs Borussia Mönchengladbach — Bundesliga
+LOCATION:Ursapharm-Arena
+URL:https://www.fotmob.com/match/5881308
+DESCRIPTION:⚽ إلفيرسبيرغ × بوروسيا مونشنجلادب
+ اخ\n🏆 الدوري الألماني — الجولة 19\n🗓 الس
+ بت 30 يناير 2027 · 17:30 بتوقيت الرياض\n🏟 Ursapharm
+ -Arena\n—————\n⚽ Elversberg v Borussia Mönchengladbach\n🏆 
+ Bundesliga — Matchday 19\n🗓 Sat 30 Jan 2027 · 14:30 UTC\n🏟 Ursaph
+ arm-Arena\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد بوروسيا مونش
+ نجلادباخ — الدوري الألماني | Tomorrow: Elversberg 
+ vs Borussia Mönchengladbach
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × بوروسيا مونشنجلادباخ | Kick-off in 30 min
+ : Elversberg vs Borussia Mönchengladbach
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881315@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T143000Z
+DTEND:20270206T163000Z
+SUMMARY:Bayern München vs Elversberg — Bundesliga
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/5881315
+DESCRIPTION:⚽ بايرن ميونخ × إلفيرسبيرغ\n🏆 الد
+ وري الألماني — الجولة 20\n🗓 السبت 6 فبراي
+ ر 2027 · 17:30 بتوقيت الرياض\n🏟 Allianz Arena\n———
+ ——\n⚽ Bayern München v Elversberg\n🏆 Bundesliga — Matchday 20\
+ n🗓 Sat 06 Feb 2027 · 14:30 UTC\n🏟 Allianz Arena\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد إلفيرسبيرغ 
+ — الدوري الألماني | Tomorrow: Bayern München vs Elversber
+ g
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × إلفيرسبيرغ | Kick-off in 30 min: Bayern München v
+ s Elversberg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881325@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270213T143000Z
+DTEND:20270213T163000Z
+SUMMARY:Elversberg vs Schalke 04 — Bundesliga
+LOCATION:Ursapharm-Arena
+URL:https://www.fotmob.com/match/5881325
+DESCRIPTION:⚽ إلفيرسبيرغ × شالكة\n🏆 الدوري ال
+ ألماني — الجولة 21\n🗓 السبت 13 فبراير 2027 · 
+ 17:30 بتوقيت الرياض\n🏟 Ursapharm-Arena\n—————\n
+ ⚽ Elversberg v Schalke 04\n🏆 Bundesliga — Matchday 21\n🗓 Sat 13 
+ Feb 2027 · 14:30 UTC\n🏟 Ursapharm-Arena\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد شالكة — الدو
+ ري الألماني | Tomorrow: Elversberg vs Schalke 04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × شالكة | Kick-off in 30 min: Elversberg vs Schalke 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881336@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T143000Z
+DTEND:20270220T163000Z
+SUMMARY:Elversberg vs Union Berlin — Bundesliga
+LOCATION:Ursapharm-Arena
+URL:https://www.fotmob.com/match/5881336
+DESCRIPTION:⚽ إلفيرسبيرغ × يونيون برلين\n🏆 ال
+ دوري الألماني — الجولة 22\n🗓 السبت 20 فبرا
+ ير 2027 · 17:30 بتوقيت الرياض\n🏟 Ursapharm-Arena\n——
+ ———\n⚽ Elversberg v Union Berlin\n🏆 Bundesliga — Matchday 22\
+ n🗓 Sat 20 Feb 2027 · 14:30 UTC\n🏟 Ursapharm-Arena\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد يونيون برلين
+  — الدوري الألماني | Tomorrow: Elversberg vs Union Berlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × يونيون برلين | Kick-off in 30 min: Elversberg vs 
+ Union Berlin
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881341@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T143000Z
+DTEND:20270227T163000Z
+SUMMARY:Augsburg vs Elversberg — Bundesliga
+LOCATION:WWK Arena
+URL:https://www.fotmob.com/match/5881341
+DESCRIPTION:⚽ أوغسبورغ × إلفيرسبيرغ\n🏆 الدوري
+  الألماني — الجولة 23\n🗓 السبت 27 فبراير 202
+ 7 · 17:30 بتوقيت الرياض\n🏟 WWK Arena\n—————\n⚽
+  Augsburg v Elversberg\n🏆 Bundesliga — Matchday 23\n🗓 Sat 27 Feb 2
+ 027 · 14:30 UTC\n🏟 WWK Arena\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوغسبورغ ضد إلفيرسبيرغ — ا
+ لدوري الألماني | Tomorrow: Augsburg vs Elversberg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوغسب
+ ورغ × إلفيرسبيرغ | Kick-off in 30 min: Augsburg vs Elversber
+ g
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881354@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270302T193000Z
+DTEND:20270302T213000Z
+SUMMARY:Elversberg vs RB Leipzig — Bundesliga
+LOCATION:Ursapharm-Arena
+URL:https://www.fotmob.com/match/5881354
+DESCRIPTION:⚽ إلفيرسبيرغ × لايبزيج\n🏆 الدوري 
+ الألماني — الجولة 24\n🗓 الثلاثاء 2 مارس 202
+ 7 · 22:30 بتوقيت الرياض\n🏟 Ursapharm-Arena\n————
+ —\n⚽ Elversberg v RB Leipzig\n🏆 Bundesliga — Matchday 24\n🗓 Tu
+ e 02 Mar 2027 · 19:30 UTC\n🏟 Ursapharm-Arena\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد لايبزيج — ال
+ دوري الألماني | Tomorrow: Elversberg vs RB Leipzig
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × لايبزيج | Kick-off in 30 min: Elversberg vs RB Leipzi
+ g
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881364@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270306T143000Z
+DTEND:20270306T163000Z
+SUMMARY:Mainz 05 vs Elversberg — Bundesliga
+LOCATION:MEWA Arena
+URL:https://www.fotmob.com/match/5881364
+DESCRIPTION:⚽ ماينز 05 × إلفيرسبيرغ\n🏆 الدوري ا
+ لألماني — الجولة 25\n🗓 السبت 6 مارس 2027 · 17:
+ 30 بتوقيت الرياض\n🏟 MEWA Arena\n—————\n⚽ Mainz 
+ 05 v Elversberg\n🏆 Bundesliga — Matchday 25\n🗓 Sat 06 Mar 2027 · 
+ 14:30 UTC\n🏟 MEWA Arena\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ماينز 05 ضد إلفيرسبيرغ — ال
+ دوري الألماني | Tomorrow: Mainz 05 vs Elversberg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ماينز 
+ 05 × إلفيرسبيرغ | Kick-off in 30 min: Mainz 05 vs Elversberg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881373@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T143000Z
+DTEND:20270313T163000Z
+SUMMARY:Elversberg vs Borussia Dortmund — Bundesliga
+LOCATION:Ursapharm-Arena
+URL:https://www.fotmob.com/match/5881373
+DESCRIPTION:⚽ إلفيرسبيرغ × بوروسيا دورتموند\n
+ 🏆 الدوري الألماني — الجولة 26\n🗓 السبت 13
+  مارس 2027 · 17:30 بتوقيت الرياض\n🏟 Ursapharm-Arena\n
+ —————\n⚽ Elversberg v Borussia Dortmund\n🏆 Bundesliga — M
+ atchday 26\n🗓 Sat 13 Mar 2027 · 14:30 UTC\n🏟 Ursapharm-Arena\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد بوروسيا دورت
+ موند — الدوري الألماني | Tomorrow: Elversberg vs Borus
+ sia Dortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × بوروسيا دورتموند | Kick-off in 30 min: Elvers
+ berg vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881379@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T143000Z
+DTEND:20270320T163000Z
+SUMMARY:Freiburg vs Elversberg — Bundesliga
+LOCATION:Europa-Park Stadion
+URL:https://www.fotmob.com/match/5881379
+DESCRIPTION:⚽ فرايبورج × إلفيرسبيرغ\n🏆 الدوري
+  الألماني — الجولة 27\n🗓 السبت 20 مارس 2027 ·
+  17:30 بتوقيت الرياض\n🏟 Europa-Park Stadion\n————
+ —\n⚽ Freiburg v Elversberg\n🏆 Bundesliga — Matchday 27\n🗓 Sat 
+ 20 Mar 2027 · 14:30 UTC\n🏟 Europa-Park Stadion\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فرايبورج ضد إلفيرسبيرغ — ا
+ لدوري الألماني | Tomorrow: Freiburg vs Elversberg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فرايب
+ ورج × إلفيرسبيرغ | Kick-off in 30 min: Freiburg vs Elversber
+ g
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881391@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270403T133000Z
+DTEND:20270403T153000Z
+SUMMARY:Elversberg vs 1. FC Köln — Bundesliga
+LOCATION:Ursapharm-Arena
+URL:https://www.fotmob.com/match/5881391
+DESCRIPTION:⚽ إلفيرسبيرغ × كولن\n🏆 الدوري الأ
+ لماني — الجولة 28\n🗓 السبت 3 أبريل 2027 · 16:30
+  بتوقيت الرياض\n🏟 Ursapharm-Arena\n—————\n⚽ Elv
+ ersberg v 1. FC Köln\n🏆 Bundesliga — Matchday 28\n🗓 Sat 03 Apr 20
+ 27 · 13:30 UTC\n🏟 Ursapharm-Arena\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد كولن — الدور
+ ي الألماني | Tomorrow: Elversberg vs 1. FC Köln
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × كولن | Kick-off in 30 min: Elversberg vs 1. FC Köln
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881402@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T133000Z
+DTEND:20270410T153000Z
+SUMMARY:VfB Stuttgart vs Elversberg — Bundesliga
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/5881402
+DESCRIPTION:⚽ شتوتجارت × إلفيرسبيرغ\n🏆 الدوري
+  الألماني — الجولة 29\n🗓 السبت 10 أبريل 2027 
+ · 16:30 بتوقيت الرياض\n🏟 MHPArena\n—————\n⚽ Vf
+ B Stuttgart v Elversberg\n🏆 Bundesliga — Matchday 29\n🗓 Sat 10 Apr
+  2027 · 13:30 UTC\n🏟 MHPArena\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد إلفيرسبيرغ — ا
+ لدوري الألماني | Tomorrow: VfB Stuttgart vs Elversberg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × إلفيرسبيرغ | Kick-off in 30 min: VfB Stuttgart vs Elve
+ rsberg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881408@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T133000Z
+DTEND:20270417T153000Z
+SUMMARY:Elversberg vs Paderborn — Bundesliga
+LOCATION:Ursapharm-Arena
+URL:https://www.fotmob.com/match/5881408
+DESCRIPTION:⚽ إلفيرسبيرغ × بادربورن\n🏆 الدوري
+  الألماني — الجولة 30\n🗓 السبت 17 أبريل 2027 
+ · 16:30 بتوقيت الرياض\n🏟 Ursapharm-Arena\n—————\
+ n⚽ Elversberg v Paderborn\n🏆 Bundesliga — Matchday 30\n🗓 Sat 17 
+ Apr 2027 · 13:30 UTC\n🏟 Ursapharm-Arena\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد بادربورن — ا
+ لدوري الألماني | Tomorrow: Elversberg vs Paderborn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × بادربورن | Kick-off in 30 min: Elversberg vs Paderbo
+ rn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881417@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T133000Z
+DTEND:20270424T153000Z
+SUMMARY:Hamburger SV vs Elversberg — Bundesliga
+LOCATION:Volksparkstadion
+URL:https://www.fotmob.com/match/5881417
+DESCRIPTION:⚽ هامبورج × إلفيرسبيرغ\n🏆 الدوري 
+ الألماني — الجولة 31\n🗓 السبت 24 أبريل 2027 
+ · 16:30 بتوقيت الرياض\n🏟 Volksparkstadion\n—————
+ \n⚽ Hamburger SV v Elversberg\n🏆 Bundesliga — Matchday 31\n🗓 Sat
+  24 Apr 2027 · 13:30 UTC\n🏟 Volksparkstadion\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هامبورج ضد إلفيرسبيرغ — ال
+ دوري الألماني | Tomorrow: Hamburger SV vs Elversberg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هامبو
+ رج × إلفيرسبيرغ | Kick-off in 30 min: Hamburger SV vs Elversb
+ erg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881425@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T133000Z
+DTEND:20270508T153000Z
+SUMMARY:Elversberg vs Hoffenheim — Bundesliga
+LOCATION:Ursapharm-Arena
+URL:https://www.fotmob.com/match/5881425
+DESCRIPTION:⚽ إلفيرسبيرغ × هوفنهايم\n🏆 الدوري
+  الألماني — الجولة 32\n🗓 السبت 8 مايو 2027 · 
+ 16:30 بتوقيت الرياض\n🏟 Ursapharm-Arena\n—————\n
+ ⚽ Elversberg v Hoffenheim\n🏆 Bundesliga — Matchday 32\n🗓 Sat 08 
+ May 2027 · 13:30 UTC\n🏟 Ursapharm-Arena\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد هوفنهايم — ا
+ لدوري الألماني | Tomorrow: Elversberg vs Hoffenheim
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × هوفنهايم | Kick-off in 30 min: Elversberg vs Hoffenh
+ eim
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881434@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T133000Z
+DTEND:20270515T153000Z
+SUMMARY:Eintracht Frankfurt vs Elversberg — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881434
+DESCRIPTION:⚽ آينتراخت فرانكفورت × إلفيرسبيرغ
+ \n🏆 الدوري الألماني — الجولة 33\n🗓 السبت 
+ 15 مايو 2027 · 16:30 بتوقيت الرياض\n🏟 Deutsche Bank Pa
+ rk\n—————\n⚽ Eintracht Frankfurt v Elversberg\n🏆 Bundesliga
+  — Matchday 33\n🗓 Sat 15 May 2027 · 13:30 UTC\n🏟 Deutsche Bank Pa
+ rk\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد إلفي
+ رسبيرغ — الدوري الألماني | Tomorrow: Eintracht Frank
+ furt vs Elversberg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × إلفيرسبيرغ | Kick-off in 30 min: Ei
+ ntracht Frankfurt vs Elversberg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881442@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270522T133000Z
+DTEND:20270522T153000Z
+SUMMARY:Elversberg vs Werder Bremen — Bundesliga
+LOCATION:Ursapharm-Arena
+URL:https://www.fotmob.com/match/5881442
+DESCRIPTION:⚽ إلفيرسبيرغ × فيردر بريمن\n🏆 الد
+ وري الألماني — الجولة 34\n🗓 السبت 22 مايو 2
+ 027 · 16:30 بتوقيت الرياض\n🏟 Ursapharm-Arena\n————
+ —\n⚽ Elversberg v Werder Bremen\n🏆 Bundesliga — Matchday 34\n🗓
+  Sat 22 May 2027 · 13:30 UTC\n🏟 Ursapharm-Arena\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد فيردر بريمن 
+ — الدوري الألماني | Tomorrow: Elversberg vs Werder Bremen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × فيردر بريمن | Kick-off in 30 min: Elversberg vs We
+ rder Bremen
+END:VALARM
+END:VEVENT
+END:VCALENDAR

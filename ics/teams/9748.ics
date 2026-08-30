@@ -1,0 +1,1319 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Lyon — Ligue 1 & UEFA Europa League Fixtures | أولم
+ بيك ليون — مباريات الدوري الفرنسي والدو
+ ري الأوروبي
+X-WR-CALDESC:Lyon — all matches in Ligue 1 & UEFA Europa League\, exact U
+ TC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026
+ -09-05T19:31:10Z.  •  أولمبيك ليون — جميع المبار
+ يات في الدوري الفرنسي والدوري الأوروبي ب
+ توقيت UTC الدقيق مع الملاعب والقنوات النا
+ قلة. المصدر: FotMob + 365scores · تحديث تلقائي 2026-0
+ 9-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5802908@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T184500Z
+DTEND:20260822T204500Z
+SUMMARY:Toulouse vs Lyon (0 - 2) — Ligue 1
+LOCATION:Stadium de Toulouse\, Toulouse\, France
+GEO:43.583290;1.434038
+URL:https://www.fotmob.com/match/5802908
+DESCRIPTION:⚽ تولوز × أولمبيك ليون (0 - 2)\n🏆 الد
+ وري الفرنسي — الجولة 1\n🗓 السبت 22 أغسطس 20
+ 26 · 21:45 بتوقيت الرياض\n🏟 Stadium de Toulouse، Toulouse
+ \n⚖️ الحكم: Guillaume Paradis\n👥 الحضور: 25,837\n——
+ ———\n⚽ Toulouse v Lyon (0 - 2)\n🏆 Ligue 1 — Matchday 1\n🗓 
+ Sat 22 Aug 2026 · 18:45 UTC\n🏟 Stadium de Toulouse, Toulouse\nReferee:
+  Guillaume Paradis\nAttendance: 25,837\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تولوز ضد أولمبيك ليون — ال
+ دوري الفرنسي | Tomorrow: Toulouse vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تولوز 
+ × أولمبيك ليون | Kick-off in 30 min: Toulouse vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802913@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T184500Z
+DTEND:20260829T204500Z
+SUMMARY:Lyon vs Le Havre (1 - 1) — Ligue 1
+LOCATION:Groupama Stadium\, Décines-Charpieu\, France
+GEO:45.765310;4.982064
+URL:https://www.fotmob.com/match/5802913
+DESCRIPTION:⚽ أولمبيك ليون × لو آفر (1 - 1)\n🏆 الد
+ وري الفرنسي — الجولة 2\n🗓 السبت 29 أغسطس 20
+ 26 · 21:45 بتوقيت الرياض\n🏟 Groupama Stadium، Décines-Ch
+ arpieu\n⚖️ الحكم: François Letexier\n👥 الحضور: 39,841\n
+ —————\n⚽ Lyon v Le Havre (1 - 1)\n🏆 Ligue 1 — Matchday 2\
+ n🗓 Sat 29 Aug 2026 · 18:45 UTC\n🏟 Groupama Stadium, Décines-Charpi
+ eu\nReferee: François Letexier\nAttendance: 39,841\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد لو آفر — ال
+ دوري الفرنسي | Tomorrow: Lyon vs Le Havre
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × لو آفر | Kick-off in 30 min: Lyon vs Le Havre
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802922@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260904T170000Z
+DTEND:20260904T190000Z
+SUMMARY:Lyon vs Auxerre (3 - 1) — Ligue 1
+LOCATION:Groupama Stadium\, Décines-Charpieu\, France
+GEO:45.765310;4.982064
+URL:https://www.fotmob.com/match/5802922
+DESCRIPTION:⚽ أولمبيك ليون × أوكسير (3 - 1)\n🏆 ال
+ دوري الفرنسي — الجولة 3\n🗓 الجمعة 4 سبتمب
+ ر 2026 · 20:00 بتوقيت الرياض\n🏟 Groupama Stadium، Décin
+ es-Charpieu\n⚖️ الحكم: Ruddy Buquet\n—————\n⚽ Lyon v 
+ Auxerre (3 - 1)\n🏆 Ligue 1 — Matchday 3\n🗓 Fri 04 Sep 2026 · 17:0
+ 0 UTC\n🏟 Groupama Stadium, Décines-Charpieu\nReferee: Ruddy Buquet\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد أوكسير — ا
+ لدوري الفرنسي | Tomorrow: Lyon vs Auxerre
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × أوكسير | Kick-off in 30 min: Lyon vs Auxerre
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802934@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T184500Z
+DTEND:20260912T204500Z
+SUMMARY:Paris FC vs Lyon — Ligue 1
+LOCATION:Stade Jean Bouin\, Paris\, France
+GEO:48.843148;2.252916
+URL:https://www.fotmob.com/match/5802934
+DESCRIPTION:⚽ باريس أف.سي. × أولمبيك ليون\n🏆 ال
+ دوري الفرنسي — الجولة 4\n🗓 السبت 12 سبتمب
+ ر 2026 · 21:45 بتوقيت الرياض\n🏟 Stade Jean Bouin، Paris\
+ n📺 TV5MONDE، OneFootball PPV، Ligue 1+\n—————\n⚽ Paris FC
+  v Lyon\n🏆 Ligue 1 — Matchday 4\n🗓 Sat 12 Sep 2026 · 18:45 UTC\n
+ 🏟 Stade Jean Bouin, Paris\n📺 TV5MONDE, OneFootball PPV, Ligue 1+\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد أولمبيك ليو
+ ن — الدوري الفرنسي — 📺 TV5MONDE، OneFootball PPV، L
+ igue 1+ | Tomorrow: Paris FC vs Lyon | TV: TV5MONDE\, OneFootball PPV\, Li
+ gue 1+
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × أولمبيك ليون — 📺 TV5MONDE، OneFootball PPV
+ ، Ligue 1+ | Kick-off in 30 min: Paris FC vs Lyon | TV: TV5MONDE\, OneFoo
+ tball PPV\, Ligue 1+
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802940@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T184500Z
+DTEND:20260919T204500Z
+SUMMARY:Lyon vs Rennes — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5802940
+DESCRIPTION:⚽ أولمبيك ليون × ستاد رين\n🏆 الدور
+ ي الفرنسي — الجولة 5\n🗓 السبت 19 سبتمبر 2026
+  · 21:45 بتوقيت الرياض\n🏟 Groupama Stadium\n————
+ —\n⚽ Lyon v Rennes\n🏆 Ligue 1 — Matchday 5\n🗓 Sat 19 Sep 2026 
+ · 18:45 UTC\n🏟 Groupama Stadium\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد ستاد رين — 
+ الدوري الفرنسي | Tomorrow: Lyon vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × ستاد رين | Kick-off in 30 min: Lyon vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802947@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261009T184500Z
+DTEND:20261009T204500Z
+SUMMARY:Lens vs Lyon — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5802947
+DESCRIPTION:⚽ لانس × أولمبيك ليون\n🏆 الدوري ال
+ فرنسي — الجولة 6\n🗓 الجمعة 9 أكتوبر 2026 · 21
+ :45 بتوقيت الرياض\n🏟 Stade Bollaert-Delelis\n————
+ —\n⚽ Lens v Lyon\n🏆 Ligue 1 — Matchday 6\n🗓 Fri 09 Oct 2026 ·
+  18:45 UTC\n🏟 Stade Bollaert-Delelis\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد أولمبيك ليون — الد
+ وري الفرنسي | Tomorrow: Lens vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  أولمبيك ليون | Kick-off in 30 min: Lens vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802960@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T184500Z
+DTEND:20261018T204500Z
+SUMMARY:Lyon vs Nice — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5802960
+DESCRIPTION:⚽ أولمبيك ليون × نيس\n🏆 الدوري الف
+ رنسي — الجولة 7\n🗓 الأحد 18 أكتوبر 2026 · 21:45
+  بتوقيت الرياض\n🏟 Groupama Stadium\n—————\n⚽ Ly
+ on v Nice\n🏆 Ligue 1 — Matchday 7\n🗓 Sun 18 Oct 2026 · 18:45 UTC\
+ n🏟 Groupama Stadium\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد نيس — الدو
+ ري الفرنسي | Tomorrow: Lyon vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × نيس | Kick-off in 30 min: Lyon vs Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802972@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T194500Z
+DTEND:20261025T214500Z
+SUMMARY:Paris Saint-Germain vs Lyon — Ligue 1
+LOCATION:Parc des Princes\, Paris\, France
+GEO:48.841433;2.253049
+URL:https://www.fotmob.com/match/5802972
+DESCRIPTION:⚽ باريس سان جيرمان × أولمبيك ليون\n
+ 🏆 الدوري الفرنسي — الجولة 8\n🗓 الأحد 25 أ
+ كتوبر 2026 · 22:45 بتوقيت الرياض\n🏟 Parc des Princes
+ ، Paris\n—————\n⚽ Paris Saint-Germain v Lyon\n🏆 Ligue 1 
+ — Matchday 8\n🗓 Sun 25 Oct 2026 · 19:45 UTC\n🏟 Parc des Princes, 
+ Paris\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد أولمبي
+ ك ليون — الدوري الفرنسي | Tomorrow: Paris Saint-Germai
+ n vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × أولمبيك ليون | Kick-off in 30 min: Paris
+  Saint-Germain vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802976@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T194500Z
+DTEND:20261031T214500Z
+SUMMARY:Lyon vs Angers — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5802976
+DESCRIPTION:⚽ أولمبيك ليون × أنجيه\n🏆 الدوري ا
+ لفرنسي — الجولة 9\n🗓 السبت 31 أكتوبر 2026 · 2
+ 2:45 بتوقيت الرياض\n🏟 Groupama Stadium\n—————\n
+ ⚽ Lyon v Angers\n🏆 Ligue 1 — Matchday 9\n🗓 Sat 31 Oct 2026 · 19
+ :45 UTC\n🏟 Groupama Stadium\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد أنجيه — ال
+ دوري الفرنسي | Tomorrow: Lyon vs Angers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × أنجيه | Kick-off in 30 min: Lyon vs Angers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802984@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T161500Z
+DTEND:20261108T181500Z
+SUMMARY:Brest vs Lyon — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5802984
+DESCRIPTION:⚽ بريست × أولمبيك ليون\n🏆 الدوري ا
+ لفرنسي — الجولة 10\n🗓 الأحد 8 نوفمبر 2026 · 1
+ 9:15 بتوقيت الرياض\n🏟 Stade Francis le Ble\n—————
+ \n⚽ Brest v Lyon\n🏆 Ligue 1 — Matchday 10\n🗓 Sun 08 Nov 2026 · 
+ 16:15 UTC\n🏟 Stade Francis le Ble\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد أولمبيك ليون — ال
+ دوري الفرنسي | Tomorrow: Brest vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × أولمبيك ليون | Kick-off in 30 min: Brest vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802992@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T194500Z
+DTEND:20261121T214500Z
+SUMMARY:Lille vs Lyon — Ligue 1
+LOCATION:Decathlon Arena-Stade Pierre-Mauroy
+URL:https://www.fotmob.com/match/5802992
+DESCRIPTION:⚽ ليل × أولمبيك ليون\n🏆 الدوري الف
+ رنسي — الجولة 11\n🗓 السبت 21 نوفمبر 2026 · 22:4
+ 5 بتوقيت الرياض\n🏟 Decathlon Arena-Stade Pierre-Mauroy\n—
+ ————\n⚽ Lille v Lyon\n🏆 Ligue 1 — Matchday 11\n🗓 Sat 21 
+ Nov 2026 · 19:45 UTC\n🏟 Decathlon Arena-Stade Pierre-Mauroy\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليل ضد أولمبيك ليون — الدو
+ ري الفرنسي | Tomorrow: Lille vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليل × 
+ أولمبيك ليون | Kick-off in 30 min: Lille vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803005@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:Lyon vs Monaco — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5803005
+DESCRIPTION:⚽ أولمبيك ليون × موناكو\n🏆 الدوري 
+ الفرنسي — الجولة 12\n🗓 السبت 28 نوفمبر 2026 
+ · 19:00 بتوقيت الرياض\n🏟 Groupama Stadium\n—————
+ \n⚽ Lyon v Monaco\n🏆 Ligue 1 — Matchday 12\n🗓 Sat 28 Nov 2026 ·
+  16:00 UTC\n🏟 Groupama Stadium\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد موناكو — ا
+ لدوري الفرنسي | Tomorrow: Lyon vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × موناكو | Kick-off in 30 min: Lyon vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803017@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T160000Z
+DTEND:20261205T180000Z
+SUMMARY:Troyes vs Lyon — Ligue 1
+LOCATION:Stade de l'Aube
+URL:https://www.fotmob.com/match/5803017
+DESCRIPTION:⚽ تروا × أولمبيك ليون\n🏆 الدوري ال
+ فرنسي — الجولة 13\n🗓 السبت 5 ديسمبر 2026 · 19:
+ 00 بتوقيت الرياض\n🏟 Stade de l'Aube\n—————\n⚽ T
+ royes v Lyon\n🏆 Ligue 1 — Matchday 13\n🗓 Sat 05 Dec 2026 · 16:00 
+ UTC\n🏟 Stade de l'Aube\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد أولمبيك ليون — الد
+ وري الفرنسي | Tomorrow: Troyes vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  أولمبيك ليون | Kick-off in 30 min: Troyes vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803026@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T194500Z
+DTEND:20261213T214500Z
+SUMMARY:Lyon vs Marseille — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5803026
+DESCRIPTION:⚽ أولمبيك ليون × مارسيليا\n🏆 الدو
+ ري الفرنسي — الجولة 14\n🗓 الأحد 13 ديسمبر 2
+ 026 · 22:45 بتوقيت الرياض\n🏟 Groupama Stadium\n———
+ ——\n⚽ Lyon v Marseille\n🏆 Ligue 1 — Matchday 14\n🗓 Sun 13 De
+ c 2026 · 19:45 UTC\n🏟 Groupama Stadium\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد مارسيليا —
+  الدوري الفرنسي | Tomorrow: Lyon vs Marseille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × مارسيليا | Kick-off in 30 min: Lyon vs Marseille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803028@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T160000Z
+DTEND:20270102T180000Z
+SUMMARY:Le Mans vs Lyon — Ligue 1
+LOCATION:Stade Marie-Marvingt
+URL:https://www.fotmob.com/match/5803028
+DESCRIPTION:⚽ لومان × أولمبيك ليون\n🏆 الدوري ا
+ لفرنسي — الجولة 15\n🗓 السبت 2 يناير 2027 · 19:
+ 00 بتوقيت الرياض\n🏟 Stade Marie-Marvingt\n—————\n
+ ⚽ Le Mans v Lyon\n🏆 Ligue 1 — Matchday 15\n🗓 Sat 02 Jan 2027 · 
+ 16:00 UTC\n🏟 Stade Marie-Marvingt\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد أولمبيك ليون — ال
+ دوري الفرنسي | Tomorrow: Le Mans vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × أولمبيك ليون | Kick-off in 30 min: Le Mans vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803038@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T160000Z
+DTEND:20270116T180000Z
+SUMMARY:Lyon vs Lorient — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5803038
+DESCRIPTION:⚽ أولمبيك ليون × لوريان\n🏆 الدوري 
+ الفرنسي — الجولة 16\n🗓 السبت 16 يناير 2027 · 
+ 19:00 بتوقيت الرياض\n🏟 Groupama Stadium\n—————\n
+ ⚽ Lyon v Lorient\n🏆 Ligue 1 — Matchday 16\n🗓 Sat 16 Jan 2027 · 
+ 16:00 UTC\n🏟 Groupama Stadium\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد لوريان — ا
+ لدوري الفرنسي | Tomorrow: Lyon vs Lorient
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × لوريان | Kick-off in 30 min: Lyon vs Lorient
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803051@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T160000Z
+DTEND:20270123T180000Z
+SUMMARY:Strasbourg vs Lyon — Ligue 1
+LOCATION:Stade de la Meinau
+URL:https://www.fotmob.com/match/5803051
+DESCRIPTION:⚽ ستراسبورج × أولمبيك ليون\n🏆 الد
+ وري الفرنسي — الجولة 17\n🗓 السبت 23 يناير 2
+ 027 · 19:00 بتوقيت الرياض\n🏟 Stade de la Meinau\n———
+ ——\n⚽ Strasbourg v Lyon\n🏆 Ligue 1 — Matchday 17\n🗓 Sat 23 J
+ an 2027 · 16:00 UTC\n🏟 Stade de la Meinau\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد أولمبيك ليون 
+ — الدوري الفرنسي | Tomorrow: Strasbourg vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × أولمبيك ليون | Kick-off in 30 min: Strasbourg vs Ly
+ on
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803057@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T160000Z
+DTEND:20270130T180000Z
+SUMMARY:Lyon vs Lille — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5803057
+DESCRIPTION:⚽ أولمبيك ليون × ليل\n🏆 الدوري الف
+ رنسي — الجولة 18\n🗓 السبت 30 يناير 2027 · 19:00 
+ بتوقيت الرياض\n🏟 Groupama Stadium\n—————\n⚽ Lyo
+ n v Lille\n🏆 Ligue 1 — Matchday 18\n🗓 Sat 30 Jan 2027 · 16:00 UTC
+ \n🏟 Groupama Stadium\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد ليل — الدو
+ ري الفرنسي | Tomorrow: Lyon vs Lille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × ليل | Kick-off in 30 min: Lyon vs Lille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803068@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T160000Z
+DTEND:20270206T180000Z
+SUMMARY:Rennes vs Lyon — Ligue 1
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/5803068
+DESCRIPTION:⚽ ستاد رين × أولمبيك ليون\n🏆 الدور
+ ي الفرنسي — الجولة 19\n🗓 السبت 6 فبراير 2027
+  · 19:00 بتوقيت الرياض\n🏟 Roazhon Park\n—————\n
+ ⚽ Rennes v Lyon\n🏆 Ligue 1 — Matchday 19\n🗓 Sat 06 Feb 2027 · 1
+ 6:00 UTC\n🏟 Roazhon Park\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد أولمبيك ليون — 
+ الدوري الفرنسي | Tomorrow: Rennes vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × أولمبيك ليون | Kick-off in 30 min: Rennes vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803077@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270213T160000Z
+DTEND:20270213T180000Z
+SUMMARY:Lyon vs Lens — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5803077
+DESCRIPTION:⚽ أولمبيك ليون × لانس\n🏆 الدوري ال
+ فرنسي — الجولة 20\n🗓 السبت 13 فبراير 2027 · 19
+ :00 بتوقيت الرياض\n🏟 Groupama Stadium\n—————\n⚽
+  Lyon v Lens\n🏆 Ligue 1 — Matchday 20\n🗓 Sat 13 Feb 2027 · 16:00 
+ UTC\n🏟 Groupama Stadium\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد لانس — الد
+ وري الفرنسي | Tomorrow: Lyon vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × لانس | Kick-off in 30 min: Lyon vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803082@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T160000Z
+DTEND:20270220T180000Z
+SUMMARY:Le Havre vs Lyon — Ligue 1
+LOCATION:Stade Oceane
+URL:https://www.fotmob.com/match/5803082
+DESCRIPTION:⚽ لو آفر × أولمبيك ليون\n🏆 الدوري 
+ الفرنسي — الجولة 21\n🗓 السبت 20 فبراير 2027 
+ · 19:00 بتوقيت الرياض\n🏟 Stade Oceane\n—————\n
+ ⚽ Le Havre v Lyon\n🏆 Ligue 1 — Matchday 21\n🗓 Sat 20 Feb 2027 ·
+  16:00 UTC\n🏟 Stade Oceane\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لو آفر ضد أولمبيك ليون — ال
+ دوري الفرنسي | Tomorrow: Le Havre vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لو آفر
+  × أولمبيك ليون | Kick-off in 30 min: Le Havre vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803094@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T160000Z
+DTEND:20270227T180000Z
+SUMMARY:Lyon vs Toulouse — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5803094
+DESCRIPTION:⚽ أولمبيك ليون × تولوز\n🏆 الدوري ا
+ لفرنسي — الجولة 22\n🗓 السبت 27 فبراير 2027 · 
+ 19:00 بتوقيت الرياض\n🏟 Groupama Stadium\n—————\n
+ ⚽ Lyon v Toulouse\n🏆 Ligue 1 — Matchday 22\n🗓 Sat 27 Feb 2027 ·
+  16:00 UTC\n🏟 Groupama Stadium\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد تولوز — ال
+ دوري الفرنسي | Tomorrow: Lyon vs Toulouse
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × تولوز | Kick-off in 30 min: Lyon vs Toulouse
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803103@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270306T160000Z
+DTEND:20270306T180000Z
+SUMMARY:Monaco vs Lyon — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5803103
+DESCRIPTION:⚽ موناكو × أولمبيك ليون\n🏆 الدوري 
+ الفرنسي — الجولة 23\n🗓 السبت 6 مارس 2027 · 19:
+ 00 بتوقيت الرياض\n🏟 Stade Louis II, Monaco\n—————
+ \n⚽ Monaco v Lyon\n🏆 Ligue 1 — Matchday 23\n🗓 Sat 06 Mar 2027 ·
+  16:00 UTC\n🏟 Stade Louis II, Monaco\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد أولمبيك ليون — ا
+ لدوري الفرنسي | Tomorrow: Monaco vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × أولمبيك ليون | Kick-off in 30 min: Monaco vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803112@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T160000Z
+DTEND:20270313T180000Z
+SUMMARY:Lyon vs Troyes — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5803112
+DESCRIPTION:⚽ أولمبيك ليون × تروا\n🏆 الدوري ال
+ فرنسي — الجولة 24\n🗓 السبت 13 مارس 2027 · 19:00 
+ بتوقيت الرياض\n🏟 Groupama Stadium\n—————\n⚽ Lyo
+ n v Troyes\n🏆 Ligue 1 — Matchday 24\n🗓 Sat 13 Mar 2027 · 16:00 UT
+ C\n🏟 Groupama Stadium\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد تروا — الد
+ وري الفرنسي | Tomorrow: Lyon vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × تروا | Kick-off in 30 min: Lyon vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803125@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T194500Z
+DTEND:20270321T214500Z
+SUMMARY:Marseille vs Lyon — Ligue 1
+LOCATION:Stade Orange Velodrome
+URL:https://www.fotmob.com/match/5803125
+DESCRIPTION:⚽ مارسيليا × أولمبيك ليون\n🏆 الدو
+ ري الفرنسي — الجولة 25\n🗓 الأحد 21 مارس 2027 
+ · 22:45 بتوقيت الرياض\n🏟 Stade Orange Velodrome\n———
+ ——\n⚽ Marseille v Lyon\n🏆 Ligue 1 — Matchday 25\n🗓 Sun 21 Ma
+ r 2027 · 19:45 UTC\n🏟 Stade Orange Velodrome\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مارسيليا ضد أولمبيك ليون —
+  الدوري الفرنسي | Tomorrow: Marseille vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مارسي
+ ليا × أولمبيك ليون | Kick-off in 30 min: Marseille vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803132@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270403T150000Z
+DTEND:20270403T170000Z
+SUMMARY:Nice vs Lyon — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5803132
+DESCRIPTION:⚽ نيس × أولمبيك ليون\n🏆 الدوري الف
+ رنسي — الجولة 26\n🗓 السبت 3 أبريل 2027 · 18:00 
+ بتوقيت الرياض\n🏟 Allianz Riviera\n—————\n⚽ Nice
+  v Lyon\n🏆 Ligue 1 — Matchday 26\n🗓 Sat 03 Apr 2027 · 15:00 UTC\n
+ 🏟 Allianz Riviera\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد أولمبيك ليون — الدو
+ ري الفرنسي | Tomorrow: Nice vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ أولمبيك ليون | Kick-off in 30 min: Nice vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803138@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T150000Z
+DTEND:20270410T170000Z
+SUMMARY:Lyon vs Strasbourg — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5803138
+DESCRIPTION:⚽ أولمبيك ليون × ستراسبورج\n🏆 الد
+ وري الفرنسي — الجولة 27\n🗓 السبت 10 أبريل 2
+ 027 · 18:00 بتوقيت الرياض\n🏟 Groupama Stadium\n———
+ ——\n⚽ Lyon v Strasbourg\n🏆 Ligue 1 — Matchday 27\n🗓 Sat 10 A
+ pr 2027 · 15:00 UTC\n🏟 Groupama Stadium\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد ستراسبورج 
+ — الدوري الفرنسي | Tomorrow: Lyon vs Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × ستراسبورج | Kick-off in 30 min: Lyon vs Strasbou
+ rg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803144@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T150000Z
+DTEND:20270417T170000Z
+SUMMARY:Angers vs Lyon — Ligue 1
+LOCATION:Stade Raymond Kopa
+URL:https://www.fotmob.com/match/5803144
+DESCRIPTION:⚽ أنجيه × أولمبيك ليون\n🏆 الدوري ا
+ لفرنسي — الجولة 28\n🗓 السبت 17 أبريل 2027 · 18
+ :00 بتوقيت الرياض\n🏟 Stade Raymond Kopa\n—————\n
+ ⚽ Angers v Lyon\n🏆 Ligue 1 — Matchday 28\n🗓 Sat 17 Apr 2027 · 1
+ 5:00 UTC\n🏟 Stade Raymond Kopa\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أنجيه ضد أولمبيك ليون — ال
+ دوري الفرنسي | Tomorrow: Angers vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أنجيه 
+ × أولمبيك ليون | Kick-off in 30 min: Angers vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803156@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T150000Z
+DTEND:20270424T170000Z
+SUMMARY:Lyon vs Brest — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5803156
+DESCRIPTION:⚽ أولمبيك ليون × بريست\n🏆 الدوري ا
+ لفرنسي — الجولة 29\n🗓 السبت 24 أبريل 2027 · 18
+ :00 بتوقيت الرياض\n🏟 Groupama Stadium\n—————\n⚽
+  Lyon v Brest\n🏆 Ligue 1 — Matchday 29\n🗓 Sat 24 Apr 2027 · 15:00
+  UTC\n🏟 Groupama Stadium\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد بريست — ال
+ دوري الفرنسي | Tomorrow: Lyon vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × بريست | Kick-off in 30 min: Lyon vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803162@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T150000Z
+DTEND:20270501T170000Z
+SUMMARY:Auxerre vs Lyon — Ligue 1
+LOCATION:Stade de l'Abbe-Deschamps
+URL:https://www.fotmob.com/match/5803162
+DESCRIPTION:⚽ أوكسير × أولمبيك ليون\n🏆 الدوري 
+ الفرنسي — الجولة 30\n🗓 السبت 1 مايو 2027 · 18:
+ 00 بتوقيت الرياض\n🏟 Stade de l'Abbe-Deschamps\n————
+ —\n⚽ Auxerre v Lyon\n🏆 Ligue 1 — Matchday 30\n🗓 Sat 01 May 202
+ 7 · 15:00 UTC\n🏟 Stade de l'Abbe-Deschamps\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوكسير ضد أولمبيك ليون — ا
+ لدوري الفرنسي | Tomorrow: Auxerre vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوكسي
+ ر × أولمبيك ليون | Kick-off in 30 min: Auxerre vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803179@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T184500Z
+DTEND:20270509T204500Z
+SUMMARY:Lyon vs Paris Saint-Germain — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5803179
+DESCRIPTION:⚽ أولمبيك ليون × باريس سان جيرمان\n
+ 🏆 الدوري الفرنسي — الجولة 31\n🗓 الأحد 9 م
+ ايو 2027 · 21:45 بتوقيت الرياض\n🏟 Groupama Stadium\n—
+ ————\n⚽ Lyon v Paris Saint-Germain\n🏆 Ligue 1 — Matchday 31
+ \n🗓 Sun 09 May 2027 · 18:45 UTC\n🏟 Groupama Stadium\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد باريس سان ج
+ يرمان — الدوري الفرنسي | Tomorrow: Lyon vs Paris Saint
+ -Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × باريس سان جيرمان | Kick-off in 30 min: Lyon
+  vs Paris Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803183@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T150000Z
+DTEND:20270516T170000Z
+SUMMARY:Lyon vs Le Mans — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5803183
+DESCRIPTION:⚽ أولمبيك ليون × لومان\n🏆 الدوري ا
+ لفرنسي — الجولة 32\n🗓 الأحد 16 مايو 2027 · 18:0
+ 0 بتوقيت الرياض\n🏟 Groupama Stadium\n—————\n⚽ L
+ yon v Le Mans\n🏆 Ligue 1 — Matchday 32\n🗓 Sun 16 May 2027 · 15:00
+  UTC\n🏟 Groupama Stadium\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد لومان — ال
+ دوري الفرنسي | Tomorrow: Lyon vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × لومان | Kick-off in 30 min: Lyon vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803193@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270522T150000Z
+DTEND:20270522T170000Z
+SUMMARY:Lorient vs Lyon — Ligue 1
+LOCATION:Stade du Moustoir
+URL:https://www.fotmob.com/match/5803193
+DESCRIPTION:⚽ لوريان × أولمبيك ليون\n🏆 الدوري 
+ الفرنسي — الجولة 33\n🗓 السبت 22 مايو 2027 · 18
+ :00 بتوقيت الرياض\n🏟 Stade du Moustoir\n—————\n
+ ⚽ Lorient v Lyon\n🏆 Ligue 1 — Matchday 33\n🗓 Sat 22 May 2027 · 
+ 15:00 UTC\n🏟 Stade du Moustoir\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لوريان ضد أولمبيك ليون — ا
+ لدوري الفرنسي | Tomorrow: Lorient vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لوريا
+ ن × أولمبيك ليون | Kick-off in 30 min: Lorient vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803201@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270529T190000Z
+DTEND:20270529T210000Z
+SUMMARY:Lyon vs Paris FC — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5803201
+DESCRIPTION:⚽ أولمبيك ليون × باريس أف.سي.\n🏆 ال
+ دوري الفرنسي — الجولة 34\n🗓 السبت 29 مايو 2
+ 027 · 22:00 بتوقيت الرياض\n🏟 Groupama Stadium\n———
+ ——\n⚽ Lyon v Paris FC\n🏆 Ligue 1 — Matchday 34\n🗓 Sat 29 May
+  2027 · 19:00 UTC\n🏟 Groupama Stadium\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد باريس أف.سي
+ . — الدوري الفرنسي | Tomorrow: Lyon vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × باريس أف.سي. | Kick-off in 30 min: Lyon vs Paris
+  FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112310@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T190000Z
+DTEND:20260916T210000Z
+SUMMARY:Anderlecht vs Lyon — UEFA Europa League
+LOCATION:Lotto Park\, Bruxelles (Brussel)\, Belgium
+GEO:50.834182;4.298353
+URL:https://www.fotmob.com/match/6112310
+DESCRIPTION:⚽ أندرلخت × أولمبيك ليون\n🏆 الدور
+ ي الأوروبي — الجولة 1\n🗓 الأربعاء 16 سبتم
+ بر 2026 · 22:00 بتوقيت الرياض\n🏟 Lotto Park، Bruxelles 
+ (Brussel)\n—————\n⚽ Anderlecht v Lyon\n🏆 UEFA Europa League
+  — Matchday 1\n🗓 Wed 16 Sep 2026 · 19:00 UTC\n🏟 Lotto Park, Bruxe
+ lles (Brussel)\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أندرلخت ضد أولمبيك ليون — 
+ الدوري الأوروبي | Tomorrow: Anderlecht vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أندرل
+ خت × أولمبيك ليون | Kick-off in 30 min: Anderlecht vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112260@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:Lyon vs Crystal Palace — UEFA Europa League
+LOCATION:Groupama Stadium\, Décines-Charpieu\, France
+GEO:45.765310;4.982064
+URL:https://www.fotmob.com/match/6112260
+DESCRIPTION:⚽ أولمبيك ليون × كريستال بالاس\n🏆 
+ الدوري الأوروبي — الجولة 2\n🗓 الخميس 15 أ
+ كتوبر 2026 · 19:45 بتوقيت الرياض\n🏟 Groupama Stadium
+ ، Décines-Charpieu\n—————\n⚽ Lyon v Crystal Palace\n🏆 UEF
+ A Europa League — Matchday 2\n🗓 Thu 15 Oct 2026 · 16:45 UTC\n🏟 Gr
+ oupama Stadium, Décines-Charpieu\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد كريستال با
+ لاس — الدوري الأوروبي | Tomorrow: Lyon vs Crystal Palac
+ e
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × كريستال بالاس | Kick-off in 30 min: Lyon vs C
+ rystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112350@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Hoffenheim vs Lyon — UEFA Europa League
+LOCATION:SNP Arena\, Sinsheim\, Germany
+GEO:49.238005;8.887741
+URL:https://www.fotmob.com/match/6112350
+DESCRIPTION:⚽ هوفنهايم × أولمبيك ليون\n🏆 الدو
+ ري الأوروبي — الجولة 3\n🗓 الخميس 22 أكتوب
+ ر 2026 · 22:00 بتوقيت الرياض\n🏟 SNP Arena، Sinsheim\n—
+ ————\n⚽ Hoffenheim v Lyon\n🏆 UEFA Europa League — Matchday 
+ 3\n🗓 Thu 22 Oct 2026 · 19:00 UTC\n🏟 SNP Arena, Sinsheim\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هوفنهايم ضد أولمبيك ليون —
+  الدوري الأوروبي | Tomorrow: Hoffenheim vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هوفنه
+ ايم × أولمبيك ليون | Kick-off in 30 min: Hoffenheim vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112270@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:Real Sociedad vs Lyon — UEFA Europa League
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/6112270
+DESCRIPTION:⚽ ريال سوسيداد × أولمبيك ليون\n🏆 ا
+ لدوري الأوروبي — الجولة 4\n🗓 الخميس 5 نوف
+ مبر 2026 · 20:45 بتوقيت الرياض\n🏟 Reale Arena\n——
+ ———\n⚽ Real Sociedad v Lyon\n🏆 UEFA Europa League — Matchday 
+ 4\n🗓 Thu 05 Nov 2026 · 17:45 UTC\n🏟 Reale Arena\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد أولمبيك لي
+ ون — الدوري الأوروبي | Tomorrow: Real Sociedad vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × أولمبيك ليون | Kick-off in 30 min: Real Socieda
+ d vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112261@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Lyon vs Lillestrøm — UEFA Europa League
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/6112261
+DESCRIPTION:⚽ أولمبيك ليون × ليلستروم\n🏆 الدو
+ ري الأوروبي — الجولة 5\n🗓 الخميس 26 نوفمب
+ ر 2026 · 23:00 بتوقيت الرياض\n🏟 Groupama Stadium\n——
+ ———\n⚽ Lyon v Lillestrøm\n🏆 UEFA Europa League — Matchday 5\
+ n🗓 Thu 26 Nov 2026 · 20:00 UTC\n🏟 Groupama Stadium\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد ليلستروم —
+  الدوري الأوروبي | Tomorrow: Lyon vs Lillestrøm
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × ليلستروم | Kick-off in 30 min: Lyon vs Lillestrø
+ m
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112259@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:Lyon vs Union St.Gilloise — UEFA Europa League
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/6112259
+DESCRIPTION:⚽ أولمبيك ليون × يونيون سانت جيلوا
+ ز\n🏆 الدوري الأوروبي — الجولة 6\n🗓 الخمي
+ س 10 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Groupama 
+ Stadium\n—————\n⚽ Lyon v Union St.Gilloise\n🏆 UEFA Europa L
+ eague — Matchday 6\n🗓 Thu 10 Dec 2026 · 20:00 UTC\n🏟 Groupama Sta
+ dium\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد يونيون سان
+ ت جيلواز — الدوري الأوروبي | Tomorrow: Lyon vs Unio
+ n St.Gilloise
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × يونيون سانت جيلواز | Kick-off in 30 min: 
+ Lyon vs Union St.Gilloise
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112338@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T174500Z
+DTEND:20270121T194500Z
+SUMMARY:Jagiellonia Białystok vs Lyon — UEFA Europa League
+LOCATION:Stadion Miejski\, Bialystok
+URL:https://www.fotmob.com/match/6112338
+DESCRIPTION:⚽ ياغييلونيا بياويستوك × أولمبيك 
+ ليون\n🏆 الدوري الأوروبي — الجولة 7\n🗓 ال
+ خميس 21 يناير 2027 · 20:45 بتوقيت الرياض\n🏟 Stadi
+ on Miejski, Bialystok\n—————\n⚽ Jagiellonia Białystok v Lyon\
+ n🏆 UEFA Europa League — Matchday 7\n🗓 Thu 21 Jan 2027 · 17:45 UTC
+ \n🏟 Stadion Miejski, Bialystok\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ياغييلونيا بياويستوك ضد أو
+ لمبيك ليون — الدوري الأوروبي | Tomorrow: Jagiello
+ nia Białystok vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ياغيي
+ لونيا بياويستوك × أولمبيك ليون | Kick-off in 30 
+ min: Jagiellonia Białystok vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112258@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Lyon vs Bayer Leverkusen — UEFA Europa League
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/6112258
+DESCRIPTION:⚽ أولمبيك ليون × باير ليفركوزن\n🏆 
+ الدوري الأوروبي — الجولة 8\n🗓 الخميس 28 ي
+ ناير 2027 · 23:00 بتوقيت الرياض\n🏟 Groupama Stadium\n
+ —————\n⚽ Lyon v Bayer Leverkusen\n🏆 UEFA Europa League — 
+ Matchday 8\n🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 Groupama Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد باير ليفرك
+ وزن — الدوري الأوروبي | Tomorrow: Lyon vs Bayer Leverku
+ sen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × باير ليفركوزن | Kick-off in 30 min: Lyon vs B
+ ayer Leverkusen
+END:VALARM
+END:VEVENT
+END:VCALENDAR

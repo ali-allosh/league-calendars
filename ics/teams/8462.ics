@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Portsmouth — FA Cup Fixtures | Portsmouth — مباري
+ ات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Portsmouth — all matches in FA Cup\, exact UTC kickoffs\, st
+ adiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10Z
+ .  •  Portsmouth — جميع المباريات في كأس الاتح
+ اد الإنجليزي بتوقيت UTC الدقيق مع الملاعب 
+ والقنوات الناقلة. المصدر: FotMob + 365scores · تح
+ ديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5089909@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260111T140000Z
+DTEND:20260111T160000Z
+SUMMARY:Portsmouth vs Arsenal (1 - 4) — FA Cup
+LOCATION:Fratton Park\, Portsmouth\, England
+GEO:50.796347;-1.063804
+URL:https://www.fotmob.com/match/5089909
+DESCRIPTION:⚽ Portsmouth × أرسنال (1 - 4)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الثالث\n🗓 الأحد 11 ي
+ ناير 2026 · 17:00 بتوقيت الرياض\n🏟 Fratton Park، Port
+ smouth\n⚖️ الحكم: Tony Harrington\n👥 الحضور: 20,611\n—
+ ————\n⚽ Portsmouth v Arsenal (1 - 4)\n🏆 FA Cup — Round 3\n
+ 🗓 Sun 11 Jan 2026 · 14:00 UTC\n🏟 Fratton Park, Portsmouth\nReferee:
+  Tony Harrington\nAttendance: 20,611\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Portsmouth ضد أرسنال — كأس الات
+ حاد الإنجليزي | Tomorrow: Portsmouth vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Portsmouth 
+ × أرسنال | Kick-off in 30 min: Portsmouth vs Arsenal
+END:VALARM
+END:VEVENT
+END:VCALENDAR

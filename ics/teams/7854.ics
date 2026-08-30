@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Leganés — Copa del Rey Fixtures | ليجانيس — م
+ باريات كأس ملك إسبانيا
+X-WR-CALDESC:Leganés — all matches in Copa del Rey\, exact UTC kickoffs\
+ , stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31
+ :10Z.  •  ليجانيس — جميع المباريات في كأس م
+ لك إسبانيا بتوقيت UTC الدقيق مع الملاعب وا
+ لقنوات الناقلة. المصدر: FotMob + 365scores · تحدي
+ ث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4996033@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251029T190000Z
+DTEND:20251029T210000Z
+SUMMARY:CD Azuaga vs Leganés (1 - 4) — Copa del Rey
+LOCATION:Estadio CD Azuaga\, Azuaga\, Spain
+GEO:38.262749;-5.684824
+URL:https://www.fotmob.com/match/4996033
+DESCRIPTION:⚽ أزواغو × ليجانيس (1 - 4)\n🏆 كأس ملك 
+ إسبانيا — الدور الأول\n🗓 الأربعاء 29 أكت
+ وبر 2025 · 22:00 بتوقيت الرياض\n🏟 Estadio CD Azuaga، A
+ zuaga\n⚖️ الحكم: Dámaso Arcediano Monescillo\n👥 الحضور:
+  1,500\n—————\n⚽ CD Azuaga v Leganés (1 - 4)\n🏆 Copa del R
+ ey — Round 1\n🗓 Wed 29 Oct 2025 · 19:00 UTC\n🏟 Estadio CD Azuaga,
+  Azuaga\nReferee: Dámaso Arcediano Monescillo\nAttendance: 1,500\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أزواغو ضد ليجانيس — كأس مل
+ ك إسبانيا | Tomorrow: CD Azuaga vs Leganés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أزواغ
+ و × ليجانيس | Kick-off in 30 min: CD Azuaga vs Leganés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057222@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251204T180000Z
+DTEND:20251204T200000Z
+SUMMARY:Leganés vs Albacete (1 - 2) — Copa del Rey
+LOCATION:Estadio Ontime Butarque\, Leganés\, Spain
+GEO:40.340472;-3.760688
+URL:https://www.fotmob.com/match/5057222
+DESCRIPTION:⚽ ليجانيس × ألباسيتي (1 - 2)\n🏆 كأس م
+ لك إسبانيا — الدور الثاني\n🗓 الخميس 4 دي
+ سمبر 2025 · 21:00 بتوقيت الرياض\n🏟 Estadio Ontime Buta
+ rque، Leganés\n👥 الحضور: 6,144\n—————\n⚽ Leganés v
+  Albacete (1 - 2)\n🏆 Copa del Rey — Round 2\n🗓 Thu 04 Dec 2025 · 
+ 18:00 UTC\n🏟 Estadio Ontime Butarque, Leganés\nAttendance: 6,144\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليجانيس ضد ألباسيتي — كأس 
+ ملك إسبانيا | Tomorrow: Leganés vs Albacete
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليجان
+ يس × ألباسيتي | Kick-off in 30 min: Leganés vs Albacete
+END:VALARM
+END:VEVENT
+END:VCALENDAR

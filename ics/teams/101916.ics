@@ -1,0 +1,1119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al Shabab — Saudi Pro League & King's Cup Fixtures | ا
+ لشباب — مباريات دوري روشن السعودي وكأس خ
+ ادم الحرمين الشريفين
+X-WR-CALDESC:Al Shabab — all matches in Saudi Pro League & King's Cup\, e
+ xact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-update
+ d 2026-09-05T19:31:10Z.  •  الشباب — جميع المباريات
+  في دوري روشن السعودي وكأس خادم الحرمين ا
+ لشريفين بتوقيت UTC الدقيق مع الملاعب والق
+ نوات الناقلة. المصدر: FotMob + 365scores · تحديث ت
+ لقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5969047@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260813T180000Z
+DTEND:20260813T200000Z
+SUMMARY:Al Shabab vs Al Qadsiah (1 - 3) — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/5969047
+DESCRIPTION:⚽ الشباب × القادسية (1 - 3)\n🏆 دوري ر
+ وشن السعودي — الجولة 1\n🗓 الخميس 13 أغسطس 
+ 2026 · 21:00 بتوقيت الرياض\n🏟 SHG Arena، Riyadh\n👥 ا
+ لحضور: 5,530\n—————\n⚽ Al Shabab v Al Qadsiah (1 - 3)\n
+ 🏆 Saudi Pro League — Matchday 1\n🗓 Thu 13 Aug 2026 · 18:00 UTC\n
+ 🏟 SHG Arena, Riyadh\nAttendance: 5,530\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد القادسية — دوري 
+ روشن السعودي | Tomorrow: Al Shabab vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × القادسية | Kick-off in 30 min: Al Shabab vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970098@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T180000Z
+DTEND:20260822T200000Z
+SUMMARY:Al Khaleej vs Al Shabab (0 - 0) — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/5970098
+DESCRIPTION:⚽ الخليج × الشباب (0 - 0)\n🏆 دوري روش
+ ن السعودي — الجولة 2\n🗓 السبت 22 أغسطس 2026 
+ · 21:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium
+ ، Dammam\n⚖️ الحكم: Faisal Al-Balawi\n👥 الحضور: 2,690\n
+ —————\n⚽ Al Khaleej v Al Shabab (0 - 0)\n🏆 Saudi Pro League
+  — Matchday 2\n🗓 Sat 22 Aug 2026 · 18:00 UTC\n🏟 Prince Mohammed B
+ in Fahd Stadium, Dammam\nReferee: Faisal Al-Balawi\nAttendance: 2,690\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد الشباب — دوري رو
+ شن السعودي | Tomorrow: Al Khaleej vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × الشباب | Kick-off in 30 min: Al Khaleej vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970104@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260825T180000Z
+DTEND:20260825T200000Z
+SUMMARY:Al Shabab vs Al Riyadh (3 - 3) — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/5970104
+DESCRIPTION:⚽ الشباب × الرياض (3 - 3)\n🏆 دوري روش
+ ن السعودي — الجولة 3\n🗓 الثلاثاء 25 أغسطس 
+ 2026 · 21:00 بتوقيت الرياض\n🏟 SHG Arena، Riyadh\n⚖️ 
+ الحكم: Ahmed Al-Rumaykhani\n👥 الحضور: 3,325\n—————
+ \n⚽ Al Shabab v Al Riyadh (3 - 3)\n🏆 Saudi Pro League — Matchday 3\
+ n🗓 Tue 25 Aug 2026 · 18:00 UTC\n🏟 SHG Arena, Riyadh\nReferee: Ahmed
+  Al-Rumaykhani\nAttendance: 3,325\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد الرياض — دوري رو
+ شن السعودي | Tomorrow: Al Shabab vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × الرياض | Kick-off in 30 min: Al Shabab vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970114@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T160500Z
+DTEND:20260830T180500Z
+SUMMARY:Al Hazem vs Al Shabab (1 - 1) — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/5970114
+DESCRIPTION:⚽ الحزم × الشباب (1 - 1)\n🏆 دوري روشن 
+ السعودي — الجولة 4\n🗓 الأحد 30 أغسطس 2026 · 1
+ 9:05 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium
+ )، Ar Rass\n⚖️ الحكم: Abdullah Al-Khurbush\n—————\n⚽
+  Al Hazem v Al Shabab (1 - 1)\n🏆 Saudi Pro League — Matchday 4\n🗓 
+ Sun 30 Aug 2026 · 16:05 UTC\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium),
+  Ar Rass\nReferee: Abdullah Al-Khurbush\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد الشباب — دوري روش
+ ن السعودي | Tomorrow: Al Hazem vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × الشباب | Kick-off in 30 min: Al Hazem vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970122@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260904T180000Z
+DTEND:20260904T200000Z
+SUMMARY:Al Shabab vs Al Hilal (0 - 2) — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/5970122
+DESCRIPTION:⚽ الشباب × الهلال (0 - 2)\n🏆 دوري روش
+ ن السعودي — الجولة 5\n🗓 الجمعة 4 سبتمبر 202
+ 6 · 21:00 بتوقيت الرياض\n🏟 SHG Arena، Riyadh\n⚖️ ال
+ حكم: Facundo Tello\n—————\n⚽ Al Shabab v Al Hilal (0 - 2)\n
+ 🏆 Saudi Pro League — Matchday 5\n🗓 Fri 04 Sep 2026 · 18:00 UTC\n
+ 🏟 SHG Arena, Riyadh\nReferee: Facundo Tello\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد الهلال — دوري رو
+ شن السعودي | Tomorrow: Al Shabab vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × الهلال | Kick-off in 30 min: Al Shabab vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970132@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260909T155500Z
+DTEND:20260909T175500Z
+SUMMARY:Al Kholood vs Al Shabab — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/5970132
+DESCRIPTION:⚽ الخلود × الشباب\n🏆 دوري روشن الس
+ عودي — الجولة 6\n🗓 الأربعاء 9 سبتمبر 2026 · 
+ 18:55 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadiu
+ m)، Ar Rass\n—————\n⚽ Al Kholood v Al Shabab\n🏆 Saudi Pro 
+ League — Matchday 6\n🗓 Wed 09 Sep 2026 · 15:55 UTC\n🏟 Ar-Rass Sta
+ dium (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد الشباب — دوري رو
+ شن السعودي | Tomorrow: Al Kholood vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × الشباب | Kick-off in 30 min: Al Kholood vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970141@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T180000Z
+DTEND:20260912T200000Z
+SUMMARY:Al Shabab vs Al-Fayha — Saudi Pro League
+LOCATION:SHG Arena
+URL:https://www.fotmob.com/match/5970141
+DESCRIPTION:⚽ الشباب × الفيحاء\n🏆 دوري روشن ال
+ سعودي — الجولة 7\n🗓 السبت 12 سبتمبر 2026 · 21:
+ 00 بتوقيت الرياض\n🏟 SHG Arena\n—————\n⚽ Al Shab
+ ab v Al-Fayha\n🏆 Saudi Pro League — Matchday 7\n🗓 Sat 12 Sep 2026 
+ · 18:00 UTC\n🏟 SHG Arena\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد الفيحاء — دوري ر
+ وشن السعودي | Tomorrow: Al Shabab vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × الفيحاء | Kick-off in 30 min: Al Shabab vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970152@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T180000Z
+DTEND:20261011T200000Z
+SUMMARY:Al Shabab vs Al-Taawoun — Saudi Pro League
+LOCATION:SHG Arena
+URL:https://www.fotmob.com/match/5970152
+DESCRIPTION:⚽ الشباب × التعاون\n🏆 دوري روشن ال
+ سعودي — الجولة 8\n🗓 الأحد 11 أكتوبر 2026 · 21:
+ 00 بتوقيت الرياض\n🏟 SHG Arena\n—————\n⚽ Al Shab
+ ab v Al-Taawoun\n🏆 Saudi Pro League — Matchday 8\n🗓 Sun 11 Oct 202
+ 6 · 18:00 UTC\n🏟 SHG Arena\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد التعاون — دوري ر
+ وشن السعودي | Tomorrow: Al Shabab vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × التعاون | Kick-off in 30 min: Al Shabab vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970157@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261016T180000Z
+DTEND:20261016T200000Z
+SUMMARY:Al Ittihad vs Al Shabab — Saudi Pro League
+LOCATION:King Abdullah Sports City
+URL:https://www.fotmob.com/match/5970157
+DESCRIPTION:⚽ الاتحاد × الشباب\n🏆 دوري روشن ال
+ سعودي — الجولة 9\n🗓 الجمعة 16 أكتوبر 2026 · 2
+ 1:00 بتوقيت الرياض\n🏟 King Abdullah Sports City\n———
+ ——\n⚽ Al Ittihad v Al Shabab\n🏆 Saudi Pro League — Matchday 9\n
+ 🗓 Fri 16 Oct 2026 · 18:00 UTC\n🏟 King Abdullah Sports City\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الشباب — دوري ر
+ وشن السعودي | Tomorrow: Al Ittihad vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الشباب | Kick-off in 30 min: Al Ittihad vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970169@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261019T180000Z
+DTEND:20261019T200000Z
+SUMMARY:Al Shabab vs Al-Faisaly — Saudi Pro League
+LOCATION:SHG Arena
+URL:https://www.fotmob.com/match/5970169
+DESCRIPTION:⚽ الشباب × الفيصلي\n🏆 دوري روشن ال
+ سعودي — الجولة 10\n🗓 الاثنين 19 أكتوبر 2026 
+ · 21:00 بتوقيت الرياض\n🏟 SHG Arena\n—————\n⚽ A
+ l Shabab v Al-Faisaly\n🏆 Saudi Pro League — Matchday 10\n🗓 Mon 19 
+ Oct 2026 · 18:00 UTC\n🏟 SHG Arena\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد الفيصلي — دوري ر
+ وشن السعودي | Tomorrow: Al Shabab vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × الفيصلي | Kick-off in 30 min: Al Shabab vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970173@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T144500Z
+DTEND:20261022T164500Z
+SUMMARY:Al Fateh FC vs Al Shabab — Saudi Pro League
+LOCATION:Maydan Tamweel Aloula\, Al Ahsa\, Saudi Arabia
+GEO:25.429604;49.581390
+URL:https://www.fotmob.com/match/5970173
+DESCRIPTION:⚽ الفتح × الشباب\n🏆 دوري روشن السع
+ ودي — الجولة 11\n🗓 الخميس 22 أكتوبر 2026 · 17:4
+ 5 بتوقيت الرياض\n🏟 Maydan Tamweel Aloula، Al Ahsa\n——
+ ———\n⚽ Al Fateh FC v Al Shabab\n🏆 Saudi Pro League — Matchday
+  11\n🗓 Thu 22 Oct 2026 · 14:45 UTC\n🏟 Maydan Tamweel Aloula, Al Ahs
+ a\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفتح ضد الشباب — دوري روش
+ ن السعودي | Tomorrow: Al Fateh FC vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفتح 
+ × الشباب | Kick-off in 30 min: Al Fateh FC vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970195@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261030T180000Z
+DTEND:20261030T200000Z
+SUMMARY:Al Shabab vs Al Ahli — Saudi Pro League
+LOCATION:SHG Arena
+URL:https://www.fotmob.com/match/5970195
+DESCRIPTION:⚽ الشباب × الأهلي\n🏆 دوري روشن الس
+ عودي — الجولة 12\n🗓 الجمعة 30 أكتوبر 2026 · 21
+ :00 بتوقيت الرياض\n🏟 SHG Arena\n—————\n⚽ Al Sha
+ bab v Al Ahli\n🏆 Saudi Pro League — Matchday 12\n🗓 Fri 30 Oct 2026
+  · 18:00 UTC\n🏟 SHG Arena\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد الأهلي — دوري رو
+ شن السعودي | Tomorrow: Al Shabab vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × الأهلي | Kick-off in 30 min: Al Shabab vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021469@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:Abha vs Al Shabab — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/1000021469
+DESCRIPTION:⚽ أبها × الشباب\n🏆 دوري روشن السعو
+ دي — الجولة 13\n🗓 الخميس 5 نوفمبر 2026 · 03:00 
+ بتوقيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sports City St
+ adium، Abha\n—————\n⚽ Abha v Al Shabab\n🏆 Saudi Pro League
+  — Matchday 13\n🗓 Thu 05 Nov 2026 · 00:00 UTC\n🏟 Prince Sultan bi
+ n Abdulaziz Sports City Stadium, Abha\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الشباب — دوري روشن 
+ السعودي | Tomorrow: Abha vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الشباب | Kick-off in 30 min: Abha vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021483@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Al Shabab vs Al-Ettifaq — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/1000021483
+DESCRIPTION:⚽ الشباب × الاتفاق\n🏆 دوري روشن ال
+ سعودي — الجولة 14\n🗓 الجمعة 20 نوفمبر 2026 · 
+ 03:00 بتوقيت الرياض\n🏟 SHG Arena، Riyadh\n—————\
+ n⚽ Al Shabab v Al-Ettifaq\n🏆 Saudi Pro League — Matchday 14\n🗓 F
+ ri 20 Nov 2026 · 00:00 UTC\n🏟 SHG Arena, Riyadh\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد الاتفاق — دوري ر
+ وشن السعودي | Tomorrow: Al Shabab vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × الاتفاق | Kick-off in 30 min: Al Shabab vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021491@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Al Nassr FC vs Al Shabab — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021491
+DESCRIPTION:⚽ النصر × الشباب\n🏆 دوري روشن السع
+ ودي — الجولة 15\n🗓 الخميس 26 نوفمبر 2026 · 03:0
+ 0 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n—————\
+ n⚽ Al Nassr FC v Al Shabab\n🏆 Saudi Pro League — Matchday 15\n🗓 
+ Thu 26 Nov 2026 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الشباب — دوري روش
+ ن السعودي | Tomorrow: Al Nassr FC vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الشباب | Kick-off in 30 min: Al Nassr FC vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021502@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Al Shabab vs Neom SC — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/1000021502
+DESCRIPTION:⚽ الشباب × نيوم\n🏆 دوري روشن السعو
+ دي — الجولة 16\n🗓 الخميس 3 ديسمبر 2026 · 03:00 
+ بتوقيت الرياض\n🏟 SHG Arena، Riyadh\n—————\n⚽ A
+ l Shabab v Neom SC\n🏆 Saudi Pro League — Matchday 16\n🗓 Thu 03 Dec
+  2026 · 00:00 UTC\n🏟 SHG Arena, Riyadh\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد نيوم — دوري روشن 
+ السعودي | Tomorrow: Al Shabab vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × نيوم | Kick-off in 30 min: Al Shabab vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021511@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Al Diriyah vs Al Shabab — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021511
+DESCRIPTION:⚽ الدرعية × الشباب\n🏆 دوري روشن ال
+ سعودي — الجولة 17\n🗓 الخميس 10 ديسمبر 2026 · 
+ 03:00 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n————
+ —\n⚽ Al Diriyah v Al Shabab\n🏆 Saudi Pro League — Matchday 17\n
+ 🗓 Thu 10 Dec 2026 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الدرعية ضد الشباب — دوري ر
+ وشن السعودي | Tomorrow: Al Diriyah vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الدرع
+ ية × الشباب | Kick-off in 30 min: Al Diriyah vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021520@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261214T000000Z
+DTEND:20261214T020000Z
+SUMMARY:Al Qadsiah vs Al Shabab — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021520
+DESCRIPTION:⚽ القادسية × الشباب\n🏆 دوري روشن ا
+ لسعودي — الجولة 18\n🗓 الاثنين 14 ديسمبر 2026
+  · 03:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium
+ ، Dammam\n—————\n⚽ Al Qadsiah v Al Shabab\n🏆 Saudi Pro Lea
+ gue — Matchday 18\n🗓 Mon 14 Dec 2026 · 00:00 UTC\n🏟 Prince Mohamm
+ ed Bin Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الشباب — دوري 
+ روشن السعودي | Tomorrow: Al Qadsiah vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الشباب | Kick-off in 30 min: Al Qadsiah vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021527@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270211T000000Z
+DTEND:20270211T020000Z
+SUMMARY:Al Shabab vs Al Khaleej — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/1000021527
+DESCRIPTION:⚽ الشباب × الخليج\n🏆 دوري روشن الس
+ عودي — الجولة 19\n🗓 الخميس 11 فبراير 2027 · 03
+ :00 بتوقيت الرياض\n🏟 SHG Arena، Riyadh\n—————\n
+ ⚽ Al Shabab v Al Khaleej\n🏆 Saudi Pro League — Matchday 19\n🗓 Th
+ u 11 Feb 2027 · 00:00 UTC\n🏟 SHG Arena, Riyadh\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد الخليج — دوري رو
+ شن السعودي | Tomorrow: Al Shabab vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × الخليج | Kick-off in 30 min: Al Shabab vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021539@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270218T000000Z
+DTEND:20270218T020000Z
+SUMMARY:Al Riyadh vs Al Shabab — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/1000021539
+DESCRIPTION:⚽ الرياض × الشباب\n🏆 دوري روشن الس
+ عودي — الجولة 20\n🗓 الخميس 18 فبراير 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، Riyad
+ h\n—————\n⚽ Al Riyadh v Al Shabab\n🏆 Saudi Pro League — M
+ atchday 20\n🗓 Thu 18 Feb 2027 · 00:00 UTC\n🏟 Prince Faisal bin Fahd
+  Stadium, Riyadh\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الشباب — دوري رو
+ شن السعودي | Tomorrow: Al Riyadh vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الشباب | Kick-off in 30 min: Al Riyadh vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021545@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270225T000000Z
+DTEND:20270225T020000Z
+SUMMARY:Al Shabab vs Al Hazem — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/1000021545
+DESCRIPTION:⚽ الشباب × الحزم\n🏆 دوري روشن السع
+ ودي — الجولة 21\n🗓 الخميس 25 فبراير 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 SHG Arena، Riyadh\n—————\n⚽
+  Al Shabab v Al Hazem\n🏆 Saudi Pro League — Matchday 21\n🗓 Thu 25 
+ Feb 2027 · 00:00 UTC\n🏟 SHG Arena, Riyadh\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد الحزم — دوري روش
+ ن السعودي | Tomorrow: Al Shabab vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × الحزم | Kick-off in 30 min: Al Shabab vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021552@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270311T000000Z
+DTEND:20270311T020000Z
+SUMMARY:Al Hilal vs Al Shabab — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/1000021552
+DESCRIPTION:⚽ الهلال × الشباب\n🏆 دوري روشن الس
+ عودي — الجولة 22\n🗓 الخميس 11 مارس 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n—————\n
+ ⚽ Al Hilal v Al Shabab\n🏆 Saudi Pro League — Matchday 22\n🗓 Thu 
+ 11 Mar 2027 · 00:00 UTC\n🏟 Kingdom Arena, Riyadh\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الشباب — دوري رو
+ شن السعودي | Tomorrow: Al Hilal vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الشباب | Kick-off in 30 min: Al Hilal vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021563@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270318T000000Z
+DTEND:20270318T020000Z
+SUMMARY:Al Shabab vs Al Kholood — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/1000021563
+DESCRIPTION:⚽ الشباب × الخلود\n🏆 دوري روشن الس
+ عودي — الجولة 23\n🗓 الخميس 18 مارس 2027 · 03:00 
+ بتوقيت الرياض\n🏟 SHG Arena، Riyadh\n—————\n⚽ A
+ l Shabab v Al Kholood\n🏆 Saudi Pro League — Matchday 23\n🗓 Thu 18 
+ Mar 2027 · 00:00 UTC\n🏟 SHG Arena, Riyadh\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد الخلود — دوري رو
+ شن السعودي | Tomorrow: Al Shabab vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × الخلود | Kick-off in 30 min: Al Shabab vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021570@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270402T000000Z
+DTEND:20270402T020000Z
+SUMMARY:Al-Fayha vs Al Shabab — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021570
+DESCRIPTION:⚽ الفيحاء × الشباب\n🏆 دوري روشن ال
+ سعودي — الجولة 24\n🗓 الجمعة 2 أبريل 2027 · 03:
+ 00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al Ma
+ jma'ah\n—————\n⚽ Al-Fayha v Al Shabab\n🏆 Saudi Pro League 
+ — Matchday 24\n🗓 Fri 02 Apr 2027 · 00:00 UTC\n🏟 Al Majma'ah Sport
+ s City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد الشباب — دوري ر
+ وشن السعودي | Tomorrow: Al-Fayha vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × الشباب | Kick-off in 30 min: Al-Fayha vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021582@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270408T000000Z
+DTEND:20270408T020000Z
+SUMMARY:Al-Taawoun vs Al Shabab — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/1000021582
+DESCRIPTION:⚽ التعاون × الشباب\n🏆 دوري روشن ال
+ سعودي — الجولة 25\n🗓 الخميس 8 أبريل 2027 · 03:
+ 00 بتوقيت الرياض\n🏟 Al Taawoun Club Stadium، Buraydah\n—
+ ————\n⚽ Al-Taawoun v Al Shabab\n🏆 Saudi Pro League — Matchd
+ ay 25\n🗓 Thu 08 Apr 2027 · 00:00 UTC\n🏟 Al Taawoun Club Stadium, Bu
+ raydah\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الشباب — دوري ر
+ وشن السعودي | Tomorrow: Al-Taawoun vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الشباب | Kick-off in 30 min: Al-Taawoun vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021592@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270415T000000Z
+DTEND:20270415T020000Z
+SUMMARY:Al Shabab vs Al Ittihad — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/1000021592
+DESCRIPTION:⚽ الشباب × الاتحاد\n🏆 دوري روشن ال
+ سعودي — الجولة 26\n🗓 الخميس 15 أبريل 2027 · 03
+ :00 بتوقيت الرياض\n🏟 SHG Arena، Riyadh\n—————\n
+ ⚽ Al Shabab v Al Ittihad\n🏆 Saudi Pro League — Matchday 26\n🗓 Th
+ u 15 Apr 2027 · 00:00 UTC\n🏟 SHG Arena, Riyadh\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد الاتحاد — دوري ر
+ وشن السعودي | Tomorrow: Al Shabab vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × الاتحاد | Kick-off in 30 min: Al Shabab vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021599@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T000000Z
+DTEND:20270418T020000Z
+SUMMARY:Al-Faisaly vs Al Shabab — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021599
+DESCRIPTION:⚽ الفيصلي × الشباب\n🏆 دوري روشن ال
+ سعودي — الجولة 27\n🗓 الأحد 18 أبريل 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al Maj
+ ma'ah\n—————\n⚽ Al-Faisaly v Al Shabab\n🏆 Saudi Pro League 
+ — Matchday 27\n🗓 Sun 18 Apr 2027 · 00:00 UTC\n🏟 Al Majma'ah Sport
+ s City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد الشباب — دوري ر
+ وشن السعودي | Tomorrow: Al-Faisaly vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × الشباب | Kick-off in 30 min: Al-Faisaly vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021609@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270422T000000Z
+DTEND:20270422T020000Z
+SUMMARY:Al Shabab vs Al Fateh FC — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/1000021609
+DESCRIPTION:⚽ الشباب × الفتح\n🏆 دوري روشن السع
+ ودي — الجولة 28\n🗓 الخميس 22 أبريل 2027 · 03:00 
+ بتوقيت الرياض\n🏟 SHG Arena، Riyadh\n—————\n⚽ A
+ l Shabab v Al Fateh FC\n🏆 Saudi Pro League — Matchday 28\n🗓 Thu 22
+  Apr 2027 · 00:00 UTC\n🏟 SHG Arena, Riyadh\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد الفتح — دوري روش
+ ن السعودي | Tomorrow: Al Shabab vs Al Fateh FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × الفتح | Kick-off in 30 min: Al Shabab vs Al Fateh FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021612@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270429T000000Z
+DTEND:20270429T020000Z
+SUMMARY:Al Ahli vs Al Shabab — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021612
+DESCRIPTION:⚽ الأهلي × الشباب\n🏆 دوري روشن الس
+ عودي — الجولة 29\n🗓 الخميس 29 أبريل 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah Spo
+ rt City، Jeddah\n—————\n⚽ Al Ahli v Al Shabab\n🏆 Saudi Pro
+  League — Matchday 29\n🗓 Thu 29 Apr 2027 · 00:00 UTC\n🏟 Alinma Ba
+ nk Stadium at King Abdullah Sport City, Jeddah\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الشباب — دوري رو
+ شن السعودي | Tomorrow: Al Ahli vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الشباب | Kick-off in 30 min: Al Ahli vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021626@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270506T000000Z
+DTEND:20270506T020000Z
+SUMMARY:Al Shabab vs Abha — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/1000021626
+DESCRIPTION:⚽ الشباب × أبها\n🏆 دوري روشن السعو
+ دي — الجولة 30\n🗓 الخميس 6 مايو 2027 · 03:00 بت
+ وقيت الرياض\n🏟 SHG Arena، Riyadh\n—————\n⚽ Al Sh
+ abab v Abha\n🏆 Saudi Pro League — Matchday 30\n🗓 Thu 06 May 2027 
+ · 00:00 UTC\n🏟 SHG Arena, Riyadh\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد أبها — دوري روشن 
+ السعودي | Tomorrow: Al Shabab vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × أبها | Kick-off in 30 min: Al Shabab vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021631@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270512T000000Z
+DTEND:20270512T020000Z
+SUMMARY:Al-Ettifaq vs Al Shabab — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/1000021631
+DESCRIPTION:⚽ الاتفاق × الشباب\n🏆 دوري روشن ال
+ سعودي — الجولة 31\n🗓 الأربعاء 12 مايو 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Dammam\n
+ —————\n⚽ Al-Ettifaq v Al Shabab\n🏆 Saudi Pro League — Mat
+ chday 31\n🗓 Wed 12 May 2027 · 00:00 UTC\n🏟 Al Ettifaq Club Stadium,
+  Dammam\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد الشباب — دوري ر
+ وشن السعودي | Tomorrow: Al-Ettifaq vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × الشباب | Kick-off in 30 min: Al-Ettifaq vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021646@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270520T000000Z
+DTEND:20270520T020000Z
+SUMMARY:Al Shabab vs Al Nassr FC — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/1000021646
+DESCRIPTION:⚽ الشباب × النصر\n🏆 دوري روشن السع
+ ودي — الجولة 32\n🗓 الخميس 20 مايو 2027 · 03:00 ب
+ توقيت الرياض\n🏟 SHG Arena، Riyadh\n—————\n⚽ Al 
+ Shabab v Al Nassr FC\n🏆 Saudi Pro League — Matchday 32\n🗓 Thu 20 M
+ ay 2027 · 00:00 UTC\n🏟 SHG Arena, Riyadh\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد النصر — دوري روش
+ ن السعودي | Tomorrow: Al Shabab vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × النصر | Kick-off in 30 min: Al Shabab vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021656@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270524T000000Z
+DTEND:20270524T020000Z
+SUMMARY:Neom SC vs Al Shabab — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/1000021656
+DESCRIPTION:⚽ نيوم × الشباب\n🏆 دوري روشن السعو
+ دي — الجولة 33\n🗓 الاثنين 24 مايو 2027 · 03:00 ب
+ توقيت الرياض\n🏟 King Khalid Sport City Stadium، Tabuk\n—
+ ————\n⚽ Neom SC v Al Shabab\n🏆 Saudi Pro League — Matchday 
+ 33\n🗓 Mon 24 May 2027 · 00:00 UTC\n🏟 King Khalid Sport City Stadium
+ , Tabuk\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الشباب — دوري روشن 
+ السعودي | Tomorrow: Neom SC vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الشباب | Kick-off in 30 min: Neom SC vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021664@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270528T000000Z
+DTEND:20270528T020000Z
+SUMMARY:Al Shabab vs Al Diriyah — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/1000021664
+DESCRIPTION:⚽ الشباب × الدرعية\n🏆 دوري روشن ال
+ سعودي — الجولة 34\n🗓 الجمعة 28 مايو 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 SHG Arena، Riyadh\n—————\n⚽
+  Al Shabab v Al Diriyah\n🏆 Saudi Pro League — Matchday 34\n🗓 Fri 2
+ 8 May 2027 · 00:00 UTC\n🏟 SHG Arena, Riyadh\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد الدرعية — دوري ر
+ وشن السعودي | Tomorrow: Al Shabab vs Al Diriyah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × الدرعية | Kick-off in 30 min: Al Shabab vs Al Diriyah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853724@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260816T180000Z
+DTEND:20260816T200000Z
+SUMMARY:Al-Wehda vs Al Shabab (3 - 2) — King's Cup
+LOCATION:King Abdulaziz Sports City Stadium\, Makkah (Mecca)\, Saudi Arabia
+GEO:21.485513;39.973873
+URL:https://www.fotmob.com/match/5853724
+DESCRIPTION:⚽ الوحدة × الشباب (3 - 2)\n🏆 كأس خادم 
+ الحرمين الشريفين — دور الـ32\n🗓 الأحد 16 أ
+ غسطس 2026 · 21:00 بتوقيت الرياض\n🏟 King Abdulaziz Spor
+ ts City Stadium، Makkah (Mecca)\n—————\n⚽ Al-Wehda v Al Shaba
+ b (3 - 2)\n🏆 King's Cup — Round of 32\n🗓 Sun 16 Aug 2026 · 18:00 
+ UTC\n🏟 King Abdulaziz Sports City Stadium, Makkah (Mecca)\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الوحدة ضد الشباب — كأس خاد
+ م الحرمين الشريفين | Tomorrow: Al-Wehda vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الوحد
+ ة × الشباب | Kick-off in 30 min: Al-Wehda vs Al Shabab
+END:VALARM
+END:VEVENT
+END:VCALENDAR

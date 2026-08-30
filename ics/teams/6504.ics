@@ -1,0 +1,1263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Monza — Serie A & Coppa Italia Fixtures | مونزا —
+  مباريات الدوري الإيطالي وكأس إيطاليا
+X-WR-CALDESC:Monza — all matches in Serie A & Coppa Italia\, exact UTC ki
+ ckoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-0
+ 5T19:31:10Z.  •  مونزا — جميع المباريات في الد
+ وري الإيطالي وكأس إيطاليا بتوقيت UTC الدق
+ يق مع الملاعب والقنوات الناقلة. المصدر: Fo
+ tMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5749645@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T163000Z
+DTEND:20260822T183000Z
+SUMMARY:Inter vs Monza (4 - 1) — Serie A
+LOCATION:Stadio Giuseppe Meazza\, Milano\, Italy
+GEO:45.478084;9.123979
+URL:https://www.fotmob.com/match/5749645
+DESCRIPTION:⚽ إنتر ميلان × مونزا (4 - 1)\n🏆 الدور
+ ي الإيطالي — الجولة 1\n🗓 السبت 22 أغسطس 2026
+  · 19:30 بتوقيت الرياض\n🏟 Stadio Giuseppe Meazza، Milano\
+ n⚖️ الحكم: Livio Marinelli\n👥 الحضور: 75,013\n———
+ ——\n⚽ Inter v Monza (4 - 1)\n🏆 Serie A — Matchday 1\n🗓 Sat 2
+ 2 Aug 2026 · 16:30 UTC\n🏟 Stadio Giuseppe Meazza, Milano\nReferee: Liv
+ io Marinelli\nAttendance: 75,013\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد مونزا — الدو
+ ري الإيطالي | Tomorrow: Inter vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × مونزا | Kick-off in 30 min: Inter vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749657@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T163000Z
+DTEND:20260829T183000Z
+SUMMARY:Monza vs Udinese (2 - 3) — Serie A
+LOCATION:U-Power Stadium\, Monza\, Italy
+GEO:45.583064;9.308116
+URL:https://www.fotmob.com/match/5749657
+DESCRIPTION:⚽ مونزا × أودينيزي (2 - 3)\n🏆 الدوري 
+ الإيطالي — الجولة 2\n🗓 السبت 29 أغسطس 2026 ·
+  19:30 بتوقيت الرياض\n🏟 U-Power Stadium، Monza\n⚖️ ا
+ لحكم: Claudio Giuseppe Allegretta\n👥 الحضور: 10,311\n——
+ ———\n⚽ Monza v Udinese (2 - 3)\n🏆 Serie A — Matchday 2\n🗓 
+ Sat 29 Aug 2026 · 16:30 UTC\n🏟 U-Power Stadium, Monza\nReferee: Claudi
+ o Giuseppe Allegretta\nAttendance: 10,311\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد أودينيزي — الدوري
+  الإيطالي | Tomorrow: Monza vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × أودينيزي | Kick-off in 30 min: Monza vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749668@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Parma vs Monza — Serie A
+LOCATION:Stadio Ennio Tardini\, Parma\, Italy
+GEO:44.794905;10.338387
+URL:https://www.fotmob.com/match/5749668
+DESCRIPTION:⚽ بارما × مونزا\n🏆 الدوري الإيطال
+ ي — الجولة 3\n🗓 الأحد 6 سبتمبر 2026 · 16:00 بتو
+ قيت الرياض\n🏟 Stadio Ennio Tardini، Parma\n📺 Starzplay\n
+ —————\n⚽ Parma v Monza\n🏆 Serie A — Matchday 3\n🗓 Sun 
+ 06 Sep 2026 · 13:00 UTC\n🏟 Stadio Ennio Tardini, Parma\n📺 Starzplay
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد مونزا — الدوري ال
+ إيطالي — 📺 Starzplay | Tomorrow: Parma vs Monza | TV: Starzplay
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × مونزا — 📺 Starzplay | Kick-off in 30 min: Parma vs Monza | TV
+ : Starzplay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749675@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:Lecce vs Monza — Serie A
+LOCATION:Stadio Ettore Giardiniero - Via del Mare\, Lecce\, Italy
+GEO:40.365103;18.208852
+URL:https://www.fotmob.com/match/5749675
+DESCRIPTION:⚽ ليتشي × مونزا\n🏆 الدوري الإيطال
+ ي — الجولة 4\n🗓 الأحد 13 سبتمبر 2026 · 16:00 بت
+ وقيت الرياض\n🏟 Stadio Ettore Giardiniero - Via del Mare، Lec
+ ce\n📺 DAZN UK، Peacock (Español)\n—————\n⚽ Lecce v Monza\
+ n🏆 Serie A — Matchday 4\n🗓 Sun 13 Sep 2026 · 13:00 UTC\n🏟 Stad
+ io Ettore Giardiniero - Via del Mare, Lecce\n📺 DAZN UK, Peacock (Españ
+ ol)\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليتشي ضد مونزا — الدوري ال
+ إيطالي — 📺 DAZN UK، Peacock (Español) | Tomorrow: Lecce vs Mo
+ nza | TV: DAZN UK\, Peacock (Español)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليتشي 
+ × مونزا — 📺 DAZN UK، Peacock (Español) | Kick-off in 30 min: 
+ Lecce vs Monza | TV: DAZN UK\, Peacock (Español)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749686@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260918T184500Z
+DTEND:20260918T204500Z
+SUMMARY:Monza vs Sassuolo — Serie A
+LOCATION:U-Power Stadium\, Monza\, Italy
+GEO:45.583064;9.308116
+URL:https://www.fotmob.com/match/5749686
+DESCRIPTION:⚽ مونزا × ساسولو\n🏆 الدوري الإيطا
+ لي — الجولة 5\n🗓 الجمعة 18 سبتمبر 2026 · 21:45 
+ بتوقيت الرياض\n🏟 U-Power Stadium، Monza\n—————\n
+ ⚽ Monza v Sassuolo\n🏆 Serie A — Matchday 5\n🗓 Fri 18 Sep 2026 ·
+  18:45 UTC\n🏟 U-Power Stadium, Monza\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد ساسولو — الدوري ا
+ لإيطالي | Tomorrow: Monza vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × ساسولو | Kick-off in 30 min: Monza vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749695@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Lazio vs Monza — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749695
+DESCRIPTION:⚽ لاتسيو × مونزا\n🏆 الدوري الإيطا
+ لي — الجولة 6\n🗓 الأحد 11 أكتوبر 2026 · 16:00 ب
+ توقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ 
+ Lazio v Monza\n🏆 Serie A — Matchday 6\n🗓 Sun 11 Oct 2026 · 13:00 
+ UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد مونزا — الدوري ا
+ لإيطالي | Tomorrow: Lazio vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × مونزا | Kick-off in 30 min: Lazio vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749706@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261019T163000Z
+DTEND:20261019T183000Z
+SUMMARY:Monza vs Cagliari — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749706
+DESCRIPTION:⚽ مونزا × كالياري\n🏆 الدوري الإيط
+ الي — الجولة 7\n🗓 الاثنين 19 أكتوبر 2026 · 19:
+ 30 بتوقيت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ M
+ onza v Cagliari\n🏆 Serie A — Matchday 7\n🗓 Mon 19 Oct 2026 · 16:3
+ 0 UTC\n🏟 Stadio Brianteo\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد كالياري — الدوري 
+ الإيطالي | Tomorrow: Monza vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × كالياري | Kick-off in 30 min: Monza vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749718@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261023T184500Z
+DTEND:20261023T204500Z
+SUMMARY:Torino vs Monza — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749718
+DESCRIPTION:⚽ تورينو × مونزا\n🏆 الدوري الإيطا
+ لي — الجولة 8\n🗓 الجمعة 23 أكتوبر 2026 · 21:45 
+ بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n———
+ ——\n⚽ Torino v Monza\n🏆 Serie A — Matchday 8\n🗓 Fri 23 Oct 2
+ 026 · 18:45 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد مونزا — الدوري ا
+ لإيطالي | Tomorrow: Torino vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × مونزا | Kick-off in 30 min: Torino vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749725@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261028T194500Z
+DTEND:20261028T214500Z
+SUMMARY:Monza vs Napoli — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749725
+DESCRIPTION:⚽ مونزا × نابولي\n🏆 الدوري الإيطا
+ لي — الجولة 9\n🗓 الأربعاء 28 أكتوبر 2026 · 22:
+ 45 بتوقيت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ M
+ onza v Napoli\n🏆 Serie A — Matchday 9\n🗓 Wed 28 Oct 2026 · 19:45 
+ UTC\n🏟 Stadio Brianteo\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد نابولي — الدوري ا
+ لإيطالي | Tomorrow: Monza vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × نابولي | Kick-off in 30 min: Monza vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749732@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T140000Z
+DTEND:20261031T160000Z
+SUMMARY:Bologna vs Monza — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749732
+DESCRIPTION:⚽ بولونيا × مونزا\n🏆 الدوري الإيط
+ الي — الجولة 10\n🗓 السبت 31 أكتوبر 2026 · 17:00 
+ بتوقيت الرياض\n🏟 Stadio Renato Dell'Ara\n—————\n
+ ⚽ Bologna v Monza\n🏆 Serie A — Matchday 10\n🗓 Sat 31 Oct 2026 ·
+  14:00 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد مونزا — الدوري 
+ الإيطالي | Tomorrow: Bologna vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × مونزا | Kick-off in 30 min: Bologna vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749745@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Monza vs Atalanta — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749745
+DESCRIPTION:⚽ مونزا × أتالانتا\n🏆 الدوري الإي
+ طالي — الجولة 11\n🗓 الأحد 8 نوفمبر 2026 · 17:00
+  بتوقيت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Mon
+ za v Atalanta\n🏆 Serie A — Matchday 11\n🗓 Sun 08 Nov 2026 · 14:00
+  UTC\n🏟 Stadio Brianteo\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد أتالانتا — الدوري
+  الإيطالي | Tomorrow: Monza vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × أتالانتا | Kick-off in 30 min: Monza vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749756@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261123T173000Z
+DTEND:20261123T193000Z
+SUMMARY:Monza vs Fiorentina — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749756
+DESCRIPTION:⚽ مونزا × فيورنتينا\n🏆 الدوري الإ
+ يطالي — الجولة 12\n🗓 الاثنين 23 نوفمبر 2026 
+ · 20:30 بتوقيت الرياض\n🏟 Stadio Brianteo\n—————\
+ n⚽ Monza v Fiorentina\n🏆 Serie A — Matchday 12\n🗓 Mon 23 Nov 202
+ 6 · 17:30 UTC\n🏟 Stadio Brianteo\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد فيورنتينا — الدور
+ ي الإيطالي | Tomorrow: Monza vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × فيورنتينا | Kick-off in 30 min: Monza vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749760@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T173000Z
+DTEND:20261129T193000Z
+SUMMARY:Roma vs Monza — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749760
+DESCRIPTION:⚽ روما × مونزا\n🏆 الدوري الإيطالي 
+ — الجولة 13\n🗓 الأحد 29 نوفمبر 2026 · 20:30 بتو
+ قيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ Roma
+  v Monza\n🏆 Serie A — Matchday 13\n🗓 Sun 29 Nov 2026 · 17:30 UTC\
+ n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد مونزا — الدوري الإ
+ يطالي | Tomorrow: Roma vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  مونزا | Kick-off in 30 min: Roma vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749777@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T173000Z
+DTEND:20261206T193000Z
+SUMMARY:Monza vs Como — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749777
+DESCRIPTION:⚽ مونزا × كومو\n🏆 الدوري الإيطالي 
+ — الجولة 14\n🗓 الأحد 6 ديسمبر 2026 · 20:30 بتوق
+ يت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Monza v Como
+ \n🏆 Serie A — Matchday 14\n🗓 Sun 06 Dec 2026 · 17:30 UTC\n🏟 St
+ adio Brianteo\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد كومو — الدوري الإ
+ يطالي | Tomorrow: Monza vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × كومو | Kick-off in 30 min: Monza vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749784@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T173000Z
+DTEND:20261213T193000Z
+SUMMARY:Juventus vs Monza — Serie A
+LOCATION:Allianz Stadium
+URL:https://www.fotmob.com/match/5749784
+DESCRIPTION:⚽ يوفنتوس × مونزا\n🏆 الدوري الإيط
+ الي — الجولة 15\n🗓 الأحد 13 ديسمبر 2026 · 20:30 
+ بتوقيت الرياض\n🏟 Allianz Stadium\n—————\n⚽ Juve
+ ntus v Monza\n🏆 Serie A — Matchday 15\n🗓 Sun 13 Dec 2026 · 17:30 
+ UTC\n🏟 Allianz Stadium\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد مونزا — الدوري 
+ الإيطالي | Tomorrow: Juventus vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × مونزا | Kick-off in 30 min: Juventus vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749799@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T173000Z
+DTEND:20261220T193000Z
+SUMMARY:Venezia vs Monza — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749799
+DESCRIPTION:⚽ فينيزيا × مونزا\n🏆 الدوري الإيط
+ الي — الجولة 16\n🗓 الأحد 20 ديسمبر 2026 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Pierluigi Penzo\n—————\n
+ ⚽ Venezia v Monza\n🏆 Serie A — Matchday 16\n🗓 Sun 20 Dec 2026 ·
+  17:30 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد مونزا — الدوري 
+ الإيطالي | Tomorrow: Venezia vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × مونزا | Kick-off in 30 min: Venezia vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749806@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T173000Z
+DTEND:20270103T193000Z
+SUMMARY:Monza vs Milan — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749806
+DESCRIPTION:⚽ مونزا × ميلان\n🏆 الدوري الإيطال
+ ي — الجولة 17\n🗓 الأحد 3 يناير 2027 · 20:30 بتو
+ قيت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Monza v Mi
+ lan\n🏆 Serie A — Matchday 17\n🗓 Sun 03 Jan 2027 · 17:30 UTC\n🏟
+  Stadio Brianteo\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد ميلان — الدوري ال
+ إيطالي | Tomorrow: Monza vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × ميلان | Kick-off in 30 min: Monza vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749813@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T173000Z
+DTEND:20270106T193000Z
+SUMMARY:Genoa vs Monza — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749813
+DESCRIPTION:⚽ جنوى × مونزا\n🏆 الدوري الإيطالي 
+ — الجولة 18\n🗓 الأربعاء 6 يناير 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n⚽ Ge
+ noa v Monza\n🏆 Serie A — Matchday 18\n🗓 Wed 06 Jan 2027 · 17:30 U
+ TC\n🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد مونزا — الدوري الإ
+ يطالي | Tomorrow: Genoa vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  مونزا | Kick-off in 30 min: Genoa vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749826@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T173000Z
+DTEND:20270110T193000Z
+SUMMARY:Monza vs Frosinone — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749826
+DESCRIPTION:⚽ مونزا × فروزينوني\n🏆 الدوري الإ
+ يطالي — الجولة 19\n🗓 الأحد 10 يناير 2027 · 20:3
+ 0 بتوقيت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Mo
+ nza v Frosinone\n🏆 Serie A — Matchday 19\n🗓 Sun 10 Jan 2027 · 17:
+ 30 UTC\n🏟 Stadio Brianteo\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد فروزينوني — الدور
+ ي الإيطالي | Tomorrow: Monza vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × فروزينوني | Kick-off in 30 min: Monza vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749838@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T173000Z
+DTEND:20270117T193000Z
+SUMMARY:Sassuolo vs Monza — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749838
+DESCRIPTION:⚽ ساسولو × مونزا\n🏆 الدوري الإيطا
+ لي — الجولة 20\n🗓 الأحد 17 يناير 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n———
+ ——\n⚽ Sassuolo v Monza\n🏆 Serie A — Matchday 20\n🗓 Sun 17 Ja
+ n 2027 · 17:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد مونزا — الدوري ا
+ لإيطالي | Tomorrow: Sassuolo vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × مونزا | Kick-off in 30 min: Sassuolo vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749849@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T173000Z
+DTEND:20270124T193000Z
+SUMMARY:Monza vs Lazio — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749849
+DESCRIPTION:⚽ مونزا × لاتسيو\n🏆 الدوري الإيطا
+ لي — الجولة 21\n🗓 الأحد 24 يناير 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Monza v 
+ Lazio\n🏆 Serie A — Matchday 21\n🗓 Sun 24 Jan 2027 · 17:30 UTC\n
+ 🏟 Stadio Brianteo\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد لاتسيو — الدوري ا
+ لإيطالي | Tomorrow: Monza vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × لاتسيو | Kick-off in 30 min: Monza vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749855@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T173000Z
+DTEND:20270131T193000Z
+SUMMARY:Monza vs Roma — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749855
+DESCRIPTION:⚽ مونزا × روما\n🏆 الدوري الإيطالي 
+ — الجولة 22\n🗓 الأحد 31 يناير 2027 · 20:30 بتوق
+ يت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Monza v Roma
+ \n🏆 Serie A — Matchday 22\n🗓 Sun 31 Jan 2027 · 17:30 UTC\n🏟 St
+ adio Brianteo\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد روما — الدوري الإ
+ يطالي | Tomorrow: Monza vs Roma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × روما | Kick-off in 30 min: Monza vs Roma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749863@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T173000Z
+DTEND:20270207T193000Z
+SUMMARY:Como vs Monza — Serie A
+LOCATION:Stadio G. Sinigaglia
+URL:https://www.fotmob.com/match/5749863
+DESCRIPTION:⚽ كومو × مونزا\n🏆 الدوري الإيطالي 
+ — الجولة 23\n🗓 الأحد 7 فبراير 2027 · 20:30 بتوق
+ يت الرياض\n🏟 Stadio G. Sinigaglia\n—————\n⚽ Como v 
+ Monza\n🏆 Serie A — Matchday 23\n🗓 Sun 07 Feb 2027 · 17:30 UTC\n
+ 🏟 Stadio G. Sinigaglia\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كومو ضد مونزا — الدوري الإ
+ يطالي | Tomorrow: Como vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كومو ×
+  مونزا | Kick-off in 30 min: Como vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749876@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T173000Z
+DTEND:20270214T193000Z
+SUMMARY:Monza vs Lecce — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749876
+DESCRIPTION:⚽ مونزا × ليتشي\n🏆 الدوري الإيطال
+ ي — الجولة 24\n🗓 الأحد 14 فبراير 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Monza v 
+ Lecce\n🏆 Serie A — Matchday 24\n🗓 Sun 14 Feb 2027 · 17:30 UTC\n
+ 🏟 Stadio Brianteo\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد ليتشي — الدوري ال
+ إيطالي | Tomorrow: Monza vs Lecce
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × ليتشي | Kick-off in 30 min: Monza vs Lecce
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749881@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T173000Z
+DTEND:20270221T193000Z
+SUMMARY:Atalanta vs Monza — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749881
+DESCRIPTION:⚽ أتالانتا × مونزا\n🏆 الدوري الإي
+ طالي — الجولة 25\n🗓 الأحد 21 فبراير 2027 · 20:3
+ 0 بتوقيت الرياض\n🏟 New Balance Arena\n—————\n⚽ 
+ Atalanta v Monza\n🏆 Serie A — Matchday 25\n🗓 Sun 21 Feb 2027 · 17
+ :30 UTC\n🏟 New Balance Arena\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد مونزا — الدوري
+  الإيطالي | Tomorrow: Atalanta vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × مونزا | Kick-off in 30 min: Atalanta vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749897@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T173000Z
+DTEND:20270228T193000Z
+SUMMARY:Monza vs Juventus — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749897
+DESCRIPTION:⚽ مونزا × يوفنتوس\n🏆 الدوري الإيط
+ الي — الجولة 26\n🗓 الأحد 28 فبراير 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Monz
+ a v Juventus\n🏆 Serie A — Matchday 26\n🗓 Sun 28 Feb 2027 · 17:30 
+ UTC\n🏟 Stadio Brianteo\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد يوفنتوس — الدوري 
+ الإيطالي | Tomorrow: Monza vs Juventus
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × يوفنتوس | Kick-off in 30 min: Monza vs Juventus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749906@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T173000Z
+DTEND:20270307T193000Z
+SUMMARY:Monza vs Genoa — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749906
+DESCRIPTION:⚽ مونزا × جنوى\n🏆 الدوري الإيطالي 
+ — الجولة 27\n🗓 الأحد 7 مارس 2027 · 20:30 بتوقيت
+  الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Monza v Genoa\n
+ 🏆 Serie A — Matchday 27\n🗓 Sun 07 Mar 2027 · 17:30 UTC\n🏟 Stad
+ io Brianteo\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد جنوى — الدوري الإ
+ يطالي | Tomorrow: Monza vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × جنوى | Kick-off in 30 min: Monza vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749914@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T173000Z
+DTEND:20270314T193000Z
+SUMMARY:Frosinone vs Monza — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749914
+DESCRIPTION:⚽ فروزينوني × مونزا\n🏆 الدوري الإ
+ يطالي — الجولة 28\n🗓 الأحد 14 مارس 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n—————\n⚽
+  Frosinone v Monza\n🏆 Serie A — Matchday 28\n🗓 Sun 14 Mar 2027 · 
+ 17:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد مونزا — الدور
+ ي الإيطالي | Tomorrow: Frosinone vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × مونزا | Kick-off in 30 min: Frosinone vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749925@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T173000Z
+DTEND:20270321T193000Z
+SUMMARY:Monza vs Bologna — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749925
+DESCRIPTION:⚽ مونزا × بولونيا\n🏆 الدوري الإيط
+ الي — الجولة 29\n🗓 الأحد 21 مارس 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Monza v 
+ Bologna\n🏆 Serie A — Matchday 29\n🗓 Sun 21 Mar 2027 · 17:30 UTC\n
+ 🏟 Stadio Brianteo\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد بولونيا — الدوري 
+ الإيطالي | Tomorrow: Monza vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × بولونيا | Kick-off in 30 min: Monza vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749930@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T163000Z
+DTEND:20270404T183000Z
+SUMMARY:Milan vs Monza — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749930
+DESCRIPTION:⚽ ميلان × مونزا\n🏆 الدوري الإيطال
+ ي — الجولة 30\n🗓 الأحد 4 أبريل 2027 · 19:30 بتو
+ قيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v Monza\n
+ 🏆 Serie A — Matchday 30\n🗓 Sun 04 Apr 2027 · 16:30 UTC\n🏟 San 
+ Siro\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد مونزا — الدوري ال
+ إيطالي | Tomorrow: Milan vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × مونزا | Kick-off in 30 min: Milan vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749949@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T163000Z
+DTEND:20270411T183000Z
+SUMMARY:Udinese vs Monza — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749949
+DESCRIPTION:⚽ أودينيزي × مونزا\n🏆 الدوري الإي
+ طالي — الجولة 31\n🗓 الأحد 11 أبريل 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n——
+ ———\n⚽ Udinese v Monza\n🏆 Serie A — Matchday 31\n🗓 Sun 11 
+ Apr 2027 · 16:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد مونزا — الدوري
+  الإيطالي | Tomorrow: Udinese vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × مونزا | Kick-off in 30 min: Udinese vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749956@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T163000Z
+DTEND:20270418T183000Z
+SUMMARY:Monza vs Inter — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749956
+DESCRIPTION:⚽ مونزا × إنتر ميلان\n🏆 الدوري الإ
+ يطالي — الجولة 32\n🗓 الأحد 18 أبريل 2027 · 19:3
+ 0 بتوقيت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Mo
+ nza v Inter\n🏆 Serie A — Matchday 32\n🗓 Sun 18 Apr 2027 · 16:30 U
+ TC\n🏟 Stadio Brianteo\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد إنتر ميلان — الدو
+ ري الإيطالي | Tomorrow: Monza vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × إنتر ميلان | Kick-off in 30 min: Monza vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749960@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270425T163000Z
+DTEND:20270425T183000Z
+SUMMARY:Cagliari vs Monza — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749960
+DESCRIPTION:⚽ كالياري × مونزا\n🏆 الدوري الإيط
+ الي — الجولة 33\n🗓 الأحد 25 أبريل 2027 · 19:30 ب
+ توقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cagliari 
+ v Monza\n🏆 Serie A — Matchday 33\n🗓 Sun 25 Apr 2027 · 16:30 UTC\n
+ 🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد مونزا — الدوري 
+ الإيطالي | Tomorrow: Cagliari vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × مونزا | Kick-off in 30 min: Cagliari vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749976@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T163000Z
+DTEND:20270502T183000Z
+SUMMARY:Monza vs Venezia — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749976
+DESCRIPTION:⚽ مونزا × فينيزيا\n🏆 الدوري الإيط
+ الي — الجولة 34\n🗓 الأحد 2 مايو 2027 · 19:30 بت
+ وقيت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Monza v 
+ Venezia\n🏆 Serie A — Matchday 34\n🗓 Sun 02 May 2027 · 16:30 UTC\n
+ 🏟 Stadio Brianteo\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد فينيزيا — الدوري 
+ الإيطالي | Tomorrow: Monza vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × فينيزيا | Kick-off in 30 min: Monza vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749985@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T163000Z
+DTEND:20270509T183000Z
+SUMMARY:Napoli vs Monza — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749985
+DESCRIPTION:⚽ نابولي × مونزا\n🏆 الدوري الإيطا
+ لي — الجولة 35\n🗓 الأحد 9 مايو 2027 · 19:30 بتو
+ قيت الرياض\n🏟 Diego Armando Maradona\n—————\n⚽ Nap
+ oli v Monza\n🏆 Serie A — Matchday 35\n🗓 Sun 09 May 2027 · 16:30 U
+ TC\n🏟 Diego Armando Maradona\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد مونزا — الدوري ا
+ لإيطالي | Tomorrow: Napoli vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × مونزا | Kick-off in 30 min: Napoli vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749997@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T163000Z
+DTEND:20270516T183000Z
+SUMMARY:Monza vs Parma — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749997
+DESCRIPTION:⚽ مونزا × بارما\n🏆 الدوري الإيطال
+ ي — الجولة 36\n🗓 الأحد 16 مايو 2027 · 19:30 بتوق
+ يت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Monza v Parm
+ a\n🏆 Serie A — Matchday 36\n🗓 Sun 16 May 2027 · 16:30 UTC\n🏟 S
+ tadio Brianteo\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد بارما — الدوري ال
+ إيطالي | Tomorrow: Monza vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × بارما | Kick-off in 30 min: Monza vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750002@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T163000Z
+DTEND:20270523T183000Z
+SUMMARY:Fiorentina vs Monza — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5750002
+DESCRIPTION:⚽ فيورنتينا × مونزا\n🏆 الدوري الإ
+ يطالي — الجولة 37\n🗓 الأحد 23 مايو 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n—————\
+ n⚽ Fiorentina v Monza\n🏆 Serie A — Matchday 37\n🗓 Sun 23 May 202
+ 7 · 16:30 UTC\n🏟 Artemio Franchi, Firenze\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد مونزا — الدور
+ ي الإيطالي | Tomorrow: Fiorentina vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × مونزا | Kick-off in 30 min: Fiorentina vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750017@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T163000Z
+DTEND:20270530T183000Z
+SUMMARY:Monza vs Torino — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5750017
+DESCRIPTION:⚽ مونزا × تورينو\n🏆 الدوري الإيطا
+ لي — الجولة 38\n🗓 الأحد 30 مايو 2027 · 19:30 بتو
+ قيت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Monza v To
+ rino\n🏆 Serie A — Matchday 38\n🗓 Sun 30 May 2027 · 16:30 UTC\n
+ 🏟 Stadio Brianteo\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد تورينو — الدوري ا
+ لإيطالي | Tomorrow: Monza vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × تورينو | Kick-off in 30 min: Monza vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852773@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260814T184500Z
+DTEND:20260814T204500Z
+SUMMARY:Monza vs Avellino (3 - 0) — Coppa Italia
+LOCATION:U-Power Stadium\, Monza\, Italy
+GEO:45.583064;9.308116
+URL:https://www.fotmob.com/match/5852773
+DESCRIPTION:⚽ مونزا × أفينيو (3 - 0)\n🏆 كأس إيطال
+ يا — دور الـ32\n🗓 الجمعة 14 أغسطس 2026 · 21:45 ب
+ توقيت الرياض\n🏟 U-Power Stadium، Monza\n⚖️ الحكم: 
+ Mattia Drigo\n👥 الحضور: 3,229\n—————\n⚽ Monza v Avell
+ ino (3 - 0)\n🏆 Coppa Italia — Round of 32\n🗓 Fri 14 Aug 2026 · 18
+ :45 UTC\n🏟 U-Power Stadium, Monza\nReferee: Mattia Drigo\nAttendance: 3
+ ,229\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد أفينيو — كأس إيطا
+ ليا | Tomorrow: Monza vs Avellino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × أفينيو | Kick-off in 30 min: Monza vs Avellino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003654@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260901T190000Z
+DTEND:20260901T210000Z
+SUMMARY:Torino vs Monza (0 - 1) — Coppa Italia
+LOCATION:Stadio Olimpico Grande Torino\, Torino\, Italy
+GEO:45.041752;7.650016
+URL:https://www.fotmob.com/match/6003654
+DESCRIPTION:⚽ تورينو × مونزا (0 - 1)\n🏆 كأس إيطال
+ يا — دور الـ32\n🗓 الثلاثاء 1 سبتمبر 2026 · 22:
+ 00 بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino، Torino\
+ n⚖️ الحكم: Daniele Perenzoni\n—————\n⚽ Torino v Monza
+  (0 - 1)\n🏆 Coppa Italia — Round of 32\n🗓 Tue 01 Sep 2026 · 19:00
+  UTC\n🏟 Stadio Olimpico Grande Torino, Torino\nReferee: Daniele Perenzo
+ ni\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد مونزا — كأس إيطا
+ ليا | Tomorrow: Torino vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × مونزا | Kick-off in 30 min: Torino vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003677@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T170000Z
+DTEND:20261202T190000Z
+SUMMARY:Monza vs Milan — Coppa Italia
+LOCATION:U-Power Stadium\, Monza\, Italy
+GEO:45.583064;9.308116
+URL:https://www.fotmob.com/match/6003677
+DESCRIPTION:⚽ مونزا × ميلان\n🏆 كأس إيطاليا — د
+ ور الـ16\n🗓 الأربعاء 2 ديسمبر 2026 · 20:00 بتوق
+ يت الرياض\n🏟 U-Power Stadium، Monza\n—————\n⚽ Monz
+ a v Milan\n🏆 Coppa Italia — Round of 16\n🗓 Wed 02 Dec 2026 · 17:0
+ 0 UTC\n🏟 U-Power Stadium, Monza\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد ميلان — كأس إيطال
+ يا | Tomorrow: Monza vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × ميلان | Kick-off in 30 min: Monza vs Milan
+END:VALARM
+END:VEVENT
+END:VCALENDAR

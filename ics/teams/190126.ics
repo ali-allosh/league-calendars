@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ CD Quintanar del Rey — Copa del Rey Fixtures | كينت
+ انتار ديل ري — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:CD Quintanar del Rey — all matches in Copa del Rey\, exact U
+ TC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026
+ -09-05T19:31:10Z.  •  كينتانتار ديل ري — جميع الم
+ باريات في كأس ملك إسبانيا بتوقيت UTC الدقي
+ ق مع الملاعب والقنوات الناقلة. المصدر: FotM
+ ob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4996039@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251029T200000Z
+DTEND:20251029T220000Z
+SUMMARY:CD Quintanar del Rey vs UD Ibiza (1 - 1) — Copa del Rey
+LOCATION:Estadio San Marcos\, Quintanar del Rey\, Spain
+GEO:39.349843;-1.929120
+URL:https://www.fotmob.com/match/4996039
+DESCRIPTION:⚽ كينتانتار ديل ري × إيبيزا (1 - 1)\n
+ 🏆 كأس ملك إسبانيا — الدور الأول\n🗓 الأر
+ بعاء 29 أكتوبر 2025 · 23:00 بتوقيت الرياض\n🏟 Est
+ adio San Marcos، Quintanar del Rey\n⚖️ الحكم: Marcelo Ibáñez J
+ uárez\n—————\n⚽ CD Quintanar del Rey v UD Ibiza (1 - 1)\n🏆
+  Copa del Rey — Round 1\n🗓 Wed 29 Oct 2025 · 20:00 UTC\n🏟 Estadio
+  San Marcos, Quintanar del Rey\nReferee: Marcelo Ibáñez Juárez\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كينتانتار ديل ري ضد إيبيزا 
+ — كأس ملك إسبانيا | Tomorrow: CD Quintanar del Rey vs UD Ib
+ iza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كينتا
+ نتار ديل ري × إيبيزا | Kick-off in 30 min: CD Quintanar de
+ l Rey vs UD Ibiza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057311@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251203T200000Z
+DTEND:20251203T220000Z
+SUMMARY:CD Quintanar del Rey vs Elche (1 - 2) — Copa del Rey
+LOCATION:Estadio San Marcos\, Quintanar del Rey\, Spain
+GEO:39.349843;-1.929120
+URL:https://www.fotmob.com/match/5057311
+DESCRIPTION:⚽ كينتانتار ديل ري × إلتشي (1 - 2)\n🏆 
+ كأس ملك إسبانيا — الدور الثاني\n🗓 الأرب
+ عاء 3 ديسمبر 2025 · 23:00 بتوقيت الرياض\n🏟 Estadi
+ o San Marcos، Quintanar del Rey\n⚖️ الحكم: José Luis Guzmán Ma
+ nsilla\n👥 الحضور: 3,000\n—————\n⚽ CD Quintanar del Re
+ y v Elche (1 - 2)\n🏆 Copa del Rey — Round 2\n🗓 Wed 03 Dec 2025 · 
+ 20:00 UTC\n🏟 Estadio San Marcos, Quintanar del Rey\nReferee: José Luis
+  Guzmán Mansilla\nAttendance: 3,000\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كينتانتار ديل ري ضد إلتشي 
+ — كأس ملك إسبانيا | Tomorrow: CD Quintanar del Rey vs Elche
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كينتا
+ نتار ديل ري × إلتشي | Kick-off in 30 min: CD Quintanar del 
+ Rey vs Elche
+END:VALARM
+END:VEVENT
+END:VCALENDAR

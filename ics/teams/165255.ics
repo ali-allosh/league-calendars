@@ -1,0 +1,278 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Port FC — AFC Champions League Elite Fixtures | Port FC 
+ — مباريات دوري أبطال آسيا للنخبة
+X-WR-CALDESC:Port FC — all matches in AFC Champions League Elite\, exact 
+ UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 202
+ 6-09-05T19:31:10Z.  •  Port FC — جميع المباريات في دو
+ ري أبطال آسيا للنخبة بتوقيت UTC الدقيق مع 
+ الملاعب والقنوات الناقلة. المصدر: FotMob + 365
+ scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6049983@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260916T121500Z
+DTEND:20260916T141500Z
+SUMMARY:Port FC vs Vissel Kobe — AFC Champions League Elite
+LOCATION:Thammasat Stadium\, Pathum Thani\, Thailand
+GEO:14.068009;100.598931
+URL:https://www.fotmob.com/match/6049983
+DESCRIPTION:⚽ Port FC × فيسيل كوبي\n🏆 دوري أبطال آ
+ سيا للنخبة — الجولة 1\n🗓 الأربعاء 16 سبتم
+ بر 2026 · 15:15 بتوقيت الرياض\n🏟 Thammasat Stadium، Pat
+ hum Thani\n—————\n⚽ Port FC v Vissel Kobe\n🏆 AFC Champions 
+ League Elite — Matchday 1\n🗓 Wed 16 Sep 2026 · 12:15 UTC\n🏟 Thamm
+ asat Stadium, Pathum Thani\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Port FC ضد فيسيل كوبي — دوري أ
+ بطال آسيا للنخبة | Tomorrow: Port FC vs Vissel Kobe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Port FC × 
+ فيسيل كوبي | Kick-off in 30 min: Port FC vs Vissel Kobe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049984@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261014T100000Z
+DTEND:20261014T120000Z
+SUMMARY:Kashiwa Reysol vs Port FC — AFC Champions League Elite
+LOCATION:SANKYO FRONTIER Kashiwa Stadium\, Kashiwa\, Japan
+GEO:35.848465;139.975133
+URL:https://www.fotmob.com/match/6049984
+DESCRIPTION:⚽ كاشيوا ريسول × Port FC\n🏆 دوري أبطا
+ ل آسيا للنخبة — الجولة 2\n🗓 الأربعاء 14 أك
+ توبر 2026 · 13:00 بتوقيت الرياض\n🏟 SANKYO FRONTIER Kas
+ hiwa Stadium، Kashiwa\n—————\n⚽ Kashiwa Reysol v Port FC\n
+ 🏆 AFC Champions League Elite — Matchday 2\n🗓 Wed 14 Oct 2026 · 10
+ :00 UTC\n🏟 SANKYO FRONTIER Kashiwa Stadium, Kashiwa\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كاشيوا ريسول ضد Port FC — دوري
+  أبطال آسيا للنخبة | Tomorrow: Kashiwa Reysol vs Port FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاشيو
+ ا ريسول × Port FC | Kick-off in 30 min: Kashiwa Reysol vs Port FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049993@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261027T110000Z
+DTEND:20261027T130000Z
+SUMMARY:Johor Darul Ta'zim vs Port FC — AFC Champions League Elite
+LOCATION:Stadium Sultan Ibrahim Larkin\, Iskandar Puteri (Nusajaya)\, Malay
+ sia
+GEO:1.481781;103.619313
+URL:https://www.fotmob.com/match/6049993
+DESCRIPTION:⚽ جوهور × Port FC\n🏆 دوري أبطال آسيا ل
+ لنخبة — الجولة 3\n🗓 الثلاثاء 27 أكتوبر 2026 
+ · 14:00 بتوقيت الرياض\n🏟 Stadium Sultan Ibrahim Larkin، I
+ skandar Puteri (Nusajaya)\n—————\n⚽ Johor Darul Ta'zim v Port 
+ FC\n🏆 AFC Champions League Elite — Matchday 3\n🗓 Tue 27 Oct 2026 
+ · 11:00 UTC\n🏟 Stadium Sultan Ibrahim Larkin, Iskandar Puteri (Nusajay
+ a)\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جوهور ضد Port FC — دوري أبطال 
+ آسيا للنخبة | Tomorrow: Johor Darul Ta'zim vs Port FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جوهور 
+ × Port FC | Kick-off in 30 min: Johor Darul Ta'zim vs Port FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050005@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261103T131500Z
+DTEND:20261103T151500Z
+SUMMARY:Port FC vs Beijing Guoan — AFC Champions League Elite
+LOCATION:Thammasat Stadium\, Pathum Thani\, Thailand
+GEO:14.068009;100.598931
+URL:https://www.fotmob.com/match/6050005
+DESCRIPTION:⚽ Port FC × بكين كوان\n🏆 دوري أبطال آس
+ يا للنخبة — الجولة 4\n🗓 الثلاثاء 3 نوفمبر
+  2026 · 16:15 بتوقيت الرياض\n🏟 Thammasat Stadium، Pathum 
+ Thani\n—————\n⚽ Port FC v Beijing Guoan\n🏆 AFC Champions Le
+ ague Elite — Matchday 4\n🗓 Tue 03 Nov 2026 · 13:15 UTC\n🏟 Thammas
+ at Stadium, Pathum Thani\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Port FC ضد بكين كوان — دوري أب
+ طال آسيا للنخبة | Tomorrow: Port FC vs Beijing Guoan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Port FC × 
+ بكين كوان | Kick-off in 30 min: Port FC vs Beijing Guoan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050014@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261125T110000Z
+DTEND:20261125T130000Z
+SUMMARY:Gamba Osaka vs Port FC — AFC Champions League Elite
+LOCATION:Panasonic Stadium Suita\, Suita\, Japan
+GEO:34.802763;135.538199
+URL:https://www.fotmob.com/match/6050014
+DESCRIPTION:⚽ غامبا أوساكا × Port FC\n🏆 دوري أبطا
+ ل آسيا للنخبة — الجولة 5\n🗓 الأربعاء 25 نو
+ فمبر 2026 · 14:00 بتوقيت الرياض\n🏟 Panasonic Stadium S
+ uita، Suita\n—————\n⚽ Gamba Osaka v Port FC\n🏆 AFC Champio
+ ns League Elite — Matchday 5\n🗓 Wed 25 Nov 2026 · 11:00 UTC\n🏟 Pa
+ nasonic Stadium Suita, Suita\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غامبا أوساكا ضد Port FC — دوري
+  أبطال آسيا للنخبة | Tomorrow: Gamba Osaka vs Port FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غامبا 
+ أوساكا × Port FC | Kick-off in 30 min: Gamba Osaka vs Port FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050023@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261202T131500Z
+DTEND:20261202T151500Z
+SUMMARY:Port FC vs Kashima Antlers — AFC Champions League Elite
+LOCATION:Thammasat Stadium\, Pathum Thani\, Thailand
+GEO:14.068009;100.598931
+URL:https://www.fotmob.com/match/6050023
+DESCRIPTION:⚽ Port FC × كاشيما أنتليرز\n🏆 دوري أب
+ طال آسيا للنخبة — الجولة 6\n🗓 الأربعاء 2 
+ ديسمبر 2026 · 16:15 بتوقيت الرياض\n🏟 Thammasat Stadi
+ um، Pathum Thani\n—————\n⚽ Port FC v Kashima Antlers\n🏆 AF
+ C Champions League Elite — Matchday 6\n🗓 Wed 02 Dec 2026 · 13:15 UTC
+ \n🏟 Thammasat Stadium, Pathum Thani\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Port FC ضد كاشيما أنتليرز — دو
+ ري أبطال آسيا للنخبة | Tomorrow: Port FC vs Kashima Antle
+ rs
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Port FC × 
+ كاشيما أنتليرز | Kick-off in 30 min: Port FC vs Kashima Antle
+ rs
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050027@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270209T110000Z
+DTEND:20270209T130000Z
+SUMMARY:Shanghai Port vs Port FC — AFC Champions League Elite
+LOCATION:SAIC Motor Pudong Arena\, Shanghai\, China
+GEO:31.240638;121.607021
+URL:https://www.fotmob.com/match/6050027
+DESCRIPTION:⚽ شنغهاي بورت × Port FC\n🏆 دوري أبطال 
+ آسيا للنخبة — الجولة 7\n🗓 الثلاثاء 9 فبرا
+ ير 2027 · 14:00 بتوقيت الرياض\n🏟 SAIC Motor Pudong Arena
+ ، Shanghai\n—————\n⚽ Shanghai Port v Port FC\n🏆 AFC Champi
+ ons League Elite — Matchday 7\n🗓 Tue 09 Feb 2027 · 11:00 UTC\n🏟 S
+ AIC Motor Pudong Arena, Shanghai\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شنغهاي بورت ضد Port FC — دوري 
+ أبطال آسيا للنخبة | Tomorrow: Shanghai Port vs Port FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شنغها
+ ي بورت × Port FC | Kick-off in 30 min: Shanghai Port vs Port FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050039@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270216T110000Z
+DTEND:20270216T130000Z
+SUMMARY:Port FC vs Kyoto Sanga FC — AFC Champions League Elite
+LOCATION:Thammasat Stadium\, Pathum Thani\, Thailand
+GEO:14.068009;100.598931
+URL:https://www.fotmob.com/match/6050039
+DESCRIPTION:⚽ Port FC × Kyoto Sanga FC\n🏆 دوري أبطال آسي
+ ا للنخبة — الجولة 8\n🗓 الثلاثاء 16 فبراير 
+ 2027 · 14:00 بتوقيت الرياض\n🏟 Thammasat Stadium، Pathum T
+ hani\n—————\n⚽ Port FC v Kyoto Sanga FC\n🏆 AFC Champions Le
+ ague Elite — Matchday 8\n🗓 Tue 16 Feb 2027 · 11:00 UTC\n🏟 Thammas
+ at Stadium, Pathum Thani\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Port FC ضد Kyoto Sanga FC — دوري أبطا
+ ل آسيا للنخبة | Tomorrow: Port FC vs Kyoto Sanga FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Port FC × 
+ Kyoto Sanga FC | Kick-off in 30 min: Port FC vs Kyoto Sanga FC
+END:VALARM
+END:VEVENT
+END:VCALENDAR

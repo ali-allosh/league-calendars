@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Leicester City — FA Cup Fixtures | Leicester City — م
+ باريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Leicester City — all matches in FA Cup\, exact UTC kickoffs\
+ , stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31
+ :10Z.  •  Leicester City — جميع المباريات في كأس ا
+ لاتحاد الإنجليزي بتوقيت UTC الدقيق مع الم
+ لاعب والقنوات الناقلة. المصدر: FotMob + 365scores
+  · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5089917@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260110T121500Z
+DTEND:20260110T141500Z
+SUMMARY:Cheltenham Town vs Leicester City (0 - 2) — FA Cup
+LOCATION:EV Charger Points Stadium\, Cheltenham\, Gloucestershire\, England
+GEO:51.906166;-2.060197
+URL:https://www.fotmob.com/match/5089917
+DESCRIPTION:⚽ Cheltenham Town × Leicester City (0 - 2)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الثالث\n🗓 السبت
+  10 يناير 2026 · 15:15 بتوقيت الرياض\n🏟 EV Charger Po
+ ints Stadium، Cheltenham, Gloucestershire\n⚖️ الحكم: James Linin
+ gton\n👥 الحضور: 6,677\n—————\n⚽ Cheltenham Town v Lei
+ cester City (0 - 2)\n🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 12:1
+ 5 UTC\n🏟 EV Charger Points Stadium, Cheltenham, Gloucestershire\nRefere
+ e: James Linington\nAttendance: 6,677\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Cheltenham Town ضد Leicester City — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Cheltenham Town vs Leicester C
+ ity
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Cheltenham 
+ Town × Leicester City | Kick-off in 30 min: Cheltenham Town vs Leicester 
+ City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135164@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260214T150000Z
+DTEND:20260214T170000Z
+SUMMARY:Southampton vs Leicester City (2 - 1) — FA Cup
+LOCATION:St. Mary's Stadium\, Southampton\, Hampshire\, England
+GEO:50.905895;-1.391047
+URL:https://www.fotmob.com/match/5135164
+DESCRIPTION:⚽ ساوثهامبتون × Leicester City (2 - 1)\n🏆 كأ
+ س الاتحاد الإنجليزي — الدور الرابع\n🗓 ا
+ لسبت 14 فبراير 2026 · 18:00 بتوقيت الرياض\n🏟 St.
+  Mary's Stadium، Southampton, Hampshire\n⚖️ الحكم: Matthew Corle
+ tt\n👥 الحضور: 17,359\n—————\n⚽ Southampton v Leiceste
+ r City (2 - 1)\n🏆 FA Cup — Round 4\n🗓 Sat 14 Feb 2026 · 15:00 UTC
+ \n🏟 St. Mary's Stadium, Southampton, Hampshire\nReferee: Matthew Corlet
+ t\nAttendance: 17,359\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساوثهامبتون ضد Leicester City — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Southampton vs Leiceste
+ r City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساوثه
+ امبتون × Leicester City | Kick-off in 30 min: Southampton vs Leices
+ ter City
+END:VALARM
+END:VEVENT
+END:VCALENDAR

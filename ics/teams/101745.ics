@@ -1,0 +1,637 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al Ahly SC — Egyptian Premier League Fixtures | الأه
+ لي — مباريات الدوري المصري الممتاز
+X-WR-CALDESC:Al Ahly SC — all matches in Egyptian Premier League\, exact 
+ UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 202
+ 6-09-05T19:31:10Z.  •  الأهلي — جميع المباريات في
+  الدوري المصري الممتاز بتوقيت UTC الدقيق م
+ ع الملاعب والقنوات الناقلة. المصدر: FotMob + 
+ 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5995579@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260823T170000Z
+DTEND:20260823T190000Z
+SUMMARY:Al Ahly SC vs Al Sharkeyah-ENPPI (3 - 2) — Egyptian Premier Leagu
+ e
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5995579
+DESCRIPTION:⚽ الأهلي × Al Sharkeyah-ENPPI (3 - 2)\n🏆 الدور
+ ي المصري الممتاز — الجولة 1\n🗓 الأحد 23 أغ
+ سطس 2026 · 20:00 بتوقيت الرياض\n🏟 Cairo International S
+ tadium، al-Qāhirah (Cairo)\n⚖️ الحكم: Ahmed Nagy\n————
+ —\n⚽ Al Ahly SC v Al Sharkeyah-ENPPI (3 - 2)\n🏆 Egyptian Premier Le
+ ague — Matchday 1\n🗓 Sun 23 Aug 2026 · 17:00 UTC\n🏟 Cairo Interna
+ tional Stadium, al-Qāhirah (Cairo)\nReferee: Ahmed Nagy\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد Al Sharkeyah-ENPPI — الدو
+ ري المصري الممتاز | Tomorrow: Al Ahly SC vs Al Sharkeyah-EN
+ PPI
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × Al Sharkeyah-ENPPI | Kick-off in 30 min: Al Ahly SC vs Al Sharkeyah-
+ ENPPI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996701@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260828T170000Z
+DTEND:20260828T190000Z
+SUMMARY:ZED FC vs Al Ahly SC (0 - 2) — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996701
+DESCRIPTION:⚽ زد × الأهلي (0 - 2)\n🏆 الدوري المصر
+ ي الممتاز — الجولة 2\n🗓 الجمعة 28 أغسطس 2026
+  · 20:00 بتوقيت الرياض\n🏟 Cairo International Stadium، al
+ -Qāhirah (Cairo)\n⚖️ الحكم: Mohamed Maarouf Eid Mansour\n——
+ ———\n⚽ ZED FC v Al Ahly SC (0 - 2)\n🏆 Egyptian Premier League 
+ — Matchday 2\n🗓 Fri 28 Aug 2026 · 17:00 UTC\n🏟 Cairo Internationa
+ l Stadium, al-Qāhirah (Cairo)\nReferee: Mohamed Maarouf Eid Mansour\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: زد ضد الأهلي — الدوري المص
+ ري الممتاز | Tomorrow: ZED FC vs Al Ahly SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: زد × ا
+ لأهلي | Kick-off in 30 min: ZED FC vs Al Ahly SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996707@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260903T170000Z
+DTEND:20260903T190000Z
+SUMMARY:Al Ahly SC vs Smouha SC (1 - 0) — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996707
+DESCRIPTION:⚽ الأهلي × سموحة (1 - 0)\n🏆 الدوري ال
+ مصري الممتاز — الجولة 3\n🗓 الخميس 3 سبتمب
+ ر 2026 · 20:00 بتوقيت الرياض\n🏟 Cairo International Stadi
+ um، al-Qāhirah (Cairo)\n⚖️ الحكم: Amin Mohamed Omar\n———
+ ——\n⚽ Al Ahly SC v Smouha SC (1 - 0)\n🏆 Egyptian Premier League 
+ — Matchday 3\n🗓 Thu 03 Sep 2026 · 17:00 UTC\n🏟 Cairo Internationa
+ l Stadium, al-Qāhirah (Cairo)\nReferee: Amin Mohamed Omar\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد سموحة — الدوري ا
+ لمصري الممتاز | Tomorrow: Al Ahly SC vs Smouha SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × سموحة | Kick-off in 30 min: Al Ahly SC vs Smouha SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996720@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260909T170000Z
+DTEND:20260909T190000Z
+SUMMARY:Al Mokawloon Al Arab vs Al Ahly SC — Egyptian Premier League
+LOCATION:Arab Contractors Stadium (Osman Ahmed Osman Stadium)\, al-Qāhirah
+  (Cairo)\, Egypt
+GEO:30.051154;31.296996
+URL:https://www.fotmob.com/match/5996720
+DESCRIPTION:⚽ المقاولون العرب × الأهلي\n🏆 الد
+ وري المصري الممتاز — الجولة 4\n🗓 الأربعا
+ ء 9 سبتمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Arab Contr
+ actors Stadium (Osman Ahmed Osman Stadium)، al-Qāhirah (Cairo)\n——
+ ———\n⚽ Al Mokawloon Al Arab v Al Ahly SC\n🏆 Egyptian Premier Le
+ ague — Matchday 4\n🗓 Wed 09 Sep 2026 · 17:00 UTC\n🏟 Arab Contract
+ ors Stadium (Osman Ahmed Osman Stadium), al-Qāhirah (Cairo)\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المقاولون العرب ضد الأهلي 
+ — الدوري المصري الممتاز | Tomorrow: Al Mokawloon Al A
+ rab vs Al Ahly SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المقا
+ ولون العرب × الأهلي | Kick-off in 30 min: Al Mokawloon Al 
+ Arab vs Al Ahly SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996727@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260915T170000Z
+DTEND:20260915T190000Z
+SUMMARY:Al Ahly SC vs Abo Qir Semad — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996727
+DESCRIPTION:⚽ الأهلي × ابو قير للاسمدة\n🏆 الدو
+ ري المصري الممتاز — الجولة 5\n🗓 الثلاثاء
+  15 سبتمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Cairo Inter
+ national Stadium، al-Qāhirah (Cairo)\n—————\n⚽ Al Ahly SC v 
+ Abo Qir Semad\n🏆 Egyptian Premier League — Matchday 5\n🗓 Tue 15 Se
+ p 2026 · 17:00 UTC\n🏟 Cairo International Stadium, al-Qāhirah (Cairo)
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد ابو قير للاسمدة 
+ — الدوري المصري الممتاز | Tomorrow: Al Ahly SC vs Abo
+  Qir Semad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × ابو قير للاسمدة | Kick-off in 30 min: Al Ahly SC vs Abo
+  Qir Semad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996733@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261011T170000Z
+DTEND:20261011T190000Z
+SUMMARY:Zamalek SC vs Al Ahly SC — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996733
+DESCRIPTION:⚽ الزمالك × الأهلي\n🏆 الدوري المص
+ ري الممتاز — الجولة 6\n🗓 الأحد 11 أكتوبر 20
+ 26 · 20:00 بتوقيت الرياض\n🏟 Cairo International Stadium، 
+ al-Qāhirah (Cairo)\n—————\n⚽ Zamalek SC v Al Ahly SC\n🏆 Eg
+ yptian Premier League — Matchday 6\n🗓 Sun 11 Oct 2026 · 17:00 UTC\n
+ 🏟 Cairo International Stadium, al-Qāhirah (Cairo)\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الزمالك ضد الأهلي — الدوري
+  المصري الممتاز | Tomorrow: Zamalek SC vs Al Ahly SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الزما
+ لك × الأهلي | Kick-off in 30 min: Zamalek SC vs Al Ahly SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996750@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261021T170000Z
+DTEND:20261021T190000Z
+SUMMARY:Al Ahly SC vs Olympic El Qanah FC — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996750
+DESCRIPTION:⚽ الأهلي × القناة\n🏆 الدوري المصر
+ ي الممتاز — الجولة 7\n🗓 الأربعاء 21 أكتوب
+ ر 2026 · 20:00 بتوقيت الرياض\n🏟 Cairo International Stadi
+ um، al-Qāhirah (Cairo)\n—————\n⚽ Al Ahly SC v Olympic El Qan
+ ah FC\n🏆 Egyptian Premier League — Matchday 7\n🗓 Wed 21 Oct 2026 
+ · 17:00 UTC\n🏟 Cairo International Stadium, al-Qāhirah (Cairo)\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد القناة — الدوري 
+ المصري الممتاز | Tomorrow: Al Ahly SC vs Olympic El Qanah FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × القناة | Kick-off in 30 min: Al Ahly SC vs Olympic El Qanah FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996754@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261029T140000Z
+DTEND:20261029T160000Z
+SUMMARY:Modern Sport FC vs Al Ahly SC — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996754
+DESCRIPTION:⚽ مودرن سبورت × الأهلي\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 8\n🗓 الخميس 29 أكت
+ وبر 2026 · 17:00 بتوقيت الرياض\n🏟 Cairo Int'l Stadium\n
+ —————\n⚽ Modern Sport FC v Al Ahly SC\n🏆 Egyptian Premier L
+ eague — Matchday 8\n🗓 Thu 29 Oct 2026 · 14:00 UTC\n🏟 Cairo Int'l 
+ Stadium\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مودرن سبورت ضد الأهلي — ال
+ دوري المصري الممتاز | Tomorrow: Modern Sport FC vs Al Ahl
+ y SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مودرن 
+ سبورت × الأهلي | Kick-off in 30 min: Modern Sport FC vs Al Ahl
+ y SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996763@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261123T180000Z
+DTEND:20261123T200000Z
+SUMMARY:Al Ahly SC vs Pyramids FC — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996763
+DESCRIPTION:⚽ الأهلي × بيراميدز\n🏆 الدوري الم
+ صري الممتاز — الجولة 9\n🗓 الاثنين 23 نوفم
+ بر 2026 · 21:00 بتوقيت الرياض\n🏟 Cairo Int'l Stadium\n
+ —————\n⚽ Al Ahly SC v Pyramids FC\n🏆 Egyptian Premier Leagu
+ e — Matchday 9\n🗓 Mon 23 Nov 2026 · 18:00 UTC\n🏟 Cairo Int'l Stad
+ ium\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد بيراميدز — الدور
+ ي المصري الممتاز | Tomorrow: Al Ahly SC vs Pyramids FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × بيراميدز | Kick-off in 30 min: Al Ahly SC vs Pyramids FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996781@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261210T180000Z
+DTEND:20261210T200000Z
+SUMMARY:Ghazl Al Mahalla vs Al Ahly SC — Egyptian Premier League
+LOCATION:Ghazl El Mahalla Stadium
+URL:https://www.fotmob.com/match/5996781
+DESCRIPTION:⚽ غزل المحلة × الأهلي\n🏆 الدوري ال
+ مصري الممتاز — الجولة 10\n🗓 الخميس 10 ديسم
+ بر 2026 · 21:00 بتوقيت الرياض\n🏟 Ghazl El Mahalla Stadiu
+ m\n—————\n⚽ Ghazl Al Mahalla v Al Ahly SC\n🏆 Egyptian Premi
+ er League — Matchday 10\n🗓 Thu 10 Dec 2026 · 18:00 UTC\n🏟 Ghazl E
+ l Mahalla Stadium\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غزل المحلة ضد الأهلي — الد
+ وري المصري الممتاز | Tomorrow: Ghazl Al Mahalla vs Al Ahly
+  SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غزل ال
+ محلة × الأهلي | Kick-off in 30 min: Ghazl Al Mahalla vs Al Ahly
+  SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996785@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261215T150000Z
+DTEND:20261215T170000Z
+SUMMARY:Al Ahly SC vs Asyut Petroleum — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996785
+DESCRIPTION:⚽ الأهلي × أسيوط بتروليوم\n🏆 الدو
+ ري المصري الممتاز — الجولة 11\n🗓 الثلاثا
+ ء 15 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Cairo Int
+ 'l Stadium\n—————\n⚽ Al Ahly SC v Asyut Petroleum\n🏆 Egypti
+ an Premier League — Matchday 11\n🗓 Tue 15 Dec 2026 · 15:00 UTC\n🏟
+  Cairo Int'l Stadium\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد أسيوط بتروليوم —
+  الدوري المصري الممتاز | Tomorrow: Al Ahly SC vs Asyut 
+ Petroleum
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × أسيوط بتروليوم | Kick-off in 30 min: Al Ahly SC vs Asyu
+ t Petroleum
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996800@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261224T180000Z
+DTEND:20261224T200000Z
+SUMMARY:Ceramica Cleopatra vs Al Ahly SC — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996800
+DESCRIPTION:⚽ سيراميكا كليوباترا × الأهلي\n🏆 
+ الدوري المصري الممتاز — الجولة 12\n🗓 الخ
+ ميس 24 ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Suez 
+ Canal Authority Stadium\n—————\n⚽ Ceramica Cleopatra v Al Ahly
+  SC\n🏆 Egyptian Premier League — Matchday 12\n🗓 Thu 24 Dec 2026 ·
+  18:00 UTC\n🏟 Suez Canal Authority Stadium\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيراميكا كليوباترا ضد الأه
+ لي — الدوري المصري الممتاز | Tomorrow: Ceramica Cle
+ opatra vs Al Ahly SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيرام
+ يكا كليوباترا × الأهلي | Kick-off in 30 min: Ceramica C
+ leopatra vs Al Ahly SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996810@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261229T180000Z
+DTEND:20261229T200000Z
+SUMMARY:Al Ahly SC vs Al Ittihad Alexandria — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996810
+DESCRIPTION:⚽ الأهلي × الاتحاد السكندري\n🏆 ال
+ دوري المصري الممتاز — الجولة 13\n🗓 الثلا
+ ثاء 29 ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Cairo
+  Int'l Stadium\n—————\n⚽ Al Ahly SC v Al Ittihad Alexandria\n
+ 🏆 Egyptian Premier League — Matchday 13\n🗓 Tue 29 Dec 2026 · 18:0
+ 0 UTC\n🏟 Cairo Int'l Stadium\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الاتحاد السكندري
+  — الدوري المصري الممتاز | Tomorrow: Al Ahly SC vs Al
+  Ittihad Alexandria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الاتحاد السكندري | Kick-off in 30 min: Al Ahly SC vs 
+ Al Ittihad Alexandria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996815@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270105T150000Z
+DTEND:20270105T170000Z
+SUMMARY:El Gouna FC vs Al Ahly SC — Egyptian Premier League
+LOCATION:Khaled Bichara Stadium
+URL:https://www.fotmob.com/match/5996815
+DESCRIPTION:⚽ الجونة × الأهلي\n🏆 الدوري المصر
+ ي الممتاز — الجولة 14\n🗓 الثلاثاء 5 يناير 
+ 2027 · 18:00 بتوقيت الرياض\n🏟 Khaled Bichara Stadium\n—
+ ————\n⚽ El Gouna FC v Al Ahly SC\n🏆 Egyptian Premier League 
+ — Matchday 14\n🗓 Tue 05 Jan 2027 · 15:00 UTC\n🏟 Khaled Bichara St
+ adium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجونة ضد الأهلي — الدوري 
+ المصري الممتاز | Tomorrow: El Gouna FC vs Al Ahly SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجون
+ ة × الأهلي | Kick-off in 30 min: El Gouna FC vs Al Ahly SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996831@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270128T180000Z
+DTEND:20270128T200000Z
+SUMMARY:Al Ahly SC vs Petrojet-Suez — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996831
+DESCRIPTION:⚽ الأهلي × منتخب السويس بتروجت\n🏆 
+ الدوري المصري الممتاز — الجولة 15\n🗓 الخ
+ ميس 28 يناير 2027 · 21:00 بتوقيت الرياض\n🏟 Cairo I
+ nt'l Stadium\n—————\n⚽ Al Ahly SC v Petrojet-Suez\n🏆 Egypti
+ an Premier League — Matchday 15\n🗓 Thu 28 Jan 2027 · 18:00 UTC\n🏟
+  Cairo Int'l Stadium\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد منتخب السويس بتر
+ وجت — الدوري المصري الممتاز | Tomorrow: Al Ahly SC
+  vs Petrojet-Suez
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × منتخب السويس بتروجت | Kick-off in 30 min: Al Ahly S
+ C vs Petrojet-Suez
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996841@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270201T180000Z
+DTEND:20270201T200000Z
+SUMMARY:National Bank vs Al Ahly SC — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996841
+DESCRIPTION:⚽ البنك الاهلي × الأهلي\n🏆 الدوري 
+ المصري الممتاز — الجولة 16\n🗓 الاثنين 1 ف
+ براير 2027 · 21:00 بتوقيت الرياض\n🏟 Suez Canal Author
+ ity Stadium\n—————\n⚽ National Bank v Al Ahly SC\n🏆 Egyptia
+ n Premier League — Matchday 16\n🗓 Mon 01 Feb 2027 · 18:00 UTC\n🏟 
+ Suez Canal Authority Stadium\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: البنك الاهلي ضد الأهلي — ا
+ لدوري المصري الممتاز | Tomorrow: National Bank vs Al Ahl
+ y SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: البنك 
+ الاهلي × الأهلي | Kick-off in 30 min: National Bank vs Al Ahl
+ y SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996850@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270206T180000Z
+DTEND:20270206T200000Z
+SUMMARY:Al Ahly SC vs Al Masry SC — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996850
+DESCRIPTION:⚽ الأهلي × المصري\n🏆 الدوري المصر
+ ي الممتاز — الجولة 17\n🗓 السبت 6 فبراير 2027
+  · 21:00 بتوقيت الرياض\n🏟 Cairo Int'l Stadium\n———
+ ——\n⚽ Al Ahly SC v Al Masry SC\n🏆 Egyptian Premier League — Mat
+ chday 17\n🗓 Sat 06 Feb 2027 · 18:00 UTC\n🏟 Cairo Int'l Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد المصري — الدوري 
+ المصري الممتاز | Tomorrow: Al Ahly SC vs Al Masry SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × المصري | Kick-off in 30 min: Al Ahly SC vs Al Masry SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996859@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270212T193000Z
+DTEND:20270212T213000Z
+SUMMARY:Al Ahly SC vs Tala'ea El Gaish — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996859
+DESCRIPTION:⚽ الأهلي × طلائع الجيش\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 18\n🗓 الجمعة 12 فبر
+ اير 2027 · 22:30 بتوقيت الرياض\n🏟 Cairo Int'l Stadium\n
+ —————\n⚽ Al Ahly SC v Tala'ea El Gaish\n🏆 Egyptian Premier 
+ League — Matchday 18\n🗓 Fri 12 Feb 2027 · 19:30 UTC\n🏟 Cairo Int'
+ l Stadium\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد طلائع الجيش — ال
+ دوري المصري الممتاز | Tomorrow: Al Ahly SC vs Tala'ea El 
+ Gaish
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × طلائع الجيش | Kick-off in 30 min: Al Ahly SC vs Tala'ea El
+  Gaish
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996867@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270219T193000Z
+DTEND:20270219T213000Z
+SUMMARY:Wadi Degla FC vs Al Ahly SC — Egyptian Premier League
+LOCATION:Al Salam Stadium
+URL:https://www.fotmob.com/match/5996867
+DESCRIPTION:⚽ وادي دجلة × الأهلي\n🏆 الدوري الم
+ صري الممتاز — الجولة 19\n🗓 الجمعة 19 فبراي
+ ر 2027 · 22:30 بتوقيت الرياض\n🏟 Al Salam Stadium\n——
+ ———\n⚽ Wadi Degla FC v Al Ahly SC\n🏆 Egyptian Premier League 
+ — Matchday 19\n🗓 Fri 19 Feb 2027 · 19:30 UTC\n🏟 Al Salam Stadium\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وادي دجلة ضد الأهلي — الدو
+ ري المصري الممتاز | Tomorrow: Wadi Degla FC vs Al Ahly SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وادي د
+ جلة × الأهلي | Kick-off in 30 min: Wadi Degla FC vs Al Ahly SC
+END:VALARM
+END:VEVENT
+END:VCALENDAR

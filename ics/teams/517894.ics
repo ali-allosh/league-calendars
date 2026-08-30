@@ -1,0 +1,638 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Pyramids FC — Egyptian Premier League Fixtures | بير
+ اميدز — مباريات الدوري المصري الممتاز
+X-WR-CALDESC:Pyramids FC — all matches in Egyptian Premier League\, exact
+  UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 20
+ 26-09-05T19:31:10Z.  •  بيراميدز — جميع المباريات
+  في الدوري المصري الممتاز بتوقيت UTC الدقي
+ ق مع الملاعب والقنوات الناقلة. المصدر: FotM
+ ob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5995575@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260822T170000Z
+DTEND:20260822T190000Z
+SUMMARY:Ghazl Al Mahalla vs Pyramids FC (0 - 3) — Egyptian Premier League
+LOCATION:El Mahalla Stadium\, El-Mahalla El-Kubra\, Egypt
+GEO:30.960829;31.172917
+URL:https://www.fotmob.com/match/5995575
+DESCRIPTION:⚽ غزل المحلة × بيراميدز (0 - 3)\n🏆 ال
+ دوري المصري الممتاز — الجولة 1\n🗓 السبت 2
+ 2 أغسطس 2026 · 20:00 بتوقيت الرياض\n🏟 El Mahalla Stad
+ ium، El-Mahalla El-Kubra\n⚖️ الحكم: Tarek Magdy\n—————
+ \n⚽ Ghazl Al Mahalla v Pyramids FC (0 - 3)\n🏆 Egyptian Premier League
+  — Matchday 1\n🗓 Sat 22 Aug 2026 · 17:00 UTC\n🏟 El Mahalla Stadiu
+ m, El-Mahalla El-Kubra\nReferee: Tarek Magdy\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غزل المحلة ضد بيراميدز — ا
+ لدوري المصري الممتاز | Tomorrow: Ghazl Al Mahalla vs Pyr
+ amids FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غزل ال
+ محلة × بيراميدز | Kick-off in 30 min: Ghazl Al Mahalla vs Pyr
+ amids FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996697@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260827T170000Z
+DTEND:20260827T190000Z
+SUMMARY:Pyramids FC vs Abo Qir Semad (2 - 0) — Egyptian Premier League
+LOCATION:30 June Air Defence Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.019992;31.373724
+URL:https://www.fotmob.com/match/5996697
+DESCRIPTION:⚽ بيراميدز × ابو قير للاسمدة (2 - 0)\n
+ 🏆 الدوري المصري الممتاز — الجولة 2\n🗓 ا
+ لخميس 27 أغسطس 2026 · 20:00 بتوقيت الرياض\n🏟 30 
+ June Air Defence Stadium، al-Qāhirah (Cairo)\n⚖️ الحكم: Mohamed
+  El Kalawy\n—————\n⚽ Pyramids FC v Abo Qir Semad (2 - 0)\n🏆
+  Egyptian Premier League — Matchday 2\n🗓 Thu 27 Aug 2026 · 17:00 UTC
+ \n🏟 30 June Air Defence Stadium, al-Qāhirah (Cairo)\nReferee: Mohamed 
+ El Kalawy\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيراميدز ضد ابو قير للاسمد
+ ة — الدوري المصري الممتاز | Tomorrow: Pyramids FC vs
+  Abo Qir Semad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيرام
+ يدز × ابو قير للاسمدة | Kick-off in 30 min: Pyramids FC v
+ s Abo Qir Semad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996703@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260831T170000Z
+DTEND:20260831T190000Z
+SUMMARY:Al Masry SC vs Pyramids FC (0 - 1) — Egyptian Premier League
+LOCATION:New Suez Stadium\, as-Suways (Suez)\, Egypt
+GEO:29.957607;32.542577
+URL:https://www.fotmob.com/match/5996703
+DESCRIPTION:⚽ المصري × بيراميدز (0 - 1)\n🏆 الدوري
+  المصري الممتاز — الجولة 3\n🗓 الاثنين 31 أ
+ غسطس 2026 · 20:00 بتوقيت الرياض\n🏟 New Suez Stadium، 
+ as-Suways (Suez)\n⚖️ الحكم: Ahmed Nagy\n—————\n⚽ Al M
+ asry SC v Pyramids FC (0 - 1)\n🏆 Egyptian Premier League — Matchday 3
+ \n🗓 Mon 31 Aug 2026 · 17:00 UTC\n🏟 New Suez Stadium, as-Suways (Sue
+ z)\nReferee: Ahmed Nagy\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المصري ضد بيراميدز — الدور
+ ي المصري الممتاز | Tomorrow: Al Masry SC vs Pyramids FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المصر
+ ي × بيراميدز | Kick-off in 30 min: Al Masry SC vs Pyramids FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996716@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260909T140000Z
+DTEND:20260909T160000Z
+SUMMARY:Pyramids FC vs El Gouna FC — Egyptian Premier League
+LOCATION:30 June Air Defence Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.019992;31.373724
+URL:https://www.fotmob.com/match/5996716
+DESCRIPTION:⚽ بيراميدز × الجونة\n🏆 الدوري الم
+ صري الممتاز — الجولة 4\n🗓 الأربعاء 9 سبتم
+ بر 2026 · 17:00 بتوقيت الرياض\n🏟 30 June Air Defence Sta
+ dium، al-Qāhirah (Cairo)\n—————\n⚽ Pyramids FC v El Gouna FC
+ \n🏆 Egyptian Premier League — Matchday 4\n🗓 Wed 09 Sep 2026 · 14:
+ 00 UTC\n🏟 30 June Air Defence Stadium, al-Qāhirah (Cairo)\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيراميدز ضد الجونة — الدور
+ ي المصري الممتاز | Tomorrow: Pyramids FC vs El Gouna FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيرام
+ يدز × الجونة | Kick-off in 30 min: Pyramids FC vs El Gouna FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996730@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260916T170000Z
+DTEND:20260916T190000Z
+SUMMARY:Al Sharkeyah-ENPPI vs Pyramids FC — Egyptian Premier League
+LOCATION:Al Salam Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.174408;31.435096
+URL:https://www.fotmob.com/match/5996730
+DESCRIPTION:⚽ Al Sharkeyah-ENPPI × بيراميدز\n🏆 الدوري 
+ المصري الممتاز — الجولة 5\n🗓 الأربعاء 16 
+ سبتمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Al Salam Stadiu
+ m، al-Qāhirah (Cairo)\n—————\n⚽ Al Sharkeyah-ENPPI v Pyramid
+ s FC\n🏆 Egyptian Premier League — Matchday 5\n🗓 Wed 16 Sep 2026 ·
+  17:00 UTC\n🏟 Al Salam Stadium, al-Qāhirah (Cairo)\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Al Sharkeyah-ENPPI ضد بيراميدز — ال
+ دوري المصري الممتاز | Tomorrow: Al Sharkeyah-ENPPI vs Pyr
+ amids FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Al Sharkeya
+ h-ENPPI × بيراميدز | Kick-off in 30 min: Al Sharkeyah-ENPPI vs Py
+ ramids FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996736@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261012T170000Z
+DTEND:20261012T190000Z
+SUMMARY:Pyramids FC vs Ceramica Cleopatra — Egyptian Premier League
+LOCATION:30 June Air Defence Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.019992;31.373724
+URL:https://www.fotmob.com/match/5996736
+DESCRIPTION:⚽ بيراميدز × سيراميكا كليوباترا\n
+ 🏆 الدوري المصري الممتاز — الجولة 6\n🗓 ا
+ لاثنين 12 أكتوبر 2026 · 20:00 بتوقيت الرياض\n🏟
+  30 June Air Defence Stadium، al-Qāhirah (Cairo)\n—————\n⚽ P
+ yramids FC v Ceramica Cleopatra\n🏆 Egyptian Premier League — Matchday
+  6\n🗓 Mon 12 Oct 2026 · 17:00 UTC\n🏟 30 June Air Defence Stadium, a
+ l-Qāhirah (Cairo)\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيراميدز ضد سيراميكا كليوب
+ اترا — الدوري المصري الممتاز | Tomorrow: Pyramids
+  FC vs Ceramica Cleopatra
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيرام
+ يدز × سيراميكا كليوباترا | Kick-off in 30 min: Pyrami
+ ds FC vs Ceramica Cleopatra
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996747@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261020T170000Z
+DTEND:20261020T190000Z
+SUMMARY:Tala'ea El Gaish vs Pyramids FC — Egyptian Premier League
+LOCATION:Gehaz El Reyada Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.081149;31.303520
+URL:https://www.fotmob.com/match/5996747
+DESCRIPTION:⚽ طلائع الجيش × بيراميدز\n🏆 الدور
+ ي المصري الممتاز — الجولة 7\n🗓 الثلاثاء 2
+ 0 أكتوبر 2026 · 20:00 بتوقيت الرياض\n🏟 Gehaz El Reya
+ da Stadium، al-Qāhirah (Cairo)\n—————\n⚽ Tala'ea El Gaish v 
+ Pyramids FC\n🏆 Egyptian Premier League — Matchday 7\n🗓 Tue 20 Oct 
+ 2026 · 17:00 UTC\n🏟 Gehaz El Reyada Stadium, al-Qāhirah (Cairo)\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: طلائع الجيش ضد بيراميدز — 
+ الدوري المصري الممتاز | Tomorrow: Tala'ea El Gaish vs P
+ yramids FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: طلائع 
+ الجيش × بيراميدز | Kick-off in 30 min: Tala'ea El Gaish vs P
+ yramids FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996755@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261029T170000Z
+DTEND:20261029T190000Z
+SUMMARY:Pyramids FC vs Wadi Degla FC — Egyptian Premier League
+LOCATION:30 June Stadium
+URL:https://www.fotmob.com/match/5996755
+DESCRIPTION:⚽ بيراميدز × وادي دجلة\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 8\n🗓 الخميس 29 أكت
+ وبر 2026 · 20:00 بتوقيت الرياض\n🏟 30 June Stadium\n—
+ ————\n⚽ Pyramids FC v Wadi Degla FC\n🏆 Egyptian Premier Leagu
+ e — Matchday 8\n🗓 Thu 29 Oct 2026 · 17:00 UTC\n🏟 30 June Stadium\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيراميدز ضد وادي دجلة — ال
+ دوري المصري الممتاز | Tomorrow: Pyramids FC vs Wadi Degla
+  FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيرام
+ يدز × وادي دجلة | Kick-off in 30 min: Pyramids FC vs Wadi Degl
+ a FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996763@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261123T180000Z
+DTEND:20261123T200000Z
+SUMMARY:Al Ahly SC vs Pyramids FC — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996763
+DESCRIPTION:⚽ الأهلي × بيراميدز\n🏆 الدوري الم
+ صري الممتاز — الجولة 9\n🗓 الاثنين 23 نوفم
+ بر 2026 · 21:00 بتوقيت الرياض\n🏟 Cairo Int'l Stadium\n
+ —————\n⚽ Al Ahly SC v Pyramids FC\n🏆 Egyptian Premier Leagu
+ e — Matchday 9\n🗓 Mon 23 Nov 2026 · 18:00 UTC\n🏟 Cairo Int'l Stad
+ ium\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد بيراميدز — الدور
+ ي المصري الممتاز | Tomorrow: Al Ahly SC vs Pyramids FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × بيراميدز | Kick-off in 30 min: Al Ahly SC vs Pyramids FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996776@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261209T150000Z
+DTEND:20261209T170000Z
+SUMMARY:Petrojet-Suez vs Pyramids FC — Egyptian Premier League
+LOCATION:Petrosport Stadium
+URL:https://www.fotmob.com/match/5996776
+DESCRIPTION:⚽ منتخب السويس بتروجت × بيراميدز\n
+ 🏆 الدوري المصري الممتاز — الجولة 10\n🗓 ا
+ لأربعاء 9 ديسمبر 2026 · 18:00 بتوقيت الرياض\n
+ 🏟 Petrosport Stadium\n—————\n⚽ Petrojet-Suez v Pyramids FC\
+ n🏆 Egyptian Premier League — Matchday 10\n🗓 Wed 09 Dec 2026 · 15:
+ 00 UTC\n🏟 Petrosport Stadium\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: منتخب السويس بتروجت ضد بير
+ اميدز — الدوري المصري الممتاز | Tomorrow: Petroj
+ et-Suez vs Pyramids FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: منتخب 
+ السويس بتروجت × بيراميدز | Kick-off in 30 min: Petroj
+ et-Suez vs Pyramids FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996783@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261214T180000Z
+DTEND:20261214T200000Z
+SUMMARY:Pyramids FC vs National Bank — Egyptian Premier League
+LOCATION:30 June Stadium
+URL:https://www.fotmob.com/match/5996783
+DESCRIPTION:⚽ بيراميدز × البنك الاهلي\n🏆 الدو
+ ري المصري الممتاز — الجولة 11\n🗓 الاثنين 
+ 14 ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 30 June Stad
+ ium\n—————\n⚽ Pyramids FC v National Bank\n🏆 Egyptian Premi
+ er League — Matchday 11\n🗓 Mon 14 Dec 2026 · 18:00 UTC\n🏟 30 June
+  Stadium\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيراميدز ضد البنك الاهلي —
+  الدوري المصري الممتاز | Tomorrow: Pyramids FC vs Natio
+ nal Bank
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيرام
+ يدز × البنك الاهلي | Kick-off in 30 min: Pyramids FC vs Nat
+ ional Bank
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996797@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261223T180000Z
+DTEND:20261223T200000Z
+SUMMARY:Smouha SC vs Pyramids FC — Egyptian Premier League
+LOCATION:Borg El Arab Stadium
+URL:https://www.fotmob.com/match/5996797
+DESCRIPTION:⚽ سموحة × بيراميدز\n🏆 الدوري المص
+ ري الممتاز — الجولة 12\n🗓 الأربعاء 23 ديسم
+ بر 2026 · 21:00 بتوقيت الرياض\n🏟 Borg El Arab Stadium\n
+ —————\n⚽ Smouha SC v Pyramids FC\n🏆 Egyptian Premier League
+  — Matchday 12\n🗓 Wed 23 Dec 2026 · 18:00 UTC\n🏟 Borg El Arab Sta
+ dium\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سموحة ضد بيراميدز — الدوري
+  المصري الممتاز | Tomorrow: Smouha SC vs Pyramids FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سموحة 
+ × بيراميدز | Kick-off in 30 min: Smouha SC vs Pyramids FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996807@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261228T180000Z
+DTEND:20261228T200000Z
+SUMMARY:Pyramids FC vs Zamalek SC — Egyptian Premier League
+LOCATION:30 June Stadium
+URL:https://www.fotmob.com/match/5996807
+DESCRIPTION:⚽ بيراميدز × الزمالك\n🏆 الدوري ال
+ مصري الممتاز — الجولة 13\n🗓 الاثنين 28 ديس
+ مبر 2026 · 21:00 بتوقيت الرياض\n🏟 30 June Stadium\n—
+ ————\n⚽ Pyramids FC v Zamalek SC\n🏆 Egyptian Premier League 
+ — Matchday 13\n🗓 Mon 28 Dec 2026 · 18:00 UTC\n🏟 30 June Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيراميدز ضد الزمالك — الدو
+ ري المصري الممتاز | Tomorrow: Pyramids FC vs Zamalek SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيرام
+ يدز × الزمالك | Kick-off in 30 min: Pyramids FC vs Zamalek SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996812@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270104T150000Z
+DTEND:20270104T170000Z
+SUMMARY:Pyramids FC vs Al Mokawloon Al Arab — Egyptian Premier League
+LOCATION:30 June Stadium
+URL:https://www.fotmob.com/match/5996812
+DESCRIPTION:⚽ بيراميدز × المقاولون العرب\n🏆 ا
+ لدوري المصري الممتاز — الجولة 14\n🗓 الاث
+ نين 4 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 30 June 
+ Stadium\n—————\n⚽ Pyramids FC v Al Mokawloon Al Arab\n🏆 Egy
+ ptian Premier League — Matchday 14\n🗓 Mon 04 Jan 2027 · 15:00 UTC\n
+ 🏟 30 June Stadium\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيراميدز ضد المقاولون العر
+ ب — الدوري المصري الممتاز | Tomorrow: Pyramids FC vs
+  Al Mokawloon Al Arab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيرام
+ يدز × المقاولون العرب | Kick-off in 30 min: Pyramids FC 
+ vs Al Mokawloon Al Arab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996828@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270127T180000Z
+DTEND:20270127T200000Z
+SUMMARY:Olympic El Qanah FC vs Pyramids FC — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996828
+DESCRIPTION:⚽ القناة × بيراميدز\n🏆 الدوري الم
+ صري الممتاز — الجولة 15\n🗓 الأربعاء 27 ينا
+ ير 2027 · 21:00 بتوقيت الرياض\n🏟 Suez Canal Authority St
+ adium\n—————\n⚽ Olympic El Qanah FC v Pyramids FC\n🏆 Egypti
+ an Premier League — Matchday 15\n🗓 Wed 27 Jan 2027 · 18:00 UTC\n🏟
+  Suez Canal Authority Stadium\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القناة ضد بيراميدز — الدور
+ ي المصري الممتاز | Tomorrow: Olympic El Qanah FC vs Pyramids
+  FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القنا
+ ة × بيراميدز | Kick-off in 30 min: Olympic El Qanah FC vs Pyrami
+ ds FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996837@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270131T180000Z
+DTEND:20270131T200000Z
+SUMMARY:Pyramids FC vs Al Ittihad Alexandria — Egyptian Premier League
+LOCATION:30 June Stadium
+URL:https://www.fotmob.com/match/5996837
+DESCRIPTION:⚽ بيراميدز × الاتحاد السكندري\n🏆 
+ الدوري المصري الممتاز — الجولة 16\n🗓 الأ
+ حد 31 يناير 2027 · 21:00 بتوقيت الرياض\n🏟 30 June S
+ tadium\n—————\n⚽ Pyramids FC v Al Ittihad Alexandria\n🏆 Egy
+ ptian Premier League — Matchday 16\n🗓 Sun 31 Jan 2027 · 18:00 UTC\n
+ 🏟 30 June Stadium\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيراميدز ضد الاتحاد السكند
+ ري — الدوري المصري الممتاز | Tomorrow: Pyramids FC 
+ vs Al Ittihad Alexandria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيرام
+ يدز × الاتحاد السكندري | Kick-off in 30 min: Pyramids F
+ C vs Al Ittihad Alexandria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996843@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270204T180000Z
+DTEND:20270204T200000Z
+SUMMARY:Modern Sport FC vs Pyramids FC — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996843
+DESCRIPTION:⚽ مودرن سبورت × بيراميدز\n🏆 الدور
+ ي المصري الممتاز — الجولة 17\n🗓 الخميس 4 ف
+ براير 2027 · 21:00 بتوقيت الرياض\n🏟 Cairo Int'l Stadi
+ um\n—————\n⚽ Modern Sport FC v Pyramids FC\n🏆 Egyptian Prem
+ ier League — Matchday 17\n🗓 Thu 04 Feb 2027 · 18:00 UTC\n🏟 Cairo 
+ Int'l Stadium\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مودرن سبورت ضد بيراميدز — 
+ الدوري المصري الممتاز | Tomorrow: Modern Sport FC vs Py
+ ramids FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مودرن 
+ سبورت × بيراميدز | Kick-off in 30 min: Modern Sport FC vs Py
+ ramids FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996854@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270210T193000Z
+DTEND:20270210T213000Z
+SUMMARY:Pyramids FC vs Asyut Petroleum — Egyptian Premier League
+LOCATION:30 June Stadium
+URL:https://www.fotmob.com/match/5996854
+DESCRIPTION:⚽ بيراميدز × أسيوط بتروليوم\n🏆 ال
+ دوري المصري الممتاز — الجولة 18\n🗓 الأرب
+ عاء 10 فبراير 2027 · 22:30 بتوقيت الرياض\n🏟 30 Ju
+ ne Stadium\n—————\n⚽ Pyramids FC v Asyut Petroleum\n🏆 Egypt
+ ian Premier League — Matchday 18\n🗓 Wed 10 Feb 2027 · 19:30 UTC\n
+ 🏟 30 June Stadium\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيراميدز ضد أسيوط بتروليوم
+  — الدوري المصري الممتاز | Tomorrow: Pyramids FC vs A
+ syut Petroleum
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيرام
+ يدز × أسيوط بتروليوم | Kick-off in 30 min: Pyramids FC vs
+  Asyut Petroleum
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996864@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270218T193000Z
+DTEND:20270218T213000Z
+SUMMARY:ZED FC vs Pyramids FC — Egyptian Premier League
+LOCATION:Suez Stadium
+URL:https://www.fotmob.com/match/5996864
+DESCRIPTION:⚽ زد × بيراميدز\n🏆 الدوري المصري ا
+ لممتاز — الجولة 19\n🗓 الخميس 18 فبراير 2027 
+ · 22:30 بتوقيت الرياض\n🏟 Suez Stadium\n—————\n
+ ⚽ ZED FC v Pyramids FC\n🏆 Egyptian Premier League — Matchday 19\n
+ 🗓 Thu 18 Feb 2027 · 19:30 UTC\n🏟 Suez Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: زد ضد بيراميدز — الدوري ال
+ مصري الممتاز | Tomorrow: ZED FC vs Pyramids FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: زد × ب
+ يراميدز | Kick-off in 30 min: ZED FC vs Pyramids FC
+END:VALARM
+END:VEVENT
+END:VCALENDAR

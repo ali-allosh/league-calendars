@@ -1,0 +1,1098 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Werder Bremen — Bundesliga Fixtures | فيردر بري
+ من — مباريات الدوري الألماني
+X-WR-CALDESC:Werder Bremen — all matches in Bundesliga\, exact UTC kickof
+ fs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19
+ :31:10Z.  •  فيردر بريمن — جميع المباريات في 
+ الدوري الألماني بتوقيت UTC الدقيق مع المل
+ اعب والقنوات الناقلة. المصدر: FotMob + 365scores 
+ · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5881148@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T133000Z
+DTEND:20260830T153000Z
+SUMMARY:Freiburg vs Werder Bremen (4 - 1) — Bundesliga
+LOCATION:Europa-Park Stadion\, Freiburg im Breisgau\, Germany
+GEO:48.021618;7.829695
+URL:https://www.fotmob.com/match/5881148
+DESCRIPTION:⚽ فرايبورج × فيردر بريمن (4 - 1)\n🏆 ا
+ لدوري الألماني — الجولة 1\n🗓 الأحد 30 أغس
+ طس 2026 · 16:30 بتوقيت الرياض\n🏟 Europa-Park Stadion، F
+ reiburg im Breisgau\n⚖️ الحكم: Daniel Siebert\n—————\n
+ ⚽ Freiburg v Werder Bremen (4 - 1)\n🏆 Bundesliga — Matchday 1\n🗓
+  Sun 30 Aug 2026 · 13:30 UTC\n🏟 Europa-Park Stadion, Freiburg im Breis
+ gau\nReferee: Daniel Siebert\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فرايبورج ضد فيردر بريمن — 
+ الدوري الألماني | Tomorrow: Freiburg vs Werder Bremen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فرايب
+ ورج × فيردر بريمن | Kick-off in 30 min: Freiburg vs Werder B
+ remen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881160@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T133000Z
+DTEND:20260905T153000Z
+SUMMARY:Werder Bremen vs RB Leipzig (3 - 1) — Bundesliga
+LOCATION:Weserstadion\, Bremen\, Germany
+GEO:53.066428;8.837546
+URL:https://www.fotmob.com/match/5881160
+DESCRIPTION:⚽ فيردر بريمن × لايبزيج (3 - 1)\n🏆 ال
+ دوري الألماني — الجولة 2\n🗓 السبت 5 سبتمب
+ ر 2026 · 16:30 بتوقيت الرياض\n🏟 Weserstadion، Bremen\n
+ 📺 شاهد - Shahid VIP\n⚖️ الحكم: Benjamin Brand\n👥 الح
+ ضور: 39,700\n—————\n⚽ Werder Bremen v RB Leipzig (3 - 1)\n
+ 🏆 Bundesliga — Matchday 2\n🗓 Sat 05 Sep 2026 · 13:30 UTC\n🏟 We
+ serstadion, Bremen\n📺 شاهد - Shahid VIP\nReferee: Benjamin Brand\nA
+ ttendance: 39,700\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد لايبزيج — ا
+ لدوري الألماني — 📺 شاهد - Shahid VIP | Tomorrow: Wer
+ der Bremen vs RB Leipzig | TV: شاهد - Shahid VIP
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × لايبزيج — 📺 شاهد - Shahid VIP | Kick-off in 
+ 30 min: Werder Bremen vs RB Leipzig | TV: شاهد - Shahid VIP
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881164@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T163000Z
+DTEND:20260912T183000Z
+SUMMARY:1. FC Köln vs Werder Bremen — Bundesliga
+LOCATION:RheinEnergieSTADION\, Köln\, Germany
+GEO:50.933477;6.875199
+URL:https://www.fotmob.com/match/5881164
+DESCRIPTION:⚽ كولن × فيردر بريمن\n🏆 الدوري الأ
+ لماني — الجولة 3\n🗓 السبت 12 سبتمبر 2026 · 19:
+ 30 بتوقيت الرياض\n🏟 RheinEnergieSTADION، Köln\n📺 Peaco
+ ck (Español)\n—————\n⚽ 1. FC Köln v Werder Bremen\n🏆 Bund
+ esliga — Matchday 3\n🗓 Sat 12 Sep 2026 · 16:30 UTC\n🏟 RheinEnergi
+ eSTADION, Köln\n📺 Peacock (Español)\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كولن ضد فيردر بريمن — الدو
+ ري الألماني — 📺 Peacock (Español) | Tomorrow: 1. FC Köln 
+ vs Werder Bremen | TV: Peacock (Español)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كولن ×
+  فيردر بريمن — 📺 Peacock (Español) | Kick-off in 30 min: 1
+ . FC Köln vs Werder Bremen | TV: Peacock (Español)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881178@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T133000Z
+DTEND:20260919T153000Z
+SUMMARY:Werder Bremen vs Augsburg — Bundesliga
+LOCATION:Weserstadion\, Bremen\, Germany
+GEO:53.066428;8.837546
+URL:https://www.fotmob.com/match/5881178
+DESCRIPTION:⚽ فيردر بريمن × أوغسبورغ\n🏆 الدور
+ ي الألماني — الجولة 4\n🗓 السبت 19 سبتمبر 20
+ 26 · 16:30 بتوقيت الرياض\n🏟 Weserstadion، Bremen\n——
+ ———\n⚽ Werder Bremen v Augsburg\n🏆 Bundesliga — Matchday 4\n
+ 🗓 Sat 19 Sep 2026 · 13:30 UTC\n🏟 Weserstadion, Bremen\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد أوغسبورغ — 
+ الدوري الألماني | Tomorrow: Werder Bremen vs Augsburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × أوغسبورغ | Kick-off in 30 min: Werder Bremen vs Augs
+ burg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881180@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T133000Z
+DTEND:20261010T153000Z
+SUMMARY:Borussia Dortmund vs Werder Bremen — Bundesliga
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/5881180
+DESCRIPTION:⚽ بوروسيا دورتموند × فيردر بريمن\n
+ 🏆 الدوري الألماني — الجولة 5\n🗓 السبت 10 
+ أكتوبر 2026 · 16:30 بتوقيت الرياض\n🏟 Signal Iduna Pa
+ rk\n—————\n⚽ Borussia Dortmund v Werder Bremen\n🏆 Bundeslig
+ a — Matchday 5\n🗓 Sat 10 Oct 2026 · 13:30 UTC\n🏟 Signal Iduna Par
+ k\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد فيردر 
+ بريمن — الدوري الألماني | Tomorrow: Borussia Dortmund
+  vs Werder Bremen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × فيردر بريمن | Kick-off in 30 min: Borus
+ sia Dortmund vs Werder Bremen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881196@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T133000Z
+DTEND:20261017T153000Z
+SUMMARY:Werder Bremen vs Paderborn — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881196
+DESCRIPTION:⚽ فيردر بريمن × بادربورن\n🏆 الدور
+ ي الألماني — الجولة 6\n🗓 السبت 17 أكتوبر 20
+ 26 · 16:30 بتوقيت الرياض\n🏟 Wohninvest WESERSTADION\n—
+ ————\n⚽ Werder Bremen v Paderborn\n🏆 Bundesliga — Matchday 
+ 6\n🗓 Sat 17 Oct 2026 · 13:30 UTC\n🏟 Wohninvest WESERSTADION\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد بادربورن — 
+ الدوري الألماني | Tomorrow: Werder Bremen vs Paderborn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × بادربورن | Kick-off in 30 min: Werder Bremen vs Pade
+ rborn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881202@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T133000Z
+DTEND:20261024T153000Z
+SUMMARY:Mainz 05 vs Werder Bremen — Bundesliga
+LOCATION:MEWA Arena
+URL:https://www.fotmob.com/match/5881202
+DESCRIPTION:⚽ ماينز 05 × فيردر بريمن\n🏆 الدوري 
+ الألماني — الجولة 7\n🗓 السبت 24 أكتوبر 2026 
+ · 16:30 بتوقيت الرياض\n🏟 MEWA Arena\n—————\n⚽ 
+ Mainz 05 v Werder Bremen\n🏆 Bundesliga — Matchday 7\n🗓 Sat 24 Oct 
+ 2026 · 13:30 UTC\n🏟 MEWA Arena\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ماينز 05 ضد فيردر بريمن — ال
+ دوري الألماني | Tomorrow: Mainz 05 vs Werder Bremen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ماينز 
+ 05 × فيردر بريمن | Kick-off in 30 min: Mainz 05 vs Werder Breme
+ n
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881214@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T143000Z
+DTEND:20261031T163000Z
+SUMMARY:Werder Bremen vs Hoffenheim — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881214
+DESCRIPTION:⚽ فيردر بريمن × هوفنهايم\n🏆 الدور
+ ي الألماني — الجولة 8\n🗓 السبت 31 أكتوبر 20
+ 26 · 17:30 بتوقيت الرياض\n🏟 Wohninvest WESERSTADION\n—
+ ————\n⚽ Werder Bremen v Hoffenheim\n🏆 Bundesliga — Matchday
+  8\n🗓 Sat 31 Oct 2026 · 14:30 UTC\n🏟 Wohninvest WESERSTADION\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد هوفنهايم — 
+ الدوري الألماني | Tomorrow: Werder Bremen vs Hoffenheim
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × هوفنهايم | Kick-off in 30 min: Werder Bremen vs Hoff
+ enheim
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881223@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T143000Z
+DTEND:20261107T163000Z
+SUMMARY:VfB Stuttgart vs Werder Bremen — Bundesliga
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/5881223
+DESCRIPTION:⚽ شتوتجارت × فيردر بريمن\n🏆 الدور
+ ي الألماني — الجولة 9\n🗓 السبت 7 نوفمبر 202
+ 6 · 17:30 بتوقيت الرياض\n🏟 MHPArena\n—————\n⚽ 
+ VfB Stuttgart v Werder Bremen\n🏆 Bundesliga — Matchday 9\n🗓 Sat 07
+  Nov 2026 · 14:30 UTC\n🏟 MHPArena\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد فيردر بريمن — 
+ الدوري الألماني | Tomorrow: VfB Stuttgart vs Werder Bremen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × فيردر بريمن | Kick-off in 30 min: VfB Stuttgart vs Wer
+ der Bremen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881232@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T143000Z
+DTEND:20261121T163000Z
+SUMMARY:Werder Bremen vs Hamburger SV — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881232
+DESCRIPTION:⚽ فيردر بريمن × هامبورج\n🏆 الدوري 
+ الألماني — الجولة 10\n🗓 السبت 21 نوفمبر 2026
+  · 17:30 بتوقيت الرياض\n🏟 Wohninvest WESERSTADION\n——
+ ———\n⚽ Werder Bremen v Hamburger SV\n🏆 Bundesliga — Matchday 
+ 10\n🗓 Sat 21 Nov 2026 · 14:30 UTC\n🏟 Wohninvest WESERSTADION\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد هامبورج — ا
+ لدوري الألماني | Tomorrow: Werder Bremen vs Hamburger SV
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × هامبورج | Kick-off in 30 min: Werder Bremen vs Hambur
+ ger SV
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881241@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T143000Z
+DTEND:20261128T163000Z
+SUMMARY:Werder Bremen vs Borussia Mönchengladbach — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881241
+DESCRIPTION:⚽ فيردر بريمن × بوروسيا مونشنجلاد
+ باخ\n🏆 الدوري الألماني — الجولة 11\n🗓 ال
+ سبت 28 نوفمبر 2026 · 17:30 بتوقيت الرياض\n🏟 Wohni
+ nvest WESERSTADION\n—————\n⚽ Werder Bremen v Borussia Mönchen
+ gladbach\n🏆 Bundesliga — Matchday 11\n🗓 Sat 28 Nov 2026 · 14:30 U
+ TC\n🏟 Wohninvest WESERSTADION\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد بوروسيا مون
+ شنجلادباخ — الدوري الألماني | Tomorrow: Werder Br
+ emen vs Borussia Mönchengladbach
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × بوروسيا مونشنجلادباخ | Kick-off in 30 min
+ : Werder Bremen vs Borussia Mönchengladbach
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881245@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T143000Z
+DTEND:20261205T163000Z
+SUMMARY:Eintracht Frankfurt vs Werder Bremen — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881245
+DESCRIPTION:⚽ آينتراخت فرانكفورت × فيردر بريم
+ ن\n🏆 الدوري الألماني — الجولة 12\n🗓 السب
+ ت 5 ديسمبر 2026 · 17:30 بتوقيت الرياض\n🏟 Deutsche B
+ ank Park\n—————\n⚽ Eintracht Frankfurt v Werder Bremen\n🏆 B
+ undesliga — Matchday 12\n🗓 Sat 05 Dec 2026 · 14:30 UTC\n🏟 Deutsch
+ e Bank Park\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد فيرد
+ ر بريمن — الدوري الألماني | Tomorrow: Eintracht Fran
+ kfurt vs Werder Bremen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × فيردر بريمن | Kick-off in 30 min: E
+ intracht Frankfurt vs Werder Bremen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881259@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T143000Z
+DTEND:20261212T163000Z
+SUMMARY:Werder Bremen vs Bayer Leverkusen — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881259
+DESCRIPTION:⚽ فيردر بريمن × باير ليفركوزن\n🏆 ا
+ لدوري الألماني — الجولة 13\n🗓 السبت 12 ديس
+ مبر 2026 · 17:30 بتوقيت الرياض\n🏟 Wohninvest WESERSTADI
+ ON\n—————\n⚽ Werder Bremen v Bayer Leverkusen\n🏆 Bundesliga
+  — Matchday 13\n🗓 Sat 12 Dec 2026 · 14:30 UTC\n🏟 Wohninvest WESER
+ STADION\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد باير ليفركو
+ زن — الدوري الألماني | Tomorrow: Werder Bremen vs Bayer 
+ Leverkusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × باير ليفركوزن | Kick-off in 30 min: Werder Breme
+ n vs Bayer Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881262@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T143000Z
+DTEND:20261219T163000Z
+SUMMARY:Bayern München vs Werder Bremen — Bundesliga
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/5881262
+DESCRIPTION:⚽ بايرن ميونخ × فيردر بريمن\n🏆 الد
+ وري الألماني — الجولة 14\n🗓 السبت 19 ديسمب
+ ر 2026 · 17:30 بتوقيت الرياض\n🏟 Allianz Arena\n———
+ ——\n⚽ Bayern München v Werder Bremen\n🏆 Bundesliga — Matchday 
+ 14\n🗓 Sat 19 Dec 2026 · 14:30 UTC\n🏟 Allianz Arena\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد فيردر بريمن 
+ — الدوري الألماني | Tomorrow: Bayern München vs Werder Br
+ emen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × فيردر بريمن | Kick-off in 30 min: Bayern München 
+ vs Werder Bremen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881277@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270109T143000Z
+DTEND:20270109T163000Z
+SUMMARY:Werder Bremen vs Union Berlin — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881277
+DESCRIPTION:⚽ فيردر بريمن × يونيون برلين\n🏆 ال
+ دوري الألماني — الجولة 15\n🗓 السبت 9 يناي
+ ر 2027 · 17:30 بتوقيت الرياض\n🏟 Wohninvest WESERSTADION\n
+ —————\n⚽ Werder Bremen v Union Berlin\n🏆 Bundesliga — Mat
+ chday 15\n🗓 Sat 09 Jan 2027 · 14:30 UTC\n🏟 Wohninvest WESERSTADION\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد يونيون برلي
+ ن — الدوري الألماني | Tomorrow: Werder Bremen vs Union Be
+ rlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × يونيون برلين | Kick-off in 30 min: Werder Bremen 
+ vs Union Berlin
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881285@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270112T193000Z
+DTEND:20270112T213000Z
+SUMMARY:Schalke 04 vs Werder Bremen — Bundesliga
+LOCATION:VELTINS-Arena
+URL:https://www.fotmob.com/match/5881285
+DESCRIPTION:⚽ شالكة × فيردر بريمن\n🏆 الدوري ال
+ ألماني — الجولة 16\n🗓 الثلاثاء 12 يناير 2027
+  · 22:30 بتوقيت الرياض\n🏟 VELTINS-Arena\n—————\n
+ ⚽ Schalke 04 v Werder Bremen\n🏆 Bundesliga — Matchday 16\n🗓 Tue 
+ 12 Jan 2027 · 19:30 UTC\n🏟 VELTINS-Arena\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد فيردر بريمن — الد
+ وري الألماني | Tomorrow: Schalke 04 vs Werder Bremen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × فيردر بريمن | Kick-off in 30 min: Schalke 04 vs Werder Bremen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881295@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T143000Z
+DTEND:20270116T163000Z
+SUMMARY:Werder Bremen vs Elversberg — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881295
+DESCRIPTION:⚽ فيردر بريمن × إلفيرسبيرغ\n🏆 الد
+ وري الألماني — الجولة 17\n🗓 السبت 16 يناير
+  2027 · 17:30 بتوقيت الرياض\n🏟 Wohninvest WESERSTADION\n
+ —————\n⚽ Werder Bremen v Elversberg\n🏆 Bundesliga — Match
+ day 17\n🗓 Sat 16 Jan 2027 · 14:30 UTC\n🏟 Wohninvest WESERSTADION\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد إلفيرسبيرغ 
+ — الدوري الألماني | Tomorrow: Werder Bremen vs Elversberg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × إلفيرسبيرغ | Kick-off in 30 min: Werder Bremen vs 
+ Elversberg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881304@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T143000Z
+DTEND:20270123T163000Z
+SUMMARY:Werder Bremen vs Freiburg — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881304
+DESCRIPTION:⚽ فيردر بريمن × فرايبورج\n🏆 الدور
+ ي الألماني — الجولة 18\n🗓 السبت 23 يناير 202
+ 7 · 17:30 بتوقيت الرياض\n🏟 Wohninvest WESERSTADION\n——
+ ———\n⚽ Werder Bremen v Freiburg\n🏆 Bundesliga — Matchday 18\n
+ 🗓 Sat 23 Jan 2027 · 14:30 UTC\n🏟 Wohninvest WESERSTADION\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد فرايبورج — 
+ الدوري الألماني | Tomorrow: Werder Bremen vs Freiburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × فرايبورج | Kick-off in 30 min: Werder Bremen vs Frei
+ burg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881312@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T143000Z
+DTEND:20270130T163000Z
+SUMMARY:RB Leipzig vs Werder Bremen — Bundesliga
+LOCATION:Red Bull Arena Leipzig
+URL:https://www.fotmob.com/match/5881312
+DESCRIPTION:⚽ لايبزيج × فيردر بريمن\n🏆 الدوري 
+ الألماني — الجولة 19\n🗓 السبت 30 يناير 2027 
+ · 17:30 بتوقيت الرياض\n🏟 Red Bull Arena Leipzig\n———
+ ——\n⚽ RB Leipzig v Werder Bremen\n🏆 Bundesliga — Matchday 19\n
+ 🗓 Sat 30 Jan 2027 · 14:30 UTC\n🏟 Red Bull Arena Leipzig\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لايبزيج ضد فيردر بريمن — ا
+ لدوري الألماني | Tomorrow: RB Leipzig vs Werder Bremen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لايبز
+ يج × فيردر بريمن | Kick-off in 30 min: RB Leipzig vs Werder B
+ remen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881322@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T143000Z
+DTEND:20270206T163000Z
+SUMMARY:Werder Bremen vs 1. FC Köln — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881322
+DESCRIPTION:⚽ فيردر بريمن × كولن\n🏆 الدوري الأ
+ لماني — الجولة 20\n🗓 السبت 6 فبراير 2027 · 17:
+ 30 بتوقيت الرياض\n🏟 Wohninvest WESERSTADION\n————
+ —\n⚽ Werder Bremen v 1. FC Köln\n🏆 Bundesliga — Matchday 20\n
+ 🗓 Sat 06 Feb 2027 · 14:30 UTC\n🏟 Wohninvest WESERSTADION\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد كولن — الدو
+ ري الألماني | Tomorrow: Werder Bremen vs 1. FC Köln
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × كولن | Kick-off in 30 min: Werder Bremen vs 1. FC Köln
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881323@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270213T143000Z
+DTEND:20270213T163000Z
+SUMMARY:Augsburg vs Werder Bremen — Bundesliga
+LOCATION:WWK Arena
+URL:https://www.fotmob.com/match/5881323
+DESCRIPTION:⚽ أوغسبورغ × فيردر بريمن\n🏆 الدور
+ ي الألماني — الجولة 21\n🗓 السبت 13 فبراير 2
+ 027 · 17:30 بتوقيت الرياض\n🏟 WWK Arena\n—————\n
+ ⚽ Augsburg v Werder Bremen\n🏆 Bundesliga — Matchday 21\n🗓 Sat 13
+  Feb 2027 · 14:30 UTC\n🏟 WWK Arena\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوغسبورغ ضد فيردر بريمن — 
+ الدوري الألماني | Tomorrow: Augsburg vs Werder Bremen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوغسب
+ ورغ × فيردر بريمن | Kick-off in 30 min: Augsburg vs Werder B
+ remen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881340@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T143000Z
+DTEND:20270220T163000Z
+SUMMARY:Werder Bremen vs Borussia Dortmund — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881340
+DESCRIPTION:⚽ فيردر بريمن × بوروسيا دورتموند\n
+ 🏆 الدوري الألماني — الجولة 22\n🗓 السبت 20
+  فبراير 2027 · 17:30 بتوقيت الرياض\n🏟 Wohninvest WES
+ ERSTADION\n—————\n⚽ Werder Bremen v Borussia Dortmund\n🏆 Bu
+ ndesliga — Matchday 22\n🗓 Sat 20 Feb 2027 · 14:30 UTC\n🏟 Wohninve
+ st WESERSTADION\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد بوروسيا دور
+ تموند — الدوري الألماني | Tomorrow: Werder Bremen vs 
+ Borussia Dortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × بوروسيا دورتموند | Kick-off in 30 min: Werder
+  Bremen vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881347@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T143000Z
+DTEND:20270227T163000Z
+SUMMARY:Paderborn vs Werder Bremen — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881347
+DESCRIPTION:⚽ بادربورن × فيردر بريمن\n🏆 الدور
+ ي الألماني — الجولة 23\n🗓 السبت 27 فبراير 2
+ 027 · 17:30 بتوقيت الرياض\n🏟 Home Deluxe Arena\n———
+ ——\n⚽ Paderborn v Werder Bremen\n🏆 Bundesliga — Matchday 23\n
+ 🗓 Sat 27 Feb 2027 · 14:30 UTC\n🏟 Home Deluxe Arena\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد فيردر بريمن — 
+ الدوري الألماني | Tomorrow: Paderborn vs Werder Bremen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × فيردر بريمن | Kick-off in 30 min: Paderborn vs Werder 
+ Bremen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881358@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270302T193000Z
+DTEND:20270302T213000Z
+SUMMARY:Werder Bremen vs Mainz 05 — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881358
+DESCRIPTION:⚽ فيردر بريمن × ماينز 05\n🏆 الدوري 
+ الألماني — الجولة 24\n🗓 الثلاثاء 2 مارس 202
+ 7 · 22:30 بتوقيت الرياض\n🏟 Wohninvest WESERSTADION\n——
+ ———\n⚽ Werder Bremen v Mainz 05\n🏆 Bundesliga — Matchday 24\n
+ 🗓 Tue 02 Mar 2027 · 19:30 UTC\n🏟 Wohninvest WESERSTADION\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد ماينز 05 — ال
+ دوري الألماني | Tomorrow: Werder Bremen vs Mainz 05
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × ماينز 05 | Kick-off in 30 min: Werder Bremen vs Mainz 0
+ 5
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881363@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270306T143000Z
+DTEND:20270306T163000Z
+SUMMARY:Hoffenheim vs Werder Bremen — Bundesliga
+LOCATION:SNP Arena
+URL:https://www.fotmob.com/match/5881363
+DESCRIPTION:⚽ هوفنهايم × فيردر بريمن\n🏆 الدور
+ ي الألماني — الجولة 25\n🗓 السبت 6 مارس 2027 
+ · 17:30 بتوقيت الرياض\n🏟 SNP Arena\n—————\n⚽ H
+ offenheim v Werder Bremen\n🏆 Bundesliga — Matchday 25\n🗓 Sat 06 Ma
+ r 2027 · 14:30 UTC\n🏟 SNP Arena\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هوفنهايم ضد فيردر بريمن — 
+ الدوري الألماني | Tomorrow: Hoffenheim vs Werder Bremen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هوفنه
+ ايم × فيردر بريمن | Kick-off in 30 min: Hoffenheim vs Werder
+  Bremen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881376@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T143000Z
+DTEND:20270313T163000Z
+SUMMARY:Werder Bremen vs VfB Stuttgart — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881376
+DESCRIPTION:⚽ فيردر بريمن × شتوتجارت\n🏆 الدور
+ ي الألماني — الجولة 26\n🗓 السبت 13 مارس 2027 
+ · 17:30 بتوقيت الرياض\n🏟 Wohninvest WESERSTADION\n——
+ ———\n⚽ Werder Bremen v VfB Stuttgart\n🏆 Bundesliga — Matchday
+  26\n🗓 Sat 13 Mar 2027 · 14:30 UTC\n🏟 Wohninvest WESERSTADION\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد شتوتجارت — 
+ الدوري الألماني | Tomorrow: Werder Bremen vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × شتوتجارت | Kick-off in 30 min: Werder Bremen vs VfB 
+ Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881380@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T143000Z
+DTEND:20270320T163000Z
+SUMMARY:Hamburger SV vs Werder Bremen — Bundesliga
+LOCATION:Volksparkstadion
+URL:https://www.fotmob.com/match/5881380
+DESCRIPTION:⚽ هامبورج × فيردر بريمن\n🏆 الدوري 
+ الألماني — الجولة 27\n🗓 السبت 20 مارس 2027 · 
+ 17:30 بتوقيت الرياض\n🏟 Volksparkstadion\n—————\n
+ ⚽ Hamburger SV v Werder Bremen\n🏆 Bundesliga — Matchday 27\n🗓 Sa
+ t 20 Mar 2027 · 14:30 UTC\n🏟 Volksparkstadion\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هامبورج ضد فيردر بريمن — ا
+ لدوري الألماني | Tomorrow: Hamburger SV vs Werder Bremen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هامبو
+ رج × فيردر بريمن | Kick-off in 30 min: Hamburger SV vs Werder
+  Bremen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881389@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270403T133000Z
+DTEND:20270403T153000Z
+SUMMARY:Borussia Mönchengladbach vs Werder Bremen — Bundesliga
+LOCATION:Ista-Borussia-Park
+URL:https://www.fotmob.com/match/5881389
+DESCRIPTION:⚽ بوروسيا مونشنجلادباخ × فيردر بر
+ يمن\n🏆 الدوري الألماني — الجولة 28\n🗓 ال
+ سبت 3 أبريل 2027 · 16:30 بتوقيت الرياض\n🏟 Ista-Bor
+ ussia-Park\n—————\n⚽ Borussia Mönchengladbach v Werder Bremen
+ \n🏆 Bundesliga — Matchday 28\n🗓 Sat 03 Apr 2027 · 13:30 UTC\n🏟
+  Ista-Borussia-Park\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا مونشنجلادباخ ضد في
+ ردر بريمن — الدوري الألماني | Tomorrow: Borussia M
+ önchengladbach vs Werder Bremen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا مونشنجلادباخ × فيردر بريمن | Kick-off in 30 mi
+ n: Borussia Mönchengladbach vs Werder Bremen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881403@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T133000Z
+DTEND:20270410T153000Z
+SUMMARY:Werder Bremen vs Eintracht Frankfurt — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881403
+DESCRIPTION:⚽ فيردر بريمن × آينتراخت فرانكفور
+ ت\n🏆 الدوري الألماني — الجولة 29\n🗓 السب
+ ت 10 أبريل 2027 · 16:30 بتوقيت الرياض\n🏟 Wohninvest 
+ WESERSTADION\n—————\n⚽ Werder Bremen v Eintracht Frankfurt\n
+ 🏆 Bundesliga — Matchday 29\n🗓 Sat 10 Apr 2027 · 13:30 UTC\n🏟 W
+ ohninvest WESERSTADION\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد آينتراخت فر
+ انكفورت — الدوري الألماني | Tomorrow: Werder Bremen
+  vs Eintracht Frankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × آينتراخت فرانكفورت | Kick-off in 30 min: We
+ rder Bremen vs Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881405@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T133000Z
+DTEND:20270417T153000Z
+SUMMARY:Bayer Leverkusen vs Werder Bremen — Bundesliga
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/5881405
+DESCRIPTION:⚽ باير ليفركوزن × فيردر بريمن\n🏆 ا
+ لدوري الألماني — الجولة 30\n🗓 السبت 17 أبر
+ يل 2027 · 16:30 بتوقيت الرياض\n🏟 BayArena\n————
+ —\n⚽ Bayer Leverkusen v Werder Bremen\n🏆 Bundesliga — Matchday 30
+ \n🗓 Sat 17 Apr 2027 · 13:30 UTC\n🏟 BayArena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد فيردر بري
+ من — الدوري الألماني | Tomorrow: Bayer Leverkusen vs Wer
+ der Bremen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × فيردر بريمن | Kick-off in 30 min: Bayer Leverk
+ usen vs Werder Bremen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881421@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T133000Z
+DTEND:20270424T153000Z
+SUMMARY:Werder Bremen vs Bayern München — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881421
+DESCRIPTION:⚽ فيردر بريمن × بايرن ميونخ\n🏆 الد
+ وري الألماني — الجولة 31\n🗓 السبت 24 أبريل
+  2027 · 16:30 بتوقيت الرياض\n🏟 Wohninvest WESERSTADION\n
+ —————\n⚽ Werder Bremen v Bayern München\n🏆 Bundesliga — 
+ Matchday 31\n🗓 Sat 24 Apr 2027 · 13:30 UTC\n🏟 Wohninvest WESERSTADI
+ ON\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد بايرن ميونخ 
+ — الدوري الألماني | Tomorrow: Werder Bremen vs Bayern Mün
+ chen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × بايرن ميونخ | Kick-off in 30 min: Werder Bremen vs
+  Bayern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881430@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T133000Z
+DTEND:20270508T153000Z
+SUMMARY:Union Berlin vs Werder Bremen — Bundesliga
+LOCATION:Alte Foersterei
+URL:https://www.fotmob.com/match/5881430
+DESCRIPTION:⚽ يونيون برلين × فيردر بريمن\n🏆 ال
+ دوري الألماني — الجولة 32\n🗓 السبت 8 مايو 
+ 2027 · 16:30 بتوقيت الرياض\n🏟 Alte Foersterei\n———
+ ——\n⚽ Union Berlin v Werder Bremen\n🏆 Bundesliga — Matchday 32\
+ n🗓 Sat 08 May 2027 · 13:30 UTC\n🏟 Alte Foersterei\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد فيردر بريم
+ ن — الدوري الألماني | Tomorrow: Union Berlin vs Werder Br
+ emen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × فيردر بريمن | Kick-off in 30 min: Union Berlin 
+ vs Werder Bremen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881439@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T133000Z
+DTEND:20270515T153000Z
+SUMMARY:Werder Bremen vs Schalke 04 — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881439
+DESCRIPTION:⚽ فيردر بريمن × شالكة\n🏆 الدوري ال
+ ألماني — الجولة 33\n🗓 السبت 15 مايو 2027 · 16:3
+ 0 بتوقيت الرياض\n🏟 Wohninvest WESERSTADION\n—————
+ \n⚽ Werder Bremen v Schalke 04\n🏆 Bundesliga — Matchday 33\n🗓 Sa
+ t 15 May 2027 · 13:30 UTC\n🏟 Wohninvest WESERSTADION\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد شالكة — الد
+ وري الألماني | Tomorrow: Werder Bremen vs Schalke 04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × شالكة | Kick-off in 30 min: Werder Bremen vs Schalke 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881442@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270522T133000Z
+DTEND:20270522T153000Z
+SUMMARY:Elversberg vs Werder Bremen — Bundesliga
+LOCATION:Ursapharm-Arena
+URL:https://www.fotmob.com/match/5881442
+DESCRIPTION:⚽ إلفيرسبيرغ × فيردر بريمن\n🏆 الد
+ وري الألماني — الجولة 34\n🗓 السبت 22 مايو 2
+ 027 · 16:30 بتوقيت الرياض\n🏟 Ursapharm-Arena\n————
+ —\n⚽ Elversberg v Werder Bremen\n🏆 Bundesliga — Matchday 34\n🗓
+  Sat 22 May 2027 · 13:30 UTC\n🏟 Ursapharm-Arena\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد فيردر بريمن 
+ — الدوري الألماني | Tomorrow: Elversberg vs Werder Bremen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × فيردر بريمن | Kick-off in 30 min: Elversberg vs We
+ rder Bremen
+END:VALARM
+END:VEVENT
+END:VCALENDAR

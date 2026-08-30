@@ -1,0 +1,286 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al-Gharafa — AFC Champions League Elite Fixtures | ال
+ غرافة — مباريات دوري أبطال آسيا للنخبة
+X-WR-CALDESC:Al-Gharafa — all matches in AFC Champions League Elite\, exa
+ ct UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 
+ 2026-09-05T19:31:10Z.  •  الغرافة — جميع المباريات
+  في دوري أبطال آسيا للنخبة بتوقيت UTC الدق
+ يق مع الملاعب والقنوات الناقلة. المصدر: Fo
+ tMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6050071@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260915T181500Z
+DTEND:20260915T201500Z
+SUMMARY:Al Hilal vs Al-Gharafa — AFC Champions League Elite
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/6050071
+DESCRIPTION:⚽ الهلال × الغرافة\n🏆 دوري أبطال آ
+ سيا للنخبة — الجولة 1\n🗓 الثلاثاء 15 سبتم
+ بر 2026 · 21:15 بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\
+ n—————\n⚽ Al Hilal v Al-Gharafa\n🏆 AFC Champions League Eli
+ te — Matchday 1\n🗓 Tue 15 Sep 2026 · 18:15 UTC\n🏟 Kingdom Arena, 
+ Riyadh\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الغرافة — دوري أ
+ بطال آسيا للنخبة | Tomorrow: Al Hilal vs Al-Gharafa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الغرافة | Kick-off in 30 min: Al Hilal vs Al-Gharafa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050075@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261012T181500Z
+DTEND:20261012T201500Z
+SUMMARY:Al-Gharafa vs Esteghlal — AFC Champions League Elite
+LOCATION:Thani Bin Jassim Stadium (Al-Gharafah Stadium)\, Al Rayyan (Ar-Ray
+ yan)\, Qatar
+GEO:25.344787;51.440552
+URL:https://www.fotmob.com/match/6050075
+DESCRIPTION:⚽ الغرافة × استقلال\n🏆 دوري أبطال 
+ آسيا للنخبة — الجولة 2\n🗓 الاثنين 12 أكتو
+ بر 2026 · 21:15 بتوقيت الرياض\n🏟 Thani Bin Jassim Stadiu
+ m (Al-Gharafah Stadium)، Al Rayyan (Ar-Rayyan)\n—————\n⚽ Al-G
+ harafa v Esteghlal\n🏆 AFC Champions League Elite — Matchday 2\n🗓 M
+ on 12 Oct 2026 · 18:15 UTC\n🏟 Thani Bin Jassim Stadium (Al-Gharafah St
+ adium), Al Rayyan (Ar-Rayyan)\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الغرافة ضد استقلال — دوري 
+ أبطال آسيا للنخبة | Tomorrow: Al-Gharafa vs Esteghlal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الغرا
+ فة × استقلال | Kick-off in 30 min: Al-Gharafa vs Esteghlal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050081@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261026T170000Z
+DTEND:20261026T190000Z
+SUMMARY:Al Ahli vs Al-Gharafa — AFC Champions League Elite
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/6050081
+DESCRIPTION:⚽ الأهلي × الغرافة\n🏆 دوري أبطال آ
+ سيا للنخبة — الجولة 3\n🗓 الاثنين 26 أكتوب
+ ر 2026 · 20:00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at Ki
+ ng Abdullah Sport City، Jeddah\n—————\n⚽ Al Ahli v Al-Gharafa
+ \n🏆 AFC Champions League Elite — Matchday 3\n🗓 Mon 26 Oct 2026 · 
+ 17:00 UTC\n🏟 Alinma Bank Stadium at King Abdullah Sport City, Jeddah\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الغرافة — دوري أ
+ بطال آسيا للنخبة | Tomorrow: Al Ahli vs Al-Gharafa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الغرافة | Kick-off in 30 min: Al Ahli vs Al-Gharafa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050092@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261102T191500Z
+DTEND:20261102T211500Z
+SUMMARY:Al-Gharafa vs Al Qadsiah — AFC Champions League Elite
+LOCATION:Thani Bin Jassim Stadium (Al-Gharafah Stadium)\, Al Rayyan (Ar-Ray
+ yan)\, Qatar
+GEO:25.344787;51.440552
+URL:https://www.fotmob.com/match/6050092
+DESCRIPTION:⚽ الغرافة × القادسية\n🏆 دوري أبطا
+ ل آسيا للنخبة — الجولة 4\n🗓 الاثنين 2 نوف
+ مبر 2026 · 22:15 بتوقيت الرياض\n🏟 Thani Bin Jassim Stad
+ ium (Al-Gharafah Stadium)، Al Rayyan (Ar-Rayyan)\n—————\n⚽ Al
+ -Gharafa v Al Qadsiah\n🏆 AFC Champions League Elite — Matchday 4\n
+ 🗓 Mon 02 Nov 2026 · 19:15 UTC\n🏟 Thani Bin Jassim Stadium (Al-Ghara
+ fah Stadium), Al Rayyan (Ar-Rayyan)\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الغرافة ضد القادسية — دوري
+  أبطال آسيا للنخبة | Tomorrow: Al-Gharafa vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الغرا
+ فة × القادسية | Kick-off in 30 min: Al-Gharafa vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050101@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261123T191500Z
+DTEND:20261123T211500Z
+SUMMARY:Al Quwa Al Jawiya vs Al-Gharafa — AFC Champions League Elite
+LOCATION:Basra International Stadium\, al-Baṣra (Basra)\, Iraq
+GEO:30.439928;47.779781
+URL:https://www.fotmob.com/match/6050101
+DESCRIPTION:⚽ القوة الجوية × الغرافة\n🏆 دوري أ
+ بطال آسيا للنخبة — الجولة 5\n🗓 الاثنين 23 
+ نوفمبر 2026 · 22:15 بتوقيت الرياض\n🏟 Basra Internati
+ onal Stadium، al-Baṣra (Basra)\n—————\n⚽ Al Quwa Al Jawiya 
+ v Al-Gharafa\n🏆 AFC Champions League Elite — Matchday 5\n🗓 Mon 23 
+ Nov 2026 · 19:15 UTC\n🏟 Basra International Stadium, al-Baṣra (Basra
+ )\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القوة الجوية ضد الغرافة — 
+ دوري أبطال آسيا للنخبة | Tomorrow: Al Quwa Al Jawiya vs
+  Al-Gharafa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القوة 
+ الجوية × الغرافة | Kick-off in 30 min: Al Quwa Al Jawiya vs 
+ Al-Gharafa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050110@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261208T170000Z
+DTEND:20261208T190000Z
+SUMMARY:Al-Gharafa vs Al Nassr FC — AFC Champions League Elite
+LOCATION:Thani Bin Jassim Stadium (Al-Gharafah Stadium)\, Al Rayyan (Ar-Ray
+ yan)\, Qatar
+GEO:25.344787;51.440552
+URL:https://www.fotmob.com/match/6050110
+DESCRIPTION:⚽ الغرافة × النصر\n🏆 دوري أبطال آس
+ يا للنخبة — الجولة 6\n🗓 الثلاثاء 8 ديسمبر
+  2026 · 20:00 بتوقيت الرياض\n🏟 Thani Bin Jassim Stadium (A
+ l-Gharafah Stadium)، Al Rayyan (Ar-Rayyan)\n—————\n⚽ Al-Ghara
+ fa v Al Nassr FC\n🏆 AFC Champions League Elite — Matchday 6\n🗓 Tue
+  08 Dec 2026 · 17:00 UTC\n🏟 Thani Bin Jassim Stadium (Al-Gharafah Stad
+ ium), Al Rayyan (Ar-Rayyan)\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الغرافة ضد النصر — دوري أب
+ طال آسيا للنخبة | Tomorrow: Al-Gharafa vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الغرا
+ فة × النصر | Kick-off in 30 min: Al-Gharafa vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050115@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270208T191500Z
+DTEND:20270208T211500Z
+SUMMARY:Al Ittihad vs Al-Gharafa — AFC Champions League Elite
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/6050115
+DESCRIPTION:⚽ الاتحاد × الغرافة\n🏆 دوري أبطال 
+ آسيا للنخبة — الجولة 7\n🗓 الاثنين 8 فبراي
+ ر 2027 · 22:15 بتوقيت الرياض\n🏟 Alinma Bank Stadium at Ki
+ ng Abdullah Sport City، Jeddah\n—————\n⚽ Al Ittihad v Al-Ghar
+ afa\n🏆 AFC Champions League Elite — Matchday 7\n🗓 Mon 08 Feb 2027 
+ · 19:15 UTC\n🏟 Alinma Bank Stadium at King Abdullah Sport City, Jeddah
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الغرافة — دوري 
+ أبطال آسيا للنخبة | Tomorrow: Al Ittihad vs Al-Gharafa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الغرافة | Kick-off in 30 min: Al Ittihad vs Al-Gharafa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050122@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270215T191500Z
+DTEND:20270215T211500Z
+SUMMARY:Al-Gharafa vs Tractor — AFC Champions League Elite
+LOCATION:Thani Bin Jassim Stadium (Al-Gharafah Stadium)\, Al Rayyan (Ar-Ray
+ yan)\, Qatar
+GEO:25.344787;51.440552
+URL:https://www.fotmob.com/match/6050122
+DESCRIPTION:⚽ الغرافة × تراکتورسازي\n🏆 دوري أ
+ بطال آسيا للنخبة — الجولة 8\n🗓 الاثنين 15 
+ فبراير 2027 · 22:15 بتوقيت الرياض\n🏟 Thani Bin Jassi
+ m Stadium (Al-Gharafah Stadium)، Al Rayyan (Ar-Rayyan)\n—————\n
+ ⚽ Al-Gharafa v Tractor\n🏆 AFC Champions League Elite — Matchday 8\n
+ 🗓 Mon 15 Feb 2027 · 19:15 UTC\n🏟 Thani Bin Jassim Stadium (Al-Ghara
+ fah Stadium), Al Rayyan (Ar-Rayyan)\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الغرافة ضد تراکتورسازي — د
+ وري أبطال آسيا للنخبة | Tomorrow: Al-Gharafa vs Tractor
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الغرا
+ فة × تراکتورسازي | Kick-off in 30 min: Al-Gharafa vs Tractor
+END:VALARM
+END:VEVENT
+END:VCALENDAR

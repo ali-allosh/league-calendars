@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Exeter City — FA Cup Fixtures | Exeter City — مبار
+ يات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Exeter City — all matches in FA Cup\, exact UTC kickoffs\, s
+ tadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10
+ Z.  •  Exeter City — جميع المباريات في كأس الات
+ حاد الإنجليزي بتوقيت UTC الدقيق مع الملاع
+ ب والقنوات الناقلة. المصدر: FotMob + 365scores · ت
+ حديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010638@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:FC Halifax Town vs Exeter City (0 - 2) — FA Cup
+LOCATION:The Shay Stadium\, Halifax\, West Yorkshire\, England
+GEO:53.716109;-1.859138
+URL:https://www.fotmob.com/match/5010638
+DESCRIPTION:⚽ FC Halifax Town × Exeter City (0 - 2)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الأول\n🗓 السبت 1 
+ نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 The Shay Stadiu
+ m، Halifax, West Yorkshire\n⚖️ الحكم: Andrew Miller\n👥 الح
+ ضور: 1,994\n—————\n⚽ FC Halifax Town v Exeter City (0 - 2)\
+ n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 The Shay
+  Stadium, Halifax, West Yorkshire\nReferee: Andrew Miller\nAttendance: 1,9
+ 94\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: FC Halifax Town ضد Exeter City — كأس ال
+ اتحاد الإنجليزي | Tomorrow: FC Halifax Town vs Exeter City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: FC Halifax 
+ Town × Exeter City | Kick-off in 30 min: FC Halifax Town vs Exeter City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040325@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Exeter City vs Wycombe Wanderers (4 - 0) — FA Cup
+LOCATION:St James Park\, Exeter\, Devon\, England
+GEO:50.730716;-3.521153
+URL:https://www.fotmob.com/match/5040325
+DESCRIPTION:⚽ Exeter City × Wycombe Wanderers (4 - 0)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الثاني\n🗓 السبت
+  6 ديسمبر 2025 · 18:00 بتوقيت الرياض\n🏟 St James Par
+ k، Exeter, Devon\n⚖️ الحكم: James Durkin\n👥 الحضور: 5,1
+ 61\n—————\n⚽ Exeter City v Wycombe Wanderers (4 - 0)\n🏆 FA 
+ Cup — Round 2\n🗓 Sat 06 Dec 2025 · 15:00 UTC\n🏟 St James Park, Ex
+ eter, Devon\nReferee: James Durkin\nAttendance: 5,161\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Exeter City ضد Wycombe Wanderers — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Exeter City vs Wycombe Wandere
+ rs
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Exeter City
+  × Wycombe Wanderers | Kick-off in 30 min: Exeter City vs Wycombe Wandere
+ rs
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089901@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260110T150000Z
+DTEND:20260110T170000Z
+SUMMARY:Manchester City vs Exeter City (10 - 1) — FA Cup
+LOCATION:Etihad Stadium\, Manchester\, England
+GEO:53.483152;-2.200409
+URL:https://www.fotmob.com/match/5089901
+DESCRIPTION:⚽ مانشستر سيتي × Exeter City (10 - 1)\n🏆 كأ
+ س الاتحاد الإنجليزي — الدور الثالث\n🗓 ا
+ لسبت 10 يناير 2026 · 18:00 بتوقيت الرياض\n🏟 Etiha
+ d Stadium، Manchester\n⚖️ الحكم: Adam Herczeg\n👥 الحضور
+ : 50,705\n—————\n⚽ Manchester City v Exeter City (10 - 1)\n
+ 🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 15:00 UTC\n🏟 Etihad St
+ adium, Manchester\nReferee: Adam Herczeg\nAttendance: 50,705\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد Exeter City — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Manchester City vs Exeter
+  City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × Exeter City | Kick-off in 30 min: Manchester City vs Exet
+ er City
+END:VALARM
+END:VEVENT
+END:VCALENDAR

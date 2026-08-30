@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Barrow — FA Cup Fixtures | Barrow — مباريات ك
+ أس الاتحاد الإنجليزي
+X-WR-CALDESC:Barrow — all matches in FA Cup\, exact UTC kickoffs\, stadiu
+ ms & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10Z.  
+ •  Barrow — جميع المباريات في كأس الاتحاد ا
+ لإنجليزي بتوقيت UTC الدقيق مع الملاعب وال
+ قنوات الناقلة. المصدر: FotMob + 365scores · تحديث 
+ تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010636@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Spennymoor Town FC vs Barrow (0 - 2) — FA Cup
+LOCATION:The Brewery Field\, Spennymoor\, County Durham\, England
+GEO:54.704500;-1.599128
+URL:https://www.fotmob.com/match/5010636
+DESCRIPTION:⚽ Spennymoor Town FC × Barrow (0 - 2)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الأول\n🗓 السبت 1 ن
+ وفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 The Brewery Field
+ ، Spennymoor, County Durham\n⚖️ الحكم: Zac Kennard-Kettle\n👥 
+ الحضور: 2,283\n—————\n⚽ Spennymoor Town FC v Barrow (0 -
+  2)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 The 
+ Brewery Field, Spennymoor, County Durham\nReferee: Zac Kennard-Kettle\nAtt
+ endance: 2,283\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Spennymoor Town FC ضد Barrow — كأس الا
+ تحاد الإنجليزي | Tomorrow: Spennymoor Town FC vs Barrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Spennymoor 
+ Town FC × Barrow | Kick-off in 30 min: Spennymoor Town FC vs Barrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040318@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Wigan Athletic vs Barrow (2 - 2) — FA Cup
+LOCATION:The Brick Community Stadium\, Wigan\, England
+GEO:53.547655;-2.654032
+URL:https://www.fotmob.com/match/5040318
+DESCRIPTION:⚽ Wigan Athletic × Barrow (2 - 2)\n🏆 كأس الاتحا
+ د الإنجليزي — الدور الثاني\n🗓 السبت 6 دي
+ سمبر 2025 · 18:00 بتوقيت الرياض\n🏟 The Brick Community
+  Stadium، Wigan\n⚖️ الحكم: Martin Coy\n—————\n⚽ Wiga
+ n Athletic v Barrow (2 - 2)\n🏆 FA Cup — Round 2\n🗓 Sat 06 Dec 2025
+  · 15:00 UTC\n🏟 The Brick Community Stadium, Wigan\nReferee: Martin Co
+ y\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Wigan Athletic ضد Barrow — كأس الاتح
+ اد الإنجليزي | Tomorrow: Wigan Athletic vs Barrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Wigan Athle
+ tic × Barrow | Kick-off in 30 min: Wigan Athletic vs Barrow
+END:VALARM
+END:VEVENT
+END:VCALENDAR

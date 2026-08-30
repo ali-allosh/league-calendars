@@ -1,0 +1,778 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ King's Cup 2026/2027 — Fixtures | كأس خادم الح
+ رمين الشريفين 2026/2027 — جدول المباريات
+X-WR-CALDESC:King's Cup 2026/2027 — all fixtures\, exact UTC kickoffs\, s
+ tadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10
+ Z.  •  كأس خادم الحرمين الشريفين 2026/2027 — ج
+ ميع المباريات بتوقيت UTC الدقيق مع الملاع
+ ب والقنوات الناقلة. المصدر: FotMob + 365scores · ت
+ حديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5853716@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260816T161500Z
+DTEND:20260816T181500Z
+SUMMARY:Al Bukayriyah vs Al Hazem (2 - 3) — King's Cup
+LOCATION:Al-Bukiryah Club Stadium\, Al Bukayriyah\, Saudi Arabia
+GEO:26.166426;43.654250
+URL:https://www.fotmob.com/match/5853716
+DESCRIPTION:⚽ البكيرية × الحزم (2 - 3)\n🏆 كأس خاد
+ م الحرمين الشريفين — دور الـ32\n🗓 الأحد 16
+  أغسطس 2026 · 19:15 بتوقيت الرياض\n🏟 Al-Bukiryah Club
+  Stadium، Al Bukayriyah\n—————\n⚽ Al Bukayriyah v Al Hazem (2
+  - 3)\n🏆 King's Cup — Round of 32\n🗓 Sun 16 Aug 2026 · 16:15 UTC\
+ n🏟 Al-Bukiryah Club Stadium, Al Bukayriyah\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: البكيرية ضد الحزم — كأس خا
+ دم الحرمين الشريفين | Tomorrow: Al Bukayriyah vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: البكي
+ رية × الحزم | Kick-off in 30 min: Al Bukayriyah vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853720@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260816T164000Z
+DTEND:20260816T184000Z
+SUMMARY:Al-Orobah FC vs Abha (0 - 0) — King's Cup
+LOCATION:Al-Oruba Club Stadium\, Sakaka (Al Jawf)\, Saudi Arabia
+GEO:30.004826;40.212528
+URL:https://www.fotmob.com/match/5853720
+DESCRIPTION:⚽ العروبة × أبها (0 - 0)\n🏆 كأس خادم ا
+ لحرمين الشريفين — دور الـ32\n🗓 الأحد 16 أغ
+ سطس 2026 · 19:40 بتوقيت الرياض\n🏟 Al-Oruba Club Stadium
+ ، Sakaka (Al Jawf)\n—————\n⚽ Al-Orobah FC v Abha (0 - 0)\n
+ 🏆 King's Cup — Round of 32\n🗓 Sun 16 Aug 2026 · 16:40 UTC\n🏟 A
+ l-Oruba Club Stadium, Sakaka (Al Jawf)\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: العروبة ضد أبها — كأس خادم 
+ الحرمين الشريفين | Tomorrow: Al-Orobah FC vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: العرو
+ بة × أبها | Kick-off in 30 min: Al-Orobah FC vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853724@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260816T180000Z
+DTEND:20260816T200000Z
+SUMMARY:Al-Wehda vs Al Shabab (3 - 2) — King's Cup
+LOCATION:King Abdulaziz Sports City Stadium\, Makkah (Mecca)\, Saudi Arabia
+GEO:21.485513;39.973873
+URL:https://www.fotmob.com/match/5853724
+DESCRIPTION:⚽ الوحدة × الشباب (3 - 2)\n🏆 كأس خادم 
+ الحرمين الشريفين — دور الـ32\n🗓 الأحد 16 أ
+ غسطس 2026 · 21:00 بتوقيت الرياض\n🏟 King Abdulaziz Spor
+ ts City Stadium، Makkah (Mecca)\n—————\n⚽ Al-Wehda v Al Shaba
+ b (3 - 2)\n🏆 King's Cup — Round of 32\n🗓 Sun 16 Aug 2026 · 18:00 
+ UTC\n🏟 King Abdulaziz Sports City Stadium, Makkah (Mecca)\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الوحدة ضد الشباب — كأس خاد
+ م الحرمين الشريفين | Tomorrow: Al-Wehda vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الوحد
+ ة × الشباب | Kick-off in 30 min: Al-Wehda vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853715@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260817T160000Z
+DTEND:20260817T180000Z
+SUMMARY:Al Anwar vs Al Ahli (1 - 2) — King's Cup
+LOCATION:Al Anwar Club Stadium\, Howtat Bani Tamim\, Saudi Arabia
+GEO:23.506883;46.893466
+URL:https://www.fotmob.com/match/5853715
+DESCRIPTION:⚽ الأنوار × الأهلي (1 - 2)\n🏆 كأس خاد
+ م الحرمين الشريفين — دور الـ32\n🗓 الاثني
+ ن 17 أغسطس 2026 · 19:00 بتوقيت الرياض\n🏟 Al Anwar Cl
+ ub Stadium، Howtat Bani Tamim\n⚖️ الحكم: Abdullah Al Owaydan\n
+ 👥 الحضور: 3,009\n—————\n⚽ Al Anwar v Al Ahli (1 - 2)\
+ n🏆 King's Cup — Round of 32\n🗓 Mon 17 Aug 2026 · 16:00 UTC\n🏟 
+ Al Anwar Club Stadium, Howtat Bani Tamim\nReferee: Abdullah Al Owaydan\nAt
+ tendance: 3,009\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأنوار ضد الأهلي — كأس خا
+ دم الحرمين الشريفين | Tomorrow: Al Anwar vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأنو
+ ار × الأهلي | Kick-off in 30 min: Al Anwar vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853722@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260817T161500Z
+DTEND:20260817T181500Z
+SUMMARY:Al Taee vs Al Qadsiah (0 - 5) — King's Cup
+LOCATION:Prince Abdul Aziz bin Musa'ed Stadium\, Ha'il (Hail)\, Saudi Arabi
+ a
+GEO:27.503989;41.697600
+URL:https://www.fotmob.com/match/5853722
+DESCRIPTION:⚽ الطائي × القادسية (0 - 5)\n🏆 كأس خا
+ دم الحرمين الشريفين — دور الـ32\n🗓 الاثن
+ ين 17 أغسطس 2026 · 19:15 بتوقيت الرياض\n🏟 Prince Ab
+ dul Aziz bin Musa'ed Stadium، Ha'il (Hail)\n—————\n⚽ Al Taee 
+ v Al Qadsiah (0 - 5)\n🏆 King's Cup — Round of 32\n🗓 Mon 17 Aug 202
+ 6 · 16:15 UTC\n🏟 Prince Abdul Aziz bin Musa'ed Stadium, Ha'il (Hail)\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الطائي ضد القادسية — كأس خ
+ ادم الحرمين الشريفين | Tomorrow: Al Taee vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الطائ
+ ي × القادسية | Kick-off in 30 min: Al Taee vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853725@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260817T161500Z
+DTEND:20260817T181500Z
+SUMMARY:Al-Zulfi vs Al Riyadh (0 - 2) — King's Cup
+LOCATION:Al Zulfi Stadium\, Al Zulfi\, Saudi Arabia
+GEO:26.306342;44.837372
+URL:https://www.fotmob.com/match/5853725
+DESCRIPTION:⚽ الزلفي × الرياض (0 - 2)\n🏆 كأس خادم 
+ الحرمين الشريفين — دور الـ32\n🗓 الاثنين 1
+ 7 أغسطس 2026 · 19:15 بتوقيت الرياض\n🏟 Al Zulfi Stadiu
+ m، Al Zulfi\n⚖️ الحكم: Faisal Al-Balawi\n—————\n⚽ Al
+ -Zulfi v Al Riyadh (0 - 2)\n🏆 King's Cup — Round of 32\n🗓 Mon 17 A
+ ug 2026 · 16:15 UTC\n🏟 Al Zulfi Stadium, Al Zulfi\nReferee: Faisal Al-
+ Balawi\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الزلفي ضد الرياض — كأس خاد
+ م الحرمين الشريفين | Tomorrow: Al-Zulfi vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الزلف
+ ي × الرياض | Kick-off in 30 min: Al-Zulfi vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853714@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260817T180000Z
+DTEND:20260817T200000Z
+SUMMARY:Al-Adalah vs Al-Fayha (0 - 2) — King's Cup
+LOCATION:Prince Abdullah bin Jalawi Stadium\, Al Ahsa\, Saudi Arabia
+GEO:25.305880;49.612836
+URL:https://www.fotmob.com/match/5853714
+DESCRIPTION:⚽ العدالة × الفيحاء (0 - 2)\n🏆 كأس خا
+ دم الحرمين الشريفين — دور الـ32\n🗓 الاثن
+ ين 17 أغسطس 2026 · 21:00 بتوقيت الرياض\n🏟 Prince Ab
+ dullah bin Jalawi Stadium، Al Ahsa\n⚖️ الحكم: Sultan Al-Harbi\n
+ —————\n⚽ Al-Adalah v Al-Fayha (0 - 2)\n🏆 King's Cup — Rou
+ nd of 32\n🗓 Mon 17 Aug 2026 · 18:00 UTC\n🏟 Prince Abdullah bin Jala
+ wi Stadium, Al Ahsa\nReferee: Sultan Al-Harbi\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: العدالة ضد الفيحاء — كأس خ
+ ادم الحرمين الشريفين | Tomorrow: Al-Adalah vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: العدا
+ لة × الفيحاء | Kick-off in 30 min: Al-Adalah vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853721@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260817T180000Z
+DTEND:20260817T200000Z
+SUMMARY:Al-Raed vs Al Hilal (0 - 2) — King's Cup
+LOCATION:King Abdullah Sport City Stadium\, Buraydah\, Saudi Arabia
+GEO:26.378967;43.947845
+URL:https://www.fotmob.com/match/5853721
+DESCRIPTION:⚽ الرائد × الهلال (0 - 2)\n🏆 كأس خادم 
+ الحرمين الشريفين — دور الـ32\n🗓 الاثنين 1
+ 7 أغسطس 2026 · 21:00 بتوقيت الرياض\n🏟 King Abdullah S
+ port City Stadium، Buraydah\n⚖️ الحكم: Kirill Levnikov\n——
+ ———\n⚽ Al-Raed v Al Hilal (0 - 2)\n🏆 King's Cup — Round of 32
+ \n🗓 Mon 17 Aug 2026 · 18:00 UTC\n🏟 King Abdullah Sport City Stadium
+ , Buraydah\nReferee: Kirill Levnikov\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرائد ضد الهلال — كأس خاد
+ م الحرمين الشريفين | Tomorrow: Al-Raed vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الرائ
+ د × الهلال | Kick-off in 30 min: Al-Raed vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853727@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260818T161500Z
+DTEND:20260818T181500Z
+SUMMARY:Al Akhdoud vs Al Khaleej (2 - 0) — King's Cup
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/5853727
+DESCRIPTION:⚽ الأخدود × الخليج (2 - 0)\n🏆 كأس خاد
+ م الحرمين الشريفين — دور الـ32\n🗓 الثلاث
+ اء 18 أغسطس 2026 · 19:15 بتوقيت الرياض\n🏟 Prince Su
+ ltan bin Abdulaziz Sports City Stadium، Abha\n⚖️ الحكم: Fraih Al
+  Jaloud\n—————\n⚽ Al Akhdoud v Al Khaleej (2 - 0)\n🏆 King's
+  Cup — Round of 32\n🗓 Tue 18 Aug 2026 · 16:15 UTC\n🏟 Prince Sulta
+ n bin Abdulaziz Sports City Stadium, Abha\nReferee: Fraih Al Jaloud\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأخدود ضد الخليج — كأس خا
+ دم الحرمين الشريفين | Tomorrow: Al Akhdoud vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأخد
+ ود × الخليج | Kick-off in 30 min: Al Akhdoud vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853719@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260818T161500Z
+DTEND:20260818T181500Z
+SUMMARY:Al Jabalain vs Al-Ettifaq (1 - 0) — King's Cup
+LOCATION:Prince Abdul Aziz bin Musa'ed Stadium\, Ha'il (Hail)\, Saudi Arabi
+ a
+GEO:27.503989;41.697600
+URL:https://www.fotmob.com/match/5853719
+DESCRIPTION:⚽ الجبلين × الاتفاق (1 - 0)\n🏆 كأس خا
+ دم الحرمين الشريفين — دور الـ32\n🗓 الثلا
+ ثاء 18 أغسطس 2026 · 19:15 بتوقيت الرياض\n🏟 Prince 
+ Abdul Aziz bin Musa'ed Stadium، Ha'il (Hail)\n⚖️ الحكم: Abdullah
+  Al-Harbi\n—————\n⚽ Al Jabalain v Al-Ettifaq (1 - 0)\n🏆 Kin
+ g's Cup — Round of 32\n🗓 Tue 18 Aug 2026 · 16:15 UTC\n🏟 Prince Ab
+ dul Aziz bin Musa'ed Stadium, Ha'il (Hail)\nReferee: Abdullah Al-Harbi\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجبلين ضد الاتفاق — كأس خ
+ ادم الحرمين الشريفين | Tomorrow: Al Jabalain vs Al-Ettif
+ aq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجبل
+ ين × الاتفاق | Kick-off in 30 min: Al Jabalain vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853726@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260818T161500Z
+DTEND:20260818T181500Z
+SUMMARY:Al Najma vs Al Ittihad (0 - 3) — King's Cup
+LOCATION:King Abdullah Sport City Stadium\, Buraydah\, Saudi Arabia
+GEO:26.378967;43.947845
+URL:https://www.fotmob.com/match/5853726
+DESCRIPTION:⚽ النجمة × الاتحاد (0 - 3)\n🏆 كأس خاد
+ م الحرمين الشريفين — دور الـ32\n🗓 الثلاث
+ اء 18 أغسطس 2026 · 19:15 بتوقيت الرياض\n🏟 King Abdu
+ llah Sport City Stadium، Buraydah\n⚖️ الحكم: Mohammed Al-Ismail\
+ n—————\n⚽ Al Najma v Al Ittihad (0 - 3)\n🏆 King's Cup — R
+ ound of 32\n🗓 Tue 18 Aug 2026 · 16:15 UTC\n🏟 King Abdullah Sport Ci
+ ty Stadium, Buraydah\nReferee: Mohammed Al-Ismail\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النجمة ضد الاتحاد — كأس خا
+ دم الحرمين الشريفين | Tomorrow: Al Najma vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النجم
+ ة × الاتحاد | Kick-off in 30 min: Al Najma vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853717@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260818T180000Z
+DTEND:20260818T200000Z
+SUMMARY:Al Diriyah vs Al Nassr FC (1 - 4) — King's Cup
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/5853717
+DESCRIPTION:⚽ الدرعية × النصر (1 - 4)\n🏆 كأس خادم 
+ الحرمين الشريفين — دور الـ32\n🗓 الثلاثاء
+  18 أغسطس 2026 · 21:00 بتوقيت الرياض\n🏟 Al-Awwal Park
+ ، Riyadh\n⚖️ الحكم: Majed Al-Shamrani\n—————\n⚽ Al D
+ iriyah v Al Nassr FC (1 - 4)\n🏆 King's Cup — Round of 32\n🗓 Tue 18
+  Aug 2026 · 18:00 UTC\n🏟 Al-Awwal Park, Riyadh\nReferee: Majed Al-Sham
+ rani\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الدرعية ضد النصر — كأس خاد
+ م الحرمين الشريفين | Tomorrow: Al Diriyah vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الدرع
+ ية × النصر | Kick-off in 30 min: Al Diriyah vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853718@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260818T180000Z
+DTEND:20260818T200000Z
+SUMMARY:Al-Faisaly vs Neom SC (1 - 3) — King's Cup
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/5853718
+DESCRIPTION:⚽ الفيصلي × نيوم (1 - 3)\n🏆 كأس خادم ا
+ لحرمين الشريفين — دور الـ32\n🗓 الثلاثاء 1
+ 8 أغسطس 2026 · 21:00 بتوقيت الرياض\n🏟 Al Majma'ah Spo
+ rts City Stadium، Al Majma'ah\n⚖️ الحكم: Mohammed Abu Shaqarah\n
+ —————\n⚽ Al-Faisaly v Neom SC (1 - 3)\n🏆 King's Cup — Rou
+ nd of 32\n🗓 Tue 18 Aug 2026 · 18:00 UTC\n🏟 Al Majma'ah Sports City 
+ Stadium, Al Majma'ah\nReferee: Mohammed Abu Shaqarah\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد نيوم — كأس خادم 
+ الحرمين الشريفين | Tomorrow: Al-Faisaly vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × نيوم | Kick-off in 30 min: Al-Faisaly vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853728@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260819T161500Z
+DTEND:20260819T181500Z
+SUMMARY:Damac FC vs Al-Taawoun (0 - 3) — King's Cup
+LOCATION:Dhamak Club Stadium\, Khamis Mushait\, Saudi Arabia
+GEO:18.290350;42.726656
+URL:https://www.fotmob.com/match/5853728
+DESCRIPTION:⚽ ضمك × التعاون (0 - 3)\n🏆 كأس خادم ال
+ حرمين الشريفين — دور الـ32\n🗓 الأربعاء 19 
+ أغسطس 2026 · 19:15 بتوقيت الرياض\n🏟 Dhamak Club Stadi
+ um، Khamis Mushait\n⚖️ الحكم: Abdullah Al-Khurbush\n————
+ —\n⚽ Damac FC v Al-Taawoun (0 - 3)\n🏆 King's Cup — Round of 32\n
+ 🗓 Wed 19 Aug 2026 · 16:15 UTC\n🏟 Dhamak Club Stadium, Khamis Mushai
+ t\nReferee: Abdullah Al-Khurbush\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ضمك ضد التعاون — كأس خادم ا
+ لحرمين الشريفين | Tomorrow: Damac FC vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ضمك × 
+ التعاون | Kick-off in 30 min: Damac FC vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853729@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260819T163000Z
+DTEND:20260819T183000Z
+SUMMARY:Jeddah vs Al Kholood (0 - 5) — King's Cup
+LOCATION:Jeddah Club Stadium\, Jeddah\, Saudi Arabia
+GEO:21.468575;39.194074
+URL:https://www.fotmob.com/match/5853729
+DESCRIPTION:⚽ جدة × الخلود (0 - 5)\n🏆 كأس خادم الح
+ رمين الشريفين — دور الـ32\n🗓 الأربعاء 19 أ
+ غسطس 2026 · 19:30 بتوقيت الرياض\n🏟 Jeddah Club Stadium
+ ، Jeddah\n⚖️ الحكم: Khalid Al Ahmari\n—————\n⚽ Jedda
+ h v Al Kholood (0 - 5)\n🏆 King's Cup — Round of 32\n🗓 Wed 19 Aug 2
+ 026 · 16:30 UTC\n🏟 Jeddah Club Stadium, Jeddah\nReferee: Khalid Al Ahm
+ ari\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جدة ضد الخلود — كأس خادم ال
+ حرمين الشريفين | Tomorrow: Jeddah vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جدة × 
+ الخلود | Kick-off in 30 min: Jeddah vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853723@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260819T180000Z
+DTEND:20260819T200000Z
+SUMMARY:Al-Ula FC vs Al Fateh FC (3 - 0) — King's Cup
+URL:https://www.fotmob.com/match/5853723
+DESCRIPTION:⚽ العلا × الفتح (3 - 0)\n🏆 كأس خادم ال
+ حرمين الشريفين — دور الـ32\n🗓 الأربعاء 19 
+ أغسطس 2026 · 21:00 بتوقيت الرياض\n⚖️ الحكم: Ahm
+ ed Al-Rumaykhani\n—————\n⚽ Al-Ula FC v Al Fateh FC (3 - 0)\n
+ 🏆 King's Cup — Round of 32\n🗓 Wed 19 Aug 2026 · 18:00 UTC\nRefere
+ e: Ahmed Al-Rumaykhani\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: العلا ضد الفتح — كأس خادم ا
+ لحرمين الشريفين | Tomorrow: Al-Ula FC vs Al Fateh FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: العلا 
+ × الفتح | Kick-off in 30 min: Al-Ula FC vs Al Fateh FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6125927@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Al Hilal vs Al Hazem — King's Cup
+URL:https://www.fotmob.com/match/6125927
+DESCRIPTION:⚽ الهلال × الحزم\n🏆 كأس خادم الحرم
+ ين الشريفين — دور الـ16\n🗓 الثلاثاء 1 ديس
+ مبر 2026 · 20:00 بتوقيت الرياض\n—————\n⚽ Al Hi
+ lal v Al Hazem\n🏆 King's Cup — Round of 16\n🗓 Tue 01 Dec 2026 · 1
+ 7:00 UTC\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الحزم — كأس خادم 
+ الحرمين الشريفين | Tomorrow: Al Hilal vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الحزم | Kick-off in 30 min: Al Hilal vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6125928@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Al Jabalain vs Al Ittihad — King's Cup
+LOCATION:Prince Abdul Aziz bin Musa'ed Stadium\, Ha'il (Hail)\, Saudi Arabi
+ a
+GEO:27.503989;41.697600
+URL:https://www.fotmob.com/match/6125928
+DESCRIPTION:⚽ الجبلين × الاتحاد\n🏆 كأس خادم ال
+ حرمين الشريفين — دور الـ16\n🗓 الثلاثاء 1 
+ ديسمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Prince Abdul Az
+ iz bin Musa'ed Stadium، Ha'il (Hail)\n—————\n⚽ Al Jabalain v 
+ Al Ittihad\n🏆 King's Cup — Round of 16\n🗓 Tue 01 Dec 2026 · 17:00
+  UTC\n🏟 Prince Abdul Aziz bin Musa'ed Stadium, Ha'il (Hail)\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجبلين ضد الاتحاد — كأس خ
+ ادم الحرمين الشريفين | Tomorrow: Al Jabalain vs Al Ittih
+ ad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجبل
+ ين × الاتحاد | Kick-off in 30 min: Al Jabalain vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6125929@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Al Nassr FC vs Al Kholood — King's Cup
+URL:https://www.fotmob.com/match/6125929
+DESCRIPTION:⚽ النصر × الخلود\n🏆 كأس خادم الحرم
+ ين الشريفين — دور الـ16\n🗓 الثلاثاء 1 ديس
+ مبر 2026 · 20:00 بتوقيت الرياض\n—————\n⚽ Al Na
+ ssr FC v Al Kholood\n🏆 King's Cup — Round of 16\n🗓 Tue 01 Dec 2026
+  · 17:00 UTC\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الخلود — كأس خادم 
+ الحرمين الشريفين | Tomorrow: Al Nassr FC vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الخلود | Kick-off in 30 min: Al Nassr FC vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6125931@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Al Qadsiah vs Neom SC — King's Cup
+URL:https://www.fotmob.com/match/6125931
+DESCRIPTION:⚽ القادسية × نيوم\n🏆 كأس خادم الحر
+ مين الشريفين — دور الـ16\n🗓 الثلاثاء 1 دي
+ سمبر 2026 · 20:00 بتوقيت الرياض\n—————\n⚽ Al 
+ Qadsiah v Neom SC\n🏆 King's Cup — Round of 16\n🗓 Tue 01 Dec 2026 
+ · 17:00 UTC\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد نيوم — كأس خاد
+ م الحرمين الشريفين | Tomorrow: Al Qadsiah vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × نيوم | Kick-off in 30 min: Al Qadsiah vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6125932@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Al Riyadh vs Al-Fayha — King's Cup
+URL:https://www.fotmob.com/match/6125932
+DESCRIPTION:⚽ الرياض × الفيحاء\n🏆 كأس خادم الح
+ رمين الشريفين — دور الـ16\n🗓 الثلاثاء 1 د
+ يسمبر 2026 · 20:00 بتوقيت الرياض\n—————\n⚽ A
+ l Riyadh v Al-Fayha\n🏆 King's Cup — Round of 16\n🗓 Tue 01 Dec 2026
+  · 17:00 UTC\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الفيحاء — كأس خا
+ دم الحرمين الشريفين | Tomorrow: Al Riyadh vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الفيحاء | Kick-off in 30 min: Al Riyadh vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6125930@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Al-Orobah FC vs Al Akhdoud — King's Cup
+LOCATION:Al-Oruba Club Stadium\, Sakaka (Al Jawf)\, Saudi Arabia
+GEO:30.004826;40.212528
+URL:https://www.fotmob.com/match/6125930
+DESCRIPTION:⚽ العروبة × الأخدود\n🏆 كأس خادم ال
+ حرمين الشريفين — دور الـ16\n🗓 الثلاثاء 1 
+ ديسمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Al-Oruba Club S
+ tadium، Sakaka (Al Jawf)\n—————\n⚽ Al-Orobah FC v Al Akhdoud\
+ n🏆 King's Cup — Round of 16\n🗓 Tue 01 Dec 2026 · 17:00 UTC\n🏟 
+ Al-Oruba Club Stadium, Sakaka (Al Jawf)\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: العروبة ضد الأخدود — كأس خ
+ ادم الحرمين الشريفين | Tomorrow: Al-Orobah FC vs Al Akhd
+ oud
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: العرو
+ بة × الأخدود | Kick-off in 30 min: Al-Orobah FC vs Al Akhdoud
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6125933@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Al-Taawoun vs Al-Wehda — King's Cup
+URL:https://www.fotmob.com/match/6125933
+DESCRIPTION:⚽ التعاون × الوحدة\n🏆 كأس خادم الح
+ رمين الشريفين — دور الـ16\n🗓 الثلاثاء 1 د
+ يسمبر 2026 · 20:00 بتوقيت الرياض\n—————\n⚽ A
+ l-Taawoun v Al-Wehda\n🏆 King's Cup — Round of 16\n🗓 Tue 01 Dec 202
+ 6 · 17:00 UTC\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الوحدة — كأس خا
+ دم الحرمين الشريفين | Tomorrow: Al-Taawoun vs Al-Wehda
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الوحدة | Kick-off in 30 min: Al-Taawoun vs Al-Wehda
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6125934@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Al-Ula FC vs Al Ahli — King's Cup
+URL:https://www.fotmob.com/match/6125934
+DESCRIPTION:⚽ العلا × الأهلي\n🏆 كأس خادم الحرم
+ ين الشريفين — دور الـ16\n🗓 الثلاثاء 1 ديس
+ مبر 2026 · 20:00 بتوقيت الرياض\n—————\n⚽ Al-Ul
+ a FC v Al Ahli\n🏆 King's Cup — Round of 16\n🗓 Tue 01 Dec 2026 · 1
+ 7:00 UTC\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: العلا ضد الأهلي — كأس خادم 
+ الحرمين الشريفين | Tomorrow: Al-Ula FC vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: العلا 
+ × الأهلي | Kick-off in 30 min: Al-Ula FC vs Al Ahli
+END:VALARM
+END:VEVENT
+END:VCALENDAR

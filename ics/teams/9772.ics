@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Benfica — UEFA Europa League Fixtures | بنفيكا —
+  مباريات الدوري الأوروبي
+X-WR-CALDESC:Benfica — all matches in UEFA Europa League\, exact UTC kick
+ offs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T
+ 19:31:10Z.  •  بنفيكا — جميع المباريات في الد
+ وري الأوروبي بتوقيت UTC الدقيق مع الملاعب 
+ والقنوات الناقلة. المصدر: FotMob + 365scores · تح
+ ديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6112254@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T190000Z
+DTEND:20260916T210000Z
+SUMMARY:Milan vs Benfica — UEFA Europa League
+LOCATION:Stadio Giuseppe Meazza\, Milano\, Italy
+GEO:45.478084;9.123979
+URL:https://www.fotmob.com/match/6112254
+DESCRIPTION:⚽ ميلان × بنفيكا\n🏆 الدوري الأورو
+ بي — الجولة 1\n🗓 الأربعاء 16 سبتمبر 2026 · 22:
+ 00 بتوقيت الرياض\n🏟 Stadio Giuseppe Meazza، Milano\n——
+ ———\n⚽ Milan v Benfica\n🏆 UEFA Europa League — Matchday 1\n
+ 🗓 Wed 16 Sep 2026 · 19:00 UTC\n🏟 Stadio Giuseppe Meazza, Milano\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد بنفيكا — الدوري ا
+ لأوروبي | Tomorrow: Milan vs Benfica
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × بنفيكا | Kick-off in 30 min: Milan vs Benfica
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112247@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:Benfica vs Celtic — UEFA Europa League
+LOCATION:Estádio do Sport Lisboa e Benfica (da Luz)\, Lisboa\, Portugal
+GEO:38.752648;-9.184699
+URL:https://www.fotmob.com/match/6112247
+DESCRIPTION:⚽ بنفيكا × سيلتيك\n🏆 الدوري الأور
+ وبي — الجولة 2\n🗓 الخميس 15 أكتوبر 2026 · 22:00
+  بتوقيت الرياض\n🏟 Estádio do Sport Lisboa e Benfica (da Lu
+ z)، Lisboa\n—————\n⚽ Benfica v Celtic\n🏆 UEFA Europa Leagu
+ e — Matchday 2\n🗓 Thu 15 Oct 2026 · 19:00 UTC\n🏟 Estádio do Spor
+ t Lisboa e Benfica (da Luz), Lisboa\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بنفيكا ضد سيلتيك — الدوري 
+ الأوروبي | Tomorrow: Benfica vs Celtic
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بنفيك
+ ا × سيلتيك | Kick-off in 30 min: Benfica vs Celtic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112342@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Omonia Nicosia vs Benfica — UEFA Europa League
+LOCATION:Neo GSP\, Nicosía (Levkosía)\, Cyprus
+GEO:35.114542;33.362888
+URL:https://www.fotmob.com/match/6112342
+DESCRIPTION:⚽ Omonia Nicosia × بنفيكا\n🏆 الدوري الأو
+ روبي — الجولة 3\n🗓 الخميس 22 أكتوبر 2026 · 22:
+ 00 بتوقيت الرياض\n🏟 Neo GSP، Nicosía (Levkosía)\n——
+ ———\n⚽ Omonia Nicosia v Benfica\n🏆 UEFA Europa League — Match
+ day 3\n🗓 Thu 22 Oct 2026 · 19:00 UTC\n🏟 Neo GSP, Nicosía (Levkosí
+ a)\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Omonia Nicosia ضد بنفيكا — الدوري
+  الأوروبي | Tomorrow: Omonia Nicosia vs Benfica
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Omonia Nico
+ sia × بنفيكا | Kick-off in 30 min: Omonia Nicosia vs Benfica
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112248@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T200000Z
+DTEND:20261105T220000Z
+SUMMARY:Benfica vs Lech Poznań — UEFA Europa League
+LOCATION:Estadio da Luz
+URL:https://www.fotmob.com/match/6112248
+DESCRIPTION:⚽ بنفيكا × ليخ بوزنان\n🏆 الدوري ال
+ أوروبي — الجولة 4\n🗓 الخميس 5 نوفمبر 2026 · 
+ 23:00 بتوقيت الرياض\n🏟 Estadio da Luz\n—————\n⚽
+  Benfica v Lech Poznań\n🏆 UEFA Europa League — Matchday 4\n🗓 Thu 
+ 05 Nov 2026 · 20:00 UTC\n🏟 Estadio da Luz\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بنفيكا ضد ليخ بوزنان — الد
+ وري الأوروبي | Tomorrow: Benfica vs Lech Poznań
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بنفيك
+ ا × ليخ بوزنان | Kick-off in 30 min: Benfica vs Lech Poznań
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112282@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Viktoria Plzeň vs Benfica — UEFA Europa League
+LOCATION:Doosan Arena Plzen
+URL:https://www.fotmob.com/match/6112282
+DESCRIPTION:⚽ فيكتوريا بلزن × بنفيكا\n🏆 الدور
+ ي الأوروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 
+ 2026 · 20:45 بتوقيت الرياض\n🏟 Doosan Arena Plzen\n——
+ ———\n⚽ Viktoria Plzeň v Benfica\n🏆 UEFA Europa League — Matc
+ hday 5\n🗓 Thu 26 Nov 2026 · 17:45 UTC\n🏟 Doosan Arena Plzen\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيكتوريا بلزن ضد بنفيكا — 
+ الدوري الأوروبي | Tomorrow: Viktoria Plzeň vs Benfica
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيكتو
+ ريا بلزن × بنفيكا | Kick-off in 30 min: Viktoria Plzeň vs B
+ enfica
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112249@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:Benfica vs OFI Crete — UEFA Europa League
+LOCATION:Estadio da Luz
+URL:https://www.fotmob.com/match/6112249
+DESCRIPTION:⚽ بنفيكا × أوفي كريت\n🏆 الدوري الأ
+ وروبي — الجولة 6\n🗓 الخميس 10 ديسمبر 2026 · 2
+ 3:00 بتوقيت الرياض\n🏟 Estadio da Luz\n—————\n⚽ 
+ Benfica v OFI Crete\n🏆 UEFA Europa League — Matchday 6\n🗓 Thu 10 D
+ ec 2026 · 20:00 UTC\n🏟 Estadio da Luz\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بنفيكا ضد أوفي كريت — الدو
+ ري الأوروبي | Tomorrow: Benfica vs OFI Crete
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بنفيك
+ ا × أوفي كريت | Kick-off in 30 min: Benfica vs OFI Crete
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112366@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T174500Z
+DTEND:20270121T194500Z
+SUMMARY:NEC Nijmegen vs Benfica — UEFA Europa League
+LOCATION:Stadion De Goffert
+URL:https://www.fotmob.com/match/6112366
+DESCRIPTION:⚽ نيميخين × بنفيكا\n🏆 الدوري الأو
+ روبي — الجولة 7\n🗓 الخميس 21 يناير 2027 · 20:45
+  بتوقيت الرياض\n🏟 Stadion De Goffert\n—————\n⚽ 
+ NEC Nijmegen v Benfica\n🏆 UEFA Europa League — Matchday 7\n🗓 Thu 2
+ 1 Jan 2027 · 17:45 UTC\n🏟 Stadion De Goffert\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيميخين ضد بنفيكا — الدوري
+  الأوروبي | Tomorrow: NEC Nijmegen vs Benfica
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيميخ
+ ين × بنفيكا | Kick-off in 30 min: NEC Nijmegen vs Benfica
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112246@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Benfica vs AZ Alkmaar — UEFA Europa League
+LOCATION:Estadio da Luz
+URL:https://www.fotmob.com/match/6112246
+DESCRIPTION:⚽ بنفيكا × ألكمار\n🏆 الدوري الأور
+ وبي — الجولة 8\n🗓 الخميس 28 يناير 2027 · 23:00 
+ بتوقيت الرياض\n🏟 Estadio da Luz\n—————\n⚽ Benfi
+ ca v AZ Alkmaar\n🏆 UEFA Europa League — Matchday 8\n🗓 Thu 28 Jan 2
+ 027 · 20:00 UTC\n🏟 Estadio da Luz\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بنفيكا ضد ألكمار — الدوري 
+ الأوروبي | Tomorrow: Benfica vs AZ Alkmaar
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بنفيك
+ ا × ألكمار | Kick-off in 30 min: Benfica vs AZ Alkmaar
+END:VALARM
+END:VEVENT
+END:VCALENDAR

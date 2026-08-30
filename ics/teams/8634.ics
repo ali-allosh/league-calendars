@@ -1,0 +1,1624 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Barcelona — LaLiga & UEFA Champions League & Copa del Re
+ y Fixtures | برشلونة — مباريات الدوري الإسبان
+ ي ودوري أبطال أوروبا وكأس ملك إسبانيا
+X-WR-CALDESC:Barcelona — all matches in LaLiga & UEFA Champions League & 
+ Copa del Rey\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365score
+ s · auto-updated 2026-09-05T19:31:10Z.  •  برشلونة — جميع 
+ المباريات في الدوري الإسباني ودوري أبطا
+ ل أوروبا وكأس ملك إسبانيا بتوقيت UTC الدقي
+ ق مع الملاعب والقنوات الناقلة. المصدر: FotM
+ ob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5868024@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260823T193000Z
+DTEND:20260823T213000Z
+SUMMARY:Elche vs Barcelona (0 - 5) — LaLiga
+LOCATION:Estadio Manuel Martínez Valero\, Elche\, Spain
+GEO:38.267129;-0.663300
+URL:https://www.fotmob.com/match/5868024
+DESCRIPTION:⚽ إلتشي × برشلونة (0 - 5)\n🏆 الدوري ا
+ لإسباني — الجولة 2\n🗓 الأحد 23 أغسطس 2026 · 2
+ 2:30 بتوقيت الرياض\n🏟 Estadio Manuel Martínez Valero، Elc
+ he\n⚖️ الحكم: Alejandro Quintero González\n👥 الحضور: 30
+ ,704\n—————\n⚽ Elche v Barcelona (0 - 5)\n🏆 LaLiga — Matc
+ hday 2\n🗓 Sun 23 Aug 2026 · 19:30 UTC\n🏟 Estadio Manuel Martínez V
+ alero, Elche\nReferee: Alejandro Quintero González\nAttendance: 30,704\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلتشي ضد برشلونة — الدوري 
+ الإسباني | Tomorrow: Elche vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلتشي 
+ × برشلونة | Kick-off in 30 min: Elche vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868016@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260827T190000Z
+DTEND:20260827T210000Z
+SUMMARY:Barcelona vs Athletic Club (2 - 0) — LaLiga
+LOCATION:Spotify Camp Nou\, Barcelona\, Spain
+GEO:41.380890;2.122813
+URL:https://www.fotmob.com/match/5868016
+DESCRIPTION:⚽ برشلونة × أتلتيك بلباو (2 - 0)\n🏆 ا
+ لدوري الإسباني — الجولة 1\n🗓 الخميس 27 أغ
+ سطس 2026 · 22:00 بتوقيت الرياض\n🏟 Spotify Camp Nou، Ba
+ rcelona\n⚖️ الحكم: Miguel Ángel Ortiz Arias\n👥 الحضور: 
+ 59,326\n—————\n⚽ Barcelona v Athletic Club (2 - 0)\n🏆 LaLig
+ a — Matchday 1\n🗓 Thu 27 Aug 2026 · 19:00 UTC\n🏟 Spotify Camp Nou
+ , Barcelona\nReferee: Miguel Ángel Ortiz Arias\nAttendance: 59,326\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد أتلتيك بلباو — 
+ الدوري الإسباني | Tomorrow: Barcelona vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × أتلتيك بلباو | Kick-off in 30 min: Barcelona vs Athleti
+ c Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868034@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260831T193000Z
+DTEND:20260831T213000Z
+SUMMARY:Barcelona vs Rayo Vallecano (5 - 2) — LaLiga
+LOCATION:Spotify Camp Nou\, Barcelona\, Spain
+GEO:41.380890;2.122813
+URL:https://www.fotmob.com/match/5868034
+DESCRIPTION:⚽ برشلونة × رايو فاييكانو (5 - 2)\n🏆 
+ الدوري الإسباني — الجولة 3\n🗓 الاثنين 31 
+ أغسطس 2026 · 22:30 بتوقيت الرياض\n🏟 Spotify Camp Nou
+ ، Barcelona\n⚖️ الحكم: Francisco José Hernández Maeso\n👥 ا
+ لحضور: 57,768\n—————\n⚽ Barcelona v Rayo Vallecano (5 - 2
+ )\n🏆 LaLiga — Matchday 3\n🗓 Mon 31 Aug 2026 · 19:30 UTC\n🏟 Spo
+ tify Camp Nou, Barcelona\nReferee: Francisco José Hernández Maeso\nAtten
+ dance: 57,768\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد رايو فاييكانو —
+  الدوري الإسباني | Tomorrow: Barcelona vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × رايو فاييكانو | Kick-off in 30 min: Barcelona vs Rayo 
+ Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868049@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260906T141500Z
+DTEND:20260906T161500Z
+SUMMARY:Valencia vs Barcelona — LaLiga
+LOCATION:Estadio de Mestalla\, Valencia\, Spain
+GEO:39.474602;-0.358257
+URL:https://www.fotmob.com/match/5868049
+DESCRIPTION:⚽ فالنسيا × برشلونة\n🏆 الدوري الإ
+ سباني — الجولة 4\n🗓 الأحد 6 سبتمبر 2026 · 17:1
+ 5 بتوقيت الرياض\n🏟 Estadio de Mestalla، Valencia\n📺 Bei
+ n Sports HD2\n—————\n⚽ Valencia v Barcelona\n🏆 LaLiga — M
+ atchday 4\n🗓 Sun 06 Sep 2026 · 14:15 UTC\n🏟 Estadio de Mestalla, Va
+ lencia\n📺 beIN Sport 2 HD\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد برشلونة — الدور
+ ي الإسباني — 📺 Bein Sports HD2 | Tomorrow: Valencia vs Barce
+ lona | TV: beIN Sport 2 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × برشلونة — 📺 Bein Sports HD2 | Kick-off in 30 min: Vale
+ ncia vs Barcelona | TV: beIN Sport 2 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868054@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260913T141500Z
+DTEND:20260913T161500Z
+SUMMARY:Levante vs Barcelona — LaLiga
+LOCATION:Estadio Ciudad de Valencia
+URL:https://www.fotmob.com/match/5868054
+DESCRIPTION:⚽ ليفانتي × برشلونة\n🏆 الدوري الإ
+ سباني — الجولة 5\n🗓 الأحد 13 سبتمبر 2026 · 17:
+ 15 بتوقيت الرياض\n🏟 Estadio Ciudad de Valencia\n📺 beIN S
+ PORTS CONNECT، beIN Sports Connect Singapore، FanCode، Now Player\n—
+ ————\n⚽ Levante v Barcelona\n🏆 LaLiga — Matchday 5\n🗓 Su
+ n 13 Sep 2026 · 14:15 UTC\n🏟 Estadio Ciudad de Valencia\n📺 beIN SPO
+ RTS CONNECT, beIN Sports Connect Singapore, FanCode, Now Player\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفانتي ضد برشلونة — الدور
+ ي الإسباني — 📺 beIN SPORTS CONNECT، beIN Sports Connect Sin
+ gapore، FanCode، Now Player | Tomorrow: Levante vs Barcelona | TV: beIN 
+ SPORTS CONNECT\, beIN Sports Connect Singapore\, FanCode\, Now Player
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفان
+ تي × برشلونة — 📺 beIN SPORTS CONNECT، beIN Sports Connect 
+ Singapore، FanCode، Now Player | Kick-off in 30 min: Levante vs Barcelon
+ a | TV: beIN SPORTS CONNECT\, beIN Sports Connect Singapore\, FanCode\, No
+ w Player
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868066@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T193000Z
+DTEND:20260916T213000Z
+SUMMARY:Barcelona vs Racing Santander — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868066
+DESCRIPTION:⚽ برشلونة × راسينج سانتاندير\n🏆 ا
+ لدوري الإسباني — الجولة 6\n🗓 الأربعاء 16 
+ سبتمبر 2026 · 22:30 بتوقيت الرياض\n🏟 Spotify Camp No
+ u\n—————\n⚽ Barcelona v Racing Santander\n🏆 LaLiga — Matc
+ hday 6\n🗓 Wed 16 Sep 2026 · 19:30 UTC\n🏟 Spotify Camp Nou\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد راسينج سانتاندي
+ ر — الدوري الإسباني | Tomorrow: Barcelona vs Racing Santa
+ nder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × راسينج سانتاندير | Kick-off in 30 min: Barcelona vs
+  Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868078@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T190000Z
+DTEND:20260919T210000Z
+SUMMARY:Sevilla vs Barcelona — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868078
+DESCRIPTION:⚽ إشبيلية × برشلونة\n🏆 الدوري الإ
+ سباني — الجولة 7\n🗓 السبت 19 سبتمبر 2026 · 22:
+ 00 بتوقيت الرياض\n🏟 Estadio R. Sanchez Pizjuan\n———
+ ——\n⚽ Sevilla v Barcelona\n🏆 LaLiga — Matchday 7\n🗓 Sat 19 S
+ ep 2026 · 19:00 UTC\n🏟 Estadio R. Sanchez Pizjuan\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد برشلونة — الدور
+ ي الإسباني | Tomorrow: Sevilla vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × برشلونة | Kick-off in 30 min: Sevilla vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868084@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Barcelona vs Getafe — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868084
+DESCRIPTION:⚽ برشلونة × خيتافي\n🏆 الدوري الإس
+ باني — الجولة 8\n🗓 الأحد 11 أكتوبر 2026 · 16:00
+  بتوقيت الرياض\n🏟 Spotify Camp Nou\n—————\n⚽ Ba
+ rcelona v Getafe\n🏆 LaLiga — Matchday 8\n🗓 Sun 11 Oct 2026 · 13:0
+ 0 UTC\n🏟 Spotify Camp Nou\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد خيتافي — الدوري
+  الإسباني | Tomorrow: Barcelona vs Getafe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × خيتافي | Kick-off in 30 min: Barcelona vs Getafe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868091@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Real Betis vs Barcelona — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868091
+DESCRIPTION:⚽ ريال بيتيس × برشلونة\n🏆 الدوري ا
+ لإسباني — الجولة 9\n🗓 الأحد 18 أكتوبر 2026 ·
+  16:00 بتوقيت الرياض\n🏟 Estadio de La Cartuja\n————
+ —\n⚽ Real Betis v Barcelona\n🏆 LaLiga — Matchday 9\n🗓 Sun 18 O
+ ct 2026 · 13:00 UTC\n🏟 Estadio de La Cartuja\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد برشلونة — ال
+ دوري الإسباني | Tomorrow: Real Betis vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × برشلونة | Kick-off in 30 min: Real Betis vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868105@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Barcelona vs Real Madrid — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868105
+DESCRIPTION:⚽ برشلونة × ريال مدريد\n🏆 الدوري ا
+ لإسباني — الجولة 10\n🗓 الأحد 25 أكتوبر 2026 
+ · 17:00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n—————
+ \n⚽ Barcelona v Real Madrid\n🏆 LaLiga — Matchday 10\n🗓 Sun 25 Oc
+ t 2026 · 14:00 UTC\n🏟 Spotify Camp Nou\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد ريال مدريد — ال
+ دوري الإسباني | Tomorrow: Barcelona vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × ريال مدريد | Kick-off in 30 min: Barcelona vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868115@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Barcelona vs Deportivo Alavés — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868115
+DESCRIPTION:⚽ برشلونة × ديبورتيفو ألافيس\n🏆 ا
+ لدوري الإسباني — الجولة 11\n🗓 الأحد 1 نوف
+ مبر 2026 · 17:00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n—
+ ————\n⚽ Barcelona v Deportivo Alavés\n🏆 LaLiga — Matchday 
+ 11\n🗓 Sun 01 Nov 2026 · 14:00 UTC\n🏟 Spotify Camp Nou\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد ديبورتيفو ألافي
+ س — الدوري الإسباني | Tomorrow: Barcelona vs Deportivo Al
+ avés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × ديبورتيفو ألافيس | Kick-off in 30 min: Barcelona vs
+  Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868121@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Atlético Madrid vs Barcelona — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868121
+DESCRIPTION:⚽ أتلتيكو مدريد × برشلونة\n🏆 الدو
+ ري الإسباني — الجولة 12\n🗓 الأحد 8 نوفمبر 
+ 2026 · 17:00 بتوقيت الرياض\n🏟 Riyadh Air Metropolitano\n
+ —————\n⚽ Atlético Madrid v Barcelona\n🏆 LaLiga — Matchda
+ y 12\n🗓 Sun 08 Nov 2026 · 14:00 UTC\n🏟 Riyadh Air Metropolitano\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد برشلونة —
+  الدوري الإسباني | Tomorrow: Atlético Madrid vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × برشلونة | Kick-off in 30 min: Atlético Madrid v
+ s Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868133@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Barcelona vs Villarreal — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868133
+DESCRIPTION:⚽ برشلونة × فياريال\n🏆 الدوري الإ
+ سباني — الجولة 13\n🗓 الأحد 22 نوفمبر 2026 · 17
+ :00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n—————\n⚽
+  Barcelona v Villarreal\n🏆 LaLiga — Matchday 13\n🗓 Sun 22 Nov 2026
+  · 14:00 UTC\n🏟 Spotify Camp Nou\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد فياريال — الدور
+ ي الإسباني | Tomorrow: Barcelona vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × فياريال | Kick-off in 30 min: Barcelona vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868143@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T140000Z
+DTEND:20261129T160000Z
+SUMMARY:Deportivo A Coruña vs Barcelona — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868143
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × برشلونة\n
+ 🏆 الدوري الإسباني — الجولة 14\n🗓 الأحد 29
+  نوفمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Abanca-Riazor\
+ n—————\n⚽ Deportivo A Coruña v Barcelona\n🏆 LaLiga — Mat
+ chday 14\n🗓 Sun 29 Nov 2026 · 14:00 UTC\n🏟 Abanca-Riazor\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد برش
+ لونة — الدوري الإسباني | Tomorrow: Deportivo A Coruña
+  vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × برشلونة | Kick-off in 30 min: Deport
+ ivo A Coruña vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868154@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T140000Z
+DTEND:20261206T160000Z
+SUMMARY:Barcelona vs Celta Vigo — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868154
+DESCRIPTION:⚽ برشلونة × سيلتا فيجو\n🏆 الدوري ا
+ لإسباني — الجولة 15\n🗓 الأحد 6 ديسمبر 2026 ·
+  17:00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n—————\n
+ ⚽ Barcelona v Celta Vigo\n🏆 LaLiga — Matchday 15\n🗓 Sun 06 Dec 2
+ 026 · 14:00 UTC\n🏟 Spotify Camp Nou\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد سيلتا فيجو — ال
+ دوري الإسباني | Tomorrow: Barcelona vs Celta Vigo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × سيلتا فيجو | Kick-off in 30 min: Barcelona vs Celta Vigo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868167@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T140000Z
+DTEND:20261213T160000Z
+SUMMARY:Málaga vs Barcelona — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868167
+DESCRIPTION:⚽ مالقا × برشلونة\n🏆 الدوري الإسب
+ اني — الجولة 16\n🗓 الأحد 13 ديسمبر 2026 · 17:00 
+ بتوقيت الرياض\n🏟 Estadio La Rosaleda\n—————\n⚽ 
+ Málaga v Barcelona\n🏆 LaLiga — Matchday 16\n🗓 Sun 13 Dec 2026 · 
+ 14:00 UTC\n🏟 Estadio La Rosaleda\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد برشلونة — الدوري 
+ الإسباني | Tomorrow: Málaga vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × برشلونة | Kick-off in 30 min: Málaga vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868175@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T140000Z
+DTEND:20261220T160000Z
+SUMMARY:Barcelona vs Real Sociedad — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868175
+DESCRIPTION:⚽ برشلونة × ريال سوسيداد\n🏆 الدور
+ ي الإسباني — الجولة 17\n🗓 الأحد 20 ديسمبر 2
+ 026 · 17:00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n———
+ ——\n⚽ Barcelona v Real Sociedad\n🏆 LaLiga — Matchday 17\n🗓 S
+ un 20 Dec 2026 · 14:00 UTC\n🏟 Spotify Camp Nou\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد ريال سوسيداد — 
+ الدوري الإسباني | Tomorrow: Barcelona vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × ريال سوسيداد | Kick-off in 30 min: Barcelona vs Real So
+ ciedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868183@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T140000Z
+DTEND:20270103T160000Z
+SUMMARY:Espanyol vs Barcelona — LaLiga
+LOCATION:RCDE Stadium
+URL:https://www.fotmob.com/match/5868183
+DESCRIPTION:⚽ إسبانيول × برشلونة\n🏆 الدوري ال
+ إسباني — الجولة 18\n🗓 الأحد 3 يناير 2027 · 17:
+ 00 بتوقيت الرياض\n🏟 RCDE Stadium\n—————\n⚽ Espa
+ nyol v Barcelona\n🏆 LaLiga — Matchday 18\n🗓 Sun 03 Jan 2027 · 14:
+ 00 UTC\n🏟 RCDE Stadium\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إسبانيول ضد برشلونة — الدو
+ ري الإسباني | Tomorrow: Espanyol vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إسبان
+ يول × برشلونة | Kick-off in 30 min: Espanyol vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868197@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T140000Z
+DTEND:20270110T160000Z
+SUMMARY:Osasuna vs Barcelona — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868197
+DESCRIPTION:⚽ أوساسونا × برشلونة\n🏆 الدوري ال
+ إسباني — الجولة 19\n🗓 الأحد 10 يناير 2027 · 17
+ :00 بتوقيت الرياض\n🏟 Estadio El Sadar\n—————\n⚽
+  Osasuna v Barcelona\n🏆 LaLiga — Matchday 19\n🗓 Sun 10 Jan 2027 ·
+  14:00 UTC\n🏟 Estadio El Sadar\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد برشلونة — الدو
+ ري الإسباني | Tomorrow: Osasuna vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × برشلونة | Kick-off in 30 min: Osasuna vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868204@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T140000Z
+DTEND:20270117T160000Z
+SUMMARY:Barcelona vs Elche — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868204
+DESCRIPTION:⚽ برشلونة × إلتشي\n🏆 الدوري الإسب
+ اني — الجولة 20\n🗓 الأحد 17 يناير 2027 · 17:00 ب
+ توقيت الرياض\n🏟 Spotify Camp Nou\n—————\n⚽ Barce
+ lona v Elche\n🏆 LaLiga — Matchday 20\n🗓 Sun 17 Jan 2027 · 14:00 U
+ TC\n🏟 Spotify Camp Nou\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد إلتشي — الدوري 
+ الإسباني | Tomorrow: Barcelona vs Elche
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × إلتشي | Kick-off in 30 min: Barcelona vs Elche
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868211@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T140000Z
+DTEND:20270124T160000Z
+SUMMARY:Deportivo Alavés vs Barcelona — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868211
+DESCRIPTION:⚽ ديبورتيفو ألافيس × برشلونة\n🏆 ا
+ لدوري الإسباني — الجولة 21\n🗓 الأحد 24 ينا
+ ير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio Mendizorroza\n
+ —————\n⚽ Deportivo Alavés v Barcelona\n🏆 LaLiga — Matchd
+ ay 21\n🗓 Sun 24 Jan 2027 · 14:00 UTC\n🏟 Estadio Mendizorroza\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد برشلون
+ ة — الدوري الإسباني | Tomorrow: Deportivo Alavés vs Barc
+ elona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × برشلونة | Kick-off in 30 min: Deportivo Al
+ avés vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868224@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Barcelona vs Valencia — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868224
+DESCRIPTION:⚽ برشلونة × فالنسيا\n🏆 الدوري الإ
+ سباني — الجولة 22\n🗓 الأحد 31 يناير 2027 · 17:0
+ 0 بتوقيت الرياض\n🏟 Spotify Camp Nou\n—————\n⚽ B
+ arcelona v Valencia\n🏆 LaLiga — Matchday 22\n🗓 Sun 31 Jan 2027 · 
+ 14:00 UTC\n🏟 Spotify Camp Nou\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد فالنسيا — الدور
+ ي الإسباني | Tomorrow: Barcelona vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × فالنسيا | Kick-off in 30 min: Barcelona vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868237@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:Barcelona vs Atlético Madrid — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868237
+DESCRIPTION:⚽ برشلونة × أتلتيكو مدريد\n🏆 الدو
+ ري الإسباني — الجولة 23\n🗓 الأحد 7 فبراير 
+ 2027 · 17:00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n———
+ ——\n⚽ Barcelona v Atlético Madrid\n🏆 LaLiga — Matchday 23\n
+ 🗓 Sun 07 Feb 2027 · 14:00 UTC\n🏟 Spotify Camp Nou\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد أتلتيكو مدريد —
+  الدوري الإسباني | Tomorrow: Barcelona vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × أتلتيكو مدريد | Kick-off in 30 min: Barcelona vs Atlé
+ tico Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868250@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T140000Z
+DTEND:20270214T160000Z
+SUMMARY:Villarreal vs Barcelona — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868250
+DESCRIPTION:⚽ فياريال × برشلونة\n🏆 الدوري الإ
+ سباني — الجولة 24\n🗓 الأحد 14 فبراير 2027 · 17
+ :00 بتوقيت الرياض\n🏟 Estadio de la Ceramica\n————
+ —\n⚽ Villarreal v Barcelona\n🏆 LaLiga — Matchday 24\n🗓 Sun 14 
+ Feb 2027 · 14:00 UTC\n🏟 Estadio de la Ceramica\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد برشلونة — الدور
+ ي الإسباني | Tomorrow: Villarreal vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × برشلونة | Kick-off in 30 min: Villarreal vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868256@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T140000Z
+DTEND:20270221T160000Z
+SUMMARY:Barcelona vs Levante — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868256
+DESCRIPTION:⚽ برشلونة × ليفانتي\n🏆 الدوري الإ
+ سباني — الجولة 25\n🗓 الأحد 21 فبراير 2027 · 17
+ :00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n—————\n⚽
+  Barcelona v Levante\n🏆 LaLiga — Matchday 25\n🗓 Sun 21 Feb 2027 ·
+  14:00 UTC\n🏟 Spotify Camp Nou\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد ليفانتي — الدور
+ ي الإسباني | Tomorrow: Barcelona vs Levante
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × ليفانتي | Kick-off in 30 min: Barcelona vs Levante
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868261@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T140000Z
+DTEND:20270228T160000Z
+SUMMARY:Athletic Club vs Barcelona — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868261
+DESCRIPTION:⚽ أتلتيك بلباو × برشلونة\n🏆 الدور
+ ي الإسباني — الجولة 26\n🗓 الأحد 28 فبراير 2
+ 027 · 17:00 بتوقيت الرياض\n🏟 San Mames\n—————\n
+ ⚽ Athletic Club v Barcelona\n🏆 LaLiga — Matchday 26\n🗓 Sun 28 Fe
+ b 2027 · 14:00 UTC\n🏟 San Mames\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد برشلونة — 
+ الدوري الإسباني | Tomorrow: Athletic Club vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × برشلونة | Kick-off in 30 min: Athletic Club vs Bar
+ celona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868276@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T140000Z
+DTEND:20270307T160000Z
+SUMMARY:Barcelona vs Real Betis — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868276
+DESCRIPTION:⚽ برشلونة × ريال بيتيس\n🏆 الدوري ا
+ لإسباني — الجولة 27\n🗓 الأحد 7 مارس 2027 · 17:
+ 00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n—————\n⚽ 
+ Barcelona v Real Betis\n🏆 LaLiga — Matchday 27\n🗓 Sun 07 Mar 2027 
+ · 14:00 UTC\n🏟 Spotify Camp Nou\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد ريال بيتيس — ال
+ دوري الإسباني | Tomorrow: Barcelona vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × ريال بيتيس | Kick-off in 30 min: Barcelona vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868285@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T140000Z
+DTEND:20270314T160000Z
+SUMMARY:Barcelona vs Deportivo A Coruña — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868285
+DESCRIPTION:⚽ برشلونة × ديبورتيفو لاكورونيا\n
+ 🏆 الدوري الإسباني — الجولة 28\n🗓 الأحد 14
+  مارس 2027 · 17:00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n
+ —————\n⚽ Barcelona v Deportivo A Coruña\n🏆 LaLiga — Matc
+ hday 28\n🗓 Sun 14 Mar 2027 · 14:00 UTC\n🏟 Spotify Camp Nou\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد ديبورتيفو لاكور
+ ونيا — الدوري الإسباني | Tomorrow: Barcelona vs Deport
+ ivo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × ديبورتيفو لاكورونيا | Kick-off in 30 min: Barcel
+ ona vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868296@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T140000Z
+DTEND:20270321T160000Z
+SUMMARY:Rayo Vallecano vs Barcelona — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868296
+DESCRIPTION:⚽ رايو فاييكانو × برشلونة\n🏆 الدو
+ ري الإسباني — الجولة 29\n🗓 الأحد 21 مارس 202
+ 7 · 17:00 بتوقيت الرياض\n🏟 Campo de Futbol de Vallecas\n
+ —————\n⚽ Rayo Vallecano v Barcelona\n🏆 LaLiga — Matchday 
+ 29\n🗓 Sun 21 Mar 2027 · 14:00 UTC\n🏟 Campo de Futbol de Vallecas\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد برشلونة —
+  الدوري الإسباني | Tomorrow: Rayo Vallecano vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × برشلونة | Kick-off in 30 min: Rayo Vallecano vs B
+ arcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868305@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T130000Z
+DTEND:20270404T150000Z
+SUMMARY:Barcelona vs Sevilla — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868305
+DESCRIPTION:⚽ برشلونة × إشبيلية\n🏆 الدوري الإ
+ سباني — الجولة 30\n🗓 الأحد 4 أبريل 2027 · 16:00
+  بتوقيت الرياض\n🏟 Spotify Camp Nou\n—————\n⚽ Ba
+ rcelona v Sevilla\n🏆 LaLiga — Matchday 30\n🗓 Sun 04 Apr 2027 · 13
+ :00 UTC\n🏟 Spotify Camp Nou\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد إشبيلية — الدور
+ ي الإسباني | Tomorrow: Barcelona vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × إشبيلية | Kick-off in 30 min: Barcelona vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868316@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T130000Z
+DTEND:20270411T150000Z
+SUMMARY:Racing Santander vs Barcelona — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868316
+DESCRIPTION:⚽ راسينج سانتاندير × برشلونة\n🏆 ا
+ لدوري الإسباني — الجولة 31\n🗓 الأحد 11 أبر
+ يل 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio El Sardinero\n
+ —————\n⚽ Racing Santander v Barcelona\n🏆 LaLiga — Matchda
+ y 31\n🗓 Sun 11 Apr 2027 · 13:00 UTC\n🏟 Estadio El Sardinero\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد برشلون
+ ة — الدوري الإسباني | Tomorrow: Racing Santander vs Barce
+ lona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × برشلونة | Kick-off in 30 min: Racing Santa
+ nder vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868326@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T130000Z
+DTEND:20270418T150000Z
+SUMMARY:Barcelona vs Espanyol — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868326
+DESCRIPTION:⚽ برشلونة × إسبانيول\n🏆 الدوري ال
+ إسباني — الجولة 32\n🗓 الأحد 18 أبريل 2027 · 16
+ :00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n—————\n⚽
+  Barcelona v Espanyol\n🏆 LaLiga — Matchday 32\n🗓 Sun 18 Apr 2027 
+ · 13:00 UTC\n🏟 Spotify Camp Nou\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد إسبانيول — الدو
+ ري الإسباني | Tomorrow: Barcelona vs Espanyol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × إسبانيول | Kick-off in 30 min: Barcelona vs Espanyol
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868332@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270421T130000Z
+DTEND:20270421T150000Z
+SUMMARY:Celta Vigo vs Barcelona — LaLiga
+LOCATION:Abanca Balaidos
+URL:https://www.fotmob.com/match/5868332
+DESCRIPTION:⚽ سيلتا فيجو × برشلونة\n🏆 الدوري ا
+ لإسباني — الجولة 33\n🗓 الأربعاء 21 أبريل 20
+ 27 · 16:00 بتوقيت الرياض\n🏟 Abanca Balaidos\n————
+ —\n⚽ Celta Vigo v Barcelona\n🏆 LaLiga — Matchday 33\n🗓 Wed 21 
+ Apr 2027 · 13:00 UTC\n🏟 Abanca Balaidos\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتا فيجو ضد برشلونة — ال
+ دوري الإسباني | Tomorrow: Celta Vigo vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتا 
+ فيجو × برشلونة | Kick-off in 30 min: Celta Vigo vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868346@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T130000Z
+DTEND:20270502T150000Z
+SUMMARY:Barcelona vs Osasuna — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868346
+DESCRIPTION:⚽ برشلونة × أوساسونا\n🏆 الدوري ال
+ إسباني — الجولة 34\n🗓 الأحد 2 مايو 2027 · 16:00
+  بتوقيت الرياض\n🏟 Spotify Camp Nou\n—————\n⚽ Ba
+ rcelona v Osasuna\n🏆 LaLiga — Matchday 34\n🗓 Sun 02 May 2027 · 13
+ :00 UTC\n🏟 Spotify Camp Nou\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد أوساسونا — الدو
+ ري الإسباني | Tomorrow: Barcelona vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × أوساسونا | Kick-off in 30 min: Barcelona vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868358@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T130000Z
+DTEND:20270509T150000Z
+SUMMARY:Real Madrid vs Barcelona — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868358
+DESCRIPTION:⚽ ريال مدريد × برشلونة\n🏆 الدوري ا
+ لإسباني — الجولة 35\n🗓 الأحد 9 مايو 2027 · 16:
+ 00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n—————\n⚽ 
+ Real Madrid v Barcelona\n🏆 LaLiga — Matchday 35\n🗓 Sun 09 May 2027
+  · 13:00 UTC\n🏟 Estadio Bernabeu\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد برشلونة — ال
+ دوري الإسباني | Tomorrow: Real Madrid vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × برشلونة | Kick-off in 30 min: Real Madrid vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868369@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T130000Z
+DTEND:20270516T150000Z
+SUMMARY:Real Sociedad vs Barcelona — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868369
+DESCRIPTION:⚽ ريال سوسيداد × برشلونة\n🏆 الدور
+ ي الإسباني — الجولة 36\n🗓 الأحد 16 مايو 2027 
+ · 16:00 بتوقيت الرياض\n🏟 Reale Arena\n—————\n⚽
+  Real Sociedad v Barcelona\n🏆 LaLiga — Matchday 36\n🗓 Sun 16 May 2
+ 027 · 13:00 UTC\n🏟 Reale Arena\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد برشلونة — 
+ الدوري الإسباني | Tomorrow: Real Sociedad vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × برشلونة | Kick-off in 30 min: Real Sociedad vs Barc
+ elona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868375@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T130000Z
+DTEND:20270523T150000Z
+SUMMARY:Barcelona vs Málaga — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868375
+DESCRIPTION:⚽ برشلونة × مالقا\n🏆 الدوري الإسب
+ اني — الجولة 37\n🗓 الأحد 23 مايو 2027 · 16:00 بت
+ وقيت الرياض\n🏟 Spotify Camp Nou\n—————\n⚽ Barcelo
+ na v Málaga\n🏆 LaLiga — Matchday 37\n🗓 Sun 23 May 2027 · 13:00 U
+ TC\n🏟 Spotify Camp Nou\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد مالقا — الدوري 
+ الإسباني | Tomorrow: Barcelona vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × مالقا | Kick-off in 30 min: Barcelona vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868385@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T130000Z
+DTEND:20270530T150000Z
+SUMMARY:Getafe vs Barcelona — LaLiga
+LOCATION:Coliseum
+URL:https://www.fotmob.com/match/5868385
+DESCRIPTION:⚽ خيتافي × برشلونة\n🏆 الدوري الإس
+ باني — الجولة 38\n🗓 الأحد 30 مايو 2027 · 16:00 ب
+ توقيت الرياض\n🏟 Coliseum\n—————\n⚽ Getafe v Barc
+ elona\n🏆 LaLiga — Matchday 38\n🗓 Sun 30 May 2027 · 13:00 UTC\n
+ 🏟 Coliseum\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: خيتافي ضد برشلونة — الدوري
+  الإسباني | Tomorrow: Getafe vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: خيتاف
+ ي × برشلونة | Kick-off in 30 min: Getafe vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106264@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260909T164500Z
+DTEND:20260909T184500Z
+SUMMARY:Barcelona vs Feyenoord — UEFA Champions League
+LOCATION:Spotify Camp Nou\, Barcelona\, Spain
+GEO:41.380890;2.122813
+URL:https://www.fotmob.com/match/6106264
+DESCRIPTION:⚽ برشلونة × فاينورد\n🏆 دوري أبطال 
+ أوروبا — الجولة 1\n🗓 الأربعاء 9 سبتمبر 2026
+  · 19:45 بتوقيت الرياض\n🏟 Spotify Camp Nou، Barcelona\n
+ 📺 HBO Max (UK)، Paramount+ (US)\n—————\n⚽ Barcelona v Feye
+ noord\n🏆 UEFA Champions League — Matchday 1\n🗓 Wed 09 Sep 2026 · 
+ 16:45 UTC\n🏟 Spotify Camp Nou, Barcelona\n📺 HBO Max (UK), Paramount+
+  (US)\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد فاينورد — دوري 
+ أبطال أوروبا — 📺 HBO Max (UK)، Paramount+ (US) | Tomorrow
+ : Barcelona vs Feyenoord | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × فاينورد — 📺 HBO Max (UK)، Paramount+ (US) | Kick-off 
+ in 30 min: Barcelona vs Feyenoord | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106338@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Galatasaray vs Barcelona — UEFA Champions League
+LOCATION:RAMS Park\, İstanbul\, Türkiye
+GEO:41.103391;28.991064
+URL:https://www.fotmob.com/match/6106338
+DESCRIPTION:⚽ غلطة سراي × برشلونة\n🏆 دوري أبطا
+ ل أوروبا — الجولة 2\n🗓 الثلاثاء 13 أكتوبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 RAMS Park، İstanbul\n—
+ ————\n⚽ Galatasaray v Barcelona\n🏆 UEFA Champions League — 
+ Matchday 2\n🗓 Tue 13 Oct 2026 · 19:00 UTC\n🏟 RAMS Park, İstanbul\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غلطة سراي ضد برشلونة — دور
+ ي أبطال أوروبا | Tomorrow: Galatasaray vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غلطة س
+ راي × برشلونة | Kick-off in 30 min: Galatasaray vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106234@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:Paris Saint-Germain vs Barcelona — UEFA Champions League
+LOCATION:Parc des Princes\, Paris\, France
+GEO:48.841433;2.253049
+URL:https://www.fotmob.com/match/6106234
+DESCRIPTION:⚽ باريس سان جيرمان × برشلونة\n🏆 دو
+ ري أبطال أوروبا — الجولة 3\n🗓 الثلاثاء 20 
+ أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Parc des Prince
+ s، Paris\n—————\n⚽ Paris Saint-Germain v Barcelona\n🏆 UEFA
+  Champions League — Matchday 3\n🗓 Tue 20 Oct 2026 · 19:00 UTC\n🏟 
+ Parc des Princes, Paris\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد برشلون
+ ة — دوري أبطال أوروبا | Tomorrow: Paris Saint-Germain vs
+  Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × برشلونة | Kick-off in 30 min: Paris Saint-Ge
+ rmain vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106263@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+SUMMARY:Barcelona vs Aston Villa — UEFA Champions League
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/6106263
+DESCRIPTION:⚽ برشلونة × أستون فيلا\n🏆 دوري أبط
+ ال أوروبا — الجولة 4\n🗓 الثلاثاء 3 نوفمبر
+  2026 · 23:00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n———
+ ——\n⚽ Barcelona v Aston Villa\n🏆 UEFA Champions League — Matchd
+ ay 4\n🗓 Tue 03 Nov 2026 · 20:00 UTC\n🏟 Spotify Camp Nou\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد أستون فيلا — دو
+ ري أبطال أوروبا | Tomorrow: Barcelona vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × أستون فيلا | Kick-off in 30 min: Barcelona vs Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106421@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261125T174500Z
+DTEND:20261125T194500Z
+SUMMARY:Sabah FK vs Barcelona — UEFA Champions League
+LOCATION:Bank Respublika Arena\, Masazyr (Masazir)\, Azerbaijan
+GEO:40.486179;49.766298
+URL:https://www.fotmob.com/match/6106421
+DESCRIPTION:⚽ صباح × برشلونة\n🏆 دوري أبطال أور
+ وبا — الجولة 5\n🗓 الأربعاء 25 نوفمبر 2026 · 2
+ 0:45 بتوقيت الرياض\n🏟 Bank Respublika Arena، Masazyr (Masa
+ zir)\n—————\n⚽ Sabah FK v Barcelona\n🏆 UEFA Champions Leagu
+ e — Matchday 5\n🗓 Wed 25 Nov 2026 · 17:45 UTC\n🏟 Bank Respublika 
+ Arena, Masazyr (Masazir)\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: صباح ضد برشلونة — دوري أبط
+ ال أوروبا | Tomorrow: Sabah FK vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: صباح ×
+  برشلونة | Kick-off in 30 min: Sabah FK vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106262@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+SUMMARY:Barcelona vs Manchester City — UEFA Champions League
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/6106262
+DESCRIPTION:⚽ برشلونة × مانشستر سيتي\n🏆 دوري أ
+ بطال أوروبا — الجولة 6\n🗓 الثلاثاء 8 ديسم
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n—
+ ————\n⚽ Barcelona v Manchester City\n🏆 UEFA Champions League 
+ — Matchday 6\n🗓 Tue 08 Dec 2026 · 20:00 UTC\n🏟 Spotify Camp Nou\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد مانشستر سيتي — 
+ دوري أبطال أوروبا | Tomorrow: Barcelona vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × مانشستر سيتي | Kick-off in 30 min: Barcelona vs Manches
+ ter City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106278@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+SUMMARY:Sporting CP vs Barcelona — UEFA Champions League
+LOCATION:Estadio Jose Alvalade
+URL:https://www.fotmob.com/match/6106278
+DESCRIPTION:⚽ سبورتنج لشبونة × برشلونة\n🏆 دور
+ ي أبطال أوروبا — الجولة 7\n🗓 الأربعاء 20 ي
+ ناير 2027 · 23:00 بتوقيت الرياض\n🏟 Estadio Jose Alvala
+ de\n—————\n⚽ Sporting CP v Barcelona\n🏆 UEFA Champions Leag
+ ue — Matchday 7\n🗓 Wed 20 Jan 2027 · 20:00 UTC\n🏟 Estadio Jose Al
+ valade\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سبورتنج لشبونة ضد برشلونة 
+ — دوري أبطال أوروبا | Tomorrow: Sporting CP vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سبورت
+ نج لشبونة × برشلونة | Kick-off in 30 min: Sporting CP vs B
+ arcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106265@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Barcelona vs Como — UEFA Champions League
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/6106265
+DESCRIPTION:⚽ برشلونة × كومو\n🏆 دوري أبطال أور
+ وبا — الجولة 8\n🗓 الأربعاء 27 يناير 2027 · 23:
+ 00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n—————\n⚽ 
+ Barcelona v Como\n🏆 UEFA Champions League — Matchday 8\n🗓 Wed 27 J
+ an 2027 · 20:00 UTC\n🏟 Spotify Camp Nou\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد كومو — دوري أبط
+ ال أوروبا | Tomorrow: Barcelona vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × كومو | Kick-off in 30 min: Barcelona vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5091468@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251216T203000Z
+DTEND:20251216T223000Z
+SUMMARY:CD Guadalajara vs Barcelona (0 - 2) — Copa del Rey
+LOCATION:Estadio Pedro Escartín\, Guadalajara\, Spain
+GEO:40.634233;-3.182639
+URL:https://www.fotmob.com/match/5091468
+DESCRIPTION:⚽ غودالاخارا × برشلونة (0 - 2)\n🏆 كأس
+  ملك إسبانيا — دور الـ32\n🗓 الثلاثاء 16 دي
+ سمبر 2025 · 23:30 بتوقيت الرياض\n🏟 Estadio Pedro Escar
+ tín، Guadalajara\n👥 الحضور: 8,500\n—————\n⚽ CD Guad
+ alajara v Barcelona (0 - 2)\n🏆 Copa del Rey — Round of 32\n🗓 Tue 1
+ 6 Dec 2025 · 20:30 UTC\n🏟 Estadio Pedro Escartín, Guadalajara\nAttend
+ ance: 8,500\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غودالاخارا ضد برشلونة — كأ
+ س ملك إسبانيا | Tomorrow: CD Guadalajara vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غودال
+ اخارا × برشلونة | Kick-off in 30 min: CD Guadalajara vs Barce
+ lona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5125326@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260115T201500Z
+DTEND:20260115T221500Z
+SUMMARY:Racing Santander vs Barcelona (0 - 2) — Copa del Rey
+LOCATION:Campos de Sport de El Sardinero\, Santander\, Spain
+GEO:43.476299;-3.793282
+URL:https://www.fotmob.com/match/5125326
+DESCRIPTION:⚽ راسينج سانتاندير × برشلونة (0 - 2)\n
+ 🏆 كأس ملك إسبانيا — دور الـ16\n🗓 الخميس 1
+ 5 يناير 2026 · 23:15 بتوقيت الرياض\n🏟 Campos de Sport
+  de El Sardinero، Santander\n👥 الحضور: 22,481\n—————\n
+ ⚽ Racing Santander v Barcelona (0 - 2)\n🏆 Copa del Rey — Round of 1
+ 6\n🗓 Thu 15 Jan 2026 · 20:15 UTC\n🏟 Campos de Sport de El Sardinero
+ , Santander\nAttendance: 22,481\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد برشلون
+ ة — كأس ملك إسبانيا | Tomorrow: Racing Santander vs Barcel
+ ona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × برشلونة | Kick-off in 30 min: Racing Santa
+ nder vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5144838@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260203T200000Z
+DTEND:20260203T220000Z
+SUMMARY:Albacete vs Barcelona (1 - 2) — Copa del Rey
+LOCATION:Estadio Carlos Belmonte\, Albacete\, Spain
+GEO:38.981146;-1.852114
+URL:https://www.fotmob.com/match/5144838
+DESCRIPTION:⚽ ألباسيتي × برشلونة (1 - 2)\n🏆 كأس م
+ لك إسبانيا — ربع النهائي\n🗓 الثلاثاء 3 ف
+ براير 2026 · 23:00 بتوقيت الرياض\n🏟 Estadio Carlos Be
+ lmonte، Albacete\n⚖️ الحكم: José Luis Munuera Montero\n👥 ا
+ لحضور: 16,745\n—————\n⚽ Albacete v Barcelona (1 - 2)\n
+ 🏆 Copa del Rey — Quarter-Finals\n🗓 Tue 03 Feb 2026 · 20:00 UTC\n
+ 🏟 Estadio Carlos Belmonte, Albacete\nReferee: José Luis Munuera Monter
+ o\nAttendance: 16,745\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ألباسيتي ضد برشلونة — كأس 
+ ملك إسبانيا | Tomorrow: Albacete vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ألباس
+ يتي × برشلونة | Kick-off in 30 min: Albacete vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5173360@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260212T200000Z
+DTEND:20260212T220000Z
+SUMMARY:Atlético Madrid vs Barcelona (4 - 0) — Copa del Rey
+LOCATION:Riyadh Air Metropolitano\, Madrid\, Spain
+GEO:40.436226;-3.599460
+URL:https://www.fotmob.com/match/5173360
+DESCRIPTION:⚽ أتلتيكو مدريد × برشلونة (4 - 0)\n🏆 
+ كأس ملك إسبانيا — نصف النهائي\n🗓 الخميس 
+ 12 فبراير 2026 · 23:00 بتوقيت الرياض\n🏟 Riyadh Air M
+ etropolitano، Madrid\n⚖️ الحكم: Juan Martinez\n👥 الحضور
+ : 69,200\n—————\n⚽ Atlético Madrid v Barcelona (4 - 0)\n🏆 
+ Copa del Rey — Semi-Finals\n🗓 Thu 12 Feb 2026 · 20:00 UTC\n🏟 Riya
+ dh Air Metropolitano, Madrid\nReferee: Juan Martinez\nAttendance: 69,200\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد برشلونة —
+  كأس ملك إسبانيا | Tomorrow: Atlético Madrid vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × برشلونة | Kick-off in 30 min: Atlético Madrid v
+ s Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5173361@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260303T200000Z
+DTEND:20260303T220000Z
+SUMMARY:Barcelona vs Atlético Madrid (3 - 0) — Copa del Rey
+LOCATION:Spotify Camp Nou\, Barcelona\, Spain
+GEO:41.380890;2.122813
+URL:https://www.fotmob.com/match/5173361
+DESCRIPTION:⚽ برشلونة × أتلتيكو مدريد (3 - 0)\n🏆 
+ كأس ملك إسبانيا — نصف النهائي\n🗓 الثلاث
+ اء 3 مارس 2026 · 23:00 بتوقيت الرياض\n🏟 Spotify Camp
+  Nou، Barcelona\n⚖️ الحكم: Ricardo De Burgos Bengoetxea\n👥 ا
+ لحضور: 45,398\n—————\n⚽ Barcelona v Atlético Madrid (3 -
+  0)\n🏆 Copa del Rey — Semi-Finals\n🗓 Tue 03 Mar 2026 · 20:00 UTC\
+ n🏟 Spotify Camp Nou, Barcelona\nReferee: Ricardo De Burgos Bengoetxea\n
+ Attendance: 45,398\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد أتلتيكو مدريد —
+  كأس ملك إسبانيا | Tomorrow: Barcelona vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × أتلتيكو مدريد | Kick-off in 30 min: Barcelona vs Atlé
+ tico Madrid
+END:VALARM
+END:VEVENT
+END:VCALENDAR

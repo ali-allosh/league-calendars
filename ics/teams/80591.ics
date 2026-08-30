@@ -1,0 +1,638 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Zamalek SC — Egyptian Premier League Fixtures | الزم
+ الك — مباريات الدوري المصري الممتاز
+X-WR-CALDESC:Zamalek SC — all matches in Egyptian Premier League\, exact 
+ UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 202
+ 6-09-05T19:31:10Z.  •  الزمالك — جميع المباريات ف
+ ي الدوري المصري الممتاز بتوقيت UTC الدقيق 
+ مع الملاعب والقنوات الناقلة. المصدر: FotMob 
+ + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5995572@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260821T170000Z
+DTEND:20260821T190000Z
+SUMMARY:Zamalek SC vs Al Ittihad Alexandria (0 - 0) — Egyptian Premier Le
+ ague
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5995572
+DESCRIPTION:⚽ الزمالك × الاتحاد السكندري (0 - 0)\n
+ 🏆 الدوري المصري الممتاز — الجولة 1\n🗓 ا
+ لجمعة 21 أغسطس 2026 · 20:00 بتوقيت الرياض\n🏟 Cai
+ ro International Stadium، al-Qāhirah (Cairo)\n⚖️ الحكم: Amin Mo
+ hamed Omar\n—————\n⚽ Zamalek SC v Al Ittihad Alexandria (0 - 0
+ )\n🏆 Egyptian Premier League — Matchday 1\n🗓 Fri 21 Aug 2026 · 17
+ :00 UTC\n🏟 Cairo International Stadium, al-Qāhirah (Cairo)\nReferee: A
+ min Mohamed Omar\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الزمالك ضد الاتحاد السكندر
+ ي — الدوري المصري الممتاز | Tomorrow: Zamalek SC vs 
+ Al Ittihad Alexandria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الزما
+ لك × الاتحاد السكندري | Kick-off in 30 min: Zamalek SC v
+ s Al Ittihad Alexandria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996693@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260826T170000Z
+DTEND:20260826T190000Z
+SUMMARY:National Bank vs Zamalek SC (0 - 3) — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996693
+DESCRIPTION:⚽ البنك الاهلي × الزمالك (0 - 3)\n🏆 ا
+ لدوري المصري الممتاز — الجولة 2\n🗓 الأرب
+ عاء 26 أغسطس 2026 · 20:00 بتوقيت الرياض\n🏟 Cairo I
+ nternational Stadium، al-Qāhirah (Cairo)\n⚖️ الحكم: Mohamed El 
+ Ghazi\n—————\n⚽ National Bank v Zamalek SC (0 - 3)\n🏆 Egypt
+ ian Premier League — Matchday 2\n🗓 Wed 26 Aug 2026 · 17:00 UTC\n🏟
+  Cairo International Stadium, al-Qāhirah (Cairo)\nReferee: Mohamed El Gha
+ zi\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: البنك الاهلي ضد الزمالك — 
+ الدوري المصري الممتاز | Tomorrow: National Bank vs Zama
+ lek SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: البنك 
+ الاهلي × الزمالك | Kick-off in 30 min: National Bank vs Zama
+ lek SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996704@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260831T170000Z
+DTEND:20260831T190000Z
+SUMMARY:Zamalek SC vs Petrojet-Suez (2 - 1) — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996704
+DESCRIPTION:⚽ الزمالك × منتخب السويس بتروجت (2 -
+  1)\n🏆 الدوري المصري الممتاز — الجولة 3\n
+ 🗓 الاثنين 31 أغسطس 2026 · 20:00 بتوقيت الرياض\
+ n🏟 Cairo International Stadium، al-Qāhirah (Cairo)\n⚖️ الحكم
+ : Tarek Magdy\n—————\n⚽ Zamalek SC v Petrojet-Suez (2 - 1)\n
+ 🏆 Egyptian Premier League — Matchday 3\n🗓 Mon 31 Aug 2026 · 17:00
+  UTC\n🏟 Cairo International Stadium, al-Qāhirah (Cairo)\nReferee: Tare
+ k Magdy\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الزمالك ضد منتخب السويس بت
+ روجت — الدوري المصري الممتاز | Tomorrow: Zamalek 
+ SC vs Petrojet-Suez
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الزما
+ لك × منتخب السويس بتروجت | Kick-off in 30 min: Zamalek
+  SC vs Petrojet-Suez
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996718@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260908T170000Z
+DTEND:20260908T190000Z
+SUMMARY:Zamalek SC vs Abo Qir Semad — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996718
+DESCRIPTION:⚽ الزمالك × ابو قير للاسمدة\n🏆 الد
+ وري المصري الممتاز — الجولة 4\n🗓 الثلاثا
+ ء 8 سبتمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Cairo Inte
+ rnational Stadium، al-Qāhirah (Cairo)\n—————\n⚽ Zamalek SC v
+  Abo Qir Semad\n🏆 Egyptian Premier League — Matchday 4\n🗓 Tue 08 S
+ ep 2026 · 17:00 UTC\n🏟 Cairo International Stadium, al-Qāhirah (Cairo
+ )\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الزمالك ضد ابو قير للاسمدة 
+ — الدوري المصري الممتاز | Tomorrow: Zamalek SC vs Abo
+  Qir Semad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الزما
+ لك × ابو قير للاسمدة | Kick-off in 30 min: Zamalek SC vs A
+ bo Qir Semad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996731@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260916T170000Z
+DTEND:20260916T190000Z
+SUMMARY:Ghazl Al Mahalla vs Zamalek SC — Egyptian Premier League
+LOCATION:El Mahalla Stadium\, El-Mahalla El-Kubra\, Egypt
+GEO:30.960829;31.172917
+URL:https://www.fotmob.com/match/5996731
+DESCRIPTION:⚽ غزل المحلة × الزمالك\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 5\n🗓 الأربعاء 16 س
+ بتمبر 2026 · 20:00 بتوقيت الرياض\n🏟 El Mahalla Stadiu
+ m، El-Mahalla El-Kubra\n—————\n⚽ Ghazl Al Mahalla v Zamalek S
+ C\n🏆 Egyptian Premier League — Matchday 5\n🗓 Wed 16 Sep 2026 · 17
+ :00 UTC\n🏟 El Mahalla Stadium, El-Mahalla El-Kubra\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غزل المحلة ضد الزمالك — ال
+ دوري المصري الممتاز | Tomorrow: Ghazl Al Mahalla vs Zamal
+ ek SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غزل ال
+ محلة × الزمالك | Kick-off in 30 min: Ghazl Al Mahalla vs Zamal
+ ek SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996733@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261011T170000Z
+DTEND:20261011T190000Z
+SUMMARY:Zamalek SC vs Al Ahly SC — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996733
+DESCRIPTION:⚽ الزمالك × الأهلي\n🏆 الدوري المص
+ ري الممتاز — الجولة 6\n🗓 الأحد 11 أكتوبر 20
+ 26 · 20:00 بتوقيت الرياض\n🏟 Cairo International Stadium، 
+ al-Qāhirah (Cairo)\n—————\n⚽ Zamalek SC v Al Ahly SC\n🏆 Eg
+ yptian Premier League — Matchday 6\n🗓 Sun 11 Oct 2026 · 17:00 UTC\n
+ 🏟 Cairo International Stadium, al-Qāhirah (Cairo)\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الزمالك ضد الأهلي — الدوري
+  المصري الممتاز | Tomorrow: Zamalek SC vs Al Ahly SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الزما
+ لك × الأهلي | Kick-off in 30 min: Zamalek SC vs Al Ahly SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996745@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261020T140000Z
+DTEND:20261020T160000Z
+SUMMARY:Asyut Petroleum vs Zamalek SC — Egyptian Premier League
+LOCATION:Asyut Cement Stadium\, Asyūt (Assyut)\, Egypt
+GEO:27.187721;31.038920
+URL:https://www.fotmob.com/match/5996745
+DESCRIPTION:⚽ أسيوط بتروليوم × الزمالك\n🏆 الد
+ وري المصري الممتاز — الجولة 7\n🗓 الثلاثا
+ ء 20 أكتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 Asyut Cem
+ ent Stadium، Asyūt (Assyut)\n—————\n⚽ Asyut Petroleum v Zama
+ lek SC\n🏆 Egyptian Premier League — Matchday 7\n🗓 Tue 20 Oct 2026 
+ · 14:00 UTC\n🏟 Asyut Cement Stadium, Asyūt (Assyut)\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أسيوط بتروليوم ضد الزمالك 
+ — الدوري المصري الممتاز | Tomorrow: Asyut Petroleum v
+ s Zamalek SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أسيوط 
+ بتروليوم × الزمالك | Kick-off in 30 min: Asyut Petroleum v
+ s Zamalek SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996753@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261028T170000Z
+DTEND:20261028T190000Z
+SUMMARY:Zamalek SC vs Al Mokawloon Al Arab — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996753
+DESCRIPTION:⚽ الزمالك × المقاولون العرب\n🏆 ال
+ دوري المصري الممتاز — الجولة 8\n🗓 الأربع
+ اء 28 أكتوبر 2026 · 20:00 بتوقيت الرياض\n🏟 Cairo I
+ nternational Stadium، al-Qāhirah (Cairo)\n—————\n⚽ Zamalek S
+ C v Al Mokawloon Al Arab\n🏆 Egyptian Premier League — Matchday 8\n
+ 🗓 Wed 28 Oct 2026 · 17:00 UTC\n🏟 Cairo International Stadium, al-Q
+ āhirah (Cairo)\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الزمالك ضد المقاولون العرب
+  — الدوري المصري الممتاز | Tomorrow: Zamalek SC vs Al
+  Mokawloon Al Arab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الزما
+ لك × المقاولون العرب | Kick-off in 30 min: Zamalek SC vs 
+ Al Mokawloon Al Arab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996762@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261123T150000Z
+DTEND:20261123T170000Z
+SUMMARY:El Gouna FC vs Zamalek SC — Egyptian Premier League
+LOCATION:Khaled Bichara Stadium
+URL:https://www.fotmob.com/match/5996762
+DESCRIPTION:⚽ الجونة × الزمالك\n🏆 الدوري المص
+ ري الممتاز — الجولة 9\n🗓 الاثنين 23 نوفمب
+ ر 2026 · 18:00 بتوقيت الرياض\n🏟 Khaled Bichara Stadium\n
+ —————\n⚽ El Gouna FC v Zamalek SC\n🏆 Egyptian Premier Leagu
+ e — Matchday 9\n🗓 Mon 23 Nov 2026 · 15:00 UTC\n🏟 Khaled Bichara S
+ tadium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجونة ضد الزمالك — الدوري
+  المصري الممتاز | Tomorrow: El Gouna FC vs Zamalek SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجون
+ ة × الزمالك | Kick-off in 30 min: El Gouna FC vs Zamalek SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996778@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261209T180000Z
+DTEND:20261209T200000Z
+SUMMARY:Zamalek SC vs Al Masry SC — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996778
+DESCRIPTION:⚽ الزمالك × المصري\n🏆 الدوري المص
+ ري الممتاز — الجولة 10\n🗓 الأربعاء 9 ديسم
+ بر 2026 · 21:00 بتوقيت الرياض\n🏟 Cairo Int'l Stadium\n
+ —————\n⚽ Zamalek SC v Al Masry SC\n🏆 Egyptian Premier Leagu
+ e — Matchday 10\n🗓 Wed 09 Dec 2026 · 18:00 UTC\n🏟 Cairo Int'l Sta
+ dium\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الزمالك ضد المصري — الدوري
+  المصري الممتاز | Tomorrow: Zamalek SC vs Al Masry SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الزما
+ لك × المصري | Kick-off in 30 min: Zamalek SC vs Al Masry SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996782@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261214T150000Z
+DTEND:20261214T170000Z
+SUMMARY:Smouha SC vs Zamalek SC — Egyptian Premier League
+LOCATION:Borg El Arab Stadium
+URL:https://www.fotmob.com/match/5996782
+DESCRIPTION:⚽ سموحة × الزمالك\n🏆 الدوري المصر
+ ي الممتاز — الجولة 11\n🗓 الاثنين 14 ديسمبر
+  2026 · 18:00 بتوقيت الرياض\n🏟 Borg El Arab Stadium\n—
+ ————\n⚽ Smouha SC v Zamalek SC\n🏆 Egyptian Premier League —
+  Matchday 11\n🗓 Mon 14 Dec 2026 · 15:00 UTC\n🏟 Borg El Arab Stadium
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سموحة ضد الزمالك — الدوري 
+ المصري الممتاز | Tomorrow: Smouha SC vs Zamalek SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سموحة 
+ × الزمالك | Kick-off in 30 min: Smouha SC vs Zamalek SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996798@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261223T180000Z
+DTEND:20261223T200000Z
+SUMMARY:Zamalek SC vs Tala'ea El Gaish — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996798
+DESCRIPTION:⚽ الزمالك × طلائع الجيش\n🏆 الدوري 
+ المصري الممتاز — الجولة 12\n🗓 الأربعاء 23 
+ ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Cairo Int'l Sta
+ dium\n—————\n⚽ Zamalek SC v Tala'ea El Gaish\n🏆 Egyptian Pr
+ emier League — Matchday 12\n🗓 Wed 23 Dec 2026 · 18:00 UTC\n🏟 Cair
+ o Int'l Stadium\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الزمالك ضد طلائع الجيش — ا
+ لدوري المصري الممتاز | Tomorrow: Zamalek SC vs Tala'ea E
+ l Gaish
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الزما
+ لك × طلائع الجيش | Kick-off in 30 min: Zamalek SC vs Tala'ea 
+ El Gaish
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996807@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261228T180000Z
+DTEND:20261228T200000Z
+SUMMARY:Pyramids FC vs Zamalek SC — Egyptian Premier League
+LOCATION:30 June Stadium
+URL:https://www.fotmob.com/match/5996807
+DESCRIPTION:⚽ بيراميدز × الزمالك\n🏆 الدوري ال
+ مصري الممتاز — الجولة 13\n🗓 الاثنين 28 ديس
+ مبر 2026 · 21:00 بتوقيت الرياض\n🏟 30 June Stadium\n—
+ ————\n⚽ Pyramids FC v Zamalek SC\n🏆 Egyptian Premier League 
+ — Matchday 13\n🗓 Mon 28 Dec 2026 · 18:00 UTC\n🏟 30 June Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيراميدز ضد الزمالك — الدو
+ ري المصري الممتاز | Tomorrow: Pyramids FC vs Zamalek SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيرام
+ يدز × الزمالك | Kick-off in 30 min: Pyramids FC vs Zamalek SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996814@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270104T180000Z
+DTEND:20270104T200000Z
+SUMMARY:Zamalek SC vs Wadi Degla FC — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996814
+DESCRIPTION:⚽ الزمالك × وادي دجلة\n🏆 الدوري ال
+ مصري الممتاز — الجولة 14\n🗓 الاثنين 4 ينا
+ ير 2027 · 21:00 بتوقيت الرياض\n🏟 Cairo Int'l Stadium\n
+ —————\n⚽ Zamalek SC v Wadi Degla FC\n🏆 Egyptian Premier Lea
+ gue — Matchday 14\n🗓 Mon 04 Jan 2027 · 18:00 UTC\n🏟 Cairo Int'l S
+ tadium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الزمالك ضد وادي دجلة — الد
+ وري المصري الممتاز | Tomorrow: Zamalek SC vs Wadi Degla FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الزما
+ لك × وادي دجلة | Kick-off in 30 min: Zamalek SC vs Wadi Degla F
+ C
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996829@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270127T180000Z
+DTEND:20270127T200000Z
+SUMMARY:ZED FC vs Zamalek SC — Egyptian Premier League
+LOCATION:Suez Stadium
+URL:https://www.fotmob.com/match/5996829
+DESCRIPTION:⚽ زد × الزمالك\n🏆 الدوري المصري ال
+ ممتاز — الجولة 15\n🗓 الأربعاء 27 يناير 2027 
+ · 21:00 بتوقيت الرياض\n🏟 Suez Stadium\n—————\n
+ ⚽ ZED FC v Zamalek SC\n🏆 Egyptian Premier League — Matchday 15\n
+ 🗓 Wed 27 Jan 2027 · 18:00 UTC\n🏟 Suez Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: زد ضد الزمالك — الدوري الم
+ صري الممتاز | Tomorrow: ZED FC vs Zamalek SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: زد × ا
+ لزمالك | Kick-off in 30 min: ZED FC vs Zamalek SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996835@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270131T150000Z
+DTEND:20270131T170000Z
+SUMMARY:Zamalek SC vs Modern Sport FC — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996835
+DESCRIPTION:⚽ الزمالك × مودرن سبورت\n🏆 الدوري 
+ المصري الممتاز — الجولة 16\n🗓 الأحد 31 ينا
+ ير 2027 · 18:00 بتوقيت الرياض\n🏟 Cairo Int'l Stadium\n
+ —————\n⚽ Zamalek SC v Modern Sport FC\n🏆 Egyptian Premier L
+ eague — Matchday 16\n🗓 Sun 31 Jan 2027 · 15:00 UTC\n🏟 Cairo Int'l
+  Stadium\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الزمالك ضد مودرن سبورت — ا
+ لدوري المصري الممتاز | Tomorrow: Zamalek SC vs Modern Sp
+ ort FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الزما
+ لك × مودرن سبورت | Kick-off in 30 min: Zamalek SC vs Modern S
+ port FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996846@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270205T180000Z
+DTEND:20270205T200000Z
+SUMMARY:Ceramica Cleopatra vs Zamalek SC — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996846
+DESCRIPTION:⚽ سيراميكا كليوباترا × الزمالك\n🏆
+  الدوري المصري الممتاز — الجولة 17\n🗓 الج
+ معة 5 فبراير 2027 · 21:00 بتوقيت الرياض\n🏟 Suez C
+ anal Authority Stadium\n—————\n⚽ Ceramica Cleopatra v Zamalek 
+ SC\n🏆 Egyptian Premier League — Matchday 17\n🗓 Fri 05 Feb 2027 · 
+ 18:00 UTC\n🏟 Suez Canal Authority Stadium\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيراميكا كليوباترا ضد الزم
+ الك — الدوري المصري الممتاز | Tomorrow: Ceramica C
+ leopatra vs Zamalek SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيرام
+ يكا كليوباترا × الزمالك | Kick-off in 30 min: Ceramica
+  Cleopatra vs Zamalek SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996858@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270211T193000Z
+DTEND:20270211T213000Z
+SUMMARY:Zamalek SC vs Al Sharkeyah-ENPPI — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996858
+DESCRIPTION:⚽ الزمالك × Al Sharkeyah-ENPPI\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 18\n🗓 الخميس 11 فبر
+ اير 2027 · 22:30 بتوقيت الرياض\n🏟 Cairo Int'l Stadium\n
+ —————\n⚽ Zamalek SC v Al Sharkeyah-ENPPI\n🏆 Egyptian Premie
+ r League — Matchday 18\n🗓 Thu 11 Feb 2027 · 19:30 UTC\n🏟 Cairo In
+ t'l Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الزمالك ضد Al Sharkeyah-ENPPI — الد
+ وري المصري الممتاز | Tomorrow: Zamalek SC vs Al Sharkeyah-
+ ENPPI
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الزما
+ لك × Al Sharkeyah-ENPPI | Kick-off in 30 min: Zamalek SC vs Al Sharkeya
+ h-ENPPI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996862@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270218T193000Z
+DTEND:20270218T213000Z
+SUMMARY:Olympic El Qanah FC vs Zamalek SC — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996862
+DESCRIPTION:⚽ القناة × الزمالك\n🏆 الدوري المص
+ ري الممتاز — الجولة 19\n🗓 الخميس 18 فبراير
+  2027 · 22:30 بتوقيت الرياض\n🏟 Suez Canal Authority Stadiu
+ m\n—————\n⚽ Olympic El Qanah FC v Zamalek SC\n🏆 Egyptian Pr
+ emier League — Matchday 19\n🗓 Thu 18 Feb 2027 · 19:30 UTC\n🏟 Suez
+  Canal Authority Stadium\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القناة ضد الزمالك — الدوري
+  المصري الممتاز | Tomorrow: Olympic El Qanah FC vs Zamalek SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القنا
+ ة × الزمالك | Kick-off in 30 min: Olympic El Qanah FC vs Zamalek 
+ SC
+END:VALARM
+END:VEVENT
+END:VCALENDAR

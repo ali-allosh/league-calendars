@@ -1,0 +1,1244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Frosinone — Serie A & Coppa Italia Fixtures | فروزي
+ نوني — مباريات الدوري الإيطالي وكأس إيط
+ اليا
+X-WR-CALDESC:Frosinone — all matches in Serie A & Coppa Italia\, exact UT
+ C kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-
+ 09-05T19:31:10Z.  •  فروزينوني — جميع المباريات 
+ في الدوري الإيطالي وكأس إيطاليا بتوقيت UT
+ C الدقيق مع الملاعب والقنوات الناقلة. الم
+ صدر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5749643@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260823T163000Z
+DTEND:20260823T183000Z
+SUMMARY:Frosinone vs Juventus (0 - 1) — Serie A
+LOCATION:Stadio Benito Stirpe\, Frosinone\, Italy
+GEO:41.634077;13.321822
+URL:https://www.fotmob.com/match/5749643
+DESCRIPTION:⚽ فروزينوني × يوفنتوس (0 - 1)\n🏆 الدو
+ ري الإيطالي — الجولة 1\n🗓 الأحد 23 أغسطس 20
+ 26 · 19:30 بتوقيت الرياض\n🏟 Stadio Benito Stirpe، Frosino
+ ne\n⚖️ الحكم: Giovanni Ayroldi\n👥 الحضور: 15,256\n——
+ ———\n⚽ Frosinone v Juventus (0 - 1)\n🏆 Serie A — Matchday 1\n
+ 🗓 Sun 23 Aug 2026 · 16:30 UTC\n🏟 Stadio Benito Stirpe, Frosinone\nR
+ eferee: Giovanni Ayroldi\nAttendance: 15,256\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد يوفنتوس — الد
+ وري الإيطالي | Tomorrow: Frosinone vs Juventus
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × يوفنتوس | Kick-off in 30 min: Frosinone vs Juventus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749653@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T163000Z
+DTEND:20260829T183000Z
+SUMMARY:Fiorentina vs Frosinone (0 - 3) — Serie A
+LOCATION:Stadio Artemio Franchi\, Firenze\, Italy
+GEO:43.780788;11.282712
+URL:https://www.fotmob.com/match/5749653
+DESCRIPTION:⚽ فيورنتينا × فروزينوني (0 - 3)\n🏆 ال
+ دوري الإيطالي — الجولة 2\n🗓 السبت 29 أغسط
+ س 2026 · 19:30 بتوقيت الرياض\n🏟 Stadio Artemio Franchi، 
+ Firenze\n⚖️ الحكم: Giuseppe Collu\n👥 الحضور: 23,132\n—
+ ————\n⚽ Fiorentina v Frosinone (0 - 3)\n🏆 Serie A — Matchda
+ y 2\n🗓 Sat 29 Aug 2026 · 16:30 UTC\n🏟 Stadio Artemio Franchi, Firen
+ ze\nReferee: Giuseppe Collu\nAttendance: 23,132\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد فروزينوني — ا
+ لدوري الإيطالي | Tomorrow: Fiorentina vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × فروزينوني | Kick-off in 30 min: Fiorentina vs Frosino
+ ne
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749664@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Frosinone vs Venezia — Serie A
+LOCATION:Stadio Benito Stirpe\, Frosinone\, Italy
+GEO:41.634077;13.321822
+URL:https://www.fotmob.com/match/5749664
+DESCRIPTION:⚽ فروزينوني × فينيزيا\n🏆 الدوري ا
+ لإيطالي — الجولة 3\n🗓 الأحد 6 سبتمبر 2026 · 
+ 16:00 بتوقيت الرياض\n🏟 Stadio Benito Stirpe، Frosinone\n
+ 📺 Starzplay\n—————\n⚽ Frosinone v Venezia\n🏆 Serie A —
+  Matchday 3\n🗓 Sun 06 Sep 2026 · 13:00 UTC\n🏟 Stadio Benito Stirpe,
+  Frosinone\n📺 Starzplay\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد فينيزيا — الد
+ وري الإيطالي — 📺 Starzplay | Tomorrow: Frosinone vs Venezi
+ a | TV: Starzplay
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × فينيزيا — 📺 Starzplay | Kick-off in 30 min: Frosin
+ one vs Venezia | TV: Starzplay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749672@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T130000Z
+DTEND:20260912T150000Z
+SUMMARY:Genoa vs Frosinone — Serie A
+LOCATION:Stadio Comunale Luigi Ferraris\, Genova\, Italy
+GEO:44.416467;8.952527
+URL:https://www.fotmob.com/match/5749672
+DESCRIPTION:⚽ جنوى × فروزينوني\n🏆 الدوري الإي
+ طالي — الجولة 4\n🗓 السبت 12 سبتمبر 2026 · 16:00
+  بتوقيت الرياض\n🏟 Stadio Comunale Luigi Ferraris، Genova\n
+ 📺 DAZN UK\n—————\n⚽ Genoa v Frosinone\n🏆 Serie A — Mat
+ chday 4\n🗓 Sat 12 Sep 2026 · 13:00 UTC\n🏟 Stadio Comunale Luigi Fer
+ raris, Genova\n📺 DAZN UK\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد فروزينوني — الدوري
+  الإيطالي — 📺 DAZN UK | Tomorrow: Genoa vs Frosinone | TV: DA
+ ZN UK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  فروزينوني — 📺 DAZN UK | Kick-off in 30 min: Genoa vs Frosin
+ one | TV: DAZN UK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749684@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:Frosinone vs Como — Serie A
+LOCATION:Stadio Benito Stirpe\, Frosinone\, Italy
+GEO:41.634077;13.321822
+URL:https://www.fotmob.com/match/5749684
+DESCRIPTION:⚽ فروزينوني × كومو\n🏆 الدوري الإي
+ طالي — الجولة 5\n🗓 الأحد 20 سبتمبر 2026 · 16:00
+  بتوقيت الرياض\n🏟 Stadio Benito Stirpe، Frosinone\n——
+ ———\n⚽ Frosinone v Como\n🏆 Serie A — Matchday 5\n🗓 Sun 20 
+ Sep 2026 · 13:00 UTC\n🏟 Stadio Benito Stirpe, Frosinone\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد كومو — الدوري
+  الإيطالي | Tomorrow: Frosinone vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × كومو | Kick-off in 30 min: Frosinone vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749697@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T184500Z
+DTEND:20261010T204500Z
+SUMMARY:Napoli vs Frosinone — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749697
+DESCRIPTION:⚽ نابولي × فروزينوني\n🏆 الدوري ال
+ إيطالي — الجولة 6\n🗓 السبت 10 أكتوبر 2026 · 2
+ 1:45 بتوقيت الرياض\n🏟 Diego Armando Maradona\n————
+ —\n⚽ Napoli v Frosinone\n🏆 Serie A — Matchday 6\n🗓 Sat 10 Oct 
+ 2026 · 18:45 UTC\n🏟 Diego Armando Maradona\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد فروزينوني — الدو
+ ري الإيطالي | Tomorrow: Napoli vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × فروزينوني | Kick-off in 30 min: Napoli vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749704@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261016T184500Z
+DTEND:20261016T204500Z
+SUMMARY:Frosinone vs Sassuolo — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749704
+DESCRIPTION:⚽ فروزينوني × ساسولو\n🏆 الدوري ال
+ إيطالي — الجولة 7\n🗓 الجمعة 16 أكتوبر 2026 ·
+  21:45 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n————
+ —\n⚽ Frosinone v Sassuolo\n🏆 Serie A — Matchday 7\n🗓 Fri 16 Oc
+ t 2026 · 18:45 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد ساسولو — الدو
+ ري الإيطالي | Tomorrow: Frosinone vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × ساسولو | Kick-off in 30 min: Frosinone vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749710@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Atalanta vs Frosinone — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749710
+DESCRIPTION:⚽ أتالانتا × فروزينوني\n🏆 الدوري 
+ الإيطالي — الجولة 8\n🗓 الأحد 25 أكتوبر 2026 
+ · 17:00 بتوقيت الرياض\n🏟 New Balance Arena\n————
+ —\n⚽ Atalanta v Frosinone\n🏆 Serie A — Matchday 8\n🗓 Sun 25 Oc
+ t 2026 · 14:00 UTC\n🏟 New Balance Arena\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد فروزينوني — ال
+ دوري الإيطالي | Tomorrow: Atalanta vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × فروزينوني | Kick-off in 30 min: Atalanta vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749723@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261029T173000Z
+DTEND:20261029T193000Z
+SUMMARY:Frosinone vs Lecce — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749723
+DESCRIPTION:⚽ فروزينوني × ليتشي\n🏆 الدوري الإ
+ يطالي — الجولة 9\n🗓 الخميس 29 أكتوبر 2026 · 2
+ 0:30 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n—————
+ \n⚽ Frosinone v Lecce\n🏆 Serie A — Matchday 9\n🗓 Thu 29 Oct 2026
+  · 17:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد ليتشي — الدور
+ ي الإيطالي | Tomorrow: Frosinone vs Lecce
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × ليتشي | Kick-off in 30 min: Frosinone vs Lecce
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749734@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Frosinone vs Torino — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749734
+DESCRIPTION:⚽ فروزينوني × تورينو\n🏆 الدوري ال
+ إيطالي — الجولة 10\n🗓 الأحد 1 نوفمبر 2026 · 1
+ 7:00 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n—————
+ \n⚽ Frosinone v Torino\n🏆 Serie A — Matchday 10\n🗓 Sun 01 Nov 20
+ 26 · 14:00 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد تورينو — الدو
+ ري الإيطالي | Tomorrow: Frosinone vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × تورينو | Kick-off in 30 min: Frosinone vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749741@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T140000Z
+DTEND:20261107T160000Z
+SUMMARY:Cagliari vs Frosinone — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749741
+DESCRIPTION:⚽ كالياري × فروزينوني\n🏆 الدوري ا
+ لإيطالي — الجولة 11\n🗓 السبت 7 نوفمبر 2026 ·
+  17:00 بتوقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ 
+ Cagliari v Frosinone\n🏆 Serie A — Matchday 11\n🗓 Sat 07 Nov 2026 
+ · 14:00 UTC\n🏟 Unipol Domus\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد فروزينوني — الد
+ وري الإيطالي | Tomorrow: Cagliari vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × فروزينوني | Kick-off in 30 min: Cagliari vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749750@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Milan vs Frosinone — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749750
+DESCRIPTION:⚽ ميلان × فروزينوني\n🏆 الدوري الإ
+ يطالي — الجولة 12\n🗓 الأحد 22 نوفمبر 2026 · 17
+ :00 بتوقيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v
+  Frosinone\n🏆 Serie A — Matchday 12\n🗓 Sun 22 Nov 2026 · 14:00 UT
+ C\n🏟 San Siro\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد فروزينوني — الدور
+ ي الإيطالي | Tomorrow: Milan vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × فروزينوني | Kick-off in 30 min: Milan vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749763@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T173000Z
+DTEND:20261129T193000Z
+SUMMARY:Frosinone vs Parma — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749763
+DESCRIPTION:⚽ فروزينوني × بارما\n🏆 الدوري الإ
+ يطالي — الجولة 13\n🗓 الأحد 29 نوفمبر 2026 · 20
+ :30 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n—————\
+ n⚽ Frosinone v Parma\n🏆 Serie A — Matchday 13\n🗓 Sun 29 Nov 2026
+  · 17:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد بارما — الدور
+ ي الإيطالي | Tomorrow: Frosinone vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × بارما | Kick-off in 30 min: Frosinone vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749773@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T173000Z
+DTEND:20261206T193000Z
+SUMMARY:Frosinone vs Inter — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749773
+DESCRIPTION:⚽ فروزينوني × إنتر ميلان\n🏆 الدور
+ ي الإيطالي — الجولة 14\n🗓 الأحد 6 ديسمبر 20
+ 26 · 20:30 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n——
+ ———\n⚽ Frosinone v Inter\n🏆 Serie A — Matchday 14\n🗓 Sun 0
+ 6 Dec 2026 · 17:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد إنتر ميلان — 
+ الدوري الإيطالي | Tomorrow: Frosinone vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × إنتر ميلان | Kick-off in 30 min: Frosinone vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749789@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T173000Z
+DTEND:20261213T193000Z
+SUMMARY:Udinese vs Frosinone — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749789
+DESCRIPTION:⚽ أودينيزي × فروزينوني\n🏆 الدوري 
+ الإيطالي — الجولة 15\n🗓 الأحد 13 ديسمبر 2026
+  · 20:30 بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friul
+ i\n—————\n⚽ Udinese v Frosinone\n🏆 Serie A — Matchday 15\
+ n🗓 Sun 13 Dec 2026 · 17:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد فروزينوني — ال
+ دوري الإيطالي | Tomorrow: Udinese vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × فروزينوني | Kick-off in 30 min: Udinese vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749794@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T173000Z
+DTEND:20261220T193000Z
+SUMMARY:Frosinone vs Lazio — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749794
+DESCRIPTION:⚽ فروزينوني × لاتسيو\n🏆 الدوري ال
+ إيطالي — الجولة 16\n🗓 الأحد 20 ديسمبر 2026 · 
+ 20:30 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n————
+ —\n⚽ Frosinone v Lazio\n🏆 Serie A — Matchday 16\n🗓 Sun 20 Dec 
+ 2026 · 17:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد لاتسيو — الدو
+ ري الإيطالي | Tomorrow: Frosinone vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × لاتسيو | Kick-off in 30 min: Frosinone vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749800@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T173000Z
+DTEND:20270103T193000Z
+SUMMARY:Roma vs Frosinone — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749800
+DESCRIPTION:⚽ روما × فروزينوني\n🏆 الدوري الإي
+ طالي — الجولة 17\n🗓 الأحد 3 يناير 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n
+ ⚽ Roma v Frosinone\n🏆 Serie A — Matchday 17\n🗓 Sun 03 Jan 2027 
+ · 17:30 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد فروزينوني — الدوري
+  الإيطالي | Tomorrow: Roma vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  فروزينوني | Kick-off in 30 min: Roma vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749812@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T173000Z
+DTEND:20270106T193000Z
+SUMMARY:Frosinone vs Bologna — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749812
+DESCRIPTION:⚽ فروزينوني × بولونيا\n🏆 الدوري ا
+ لإيطالي — الجولة 18\n🗓 الأربعاء 6 يناير 202
+ 7 · 20:30 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n———
+ ——\n⚽ Frosinone v Bologna\n🏆 Serie A — Matchday 18\n🗓 Wed 06
+  Jan 2027 · 17:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد بولونيا — الد
+ وري الإيطالي | Tomorrow: Frosinone vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × بولونيا | Kick-off in 30 min: Frosinone vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749826@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T173000Z
+DTEND:20270110T193000Z
+SUMMARY:Monza vs Frosinone — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749826
+DESCRIPTION:⚽ مونزا × فروزينوني\n🏆 الدوري الإ
+ يطالي — الجولة 19\n🗓 الأحد 10 يناير 2027 · 20:3
+ 0 بتوقيت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Mo
+ nza v Frosinone\n🏆 Serie A — Matchday 19\n🗓 Sun 10 Jan 2027 · 17:
+ 30 UTC\n🏟 Stadio Brianteo\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد فروزينوني — الدور
+ ي الإيطالي | Tomorrow: Monza vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × فروزينوني | Kick-off in 30 min: Monza vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749839@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T173000Z
+DTEND:20270117T193000Z
+SUMMARY:Venezia vs Frosinone — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749839
+DESCRIPTION:⚽ فينيزيا × فروزينوني\n🏆 الدوري ا
+ لإيطالي — الجولة 20\n🗓 الأحد 17 يناير 2027 · 
+ 20:30 بتوقيت الرياض\n🏟 Stadio Pierluigi Penzo\n————
+ —\n⚽ Venezia v Frosinone\n🏆 Serie A — Matchday 20\n🗓 Sun 17 Ja
+ n 2027 · 17:30 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد فروزينوني — الد
+ وري الإيطالي | Tomorrow: Venezia vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × فروزينوني | Kick-off in 30 min: Venezia vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749844@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T173000Z
+DTEND:20270124T193000Z
+SUMMARY:Frosinone vs Milan — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749844
+DESCRIPTION:⚽ فروزينوني × ميلان\n🏆 الدوري الإ
+ يطالي — الجولة 21\n🗓 الأحد 24 يناير 2027 · 20:3
+ 0 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n—————\n
+ ⚽ Frosinone v Milan\n🏆 Serie A — Matchday 21\n🗓 Sun 24 Jan 2027 
+ · 17:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد ميلان — الدور
+ ي الإيطالي | Tomorrow: Frosinone vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × ميلان | Kick-off in 30 min: Frosinone vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749858@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T173000Z
+DTEND:20270131T193000Z
+SUMMARY:Torino vs Frosinone — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749858
+DESCRIPTION:⚽ تورينو × فروزينوني\n🏆 الدوري ال
+ إيطالي — الجولة 22\n🗓 الأحد 31 يناير 2027 · 20
+ :30 بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n——
+ ———\n⚽ Torino v Frosinone\n🏆 Serie A — Matchday 22\n🗓 Sun 
+ 31 Jan 2027 · 17:30 UTC\n🏟 Stadio Olimpico Grande Torino\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد فروزينوني — الدو
+ ري الإيطالي | Tomorrow: Torino vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × فروزينوني | Kick-off in 30 min: Torino vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749868@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T173000Z
+DTEND:20270207T193000Z
+SUMMARY:Parma vs Frosinone — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749868
+DESCRIPTION:⚽ بارما × فروزينوني\n🏆 الدوري الإ
+ يطالي — الجولة 23\n🗓 الأحد 7 فبراير 2027 · 20:
+ 30 بتوقيت الرياض\n🏟 Stadio Ennio Tardini\n—————\n
+ ⚽ Parma v Frosinone\n🏆 Serie A — Matchday 23\n🗓 Sun 07 Feb 2027 
+ · 17:30 UTC\n🏟 Stadio Ennio Tardini\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد فروزينوني — الدور
+ ي الإيطالي | Tomorrow: Parma vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × فروزينوني | Kick-off in 30 min: Parma vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749873@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T173000Z
+DTEND:20270214T193000Z
+SUMMARY:Frosinone vs Fiorentina — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749873
+DESCRIPTION:⚽ فروزينوني × فيورنتينا\n🏆 الدوري
+  الإيطالي — الجولة 24\n🗓 الأحد 14 فبراير 202
+ 7 · 20:30 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n———
+ ——\n⚽ Frosinone v Fiorentina\n🏆 Serie A — Matchday 24\n🗓 Sun
+  14 Feb 2027 · 17:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد فيورنتينا — ا
+ لدوري الإيطالي | Tomorrow: Frosinone vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × فيورنتينا | Kick-off in 30 min: Frosinone vs Fiorenti
+ na
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749886@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T173000Z
+DTEND:20270221T193000Z
+SUMMARY:Lecce vs Frosinone — Serie A
+LOCATION:Stadio Ettore Giardiniero - Via del Mare
+URL:https://www.fotmob.com/match/5749886
+DESCRIPTION:⚽ ليتشي × فروزينوني\n🏆 الدوري الإ
+ يطالي — الجولة 25\n🗓 الأحد 21 فبراير 2027 · 20
+ :30 بتوقيت الرياض\n🏟 Stadio Ettore Giardiniero - Via del Ma
+ re\n—————\n⚽ Lecce v Frosinone\n🏆 Serie A — Matchday 25\n
+ 🗓 Sun 21 Feb 2027 · 17:30 UTC\n🏟 Stadio Ettore Giardiniero - Via de
+ l Mare\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليتشي ضد فروزينوني — الدور
+ ي الإيطالي | Tomorrow: Lecce vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليتشي 
+ × فروزينوني | Kick-off in 30 min: Lecce vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749894@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T173000Z
+DTEND:20270228T193000Z
+SUMMARY:Frosinone vs Napoli — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749894
+DESCRIPTION:⚽ فروزينوني × نابولي\n🏆 الدوري ال
+ إيطالي — الجولة 26\n🗓 الأحد 28 فبراير 2027 · 
+ 20:30 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n————
+ —\n⚽ Frosinone v Napoli\n🏆 Serie A — Matchday 26\n🗓 Sun 28 Feb
+  2027 · 17:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد نابولي — الدو
+ ري الإيطالي | Tomorrow: Frosinone vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × نابولي | Kick-off in 30 min: Frosinone vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749904@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T173000Z
+DTEND:20270307T193000Z
+SUMMARY:Lazio vs Frosinone — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749904
+DESCRIPTION:⚽ لاتسيو × فروزينوني\n🏆 الدوري ال
+ إيطالي — الجولة 27\n🗓 الأحد 7 مارس 2027 · 20:30
+  بتوقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n
+ ⚽ Lazio v Frosinone\n🏆 Serie A — Matchday 27\n🗓 Sun 07 Mar 2027 
+ · 17:30 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد فروزينوني — الدو
+ ري الإيطالي | Tomorrow: Lazio vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × فروزينوني | Kick-off in 30 min: Lazio vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749914@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T173000Z
+DTEND:20270314T193000Z
+SUMMARY:Frosinone vs Monza — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749914
+DESCRIPTION:⚽ فروزينوني × مونزا\n🏆 الدوري الإ
+ يطالي — الجولة 28\n🗓 الأحد 14 مارس 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n—————\n⚽
+  Frosinone v Monza\n🏆 Serie A — Matchday 28\n🗓 Sun 14 Mar 2027 · 
+ 17:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد مونزا — الدور
+ ي الإيطالي | Tomorrow: Frosinone vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × مونزا | Kick-off in 30 min: Frosinone vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749923@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T173000Z
+DTEND:20270321T193000Z
+SUMMARY:Inter vs Frosinone — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749923
+DESCRIPTION:⚽ إنتر ميلان × فروزينوني\n🏆 الدور
+ ي الإيطالي — الجولة 29\n🗓 الأحد 21 مارس 2027 
+ · 20:30 بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\
+ n⚽ Inter v Frosinone\n🏆 Serie A — Matchday 29\n🗓 Sun 21 Mar 2027
+  · 17:30 UTC\n🏟 Giuseppe Meazza\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد فروزينوني — 
+ الدوري الإيطالي | Tomorrow: Inter vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × فروزينوني | Kick-off in 30 min: Inter vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749934@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T163000Z
+DTEND:20270404T183000Z
+SUMMARY:Frosinone vs Udinese — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749934
+DESCRIPTION:⚽ فروزينوني × أودينيزي\n🏆 الدوري 
+ الإيطالي — الجولة 30\n🗓 الأحد 4 أبريل 2027 ·
+  19:30 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n————
+ —\n⚽ Frosinone v Udinese\n🏆 Serie A — Matchday 30\n🗓 Sun 04 Ap
+ r 2027 · 16:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد أودينيزي — ال
+ دوري الإيطالي | Tomorrow: Frosinone vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × أودينيزي | Kick-off in 30 min: Frosinone vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749943@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T163000Z
+DTEND:20270411T183000Z
+SUMMARY:Frosinone vs Genoa — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749943
+DESCRIPTION:⚽ فروزينوني × جنوى\n🏆 الدوري الإي
+ طالي — الجولة 31\n🗓 الأحد 11 أبريل 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n—————\n⚽
+  Frosinone v Genoa\n🏆 Serie A — Matchday 31\n🗓 Sun 11 Apr 2027 · 
+ 16:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد جنوى — الدوري
+  الإيطالي | Tomorrow: Frosinone vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × جنوى | Kick-off in 30 min: Frosinone vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749954@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T163000Z
+DTEND:20270418T183000Z
+SUMMARY:Como vs Frosinone — Serie A
+LOCATION:Stadio G. Sinigaglia
+URL:https://www.fotmob.com/match/5749954
+DESCRIPTION:⚽ كومو × فروزينوني\n🏆 الدوري الإي
+ طالي — الجولة 32\n🗓 الأحد 18 أبريل 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Stadio G. Sinigaglia\n—————\n⚽
+  Como v Frosinone\n🏆 Serie A — Matchday 32\n🗓 Sun 18 Apr 2027 · 1
+ 6:30 UTC\n🏟 Stadio G. Sinigaglia\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كومو ضد فروزينوني — الدوري
+  الإيطالي | Tomorrow: Como vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كومو ×
+  فروزينوني | Kick-off in 30 min: Como vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749961@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270425T163000Z
+DTEND:20270425T183000Z
+SUMMARY:Frosinone vs Roma — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749961
+DESCRIPTION:⚽ فروزينوني × روما\n🏆 الدوري الإي
+ طالي — الجولة 33\n🗓 الأحد 25 أبريل 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n—————\n⚽
+  Frosinone v Roma\n🏆 Serie A — Matchday 33\n🗓 Sun 25 Apr 2027 · 1
+ 6:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد روما — الدوري
+  الإيطالي | Tomorrow: Frosinone vs Roma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × روما | Kick-off in 30 min: Frosinone vs Roma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749977@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T163000Z
+DTEND:20270502T183000Z
+SUMMARY:Sassuolo vs Frosinone — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749977
+DESCRIPTION:⚽ ساسولو × فروزينوني\n🏆 الدوري ال
+ إيطالي — الجولة 34\n🗓 الأحد 2 مايو 2027 · 19:30
+  بتوقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n—
+ ————\n⚽ Sassuolo v Frosinone\n🏆 Serie A — Matchday 34\n🗓
+  Sun 02 May 2027 · 16:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد فروزينوني — الدو
+ ري الإيطالي | Tomorrow: Sassuolo vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × فروزينوني | Kick-off in 30 min: Sassuolo vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749981@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T163000Z
+DTEND:20270509T183000Z
+SUMMARY:Frosinone vs Atalanta — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749981
+DESCRIPTION:⚽ فروزينوني × أتالانتا\n🏆 الدوري 
+ الإيطالي — الجولة 35\n🗓 الأحد 9 مايو 2027 · 1
+ 9:30 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n—————
+ \n⚽ Frosinone v Atalanta\n🏆 Serie A — Matchday 35\n🗓 Sun 09 May 
+ 2027 · 16:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد أتالانتا — ال
+ دوري الإيطالي | Tomorrow: Frosinone vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × أتالانتا | Kick-off in 30 min: Frosinone vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749991@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T163000Z
+DTEND:20270516T183000Z
+SUMMARY:Bologna vs Frosinone — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749991
+DESCRIPTION:⚽ بولونيا × فروزينوني\n🏆 الدوري ا
+ لإيطالي — الجولة 36\n🗓 الأحد 16 مايو 2027 · 19
+ :30 بتوقيت الرياض\n🏟 Stadio Renato Dell'Ara\n————
+ —\n⚽ Bologna v Frosinone\n🏆 Serie A — Matchday 36\n🗓 Sun 16 Ma
+ y 2027 · 16:30 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد فروزينوني — الد
+ وري الإيطالي | Tomorrow: Bologna vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × فروزينوني | Kick-off in 30 min: Bologna vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750003@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T163000Z
+DTEND:20270523T183000Z
+SUMMARY:Frosinone vs Cagliari — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5750003
+DESCRIPTION:⚽ فروزينوني × كالياري\n🏆 الدوري ا
+ لإيطالي — الجولة 37\n🗓 الأحد 23 مايو 2027 · 19
+ :30 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n—————\
+ n⚽ Frosinone v Cagliari\n🏆 Serie A — Matchday 37\n🗓 Sun 23 May 2
+ 027 · 16:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد كالياري — الد
+ وري الإيطالي | Tomorrow: Frosinone vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × كالياري | Kick-off in 30 min: Frosinone vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750014@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T163000Z
+DTEND:20270530T183000Z
+SUMMARY:Juventus vs Frosinone — Serie A
+LOCATION:Allianz Stadium
+URL:https://www.fotmob.com/match/5750014
+DESCRIPTION:⚽ يوفنتوس × فروزينوني\n🏆 الدوري ا
+ لإيطالي — الجولة 38\n🗓 الأحد 30 مايو 2027 · 19
+ :30 بتوقيت الرياض\n🏟 Allianz Stadium\n—————\n⚽ 
+ Juventus v Frosinone\n🏆 Serie A — Matchday 38\n🗓 Sun 30 May 2027 
+ · 16:30 UTC\n🏟 Allianz Stadium\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد فروزينوني — الد
+ وري الإيطالي | Tomorrow: Juventus vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × فروزينوني | Kick-off in 30 min: Juventus vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852779@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260816T160000Z
+DTEND:20260816T180000Z
+SUMMARY:Frosinone vs Juve Stabia (4 - 1) — Coppa Italia
+LOCATION:Stadio Benito Stirpe\, Frosinone\, Italy
+GEO:41.634077;13.321822
+URL:https://www.fotmob.com/match/5852779
+DESCRIPTION:⚽ فروزينوني × جوفي ستابيا (4 - 1)\n🏆 
+ كأس إيطاليا — دور الـ32\n🗓 الأحد 16 أغسطس 2
+ 026 · 19:00 بتوقيت الرياض\n🏟 Stadio Benito Stirpe، Frosin
+ one\n⚖️ الحكم: Marco Di Loreto\n👥 الحضور: 3,475\n——
+ ———\n⚽ Frosinone v Juve Stabia (4 - 1)\n🏆 Coppa Italia — Roun
+ d of 32\n🗓 Sun 16 Aug 2026 · 16:00 UTC\n🏟 Stadio Benito Stirpe, Fro
+ sinone\nReferee: Marco Di Loreto\nAttendance: 3,475\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد جوفي ستابيا —
+  كأس إيطاليا | Tomorrow: Frosinone vs Juve Stabia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × جوفي ستابيا | Kick-off in 30 min: Frosinone vs Juve 
+ Stabia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003657@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260902T130000Z
+DTEND:20260902T150000Z
+SUMMARY:Sassuolo vs Frosinone (1 - 1) — Coppa Italia
+LOCATION:MAPEI Stadium - Città del Tricolore\, Reggio Emilia\, Italy
+GEO:44.714637;10.649711
+URL:https://www.fotmob.com/match/6003657
+DESCRIPTION:⚽ ساسولو × فروزينوني (1 - 1)\n🏆 كأس إ
+ يطاليا — دور الـ32\n🗓 الأربعاء 2 سبتمبر 202
+ 6 · 16:00 بتوقيت الرياض\n🏟 MAPEI Stadium - Città del Tric
+ olore، Reggio Emilia\n⚖️ الحكم: Andrea Calzavara\n————
+ —\n⚽ Sassuolo v Frosinone (1 - 1)\n🏆 Coppa Italia — Round of 32\n
+ 🗓 Wed 02 Sep 2026 · 13:00 UTC\n🏟 MAPEI Stadium - Città del Tricolo
+ re, Reggio Emilia\nReferee: Andrea Calzavara\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد فروزينوني — كأس 
+ إيطاليا | Tomorrow: Sassuolo vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × فروزينوني | Kick-off in 30 min: Sassuolo vs Frosinone
+END:VALARM
+END:VEVENT
+END:VCALENDAR

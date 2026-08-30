@@ -1,0 +1,1589 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Manchester United — Premier League & UEFA Champions Leag
+ ue & FA Cup Fixtures | مانشستر يونايتد — مباريات ا
+ لدوري الإنجليزي الممتاز ودوري أبطال أور
+ وبا وكأس الاتحاد الإنجليزي
+X-WR-CALDESC:Manchester United — all matches in Premier League & UEFA Cha
+ mpions League & FA Cup\, exact UTC kickoffs\, stadiums & TV. Data: FotMob 
+ + 365scores · auto-updated 2026-09-05T19:31:10Z.  •  مانشستر ي
+ ونايتد — جميع المباريات في الدوري الإنج
+ ليزي الممتاز ودوري أبطال أوروبا وكأس الا
+ تحاد الإنجليزي بتوقيت UTC الدقيق مع الملا
+ عب والقنوات الناقلة. المصدر: FotMob + 365scores · 
+ تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5795364@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T113000Z
+DTEND:20260822T133000Z
+SUMMARY:Hull City vs Manchester United (2 - 0) — Premier League
+LOCATION:MKM Stadium\, Hull\, England
+GEO:53.746240;-0.367640
+URL:https://www.fotmob.com/match/5795364
+DESCRIPTION:⚽ هال سيتي × مانشستر يونايتد (2 - 0)\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 1\n
+ 🗓 السبت 22 أغسطس 2026 · 14:30 بتوقيت الرياض\n
+ 🏟 MKM Stadium، Hull\n⚖️ الحكم: Darren England\n👥 الحض
+ ور: 24,470\n—————\n⚽ Hull City v Manchester United (2 - 0)\n
+ 🏆 Premier League — Matchday 1\n🗓 Sat 22 Aug 2026 · 11:30 UTC\n
+ 🏟 MKM Stadium, Hull\nReferee: Darren England\nAttendance: 24,470\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد مانشستر يونايت
+ د — الدوري الإنجليزي الممتاز | Tomorrow: Hull Cit
+ y vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × مانشستر يونايتد | Kick-off in 30 min: Hull City vs M
+ anchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795432@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T153000Z
+DTEND:20260830T173000Z
+SUMMARY:Manchester United vs Ipswich Town (5 - 2) — Premier League
+LOCATION:Old Trafford\, Manchester\, England
+GEO:53.463094;-2.291374
+URL:https://www.fotmob.com/match/5795432
+DESCRIPTION:⚽ مانشستر يونايتد × إبسويتش تاون (5
+  - 2)\n🏆 الدوري الإنجليزي الممتاز — الجول
+ ة 2\n🗓 الأحد 30 أغسطس 2026 · 18:30 بتوقيت الريا
+ ض\n🏟 Old Trafford، Manchester\n⚖️ الحكم: Craig Pawson\n—
+ ————\n⚽ Manchester United v Ipswich Town (5 - 2)\n🏆 Premier L
+ eague — Matchday 2\n🗓 Sun 30 Aug 2026 · 15:30 UTC\n🏟 Old Trafford
+ , Manchester\nReferee: Craig Pawson\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد إبسويتش
+  تاون — الدوري الإنجليزي الممتاز | Tomorrow: M
+ anchester United vs Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × إبسويتش تاون | Kick-off in 30 min: Manch
+ ester United vs Ipswich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795438@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Everton vs Manchester United — Premier League
+LOCATION:Hill Dickinson Stadium\, Liverpool\, Merseyside\, England
+GEO:53.424981;-3.002691
+URL:https://www.fotmob.com/match/5795438
+DESCRIPTION:⚽ إيفرتون × مانشستر يونايتد\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 3\n🗓 الأ
+ حد 6 سبتمبر 2026 · 16:00 بتوقيت الرياض\n🏟 Hill Dic
+ kinson Stadium، Liverpool, Merseyside\n📺 beIN SPORTS HD 1\n———
+ ——\n⚽ Everton v Manchester United\n🏆 Premier League — Matchday 
+ 3\n🗓 Sun 06 Sep 2026 · 13:00 UTC\n🏟 Hill Dickinson Stadium, Liverpo
+ ol, Merseyside\n📺 beIN Sport 1 HD\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد مانشستر يونايتد
+  — الدوري الإنجليزي الممتاز — 📺 beIN SPORTS H
+ D 1 | Tomorrow: Everton vs Manchester United | TV: beIN Sport 1 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × مانشستر يونايتد — 📺 beIN SPORTS HD 1 | Kick-off
+  in 30 min: Everton vs Manchester United | TV: beIN Sport 1 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795452@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260913T153000Z
+DTEND:20260913T173000Z
+SUMMARY:Manchester United vs Manchester City — Premier League
+LOCATION:Old Trafford\, Manchester\, England
+GEO:53.463094;-2.291374
+URL:https://www.fotmob.com/match/5795452
+DESCRIPTION:⚽ مانشستر يونايتد × مانشستر سيتي\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 4\n
+ 🗓 الأحد 13 سبتمبر 2026 · 18:30 بتوقيت الرياض\n
+ 🏟 Old Trafford، Manchester\n📺 Sky Sports Main Event، Sky Sports+ a
+ pp، Sky Sports Premier League، Sky Sports UHD، NOW، Telemundo، NBC Sp
+ orts Network، Peacock\n—————\n⚽ Manchester United v Mancheste
+ r City\n🏆 Premier League — Matchday 4\n🗓 Sun 13 Sep 2026 · 15:30 
+ UTC\n🏟 Old Trafford, Manchester\n📺 Sky Sports Main Event, Sky Sports
+ + app, Sky Sports Premier League, Sky Sports UHD, NOW, Telemundo, NBC Spor
+ ts Network, Peacock\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد مانشستر
+  سيتي — الدوري الإنجليزي الممتاز — 📺 Sky 
+ Sports Main Event، Sky Sports+ app، Sky Sports Premier League، Sky Spor
+ ts UHD، NOW، Telemundo، NBC Sports Network، Peacock | Tomorrow: Manche
+ ster United vs Manchester City | TV: Sky Sports Main Event\, Sky Sports+ a
+ pp\, Sky Sports Premier League\, Sky Sports UHD\, NOW\, Telemundo\, NBC Sp
+ orts Network\, Peacock
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × مانشستر سيتي — 📺 Sky Sports Main Ev
+ ent، Sky Sports+ app، Sky Sports Premier League، Sky Sports UHD، NOW،
+  Telemundo، NBC Sports Network، Peacock | Kick-off in 30 min: Manchester
+  United vs Manchester City | TV: Sky Sports Main Event\, Sky Sports+ app\,
+  Sky Sports Premier League\, Sky Sports UHD\, NOW\, Telemundo\, NBC Sports
+  Network\, Peacock
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795459@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T153000Z
+DTEND:20260920T173000Z
+SUMMARY:Fulham vs Manchester United — Premier League
+LOCATION:Craven Cottage\, London\, England
+GEO:51.474898;-0.221647
+URL:https://www.fotmob.com/match/5795459
+DESCRIPTION:⚽ فولهام × مانشستر يونايتد\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 5\n🗓 الأح
+ د 20 سبتمبر 2026 · 18:30 بتوقيت الرياض\n🏟 Craven Co
+ ttage، London\n—————\n⚽ Fulham v Manchester United\n🏆 Prem
+ ier League — Matchday 5\n🗓 Sun 20 Sep 2026 · 15:30 UTC\n🏟 Craven 
+ Cottage, London\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد مانشستر يونايتد 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Fulham vs M
+ anchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × مانشستر يونايتد | Kick-off in 30 min: Fulham vs Manche
+ ster United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795473@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T163000Z
+DTEND:20261010T183000Z
+SUMMARY:Manchester United vs Tottenham Hotspur — Premier League
+LOCATION:Old Trafford\, Manchester\, England
+GEO:53.463094;-2.291374
+URL:https://www.fotmob.com/match/5795473
+DESCRIPTION:⚽ مانشستر يونايتد × توتنهام هوتسب
+ ر\n🏆 الدوري الإنجليزي الممتاز — الجولة 6
+ \n🗓 السبت 10 أكتوبر 2026 · 19:30 بتوقيت الرياض\
+ n🏟 Old Trafford، Manchester\n—————\n⚽ Manchester United v 
+ Tottenham Hotspur\n🏆 Premier League — Matchday 6\n🗓 Sat 10 Oct 202
+ 6 · 16:30 UTC\n🏟 Old Trafford, Manchester\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد توتنهام
+  هوتسبر — الدوري الإنجليزي الممتاز | Tomorro
+ w: Manchester United vs Tottenham Hotspur
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × توتنهام هوتسبر | Kick-off in 30 min: M
+ anchester United vs Tottenham Hotspur
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795480@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Leeds United vs Manchester United — Premier League
+LOCATION:Elland Road\, Leeds\, West Yorkshire\, England
+GEO:53.777834;-1.572279
+URL:https://www.fotmob.com/match/5795480
+DESCRIPTION:⚽ ليدز يونايتد × مانشستر يونايتد\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 7\n
+ 🗓 الأحد 18 أكتوبر 2026 · 16:00 بتوقيت الرياض\n
+ 🏟 Elland Road، Leeds, West Yorkshire\n—————\n⚽ Leeds Unite
+ d v Manchester United\n🏆 Premier League — Matchday 7\n🗓 Sun 18 Oct
+  2026 · 13:00 UTC\n🏟 Elland Road, Leeds, West Yorkshire\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد مانشستر يو
+ نايتد — الدوري الإنجليزي الممتاز | Tomorrow: 
+ Leeds United vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × مانشستر يونايتد | Kick-off in 30 min: Leeds 
+ United vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795493@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Manchester United vs AFC Bournemouth — Premier League
+LOCATION:Old Trafford\, Manchester\, England
+GEO:53.463094;-2.291374
+URL:https://www.fotmob.com/match/5795493
+DESCRIPTION:⚽ مانشستر يونايتد × بورنموث\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 8\n🗓 الأ
+ حد 25 أكتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 Old Tra
+ fford، Manchester\n—————\n⚽ Manchester United v AFC Bournemou
+ th\n🏆 Premier League — Matchday 8\n🗓 Sun 25 Oct 2026 · 14:00 UTC\
+ n🏟 Old Trafford, Manchester\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد بورنموث
+  — الدوري الإنجليزي الممتاز | Tomorrow: Manchester
+  United vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × بورنموث | Kick-off in 30 min: Manchester Uni
+ ted vs AFC Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795498@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T123000Z
+DTEND:20261031T143000Z
+SUMMARY:Chelsea vs Manchester United — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795498
+DESCRIPTION:⚽ تشيلسي × مانشستر يونايتد\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 9\n🗓 السب
+ ت 31 أكتوبر 2026 · 15:30 بتوقيت الرياض\n🏟 Stamford 
+ Bridge\n—————\n⚽ Chelsea v Manchester United\n🏆 Premier Lea
+ gue — Matchday 9\n🗓 Sat 31 Oct 2026 · 12:30 UTC\n🏟 Stamford Bridg
+ e\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد مانشستر يونايتد 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Chelsea vs 
+ Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × مانشستر يونايتد | Kick-off in 30 min: Chelsea vs Manch
+ ester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795512@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Manchester United vs Aston Villa — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795512
+DESCRIPTION:⚽ مانشستر يونايتد × أستون فيلا\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 10\n🗓 
+ السبت 7 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Ol
+ d Trafford\n—————\n⚽ Manchester United v Aston Villa\n🏆 Pre
+ mier League — Matchday 10\n🗓 Sat 07 Nov 2026 · 15:00 UTC\n🏟 Old T
+ rafford\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد أستون ف
+ يلا — الدوري الإنجليزي الممتاز | Tomorrow: Manc
+ hester United vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × أستون فيلا | Kick-off in 30 min: Mancheste
+ r United vs Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795521@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:Liverpool vs Manchester United — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795521
+DESCRIPTION:⚽ ليفربول × مانشستر يونايتد\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 11\n🗓 ال
+ سبت 21 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Anfie
+ ld\n—————\n⚽ Liverpool v Manchester United\n🏆 Premier Leagu
+ e — Matchday 11\n🗓 Sat 21 Nov 2026 · 15:00 UTC\n🏟 Anfield\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد مانشستر يونايتد
+  — الدوري الإنجليزي الممتاز | Tomorrow: Liverpool 
+ vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × مانشستر يونايتد | Kick-off in 30 min: Liverpool vs M
+ anchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795532@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:Manchester United vs Brentford — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795532
+DESCRIPTION:⚽ مانشستر يونايتد × برينتفورد\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 12\n🗓 
+ السبت 28 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 O
+ ld Trafford\n—————\n⚽ Manchester United v Brentford\n🏆 Prem
+ ier League — Matchday 12\n🗓 Sat 28 Nov 2026 · 15:00 UTC\n🏟 Old Tr
+ afford\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد برينتفو
+ رد — الدوري الإنجليزي الممتاز | Tomorrow: Manche
+ ster United vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × برينتفورد | Kick-off in 30 min: Manchester
+  United vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795543@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Newcastle United vs Manchester United — Premier League
+LOCATION:St James' Park
+URL:https://www.fotmob.com/match/5795543
+DESCRIPTION:⚽ نيوكاسل يونايتد × مانشستر يوناي
+ تد\n🏆 الدوري الإنجليزي الممتاز — الجولة
+  13\n🗓 الأربعاء 2 ديسمبر 2026 · 23:00 بتوقيت ال
+ رياض\n🏟 St James' Park\n—————\n⚽ Newcastle United v Man
+ chester United\n🏆 Premier League — Matchday 13\n🗓 Wed 02 Dec 2026 
+ · 20:00 UTC\n🏟 St James' Park\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل يونايتد ضد مانشستر
+  يونايتد — الدوري الإنجليزي الممتاز | Tomor
+ row: Newcastle United vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل يونايتد × مانشستر يونايتد | Kick-off in 30 min:
+  Newcastle United vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795551@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Manchester United vs Coventry City — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795551
+DESCRIPTION:⚽ مانشستر يونايتد × كوفنتري سيتي\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 14\n
+ 🗓 السبت 5 ديسمبر 2026 · 18:00 بتوقيت الرياض\n
+ 🏟 Old Trafford\n—————\n⚽ Manchester United v Coventry City\
+ n🏆 Premier League — Matchday 14\n🗓 Sat 05 Dec 2026 · 15:00 UTC\n
+ 🏟 Old Trafford\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد كوفنتري
+  سيتي — الدوري الإنجليزي الممتاز | Tomorrow: M
+ anchester United vs Coventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × كوفنتري سيتي | Kick-off in 30 min: Manch
+ ester United vs Coventry City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795558@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Crystal Palace vs Manchester United — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795558
+DESCRIPTION:⚽ كريستال بالاس × مانشستر يونايتد\
+ n🏆 الدوري الإنجليزي الممتاز — الجولة 15\n
+ 🗓 السبت 12 ديسمبر 2026 · 18:00 بتوقيت الرياض\n
+ 🏟 Selhurst Park\n—————\n⚽ Crystal Palace v Manchester Unite
+ d\n🏆 Premier League — Matchday 15\n🗓 Sat 12 Dec 2026 · 15:00 UTC\
+ n🏟 Selhurst Park\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد مانشستر ي
+ ونايتد — الدوري الإنجليزي الممتاز | Tomorrow
+ : Crystal Palace vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × مانشستر يونايتد | Kick-off in 30 min: Cry
+ stal Palace vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795566@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:Arsenal vs Manchester United — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795566
+DESCRIPTION:⚽ أرسنال × مانشستر يونايتد\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 16\n🗓 الس
+ بت 19 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Emirate
+ s Stadium\n—————\n⚽ Arsenal v Manchester United\n🏆 Premier 
+ League — Matchday 16\n🗓 Sat 19 Dec 2026 · 15:00 UTC\n🏟 Emirates S
+ tadium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد مانشستر يونايتد 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Arsenal vs 
+ Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × مانشستر يونايتد | Kick-off in 30 min: Arsenal vs Manch
+ ester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795582@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261226T150000Z
+DTEND:20261226T170000Z
+SUMMARY:Manchester United vs Nottingham Forest — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795582
+DESCRIPTION:⚽ مانشستر يونايتد × نوتنجهام فورس
+ ت\n🏆 الدوري الإنجليزي الممتاز — الجولة 1
+ 7\n🗓 السبت 26 ديسمبر 2026 · 18:00 بتوقيت الرياض
+ \n🏟 Old Trafford\n—————\n⚽ Manchester United v Nottingham F
+ orest\n🏆 Premier League — Matchday 17\n🗓 Sat 26 Dec 2026 · 15:00 
+ UTC\n🏟 Old Trafford\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد نوتنجها
+ م فورست — الدوري الإنجليزي الممتاز | Tomorro
+ w: Manchester United vs Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × نوتنجهام فورست | Kick-off in 30 min: M
+ anchester United vs Nottingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795592@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261230T200000Z
+DTEND:20261230T220000Z
+SUMMARY:Manchester United vs Sunderland — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795592
+DESCRIPTION:⚽ مانشستر يونايتد × سندرلاند\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 18\n🗓 ا
+ لأربعاء 30 ديسمبر 2026 · 23:00 بتوقيت الرياض\n
+ 🏟 Old Trafford\n—————\n⚽ Manchester United v Sunderland\n
+ 🏆 Premier League — Matchday 18\n🗓 Wed 30 Dec 2026 · 20:00 UTC\n
+ 🏟 Old Trafford\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد سندرلان
+ د — الدوري الإنجليزي الممتاز | Tomorrow: Manchest
+ er United vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × سندرلاند | Kick-off in 30 min: Manchester U
+ nited vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795598@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T150000Z
+DTEND:20270102T170000Z
+SUMMARY:Brighton & Hove Albion vs Manchester United — Premier League
+LOCATION:The American Express Community Stadium
+URL:https://www.fotmob.com/match/5795598
+DESCRIPTION:⚽ برايتون × مانشستر يونايتد\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 19\n🗓 ال
+ سبت 2 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 The Amer
+ ican Express Community Stadium\n—————\n⚽ Brighton & Hove Albio
+ n v Manchester United\n🏆 Premier League — Matchday 19\n🗓 Sat 02 Ja
+ n 2027 · 15:00 UTC\n🏟 The American Express Community Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برايتون ضد مانشستر يونايتد
+  — الدوري الإنجليزي الممتاز | Tomorrow: Brighton &
+  Hove Albion vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برايت
+ ون × مانشستر يونايتد | Kick-off in 30 min: Brighton & Hov
+ e Albion vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795612@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T200000Z
+DTEND:20270106T220000Z
+SUMMARY:Manchester United vs Newcastle United — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795612
+DESCRIPTION:⚽ مانشستر يونايتد × نيوكاسل يوناي
+ تد\n🏆 الدوري الإنجليزي الممتاز — الجولة
+  20\n🗓 الأربعاء 6 يناير 2027 · 23:00 بتوقيت الر
+ ياض\n🏟 Old Trafford\n—————\n⚽ Manchester United v Newcas
+ tle United\n🏆 Premier League — Matchday 20\n🗓 Wed 06 Jan 2027 · 2
+ 0:00 UTC\n🏟 Old Trafford\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد نيوكاسل
+  يونايتد — الدوري الإنجليزي الممتاز | Tomor
+ row: Manchester United vs Newcastle United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × نيوكاسل يونايتد | Kick-off in 30 min:
+  Manchester United vs Newcastle United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795616@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:Aston Villa vs Manchester United — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795616
+DESCRIPTION:⚽ أستون فيلا × مانشستر يونايتد\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 21\n🗓 
+ السبت 16 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Vil
+ la Park\n—————\n⚽ Aston Villa v Manchester United\n🏆 Premie
+ r League — Matchday 21\n🗓 Sat 16 Jan 2027 · 15:00 UTC\n🏟 Villa Pa
+ rk\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد مانشستر يونا
+ يتد — الدوري الإنجليزي الممتاز | Tomorrow: Asto
+ n Villa vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × مانشستر يونايتد | Kick-off in 30 min: Aston Vill
+ a vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795632@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:Manchester United vs Liverpool — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795632
+DESCRIPTION:⚽ مانشستر يونايتد × ليفربول\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 22\n🗓 ال
+ سبت 23 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Old Tra
+ fford\n—————\n⚽ Manchester United v Liverpool\n🏆 Premier Le
+ ague — Matchday 22\n🗓 Sat 23 Jan 2027 · 15:00 UTC\n🏟 Old Trafford
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد ليفربول
+  — الدوري الإنجليزي الممتاز | Tomorrow: Manchester
+  United vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × ليفربول | Kick-off in 30 min: Manchester Uni
+ ted vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795637@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Brentford vs Manchester United — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795637
+DESCRIPTION:⚽ برينتفورد × مانشستر يونايتد\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 23\n🗓 
+ السبت 30 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Gte
+ ch Community Stadium\n—————\n⚽ Brentford v Manchester United\n
+ 🏆 Premier League — Matchday 23\n🗓 Sat 30 Jan 2027 · 15:00 UTC\n
+ 🏟 Gtech Community Stadium\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد مانشستر يوناي
+ تد — الدوري الإنجليزي الممتاز | Tomorrow: Brentf
+ ord vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × مانشستر يونايتد | Kick-off in 30 min: Brentford 
+ vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795652@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Manchester United vs Chelsea — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795652
+DESCRIPTION:⚽ مانشستر يونايتد × تشيلسي\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 24\n🗓 الس
+ بت 6 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Old Traf
+ ford\n—————\n⚽ Manchester United v Chelsea\n🏆 Premier Leagu
+ e — Matchday 24\n🗓 Sat 06 Feb 2027 · 15:00 UTC\n🏟 Old Trafford\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد تشيلسي 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Manchester 
+ United vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × تشيلسي | Kick-off in 30 min: Manchester Unite
+ d vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795662@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270210T200000Z
+DTEND:20270210T220000Z
+SUMMARY:Manchester United vs Brighton & Hove Albion — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795662
+DESCRIPTION:⚽ مانشستر يونايتد × برايتون\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 25\n🗓 ال
+ أربعاء 10 فبراير 2027 · 23:00 بتوقيت الرياض\n🏟
+  Old Trafford\n—————\n⚽ Manchester United v Brighton & Hove Al
+ bion\n🏆 Premier League — Matchday 25\n🗓 Wed 10 Feb 2027 · 20:00 U
+ TC\n🏟 Old Trafford\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد برايتون
+  — الدوري الإنجليزي الممتاز | Tomorrow: Manchester
+  United vs Brighton & Hove Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × برايتون | Kick-off in 30 min: Manchester Uni
+ ted vs Brighton & Hove Albion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795673@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:Nottingham Forest vs Manchester United — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795673
+DESCRIPTION:⚽ نوتنجهام فورست × مانشستر يونايت
+ د\n🏆 الدوري الإنجليزي الممتاز — الجولة 2
+ 6\n🗓 السبت 20 فبراير 2027 · 18:00 بتوقيت الرياض
+ \n🏟 City Ground, Nottingham\n—————\n⚽ Nottingham Forest v M
+ anchester United\n🏆 Premier League — Matchday 26\n🗓 Sat 20 Feb 202
+ 7 · 15:00 UTC\n🏟 City Ground, Nottingham\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد مانشستر 
+ يونايتد — الدوري الإنجليزي الممتاز | Tomorr
+ ow: Nottingham Forest vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × مانشستر يونايتد | Kick-off in 30 min: N
+ ottingham Forest vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795682@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T150000Z
+DTEND:20270227T170000Z
+SUMMARY:Manchester United vs Arsenal — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795682
+DESCRIPTION:⚽ مانشستر يونايتد × أرسنال\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 27\n🗓 الس
+ بت 27 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Old Tra
+ fford\n—————\n⚽ Manchester United v Arsenal\n🏆 Premier Leag
+ ue — Matchday 27\n🗓 Sat 27 Feb 2027 · 15:00 UTC\n🏟 Old Trafford\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد أرسنال 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Manchester 
+ United vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × أرسنال | Kick-off in 30 min: Manchester Unite
+ d vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795694@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270303T200000Z
+DTEND:20270303T220000Z
+SUMMARY:Sunderland vs Manchester United — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795694
+DESCRIPTION:⚽ سندرلاند × مانشستر يونايتد\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 28\n🗓 ا
+ لأربعاء 3 مارس 2027 · 23:00 بتوقيت الرياض\n🏟 St
+ adium of Light\n—————\n⚽ Sunderland v Manchester United\n🏆 
+ Premier League — Matchday 28\n🗓 Wed 03 Mar 2027 · 20:00 UTC\n🏟 St
+ adium of Light\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد مانشستر يونايت
+ د — الدوري الإنجليزي الممتاز | Tomorrow: Sunderla
+ nd vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × مانشستر يونايتد | Kick-off in 30 min: Sunderland v
+ s Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795702@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T150000Z
+DTEND:20270313T170000Z
+SUMMARY:Manchester United vs Everton — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795702
+DESCRIPTION:⚽ مانشستر يونايتد × إيفرتون\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 29\n🗓 ال
+ سبت 13 مارس 2027 · 18:00 بتوقيت الرياض\n🏟 Old Traff
+ ord\n—————\n⚽ Manchester United v Everton\n🏆 Premier League
+  — Matchday 29\n🗓 Sat 13 Mar 2027 · 15:00 UTC\n🏟 Old Trafford\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد إيفرتون
+  — الدوري الإنجليزي الممتاز | Tomorrow: Manchester
+  United vs Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × إيفرتون | Kick-off in 30 min: Manchester Uni
+ ted vs Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795712@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T150000Z
+DTEND:20270320T170000Z
+SUMMARY:Manchester City vs Manchester United — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795712
+DESCRIPTION:⚽ مانشستر سيتي × مانشستر يونايتد\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 30\n
+ 🗓 السبت 20 مارس 2027 · 18:00 بتوقيت الرياض\n🏟 
+ Etihad Stadium\n—————\n⚽ Manchester City v Manchester United\n
+ 🏆 Premier League — Matchday 30\n🗓 Sat 20 Mar 2027 · 15:00 UTC\n
+ 🏟 Etihad Stadium\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد مانشستر يو
+ نايتد — الدوري الإنجليزي الممتاز | Tomorrow: 
+ Manchester City vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × مانشستر يونايتد | Kick-off in 30 min: Manch
+ ester City vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795722@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T140000Z
+DTEND:20270410T160000Z
+SUMMARY:Manchester United vs Hull City — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795722
+DESCRIPTION:⚽ مانشستر يونايتد × هال سيتي\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 31\n🗓 ال
+ سبت 10 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 Old Tra
+ fford\n—————\n⚽ Manchester United v Hull City\n🏆 Premier Le
+ ague — Matchday 31\n🗓 Sat 10 Apr 2027 · 14:00 UTC\n🏟 Old Trafford
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد هال سيت
+ ي — الدوري الإنجليزي الممتاز | Tomorrow: Manchest
+ er United vs Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × هال سيتي | Kick-off in 30 min: Manchester Un
+ ited vs Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795731@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T140000Z
+DTEND:20270417T160000Z
+SUMMARY:Ipswich Town vs Manchester United — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795731
+DESCRIPTION:⚽ إبسويتش تاون × مانشستر يونايتد\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 32\n
+ 🗓 السبت 17 أبريل 2027 · 17:00 بتوقيت الرياض\n
+ 🏟 Portman Road\n—————\n⚽ Ipswich Town v Manchester United\n
+ 🏆 Premier League — Matchday 32\n🗓 Sat 17 Apr 2027 · 14:00 UTC\n
+ 🏟 Portman Road\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد مانشستر يو
+ نايتد — الدوري الإنجليزي الممتاز | Tomorrow: 
+ Ipswich Town vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × مانشستر يونايتد | Kick-off in 30 min: Ipswi
+ ch Town vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795741@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T140000Z
+DTEND:20270424T160000Z
+SUMMARY:Manchester United vs Crystal Palace — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795741
+DESCRIPTION:⚽ مانشستر يونايتد × كريستال بالاس\
+ n🏆 الدوري الإنجليزي الممتاز — الجولة 33\n
+ 🗓 السبت 24 أبريل 2027 · 17:00 بتوقيت الرياض\n
+ 🏟 Old Trafford\n—————\n⚽ Manchester United v Crystal Palace
+ \n🏆 Premier League — Matchday 33\n🗓 Sat 24 Apr 2027 · 14:00 UTC\n
+ 🏟 Old Trafford\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد كريستال
+  بالاس — الدوري الإنجليزي الممتاز | Tomorrow:
+  Manchester United vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × كريستال بالاس | Kick-off in 30 min: Man
+ chester United vs Crystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795747@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T140000Z
+DTEND:20270501T160000Z
+SUMMARY:Coventry City vs Manchester United — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795747
+DESCRIPTION:⚽ كوفنتري سيتي × مانشستر يونايتد\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 34\n
+ 🗓 السبت 1 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 C
+ oventry Building Society Arena\n—————\n⚽ Coventry City v Manch
+ ester United\n🏆 Premier League — Matchday 34\n🗓 Sat 01 May 2027 ·
+  14:00 UTC\n🏟 Coventry Building Society Arena\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد مانشستر يو
+ نايتد — الدوري الإنجليزي الممتاز | Tomorrow: 
+ Coventry City vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × مانشستر يونايتد | Kick-off in 30 min: Coven
+ try City vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795755@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T140000Z
+DTEND:20270508T160000Z
+SUMMARY:AFC Bournemouth vs Manchester United — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795755
+DESCRIPTION:⚽ بورنموث × مانشستر يونايتد\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 35\n🗓 ال
+ سبت 8 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Vitality S
+ tadium\n—————\n⚽ AFC Bournemouth v Manchester United\n🏆 Pre
+ mier League — Matchday 35\n🗓 Sat 08 May 2027 · 14:00 UTC\n🏟 Vital
+ ity Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد مانشستر يونايتد
+  — الدوري الإنجليزي الممتاز | Tomorrow: AFC Bourne
+ mouth vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × مانشستر يونايتد | Kick-off in 30 min: AFC Bournemout
+ h vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795786@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T140000Z
+DTEND:20270515T160000Z
+SUMMARY:Manchester United vs Leeds United — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795786
+DESCRIPTION:⚽ مانشستر يونايتد × ليدز يونايتد\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 36\n
+ 🗓 السبت 15 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 
+ Old Trafford\n—————\n⚽ Manchester United v Leeds United\n🏆 
+ Premier League — Matchday 36\n🗓 Sat 15 May 2027 · 14:00 UTC\n🏟 Ol
+ d Trafford\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد ليدز يو
+ نايتد — الدوري الإنجليزي الممتاز | Tomorrow: 
+ Manchester United vs Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × ليدز يونايتد | Kick-off in 30 min: Manch
+ ester United vs Leeds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795797@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T140000Z
+DTEND:20270523T160000Z
+SUMMARY:Tottenham Hotspur vs Manchester United — Premier League
+LOCATION:Tottenham Hotspur Stadium
+URL:https://www.fotmob.com/match/5795797
+DESCRIPTION:⚽ توتنهام هوتسبر × مانشستر يونايت
+ د\n🏆 الدوري الإنجليزي الممتاز — الجولة 3
+ 7\n🗓 الأحد 23 مايو 2027 · 17:00 بتوقيت الرياض\n
+ 🏟 Tottenham Hotspur Stadium\n—————\n⚽ Tottenham Hotspur v M
+ anchester United\n🏆 Premier League — Matchday 37\n🗓 Sun 23 May 202
+ 7 · 14:00 UTC\n🏟 Tottenham Hotspur Stadium\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توتنهام هوتسبر ضد مانشستر 
+ يونايتد — الدوري الإنجليزي الممتاز | Tomorr
+ ow: Tottenham Hotspur vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توتنه
+ ام هوتسبر × مانشستر يونايتد | Kick-off in 30 min: T
+ ottenham Hotspur vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795806@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T150000Z
+DTEND:20270530T170000Z
+SUMMARY:Manchester United vs Fulham — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795806
+DESCRIPTION:⚽ مانشستر يونايتد × فولهام\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 38\n🗓 الأ
+ حد 30 مايو 2027 · 18:00 بتوقيت الرياض\n🏟 Old Traffor
+ d\n—————\n⚽ Manchester United v Fulham\n🏆 Premier League 
+ — Matchday 38\n🗓 Sun 30 May 2027 · 15:00 UTC\n🏟 Old Trafford\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد فولهام 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Manchester 
+ United vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × فولهام | Kick-off in 30 min: Manchester Unite
+ d vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106293@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260910T190000Z
+DTEND:20260910T210000Z
+SUMMARY:Manchester United vs Sabah FK — UEFA Champions League
+LOCATION:Old Trafford\, Manchester\, England
+GEO:53.463094;-2.291374
+URL:https://www.fotmob.com/match/6106293
+DESCRIPTION:⚽ مانشستر يونايتد × صباح\n🏆 دوري أ
+ بطال أوروبا — الجولة 1\n🗓 الخميس 10 سبتمب
+ ر 2026 · 22:00 بتوقيت الرياض\n🏟 Old Trafford، Manchester
+ \n📺 HBO Max (UK)، Paramount+ (US)، Premier Sports 1 ROI، RTÉ2، RT
+ É Player\n—————\n⚽ Manchester United v Sabah FK\n🏆 UEFA Ch
+ ampions League — Matchday 1\n🗓 Thu 10 Sep 2026 · 19:00 UTC\n🏟 Old
+  Trafford, Manchester\n📺 HBO Max (UK), Paramount+ (US), Premier Sports 
+ 1 ROI, RTÉ2, RTÉ Player\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد صباح — 
+ دوري أبطال أوروبا — 📺 HBO Max (UK)، Paramount+ (US)،
+  Premier Sports 1 ROI، RTÉ2، RTÉ Player | Tomorrow: Manchester United 
+ vs Sabah FK | TV: HBO Max (UK)\, Paramount+ (US)\, Premier Sports 1 ROI\, 
+ RTÉ2\, RTÉ Player
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × صباح — 📺 HBO Max (UK)، Paramount+ (US)، 
+ Premier Sports 1 ROI، RTÉ2، RTÉ Player | Kick-off in 30 min: Mancheste
+ r United vs Sabah FK | TV: HBO Max (UK)\, Paramount+ (US)\, Premier Sports
+  1 ROI\, RTÉ2\, RTÉ Player
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106267@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Atlético Madrid vs Manchester United — UEFA Champions League
+LOCATION:Riyadh Air Metropolitano\, Madrid\, Spain
+GEO:40.436226;-3.599460
+URL:https://www.fotmob.com/match/6106267
+DESCRIPTION:⚽ أتلتيكو مدريد × مانشستر يونايتد\
+ n🏆 دوري أبطال أوروبا — الجولة 2\n🗓 الثلا
+ ثاء 13 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Riyad
+ h Air Metropolitano، Madrid\n—————\n⚽ Atlético Madrid v Manc
+ hester United\n🏆 UEFA Champions League — Matchday 2\n🗓 Tue 13 Oct 
+ 2026 · 19:00 UTC\n🏟 Riyadh Air Metropolitano, Madrid\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد مانشستر ي
+ ونايتد — دوري أبطال أوروبا | Tomorrow: Atlético Ma
+ drid vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × مانشستر يونايتد | Kick-off in 30 min: Atl
+ ético Madrid vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106410@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261021T164500Z
+DTEND:20261021T184500Z
+SUMMARY:Como vs Manchester United — UEFA Champions League
+LOCATION:Stadio Giuseppe Sinigaglia\, Como\, Italy
+GEO:45.813857;9.072376
+URL:https://www.fotmob.com/match/6106410
+DESCRIPTION:⚽ كومو × مانشستر يونايتد\n🏆 دوري أ
+ بطال أوروبا — الجولة 3\n🗓 الأربعاء 21 أكت
+ وبر 2026 · 19:45 بتوقيت الرياض\n🏟 Stadio Giuseppe Sinig
+ aglia، Como\n—————\n⚽ Como v Manchester United\n🏆 UEFA Cha
+ mpions League — Matchday 3\n🗓 Wed 21 Oct 2026 · 16:45 UTC\n🏟 Stad
+ io Giuseppe Sinigaglia, Como\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كومو ضد مانشستر يونايتد — 
+ دوري أبطال أوروبا | Tomorrow: Como vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كومو ×
+  مانشستر يونايتد | Kick-off in 30 min: Como vs Manchester Un
+ ited
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106291@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+SUMMARY:Manchester United vs Roma — UEFA Champions League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/6106291
+DESCRIPTION:⚽ مانشستر يونايتد × روما\n🏆 دوري أ
+ بطال أوروبا — الجولة 4\n🗓 الثلاثاء 3 نوفم
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Old Trafford\n———
+ ——\n⚽ Manchester United v Roma\n🏆 UEFA Champions League — Match
+ day 4\n🗓 Tue 03 Nov 2026 · 20:00 UTC\n🏟 Old Trafford\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد روما — 
+ دوري أبطال أوروبا | Tomorrow: Manchester United vs Roma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × روما | Kick-off in 30 min: Manchester United vs
+  Roma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106279@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Sporting CP vs Manchester United — UEFA Champions League
+LOCATION:Estadio Jose Alvalade
+URL:https://www.fotmob.com/match/6106279
+DESCRIPTION:⚽ سبورتنج لشبونة × مانشستر يونايت
+ د\n🏆 دوري أبطال أوروبا — الجولة 5\n🗓 الأ
+ ربعاء 25 نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 E
+ stadio Jose Alvalade\n—————\n⚽ Sporting CP v Manchester United
+ \n🏆 UEFA Champions League — Matchday 5\n🗓 Wed 25 Nov 2026 · 20:00
+  UTC\n🏟 Estadio Jose Alvalade\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سبورتنج لشبونة ضد مانشستر 
+ يونايتد — دوري أبطال أوروبا | Tomorrow: Sporting C
+ P vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سبورت
+ نج لشبونة × مانشستر يونايتد | Kick-off in 30 min: S
+ porting CP vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106292@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+SUMMARY:Manchester United vs RB Leipzig — UEFA Champions League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/6106292
+DESCRIPTION:⚽ مانشستر يونايتد × لايبزيج\n🏆 دو
+ ري أبطال أوروبا — الجولة 6\n🗓 الثلاثاء 8 
+ ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Old Trafford\n
+ —————\n⚽ Manchester United v RB Leipzig\n🏆 UEFA Champions L
+ eague — Matchday 6\n🗓 Tue 08 Dec 2026 · 20:00 UTC\n🏟 Old Trafford
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد لايبزيج
+  — دوري أبطال أوروبا | Tomorrow: Manchester United vs RB 
+ Leipzig
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × لايبزيج | Kick-off in 30 min: Manchester Uni
+ ted vs RB Leipzig
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106290@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+SUMMARY:Manchester United vs Bayern München — UEFA Champions League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/6106290
+DESCRIPTION:⚽ مانشستر يونايتد × بايرن ميونخ\n
+ 🏆 دوري أبطال أوروبا — الجولة 7\n🗓 الأرب
+ عاء 20 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Old Tra
+ fford\n—————\n⚽ Manchester United v Bayern München\n🏆 UEFA
+  Champions League — Matchday 7\n🗓 Wed 20 Jan 2027 · 20:00 UTC\n🏟 
+ Old Trafford\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد بايرن م
+ يونخ — دوري أبطال أوروبا | Tomorrow: Manchester Unite
+ d vs Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × بايرن ميونخ | Kick-off in 30 min: Manches
+ ter United vs Bayern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106327@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Villarreal vs Manchester United — UEFA Champions League
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/6106327
+DESCRIPTION:⚽ فياريال × مانشستر يونايتد\n🏆 دو
+ ري أبطال أوروبا — الجولة 8\n🗓 الأربعاء 27 
+ يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Estadio de la Cer
+ amica\n—————\n⚽ Villarreal v Manchester United\n🏆 UEFA Cham
+ pions League — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Estad
+ io de la Ceramica\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد مانشستر يونايتد
+  — دوري أبطال أوروبا | Tomorrow: Villarreal vs Manchester
+  United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × مانشستر يونايتد | Kick-off in 30 min: Villarreal vs 
+ Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089922@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260111T163000Z
+DTEND:20260111T183000Z
+SUMMARY:Manchester United vs Brighton & Hove Albion (1 - 2) — FA Cup
+LOCATION:Old Trafford\, Manchester\, England
+GEO:53.463094;-2.291374
+URL:https://www.fotmob.com/match/5089922
+DESCRIPTION:⚽ مانشستر يونايتد × برايتون (1 - 2)\n
+ 🏆 كأس الاتحاد الإنجليزي — الدور الثالث\
+ n🗓 الأحد 11 يناير 2026 · 19:30 بتوقيت الرياض\n
+ 🏟 Old Trafford، Manchester\n⚖️ الحكم: Simon Hooper\n👥 ال
+ حضور: 73,888\n—————\n⚽ Manchester United v Brighton & Hove
+  Albion (1 - 2)\n🏆 FA Cup — Round 3\n🗓 Sun 11 Jan 2026 · 16:30 UT
+ C\n🏟 Old Trafford, Manchester\nReferee: Simon Hooper\nAttendance: 73,88
+ 8\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد برايتون
+  — كأس الاتحاد الإنجليزي | Tomorrow: Manchester Unite
+ d vs Brighton & Hove Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × برايتون | Kick-off in 30 min: Manchester Uni
+ ted vs Brighton & Hove Albion
+END:VALARM
+END:VEVENT
+END:VCALENDAR

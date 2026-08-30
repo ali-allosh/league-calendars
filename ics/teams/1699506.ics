@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al-Zulfi — King's Cup Fixtures | الزلفي — مبا
+ ريات كأس خادم الحرمين الشريفين
+X-WR-CALDESC:Al-Zulfi — all matches in King's Cup\, exact UTC kickoffs\, 
+ stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:1
+ 0Z.  •  الزلفي — جميع المباريات في كأس خاد
+ م الحرمين الشريفين بتوقيت UTC الدقيق مع ال
+ ملاعب والقنوات الناقلة. المصدر: FotMob + 365scor
+ es · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5853725@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260817T161500Z
+DTEND:20260817T181500Z
+SUMMARY:Al-Zulfi vs Al Riyadh (0 - 2) — King's Cup
+LOCATION:Al Zulfi Stadium\, Al Zulfi\, Saudi Arabia
+GEO:26.306342;44.837372
+URL:https://www.fotmob.com/match/5853725
+DESCRIPTION:⚽ الزلفي × الرياض (0 - 2)\n🏆 كأس خادم 
+ الحرمين الشريفين — دور الـ32\n🗓 الاثنين 1
+ 7 أغسطس 2026 · 19:15 بتوقيت الرياض\n🏟 Al Zulfi Stadiu
+ m، Al Zulfi\n⚖️ الحكم: Faisal Al-Balawi\n—————\n⚽ Al
+ -Zulfi v Al Riyadh (0 - 2)\n🏆 King's Cup — Round of 32\n🗓 Mon 17 A
+ ug 2026 · 16:15 UTC\n🏟 Al Zulfi Stadium, Al Zulfi\nReferee: Faisal Al-
+ Balawi\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الزلفي ضد الرياض — كأس خاد
+ م الحرمين الشريفين | Tomorrow: Al-Zulfi vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الزلف
+ ي × الرياض | Kick-off in 30 min: Al-Zulfi vs Al Riyadh
+END:VALARM
+END:VEVENT
+END:VCALENDAR

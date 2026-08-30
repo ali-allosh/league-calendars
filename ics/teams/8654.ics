@@ -1,0 +1,157 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ West Ham United — FA Cup Fixtures | وست هام — م
+ باريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:West Ham United — all matches in FA Cup\, exact UTC kickoffs
+ \, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:3
+ 1:10Z.  •  وست هام — جميع المباريات في كأس ا
+ لاتحاد الإنجليزي بتوقيت UTC الدقيق مع الم
+ لاعب والقنوات الناقلة. المصدر: FotMob + 365scores
+  · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5089902@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260111T143000Z
+DTEND:20260111T163000Z
+SUMMARY:West Ham United vs Queens Park Rangers (2 - 1) — FA Cup
+LOCATION:London Stadium\, London\, England
+GEO:51.538688;-0.016501
+URL:https://www.fotmob.com/match/5089902
+DESCRIPTION:⚽ وست هام × Queens Park Rangers (2 - 1)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الثالث\n🗓 الأ
+ حد 11 يناير 2026 · 17:30 بتوقيت الرياض\n🏟 London St
+ adium، London\n⚖️ الحكم: Thomas Kirk\n👥 الحضور: 58,669\
+ n—————\n⚽ West Ham United v Queens Park Rangers (2 - 1)\n🏆 
+ FA Cup — Round 3\n🗓 Sun 11 Jan 2026 · 14:30 UTC\n🏟 London Stadium
+ , London\nReferee: Thomas Kirk\nAttendance: 58,669\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وست هام ضد Queens Park Rangers — كأس
+  الاتحاد الإنجليزي | Tomorrow: West Ham United vs Queens P
+ ark Rangers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وست ها
+ م × Queens Park Rangers | Kick-off in 30 min: West Ham United vs Queens 
+ Park Rangers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135169@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260214T121500Z
+DTEND:20260214T141500Z
+SUMMARY:Burton Albion vs West Ham United (0 - 1) — FA Cup
+LOCATION:Pirelli Stadium\, Burton-upon-Trent\, Staffordshire\, England
+GEO:52.821911;-1.626878
+URL:https://www.fotmob.com/match/5135169
+DESCRIPTION:⚽ Burton Albion × وست هام (0 - 1)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الرابع\n🗓 السبت 1
+ 4 فبراير 2026 · 15:15 بتوقيت الرياض\n🏟 Pirelli Stadi
+ um، Burton-upon-Trent, Staffordshire\n⚖️ الحكم: Lewis Smith\n
+ 👥 الحضور: 6,514\n—————\n⚽ Burton Albion v West Ham Un
+ ited (0 - 1)\n🏆 FA Cup — Round 4\n🗓 Sat 14 Feb 2026 · 12:15 UTC\n
+ 🏟 Pirelli Stadium, Burton-upon-Trent, Staffordshire\nReferee: Lewis Smi
+ th\nAttendance: 6,514\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Burton Albion ضد وست هام — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Burton Albion vs West Ham United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Burton Albi
+ on × وست هام | Kick-off in 30 min: Burton Albion vs West Ham United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5186385@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260309T193000Z
+DTEND:20260309T213000Z
+SUMMARY:West Ham United vs Brentford (2 - 2) — FA Cup
+LOCATION:London Stadium\, London\, England
+GEO:51.538688;-0.016501
+URL:https://www.fotmob.com/match/5186385
+DESCRIPTION:⚽ وست هام × برينتفورد (2 - 2)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الخامس\n🗓 الاث
+ نين 9 مارس 2026 · 22:30 بتوقيت الرياض\n🏟 London Sta
+ dium، London\n⚖️ الحكم: Andy Madley\n👥 الحضور: 48,570\n
+ —————\n⚽ West Ham United v Brentford (2 - 2)\n🏆 FA Cup — 
+ Round 5\n🗓 Mon 09 Mar 2026 · 19:30 UTC\n🏟 London Stadium, London\nR
+ eferee: Andy Madley\nAttendance: 48,570\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وست هام ضد برينتفورد — كأس 
+ الاتحاد الإنجليزي | Tomorrow: West Ham United vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وست ها
+ م × برينتفورد | Kick-off in 30 min: West Ham United vs Brentfor
+ d
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5231346@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260405T153000Z
+DTEND:20260405T173000Z
+SUMMARY:West Ham United vs Leeds United (2 - 2) — FA Cup
+LOCATION:London Stadium\, London\, England
+GEO:51.538688;-0.016501
+URL:https://www.fotmob.com/match/5231346
+DESCRIPTION:⚽ وست هام × ليدز يونايتد (2 - 2)\n🏆 كأ
+ س الاتحاد الإنجليزي — ربع النهائي\n🗓 ال
+ أحد 5 أبريل 2026 · 18:30 بتوقيت الرياض\n🏟 London S
+ tadium، London\n⚖️ الحكم: Craig Pawson\n👥 الحضور: 62,26
+ 0\n—————\n⚽ West Ham United v Leeds United (2 - 2)\n🏆 FA Cu
+ p — Quarter-Finals\n🗓 Sun 05 Apr 2026 · 15:30 UTC\n🏟 London Stadi
+ um, London\nReferee: Craig Pawson\nAttendance: 62,260\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وست هام ضد ليدز يونايتد — ك
+ أس الاتحاد الإنجليزي | Tomorrow: West Ham United vs Leed
+ s United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وست ها
+ م × ليدز يونايتد | Kick-off in 30 min: West Ham United vs Lee
+ ds United
+END:VALARM
+END:VEVENT
+END:VCALENDAR

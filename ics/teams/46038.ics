@@ -1,0 +1,301 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Jeonbuk Hyundai Motors FC — AFC Champions League Elite F
+ ixtures | تشانبوك موتورز — مباريات دوري أبطا
+ ل آسيا للنخبة
+X-WR-CALDESC:Jeonbuk Hyundai Motors FC — all matches in AFC Champions Lea
+ gue Elite\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores 
+ · auto-updated 2026-09-05T19:31:10Z.  •  تشانبوك موتورز 
+ — جميع المباريات في دوري أبطال آسيا للنخ
+ بة بتوقيت UTC الدقيق مع الملاعب والقنوات ا
+ لناقلة. المصدر: FotMob + 365scores · تحديث تلقائي 
+ 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6049982@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260916T100000Z
+DTEND:20260916T120000Z
+SUMMARY:Jeonbuk Hyundai Motors FC vs Kashiwa Reysol — AFC Champions Leagu
+ e Elite
+LOCATION:Jeonju World Cup Stadium\, Jeonju\, South Korea
+GEO:35.868130;127.064492
+URL:https://www.fotmob.com/match/6049982
+DESCRIPTION:⚽ تشانبوك موتورز × كاشيوا ريسول\n
+ 🏆 دوري أبطال آسيا للنخبة — الجولة 1\n🗓 ا
+ لأربعاء 16 سبتمبر 2026 · 13:00 بتوقيت الرياض\n
+ 🏟 Jeonju World Cup Stadium، Jeonju\n—————\n⚽ Jeonbuk Hyund
+ ai Motors FC v Kashiwa Reysol\n🏆 AFC Champions League Elite — Matchda
+ y 1\n🗓 Wed 16 Sep 2026 · 10:00 UTC\n🏟 Jeonju World Cup Stadium, Jeo
+ nju\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشانبوك موتورز ضد كاشيوا ر
+ يسول — دوري أبطال آسيا للنخبة | Tomorrow: Jeonbuk
+  Hyundai Motors FC vs Kashiwa Reysol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشانب
+ وك موتورز × كاشيوا ريسول | Kick-off in 30 min: Jeonbuk
+  Hyundai Motors FC vs Kashiwa Reysol
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049985@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261014T100000Z
+DTEND:20261014T120000Z
+SUMMARY:Vissel Kobe vs Jeonbuk Hyundai Motors FC — AFC Champions League E
+ lite
+LOCATION:NOEVIR Stadium Kobe\, Kobe\, Japan
+GEO:34.656691;135.168990
+URL:https://www.fotmob.com/match/6049985
+DESCRIPTION:⚽ فيسيل كوبي × تشانبوك موتورز\n🏆 د
+ وري أبطال آسيا للنخبة — الجولة 2\n🗓 الأر
+ بعاء 14 أكتوبر 2026 · 13:00 بتوقيت الرياض\n🏟 NOE
+ VIR Stadium Kobe، Kobe\n—————\n⚽ Vissel Kobe v Jeonbuk Hyunda
+ i Motors FC\n🏆 AFC Champions League Elite — Matchday 2\n🗓 Wed 14 O
+ ct 2026 · 10:00 UTC\n🏟 NOEVIR Stadium Kobe, Kobe\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيسيل كوبي ضد تشانبوك موتو
+ رز — دوري أبطال آسيا للنخبة | Tomorrow: Vissel Kobe
+  vs Jeonbuk Hyundai Motors FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيسيل 
+ كوبي × تشانبوك موتورز | Kick-off in 30 min: Vissel Kobe 
+ vs Jeonbuk Hyundai Motors FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049996@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261027T131500Z
+DTEND:20261027T151500Z
+SUMMARY:Beijing Guoan vs Jeonbuk Hyundai Motors FC — AFC Champions League
+  Elite
+LOCATION:Workers' Stadium\, Beijing\, China
+GEO:39.929521;116.441002
+URL:https://www.fotmob.com/match/6049996
+DESCRIPTION:⚽ بكين كوان × تشانبوك موتورز\n🏆 دو
+ ري أبطال آسيا للنخبة — الجولة 3\n🗓 الثلا
+ ثاء 27 أكتوبر 2026 · 16:15 بتوقيت الرياض\n🏟 Worke
+ rs' Stadium، Beijing\n—————\n⚽ Beijing Guoan v Jeonbuk Hyunda
+ i Motors FC\n🏆 AFC Champions League Elite — Matchday 3\n🗓 Tue 27 O
+ ct 2026 · 13:15 UTC\n🏟 Workers' Stadium, Beijing\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بكين كوان ضد تشانبوك موتور
+ ز — دوري أبطال آسيا للنخبة | Tomorrow: Beijing Guoan
+  vs Jeonbuk Hyundai Motors FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بكين ك
+ وان × تشانبوك موتورز | Kick-off in 30 min: Beijing Guoan 
+ vs Jeonbuk Hyundai Motors FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050001@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261103T110000Z
+DTEND:20261103T130000Z
+SUMMARY:Jeonbuk Hyundai Motors FC vs Johor Darul Ta'zim — AFC Champions L
+ eague Elite
+LOCATION:Jeonju World Cup Stadium\, Jeonju\, South Korea
+GEO:35.868130;127.064492
+URL:https://www.fotmob.com/match/6050001
+DESCRIPTION:⚽ تشانبوك موتورز × جوهور\n🏆 دوري أ
+ بطال آسيا للنخبة — الجولة 4\n🗓 الثلاثاء 3
+  نوفمبر 2026 · 14:00 بتوقيت الرياض\n🏟 Jeonju World C
+ up Stadium، Jeonju\n—————\n⚽ Jeonbuk Hyundai Motors FC v Joho
+ r Darul Ta'zim\n🏆 AFC Champions League Elite — Matchday 4\n🗓 Tue 0
+ 3 Nov 2026 · 11:00 UTC\n🏟 Jeonju World Cup Stadium, Jeonju\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشانبوك موتورز ضد جوهور — 
+ دوري أبطال آسيا للنخبة | Tomorrow: Jeonbuk Hyundai Moto
+ rs FC vs Johor Darul Ta'zim
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشانب
+ وك موتورز × جوهور | Kick-off in 30 min: Jeonbuk Hyundai Moto
+ rs FC vs Johor Darul Ta'zim
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050015@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261125T110000Z
+DTEND:20261125T130000Z
+SUMMARY:Kashima Antlers vs Jeonbuk Hyundai Motors FC — AFC Champions Leag
+ ue Elite
+LOCATION:Mercari Stadium\, Kashima\, Japan
+GEO:35.991897;140.640192
+URL:https://www.fotmob.com/match/6050015
+DESCRIPTION:⚽ كاشيما أنتليرز × تشانبوك موتورز\
+ n🏆 دوري أبطال آسيا للنخبة — الجولة 5\n🗓 
+ الأربعاء 25 نوفمبر 2026 · 14:00 بتوقيت الرياض\n
+ 🏟 Mercari Stadium، Kashima\n—————\n⚽ Kashima Antlers v Jeo
+ nbuk Hyundai Motors FC\n🏆 AFC Champions League Elite — Matchday 5\n
+ 🗓 Wed 25 Nov 2026 · 11:00 UTC\n🏟 Mercari Stadium, Kashima\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كاشيما أنتليرز ضد تشانبوك 
+ موتورز — دوري أبطال آسيا للنخبة | Tomorrow: Kas
+ hima Antlers vs Jeonbuk Hyundai Motors FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاشيم
+ ا أنتليرز × تشانبوك موتورز | Kick-off in 30 min: Kas
+ hima Antlers vs Jeonbuk Hyundai Motors FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050022@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261202T110000Z
+DTEND:20261202T130000Z
+SUMMARY:Jeonbuk Hyundai Motors FC vs Gamba Osaka — AFC Champions League E
+ lite
+LOCATION:Jeonju World Cup Stadium\, Jeonju\, South Korea
+GEO:35.868130;127.064492
+URL:https://www.fotmob.com/match/6050022
+DESCRIPTION:⚽ تشانبوك موتورز × غامبا أوساكا\n
+ 🏆 دوري أبطال آسيا للنخبة — الجولة 6\n🗓 ا
+ لأربعاء 2 ديسمبر 2026 · 14:00 بتوقيت الرياض\n
+ 🏟 Jeonju World Cup Stadium، Jeonju\n—————\n⚽ Jeonbuk Hyund
+ ai Motors FC v Gamba Osaka\n🏆 AFC Champions League Elite — Matchday 6
+ \n🗓 Wed 02 Dec 2026 · 11:00 UTC\n🏟 Jeonju World Cup Stadium, Jeonju
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشانبوك موتورز ضد غامبا أو
+ ساكا — دوري أبطال آسيا للنخبة | Tomorrow: Jeonbuk
+  Hyundai Motors FC vs Gamba Osaka
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشانب
+ وك موتورز × غامبا أوساكا | Kick-off in 30 min: Jeonbuk
+  Hyundai Motors FC vs Gamba Osaka
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050026@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270209T110000Z
+DTEND:20270209T130000Z
+SUMMARY:Kyoto Sanga FC vs Jeonbuk Hyundai Motors FC — AFC Champions Leagu
+ e Elite
+LOCATION:Sanga Stadium by Kyocera\, Kameoka\, Japan
+GEO:35.017159;135.584876
+URL:https://www.fotmob.com/match/6050026
+DESCRIPTION:⚽ Kyoto Sanga FC × تشانبوك موتورز\n🏆 دور
+ ي أبطال آسيا للنخبة — الجولة 7\n🗓 الثلاث
+ اء 9 فبراير 2027 · 14:00 بتوقيت الرياض\n🏟 Sanga St
+ adium by Kyocera، Kameoka\n—————\n⚽ Kyoto Sanga FC v Jeonbuk 
+ Hyundai Motors FC\n🏆 AFC Champions League Elite — Matchday 7\n🗓 Tu
+ e 09 Feb 2027 · 11:00 UTC\n🏟 Sanga Stadium by Kyocera, Kameoka\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Kyoto Sanga FC ضد تشانبوك موتورز 
+ — دوري أبطال آسيا للنخبة | Tomorrow: Kyoto Sanga FC v
+ s Jeonbuk Hyundai Motors FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Kyoto Sanga
+  FC × تشانبوك موتورز | Kick-off in 30 min: Kyoto Sanga FC vs
+  Jeonbuk Hyundai Motors FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050035@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270216T110000Z
+DTEND:20270216T130000Z
+SUMMARY:Jeonbuk Hyundai Motors FC vs Shanghai Port — AFC Champions League
+  Elite
+LOCATION:Jeonju World Cup Stadium\, Jeonju\, South Korea
+GEO:35.868130;127.064492
+URL:https://www.fotmob.com/match/6050035
+DESCRIPTION:⚽ تشانبوك موتورز × شنغهاي بورت\n🏆 
+ دوري أبطال آسيا للنخبة — الجولة 8\n🗓 الث
+ لاثاء 16 فبراير 2027 · 14:00 بتوقيت الرياض\n🏟 J
+ eonju World Cup Stadium، Jeonju\n—————\n⚽ Jeonbuk Hyundai Mot
+ ors FC v Shanghai Port\n🏆 AFC Champions League Elite — Matchday 8\n
+ 🗓 Tue 16 Feb 2027 · 11:00 UTC\n🏟 Jeonju World Cup Stadium, Jeonju\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشانبوك موتورز ضد شنغهاي ب
+ ورت — دوري أبطال آسيا للنخبة | Tomorrow: Jeonbuk H
+ yundai Motors FC vs Shanghai Port
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشانب
+ وك موتورز × شنغهاي بورت | Kick-off in 30 min: Jeonbuk H
+ yundai Motors FC vs Shanghai Port
+END:VALARM
+END:VEVENT
+END:VCALENDAR

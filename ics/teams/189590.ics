@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ UP Langreo — Copa del Rey Fixtures | UP Langreo — مب
+ اريات كأس ملك إسبانيا
+X-WR-CALDESC:UP Langreo — all matches in Copa del Rey\, exact UTC kickoff
+ s\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:
+ 31:10Z.  •  UP Langreo — جميع المباريات في كأس مل
+ ك إسبانيا بتوقيت UTC الدقيق مع الملاعب وال
+ قنوات الناقلة. المصدر: FotMob + 365scores · تحديث 
+ تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4996002@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251028T183000Z
+DTEND:20251028T203000Z
+SUMMARY:UP Langreo vs Racing de Ferrol (0 - 0) — Copa del Rey
+LOCATION:Estadio Nuevo Ganzábal\, La Felguera\, Langreo\, Spain
+GEO:43.302032;-5.689743
+URL:https://www.fotmob.com/match/4996002
+DESCRIPTION:⚽ UP Langreo × راسينغ كلوب فيرول (0 - 0)\n
+ 🏆 كأس ملك إسبانيا — الدور الأول\n🗓 الثل
+ اثاء 28 أكتوبر 2025 · 21:30 بتوقيت الرياض\n🏟 Est
+ adio Nuevo Ganzábal، La Felguera, Langreo\n⚖️ الحكم: Guillermo 
+ Cueto Amigo\n—————\n⚽ UP Langreo v Racing de Ferrol (0 - 0)\n
+ 🏆 Copa del Rey — Round 1\n🗓 Tue 28 Oct 2025 · 18:30 UTC\n🏟 Est
+ adio Nuevo Ganzábal, La Felguera, Langreo\nReferee: Guillermo Cueto Amigo
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: UP Langreo ضد راسينغ كلوب فيرول 
+ — كأس ملك إسبانيا | Tomorrow: UP Langreo vs Racing de Ferro
+ l
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: UP Langreo 
+ × راسينغ كلوب فيرول | Kick-off in 30 min: UP Langreo vs Ra
+ cing de Ferrol
+END:VALARM
+END:VEVENT
+END:VCALENDAR

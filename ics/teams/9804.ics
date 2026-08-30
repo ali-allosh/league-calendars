@@ -1,0 +1,1236 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Torino — Serie A & Coppa Italia Fixtures | تورينو 
+ — مباريات الدوري الإيطالي وكأس إيطاليا
+X-WR-CALDESC:Torino — all matches in Serie A & Coppa Italia\, exact UTC k
+ ickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-
+ 05T19:31:10Z.  •  تورينو — جميع المباريات في ال
+ دوري الإيطالي وكأس إيطاليا بتوقيت UTC الد
+ قيق مع الملاعب والقنوات الناقلة. المصدر: 
+ FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5749647@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260823T184500Z
+DTEND:20260823T204500Z
+SUMMARY:Torino vs Milan (1 - 2) — Serie A
+LOCATION:Stadio Olimpico Grande Torino\, Torino\, Italy
+GEO:45.041752;7.650016
+URL:https://www.fotmob.com/match/5749647
+DESCRIPTION:⚽ تورينو × ميلان (1 - 2)\n🏆 الدوري ال
+ إيطالي — الجولة 1\n🗓 الأحد 23 أغسطس 2026 · 21:
+ 45 بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino، Torino\
+ n⚖️ الحكم: Luca Zufferli\n👥 الحضور: 24,285\n————
+ —\n⚽ Torino v Milan (1 - 2)\n🏆 Serie A — Matchday 1\n🗓 Sun 23 
+ Aug 2026 · 18:45 UTC\n🏟 Stadio Olimpico Grande Torino, Torino\nReferee
+ : Luca Zufferli\nAttendance: 24,285\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد ميلان — الدوري ا
+ لإيطالي | Tomorrow: Torino vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × ميلان | Kick-off in 30 min: Torino vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749659@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T163000Z
+DTEND:20260829T183000Z
+SUMMARY:Sassuolo vs Torino (2 - 1) — Serie A
+LOCATION:MAPEI Stadium - Città del Tricolore\, Reggio Emilia\, Italy
+GEO:44.714637;10.649711
+URL:https://www.fotmob.com/match/5749659
+DESCRIPTION:⚽ ساسولو × تورينو (2 - 1)\n🏆 الدوري ا
+ لإيطالي — الجولة 2\n🗓 السبت 29 أغسطس 2026 · 1
+ 9:30 بتوقيت الرياض\n🏟 MAPEI Stadium - Città del Tricolore
+ ، Reggio Emilia\n⚖️ الحكم: Davide Di Marco\n👥 الحضور: 9
+ ,523\n—————\n⚽ Sassuolo v Torino (2 - 1)\n🏆 Serie A — Mat
+ chday 2\n🗓 Sat 29 Aug 2026 · 16:30 UTC\n🏟 MAPEI Stadium - Città de
+ l Tricolore, Reggio Emilia\nReferee: Davide Di Marco\nAttendance: 9,523\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد تورينو — الدوري 
+ الإيطالي | Tomorrow: Sassuolo vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × تورينو | Kick-off in 30 min: Sassuolo vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749663@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T130000Z
+DTEND:20260905T150000Z
+SUMMARY:Fiorentina vs Torino (1 - 2) — Serie A
+LOCATION:Stadio Artemio Franchi\, Firenze\, Italy
+GEO:43.780788;11.282712
+URL:https://www.fotmob.com/match/5749663
+DESCRIPTION:⚽ فيورنتينا × تورينو (1 - 2)\n🏆 الدور
+ ي الإيطالي — الجولة 3\n🗓 السبت 5 سبتمبر 202
+ 6 · 16:00 بتوقيت الرياض\n🏟 Stadio Artemio Franchi، Firenz
+ e\n📺 Starzplay\n⚖️ الحكم: Davide Massa\n—————\n⚽ F
+ iorentina v Torino (1 - 2)\n🏆 Serie A — Matchday 3\n🗓 Sat 05 Sep 2
+ 026 · 13:00 UTC\n🏟 Stadio Artemio Franchi, Firenze\n📺 Starzplay\nRe
+ feree: Davide Massa\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد تورينو — الدو
+ ري الإيطالي — 📺 Starzplay | Tomorrow: Fiorentina vs Torino 
+ | TV: Starzplay
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × تورينو — 📺 Starzplay | Kick-off in 30 min: Fiorenti
+ na vs Torino | TV: Starzplay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749678@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260914T163000Z
+DTEND:20260914T183000Z
+SUMMARY:Torino vs Roma — Serie A
+LOCATION:Stadio Olimpico Grande Torino\, Torino\, Italy
+GEO:45.041752;7.650016
+URL:https://www.fotmob.com/match/5749678
+DESCRIPTION:⚽ تورينو × روما\n🏆 الدوري الإيطال
+ ي — الجولة 4\n🗓 الاثنين 14 سبتمبر 2026 · 19:30 
+ بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino، Torino\n
+ —————\n⚽ Torino v Roma\n🏆 Serie A — Matchday 4\n🗓 Mon 
+ 14 Sep 2026 · 16:30 UTC\n🏟 Stadio Olimpico Grande Torino, Torino\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد روما — الدوري ال
+ إيطالي | Tomorrow: Torino vs Roma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × روما | Kick-off in 30 min: Torino vs Roma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749682@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T130000Z
+DTEND:20260919T150000Z
+SUMMARY:Bologna vs Torino — Serie A
+LOCATION:Stadio Renato Dall'Ara\, Bologna\, Italy
+GEO:44.492290;11.309957
+URL:https://www.fotmob.com/match/5749682
+DESCRIPTION:⚽ بولونيا × تورينو\n🏆 الدوري الإي
+ طالي — الجولة 5\n🗓 السبت 19 سبتمبر 2026 · 16:00
+  بتوقيت الرياض\n🏟 Stadio Renato Dall'Ara، Bologna\n——
+ ———\n⚽ Bologna v Torino\n🏆 Serie A — Matchday 5\n🗓 Sat 19 
+ Sep 2026 · 13:00 UTC\n🏟 Stadio Renato Dall'Ara, Bologna\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد تورينو — الدوري
+  الإيطالي | Tomorrow: Bologna vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × تورينو | Kick-off in 30 min: Bologna vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749699@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261012T184500Z
+DTEND:20261012T204500Z
+SUMMARY:Torino vs Udinese — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749699
+DESCRIPTION:⚽ تورينو × أودينيزي\n🏆 الدوري الإ
+ يطالي — الجولة 6\n🗓 الاثنين 12 أكتوبر 2026 ·
+  21:45 بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n—
+ ————\n⚽ Torino v Udinese\n🏆 Serie A — Matchday 6\n🗓 Mon 
+ 12 Oct 2026 · 18:45 UTC\n🏟 Stadio Olimpico Grande Torino\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد أودينيزي — الدور
+ ي الإيطالي | Tomorrow: Torino vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × أودينيزي | Kick-off in 30 min: Torino vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749707@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261019T184500Z
+DTEND:20261019T204500Z
+SUMMARY:Parma vs Torino — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749707
+DESCRIPTION:⚽ بارما × تورينو\n🏆 الدوري الإيطا
+ لي — الجولة 7\n🗓 الاثنين 19 أكتوبر 2026 · 21:45
+  بتوقيت الرياض\n🏟 Stadio Ennio Tardini\n—————\n
+ ⚽ Parma v Torino\n🏆 Serie A — Matchday 7\n🗓 Mon 19 Oct 2026 · 1
+ 8:45 UTC\n🏟 Stadio Ennio Tardini\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد تورينو — الدوري ا
+ لإيطالي | Tomorrow: Parma vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × تورينو | Kick-off in 30 min: Parma vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749718@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261023T184500Z
+DTEND:20261023T204500Z
+SUMMARY:Torino vs Monza — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749718
+DESCRIPTION:⚽ تورينو × مونزا\n🏆 الدوري الإيطا
+ لي — الجولة 8\n🗓 الجمعة 23 أكتوبر 2026 · 21:45 
+ بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n———
+ ——\n⚽ Torino v Monza\n🏆 Serie A — Matchday 8\n🗓 Fri 23 Oct 2
+ 026 · 18:45 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد مونزا — الدوري ا
+ لإيطالي | Tomorrow: Torino vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × مونزا | Kick-off in 30 min: Torino vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749728@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261027T194500Z
+DTEND:20261027T214500Z
+SUMMARY:Torino vs Como — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749728
+DESCRIPTION:⚽ تورينو × كومو\n🏆 الدوري الإيطال
+ ي — الجولة 9\n🗓 الثلاثاء 27 أكتوبر 2026 · 22:45
+  بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n———
+ ——\n⚽ Torino v Como\n🏆 Serie A — Matchday 9\n🗓 Tue 27 Oct 20
+ 26 · 19:45 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد كومو — الدوري ال
+ إيطالي | Tomorrow: Torino vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × كومو | Kick-off in 30 min: Torino vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749734@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Frosinone vs Torino — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749734
+DESCRIPTION:⚽ فروزينوني × تورينو\n🏆 الدوري ال
+ إيطالي — الجولة 10\n🗓 الأحد 1 نوفمبر 2026 · 1
+ 7:00 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n—————
+ \n⚽ Frosinone v Torino\n🏆 Serie A — Matchday 10\n🗓 Sun 01 Nov 20
+ 26 · 14:00 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد تورينو — الدو
+ ري الإيطالي | Tomorrow: Frosinone vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × تورينو | Kick-off in 30 min: Frosinone vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749748@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T140000Z
+DTEND:20261107T160000Z
+SUMMARY:Torino vs Lecce — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749748
+DESCRIPTION:⚽ تورينو × ليتشي\n🏆 الدوري الإيطا
+ لي — الجولة 11\n🗓 السبت 7 نوفمبر 2026 · 17:00 ب
+ توقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n————
+ —\n⚽ Torino v Lecce\n🏆 Serie A — Matchday 11\n🗓 Sat 07 Nov 202
+ 6 · 14:00 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد ليتشي — الدوري ا
+ لإيطالي | Tomorrow: Torino vs Lecce
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × ليتشي | Kick-off in 30 min: Torino vs Lecce
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749757@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T194500Z
+DTEND:20261121T214500Z
+SUMMARY:Napoli vs Torino — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749757
+DESCRIPTION:⚽ نابولي × تورينو\n🏆 الدوري الإيط
+ الي — الجولة 12\n🗓 السبت 21 نوفمبر 2026 · 22:45 
+ بتوقيت الرياض\n🏟 Diego Armando Maradona\n—————\n
+ ⚽ Napoli v Torino\n🏆 Serie A — Matchday 12\n🗓 Sat 21 Nov 2026 ·
+  19:45 UTC\n🏟 Diego Armando Maradona\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد تورينو — الدوري 
+ الإيطالي | Tomorrow: Napoli vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × تورينو | Kick-off in 30 min: Napoli vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749767@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T173000Z
+DTEND:20261129T193000Z
+SUMMARY:Torino vs Lazio — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749767
+DESCRIPTION:⚽ تورينو × لاتسيو\n🏆 الدوري الإيط
+ الي — الجولة 13\n🗓 الأحد 29 نوفمبر 2026 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n———
+ ——\n⚽ Torino v Lazio\n🏆 Serie A — Matchday 13\n🗓 Sun 29 Nov 
+ 2026 · 17:30 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد لاتسيو — الدوري 
+ الإيطالي | Tomorrow: Torino vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × لاتسيو | Kick-off in 30 min: Torino vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749774@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T173000Z
+DTEND:20261206T193000Z
+SUMMARY:Genoa vs Torino — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749774
+DESCRIPTION:⚽ جنوى × تورينو\n🏆 الدوري الإيطال
+ ي — الجولة 14\n🗓 الأحد 6 ديسمبر 2026 · 20:30 بت
+ وقيت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n⚽ Ge
+ noa v Torino\n🏆 Serie A — Matchday 14\n🗓 Sun 06 Dec 2026 · 17:30 
+ UTC\n🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد تورينو — الدوري ال
+ إيطالي | Tomorrow: Genoa vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  تورينو | Kick-off in 30 min: Genoa vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749783@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T173000Z
+DTEND:20261213T193000Z
+SUMMARY:Inter vs Torino — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749783
+DESCRIPTION:⚽ إنتر ميلان × تورينو\n🏆 الدوري ال
+ إيطالي — الجولة 15\n🗓 الأحد 13 ديسمبر 2026 · 
+ 20:30 بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\n
+ ⚽ Inter v Torino\n🏆 Serie A — Matchday 15\n🗓 Sun 13 Dec 2026 · 
+ 17:30 UTC\n🏟 Giuseppe Meazza\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد تورينو — الد
+ وري الإيطالي | Tomorrow: Inter vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × تورينو | Kick-off in 30 min: Inter vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749798@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T173000Z
+DTEND:20261220T193000Z
+SUMMARY:Torino vs Cagliari — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749798
+DESCRIPTION:⚽ تورينو × كالياري\n🏆 الدوري الإي
+ طالي — الجولة 16\n🗓 الأحد 20 ديسمبر 2026 · 20:3
+ 0 بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n———
+ ——\n⚽ Torino v Cagliari\n🏆 Serie A — Matchday 16\n🗓 Sun 20 D
+ ec 2026 · 17:30 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد كالياري — الدوري
+  الإيطالي | Tomorrow: Torino vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × كالياري | Kick-off in 30 min: Torino vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749808@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T173000Z
+DTEND:20270103T193000Z
+SUMMARY:Torino vs Venezia — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749808
+DESCRIPTION:⚽ تورينو × فينيزيا\n🏆 الدوري الإي
+ طالي — الجولة 17\n🗓 الأحد 3 يناير 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n———
+ ——\n⚽ Torino v Venezia\n🏆 Serie A — Matchday 17\n🗓 Sun 03 Ja
+ n 2027 · 17:30 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد فينيزيا — الدوري
+  الإيطالي | Tomorrow: Torino vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × فينيزيا | Kick-off in 30 min: Torino vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749814@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T173000Z
+DTEND:20270106T193000Z
+SUMMARY:Juventus vs Torino — Serie A
+LOCATION:Allianz Stadium
+URL:https://www.fotmob.com/match/5749814
+DESCRIPTION:⚽ يوفنتوس × تورينو\n🏆 الدوري الإي
+ طالي — الجولة 18\n🗓 الأربعاء 6 يناير 2027 · 2
+ 0:30 بتوقيت الرياض\n🏟 Allianz Stadium\n—————\n⚽
+  Juventus v Torino\n🏆 Serie A — Matchday 18\n🗓 Wed 06 Jan 2027 · 
+ 17:30 UTC\n🏟 Allianz Stadium\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد تورينو — الدوري
+  الإيطالي | Tomorrow: Juventus vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × تورينو | Kick-off in 30 min: Juventus vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749828@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T173000Z
+DTEND:20270110T193000Z
+SUMMARY:Torino vs Atalanta — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749828
+DESCRIPTION:⚽ تورينو × أتالانتا\n🏆 الدوري الإ
+ يطالي — الجولة 19\n🗓 الأحد 10 يناير 2027 · 20:3
+ 0 بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n———
+ ——\n⚽ Torino v Atalanta\n🏆 Serie A — Matchday 19\n🗓 Sun 10 J
+ an 2027 · 17:30 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد أتالانتا — الدور
+ ي الإيطالي | Tomorrow: Torino vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × أتالانتا | Kick-off in 30 min: Torino vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749830@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T173000Z
+DTEND:20270117T193000Z
+SUMMARY:Milan vs Torino — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749830
+DESCRIPTION:⚽ ميلان × تورينو\n🏆 الدوري الإيطا
+ لي — الجولة 20\n🗓 الأحد 17 يناير 2027 · 20:30 بت
+ وقيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v Torino\
+ n🏆 Serie A — Matchday 20\n🗓 Sun 17 Jan 2027 · 17:30 UTC\n🏟 San
+  Siro\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد تورينو — الدوري ا
+ لإيطالي | Tomorrow: Milan vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × تورينو | Kick-off in 30 min: Milan vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749848@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T173000Z
+DTEND:20270124T193000Z
+SUMMARY:Lecce vs Torino — Serie A
+LOCATION:Stadio Ettore Giardiniero - Via del Mare
+URL:https://www.fotmob.com/match/5749848
+DESCRIPTION:⚽ ليتشي × تورينو\n🏆 الدوري الإيطا
+ لي — الجولة 21\n🗓 الأحد 24 يناير 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Stadio Ettore Giardiniero - Via del Mare\n—
+ ————\n⚽ Lecce v Torino\n🏆 Serie A — Matchday 21\n🗓 Sun 2
+ 4 Jan 2027 · 17:30 UTC\n🏟 Stadio Ettore Giardiniero - Via del Mare\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليتشي ضد تورينو — الدوري ا
+ لإيطالي | Tomorrow: Lecce vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليتشي 
+ × تورينو | Kick-off in 30 min: Lecce vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749858@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T173000Z
+DTEND:20270131T193000Z
+SUMMARY:Torino vs Frosinone — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749858
+DESCRIPTION:⚽ تورينو × فروزينوني\n🏆 الدوري ال
+ إيطالي — الجولة 22\n🗓 الأحد 31 يناير 2027 · 20
+ :30 بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n——
+ ———\n⚽ Torino v Frosinone\n🏆 Serie A — Matchday 22\n🗓 Sun 
+ 31 Jan 2027 · 17:30 UTC\n🏟 Stadio Olimpico Grande Torino\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد فروزينوني — الدو
+ ري الإيطالي | Tomorrow: Torino vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × فروزينوني | Kick-off in 30 min: Torino vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749860@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T173000Z
+DTEND:20270207T193000Z
+SUMMARY:Roma vs Torino — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749860
+DESCRIPTION:⚽ روما × تورينو\n🏆 الدوري الإيطال
+ ي — الجولة 23\n🗓 الأحد 7 فبراير 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ Ro
+ ma v Torino\n🏆 Serie A — Matchday 23\n🗓 Sun 07 Feb 2027 · 17:30 U
+ TC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد تورينو — الدوري ال
+ إيطالي | Tomorrow: Roma vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  تورينو | Kick-off in 30 min: Roma vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749878@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T173000Z
+DTEND:20270214T193000Z
+SUMMARY:Torino vs Sassuolo — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749878
+DESCRIPTION:⚽ تورينو × ساسولو\n🏆 الدوري الإيط
+ الي — الجولة 24\n🗓 الأحد 14 فبراير 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n———
+ ——\n⚽ Torino v Sassuolo\n🏆 Serie A — Matchday 24\n🗓 Sun 14 F
+ eb 2027 · 17:30 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد ساسولو — الدوري 
+ الإيطالي | Tomorrow: Torino vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × ساسولو | Kick-off in 30 min: Torino vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749882@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T173000Z
+DTEND:20270221T193000Z
+SUMMARY:Como vs Torino — Serie A
+LOCATION:Stadio G. Sinigaglia
+URL:https://www.fotmob.com/match/5749882
+DESCRIPTION:⚽ كومو × تورينو\n🏆 الدوري الإيطال
+ ي — الجولة 25\n🗓 الأحد 21 فبراير 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Stadio G. Sinigaglia\n—————\n⚽ Com
+ o v Torino\n🏆 Serie A — Matchday 25\n🗓 Sun 21 Feb 2027 · 17:30 UT
+ C\n🏟 Stadio G. Sinigaglia\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كومو ضد تورينو — الدوري ال
+ إيطالي | Tomorrow: Como vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كومو ×
+  تورينو | Kick-off in 30 min: Como vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749899@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T173000Z
+DTEND:20270228T193000Z
+SUMMARY:Torino vs Fiorentina — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749899
+DESCRIPTION:⚽ تورينو × فيورنتينا\n🏆 الدوري ال
+ إيطالي — الجولة 26\n🗓 الأحد 28 فبراير 2027 · 
+ 20:30 بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n—
+ ————\n⚽ Torino v Fiorentina\n🏆 Serie A — Matchday 26\n🗓 
+ Sun 28 Feb 2027 · 17:30 UTC\n🏟 Stadio Olimpico Grande Torino\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد فيورنتينا — الدو
+ ري الإيطالي | Tomorrow: Torino vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × فيورنتينا | Kick-off in 30 min: Torino vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749901@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T173000Z
+DTEND:20270307T193000Z
+SUMMARY:Atalanta vs Torino — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749901
+DESCRIPTION:⚽ أتالانتا × تورينو\n🏆 الدوري الإ
+ يطالي — الجولة 27\n🗓 الأحد 7 مارس 2027 · 20:30 
+ بتوقيت الرياض\n🏟 New Balance Arena\n—————\n⚽ At
+ alanta v Torino\n🏆 Serie A — Matchday 27\n🗓 Sun 07 Mar 2027 · 17:
+ 30 UTC\n🏟 New Balance Arena\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد تورينو — الدور
+ ي الإيطالي | Tomorrow: Atalanta vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × تورينو | Kick-off in 30 min: Atalanta vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749918@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T173000Z
+DTEND:20270314T193000Z
+SUMMARY:Torino vs Inter — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749918
+DESCRIPTION:⚽ تورينو × إنتر ميلان\n🏆 الدوري ال
+ إيطالي — الجولة 28\n🗓 الأحد 14 مارس 2027 · 20:3
+ 0 بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n———
+ ——\n⚽ Torino v Inter\n🏆 Serie A — Matchday 28\n🗓 Sun 14 Mar 
+ 2027 · 17:30 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد إنتر ميلان — الد
+ وري الإيطالي | Tomorrow: Torino vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × إنتر ميلان | Kick-off in 30 min: Torino vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749929@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T173000Z
+DTEND:20270321T193000Z
+SUMMARY:Udinese vs Torino — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749929
+DESCRIPTION:⚽ أودينيزي × تورينو\n🏆 الدوري الإ
+ يطالي — الجولة 29\n🗓 الأحد 21 مارس 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n——
+ ———\n⚽ Udinese v Torino\n🏆 Serie A — Matchday 29\n🗓 Sun 21
+  Mar 2027 · 17:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد تورينو — الدور
+ ي الإيطالي | Tomorrow: Udinese vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × تورينو | Kick-off in 30 min: Udinese vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749938@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T163000Z
+DTEND:20270404T183000Z
+SUMMARY:Torino vs Juventus — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749938
+DESCRIPTION:⚽ تورينو × يوفنتوس\n🏆 الدوري الإي
+ طالي — الجولة 30\n🗓 الأحد 4 أبريل 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n———
+ ——\n⚽ Torino v Juventus\n🏆 Serie A — Matchday 30\n🗓 Sun 04 A
+ pr 2027 · 16:30 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد يوفنتوس — الدوري
+  الإيطالي | Tomorrow: Torino vs Juventus
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × يوفنتوس | Kick-off in 30 min: Torino vs Juventus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749946@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T163000Z
+DTEND:20270411T183000Z
+SUMMARY:Lazio vs Torino — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749946
+DESCRIPTION:⚽ لاتسيو × تورينو\n🏆 الدوري الإيط
+ الي — الجولة 31\n🗓 الأحد 11 أبريل 2027 · 19:30 ب
+ توقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ 
+ Lazio v Torino\n🏆 Serie A — Matchday 31\n🗓 Sun 11 Apr 2027 · 16:3
+ 0 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد تورينو — الدوري 
+ الإيطالي | Tomorrow: Lazio vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × تورينو | Kick-off in 30 min: Lazio vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749958@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T163000Z
+DTEND:20270418T183000Z
+SUMMARY:Torino vs Genoa — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749958
+DESCRIPTION:⚽ تورينو × جنوى\n🏆 الدوري الإيطال
+ ي — الجولة 32\n🗓 الأحد 18 أبريل 2027 · 19:30 بتو
+ قيت الرياض\n🏟 Stadio Olimpico Grande Torino\n—————\n
+ ⚽ Torino v Genoa\n🏆 Serie A — Matchday 32\n🗓 Sun 18 Apr 2027 · 
+ 16:30 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد جنوى — الدوري ال
+ إيطالي | Tomorrow: Torino vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × جنوى | Kick-off in 30 min: Torino vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749969@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270425T163000Z
+DTEND:20270425T183000Z
+SUMMARY:Venezia vs Torino — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749969
+DESCRIPTION:⚽ فينيزيا × تورينو\n🏆 الدوري الإي
+ طالي — الجولة 33\n🗓 الأحد 25 أبريل 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Stadio Pierluigi Penzo\n—————\n
+ ⚽ Venezia v Torino\n🏆 Serie A — Matchday 33\n🗓 Sun 25 Apr 2027 
+ · 16:30 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد تورينو — الدوري
+  الإيطالي | Tomorrow: Venezia vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × تورينو | Kick-off in 30 min: Venezia vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749978@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T163000Z
+DTEND:20270502T183000Z
+SUMMARY:Torino vs Parma — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749978
+DESCRIPTION:⚽ تورينو × بارما\n🏆 الدوري الإيطا
+ لي — الجولة 34\n🗓 الأحد 2 مايو 2027 · 19:30 بتو
+ قيت الرياض\n🏟 Stadio Olimpico Grande Torino\n—————\n
+ ⚽ Torino v Parma\n🏆 Serie A — Matchday 34\n🗓 Sun 02 May 2027 · 
+ 16:30 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد بارما — الدوري ا
+ لإيطالي | Tomorrow: Torino vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × بارما | Kick-off in 30 min: Torino vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749987@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T163000Z
+DTEND:20270509T183000Z
+SUMMARY:Torino vs Bologna — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749987
+DESCRIPTION:⚽ تورينو × بولونيا\n🏆 الدوري الإي
+ طالي — الجولة 35\n🗓 الأحد 9 مايو 2027 · 19:30 ب
+ توقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n————
+ —\n⚽ Torino v Bologna\n🏆 Serie A — Matchday 35\n🗓 Sun 09 May 2
+ 027 · 16:30 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد بولونيا — الدوري
+  الإيطالي | Tomorrow: Torino vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × بولونيا | Kick-off in 30 min: Torino vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749992@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T163000Z
+DTEND:20270516T183000Z
+SUMMARY:Cagliari vs Torino — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749992
+DESCRIPTION:⚽ كالياري × تورينو\n🏆 الدوري الإي
+ طالي — الجولة 36\n🗓 الأحد 16 مايو 2027 · 19:30 ب
+ توقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cagliari 
+ v Torino\n🏆 Serie A — Matchday 36\n🗓 Sun 16 May 2027 · 16:30 UTC\
+ n🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد تورينو — الدوري
+  الإيطالي | Tomorrow: Cagliari vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × تورينو | Kick-off in 30 min: Cagliari vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750007@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T163000Z
+DTEND:20270523T183000Z
+SUMMARY:Torino vs Napoli — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5750007
+DESCRIPTION:⚽ تورينو × نابولي\n🏆 الدوري الإيط
+ الي — الجولة 37\n🗓 الأحد 23 مايو 2027 · 19:30 بت
+ وقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n—————
+ \n⚽ Torino v Napoli\n🏆 Serie A — Matchday 37\n🗓 Sun 23 May 2027 
+ · 16:30 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد نابولي — الدوري 
+ الإيطالي | Tomorrow: Torino vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × نابولي | Kick-off in 30 min: Torino vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750017@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T163000Z
+DTEND:20270530T183000Z
+SUMMARY:Monza vs Torino — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5750017
+DESCRIPTION:⚽ مونزا × تورينو\n🏆 الدوري الإيطا
+ لي — الجولة 38\n🗓 الأحد 30 مايو 2027 · 19:30 بتو
+ قيت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Monza v To
+ rino\n🏆 Serie A — Matchday 38\n🗓 Sun 30 May 2027 · 16:30 UTC\n
+ 🏟 Stadio Brianteo\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد تورينو — الدوري ا
+ لإيطالي | Tomorrow: Monza vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × تورينو | Kick-off in 30 min: Monza vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852778@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260815T191500Z
+DTEND:20260815T211500Z
+SUMMARY:Torino vs Carrarese (1 - 0) — Coppa Italia
+LOCATION:Stadio Olimpico Grande Torino\, Torino\, Italy
+GEO:45.041752;7.650016
+URL:https://www.fotmob.com/match/5852778
+DESCRIPTION:⚽ تورينو × كارراريسي (1 - 0)\n🏆 كأس إ
+ يطاليا — دور الـ32\n🗓 السبت 15 أغسطس 2026 · 22
+ :15 بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino، Torino
+ \n⚖️ الحكم: Paride Tremolada\n👥 الحضور: 4,000\n———
+ ——\n⚽ Torino v Carrarese (1 - 0)\n🏆 Coppa Italia — Round of 32\
+ n🗓 Sat 15 Aug 2026 · 19:15 UTC\n🏟 Stadio Olimpico Grande Torino, To
+ rino\nReferee: Paride Tremolada\nAttendance: 4,000\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد كارراريسي — كأس 
+ إيطاليا | Tomorrow: Torino vs Carrarese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × كارراريسي | Kick-off in 30 min: Torino vs Carrarese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003654@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260901T190000Z
+DTEND:20260901T210000Z
+SUMMARY:Torino vs Monza (0 - 1) — Coppa Italia
+LOCATION:Stadio Olimpico Grande Torino\, Torino\, Italy
+GEO:45.041752;7.650016
+URL:https://www.fotmob.com/match/6003654
+DESCRIPTION:⚽ تورينو × مونزا (0 - 1)\n🏆 كأس إيطال
+ يا — دور الـ32\n🗓 الثلاثاء 1 سبتمبر 2026 · 22:
+ 00 بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino، Torino\
+ n⚖️ الحكم: Daniele Perenzoni\n—————\n⚽ Torino v Monza
+  (0 - 1)\n🏆 Coppa Italia — Round of 32\n🗓 Tue 01 Sep 2026 · 19:00
+  UTC\n🏟 Stadio Olimpico Grande Torino, Torino\nReferee: Daniele Perenzo
+ ni\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد مونزا — كأس إيطا
+ ليا | Tomorrow: Torino vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × مونزا | Kick-off in 30 min: Torino vs Monza
+END:VALARM
+END:VEVENT
+END:VCALENDAR

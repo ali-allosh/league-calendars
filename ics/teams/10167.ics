@@ -1,0 +1,1232 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Parma — Serie A & Coppa Italia Fixtures | بارما —
+  مباريات الدوري الإيطالي وكأس إيطاليا
+X-WR-CALDESC:Parma — all matches in Serie A & Coppa Italia\, exact UTC ki
+ ckoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-0
+ 5T19:31:10Z.  •  بارما — جميع المباريات في الد
+ وري الإيطالي وكأس إيطاليا بتوقيت UTC الدق
+ يق مع الملاعب والقنوات الناقلة. المصدر: Fo
+ tMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5749646@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T184500Z
+DTEND:20260822T204500Z
+SUMMARY:Parma vs Cagliari (0 - 1) — Serie A
+LOCATION:Stadio Ennio Tardini\, Parma\, Italy
+GEO:44.794905;10.338387
+URL:https://www.fotmob.com/match/5749646
+DESCRIPTION:⚽ بارما × كالياري (0 - 1)\n🏆 الدوري ا
+ لإيطالي — الجولة 1\n🗓 السبت 22 أغسطس 2026 · 2
+ 1:45 بتوقيت الرياض\n🏟 Stadio Ennio Tardini، Parma\n⚖️ 
+ الحكم: Daniele Perenzoni\n👥 الحضور: 15,365\n—————\
+ n⚽ Parma v Cagliari (0 - 1)\n🏆 Serie A — Matchday 1\n🗓 Sat 22 Au
+ g 2026 · 18:45 UTC\n🏟 Stadio Ennio Tardini, Parma\nReferee: Daniele Pe
+ renzoni\nAttendance: 15,365\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد كالياري — الدوري 
+ الإيطالي | Tomorrow: Parma vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × كالياري | Kick-off in 30 min: Parma vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749654@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T184500Z
+DTEND:20260829T204500Z
+SUMMARY:Juventus vs Parma (2 - 0) — Serie A
+LOCATION:Allianz Stadium\, Torino\, Italy
+GEO:45.109527;7.641302
+URL:https://www.fotmob.com/match/5749654
+DESCRIPTION:⚽ يوفنتوس × بارما (2 - 0)\n🏆 الدوري ا
+ لإيطالي — الجولة 2\n🗓 السبت 29 أغسطس 2026 · 2
+ 1:45 بتوقيت الرياض\n🏟 Allianz Stadium، Torino\n⚖️ ال
+ حكم: Francesco Fourneau\n—————\n⚽ Juventus v Parma (2 - 0)\
+ n🏆 Serie A — Matchday 2\n🗓 Sat 29 Aug 2026 · 18:45 UTC\n🏟 Alli
+ anz Stadium, Torino\nReferee: Francesco Fourneau\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد بارما — الدوري 
+ الإيطالي | Tomorrow: Juventus vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × بارما | Kick-off in 30 min: Juventus vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749668@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Parma vs Monza — Serie A
+LOCATION:Stadio Ennio Tardini\, Parma\, Italy
+GEO:44.794905;10.338387
+URL:https://www.fotmob.com/match/5749668
+DESCRIPTION:⚽ بارما × مونزا\n🏆 الدوري الإيطال
+ ي — الجولة 3\n🗓 الأحد 6 سبتمبر 2026 · 16:00 بتو
+ قيت الرياض\n🏟 Stadio Ennio Tardini، Parma\n📺 Starzplay\n
+ —————\n⚽ Parma v Monza\n🏆 Serie A — Matchday 3\n🗓 Sun 
+ 06 Sep 2026 · 13:00 UTC\n🏟 Stadio Ennio Tardini, Parma\n📺 Starzplay
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد مونزا — الدوري ال
+ إيطالي — 📺 Starzplay | Tomorrow: Parma vs Monza | TV: Starzplay
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × مونزا — 📺 Starzplay | Kick-off in 30 min: Parma vs Monza | TV
+ : Starzplay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749671@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260914T163000Z
+DTEND:20260914T183000Z
+SUMMARY:Como vs Parma — Serie A
+LOCATION:Stadio Giuseppe Sinigaglia\, Como\, Italy
+GEO:45.813857;9.072376
+URL:https://www.fotmob.com/match/5749671
+DESCRIPTION:⚽ كومو × بارما\n🏆 الدوري الإيطالي 
+ — الجولة 4\n🗓 الاثنين 14 سبتمبر 2026 · 19:30 بت
+ وقيت الرياض\n🏟 Stadio Giuseppe Sinigaglia، Como\n———
+ ——\n⚽ Como v Parma\n🏆 Serie A — Matchday 4\n🗓 Mon 14 Sep 202
+ 6 · 16:30 UTC\n🏟 Stadio Giuseppe Sinigaglia, Como\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كومو ضد بارما — الدوري الإ
+ يطالي | Tomorrow: Como vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كومو ×
+  بارما | Kick-off in 30 min: Como vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749687@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:Parma vs Genoa — Serie A
+LOCATION:Stadio Ennio Tardini\, Parma\, Italy
+GEO:44.794905;10.338387
+URL:https://www.fotmob.com/match/5749687
+DESCRIPTION:⚽ بارما × جنوى\n🏆 الدوري الإيطالي 
+ — الجولة 5\n🗓 الأحد 20 سبتمبر 2026 · 16:00 بتوق
+ يت الرياض\n🏟 Stadio Ennio Tardini، Parma\n—————\n⚽
+  Parma v Genoa\n🏆 Serie A — Matchday 5\n🗓 Sun 20 Sep 2026 · 13:00
+  UTC\n🏟 Stadio Ennio Tardini, Parma\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد جنوى — الدوري الإ
+ يطالي | Tomorrow: Parma vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × جنوى | Kick-off in 30 min: Parma vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749694@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T160000Z
+DTEND:20261010T180000Z
+SUMMARY:Inter vs Parma — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749694
+DESCRIPTION:⚽ إنتر ميلان × بارما\n🏆 الدوري الإ
+ يطالي — الجولة 6\n🗓 السبت 10 أكتوبر 2026 · 19:
+ 00 بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\n⚽ I
+ nter v Parma\n🏆 Serie A — Matchday 6\n🗓 Sat 10 Oct 2026 · 16:00 U
+ TC\n🏟 Giuseppe Meazza\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد بارما — الدو
+ ري الإيطالي | Tomorrow: Inter vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × بارما | Kick-off in 30 min: Inter vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749707@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261019T184500Z
+DTEND:20261019T204500Z
+SUMMARY:Parma vs Torino — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749707
+DESCRIPTION:⚽ بارما × تورينو\n🏆 الدوري الإيطا
+ لي — الجولة 7\n🗓 الاثنين 19 أكتوبر 2026 · 21:45
+  بتوقيت الرياض\n🏟 Stadio Ennio Tardini\n—————\n
+ ⚽ Parma v Torino\n🏆 Serie A — Matchday 7\n🗓 Mon 19 Oct 2026 · 1
+ 8:45 UTC\n🏟 Stadio Ennio Tardini\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد تورينو — الدوري ا
+ لإيطالي | Tomorrow: Parma vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × تورينو | Kick-off in 30 min: Parma vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749715@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T184500Z
+DTEND:20261024T204500Z
+SUMMARY:Lazio vs Parma — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749715
+DESCRIPTION:⚽ لاتسيو × بارما\n🏆 الدوري الإيطا
+ لي — الجولة 8\n🗓 السبت 24 أكتوبر 2026 · 21:45 ب
+ توقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ 
+ Lazio v Parma\n🏆 Serie A — Matchday 8\n🗓 Sat 24 Oct 2026 · 18:45 
+ UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد بارما — الدوري ا
+ لإيطالي | Tomorrow: Lazio vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × بارما | Kick-off in 30 min: Lazio vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749726@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261028T173000Z
+DTEND:20261028T193000Z
+SUMMARY:Parma vs Udinese — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749726
+DESCRIPTION:⚽ بارما × أودينيزي\n🏆 الدوري الإي
+ طالي — الجولة 9\n🗓 الأربعاء 28 أكتوبر 2026 ·
+  20:30 بتوقيت الرياض\n🏟 Stadio Ennio Tardini\n————
+ —\n⚽ Parma v Udinese\n🏆 Serie A — Matchday 9\n🗓 Wed 28 Oct 202
+ 6 · 17:30 UTC\n🏟 Stadio Ennio Tardini\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد أودينيزي — الدوري
+  الإيطالي | Tomorrow: Parma vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × أودينيزي | Kick-off in 30 min: Parma vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749731@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261102T194500Z
+DTEND:20261102T214500Z
+SUMMARY:Atalanta vs Parma — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749731
+DESCRIPTION:⚽ أتالانتا × بارما\n🏆 الدوري الإي
+ طالي — الجولة 10\n🗓 الاثنين 2 نوفمبر 2026 · 2
+ 2:45 بتوقيت الرياض\n🏟 New Balance Arena\n—————\n
+ ⚽ Atalanta v Parma\n🏆 Serie A — Matchday 10\n🗓 Mon 02 Nov 2026 
+ · 19:45 UTC\n🏟 New Balance Arena\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد بارما — الدوري
+  الإيطالي | Tomorrow: Atalanta vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × بارما | Kick-off in 30 min: Atalanta vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749747@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T170000Z
+DTEND:20261107T190000Z
+SUMMARY:Parma vs Bologna — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749747
+DESCRIPTION:⚽ بارما × بولونيا\n🏆 الدوري الإيط
+ الي — الجولة 11\n🗓 السبت 7 نوفمبر 2026 · 20:00 
+ بتوقيت الرياض\n🏟 Stadio Ennio Tardini\n—————\n⚽
+  Parma v Bologna\n🏆 Serie A — Matchday 11\n🗓 Sat 07 Nov 2026 · 17
+ :00 UTC\n🏟 Stadio Ennio Tardini\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد بولونيا — الدوري 
+ الإيطالي | Tomorrow: Parma vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × بولونيا | Kick-off in 30 min: Parma vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749758@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T170000Z
+DTEND:20261121T190000Z
+SUMMARY:Parma vs Roma — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749758
+DESCRIPTION:⚽ بارما × روما\n🏆 الدوري الإيطالي 
+ — الجولة 12\n🗓 السبت 21 نوفمبر 2026 · 20:00 بتو
+ قيت الرياض\n🏟 Stadio Ennio Tardini\n—————\n⚽ Parma
+  v Roma\n🏆 Serie A — Matchday 12\n🗓 Sat 21 Nov 2026 · 17:00 UTC\n
+ 🏟 Stadio Ennio Tardini\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد روما — الدوري الإ
+ يطالي | Tomorrow: Parma vs Roma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × روما | Kick-off in 30 min: Parma vs Roma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749763@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T173000Z
+DTEND:20261129T193000Z
+SUMMARY:Frosinone vs Parma — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749763
+DESCRIPTION:⚽ فروزينوني × بارما\n🏆 الدوري الإ
+ يطالي — الجولة 13\n🗓 الأحد 29 نوفمبر 2026 · 20
+ :30 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n—————\
+ n⚽ Frosinone v Parma\n🏆 Serie A — Matchday 13\n🗓 Sun 29 Nov 2026
+  · 17:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد بارما — الدور
+ ي الإيطالي | Tomorrow: Frosinone vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × بارما | Kick-off in 30 min: Frosinone vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749770@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T173000Z
+DTEND:20261206T193000Z
+SUMMARY:Milan vs Parma — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749770
+DESCRIPTION:⚽ ميلان × بارما\n🏆 الدوري الإيطال
+ ي — الجولة 14\n🗓 الأحد 6 ديسمبر 2026 · 20:30 بت
+ وقيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v Parma\n
+ 🏆 Serie A — Matchday 14\n🗓 Sun 06 Dec 2026 · 17:30 UTC\n🏟 San 
+ Siro\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد بارما — الدوري ال
+ إيطالي | Tomorrow: Milan vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × بارما | Kick-off in 30 min: Milan vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749788@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T173000Z
+DTEND:20261213T193000Z
+SUMMARY:Parma vs Fiorentina — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749788
+DESCRIPTION:⚽ بارما × فيورنتينا\n🏆 الدوري الإ
+ يطالي — الجولة 15\n🗓 الأحد 13 ديسمبر 2026 · 20
+ :30 بتوقيت الرياض\n🏟 Stadio Ennio Tardini\n—————\
+ n⚽ Parma v Fiorentina\n🏆 Serie A — Matchday 15\n🗓 Sun 13 Dec 202
+ 6 · 17:30 UTC\n🏟 Stadio Ennio Tardini\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد فيورنتينا — الدور
+ ي الإيطالي | Tomorrow: Parma vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × فيورنتينا | Kick-off in 30 min: Parma vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749797@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T173000Z
+DTEND:20261220T193000Z
+SUMMARY:Sassuolo vs Parma — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749797
+DESCRIPTION:⚽ ساسولو × بارما\n🏆 الدوري الإيطا
+ لي — الجولة 16\n🗓 الأحد 20 ديسمبر 2026 · 20:30 ب
+ توقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n——
+ ———\n⚽ Sassuolo v Parma\n🏆 Serie A — Matchday 16\n🗓 Sun 20
+  Dec 2026 · 17:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد بارما — الدوري ا
+ لإيطالي | Tomorrow: Sassuolo vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × بارما | Kick-off in 30 min: Sassuolo vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749807@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T173000Z
+DTEND:20270103T193000Z
+SUMMARY:Parma vs Napoli — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749807
+DESCRIPTION:⚽ بارما × نابولي\n🏆 الدوري الإيطا
+ لي — الجولة 17\n🗓 الأحد 3 يناير 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Stadio Ennio Tardini\n—————\n⚽ Par
+ ma v Napoli\n🏆 Serie A — Matchday 17\n🗓 Sun 03 Jan 2027 · 17:30 U
+ TC\n🏟 Stadio Ennio Tardini\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد نابولي — الدوري ا
+ لإيطالي | Tomorrow: Parma vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × نابولي | Kick-off in 30 min: Parma vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749816@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T173000Z
+DTEND:20270106T193000Z
+SUMMARY:Lecce vs Parma — Serie A
+LOCATION:Stadio Ettore Giardiniero - Via del Mare
+URL:https://www.fotmob.com/match/5749816
+DESCRIPTION:⚽ ليتشي × بارما\n🏆 الدوري الإيطال
+ ي — الجولة 18\n🗓 الأربعاء 6 يناير 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Ettore Giardiniero - Via del Mare\n
+ —————\n⚽ Lecce v Parma\n🏆 Serie A — Matchday 18\n🗓 Wed
+  06 Jan 2027 · 17:30 UTC\n🏟 Stadio Ettore Giardiniero - Via del Mare\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليتشي ضد بارما — الدوري ال
+ إيطالي | Tomorrow: Lecce vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليتشي 
+ × بارما | Kick-off in 30 min: Lecce vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749827@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T173000Z
+DTEND:20270110T193000Z
+SUMMARY:Parma vs Venezia — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749827
+DESCRIPTION:⚽ بارما × فينيزيا\n🏆 الدوري الإيط
+ الي — الجولة 19\n🗓 الأحد 10 يناير 2027 · 20:30 ب
+ توقيت الرياض\n🏟 Stadio Ennio Tardini\n—————\n⚽ P
+ arma v Venezia\n🏆 Serie A — Matchday 19\n🗓 Sun 10 Jan 2027 · 17:3
+ 0 UTC\n🏟 Stadio Ennio Tardini\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد فينيزيا — الدوري 
+ الإيطالي | Tomorrow: Parma vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × فينيزيا | Kick-off in 30 min: Parma vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749837@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T173000Z
+DTEND:20270117T193000Z
+SUMMARY:Parma vs Inter — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749837
+DESCRIPTION:⚽ بارما × إنتر ميلان\n🏆 الدوري الإ
+ يطالي — الجولة 20\n🗓 الأحد 17 يناير 2027 · 20:3
+ 0 بتوقيت الرياض\n🏟 Stadio Ennio Tardini\n—————\n
+ ⚽ Parma v Inter\n🏆 Serie A — Matchday 20\n🗓 Sun 17 Jan 2027 · 1
+ 7:30 UTC\n🏟 Stadio Ennio Tardini\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد إنتر ميلان — الدو
+ ري الإيطالي | Tomorrow: Parma vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × إنتر ميلان | Kick-off in 30 min: Parma vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749845@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T173000Z
+DTEND:20270124T193000Z
+SUMMARY:Genoa vs Parma — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749845
+DESCRIPTION:⚽ جنوى × بارما\n🏆 الدوري الإيطالي 
+ — الجولة 21\n🗓 الأحد 24 يناير 2027 · 20:30 بتوق
+ يت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n⚽ Genoa 
+ v Parma\n🏆 Serie A — Matchday 21\n🗓 Sun 24 Jan 2027 · 17:30 UTC\n
+ 🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد بارما — الدوري الإ
+ يطالي | Tomorrow: Genoa vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  بارما | Kick-off in 30 min: Genoa vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749852@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T173000Z
+DTEND:20270131T193000Z
+SUMMARY:Cagliari vs Parma — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749852
+DESCRIPTION:⚽ كالياري × بارما\n🏆 الدوري الإيط
+ الي — الجولة 22\n🗓 الأحد 31 يناير 2027 · 20:30 ب
+ توقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cagliari 
+ v Parma\n🏆 Serie A — Matchday 22\n🗓 Sun 31 Jan 2027 · 17:30 UTC\n
+ 🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد بارما — الدوري 
+ الإيطالي | Tomorrow: Cagliari vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × بارما | Kick-off in 30 min: Cagliari vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749868@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T173000Z
+DTEND:20270207T193000Z
+SUMMARY:Parma vs Frosinone — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749868
+DESCRIPTION:⚽ بارما × فروزينوني\n🏆 الدوري الإ
+ يطالي — الجولة 23\n🗓 الأحد 7 فبراير 2027 · 20:
+ 30 بتوقيت الرياض\n🏟 Stadio Ennio Tardini\n—————\n
+ ⚽ Parma v Frosinone\n🏆 Serie A — Matchday 23\n🗓 Sun 07 Feb 2027 
+ · 17:30 UTC\n🏟 Stadio Ennio Tardini\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد فروزينوني — الدور
+ ي الإيطالي | Tomorrow: Parma vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × فروزينوني | Kick-off in 30 min: Parma vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749870@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T173000Z
+DTEND:20270214T193000Z
+SUMMARY:Roma vs Parma — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749870
+DESCRIPTION:⚽ روما × بارما\n🏆 الدوري الإيطالي 
+ — الجولة 24\n🗓 الأحد 14 فبراير 2027 · 20:30 بتو
+ قيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ Roma
+  v Parma\n🏆 Serie A — Matchday 24\n🗓 Sun 14 Feb 2027 · 17:30 UTC\
+ n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد بارما — الدوري الإ
+ يطالي | Tomorrow: Roma vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  بارما | Kick-off in 30 min: Roma vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749888@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T173000Z
+DTEND:20270221T193000Z
+SUMMARY:Udinese vs Parma — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749888
+DESCRIPTION:⚽ أودينيزي × بارما\n🏆 الدوري الإي
+ طالي — الجولة 25\n🗓 الأحد 21 فبراير 2027 · 20:3
+ 0 بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n—
+ ————\n⚽ Udinese v Parma\n🏆 Serie A — Matchday 25\n🗓 Sun 
+ 21 Feb 2027 · 17:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد بارما — الدوري
+  الإيطالي | Tomorrow: Udinese vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × بارما | Kick-off in 30 min: Udinese vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749898@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T173000Z
+DTEND:20270228T193000Z
+SUMMARY:Parma vs Sassuolo — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749898
+DESCRIPTION:⚽ بارما × ساسولو\n🏆 الدوري الإيطا
+ لي — الجولة 26\n🗓 الأحد 28 فبراير 2027 · 20:30 ب
+ توقيت الرياض\n🏟 Stadio Ennio Tardini\n—————\n⚽ P
+ arma v Sassuolo\n🏆 Serie A — Matchday 26\n🗓 Sun 28 Feb 2027 · 17:
+ 30 UTC\n🏟 Stadio Ennio Tardini\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد ساسولو — الدوري ا
+ لإيطالي | Tomorrow: Parma vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × ساسولو | Kick-off in 30 min: Parma vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749907@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T173000Z
+DTEND:20270307T193000Z
+SUMMARY:Napoli vs Parma — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749907
+DESCRIPTION:⚽ نابولي × بارما\n🏆 الدوري الإيطا
+ لي — الجولة 27\n🗓 الأحد 7 مارس 2027 · 20:30 بتو
+ قيت الرياض\n🏟 Diego Armando Maradona\n—————\n⚽ Nap
+ oli v Parma\n🏆 Serie A — Matchday 27\n🗓 Sun 07 Mar 2027 · 17:30 U
+ TC\n🏟 Diego Armando Maradona\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد بارما — الدوري ا
+ لإيطالي | Tomorrow: Napoli vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × بارما | Kick-off in 30 min: Napoli vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749917@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T173000Z
+DTEND:20270314T193000Z
+SUMMARY:Parma vs Lecce — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749917
+DESCRIPTION:⚽ بارما × ليتشي\n🏆 الدوري الإيطال
+ ي — الجولة 28\n🗓 الأحد 14 مارس 2027 · 20:30 بتوق
+ يت الرياض\n🏟 Stadio Ennio Tardini\n—————\n⚽ Parma v
+  Lecce\n🏆 Serie A — Matchday 28\n🗓 Sun 14 Mar 2027 · 17:30 UTC\n
+ 🏟 Stadio Ennio Tardini\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد ليتشي — الدوري ال
+ إيطالي | Tomorrow: Parma vs Lecce
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × ليتشي | Kick-off in 30 min: Parma vs Lecce
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749927@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T173000Z
+DTEND:20270321T193000Z
+SUMMARY:Parma vs Lazio — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749927
+DESCRIPTION:⚽ بارما × لاتسيو\n🏆 الدوري الإيطا
+ لي — الجولة 29\n🗓 الأحد 21 مارس 2027 · 20:30 بتو
+ قيت الرياض\n🏟 Stadio Ennio Tardini\n—————\n⚽ Parma
+  v Lazio\n🏆 Serie A — Matchday 29\n🗓 Sun 21 Mar 2027 · 17:30 UTC\
+ n🏟 Stadio Ennio Tardini\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد لاتسيو — الدوري ا
+ لإيطالي | Tomorrow: Parma vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × لاتسيو | Kick-off in 30 min: Parma vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749939@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T163000Z
+DTEND:20270404T183000Z
+SUMMARY:Venezia vs Parma — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749939
+DESCRIPTION:⚽ فينيزيا × بارما\n🏆 الدوري الإيط
+ الي — الجولة 30\n🗓 الأحد 4 أبريل 2027 · 19:30 ب
+ توقيت الرياض\n🏟 Stadio Pierluigi Penzo\n—————\n⚽
+  Venezia v Parma\n🏆 Serie A — Matchday 30\n🗓 Sun 04 Apr 2027 · 16
+ :30 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد بارما — الدوري 
+ الإيطالي | Tomorrow: Venezia vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × بارما | Kick-off in 30 min: Venezia vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749948@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T163000Z
+DTEND:20270411T183000Z
+SUMMARY:Parma vs Como — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749948
+DESCRIPTION:⚽ بارما × كومو\n🏆 الدوري الإيطالي 
+ — الجولة 31\n🗓 الأحد 11 أبريل 2027 · 19:30 بتوق
+ يت الرياض\n🏟 Stadio Ennio Tardini\n—————\n⚽ Parma v
+  Como\n🏆 Serie A — Matchday 31\n🗓 Sun 11 Apr 2027 · 16:30 UTC\n
+ 🏟 Stadio Ennio Tardini\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد كومو — الدوري الإ
+ يطالي | Tomorrow: Parma vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × كومو | Kick-off in 30 min: Parma vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749955@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T163000Z
+DTEND:20270418T183000Z
+SUMMARY:Fiorentina vs Parma — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749955
+DESCRIPTION:⚽ فيورنتينا × بارما\n🏆 الدوري الإ
+ يطالي — الجولة 32\n🗓 الأحد 18 أبريل 2027 · 19:3
+ 0 بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n————
+ —\n⚽ Fiorentina v Parma\n🏆 Serie A — Matchday 32\n🗓 Sun 18 Apr
+  2027 · 16:30 UTC\n🏟 Artemio Franchi, Firenze\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد بارما — الدور
+ ي الإيطالي | Tomorrow: Fiorentina vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × بارما | Kick-off in 30 min: Fiorentina vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749968@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270425T163000Z
+DTEND:20270425T183000Z
+SUMMARY:Parma vs Atalanta — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749968
+DESCRIPTION:⚽ بارما × أتالانتا\n🏆 الدوري الإي
+ طالي — الجولة 33\n🗓 الأحد 25 أبريل 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Stadio Ennio Tardini\n—————\n⚽
+  Parma v Atalanta\n🏆 Serie A — Matchday 33\n🗓 Sun 25 Apr 2027 · 1
+ 6:30 UTC\n🏟 Stadio Ennio Tardini\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد أتالانتا — الدوري
+  الإيطالي | Tomorrow: Parma vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × أتالانتا | Kick-off in 30 min: Parma vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749978@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T163000Z
+DTEND:20270502T183000Z
+SUMMARY:Torino vs Parma — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749978
+DESCRIPTION:⚽ تورينو × بارما\n🏆 الدوري الإيطا
+ لي — الجولة 34\n🗓 الأحد 2 مايو 2027 · 19:30 بتو
+ قيت الرياض\n🏟 Stadio Olimpico Grande Torino\n—————\n
+ ⚽ Torino v Parma\n🏆 Serie A — Matchday 34\n🗓 Sun 02 May 2027 · 
+ 16:30 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد بارما — الدوري ا
+ لإيطالي | Tomorrow: Torino vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × بارما | Kick-off in 30 min: Torino vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749986@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T163000Z
+DTEND:20270509T183000Z
+SUMMARY:Parma vs Milan — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749986
+DESCRIPTION:⚽ بارما × ميلان\n🏆 الدوري الإيطال
+ ي — الجولة 35\n🗓 الأحد 9 مايو 2027 · 19:30 بتوق
+ يت الرياض\n🏟 Stadio Ennio Tardini\n—————\n⚽ Parma v
+  Milan\n🏆 Serie A — Matchday 35\n🗓 Sun 09 May 2027 · 16:30 UTC\n
+ 🏟 Stadio Ennio Tardini\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد ميلان — الدوري ال
+ إيطالي | Tomorrow: Parma vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × ميلان | Kick-off in 30 min: Parma vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749997@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T163000Z
+DTEND:20270516T183000Z
+SUMMARY:Monza vs Parma — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749997
+DESCRIPTION:⚽ مونزا × بارما\n🏆 الدوري الإيطال
+ ي — الجولة 36\n🗓 الأحد 16 مايو 2027 · 19:30 بتوق
+ يت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Monza v Parm
+ a\n🏆 Serie A — Matchday 36\n🗓 Sun 16 May 2027 · 16:30 UTC\n🏟 S
+ tadio Brianteo\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد بارما — الدوري ال
+ إيطالي | Tomorrow: Monza vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × بارما | Kick-off in 30 min: Monza vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750006@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T163000Z
+DTEND:20270523T183000Z
+SUMMARY:Parma vs Juventus — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5750006
+DESCRIPTION:⚽ بارما × يوفنتوس\n🏆 الدوري الإيط
+ الي — الجولة 37\n🗓 الأحد 23 مايو 2027 · 19:30 بت
+ وقيت الرياض\n🏟 Stadio Ennio Tardini\n—————\n⚽ Par
+ ma v Juventus\n🏆 Serie A — Matchday 37\n🗓 Sun 23 May 2027 · 16:30
+  UTC\n🏟 Stadio Ennio Tardini\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد يوفنتوس — الدوري 
+ الإيطالي | Tomorrow: Parma vs Juventus
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × يوفنتوس | Kick-off in 30 min: Parma vs Juventus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750011@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T163000Z
+DTEND:20270530T183000Z
+SUMMARY:Bologna vs Parma — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5750011
+DESCRIPTION:⚽ بولونيا × بارما\n🏆 الدوري الإيط
+ الي — الجولة 38\n🗓 الأحد 30 مايو 2027 · 19:30 بت
+ وقيت الرياض\n🏟 Stadio Renato Dell'Ara\n—————\n⚽ B
+ ologna v Parma\n🏆 Serie A — Matchday 38\n🗓 Sun 30 May 2027 · 16:3
+ 0 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد بارما — الدوري 
+ الإيطالي | Tomorrow: Bologna vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × بارما | Kick-off in 30 min: Bologna vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852771@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260814T160000Z
+DTEND:20260814T180000Z
+SUMMARY:Parma vs Catania (2 - 0) — Coppa Italia
+LOCATION:Stadio Ennio Tardini\, Parma\, Italy
+GEO:44.794905;10.338387
+URL:https://www.fotmob.com/match/5852771
+DESCRIPTION:⚽ بارما × كاتانيا (2 - 0)\n🏆 كأس إيطا
+ ليا — دور الـ32\n🗓 الجمعة 14 أغسطس 2026 · 19:00 
+ بتوقيت الرياض\n🏟 Stadio Ennio Tardini، Parma\n⚖️ ال
+ حكم: Valerio Crezzini\n👥 الحضور: 4,210\n—————\n⚽ P
+ arma v Catania (2 - 0)\n🏆 Coppa Italia — Round of 32\n🗓 Fri 14 Aug
+  2026 · 16:00 UTC\n🏟 Stadio Ennio Tardini, Parma\nReferee: Valerio Cre
+ zzini\nAttendance: 4,210\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد كاتانيا — كأس إيط
+ اليا | Tomorrow: Parma vs Catania
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × كاتانيا | Kick-off in 30 min: Parma vs Catania
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003655@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260901T160000Z
+DTEND:20260901T180000Z
+SUMMARY:Parma vs Cremonese (0 - 2) — Coppa Italia
+LOCATION:Stadio Ennio Tardini\, Parma\, Italy
+GEO:44.794905;10.338387
+URL:https://www.fotmob.com/match/6003655
+DESCRIPTION:⚽ بارما × كريمونيسي (0 - 2)\n🏆 كأس إي
+ طاليا — دور الـ32\n🗓 الثلاثاء 1 سبتمبر 2026 
+ · 19:00 بتوقيت الرياض\n🏟 Stadio Ennio Tardini، Parma\n⚖
+ ️ الحكم: Kevin Bonacina\n—————\n⚽ Parma v Cremonese (0 
+ - 2)\n🏆 Coppa Italia — Round of 32\n🗓 Tue 01 Sep 2026 · 16:00 UTC
+ \n🏟 Stadio Ennio Tardini, Parma\nReferee: Kevin Bonacina\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد كريمونيسي — كأس إ
+ يطاليا | Tomorrow: Parma vs Cremonese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × كريمونيسي | Kick-off in 30 min: Parma vs Cremonese
+END:VALARM
+END:VEVENT
+END:VCALENDAR

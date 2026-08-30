@@ -1,0 +1,155 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Salford City — FA Cup Fixtures | Salford City — مبا
+ ريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Salford City — all matches in FA Cup\, exact UTC kickoffs\, 
+ stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:1
+ 0Z.  •  Salford City — جميع المباريات في كأس الا
+ تحاد الإنجليزي بتوقيت UTC الدقيق مع الملا
+ عب والقنوات الناقلة. المصدر: FotMob + 365scores · 
+ تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010616@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Salford City vs Lincoln City (1 - 1) — FA Cup
+LOCATION:The Peninsula Stadium\, Salford\, Greater Manchester\, England
+GEO:53.513610;-2.276772
+URL:https://www.fotmob.com/match/5010616
+DESCRIPTION:⚽ Salford City × Lincoln City (1 - 1)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الأول\n🗓 السبت 1 ن
+ وفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 The Peninsula Sta
+ dium، Salford, Greater Manchester\n⚖️ الحكم: Steven Copeland\n
+ —————\n⚽ Salford City v Lincoln City (1 - 1)\n🏆 FA Cup — 
+ Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 The Peninsula Stadium, Sa
+ lford, Greater Manchester\nReferee: Steven Copeland\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Salford City ضد Lincoln City — كأس الا
+ تحاد الإنجليزي | Tomorrow: Salford City vs Lincoln City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Salford Cit
+ y × Lincoln City | Kick-off in 30 min: Salford City vs Lincoln City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040472@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251205T193000Z
+DTEND:20251205T213000Z
+SUMMARY:Salford City vs Leyton Orient (4 - 0) — FA Cup
+LOCATION:The Peninsula Stadium\, Salford\, Greater Manchester\, England
+GEO:53.513610;-2.276772
+URL:https://www.fotmob.com/match/5040472
+DESCRIPTION:⚽ Salford City × Leyton Orient (4 - 0)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الثاني\n🗓 الجمعة 5
+  ديسمبر 2025 · 22:30 بتوقيت الرياض\n🏟 The Peninsula 
+ Stadium، Salford, Greater Manchester\n⚖️ الحكم: Ben Speedie\n
+ 👥 الحضور: 1,796\n—————\n⚽ Salford City v Leyton Orien
+ t (4 - 0)\n🏆 FA Cup — Round 2\n🗓 Fri 05 Dec 2025 · 19:30 UTC\n
+ 🏟 The Peninsula Stadium, Salford, Greater Manchester\nReferee: Ben Spee
+ die\nAttendance: 1,796\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Salford City ضد Leyton Orient — كأس الا
+ تحاد الإنجليزي | Tomorrow: Salford City vs Leyton Orient
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Salford Cit
+ y × Leyton Orient | Kick-off in 30 min: Salford City vs Leyton Orient
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089912@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260120T194500Z
+DTEND:20260120T214500Z
+SUMMARY:Salford City vs Swindon Town (3 - 2) — FA Cup
+LOCATION:The Peninsula Stadium\, Salford\, Greater Manchester\, England
+GEO:53.513610;-2.276772
+URL:https://www.fotmob.com/match/5089912
+DESCRIPTION:⚽ Salford City × Swindon Town (3 - 2)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الثالث\n🗓 الثلاثا
+ ء 20 يناير 2026 · 22:45 بتوقيت الرياض\n🏟 The Peninsu
+ la Stadium، Salford, Greater Manchester\n⚖️ الحكم: Alex Chilowic
+ z\n👥 الحضور: 2,215\n—————\n⚽ Salford City v Swindon T
+ own (3 - 2)\n🏆 FA Cup — Round 3\n🗓 Tue 20 Jan 2026 · 19:45 UTC\n
+ 🏟 The Peninsula Stadium, Salford, Greater Manchester\nReferee: Alex Chi
+ lowicz\nAttendance: 2,215\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Salford City ضد Swindon Town — كأس الا
+ تحاد الإنجليزي | Tomorrow: Salford City vs Swindon Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Salford Cit
+ y × Swindon Town | Kick-off in 30 min: Salford City vs Swindon Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135175@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260214T150000Z
+DTEND:20260214T170000Z
+SUMMARY:Manchester City vs Salford City (2 - 0) — FA Cup
+LOCATION:Etihad Stadium\, Manchester\, England
+GEO:53.483152;-2.200409
+URL:https://www.fotmob.com/match/5135175
+DESCRIPTION:⚽ مانشستر سيتي × Salford City (2 - 0)\n🏆 كأ
+ س الاتحاد الإنجليزي — الدور الرابع\n🗓 ا
+ لسبت 14 فبراير 2026 · 18:00 بتوقيت الرياض\n🏟 Eti
+ had Stadium، Manchester\n⚖️ الحكم: Matt Donohue\n👥 الحضو
+ ر: 46,774\n—————\n⚽ Manchester City v Salford City (2 - 0)\n
+ 🏆 FA Cup — Round 4\n🗓 Sat 14 Feb 2026 · 15:00 UTC\n🏟 Etihad St
+ adium, Manchester\nReferee: Matt Donohue\nAttendance: 46,774\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد Salford City — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Manchester City vs Salf
+ ord City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × Salford City | Kick-off in 30 min: Manchester City vs Sal
+ ford City
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Salzburg — UEFA Europa League Fixtures | Salzburg — م
+ باريات الدوري الأوروبي
+X-WR-CALDESC:Salzburg — all matches in UEFA Europa League\, exact UTC kic
+ koffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05
+ T19:31:10Z.  •  Salzburg — جميع المباريات في الدور
+ ي الأوروبي بتوقيت UTC الدقيق مع الملاعب وا
+ لقنوات الناقلة. المصدر: FotMob + 365scores · تحدي
+ ث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6112379@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260917T164500Z
+DTEND:20260917T184500Z
+SUMMARY:Levski Sofia vs Salzburg — UEFA Europa League
+LOCATION:Stadion Georgi Asparuhov\, Sofia\, Bulgaria
+GEO:42.705304;23.363172
+URL:https://www.fotmob.com/match/6112379
+DESCRIPTION:⚽ ليفسكي صوفيا × Salzburg\n🏆 الدوري ال
+ أوروبي — الجولة 1\n🗓 الخميس 17 سبتمبر 2026 ·
+  19:45 بتوقيت الرياض\n🏟 Stadion Georgi Asparuhov، Sofia\n
+ —————\n⚽ Levski Sofia v Salzburg\n🏆 UEFA Europa League — 
+ Matchday 1\n🗓 Thu 17 Sep 2026 · 16:45 UTC\n🏟 Stadion Georgi Asparuh
+ ov, Sofia\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفسكي صوفيا ضد Salzburg — الد
+ وري الأوروبي | Tomorrow: Levski Sofia vs Salzburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفسك
+ ي صوفيا × Salzburg | Kick-off in 30 min: Levski Sofia vs Salzburg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112294@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:Salzburg vs Milan — UEFA Europa League
+LOCATION:Red Bull Arena\, Wals-Siezenheim\, Austria
+GEO:47.816294;12.998183
+URL:https://www.fotmob.com/match/6112294
+DESCRIPTION:⚽ Salzburg × ميلان\n🏆 الدوري الأوروبي 
+ — الجولة 2\n🗓 الخميس 15 أكتوبر 2026 · 19:45 بتو
+ قيت الرياض\n🏟 Red Bull Arena، Wals-Siezenheim\n————
+ —\n⚽ Salzburg v Milan\n🏆 UEFA Europa League — Matchday 2\n🗓 Th
+ u 15 Oct 2026 · 16:45 UTC\n🏟 Red Bull Arena, Wals-Siezenheim\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Salzburg ضد ميلان — الدوري الأ
+ وروبي | Tomorrow: Salzburg vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Salzburg ×
+  ميلان | Kick-off in 30 min: Salzburg vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112335@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:NK Celje vs Salzburg — UEFA Europa League
+LOCATION:Stadion Z'dežele\, Celje\, Slovenia
+GEO:46.246573;15.269923
+URL:https://www.fotmob.com/match/6112335
+DESCRIPTION:⚽ تسيليى × Salzburg\n🏆 الدوري الأوروب
+ ي — الجولة 3\n🗓 الخميس 22 أكتوبر 2026 · 22:00 ب
+ توقيت الرياض\n🏟 Stadion Z'dežele، Celje\n—————\n
+ ⚽ NK Celje v Salzburg\n🏆 UEFA Europa League — Matchday 3\n🗓 Thu 
+ 22 Oct 2026 · 19:00 UTC\n🏟 Stadion Z'dežele, Celje\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تسيليى ضد Salzburg — الدوري ال
+ أوروبي | Tomorrow: NK Celje vs Salzburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تسيلي
+ ى × Salzburg | Kick-off in 30 min: NK Celje vs Salzburg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112311@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:Anderlecht vs Salzburg — UEFA Europa League
+LOCATION:Lotto Park
+URL:https://www.fotmob.com/match/6112311
+DESCRIPTION:⚽ أندرلخت × Salzburg\n🏆 الدوري الأورو
+ بي — الجولة 4\n🗓 الخميس 5 نوفمبر 2026 · 20:45 ب
+ توقيت الرياض\n🏟 Lotto Park\n—————\n⚽ Anderlecht 
+ v Salzburg\n🏆 UEFA Europa League — Matchday 4\n🗓 Thu 05 Nov 2026 
+ · 17:45 UTC\n🏟 Lotto Park\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أندرلخت ضد Salzburg — الدوري ا
+ لأوروبي | Tomorrow: Anderlecht vs Salzburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أندرل
+ خت × Salzburg | Kick-off in 30 min: Anderlecht vs Salzburg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112297@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Salzburg vs Ararat Armenia — UEFA Europa League
+LOCATION:Red Bull Arena
+URL:https://www.fotmob.com/match/6112297
+DESCRIPTION:⚽ Salzburg × أرارات أرمينيا\n🏆 الدوري 
+ الأوروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 202
+ 6 · 20:45 بتوقيت الرياض\n🏟 Red Bull Arena\n—————
+ \n⚽ Salzburg v Ararat Armenia\n🏆 UEFA Europa League — Matchday 5\n
+ 🗓 Thu 26 Nov 2026 · 17:45 UTC\n🏟 Red Bull Arena\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Salzburg ضد أرارات أرمينيا — ا
+ لدوري الأوروبي | Tomorrow: Salzburg vs Ararat Armenia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Salzburg ×
+  أرارات أرمينيا | Kick-off in 30 min: Salzburg vs Ararat Arme
+ nia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112295@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:Salzburg vs Sparta Prague — UEFA Europa League
+LOCATION:Red Bull Arena
+URL:https://www.fotmob.com/match/6112295
+DESCRIPTION:⚽ Salzburg × سبارتا براغ\n🏆 الدوري الأ
+ وروبي — الجولة 6\n🗓 الخميس 10 ديسمبر 2026 · 2
+ 3:00 بتوقيت الرياض\n🏟 Red Bull Arena\n—————\n⚽ 
+ Salzburg v Sparta Prague\n🏆 UEFA Europa League — Matchday 6\n🗓 Thu
+  10 Dec 2026 · 20:00 UTC\n🏟 Red Bull Arena\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Salzburg ضد سبارتا براغ — الدو
+ ري الأوروبي | Tomorrow: Salzburg vs Sparta Prague
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Salzburg ×
+  سبارتا براغ | Kick-off in 30 min: Salzburg vs Sparta Prague
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112243@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:Bayer Leverkusen vs Salzburg — UEFA Europa League
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/6112243
+DESCRIPTION:⚽ باير ليفركوزن × Salzburg\n🏆 الدوري ا
+ لأوروبي — الجولة 7\n🗓 الخميس 21 يناير 2027 ·
+  23:00 بتوقيت الرياض\n🏟 BayArena\n—————\n⚽ Baye
+ r Leverkusen v Salzburg\n🏆 UEFA Europa League — Matchday 7\n🗓 Thu 
+ 21 Jan 2027 · 20:00 UTC\n🏟 BayArena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد Salzburg — ال
+ دوري الأوروبي | Tomorrow: Bayer Leverkusen vs Salzburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × Salzburg | Kick-off in 30 min: Bayer Leverkusen vs Salzb
+ urg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112296@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Salzburg vs Crystal Palace — UEFA Europa League
+LOCATION:Red Bull Arena
+URL:https://www.fotmob.com/match/6112296
+DESCRIPTION:⚽ Salzburg × كريستال بالاس\n🏆 الدوري ا
+ لأوروبي — الجولة 8\n🗓 الخميس 28 يناير 2027 ·
+  23:00 بتوقيت الرياض\n🏟 Red Bull Arena\n—————\n
+ ⚽ Salzburg v Crystal Palace\n🏆 UEFA Europa League — Matchday 8\n
+ 🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 Red Bull Arena\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Salzburg ضد كريستال بالاس — ال
+ دوري الأوروبي | Tomorrow: Salzburg vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Salzburg ×
+  كريستال بالاس | Kick-off in 30 min: Salzburg vs Crystal Palac
+ e
+END:VALARM
+END:VEVENT
+END:VCALENDAR

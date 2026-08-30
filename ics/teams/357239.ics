@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ CF Talavera de la Reina — Copa del Rey Fixtures | تال
+ افيرا — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:CF Talavera de la Reina — all matches in Copa del Rey\, exac
+ t UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2
+ 026-09-05T19:31:10Z.  •  تالافيرا — جميع المباريا
+ ت في كأس ملك إسبانيا بتوقيت UTC الدقيق مع ا
+ لملاعب والقنوات الناقلة. المصدر: FotMob + 365sc
+ ores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4996037@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251028T190000Z
+DTEND:20251028T210000Z
+SUMMARY:Rayo Majadahonda vs CF Talavera de la Reina (1 - 4) — Copa del Re
+ y
+LOCATION:Miniestadio Cerro del Espino\, Majadahonda\, Spain
+GEO:40.457562;-3.860288
+URL:https://www.fotmob.com/match/4996037
+DESCRIPTION:⚽ Rayo Majadahonda × تالافيرا (1 - 4)\n🏆 كأس 
+ ملك إسبانيا — الدور الأول\n🗓 الثلاثاء 28 
+ أكتوبر 2025 · 22:00 بتوقيت الرياض\n🏟 Miniestadio Cer
+ ro del Espino، Majadahonda\n⚖️ الحكم: Alexandre Alemán Pérez\n
+ —————\n⚽ Rayo Majadahonda v CF Talavera de la Reina (1 - 4)\n
+ 🏆 Copa del Rey — Round 1\n🗓 Tue 28 Oct 2025 · 19:00 UTC\n🏟 Min
+ iestadio Cerro del Espino, Majadahonda\nReferee: Alexandre Alemán Pérez\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Rayo Majadahonda ضد تالافيرا — كأس
+  ملك إسبانيا | Tomorrow: Rayo Majadahonda vs CF Talavera de la R
+ eina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Rayo Majada
+ honda × تالافيرا | Kick-off in 30 min: Rayo Majadahonda vs CF Tal
+ avera de la Reina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057215@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251203T190000Z
+DTEND:20251203T210000Z
+SUMMARY:CF Talavera de la Reina vs Málaga (2 - 1) — Copa del Rey
+LOCATION:Estadio El Prado\, Talavera de la Reina\, Spain
+GEO:39.965593;-4.821888
+URL:https://www.fotmob.com/match/5057215
+DESCRIPTION:⚽ تالافيرا × مالقا (2 - 1)\n🏆 كأس ملك 
+ إسبانيا — الدور الثاني\n🗓 الأربعاء 3 ديس
+ مبر 2025 · 22:00 بتوقيت الرياض\n🏟 Estadio El Prado، Ta
+ lavera de la Reina\n⚖️ الحكم: Saúl Ais Reig\n👥 الحضور: 
+ 4,075\n—————\n⚽ CF Talavera de la Reina v Málaga (2 - 1)\n
+ 🏆 Copa del Rey — Round 2\n🗓 Wed 03 Dec 2025 · 19:00 UTC\n🏟 Est
+ adio El Prado, Talavera de la Reina\nReferee: Saúl Ais Reig\nAttendance: 
+ 4,075\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تالافيرا ضد مالقا — كأس مل
+ ك إسبانيا | Tomorrow: CF Talavera de la Reina vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تالاف
+ يرا × مالقا | Kick-off in 30 min: CF Talavera de la Reina vs Mál
+ aga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5091458@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251217T200000Z
+DTEND:20251217T220000Z
+SUMMARY:CF Talavera de la Reina vs Real Madrid (2 - 3) — Copa del Rey
+LOCATION:Estadio El Prado\, Talavera de la Reina\, Spain
+GEO:39.965593;-4.821888
+URL:https://www.fotmob.com/match/5091458
+DESCRIPTION:⚽ تالافيرا × ريال مدريد (2 - 3)\n🏆 كأ
+ س ملك إسبانيا — دور الـ32\n🗓 الأربعاء 17 د
+ يسمبر 2025 · 23:00 بتوقيت الرياض\n🏟 Estadio El Prado
+ ، Talavera de la Reina\n👥 الحضور: 4,200\n—————\n⚽ CF
+  Talavera de la Reina v Real Madrid (2 - 3)\n🏆 Copa del Rey — Round o
+ f 32\n🗓 Wed 17 Dec 2025 · 20:00 UTC\n🏟 Estadio El Prado, Talavera d
+ e la Reina\nAttendance: 4,200\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تالافيرا ضد ريال مدريد — ك
+ أس ملك إسبانيا | Tomorrow: CF Talavera de la Reina vs Real Mad
+ rid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تالاف
+ يرا × ريال مدريد | Kick-off in 30 min: CF Talavera de la Rein
+ a vs Real Madrid
+END:VALARM
+END:VEVENT
+END:VCALENDAR

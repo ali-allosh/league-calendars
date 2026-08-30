@@ -1,0 +1,294 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Kashiwa Reysol — AFC Champions League Elite Fixtures | 
+ كاشيوا ريسول — مباريات دوري أبطال آسيا ل
+ لنخبة
+X-WR-CALDESC:Kashiwa Reysol — all matches in AFC Champions League Elite\,
+  exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-upda
+ ted 2026-09-05T19:31:10Z.  •  كاشيوا ريسول — جميع ال
+ مباريات في دوري أبطال آسيا للنخبة بتوقيت
+  UTC الدقيق مع الملاعب والقنوات الناقلة. ا
+ لمصدر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31
+ :10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6049982@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260916T100000Z
+DTEND:20260916T120000Z
+SUMMARY:Jeonbuk Hyundai Motors FC vs Kashiwa Reysol — AFC Champions Leagu
+ e Elite
+LOCATION:Jeonju World Cup Stadium\, Jeonju\, South Korea
+GEO:35.868130;127.064492
+URL:https://www.fotmob.com/match/6049982
+DESCRIPTION:⚽ تشانبوك موتورز × كاشيوا ريسول\n
+ 🏆 دوري أبطال آسيا للنخبة — الجولة 1\n🗓 ا
+ لأربعاء 16 سبتمبر 2026 · 13:00 بتوقيت الرياض\n
+ 🏟 Jeonju World Cup Stadium، Jeonju\n—————\n⚽ Jeonbuk Hyund
+ ai Motors FC v Kashiwa Reysol\n🏆 AFC Champions League Elite — Matchda
+ y 1\n🗓 Wed 16 Sep 2026 · 10:00 UTC\n🏟 Jeonju World Cup Stadium, Jeo
+ nju\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشانبوك موتورز ضد كاشيوا ر
+ يسول — دوري أبطال آسيا للنخبة | Tomorrow: Jeonbuk
+  Hyundai Motors FC vs Kashiwa Reysol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشانب
+ وك موتورز × كاشيوا ريسول | Kick-off in 30 min: Jeonbuk
+  Hyundai Motors FC vs Kashiwa Reysol
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049984@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261014T100000Z
+DTEND:20261014T120000Z
+SUMMARY:Kashiwa Reysol vs Port FC — AFC Champions League Elite
+LOCATION:SANKYO FRONTIER Kashiwa Stadium\, Kashiwa\, Japan
+GEO:35.848465;139.975133
+URL:https://www.fotmob.com/match/6049984
+DESCRIPTION:⚽ كاشيوا ريسول × Port FC\n🏆 دوري أبطا
+ ل آسيا للنخبة — الجولة 2\n🗓 الأربعاء 14 أك
+ توبر 2026 · 13:00 بتوقيت الرياض\n🏟 SANKYO FRONTIER Kas
+ hiwa Stadium، Kashiwa\n—————\n⚽ Kashiwa Reysol v Port FC\n
+ 🏆 AFC Champions League Elite — Matchday 2\n🗓 Wed 14 Oct 2026 · 10
+ :00 UTC\n🏟 SANKYO FRONTIER Kashiwa Stadium, Kashiwa\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كاشيوا ريسول ضد Port FC — دوري
+  أبطال آسيا للنخبة | Tomorrow: Kashiwa Reysol vs Port FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاشيو
+ ا ريسول × Port FC | Kick-off in 30 min: Kashiwa Reysol vs Port FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049997@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261027T131500Z
+DTEND:20261027T151500Z
+SUMMARY:Ratchaburi FC vs Kashiwa Reysol — AFC Champions League Elite
+LOCATION:Ratchaburi Stadium\, Ratchaburi\, Thailand
+GEO:13.521608;99.769846
+URL:https://www.fotmob.com/match/6049997
+DESCRIPTION:⚽ راتشابوري × كاشيوا ريسول\n🏆 دور
+ ي أبطال آسيا للنخبة — الجولة 3\n🗓 الثلاث
+ اء 27 أكتوبر 2026 · 16:15 بتوقيت الرياض\n🏟 Ratchab
+ uri Stadium، Ratchaburi\n—————\n⚽ Ratchaburi FC v Kashiwa Rey
+ sol\n🏆 AFC Champions League Elite — Matchday 3\n🗓 Tue 27 Oct 2026 
+ · 13:15 UTC\n🏟 Ratchaburi Stadium, Ratchaburi\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راتشابوري ضد كاشيوا ريسول 
+ — دوري أبطال آسيا للنخبة | Tomorrow: Ratchaburi FC vs
+  Kashiwa Reysol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راتشا
+ بوري × كاشيوا ريسول | Kick-off in 30 min: Ratchaburi FC vs
+  Kashiwa Reysol
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050002@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261103T110000Z
+DTEND:20261103T130000Z
+SUMMARY:Kashiwa Reysol vs Daejeon Hana Citizen — AFC Champions League Eli
+ te
+LOCATION:SANKYO FRONTIER Kashiwa Stadium\, Kashiwa\, Japan
+GEO:35.848465;139.975133
+URL:https://www.fotmob.com/match/6050002
+DESCRIPTION:⚽ كاشيوا ريسول × دايجيون سيتيزن\n
+ 🏆 دوري أبطال آسيا للنخبة — الجولة 4\n🗓 ا
+ لثلاثاء 3 نوفمبر 2026 · 14:00 بتوقيت الرياض\n
+ 🏟 SANKYO FRONTIER Kashiwa Stadium، Kashiwa\n—————\n⚽ Kashi
+ wa Reysol v Daejeon Hana Citizen\n🏆 AFC Champions League Elite — Matc
+ hday 4\n🗓 Tue 03 Nov 2026 · 11:00 UTC\n🏟 SANKYO FRONTIER Kashiwa St
+ adium, Kashiwa\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كاشيوا ريسول ضد دايجيون سي
+ تيزن — دوري أبطال آسيا للنخبة | Tomorrow: Kashiwa
+  Reysol vs Daejeon Hana Citizen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاشيو
+ ا ريسول × دايجيون سيتيزن | Kick-off in 30 min: Kashiwa
+  Reysol vs Daejeon Hana Citizen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050008@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261124T084500Z
+DTEND:20261124T104500Z
+SUMMARY:Newcastle Jets vs Kashiwa Reysol — AFC Champions League Elite
+LOCATION:McDonald Jones Stadium\, Newcastle\, Australia
+GEO:-32.918895;151.726572
+URL:https://www.fotmob.com/match/6050008
+DESCRIPTION:⚽ نيوكاسل جيتس × كاشيوا ريسول\n🏆 د
+ وري أبطال آسيا للنخبة — الجولة 5\n🗓 الثل
+ اثاء 24 نوفمبر 2026 · 11:45 بتوقيت الرياض\n🏟 McD
+ onald Jones Stadium، Newcastle\n—————\n⚽ Newcastle Jets v Kas
+ hiwa Reysol\n🏆 AFC Champions League Elite — Matchday 5\n🗓 Tue 24 N
+ ov 2026 · 08:45 UTC\n🏟 McDonald Jones Stadium, Newcastle\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل جيتس ضد كاشيوا ريس
+ ول — دوري أبطال آسيا للنخبة | Tomorrow: Newcastle J
+ ets vs Kashiwa Reysol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل جيتس × كاشيوا ريسول | Kick-off in 30 min: Newcastle J
+ ets vs Kashiwa Reysol
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050016@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261201T110000Z
+DTEND:20261201T130000Z
+SUMMARY:Kashiwa Reysol vs Công An Hà Nội — AFC Champions League Elite
+LOCATION:SANKYO FRONTIER Kashiwa Stadium\, Kashiwa\, Japan
+GEO:35.848465;139.975133
+URL:https://www.fotmob.com/match/6050016
+DESCRIPTION:⚽ كاشيوا ريسول × كونغ آن هانوي\n🏆 
+ دوري أبطال آسيا للنخبة — الجولة 6\n🗓 الث
+ لاثاء 1 ديسمبر 2026 · 14:00 بتوقيت الرياض\n🏟 SA
+ NKYO FRONTIER Kashiwa Stadium، Kashiwa\n—————\n⚽ Kashiwa Reys
+ ol v Công An Hà Nội\n🏆 AFC Champions League Elite — Matchday 6\n
+ 🗓 Tue 01 Dec 2026 · 11:00 UTC\n🏟 SANKYO FRONTIER Kashiwa Stadium, K
+ ashiwa\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كاشيوا ريسول ضد كونغ آن هان
+ وي — دوري أبطال آسيا للنخبة | Tomorrow: Kashiwa Rey
+ sol vs Công An Hà Nội
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاشيو
+ ا ريسول × كونغ آن هانوي | Kick-off in 30 min: Kashiwa Re
+ ysol vs Công An Hà Nội
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050030@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270210T110000Z
+DTEND:20270210T130000Z
+SUMMARY:Kashiwa Reysol vs Buriram United — AFC Champions League Elite
+LOCATION:SANKYO FRONTIER Kashiwa Stadium\, Kashiwa\, Japan
+GEO:35.848465;139.975133
+URL:https://www.fotmob.com/match/6050030
+DESCRIPTION:⚽ كاشيوا ريسول × بوريرام يونايتد\n
+ 🏆 دوري أبطال آسيا للنخبة — الجولة 7\n🗓 ا
+ لأربعاء 10 فبراير 2027 · 14:00 بتوقيت الرياض\n
+ 🏟 SANKYO FRONTIER Kashiwa Stadium، Kashiwa\n—————\n⚽ Kashi
+ wa Reysol v Buriram United\n🏆 AFC Champions League Elite — Matchday 7
+ \n🗓 Wed 10 Feb 2027 · 11:00 UTC\n🏟 SANKYO FRONTIER Kashiwa Stadium,
+  Kashiwa\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كاشيوا ريسول ضد بوريرام يو
+ نايتد — دوري أبطال آسيا للنخبة | Tomorrow: Kashi
+ wa Reysol vs Buriram United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاشيو
+ ا ريسول × بوريرام يونايتد | Kick-off in 30 min: Kashi
+ wa Reysol vs Buriram United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050038@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270216T110000Z
+DTEND:20270216T130000Z
+SUMMARY:Pohang Steelers vs Kashiwa Reysol — AFC Champions League Elite
+LOCATION:Steelyard\, Pohang\, South Korea
+GEO:35.997738;129.384393
+URL:https://www.fotmob.com/match/6050038
+DESCRIPTION:⚽ بوهانغ ستيليرز × كاشيوا ريسول\n
+ 🏆 دوري أبطال آسيا للنخبة — الجولة 8\n🗓 ا
+ لثلاثاء 16 فبراير 2027 · 14:00 بتوقيت الرياض\n
+ 🏟 Steelyard، Pohang\n—————\n⚽ Pohang Steelers v Kashiwa Re
+ ysol\n🏆 AFC Champions League Elite — Matchday 8\n🗓 Tue 16 Feb 2027
+  · 11:00 UTC\n🏟 Steelyard, Pohang\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوهانغ ستيليرز ضد كاشيوا ر
+ يسول — دوري أبطال آسيا للنخبة | Tomorrow: Pohang 
+ Steelers vs Kashiwa Reysol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوهان
+ غ ستيليرز × كاشيوا ريسول | Kick-off in 30 min: Pohang 
+ Steelers vs Kashiwa Reysol
+END:VALARM
+END:VEVENT
+END:VCALENDAR

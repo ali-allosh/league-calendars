@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Inter de Valdemoro — Copa del Rey Fixtures | إنتر م
+ يلان — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Inter de Valdemoro — all matches in Copa del Rey\, exact UTC
+  kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-0
+ 9-05T19:31:10Z.  •  إنتر ميلان — جميع المباريات 
+ في كأس ملك إسبانيا بتوقيت UTC الدقيق مع ال
+ ملاعب والقنوات الناقلة. المصدر: FotMob + 365scor
+ es · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4996052@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251028T190000Z
+DTEND:20251028T210000Z
+SUMMARY:Inter de Valdemoro vs Getafe (0 - 11) — Copa del Rey
+LOCATION:Estadio Coliseum\, Getafe\, Spain
+GEO:40.325729;-3.714964
+URL:https://www.fotmob.com/match/4996052
+DESCRIPTION:⚽ إنتر ميلان × خيتافي (0 - 11)\n🏆 كأس 
+ ملك إسبانيا — الدور الأول\n🗓 الثلاثاء 28 
+ أكتوبر 2025 · 22:00 بتوقيت الرياض\n🏟 Estadio Coliseu
+ m، Getafe\n⚖️ الحكم: Iosu Galech Apezteguía\n👥 الحضور:
+  7,000\n—————\n⚽ Inter de Valdemoro v Getafe (0 - 11)\n🏆 Co
+ pa del Rey — Round 1\n🗓 Tue 28 Oct 2025 · 19:00 UTC\n🏟 Estadio Co
+ liseum, Getafe\nReferee: Iosu Galech Apezteguía\nAttendance: 7,000\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد خيتافي — كأس 
+ ملك إسبانيا | Tomorrow: Inter de Valdemoro vs Getafe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × خيتافي | Kick-off in 30 min: Inter de Valdemoro vs Getaf
+ e
+END:VALARM
+END:VEVENT
+END:VCALENDAR

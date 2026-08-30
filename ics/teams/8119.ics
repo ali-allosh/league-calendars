@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Rotherham United — FA Cup Fixtures | Rotherham United 
+ — مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Rotherham United — all matches in FA Cup\, exact UTC kickoff
+ s\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:
+ 31:10Z.  •  Rotherham United — جميع المباريات في كأس
+  الاتحاد الإنجليزي بتوقيت UTC الدقيق مع ال
+ ملاعب والقنوات الناقلة. المصدر: FotMob + 365scor
+ es · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010641@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Rotherham United vs Swindon Town (1 - 2) — FA Cup
+LOCATION:AESSEAL New York Stadium\, Rotherham\, South Yorkshire\, England
+GEO:53.427908;-1.362015
+URL:https://www.fotmob.com/match/5010641
+DESCRIPTION:⚽ Rotherham United × Swindon Town (1 - 2)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الأول\n🗓 السبت 1
+  نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 AESSEAL New Yo
+ rk Stadium، Rotherham, South Yorkshire\n⚖️ الحكم: Martin Woods\n
+ 👥 الحضور: 3,351\n—————\n⚽ Rotherham United v Swindon 
+ Town (1 - 2)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n
+ 🏟 AESSEAL New York Stadium, Rotherham, South Yorkshire\nReferee: Martin
+  Woods\nAttendance: 3,351\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Rotherham United ضد Swindon Town — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Rotherham United vs Swindon To
+ wn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Rotherham U
+ nited × Swindon Town | Kick-off in 30 min: Rotherham United vs Swindon To
+ wn
+END:VALARM
+END:VEVENT
+END:VCALENDAR

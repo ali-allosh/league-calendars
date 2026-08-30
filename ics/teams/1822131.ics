@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Atletico Palma del Río — Copa del Rey Fixtures | بال
+ ما ديل ريو — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Atletico Palma del Río — all matches in Copa del Rey\, exac
+ t UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2
+ 026-09-05T19:31:10Z.  •  بالما ديل ريو — جميع المب
+ اريات في كأس ملك إسبانيا بتوقيت UTC الدقيق
+  مع الملاعب والقنوات الناقلة. المصدر: FotMob
+  + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4996018@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251030T200000Z
+DTEND:20251030T220000Z
+SUMMARY:Atletico Palma del Río vs Real Betis (1 - 7) — Copa del Rey
+LOCATION:Estadio Municipal Sergio León\, Palma del Río\, Spain
+GEO:37.713101;-5.277499
+URL:https://www.fotmob.com/match/4996018
+DESCRIPTION:⚽ بالما ديل ريو × ريال بيتيس (1 - 7)\n
+ 🏆 كأس ملك إسبانيا — الدور الأول\n🗓 الخم
+ يس 30 أكتوبر 2025 · 23:00 بتوقيت الرياض\n🏟 Estadio
+  Municipal Sergio León، Palma del Río\n⚖️ الحكم: José Luis Gu
+ zmán Mansilla\n👥 الحضور: 8,800\n—————\n⚽ Atletico Pa
+ lma del Río v Real Betis (1 - 7)\n🏆 Copa del Rey — Round 1\n🗓 Thu
+  30 Oct 2025 · 20:00 UTC\n🏟 Estadio Municipal Sergio León, Palma del 
+ Río\nReferee: José Luis Guzmán Mansilla\nAttendance: 8,800\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بالما ديل ريو ضد ريال بيتيس
+  — كأس ملك إسبانيا | Tomorrow: Atletico Palma del Río vs R
+ eal Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بالما 
+ ديل ريو × ريال بيتيس | Kick-off in 30 min: Atletico Palma 
+ del Río vs Real Betis
+END:VALARM
+END:VEVENT
+END:VCALENDAR

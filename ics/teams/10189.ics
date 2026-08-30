@@ -1,0 +1,1070 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Schalke 04 — Bundesliga Fixtures | شالكة — مبا
+ ريات الدوري الألماني
+X-WR-CALDESC:Schalke 04 — all matches in Bundesliga\, exact UTC kickoffs\
+ , stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31
+ :10Z.  •  شالكة — جميع المباريات في الدوري 
+ الألماني بتوقيت UTC الدقيق مع الملاعب وال
+ قنوات الناقلة. المصدر: FotMob + 365scores · تحديث 
+ تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5881144@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T153000Z
+DTEND:20260830T173000Z
+SUMMARY:Augsburg vs Schalke 04 (3 - 0) — Bundesliga
+LOCATION:WWK Arena\, Augsburg\, Germany
+GEO:48.323101;10.885949
+URL:https://www.fotmob.com/match/5881144
+DESCRIPTION:⚽ أوغسبورغ × شالكة (3 - 0)\n🏆 الدوري 
+ الألماني — الجولة 1\n🗓 الأحد 30 أغسطس 2026 ·
+  18:30 بتوقيت الرياض\n🏟 WWK Arena، Augsburg\n⚖️ الح
+ كم: Sascha Stegemann\n—————\n⚽ Augsburg v Schalke 04 (3 - 0)
+ \n🏆 Bundesliga — Matchday 1\n🗓 Sun 30 Aug 2026 · 15:30 UTC\n🏟 
+ WWK Arena, Augsburg\nReferee: Sascha Stegemann\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوغسبورغ ضد شالكة — الدوري
+  الألماني | Tomorrow: Augsburg vs Schalke 04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوغسب
+ ورغ × شالكة | Kick-off in 30 min: Augsburg vs Schalke 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881158@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T163000Z
+DTEND:20260905T183000Z
+SUMMARY:Schalke 04 vs Bayern München (0 - 0) — Bundesliga
+LOCATION:VELTINS-Arena\, Gelsenkirchen\, Germany
+GEO:51.554581;7.067385
+URL:https://www.fotmob.com/match/5881158
+DESCRIPTION:⚽ شالكة × بايرن ميونخ (0 - 0)\n🏆 الدو
+ ري الألماني — الجولة 2\n🗓 السبت 5 سبتمبر 2
+ 026 · 19:30 بتوقيت الرياض\n🏟 VELTINS-Arena، Gelsenkirchen
+ \n📺 شاهد - Shahid VIP\n⚖️ الحكم: Robert Schröder\n👥 ا
+ لحضور: 62,094\n—————\n⚽ Schalke 04 v Bayern München (0 -
+  0)\n🏆 Bundesliga — Matchday 2\n🗓 Sat 05 Sep 2026 · 16:30 UTC\n
+ 🏟 VELTINS-Arena, Gelsenkirchen\n📺 شاهد - Shahid VIP\nReferee: Ro
+ bert Schröder\nAttendance: 62,094\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد بايرن ميونخ — الد
+ وري الألماني — 📺 شاهد - Shahid VIP | Tomorrow: Schalke
+  04 vs Bayern München | TV: شاهد - Shahid VIP
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × بايرن ميونخ — 📺 شاهد - Shahid VIP | Kick-off in 30 m
+ in: Schalke 04 vs Bayern München | TV: شاهد - Shahid VIP
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881169@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260911T183000Z
+DTEND:20260911T203000Z
+SUMMARY:Union Berlin vs Schalke 04 — Bundesliga
+LOCATION:Stadion An der Alten Försterei\, Berlin\, Germany
+GEO:52.457395;13.568126
+URL:https://www.fotmob.com/match/5881169
+DESCRIPTION:⚽ يونيون برلين × شالكة\n🏆 الدوري ا
+ لألماني — الجولة 3\n🗓 الجمعة 11 سبتمبر 2026 
+ · 21:30 بتوقيت الرياض\n🏟 Stadion An der Alten Försterei،
+  Berlin\n📺 BBC iPlayer، BBC Sport online\n—————\n⚽ Union B
+ erlin v Schalke 04\n🏆 Bundesliga — Matchday 3\n🗓 Fri 11 Sep 2026 
+ · 18:30 UTC\n🏟 Stadion An der Alten Försterei, Berlin\n📺 BBC iPlay
+ er, BBC Sport online\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد شالكة — ال
+ دوري الألماني — 📺 BBC iPlayer، BBC Sport online | Tomorr
+ ow: Union Berlin vs Schalke 04 | TV: BBC iPlayer\, BBC Sport online
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × شالكة — 📺 BBC iPlayer، BBC Sport online | Kick
+ -off in 30 min: Union Berlin vs Schalke 04 | TV: BBC iPlayer\, BBC Sport o
+ nline
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881176@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T153000Z
+DTEND:20260920T173000Z
+SUMMARY:Schalke 04 vs Elversberg — Bundesliga
+LOCATION:VELTINS-Arena\, Gelsenkirchen\, Germany
+GEO:51.554581;7.067385
+URL:https://www.fotmob.com/match/5881176
+DESCRIPTION:⚽ شالكة × إلفيرسبيرغ\n🏆 الدوري ال
+ ألماني — الجولة 4\n🗓 الأحد 20 سبتمبر 2026 · 1
+ 8:30 بتوقيت الرياض\n🏟 VELTINS-Arena، Gelsenkirchen\n——
+ ———\n⚽ Schalke 04 v Elversberg\n🏆 Bundesliga — Matchday 4\n
+ 🗓 Sun 20 Sep 2026 · 15:30 UTC\n🏟 VELTINS-Arena, Gelsenkirchen\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد إلفيرسبيرغ — الدو
+ ري الألماني | Tomorrow: Schalke 04 vs Elversberg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × إلفيرسبيرغ | Kick-off in 30 min: Schalke 04 vs Elversberg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881182@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T133000Z
+DTEND:20261010T153000Z
+SUMMARY:Freiburg vs Schalke 04 — Bundesliga
+LOCATION:Europa-Park Stadion
+URL:https://www.fotmob.com/match/5881182
+DESCRIPTION:⚽ فرايبورج × شالكة\n🏆 الدوري الأل
+ ماني — الجولة 5\n🗓 السبت 10 أكتوبر 2026 · 16:30
+  بتوقيت الرياض\n🏟 Europa-Park Stadion\n—————\n⚽
+  Freiburg v Schalke 04\n🏆 Bundesliga — Matchday 5\n🗓 Sat 10 Oct 20
+ 26 · 13:30 UTC\n🏟 Europa-Park Stadion\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فرايبورج ضد شالكة — الدوري
+  الألماني | Tomorrow: Freiburg vs Schalke 04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فرايب
+ ورج × شالكة | Kick-off in 30 min: Freiburg vs Schalke 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881194@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T133000Z
+DTEND:20261017T153000Z
+SUMMARY:Schalke 04 vs Mainz 05 — Bundesliga
+LOCATION:VELTINS-Arena
+URL:https://www.fotmob.com/match/5881194
+DESCRIPTION:⚽ شالكة × ماينز 05\n🏆 الدوري الألما
+ ني — الجولة 6\n🗓 السبت 17 أكتوبر 2026 · 16:30 ب
+ توقيت الرياض\n🏟 VELTINS-Arena\n—————\n⚽ Schalke 
+ 04 v Mainz 05\n🏆 Bundesliga — Matchday 6\n🗓 Sat 17 Oct 2026 · 13:
+ 30 UTC\n🏟 VELTINS-Arena\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد ماينز 05 — الدوري ا
+ لألماني | Tomorrow: Schalke 04 vs Mainz 05
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × ماينز 05 | Kick-off in 30 min: Schalke 04 vs Mainz 05
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881199@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T133000Z
+DTEND:20261024T153000Z
+SUMMARY:1. FC Köln vs Schalke 04 — Bundesliga
+LOCATION:RheinEnergieSTADION
+URL:https://www.fotmob.com/match/5881199
+DESCRIPTION:⚽ كولن × شالكة\n🏆 الدوري الألماني 
+ — الجولة 7\n🗓 السبت 24 أكتوبر 2026 · 16:30 بتوق
+ يت الرياض\n🏟 RheinEnergieSTADION\n—————\n⚽ 1. FC K
+ öln v Schalke 04\n🏆 Bundesliga — Matchday 7\n🗓 Sat 24 Oct 2026 ·
+  13:30 UTC\n🏟 RheinEnergieSTADION\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كولن ضد شالكة — الدوري الأ
+ لماني | Tomorrow: 1. FC Köln vs Schalke 04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كولن ×
+  شالكة | Kick-off in 30 min: 1. FC Köln vs Schalke 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881212@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T143000Z
+DTEND:20261031T163000Z
+SUMMARY:Schalke 04 vs RB Leipzig — Bundesliga
+LOCATION:VELTINS-Arena
+URL:https://www.fotmob.com/match/5881212
+DESCRIPTION:⚽ شالكة × لايبزيج\n🏆 الدوري الألم
+ اني — الجولة 8\n🗓 السبت 31 أكتوبر 2026 · 17:30 
+ بتوقيت الرياض\n🏟 VELTINS-Arena\n—————\n⚽ Schalk
+ e 04 v RB Leipzig\n🏆 Bundesliga — Matchday 8\n🗓 Sat 31 Oct 2026 ·
+  14:30 UTC\n🏟 VELTINS-Arena\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد لايبزيج — الدوري 
+ الألماني | Tomorrow: Schalke 04 vs RB Leipzig
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × لايبزيج | Kick-off in 30 min: Schalke 04 vs RB Leipzig
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881219@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T143000Z
+DTEND:20261107T163000Z
+SUMMARY:Hoffenheim vs Schalke 04 — Bundesliga
+LOCATION:SNP Arena
+URL:https://www.fotmob.com/match/5881219
+DESCRIPTION:⚽ هوفنهايم × شالكة\n🏆 الدوري الأل
+ ماني — الجولة 9\n🗓 السبت 7 نوفمبر 2026 · 17:30 
+ بتوقيت الرياض\n🏟 SNP Arena\n—————\n⚽ Hoffenheim
+  v Schalke 04\n🏆 Bundesliga — Matchday 9\n🗓 Sat 07 Nov 2026 · 14:
+ 30 UTC\n🏟 SNP Arena\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هوفنهايم ضد شالكة — الدوري
+  الألماني | Tomorrow: Hoffenheim vs Schalke 04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هوفنه
+ ايم × شالكة | Kick-off in 30 min: Hoffenheim vs Schalke 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881230@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T143000Z
+DTEND:20261121T163000Z
+SUMMARY:Schalke 04 vs VfB Stuttgart — Bundesliga
+LOCATION:VELTINS-Arena
+URL:https://www.fotmob.com/match/5881230
+DESCRIPTION:⚽ شالكة × شتوتجارت\n🏆 الدوري الأل
+ ماني — الجولة 10\n🗓 السبت 21 نوفمبر 2026 · 17:3
+ 0 بتوقيت الرياض\n🏟 VELTINS-Arena\n—————\n⚽ Scha
+ lke 04 v VfB Stuttgart\n🏆 Bundesliga — Matchday 10\n🗓 Sat 21 Nov 2
+ 026 · 14:30 UTC\n🏟 VELTINS-Arena\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد شتوتجارت — الدوري
+  الألماني | Tomorrow: Schalke 04 vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × شتوتجارت | Kick-off in 30 min: Schalke 04 vs VfB Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881239@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T143000Z
+DTEND:20261128T163000Z
+SUMMARY:Paderborn vs Schalke 04 — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881239
+DESCRIPTION:⚽ بادربورن × شالكة\n🏆 الدوري الأل
+ ماني — الجولة 11\n🗓 السبت 28 نوفمبر 2026 · 17:3
+ 0 بتوقيت الرياض\n🏟 Home Deluxe Arena\n—————\n⚽ 
+ Paderborn v Schalke 04\n🏆 Bundesliga — Matchday 11\n🗓 Sat 28 Nov 2
+ 026 · 14:30 UTC\n🏟 Home Deluxe Arena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد شالكة — الدوري
+  الألماني | Tomorrow: Paderborn vs Schalke 04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × شالكة | Kick-off in 30 min: Paderborn vs Schalke 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881249@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T143000Z
+DTEND:20261205T163000Z
+SUMMARY:Schalke 04 vs Borussia Dortmund — Bundesliga
+LOCATION:VELTINS-Arena
+URL:https://www.fotmob.com/match/5881249
+DESCRIPTION:⚽ شالكة × بوروسيا دورتموند\n🏆 الد
+ وري الألماني — الجولة 12\n🗓 السبت 5 ديسمب
+ ر 2026 · 17:30 بتوقيت الرياض\n🏟 VELTINS-Arena\n———
+ ——\n⚽ Schalke 04 v Borussia Dortmund\n🏆 Bundesliga — Matchday 1
+ 2\n🗓 Sat 05 Dec 2026 · 14:30 UTC\n🏟 VELTINS-Arena\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد بوروسيا دورتموند 
+ — الدوري الألماني | Tomorrow: Schalke 04 vs Borussia Dortm
+ und
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × بوروسيا دورتموند | Kick-off in 30 min: Schalke 04 vs Bor
+ ussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881254@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T143000Z
+DTEND:20261212T163000Z
+SUMMARY:Hamburger SV vs Schalke 04 — Bundesliga
+LOCATION:Volksparkstadion
+URL:https://www.fotmob.com/match/5881254
+DESCRIPTION:⚽ هامبورج × شالكة\n🏆 الدوري الألم
+ اني — الجولة 13\n🗓 السبت 12 ديسمبر 2026 · 17:30 
+ بتوقيت الرياض\n🏟 Volksparkstadion\n—————\n⚽ Ham
+ burger SV v Schalke 04\n🏆 Bundesliga — Matchday 13\n🗓 Sat 12 Dec 2
+ 026 · 14:30 UTC\n🏟 Volksparkstadion\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هامبورج ضد شالكة — الدوري 
+ الألماني | Tomorrow: Hamburger SV vs Schalke 04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هامبو
+ رج × شالكة | Kick-off in 30 min: Hamburger SV vs Schalke 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881267@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T143000Z
+DTEND:20261219T163000Z
+SUMMARY:Schalke 04 vs Borussia Mönchengladbach — Bundesliga
+LOCATION:VELTINS-Arena
+URL:https://www.fotmob.com/match/5881267
+DESCRIPTION:⚽ شالكة × بوروسيا مونشنجلادباخ\n🏆
+  الدوري الألماني — الجولة 14\n🗓 السبت 19 د
+ يسمبر 2026 · 17:30 بتوقيت الرياض\n🏟 VELTINS-Arena\n
+ —————\n⚽ Schalke 04 v Borussia Mönchengladbach\n🏆 Bundesli
+ ga — Matchday 14\n🗓 Sat 19 Dec 2026 · 14:30 UTC\n🏟 VELTINS-Arena\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد بوروسيا مونشنجلاد
+ باخ — الدوري الألماني | Tomorrow: Schalke 04 vs Borussi
+ a Mönchengladbach
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × بوروسيا مونشنجلادباخ | Kick-off in 30 min: Schalke 0
+ 4 vs Borussia Mönchengladbach
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881271@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270109T143000Z
+DTEND:20270109T163000Z
+SUMMARY:Eintracht Frankfurt vs Schalke 04 — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881271
+DESCRIPTION:⚽ آينتراخت فرانكفورت × شالكة\n🏆 ا
+ لدوري الألماني — الجولة 15\n🗓 السبت 9 ينا
+ ير 2027 · 17:30 بتوقيت الرياض\n🏟 Deutsche Bank Park\n—
+ ————\n⚽ Eintracht Frankfurt v Schalke 04\n🏆 Bundesliga — Ma
+ tchday 15\n🗓 Sat 09 Jan 2027 · 14:30 UTC\n🏟 Deutsche Bank Park\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد شالك
+ ة — الدوري الألماني | Tomorrow: Eintracht Frankfurt vs Sc
+ halke 04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × شالكة | Kick-off in 30 min: Eintracht Fr
+ ankfurt vs Schalke 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881285@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270112T193000Z
+DTEND:20270112T213000Z
+SUMMARY:Schalke 04 vs Werder Bremen — Bundesliga
+LOCATION:VELTINS-Arena
+URL:https://www.fotmob.com/match/5881285
+DESCRIPTION:⚽ شالكة × فيردر بريمن\n🏆 الدوري ال
+ ألماني — الجولة 16\n🗓 الثلاثاء 12 يناير 2027
+  · 22:30 بتوقيت الرياض\n🏟 VELTINS-Arena\n—————\n
+ ⚽ Schalke 04 v Werder Bremen\n🏆 Bundesliga — Matchday 16\n🗓 Tue 
+ 12 Jan 2027 · 19:30 UTC\n🏟 VELTINS-Arena\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد فيردر بريمن — الد
+ وري الألماني | Tomorrow: Schalke 04 vs Werder Bremen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × فيردر بريمن | Kick-off in 30 min: Schalke 04 vs Werder Bremen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881287@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T143000Z
+DTEND:20270116T163000Z
+SUMMARY:Bayer Leverkusen vs Schalke 04 — Bundesliga
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/5881287
+DESCRIPTION:⚽ باير ليفركوزن × شالكة\n🏆 الدوري 
+ الألماني — الجولة 17\n🗓 السبت 16 يناير 2027 
+ · 17:30 بتوقيت الرياض\n🏟 BayArena\n—————\n⚽ Ba
+ yer Leverkusen v Schalke 04\n🏆 Bundesliga — Matchday 17\n🗓 Sat 16 
+ Jan 2027 · 14:30 UTC\n🏟 BayArena\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد شالكة — ا
+ لدوري الألماني | Tomorrow: Bayer Leverkusen vs Schalke 04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × شالكة | Kick-off in 30 min: Bayer Leverkusen vs Sch
+ alke 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881302@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T143000Z
+DTEND:20270123T163000Z
+SUMMARY:Schalke 04 vs Augsburg — Bundesliga
+LOCATION:VELTINS-Arena
+URL:https://www.fotmob.com/match/5881302
+DESCRIPTION:⚽ شالكة × أوغسبورغ\n🏆 الدوري الأل
+ ماني — الجولة 18\n🗓 السبت 23 يناير 2027 · 17:30 
+ بتوقيت الرياض\n🏟 VELTINS-Arena\n—————\n⚽ Schalk
+ e 04 v Augsburg\n🏆 Bundesliga — Matchday 18\n🗓 Sat 23 Jan 2027 · 
+ 14:30 UTC\n🏟 VELTINS-Arena\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد أوغسبورغ — الدوري
+  الألماني | Tomorrow: Schalke 04 vs Augsburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × أوغسبورغ | Kick-off in 30 min: Schalke 04 vs Augsburg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881306@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T143000Z
+DTEND:20270130T163000Z
+SUMMARY:Bayern München vs Schalke 04 — Bundesliga
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/5881306
+DESCRIPTION:⚽ بايرن ميونخ × شالكة\n🏆 الدوري ال
+ ألماني — الجولة 19\n🗓 السبت 30 يناير 2027 · 17
+ :30 بتوقيت الرياض\n🏟 Allianz Arena\n—————\n⚽ Ba
+ yern München v Schalke 04\n🏆 Bundesliga — Matchday 19\n🗓 Sat 30 J
+ an 2027 · 14:30 UTC\n🏟 Allianz Arena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد شالكة — الد
+ وري الألماني | Tomorrow: Bayern München vs Schalke 04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × شالكة | Kick-off in 30 min: Bayern München vs Schalke 
+ 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881320@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T143000Z
+DTEND:20270206T163000Z
+SUMMARY:Schalke 04 vs Union Berlin — Bundesliga
+LOCATION:VELTINS-Arena
+URL:https://www.fotmob.com/match/5881320
+DESCRIPTION:⚽ شالكة × يونيون برلين\n🏆 الدوري ا
+ لألماني — الجولة 20\n🗓 السبت 6 فبراير 2027 ·
+  17:30 بتوقيت الرياض\n🏟 VELTINS-Arena\n—————\n⚽
+  Schalke 04 v Union Berlin\n🏆 Bundesliga — Matchday 20\n🗓 Sat 06 F
+ eb 2027 · 14:30 UTC\n🏟 VELTINS-Arena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد يونيون برلين — ال
+ دوري الألماني | Tomorrow: Schalke 04 vs Union Berlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × يونيون برلين | Kick-off in 30 min: Schalke 04 vs Union Berli
+ n
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881325@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270213T143000Z
+DTEND:20270213T163000Z
+SUMMARY:Elversberg vs Schalke 04 — Bundesliga
+LOCATION:Ursapharm-Arena
+URL:https://www.fotmob.com/match/5881325
+DESCRIPTION:⚽ إلفيرسبيرغ × شالكة\n🏆 الدوري ال
+ ألماني — الجولة 21\n🗓 السبت 13 فبراير 2027 · 
+ 17:30 بتوقيت الرياض\n🏟 Ursapharm-Arena\n—————\n
+ ⚽ Elversberg v Schalke 04\n🏆 Bundesliga — Matchday 21\n🗓 Sat 13 
+ Feb 2027 · 14:30 UTC\n🏟 Ursapharm-Arena\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد شالكة — الدو
+ ري الألماني | Tomorrow: Elversberg vs Schalke 04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × شالكة | Kick-off in 30 min: Elversberg vs Schalke 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881338@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T143000Z
+DTEND:20270220T163000Z
+SUMMARY:Schalke 04 vs Freiburg — Bundesliga
+LOCATION:VELTINS-Arena
+URL:https://www.fotmob.com/match/5881338
+DESCRIPTION:⚽ شالكة × فرايبورج\n🏆 الدوري الأل
+ ماني — الجولة 22\n🗓 السبت 20 فبراير 2027 · 17:3
+ 0 بتوقيت الرياض\n🏟 VELTINS-Arena\n—————\n⚽ Scha
+ lke 04 v Freiburg\n🏆 Bundesliga — Matchday 22\n🗓 Sat 20 Feb 2027 
+ · 14:30 UTC\n🏟 VELTINS-Arena\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد فرايبورج — الدوري
+  الألماني | Tomorrow: Schalke 04 vs Freiburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × فرايبورج | Kick-off in 30 min: Schalke 04 vs Freiburg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881346@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T143000Z
+DTEND:20270227T163000Z
+SUMMARY:Mainz 05 vs Schalke 04 — Bundesliga
+LOCATION:MEWA Arena
+URL:https://www.fotmob.com/match/5881346
+DESCRIPTION:⚽ ماينز 05 × شالكة\n🏆 الدوري الألما
+ ني — الجولة 23\n🗓 السبت 27 فبراير 2027 · 17:30 ب
+ توقيت الرياض\n🏟 MEWA Arena\n—————\n⚽ Mainz 05 v 
+ Schalke 04\n🏆 Bundesliga — Matchday 23\n🗓 Sat 27 Feb 2027 · 14:30
+  UTC\n🏟 MEWA Arena\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ماينز 05 ضد شالكة — الدوري ا
+ لألماني | Tomorrow: Mainz 05 vs Schalke 04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ماينز 
+ 05 × شالكة | Kick-off in 30 min: Mainz 05 vs Schalke 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881356@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270302T193000Z
+DTEND:20270302T213000Z
+SUMMARY:Schalke 04 vs 1. FC Köln — Bundesliga
+LOCATION:VELTINS-Arena
+URL:https://www.fotmob.com/match/5881356
+DESCRIPTION:⚽ شالكة × كولن\n🏆 الدوري الألماني 
+ — الجولة 24\n🗓 الثلاثاء 2 مارس 2027 · 22:30 بتو
+ قيت الرياض\n🏟 VELTINS-Arena\n—————\n⚽ Schalke 04 v
+  1. FC Köln\n🏆 Bundesliga — Matchday 24\n🗓 Tue 02 Mar 2027 · 19:
+ 30 UTC\n🏟 VELTINS-Arena\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد كولن — الدوري الأ
+ لماني | Tomorrow: Schalke 04 vs 1. FC Köln
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × كولن | Kick-off in 30 min: Schalke 04 vs 1. FC Köln
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881366@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270306T143000Z
+DTEND:20270306T163000Z
+SUMMARY:RB Leipzig vs Schalke 04 — Bundesliga
+LOCATION:Red Bull Arena Leipzig
+URL:https://www.fotmob.com/match/5881366
+DESCRIPTION:⚽ لايبزيج × شالكة\n🏆 الدوري الألم
+ اني — الجولة 25\n🗓 السبت 6 مارس 2027 · 17:30 بت
+ وقيت الرياض\n🏟 Red Bull Arena Leipzig\n—————\n⚽ R
+ B Leipzig v Schalke 04\n🏆 Bundesliga — Matchday 25\n🗓 Sat 06 Mar 2
+ 027 · 14:30 UTC\n🏟 Red Bull Arena Leipzig\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لايبزيج ضد شالكة — الدوري 
+ الألماني | Tomorrow: RB Leipzig vs Schalke 04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لايبز
+ يج × شالكة | Kick-off in 30 min: RB Leipzig vs Schalke 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881374@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T143000Z
+DTEND:20270313T163000Z
+SUMMARY:Schalke 04 vs Hoffenheim — Bundesliga
+LOCATION:VELTINS-Arena
+URL:https://www.fotmob.com/match/5881374
+DESCRIPTION:⚽ شالكة × هوفنهايم\n🏆 الدوري الأل
+ ماني — الجولة 26\n🗓 السبت 13 مارس 2027 · 17:30 ب
+ توقيت الرياض\n🏟 VELTINS-Arena\n—————\n⚽ Schalke 
+ 04 v Hoffenheim\n🏆 Bundesliga — Matchday 26\n🗓 Sat 13 Mar 2027 · 
+ 14:30 UTC\n🏟 VELTINS-Arena\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد هوفنهايم — الدوري
+  الألماني | Tomorrow: Schalke 04 vs Hoffenheim
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × هوفنهايم | Kick-off in 30 min: Schalke 04 vs Hoffenheim
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881385@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T143000Z
+DTEND:20270320T163000Z
+SUMMARY:VfB Stuttgart vs Schalke 04 — Bundesliga
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/5881385
+DESCRIPTION:⚽ شتوتجارت × شالكة\n🏆 الدوري الأل
+ ماني — الجولة 27\n🗓 السبت 20 مارس 2027 · 17:30 ب
+ توقيت الرياض\n🏟 MHPArena\n—————\n⚽ VfB Stuttgart
+  v Schalke 04\n🏆 Bundesliga — Matchday 27\n🗓 Sat 20 Mar 2027 · 14
+ :30 UTC\n🏟 MHPArena\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد شالكة — الدوري
+  الألماني | Tomorrow: VfB Stuttgart vs Schalke 04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × شالكة | Kick-off in 30 min: VfB Stuttgart vs Schalke 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881393@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270403T133000Z
+DTEND:20270403T153000Z
+SUMMARY:Schalke 04 vs Paderborn — Bundesliga
+LOCATION:VELTINS-Arena
+URL:https://www.fotmob.com/match/5881393
+DESCRIPTION:⚽ شالكة × بادربورن\n🏆 الدوري الأل
+ ماني — الجولة 28\n🗓 السبت 3 أبريل 2027 · 16:30 
+ بتوقيت الرياض\n🏟 VELTINS-Arena\n—————\n⚽ Schalk
+ e 04 v Paderborn\n🏆 Bundesliga — Matchday 28\n🗓 Sat 03 Apr 2027 ·
+  13:30 UTC\n🏟 VELTINS-Arena\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد بادربورن — الدوري
+  الألماني | Tomorrow: Schalke 04 vs Paderborn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × بادربورن | Kick-off in 30 min: Schalke 04 vs Paderborn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881396@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T133000Z
+DTEND:20270410T153000Z
+SUMMARY:Borussia Dortmund vs Schalke 04 — Bundesliga
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/5881396
+DESCRIPTION:⚽ بوروسيا دورتموند × شالكة\n🏆 الد
+ وري الألماني — الجولة 29\n🗓 السبت 10 أبريل
+  2027 · 16:30 بتوقيت الرياض\n🏟 Signal Iduna Park\n——
+ ———\n⚽ Borussia Dortmund v Schalke 04\n🏆 Bundesliga — Matchda
+ y 29\n🗓 Sat 10 Apr 2027 · 13:30 UTC\n🏟 Signal Iduna Park\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد شالكة 
+ — الدوري الألماني | Tomorrow: Borussia Dortmund vs Schalke
+  04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × شالكة | Kick-off in 30 min: Borussia Dortmun
+ d vs Schalke 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881411@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T133000Z
+DTEND:20270417T153000Z
+SUMMARY:Schalke 04 vs Hamburger SV — Bundesliga
+LOCATION:VELTINS-Arena
+URL:https://www.fotmob.com/match/5881411
+DESCRIPTION:⚽ شالكة × هامبورج\n🏆 الدوري الألم
+ اني — الجولة 30\n🗓 السبت 17 أبريل 2027 · 16:30 ب
+ توقيت الرياض\n🏟 VELTINS-Arena\n—————\n⚽ Schalke 
+ 04 v Hamburger SV\n🏆 Bundesliga — Matchday 30\n🗓 Sat 17 Apr 2027 
+ · 13:30 UTC\n🏟 VELTINS-Arena\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد هامبورج — الدوري 
+ الألماني | Tomorrow: Schalke 04 vs Hamburger SV
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × هامبورج | Kick-off in 30 min: Schalke 04 vs Hamburger SV
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881413@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T133000Z
+DTEND:20270424T153000Z
+SUMMARY:Borussia Mönchengladbach vs Schalke 04 — Bundesliga
+LOCATION:Ista-Borussia-Park
+URL:https://www.fotmob.com/match/5881413
+DESCRIPTION:⚽ بوروسيا مونشنجلادباخ × شالكة\n🏆
+  الدوري الألماني — الجولة 31\n🗓 السبت 24 أ
+ بريل 2027 · 16:30 بتوقيت الرياض\n🏟 Ista-Borussia-Park\
+ n—————\n⚽ Borussia Mönchengladbach v Schalke 04\n🏆 Bundesl
+ iga — Matchday 31\n🗓 Sat 24 Apr 2027 · 13:30 UTC\n🏟 Ista-Borussia
+ -Park\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا مونشنجلادباخ ضد شا
+ لكة — الدوري الألماني | Tomorrow: Borussia Mönchenglad
+ bach vs Schalke 04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا مونشنجلادباخ × شالكة | Kick-off in 30 min: Borussia
+  Mönchengladbach vs Schalke 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881429@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T133000Z
+DTEND:20270508T153000Z
+SUMMARY:Schalke 04 vs Eintracht Frankfurt — Bundesliga
+LOCATION:VELTINS-Arena
+URL:https://www.fotmob.com/match/5881429
+DESCRIPTION:⚽ شالكة × آينتراخت فرانكفورت\n🏆 ا
+ لدوري الألماني — الجولة 32\n🗓 السبت 8 ماي
+ و 2027 · 16:30 بتوقيت الرياض\n🏟 VELTINS-Arena\n———
+ ——\n⚽ Schalke 04 v Eintracht Frankfurt\n🏆 Bundesliga — Matchday
+  32\n🗓 Sat 08 May 2027 · 13:30 UTC\n🏟 VELTINS-Arena\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد آينتراخت فرانكفور
+ ت — الدوري الألماني | Tomorrow: Schalke 04 vs Eintracht F
+ rankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × آينتراخت فرانكفورت | Kick-off in 30 min: Schalke 04 vs
+  Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881439@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T133000Z
+DTEND:20270515T153000Z
+SUMMARY:Werder Bremen vs Schalke 04 — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881439
+DESCRIPTION:⚽ فيردر بريمن × شالكة\n🏆 الدوري ال
+ ألماني — الجولة 33\n🗓 السبت 15 مايو 2027 · 16:3
+ 0 بتوقيت الرياض\n🏟 Wohninvest WESERSTADION\n—————
+ \n⚽ Werder Bremen v Schalke 04\n🏆 Bundesliga — Matchday 33\n🗓 Sa
+ t 15 May 2027 · 13:30 UTC\n🏟 Wohninvest WESERSTADION\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد شالكة — الد
+ وري الألماني | Tomorrow: Werder Bremen vs Schalke 04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × شالكة | Kick-off in 30 min: Werder Bremen vs Schalke 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881447@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270522T133000Z
+DTEND:20270522T153000Z
+SUMMARY:Schalke 04 vs Bayer Leverkusen — Bundesliga
+LOCATION:VELTINS-Arena
+URL:https://www.fotmob.com/match/5881447
+DESCRIPTION:⚽ شالكة × باير ليفركوزن\n🏆 الدوري 
+ الألماني — الجولة 34\n🗓 السبت 22 مايو 2027 · 
+ 16:30 بتوقيت الرياض\n🏟 VELTINS-Arena\n—————\n⚽ 
+ Schalke 04 v Bayer Leverkusen\n🏆 Bundesliga — Matchday 34\n🗓 Sat 2
+ 2 May 2027 · 13:30 UTC\n🏟 VELTINS-Arena\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد باير ليفركوزن — ا
+ لدوري الألماني | Tomorrow: Schalke 04 vs Bayer Leverkusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × باير ليفركوزن | Kick-off in 30 min: Schalke 04 vs Bayer Lev
+ erkusen
+END:VALARM
+END:VEVENT
+END:VCALENDAR

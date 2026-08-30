@@ -1,0 +1,1437 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Milan — Serie A & UEFA Europa League & Coppa Italia Fixt
+ ures | ميلان — مباريات الدوري الإيطالي وال
+ دوري الأوروبي وكأس إيطاليا
+X-WR-CALDESC:Milan — all matches in Serie A & UEFA Europa League & Coppa 
+ Italia\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · a
+ uto-updated 2026-09-05T19:31:10Z.  •  ميلان — جميع المبا
+ ريات في الدوري الإيطالي والدوري الأوروب
+ ي وكأس إيطاليا بتوقيت UTC الدقيق مع الملاع
+ ب والقنوات الناقلة. المصدر: FotMob + 365scores · ت
+ حديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5749647@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260823T184500Z
+DTEND:20260823T204500Z
+SUMMARY:Torino vs Milan (1 - 2) — Serie A
+LOCATION:Stadio Olimpico Grande Torino\, Torino\, Italy
+GEO:45.041752;7.650016
+URL:https://www.fotmob.com/match/5749647
+DESCRIPTION:⚽ تورينو × ميلان (1 - 2)\n🏆 الدوري ال
+ إيطالي — الجولة 1\n🗓 الأحد 23 أغسطس 2026 · 21:
+ 45 بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino، Torino\
+ n⚖️ الحكم: Luca Zufferli\n👥 الحضور: 24,285\n————
+ —\n⚽ Torino v Milan (1 - 2)\n🏆 Serie A — Matchday 1\n🗓 Sun 23 
+ Aug 2026 · 18:45 UTC\n🏟 Stadio Olimpico Grande Torino, Torino\nReferee
+ : Luca Zufferli\nAttendance: 24,285\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد ميلان — الدوري ا
+ لإيطالي | Tomorrow: Torino vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × ميلان | Kick-off in 30 min: Torino vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749650@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260828T184500Z
+DTEND:20260828T204500Z
+SUMMARY:Milan vs Venezia (2 - 0) — Serie A
+LOCATION:Stadio Giuseppe Meazza\, Milano\, Italy
+GEO:45.478084;9.123979
+URL:https://www.fotmob.com/match/5749650
+DESCRIPTION:⚽ ميلان × فينيزيا (2 - 0)\n🏆 الدوري ا
+ لإيطالي — الجولة 2\n🗓 الجمعة 28 أغسطس 2026 ·
+  21:45 بتوقيت الرياض\n🏟 Stadio Giuseppe Meazza، Milano\n
+ ⚖️ الحكم: Gianluca Manganiello\n👥 الحضور: 75,141\n——
+ ———\n⚽ Milan v Venezia (2 - 0)\n🏆 Serie A — Matchday 2\n🗓 
+ Fri 28 Aug 2026 · 18:45 UTC\n🏟 Stadio Giuseppe Meazza, Milano\nReferee
+ : Gianluca Manganiello\nAttendance: 75,141\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد فينيزيا — الدوري 
+ الإيطالي | Tomorrow: Milan vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × فينيزيا | Kick-off in 30 min: Milan vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749667@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260906T184500Z
+DTEND:20260906T204500Z
+SUMMARY:Juventus vs Milan — Serie A
+LOCATION:Allianz Stadium\, Torino\, Italy
+GEO:45.109527;7.641302
+URL:https://www.fotmob.com/match/5749667
+DESCRIPTION:⚽ يوفنتوس × ميلان\n🏆 الدوري الإيط
+ الي — الجولة 3\n🗓 الأحد 6 سبتمبر 2026 · 21:45 ب
+ توقيت الرياض\n🏟 Allianz Stadium، Torino\n📺 Starzplay\n
+ —————\n⚽ Juventus v Milan\n🏆 Serie A — Matchday 3\n🗓 S
+ un 06 Sep 2026 · 18:45 UTC\n🏟 Allianz Stadium, Torino\n📺 Starzplay\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد ميلان — الدوري 
+ الإيطالي — 📺 Starzplay | Tomorrow: Juventus vs Milan | TV: St
+ arzplay
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × ميلان — 📺 Starzplay | Kick-off in 30 min: Juventus vs Mi
+ lan | TV: Starzplay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749674@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T160000Z
+DTEND:20260912T180000Z
+SUMMARY:Lazio vs Milan — Serie A
+LOCATION:Stadio Olimpico\, Roma\, Italy
+GEO:41.933948;12.454757
+URL:https://www.fotmob.com/match/5749674
+DESCRIPTION:⚽ لاتسيو × ميلان\n🏆 الدوري الإيطا
+ لي — الجولة 4\n🗓 السبت 12 سبتمبر 2026 · 19:00 ب
+ توقيت الرياض\n🏟 Stadio Olimpico، Roma\n📺 DAZN UK، Peaco
+ ck (Español)\n—————\n⚽ Lazio v Milan\n🏆 Serie A — Matchd
+ ay 4\n🗓 Sat 12 Sep 2026 · 16:00 UTC\n🏟 Stadio Olimpico, Roma\n📺 
+ DAZN UK, Peacock (Español)\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد ميلان — الدوري ا
+ لإيطالي — 📺 DAZN UK، Peacock (Español) | Tomorrow: Lazio vs 
+ Milan | TV: DAZN UK\, Peacock (Español)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × ميلان — 📺 DAZN UK، Peacock (Español) | Kick-off in 30 mi
+ n: Lazio vs Milan | TV: DAZN UK\, Peacock (Español)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749680@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T184500Z
+DTEND:20260920T204500Z
+SUMMARY:Milan vs Lecce — Serie A
+LOCATION:Stadio Giuseppe Meazza\, Milano\, Italy
+GEO:45.478084;9.123979
+URL:https://www.fotmob.com/match/5749680
+DESCRIPTION:⚽ ميلان × ليتشي\n🏆 الدوري الإيطال
+ ي — الجولة 5\n🗓 الأحد 20 سبتمبر 2026 · 21:45 بت
+ وقيت الرياض\n🏟 Stadio Giuseppe Meazza، Milano\n————
+ —\n⚽ Milan v Lecce\n🏆 Serie A — Matchday 5\n🗓 Sun 20 Sep 2026 
+ · 18:45 UTC\n🏟 Stadio Giuseppe Meazza, Milano\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد ليتشي — الدوري ال
+ إيطالي | Tomorrow: Milan vs Lecce
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × ليتشي | Kick-off in 30 min: Milan vs Lecce
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749698@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T160000Z
+DTEND:20261011T180000Z
+SUMMARY:Sassuolo vs Milan — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749698
+DESCRIPTION:⚽ ساسولو × ميلان\n🏆 الدوري الإيطا
+ لي — الجولة 6\n🗓 الأحد 11 أكتوبر 2026 · 19:00 ب
+ توقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n——
+ ———\n⚽ Sassuolo v Milan\n🏆 Serie A — Matchday 6\n🗓 Sun 11 
+ Oct 2026 · 16:00 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد ميلان — الدوري ا
+ لإيطالي | Tomorrow: Sassuolo vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × ميلان | Kick-off in 30 min: Sassuolo vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749700@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T160000Z
+DTEND:20261018T180000Z
+SUMMARY:Milan vs Atalanta — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749700
+DESCRIPTION:⚽ ميلان × أتالانتا\n🏆 الدوري الإي
+ طالي — الجولة 7\n🗓 الأحد 18 أكتوبر 2026 · 19:00
+  بتوقيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v At
+ alanta\n🏆 Serie A — Matchday 7\n🗓 Sun 18 Oct 2026 · 16:00 UTC\n
+ 🏟 San Siro\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد أتالانتا — الدوري
+  الإيطالي | Tomorrow: Milan vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × أتالانتا | Kick-off in 30 min: Milan vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749719@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T194500Z
+DTEND:20261025T214500Z
+SUMMARY:Udinese vs Milan — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749719
+DESCRIPTION:⚽ أودينيزي × ميلان\n🏆 الدوري الإي
+ طالي — الجولة 8\n🗓 الأحد 25 أكتوبر 2026 · 22:45
+  بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n——
+ ———\n⚽ Udinese v Milan\n🏆 Serie A — Matchday 8\n🗓 Sun 25 O
+ ct 2026 · 19:45 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد ميلان — الدوري
+  الإيطالي | Tomorrow: Udinese vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × ميلان | Kick-off in 30 min: Udinese vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749720@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261028T173000Z
+DTEND:20261028T193000Z
+SUMMARY:Milan vs Bologna — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749720
+DESCRIPTION:⚽ ميلان × بولونيا\n🏆 الدوري الإيط
+ الي — الجولة 9\n🗓 الأربعاء 28 أكتوبر 2026 · 2
+ 0:30 بتوقيت الرياض\n🏟 San Siro\n—————\n⚽ Milan 
+ v Bologna\n🏆 Serie A — Matchday 9\n🗓 Wed 28 Oct 2026 · 17:30 UTC\
+ n🏟 San Siro\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد بولونيا — الدوري 
+ الإيطالي | Tomorrow: Milan vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × بولونيا | Kick-off in 30 min: Milan vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749730@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T194500Z
+DTEND:20261031T214500Z
+SUMMARY:Milan vs Inter — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749730
+DESCRIPTION:⚽ ميلان × إنتر ميلان\n🏆 الدوري الإ
+ يطالي — الجولة 10\n🗓 السبت 31 أكتوبر 2026 · 22
+ :45 بتوقيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v
+  Inter\n🏆 Serie A — Matchday 10\n🗓 Sat 31 Oct 2026 · 19:45 UTC\n
+ 🏟 San Siro\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد إنتر ميلان — الدو
+ ري الإيطالي | Tomorrow: Milan vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × إنتر ميلان | Kick-off in 30 min: Milan vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749743@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Genoa vs Milan — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749743
+DESCRIPTION:⚽ جنوى × ميلان\n🏆 الدوري الإيطالي 
+ — الجولة 11\n🗓 الأحد 8 نوفمبر 2026 · 17:00 بتوق
+ يت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n⚽ Genoa 
+ v Milan\n🏆 Serie A — Matchday 11\n🗓 Sun 08 Nov 2026 · 14:00 UTC\n
+ 🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد ميلان — الدوري الإ
+ يطالي | Tomorrow: Genoa vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  ميلان | Kick-off in 30 min: Genoa vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749750@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Milan vs Frosinone — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749750
+DESCRIPTION:⚽ ميلان × فروزينوني\n🏆 الدوري الإ
+ يطالي — الجولة 12\n🗓 الأحد 22 نوفمبر 2026 · 17
+ :00 بتوقيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v
+  Frosinone\n🏆 Serie A — Matchday 12\n🗓 Sun 22 Nov 2026 · 14:00 UT
+ C\n🏟 San Siro\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد فروزينوني — الدور
+ ي الإيطالي | Tomorrow: Milan vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × فروزينوني | Kick-off in 30 min: Milan vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749761@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T173000Z
+DTEND:20261129T193000Z
+SUMMARY:Cagliari vs Milan — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749761
+DESCRIPTION:⚽ كالياري × ميلان\n🏆 الدوري الإيط
+ الي — الجولة 13\n🗓 الأحد 29 نوفمبر 2026 · 20:30 
+ بتوقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cagliar
+ i v Milan\n🏆 Serie A — Matchday 13\n🗓 Sun 29 Nov 2026 · 17:30 UTC
+ \n🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد ميلان — الدوري 
+ الإيطالي | Tomorrow: Cagliari vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × ميلان | Kick-off in 30 min: Cagliari vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749770@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T173000Z
+DTEND:20261206T193000Z
+SUMMARY:Milan vs Parma — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749770
+DESCRIPTION:⚽ ميلان × بارما\n🏆 الدوري الإيطال
+ ي — الجولة 14\n🗓 الأحد 6 ديسمبر 2026 · 20:30 بت
+ وقيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v Parma\n
+ 🏆 Serie A — Matchday 14\n🗓 Sun 06 Dec 2026 · 17:30 UTC\n🏟 San 
+ Siro\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد بارما — الدوري ال
+ إيطالي | Tomorrow: Milan vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × بارما | Kick-off in 30 min: Milan vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749787@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T173000Z
+DTEND:20261213T193000Z
+SUMMARY:Napoli vs Milan — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749787
+DESCRIPTION:⚽ نابولي × ميلان\n🏆 الدوري الإيطا
+ لي — الجولة 15\n🗓 الأحد 13 ديسمبر 2026 · 20:30 ب
+ توقيت الرياض\n🏟 Diego Armando Maradona\n—————\n⚽
+  Napoli v Milan\n🏆 Serie A — Matchday 15\n🗓 Sun 13 Dec 2026 · 17:
+ 30 UTC\n🏟 Diego Armando Maradona\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد ميلان — الدوري ا
+ لإيطالي | Tomorrow: Napoli vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × ميلان | Kick-off in 30 min: Napoli vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749790@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T173000Z
+DTEND:20261220T193000Z
+SUMMARY:Milan vs Como — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749790
+DESCRIPTION:⚽ ميلان × كومو\n🏆 الدوري الإيطالي 
+ — الجولة 16\n🗓 الأحد 20 ديسمبر 2026 · 20:30 بتو
+ قيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v Como\n
+ 🏆 Serie A — Matchday 16\n🗓 Sun 20 Dec 2026 · 17:30 UTC\n🏟 San 
+ Siro\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد كومو — الدوري الإ
+ يطالي | Tomorrow: Milan vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × كومو | Kick-off in 30 min: Milan vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749806@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T173000Z
+DTEND:20270103T193000Z
+SUMMARY:Monza vs Milan — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749806
+DESCRIPTION:⚽ مونزا × ميلان\n🏆 الدوري الإيطال
+ ي — الجولة 17\n🗓 الأحد 3 يناير 2027 · 20:30 بتو
+ قيت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Monza v Mi
+ lan\n🏆 Serie A — Matchday 17\n🗓 Sun 03 Jan 2027 · 17:30 UTC\n🏟
+  Stadio Brianteo\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد ميلان — الدوري ال
+ إيطالي | Tomorrow: Monza vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × ميلان | Kick-off in 30 min: Monza vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749810@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T173000Z
+DTEND:20270106T193000Z
+SUMMARY:Milan vs Fiorentina — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749810
+DESCRIPTION:⚽ ميلان × فيورنتينا\n🏆 الدوري الإ
+ يطالي — الجولة 18\n🗓 الأربعاء 6 يناير 2027 ·
+  20:30 بتوقيت الرياض\n🏟 San Siro\n—————\n⚽ Mila
+ n v Fiorentina\n🏆 Serie A — Matchday 18\n🗓 Wed 06 Jan 2027 · 17:3
+ 0 UTC\n🏟 San Siro\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد فيورنتينا — الدور
+ ي الإيطالي | Tomorrow: Milan vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × فيورنتينا | Kick-off in 30 min: Milan vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749820@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T173000Z
+DTEND:20270110T193000Z
+SUMMARY:Roma vs Milan — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749820
+DESCRIPTION:⚽ روما × ميلان\n🏆 الدوري الإيطالي 
+ — الجولة 19\n🗓 الأحد 10 يناير 2027 · 20:30 بتوق
+ يت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ Roma v
+  Milan\n🏆 Serie A — Matchday 19\n🗓 Sun 10 Jan 2027 · 17:30 UTC\n
+ 🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد ميلان — الدوري الإ
+ يطالي | Tomorrow: Roma vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  ميلان | Kick-off in 30 min: Roma vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749830@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T173000Z
+DTEND:20270117T193000Z
+SUMMARY:Milan vs Torino — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749830
+DESCRIPTION:⚽ ميلان × تورينو\n🏆 الدوري الإيطا
+ لي — الجولة 20\n🗓 الأحد 17 يناير 2027 · 20:30 بت
+ وقيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v Torino\
+ n🏆 Serie A — Matchday 20\n🗓 Sun 17 Jan 2027 · 17:30 UTC\n🏟 San
+  Siro\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد تورينو — الدوري ا
+ لإيطالي | Tomorrow: Milan vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × تورينو | Kick-off in 30 min: Milan vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749844@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T173000Z
+DTEND:20270124T193000Z
+SUMMARY:Frosinone vs Milan — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749844
+DESCRIPTION:⚽ فروزينوني × ميلان\n🏆 الدوري الإ
+ يطالي — الجولة 21\n🗓 الأحد 24 يناير 2027 · 20:3
+ 0 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n—————\n
+ ⚽ Frosinone v Milan\n🏆 Serie A — Matchday 21\n🗓 Sun 24 Jan 2027 
+ · 17:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد ميلان — الدور
+ ي الإيطالي | Tomorrow: Frosinone vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × ميلان | Kick-off in 30 min: Frosinone vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749850@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T173000Z
+DTEND:20270131T193000Z
+SUMMARY:Milan vs Juventus — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749850
+DESCRIPTION:⚽ ميلان × يوفنتوس\n🏆 الدوري الإيط
+ الي — الجولة 22\n🗓 الأحد 31 يناير 2027 · 20:30 ب
+ توقيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v Juven
+ tus\n🏆 Serie A — Matchday 22\n🗓 Sun 31 Jan 2027 · 17:30 UTC\n🏟
+  San Siro\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد يوفنتوس — الدوري 
+ الإيطالي | Tomorrow: Milan vs Juventus
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × يوفنتوس | Kick-off in 30 min: Milan vs Juventus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749862@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T173000Z
+DTEND:20270207T193000Z
+SUMMARY:Bologna vs Milan — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749862
+DESCRIPTION:⚽ بولونيا × ميلان\n🏆 الدوري الإيط
+ الي — الجولة 23\n🗓 الأحد 7 فبراير 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Renato Dell'Ara\n—————\n
+ ⚽ Bologna v Milan\n🏆 Serie A — Matchday 23\n🗓 Sun 07 Feb 2027 ·
+  17:30 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد ميلان — الدوري 
+ الإيطالي | Tomorrow: Bologna vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × ميلان | Kick-off in 30 min: Bologna vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749875@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T173000Z
+DTEND:20270214T193000Z
+SUMMARY:Inter vs Milan — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749875
+DESCRIPTION:⚽ إنتر ميلان × ميلان\n🏆 الدوري الإ
+ يطالي — الجولة 24\n🗓 الأحد 14 فبراير 2027 · 20
+ :30 بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\n⚽ 
+ Inter v Milan\n🏆 Serie A — Matchday 24\n🗓 Sun 14 Feb 2027 · 17:30
+  UTC\n🏟 Giuseppe Meazza\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد ميلان — الدو
+ ري الإيطالي | Tomorrow: Inter vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × ميلان | Kick-off in 30 min: Inter vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749880@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T173000Z
+DTEND:20270221T193000Z
+SUMMARY:Milan vs Genoa — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749880
+DESCRIPTION:⚽ ميلان × جنوى\n🏆 الدوري الإيطالي 
+ — الجولة 25\n🗓 الأحد 21 فبراير 2027 · 20:30 بتو
+ قيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v Genoa\n
+ 🏆 Serie A — Matchday 25\n🗓 Sun 21 Feb 2027 · 17:30 UTC\n🏟 San 
+ Siro\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد جنوى — الدوري الإ
+ يطالي | Tomorrow: Milan vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × جنوى | Kick-off in 30 min: Milan vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749893@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T173000Z
+DTEND:20270228T193000Z
+SUMMARY:Como vs Milan — Serie A
+LOCATION:Stadio G. Sinigaglia
+URL:https://www.fotmob.com/match/5749893
+DESCRIPTION:⚽ كومو × ميلان\n🏆 الدوري الإيطالي 
+ — الجولة 26\n🗓 الأحد 28 فبراير 2027 · 20:30 بتو
+ قيت الرياض\n🏟 Stadio G. Sinigaglia\n—————\n⚽ Como 
+ v Milan\n🏆 Serie A — Matchday 26\n🗓 Sun 28 Feb 2027 · 17:30 UTC\n
+ 🏟 Stadio G. Sinigaglia\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كومو ضد ميلان — الدوري الإ
+ يطالي | Tomorrow: Como vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كومو ×
+  ميلان | Kick-off in 30 min: Como vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749900@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T173000Z
+DTEND:20270307T193000Z
+SUMMARY:Milan vs Cagliari — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749900
+DESCRIPTION:⚽ ميلان × كالياري\n🏆 الدوري الإيط
+ الي — الجولة 27\n🗓 الأحد 7 مارس 2027 · 20:30 بت
+ وقيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v Cagliar
+ i\n🏆 Serie A — Matchday 27\n🗓 Sun 07 Mar 2027 · 17:30 UTC\n🏟 S
+ an Siro\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد كالياري — الدوري 
+ الإيطالي | Tomorrow: Milan vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × كالياري | Kick-off in 30 min: Milan vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749910@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T173000Z
+DTEND:20270314T193000Z
+SUMMARY:Milan vs Sassuolo — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749910
+DESCRIPTION:⚽ ميلان × ساسولو\n🏆 الدوري الإيطا
+ لي — الجولة 28\n🗓 الأحد 14 مارس 2027 · 20:30 بتو
+ قيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v Sassuolo\
+ n🏆 Serie A — Matchday 28\n🗓 Sun 14 Mar 2027 · 17:30 UTC\n🏟 San
+  Siro\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد ساسولو — الدوري ا
+ لإيطالي | Tomorrow: Milan vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × ساسولو | Kick-off in 30 min: Milan vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749921@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T173000Z
+DTEND:20270321T193000Z
+SUMMARY:Atalanta vs Milan — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749921
+DESCRIPTION:⚽ أتالانتا × ميلان\n🏆 الدوري الإي
+ طالي — الجولة 29\n🗓 الأحد 21 مارس 2027 · 20:30 ب
+ توقيت الرياض\n🏟 New Balance Arena\n—————\n⚽ Atal
+ anta v Milan\n🏆 Serie A — Matchday 29\n🗓 Sun 21 Mar 2027 · 17:30 
+ UTC\n🏟 New Balance Arena\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد ميلان — الدوري
+  الإيطالي | Tomorrow: Atalanta vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × ميلان | Kick-off in 30 min: Atalanta vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749930@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T163000Z
+DTEND:20270404T183000Z
+SUMMARY:Milan vs Monza — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749930
+DESCRIPTION:⚽ ميلان × مونزا\n🏆 الدوري الإيطال
+ ي — الجولة 30\n🗓 الأحد 4 أبريل 2027 · 19:30 بتو
+ قيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v Monza\n
+ 🏆 Serie A — Matchday 30\n🗓 Sun 04 Apr 2027 · 16:30 UTC\n🏟 San 
+ Siro\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد مونزا — الدوري ال
+ إيطالي | Tomorrow: Milan vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × مونزا | Kick-off in 30 min: Milan vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749942@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T163000Z
+DTEND:20270411T183000Z
+SUMMARY:Fiorentina vs Milan — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749942
+DESCRIPTION:⚽ فيورنتينا × ميلان\n🏆 الدوري الإ
+ يطالي — الجولة 31\n🗓 الأحد 11 أبريل 2027 · 19:3
+ 0 بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n————
+ —\n⚽ Fiorentina v Milan\n🏆 Serie A — Matchday 31\n🗓 Sun 11 Apr
+  2027 · 16:30 UTC\n🏟 Artemio Franchi, Firenze\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد ميلان — الدور
+ ي الإيطالي | Tomorrow: Fiorentina vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × ميلان | Kick-off in 30 min: Fiorentina vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749950@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T163000Z
+DTEND:20270418T183000Z
+SUMMARY:Milan vs Napoli — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749950
+DESCRIPTION:⚽ ميلان × نابولي\n🏆 الدوري الإيطا
+ لي — الجولة 32\n🗓 الأحد 18 أبريل 2027 · 19:30 بت
+ وقيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v Napoli\
+ n🏆 Serie A — Matchday 32\n🗓 Sun 18 Apr 2027 · 16:30 UTC\n🏟 San
+  Siro\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد نابولي — الدوري ا
+ لإيطالي | Tomorrow: Milan vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × نابولي | Kick-off in 30 min: Milan vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749966@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270425T163000Z
+DTEND:20270425T183000Z
+SUMMARY:Lecce vs Milan — Serie A
+LOCATION:Stadio Ettore Giardiniero - Via del Mare
+URL:https://www.fotmob.com/match/5749966
+DESCRIPTION:⚽ ليتشي × ميلان\n🏆 الدوري الإيطال
+ ي — الجولة 33\n🗓 الأحد 25 أبريل 2027 · 19:30 بتو
+ قيت الرياض\n🏟 Stadio Ettore Giardiniero - Via del Mare\n——
+ ———\n⚽ Lecce v Milan\n🏆 Serie A — Matchday 33\n🗓 Sun 25 Ap
+ r 2027 · 16:30 UTC\n🏟 Stadio Ettore Giardiniero - Via del Mare\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليتشي ضد ميلان — الدوري ال
+ إيطالي | Tomorrow: Lecce vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليتشي 
+ × ميلان | Kick-off in 30 min: Lecce vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749970@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T163000Z
+DTEND:20270502T183000Z
+SUMMARY:Milan vs Lazio — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749970
+DESCRIPTION:⚽ ميلان × لاتسيو\n🏆 الدوري الإيطا
+ لي — الجولة 34\n🗓 الأحد 2 مايو 2027 · 19:30 بتو
+ قيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v Lazio\n
+ 🏆 Serie A — Matchday 34\n🗓 Sun 02 May 2027 · 16:30 UTC\n🏟 San 
+ Siro\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد لاتسيو — الدوري ا
+ لإيطالي | Tomorrow: Milan vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × لاتسيو | Kick-off in 30 min: Milan vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749986@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T163000Z
+DTEND:20270509T183000Z
+SUMMARY:Parma vs Milan — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749986
+DESCRIPTION:⚽ بارما × ميلان\n🏆 الدوري الإيطال
+ ي — الجولة 35\n🗓 الأحد 9 مايو 2027 · 19:30 بتوق
+ يت الرياض\n🏟 Stadio Ennio Tardini\n—————\n⚽ Parma v
+  Milan\n🏆 Serie A — Matchday 35\n🗓 Sun 09 May 2027 · 16:30 UTC\n
+ 🏟 Stadio Ennio Tardini\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد ميلان — الدوري ال
+ إيطالي | Tomorrow: Parma vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × ميلان | Kick-off in 30 min: Parma vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749990@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T163000Z
+DTEND:20270516T183000Z
+SUMMARY:Milan vs Roma — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749990
+DESCRIPTION:⚽ ميلان × روما\n🏆 الدوري الإيطالي 
+ — الجولة 36\n🗓 الأحد 16 مايو 2027 · 19:30 بتوقي
+ ت الرياض\n🏟 San Siro\n—————\n⚽ Milan v Roma\n🏆 Se
+ rie A — Matchday 36\n🗓 Sun 16 May 2027 · 16:30 UTC\n🏟 San Siro\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد روما — الدوري الإ
+ يطالي | Tomorrow: Milan vs Roma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × روما | Kick-off in 30 min: Milan vs Roma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750009@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T163000Z
+DTEND:20270523T183000Z
+SUMMARY:Venezia vs Milan — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5750009
+DESCRIPTION:⚽ فينيزيا × ميلان\n🏆 الدوري الإيط
+ الي — الجولة 37\n🗓 الأحد 23 مايو 2027 · 19:30 بت
+ وقيت الرياض\n🏟 Stadio Pierluigi Penzo\n—————\n⚽ V
+ enezia v Milan\n🏆 Serie A — Matchday 37\n🗓 Sun 23 May 2027 · 16:3
+ 0 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد ميلان — الدوري 
+ الإيطالي | Tomorrow: Venezia vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × ميلان | Kick-off in 30 min: Venezia vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750010@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T163000Z
+DTEND:20270530T183000Z
+SUMMARY:Milan vs Udinese — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5750010
+DESCRIPTION:⚽ ميلان × أودينيزي\n🏆 الدوري الإي
+ طالي — الجولة 38\n🗓 الأحد 30 مايو 2027 · 19:30 ب
+ توقيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v Udine
+ se\n🏆 Serie A — Matchday 38\n🗓 Sun 30 May 2027 · 16:30 UTC\n🏟 
+ San Siro\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد أودينيزي — الدوري
+  الإيطالي | Tomorrow: Milan vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × أودينيزي | Kick-off in 30 min: Milan vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112254@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T190000Z
+DTEND:20260916T210000Z
+SUMMARY:Milan vs Benfica — UEFA Europa League
+LOCATION:Stadio Giuseppe Meazza\, Milano\, Italy
+GEO:45.478084;9.123979
+URL:https://www.fotmob.com/match/6112254
+DESCRIPTION:⚽ ميلان × بنفيكا\n🏆 الدوري الأورو
+ بي — الجولة 1\n🗓 الأربعاء 16 سبتمبر 2026 · 22:
+ 00 بتوقيت الرياض\n🏟 Stadio Giuseppe Meazza، Milano\n——
+ ———\n⚽ Milan v Benfica\n🏆 UEFA Europa League — Matchday 1\n
+ 🗓 Wed 16 Sep 2026 · 19:00 UTC\n🏟 Stadio Giuseppe Meazza, Milano\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد بنفيكا — الدوري ا
+ لأوروبي | Tomorrow: Milan vs Benfica
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × بنفيكا | Kick-off in 30 min: Milan vs Benfica
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112294@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:Salzburg vs Milan — UEFA Europa League
+LOCATION:Red Bull Arena\, Wals-Siezenheim\, Austria
+GEO:47.816294;12.998183
+URL:https://www.fotmob.com/match/6112294
+DESCRIPTION:⚽ Salzburg × ميلان\n🏆 الدوري الأوروبي 
+ — الجولة 2\n🗓 الخميس 15 أكتوبر 2026 · 19:45 بتو
+ قيت الرياض\n🏟 Red Bull Arena، Wals-Siezenheim\n————
+ —\n⚽ Salzburg v Milan\n🏆 UEFA Europa League — Matchday 2\n🗓 Th
+ u 15 Oct 2026 · 16:45 UTC\n🏟 Red Bull Arena, Wals-Siezenheim\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Salzburg ضد ميلان — الدوري الأ
+ وروبي | Tomorrow: Salzburg vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Salzburg ×
+  ميلان | Kick-off in 30 min: Salzburg vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112326@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:AFC Bournemouth vs Milan — UEFA Europa League
+LOCATION:Vitality Stadium\, Bournemouth\, Dorset\, England
+GEO:50.735241;-1.838310
+URL:https://www.fotmob.com/match/6112326
+DESCRIPTION:⚽ بورنموث × ميلان\n🏆 الدوري الأور
+ وبي — الجولة 3\n🗓 الخميس 22 أكتوبر 2026 · 22:00
+  بتوقيت الرياض\n🏟 Vitality Stadium، Bournemouth, Dorset\n
+ —————\n⚽ AFC Bournemouth v Milan\n🏆 UEFA Europa League — 
+ Matchday 3\n🗓 Thu 22 Oct 2026 · 19:00 UTC\n🏟 Vitality Stadium, Bour
+ nemouth, Dorset\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد ميلان — الدوري 
+ الأوروبي | Tomorrow: AFC Bournemouth vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × ميلان | Kick-off in 30 min: AFC Bournemouth vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112255@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:Milan vs Ferencváros — UEFA Europa League
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/6112255
+DESCRIPTION:⚽ ميلان × فيرينتسفاروشي\n🏆 الدوري
+  الأوروبي — الجولة 4\n🗓 الخميس 5 نوفمبر 202
+ 6 · 20:45 بتوقيت الرياض\n🏟 San Siro\n—————\n⚽ 
+ Milan v Ferencváros\n🏆 UEFA Europa League — Matchday 4\n🗓 Thu 05 
+ Nov 2026 · 17:45 UTC\n🏟 San Siro\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد فيرينتسفاروشي — ا
+ لدوري الأوروبي | Tomorrow: Milan vs Ferencváros
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × فيرينتسفاروشي | Kick-off in 30 min: Milan vs Ferencváros
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112266@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Olympiacos vs Milan — UEFA Europa League
+LOCATION:Karaiskakis Stadium
+URL:https://www.fotmob.com/match/6112266
+DESCRIPTION:⚽ أولمبياكوس × ميلان\n🏆 الدوري ال
+ أوروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 2026 ·
+  20:45 بتوقيت الرياض\n🏟 Karaiskakis Stadium\n————
+ —\n⚽ Olympiacos v Milan\n🏆 UEFA Europa League — Matchday 5\n🗓 
+ Thu 26 Nov 2026 · 17:45 UTC\n🏟 Karaiskakis Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبياكوس ضد ميلان — الدو
+ ري الأوروبي | Tomorrow: Olympiacos vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ ياكوس × ميلان | Kick-off in 30 min: Olympiacos vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112256@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:Milan vs Sunderland — UEFA Europa League
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/6112256
+DESCRIPTION:⚽ ميلان × سندرلاند\n🏆 الدوري الأو
+ روبي — الجولة 6\n🗓 الخميس 10 ديسمبر 2026 · 23:
+ 00 بتوقيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v 
+ Sunderland\n🏆 UEFA Europa League — Matchday 6\n🗓 Thu 10 Dec 2026 
+ · 20:00 UTC\n🏟 San Siro\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد سندرلاند — الدوري
+  الأوروبي | Tomorrow: Milan vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × سندرلاند | Kick-off in 30 min: Milan vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112378@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:Levski Sofia vs Milan — UEFA Europa League
+LOCATION:Vasil Levski
+URL:https://www.fotmob.com/match/6112378
+DESCRIPTION:⚽ ليفسكي صوفيا × ميلان\n🏆 الدوري ا
+ لأوروبي — الجولة 7\n🗓 الخميس 21 يناير 2027 ·
+  23:00 بتوقيت الرياض\n🏟 Vasil Levski\n—————\n⚽ 
+ Levski Sofia v Milan\n🏆 UEFA Europa League — Matchday 7\n🗓 Thu 21 
+ Jan 2027 · 20:00 UTC\n🏟 Vasil Levski\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفسكي صوفيا ضد ميلان — ال
+ دوري الأوروبي | Tomorrow: Levski Sofia vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفسك
+ ي صوفيا × ميلان | Kick-off in 30 min: Levski Sofia vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112257@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Milan vs Ararat Armenia — UEFA Europa League
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/6112257
+DESCRIPTION:⚽ ميلان × أرارات أرمينيا\n🏆 الدور
+ ي الأوروبي — الجولة 8\n🗓 الخميس 28 يناير 20
+ 27 · 23:00 بتوقيت الرياض\n🏟 San Siro\n—————\n⚽
+  Milan v Ararat Armenia\n🏆 UEFA Europa League — Matchday 8\n🗓 Thu 
+ 28 Jan 2027 · 20:00 UTC\n🏟 San Siro\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد أرارات أرمينيا — 
+ الدوري الأوروبي | Tomorrow: Milan vs Ararat Armenia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × أرارات أرمينيا | Kick-off in 30 min: Milan vs Ararat Armen
+ ia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003677@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T170000Z
+DTEND:20261202T190000Z
+SUMMARY:Monza vs Milan — Coppa Italia
+LOCATION:U-Power Stadium\, Monza\, Italy
+GEO:45.583064;9.308116
+URL:https://www.fotmob.com/match/6003677
+DESCRIPTION:⚽ مونزا × ميلان\n🏆 كأس إيطاليا — د
+ ور الـ16\n🗓 الأربعاء 2 ديسمبر 2026 · 20:00 بتوق
+ يت الرياض\n🏟 U-Power Stadium، Monza\n—————\n⚽ Monz
+ a v Milan\n🏆 Coppa Italia — Round of 16\n🗓 Wed 02 Dec 2026 · 17:0
+ 0 UTC\n🏟 U-Power Stadium, Monza\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد ميلان — كأس إيطال
+ يا | Tomorrow: Monza vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × ميلان | Kick-off in 30 min: Monza vs Milan
+END:VALARM
+END:VEVENT
+END:VCALENDAR

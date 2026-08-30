@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ FC Andorra — Copa del Rey Fixtures | أندورا — م
+ باريات كأس ملك إسبانيا
+X-WR-CALDESC:FC Andorra — all matches in Copa del Rey\, exact UTC kickoff
+ s\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:
+ 31:10Z.  •  أندورا — جميع المباريات في كأس م
+ لك إسبانيا بتوقيت UTC الدقيق مع الملاعب وا
+ لقنوات الناقلة. المصدر: FotMob + 365scores · تحدي
+ ث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4996009@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251030T183000Z
+DTEND:20251030T203000Z
+SUMMARY:Valle de Egüés vs FC Andorra (1 - 5) — Copa del Rey
+LOCATION:Estadio Sarriguren\, Sarriguren\, Spain
+GEO:42.812533;-1.592438
+URL:https://www.fotmob.com/match/4996009
+DESCRIPTION:⚽ فاييي دي إيوغوس × أندورا (1 - 5)\n🏆 
+ كأس ملك إسبانيا — الدور الأول\n🗓 الخميس 
+ 30 أكتوبر 2025 · 21:30 بتوقيت الرياض\n🏟 Estadio Sarr
+ iguren، Sarriguren\n⚖️ الحكم: Jon Ander González Esteban\n👥 
+ الحضور: 1,800\n—————\n⚽ Valle de Egüés v FC Andorra (1
+  - 5)\n🏆 Copa del Rey — Round 1\n🗓 Thu 30 Oct 2025 · 18:30 UTC\n
+ 🏟 Estadio Sarriguren, Sarriguren\nReferee: Jon Ander González Esteban\
+ nAttendance: 1,800\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فاييي دي إيوغوس ضد أندورا 
+ — كأس ملك إسبانيا | Tomorrow: Valle de Egüés vs FC Andorr
+ a
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فاييي 
+ دي إيوغوس × أندورا | Kick-off in 30 min: Valle de Egüés v
+ s FC Andorra
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057217@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251203T190000Z
+DTEND:20251203T210000Z
+SUMMARY:Cultural Leonesa vs FC Andorra (4 - 2) — Copa del Rey
+LOCATION:Estadio Municipal Reino de León\, León\, Spain
+GEO:42.587397;-5.577064
+URL:https://www.fotmob.com/match/5057217
+DESCRIPTION:⚽ ديبورتيفا ليونيسا × أندورا (4 - 2)\n
+ 🏆 كأس ملك إسبانيا — الدور الثاني\n🗓 الأ
+ ربعاء 3 ديسمبر 2025 · 22:00 بتوقيت الرياض\n🏟 Es
+ tadio Municipal Reino de León، León\n⚖️ الحكم: Alejandro Moril
+ la Turrión\n👥 الحضور: 3,854\n—————\n⚽ Cultural Leone
+ sa v FC Andorra (4 - 2)\n🏆 Copa del Rey — Round 2\n🗓 Wed 03 Dec 20
+ 25 · 19:00 UTC\n🏟 Estadio Municipal Reino de León, León\nReferee: Al
+ ejandro Morilla Turrión\nAttendance: 3,854\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفا ليونيسا ضد أندور
+ ا — كأس ملك إسبانيا | Tomorrow: Cultural Leonesa vs FC And
+ orra
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفا ليونيسا × أندورا | Kick-off in 30 min: Cultural Leo
+ nesa vs FC Andorra
+END:VALARM
+END:VEVENT
+END:VCALENDAR

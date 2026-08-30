@@ -1,0 +1,288 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Shakhtar Donetsk — UEFA Champions League Fixtures | شا
+ ختار دونيتسك — مباريات دوري أبطال أوروب
+ ا
+X-WR-CALDESC:Shakhtar Donetsk — all matches in UEFA Champions League\, ex
+ act UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated
+  2026-09-05T19:31:10Z.  •  شاختار دونيتسك — جميع ال
+ مباريات في دوري أبطال أوروبا بتوقيت UTC ال
+ دقيق مع الملاعب والقنوات الناقلة. المصدر
+ : FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6106304@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260910T164500Z
+DTEND:20260910T184500Z
+SUMMARY:PSV Eindhoven vs Shakhtar Donetsk — UEFA Champions League
+LOCATION:Philips Stadion\, Eindhoven\, Netherlands
+GEO:51.441630;5.467452
+URL:https://www.fotmob.com/match/6106304
+DESCRIPTION:⚽ آيندهوفن × شاختار دونيتسك\n🏆 دو
+ ري أبطال أوروبا — الجولة 1\n🗓 الخميس 10 سب
+ تمبر 2026 · 19:45 بتوقيت الرياض\n🏟 Philips Stadion، E
+ indhoven\n📺 HBO Max (UK)، Paramount+ (US)\n—————\n⚽ PSV Ei
+ ndhoven v Shakhtar Donetsk\n🏆 UEFA Champions League — Matchday 1\n
+ 🗓 Thu 10 Sep 2026 · 16:45 UTC\n🏟 Philips Stadion, Eindhoven\n📺 H
+ BO Max (UK), Paramount+ (US)\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آيندهوفن ضد شاختار دونيتسك
+  — دوري أبطال أوروبا — 📺 HBO Max (UK)، Paramount+ (
+ US) | Tomorrow: PSV Eindhoven vs Shakhtar Donetsk | TV: HBO Max (UK)\, Par
+ amount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينده
+ وفن × شاختار دونيتسك — 📺 HBO Max (UK)، Paramount+ (
+ US) | Kick-off in 30 min: PSV Eindhoven vs Shakhtar Donetsk | TV: HBO Max 
+ (UK)\, Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106337@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+SUMMARY:Shakhtar Donetsk vs AEK Athens — UEFA Champions League
+LOCATION:Stamford Bridge\, London\, England
+GEO:51.481712;-0.190975
+URL:https://www.fotmob.com/match/6106337
+DESCRIPTION:⚽ شاختار دونيتسك × أيك أثينا\n🏆 دو
+ ري أبطال أوروبا — الجولة 2\n🗓 الأربعاء 14 
+ أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Stamford Bridge
+ ، London\n—————\n⚽ Shakhtar Donetsk v AEK Athens\n🏆 UEFA C
+ hampions League — Matchday 2\n🗓 Wed 14 Oct 2026 · 19:00 UTC\n🏟 St
+ amford Bridge, London\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شاختار دونيتسك ضد أيك أثين
+ ا — دوري أبطال أوروبا | Tomorrow: Shakhtar Donetsk vs AE
+ K Athens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شاختا
+ ر دونيتسك × أيك أثينا | Kick-off in 30 min: Shakhtar Done
+ tsk vs AEK Athens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106252@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+SUMMARY:Inter vs Shakhtar Donetsk — UEFA Champions League
+LOCATION:Stadio Giuseppe Meazza\, Milano\, Italy
+GEO:45.478084;9.123979
+URL:https://www.fotmob.com/match/6106252
+DESCRIPTION:⚽ إنتر ميلان × شاختار دونيتسك\n🏆 د
+ وري أبطال أوروبا — الجولة 3\n🗓 الأربعاء 2
+ 1 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Stadio Giusep
+ pe Meazza، Milano\n—————\n⚽ Inter v Shakhtar Donetsk\n🏆 UE
+ FA Champions League — Matchday 3\n🗓 Wed 21 Oct 2026 · 19:00 UTC\n
+ 🏟 Stadio Giuseppe Meazza, Milano\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد شاختار دونيت
+ سك — دوري أبطال أوروبا | Tomorrow: Inter vs Shakhtar Do
+ netsk
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × شاختار دونيتسك | Kick-off in 30 min: Inter vs Sha
+ khtar Donetsk
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106335@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261103T174500Z
+DTEND:20261103T194500Z
+SUMMARY:Shakhtar Donetsk vs Sporting CP — UEFA Champions League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/6106335
+DESCRIPTION:⚽ شاختار دونيتسك × سبورتنج لشبونة\
+ n🏆 دوري أبطال أوروبا — الجولة 4\n🗓 الثلا
+ ثاء 3 نوفمبر 2026 · 20:45 بتوقيت الرياض\n🏟 Stamfo
+ rd Bridge\n—————\n⚽ Shakhtar Donetsk v Sporting CP\n🏆 UEFA 
+ Champions League — Matchday 4\n🗓 Tue 03 Nov 2026 · 17:45 UTC\n🏟 S
+ tamford Bridge\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شاختار دونيتسك ضد سبورتنج 
+ لشبونة — دوري أبطال أوروبا | Tomorrow: Shakhtar Don
+ etsk vs Sporting CP
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شاختا
+ ر دونيتسك × سبورتنج لشبونة | Kick-off in 30 min: Sha
+ khtar Donetsk vs Sporting CP
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106336@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Shakhtar Donetsk vs Fenerbahçe — UEFA Champions League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/6106336
+DESCRIPTION:⚽ شاختار دونيتسك × فنربخشة\n🏆 دور
+ ي أبطال أوروبا — الجولة 5\n🗓 الأربعاء 25 ن
+ وفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Stamford Bridge\n
+ —————\n⚽ Shakhtar Donetsk v Fenerbahçe\n🏆 UEFA Champions L
+ eague — Matchday 5\n🗓 Wed 25 Nov 2026 · 20:00 UTC\n🏟 Stamford Bri
+ dge\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شاختار دونيتسك ضد فنربخشة 
+ — دوري أبطال أوروبا | Tomorrow: Shakhtar Donetsk vs Fener
+ bahçe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شاختا
+ ر دونيتسك × فنربخشة | Kick-off in 30 min: Shakhtar Donetsk
+  vs Fenerbahçe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106395@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T174500Z
+DTEND:20261209T194500Z
+SUMMARY:Slovan Bratislava vs Shakhtar Donetsk — UEFA Champions League
+LOCATION:National Football Stadium
+URL:https://www.fotmob.com/match/6106395
+DESCRIPTION:⚽ سلوفان براتيسلافا × شاختار دوني
+ تسك\n🏆 دوري أبطال أوروبا — الجولة 6\n🗓 ا
+ لأربعاء 9 ديسمبر 2026 · 20:45 بتوقيت الرياض\n
+ 🏟 National Football Stadium\n—————\n⚽ Slovan Bratislava v S
+ hakhtar Donetsk\n🏆 UEFA Champions League — Matchday 6\n🗓 Wed 09 De
+ c 2026 · 17:45 UTC\n🏟 National Football Stadium\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سلوفان براتيسلافا ضد شاختا
+ ر دونيتسك — دوري أبطال أوروبا | Tomorrow: Slovan 
+ Bratislava vs Shakhtar Donetsk
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سلوفا
+ ن براتيسلافا × شاختار دونيتسك | Kick-off in 30 mi
+ n: Slovan Bratislava vs Shakhtar Donetsk
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106324@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+SUMMARY:RB Leipzig vs Shakhtar Donetsk — UEFA Champions League
+LOCATION:Red Bull Arena Leipzig
+URL:https://www.fotmob.com/match/6106324
+DESCRIPTION:⚽ لايبزيج × شاختار دونيتسك\n🏆 دور
+ ي أبطال أوروبا — الجولة 7\n🗓 الأربعاء 20 ي
+ ناير 2027 · 23:00 بتوقيت الرياض\n🏟 Red Bull Arena Leip
+ zig\n—————\n⚽ RB Leipzig v Shakhtar Donetsk\n🏆 UEFA Champio
+ ns League — Matchday 7\n🗓 Wed 20 Jan 2027 · 20:00 UTC\n🏟 Red Bull
+  Arena Leipzig\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لايبزيج ضد شاختار دونيتسك 
+ — دوري أبطال أوروبا | Tomorrow: RB Leipzig vs Shakhtar Do
+ netsk
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لايبز
+ يج × شاختار دونيتسك | Kick-off in 30 min: RB Leipzig vs Sh
+ akhtar Donetsk
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106334@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Shakhtar Donetsk vs Real Madrid — UEFA Champions League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/6106334
+DESCRIPTION:⚽ شاختار دونيتسك × ريال مدريد\n🏆 د
+ وري أبطال أوروبا — الجولة 8\n🗓 الأربعاء 2
+ 7 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Stamford Bridge
+ \n—————\n⚽ Shakhtar Donetsk v Real Madrid\n🏆 UEFA Champions
+  League — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Stamford B
+ ridge\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شاختار دونيتسك ضد ريال مدر
+ يد — دوري أبطال أوروبا | Tomorrow: Shakhtar Donetsk vs 
+ Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شاختا
+ ر دونيتسك × ريال مدريد | Kick-off in 30 min: Shakhtar Do
+ netsk vs Real Madrid
+END:VALARM
+END:VEVENT
+END:VCALENDAR

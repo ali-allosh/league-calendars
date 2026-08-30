@@ -1,0 +1,272 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Ferencváros — UEFA Europa League Fixtures | فيرين
+ تسفاروشي — مباريات الدوري الأوروبي
+X-WR-CALDESC:Ferencváros — all matches in UEFA Europa League\, exact UTC
+  kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-0
+ 9-05T19:31:10Z.  •  فيرينتسفاروشي — جميع المبار
+ يات في الدوري الأوروبي بتوقيت UTC الدقيق م
+ ع الملاعب والقنوات الناقلة. المصدر: FotMob + 
+ 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6112299@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260917T190000Z
+DTEND:20260917T210000Z
+SUMMARY:Celtic vs Ferencváros — UEFA Europa League
+LOCATION:Celtic Park\, Glasgow\, Scotland
+GEO:55.849719;-4.205580
+URL:https://www.fotmob.com/match/6112299
+DESCRIPTION:⚽ سيلتيك × فيرينتسفاروشي\n🏆 الدور
+ ي الأوروبي — الجولة 1\n🗓 الخميس 17 سبتمبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 Celtic Park، Glasgow\n—
+ ————\n⚽ Celtic v Ferencváros\n🏆 UEFA Europa League — Match
+ day 1\n🗓 Thu 17 Sep 2026 · 19:00 UTC\n🏟 Celtic Park, Glasgow\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتيك ضد فيرينتسفاروشي — 
+ الدوري الأوروبي | Tomorrow: Celtic vs Ferencváros
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتي
+ ك × فيرينتسفاروشي | Kick-off in 30 min: Celtic vs Ferencvá
+ ros
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112279@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:Ferencváros vs Viktoria Plzeň — UEFA Europa League
+LOCATION:Groupama Aréna\, Budapest\, Hungary
+GEO:47.475514;19.095286
+URL:https://www.fotmob.com/match/6112279
+DESCRIPTION:⚽ فيرينتسفاروشي × فيكتوريا بلزن\n
+ 🏆 الدوري الأوروبي — الجولة 2\n🗓 الخميس 1
+ 5 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Groupama Aré
+ na، Budapest\n—————\n⚽ Ferencváros v Viktoria Plzeň\n🏆 U
+ EFA Europa League — Matchday 2\n🗓 Thu 15 Oct 2026 · 19:00 UTC\n🏟 
+ Groupama Aréna, Budapest\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيرينتسفاروشي ضد فيكتوريا 
+ بلزن — الدوري الأوروبي | Tomorrow: Ferencváros vs Vik
+ toria Plzeň
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيرين
+ تسفاروشي × فيكتوريا بلزن | Kick-off in 30 min: Ferenc
+ város vs Viktoria Plzeň
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112281@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261022T164500Z
+DTEND:20261022T184500Z
+SUMMARY:Ferencváros vs Torreense — UEFA Europa League
+LOCATION:Groupama Aréna\, Budapest\, Hungary
+GEO:47.475514;19.095286
+URL:https://www.fotmob.com/match/6112281
+DESCRIPTION:⚽ فيرينتسفاروشي × توريينسي\n🏆 الد
+ وري الأوروبي — الجولة 3\n🗓 الخميس 22 أكتو
+ بر 2026 · 19:45 بتوقيت الرياض\n🏟 Groupama Aréna، Budap
+ est\n—————\n⚽ Ferencváros v Torreense\n🏆 UEFA Europa Leagu
+ e — Matchday 3\n🗓 Thu 22 Oct 2026 · 16:45 UTC\n🏟 Groupama Aréna,
+  Budapest\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيرينتسفاروشي ضد توريينسي 
+ — الدوري الأوروبي | Tomorrow: Ferencváros vs Torreense
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيرين
+ تسفاروشي × توريينسي | Kick-off in 30 min: Ferencváros vs
+  Torreense
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112255@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:Milan vs Ferencváros — UEFA Europa League
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/6112255
+DESCRIPTION:⚽ ميلان × فيرينتسفاروشي\n🏆 الدوري
+  الأوروبي — الجولة 4\n🗓 الخميس 5 نوفمبر 202
+ 6 · 20:45 بتوقيت الرياض\n🏟 San Siro\n—————\n⚽ 
+ Milan v Ferencváros\n🏆 UEFA Europa League — Matchday 4\n🗓 Thu 05 
+ Nov 2026 · 17:45 UTC\n🏟 San Siro\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد فيرينتسفاروشي — ا
+ لدوري الأوروبي | Tomorrow: Milan vs Ferencváros
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × فيرينتسفاروشي | Kick-off in 30 min: Milan vs Ferencváros
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112280@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Ferencváros vs NK Celje — UEFA Europa League
+LOCATION:Groupama Arena
+URL:https://www.fotmob.com/match/6112280
+DESCRIPTION:⚽ فيرينتسفاروشي × تسيليى\n🏆 الدور
+ ي الأوروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 
+ 2026 · 23:00 بتوقيت الرياض\n🏟 Groupama Arena\n————
+ —\n⚽ Ferencváros v NK Celje\n🏆 UEFA Europa League — Matchday 5\n
+ 🗓 Thu 26 Nov 2026 · 20:00 UTC\n🏟 Groupama Arena\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيرينتسفاروشي ضد تسيليى — 
+ الدوري الأوروبي | Tomorrow: Ferencváros vs NK Celje
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيرين
+ تسفاروشي × تسيليى | Kick-off in 30 min: Ferencváros vs NK 
+ Celje
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112319@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:Lech Poznań vs Ferencváros — UEFA Europa League
+LOCATION:Stadion Poznan
+URL:https://www.fotmob.com/match/6112319
+DESCRIPTION:⚽ ليخ بوزنان × فيرينتسفاروشي\n🏆 ا
+ لدوري الأوروبي — الجولة 6\n🗓 الخميس 10 دي
+ سمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Stadion Poznan\n—
+ ————\n⚽ Lech Poznań v Ferencváros\n🏆 UEFA Europa League —
+  Matchday 6\n🗓 Thu 10 Dec 2026 · 20:00 UTC\n🏟 Stadion Poznan\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليخ بوزنان ضد فيرينتسفاروش
+ ي — الدوري الأوروبي | Tomorrow: Lech Poznań vs Ferencvá
+ ros
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليخ بو
+ زنان × فيرينتسفاروشي | Kick-off in 30 min: Lech Poznań 
+ vs Ferencváros
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112278@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270121T174500Z
+DTEND:20270121T194500Z
+SUMMARY:Ferencváros vs Juventus — UEFA Europa League
+LOCATION:Groupama Arena
+URL:https://www.fotmob.com/match/6112278
+DESCRIPTION:⚽ فيرينتسفاروشي × يوفنتوس\n🏆 الدو
+ ري الأوروبي — الجولة 7\n🗓 الخميس 21 يناير 
+ 2027 · 20:45 بتوقيت الرياض\n🏟 Groupama Arena\n————
+ —\n⚽ Ferencváros v Juventus\n🏆 UEFA Europa League — Matchday 7\n
+ 🗓 Thu 21 Jan 2027 · 17:45 UTC\n🏟 Groupama Arena\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيرينتسفاروشي ضد يوفنتوس 
+ — الدوري الأوروبي | Tomorrow: Ferencváros vs Juventus
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيرين
+ تسفاروشي × يوفنتوس | Kick-off in 30 min: Ferencváros vs J
+ uventus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112351@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Hoffenheim vs Ferencváros — UEFA Europa League
+LOCATION:SNP Arena
+URL:https://www.fotmob.com/match/6112351
+DESCRIPTION:⚽ هوفنهايم × فيرينتسفاروشي\n🏆 الد
+ وري الأوروبي — الجولة 8\n🗓 الخميس 28 يناي
+ ر 2027 · 23:00 بتوقيت الرياض\n🏟 SNP Arena\n————
+ —\n⚽ Hoffenheim v Ferencváros\n🏆 UEFA Europa League — Matchday 8
+ \n🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 SNP Arena\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هوفنهايم ضد فيرينتسفاروشي 
+ — الدوري الأوروبي | Tomorrow: Hoffenheim vs Ferencváros
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هوفنه
+ ايم × فيرينتسفاروشي | Kick-off in 30 min: Hoffenheim vs F
+ erencváros
+END:VALARM
+END:VEVENT
+END:VCALENDAR

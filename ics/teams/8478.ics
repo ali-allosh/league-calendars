@@ -1,0 +1,280 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Viking — UEFA Champions League Fixtures | فيشينغ 
+ ستافانغير — مباريات دوري أبطال أوروبا
+X-WR-CALDESC:Viking — all matches in UEFA Champions League\, exact UTC ki
+ ckoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-0
+ 5T19:31:10Z.  •  فيشينغ ستافانغير — جميع المبا
+ ريات في دوري أبطال أوروبا بتوقيت UTC الدقي
+ ق مع الملاعب والقنوات الناقلة. المصدر: FotM
+ ob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6106400@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260909T164500Z
+DTEND:20260909T184500Z
+SUMMARY:VfB Stuttgart vs Viking — UEFA Champions League
+LOCATION:MHPArena\, Stuttgart\, Germany
+GEO:48.792284;9.232024
+URL:https://www.fotmob.com/match/6106400
+DESCRIPTION:⚽ شتوتجارت × فيشينغ ستافانغير\n🏆 
+ دوري أبطال أوروبا — الجولة 1\n🗓 الأربعاء
+  9 سبتمبر 2026 · 19:45 بتوقيت الرياض\n🏟 MHPArena، S
+ tuttgart\n📺 HBO Max (UK)، Paramount+ (US)\n—————\n⚽ VfB St
+ uttgart v Viking\n🏆 UEFA Champions League — Matchday 1\n🗓 Wed 09 S
+ ep 2026 · 16:45 UTC\n🏟 MHPArena, Stuttgart\n📺 HBO Max (UK), Paramou
+ nt+ (US)\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد فيشينغ ستافانغ
+ ير — دوري أبطال أوروبا — 📺 HBO Max (UK)، Paramoun
+ t+ (US) | Tomorrow: VfB Stuttgart vs Viking | TV: HBO Max (UK)\, Paramount
+ + (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × فيشينغ ستافانغير — 📺 HBO Max (UK)، Paramoun
+ t+ (US) | Kick-off in 30 min: VfB Stuttgart vs Viking | TV: HBO Max (UK)\,
+  Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106417@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Viking vs Bayern München — UEFA Champions League
+LOCATION:Lyse Arena\, Stavanger\, Norway
+GEO:58.914596;5.730926
+URL:https://www.fotmob.com/match/6106417
+DESCRIPTION:⚽ فيشينغ ستافانغير × بايرن ميونخ\n
+ 🏆 دوري أبطال أوروبا — الجولة 2\n🗓 الثلا
+ ثاء 13 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Lyse 
+ Arena، Stavanger\n—————\n⚽ Viking v Bayern München\n🏆 UEF
+ A Champions League — Matchday 2\n🗓 Tue 13 Oct 2026 · 19:00 UTC\n🏟
+  Lyse Arena, Stavanger\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيشينغ ستافانغير ضد بايرن 
+ ميونخ — دوري أبطال أوروبا | Tomorrow: Viking vs Baye
+ rn München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيشين
+ غ ستافانغير × بايرن ميونخ | Kick-off in 30 min: Vikin
+ g vs Bayern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106285@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+SUMMARY:Aston Villa vs Viking — UEFA Champions League
+LOCATION:Villa Park\, Birmingham\, England
+GEO:52.509091;-1.884842
+URL:https://www.fotmob.com/match/6106285
+DESCRIPTION:⚽ أستون فيلا × فيشينغ ستافانغير\n
+ 🏆 دوري أبطال أوروبا — الجولة 3\n🗓 الأرب
+ عاء 21 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Villa
+  Park، Birmingham\n—————\n⚽ Aston Villa v Viking\n🏆 UEFA C
+ hampions League — Matchday 3\n🗓 Wed 21 Oct 2026 · 19:00 UTC\n🏟 Vi
+ lla Park, Birmingham\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد فيشينغ ستافا
+ نغير — دوري أبطال أوروبا | Tomorrow: Aston Villa vs V
+ iking
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × فيشينغ ستافانغير | Kick-off in 30 min: Aston Vi
+ lla vs Viking
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106420@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+SUMMARY:Viking vs Sabah FK — UEFA Champions League
+LOCATION:Lyse Arena
+URL:https://www.fotmob.com/match/6106420
+DESCRIPTION:⚽ فيشينغ ستافانغير × صباح\n🏆 دوري 
+ أبطال أوروبا — الجولة 4\n🗓 الأربعاء 4 نوف
+ مبر 2026 · 23:00 بتوقيت الرياض\n🏟 Lyse Arena\n———
+ ——\n⚽ Viking v Sabah FK\n🏆 UEFA Champions League — Matchday 4\n
+ 🗓 Wed 04 Nov 2026 · 20:00 UTC\n🏟 Lyse Arena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيشينغ ستافانغير ضد صباح —
+  دوري أبطال أوروبا | Tomorrow: Viking vs Sabah FK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيشين
+ غ ستافانغير × صباح | Kick-off in 30 min: Viking vs Sabah FK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106269@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Atlético Madrid vs Viking — UEFA Champions League
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/6106269
+DESCRIPTION:⚽ أتلتيكو مدريد × فيشينغ ستافانغي
+ ر\n🏆 دوري أبطال أوروبا — الجولة 5\n🗓 الأ
+ ربعاء 25 نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 R
+ iyadh Air Metropolitano\n—————\n⚽ Atlético Madrid v Viking\n
+ 🏆 UEFA Champions League — Matchday 5\n🗓 Wed 25 Nov 2026 · 20:00 U
+ TC\n🏟 Riyadh Air Metropolitano\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد فيشينغ ست
+ افانغير — دوري أبطال أوروبا | Tomorrow: Atlético 
+ Madrid vs Viking
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × فيشينغ ستافانغير | Kick-off in 30 min: A
+ tlético Madrid vs Viking
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106419@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261208T174500Z
+DTEND:20261208T194500Z
+SUMMARY:Viking vs Feyenoord — UEFA Champions League
+LOCATION:Lyse Arena
+URL:https://www.fotmob.com/match/6106419
+DESCRIPTION:⚽ فيشينغ ستافانغير × فاينورد\n🏆 د
+ وري أبطال أوروبا — الجولة 6\n🗓 الثلاثاء 8
+  ديسمبر 2026 · 20:45 بتوقيت الرياض\n🏟 Lyse Arena\n
+ —————\n⚽ Viking v Feyenoord\n🏆 UEFA Champions League — Ma
+ tchday 6\n🗓 Tue 08 Dec 2026 · 17:45 UTC\n🏟 Lyse Arena\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيشينغ ستافانغير ضد فاينور
+ د — دوري أبطال أوروبا | Tomorrow: Viking vs Feyenoord
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيشين
+ غ ستافانغير × فاينورد | Kick-off in 30 min: Viking vs Fe
+ yenoord
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106418@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+SUMMARY:Viking vs PSV Eindhoven — UEFA Champions League
+LOCATION:Lyse Arena
+URL:https://www.fotmob.com/match/6106418
+DESCRIPTION:⚽ فيشينغ ستافانغير × آيندهوفن\n🏆 
+ دوري أبطال أوروبا — الجولة 7\n🗓 الأربعاء
+  20 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Lyse Arena\n
+ —————\n⚽ Viking v PSV Eindhoven\n🏆 UEFA Champions League 
+ — Matchday 7\n🗓 Wed 20 Jan 2027 · 20:00 UTC\n🏟 Lyse Arena\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيشينغ ستافانغير ضد آيندهو
+ فن — دوري أبطال أوروبا | Tomorrow: Viking vs PSV Eindho
+ ven
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيشين
+ غ ستافانغير × آيندهوفن | Kick-off in 30 min: Viking vs 
+ PSV Eindhoven
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106321@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Napoli vs Viking — UEFA Champions League
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/6106321
+DESCRIPTION:⚽ نابولي × فيشينغ ستافانغير\n🏆 دو
+ ري أبطال أوروبا — الجولة 8\n🗓 الأربعاء 27 
+ يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Diego Armando Mar
+ adona\n—————\n⚽ Napoli v Viking\n🏆 UEFA Champions League 
+ — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Diego Armando Mara
+ dona\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد فيشينغ ستافانغير
+  — دوري أبطال أوروبا | Tomorrow: Napoli vs Viking
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × فيشينغ ستافانغير | Kick-off in 30 min: Napoli vs Viki
+ ng
+END:VALARM
+END:VEVENT
+END:VCALENDAR

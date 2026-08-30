@@ -1,0 +1,150 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Burgos CF — Copa del Rey Fixtures | بورغوس — م
+ باريات كأس ملك إسبانيا
+X-WR-CALDESC:Burgos CF — all matches in Copa del Rey\, exact UTC kickoffs
+ \, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:3
+ 1:10Z.  •  بورغوس — جميع المباريات في كأس مل
+ ك إسبانيا بتوقيت UTC الدقيق مع الملاعب وال
+ قنوات الناقلة. المصدر: FotMob + 365scores · تحديث 
+ تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4995993@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251028T180000Z
+DTEND:20251028T200000Z
+SUMMARY:Atlético Tordesillas vs Burgos CF (1 - 2) — Copa del Rey
+LOCATION:Estadio Las Salinas\, Tordesillas\, Spain
+GEO:41.488223;-4.999750
+URL:https://www.fotmob.com/match/4995993
+DESCRIPTION:⚽ Atlético Tordesillas × بورغوس (1 - 2)\n🏆 كأس 
+ ملك إسبانيا — الدور الأول\n🗓 الثلاثاء 28 
+ أكتوبر 2025 · 21:00 بتوقيت الرياض\n🏟 Estadio Las Sal
+ inas، Tordesillas\n⚖️ الحكم: Eder Mallo Fernández\n————
+ —\n⚽ Atlético Tordesillas v Burgos CF (1 - 2)\n🏆 Copa del Rey — 
+ Round 1\n🗓 Tue 28 Oct 2025 · 18:00 UTC\n🏟 Estadio Las Salinas, Tord
+ esillas\nReferee: Eder Mallo Fernández\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Atlético Tordesillas ضد بورغوس — كأ
+ س ملك إسبانيا | Tomorrow: Atlético Tordesillas vs Burgos CF
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Atlético T
+ ordesillas × بورغوس | Kick-off in 30 min: Atlético Tordesillas vs 
+ Burgos CF
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057237@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251204T200000Z
+DTEND:20251204T220000Z
+SUMMARY:Real Zaragoza vs Burgos CF (0 - 1) — Copa del Rey
+LOCATION:Ibercaja Estadio\, Zaragoza\, Spain
+GEO:41.684111;-0.895763
+URL:https://www.fotmob.com/match/5057237
+DESCRIPTION:⚽ ريال سرقسطة × بورغوس (0 - 1)\n🏆 كأس 
+ ملك إسبانيا — الدور الثاني\n🗓 الخميس 4 د
+ يسمبر 2025 · 23:00 بتوقيت الرياض\n🏟 Ibercaja Estadio
+ ، Zaragoza\n👥 الحضور: 7,051\n—————\n⚽ Real Zaragoza 
+ v Burgos CF (0 - 1)\n🏆 Copa del Rey — Round 2\n🗓 Thu 04 Dec 2025 
+ · 20:00 UTC\n🏟 Ibercaja Estadio, Zaragoza\nAttendance: 7,051\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سرقسطة ضد بورغوس — كأ
+ س ملك إسبانيا | Tomorrow: Real Zaragoza vs Burgos CF
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ رقسطة × بورغوس | Kick-off in 30 min: Real Zaragoza vs Burgos C
+ F
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5091457@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251218T180000Z
+DTEND:20251218T200000Z
+SUMMARY:Burgos CF vs Getafe (3 - 1) — Copa del Rey
+LOCATION:Estadio Municipal de El Plantío\, Burgos\, Spain
+GEO:42.344266;-3.680600
+URL:https://www.fotmob.com/match/5091457
+DESCRIPTION:⚽ بورغوس × خيتافي (3 - 1)\n🏆 كأس ملك إ
+ سبانيا — دور الـ32\n🗓 الخميس 18 ديسمبر 2025 
+ · 21:00 بتوقيت الرياض\n🏟 Estadio Municipal de El Plantío
+ ، Burgos\n👥 الحضور: 7,987\n—————\n⚽ Burgos CF v Geta
+ fe (3 - 1)\n🏆 Copa del Rey — Round of 32\n🗓 Thu 18 Dec 2025 · 18:
+ 00 UTC\n🏟 Estadio Municipal de El Plantío, Burgos\nAttendance: 7,987\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورغوس ضد خيتافي — كأس ملك 
+ إسبانيا | Tomorrow: Burgos CF vs Getafe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورغو
+ س × خيتافي | Kick-off in 30 min: Burgos CF vs Getafe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5125323@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260115T200000Z
+DTEND:20260115T220000Z
+SUMMARY:Burgos CF vs Valencia (0 - 2) — Copa del Rey
+LOCATION:Estadio Municipal de El Plantío\, Burgos\, Spain
+GEO:42.344266;-3.680600
+URL:https://www.fotmob.com/match/5125323
+DESCRIPTION:⚽ بورغوس × فالنسيا (0 - 2)\n🏆 كأس ملك 
+ إسبانيا — دور الـ16\n🗓 الخميس 15 يناير 2026 
+ · 23:00 بتوقيت الرياض\n🏟 Estadio Municipal de El Plantío
+ ، Burgos\n👥 الحضور: 9,405\n—————\n⚽ Burgos CF v Vale
+ ncia (0 - 2)\n🏆 Copa del Rey — Round of 16\n🗓 Thu 15 Jan 2026 · 2
+ 0:00 UTC\n🏟 Estadio Municipal de El Plantío, Burgos\nAttendance: 9,405
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورغوس ضد فالنسيا — كأس مل
+ ك إسبانيا | Tomorrow: Burgos CF vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورغو
+ س × فالنسيا | Kick-off in 30 min: Burgos CF vs Valencia
+END:VALARM
+END:VEVENT
+END:VCALENDAR

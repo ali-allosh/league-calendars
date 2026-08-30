@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Ebro — Copa del Rey Fixtures | إيبرو — مباري
+ ات كأس ملك إسبانيا
+X-WR-CALDESC:Ebro — all matches in Copa del Rey\, exact UTC kickoffs\, st
+ adiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10Z
+ .  •  إيبرو — جميع المباريات في كأس ملك إس
+ بانيا بتوقيت UTC الدقيق مع الملاعب والقنو
+ ات الناقلة. المصدر: FotMob + 365scores · تحديث تلق
+ ائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4996013@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251029T180000Z
+DTEND:20251029T200000Z
+SUMMARY:Ebro vs SD Tarazona (1 - 1) — Copa del Rey
+LOCATION:Estadio Pedro Sancho\, Zaragoza\, Spain
+GEO:41.682870;-0.891475
+URL:https://www.fotmob.com/match/4996013
+DESCRIPTION:⚽ إيبرو × تارازونا (1 - 1)\n🏆 كأس ملك 
+ إسبانيا — الدور الأول\n🗓 الأربعاء 29 أكت
+ وبر 2025 · 21:00 بتوقيت الرياض\n🏟 Estadio Pedro Sancho
+ ، Zaragoza\n⚖️ الحكم: Pol Arenas Mora\n—————\n⚽ Ebro
+  v SD Tarazona (1 - 1)\n🏆 Copa del Rey — Round 1\n🗓 Wed 29 Oct 202
+ 5 · 18:00 UTC\n🏟 Estadio Pedro Sancho, Zaragoza\nReferee: Pol Arenas M
+ ora\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيبرو ضد تارازونا — كأس مل
+ ك إسبانيا | Tomorrow: Ebro vs SD Tarazona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيبرو 
+ × تارازونا | Kick-off in 30 min: Ebro vs SD Tarazona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057218@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251202T180000Z
+DTEND:20251202T200000Z
+SUMMARY:Ebro vs Osasuna (3 - 5) — Copa del Rey
+LOCATION:Ibercaja Estadio\, Zaragoza\, Spain
+GEO:41.684111;-0.895763
+URL:https://www.fotmob.com/match/5057218
+DESCRIPTION:⚽ إيبرو × أوساسونا (3 - 5)\n🏆 كأس ملك 
+ إسبانيا — الدور الثاني\n🗓 الثلاثاء 2 ديس
+ مبر 2025 · 21:00 بتوقيت الرياض\n🏟 Ibercaja Estadio، Za
+ ragoza\n👥 الحضور: 3,488\n—————\n⚽ Ebro v Osasuna (3 -
+  5)\n🏆 Copa del Rey — Round 2\n🗓 Tue 02 Dec 2025 · 18:00 UTC\n
+ 🏟 Ibercaja Estadio, Zaragoza\nAttendance: 3,488\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيبرو ضد أوساسونا — كأس مل
+ ك إسبانيا | Tomorrow: Ebro vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيبرو 
+ × أوساسونا | Kick-off in 30 min: Ebro vs Osasuna
+END:VALARM
+END:VEVENT
+END:VCALENDAR

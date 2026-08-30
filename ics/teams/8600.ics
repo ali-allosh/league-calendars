@@ -1,0 +1,1265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Udinese — Serie A & Coppa Italia Fixtures | أوديني
+ زي — مباريات الدوري الإيطالي وكأس إيطال
+ يا
+X-WR-CALDESC:Udinese — all matches in Serie A & Coppa Italia\, exact UTC 
+ kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09
+ -05T19:31:10Z.  •  أودينيزي — جميع المباريات في
+  الدوري الإيطالي وكأس إيطاليا بتوقيت UTC ا
+ لدقيق مع الملاعب والقنوات الناقلة. المصد
+ ر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5749648@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T163000Z
+DTEND:20260822T183000Z
+SUMMARY:Udinese vs Como (1 - 1) — Serie A
+LOCATION:Bluenergy Stadium\, Udine\, Italy
+GEO:46.081644;13.200063
+URL:https://www.fotmob.com/match/5749648
+DESCRIPTION:⚽ أودينيزي × كومو (1 - 1)\n🏆 الدوري ا
+ لإيطالي — الجولة 1\n🗓 السبت 22 أغسطس 2026 · 1
+ 9:30 بتوقيت الرياض\n🏟 Bluenergy Stadium، Udine\n⚖️ ا
+ لحكم: Alberto Arena\n👥 الحضور: 23,239\n—————\n⚽ U
+ dinese v Como (1 - 1)\n🏆 Serie A — Matchday 1\n🗓 Sat 22 Aug 2026 
+ · 16:30 UTC\n🏟 Bluenergy Stadium, Udine\nReferee: Alberto Arena\nAtten
+ dance: 23,239\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد كومو — الدوري 
+ الإيطالي | Tomorrow: Udinese vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × كومو | Kick-off in 30 min: Udinese vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749657@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T163000Z
+DTEND:20260829T183000Z
+SUMMARY:Monza vs Udinese (2 - 3) — Serie A
+LOCATION:U-Power Stadium\, Monza\, Italy
+GEO:45.583064;9.308116
+URL:https://www.fotmob.com/match/5749657
+DESCRIPTION:⚽ مونزا × أودينيزي (2 - 3)\n🏆 الدوري 
+ الإيطالي — الجولة 2\n🗓 السبت 29 أغسطس 2026 ·
+  19:30 بتوقيت الرياض\n🏟 U-Power Stadium، Monza\n⚖️ ا
+ لحكم: Claudio Giuseppe Allegretta\n👥 الحضور: 10,311\n——
+ ———\n⚽ Monza v Udinese (2 - 3)\n🏆 Serie A — Matchday 2\n🗓 
+ Sat 29 Aug 2026 · 16:30 UTC\n🏟 U-Power Stadium, Monza\nReferee: Claudi
+ o Giuseppe Allegretta\nAttendance: 10,311\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد أودينيزي — الدوري
+  الإيطالي | Tomorrow: Monza vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × أودينيزي | Kick-off in 30 min: Monza vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749669@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260907T184500Z
+DTEND:20260907T204500Z
+SUMMARY:Udinese vs Lazio — Serie A
+LOCATION:Bluenergy Stadium\, Udine\, Italy
+GEO:46.081644;13.200063
+URL:https://www.fotmob.com/match/5749669
+DESCRIPTION:⚽ أودينيزي × لاتسيو\n🏆 الدوري الإ
+ يطالي — الجولة 3\n🗓 الاثنين 7 سبتمبر 2026 · 
+ 21:45 بتوقيت الرياض\n🏟 Bluenergy Stadium، Udine\n📺 Star
+ zplay\n—————\n⚽ Udinese v Lazio\n🏆 Serie A — Matchday 3\n
+ 🗓 Mon 07 Sep 2026 · 18:45 UTC\n🏟 Bluenergy Stadium, Udine\n📺 Sta
+ rzplay\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد لاتسيو — الدور
+ ي الإيطالي — 📺 Starzplay | Tomorrow: Udinese vs Lazio | TV: 
+ Starzplay
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × لاتسيو — 📺 Starzplay | Kick-off in 30 min: Udinese vs
+  Lazio | TV: Starzplay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749673@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260914T184500Z
+DTEND:20260914T204500Z
+SUMMARY:Inter vs Udinese — Serie A
+LOCATION:Stadio Giuseppe Meazza\, Milano\, Italy
+GEO:45.478084;9.123979
+URL:https://www.fotmob.com/match/5749673
+DESCRIPTION:⚽ إنتر ميلان × أودينيزي\n🏆 الدوري 
+ الإيطالي — الجولة 4\n🗓 الاثنين 14 سبتمبر 2
+ 026 · 21:45 بتوقيت الرياض\n🏟 Stadio Giuseppe Meazza، Mila
+ no\n—————\n⚽ Inter v Udinese\n🏆 Serie A — Matchday 4\n
+ 🗓 Mon 14 Sep 2026 · 18:45 UTC\n🏟 Stadio Giuseppe Meazza, Milano\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد أودينيزي — ا
+ لدوري الإيطالي | Tomorrow: Inter vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × أودينيزي | Kick-off in 30 min: Inter vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749688@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T130000Z
+DTEND:20260919T150000Z
+SUMMARY:Udinese vs Cagliari — Serie A
+LOCATION:Bluenergy Stadium\, Udine\, Italy
+GEO:46.081644;13.200063
+URL:https://www.fotmob.com/match/5749688
+DESCRIPTION:⚽ أودينيزي × كالياري\n🏆 الدوري ال
+ إيطالي — الجولة 5\n🗓 السبت 19 سبتمبر 2026 · 1
+ 6:00 بتوقيت الرياض\n🏟 Bluenergy Stadium، Udine\n———
+ ——\n⚽ Udinese v Cagliari\n🏆 Serie A — Matchday 5\n🗓 Sat 19 S
+ ep 2026 · 13:00 UTC\n🏟 Bluenergy Stadium, Udine\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد كالياري — الدو
+ ري الإيطالي | Tomorrow: Udinese vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × كالياري | Kick-off in 30 min: Udinese vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749699@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261012T184500Z
+DTEND:20261012T204500Z
+SUMMARY:Torino vs Udinese — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749699
+DESCRIPTION:⚽ تورينو × أودينيزي\n🏆 الدوري الإ
+ يطالي — الجولة 6\n🗓 الاثنين 12 أكتوبر 2026 ·
+  21:45 بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n—
+ ————\n⚽ Torino v Udinese\n🏆 Serie A — Matchday 6\n🗓 Mon 
+ 12 Oct 2026 · 18:45 UTC\n🏟 Stadio Olimpico Grande Torino\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد أودينيزي — الدور
+ ي الإيطالي | Tomorrow: Torino vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × أودينيزي | Kick-off in 30 min: Torino vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749708@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T103000Z
+DTEND:20261018T123000Z
+SUMMARY:Udinese vs Lecce — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749708
+DESCRIPTION:⚽ أودينيزي × ليتشي\n🏆 الدوري الإي
+ طالي — الجولة 7\n🗓 الأحد 18 أكتوبر 2026 · 13:30
+  بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n——
+ ———\n⚽ Udinese v Lecce\n🏆 Serie A — Matchday 7\n🗓 Sun 18 O
+ ct 2026 · 10:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد ليتشي — الدوري
+  الإيطالي | Tomorrow: Udinese vs Lecce
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × ليتشي | Kick-off in 30 min: Udinese vs Lecce
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749719@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T194500Z
+DTEND:20261025T214500Z
+SUMMARY:Udinese vs Milan — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749719
+DESCRIPTION:⚽ أودينيزي × ميلان\n🏆 الدوري الإي
+ طالي — الجولة 8\n🗓 الأحد 25 أكتوبر 2026 · 22:45
+  بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n——
+ ———\n⚽ Udinese v Milan\n🏆 Serie A — Matchday 8\n🗓 Sun 25 O
+ ct 2026 · 19:45 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد ميلان — الدوري
+  الإيطالي | Tomorrow: Udinese vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × ميلان | Kick-off in 30 min: Udinese vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749726@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261028T173000Z
+DTEND:20261028T193000Z
+SUMMARY:Parma vs Udinese — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749726
+DESCRIPTION:⚽ بارما × أودينيزي\n🏆 الدوري الإي
+ طالي — الجولة 9\n🗓 الأربعاء 28 أكتوبر 2026 ·
+  20:30 بتوقيت الرياض\n🏟 Stadio Ennio Tardini\n————
+ —\n⚽ Parma v Udinese\n🏆 Serie A — Matchday 9\n🗓 Wed 28 Oct 202
+ 6 · 17:30 UTC\n🏟 Stadio Ennio Tardini\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد أودينيزي — الدوري
+  الإيطالي | Tomorrow: Parma vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × أودينيزي | Kick-off in 30 min: Parma vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749739@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T170000Z
+DTEND:20261031T190000Z
+SUMMARY:Udinese vs Roma — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749739
+DESCRIPTION:⚽ أودينيزي × روما\n🏆 الدوري الإيط
+ الي — الجولة 10\n🗓 السبت 31 أكتوبر 2026 · 20:00 
+ بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n——
+ ———\n⚽ Udinese v Roma\n🏆 Serie A — Matchday 10\n🗓 Sat 31 O
+ ct 2026 · 17:00 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد روما — الدوري 
+ الإيطالي | Tomorrow: Udinese vs Roma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × روما | Kick-off in 30 min: Udinese vs Roma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749749@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261106T194500Z
+DTEND:20261106T214500Z
+SUMMARY:Venezia vs Udinese — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749749
+DESCRIPTION:⚽ فينيزيا × أودينيزي\n🏆 الدوري ال
+ إيطالي — الجولة 11\n🗓 الجمعة 6 نوفمبر 2026 ·
+  22:45 بتوقيت الرياض\n🏟 Stadio Pierluigi Penzo\n———
+ ——\n⚽ Venezia v Udinese\n🏆 Serie A — Matchday 11\n🗓 Fri 06 N
+ ov 2026 · 19:45 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد أودينيزي — الدو
+ ري الإيطالي | Tomorrow: Venezia vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × أودينيزي | Kick-off in 30 min: Venezia vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749752@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T170000Z
+DTEND:20261122T190000Z
+SUMMARY:Bologna vs Udinese — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749752
+DESCRIPTION:⚽ بولونيا × أودينيزي\n🏆 الدوري ال
+ إيطالي — الجولة 12\n🗓 الأحد 22 نوفمبر 2026 · 
+ 20:00 بتوقيت الرياض\n🏟 Stadio Renato Dell'Ara\n————
+ —\n⚽ Bologna v Udinese\n🏆 Serie A — Matchday 12\n🗓 Sun 22 Nov 
+ 2026 · 17:00 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد أودينيزي — الدو
+ ري الإيطالي | Tomorrow: Bologna vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × أودينيزي | Kick-off in 30 min: Bologna vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749768@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T173000Z
+DTEND:20261129T193000Z
+SUMMARY:Udinese vs Fiorentina — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749768
+DESCRIPTION:⚽ أودينيزي × فيورنتينا\n🏆 الدوري 
+ الإيطالي — الجولة 13\n🗓 الأحد 29 نوفمبر 2026
+  · 20:30 بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friul
+ i\n—————\n⚽ Udinese v Fiorentina\n🏆 Serie A — Matchday 13
+ \n🗓 Sun 29 Nov 2026 · 17:30 UTC\n🏟 Bluenergy Stadium - Stadio Friul
+ i\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد فيورنتينا — ال
+ دوري الإيطالي | Tomorrow: Udinese vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × فيورنتينا | Kick-off in 30 min: Udinese vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749775@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T173000Z
+DTEND:20261206T193000Z
+SUMMARY:Juventus vs Udinese — Serie A
+LOCATION:Allianz Stadium
+URL:https://www.fotmob.com/match/5749775
+DESCRIPTION:⚽ يوفنتوس × أودينيزي\n🏆 الدوري ال
+ إيطالي — الجولة 14\n🗓 الأحد 6 ديسمبر 2026 · 2
+ 0:30 بتوقيت الرياض\n🏟 Allianz Stadium\n—————\n⚽
+  Juventus v Udinese\n🏆 Serie A — Matchday 14\n🗓 Sun 06 Dec 2026 ·
+  17:30 UTC\n🏟 Allianz Stadium\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد أودينيزي — الدو
+ ري الإيطالي | Tomorrow: Juventus vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × أودينيزي | Kick-off in 30 min: Juventus vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749789@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T173000Z
+DTEND:20261213T193000Z
+SUMMARY:Udinese vs Frosinone — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749789
+DESCRIPTION:⚽ أودينيزي × فروزينوني\n🏆 الدوري 
+ الإيطالي — الجولة 15\n🗓 الأحد 13 ديسمبر 2026
+  · 20:30 بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friul
+ i\n—————\n⚽ Udinese v Frosinone\n🏆 Serie A — Matchday 15\
+ n🗓 Sun 13 Dec 2026 · 17:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد فروزينوني — ال
+ دوري الإيطالي | Tomorrow: Udinese vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × فروزينوني | Kick-off in 30 min: Udinese vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749795@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T173000Z
+DTEND:20261220T193000Z
+SUMMARY:Genoa vs Udinese — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749795
+DESCRIPTION:⚽ جنوى × أودينيزي\n🏆 الدوري الإيط
+ الي — الجولة 16\n🗓 الأحد 20 ديسمبر 2026 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n
+ ⚽ Genoa v Udinese\n🏆 Serie A — Matchday 16\n🗓 Sun 20 Dec 2026 ·
+  17:30 UTC\n🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد أودينيزي — الدوري 
+ الإيطالي | Tomorrow: Genoa vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  أودينيزي | Kick-off in 30 min: Genoa vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749809@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T173000Z
+DTEND:20270103T193000Z
+SUMMARY:Udinese vs Atalanta — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749809
+DESCRIPTION:⚽ أودينيزي × أتالانتا\n🏆 الدوري ا
+ لإيطالي — الجولة 17\n🗓 الأحد 3 يناير 2027 · 2
+ 0:30 بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n
+ —————\n⚽ Udinese v Atalanta\n🏆 Serie A — Matchday 17\n
+ 🗓 Sun 03 Jan 2027 · 17:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد أتالانتا — الد
+ وري الإيطالي | Tomorrow: Udinese vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × أتالانتا | Kick-off in 30 min: Udinese vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749818@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T173000Z
+DTEND:20270106T193000Z
+SUMMARY:Sassuolo vs Udinese — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749818
+DESCRIPTION:⚽ ساسولو × أودينيزي\n🏆 الدوري الإ
+ يطالي — الجولة 18\n🗓 الأربعاء 6 يناير 2027 ·
+  20:30 بتوقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\
+ n—————\n⚽ Sassuolo v Udinese\n🏆 Serie A — Matchday 18\n
+ 🗓 Wed 06 Jan 2027 · 17:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد أودينيزي — الدور
+ ي الإيطالي | Tomorrow: Sassuolo vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × أودينيزي | Kick-off in 30 min: Sassuolo vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749829@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T173000Z
+DTEND:20270110T193000Z
+SUMMARY:Udinese vs Napoli — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749829
+DESCRIPTION:⚽ أودينيزي × نابولي\n🏆 الدوري الإ
+ يطالي — الجولة 19\n🗓 الأحد 10 يناير 2027 · 20:3
+ 0 بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n—
+ ————\n⚽ Udinese v Napoli\n🏆 Serie A — Matchday 19\n🗓 Sun
+  10 Jan 2027 · 17:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد نابولي — الدور
+ ي الإيطالي | Tomorrow: Udinese vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × نابولي | Kick-off in 30 min: Udinese vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749835@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T173000Z
+DTEND:20270117T193000Z
+SUMMARY:Lecce vs Udinese — Serie A
+LOCATION:Stadio Ettore Giardiniero - Via del Mare
+URL:https://www.fotmob.com/match/5749835
+DESCRIPTION:⚽ ليتشي × أودينيزي\n🏆 الدوري الإي
+ طالي — الجولة 20\n🗓 الأحد 17 يناير 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Ettore Giardiniero - Via del Mare\n
+ —————\n⚽ Lecce v Udinese\n🏆 Serie A — Matchday 20\n🗓 S
+ un 17 Jan 2027 · 17:30 UTC\n🏟 Stadio Ettore Giardiniero - Via del Mare
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليتشي ضد أودينيزي — الدوري
+  الإيطالي | Tomorrow: Lecce vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليتشي 
+ × أودينيزي | Kick-off in 30 min: Lecce vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749840@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T173000Z
+DTEND:20270124T193000Z
+SUMMARY:Roma vs Udinese — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749840
+DESCRIPTION:⚽ روما × أودينيزي\n🏆 الدوري الإيط
+ الي — الجولة 21\n🗓 الأحد 24 يناير 2027 · 20:30 ب
+ توقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ 
+ Roma v Udinese\n🏆 Serie A — Matchday 21\n🗓 Sun 24 Jan 2027 · 17:3
+ 0 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد أودينيزي — الدوري 
+ الإيطالي | Tomorrow: Roma vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  أودينيزي | Kick-off in 30 min: Roma vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749859@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T173000Z
+DTEND:20270131T193000Z
+SUMMARY:Udinese vs Bologna — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749859
+DESCRIPTION:⚽ أودينيزي × بولونيا\n🏆 الدوري ال
+ إيطالي — الجولة 22\n🗓 الأحد 31 يناير 2027 · 20
+ :30 بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n—
+ ————\n⚽ Udinese v Bologna\n🏆 Serie A — Matchday 22\n🗓 Su
+ n 31 Jan 2027 · 17:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد بولونيا — الدو
+ ري الإيطالي | Tomorrow: Udinese vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × بولونيا | Kick-off in 30 min: Udinese vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749864@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T173000Z
+DTEND:20270207T193000Z
+SUMMARY:Fiorentina vs Udinese — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749864
+DESCRIPTION:⚽ فيورنتينا × أودينيزي\n🏆 الدوري 
+ الإيطالي — الجولة 23\n🗓 الأحد 7 فبراير 2027 
+ · 20:30 بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n——
+ ———\n⚽ Fiorentina v Udinese\n🏆 Serie A — Matchday 23\n🗓 Su
+ n 07 Feb 2027 · 17:30 UTC\n🏟 Artemio Franchi, Firenze\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد أودينيزي — ال
+ دوري الإيطالي | Tomorrow: Fiorentina vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × أودينيزي | Kick-off in 30 min: Fiorentina vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749879@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T173000Z
+DTEND:20270214T193000Z
+SUMMARY:Udinese vs Venezia — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749879
+DESCRIPTION:⚽ أودينيزي × فينيزيا\n🏆 الدوري ال
+ إيطالي — الجولة 24\n🗓 الأحد 14 فبراير 2027 · 
+ 20:30 بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n
+ —————\n⚽ Udinese v Venezia\n🏆 Serie A — Matchday 24\n🗓
+  Sun 14 Feb 2027 · 17:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد فينيزيا — الدو
+ ري الإيطالي | Tomorrow: Udinese vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × فينيزيا | Kick-off in 30 min: Udinese vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749888@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T173000Z
+DTEND:20270221T193000Z
+SUMMARY:Udinese vs Parma — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749888
+DESCRIPTION:⚽ أودينيزي × بارما\n🏆 الدوري الإي
+ طالي — الجولة 25\n🗓 الأحد 21 فبراير 2027 · 20:3
+ 0 بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n—
+ ————\n⚽ Udinese v Parma\n🏆 Serie A — Matchday 25\n🗓 Sun 
+ 21 Feb 2027 · 17:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد بارما — الدوري
+  الإيطالي | Tomorrow: Udinese vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × بارما | Kick-off in 30 min: Udinese vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749892@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T173000Z
+DTEND:20270228T193000Z
+SUMMARY:Cagliari vs Udinese — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749892
+DESCRIPTION:⚽ كالياري × أودينيزي\n🏆 الدوري ال
+ إيطالي — الجولة 26\n🗓 الأحد 28 فبراير 2027 · 
+ 20:30 بتوقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ C
+ agliari v Udinese\n🏆 Serie A — Matchday 26\n🗓 Sun 28 Feb 2027 · 1
+ 7:30 UTC\n🏟 Unipol Domus\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد أودينيزي — الدو
+ ري الإيطالي | Tomorrow: Cagliari vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × أودينيزي | Kick-off in 30 min: Cagliari vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749909@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T173000Z
+DTEND:20270307T193000Z
+SUMMARY:Udinese vs Inter — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749909
+DESCRIPTION:⚽ أودينيزي × إنتر ميلان\n🏆 الدوري 
+ الإيطالي — الجولة 27\n🗓 الأحد 7 مارس 2027 · 2
+ 0:30 بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n
+ —————\n⚽ Udinese v Inter\n🏆 Serie A — Matchday 27\n🗓 S
+ un 07 Mar 2027 · 17:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد إنتر ميلان — ا
+ لدوري الإيطالي | Tomorrow: Udinese vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × إنتر ميلان | Kick-off in 30 min: Udinese vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749913@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T173000Z
+DTEND:20270314T193000Z
+SUMMARY:Como vs Udinese — Serie A
+LOCATION:Stadio G. Sinigaglia
+URL:https://www.fotmob.com/match/5749913
+DESCRIPTION:⚽ كومو × أودينيزي\n🏆 الدوري الإيط
+ الي — الجولة 28\n🗓 الأحد 14 مارس 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Stadio G. Sinigaglia\n—————\n⚽ Com
+ o v Udinese\n🏆 Serie A — Matchday 28\n🗓 Sun 14 Mar 2027 · 17:30 U
+ TC\n🏟 Stadio G. Sinigaglia\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كومو ضد أودينيزي — الدوري 
+ الإيطالي | Tomorrow: Como vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كومو ×
+  أودينيزي | Kick-off in 30 min: Como vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749929@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T173000Z
+DTEND:20270321T193000Z
+SUMMARY:Udinese vs Torino — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749929
+DESCRIPTION:⚽ أودينيزي × تورينو\n🏆 الدوري الإ
+ يطالي — الجولة 29\n🗓 الأحد 21 مارس 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n——
+ ———\n⚽ Udinese v Torino\n🏆 Serie A — Matchday 29\n🗓 Sun 21
+  Mar 2027 · 17:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد تورينو — الدور
+ ي الإيطالي | Tomorrow: Udinese vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × تورينو | Kick-off in 30 min: Udinese vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749934@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T163000Z
+DTEND:20270404T183000Z
+SUMMARY:Frosinone vs Udinese — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749934
+DESCRIPTION:⚽ فروزينوني × أودينيزي\n🏆 الدوري 
+ الإيطالي — الجولة 30\n🗓 الأحد 4 أبريل 2027 ·
+  19:30 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n————
+ —\n⚽ Frosinone v Udinese\n🏆 Serie A — Matchday 30\n🗓 Sun 04 Ap
+ r 2027 · 16:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد أودينيزي — ال
+ دوري الإيطالي | Tomorrow: Frosinone vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × أودينيزي | Kick-off in 30 min: Frosinone vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749949@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T163000Z
+DTEND:20270411T183000Z
+SUMMARY:Udinese vs Monza — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749949
+DESCRIPTION:⚽ أودينيزي × مونزا\n🏆 الدوري الإي
+ طالي — الجولة 31\n🗓 الأحد 11 أبريل 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n——
+ ———\n⚽ Udinese v Monza\n🏆 Serie A — Matchday 31\n🗓 Sun 11 
+ Apr 2027 · 16:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد مونزا — الدوري
+  الإيطالي | Tomorrow: Udinese vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × مونزا | Kick-off in 30 min: Udinese vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749952@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T163000Z
+DTEND:20270418T183000Z
+SUMMARY:Atalanta vs Udinese — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749952
+DESCRIPTION:⚽ أتالانتا × أودينيزي\n🏆 الدوري ا
+ لإيطالي — الجولة 32\n🗓 الأحد 18 أبريل 2027 · 
+ 19:30 بتوقيت الرياض\n🏟 New Balance Arena\n—————\n
+ ⚽ Atalanta v Udinese\n🏆 Serie A — Matchday 32\n🗓 Sun 18 Apr 2027
+  · 16:30 UTC\n🏟 New Balance Arena\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد أودينيزي — الد
+ وري الإيطالي | Tomorrow: Atalanta vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × أودينيزي | Kick-off in 30 min: Atalanta vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749967@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270425T163000Z
+DTEND:20270425T183000Z
+SUMMARY:Napoli vs Udinese — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749967
+DESCRIPTION:⚽ نابولي × أودينيزي\n🏆 الدوري الإ
+ يطالي — الجولة 33\n🗓 الأحد 25 أبريل 2027 · 19:3
+ 0 بتوقيت الرياض\n🏟 Diego Armando Maradona\n—————\
+ n⚽ Napoli v Udinese\n🏆 Serie A — Matchday 33\n🗓 Sun 25 Apr 2027 
+ · 16:30 UTC\n🏟 Diego Armando Maradona\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد أودينيزي — الدور
+ ي الإيطالي | Tomorrow: Napoli vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × أودينيزي | Kick-off in 30 min: Napoli vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749979@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T163000Z
+DTEND:20270502T183000Z
+SUMMARY:Udinese vs Genoa — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749979
+DESCRIPTION:⚽ أودينيزي × جنوى\n🏆 الدوري الإيط
+ الي — الجولة 34\n🗓 الأحد 2 مايو 2027 · 19:30 بت
+ وقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n———
+ ——\n⚽ Udinese v Genoa\n🏆 Serie A — Matchday 34\n🗓 Sun 02 May
+  2027 · 16:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد جنوى — الدوري 
+ الإيطالي | Tomorrow: Udinese vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × جنوى | Kick-off in 30 min: Udinese vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749988@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T163000Z
+DTEND:20270509T183000Z
+SUMMARY:Udinese vs Juventus — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749988
+DESCRIPTION:⚽ أودينيزي × يوفنتوس\n🏆 الدوري ال
+ إيطالي — الجولة 35\n🗓 الأحد 9 مايو 2027 · 19:30
+  بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n——
+ ———\n⚽ Udinese v Juventus\n🏆 Serie A — Matchday 35\n🗓 Sun 
+ 09 May 2027 · 16:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد يوفنتوس — الدو
+ ري الإيطالي | Tomorrow: Udinese vs Juventus
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × يوفنتوس | Kick-off in 30 min: Udinese vs Juventus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749995@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T163000Z
+DTEND:20270516T183000Z
+SUMMARY:Lazio vs Udinese — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749995
+DESCRIPTION:⚽ لاتسيو × أودينيزي\n🏆 الدوري الإ
+ يطالي — الجولة 36\n🗓 الأحد 16 مايو 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n
+ ⚽ Lazio v Udinese\n🏆 Serie A — Matchday 36\n🗓 Sun 16 May 2027 ·
+  16:30 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد أودينيزي — الدور
+ ي الإيطالي | Tomorrow: Lazio vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × أودينيزي | Kick-off in 30 min: Lazio vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750008@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T163000Z
+DTEND:20270523T183000Z
+SUMMARY:Udinese vs Sassuolo — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5750008
+DESCRIPTION:⚽ أودينيزي × ساسولو\n🏆 الدوري الإ
+ يطالي — الجولة 37\n🗓 الأحد 23 مايو 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n——
+ ———\n⚽ Udinese v Sassuolo\n🏆 Serie A — Matchday 37\n🗓 Sun 
+ 23 May 2027 · 16:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد ساسولو — الدور
+ ي الإيطالي | Tomorrow: Udinese vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × ساسولو | Kick-off in 30 min: Udinese vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750010@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T163000Z
+DTEND:20270530T183000Z
+SUMMARY:Milan vs Udinese — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5750010
+DESCRIPTION:⚽ ميلان × أودينيزي\n🏆 الدوري الإي
+ طالي — الجولة 38\n🗓 الأحد 30 مايو 2027 · 19:30 ب
+ توقيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v Udine
+ se\n🏆 Serie A — Matchday 38\n🗓 Sun 30 May 2027 · 16:30 UTC\n🏟 
+ San Siro\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد أودينيزي — الدوري
+  الإيطالي | Tomorrow: Milan vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × أودينيزي | Kick-off in 30 min: Milan vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852776@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260815T163000Z
+DTEND:20260815T183000Z
+SUMMARY:Udinese vs Padova (1 - 0) — Coppa Italia
+LOCATION:Bluenergy Stadium\, Udine\, Italy
+GEO:46.081644;13.200063
+URL:https://www.fotmob.com/match/5852776
+DESCRIPTION:⚽ أودينيزي × بادوفا (1 - 0)\n🏆 كأس إي
+ طاليا — دور الـ32\n🗓 السبت 15 أغسطس 2026 · 19:3
+ 0 بتوقيت الرياض\n🏟 Bluenergy Stadium، Udine\n⚖️ الح
+ كم: Antonio Rapuano\n👥 الحضور: 4,247\n—————\n⚽ Udin
+ ese v Padova (1 - 0)\n🏆 Coppa Italia — Round of 32\n🗓 Sat 15 Aug 2
+ 026 · 16:30 UTC\n🏟 Bluenergy Stadium, Udine\nReferee: Antonio Rapuano\
+ nAttendance: 4,247\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد بادوفا — كأس إ
+ يطاليا | Tomorrow: Udinese vs Padova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × بادوفا | Kick-off in 30 min: Udinese vs Padova
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003658@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260902T160000Z
+DTEND:20260902T180000Z
+SUMMARY:Udinese vs Venezia (2 - 1) — Coppa Italia
+LOCATION:Bluenergy Stadium\, Udine\, Italy
+GEO:46.081644;13.200063
+URL:https://www.fotmob.com/match/6003658
+DESCRIPTION:⚽ أودينيزي × فينيزيا (2 - 1)\n🏆 كأس إ
+ يطاليا — دور الـ32\n🗓 الأربعاء 2 سبتمبر 202
+ 6 · 19:00 بتوقيت الرياض\n🏟 Bluenergy Stadium، Udine\n⚖
+ ️ الحكم: Matteo Marchetti\n—————\n⚽ Udinese v Venezia (
+ 2 - 1)\n🏆 Coppa Italia — Round of 32\n🗓 Wed 02 Sep 2026 · 16:00 U
+ TC\n🏟 Bluenergy Stadium, Udine\nReferee: Matteo Marchetti\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد فينيزيا — كأس 
+ إيطاليا | Tomorrow: Udinese vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × فينيزيا | Kick-off in 30 min: Udinese vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003681@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T170000Z
+DTEND:20261202T190000Z
+SUMMARY:Udinese vs Atalanta — Coppa Italia
+LOCATION:Bluenergy Stadium\, Udine\, Italy
+GEO:46.081644;13.200063
+URL:https://www.fotmob.com/match/6003681
+DESCRIPTION:⚽ أودينيزي × أتالانتا\n🏆 كأس إيطا
+ ليا — دور الـ16\n🗓 الأربعاء 2 ديسمبر 2026 · 2
+ 0:00 بتوقيت الرياض\n🏟 Bluenergy Stadium، Udine\n———
+ ——\n⚽ Udinese v Atalanta\n🏆 Coppa Italia — Round of 16\n🗓 We
+ d 02 Dec 2026 · 17:00 UTC\n🏟 Bluenergy Stadium, Udine\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد أتالانتا — كأس
+  إيطاليا | Tomorrow: Udinese vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × أتالانتا | Kick-off in 30 min: Udinese vs Atalanta
+END:VALARM
+END:VEVENT
+END:VCALENDAR

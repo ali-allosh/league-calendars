@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Norwich City — FA Cup Fixtures | Norwich City — مبا
+ ريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Norwich City — all matches in FA Cup\, exact UTC kickoffs\, 
+ stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:1
+ 0Z.  •  Norwich City — جميع المباريات في كأس الا
+ تحاد الإنجليزي بتوقيت UTC الدقيق مع الملا
+ عب والقنوات الناقلة. المصدر: FotMob + 365scores · 
+ تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5089908@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260111T143000Z
+DTEND:20260111T163000Z
+SUMMARY:Norwich City vs Walsall (5 - 1) — FA Cup
+LOCATION:Carrow Road\, Norwich\, Norfolk\, England
+GEO:52.622091;1.309122
+URL:https://www.fotmob.com/match/5089908
+DESCRIPTION:⚽ Norwich City × Walsall (5 - 1)\n🏆 كأس الاتحاد
+  الإنجليزي — الدور الثالث\n🗓 الأحد 11 ينا
+ ير 2026 · 17:30 بتوقيت الرياض\n🏟 Carrow Road، Norwich, 
+ Norfolk\n⚖️ الحكم: Edward Duckworth\n👥 الحضور: 19,776\n
+ —————\n⚽ Norwich City v Walsall (5 - 1)\n🏆 FA Cup — Round
+  3\n🗓 Sun 11 Jan 2026 · 14:30 UTC\n🏟 Carrow Road, Norwich, Norfolk\
+ nReferee: Edward Duckworth\nAttendance: 19,776\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Norwich City ضد Walsall — كأس الاتحا
+ د الإنجليزي | Tomorrow: Norwich City vs Walsall
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Norwich Cit
+ y × Walsall | Kick-off in 30 min: Norwich City vs Walsall
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135171@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260214T150000Z
+DTEND:20260214T170000Z
+SUMMARY:Norwich City vs West Bromwich Albion (3 - 1) — FA Cup
+LOCATION:Carrow Road\, Norwich\, Norfolk\, England
+GEO:52.622091;1.309122
+URL:https://www.fotmob.com/match/5135171
+DESCRIPTION:⚽ Norwich City × وست بروميتش (3 - 1)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الرابع\n🗓 الس
+ بت 14 فبراير 2026 · 18:00 بتوقيت الرياض\n🏟 Carrow 
+ Road، Norwich, Norfolk\n⚖️ الحكم: Tom Reeves\n👥 الحضور:
+  25,538\n—————\n⚽ Norwich City v West Bromwich Albion (3 - 1)\
+ n🏆 FA Cup — Round 4\n🗓 Sat 14 Feb 2026 · 15:00 UTC\n🏟 Carrow R
+ oad, Norwich, Norfolk\nReferee: Tom Reeves\nAttendance: 25,538\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Norwich City ضد وست بروميتش — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Norwich City vs West Brom
+ wich Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Norwich Cit
+ y × وست بروميتش | Kick-off in 30 min: Norwich City vs West Brom
+ wich Albion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5186381@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260308T163000Z
+DTEND:20260308T183000Z
+SUMMARY:Leeds United vs Norwich City (3 - 0) — FA Cup
+LOCATION:Elland Road\, Leeds\, West Yorkshire\, England
+GEO:53.777834;-1.572279
+URL:https://www.fotmob.com/match/5186381
+DESCRIPTION:⚽ ليدز يونايتد × Norwich City (3 - 0)\n🏆 كأ
+ س الاتحاد الإنجليزي — الدور الخامس\n🗓 ا
+ لأحد 8 مارس 2026 · 19:30 بتوقيت الرياض\n🏟 Elland R
+ oad، Leeds, West Yorkshire\n⚖️ الحكم: Darren England\n👥 ال
+ حضور: 36,213\n—————\n⚽ Leeds United v Norwich City (3 - 0)
+ \n🏆 FA Cup — Round 5\n🗓 Sun 08 Mar 2026 · 16:30 UTC\n🏟 Elland 
+ Road, Leeds, West Yorkshire\nReferee: Darren England\nAttendance: 36,213\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد Norwich City — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Leeds United vs Norwich
+  City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × Norwich City | Kick-off in 30 min: Leeds United vs Norwich
+  City
+END:VALARM
+END:VEVENT
+END:VCALENDAR

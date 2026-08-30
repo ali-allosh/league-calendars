@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Buriram United — AFC Champions League Elite Fixtures | 
+ بوريرام يونايتد — مباريات دوري أبطال آس
+ يا للنخبة
+X-WR-CALDESC:Buriram United — all matches in AFC Champions League Elite\,
+  exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-upda
+ ted 2026-09-05T19:31:10Z.  •  بوريرام يونايتد — جميع
+  المباريات في دوري أبطال آسيا للنخبة بتو
+ قيت UTC الدقيق مع الملاعب والقنوات الناقل
+ ة. المصدر: FotMob + 365scores · تحديث تلقائي 2026-09-05
+ T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6049981@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260915T121500Z
+DTEND:20260915T141500Z
+SUMMARY:Johor Darul Ta'zim vs Buriram United — AFC Champions League Elite
+LOCATION:Stadium Sultan Ibrahim Larkin\, Iskandar Puteri (Nusajaya)\, Malay
+ sia
+GEO:1.481781;103.619313
+URL:https://www.fotmob.com/match/6049981
+DESCRIPTION:⚽ جوهور × بوريرام يونايتد\n🏆 دوري 
+ أبطال آسيا للنخبة — الجولة 1\n🗓 الثلاثاء
+  15 سبتمبر 2026 · 15:15 بتوقيت الرياض\n🏟 Stadium Sul
+ tan Ibrahim Larkin، Iskandar Puteri (Nusajaya)\n—————\n⚽ Joho
+ r Darul Ta'zim v Buriram United\n🏆 AFC Champions League Elite — Match
+ day 1\n🗓 Tue 15 Sep 2026 · 12:15 UTC\n🏟 Stadium Sultan Ibrahim Lark
+ in, Iskandar Puteri (Nusajaya)\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جوهور ضد بوريرام يونايتد —
+  دوري أبطال آسيا للنخبة | Tomorrow: Johor Darul Ta'zim 
+ vs Buriram United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جوهور 
+ × بوريرام يونايتد | Kick-off in 30 min: Johor Darul Ta'zim 
+ vs Buriram United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049990@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261013T121500Z
+DTEND:20261013T141500Z
+SUMMARY:Buriram United vs Beijing Guoan — AFC Champions League Elite
+LOCATION:Chang Arena\, Buriram\, Thailand
+GEO:14.966666;103.096036
+URL:https://www.fotmob.com/match/6049990
+DESCRIPTION:⚽ بوريرام يونايتد × بكين كوان\n🏆 د
+ وري أبطال آسيا للنخبة — الجولة 2\n🗓 الثل
+ اثاء 13 أكتوبر 2026 · 15:15 بتوقيت الرياض\n🏟 Cha
+ ng Arena، Buriram\n—————\n⚽ Buriram United v Beijing Guoan\n
+ 🏆 AFC Champions League Elite — Matchday 2\n🗓 Tue 13 Oct 2026 · 12
+ :15 UTC\n🏟 Chang Arena, Buriram\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوريرام يونايتد ضد بكين كو
+ ان — دوري أبطال آسيا للنخبة | Tomorrow: Buriram Uni
+ ted vs Beijing Guoan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورير
+ ام يونايتد × بكين كوان | Kick-off in 30 min: Buriram Uni
+ ted vs Beijing Guoan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049998@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261028T110000Z
+DTEND:20261028T130000Z
+SUMMARY:Gamba Osaka vs Buriram United — AFC Champions League Elite
+LOCATION:Panasonic Stadium Suita\, Suita\, Japan
+GEO:34.802763;135.538199
+URL:https://www.fotmob.com/match/6049998
+DESCRIPTION:⚽ غامبا أوساكا × بوريرام يونايتد\n
+ 🏆 دوري أبطال آسيا للنخبة — الجولة 3\n🗓 ا
+ لأربعاء 28 أكتوبر 2026 · 14:00 بتوقيت الرياض\n
+ 🏟 Panasonic Stadium Suita، Suita\n—————\n⚽ Gamba Osaka v B
+ uriram United\n🏆 AFC Champions League Elite — Matchday 3\n🗓 Wed 28
+  Oct 2026 · 11:00 UTC\n🏟 Panasonic Stadium Suita, Suita\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غامبا أوساكا ضد بوريرام يو
+ نايتد — دوري أبطال آسيا للنخبة | Tomorrow: Gamba
+  Osaka vs Buriram United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غامبا 
+ أوساكا × بوريرام يونايتد | Kick-off in 30 min: Gamba 
+ Osaka vs Buriram United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050007@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261104T131500Z
+DTEND:20261104T151500Z
+SUMMARY:Buriram United vs Kashima Antlers — AFC Champions League Elite
+LOCATION:Chang Arena\, Buriram\, Thailand
+GEO:14.966666;103.096036
+URL:https://www.fotmob.com/match/6050007
+DESCRIPTION:⚽ بوريرام يونايتد × كاشيما أنتلير
+ ز\n🏆 دوري أبطال آسيا للنخبة — الجولة 4\n
+ 🗓 الأربعاء 4 نوفمبر 2026 · 16:15 بتوقيت الريا
+ ض\n🏟 Chang Arena، Buriram\n—————\n⚽ Buriram United v Kash
+ ima Antlers\n🏆 AFC Champions League Elite — Matchday 4\n🗓 Wed 04 N
+ ov 2026 · 13:15 UTC\n🏟 Chang Arena, Buriram\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوريرام يونايتد ضد كاشيما 
+ أنتليرز — دوري أبطال آسيا للنخبة | Tomorrow: B
+ uriram United vs Kashima Antlers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورير
+ ام يونايتد × كاشيما أنتليرز | Kick-off in 30 min: B
+ uriram United vs Kashima Antlers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050013@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261124T131500Z
+DTEND:20261124T151500Z
+SUMMARY:Shanghai Port vs Buriram United — AFC Champions League Elite
+LOCATION:SAIC Motor Pudong Arena\, Shanghai\, China
+GEO:31.240638;121.607021
+URL:https://www.fotmob.com/match/6050013
+DESCRIPTION:⚽ شنغهاي بورت × بوريرام يونايتد\n
+ 🏆 دوري أبطال آسيا للنخبة — الجولة 5\n🗓 ا
+ لثلاثاء 24 نوفمبر 2026 · 16:15 بتوقيت الرياض\n
+ 🏟 SAIC Motor Pudong Arena، Shanghai\n—————\n⚽ Shanghai Por
+ t v Buriram United\n🏆 AFC Champions League Elite — Matchday 5\n🗓 T
+ ue 24 Nov 2026 · 13:15 UTC\n🏟 SAIC Motor Pudong Arena, Shanghai\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شنغهاي بورت ضد بوريرام يون
+ ايتد — دوري أبطال آسيا للنخبة | Tomorrow: Shangha
+ i Port vs Buriram United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شنغها
+ ي بورت × بوريرام يونايتد | Kick-off in 30 min: Shangha
+ i Port vs Buriram United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050020@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261201T131500Z
+DTEND:20261201T151500Z
+SUMMARY:Buriram United vs Kyoto Sanga FC — AFC Champions League Elite
+LOCATION:Chang Arena\, Buriram\, Thailand
+GEO:14.966666;103.096036
+URL:https://www.fotmob.com/match/6050020
+DESCRIPTION:⚽ بوريرام يونايتد × Kyoto Sanga FC\n🏆 دو
+ ري أبطال آسيا للنخبة — الجولة 6\n🗓 الثلا
+ ثاء 1 ديسمبر 2026 · 16:15 بتوقيت الرياض\n🏟 Chang 
+ Arena، Buriram\n—————\n⚽ Buriram United v Kyoto Sanga FC\n
+ 🏆 AFC Champions League Elite — Matchday 6\n🗓 Tue 01 Dec 2026 · 13
+ :15 UTC\n🏟 Chang Arena, Buriram\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوريرام يونايتد ضد Kyoto Sanga FC
+  — دوري أبطال آسيا للنخبة | Tomorrow: Buriram United 
+ vs Kyoto Sanga FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورير
+ ام يونايتد × Kyoto Sanga FC | Kick-off in 30 min: Buriram United
+  vs Kyoto Sanga FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050030@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270210T110000Z
+DTEND:20270210T130000Z
+SUMMARY:Kashiwa Reysol vs Buriram United — AFC Champions League Elite
+LOCATION:SANKYO FRONTIER Kashiwa Stadium\, Kashiwa\, Japan
+GEO:35.848465;139.975133
+URL:https://www.fotmob.com/match/6050030
+DESCRIPTION:⚽ كاشيوا ريسول × بوريرام يونايتد\n
+ 🏆 دوري أبطال آسيا للنخبة — الجولة 7\n🗓 ا
+ لأربعاء 10 فبراير 2027 · 14:00 بتوقيت الرياض\n
+ 🏟 SANKYO FRONTIER Kashiwa Stadium، Kashiwa\n—————\n⚽ Kashi
+ wa Reysol v Buriram United\n🏆 AFC Champions League Elite — Matchday 7
+ \n🗓 Wed 10 Feb 2027 · 11:00 UTC\n🏟 SANKYO FRONTIER Kashiwa Stadium,
+  Kashiwa\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كاشيوا ريسول ضد بوريرام يو
+ نايتد — دوري أبطال آسيا للنخبة | Tomorrow: Kashi
+ wa Reysol vs Buriram United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاشيو
+ ا ريسول × بوريرام يونايتد | Kick-off in 30 min: Kashi
+ wa Reysol vs Buriram United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050033@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270216T110000Z
+DTEND:20270216T130000Z
+SUMMARY:Buriram United vs Vissel Kobe — AFC Champions League Elite
+LOCATION:Chang Arena\, Buriram\, Thailand
+GEO:14.966666;103.096036
+URL:https://www.fotmob.com/match/6050033
+DESCRIPTION:⚽ بوريرام يونايتد × فيسيل كوبي\n🏆 
+ دوري أبطال آسيا للنخبة — الجولة 8\n🗓 الث
+ لاثاء 16 فبراير 2027 · 14:00 بتوقيت الرياض\n🏟 C
+ hang Arena، Buriram\n—————\n⚽ Buriram United v Vissel Kobe\n
+ 🏆 AFC Champions League Elite — Matchday 8\n🗓 Tue 16 Feb 2027 · 11
+ :00 UTC\n🏟 Chang Arena, Buriram\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوريرام يونايتد ضد فيسيل ك
+ وبي — دوري أبطال آسيا للنخبة | Tomorrow: Buriram U
+ nited vs Vissel Kobe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورير
+ ام يونايتد × فيسيل كوبي | Kick-off in 30 min: Buriram U
+ nited vs Vissel Kobe
+END:VALARM
+END:VEVENT
+END:VCALENDAR

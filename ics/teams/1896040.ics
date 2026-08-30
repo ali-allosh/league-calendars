@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al Anwar — King's Cup Fixtures | الأنوار — مب
+ اريات كأس خادم الحرمين الشريفين
+X-WR-CALDESC:Al Anwar — all matches in King's Cup\, exact UTC kickoffs\, 
+ stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:1
+ 0Z.  •  الأنوار — جميع المباريات في كأس خا
+ دم الحرمين الشريفين بتوقيت UTC الدقيق مع ا
+ لملاعب والقنوات الناقلة. المصدر: FotMob + 365sc
+ ores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5853715@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260817T160000Z
+DTEND:20260817T180000Z
+SUMMARY:Al Anwar vs Al Ahli (1 - 2) — King's Cup
+LOCATION:Al Anwar Club Stadium\, Howtat Bani Tamim\, Saudi Arabia
+GEO:23.506883;46.893466
+URL:https://www.fotmob.com/match/5853715
+DESCRIPTION:⚽ الأنوار × الأهلي (1 - 2)\n🏆 كأس خاد
+ م الحرمين الشريفين — دور الـ32\n🗓 الاثني
+ ن 17 أغسطس 2026 · 19:00 بتوقيت الرياض\n🏟 Al Anwar Cl
+ ub Stadium، Howtat Bani Tamim\n⚖️ الحكم: Abdullah Al Owaydan\n
+ 👥 الحضور: 3,009\n—————\n⚽ Al Anwar v Al Ahli (1 - 2)\
+ n🏆 King's Cup — Round of 32\n🗓 Mon 17 Aug 2026 · 16:00 UTC\n🏟 
+ Al Anwar Club Stadium, Howtat Bani Tamim\nReferee: Abdullah Al Owaydan\nAt
+ tendance: 3,009\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأنوار ضد الأهلي — كأس خا
+ دم الحرمين الشريفين | Tomorrow: Al Anwar vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأنو
+ ار × الأهلي | Kick-off in 30 min: Al Anwar vs Al Ahli
+END:VALARM
+END:VEVENT
+END:VCALENDAR

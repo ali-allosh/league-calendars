@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ St Albans — FA Cup Fixtures | St Albans — مباريا
+ ت كأس الاتحاد الإنجليزي
+X-WR-CALDESC:St Albans — all matches in FA Cup\, exact UTC kickoffs\, sta
+ diums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10Z.
+   •  St Albans — جميع المباريات في كأس الاتحا
+ د الإنجليزي بتوقيت UTC الدقيق مع الملاعب و
+ القنوات الناقلة. المصدر: FotMob + 365scores · تحد
+ يث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010644@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Burton Albion vs St Albans (6 - 0) — FA Cup
+LOCATION:Pirelli Stadium\, Burton-upon-Trent\, Staffordshire\, England
+GEO:52.821911;-1.626878
+URL:https://www.fotmob.com/match/5010644
+DESCRIPTION:⚽ Burton Albion × St Albans (6 - 0)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الأول\n🗓 السبت 1 نو
+ فمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Pirelli Stadium، B
+ urton-upon-Trent, Staffordshire\n⚖️ الحكم: Declan Brown\n👥 ا
+ لحضور: 2,523\n—————\n⚽ Burton Albion v St Albans (6 - 0)\
+ n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Pirelli 
+ Stadium, Burton-upon-Trent, Staffordshire\nReferee: Declan Brown\nAttendan
+ ce: 2,523\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Burton Albion ضد St Albans — كأس الات
+ حاد الإنجليزي | Tomorrow: Burton Albion vs St Albans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Burton Albi
+ on × St Albans | Kick-off in 30 min: Burton Albion vs St Albans
+END:VALARM
+END:VEVENT
+END:VCALENDAR

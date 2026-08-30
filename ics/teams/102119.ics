@@ -1,0 +1,302 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Shabab Al-Ahli Dubai FC — AFC Champions League Elite Fix
+ tures | شباب الاهلي — مباريات دوري أبطال آس
+ يا للنخبة
+X-WR-CALDESC:Shabab Al-Ahli Dubai FC — all matches in AFC Champions Leagu
+ e Elite\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · 
+ auto-updated 2026-09-05T19:31:10Z.  •  شباب الاهلي — جمي
+ ع المباريات في دوري أبطال آسيا للنخبة بت
+ وقيت UTC الدقيق مع الملاعب والقنوات الناق
+ لة. المصدر: FotMob + 365scores · تحديث تلقائي 2026-09-
+ 05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6050066@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260914T160000Z
+DTEND:20260914T180000Z
+SUMMARY:Shabab Al-Ahli Dubai FC vs Tractor — AFC Champions League Elite
+LOCATION:Rashid Stadium\, Dubayy (Dubai)\, United Arab Emirates
+GEO:25.279704;55.360429
+URL:https://www.fotmob.com/match/6050066
+DESCRIPTION:⚽ شباب الاهلي × تراکتورسازي\n🏆 دو
+ ري أبطال آسيا للنخبة — الجولة 1\n🗓 الاثن
+ ين 14 سبتمبر 2026 · 19:00 بتوقيت الرياض\n🏟 Rashid 
+ Stadium، Dubayy (Dubai)\n—————\n⚽ Shabab Al-Ahli Dubai FC v T
+ ractor\n🏆 AFC Champions League Elite — Matchday 1\n🗓 Mon 14 Sep 20
+ 26 · 16:00 UTC\n🏟 Rashid Stadium, Dubayy (Dubai)\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شباب الاهلي ضد تراکتورسازي
+  — دوري أبطال آسيا للنخبة | Tomorrow: Shabab Al-Ahli 
+ Dubai FC vs Tractor
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شباب ا
+ لاهلي × تراکتورسازي | Kick-off in 30 min: Shabab Al-Ahli 
+ Dubai FC vs Tractor
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050079@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261013T181500Z
+DTEND:20261013T201500Z
+SUMMARY:Al Ittihad vs Shabab Al-Ahli Dubai FC — AFC Champions League Elit
+ e
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/6050079
+DESCRIPTION:⚽ الاتحاد × شباب الاهلي\n🏆 دوري أب
+ طال آسيا للنخبة — الجولة 2\n🗓 الثلاثاء 13 
+ أكتوبر 2026 · 21:15 بتوقيت الرياض\n🏟 Alinma Bank Sta
+ dium at King Abdullah Sport City، Jeddah\n—————\n⚽ Al Ittihad
+  v Shabab Al-Ahli Dubai FC\n🏆 AFC Champions League Elite — Matchday 2
+ \n🗓 Tue 13 Oct 2026 · 18:15 UTC\n🏟 Alinma Bank Stadium at King Abdu
+ llah Sport City, Jeddah\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد شباب الاهلي — د
+ وري أبطال آسيا للنخبة | Tomorrow: Al Ittihad vs Shabab A
+ l-Ahli Dubai FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × شباب الاهلي | Kick-off in 30 min: Al Ittihad vs Shabab A
+ l-Ahli Dubai FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050086@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261027T170000Z
+DTEND:20261027T190000Z
+SUMMARY:Shabab Al-Ahli Dubai FC vs Esteghlal — AFC Champions League Elite
+LOCATION:Rashid Stadium\, Dubayy (Dubai)\, United Arab Emirates
+GEO:25.279704;55.360429
+URL:https://www.fotmob.com/match/6050086
+DESCRIPTION:⚽ شباب الاهلي × استقلال\n🏆 دوري أب
+ طال آسيا للنخبة — الجولة 3\n🗓 الثلاثاء 27 
+ أكتوبر 2026 · 20:00 بتوقيت الرياض\n🏟 Rashid Stadium
+ ، Dubayy (Dubai)\n—————\n⚽ Shabab Al-Ahli Dubai FC v Esteghla
+ l\n🏆 AFC Champions League Elite — Matchday 3\n🗓 Tue 27 Oct 2026 ·
+  17:00 UTC\n🏟 Rashid Stadium, Dubayy (Dubai)\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شباب الاهلي ضد استقلال — د
+ وري أبطال آسيا للنخبة | Tomorrow: Shabab Al-Ahli Dubai F
+ C vs Esteghlal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شباب ا
+ لاهلي × استقلال | Kick-off in 30 min: Shabab Al-Ahli Dubai FC
+  vs Esteghlal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050095@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261103T191500Z
+DTEND:20261103T211500Z
+SUMMARY:Al Hilal vs Shabab Al-Ahli Dubai FC — AFC Champions League Elite
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/6050095
+DESCRIPTION:⚽ الهلال × شباب الاهلي\n🏆 دوري أبط
+ ال آسيا للنخبة — الجولة 4\n🗓 الثلاثاء 3 ن
+ وفمبر 2026 · 22:15 بتوقيت الرياض\n🏟 Kingdom Arena، R
+ iyadh\n—————\n⚽ Al Hilal v Shabab Al-Ahli Dubai FC\n🏆 AFC C
+ hampions League Elite — Matchday 4\n🗓 Tue 03 Nov 2026 · 19:15 UTC\n
+ 🏟 Kingdom Arena, Riyadh\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد شباب الاهلي — دو
+ ري أبطال آسيا للنخبة | Tomorrow: Al Hilal vs Shabab Al-Ah
+ li Dubai FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × شباب الاهلي | Kick-off in 30 min: Al Hilal vs Shabab Al-Ah
+ li Dubai FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050102@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261124T170000Z
+DTEND:20261124T190000Z
+SUMMARY:Shabab Al-Ahli Dubai FC vs Al Qadsiah — AFC Champions League Elit
+ e
+LOCATION:Rashid Stadium\, Dubayy (Dubai)\, United Arab Emirates
+GEO:25.279704;55.360429
+URL:https://www.fotmob.com/match/6050102
+DESCRIPTION:⚽ شباب الاهلي × القادسية\n🏆 دوري أ
+ بطال آسيا للنخبة — الجولة 5\n🗓 الثلاثاء 2
+ 4 نوفمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Rashid Stadiu
+ m، Dubayy (Dubai)\n—————\n⚽ Shabab Al-Ahli Dubai FC v Al Qads
+ iah\n🏆 AFC Champions League Elite — Matchday 5\n🗓 Tue 24 Nov 2026 
+ · 17:00 UTC\n🏟 Rashid Stadium, Dubayy (Dubai)\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شباب الاهلي ضد القادسية — 
+ دوري أبطال آسيا للنخبة | Tomorrow: Shabab Al-Ahli Dubai
+  FC vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شباب ا
+ لاهلي × القادسية | Kick-off in 30 min: Shabab Al-Ahli Dubai 
+ FC vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050111@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261208T191500Z
+DTEND:20261208T211500Z
+SUMMARY:Al Ahli vs Shabab Al-Ahli Dubai FC — AFC Champions League Elite
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/6050111
+DESCRIPTION:⚽ الأهلي × شباب الاهلي\n🏆 دوري أبط
+ ال آسيا للنخبة — الجولة 6\n🗓 الثلاثاء 8 د
+ يسمبر 2026 · 22:15 بتوقيت الرياض\n🏟 Alinma Bank Stadi
+ um at King Abdullah Sport City، Jeddah\n—————\n⚽ Al Ahli v Sh
+ abab Al-Ahli Dubai FC\n🏆 AFC Champions League Elite — Matchday 6\n
+ 🗓 Tue 08 Dec 2026 · 19:15 UTC\n🏟 Alinma Bank Stadium at King Abdull
+ ah Sport City, Jeddah\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد شباب الاهلي — دو
+ ري أبطال آسيا للنخبة | Tomorrow: Al Ahli vs Shabab Al-Ahl
+ i Dubai FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × شباب الاهلي | Kick-off in 30 min: Al Ahli vs Shabab Al-Ahl
+ i Dubai FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050117@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270208T191500Z
+DTEND:20270208T211500Z
+SUMMARY:Al Quwa Al Jawiya vs Shabab Al-Ahli Dubai FC — AFC Champions Leag
+ ue Elite
+LOCATION:Basra International Stadium\, al-Baṣra (Basra)\, Iraq
+GEO:30.439928;47.779781
+URL:https://www.fotmob.com/match/6050117
+DESCRIPTION:⚽ القوة الجوية × شباب الاهلي\n🏆 دو
+ ري أبطال آسيا للنخبة — الجولة 7\n🗓 الاثن
+ ين 8 فبراير 2027 · 22:15 بتوقيت الرياض\n🏟 Basra In
+ ternational Stadium، al-Baṣra (Basra)\n—————\n⚽ Al Quwa Al 
+ Jawiya v Shabab Al-Ahli Dubai FC\n🏆 AFC Champions League Elite — Matc
+ hday 7\n🗓 Mon 08 Feb 2027 · 19:15 UTC\n🏟 Basra International Stadiu
+ m, al-Baṣra (Basra)\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القوة الجوية ضد شباب الاهل
+ ي — دوري أبطال آسيا للنخبة | Tomorrow: Al Quwa Al Ja
+ wiya vs Shabab Al-Ahli Dubai FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القوة 
+ الجوية × شباب الاهلي | Kick-off in 30 min: Al Quwa Al Jaw
+ iya vs Shabab Al-Ahli Dubai FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050126@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270215T191500Z
+DTEND:20270215T211500Z
+SUMMARY:Shabab Al-Ahli Dubai FC vs Al Nassr FC — AFC Champions League Eli
+ te
+LOCATION:Rashid Stadium\, Dubayy (Dubai)\, United Arab Emirates
+GEO:25.279704;55.360429
+URL:https://www.fotmob.com/match/6050126
+DESCRIPTION:⚽ شباب الاهلي × النصر\n🏆 دوري أبطا
+ ل آسيا للنخبة — الجولة 8\n🗓 الاثنين 15 فبر
+ اير 2027 · 22:15 بتوقيت الرياض\n🏟 Rashid Stadium، Duba
+ yy (Dubai)\n—————\n⚽ Shabab Al-Ahli Dubai FC v Al Nassr FC\n
+ 🏆 AFC Champions League Elite — Matchday 8\n🗓 Mon 15 Feb 2027 · 19
+ :15 UTC\n🏟 Rashid Stadium, Dubayy (Dubai)\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شباب الاهلي ضد النصر — دور
+ ي أبطال آسيا للنخبة | Tomorrow: Shabab Al-Ahli Dubai FC vs
+  Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شباب ا
+ لاهلي × النصر | Kick-off in 30 min: Shabab Al-Ahli Dubai FC vs 
+ Al Nassr FC
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Empoli — Coppa Italia Fixtures | إمبولي — مبا
+ ريات كأس إيطاليا
+X-WR-CALDESC:Empoli — all matches in Coppa Italia\, exact UTC kickoffs\, 
+ stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:1
+ 0Z.  •  إمبولي — جميع المباريات في كأس إيط
+ اليا بتوقيت UTC الدقيق مع الملاعب والقنوا
+ ت الناقلة. المصدر: FotMob + 365scores · تحديث تلقا
+ ئي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5852783@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260817T160000Z
+DTEND:20260817T180000Z
+SUMMARY:Pisa vs Empoli (1 - 1) — Coppa Italia
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa\, Italy
+GEO:43.725293;10.400190
+URL:https://www.fotmob.com/match/5852783
+DESCRIPTION:⚽ بيسا × إمبولي (1 - 1)\n🏆 كأس إيطالي
+ ا — دور الـ32\n🗓 الاثنين 17 أغسطس 2026 · 19:00 ب
+ توقيت الرياض\n🏟 Arena Garibaldi - Stadio Romeo Anconetani، 
+ Pisa\n⚖️ الحكم: Andrea Zanotti\n👥 الحضور: 7,003\n——
+ ———\n⚽ Pisa v Empoli (1 - 1)\n🏆 Coppa Italia — Round of 32\n
+ 🗓 Mon 17 Aug 2026 · 16:00 UTC\n🏟 Arena Garibaldi - Stadio Romeo Anc
+ onetani, Pisa\nReferee: Andrea Zanotti\nAttendance: 7,003\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيسا ضد إمبولي — كأس إيطال
+ يا | Tomorrow: Pisa vs Empoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيسا ×
+  إمبولي | Kick-off in 30 min: Pisa vs Empoli
+END:VALARM
+END:VEVENT
+END:VCALENDAR

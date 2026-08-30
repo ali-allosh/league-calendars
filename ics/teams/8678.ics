@@ -1,0 +1,1542 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ AFC Bournemouth — Premier League & UEFA Europa League & 
+ FA Cup Fixtures | بورنموث — مباريات الدوري الإن
+ جليزي الممتاز والدوري الأوروبي وكأس الا
+ تحاد الإنجليزي
+X-WR-CALDESC:AFC Bournemouth — all matches in Premier League & UEFA Europ
+ a League & FA Cup\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365
+ scores · auto-updated 2026-09-05T19:31:10Z.  •  بورنموث — جم
+ يع المباريات في الدوري الإنجليزي الممتا
+ ز والدوري الأوروبي وكأس الاتحاد الإنجلي
+ زي بتوقيت UTC الدقيق مع الملاعب والقنوات ا
+ لناقلة. المصدر: FotMob + 365scores · تحديث تلقائي 
+ 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5795370@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260823T130000Z
+DTEND:20260823T150000Z
+SUMMARY:Manchester City vs AFC Bournemouth (2 - 1) — Premier League
+LOCATION:Etihad Stadium\, Manchester\, England
+GEO:53.483152;-2.200409
+URL:https://www.fotmob.com/match/5795370
+DESCRIPTION:⚽ مانشستر سيتي × بورنموث (2 - 1)\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 1\n🗓 ال
+ أحد 23 أغسطس 2026 · 16:00 بتوقيت الرياض\n🏟 Etihad 
+ Stadium، Manchester\n⚖️ الحكم: Jarred Gillett\n👥 الحضور
+ : 60,645\n—————\n⚽ Manchester City v AFC Bournemouth (2 - 1)\n
+ 🏆 Premier League — Matchday 1\n🗓 Sun 23 Aug 2026 · 13:00 UTC\n
+ 🏟 Etihad Stadium, Manchester\nReferee: Jarred Gillett\nAttendance: 60,6
+ 45\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد بورنموث — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Manchester City
+  vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × بورنموث | Kick-off in 30 min: Manchester City vs A
+ FC Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795425@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T140000Z
+DTEND:20260829T160000Z
+SUMMARY:AFC Bournemouth vs Everton (1 - 1) — Premier League
+LOCATION:Vitality Stadium\, Bournemouth\, Dorset\, England
+GEO:50.735241;-1.838310
+URL:https://www.fotmob.com/match/5795425
+DESCRIPTION:⚽ بورنموث × إيفرتون (1 - 1)\n🏆 الدوري
+  الإنجليزي الممتاز — الجولة 2\n🗓 السبت 29 
+ أغسطس 2026 · 17:00 بتوقيت الرياض\n🏟 Vitality Stadium
+ ، Bournemouth, Dorset\n⚖️ الحكم: Chris Kavanagh\n👥 الحضو
+ ر: 11,135\n—————\n⚽ AFC Bournemouth v Everton (1 - 1)\n🏆 P
+ remier League — Matchday 2\n🗓 Sat 29 Aug 2026 · 14:00 UTC\n🏟 Vita
+ lity Stadium, Bournemouth, Dorset\nReferee: Chris Kavanagh\nAttendance: 11
+ ,135\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد إيفرتون — الدور
+ ي الإنجليزي الممتاز | Tomorrow: AFC Bournemouth vs Everto
+ n
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × إيفرتون | Kick-off in 30 min: AFC Bournemouth vs Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795443@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T113000Z
+DTEND:20260905T133000Z
+SUMMARY:Newcastle United vs AFC Bournemouth (2 - 2) — Premier League
+LOCATION:St. James' Park\, Newcastle upon Tyne\, England
+GEO:54.975540;-1.621621
+URL:https://www.fotmob.com/match/5795443
+DESCRIPTION:⚽ نيوكاسل يونايتد × بورنموث (2 - 2)\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 3\n
+ 🗓 السبت 5 سبتمبر 2026 · 14:30 بتوقيت الرياض\n
+ 🏟 St. James' Park، Newcastle upon Tyne\n📺 beIN SPORTS HD 1\n⚖️ 
+ الحكم: Robert Jones\n👥 الحضور: 52,643\n—————\n⚽ 
+ Newcastle United v AFC Bournemouth (2 - 2)\n🏆 Premier League — Matchd
+ ay 3\n🗓 Sat 05 Sep 2026 · 11:30 UTC\n🏟 St. James' Park, Newcastle u
+ pon Tyne\n📺 beIN Sport 1 HD\nReferee: Robert Jones\nAttendance: 52,643\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل يونايتد ضد بورنموث
+  — الدوري الإنجليزي الممتاز — 📺 beIN SPORTS H
+ D 1 | Tomorrow: Newcastle United vs AFC Bournemouth | TV: beIN Sport 1 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل يونايتد × بورنموث — 📺 beIN SPORTS HD 1 | Kick-off
+  in 30 min: Newcastle United vs AFC Bournemouth | TV: beIN Sport 1 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795445@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T140000Z
+DTEND:20260912T160000Z
+SUMMARY:AFC Bournemouth vs Brentford — Premier League
+LOCATION:Vitality Stadium\, Bournemouth\, Dorset\, England
+GEO:50.735241;-1.838310
+URL:https://www.fotmob.com/match/5795445
+DESCRIPTION:⚽ بورنموث × برينتفورد\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 4\n🗓 السبت 12 س
+ بتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Vitality Stadium
+ ، Bournemouth, Dorset\n📺 NBCSN Extra، Peacock، Fubo Sports CA، Star
+ Hub TV+، Astro Go\n—————\n⚽ AFC Bournemouth v Brentford\n🏆
+  Premier League — Matchday 4\n🗓 Sat 12 Sep 2026 · 14:00 UTC\n🏟 Vi
+ tality Stadium, Bournemouth, Dorset\n📺 NBCSN Extra, Peacock, Fubo Sport
+ s CA, StarHub TV+, Astro Go\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد برينتفورد — الد
+ وري الإنجليزي الممتاز — 📺 NBCSN Extra، Peacock، 
+ Fubo Sports CA، StarHub TV+، Astro Go | Tomorrow: AFC Bournemouth vs Bre
+ ntford | TV: NBCSN Extra\, Peacock\, Fubo Sports CA\, StarHub TV+\, Astro 
+ Go
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × برينتفورد — 📺 NBCSN Extra، Peacock، Fubo Sports CA
+ ، StarHub TV+، Astro Go | Kick-off in 30 min: AFC Bournemouth vs Brentfo
+ rd | TV: NBCSN Extra\, Peacock\, Fubo Sports CA\, StarHub TV+\, Astro Go
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795455@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:AFC Bournemouth vs Liverpool — Premier League
+LOCATION:Vitality Stadium\, Bournemouth\, Dorset\, England
+GEO:50.735241;-1.838310
+URL:https://www.fotmob.com/match/5795455
+DESCRIPTION:⚽ بورنموث × ليفربول\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 5\n🗓 الأحد 20 سبت
+ مبر 2026 · 16:00 بتوقيت الرياض\n🏟 Vitality Stadium، Bo
+ urnemouth, Dorset\n—————\n⚽ AFC Bournemouth v Liverpool\n🏆 
+ Premier League — Matchday 5\n🗓 Sun 20 Sep 2026 · 13:00 UTC\n🏟 Vit
+ ality Stadium, Bournemouth, Dorset\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد ليفربول — الدور
+ ي الإنجليزي الممتاز | Tomorrow: AFC Bournemouth vs Liverp
+ ool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × ليفربول | Kick-off in 30 min: AFC Bournemouth vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795467@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T140000Z
+DTEND:20261010T160000Z
+SUMMARY:Chelsea vs AFC Bournemouth — Premier League
+LOCATION:Stamford Bridge\, London\, England
+GEO:51.481712;-0.190975
+URL:https://www.fotmob.com/match/5795467
+DESCRIPTION:⚽ تشيلسي × بورنموث\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 6\n🗓 السبت 10 أكتو
+ بر 2026 · 17:00 بتوقيت الرياض\n🏟 Stamford Bridge، Londo
+ n\n—————\n⚽ Chelsea v AFC Bournemouth\n🏆 Premier League —
+  Matchday 6\n🗓 Sat 10 Oct 2026 · 14:00 UTC\n🏟 Stamford Bridge, Lond
+ on\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد بورنموث — الدوري
+  الإنجليزي الممتاز | Tomorrow: Chelsea vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × بورنموث | Kick-off in 30 min: Chelsea vs AFC Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795475@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:AFC Bournemouth vs Sunderland — Premier League
+LOCATION:Vitality Stadium\, Bournemouth\, Dorset\, England
+GEO:50.735241;-1.838310
+URL:https://www.fotmob.com/match/5795475
+DESCRIPTION:⚽ بورنموث × سندرلاند\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 7\n🗓 الأحد 18 أك
+ توبر 2026 · 16:00 بتوقيت الرياض\n🏟 Vitality Stadium، 
+ Bournemouth, Dorset\n—————\n⚽ AFC Bournemouth v Sunderland\n
+ 🏆 Premier League — Matchday 7\n🗓 Sun 18 Oct 2026 · 13:00 UTC\n
+ 🏟 Vitality Stadium, Bournemouth, Dorset\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد سندرلاند — الدو
+ ري الإنجليزي الممتاز | Tomorrow: AFC Bournemouth vs Sund
+ erland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × سندرلاند | Kick-off in 30 min: AFC Bournemouth vs Sunderla
+ nd
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795493@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Manchester United vs AFC Bournemouth — Premier League
+LOCATION:Old Trafford\, Manchester\, England
+GEO:53.463094;-2.291374
+URL:https://www.fotmob.com/match/5795493
+DESCRIPTION:⚽ مانشستر يونايتد × بورنموث\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 8\n🗓 الأ
+ حد 25 أكتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 Old Tra
+ fford، Manchester\n—————\n⚽ Manchester United v AFC Bournemou
+ th\n🏆 Premier League — Matchday 8\n🗓 Sun 25 Oct 2026 · 14:00 UTC\
+ n🏟 Old Trafford, Manchester\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد بورنموث
+  — الدوري الإنجليزي الممتاز | Tomorrow: Manchester
+  United vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × بورنموث | Kick-off in 30 min: Manchester Uni
+ ted vs AFC Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795495@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:AFC Bournemouth vs Leeds United — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795495
+DESCRIPTION:⚽ بورنموث × ليدز يونايتد\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 9\n🗓 السبت 3
+ 1 أكتوبر 2026 · 18:00 بتوقيت الرياض\n🏟 Vitality Stad
+ ium\n—————\n⚽ AFC Bournemouth v Leeds United\n🏆 Premier Lea
+ gue — Matchday 9\n🗓 Sat 31 Oct 2026 · 15:00 UTC\n🏟 Vitality Stadi
+ um\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد ليدز يونايتد — 
+ الدوري الإنجليزي الممتاز | Tomorrow: AFC Bournemouth
+  vs Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × ليدز يونايتد | Kick-off in 30 min: AFC Bournemouth vs L
+ eeds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795510@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Ipswich Town vs AFC Bournemouth — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795510
+DESCRIPTION:⚽ إبسويتش تاون × بورنموث\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 10\n🗓 السبت 
+ 7 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Portman Road\
+ n—————\n⚽ Ipswich Town v AFC Bournemouth\n🏆 Premier League 
+ — Matchday 10\n🗓 Sat 07 Nov 2026 · 15:00 UTC\n🏟 Portman Road\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد بورنموث — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Ipswich Town vs
+  AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × بورنموث | Kick-off in 30 min: Ipswich Town vs AFC 
+ Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795515@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:AFC Bournemouth vs Nottingham Forest — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795515
+DESCRIPTION:⚽ بورنموث × نوتنجهام فورست\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 11\n🗓 الس
+ بت 21 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Vitalit
+ y Stadium\n—————\n⚽ AFC Bournemouth v Nottingham Forest\n🏆 
+ Premier League — Matchday 11\n🗓 Sat 21 Nov 2026 · 15:00 UTC\n🏟 Vi
+ tality Stadium\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد نوتنجهام فورست 
+ — الدوري الإنجليزي الممتاز | Tomorrow: AFC Bournem
+ outh vs Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × نوتنجهام فورست | Kick-off in 30 min: AFC Bournemouth 
+ vs Nottingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795529@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:Fulham vs AFC Bournemouth — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795529
+DESCRIPTION:⚽ فولهام × بورنموث\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 12\n🗓 السبت 28 نوفم
+ بر 2026 · 18:00 بتوقيت الرياض\n🏟 Craven Cottage\n——
+ ———\n⚽ Fulham v AFC Bournemouth\n🏆 Premier League — Matchday 
+ 12\n🗓 Sat 28 Nov 2026 · 15:00 UTC\n🏟 Craven Cottage\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد بورنموث — الدوري
+  الإنجليزي الممتاز | Tomorrow: Fulham vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × بورنموث | Kick-off in 30 min: Fulham vs AFC Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795535@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:AFC Bournemouth vs Brighton & Hove Albion — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795535
+DESCRIPTION:⚽ بورنموث × برايتون\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 13\n🗓 الأربعاء 2 
+ ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Vitality Stadiu
+ m\n—————\n⚽ AFC Bournemouth v Brighton & Hove Albion\n🏆 Pre
+ mier League — Matchday 13\n🗓 Wed 02 Dec 2026 · 20:00 UTC\n🏟 Vital
+ ity Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد برايتون — الدور
+ ي الإنجليزي الممتاز | Tomorrow: AFC Bournemouth vs Bright
+ on & Hove Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × برايتون | Kick-off in 30 min: AFC Bournemouth vs Brighton &
+  Hove Albion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795545@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:AFC Bournemouth vs Hull City — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795545
+DESCRIPTION:⚽ بورنموث × هال سيتي\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 14\n🗓 السبت 5 ديس
+ مبر 2026 · 18:00 بتوقيت الرياض\n🏟 Vitality Stadium\n—
+ ————\n⚽ AFC Bournemouth v Hull City\n🏆 Premier League — Mat
+ chday 14\n🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 Vitality Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد هال سيتي — الدو
+ ري الإنجليزي الممتاز | Tomorrow: AFC Bournemouth vs Hull
+  City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × هال سيتي | Kick-off in 30 min: AFC Bournemouth vs Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795555@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Arsenal vs AFC Bournemouth — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795555
+DESCRIPTION:⚽ أرسنال × بورنموث\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 15\n🗓 السبت 12 ديسم
+ بر 2026 · 18:00 بتوقيت الرياض\n🏟 Emirates Stadium\n—
+ ————\n⚽ Arsenal v AFC Bournemouth\n🏆 Premier League — Match
+ day 15\n🗓 Sat 12 Dec 2026 · 15:00 UTC\n🏟 Emirates Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد بورنموث — الدوري
+  الإنجليزي الممتاز | Tomorrow: Arsenal vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × بورنموث | Kick-off in 30 min: Arsenal vs AFC Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795565@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:AFC Bournemouth vs Coventry City — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795565
+DESCRIPTION:⚽ بورنموث × كوفنتري سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 16\n🗓 السبت 
+ 19 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Vitality Sta
+ dium\n—————\n⚽ AFC Bournemouth v Coventry City\n🏆 Premier L
+ eague — Matchday 16\n🗓 Sat 19 Dec 2026 · 15:00 UTC\n🏟 Vitality St
+ adium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد كوفنتري سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: AFC Bournemouth
+  vs Coventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × كوفنتري سيتي | Kick-off in 30 min: AFC Bournemouth vs C
+ oventry City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795584@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261226T150000Z
+DTEND:20261226T170000Z
+SUMMARY:Tottenham Hotspur vs AFC Bournemouth — Premier League
+LOCATION:Tottenham Hotspur Stadium
+URL:https://www.fotmob.com/match/5795584
+DESCRIPTION:⚽ توتنهام هوتسبر × بورنموث\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 17\n🗓 الس
+ بت 26 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Tottenh
+ am Hotspur Stadium\n—————\n⚽ Tottenham Hotspur v AFC Bournemou
+ th\n🏆 Premier League — Matchday 17\n🗓 Sat 26 Dec 2026 · 15:00 UTC
+ \n🏟 Tottenham Hotspur Stadium\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توتنهام هوتسبر ضد بورنموث 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Tottenham H
+ otspur vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توتنه
+ ام هوتسبر × بورنموث | Kick-off in 30 min: Tottenham Hotspu
+ r vs AFC Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795587@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261230T200000Z
+DTEND:20261230T220000Z
+SUMMARY:Crystal Palace vs AFC Bournemouth — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795587
+DESCRIPTION:⚽ كريستال بالاس × بورنموث\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 18\n🗓 الأر
+ بعاء 30 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Sel
+ hurst Park\n—————\n⚽ Crystal Palace v AFC Bournemouth\n🏆 Pr
+ emier League — Matchday 18\n🗓 Wed 30 Dec 2026 · 20:00 UTC\n🏟 Selh
+ urst Park\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد بورنموث —
+  الدوري الإنجليزي الممتاز | Tomorrow: Crystal Palace
+  vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × بورنموث | Kick-off in 30 min: Crystal Palace vs 
+ AFC Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795595@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T150000Z
+DTEND:20270102T170000Z
+SUMMARY:AFC Bournemouth vs Aston Villa — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795595
+DESCRIPTION:⚽ بورنموث × أستون فيلا\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 19\n🗓 السبت 2 ي
+ ناير 2027 · 18:00 بتوقيت الرياض\n🏟 Vitality Stadium\n
+ —————\n⚽ AFC Bournemouth v Aston Villa\n🏆 Premier League 
+ — Matchday 19\n🗓 Sat 02 Jan 2027 · 15:00 UTC\n🏟 Vitality Stadium\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد أستون فيلا — ال
+ دوري الإنجليزي الممتاز | Tomorrow: AFC Bournemouth vs 
+ Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × أستون فيلا | Kick-off in 30 min: AFC Bournemouth vs Aston
+  Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795606@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T200000Z
+DTEND:20270106T220000Z
+SUMMARY:Brighton & Hove Albion vs AFC Bournemouth — Premier League
+LOCATION:The American Express Community Stadium
+URL:https://www.fotmob.com/match/5795606
+DESCRIPTION:⚽ برايتون × بورنموث\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 20\n🗓 الأربعاء 6 
+ يناير 2027 · 23:00 بتوقيت الرياض\n🏟 The American Expr
+ ess Community Stadium\n—————\n⚽ Brighton & Hove Albion v AFC B
+ ournemouth\n🏆 Premier League — Matchday 20\n🗓 Wed 06 Jan 2027 · 2
+ 0:00 UTC\n🏟 The American Express Community Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برايتون ضد بورنموث — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Brighton & Hove Albion vs
+  AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برايت
+ ون × بورنموث | Kick-off in 30 min: Brighton & Hove Albion vs AFC
+  Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795615@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:AFC Bournemouth vs Ipswich Town — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795615
+DESCRIPTION:⚽ بورنموث × إبسويتش تاون\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 21\n🗓 السبت 
+ 16 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Vitality Stadi
+ um\n—————\n⚽ AFC Bournemouth v Ipswich Town\n🏆 Premier Leag
+ ue — Matchday 21\n🗓 Sat 16 Jan 2027 · 15:00 UTC\n🏟 Vitality Stadi
+ um\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد إبسويتش تاون — 
+ الدوري الإنجليزي الممتاز | Tomorrow: AFC Bournemouth
+  vs Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × إبسويتش تاون | Kick-off in 30 min: AFC Bournemouth vs I
+ pswich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795633@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:Nottingham Forest vs AFC Bournemouth — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795633
+DESCRIPTION:⚽ نوتنجهام فورست × بورنموث\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 22\n🗓 الس
+ بت 23 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 City Grou
+ nd, Nottingham\n—————\n⚽ Nottingham Forest v AFC Bournemouth\n
+ 🏆 Premier League — Matchday 22\n🗓 Sat 23 Jan 2027 · 15:00 UTC\n
+ 🏟 City Ground, Nottingham\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد بورنموث 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Nottingham 
+ Forest vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × بورنموث | Kick-off in 30 min: Nottingham Fores
+ t vs AFC Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795635@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:AFC Bournemouth vs Fulham — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795635
+DESCRIPTION:⚽ بورنموث × فولهام\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 23\n🗓 السبت 30 يناي
+ ر 2027 · 18:00 بتوقيت الرياض\n🏟 Vitality Stadium\n——
+ ———\n⚽ AFC Bournemouth v Fulham\n🏆 Premier League — Matchday 
+ 23\n🗓 Sat 30 Jan 2027 · 15:00 UTC\n🏟 Vitality Stadium\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد فولهام — الدوري
+  الإنجليزي الممتاز | Tomorrow: AFC Bournemouth vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × فولهام | Kick-off in 30 min: AFC Bournemouth vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795651@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Leeds United vs AFC Bournemouth — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795651
+DESCRIPTION:⚽ ليدز يونايتد × بورنموث\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 24\n🗓 السبت 
+ 6 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Elland Road\n
+ —————\n⚽ Leeds United v AFC Bournemouth\n🏆 Premier League 
+ — Matchday 24\n🗓 Sat 06 Feb 2027 · 15:00 UTC\n🏟 Elland Road\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد بورنموث — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Leeds United vs
+  AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × بورنموث | Kick-off in 30 min: Leeds United vs AFC B
+ ournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795655@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270210T200000Z
+DTEND:20270210T220000Z
+SUMMARY:Aston Villa vs AFC Bournemouth — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795655
+DESCRIPTION:⚽ أستون فيلا × بورنموث\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 25\n🗓 الأربعاء
+  10 فبراير 2027 · 23:00 بتوقيت الرياض\n🏟 Villa Park\
+ n—————\n⚽ Aston Villa v AFC Bournemouth\n🏆 Premier League 
+ — Matchday 25\n🗓 Wed 10 Feb 2027 · 20:00 UTC\n🏟 Villa Park\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد بورنموث — ال
+ دوري الإنجليزي الممتاز | Tomorrow: Aston Villa vs AFC 
+ Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × بورنموث | Kick-off in 30 min: Aston Villa vs AFC Bourne
+ mouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795665@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:AFC Bournemouth vs Crystal Palace — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795665
+DESCRIPTION:⚽ بورنموث × كريستال بالاس\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 26\n🗓 السب
+ ت 20 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Vitality 
+ Stadium\n—————\n⚽ AFC Bournemouth v Crystal Palace\n🏆 Premi
+ er League — Matchday 26\n🗓 Sat 20 Feb 2027 · 15:00 UTC\n🏟 Vitalit
+ y Stadium\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد كريستال بالاس —
+  الدوري الإنجليزي الممتاز | Tomorrow: AFC Bournemout
+ h vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × كريستال بالاس | Kick-off in 30 min: AFC Bournemouth vs
+  Crystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795676@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T150000Z
+DTEND:20270227T170000Z
+SUMMARY:Coventry City vs AFC Bournemouth — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795676
+DESCRIPTION:⚽ كوفنتري سيتي × بورنموث\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 27\n🗓 السبت 
+ 27 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Coventry Bui
+ lding Society Arena\n—————\n⚽ Coventry City v AFC Bournemouth\
+ n🏆 Premier League — Matchday 27\n🗓 Sat 27 Feb 2027 · 15:00 UTC\n
+ 🏟 Coventry Building Society Arena\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد بورنموث — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Coventry City v
+ s AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × بورنموث | Kick-off in 30 min: Coventry City vs AFC
+  Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795685@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270303T200000Z
+DTEND:20270303T220000Z
+SUMMARY:AFC Bournemouth vs Tottenham Hotspur — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795685
+DESCRIPTION:⚽ بورنموث × توتنهام هوتسبر\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 28\n🗓 الأ
+ ربعاء 3 مارس 2027 · 23:00 بتوقيت الرياض\n🏟 Vitali
+ ty Stadium\n—————\n⚽ AFC Bournemouth v Tottenham Hotspur\n🏆
+  Premier League — Matchday 28\n🗓 Wed 03 Mar 2027 · 20:00 UTC\n🏟 V
+ itality Stadium\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد توتنهام هوتسبر 
+ — الدوري الإنجليزي الممتاز | Tomorrow: AFC Bournem
+ outh vs Tottenham Hotspur
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × توتنهام هوتسبر | Kick-off in 30 min: AFC Bournemouth 
+ vs Tottenham Hotspur
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795695@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T150000Z
+DTEND:20270313T170000Z
+SUMMARY:AFC Bournemouth vs Newcastle United — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795695
+DESCRIPTION:⚽ بورنموث × نيوكاسل يونايتد\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 29\n🗓 ال
+ سبت 13 مارس 2027 · 18:00 بتوقيت الرياض\n🏟 Vitality 
+ Stadium\n—————\n⚽ AFC Bournemouth v Newcastle United\n🏆 Pre
+ mier League — Matchday 29\n🗓 Sat 13 Mar 2027 · 15:00 UTC\n🏟 Vital
+ ity Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد نيوكاسل يونايتد
+  — الدوري الإنجليزي الممتاز | Tomorrow: AFC Bourne
+ mouth vs Newcastle United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × نيوكاسل يونايتد | Kick-off in 30 min: AFC Bournemout
+ h vs Newcastle United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795706@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T150000Z
+DTEND:20270320T170000Z
+SUMMARY:Brentford vs AFC Bournemouth — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795706
+DESCRIPTION:⚽ برينتفورد × بورنموث\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 30\n🗓 السبت 20 م
+ ارس 2027 · 18:00 بتوقيت الرياض\n🏟 Gtech Community Stadi
+ um\n—————\n⚽ Brentford v AFC Bournemouth\n🏆 Premier League 
+ — Matchday 30\n🗓 Sat 20 Mar 2027 · 15:00 UTC\n🏟 Gtech Community S
+ tadium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد بورنموث — الد
+ وري الإنجليزي الممتاز | Tomorrow: Brentford vs AFC Bour
+ nemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × بورنموث | Kick-off in 30 min: Brentford vs AFC Bournemo
+ uth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795715@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T140000Z
+DTEND:20270410T160000Z
+SUMMARY:AFC Bournemouth vs Manchester City — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795715
+DESCRIPTION:⚽ بورنموث × مانشستر سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 31\n🗓 السبت 
+ 10 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 Vitality Stadi
+ um\n—————\n⚽ AFC Bournemouth v Manchester City\n🏆 Premier L
+ eague — Matchday 31\n🗓 Sat 10 Apr 2027 · 14:00 UTC\n🏟 Vitality St
+ adium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد مانشستر سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: AFC Bournemouth
+  vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × مانشستر سيتي | Kick-off in 30 min: AFC Bournemouth vs M
+ anchester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795728@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T140000Z
+DTEND:20270417T160000Z
+SUMMARY:Everton vs AFC Bournemouth — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795728
+DESCRIPTION:⚽ إيفرتون × بورنموث\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 32\n🗓 السبت 17 أبر
+ يل 2027 · 17:00 بتوقيت الرياض\n🏟 Hill Dickinson Stadium\
+ n—————\n⚽ Everton v AFC Bournemouth\n🏆 Premier League — M
+ atchday 32\n🗓 Sat 17 Apr 2027 · 14:00 UTC\n🏟 Hill Dickinson Stadium
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد بورنموث — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Everton vs AFC Bournemout
+ h
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × بورنموث | Kick-off in 30 min: Everton vs AFC Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795735@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T140000Z
+DTEND:20270424T160000Z
+SUMMARY:AFC Bournemouth vs Arsenal — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795735
+DESCRIPTION:⚽ بورنموث × أرسنال\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 33\n🗓 السبت 24 أبري
+ ل 2027 · 17:00 بتوقيت الرياض\n🏟 Vitality Stadium\n——
+ ———\n⚽ AFC Bournemouth v Arsenal\n🏆 Premier League — Matchday
+  33\n🗓 Sat 24 Apr 2027 · 14:00 UTC\n🏟 Vitality Stadium\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد أرسنال — الدوري
+  الإنجليزي الممتاز | Tomorrow: AFC Bournemouth vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × أرسنال | Kick-off in 30 min: AFC Bournemouth vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795750@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T140000Z
+DTEND:20270501T160000Z
+SUMMARY:Hull City vs AFC Bournemouth — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795750
+DESCRIPTION:⚽ هال سيتي × بورنموث\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 34\n🗓 السبت 1 ماي
+ و 2027 · 17:00 بتوقيت الرياض\n🏟 The MKM Stadium\n——
+ ———\n⚽ Hull City v AFC Bournemouth\n🏆 Premier League — Matchd
+ ay 34\n🗓 Sat 01 May 2027 · 14:00 UTC\n🏟 The MKM Stadium\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد بورنموث — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Hull City vs AFC Bourne
+ mouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × بورنموث | Kick-off in 30 min: Hull City vs AFC Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795755@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T140000Z
+DTEND:20270508T160000Z
+SUMMARY:AFC Bournemouth vs Manchester United — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795755
+DESCRIPTION:⚽ بورنموث × مانشستر يونايتد\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 35\n🗓 ال
+ سبت 8 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Vitality S
+ tadium\n—————\n⚽ AFC Bournemouth v Manchester United\n🏆 Pre
+ mier League — Matchday 35\n🗓 Sat 08 May 2027 · 14:00 UTC\n🏟 Vital
+ ity Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد مانشستر يونايتد
+  — الدوري الإنجليزي الممتاز | Tomorrow: AFC Bourne
+ mouth vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × مانشستر يونايتد | Kick-off in 30 min: AFC Bournemout
+ h vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795787@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T140000Z
+DTEND:20270515T160000Z
+SUMMARY:Sunderland vs AFC Bournemouth — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795787
+DESCRIPTION:⚽ سندرلاند × بورنموث\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 36\n🗓 السبت 15 ما
+ يو 2027 · 17:00 بتوقيت الرياض\n🏟 Stadium of Light\n—
+ ————\n⚽ Sunderland v AFC Bournemouth\n🏆 Premier League — Ma
+ tchday 36\n🗓 Sat 15 May 2027 · 14:00 UTC\n🏟 Stadium of Light\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد بورنموث — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Sunderland vs AFC Bourn
+ emouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × بورنموث | Kick-off in 30 min: Sunderland vs AFC Bournemou
+ th
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795788@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T140000Z
+DTEND:20270523T160000Z
+SUMMARY:AFC Bournemouth vs Chelsea — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795788
+DESCRIPTION:⚽ بورنموث × تشيلسي\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 37\n🗓 الأحد 23 مايو
+  2027 · 17:00 بتوقيت الرياض\n🏟 Vitality Stadium\n———
+ ——\n⚽ AFC Bournemouth v Chelsea\n🏆 Premier League — Matchday 37
+ \n🗓 Sun 23 May 2027 · 14:00 UTC\n🏟 Vitality Stadium\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد تشيلسي — الدوري
+  الإنجليزي الممتاز | Tomorrow: AFC Bournemouth vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × تشيلسي | Kick-off in 30 min: AFC Bournemouth vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795805@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T150000Z
+DTEND:20270530T170000Z
+SUMMARY:Liverpool vs AFC Bournemouth — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795805
+DESCRIPTION:⚽ ليفربول × بورنموث\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 38\n🗓 الأحد 30 ماي
+ و 2027 · 18:00 بتوقيت الرياض\n🏟 Anfield\n—————\
+ n⚽ Liverpool v AFC Bournemouth\n🏆 Premier League — Matchday 38\n
+ 🗓 Sun 30 May 2027 · 15:00 UTC\n🏟 Anfield\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد بورنموث — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Liverpool vs AFC Bournemo
+ uth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × بورنموث | Kick-off in 30 min: Liverpool vs AFC Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112272@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260917T190000Z
+DTEND:20260917T210000Z
+SUMMARY:Real Sociedad vs AFC Bournemouth — UEFA Europa League
+LOCATION:Estadio Municipal de Anoeta\, Donostia-San Sebastián\, Spain
+GEO:43.301376;-1.973602
+URL:https://www.fotmob.com/match/6112272
+DESCRIPTION:⚽ ريال سوسيداد × بورنموث\n🏆 الدور
+ ي الأوروبي — الجولة 1\n🗓 الخميس 17 سبتمبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio Municipal de Anoeta
+ ، Donostia-San Sebastián\n—————\n⚽ Real Sociedad v AFC Bourn
+ emouth\n🏆 UEFA Europa League — Matchday 1\n🗓 Thu 17 Sep 2026 · 19
+ :00 UTC\n🏟 Estadio Municipal de Anoeta, Donostia-San Sebastián\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد بورنموث — 
+ الدوري الأوروبي | Tomorrow: Real Sociedad vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × بورنموث | Kick-off in 30 min: Real Sociedad vs AFC 
+ Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112328@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:AFC Bournemouth vs Sturm Graz — UEFA Europa League
+LOCATION:Vitality Stadium\, Bournemouth\, Dorset\, England
+GEO:50.735241;-1.838310
+URL:https://www.fotmob.com/match/6112328
+DESCRIPTION:⚽ بورنموث × شتورم غراتس\n🏆 الدوري 
+ الأوروبي — الجولة 2\n🗓 الخميس 15 أكتوبر 202
+ 6 · 22:00 بتوقيت الرياض\n🏟 Vitality Stadium، Bournemouth,
+  Dorset\n—————\n⚽ AFC Bournemouth v Sturm Graz\n🏆 UEFA Euro
+ pa League — Matchday 2\n🗓 Thu 15 Oct 2026 · 19:00 UTC\n🏟 Vitality
+  Stadium, Bournemouth, Dorset\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد شتورم غراتس — ا
+ لدوري الأوروبي | Tomorrow: AFC Bournemouth vs Sturm Graz
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × شتورم غراتس | Kick-off in 30 min: AFC Bournemouth vs Stu
+ rm Graz
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112326@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:AFC Bournemouth vs Milan — UEFA Europa League
+LOCATION:Vitality Stadium\, Bournemouth\, Dorset\, England
+GEO:50.735241;-1.838310
+URL:https://www.fotmob.com/match/6112326
+DESCRIPTION:⚽ بورنموث × ميلان\n🏆 الدوري الأور
+ وبي — الجولة 3\n🗓 الخميس 22 أكتوبر 2026 · 22:00
+  بتوقيت الرياض\n🏟 Vitality Stadium، Bournemouth, Dorset\n
+ —————\n⚽ AFC Bournemouth v Milan\n🏆 UEFA Europa League — 
+ Matchday 3\n🗓 Thu 22 Oct 2026 · 19:00 UTC\n🏟 Vitality Stadium, Bour
+ nemouth, Dorset\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد ميلان — الدوري 
+ الأوروبي | Tomorrow: AFC Bournemouth vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × ميلان | Kick-off in 30 min: AFC Bournemouth vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112304@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:Sparta Prague vs AFC Bournemouth — UEFA Europa League
+LOCATION:epet Arena
+URL:https://www.fotmob.com/match/6112304
+DESCRIPTION:⚽ سبارتا براغ × بورنموث\n🏆 الدوري 
+ الأوروبي — الجولة 4\n🗓 الخميس 5 نوفمبر 2026
+  · 20:45 بتوقيت الرياض\n🏟 epet Arena\n—————\n⚽
+  Sparta Prague v AFC Bournemouth\n🏆 UEFA Europa League — Matchday 4\n
+ 🗓 Thu 05 Nov 2026 · 17:45 UTC\n🏟 epet Arena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سبارتا براغ ضد بورنموث — ا
+ لدوري الأوروبي | Tomorrow: Sparta Prague vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سبارت
+ ا براغ × بورنموث | Kick-off in 30 min: Sparta Prague vs AFC B
+ ournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112348@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Celta Vigo vs AFC Bournemouth — UEFA Europa League
+LOCATION:Abanca Balaidos
+URL:https://www.fotmob.com/match/6112348
+DESCRIPTION:⚽ سيلتا فيجو × بورنموث\n🏆 الدوري ا
+ لأوروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 2026 
+ · 20:45 بتوقيت الرياض\n🏟 Abanca Balaidos\n—————\
+ n⚽ Celta Vigo v AFC Bournemouth\n🏆 UEFA Europa League — Matchday 5\
+ n🗓 Thu 26 Nov 2026 · 17:45 UTC\n🏟 Abanca Balaidos\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتا فيجو ضد بورنموث — ال
+ دوري الأوروبي | Tomorrow: Celta Vigo vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتا 
+ فيجو × بورنموث | Kick-off in 30 min: Celta Vigo vs AFC Bournem
+ outh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112327@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:AFC Bournemouth vs Viktoria Plzeň — UEFA Europa League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/6112327
+DESCRIPTION:⚽ بورنموث × فيكتوريا بلزن\n🏆 الدو
+ ري الأوروبي — الجولة 6\n🗓 الخميس 10 ديسمب
+ ر 2026 · 23:00 بتوقيت الرياض\n🏟 Vitality Stadium\n——
+ ———\n⚽ AFC Bournemouth v Viktoria Plzeň\n🏆 UEFA Europa League 
+ — Matchday 6\n🗓 Thu 10 Dec 2026 · 20:00 UTC\n🏟 Vitality Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد فيكتوريا بلزن —
+  الدوري الأوروبي | Tomorrow: AFC Bournemouth vs Viktoria Plz
+ eň
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × فيكتوريا بلزن | Kick-off in 30 min: AFC Bournemouth vs
+  Viktoria Plzeň
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112376@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T174500Z
+DTEND:20270121T194500Z
+SUMMARY:Lillestrøm vs AFC Bournemouth — UEFA Europa League
+LOCATION:Aaraasen Stadion
+URL:https://www.fotmob.com/match/6112376
+DESCRIPTION:⚽ ليلستروم × بورنموث\n🏆 الدوري ال
+ أوروبي — الجولة 7\n🗓 الخميس 21 يناير 2027 · 2
+ 0:45 بتوقيت الرياض\n🏟 Aaraasen Stadion\n—————\n
+ ⚽ Lillestrøm v AFC Bournemouth\n🏆 UEFA Europa League — Matchday 7\
+ n🗓 Thu 21 Jan 2027 · 17:45 UTC\n🏟 Aaraasen Stadion\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليلستروم ضد بورنموث — الدو
+ ري الأوروبي | Tomorrow: Lillestrøm vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليلست
+ روم × بورنموث | Kick-off in 30 min: Lillestrøm vs AFC Bournemo
+ uth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112329@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:AFC Bournemouth vs Hapoel Beer Sheva — UEFA Europa League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/6112329
+DESCRIPTION:⚽ بورنموث × هبوعيل بئر سبع\n🏆 الدو
+ ري الأوروبي — الجولة 8\n🗓 الخميس 28 يناير 
+ 2027 · 23:00 بتوقيت الرياض\n🏟 Vitality Stadium\n———
+ ——\n⚽ AFC Bournemouth v Hapoel Beer Sheva\n🏆 UEFA Europa League 
+ — Matchday 8\n🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 Vitality Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد هبوعيل بئر سبع 
+ — الدوري الأوروبي | Tomorrow: AFC Bournemouth vs Hapoel Be
+ er Sheva
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × هبوعيل بئر سبع | Kick-off in 30 min: AFC Bournemouth v
+ s Hapoel Beer Sheva
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089915@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T150000Z
+DTEND:20260110T170000Z
+SUMMARY:Newcastle United vs AFC Bournemouth (3 - 3) — FA Cup
+LOCATION:St. James' Park\, Newcastle upon Tyne\, England
+GEO:54.975540;-1.621621
+URL:https://www.fotmob.com/match/5089915
+DESCRIPTION:⚽ نيوكاسل يونايتد × بورنموث (3 - 3)\n
+ 🏆 كأس الاتحاد الإنجليزي — الدور الثالث\
+ n🗓 السبت 10 يناير 2026 · 18:00 بتوقيت الرياض\n
+ 🏟 St. James' Park، Newcastle upon Tyne\n⚖️ الحكم: Thomas Bram
+ all\n👥 الحضور: 51,563\n—————\n⚽ Newcastle United v AF
+ C Bournemouth (3 - 3)\n🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 15
+ :00 UTC\n🏟 St. James' Park, Newcastle upon Tyne\nReferee: Thomas Bramal
+ l\nAttendance: 51,563\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل يونايتد ضد بورنموث
+  — كأس الاتحاد الإنجليزي | Tomorrow: Newcastle United
+  vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل يونايتد × بورنموث | Kick-off in 30 min: Newcastle Unit
+ ed vs AFC Bournemouth
+END:VALARM
+END:VEVENT
+END:VCALENDAR

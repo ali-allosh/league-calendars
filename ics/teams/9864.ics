@@ -1,0 +1,1258 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Málaga — LaLiga & Copa del Rey Fixtures | مالقا 
+ — مباريات الدوري الإسباني وكأس ملك إسبا
+ نيا
+X-WR-CALDESC:Málaga — all matches in LaLiga & Copa del Rey\, exact UTC k
+ ickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-
+ 05T19:31:10Z.  •  مالقا — جميع المباريات في الد
+ وري الإسباني وكأس ملك إسبانيا بتوقيت UTC ا
+ لدقيق مع الملاعب والقنوات الناقلة. المصد
+ ر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5868012@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260819T190500Z
+DTEND:20260819T210500Z
+SUMMARY:Atlético Madrid vs Málaga (2 - 0) — LaLiga
+LOCATION:Riyadh Air Metropolitano\, Madrid\, Spain
+GEO:40.436226;-3.599460
+URL:https://www.fotmob.com/match/5868012
+DESCRIPTION:⚽ أتلتيكو مدريد × مالقا (2 - 0)\n🏆 ال
+ دوري الإسباني — الجولة 1\n🗓 الأربعاء 19 أ
+ غسطس 2026 · 22:05 بتوقيت الرياض\n🏟 Riyadh Air Metropol
+ itano، Madrid\n⚖️ الحكم: Adrián Cordero Vega\n👥 الحضور
+ : 65,785\n—————\n⚽ Atlético Madrid v Málaga (2 - 0)\n🏆 La
+ Liga — Matchday 1\n🗓 Wed 19 Aug 2026 · 19:05 UTC\n🏟 Riyadh Air Me
+ tropolitano, Madrid\nReferee: Adrián Cordero Vega\nAttendance: 65,785\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد مالقا — ا
+ لدوري الإسباني | Tomorrow: Atlético Madrid vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × مالقا | Kick-off in 30 min: Atlético Madrid vs M
+ álaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868027@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260824T193000Z
+DTEND:20260824T213000Z
+SUMMARY:Málaga vs Deportivo A Coruña (1 - 1) — LaLiga
+LOCATION:Estadio La Rosaleda\, Málaga\, Spain
+GEO:36.734209;-4.426602
+URL:https://www.fotmob.com/match/5868027
+DESCRIPTION:⚽ مالقا × ديبورتيفو لاكورونيا (1 - 1)
+ \n🏆 الدوري الإسباني — الجولة 2\n🗓 الاثني
+ ن 24 أغسطس 2026 · 22:30 بتوقيت الرياض\n🏟 Estadio La 
+ Rosaleda، Málaga\n⚖️ الحكم: Javier Alberola Rojas\n👥 الح
+ ضور: 29,014\n—————\n⚽ Málaga v Deportivo A Coruña (1 - 1)
+ \n🏆 LaLiga — Matchday 2\n🗓 Mon 24 Aug 2026 · 19:30 UTC\n🏟 Esta
+ dio La Rosaleda, Málaga\nReferee: Javier Alberola Rojas\nAttendance: 29,0
+ 14\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد ديبورتيفو لاكورون
+ يا — الدوري الإسباني | Tomorrow: Málaga vs Deportivo A 
+ Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × ديبورتيفو لاكورونيا | Kick-off in 30 min: Málaga vs 
+ Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868038@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T150000Z
+DTEND:20260830T170000Z
+SUMMARY:Real Madrid vs Málaga (4 - 0) — LaLiga
+LOCATION:Estadio Bernabéu\, Madrid\, Spain
+GEO:40.453068;-3.688354
+URL:https://www.fotmob.com/match/5868038
+DESCRIPTION:⚽ ريال مدريد × مالقا (4 - 0)\n🏆 الدور
+ ي الإسباني — الجولة 3\n🗓 الأحد 30 أغسطس 2026
+  · 18:00 بتوقيت الرياض\n🏟 Estadio Bernabéu، Madrid\n⚖
+ ️ الحكم: Juan Martínez Munuera\n—————\n⚽ Real Madrid v
+  Málaga (4 - 0)\n🏆 LaLiga — Matchday 3\n🗓 Sun 30 Aug 2026 · 15:0
+ 0 UTC\n🏟 Estadio Bernabéu, Madrid\nReferee: Juan Martínez Munuera\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد مالقا — الدو
+ ري الإسباني | Tomorrow: Real Madrid vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × مالقا | Kick-off in 30 min: Real Madrid vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868047@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260906T163000Z
+DTEND:20260906T183000Z
+SUMMARY:Málaga vs Levante — LaLiga
+LOCATION:Estadio La Rosaleda\, Málaga\, Spain
+GEO:36.734209;-4.426602
+URL:https://www.fotmob.com/match/5868047
+DESCRIPTION:⚽ مالقا × ليفانتي\n🏆 الدوري الإسب
+ اني — الجولة 4\n🗓 الأحد 6 سبتمبر 2026 · 19:30 ب
+ توقيت الرياض\n🏟 Estadio La Rosaleda، Málaga\n📺 beIN Spo
+ rts 3 HD\n—————\n⚽ Málaga v Levante\n🏆 LaLiga — Matchday
+  4\n🗓 Sun 06 Sep 2026 · 16:30 UTC\n🏟 Estadio La Rosaleda, Málaga\n
+ 📺 beIN Sports 3 HD\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد ليفانتي — الدوري 
+ الإسباني — 📺 beIN Sports 3 HD | Tomorrow: Málaga vs Levante 
+ | TV: beIN Sports 3 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × ليفانتي — 📺 beIN Sports 3 HD | Kick-off in 30 min: Málaga 
+ vs Levante | TV: beIN Sports 3 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868052@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:Celta Vigo vs Málaga — LaLiga
+LOCATION:Abanca Balaidos
+URL:https://www.fotmob.com/match/5868052
+DESCRIPTION:⚽ سيلتا فيجو × مالقا\n🏆 الدوري الإ
+ سباني — الجولة 5\n🗓 الأحد 13 سبتمبر 2026 · 15:
+ 00 بتوقيت الرياض\n🏟 Abanca Balaidos\n📺 beIN Sports Conne
+ ct Singapore، beIN SPORTS CONNECT، FanCode، Now Player\n—————
+ \n⚽ Celta Vigo v Málaga\n🏆 LaLiga — Matchday 5\n🗓 Sun 13 Sep 20
+ 26 · 12:00 UTC\n🏟 Abanca Balaidos\n📺 beIN Sports Connect Singapore,
+  beIN SPORTS CONNECT, FanCode, Now Player\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتا فيجو ضد مالقا — الدو
+ ري الإسباني — 📺 beIN Sports Connect Singapore، beIN SPORTS
+  CONNECT، FanCode، Now Player | Tomorrow: Celta Vigo vs Málaga | TV: be
+ IN Sports Connect Singapore\, beIN SPORTS CONNECT\, FanCode\, Now Player
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتا 
+ فيجو × مالقا — 📺 beIN Sports Connect Singapore، beIN SPORT
+ S CONNECT، FanCode، Now Player | Kick-off in 30 min: Celta Vigo vs Mála
+ ga | TV: beIN Sports Connect Singapore\, beIN SPORTS CONNECT\, FanCode\, N
+ ow Player
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868068@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260917T193000Z
+DTEND:20260917T213000Z
+SUMMARY:Málaga vs Villarreal — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868068
+DESCRIPTION:⚽ مالقا × فياريال\n🏆 الدوري الإسب
+ اني — الجولة 6\n🗓 الخميس 17 سبتمبر 2026 · 22:30
+  بتوقيت الرياض\n🏟 Estadio La Rosaleda\n—————\n⚽
+  Málaga v Villarreal\n🏆 LaLiga — Matchday 6\n🗓 Thu 17 Sep 2026 ·
+  19:30 UTC\n🏟 Estadio La Rosaleda\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد فياريال — الدوري 
+ الإسباني | Tomorrow: Málaga vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × فياريال | Kick-off in 30 min: Málaga vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868076@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T120000Z
+DTEND:20260920T140000Z
+SUMMARY:Getafe vs Málaga — LaLiga
+LOCATION:Coliseum
+URL:https://www.fotmob.com/match/5868076
+DESCRIPTION:⚽ خيتافي × مالقا\n🏆 الدوري الإسبا
+ ني — الجولة 7\n🗓 الأحد 20 سبتمبر 2026 · 15:00 ب
+ توقيت الرياض\n🏟 Coliseum\n—————\n⚽ Getafe v Mál
+ aga\n🏆 LaLiga — Matchday 7\n🗓 Sun 20 Sep 2026 · 12:00 UTC\n🏟 C
+ oliseum\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: خيتافي ضد مالقا — الدوري ا
+ لإسباني | Tomorrow: Getafe vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: خيتاف
+ ي × مالقا | Kick-off in 30 min: Getafe vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868086@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Málaga vs Espanyol — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868086
+DESCRIPTION:⚽ مالقا × إسبانيول\n🏆 الدوري الإس
+ باني — الجولة 8\n🗓 الأحد 11 أكتوبر 2026 · 16:00
+  بتوقيت الرياض\n🏟 Estadio La Rosaleda\n—————\n⚽
+  Málaga v Espanyol\n🏆 LaLiga — Matchday 8\n🗓 Sun 11 Oct 2026 · 1
+ 3:00 UTC\n🏟 Estadio La Rosaleda\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد إسبانيول — الدوري
+  الإسباني | Tomorrow: Málaga vs Espanyol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × إسبانيول | Kick-off in 30 min: Málaga vs Espanyol
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868096@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Málaga vs Real Sociedad — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868096
+DESCRIPTION:⚽ مالقا × ريال سوسيداد\n🏆 الدوري ا
+ لإسباني — الجولة 9\n🗓 الأحد 18 أكتوبر 2026 ·
+  16:00 بتوقيت الرياض\n🏟 Estadio La Rosaleda\n————
+ —\n⚽ Málaga v Real Sociedad\n🏆 LaLiga — Matchday 9\n🗓 Sun 18 
+ Oct 2026 · 13:00 UTC\n🏟 Estadio La Rosaleda\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد ريال سوسيداد — ال
+ دوري الإسباني | Tomorrow: Málaga vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × ريال سوسيداد | Kick-off in 30 min: Málaga vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868101@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Deportivo Alavés vs Málaga — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868101
+DESCRIPTION:⚽ ديبورتيفو ألافيس × مالقا\n🏆 الد
+ وري الإسباني — الجولة 10\n🗓 الأحد 25 أكتوب
+ ر 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio Mendizorroza\n—
+ ————\n⚽ Deportivo Alavés v Málaga\n🏆 LaLiga — Matchday 10
+ \n🗓 Sun 25 Oct 2026 · 14:00 UTC\n🏟 Estadio Mendizorroza\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد مالقا 
+ — الدوري الإسباني | Tomorrow: Deportivo Alavés vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × مالقا | Kick-off in 30 min: Deportivo Alavé
+ s vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868112@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Real Betis vs Málaga — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868112
+DESCRIPTION:⚽ ريال بيتيس × مالقا\n🏆 الدوري الإ
+ سباني — الجولة 11\n🗓 الأحد 1 نوفمبر 2026 · 17:
+ 00 بتوقيت الرياض\n🏟 Estadio de La Cartuja\n—————\
+ n⚽ Real Betis v Málaga\n🏆 LaLiga — Matchday 11\n🗓 Sun 01 Nov 20
+ 26 · 14:00 UTC\n🏟 Estadio de La Cartuja\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد مالقا — الدو
+ ري الإسباني | Tomorrow: Real Betis vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × مالقا | Kick-off in 30 min: Real Betis vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868125@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Málaga vs Racing Santander — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868125
+DESCRIPTION:⚽ مالقا × راسينج سانتاندير\n🏆 الد
+ وري الإسباني — الجولة 12\n🗓 الأحد 8 نوفمب
+ ر 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio La Rosaleda\n—
+ ————\n⚽ Málaga v Racing Santander\n🏆 LaLiga — Matchday 12\
+ n🗓 Sun 08 Nov 2026 · 14:00 UTC\n🏟 Estadio La Rosaleda\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد راسينج سانتاندير 
+ — الدوري الإسباني | Tomorrow: Málaga vs Racing Santander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × راسينج سانتاندير | Kick-off in 30 min: Málaga vs Racing
+  Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868136@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Osasuna vs Málaga — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868136
+DESCRIPTION:⚽ أوساسونا × مالقا\n🏆 الدوري الإس
+ باني — الجولة 13\n🗓 الأحد 22 نوفمبر 2026 · 17:0
+ 0 بتوقيت الرياض\n🏟 Estadio El Sadar\n—————\n⚽ O
+ sasuna v Málaga\n🏆 LaLiga — Matchday 13\n🗓 Sun 22 Nov 2026 · 14:
+ 00 UTC\n🏟 Estadio El Sadar\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد مالقا — الدوري
+  الإسباني | Tomorrow: Osasuna vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × مالقا | Kick-off in 30 min: Osasuna vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868147@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T140000Z
+DTEND:20261129T160000Z
+SUMMARY:Málaga vs Athletic Club — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868147
+DESCRIPTION:⚽ مالقا × أتلتيك بلباو\n🏆 الدوري ا
+ لإسباني — الجولة 14\n🗓 الأحد 29 نوفمبر 2026 
+ · 17:00 بتوقيت الرياض\n🏟 Estadio La Rosaleda\n————
+ —\n⚽ Málaga v Athletic Club\n🏆 LaLiga — Matchday 14\n🗓 Sun 29
+  Nov 2026 · 14:00 UTC\n🏟 Estadio La Rosaleda\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد أتلتيك بلباو — ال
+ دوري الإسباني | Tomorrow: Málaga vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × أتلتيك بلباو | Kick-off in 30 min: Málaga vs Athletic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868159@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T140000Z
+DTEND:20261206T160000Z
+SUMMARY:Sevilla vs Málaga — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868159
+DESCRIPTION:⚽ إشبيلية × مالقا\n🏆 الدوري الإسب
+ اني — الجولة 15\n🗓 الأحد 6 ديسمبر 2026 · 17:00 
+ بتوقيت الرياض\n🏟 Estadio R. Sanchez Pizjuan\n————
+ —\n⚽ Sevilla v Málaga\n🏆 LaLiga — Matchday 15\n🗓 Sun 06 Dec 2
+ 026 · 14:00 UTC\n🏟 Estadio R. Sanchez Pizjuan\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد مالقا — الدوري 
+ الإسباني | Tomorrow: Sevilla vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × مالقا | Kick-off in 30 min: Sevilla vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868167@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T140000Z
+DTEND:20261213T160000Z
+SUMMARY:Málaga vs Barcelona — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868167
+DESCRIPTION:⚽ مالقا × برشلونة\n🏆 الدوري الإسب
+ اني — الجولة 16\n🗓 الأحد 13 ديسمبر 2026 · 17:00 
+ بتوقيت الرياض\n🏟 Estadio La Rosaleda\n—————\n⚽ 
+ Málaga v Barcelona\n🏆 LaLiga — Matchday 16\n🗓 Sun 13 Dec 2026 · 
+ 14:00 UTC\n🏟 Estadio La Rosaleda\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد برشلونة — الدوري 
+ الإسباني | Tomorrow: Málaga vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × برشلونة | Kick-off in 30 min: Málaga vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868178@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T140000Z
+DTEND:20261220T160000Z
+SUMMARY:Rayo Vallecano vs Málaga — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868178
+DESCRIPTION:⚽ رايو فاييكانو × مالقا\n🏆 الدوري 
+ الإسباني — الجولة 17\n🗓 الأحد 20 ديسمبر 2026
+  · 17:00 بتوقيت الرياض\n🏟 Campo de Futbol de Vallecas\n—
+ ————\n⚽ Rayo Vallecano v Málaga\n🏆 LaLiga — Matchday 17\n
+ 🗓 Sun 20 Dec 2026 · 14:00 UTC\n🏟 Campo de Futbol de Vallecas\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد مالقا — ا
+ لدوري الإسباني | Tomorrow: Rayo Vallecano vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × مالقا | Kick-off in 30 min: Rayo Vallecano vs Mála
+ ga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868185@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T140000Z
+DTEND:20270103T160000Z
+SUMMARY:Málaga vs Elche — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868185
+DESCRIPTION:⚽ مالقا × إلتشي\n🏆 الدوري الإسبان
+ ي — الجولة 18\n🗓 الأحد 3 يناير 2027 · 17:00 بتو
+ قيت الرياض\n🏟 Estadio La Rosaleda\n—————\n⚽ Málag
+ a v Elche\n🏆 LaLiga — Matchday 18\n🗓 Sun 03 Jan 2027 · 14:00 UTC\
+ n🏟 Estadio La Rosaleda\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد إلتشي — الدوري ال
+ إسباني | Tomorrow: Málaga vs Elche
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × إلتشي | Kick-off in 30 min: Málaga vs Elche
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868200@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T140000Z
+DTEND:20270110T160000Z
+SUMMARY:Valencia vs Málaga — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868200
+DESCRIPTION:⚽ فالنسيا × مالقا\n🏆 الدوري الإسب
+ اني — الجولة 19\n🗓 الأحد 10 يناير 2027 · 17:00 ب
+ توقيت الرياض\n🏟 Estadio Mestalla\n—————\n⚽ Valen
+ cia v Málaga\n🏆 LaLiga — Matchday 19\n🗓 Sun 10 Jan 2027 · 14:00 
+ UTC\n🏟 Estadio Mestalla\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد مالقا — الدوري 
+ الإسباني | Tomorrow: Valencia vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × مالقا | Kick-off in 30 min: Valencia vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868207@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T140000Z
+DTEND:20270117T160000Z
+SUMMARY:Málaga vs Real Madrid — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868207
+DESCRIPTION:⚽ مالقا × ريال مدريد\n🏆 الدوري الإ
+ سباني — الجولة 20\n🗓 الأحد 17 يناير 2027 · 17:0
+ 0 بتوقيت الرياض\n🏟 Estadio La Rosaleda\n—————\n
+ ⚽ Málaga v Real Madrid\n🏆 LaLiga — Matchday 20\n🗓 Sun 17 Jan 20
+ 27 · 14:00 UTC\n🏟 Estadio La Rosaleda\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد ريال مدريد — الدو
+ ري الإسباني | Tomorrow: Málaga vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × ريال مدريد | Kick-off in 30 min: Málaga vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868219@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T140000Z
+DTEND:20270124T160000Z
+SUMMARY:Real Sociedad vs Málaga — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868219
+DESCRIPTION:⚽ ريال سوسيداد × مالقا\n🏆 الدوري ا
+ لإسباني — الجولة 21\n🗓 الأحد 24 يناير 2027 · 
+ 17:00 بتوقيت الرياض\n🏟 Reale Arena\n—————\n⚽ Re
+ al Sociedad v Málaga\n🏆 LaLiga — Matchday 21\n🗓 Sun 24 Jan 2027 
+ · 14:00 UTC\n🏟 Reale Arena\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد مالقا — ال
+ دوري الإسباني | Tomorrow: Real Sociedad vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × مالقا | Kick-off in 30 min: Real Sociedad vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868226@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Málaga vs Deportivo Alavés — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868226
+DESCRIPTION:⚽ مالقا × ديبورتيفو ألافيس\n🏆 الد
+ وري الإسباني — الجولة 22\n🗓 الأحد 31 يناير
+  2027 · 17:00 بتوقيت الرياض\n🏟 Estadio La Rosaleda\n——
+ ———\n⚽ Málaga v Deportivo Alavés\n🏆 LaLiga — Matchday 22\n
+ 🗓 Sun 31 Jan 2027 · 14:00 UTC\n🏟 Estadio La Rosaleda\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد ديبورتيفو ألافيس 
+ — الدوري الإسباني | Tomorrow: Málaga vs Deportivo Alavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × ديبورتيفو ألافيس | Kick-off in 30 min: Málaga vs Deport
+ ivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868234@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:Deportivo A Coruña vs Málaga — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868234
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × مالقا\n🏆 
+ الدوري الإسباني — الجولة 23\n🗓 الأحد 7 فب
+ راير 2027 · 17:00 بتوقيت الرياض\n🏟 Abanca-Riazor\n—
+ ————\n⚽ Deportivo A Coruña v Málaga\n🏆 LaLiga — Matchday 
+ 23\n🗓 Sun 07 Feb 2027 · 14:00 UTC\n🏟 Abanca-Riazor\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد مال
+ قا — الدوري الإسباني | Tomorrow: Deportivo A Coruña vs 
+ Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × مالقا | Kick-off in 30 min: Deportivo 
+ A Coruña vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868243@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T140000Z
+DTEND:20270214T160000Z
+SUMMARY:Levante vs Málaga — LaLiga
+LOCATION:Estadio Ciudad de Valencia
+URL:https://www.fotmob.com/match/5868243
+DESCRIPTION:⚽ ليفانتي × مالقا\n🏆 الدوري الإسب
+ اني — الجولة 24\n🗓 الأحد 14 فبراير 2027 · 17:00 
+ بتوقيت الرياض\n🏟 Estadio Ciudad de Valencia\n————
+ —\n⚽ Levante v Málaga\n🏆 LaLiga — Matchday 24\n🗓 Sun 14 Feb 2
+ 027 · 14:00 UTC\n🏟 Estadio Ciudad de Valencia\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفانتي ضد مالقا — الدوري 
+ الإسباني | Tomorrow: Levante vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفان
+ تي × مالقا | Kick-off in 30 min: Levante vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868257@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T140000Z
+DTEND:20270221T160000Z
+SUMMARY:Málaga vs Real Betis — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868257
+DESCRIPTION:⚽ مالقا × ريال بيتيس\n🏆 الدوري الإ
+ سباني — الجولة 25\n🗓 الأحد 21 فبراير 2027 · 17
+ :00 بتوقيت الرياض\n🏟 Estadio La Rosaleda\n—————\n
+ ⚽ Málaga v Real Betis\n🏆 LaLiga — Matchday 25\n🗓 Sun 21 Feb 202
+ 7 · 14:00 UTC\n🏟 Estadio La Rosaleda\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد ريال بيتيس — الدو
+ ري الإسباني | Tomorrow: Málaga vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × ريال بيتيس | Kick-off in 30 min: Málaga vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868266@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T140000Z
+DTEND:20270228T160000Z
+SUMMARY:Málaga vs Atlético Madrid — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868266
+DESCRIPTION:⚽ مالقا × أتلتيكو مدريد\n🏆 الدوري 
+ الإسباني — الجولة 26\n🗓 الأحد 28 فبراير 2027
+  · 17:00 بتوقيت الرياض\n🏟 Estadio La Rosaleda\n———
+ ——\n⚽ Málaga v Atlético Madrid\n🏆 LaLiga — Matchday 26\n🗓 
+ Sun 28 Feb 2027 · 14:00 UTC\n🏟 Estadio La Rosaleda\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد أتلتيكو مدريد — ا
+ لدوري الإسباني | Tomorrow: Málaga vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × أتلتيكو مدريد | Kick-off in 30 min: Málaga vs Atlético Ma
+ drid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868274@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T140000Z
+DTEND:20270307T160000Z
+SUMMARY:Elche vs Málaga — LaLiga
+LOCATION:Estadio Martinez Valero
+URL:https://www.fotmob.com/match/5868274
+DESCRIPTION:⚽ إلتشي × مالقا\n🏆 الدوري الإسبان
+ ي — الجولة 27\n🗓 الأحد 7 مارس 2027 · 17:00 بتوق
+ يت الرياض\n🏟 Estadio Martinez Valero\n—————\n⚽ Elch
+ e v Málaga\n🏆 LaLiga — Matchday 27\n🗓 Sun 07 Mar 2027 · 14:00 UT
+ C\n🏟 Estadio Martinez Valero\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلتشي ضد مالقا — الدوري ال
+ إسباني | Tomorrow: Elche vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلتشي 
+ × مالقا | Kick-off in 30 min: Elche vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868287@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T140000Z
+DTEND:20270314T160000Z
+SUMMARY:Málaga vs Rayo Vallecano — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868287
+DESCRIPTION:⚽ مالقا × رايو فاييكانو\n🏆 الدوري 
+ الإسباني — الجولة 28\n🗓 الأحد 14 مارس 2027 · 
+ 17:00 بتوقيت الرياض\n🏟 Estadio La Rosaleda\n—————
+ \n⚽ Málaga v Rayo Vallecano\n🏆 LaLiga — Matchday 28\n🗓 Sun 14 M
+ ar 2027 · 14:00 UTC\n🏟 Estadio La Rosaleda\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد رايو فاييكانو — ا
+ لدوري الإسباني | Tomorrow: Málaga vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × رايو فاييكانو | Kick-off in 30 min: Málaga vs Rayo Valleca
+ no
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868300@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T140000Z
+DTEND:20270321T160000Z
+SUMMARY:Villarreal vs Málaga — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868300
+DESCRIPTION:⚽ فياريال × مالقا\n🏆 الدوري الإسب
+ اني — الجولة 29\n🗓 الأحد 21 مارس 2027 · 17:00 بت
+ وقيت الرياض\n🏟 Estadio de la Ceramica\n—————\n⚽ V
+ illarreal v Málaga\n🏆 LaLiga — Matchday 29\n🗓 Sun 21 Mar 2027 · 
+ 14:00 UTC\n🏟 Estadio de la Ceramica\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد مالقا — الدوري 
+ الإسباني | Tomorrow: Villarreal vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × مالقا | Kick-off in 30 min: Villarreal vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868308@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T130000Z
+DTEND:20270404T150000Z
+SUMMARY:Málaga vs Osasuna — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868308
+DESCRIPTION:⚽ مالقا × أوساسونا\n🏆 الدوري الإس
+ باني — الجولة 30\n🗓 الأحد 4 أبريل 2027 · 16:00 
+ بتوقيت الرياض\n🏟 Estadio La Rosaleda\n—————\n⚽ 
+ Málaga v Osasuna\n🏆 LaLiga — Matchday 30\n🗓 Sun 04 Apr 2027 · 13
+ :00 UTC\n🏟 Estadio La Rosaleda\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد أوساسونا — الدوري
+  الإسباني | Tomorrow: Málaga vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × أوساسونا | Kick-off in 30 min: Málaga vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868314@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T130000Z
+DTEND:20270411T150000Z
+SUMMARY:Espanyol vs Málaga — LaLiga
+LOCATION:RCDE Stadium
+URL:https://www.fotmob.com/match/5868314
+DESCRIPTION:⚽ إسبانيول × مالقا\n🏆 الدوري الإس
+ باني — الجولة 31\n🗓 الأحد 11 أبريل 2027 · 16:00 
+ بتوقيت الرياض\n🏟 RCDE Stadium\n—————\n⚽ Espanyo
+ l v Málaga\n🏆 LaLiga — Matchday 31\n🗓 Sun 11 Apr 2027 · 13:00 UT
+ C\n🏟 RCDE Stadium\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إسبانيول ضد مالقا — الدوري
+  الإسباني | Tomorrow: Espanyol vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إسبان
+ يول × مالقا | Kick-off in 30 min: Espanyol vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868329@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T130000Z
+DTEND:20270418T150000Z
+SUMMARY:Málaga vs Valencia — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868329
+DESCRIPTION:⚽ مالقا × فالنسيا\n🏆 الدوري الإسب
+ اني — الجولة 32\n🗓 الأحد 18 أبريل 2027 · 16:00 ب
+ توقيت الرياض\n🏟 Estadio La Rosaleda\n—————\n⚽ M
+ álaga v Valencia\n🏆 LaLiga — Matchday 32\n🗓 Sun 18 Apr 2027 · 13
+ :00 UTC\n🏟 Estadio La Rosaleda\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد فالنسيا — الدوري 
+ الإسباني | Tomorrow: Málaga vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × فالنسيا | Kick-off in 30 min: Málaga vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868336@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270421T130000Z
+DTEND:20270421T150000Z
+SUMMARY:Racing Santander vs Málaga — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868336
+DESCRIPTION:⚽ راسينج سانتاندير × مالقا\n🏆 الد
+ وري الإسباني — الجولة 33\n🗓 الأربعاء 21 أب
+ ريل 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio El Sardinero\
+ n—————\n⚽ Racing Santander v Málaga\n🏆 LaLiga — Matchday
+  33\n🗓 Wed 21 Apr 2027 · 13:00 UTC\n🏟 Estadio El Sardinero\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد مالقا 
+ — الدوري الإسباني | Tomorrow: Racing Santander vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × مالقا | Kick-off in 30 min: Racing Santander
+  vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868348@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T130000Z
+DTEND:20270502T150000Z
+SUMMARY:Málaga vs Getafe — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868348
+DESCRIPTION:⚽ مالقا × خيتافي\n🏆 الدوري الإسبا
+ ني — الجولة 34\n🗓 الأحد 2 مايو 2027 · 16:00 بتو
+ قيت الرياض\n🏟 Estadio La Rosaleda\n—————\n⚽ Málag
+ a v Getafe\n🏆 LaLiga — Matchday 34\n🗓 Sun 02 May 2027 · 13:00 UTC
+ \n🏟 Estadio La Rosaleda\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد خيتافي — الدوري ا
+ لإسباني | Tomorrow: Málaga vs Getafe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × خيتافي | Kick-off in 30 min: Málaga vs Getafe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868352@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T130000Z
+DTEND:20270509T150000Z
+SUMMARY:Athletic Club vs Málaga — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868352
+DESCRIPTION:⚽ أتلتيك بلباو × مالقا\n🏆 الدوري ا
+ لإسباني — الجولة 35\n🗓 الأحد 9 مايو 2027 · 16:
+ 00 بتوقيت الرياض\n🏟 San Mames\n—————\n⚽ Athleti
+ c Club v Málaga\n🏆 LaLiga — Matchday 35\n🗓 Sun 09 May 2027 · 13:
+ 00 UTC\n🏟 San Mames\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد مالقا — ال
+ دوري الإسباني | Tomorrow: Athletic Club vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × مالقا | Kick-off in 30 min: Athletic Club vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868366@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T130000Z
+DTEND:20270516T150000Z
+SUMMARY:Málaga vs Celta Vigo — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868366
+DESCRIPTION:⚽ مالقا × سيلتا فيجو\n🏆 الدوري الإ
+ سباني — الجولة 36\n🗓 الأحد 16 مايو 2027 · 16:00 
+ بتوقيت الرياض\n🏟 Estadio La Rosaleda\n—————\n⚽ 
+ Málaga v Celta Vigo\n🏆 LaLiga — Matchday 36\n🗓 Sun 16 May 2027 ·
+  13:00 UTC\n🏟 Estadio La Rosaleda\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد سيلتا فيجو — الدو
+ ري الإسباني | Tomorrow: Málaga vs Celta Vigo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × سيلتا فيجو | Kick-off in 30 min: Málaga vs Celta Vigo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868375@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T130000Z
+DTEND:20270523T150000Z
+SUMMARY:Barcelona vs Málaga — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868375
+DESCRIPTION:⚽ برشلونة × مالقا\n🏆 الدوري الإسب
+ اني — الجولة 37\n🗓 الأحد 23 مايو 2027 · 16:00 بت
+ وقيت الرياض\n🏟 Spotify Camp Nou\n—————\n⚽ Barcelo
+ na v Málaga\n🏆 LaLiga — Matchday 37\n🗓 Sun 23 May 2027 · 13:00 U
+ TC\n🏟 Spotify Camp Nou\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد مالقا — الدوري 
+ الإسباني | Tomorrow: Barcelona vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × مالقا | Kick-off in 30 min: Barcelona vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868387@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T130000Z
+DTEND:20270530T150000Z
+SUMMARY:Málaga vs Sevilla — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868387
+DESCRIPTION:⚽ مالقا × إشبيلية\n🏆 الدوري الإسب
+ اني — الجولة 38\n🗓 الأحد 30 مايو 2027 · 16:00 بت
+ وقيت الرياض\n🏟 Estadio La Rosaleda\n—————\n⚽ Mál
+ aga v Sevilla\n🏆 LaLiga — Matchday 38\n🗓 Sun 30 May 2027 · 13:00 
+ UTC\n🏟 Estadio La Rosaleda\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد إشبيلية — الدوري 
+ الإسباني | Tomorrow: Málaga vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × إشبيلية | Kick-off in 30 min: Málaga vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-4996024@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251030T200000Z
+DTEND:20251030T220000Z
+SUMMARY:CD Estepona vs Málaga (1 - 3) — Copa del Rey
+LOCATION:Estadio Municipal Francisco Muñoz Pérez\, Estepona\, Spain
+GEO:36.431288;-5.158746
+URL:https://www.fotmob.com/match/4996024
+DESCRIPTION:⚽ إيستيبونا × مالقا (1 - 3)\n🏆 كأس مل
+ ك إسبانيا — الدور الأول\n🗓 الخميس 30 أكتو
+ بر 2025 · 23:00 بتوقيت الرياض\n🏟 Estadio Municipal Franc
+ isco Muñoz Pérez، Estepona\n⚖️ الحكم: José Antonio Sánchez V
+ illalobos\n👥 الحضور: 3,500\n—————\n⚽ CD Estepona v M
+ álaga (1 - 3)\n🏆 Copa del Rey — Round 1\n🗓 Thu 30 Oct 2025 · 20:
+ 00 UTC\n🏟 Estadio Municipal Francisco Muñoz Pérez, Estepona\nReferee:
+  José Antonio Sánchez Villalobos\nAttendance: 3,500\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيستيبونا ضد مالقا — كأس م
+ لك إسبانيا | Tomorrow: CD Estepona vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيستي
+ بونا × مالقا | Kick-off in 30 min: CD Estepona vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057215@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251203T190000Z
+DTEND:20251203T210000Z
+SUMMARY:CF Talavera de la Reina vs Málaga (2 - 1) — Copa del Rey
+LOCATION:Estadio El Prado\, Talavera de la Reina\, Spain
+GEO:39.965593;-4.821888
+URL:https://www.fotmob.com/match/5057215
+DESCRIPTION:⚽ تالافيرا × مالقا (2 - 1)\n🏆 كأس ملك 
+ إسبانيا — الدور الثاني\n🗓 الأربعاء 3 ديس
+ مبر 2025 · 22:00 بتوقيت الرياض\n🏟 Estadio El Prado، Ta
+ lavera de la Reina\n⚖️ الحكم: Saúl Ais Reig\n👥 الحضور: 
+ 4,075\n—————\n⚽ CF Talavera de la Reina v Málaga (2 - 1)\n
+ 🏆 Copa del Rey — Round 2\n🗓 Wed 03 Dec 2025 · 19:00 UTC\n🏟 Est
+ adio El Prado, Talavera de la Reina\nReferee: Saúl Ais Reig\nAttendance: 
+ 4,075\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تالافيرا ضد مالقا — كأس مل
+ ك إسبانيا | Tomorrow: CF Talavera de la Reina vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تالاف
+ يرا × مالقا | Kick-off in 30 min: CF Talavera de la Reina vs Mál
+ aga
+END:VALARM
+END:VEVENT
+END:VCALENDAR

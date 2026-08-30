@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al-Raed — King's Cup Fixtures | الرائد — مبا
+ ريات كأس خادم الحرمين الشريفين
+X-WR-CALDESC:Al-Raed — all matches in King's Cup\, exact UTC kickoffs\, s
+ tadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10
+ Z.  •  الرائد — جميع المباريات في كأس خادم
+  الحرمين الشريفين بتوقيت UTC الدقيق مع الم
+ لاعب والقنوات الناقلة. المصدر: FotMob + 365scores
+  · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5853721@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260817T180000Z
+DTEND:20260817T200000Z
+SUMMARY:Al-Raed vs Al Hilal (0 - 2) — King's Cup
+LOCATION:King Abdullah Sport City Stadium\, Buraydah\, Saudi Arabia
+GEO:26.378967;43.947845
+URL:https://www.fotmob.com/match/5853721
+DESCRIPTION:⚽ الرائد × الهلال (0 - 2)\n🏆 كأس خادم 
+ الحرمين الشريفين — دور الـ32\n🗓 الاثنين 1
+ 7 أغسطس 2026 · 21:00 بتوقيت الرياض\n🏟 King Abdullah S
+ port City Stadium، Buraydah\n⚖️ الحكم: Kirill Levnikov\n——
+ ———\n⚽ Al-Raed v Al Hilal (0 - 2)\n🏆 King's Cup — Round of 32
+ \n🗓 Mon 17 Aug 2026 · 18:00 UTC\n🏟 King Abdullah Sport City Stadium
+ , Buraydah\nReferee: Kirill Levnikov\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرائد ضد الهلال — كأس خاد
+ م الحرمين الشريفين | Tomorrow: Al-Raed vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الرائ
+ د × الهلال | Kick-off in 30 min: Al-Raed vs Al Hilal
+END:VALARM
+END:VEVENT
+END:VCALENDAR

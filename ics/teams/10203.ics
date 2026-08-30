@@ -1,0 +1,1324 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Nottingham Forest — Premier League & FA Cup Fixtures | 
+ نوتنجهام فورست — مباريات الدوري الإنجلي
+ زي الممتاز وكأس الاتحاد الإنجليزي
+X-WR-CALDESC:Nottingham Forest — all matches in Premier League & FA Cup\,
+  exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-upda
+ ted 2026-09-05T19:31:10Z.  •  نوتنجهام فورست — جميع 
+ المباريات في الدوري الإنجليزي الممتاز و
+ كأس الاتحاد الإنجليزي بتوقيت UTC الدقيق م
+ ع الملاعب والقنوات الناقلة. المصدر: FotMob + 
+ 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5795367@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T140000Z
+DTEND:20260822T160000Z
+SUMMARY:Nottingham Forest vs Leeds United (0 - 1) — Premier League
+LOCATION:The City Ground\, Nottingham\, Nottinghamshire\, England
+GEO:52.939913;-1.132894
+URL:https://www.fotmob.com/match/5795367
+DESCRIPTION:⚽ نوتنجهام فورست × ليدز يونايتد (0 -
+  1)\n🏆 الدوري الإنجليزي الممتاز — الجولة 
+ 1\n🗓 السبت 22 أغسطس 2026 · 17:00 بتوقيت الرياض\n
+ 🏟 The City Ground، Nottingham, Nottinghamshire\n⚖️ الحكم: Rob
+ ert Jones\n👥 الحضور: 30,739\n—————\n⚽ Nottingham Fore
+ st v Leeds United (0 - 1)\n🏆 Premier League — Matchday 1\n🗓 Sat 22
+  Aug 2026 · 14:00 UTC\n🏟 The City Ground, Nottingham, Nottinghamshire\
+ nReferee: Robert Jones\nAttendance: 30,739\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد ليدز يون
+ ايتد — الدوري الإنجليزي الممتاز | Tomorrow: No
+ ttingham Forest vs Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × ليدز يونايتد | Kick-off in 30 min: Notting
+ ham Forest vs Leeds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795431@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T113000Z
+DTEND:20260829T133000Z
+SUMMARY:Liverpool vs Nottingham Forest (2 - 2) — Premier League
+LOCATION:Anfield\, Liverpool\, England
+GEO:53.430828;-2.960853
+URL:https://www.fotmob.com/match/5795431
+DESCRIPTION:⚽ ليفربول × نوتنجهام فورست (2 - 2)\n🏆
+  الدوري الإنجليزي الممتاز — الجولة 2\n🗓 
+ السبت 29 أغسطس 2026 · 14:30 بتوقيت الرياض\n🏟 Anf
+ ield، Liverpool\n⚖️ الحكم: Samuel Barrott\n👥 الحضور: 60
+ ,415\n—————\n⚽ Liverpool v Nottingham Forest (2 - 2)\n🏆 Pre
+ mier League — Matchday 2\n🗓 Sat 29 Aug 2026 · 11:30 UTC\n🏟 Anfiel
+ d, Liverpool\nReferee: Samuel Barrott\nAttendance: 60,415\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد نوتنجهام فورست 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Liverpool v
+ s Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × نوتنجهام فورست | Kick-off in 30 min: Liverpool vs Not
+ tingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795444@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T140000Z
+DTEND:20260905T160000Z
+SUMMARY:Nottingham Forest vs Tottenham Hotspur (0 - 0) — Premier League
+LOCATION:The City Ground\, Nottingham\, Nottinghamshire\, England
+GEO:52.939913;-1.132894
+URL:https://www.fotmob.com/match/5795444
+DESCRIPTION:⚽ نوتنجهام فورست × توتنهام هوتسبر 
+ (0 - 0)\n🏆 الدوري الإنجليزي الممتاز — الجو
+ لة 3\n🗓 السبت 5 سبتمبر 2026 · 17:00 بتوقيت الري
+ اض\n🏟 The City Ground، Nottingham, Nottinghamshire\n📺 Bein Sports
+  HD2\n⚖️ الحكم: Craig Pawson\n👥 الحضور: 30,686\n——
+ ———\n⚽ Nottingham Forest v Tottenham Hotspur (0 - 0)\n🏆 Premier
+  League — Matchday 3\n🗓 Sat 05 Sep 2026 · 14:00 UTC\n🏟 The City G
+ round, Nottingham, Nottinghamshire\n📺 beIN Sport 2 HD\nReferee: Craig P
+ awson\nAttendance: 30,686\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد توتنهام 
+ هوتسبر — الدوري الإنجليزي الممتاز — 📺 B
+ ein Sports HD2 | Tomorrow: Nottingham Forest vs Tottenham Hotspur | TV: be
+ IN Sport 2 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × توتنهام هوتسبر — 📺 Bein Sports HD2 
+ | Kick-off in 30 min: Nottingham Forest vs Tottenham Hotspur | TV: beIN Sp
+ ort 2 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795446@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T140000Z
+DTEND:20260912T160000Z
+SUMMARY:Aston Villa vs Nottingham Forest — Premier League
+LOCATION:Villa Park\, Birmingham\, England
+GEO:52.509091;-1.884842
+URL:https://www.fotmob.com/match/5795446
+DESCRIPTION:⚽ أستون فيلا × نوتنجهام فورست\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 4\n🗓 ال
+ سبت 12 سبتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Villa
+  Park، Birmingham\n📺 Fubo Sports CA، StarHub TV+، Astro Go\n——
+ ———\n⚽ Aston Villa v Nottingham Forest\n🏆 Premier League — Ma
+ tchday 4\n🗓 Sat 12 Sep 2026 · 14:00 UTC\n🏟 Villa Park, Birmingham\n
+ 📺 Fubo Sports CA, StarHub TV+, Astro Go\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد نوتنجهام فور
+ ست — الدوري الإنجليزي الممتاز — 📺 Fubo Spor
+ ts CA، StarHub TV+، Astro Go | Tomorrow: Aston Villa vs Nottingham Fores
+ t | TV: Fubo Sports CA\, StarHub TV+\, Astro Go
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × نوتنجهام فورست — 📺 Fubo Sports CA، StarHub 
+ TV+، Astro Go | Kick-off in 30 min: Aston Villa vs Nottingham Forest | TV
+ : Fubo Sports CA\, StarHub TV+\, Astro Go
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795463@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T163000Z
+DTEND:20260919T183000Z
+SUMMARY:Nottingham Forest vs Coventry City — Premier League
+LOCATION:The City Ground\, Nottingham\, Nottinghamshire\, England
+GEO:52.939913;-1.132894
+URL:https://www.fotmob.com/match/5795463
+DESCRIPTION:⚽ نوتنجهام فورست × كوفنتري سيتي\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 5\n
+ 🗓 السبت 19 سبتمبر 2026 · 19:30 بتوقيت الرياض\n
+ 🏟 The City Ground، Nottingham, Nottinghamshire\n—————\n⚽ N
+ ottingham Forest v Coventry City\n🏆 Premier League — Matchday 5\n🗓
+  Sat 19 Sep 2026 · 16:30 UTC\n🏟 The City Ground, Nottingham, Nottingha
+ mshire\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد كوفنتري 
+ سيتي — الدوري الإنجليزي الممتاز | Tomorrow: No
+ ttingham Forest vs Coventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × كوفنتري سيتي | Kick-off in 30 min: Notting
+ ham Forest vs Coventry City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795469@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Crystal Palace vs Nottingham Forest — Premier League
+LOCATION:Selhurst Park\, London\, England
+GEO:51.398279;-0.085503
+URL:https://www.fotmob.com/match/5795469
+DESCRIPTION:⚽ كريستال بالاس × نوتنجهام فورست\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 6\n
+ 🗓 الأحد 11 أكتوبر 2026 · 16:00 بتوقيت الرياض\n
+ 🏟 Selhurst Park، London\n—————\n⚽ Crystal Palace v Notting
+ ham Forest\n🏆 Premier League — Matchday 6\n🗓 Sun 11 Oct 2026 · 13
+ :00 UTC\n🏟 Selhurst Park, London\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد نوتنجهام 
+ فورست — الدوري الإنجليزي الممتاز | Tomorrow: 
+ Crystal Palace vs Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × نوتنجهام فورست | Kick-off in 30 min: Cryst
+ al Palace vs Nottingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795483@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T153000Z
+DTEND:20261018T173000Z
+SUMMARY:Nottingham Forest vs Arsenal — Premier League
+LOCATION:The City Ground\, Nottingham\, Nottinghamshire\, England
+GEO:52.939913;-1.132894
+URL:https://www.fotmob.com/match/5795483
+DESCRIPTION:⚽ نوتنجهام فورست × أرسنال\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 7\n🗓 الأحد
+  18 أكتوبر 2026 · 18:30 بتوقيت الرياض\n🏟 The City Gr
+ ound، Nottingham, Nottinghamshire\n—————\n⚽ Nottingham Forest
+  v Arsenal\n🏆 Premier League — Matchday 7\n🗓 Sun 18 Oct 2026 · 15
+ :30 UTC\n🏟 The City Ground, Nottingham, Nottinghamshire\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد أرسنال —
+  الدوري الإنجليزي الممتاز | Tomorrow: Nottingham For
+ est vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × أرسنال | Kick-off in 30 min: Nottingham Forest 
+ vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795491@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261023T190000Z
+DTEND:20261023T210000Z
+SUMMARY:Ipswich Town vs Nottingham Forest — Premier League
+LOCATION:Portman Road\, Ipswich\, Suffolk\, England
+GEO:52.054950;1.145263
+URL:https://www.fotmob.com/match/5795491
+DESCRIPTION:⚽ إبسويتش تاون × نوتنجهام فورست\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 8\n
+ 🗓 الجمعة 23 أكتوبر 2026 · 22:00 بتوقيت الرياض\
+ n🏟 Portman Road، Ipswich, Suffolk\n—————\n⚽ Ipswich Town v
+  Nottingham Forest\n🏆 Premier League — Matchday 8\n🗓 Fri 23 Oct 20
+ 26 · 19:00 UTC\n🏟 Portman Road, Ipswich, Suffolk\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد نوتنجهام ف
+ ورست — الدوري الإنجليزي الممتاز | Tomorrow: Ip
+ swich Town vs Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × نوتنجهام فورست | Kick-off in 30 min: Ipswich
+  Town vs Nottingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795497@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:Brentford vs Nottingham Forest — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795497
+DESCRIPTION:⚽ برينتفورد × نوتنجهام فورست\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 9\n🗓 ال
+ سبت 31 أكتوبر 2026 · 18:00 بتوقيت الرياض\n🏟 Gtech
+  Community Stadium\n—————\n⚽ Brentford v Nottingham Forest\n
+ 🏆 Premier League — Matchday 9\n🗓 Sat 31 Oct 2026 · 15:00 UTC\n
+ 🏟 Gtech Community Stadium\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد نوتنجهام فورس
+ ت — الدوري الإنجليزي الممتاز | Tomorrow: Brentfor
+ d vs Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × نوتنجهام فورست | Kick-off in 30 min: Brentford vs
+  Nottingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795513@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Nottingham Forest vs Manchester City — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795513
+DESCRIPTION:⚽ نوتنجهام فورست × مانشستر سيتي\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 10\n
+ 🗓 السبت 7 نوفمبر 2026 · 18:00 بتوقيت الرياض\n
+ 🏟 City Ground, Nottingham\n—————\n⚽ Nottingham Forest v Man
+ chester City\n🏆 Premier League — Matchday 10\n🗓 Sat 07 Nov 2026 ·
+  15:00 UTC\n🏟 City Ground, Nottingham\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد مانشستر 
+ سيتي — الدوري الإنجليزي الممتاز | Tomorrow: No
+ ttingham Forest vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × مانشستر سيتي | Kick-off in 30 min: Notting
+ ham Forest vs Manchester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795515@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:AFC Bournemouth vs Nottingham Forest — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795515
+DESCRIPTION:⚽ بورنموث × نوتنجهام فورست\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 11\n🗓 الس
+ بت 21 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Vitalit
+ y Stadium\n—————\n⚽ AFC Bournemouth v Nottingham Forest\n🏆 
+ Premier League — Matchday 11\n🗓 Sat 21 Nov 2026 · 15:00 UTC\n🏟 Vi
+ tality Stadium\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد نوتنجهام فورست 
+ — الدوري الإنجليزي الممتاز | Tomorrow: AFC Bournem
+ outh vs Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × نوتنجهام فورست | Kick-off in 30 min: AFC Bournemouth 
+ vs Nottingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795533@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:Nottingham Forest vs Chelsea — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795533
+DESCRIPTION:⚽ نوتنجهام فورست × تشيلسي\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 12\n🗓 السب
+ ت 28 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 City Grou
+ nd, Nottingham\n—————\n⚽ Nottingham Forest v Chelsea\n🏆 Pre
+ mier League — Matchday 12\n🗓 Sat 28 Nov 2026 · 15:00 UTC\n🏟 City 
+ Ground, Nottingham\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد تشيلسي —
+  الدوري الإنجليزي الممتاز | Tomorrow: Nottingham For
+ est vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × تشيلسي | Kick-off in 30 min: Nottingham Forest 
+ vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795540@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Hull City vs Nottingham Forest — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795540
+DESCRIPTION:⚽ هال سيتي × نوتنجهام فورست\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 13\n🗓 الأ
+ ربعاء 2 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Th
+ e MKM Stadium\n—————\n⚽ Hull City v Nottingham Forest\n🏆 Pr
+ emier League — Matchday 13\n🗓 Wed 02 Dec 2026 · 20:00 UTC\n🏟 The 
+ MKM Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد نوتنجهام فورست 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Hull City v
+ s Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × نوتنجهام فورست | Kick-off in 30 min: Hull City vs Not
+ tingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795553@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Nottingham Forest vs Brighton & Hove Albion — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795553
+DESCRIPTION:⚽ نوتنجهام فورست × برايتون\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 14\n🗓 الس
+ بت 5 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 City Gro
+ und, Nottingham\n—————\n⚽ Nottingham Forest v Brighton & Hove 
+ Albion\n🏆 Premier League — Matchday 14\n🗓 Sat 05 Dec 2026 · 15:00
+  UTC\n🏟 City Ground, Nottingham\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد برايتون 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Nottingham 
+ Forest vs Brighton & Hove Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × برايتون | Kick-off in 30 min: Nottingham Fores
+ t vs Brighton & Hove Albion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795564@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Sunderland vs Nottingham Forest — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795564
+DESCRIPTION:⚽ سندرلاند × نوتنجهام فورست\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 15\n🗓 ال
+ سبت 12 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Stadi
+ um of Light\n—————\n⚽ Sunderland v Nottingham Forest\n🏆 Pre
+ mier League — Matchday 15\n🗓 Sat 12 Dec 2026 · 15:00 UTC\n🏟 Stadi
+ um of Light\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد نوتنجهام فورست
+  — الدوري الإنجليزي الممتاز | Tomorrow: Sunderland
+  vs Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × نوتنجهام فورست | Kick-off in 30 min: Sunderland vs 
+ Nottingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795573@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:Nottingham Forest vs Everton — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795573
+DESCRIPTION:⚽ نوتنجهام فورست × إيفرتون\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 16\n🗓 الس
+ بت 19 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 City Gr
+ ound, Nottingham\n—————\n⚽ Nottingham Forest v Everton\n🏆 P
+ remier League — Matchday 16\n🗓 Sat 19 Dec 2026 · 15:00 UTC\n🏟 Cit
+ y Ground, Nottingham\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد إيفرتون 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Nottingham 
+ Forest vs Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × إيفرتون | Kick-off in 30 min: Nottingham Fores
+ t vs Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795582@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261226T150000Z
+DTEND:20261226T170000Z
+SUMMARY:Manchester United vs Nottingham Forest — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795582
+DESCRIPTION:⚽ مانشستر يونايتد × نوتنجهام فورس
+ ت\n🏆 الدوري الإنجليزي الممتاز — الجولة 1
+ 7\n🗓 السبت 26 ديسمبر 2026 · 18:00 بتوقيت الرياض
+ \n🏟 Old Trafford\n—————\n⚽ Manchester United v Nottingham F
+ orest\n🏆 Premier League — Matchday 17\n🗓 Sat 26 Dec 2026 · 15:00 
+ UTC\n🏟 Old Trafford\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد نوتنجها
+ م فورست — الدوري الإنجليزي الممتاز | Tomorro
+ w: Manchester United vs Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × نوتنجهام فورست | Kick-off in 30 min: M
+ anchester United vs Nottingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795593@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261230T200000Z
+DTEND:20261230T220000Z
+SUMMARY:Newcastle United vs Nottingham Forest — Premier League
+LOCATION:St James' Park
+URL:https://www.fotmob.com/match/5795593
+DESCRIPTION:⚽ نيوكاسل يونايتد × نوتنجهام فورس
+ ت\n🏆 الدوري الإنجليزي الممتاز — الجولة 1
+ 8\n🗓 الأربعاء 30 ديسمبر 2026 · 23:00 بتوقيت الر
+ ياض\n🏟 St James' Park\n—————\n⚽ Newcastle United v Notti
+ ngham Forest\n🏆 Premier League — Matchday 18\n🗓 Wed 30 Dec 2026 ·
+  20:00 UTC\n🏟 St James' Park\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل يونايتد ضد نوتنجها
+ م فورست — الدوري الإنجليزي الممتاز | Tomorro
+ w: Newcastle United vs Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل يونايتد × نوتنجهام فورست | Kick-off in 30 min: N
+ ewcastle United vs Nottingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795603@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T150000Z
+DTEND:20270102T170000Z
+SUMMARY:Nottingham Forest vs Fulham — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795603
+DESCRIPTION:⚽ نوتنجهام فورست × فولهام\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 19\n🗓 السب
+ ت 2 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 City Ground,
+  Nottingham\n—————\n⚽ Nottingham Forest v Fulham\n🏆 Premier
+  League — Matchday 19\n🗓 Sat 02 Jan 2027 · 15:00 UTC\n🏟 City Grou
+ nd, Nottingham\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد فولهام —
+  الدوري الإنجليزي الممتاز | Tomorrow: Nottingham For
+ est vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × فولهام | Kick-off in 30 min: Nottingham Forest 
+ vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795613@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T200000Z
+DTEND:20270106T220000Z
+SUMMARY:Nottingham Forest vs Hull City — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795613
+DESCRIPTION:⚽ نوتنجهام فورست × هال سيتي\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 20\n🗓 الأ
+ ربعاء 6 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 City
+  Ground, Nottingham\n—————\n⚽ Nottingham Forest v Hull City\n
+ 🏆 Premier League — Matchday 20\n🗓 Wed 06 Jan 2027 · 20:00 UTC\n
+ 🏟 City Ground, Nottingham\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد هال سيتي 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Nottingham 
+ Forest vs Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × هال سيتي | Kick-off in 30 min: Nottingham Fore
+ st vs Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795622@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:Manchester City vs Nottingham Forest — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795622
+DESCRIPTION:⚽ مانشستر سيتي × نوتنجهام فورست\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 21\n
+ 🗓 السبت 16 يناير 2027 · 18:00 بتوقيت الرياض\n
+ 🏟 Etihad Stadium\n—————\n⚽ Manchester City v Nottingham For
+ est\n🏆 Premier League — Matchday 21\n🗓 Sat 16 Jan 2027 · 15:00 UT
+ C\n🏟 Etihad Stadium\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد نوتنجهام ف
+ ورست — الدوري الإنجليزي الممتاز | Tomorrow: Ma
+ nchester City vs Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × نوتنجهام فورست | Kick-off in 30 min: Manches
+ ter City vs Nottingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795633@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:Nottingham Forest vs AFC Bournemouth — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795633
+DESCRIPTION:⚽ نوتنجهام فورست × بورنموث\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 22\n🗓 الس
+ بت 23 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 City Grou
+ nd, Nottingham\n—————\n⚽ Nottingham Forest v AFC Bournemouth\n
+ 🏆 Premier League — Matchday 22\n🗓 Sat 23 Jan 2027 · 15:00 UTC\n
+ 🏟 City Ground, Nottingham\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد بورنموث 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Nottingham 
+ Forest vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × بورنموث | Kick-off in 30 min: Nottingham Fores
+ t vs AFC Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795638@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Chelsea vs Nottingham Forest — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795638
+DESCRIPTION:⚽ تشيلسي × نوتنجهام فورست\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 23\n🗓 السب
+ ت 30 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Stamford Br
+ idge\n—————\n⚽ Chelsea v Nottingham Forest\n🏆 Premier Leagu
+ e — Matchday 23\n🗓 Sat 30 Jan 2027 · 15:00 UTC\n🏟 Stamford Bridge
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد نوتنجهام فورست —
+  الدوري الإنجليزي الممتاز | Tomorrow: Chelsea vs Not
+ tingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × نوتنجهام فورست | Kick-off in 30 min: Chelsea vs Notting
+ ham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795653@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Nottingham Forest vs Brentford — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795653
+DESCRIPTION:⚽ نوتنجهام فورست × برينتفورد\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 24\n🗓 ا
+ لسبت 6 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 City
+  Ground, Nottingham\n—————\n⚽ Nottingham Forest v Brentford\n
+ 🏆 Premier League — Matchday 24\n🗓 Sat 06 Feb 2027 · 15:00 UTC\n
+ 🏟 City Ground, Nottingham\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد برينتفور
+ د — الدوري الإنجليزي الممتاز | Tomorrow: Nottingh
+ am Forest vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × برينتفورد | Kick-off in 30 min: Nottingham F
+ orest vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795659@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270210T200000Z
+DTEND:20270210T220000Z
+SUMMARY:Fulham vs Nottingham Forest — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795659
+DESCRIPTION:⚽ فولهام × نوتنجهام فورست\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 25\n🗓 الأر
+ بعاء 10 فبراير 2027 · 23:00 بتوقيت الرياض\n🏟 Cra
+ ven Cottage\n—————\n⚽ Fulham v Nottingham Forest\n🏆 Premier
+  League — Matchday 25\n🗓 Wed 10 Feb 2027 · 20:00 UTC\n🏟 Craven Co
+ ttage\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد نوتنجهام فورست —
+  الدوري الإنجليزي الممتاز | Tomorrow: Fulham vs Nott
+ ingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × نوتنجهام فورست | Kick-off in 30 min: Fulham vs Nottingh
+ am Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795673@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:Nottingham Forest vs Manchester United — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795673
+DESCRIPTION:⚽ نوتنجهام فورست × مانشستر يونايت
+ د\n🏆 الدوري الإنجليزي الممتاز — الجولة 2
+ 6\n🗓 السبت 20 فبراير 2027 · 18:00 بتوقيت الرياض
+ \n🏟 City Ground, Nottingham\n—————\n⚽ Nottingham Forest v M
+ anchester United\n🏆 Premier League — Matchday 26\n🗓 Sat 20 Feb 202
+ 7 · 15:00 UTC\n🏟 City Ground, Nottingham\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد مانشستر 
+ يونايتد — الدوري الإنجليزي الممتاز | Tomorr
+ ow: Nottingham Forest vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × مانشستر يونايتد | Kick-off in 30 min: N
+ ottingham Forest vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795678@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T150000Z
+DTEND:20270227T170000Z
+SUMMARY:Everton vs Nottingham Forest — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795678
+DESCRIPTION:⚽ إيفرتون × نوتنجهام فورست\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 27\n🗓 الس
+ بت 27 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Hill Di
+ ckinson Stadium\n—————\n⚽ Everton v Nottingham Forest\n🏆 Pr
+ emier League — Matchday 27\n🗓 Sat 27 Feb 2027 · 15:00 UTC\n🏟 Hill
+  Dickinson Stadium\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد نوتنجهام فورست 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Everton vs 
+ Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × نوتنجهام فورست | Kick-off in 30 min: Everton vs Notti
+ ngham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795693@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270303T200000Z
+DTEND:20270303T220000Z
+SUMMARY:Nottingham Forest vs Newcastle United — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795693
+DESCRIPTION:⚽ نوتنجهام فورست × نيوكاسل يونايت
+ د\n🏆 الدوري الإنجليزي الممتاز — الجولة 2
+ 8\n🗓 الأربعاء 3 مارس 2027 · 23:00 بتوقيت الريا
+ ض\n🏟 City Ground, Nottingham\n—————\n⚽ Nottingham Forest v
+  Newcastle United\n🏆 Premier League — Matchday 28\n🗓 Wed 03 Mar 20
+ 27 · 20:00 UTC\n🏟 City Ground, Nottingham\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد نيوكاسل 
+ يونايتد — الدوري الإنجليزي الممتاز | Tomorr
+ ow: Nottingham Forest vs Newcastle United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × نيوكاسل يونايتد | Kick-off in 30 min: N
+ ottingham Forest vs Newcastle United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795704@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T150000Z
+DTEND:20270313T170000Z
+SUMMARY:Tottenham Hotspur vs Nottingham Forest — Premier League
+LOCATION:Tottenham Hotspur Stadium
+URL:https://www.fotmob.com/match/5795704
+DESCRIPTION:⚽ توتنهام هوتسبر × نوتنجهام فورست\
+ n🏆 الدوري الإنجليزي الممتاز — الجولة 29\n
+ 🗓 السبت 13 مارس 2027 · 18:00 بتوقيت الرياض\n🏟 
+ Tottenham Hotspur Stadium\n—————\n⚽ Tottenham Hotspur v Nottin
+ gham Forest\n🏆 Premier League — Matchday 29\n🗓 Sat 13 Mar 2027 · 
+ 15:00 UTC\n🏟 Tottenham Hotspur Stadium\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توتنهام هوتسبر ضد نوتنجهام
+  فورست — الدوري الإنجليزي الممتاز | Tomorrow:
+  Tottenham Hotspur vs Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توتنه
+ ام هوتسبر × نوتنجهام فورست | Kick-off in 30 min: Tot
+ tenham Hotspur vs Nottingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795714@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T150000Z
+DTEND:20270320T170000Z
+SUMMARY:Nottingham Forest vs Aston Villa — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795714
+DESCRIPTION:⚽ نوتنجهام فورست × أستون فيلا\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 30\n🗓 ا
+ لسبت 20 مارس 2027 · 18:00 بتوقيت الرياض\n🏟 City Gr
+ ound, Nottingham\n—————\n⚽ Nottingham Forest v Aston Villa\n
+ 🏆 Premier League — Matchday 30\n🗓 Sat 20 Mar 2027 · 15:00 UTC\n
+ 🏟 City Ground, Nottingham\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد أستون في
+ لا — الدوري الإنجليزي الممتاز | Tomorrow: Nottin
+ gham Forest vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × أستون فيلا | Kick-off in 30 min: Nottingham 
+ Forest vs Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795720@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T140000Z
+DTEND:20270410T160000Z
+SUMMARY:Leeds United vs Nottingham Forest — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795720
+DESCRIPTION:⚽ ليدز يونايتد × نوتنجهام فورست\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 31\n
+ 🗓 السبت 10 أبريل 2027 · 17:00 بتوقيت الرياض\n
+ 🏟 Elland Road\n—————\n⚽ Leeds United v Nottingham Forest\n
+ 🏆 Premier League — Matchday 31\n🗓 Sat 10 Apr 2027 · 14:00 UTC\n
+ 🏟 Elland Road\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد نوتنجهام ف
+ ورست — الدوري الإنجليزي الممتاز | Tomorrow: Le
+ eds United vs Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × نوتنجهام فورست | Kick-off in 30 min: Leeds Un
+ ited vs Nottingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795734@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T140000Z
+DTEND:20270417T160000Z
+SUMMARY:Nottingham Forest vs Liverpool — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795734
+DESCRIPTION:⚽ نوتنجهام فورست × ليفربول\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 32\n🗓 الس
+ بت 17 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 City Grou
+ nd, Nottingham\n—————\n⚽ Nottingham Forest v Liverpool\n🏆 P
+ remier League — Matchday 32\n🗓 Sat 17 Apr 2027 · 14:00 UTC\n🏟 Cit
+ y Ground, Nottingham\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد ليفربول 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Nottingham 
+ Forest vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × ليفربول | Kick-off in 30 min: Nottingham Fores
+ t vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795743@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T140000Z
+DTEND:20270424T160000Z
+SUMMARY:Nottingham Forest vs Sunderland — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795743
+DESCRIPTION:⚽ نوتنجهام فورست × سندرلاند\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 33\n🗓 ال
+ سبت 24 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 City Gr
+ ound, Nottingham\n—————\n⚽ Nottingham Forest v Sunderland\n
+ 🏆 Premier League — Matchday 33\n🗓 Sat 24 Apr 2027 · 14:00 UTC\n
+ 🏟 City Ground, Nottingham\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد سندرلاند
+  — الدوري الإنجليزي الممتاز | Tomorrow: Nottingham
+  Forest vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × سندرلاند | Kick-off in 30 min: Nottingham For
+ est vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795746@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T140000Z
+DTEND:20270501T160000Z
+SUMMARY:Brighton & Hove Albion vs Nottingham Forest — Premier League
+LOCATION:The American Express Community Stadium
+URL:https://www.fotmob.com/match/5795746
+DESCRIPTION:⚽ برايتون × نوتنجهام فورست\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 34\n🗓 الس
+ بت 1 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 The American
+  Express Community Stadium\n—————\n⚽ Brighton & Hove Albion v 
+ Nottingham Forest\n🏆 Premier League — Matchday 34\n🗓 Sat 01 May 20
+ 27 · 14:00 UTC\n🏟 The American Express Community Stadium\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برايتون ضد نوتنجهام فورست 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Brighton & 
+ Hove Albion vs Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برايت
+ ون × نوتنجهام فورست | Kick-off in 30 min: Brighton & Hove 
+ Albion vs Nottingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795776@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T140000Z
+DTEND:20270508T160000Z
+SUMMARY:Nottingham Forest vs Crystal Palace — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795776
+DESCRIPTION:⚽ نوتنجهام فورست × كريستال بالاس\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 35\n
+ 🗓 السبت 8 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 C
+ ity Ground, Nottingham\n—————\n⚽ Nottingham Forest v Crystal P
+ alace\n🏆 Premier League — Matchday 35\n🗓 Sat 08 May 2027 · 14:00 
+ UTC\n🏟 City Ground, Nottingham\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد كريستال 
+ بالاس — الدوري الإنجليزي الممتاز | Tomorrow: 
+ Nottingham Forest vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × كريستال بالاس | Kick-off in 30 min: Notti
+ ngham Forest vs Crystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795778@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T140000Z
+DTEND:20270515T160000Z
+SUMMARY:Arsenal vs Nottingham Forest — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795778
+DESCRIPTION:⚽ أرسنال × نوتنجهام فورست\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 36\n🗓 السب
+ ت 15 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Emirates Stad
+ ium\n—————\n⚽ Arsenal v Nottingham Forest\n🏆 Premier League
+  — Matchday 36\n🗓 Sat 15 May 2027 · 14:00 UTC\n🏟 Emirates Stadium
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد نوتنجهام فورست —
+  الدوري الإنجليزي الممتاز | Tomorrow: Arsenal vs Not
+ tingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × نوتنجهام فورست | Kick-off in 30 min: Arsenal vs Notting
+ ham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795796@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T140000Z
+DTEND:20270523T160000Z
+SUMMARY:Nottingham Forest vs Ipswich Town — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795796
+DESCRIPTION:⚽ نوتنجهام فورست × إبسويتش تاون\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 37\n
+ 🗓 الأحد 23 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 
+ City Ground, Nottingham\n—————\n⚽ Nottingham Forest v Ipswich 
+ Town\n🏆 Premier League — Matchday 37\n🗓 Sun 23 May 2027 · 14:00 U
+ TC\n🏟 City Ground, Nottingham\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد إبسويتش 
+ تاون — الدوري الإنجليزي الممتاز | Tomorrow: No
+ ttingham Forest vs Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × إبسويتش تاون | Kick-off in 30 min: Notting
+ ham Forest vs Ipswich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795801@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T150000Z
+DTEND:20270530T170000Z
+SUMMARY:Coventry City vs Nottingham Forest — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795801
+DESCRIPTION:⚽ كوفنتري سيتي × نوتنجهام فورست\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 38\n
+ 🗓 الأحد 30 مايو 2027 · 18:00 بتوقيت الرياض\n🏟 
+ Coventry Building Society Arena\n—————\n⚽ Coventry City v Nott
+ ingham Forest\n🏆 Premier League — Matchday 38\n🗓 Sun 30 May 2027 
+ · 15:00 UTC\n🏟 Coventry Building Society Arena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد نوتنجهام ف
+ ورست — الدوري الإنجليزي الممتاز | Tomorrow: Co
+ ventry City vs Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × نوتنجهام فورست | Kick-off in 30 min: Coventr
+ y City vs Nottingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089899@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260109T193000Z
+DTEND:20260109T213000Z
+SUMMARY:Wrexham vs Nottingham Forest (3 - 3) — FA Cup
+LOCATION:STōK Cae Ras\, Wrexham (Wrecsam)\, Wales
+GEO:53.051941;-3.003819
+URL:https://www.fotmob.com/match/5089899
+DESCRIPTION:⚽ Wrexham × نوتنغهام فورست (3 - 3)\n🏆 كأس
+  الاتحاد الإنجليزي — الدور الثالث\n🗓 ال
+ جمعة 9 يناير 2026 · 22:30 بتوقيت الرياض\n🏟 STōK 
+ Cae Ras، Wrexham (Wrecsam)\n⚖️ الحكم: Paul Tierney\n👥 الح
+ ضور: 10,603\n—————\n⚽ Wrexham v Nottingham Forest (3 - 3)\n
+ 🏆 FA Cup — Round 3\n🗓 Fri 09 Jan 2026 · 19:30 UTC\n🏟 STōK Cae
+  Ras, Wrexham (Wrecsam)\nReferee: Paul Tierney\nAttendance: 10,603\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Wrexham ضد نوتنغهام فورست — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Wrexham vs Nottingham For
+ est
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Wrexham × 
+ نوتنغهام فورست | Kick-off in 30 min: Wrexham vs Nottingham Fo
+ rest
+END:VALARM
+END:VEVENT
+END:VCALENDAR

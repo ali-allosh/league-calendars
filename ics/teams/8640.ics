@@ -1,0 +1,275 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ PSV Eindhoven — UEFA Champions League Fixtures | آين
+ دهوفن — مباريات دوري أبطال أوروبا
+X-WR-CALDESC:PSV Eindhoven — all matches in UEFA Champions League\, exact
+  UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 20
+ 26-09-05T19:31:10Z.  •  آيندهوفن — جميع المباريات
+  في دوري أبطال أوروبا بتوقيت UTC الدقيق مع 
+ الملاعب والقنوات الناقلة. المصدر: FotMob + 365
+ scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6106304@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260910T164500Z
+DTEND:20260910T184500Z
+SUMMARY:PSV Eindhoven vs Shakhtar Donetsk — UEFA Champions League
+LOCATION:Philips Stadion\, Eindhoven\, Netherlands
+GEO:51.441630;5.467452
+URL:https://www.fotmob.com/match/6106304
+DESCRIPTION:⚽ آيندهوفن × شاختار دونيتسك\n🏆 دو
+ ري أبطال أوروبا — الجولة 1\n🗓 الخميس 10 سب
+ تمبر 2026 · 19:45 بتوقيت الرياض\n🏟 Philips Stadion، E
+ indhoven\n📺 HBO Max (UK)، Paramount+ (US)\n—————\n⚽ PSV Ei
+ ndhoven v Shakhtar Donetsk\n🏆 UEFA Champions League — Matchday 1\n
+ 🗓 Thu 10 Sep 2026 · 16:45 UTC\n🏟 Philips Stadion, Eindhoven\n📺 H
+ BO Max (UK), Paramount+ (US)\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آيندهوفن ضد شاختار دونيتسك
+  — دوري أبطال أوروبا — 📺 HBO Max (UK)، Paramount+ (
+ US) | Tomorrow: PSV Eindhoven vs Shakhtar Donetsk | TV: HBO Max (UK)\, Par
+ amount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينده
+ وفن × شاختار دونيتسك — 📺 HBO Max (UK)، Paramount+ (
+ US) | Kick-off in 30 min: PSV Eindhoven vs Shakhtar Donetsk | TV: HBO Max 
+ (UK)\, Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106323@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:RB Leipzig vs PSV Eindhoven — UEFA Champions League
+LOCATION:Red Bull Arena\, Leipzig\, Germany
+GEO:51.345776;12.348289
+URL:https://www.fotmob.com/match/6106323
+DESCRIPTION:⚽ لايبزيج × آيندهوفن\n🏆 دوري أبطا
+ ل أوروبا — الجولة 2\n🗓 الثلاثاء 13 أكتوبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 Red Bull Arena، Leipzig\n
+ —————\n⚽ RB Leipzig v PSV Eindhoven\n🏆 UEFA Champions Leagu
+ e — Matchday 2\n🗓 Tue 13 Oct 2026 · 19:00 UTC\n🏟 Red Bull Arena, 
+ Leipzig\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لايبزيج ضد آيندهوفن — دوري
+  أبطال أوروبا | Tomorrow: RB Leipzig vs PSV Eindhoven
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لايبز
+ يج × آيندهوفن | Kick-off in 30 min: RB Leipzig vs PSV Eindhoven
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106287@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:FC Porto vs PSV Eindhoven — UEFA Champions League
+LOCATION:Estádio Do Dragão\, Porto\, Portugal
+GEO:41.161791;-8.583739
+URL:https://www.fotmob.com/match/6106287
+DESCRIPTION:⚽ بورتو × آيندهوفن\n🏆 دوري أبطال أ
+ وروبا — الجولة 3\n🗓 الثلاثاء 20 أكتوبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Estádio Do Dragão، Porto\n—
+ ————\n⚽ FC Porto v PSV Eindhoven\n🏆 UEFA Champions League —
+  Matchday 3\n🗓 Tue 20 Oct 2026 · 19:00 UTC\n🏟 Estádio Do Dragão, 
+ Porto\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورتو ضد آيندهوفن — دوري أ
+ بطال أوروبا | Tomorrow: FC Porto vs PSV Eindhoven
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورتو 
+ × آيندهوفن | Kick-off in 30 min: FC Porto vs PSV Eindhoven
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106303@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+SUMMARY:PSV Eindhoven vs Club Brugge — UEFA Champions League
+LOCATION:Philips Stadion
+URL:https://www.fotmob.com/match/6106303
+DESCRIPTION:⚽ آيندهوفن × كلوب بروج\n🏆 دوري أبط
+ ال أوروبا — الجولة 4\n🗓 الأربعاء 4 نوفمبر
+  2026 · 23:00 بتوقيت الرياض\n🏟 Philips Stadion\n———
+ ——\n⚽ PSV Eindhoven v Club Brugge\n🏆 UEFA Champions League — Ma
+ tchday 4\n🗓 Wed 04 Nov 2026 · 20:00 UTC\n🏟 Philips Stadion\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آيندهوفن ضد كلوب بروج — دو
+ ري أبطال أوروبا | Tomorrow: PSV Eindhoven vs Club Brugge
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينده
+ وفن × كلوب بروج | Kick-off in 30 min: PSV Eindhoven vs Club Br
+ ugge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106243@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+SUMMARY:Real Madrid vs PSV Eindhoven — UEFA Champions League
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/6106243
+DESCRIPTION:⚽ ريال مدريد × آيندهوفن\n🏆 دوري أب
+ طال أوروبا — الجولة 5\n🗓 الثلاثاء 24 نوفم
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n—
+ ————\n⚽ Real Madrid v PSV Eindhoven\n🏆 UEFA Champions League 
+ — Matchday 5\n🗓 Tue 24 Nov 2026 · 20:00 UTC\n🏟 Estadio Bernabeu\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد آيندهوفن — د
+ وري أبطال أوروبا | Tomorrow: Real Madrid vs PSV Eindhoven
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × آيندهوفن | Kick-off in 30 min: Real Madrid vs PSV Eind
+ hoven
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106302@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:PSV Eindhoven vs Atlético Madrid — UEFA Champions League
+LOCATION:Philips Stadion
+URL:https://www.fotmob.com/match/6106302
+DESCRIPTION:⚽ آيندهوفن × أتلتيكو مدريد\n🏆 دور
+ ي أبطال أوروبا — الجولة 6\n🗓 الأربعاء 9 د
+ يسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Philips Stadion\n
+ —————\n⚽ PSV Eindhoven v Atlético Madrid\n🏆 UEFA Champions
+  League — Matchday 6\n🗓 Wed 09 Dec 2026 · 20:00 UTC\n🏟 Philips St
+ adion\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آيندهوفن ضد أتلتيكو مدريد 
+ — دوري أبطال أوروبا | Tomorrow: PSV Eindhoven vs Atlétic
+ o Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينده
+ وفن × أتلتيكو مدريد | Kick-off in 30 min: PSV Eindhoven vs
+  Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106418@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+SUMMARY:Viking vs PSV Eindhoven — UEFA Champions League
+LOCATION:Lyse Arena
+URL:https://www.fotmob.com/match/6106418
+DESCRIPTION:⚽ فيشينغ ستافانغير × آيندهوفن\n🏆 
+ دوري أبطال أوروبا — الجولة 7\n🗓 الأربعاء
+  20 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Lyse Arena\n
+ —————\n⚽ Viking v PSV Eindhoven\n🏆 UEFA Champions League 
+ — Matchday 7\n🗓 Wed 20 Jan 2027 · 20:00 UTC\n🏟 Lyse Arena\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيشينغ ستافانغير ضد آيندهو
+ فن — دوري أبطال أوروبا | Tomorrow: Viking vs PSV Eindho
+ ven
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيشين
+ غ ستافانغير × آيندهوفن | Kick-off in 30 min: Viking vs 
+ PSV Eindhoven
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106305@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:PSV Eindhoven vs VfB Stuttgart — UEFA Champions League
+LOCATION:Philips Stadion
+URL:https://www.fotmob.com/match/6106305
+DESCRIPTION:⚽ آيندهوفن × شتوتجارت\n🏆 دوري أبط
+ ال أوروبا — الجولة 8\n🗓 الأربعاء 27 يناير 
+ 2027 · 23:00 بتوقيت الرياض\n🏟 Philips Stadion\n———
+ ——\n⚽ PSV Eindhoven v VfB Stuttgart\n🏆 UEFA Champions League — 
+ Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Philips Stadion\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آيندهوفن ضد شتوتجارت — دور
+ ي أبطال أوروبا | Tomorrow: PSV Eindhoven vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينده
+ وفن × شتوتجارت | Kick-off in 30 min: PSV Eindhoven vs VfB Stut
+ tgart
+END:VALARM
+END:VEVENT
+END:VCALENDAR

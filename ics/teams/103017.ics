@@ -1,0 +1,660 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Petrojet-Suez — Egyptian Premier League Fixtures | من
+ تخب السويس بتروجت — مباريات الدوري المص
+ ري الممتاز
+X-WR-CALDESC:Petrojet-Suez — all matches in Egyptian Premier League\, exa
+ ct UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 
+ 2026-09-05T19:31:10Z.  •  منتخب السويس بتروجت — جم
+ يع المباريات في الدوري المصري الممتاز بت
+ وقيت UTC الدقيق مع الملاعب والقنوات الناق
+ لة. المصدر: FotMob + 365scores · تحديث تلقائي 2026-09-
+ 05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5995574@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260822T140000Z
+DTEND:20260822T160000Z
+SUMMARY:Asyut Petroleum vs Petrojet-Suez (1 - 1) — Egyptian Premier Leagu
+ e
+LOCATION:Borg El Arab Stadium\, Al-Iskandarîah (Alexandria)\, Egypt
+GEO:30.999499;29.729433
+URL:https://www.fotmob.com/match/5995574
+DESCRIPTION:⚽ أسيوط بتروليوم × منتخب السويس بت
+ روجت (1 - 1)\n🏆 الدوري المصري الممتاز — الج
+ ولة 1\n🗓 السبت 22 أغسطس 2026 · 17:00 بتوقيت الر
+ ياض\n🏟 Borg El Arab Stadium، Al-Iskandarîah (Alexandria)\n⚖️ 
+ الحكم: Mahmoud Wafa\n—————\n⚽ Asyut Petroleum v Petrojet-
+ Suez (1 - 1)\n🏆 Egyptian Premier League — Matchday 1\n🗓 Sat 22 Aug
+  2026 · 14:00 UTC\n🏟 Borg El Arab Stadium, Al-Iskandarîah (Alexandria
+ )\nReferee: Mahmoud Wafa\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أسيوط بتروليوم ضد منتخب ال
+ سويس بتروجت — الدوري المصري الممتاز | Tomor
+ row: Asyut Petroleum vs Petrojet-Suez
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أسيوط 
+ بتروليوم × منتخب السويس بتروجت | Kick-off in 30 
+ min: Asyut Petroleum vs Petrojet-Suez
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996694@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260826T170000Z
+DTEND:20260826T190000Z
+SUMMARY:Petrojet-Suez vs Tala'ea El Gaish (2 - 3) — Egyptian Premier Leag
+ ue
+LOCATION:New Suez Stadium\, as-Suways (Suez)\, Egypt
+GEO:29.957607;32.542577
+URL:https://www.fotmob.com/match/5996694
+DESCRIPTION:⚽ منتخب السويس بتروجت × طلائع الجي
+ ش (2 - 3)\n🏆 الدوري المصري الممتاز — الجولة
+  2\n🗓 الأربعاء 26 أغسطس 2026 · 20:00 بتوقيت الر
+ ياض\n🏟 New Suez Stadium، as-Suways (Suez)\n⚖️ الحكم: El Sa
+ yed Shaban\n—————\n⚽ Petrojet-Suez v Tala'ea El Gaish (2 - 3)\
+ n🏆 Egyptian Premier League — Matchday 2\n🗓 Wed 26 Aug 2026 · 17:0
+ 0 UTC\n🏟 New Suez Stadium, as-Suways (Suez)\nReferee: El Sayed Shaban\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: منتخب السويس بتروجت ضد طلا
+ ئع الجيش — الدوري المصري الممتاز | Tomorrow: P
+ etrojet-Suez vs Tala'ea El Gaish
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: منتخب 
+ السويس بتروجت × طلائع الجيش | Kick-off in 30 min: P
+ etrojet-Suez vs Tala'ea El Gaish
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996704@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260831T170000Z
+DTEND:20260831T190000Z
+SUMMARY:Zamalek SC vs Petrojet-Suez (2 - 1) — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996704
+DESCRIPTION:⚽ الزمالك × منتخب السويس بتروجت (2 -
+  1)\n🏆 الدوري المصري الممتاز — الجولة 3\n
+ 🗓 الاثنين 31 أغسطس 2026 · 20:00 بتوقيت الرياض\
+ n🏟 Cairo International Stadium، al-Qāhirah (Cairo)\n⚖️ الحكم
+ : Tarek Magdy\n—————\n⚽ Zamalek SC v Petrojet-Suez (2 - 1)\n
+ 🏆 Egyptian Premier League — Matchday 3\n🗓 Mon 31 Aug 2026 · 17:00
+  UTC\n🏟 Cairo International Stadium, al-Qāhirah (Cairo)\nReferee: Tare
+ k Magdy\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الزمالك ضد منتخب السويس بت
+ روجت — الدوري المصري الممتاز | Tomorrow: Zamalek 
+ SC vs Petrojet-Suez
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الزما
+ لك × منتخب السويس بتروجت | Kick-off in 30 min: Zamalek
+  SC vs Petrojet-Suez
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996715@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260907T170000Z
+DTEND:20260907T190000Z
+SUMMARY:Petrojet-Suez vs Al Masry SC — Egyptian Premier League
+LOCATION:New Suez Stadium\, as-Suways (Suez)\, Egypt
+GEO:29.957607;32.542577
+URL:https://www.fotmob.com/match/5996715
+DESCRIPTION:⚽ منتخب السويس بتروجت × المصري\n🏆 
+ الدوري المصري الممتاز — الجولة 4\n🗓 الاث
+ نين 7 سبتمبر 2026 · 20:00 بتوقيت الرياض\n🏟 New Su
+ ez Stadium، as-Suways (Suez)\n📺 أون سبورت\n—————\n
+ ⚽ Petrojet-Suez v Al Masry SC\n🏆 Egyptian Premier League — Matchday
+  4\n🗓 Mon 07 Sep 2026 · 17:00 UTC\n🏟 New Suez Stadium, as-Suways (S
+ uez)\n📺 On Sport\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: منتخب السويس بتروجت ضد الم
+ صري — الدوري المصري الممتاز — 📺 أون سبو
+ رت | Tomorrow: Petrojet-Suez vs Al Masry SC | TV: On Sport
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: منتخب 
+ السويس بتروجت × المصري — 📺 أون سبورت | Kic
+ k-off in 30 min: Petrojet-Suez vs Al Masry SC | TV: On Sport
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996729@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260916T140000Z
+DTEND:20260916T160000Z
+SUMMARY:El Gouna FC vs Petrojet-Suez — Egyptian Premier League
+LOCATION:Khaled Bichara Stadium\, El-Gouna\, Egypt
+GEO:27.360219;33.659851
+URL:https://www.fotmob.com/match/5996729
+DESCRIPTION:⚽ الجونة × منتخب السويس بتروجت\n🏆 
+ الدوري المصري الممتاز — الجولة 5\n🗓 الأر
+ بعاء 16 سبتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Kha
+ led Bichara Stadium، El-Gouna\n—————\n⚽ El Gouna FC v Petroje
+ t-Suez\n🏆 Egyptian Premier League — Matchday 5\n🗓 Wed 16 Sep 2026 
+ · 14:00 UTC\n🏟 Khaled Bichara Stadium, El-Gouna\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجونة ضد منتخب السويس بتر
+ وجت — الدوري المصري الممتاز | Tomorrow: El Gouna F
+ C vs Petrojet-Suez
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجون
+ ة × منتخب السويس بتروجت | Kick-off in 30 min: El Gouna 
+ FC vs Petrojet-Suez
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996741@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261013T170000Z
+DTEND:20261013T190000Z
+SUMMARY:Petrojet-Suez vs Wadi Degla FC — Egyptian Premier League
+LOCATION:New Suez Stadium\, as-Suways (Suez)\, Egypt
+GEO:29.957607;32.542577
+URL:https://www.fotmob.com/match/5996741
+DESCRIPTION:⚽ منتخب السويس بتروجت × وادي دجلة\n
+ 🏆 الدوري المصري الممتاز — الجولة 6\n🗓 ا
+ لثلاثاء 13 أكتوبر 2026 · 20:00 بتوقيت الرياض\n
+ 🏟 New Suez Stadium، as-Suways (Suez)\n—————\n⚽ Petrojet-Su
+ ez v Wadi Degla FC\n🏆 Egyptian Premier League — Matchday 6\n🗓 Tue 
+ 13 Oct 2026 · 17:00 UTC\n🏟 New Suez Stadium, as-Suways (Suez)\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: منتخب السويس بتروجت ضد واد
+ ي دجلة — الدوري المصري الممتاز | Tomorrow: Petro
+ jet-Suez vs Wadi Degla FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: منتخب 
+ السويس بتروجت × وادي دجلة | Kick-off in 30 min: Petro
+ jet-Suez vs Wadi Degla FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996751@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261021T170000Z
+DTEND:20261021T190000Z
+SUMMARY:Ceramica Cleopatra vs Petrojet-Suez — Egyptian Premier League
+LOCATION:Suez Canal Stadium\, Ismailia\, Egypt
+GEO:30.592679;32.292551
+URL:https://www.fotmob.com/match/5996751
+DESCRIPTION:⚽ سيراميكا كليوباترا × منتخب السو
+ يس بتروجت\n🏆 الدوري المصري الممتاز — ال
+ جولة 7\n🗓 الأربعاء 21 أكتوبر 2026 · 20:00 بتوقي
+ ت الرياض\n🏟 Suez Canal Stadium، Ismailia\n—————\n⚽ 
+ Ceramica Cleopatra v Petrojet-Suez\n🏆 Egyptian Premier League — Match
+ day 7\n🗓 Wed 21 Oct 2026 · 17:00 UTC\n🏟 Suez Canal Stadium, Ismaili
+ a\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيراميكا كليوباترا ضد منتخ
+ ب السويس بتروجت — الدوري المصري الممتاز 
+ | Tomorrow: Ceramica Cleopatra vs Petrojet-Suez
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيرام
+ يكا كليوباترا × منتخب السويس بتروجت | Kick-o
+ ff in 30 min: Ceramica Cleopatra vs Petrojet-Suez
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996761@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261031T180000Z
+DTEND:20261031T200000Z
+SUMMARY:Petrojet-Suez vs Smouha SC — Egyptian Premier League
+LOCATION:Petrosport Stadium
+URL:https://www.fotmob.com/match/5996761
+DESCRIPTION:⚽ منتخب السويس بتروجت × سموحة\n🏆 ا
+ لدوري المصري الممتاز — الجولة 8\n🗓 السبت
+  31 أكتوبر 2026 · 21:00 بتوقيت الرياض\n🏟 Petrosport 
+ Stadium\n—————\n⚽ Petrojet-Suez v Smouha SC\n🏆 Egyptian Pre
+ mier League — Matchday 8\n🗓 Sat 31 Oct 2026 · 18:00 UTC\n🏟 Petros
+ port Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: منتخب السويس بتروجت ضد سمو
+ حة — الدوري المصري الممتاز | Tomorrow: Petrojet-Sue
+ z vs Smouha SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: منتخب 
+ السويس بتروجت × سموحة | Kick-off in 30 min: Petrojet-Sue
+ z vs Smouha SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996771@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261125T180000Z
+DTEND:20261125T200000Z
+SUMMARY:Ghazl Al Mahalla vs Petrojet-Suez — Egyptian Premier League
+LOCATION:Ghazl El Mahalla Stadium
+URL:https://www.fotmob.com/match/5996771
+DESCRIPTION:⚽ غزل المحلة × منتخب السويس بتروجت
+ \n🏆 الدوري المصري الممتاز — الجولة 9\n🗓 
+ الأربعاء 25 نوفمبر 2026 · 21:00 بتوقيت الرياض\n
+ 🏟 Ghazl El Mahalla Stadium\n—————\n⚽ Ghazl Al Mahalla v Pet
+ rojet-Suez\n🏆 Egyptian Premier League — Matchday 9\n🗓 Wed 25 Nov 2
+ 026 · 18:00 UTC\n🏟 Ghazl El Mahalla Stadium\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غزل المحلة ضد منتخب السويس 
+ بتروجت — الدوري المصري الممتاز | Tomorrow: Ghaz
+ l Al Mahalla vs Petrojet-Suez
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غزل ال
+ محلة × منتخب السويس بتروجت | Kick-off in 30 min: Gha
+ zl Al Mahalla vs Petrojet-Suez
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996776@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261209T150000Z
+DTEND:20261209T170000Z
+SUMMARY:Petrojet-Suez vs Pyramids FC — Egyptian Premier League
+LOCATION:Petrosport Stadium
+URL:https://www.fotmob.com/match/5996776
+DESCRIPTION:⚽ منتخب السويس بتروجت × بيراميدز\n
+ 🏆 الدوري المصري الممتاز — الجولة 10\n🗓 ا
+ لأربعاء 9 ديسمبر 2026 · 18:00 بتوقيت الرياض\n
+ 🏟 Petrosport Stadium\n—————\n⚽ Petrojet-Suez v Pyramids FC\
+ n🏆 Egyptian Premier League — Matchday 10\n🗓 Wed 09 Dec 2026 · 15:
+ 00 UTC\n🏟 Petrosport Stadium\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: منتخب السويس بتروجت ضد بير
+ اميدز — الدوري المصري الممتاز | Tomorrow: Petroj
+ et-Suez vs Pyramids FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: منتخب 
+ السويس بتروجت × بيراميدز | Kick-off in 30 min: Petroj
+ et-Suez vs Pyramids FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996784@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261214T180000Z
+DTEND:20261214T200000Z
+SUMMARY:ZED FC vs Petrojet-Suez — Egyptian Premier League
+LOCATION:Suez Stadium
+URL:https://www.fotmob.com/match/5996784
+DESCRIPTION:⚽ زد × منتخب السويس بتروجت\n🏆 الدو
+ ري المصري الممتاز — الجولة 11\n🗓 الاثنين 
+ 14 ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Suez Stadium
+ \n—————\n⚽ ZED FC v Petrojet-Suez\n🏆 Egyptian Premier Leagu
+ e — Matchday 11\n🗓 Mon 14 Dec 2026 · 18:00 UTC\n🏟 Suez Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: زد ضد منتخب السويس بتروجت 
+ — الدوري المصري الممتاز | Tomorrow: ZED FC vs Petroje
+ t-Suez
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: زد × م
+ نتخب السويس بتروجت | Kick-off in 30 min: ZED FC vs Petroje
+ t-Suez
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996801@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261224T180000Z
+DTEND:20261224T200000Z
+SUMMARY:Petrojet-Suez vs Modern Sport FC — Egyptian Premier League
+LOCATION:Petrosport Stadium
+URL:https://www.fotmob.com/match/5996801
+DESCRIPTION:⚽ منتخب السويس بتروجت × مودرن سبور
+ ت\n🏆 الدوري المصري الممتاز — الجولة 12\n
+ 🗓 الخميس 24 ديسمبر 2026 · 21:00 بتوقيت الرياض\
+ n🏟 Petrosport Stadium\n—————\n⚽ Petrojet-Suez v Modern Spor
+ t FC\n🏆 Egyptian Premier League — Matchday 12\n🗓 Thu 24 Dec 2026 
+ · 18:00 UTC\n🏟 Petrosport Stadium\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: منتخب السويس بتروجت ضد مود
+ رن سبورت — الدوري المصري الممتاز | Tomorrow: P
+ etrojet-Suez vs Modern Sport FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: منتخب 
+ السويس بتروجت × مودرن سبورت | Kick-off in 30 min: P
+ etrojet-Suez vs Modern Sport FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996808@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261229T150000Z
+DTEND:20261229T170000Z
+SUMMARY:Olympic El Qanah FC vs Petrojet-Suez — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996808
+DESCRIPTION:⚽ القناة × منتخب السويس بتروجت\n🏆 
+ الدوري المصري الممتاز — الجولة 13\n🗓 الث
+ لاثاء 29 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 S
+ uez Canal Authority Stadium\n—————\n⚽ Olympic El Qanah FC v Pe
+ trojet-Suez\n🏆 Egyptian Premier League — Matchday 13\n🗓 Tue 29 Dec
+  2026 · 15:00 UTC\n🏟 Suez Canal Authority Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القناة ضد منتخب السويس بتر
+ وجت — الدوري المصري الممتاز | Tomorrow: Olympic El
+  Qanah FC vs Petrojet-Suez
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القنا
+ ة × منتخب السويس بتروجت | Kick-off in 30 min: Olympic E
+ l Qanah FC vs Petrojet-Suez
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996817@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270105T180000Z
+DTEND:20270105T200000Z
+SUMMARY:Petrojet-Suez vs Al Sharkeyah-ENPPI — Egyptian Premier League
+LOCATION:Petrosport Stadium
+URL:https://www.fotmob.com/match/5996817
+DESCRIPTION:⚽ منتخب السويس بتروجت × Al Sharkeyah-ENPPI\
+ n🏆 الدوري المصري الممتاز — الجولة 14\n🗓 
+ الثلاثاء 5 يناير 2027 · 21:00 بتوقيت الرياض\n
+ 🏟 Petrosport Stadium\n—————\n⚽ Petrojet-Suez v Al Sharkeyah
+ -ENPPI\n🏆 Egyptian Premier League — Matchday 14\n🗓 Tue 05 Jan 2027
+  · 18:00 UTC\n🏟 Petrosport Stadium\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: منتخب السويس بتروجت ضد Al Shar
+ keyah-ENPPI — الدوري المصري الممتاز | Tomorrow: Petro
+ jet-Suez vs Al Sharkeyah-ENPPI
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: منتخب 
+ السويس بتروجت × Al Sharkeyah-ENPPI | Kick-off in 30 min: Petr
+ ojet-Suez vs Al Sharkeyah-ENPPI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996831@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270128T180000Z
+DTEND:20270128T200000Z
+SUMMARY:Al Ahly SC vs Petrojet-Suez — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996831
+DESCRIPTION:⚽ الأهلي × منتخب السويس بتروجت\n🏆 
+ الدوري المصري الممتاز — الجولة 15\n🗓 الخ
+ ميس 28 يناير 2027 · 21:00 بتوقيت الرياض\n🏟 Cairo I
+ nt'l Stadium\n—————\n⚽ Al Ahly SC v Petrojet-Suez\n🏆 Egypti
+ an Premier League — Matchday 15\n🗓 Thu 28 Jan 2027 · 18:00 UTC\n🏟
+  Cairo Int'l Stadium\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد منتخب السويس بتر
+ وجت — الدوري المصري الممتاز | Tomorrow: Al Ahly SC
+  vs Petrojet-Suez
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × منتخب السويس بتروجت | Kick-off in 30 min: Al Ahly S
+ C vs Petrojet-Suez
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996839@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270201T150000Z
+DTEND:20270201T170000Z
+SUMMARY:Petrojet-Suez vs Al Mokawloon Al Arab — Egyptian Premier League
+LOCATION:Petrosport Stadium
+URL:https://www.fotmob.com/match/5996839
+DESCRIPTION:⚽ منتخب السويس بتروجت × المقاولون 
+ العرب\n🏆 الدوري المصري الممتاز — الجولة
+  16\n🗓 الاثنين 1 فبراير 2027 · 18:00 بتوقيت الر
+ ياض\n🏟 Petrosport Stadium\n—————\n⚽ Petrojet-Suez v Al M
+ okawloon Al Arab\n🏆 Egyptian Premier League — Matchday 16\n🗓 Mon 0
+ 1 Feb 2027 · 15:00 UTC\n🏟 Petrosport Stadium\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: منتخب السويس بتروجت ضد الم
+ قاولون العرب — الدوري المصري الممتاز | Tom
+ orrow: Petrojet-Suez vs Al Mokawloon Al Arab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: منتخب 
+ السويس بتروجت × المقاولون العرب | Kick-off in 3
+ 0 min: Petrojet-Suez vs Al Mokawloon Al Arab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996844@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270205T150000Z
+DTEND:20270205T170000Z
+SUMMARY:Al Ittihad Alexandria vs Petrojet-Suez — Egyptian Premier League
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996844
+DESCRIPTION:⚽ الاتحاد السكندري × منتخب السويس 
+ بتروجت\n🏆 الدوري المصري الممتاز — الجول
+ ة 17\n🗓 الجمعة 5 فبراير 2027 · 18:00 بتوقيت الر
+ ياض\n🏟 Alexandria Stadium\n—————\n⚽ Al Ittihad Alexandri
+ a v Petrojet-Suez\n🏆 Egyptian Premier League — Matchday 17\n🗓 Fri 
+ 05 Feb 2027 · 15:00 UTC\n🏟 Alexandria Stadium\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد السكندري ضد منتخب 
+ السويس بتروجت — الدوري المصري الممتاز | T
+ omorrow: Al Ittihad Alexandria vs Petrojet-Suez
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد السكندري × منتخب السويس بتروجت | Kick-off i
+ n 30 min: Al Ittihad Alexandria vs Petrojet-Suez
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996855@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270211T193000Z
+DTEND:20270211T213000Z
+SUMMARY:Abo Qir Semad vs Petrojet-Suez — Egyptian Premier League
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996855
+DESCRIPTION:⚽ ابو قير للاسمدة × منتخب السويس ب
+ تروجت\n🏆 الدوري المصري الممتاز — الجولة
+  18\n🗓 الخميس 11 فبراير 2027 · 22:30 بتوقيت الري
+ اض\n🏟 Alexandria Stadium\n—————\n⚽ Abo Qir Semad v Petroj
+ et-Suez\n🏆 Egyptian Premier League — Matchday 18\n🗓 Thu 11 Feb 202
+ 7 · 19:30 UTC\n🏟 Alexandria Stadium\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ابو قير للاسمدة ضد منتخب ال
+ سويس بتروجت — الدوري المصري الممتاز | Tomor
+ row: Abo Qir Semad vs Petrojet-Suez
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ابو قي
+ ر للاسمدة × منتخب السويس بتروجت | Kick-off in 30
+  min: Abo Qir Semad vs Petrojet-Suez
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996866@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270219T193000Z
+DTEND:20270219T213000Z
+SUMMARY:Petrojet-Suez vs National Bank — Egyptian Premier League
+LOCATION:Petrosport Stadium
+URL:https://www.fotmob.com/match/5996866
+DESCRIPTION:⚽ منتخب السويس بتروجت × البنك الاه
+ لي\n🏆 الدوري المصري الممتاز — الجولة 19\n
+ 🗓 الجمعة 19 فبراير 2027 · 22:30 بتوقيت الرياض\
+ n🏟 Petrosport Stadium\n—————\n⚽ Petrojet-Suez v National Ba
+ nk\n🏆 Egyptian Premier League — Matchday 19\n🗓 Fri 19 Feb 2027 · 
+ 19:30 UTC\n🏟 Petrosport Stadium\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: منتخب السويس بتروجت ضد الب
+ نك الاهلي — الدوري المصري الممتاز | Tomorrow:
+  Petrojet-Suez vs National Bank
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: منتخب 
+ السويس بتروجت × البنك الاهلي | Kick-off in 30 min:
+  Petrojet-Suez vs National Bank
+END:VALARM
+END:VEVENT
+END:VCALENDAR

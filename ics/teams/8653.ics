@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Oxford United — FA Cup Fixtures | Oxford United — مب
+ اريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Oxford United — all matches in FA Cup\, exact UTC kickoffs\,
+  stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:
+ 10Z.  •  Oxford United — جميع المباريات في كأس ال
+ اتحاد الإنجليزي بتوقيت UTC الدقيق مع المل
+ اعب والقنوات الناقلة. المصدر: FotMob + 365scores 
+ · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5089916@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260109T193000Z
+DTEND:20260109T213000Z
+SUMMARY:Milton Keynes Dons vs Oxford United (1 - 1) — FA Cup
+LOCATION:Stadium MK\, Milton Keynes\, Buckinghamshire\, England
+GEO:52.009691;-0.733595
+URL:https://www.fotmob.com/match/5089916
+DESCRIPTION:⚽ Milton Keynes Dons × Oxford United (1 - 1)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الثالث\n🗓 الجم
+ عة 9 يناير 2026 · 22:30 بتوقيت الرياض\n🏟 Stadium MK
+ ، Milton Keynes, Buckinghamshire\n⚖️ الحكم: Paul Howard\n👥 ا
+ لحضور: 5,902\n—————\n⚽ Milton Keynes Dons v Oxford United
+  (1 - 1)\n🏆 FA Cup — Round 3\n🗓 Fri 09 Jan 2026 · 19:30 UTC\n🏟
+  Stadium MK, Milton Keynes, Buckinghamshire\nReferee: Paul Howard\nAttenda
+ nce: 5,902\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Milton Keynes Dons ضد Oxford United — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Milton Keynes Dons vs Oxford
+  United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Milton Keyn
+ es Dons × Oxford United | Kick-off in 30 min: Milton Keynes Dons vs Oxfor
+ d United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135163@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260215T140000Z
+DTEND:20260215T160000Z
+SUMMARY:Oxford United vs Sunderland (0 - 1) — FA Cup
+LOCATION:The Kassam Stadium\, Oxford\, Oxfordshire\, England
+GEO:51.716487;-1.207940
+URL:https://www.fotmob.com/match/5135163
+DESCRIPTION:⚽ Oxford United × سندرلاند (0 - 1)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الرابع\n🗓 الأحد
+  15 فبراير 2026 · 17:00 بتوقيت الرياض\n🏟 The Kassam 
+ Stadium، Oxford, Oxfordshire\n⚖️ الحكم: Thomas Kirk\n👥 الح
+ ضور: 9,879\n—————\n⚽ Oxford United v Sunderland (0 - 1)\n
+ 🏆 FA Cup — Round 4\n🗓 Sun 15 Feb 2026 · 14:00 UTC\n🏟 The Kassa
+ m Stadium, Oxford, Oxfordshire\nReferee: Thomas Kirk\nAttendance: 9,879\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Oxford United ضد سندرلاند — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Oxford United vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Oxford Unit
+ ed × سندرلاند | Kick-off in 30 min: Oxford United vs Sunderland
+END:VALARM
+END:VEVENT
+END:VCALENDAR

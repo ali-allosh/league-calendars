@@ -1,0 +1,1428 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Napoli — Serie A & UEFA Champions League & Coppa Italia 
+ Fixtures | نابولي — مباريات الدوري الإيطالي 
+ ودوري أبطال أوروبا وكأس إيطاليا
+X-WR-CALDESC:Napoli — all matches in Serie A & UEFA Champions League & Co
+ ppa Italia\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores 
+ · auto-updated 2026-09-05T19:31:10Z.  •  نابولي — جميع ال
+ مباريات في الدوري الإيطالي ودوري أبطال أ
+ وروبا وكأس إيطاليا بتوقيت UTC الدقيق مع ال
+ ملاعب والقنوات الناقلة. المصدر: FotMob + 365scor
+ es · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5749644@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T184500Z
+DTEND:20260822T204500Z
+SUMMARY:Genoa vs Napoli (0 - 2) — Serie A
+LOCATION:Stadio Comunale Luigi Ferraris\, Genova\, Italy
+GEO:44.416467;8.952527
+URL:https://www.fotmob.com/match/5749644
+DESCRIPTION:⚽ جنوى × نابولي (0 - 2)\n🏆 الدوري الإ
+ يطالي — الجولة 1\n🗓 السبت 22 أغسطس 2026 · 21:45
+  بتوقيت الرياض\n🏟 Stadio Comunale Luigi Ferraris، Genova\n
+ ⚖️ الحكم: Marco Di Bello\n👥 الحضور: 33,113\n————
+ —\n⚽ Genoa v Napoli (0 - 2)\n🏆 Serie A — Matchday 1\n🗓 Sat 22 
+ Aug 2026 · 18:45 UTC\n🏟 Stadio Comunale Luigi Ferraris, Genova\nRefere
+ e: Marco Di Bello\nAttendance: 33,113\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد نابولي — الدوري ال
+ إيطالي | Tomorrow: Genoa vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  نابولي | Kick-off in 30 min: Genoa vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749658@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T163000Z
+DTEND:20260830T183000Z
+SUMMARY:Napoli vs Como (1 - 2) — Serie A
+LOCATION:Stadio Diego Armando Maradona\, Napoli\, Italy
+GEO:40.827974;14.192930
+URL:https://www.fotmob.com/match/5749658
+DESCRIPTION:⚽ نابولي × كومو (1 - 2)\n🏆 الدوري الإ
+ يطالي — الجولة 2\n🗓 الأحد 30 أغسطس 2026 · 19:30
+  بتوقيت الرياض\n🏟 Stadio Diego Armando Maradona، Napoli\n
+ ⚖️ الحكم: Luca Pairetto\n—————\n⚽ Napoli v Como (1 - 
+ 2)\n🏆 Serie A — Matchday 2\n🗓 Sun 30 Aug 2026 · 16:30 UTC\n🏟 S
+ tadio Diego Armando Maradona, Napoli\nReferee: Luca Pairetto\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد كومو — الدوري ال
+ إيطالي | Tomorrow: Napoli vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × كومو | Kick-off in 30 min: Napoli vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749666@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T160000Z
+DTEND:20260905T180000Z
+SUMMARY:Inter vs Napoli (3 - 2) — Serie A
+LOCATION:Stadio Giuseppe Meazza\, Milano\, Italy
+GEO:45.478084;9.123979
+URL:https://www.fotmob.com/match/5749666
+DESCRIPTION:⚽ إنتر ميلان × نابولي (3 - 2)\n🏆 الدو
+ ري الإيطالي — الجولة 3\n🗓 السبت 5 سبتمبر 2
+ 026 · 19:00 بتوقيت الرياض\n🏟 Stadio Giuseppe Meazza، Mila
+ no\n📺 Starzplay\n⚖️ الحكم: Simone Sozza\n—————\n⚽ 
+ Inter v Napoli (3 - 2)\n🏆 Serie A — Matchday 3\n🗓 Sat 05 Sep 2026 
+ · 16:00 UTC\n🏟 Stadio Giuseppe Meazza, Milano\n📺 Starzplay\nReferee
+ : Simone Sozza\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد نابولي — الد
+ وري الإيطالي — 📺 Starzplay | Tomorrow: Inter vs Napoli | T
+ V: Starzplay
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × نابولي — 📺 Starzplay | Kick-off in 30 min: Inter vs
+  Napoli | TV: Starzplay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749676@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260913T160000Z
+DTEND:20260913T180000Z
+SUMMARY:Napoli vs Bologna — Serie A
+LOCATION:Stadio Diego Armando Maradona\, Napoli\, Italy
+GEO:40.827974;14.192930
+URL:https://www.fotmob.com/match/5749676
+DESCRIPTION:⚽ نابولي × بولونيا\n🏆 الدوري الإي
+ طالي — الجولة 4\n🗓 الأحد 13 سبتمبر 2026 · 19:00
+  بتوقيت الرياض\n🏟 Stadio Diego Armando Maradona، Napoli\n
+ 📺 DAZN UK\n—————\n⚽ Napoli v Bologna\n🏆 Serie A — Matc
+ hday 4\n🗓 Sun 13 Sep 2026 · 16:00 UTC\n🏟 Stadio Diego Armando Marad
+ ona, Napoli\n📺 DAZN UK\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد بولونيا — الدوري
+  الإيطالي — 📺 DAZN UK | Tomorrow: Napoli vs Bologna | TV: DAZ
+ N UK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × بولونيا — 📺 DAZN UK | Kick-off in 30 min: Napoli vs Bolo
+ gna | TV: DAZN UK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749683@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T103000Z
+DTEND:20260920T123000Z
+SUMMARY:Fiorentina vs Napoli — Serie A
+LOCATION:Stadio Artemio Franchi\, Firenze\, Italy
+GEO:43.780788;11.282712
+URL:https://www.fotmob.com/match/5749683
+DESCRIPTION:⚽ فيورنتينا × نابولي\n🏆 الدوري ال
+ إيطالي — الجولة 5\n🗓 الأحد 20 سبتمبر 2026 · 1
+ 3:30 بتوقيت الرياض\n🏟 Stadio Artemio Franchi، Firenze\n—
+ ————\n⚽ Fiorentina v Napoli\n🏆 Serie A — Matchday 5\n🗓 S
+ un 20 Sep 2026 · 10:30 UTC\n🏟 Stadio Artemio Franchi, Firenze\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد نابولي — الدو
+ ري الإيطالي | Tomorrow: Fiorentina vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × نابولي | Kick-off in 30 min: Fiorentina vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749697@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T184500Z
+DTEND:20261010T204500Z
+SUMMARY:Napoli vs Frosinone — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749697
+DESCRIPTION:⚽ نابولي × فروزينوني\n🏆 الدوري ال
+ إيطالي — الجولة 6\n🗓 السبت 10 أكتوبر 2026 · 2
+ 1:45 بتوقيت الرياض\n🏟 Diego Armando Maradona\n————
+ —\n⚽ Napoli v Frosinone\n🏆 Serie A — Matchday 6\n🗓 Sat 10 Oct 
+ 2026 · 18:45 UTC\n🏟 Diego Armando Maradona\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد فروزينوني — الدو
+ ري الإيطالي | Tomorrow: Napoli vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × فروزينوني | Kick-off in 30 min: Napoli vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749709@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T130000Z
+DTEND:20261017T150000Z
+SUMMARY:Venezia vs Napoli — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749709
+DESCRIPTION:⚽ فينيزيا × نابولي\n🏆 الدوري الإي
+ طالي — الجولة 7\n🗓 السبت 17 أكتوبر 2026 · 16:00
+  بتوقيت الرياض\n🏟 Stadio Pierluigi Penzo\n—————\n
+ ⚽ Venezia v Napoli\n🏆 Serie A — Matchday 7\n🗓 Sat 17 Oct 2026 ·
+  13:00 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد نابولي — الدوري
+  الإيطالي | Tomorrow: Venezia vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × نابولي | Kick-off in 30 min: Venezia vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749717@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T160000Z
+DTEND:20261024T180000Z
+SUMMARY:Napoli vs Roma — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749717
+DESCRIPTION:⚽ نابولي × روما\n🏆 الدوري الإيطال
+ ي — الجولة 8\n🗓 السبت 24 أكتوبر 2026 · 19:00 بت
+ وقيت الرياض\n🏟 Diego Armando Maradona\n—————\n⚽ N
+ apoli v Roma\n🏆 Serie A — Matchday 8\n🗓 Sat 24 Oct 2026 · 16:00 U
+ TC\n🏟 Diego Armando Maradona\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد روما — الدوري ال
+ إيطالي | Tomorrow: Napoli vs Roma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × روما | Kick-off in 30 min: Napoli vs Roma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749725@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261028T194500Z
+DTEND:20261028T214500Z
+SUMMARY:Monza vs Napoli — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749725
+DESCRIPTION:⚽ مونزا × نابولي\n🏆 الدوري الإيطا
+ لي — الجولة 9\n🗓 الأربعاء 28 أكتوبر 2026 · 22:
+ 45 بتوقيت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ M
+ onza v Napoli\n🏆 Serie A — Matchday 9\n🗓 Wed 28 Oct 2026 · 19:45 
+ UTC\n🏟 Stadio Brianteo\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد نابولي — الدوري ا
+ لإيطالي | Tomorrow: Monza vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × نابولي | Kick-off in 30 min: Monza vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749735@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T194500Z
+DTEND:20261101T214500Z
+SUMMARY:Juventus vs Napoli — Serie A
+LOCATION:Allianz Stadium
+URL:https://www.fotmob.com/match/5749735
+DESCRIPTION:⚽ يوفنتوس × نابولي\n🏆 الدوري الإي
+ طالي — الجولة 10\n🗓 الأحد 1 نوفمبر 2026 · 22:45
+  بتوقيت الرياض\n🏟 Allianz Stadium\n—————\n⚽ Juv
+ entus v Napoli\n🏆 Serie A — Matchday 10\n🗓 Sun 01 Nov 2026 · 19:4
+ 5 UTC\n🏟 Allianz Stadium\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد نابولي — الدوري
+  الإيطالي | Tomorrow: Juventus vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × نابولي | Kick-off in 30 min: Juventus vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749746@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T113000Z
+DTEND:20261108T133000Z
+SUMMARY:Napoli vs Lazio — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749746
+DESCRIPTION:⚽ نابولي × لاتسيو\n🏆 الدوري الإيط
+ الي — الجولة 11\n🗓 الأحد 8 نوفمبر 2026 · 14:30 
+ بتوقيت الرياض\n🏟 Diego Armando Maradona\n—————\n
+ ⚽ Napoli v Lazio\n🏆 Serie A — Matchday 11\n🗓 Sun 08 Nov 2026 · 
+ 11:30 UTC\n🏟 Diego Armando Maradona\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد لاتسيو — الدوري 
+ الإيطالي | Tomorrow: Napoli vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × لاتسيو | Kick-off in 30 min: Napoli vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749757@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T194500Z
+DTEND:20261121T214500Z
+SUMMARY:Napoli vs Torino — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749757
+DESCRIPTION:⚽ نابولي × تورينو\n🏆 الدوري الإيط
+ الي — الجولة 12\n🗓 السبت 21 نوفمبر 2026 · 22:45 
+ بتوقيت الرياض\n🏟 Diego Armando Maradona\n—————\n
+ ⚽ Napoli v Torino\n🏆 Serie A — Matchday 12\n🗓 Sat 21 Nov 2026 ·
+  19:45 UTC\n🏟 Diego Armando Maradona\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد تورينو — الدوري 
+ الإيطالي | Tomorrow: Napoli vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × تورينو | Kick-off in 30 min: Napoli vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749766@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T173000Z
+DTEND:20261129T193000Z
+SUMMARY:Sassuolo vs Napoli — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749766
+DESCRIPTION:⚽ ساسولو × نابولي\n🏆 الدوري الإيط
+ الي — الجولة 13\n🗓 الأحد 29 نوفمبر 2026 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n——
+ ———\n⚽ Sassuolo v Napoli\n🏆 Serie A — Matchday 13\n🗓 Sun 2
+ 9 Nov 2026 · 17:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد نابولي — الدوري 
+ الإيطالي | Tomorrow: Sassuolo vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × نابولي | Kick-off in 30 min: Sassuolo vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749778@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T173000Z
+DTEND:20261206T193000Z
+SUMMARY:Napoli vs Lecce — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749778
+DESCRIPTION:⚽ نابولي × ليتشي\n🏆 الدوري الإيطا
+ لي — الجولة 14\n🗓 الأحد 6 ديسمبر 2026 · 20:30 ب
+ توقيت الرياض\n🏟 Diego Armando Maradona\n—————\n⚽
+  Napoli v Lecce\n🏆 Serie A — Matchday 14\n🗓 Sun 06 Dec 2026 · 17:
+ 30 UTC\n🏟 Diego Armando Maradona\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد ليتشي — الدوري ا
+ لإيطالي | Tomorrow: Napoli vs Lecce
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × ليتشي | Kick-off in 30 min: Napoli vs Lecce
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749787@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T173000Z
+DTEND:20261213T193000Z
+SUMMARY:Napoli vs Milan — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749787
+DESCRIPTION:⚽ نابولي × ميلان\n🏆 الدوري الإيطا
+ لي — الجولة 15\n🗓 الأحد 13 ديسمبر 2026 · 20:30 ب
+ توقيت الرياض\n🏟 Diego Armando Maradona\n—————\n⚽
+  Napoli v Milan\n🏆 Serie A — Matchday 15\n🗓 Sun 13 Dec 2026 · 17:
+ 30 UTC\n🏟 Diego Armando Maradona\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد ميلان — الدوري ا
+ لإيطالي | Tomorrow: Napoli vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × ميلان | Kick-off in 30 min: Napoli vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749792@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T173000Z
+DTEND:20261220T193000Z
+SUMMARY:Atalanta vs Napoli — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749792
+DESCRIPTION:⚽ أتالانتا × نابولي\n🏆 الدوري الإ
+ يطالي — الجولة 16\n🗓 الأحد 20 ديسمبر 2026 · 20
+ :30 بتوقيت الرياض\n🏟 New Balance Arena\n—————\n
+ ⚽ Atalanta v Napoli\n🏆 Serie A — Matchday 16\n🗓 Sun 20 Dec 2026 
+ · 17:30 UTC\n🏟 New Balance Arena\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد نابولي — الدور
+ ي الإيطالي | Tomorrow: Atalanta vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × نابولي | Kick-off in 30 min: Atalanta vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749807@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T173000Z
+DTEND:20270103T193000Z
+SUMMARY:Parma vs Napoli — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749807
+DESCRIPTION:⚽ بارما × نابولي\n🏆 الدوري الإيطا
+ لي — الجولة 17\n🗓 الأحد 3 يناير 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Stadio Ennio Tardini\n—————\n⚽ Par
+ ma v Napoli\n🏆 Serie A — Matchday 17\n🗓 Sun 03 Jan 2027 · 17:30 U
+ TC\n🏟 Stadio Ennio Tardini\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد نابولي — الدوري ا
+ لإيطالي | Tomorrow: Parma vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × نابولي | Kick-off in 30 min: Parma vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749817@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T173000Z
+DTEND:20270106T193000Z
+SUMMARY:Napoli vs Cagliari — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749817
+DESCRIPTION:⚽ نابولي × كالياري\n🏆 الدوري الإي
+ طالي — الجولة 18\n🗓 الأربعاء 6 يناير 2027 · 2
+ 0:30 بتوقيت الرياض\n🏟 Diego Armando Maradona\n————
+ —\n⚽ Napoli v Cagliari\n🏆 Serie A — Matchday 18\n🗓 Wed 06 Jan 
+ 2027 · 17:30 UTC\n🏟 Diego Armando Maradona\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد كالياري — الدوري
+  الإيطالي | Tomorrow: Napoli vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × كالياري | Kick-off in 30 min: Napoli vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749829@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T173000Z
+DTEND:20270110T193000Z
+SUMMARY:Udinese vs Napoli — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749829
+DESCRIPTION:⚽ أودينيزي × نابولي\n🏆 الدوري الإ
+ يطالي — الجولة 19\n🗓 الأحد 10 يناير 2027 · 20:3
+ 0 بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n—
+ ————\n⚽ Udinese v Napoli\n🏆 Serie A — Matchday 19\n🗓 Sun
+  10 Jan 2027 · 17:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد نابولي — الدور
+ ي الإيطالي | Tomorrow: Udinese vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × نابولي | Kick-off in 30 min: Udinese vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749836@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T173000Z
+DTEND:20270117T193000Z
+SUMMARY:Napoli vs Fiorentina — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749836
+DESCRIPTION:⚽ نابولي × فيورنتينا\n🏆 الدوري ال
+ إيطالي — الجولة 20\n🗓 الأحد 17 يناير 2027 · 20
+ :30 بتوقيت الرياض\n🏟 Diego Armando Maradona\n————
+ —\n⚽ Napoli v Fiorentina\n🏆 Serie A — Matchday 20\n🗓 Sun 17 Ja
+ n 2027 · 17:30 UTC\n🏟 Diego Armando Maradona\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد فيورنتينا — الدو
+ ري الإيطالي | Tomorrow: Napoli vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × فيورنتينا | Kick-off in 30 min: Napoli vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749842@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T173000Z
+DTEND:20270124T193000Z
+SUMMARY:Como vs Napoli — Serie A
+LOCATION:Stadio G. Sinigaglia
+URL:https://www.fotmob.com/match/5749842
+DESCRIPTION:⚽ كومو × نابولي\n🏆 الدوري الإيطال
+ ي — الجولة 21\n🗓 الأحد 24 يناير 2027 · 20:30 بتو
+ قيت الرياض\n🏟 Stadio G. Sinigaglia\n—————\n⚽ Como 
+ v Napoli\n🏆 Serie A — Matchday 21\n🗓 Sun 24 Jan 2027 · 17:30 UTC\
+ n🏟 Stadio G. Sinigaglia\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كومو ضد نابولي — الدوري ال
+ إيطالي | Tomorrow: Como vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كومو ×
+  نابولي | Kick-off in 30 min: Como vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749856@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T173000Z
+DTEND:20270131T193000Z
+SUMMARY:Napoli vs Inter — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749856
+DESCRIPTION:⚽ نابولي × إنتر ميلان\n🏆 الدوري ال
+ إيطالي — الجولة 22\n🗓 الأحد 31 يناير 2027 · 20
+ :30 بتوقيت الرياض\n🏟 Diego Armando Maradona\n————
+ —\n⚽ Napoli v Inter\n🏆 Serie A — Matchday 22\n🗓 Sun 31 Jan 202
+ 7 · 17:30 UTC\n🏟 Diego Armando Maradona\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد إنتر ميلان — الد
+ وري الإيطالي | Tomorrow: Napoli vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × إنتر ميلان | Kick-off in 30 min: Napoli vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749867@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T173000Z
+DTEND:20270207T193000Z
+SUMMARY:Lecce vs Napoli — Serie A
+LOCATION:Stadio Ettore Giardiniero - Via del Mare
+URL:https://www.fotmob.com/match/5749867
+DESCRIPTION:⚽ ليتشي × نابولي\n🏆 الدوري الإيطا
+ لي — الجولة 23\n🗓 الأحد 7 فبراير 2027 · 20:30 ب
+ توقيت الرياض\n🏟 Stadio Ettore Giardiniero - Via del Mare\n
+ —————\n⚽ Lecce v Napoli\n🏆 Serie A — Matchday 23\n🗓 Su
+ n 07 Feb 2027 · 17:30 UTC\n🏟 Stadio Ettore Giardiniero - Via del Mare\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليتشي ضد نابولي — الدوري ا
+ لإيطالي | Tomorrow: Lecce vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليتشي 
+ × نابولي | Kick-off in 30 min: Lecce vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749877@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T173000Z
+DTEND:20270214T193000Z
+SUMMARY:Napoli vs Juventus — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749877
+DESCRIPTION:⚽ نابولي × يوفنتوس\n🏆 الدوري الإي
+ طالي — الجولة 24\n🗓 الأحد 14 فبراير 2027 · 20:3
+ 0 بتوقيت الرياض\n🏟 Diego Armando Maradona\n—————\
+ n⚽ Napoli v Juventus\n🏆 Serie A — Matchday 24\n🗓 Sun 14 Feb 2027
+  · 17:30 UTC\n🏟 Diego Armando Maradona\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد يوفنتوس — الدوري
+  الإيطالي | Tomorrow: Napoli vs Juventus
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × يوفنتوس | Kick-off in 30 min: Napoli vs Juventus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749885@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T173000Z
+DTEND:20270221T193000Z
+SUMMARY:Lazio vs Napoli — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749885
+DESCRIPTION:⚽ لاتسيو × نابولي\n🏆 الدوري الإيط
+ الي — الجولة 25\n🗓 الأحد 21 فبراير 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n
+ ⚽ Lazio v Napoli\n🏆 Serie A — Matchday 25\n🗓 Sun 21 Feb 2027 · 
+ 17:30 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد نابولي — الدوري 
+ الإيطالي | Tomorrow: Lazio vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × نابولي | Kick-off in 30 min: Lazio vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749894@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T173000Z
+DTEND:20270228T193000Z
+SUMMARY:Frosinone vs Napoli — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749894
+DESCRIPTION:⚽ فروزينوني × نابولي\n🏆 الدوري ال
+ إيطالي — الجولة 26\n🗓 الأحد 28 فبراير 2027 · 
+ 20:30 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n————
+ —\n⚽ Frosinone v Napoli\n🏆 Serie A — Matchday 26\n🗓 Sun 28 Feb
+  2027 · 17:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد نابولي — الدو
+ ري الإيطالي | Tomorrow: Frosinone vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × نابولي | Kick-off in 30 min: Frosinone vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749907@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T173000Z
+DTEND:20270307T193000Z
+SUMMARY:Napoli vs Parma — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749907
+DESCRIPTION:⚽ نابولي × بارما\n🏆 الدوري الإيطا
+ لي — الجولة 27\n🗓 الأحد 7 مارس 2027 · 20:30 بتو
+ قيت الرياض\n🏟 Diego Armando Maradona\n—————\n⚽ Nap
+ oli v Parma\n🏆 Serie A — Matchday 27\n🗓 Sun 07 Mar 2027 · 17:30 U
+ TC\n🏟 Diego Armando Maradona\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد بارما — الدوري ا
+ لإيطالي | Tomorrow: Napoli vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × بارما | Kick-off in 30 min: Napoli vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749911@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T173000Z
+DTEND:20270314T193000Z
+SUMMARY:Bologna vs Napoli — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749911
+DESCRIPTION:⚽ بولونيا × نابولي\n🏆 الدوري الإي
+ طالي — الجولة 28\n🗓 الأحد 14 مارس 2027 · 20:30 ب
+ توقيت الرياض\n🏟 Stadio Renato Dell'Ara\n—————\n⚽
+  Bologna v Napoli\n🏆 Serie A — Matchday 28\n🗓 Sun 14 Mar 2027 · 1
+ 7:30 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد نابولي — الدوري
+  الإيطالي | Tomorrow: Bologna vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × نابولي | Kick-off in 30 min: Bologna vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749926@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T173000Z
+DTEND:20270321T193000Z
+SUMMARY:Napoli vs Venezia — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749926
+DESCRIPTION:⚽ نابولي × فينيزيا\n🏆 الدوري الإي
+ طالي — الجولة 29\n🗓 الأحد 21 مارس 2027 · 20:30 ب
+ توقيت الرياض\n🏟 Diego Armando Maradona\n—————\n⚽
+  Napoli v Venezia\n🏆 Serie A — Matchday 29\n🗓 Sun 21 Mar 2027 · 1
+ 7:30 UTC\n🏟 Diego Armando Maradona\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد فينيزيا — الدوري
+  الإيطالي | Tomorrow: Napoli vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × فينيزيا | Kick-off in 30 min: Napoli vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749932@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T163000Z
+DTEND:20270404T183000Z
+SUMMARY:Cagliari vs Napoli — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749932
+DESCRIPTION:⚽ كالياري × نابولي\n🏆 الدوري الإي
+ طالي — الجولة 30\n🗓 الأحد 4 أبريل 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cagliar
+ i v Napoli\n🏆 Serie A — Matchday 30\n🗓 Sun 04 Apr 2027 · 16:30 UT
+ C\n🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد نابولي — الدوري
+  الإيطالي | Tomorrow: Cagliari vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × نابولي | Kick-off in 30 min: Cagliari vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749947@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T163000Z
+DTEND:20270411T183000Z
+SUMMARY:Napoli vs Sassuolo — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749947
+DESCRIPTION:⚽ نابولي × ساسولو\n🏆 الدوري الإيط
+ الي — الجولة 31\n🗓 الأحد 11 أبريل 2027 · 19:30 ب
+ توقيت الرياض\n🏟 Diego Armando Maradona\n—————\n⚽
+  Napoli v Sassuolo\n🏆 Serie A — Matchday 31\n🗓 Sun 11 Apr 2027 · 
+ 16:30 UTC\n🏟 Diego Armando Maradona\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد ساسولو — الدوري 
+ الإيطالي | Tomorrow: Napoli vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × ساسولو | Kick-off in 30 min: Napoli vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749950@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T163000Z
+DTEND:20270418T183000Z
+SUMMARY:Milan vs Napoli — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749950
+DESCRIPTION:⚽ ميلان × نابولي\n🏆 الدوري الإيطا
+ لي — الجولة 32\n🗓 الأحد 18 أبريل 2027 · 19:30 بت
+ وقيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v Napoli\
+ n🏆 Serie A — Matchday 32\n🗓 Sun 18 Apr 2027 · 16:30 UTC\n🏟 San
+  Siro\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد نابولي — الدوري ا
+ لإيطالي | Tomorrow: Milan vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × نابولي | Kick-off in 30 min: Milan vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749967@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270425T163000Z
+DTEND:20270425T183000Z
+SUMMARY:Napoli vs Udinese — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749967
+DESCRIPTION:⚽ نابولي × أودينيزي\n🏆 الدوري الإ
+ يطالي — الجولة 33\n🗓 الأحد 25 أبريل 2027 · 19:3
+ 0 بتوقيت الرياض\n🏟 Diego Armando Maradona\n—————\
+ n⚽ Napoli v Udinese\n🏆 Serie A — Matchday 33\n🗓 Sun 25 Apr 2027 
+ · 16:30 UTC\n🏟 Diego Armando Maradona\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد أودينيزي — الدور
+ ي الإيطالي | Tomorrow: Napoli vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × أودينيزي | Kick-off in 30 min: Napoli vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749971@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T163000Z
+DTEND:20270502T183000Z
+SUMMARY:Roma vs Napoli — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749971
+DESCRIPTION:⚽ روما × نابولي\n🏆 الدوري الإيطال
+ ي — الجولة 34\n🗓 الأحد 2 مايو 2027 · 19:30 بتوق
+ يت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ Roma v
+  Napoli\n🏆 Serie A — Matchday 34\n🗓 Sun 02 May 2027 · 16:30 UTC\n
+ 🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد نابولي — الدوري ال
+ إيطالي | Tomorrow: Roma vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  نابولي | Kick-off in 30 min: Roma vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749985@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T163000Z
+DTEND:20270509T183000Z
+SUMMARY:Napoli vs Monza — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749985
+DESCRIPTION:⚽ نابولي × مونزا\n🏆 الدوري الإيطا
+ لي — الجولة 35\n🗓 الأحد 9 مايو 2027 · 19:30 بتو
+ قيت الرياض\n🏟 Diego Armando Maradona\n—————\n⚽ Nap
+ oli v Monza\n🏆 Serie A — Matchday 35\n🗓 Sun 09 May 2027 · 16:30 U
+ TC\n🏟 Diego Armando Maradona\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد مونزا — الدوري ا
+ لإيطالي | Tomorrow: Napoli vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × مونزا | Kick-off in 30 min: Napoli vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749998@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T163000Z
+DTEND:20270516T183000Z
+SUMMARY:Napoli vs Genoa — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749998
+DESCRIPTION:⚽ نابولي × جنوى\n🏆 الدوري الإيطال
+ ي — الجولة 36\n🗓 الأحد 16 مايو 2027 · 19:30 بتوق
+ يت الرياض\n🏟 Diego Armando Maradona\n—————\n⚽ Napol
+ i v Genoa\n🏆 Serie A — Matchday 36\n🗓 Sun 16 May 2027 · 16:30 UTC
+ \n🏟 Diego Armando Maradona\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد جنوى — الدوري ال
+ إيطالي | Tomorrow: Napoli vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × جنوى | Kick-off in 30 min: Napoli vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750007@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T163000Z
+DTEND:20270523T183000Z
+SUMMARY:Torino vs Napoli — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5750007
+DESCRIPTION:⚽ تورينو × نابولي\n🏆 الدوري الإيط
+ الي — الجولة 37\n🗓 الأحد 23 مايو 2027 · 19:30 بت
+ وقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n—————
+ \n⚽ Torino v Napoli\n🏆 Serie A — Matchday 37\n🗓 Sun 23 May 2027 
+ · 16:30 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد نابولي — الدوري 
+ الإيطالي | Tomorrow: Torino vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × نابولي | Kick-off in 30 min: Torino vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750018@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T163000Z
+DTEND:20270530T183000Z
+SUMMARY:Napoli vs Atalanta — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5750018
+DESCRIPTION:⚽ نابولي × أتالانتا\n🏆 الدوري الإ
+ يطالي — الجولة 38\n🗓 الأحد 30 مايو 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Diego Armando Maradona\n—————\n
+ ⚽ Napoli v Atalanta\n🏆 Serie A — Matchday 38\n🗓 Sun 30 May 2027 
+ · 16:30 UTC\n🏟 Diego Armando Maradona\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد أتالانتا — الدور
+ ي الإيطالي | Tomorrow: Napoli vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × أتالانتا | Kick-off in 30 min: Napoli vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106318@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260909T190000Z
+DTEND:20260909T210000Z
+SUMMARY:Napoli vs Arsenal — UEFA Champions League
+LOCATION:Stadio Diego Armando Maradona\, Napoli\, Italy
+GEO:40.827974;14.192930
+URL:https://www.fotmob.com/match/6106318
+DESCRIPTION:⚽ نابولي × أرسنال\n🏆 دوري أبطال أو
+ روبا — الجولة 1\n🗓 الأربعاء 9 سبتمبر 2026 · 
+ 22:00 بتوقيت الرياض\n🏟 Stadio Diego Armando Maradona، Napo
+ li\n📺 HBO Max (UK)، Paramount+ (US)\n—————\n⚽ Napoli v Ars
+ enal\n🏆 UEFA Champions League — Matchday 1\n🗓 Wed 09 Sep 2026 · 1
+ 9:00 UTC\n🏟 Stadio Diego Armando Maradona, Napoli\n📺 HBO Max (UK), P
+ aramount+ (US)\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد أرسنال — دوري أب
+ طال أوروبا — 📺 HBO Max (UK)، Paramount+ (US) | Tomorrow: Na
+ poli vs Arsenal | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × أرسنال — 📺 HBO Max (UK)، Paramount+ (US) | Kick-off in 3
+ 0 min: Napoli vs Arsenal | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106328@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Villarreal vs Napoli — UEFA Champions League
+LOCATION:Estadio de la Cerámica\, Villarreal\, Spain
+GEO:39.944119;-0.103474
+URL:https://www.fotmob.com/match/6106328
+DESCRIPTION:⚽ فياريال × نابولي\n🏆 دوري أبطال أ
+ وروبا — الجولة 2\n🗓 الثلاثاء 13 أكتوبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Estadio de la Cerámica، Villarr
+ eal\n—————\n⚽ Villarreal v Napoli\n🏆 UEFA Champions League 
+ — Matchday 2\n🗓 Tue 13 Oct 2026 · 19:00 UTC\n🏟 Estadio de la Cer
+ ámica, Villarreal\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد نابولي — دوري أ
+ بطال أوروبا | Tomorrow: Villarreal vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × نابولي | Kick-off in 30 min: Villarreal vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106320@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:Napoli vs Bodø/Glimt — UEFA Champions League
+LOCATION:Stadio Diego Armando Maradona\, Napoli\, Italy
+GEO:40.827974;14.192930
+URL:https://www.fotmob.com/match/6106320
+DESCRIPTION:⚽ نابولي × بودو جليمت\n🏆 دوري أبطا
+ ل أوروبا — الجولة 3\n🗓 الثلاثاء 20 أكتوبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 Stadio Diego Armando Maradon
+ a، Napoli\n—————\n⚽ Napoli v Bodø/Glimt\n🏆 UEFA Champions
+  League — Matchday 3\n🗓 Tue 20 Oct 2026 · 19:00 UTC\n🏟 Stadio Die
+ go Armando Maradona, Napoli\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد بودو جليمت — دور
+ ي أبطال أوروبا | Tomorrow: Napoli vs Bodø/Glimt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × بودو جليمت | Kick-off in 30 min: Napoli vs Bodø/Glimt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106288@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+SUMMARY:FC Porto vs Napoli — UEFA Champions League
+LOCATION:Estadio do Dragao
+URL:https://www.fotmob.com/match/6106288
+DESCRIPTION:⚽ بورتو × نابولي\n🏆 دوري أبطال أور
+ وبا — الجولة 4\n🗓 الأربعاء 4 نوفمبر 2026 · 23
+ :00 بتوقيت الرياض\n🏟 Estadio do Dragao\n—————\n
+ ⚽ FC Porto v Napoli\n🏆 UEFA Champions League — Matchday 4\n🗓 Wed
+  04 Nov 2026 · 20:00 UTC\n🏟 Estadio do Dragao\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورتو ضد نابولي — دوري أبط
+ ال أوروبا | Tomorrow: FC Porto vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورتو 
+ × نابولي | Kick-off in 30 min: FC Porto vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106256@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+SUMMARY:Manchester City vs Napoli — UEFA Champions League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/6106256
+DESCRIPTION:⚽ مانشستر سيتي × نابولي\n🏆 دوري أب
+ طال أوروبا — الجولة 5\n🗓 الثلاثاء 24 نوفم
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Etihad Stadium\n——
+ ———\n⚽ Manchester City v Napoli\n🏆 UEFA Champions League — Ma
+ tchday 5\n🗓 Tue 24 Nov 2026 · 20:00 UTC\n🏟 Etihad Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد نابولي — د
+ وري أبطال أوروبا | Tomorrow: Manchester City vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × نابولي | Kick-off in 30 min: Manchester City vs Nap
+ oli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106319@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+SUMMARY:Napoli vs Club Brugge — UEFA Champions League
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/6106319
+DESCRIPTION:⚽ نابولي × كلوب بروج\n🏆 دوري أبطال
+  أوروبا — الجولة 6\n🗓 الثلاثاء 8 ديسمبر 202
+ 6 · 23:00 بتوقيت الرياض\n🏟 Diego Armando Maradona\n——
+ ———\n⚽ Napoli v Club Brugge\n🏆 UEFA Champions League — Matchd
+ ay 6\n🗓 Tue 08 Dec 2026 · 20:00 UTC\n🏟 Diego Armando Maradona\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد كلوب بروج — دوري 
+ أبطال أوروبا | Tomorrow: Napoli vs Club Brugge
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × كلوب بروج | Kick-off in 30 min: Napoli vs Club Brugge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106423@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T174500Z
+DTEND:20270120T194500Z
+SUMMARY:Sabah FK vs Napoli — UEFA Champions League
+LOCATION:Bank Respublika Arena\, Masazyr (Masazir)\, Azerbaijan
+GEO:40.486179;49.766298
+URL:https://www.fotmob.com/match/6106423
+DESCRIPTION:⚽ صباح × نابولي\n🏆 دوري أبطال أورو
+ با — الجولة 7\n🗓 الأربعاء 20 يناير 2027 · 20:45
+  بتوقيت الرياض\n🏟 Bank Respublika Arena، Masazyr (Masazir)
+ \n—————\n⚽ Sabah FK v Napoli\n🏆 UEFA Champions League — M
+ atchday 7\n🗓 Wed 20 Jan 2027 · 17:45 UTC\n🏟 Bank Respublika Arena, 
+ Masazyr (Masazir)\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: صباح ضد نابولي — دوري أبطا
+ ل أوروبا | Tomorrow: Sabah FK vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: صباح ×
+  نابولي | Kick-off in 30 min: Sabah FK vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106321@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Napoli vs Viking — UEFA Champions League
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/6106321
+DESCRIPTION:⚽ نابولي × فيشينغ ستافانغير\n🏆 دو
+ ري أبطال أوروبا — الجولة 8\n🗓 الأربعاء 27 
+ يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Diego Armando Mar
+ adona\n—————\n⚽ Napoli v Viking\n🏆 UEFA Champions League 
+ — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Diego Armando Mara
+ dona\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد فيشينغ ستافانغير
+  — دوري أبطال أوروبا | Tomorrow: Napoli vs Viking
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × فيشينغ ستافانغير | Kick-off in 30 min: Napoli vs Viki
+ ng
+END:VALARM
+END:VEVENT
+END:VCALENDAR

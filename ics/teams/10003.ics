@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Swansea City — FA Cup Fixtures | Swansea City — مبا
+ ريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Swansea City — all matches in FA Cup\, exact UTC kickoffs\, 
+ stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:1
+ 0Z.  •  Swansea City — جميع المباريات في كأس الا
+ تحاد الإنجليزي بتوقيت UTC الدقيق مع الملا
+ عب والقنوات الناقلة. المصدر: FotMob + 365scores · 
+ تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5089911@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260111T143000Z
+DTEND:20260111T163000Z
+SUMMARY:Swansea City vs West Bromwich Albion (2 - 2) — FA Cup
+LOCATION:Swansea.com Stadium\, Swansea\, Wales
+GEO:51.642771;-3.934704
+URL:https://www.fotmob.com/match/5089911
+DESCRIPTION:⚽ Swansea City × وست بروميتش (2 - 2)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الثالث\n🗓 الأ
+ حد 11 يناير 2026 · 17:30 بتوقيت الرياض\n🏟 Swansea.c
+ om Stadium، Swansea\n⚖️ الحكم: Elliot Bell\n👥 الحضور: 9
+ ,918\n—————\n⚽ Swansea City v West Bromwich Albion (2 - 2)\n
+ 🏆 FA Cup — Round 3\n🗓 Sun 11 Jan 2026 · 14:30 UTC\n🏟 Swansea.c
+ om Stadium, Swansea\nReferee: Elliot Bell\nAttendance: 9,918\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Swansea City ضد وست بروميتش — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Swansea City vs West Brom
+ wich Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Swansea Cit
+ y × وست بروميتش | Kick-off in 30 min: Swansea City vs West Brom
+ wich Albion
+END:VALARM
+END:VEVENT
+END:VCALENDAR

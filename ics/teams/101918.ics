@@ -1,0 +1,1421 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al Nassr FC — Saudi Pro League & AFC Champions League El
+ ite & King's Cup Fixtures | النصر — مباريات دوري روش
+ ن السعودي ودوري أبطال آسيا للنخبة وكأس خ
+ ادم الحرمين الشريفين
+X-WR-CALDESC:Al Nassr FC — all matches in Saudi Pro League & AFC Champion
+ s League Elite & King's Cup\, exact UTC kickoffs\, stadiums & TV. Data: Fo
+ tMob + 365scores · auto-updated 2026-09-05T19:31:10Z.  •  النصر 
+ — جميع المباريات في دوري روشن السعودي ود
+ وري أبطال آسيا للنخبة وكأس خادم الحرمين 
+ الشريفين بتوقيت UTC الدقيق مع الملاعب وال
+ قنوات الناقلة. المصدر: FotMob + 365scores · تحديث 
+ تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5969054@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260815T180000Z
+DTEND:20260815T200000Z
+SUMMARY:Al Nassr FC vs Al Fateh FC (3 - 0) — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/5969054
+DESCRIPTION:⚽ النصر × الفتح (3 - 0)\n🏆 دوري روشن ا
+ لسعودي — الجولة 1\n🗓 السبت 15 أغسطس 2026 · 21:
+ 00 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n👥 الحضو
+ ر: 16,613\n—————\n⚽ Al Nassr FC v Al Fateh FC (3 - 0)\n🏆 S
+ audi Pro League — Matchday 1\n🗓 Sat 15 Aug 2026 · 18:00 UTC\n🏟 Al
+ -Awwal Park, Riyadh\nAttendance: 16,613\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الفتح — دوري روشن 
+ السعودي | Tomorrow: Al Nassr FC vs Al Fateh FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الفتح | Kick-off in 30 min: Al Nassr FC vs Al Fateh FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970091@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260821T160000Z
+DTEND:20260821T180000Z
+SUMMARY:Al Riyadh vs Al Nassr FC (0 - 4) — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/5970091
+DESCRIPTION:⚽ الرياض × النصر (0 - 4)\n🏆 دوري روشن 
+ السعودي — الجولة 2\n🗓 الجمعة 21 أغسطس 2026 ·
+  19:00 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، Ri
+ yadh\n⚖️ الحكم: Abdullah Al Owaydan\n👥 الحضور: 9,240\n
+ —————\n⚽ Al Riyadh v Al Nassr FC (0 - 4)\n🏆 Saudi Pro Leagu
+ e — Matchday 2\n🗓 Fri 21 Aug 2026 · 16:00 UTC\n🏟 Prince Faisal bi
+ n Fahd Stadium, Riyadh\nReferee: Abdullah Al Owaydan\nAttendance: 9,240\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد النصر — دوري روش
+ ن السعودي | Tomorrow: Al Riyadh vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × النصر | Kick-off in 30 min: Al Riyadh vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970103@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260825T180000Z
+DTEND:20260825T200000Z
+SUMMARY:Al-Ettifaq vs Al Nassr FC (2 - 3) — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/5970103
+DESCRIPTION:⚽ الاتفاق × النصر (2 - 3)\n🏆 دوري روش
+ ن السعودي — الجولة 3\n🗓 الثلاثاء 25 أغسطس 
+ 2026 · 21:00 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Da
+ mmam\n⚖️ الحكم: Mohammed Al Hoaish\n👥 الحضور: 8,525\n—
+ ————\n⚽ Al-Ettifaq v Al Nassr FC (2 - 3)\n🏆 Saudi Pro League 
+ — Matchday 3\n🗓 Tue 25 Aug 2026 · 18:00 UTC\n🏟 Al Ettifaq Club St
+ adium, Dammam\nReferee: Mohammed Al Hoaish\nAttendance: 8,525\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد النصر — دوري رو
+ شن السعودي | Tomorrow: Al-Ettifaq vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × النصر | Kick-off in 30 min: Al-Ettifaq vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970110@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260828T180000Z
+DTEND:20260828T200000Z
+SUMMARY:Al Nassr FC vs Al-Taawoun (2 - 1) — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/5970110
+DESCRIPTION:⚽ النصر × التعاون (2 - 1)\n🏆 دوري روش
+ ن السعودي — الجولة 4\n🗓 الجمعة 28 أغسطس 2026
+  · 21:00 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n⚖️ 
+ الحكم: Abdullah Al Shehri\n👥 الحضور: 24,624\n—————
+ \n⚽ Al Nassr FC v Al-Taawoun (2 - 1)\n🏆 Saudi Pro League — Matchday
+  4\n🗓 Fri 28 Aug 2026 · 18:00 UTC\n🏟 Al-Awwal Park, Riyadh\nReferee
+ : Abdullah Al Shehri\nAttendance: 24,624\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد التعاون — دوري رو
+ شن السعودي | Tomorrow: Al Nassr FC vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × التعاون | Kick-off in 30 min: Al Nassr FC vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970125@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T180000Z
+DTEND:20260905T200000Z
+SUMMARY:Al Ittihad vs Al Nassr FC — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/5970125
+DESCRIPTION:⚽ الاتحاد × النصر\n🏆 دوري روشن الس
+ عودي — الجولة 5\n🗓 السبت 5 سبتمبر 2026 · 21:00 
+ بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah Sport
+  City، Jeddah\n📺 ثمانية 1، تطبيق ثمانية\n———
+ ——\n⚽ Al Ittihad v Al Nassr FC\n🏆 Saudi Pro League — Matchday 5
+ \n🗓 Sat 05 Sep 2026 · 18:00 UTC\n🏟 Alinma Bank Stadium at King Abdu
+ llah Sport City, Jeddah\n📺 Thmanyah 1, Thmanyah\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد النصر — دوري رو
+ شن السعودي — 📺 ثمانية 1، تطبيق ثمانية | To
+ morrow: Al Ittihad vs Al Nassr FC | TV: Thmanyah 1\, Thmanyah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × النصر — 📺 ثمانية 1، تطبيق ثمانية | Kic
+ k-off in 30 min: Al Ittihad vs Al Nassr FC | TV: Thmanyah 1\, Thmanyah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970134@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260909T180000Z
+DTEND:20260909T200000Z
+SUMMARY:Al Nassr FC vs Abha — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/5970134
+DESCRIPTION:⚽ النصر × أبها\n🏆 دوري روشن السعود
+ ي — الجولة 6\n🗓 الأربعاء 9 سبتمبر 2026 · 21:00 
+ بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n📺 FOX Deportes
+ ، FOX Sports 2، Fubo Sports، FOX Sports online، FOX One\n————
+ —\n⚽ Al Nassr FC v Abha\n🏆 Saudi Pro League — Matchday 6\n🗓 We
+ d 09 Sep 2026 · 18:00 UTC\n🏟 Al-Awwal Park, Riyadh\n📺 FOX Deportes,
+  FOX Sports 2, Fubo Sports, FOX Sports online, FOX One\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد أبها — دوري روشن ا
+ لسعودي — 📺 FOX Deportes، FOX Sports 2، Fubo Sports، FOX Spor
+ ts online، FOX One | Tomorrow: Al Nassr FC vs Abha | TV: FOX Deportes\, F
+ OX Sports 2\, Fubo Sports\, FOX Sports online\, FOX One
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × أبها — 📺 FOX Deportes، FOX Sports 2، Fubo Sports، FOX Sport
+ s online، FOX One | Kick-off in 30 min: Al Nassr FC vs Abha | TV: FOX Dep
+ ortes\, FOX Sports 2\, Fubo Sports\, FOX Sports online\, FOX One
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970138@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T180000Z
+DTEND:20260912T200000Z
+SUMMARY:Al Khaleej vs Al Nassr FC — Saudi Pro League
+LOCATION:Prince Mohamed bin Fahd Stadium
+URL:https://www.fotmob.com/match/5970138
+DESCRIPTION:⚽ الخليج × النصر\n🏆 دوري روشن السع
+ ودي — الجولة 7\n🗓 السبت 12 سبتمبر 2026 · 21:00 
+ بتوقيت الرياض\n🏟 Prince Mohamed bin Fahd Stadium\n📺 FOX 
+ Soccer Plus، FOX Sports online\n—————\n⚽ Al Khaleej v Al Nass
+ r FC\n🏆 Saudi Pro League — Matchday 7\n🗓 Sat 12 Sep 2026 · 18:00 
+ UTC\n🏟 Prince Mohamed bin Fahd Stadium\n📺 FOX Soccer Plus, FOX Sport
+ s online\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد النصر — دوري روش
+ ن السعودي — 📺 FOX Soccer Plus، FOX Sports online | Tomorrow:
+  Al Khaleej vs Al Nassr FC | TV: FOX Soccer Plus\, FOX Sports online
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × النصر — 📺 FOX Soccer Plus، FOX Sports online | Kick-off i
+ n 30 min: Al Khaleej vs Al Nassr FC | TV: FOX Soccer Plus\, FOX Sports onl
+ ine
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970151@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261009T180000Z
+DTEND:20261009T200000Z
+SUMMARY:Al Nassr FC vs Al Diriyah — Saudi Pro League
+LOCATION:Al-Awwal Park
+URL:https://www.fotmob.com/match/5970151
+DESCRIPTION:⚽ النصر × الدرعية\n🏆 دوري روشن الس
+ عودي — الجولة 8\n🗓 الجمعة 9 أكتوبر 2026 · 21:0
+ 0 بتوقيت الرياض\n🏟 Al-Awwal Park\n—————\n⚽ Al N
+ assr FC v Al Diriyah\n🏆 Saudi Pro League — Matchday 8\n🗓 Fri 09 Oc
+ t 2026 · 18:00 UTC\n🏟 Al-Awwal Park\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الدرعية — دوري رو
+ شن السعودي | Tomorrow: Al Nassr FC vs Al Diriyah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الدرعية | Kick-off in 30 min: Al Nassr FC vs Al Diriyah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970153@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T180000Z
+DTEND:20261015T200000Z
+SUMMARY:Al Ahli vs Al Nassr FC — Saudi Pro League
+LOCATION:King Abdullah Sports City
+URL:https://www.fotmob.com/match/5970153
+DESCRIPTION:⚽ الأهلي × النصر\n🏆 دوري روشن السع
+ ودي — الجولة 9\n🗓 الخميس 15 أكتوبر 2026 · 21:00
+  بتوقيت الرياض\n🏟 King Abdullah Sports City\n————
+ —\n⚽ Al Ahli v Al Nassr FC\n🏆 Saudi Pro League — Matchday 9\n🗓
+  Thu 15 Oct 2026 · 18:00 UTC\n🏟 King Abdullah Sports City\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد النصر — دوري روش
+ ن السعودي | Tomorrow: Al Ahli vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × النصر | Kick-off in 30 min: Al Ahli vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970168@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T180000Z
+DTEND:20261020T200000Z
+SUMMARY:Al Nassr FC vs Neom SC — Saudi Pro League
+LOCATION:Al-Awwal Park
+URL:https://www.fotmob.com/match/5970168
+DESCRIPTION:⚽ النصر × نيوم\n🏆 دوري روشن السعود
+ ي — الجولة 10\n🗓 الثلاثاء 20 أكتوبر 2026 · 21:0
+ 0 بتوقيت الرياض\n🏟 Al-Awwal Park\n—————\n⚽ Al N
+ assr FC v Neom SC\n🏆 Saudi Pro League — Matchday 10\n🗓 Tue 20 Oct 
+ 2026 · 18:00 UTC\n🏟 Al-Awwal Park\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد نيوم — دوري روشن ا
+ لسعودي | Tomorrow: Al Nassr FC vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × نيوم | Kick-off in 30 min: Al Nassr FC vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970172@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261023T133000Z
+DTEND:20261023T153000Z
+SUMMARY:Al-Faisaly vs Al Nassr FC — Saudi Pro League
+LOCATION:Majmaah Sports City
+URL:https://www.fotmob.com/match/5970172
+DESCRIPTION:⚽ الفيصلي × النصر\n🏆 دوري روشن الس
+ عودي — الجولة 11\n🗓 الجمعة 23 أكتوبر 2026 · 16
+ :30 بتوقيت الرياض\n🏟 Majmaah Sports City\n—————\n
+ ⚽ Al-Faisaly v Al Nassr FC\n🏆 Saudi Pro League — Matchday 11\n🗓 
+ Fri 23 Oct 2026 · 13:30 UTC\n🏟 Majmaah Sports City\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد النصر — دوري رو
+ شن السعودي | Tomorrow: Al-Faisaly vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × النصر | Kick-off in 30 min: Al-Faisaly vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970193@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261029T180000Z
+DTEND:20261029T200000Z
+SUMMARY:Al Nassr FC vs Al Kholood — Saudi Pro League
+LOCATION:Al-Awwal Park
+URL:https://www.fotmob.com/match/5970193
+DESCRIPTION:⚽ النصر × الخلود\n🏆 دوري روشن السع
+ ودي — الجولة 12\n🗓 الخميس 29 أكتوبر 2026 · 21:0
+ 0 بتوقيت الرياض\n🏟 Al-Awwal Park\n—————\n⚽ Al N
+ assr FC v Al Kholood\n🏆 Saudi Pro League — Matchday 12\n🗓 Thu 29 O
+ ct 2026 · 18:00 UTC\n🏟 Al-Awwal Park\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الخلود — دوري روش
+ ن السعودي | Tomorrow: Al Nassr FC vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الخلود | Kick-off in 30 min: Al Nassr FC vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021472@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:Al Hazem vs Al Nassr FC — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021472
+DESCRIPTION:⚽ الحزم × النصر\n🏆 دوري روشن السعو
+ دي — الجولة 13\n🗓 الخميس 5 نوفمبر 2026 · 03:00 
+ بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، A
+ r Rass\n—————\n⚽ Al Hazem v Al Nassr FC\n🏆 Saudi Pro League
+  — Matchday 13\n🗓 Thu 05 Nov 2026 · 00:00 UTC\n🏟 Ar-Rass Stadium 
+ (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد النصر — دوري روشن 
+ السعودي | Tomorrow: Al Hazem vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × النصر | Kick-off in 30 min: Al Hazem vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021481@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Al Nassr FC vs Al Qadsiah — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021481
+DESCRIPTION:⚽ النصر × القادسية\n🏆 دوري روشن ال
+ سعودي — الجولة 14\n🗓 الجمعة 20 نوفمبر 2026 · 
+ 03:00 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n————
+ —\n⚽ Al Nassr FC v Al Qadsiah\n🏆 Saudi Pro League — Matchday 14\n
+ 🗓 Fri 20 Nov 2026 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد القادسية — دوري ر
+ وشن السعودي | Tomorrow: Al Nassr FC vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × القادسية | Kick-off in 30 min: Al Nassr FC vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021491@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Al Nassr FC vs Al Shabab — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021491
+DESCRIPTION:⚽ النصر × الشباب\n🏆 دوري روشن السع
+ ودي — الجولة 15\n🗓 الخميس 26 نوفمبر 2026 · 03:0
+ 0 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n—————\
+ n⚽ Al Nassr FC v Al Shabab\n🏆 Saudi Pro League — Matchday 15\n🗓 
+ Thu 26 Nov 2026 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الشباب — دوري روش
+ ن السعودي | Tomorrow: Al Nassr FC vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الشباب | Kick-off in 30 min: Al Nassr FC vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021497@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Al-Fayha vs Al Nassr FC — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021497
+DESCRIPTION:⚽ الفيحاء × النصر\n🏆 دوري روشن الس
+ عودي — الجولة 16\n🗓 الخميس 3 ديسمبر 2026 · 03:
+ 00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al Ma
+ jma'ah\n—————\n⚽ Al-Fayha v Al Nassr FC\n🏆 Saudi Pro League
+  — Matchday 16\n🗓 Thu 03 Dec 2026 · 00:00 UTC\n🏟 Al Majma'ah Spor
+ ts City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد النصر — دوري رو
+ شن السعودي | Tomorrow: Al-Fayha vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × النصر | Kick-off in 30 min: Al-Fayha vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021509@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Al Nassr FC vs Al Hilal — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021509
+DESCRIPTION:⚽ النصر × الهلال\n🏆 دوري روشن السع
+ ودي — الجولة 17\n🗓 الخميس 10 ديسمبر 2026 · 03:0
+ 0 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n—————\
+ n⚽ Al Nassr FC v Al Hilal\n🏆 Saudi Pro League — Matchday 17\n🗓 T
+ hu 10 Dec 2026 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الهلال — دوري روش
+ ن السعودي | Tomorrow: Al Nassr FC vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الهلال | Kick-off in 30 min: Al Nassr FC vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021514@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261214T000000Z
+DTEND:20261214T020000Z
+SUMMARY:Al Fateh FC vs Al Nassr FC — Saudi Pro League
+LOCATION:Maydan Tamweel Aloula\, Al Ahsa\, Saudi Arabia
+GEO:25.429604;49.581390
+URL:https://www.fotmob.com/match/1000021514
+DESCRIPTION:⚽ الفتح × النصر\n🏆 دوري روشن السعو
+ دي — الجولة 18\n🗓 الاثنين 14 ديسمبر 2026 · 03:0
+ 0 بتوقيت الرياض\n🏟 Maydan Tamweel Aloula، Al Ahsa\n——
+ ———\n⚽ Al Fateh FC v Al Nassr FC\n🏆 Saudi Pro League — Matchd
+ ay 18\n🗓 Mon 14 Dec 2026 · 00:00 UTC\n🏟 Maydan Tamweel Aloula, Al A
+ hsa\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفتح ضد النصر — دوري روشن 
+ السعودي | Tomorrow: Al Fateh FC vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفتح 
+ × النصر | Kick-off in 30 min: Al Fateh FC vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021526@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270211T000000Z
+DTEND:20270211T020000Z
+SUMMARY:Al Nassr FC vs Al Riyadh — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021526
+DESCRIPTION:⚽ النصر × الرياض\n🏆 دوري روشن السع
+ ودي — الجولة 19\n🗓 الخميس 11 فبراير 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n—————\
+ n⚽ Al Nassr FC v Al Riyadh\n🏆 Saudi Pro League — Matchday 19\n🗓 
+ Thu 11 Feb 2027 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الرياض — دوري روش
+ ن السعودي | Tomorrow: Al Nassr FC vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الرياض | Kick-off in 30 min: Al Nassr FC vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021537@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270218T000000Z
+DTEND:20270218T020000Z
+SUMMARY:Al Nassr FC vs Al-Ettifaq — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021537
+DESCRIPTION:⚽ النصر × الاتفاق\n🏆 دوري روشن الس
+ عودي — الجولة 20\n🗓 الخميس 18 فبراير 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n————
+ —\n⚽ Al Nassr FC v Al-Ettifaq\n🏆 Saudi Pro League — Matchday 20\n
+ 🗓 Thu 18 Feb 2027 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الاتفاق — دوري رو
+ شن السعودي | Tomorrow: Al Nassr FC vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الاتفاق | Kick-off in 30 min: Al Nassr FC vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021546@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270225T000000Z
+DTEND:20270225T020000Z
+SUMMARY:Al-Taawoun vs Al Nassr FC — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/1000021546
+DESCRIPTION:⚽ التعاون × النصر\n🏆 دوري روشن الس
+ عودي — الجولة 21\n🗓 الخميس 25 فبراير 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al Taawoun Club Stadium، Buraydah\n
+ —————\n⚽ Al-Taawoun v Al Nassr FC\n🏆 Saudi Pro League — M
+ atchday 21\n🗓 Thu 25 Feb 2027 · 00:00 UTC\n🏟 Al Taawoun Club Stadiu
+ m, Buraydah\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد النصر — دوري رو
+ شن السعودي | Tomorrow: Al-Taawoun vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × النصر | Kick-off in 30 min: Al-Taawoun vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021555@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270311T000000Z
+DTEND:20270311T020000Z
+SUMMARY:Al Nassr FC vs Al Ittihad — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021555
+DESCRIPTION:⚽ النصر × الاتحاد\n🏆 دوري روشن الس
+ عودي — الجولة 22\n🗓 الخميس 11 مارس 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n—————\n
+ ⚽ Al Nassr FC v Al Ittihad\n🏆 Saudi Pro League — Matchday 22\n🗓 
+ Thu 11 Mar 2027 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الاتحاد — دوري رو
+ شن السعودي | Tomorrow: Al Nassr FC vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الاتحاد | Kick-off in 30 min: Al Nassr FC vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021559@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270318T000000Z
+DTEND:20270318T020000Z
+SUMMARY:Abha vs Al Nassr FC — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/1000021559
+DESCRIPTION:⚽ أبها × النصر\n🏆 دوري روشن السعود
+ ي — الجولة 23\n🗓 الخميس 18 مارس 2027 · 03:00 بتو
+ قيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sports City Stadium
+ ، Abha\n—————\n⚽ Abha v Al Nassr FC\n🏆 Saudi Pro League 
+ — Matchday 23\n🗓 Thu 18 Mar 2027 · 00:00 UTC\n🏟 Prince Sultan bin
+  Abdulaziz Sports City Stadium, Abha\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد النصر — دوري روشن ا
+ لسعودي | Tomorrow: Abha vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  النصر | Kick-off in 30 min: Abha vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021575@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270402T000000Z
+DTEND:20270402T020000Z
+SUMMARY:Al Nassr FC vs Al Khaleej — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021575
+DESCRIPTION:⚽ النصر × الخليج\n🏆 دوري روشن السع
+ ودي — الجولة 24\n🗓 الجمعة 2 أبريل 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n—————\n
+ ⚽ Al Nassr FC v Al Khaleej\n🏆 Saudi Pro League — Matchday 24\n🗓 
+ Fri 02 Apr 2027 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الخليج — دوري روش
+ ن السعودي | Tomorrow: Al Nassr FC vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الخليج | Kick-off in 30 min: Al Nassr FC vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021583@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270408T000000Z
+DTEND:20270408T020000Z
+SUMMARY:Al Diriyah vs Al Nassr FC — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021583
+DESCRIPTION:⚽ الدرعية × النصر\n🏆 دوري روشن الس
+ عودي — الجولة 25\n🗓 الخميس 8 أبريل 2027 · 03:00
+  بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n—————\n
+ ⚽ Al Diriyah v Al Nassr FC\n🏆 Saudi Pro League — Matchday 25\n🗓 
+ Thu 08 Apr 2027 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الدرعية ضد النصر — دوري رو
+ شن السعودي | Tomorrow: Al Diriyah vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الدرع
+ ية × النصر | Kick-off in 30 min: Al Diriyah vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021591@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270415T000000Z
+DTEND:20270415T020000Z
+SUMMARY:Al Nassr FC vs Al Ahli — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021591
+DESCRIPTION:⚽ النصر × الأهلي\n🏆 دوري روشن السع
+ ودي — الجولة 26\n🗓 الخميس 15 أبريل 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n—————\n
+ ⚽ Al Nassr FC v Al Ahli\n🏆 Saudi Pro League — Matchday 26\n🗓 Thu
+  15 Apr 2027 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الأهلي — دوري روش
+ ن السعودي | Tomorrow: Al Nassr FC vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الأهلي | Kick-off in 30 min: Al Nassr FC vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021602@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T000000Z
+DTEND:20270418T020000Z
+SUMMARY:Neom SC vs Al Nassr FC — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/1000021602
+DESCRIPTION:⚽ نيوم × النصر\n🏆 دوري روشن السعود
+ ي — الجولة 27\n🗓 الأحد 18 أبريل 2027 · 03:00 بتو
+ قيت الرياض\n🏟 King Khalid Sport City Stadium، Tabuk\n——
+ ———\n⚽ Neom SC v Al Nassr FC\n🏆 Saudi Pro League — Matchday 2
+ 7\n🗓 Sun 18 Apr 2027 · 00:00 UTC\n🏟 King Khalid Sport City Stadium,
+  Tabuk\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد النصر — دوري روشن ا
+ لسعودي | Tomorrow: Neom SC vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  النصر | Kick-off in 30 min: Neom SC vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021608@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270422T000000Z
+DTEND:20270422T020000Z
+SUMMARY:Al Nassr FC vs Al-Faisaly — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021608
+DESCRIPTION:⚽ النصر × الفيصلي\n🏆 دوري روشن الس
+ عودي — الجولة 28\n🗓 الخميس 22 أبريل 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n—————\
+ n⚽ Al Nassr FC v Al-Faisaly\n🏆 Saudi Pro League — Matchday 28\n🗓
+  Thu 22 Apr 2027 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الفيصلي — دوري رو
+ شن السعودي | Tomorrow: Al Nassr FC vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الفيصلي | Kick-off in 30 min: Al Nassr FC vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021617@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270429T000000Z
+DTEND:20270429T020000Z
+SUMMARY:Al Kholood vs Al Nassr FC — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021617
+DESCRIPTION:⚽ الخلود × النصر\n🏆 دوري روشن السع
+ ودي — الجولة 29\n🗓 الخميس 29 أبريل 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، A
+ r Rass\n—————\n⚽ Al Kholood v Al Nassr FC\n🏆 Saudi Pro Leag
+ ue — Matchday 29\n🗓 Thu 29 Apr 2027 · 00:00 UTC\n🏟 Ar-Rass Stadiu
+ m (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد النصر — دوري روش
+ ن السعودي | Tomorrow: Al Kholood vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × النصر | Kick-off in 30 min: Al Kholood vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021624@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270506T000000Z
+DTEND:20270506T020000Z
+SUMMARY:Al Nassr FC vs Al Hazem — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021624
+DESCRIPTION:⚽ النصر × الحزم\n🏆 دوري روشن السعو
+ دي — الجولة 30\n🗓 الخميس 6 مايو 2027 · 03:00 بت
+ وقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n—————\n⚽ A
+ l Nassr FC v Al Hazem\n🏆 Saudi Pro League — Matchday 30\n🗓 Thu 06 
+ May 2027 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الحزم — دوري روشن 
+ السعودي | Tomorrow: Al Nassr FC vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الحزم | Kick-off in 30 min: Al Nassr FC vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021637@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270512T000000Z
+DTEND:20270512T020000Z
+SUMMARY:Al Qadsiah vs Al Nassr FC — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021637
+DESCRIPTION:⚽ القادسية × النصر\n🏆 دوري روشن ال
+ سعودي — الجولة 31\n🗓 الأربعاء 12 مايو 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، D
+ ammam\n—————\n⚽ Al Qadsiah v Al Nassr FC\n🏆 Saudi Pro Leagu
+ e — Matchday 31\n🗓 Wed 12 May 2027 · 00:00 UTC\n🏟 Prince Mohammed
+  Bin Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد النصر — دوري ر
+ وشن السعودي | Tomorrow: Al Qadsiah vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × النصر | Kick-off in 30 min: Al Qadsiah vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021646@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270520T000000Z
+DTEND:20270520T020000Z
+SUMMARY:Al Shabab vs Al Nassr FC — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/1000021646
+DESCRIPTION:⚽ الشباب × النصر\n🏆 دوري روشن السع
+ ودي — الجولة 32\n🗓 الخميس 20 مايو 2027 · 03:00 ب
+ توقيت الرياض\n🏟 SHG Arena، Riyadh\n—————\n⚽ Al 
+ Shabab v Al Nassr FC\n🏆 Saudi Pro League — Matchday 32\n🗓 Thu 20 M
+ ay 2027 · 00:00 UTC\n🏟 SHG Arena, Riyadh\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد النصر — دوري روش
+ ن السعودي | Tomorrow: Al Shabab vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × النصر | Kick-off in 30 min: Al Shabab vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021653@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270524T000000Z
+DTEND:20270524T020000Z
+SUMMARY:Al Nassr FC vs Al-Fayha — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021653
+DESCRIPTION:⚽ النصر × الفيحاء\n🏆 دوري روشن الس
+ عودي — الجولة 33\n🗓 الاثنين 24 مايو 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n—————\
+ n⚽ Al Nassr FC v Al-Fayha\n🏆 Saudi Pro League — Matchday 33\n🗓 M
+ on 24 May 2027 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الفيحاء — دوري رو
+ شن السعودي | Tomorrow: Al Nassr FC vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الفيحاء | Kick-off in 30 min: Al Nassr FC vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021661@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270528T000000Z
+DTEND:20270528T020000Z
+SUMMARY:Al Hilal vs Al Nassr FC — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/1000021661
+DESCRIPTION:⚽ الهلال × النصر\n🏆 دوري روشن السع
+ ودي — الجولة 34\n🗓 الجمعة 28 مايو 2027 · 03:00 ب
+ توقيت الرياض\n🏟 Kingdom Arena، Riyadh\n—————\n⚽
+  Al Hilal v Al Nassr FC\n🏆 Saudi Pro League — Matchday 34\n🗓 Fri 2
+ 8 May 2027 · 00:00 UTC\n🏟 Kingdom Arena, Riyadh\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد النصر — دوري روش
+ ن السعودي | Tomorrow: Al Hilal vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × النصر | Kick-off in 30 min: Al Hilal vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050070@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260915T160000Z
+DTEND:20260915T180000Z
+SUMMARY:Al-Ain vs Al Nassr FC — AFC Champions League Elite
+LOCATION:Hazza Bin Zayed Stadium\, Al-'Ayn (Al Ain)\, United Arab Emirates
+GEO:24.245056;55.717098
+URL:https://www.fotmob.com/match/6050070
+DESCRIPTION:⚽ العين × النصر\n🏆 دوري أبطال آسيا
+  للنخبة — الجولة 1\n🗓 الثلاثاء 15 سبتمبر 20
+ 26 · 19:00 بتوقيت الرياض\n🏟 Hazza Bin Zayed Stadium، Al-'
+ Ayn (Al Ain)\n—————\n⚽ Al-Ain v Al Nassr FC\n🏆 AFC Champion
+ s League Elite — Matchday 1\n🗓 Tue 15 Sep 2026 · 16:00 UTC\n🏟 Haz
+ za Bin Zayed Stadium, Al-'Ayn (Al Ain)\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: العين ضد النصر — دوري أبطا
+ ل آسيا للنخبة | Tomorrow: Al-Ain vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: العين 
+ × النصر | Kick-off in 30 min: Al-Ain vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050076@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261012T181500Z
+DTEND:20261012T201500Z
+SUMMARY:Al Nassr FC vs Neftchi Fargona — AFC Champions League Elite
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/6050076
+DESCRIPTION:⚽ النصر × نيفتشي فرغانة\n🏆 دوري أب
+ طال آسيا للنخبة — الجولة 2\n🗓 الاثنين 12 أ
+ كتوبر 2026 · 21:15 بتوقيت الرياض\n🏟 Al-Awwal Park، R
+ iyadh\n—————\n⚽ Al Nassr FC v Neftchi Fargona\n🏆 AFC Champi
+ ons League Elite — Matchday 2\n🗓 Mon 12 Oct 2026 · 18:15 UTC\n🏟 A
+ l-Awwal Park, Riyadh\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد نيفتشي فرغانة — د
+ وري أبطال آسيا للنخبة | Tomorrow: Al Nassr FC vs Neftchi
+  Fargona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × نيفتشي فرغانة | Kick-off in 30 min: Al Nassr FC vs Neftchi 
+ Fargona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050083@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261026T191500Z
+DTEND:20261026T211500Z
+SUMMARY:Al Nassr FC vs Al-Wasl — AFC Champions League Elite
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/6050083
+DESCRIPTION:⚽ النصر × الوصل\n🏆 دوري أبطال آسيا
+  للنخبة — الجولة 3\n🗓 الاثنين 26 أكتوبر 2026
+  · 22:15 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n——
+ ———\n⚽ Al Nassr FC v Al-Wasl\n🏆 AFC Champions League Elite — 
+ Matchday 3\n🗓 Mon 26 Oct 2026 · 19:15 UTC\n🏟 Al-Awwal Park, Riyadh\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الوصل — دوري أبطا
+ ل آسيا للنخبة | Tomorrow: Al Nassr FC vs Al-Wasl
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الوصل | Kick-off in 30 min: Al Nassr FC vs Al-Wasl
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050088@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261102T144500Z
+DTEND:20261102T164500Z
+SUMMARY:Pakhtakor Tashkent vs Al Nassr FC — AFC Champions League Elite
+LOCATION:Paxtakor Markaziy stadioni\, Toshkent (Tashkent)\, Uzbekistan
+GEO:41.315470;69.260269
+URL:https://www.fotmob.com/match/6050088
+DESCRIPTION:⚽ باختاكور × النصر\n🏆 دوري أبطال آ
+ سيا للنخبة — الجولة 4\n🗓 الاثنين 2 نوفمبر
+  2026 · 17:45 بتوقيت الرياض\n🏟 Paxtakor Markaziy stadioni
+ ، Toshkent (Tashkent)\n—————\n⚽ Pakhtakor Tashkent v Al Nassr
+  FC\n🏆 AFC Champions League Elite — Matchday 4\n🗓 Mon 02 Nov 2026 
+ · 14:45 UTC\n🏟 Paxtakor Markaziy stadioni, Toshkent (Tashkent)\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باختاكور ضد النصر — دوري أ
+ بطال آسيا للنخبة | Tomorrow: Pakhtakor Tashkent vs Al Nassr 
+ FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باختا
+ كور × النصر | Kick-off in 30 min: Pakhtakor Tashkent vs Al Nassr 
+ FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050103@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T191500Z
+DTEND:20261124T211500Z
+SUMMARY:Al Nassr FC vs Al-Sadd — AFC Champions League Elite
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/6050103
+DESCRIPTION:⚽ النصر × السد\n🏆 دوري أبطال آسيا 
+ للنخبة — الجولة 5\n🗓 الثلاثاء 24 نوفمبر 202
+ 6 · 22:15 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n——
+ ———\n⚽ Al Nassr FC v Al-Sadd\n🏆 AFC Champions League Elite — 
+ Matchday 5\n🗓 Tue 24 Nov 2026 · 19:15 UTC\n🏟 Al-Awwal Park, Riyadh\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد السد — دوري أبطال 
+ آسيا للنخبة | Tomorrow: Al Nassr FC vs Al-Sadd
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × السد | Kick-off in 30 min: Al Nassr FC vs Al-Sadd
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050110@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261208T170000Z
+DTEND:20261208T190000Z
+SUMMARY:Al-Gharafa vs Al Nassr FC — AFC Champions League Elite
+LOCATION:Thani Bin Jassim Stadium (Al-Gharafah Stadium)\, Al Rayyan (Ar-Ray
+ yan)\, Qatar
+GEO:25.344787;51.440552
+URL:https://www.fotmob.com/match/6050110
+DESCRIPTION:⚽ الغرافة × النصر\n🏆 دوري أبطال آس
+ يا للنخبة — الجولة 6\n🗓 الثلاثاء 8 ديسمبر
+  2026 · 20:00 بتوقيت الرياض\n🏟 Thani Bin Jassim Stadium (A
+ l-Gharafah Stadium)، Al Rayyan (Ar-Rayyan)\n—————\n⚽ Al-Ghara
+ fa v Al Nassr FC\n🏆 AFC Champions League Elite — Matchday 6\n🗓 Tue
+  08 Dec 2026 · 17:00 UTC\n🏟 Thani Bin Jassim Stadium (Al-Gharafah Stad
+ ium), Al Rayyan (Ar-Rayyan)\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الغرافة ضد النصر — دوري أب
+ طال آسيا للنخبة | Tomorrow: Al-Gharafa vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الغرا
+ فة × النصر | Kick-off in 30 min: Al-Gharafa vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050116@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270208T191500Z
+DTEND:20270208T211500Z
+SUMMARY:Al Nassr FC vs Al-Shamal — AFC Champions League Elite
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/6050116
+DESCRIPTION:⚽ النصر × الشمال\n🏆 دوري أبطال آسي
+ ا للنخبة — الجولة 7\n🗓 الاثنين 8 فبراير 202
+ 7 · 22:15 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n——
+ ———\n⚽ Al Nassr FC v Al-Shamal\n🏆 AFC Champions League Elite 
+ — Matchday 7\n🗓 Mon 08 Feb 2027 · 19:15 UTC\n🏟 Al-Awwal Park, Riy
+ adh\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الشمال — دوري أبط
+ ال آسيا للنخبة | Tomorrow: Al Nassr FC vs Al-Shamal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الشمال | Kick-off in 30 min: Al Nassr FC vs Al-Shamal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050126@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270215T191500Z
+DTEND:20270215T211500Z
+SUMMARY:Shabab Al-Ahli Dubai FC vs Al Nassr FC — AFC Champions League Eli
+ te
+LOCATION:Rashid Stadium\, Dubayy (Dubai)\, United Arab Emirates
+GEO:25.279704;55.360429
+URL:https://www.fotmob.com/match/6050126
+DESCRIPTION:⚽ شباب الاهلي × النصر\n🏆 دوري أبطا
+ ل آسيا للنخبة — الجولة 8\n🗓 الاثنين 15 فبر
+ اير 2027 · 22:15 بتوقيت الرياض\n🏟 Rashid Stadium، Duba
+ yy (Dubai)\n—————\n⚽ Shabab Al-Ahli Dubai FC v Al Nassr FC\n
+ 🏆 AFC Champions League Elite — Matchday 8\n🗓 Mon 15 Feb 2027 · 19
+ :15 UTC\n🏟 Rashid Stadium, Dubayy (Dubai)\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شباب الاهلي ضد النصر — دور
+ ي أبطال آسيا للنخبة | Tomorrow: Shabab Al-Ahli Dubai FC vs
+  Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شباب ا
+ لاهلي × النصر | Kick-off in 30 min: Shabab Al-Ahli Dubai FC vs 
+ Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853717@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260818T180000Z
+DTEND:20260818T200000Z
+SUMMARY:Al Diriyah vs Al Nassr FC (1 - 4) — King's Cup
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/5853717
+DESCRIPTION:⚽ الدرعية × النصر (1 - 4)\n🏆 كأس خادم 
+ الحرمين الشريفين — دور الـ32\n🗓 الثلاثاء
+  18 أغسطس 2026 · 21:00 بتوقيت الرياض\n🏟 Al-Awwal Park
+ ، Riyadh\n⚖️ الحكم: Majed Al-Shamrani\n—————\n⚽ Al D
+ iriyah v Al Nassr FC (1 - 4)\n🏆 King's Cup — Round of 32\n🗓 Tue 18
+  Aug 2026 · 18:00 UTC\n🏟 Al-Awwal Park, Riyadh\nReferee: Majed Al-Sham
+ rani\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الدرعية ضد النصر — كأس خاد
+ م الحرمين الشريفين | Tomorrow: Al Diriyah vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الدرع
+ ية × النصر | Kick-off in 30 min: Al Diriyah vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6125929@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Al Nassr FC vs Al Kholood — King's Cup
+URL:https://www.fotmob.com/match/6125929
+DESCRIPTION:⚽ النصر × الخلود\n🏆 كأس خادم الحرم
+ ين الشريفين — دور الـ16\n🗓 الثلاثاء 1 ديس
+ مبر 2026 · 20:00 بتوقيت الرياض\n—————\n⚽ Al Na
+ ssr FC v Al Kholood\n🏆 King's Cup — Round of 16\n🗓 Tue 01 Dec 2026
+  · 17:00 UTC\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الخلود — كأس خادم 
+ الحرمين الشريفين | Tomorrow: Al Nassr FC vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الخلود | Kick-off in 30 min: Al Nassr FC vs Al Kholood
+END:VALARM
+END:VEVENT
+END:VCALENDAR

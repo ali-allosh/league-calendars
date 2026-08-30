@@ -1,0 +1,1632 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Real Betis — LaLiga & UEFA Champions League & Copa del R
+ ey Fixtures | ريال بيتيس — مباريات الدوري الإس
+ باني ودوري أبطال أوروبا وكأس ملك إسبانيا
+X-WR-CALDESC:Real Betis — all matches in LaLiga & UEFA Champions League &
+  Copa del Rey\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scor
+ es · auto-updated 2026-09-05T19:31:10Z.  •  ريال بيتيس — ج
+ ميع المباريات في الدوري الإسباني ودوري أ
+ بطال أوروبا وكأس ملك إسبانيا بتوقيت UTC ال
+ دقيق مع الملاعب والقنوات الناقلة. المصدر
+ : FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5868023@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260821T190000Z
+DTEND:20260821T210000Z
+SUMMARY:Real Betis vs Real Sociedad (1 - 0) — LaLiga
+LOCATION:Estadio La Cartuja de Sevilla\, Sevilla\, Spain
+GEO:37.417209;-6.004661
+URL:https://www.fotmob.com/match/5868023
+DESCRIPTION:⚽ ريال بيتيس × ريال سوسيداد (1 - 0)\n
+ 🏆 الدوري الإسباني — الجولة 2\n🗓 الجمعة 2
+ 1 أغسطس 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio La Cart
+ uja de Sevilla، Sevilla\n⚖️ الحكم: Isidro Díaz de Mera Escudero
+ s\n👥 الحضور: 59,490\n—————\n⚽ Real Betis v Real Socie
+ dad (1 - 0)\n🏆 LaLiga — Matchday 2\n🗓 Fri 21 Aug 2026 · 19:00 UTC
+ \n🏟 Estadio La Cartuja de Sevilla, Sevilla\nReferee: Isidro Díaz de Me
+ ra Escuderos\nAttendance: 59,490\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد ريال سوسيداد 
+ — الدوري الإسباني | Tomorrow: Real Betis vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × ريال سوسيداد | Kick-off in 30 min: Real Betis vs Re
+ al Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868020@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260825T190000Z
+DTEND:20260825T210000Z
+SUMMARY:Valencia vs Real Betis (0 - 1) — LaLiga
+LOCATION:Estadio de Mestalla\, Valencia\, Spain
+GEO:39.474602;-0.358257
+URL:https://www.fotmob.com/match/5868020
+DESCRIPTION:⚽ فالنسيا × ريال بيتيس (0 - 1)\n🏆 الد
+ وري الإسباني — الجولة 1\n🗓 الثلاثاء 25 أغ
+ سطس 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio de Mestalla،
+  Valencia\n⚖️ الحكم: Jon Ander González Esteban\n👥 الحضو
+ ر: 45,472\n—————\n⚽ Valencia v Real Betis (0 - 1)\n🏆 LaLig
+ a — Matchday 1\n🗓 Tue 25 Aug 2026 · 19:00 UTC\n🏟 Estadio de Mesta
+ lla, Valencia\nReferee: Jon Ander González Esteban\nAttendance: 45,472\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد ريال بيتيس — ال
+ دوري الإسباني | Tomorrow: Valencia vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × ريال بيتيس | Kick-off in 30 min: Valencia vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868035@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T150000Z
+DTEND:20260829T170000Z
+SUMMARY:Levante vs Real Betis (5 - 2) — LaLiga
+LOCATION:Estadio Ciudad de Valencia\, Valencia\, Spain
+GEO:39.494686;-0.363820
+URL:https://www.fotmob.com/match/5868035
+DESCRIPTION:⚽ ليفانتي × ريال بيتيس (5 - 2)\n🏆 الد
+ وري الإسباني — الجولة 3\n🗓 السبت 29 أغسطس 
+ 2026 · 18:00 بتوقيت الرياض\n🏟 Estadio Ciudad de Valencia،
+  Valencia\n⚖️ الحكم: Ricardo de Burgos Bengoetxea\n👥 الحض
+ ور: 20,474\n—————\n⚽ Levante v Real Betis (5 - 2)\n🏆 LaLi
+ ga — Matchday 3\n🗓 Sat 29 Aug 2026 · 15:00 UTC\n🏟 Estadio Ciudad 
+ de Valencia, Valencia\nReferee: Ricardo de Burgos Bengoetxea\nAttendance: 
+ 20,474\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفانتي ضد ريال بيتيس — ال
+ دوري الإسباني | Tomorrow: Levante vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفان
+ تي × ريال بيتيس | Kick-off in 30 min: Levante vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868043@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260904T190000Z
+DTEND:20260904T210000Z
+SUMMARY:Real Betis vs Real Madrid (1 - 0) — LaLiga
+LOCATION:Estadio La Cartuja de Sevilla\, Sevilla\, Spain
+GEO:37.417209;-6.004661
+URL:https://www.fotmob.com/match/5868043
+DESCRIPTION:⚽ ريال بيتيس × ريال مدريد (1 - 0)\n🏆 ا
+ لدوري الإسباني — الجولة 4\n🗓 الجمعة 4 سبت
+ مبر 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio La Cartuja de
+  Sevilla، Sevilla\n⚖️ الحكم: Alejandro José Hernández Hernánd
+ ez\n👥 الحضور: 66,046\n—————\n⚽ Real Betis v Real Madr
+ id (1 - 0)\n🏆 LaLiga — Matchday 4\n🗓 Fri 04 Sep 2026 · 19:00 UTC\
+ n🏟 Estadio La Cartuja de Sevilla, Sevilla\nReferee: Alejandro José Her
+ nández Hernández\nAttendance: 66,046\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد ريال مدريد — 
+ الدوري الإسباني | Tomorrow: Real Betis vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × ريال مدريد | Kick-off in 30 min: Real Betis vs Real M
+ adrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868060@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260914T190000Z
+DTEND:20260914T210000Z
+SUMMARY:Villarreal vs Real Betis — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868060
+DESCRIPTION:⚽ فياريال × ريال بيتيس\n🏆 الدوري ا
+ لإسباني — الجولة 5\n🗓 الاثنين 14 سبتمبر 202
+ 6 · 22:00 بتوقيت الرياض\n🏟 Estadio de la Ceramica\n——
+ ———\n⚽ Villarreal v Real Betis\n🏆 LaLiga — Matchday 5\n🗓 M
+ on 14 Sep 2026 · 19:00 UTC\n🏟 Estadio de la Ceramica\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد ريال بيتيس — ال
+ دوري الإسباني | Tomorrow: Villarreal vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × ريال بيتيس | Kick-off in 30 min: Villarreal vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868063@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260917T170000Z
+DTEND:20260917T190000Z
+SUMMARY:Real Betis vs Getafe — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868063
+DESCRIPTION:⚽ ريال بيتيس × خيتافي\n🏆 الدوري ال
+ إسباني — الجولة 6\n🗓 الخميس 17 سبتمبر 2026 ·
+  20:00 بتوقيت الرياض\n🏟 Estadio de La Cartuja\n————
+ —\n⚽ Real Betis v Getafe\n🏆 LaLiga — Matchday 6\n🗓 Thu 17 Sep 
+ 2026 · 17:00 UTC\n🏟 Estadio de La Cartuja\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد خيتافي — الد
+ وري الإسباني | Tomorrow: Real Betis vs Getafe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × خيتافي | Kick-off in 30 min: Real Betis vs Getafe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868074@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T163000Z
+DTEND:20260920T183000Z
+SUMMARY:Deportivo A Coruña vs Real Betis — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868074
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × ريال بيتي
+ س\n🏆 الدوري الإسباني — الجولة 7\n🗓 الأحد
+  20 سبتمبر 2026 · 19:30 بتوقيت الرياض\n🏟 Abanca-Riaz
+ or\n—————\n⚽ Deportivo A Coruña v Real Betis\n🏆 LaLiga —
+  Matchday 7\n🗓 Sun 20 Sep 2026 · 16:30 UTC\n🏟 Abanca-Riazor\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد ريا
+ ل بيتيس — الدوري الإسباني | Tomorrow: Deportivo A Co
+ ruña vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × ريال بيتيس | Kick-off in 30 min: D
+ eportivo A Coruña vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868082@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Real Betis vs Osasuna — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868082
+DESCRIPTION:⚽ ريال بيتيس × أوساسونا\n🏆 الدوري 
+ الإسباني — الجولة 8\n🗓 الأحد 11 أكتوبر 2026 
+ · 16:00 بتوقيت الرياض\n🏟 Estadio de La Cartuja\n———
+ ——\n⚽ Real Betis v Osasuna\n🏆 LaLiga — Matchday 8\n🗓 Sun 11 
+ Oct 2026 · 13:00 UTC\n🏟 Estadio de La Cartuja\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد أوساسونا — ا
+ لدوري الإسباني | Tomorrow: Real Betis vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × أوساسونا | Kick-off in 30 min: Real Betis vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868091@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Real Betis vs Barcelona — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868091
+DESCRIPTION:⚽ ريال بيتيس × برشلونة\n🏆 الدوري ا
+ لإسباني — الجولة 9\n🗓 الأحد 18 أكتوبر 2026 ·
+  16:00 بتوقيت الرياض\n🏟 Estadio de La Cartuja\n————
+ —\n⚽ Real Betis v Barcelona\n🏆 LaLiga — Matchday 9\n🗓 Sun 18 O
+ ct 2026 · 13:00 UTC\n🏟 Estadio de La Cartuja\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد برشلونة — ال
+ دوري الإسباني | Tomorrow: Real Betis vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × برشلونة | Kick-off in 30 min: Real Betis vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868104@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Celta Vigo vs Real Betis — LaLiga
+LOCATION:Abanca Balaidos
+URL:https://www.fotmob.com/match/5868104
+DESCRIPTION:⚽ سيلتا فيجو × ريال بيتيس\n🏆 الدور
+ ي الإسباني — الجولة 10\n🗓 الأحد 25 أكتوبر 2
+ 026 · 17:00 بتوقيت الرياض\n🏟 Abanca Balaidos\n————
+ —\n⚽ Celta Vigo v Real Betis\n🏆 LaLiga — Matchday 10\n🗓 Sun 25
+  Oct 2026 · 14:00 UTC\n🏟 Abanca Balaidos\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتا فيجو ضد ريال بيتيس — 
+ الدوري الإسباني | Tomorrow: Celta Vigo vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتا 
+ فيجو × ريال بيتيس | Kick-off in 30 min: Celta Vigo vs Real B
+ etis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868112@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Real Betis vs Málaga — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868112
+DESCRIPTION:⚽ ريال بيتيس × مالقا\n🏆 الدوري الإ
+ سباني — الجولة 11\n🗓 الأحد 1 نوفمبر 2026 · 17:
+ 00 بتوقيت الرياض\n🏟 Estadio de La Cartuja\n—————\
+ n⚽ Real Betis v Málaga\n🏆 LaLiga — Matchday 11\n🗓 Sun 01 Nov 20
+ 26 · 14:00 UTC\n🏟 Estadio de La Cartuja\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد مالقا — الدو
+ ري الإسباني | Tomorrow: Real Betis vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × مالقا | Kick-off in 30 min: Real Betis vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868123@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Elche vs Real Betis — LaLiga
+LOCATION:Estadio Martinez Valero
+URL:https://www.fotmob.com/match/5868123
+DESCRIPTION:⚽ إلتشي × ريال بيتيس\n🏆 الدوري الإ
+ سباني — الجولة 12\n🗓 الأحد 8 نوفمبر 2026 · 17:
+ 00 بتوقيت الرياض\n🏟 Estadio Martinez Valero\n————
+ —\n⚽ Elche v Real Betis\n🏆 LaLiga — Matchday 12\n🗓 Sun 08 Nov 
+ 2026 · 14:00 UTC\n🏟 Estadio Martinez Valero\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلتشي ضد ريال بيتيس — الدو
+ ري الإسباني | Tomorrow: Elche vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلتشي 
+ × ريال بيتيس | Kick-off in 30 min: Elche vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868140@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Sevilla vs Real Betis — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868140
+DESCRIPTION:⚽ إشبيلية × ريال بيتيس\n🏆 الدوري ا
+ لإسباني — الجولة 13\n🗓 الأحد 22 نوفمبر 2026 
+ · 17:00 بتوقيت الرياض\n🏟 Estadio R. Sanchez Pizjuan\n—
+ ————\n⚽ Sevilla v Real Betis\n🏆 LaLiga — Matchday 13\n🗓 
+ Sun 22 Nov 2026 · 14:00 UTC\n🏟 Estadio R. Sanchez Pizjuan\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد ريال بيتيس — ال
+ دوري الإسباني | Tomorrow: Sevilla vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × ريال بيتيس | Kick-off in 30 min: Sevilla vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868141@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T140000Z
+DTEND:20261129T160000Z
+SUMMARY:Real Betis vs Rayo Vallecano — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868141
+DESCRIPTION:⚽ ريال بيتيس × رايو فاييكانو\n🏆 ال
+ دوري الإسباني — الجولة 14\n🗓 الأحد 29 نوفم
+ بر 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio de La Cartuja\n
+ —————\n⚽ Real Betis v Rayo Vallecano\n🏆 LaLiga — Matchday
+  14\n🗓 Sun 29 Nov 2026 · 14:00 UTC\n🏟 Estadio de La Cartuja\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد رايو فاييكان
+ و — الدوري الإسباني | Tomorrow: Real Betis vs Rayo Vallec
+ ano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × رايو فاييكانو | Kick-off in 30 min: Real Betis vs 
+ Rayo Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868153@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T140000Z
+DTEND:20261206T160000Z
+SUMMARY:Atlético Madrid vs Real Betis — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868153
+DESCRIPTION:⚽ أتلتيكو مدريد × ريال بيتيس\n🏆 ال
+ دوري الإسباني — الجولة 15\n🗓 الأحد 6 ديسم
+ بر 2026 · 17:00 بتوقيت الرياض\n🏟 Riyadh Air Metropolitan
+ o\n—————\n⚽ Atlético Madrid v Real Betis\n🏆 LaLiga — Mat
+ chday 15\n🗓 Sun 06 Dec 2026 · 14:00 UTC\n🏟 Riyadh Air Metropolitano
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد ريال بيتي
+ س — الدوري الإسباني | Tomorrow: Atlético Madrid vs Real 
+ Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × ريال بيتيس | Kick-off in 30 min: Atlético Mad
+ rid vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868162@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T140000Z
+DTEND:20261213T160000Z
+SUMMARY:Real Betis vs Racing Santander — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868162
+DESCRIPTION:⚽ ريال بيتيس × راسينج سانتاندير\n
+ 🏆 الدوري الإسباني — الجولة 16\n🗓 الأحد 13
+  ديسمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio de La 
+ Cartuja\n—————\n⚽ Real Betis v Racing Santander\n🏆 LaLiga 
+ — Matchday 16\n🗓 Sun 13 Dec 2026 · 14:00 UTC\n🏟 Estadio de La Car
+ tuja\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد راسينج سانتا
+ ندير — الدوري الإسباني | Tomorrow: Real Betis vs Racin
+ g Santander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × راسينج سانتاندير | Kick-off in 30 min: Real Bet
+ is vs Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868172@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T140000Z
+DTEND:20261220T160000Z
+SUMMARY:Athletic Club vs Real Betis — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868172
+DESCRIPTION:⚽ أتلتيك بلباو × ريال بيتيس\n🏆 الد
+ وري الإسباني — الجولة 17\n🗓 الأحد 20 ديسمب
+ ر 2026 · 17:00 بتوقيت الرياض\n🏟 San Mames\n————
+ —\n⚽ Athletic Club v Real Betis\n🏆 LaLiga — Matchday 17\n🗓 Sun
+  20 Dec 2026 · 14:00 UTC\n🏟 San Mames\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد ريال بيتيس 
+ — الدوري الإسباني | Tomorrow: Athletic Club vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × ريال بيتيس | Kick-off in 30 min: Athletic Club v
+ s Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868181@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T140000Z
+DTEND:20270103T160000Z
+SUMMARY:Real Betis vs Deportivo Alavés — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868181
+DESCRIPTION:⚽ ريال بيتيس × ديبورتيفو ألافيس\n
+ 🏆 الدوري الإسباني — الجولة 18\n🗓 الأحد 3 
+ يناير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio de La Car
+ tuja\n—————\n⚽ Real Betis v Deportivo Alavés\n🏆 LaLiga —
+  Matchday 18\n🗓 Sun 03 Jan 2027 · 14:00 UTC\n🏟 Estadio de La Cartuj
+ a\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد ديبورتيفو أل
+ افيس — الدوري الإسباني | Tomorrow: Real Betis vs Depor
+ tivo Alavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × ديبورتيفو ألافيس | Kick-off in 30 min: Real Bet
+ is vs Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868196@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T140000Z
+DTEND:20270110T160000Z
+SUMMARY:Espanyol vs Real Betis — LaLiga
+LOCATION:RCDE Stadium
+URL:https://www.fotmob.com/match/5868196
+DESCRIPTION:⚽ إسبانيول × ريال بيتيس\n🏆 الدوري 
+ الإسباني — الجولة 19\n🗓 الأحد 10 يناير 2027 
+ · 17:00 بتوقيت الرياض\n🏟 RCDE Stadium\n—————\n
+ ⚽ Espanyol v Real Betis\n🏆 LaLiga — Matchday 19\n🗓 Sun 10 Jan 20
+ 27 · 14:00 UTC\n🏟 RCDE Stadium\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إسبانيول ضد ريال بيتيس — ا
+ لدوري الإسباني | Tomorrow: Espanyol vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إسبان
+ يول × ريال بيتيس | Kick-off in 30 min: Espanyol vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868202@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T140000Z
+DTEND:20270117T160000Z
+SUMMARY:Real Betis vs Deportivo A Coruña — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868202
+DESCRIPTION:⚽ ريال بيتيس × ديبورتيفو لاكوروني
+ ا\n🏆 الدوري الإسباني — الجولة 20\n🗓 الأح
+ د 17 يناير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio de 
+ La Cartuja\n—————\n⚽ Real Betis v Deportivo A Coruña\n🏆 La
+ Liga — Matchday 20\n🗓 Sun 17 Jan 2027 · 14:00 UTC\n🏟 Estadio de L
+ a Cartuja\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد ديبورتيفو لا
+ كورونيا — الدوري الإسباني | Tomorrow: Real Betis vs
+  Deportivo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × ديبورتيفو لاكورونيا | Kick-off in 30 min: Re
+ al Betis vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868218@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T140000Z
+DTEND:20270124T160000Z
+SUMMARY:Real Madrid vs Real Betis — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868218
+DESCRIPTION:⚽ ريال مدريد × ريال بيتيس\n🏆 الدور
+ ي الإسباني — الجولة 21\n🗓 الأحد 24 يناير 202
+ 7 · 17:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n————
+ —\n⚽ Real Madrid v Real Betis\n🏆 LaLiga — Matchday 21\n🗓 Sun 2
+ 4 Jan 2027 · 14:00 UTC\n🏟 Estadio Bernabeu\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد ريال بيتيس — 
+ الدوري الإسباني | Tomorrow: Real Madrid vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × ريال بيتيس | Kick-off in 30 min: Real Madrid vs Real 
+ Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868222@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Real Betis vs Elche — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868222
+DESCRIPTION:⚽ ريال بيتيس × إلتشي\n🏆 الدوري الإ
+ سباني — الجولة 22\n🗓 الأحد 31 يناير 2027 · 17:0
+ 0 بتوقيت الرياض\n🏟 Estadio de La Cartuja\n—————\n
+ ⚽ Real Betis v Elche\n🏆 LaLiga — Matchday 22\n🗓 Sun 31 Jan 2027 
+ · 14:00 UTC\n🏟 Estadio de La Cartuja\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد إلتشي — الدو
+ ري الإسباني | Tomorrow: Real Betis vs Elche
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × إلتشي | Kick-off in 30 min: Real Betis vs Elche
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868233@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:Real Betis vs Sevilla — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868233
+DESCRIPTION:⚽ ريال بيتيس × إشبيلية\n🏆 الدوري ا
+ لإسباني — الجولة 23\n🗓 الأحد 7 فبراير 2027 ·
+  17:00 بتوقيت الرياض\n🏟 Estadio de La Cartuja\n————
+ —\n⚽ Real Betis v Sevilla\n🏆 LaLiga — Matchday 23\n🗓 Sun 07 Fe
+ b 2027 · 14:00 UTC\n🏟 Estadio de La Cartuja\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد إشبيلية — ال
+ دوري الإسباني | Tomorrow: Real Betis vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × إشبيلية | Kick-off in 30 min: Real Betis vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868247@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T140000Z
+DTEND:20270214T160000Z
+SUMMARY:Real Sociedad vs Real Betis — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868247
+DESCRIPTION:⚽ ريال سوسيداد × ريال بيتيس\n🏆 الد
+ وري الإسباني — الجولة 24\n🗓 الأحد 14 فبراي
+ ر 2027 · 17:00 بتوقيت الرياض\n🏟 Reale Arena\n————
+ —\n⚽ Real Sociedad v Real Betis\n🏆 LaLiga — Matchday 24\n🗓 Sun
+  14 Feb 2027 · 14:00 UTC\n🏟 Reale Arena\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد ريال بيتيس 
+ — الدوري الإسباني | Tomorrow: Real Sociedad vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × ريال بيتيس | Kick-off in 30 min: Real Sociedad vs
+  Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868257@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T140000Z
+DTEND:20270221T160000Z
+SUMMARY:Málaga vs Real Betis — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868257
+DESCRIPTION:⚽ مالقا × ريال بيتيس\n🏆 الدوري الإ
+ سباني — الجولة 25\n🗓 الأحد 21 فبراير 2027 · 17
+ :00 بتوقيت الرياض\n🏟 Estadio La Rosaleda\n—————\n
+ ⚽ Málaga v Real Betis\n🏆 LaLiga — Matchday 25\n🗓 Sun 21 Feb 202
+ 7 · 14:00 UTC\n🏟 Estadio La Rosaleda\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد ريال بيتيس — الدو
+ ري الإسباني | Tomorrow: Málaga vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × ريال بيتيس | Kick-off in 30 min: Málaga vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868262@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T140000Z
+DTEND:20270228T160000Z
+SUMMARY:Real Betis vs Villarreal — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868262
+DESCRIPTION:⚽ ريال بيتيس × فياريال\n🏆 الدوري ا
+ لإسباني — الجولة 26\n🗓 الأحد 28 فبراير 2027 
+ · 17:00 بتوقيت الرياض\n🏟 Estadio de La Cartuja\n———
+ ——\n⚽ Real Betis v Villarreal\n🏆 LaLiga — Matchday 26\n🗓 Sun
+  28 Feb 2027 · 14:00 UTC\n🏟 Estadio de La Cartuja\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد فياريال — ال
+ دوري الإسباني | Tomorrow: Real Betis vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × فياريال | Kick-off in 30 min: Real Betis vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868276@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T140000Z
+DTEND:20270307T160000Z
+SUMMARY:Barcelona vs Real Betis — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868276
+DESCRIPTION:⚽ برشلونة × ريال بيتيس\n🏆 الدوري ا
+ لإسباني — الجولة 27\n🗓 الأحد 7 مارس 2027 · 17:
+ 00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n—————\n⚽ 
+ Barcelona v Real Betis\n🏆 LaLiga — Matchday 27\n🗓 Sun 07 Mar 2027 
+ · 14:00 UTC\n🏟 Spotify Camp Nou\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد ريال بيتيس — ال
+ دوري الإسباني | Tomorrow: Barcelona vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × ريال بيتيس | Kick-off in 30 min: Barcelona vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868283@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T140000Z
+DTEND:20270314T160000Z
+SUMMARY:Real Betis vs Levante — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868283
+DESCRIPTION:⚽ ريال بيتيس × ليفانتي\n🏆 الدوري ا
+ لإسباني — الجولة 28\n🗓 الأحد 14 مارس 2027 · 17
+ :00 بتوقيت الرياض\n🏟 Estadio de La Cartuja\n—————
+ \n⚽ Real Betis v Levante\n🏆 LaLiga — Matchday 28\n🗓 Sun 14 Mar 2
+ 027 · 14:00 UTC\n🏟 Estadio de La Cartuja\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد ليفانتي — ال
+ دوري الإسباني | Tomorrow: Real Betis vs Levante
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × ليفانتي | Kick-off in 30 min: Real Betis vs Levante
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868295@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T140000Z
+DTEND:20270321T160000Z
+SUMMARY:Racing Santander vs Real Betis — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868295
+DESCRIPTION:⚽ راسينج سانتاندير × ريال بيتيس\n
+ 🏆 الدوري الإسباني — الجولة 29\n🗓 الأحد 21
+  مارس 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio El Sardine
+ ro\n—————\n⚽ Racing Santander v Real Betis\n🏆 LaLiga — Ma
+ tchday 29\n🗓 Sun 21 Mar 2027 · 14:00 UTC\n🏟 Estadio El Sardinero\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد ريال ب
+ يتيس — الدوري الإسباني | Tomorrow: Racing Santander vs
+  Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × ريال بيتيس | Kick-off in 30 min: Racing 
+ Santander vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868302@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T130000Z
+DTEND:20270404T150000Z
+SUMMARY:Real Betis vs Celta Vigo — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868302
+DESCRIPTION:⚽ ريال بيتيس × سيلتا فيجو\n🏆 الدور
+ ي الإسباني — الجولة 30\n🗓 الأحد 4 أبريل 2027
+  · 16:00 بتوقيت الرياض\n🏟 Estadio de La Cartuja\n———
+ ——\n⚽ Real Betis v Celta Vigo\n🏆 LaLiga — Matchday 30\n🗓 Sun
+  04 Apr 2027 · 13:00 UTC\n🏟 Estadio de La Cartuja\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد سيلتا فيجو — 
+ الدوري الإسباني | Tomorrow: Real Betis vs Celta Vigo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × سيلتا فيجو | Kick-off in 30 min: Real Betis vs Celta 
+ Vigo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868311@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T130000Z
+DTEND:20270411T150000Z
+SUMMARY:Deportivo Alavés vs Real Betis — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868311
+DESCRIPTION:⚽ ديبورتيفو ألافيس × ريال بيتيس\n
+ 🏆 الدوري الإسباني — الجولة 31\n🗓 الأحد 11
+  أبريل 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio Mendizor
+ roza\n—————\n⚽ Deportivo Alavés v Real Betis\n🏆 LaLiga —
+  Matchday 31\n🗓 Sun 11 Apr 2027 · 13:00 UTC\n🏟 Estadio Mendizorroza
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد ريال ب
+ يتيس — الدوري الإسباني | Tomorrow: Deportivo Alavés v
+ s Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × ريال بيتيس | Kick-off in 30 min: Deporti
+ vo Alavés vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868323@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T130000Z
+DTEND:20270418T150000Z
+SUMMARY:Real Betis vs Athletic Club — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868323
+DESCRIPTION:⚽ ريال بيتيس × أتلتيك بلباو\n🏆 الد
+ وري الإسباني — الجولة 32\n🗓 الأحد 18 أبريل
+  2027 · 16:00 بتوقيت الرياض\n🏟 Estadio de La Cartuja\n—
+ ————\n⚽ Real Betis v Athletic Club\n🏆 LaLiga — Matchday 32\
+ n🗓 Sun 18 Apr 2027 · 13:00 UTC\n🏟 Estadio de La Cartuja\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد أتلتيك بلباو 
+ — الدوري الإسباني | Tomorrow: Real Betis vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × أتلتيك بلباو | Kick-off in 30 min: Real Betis vs At
+ hletic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868334@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270421T130000Z
+DTEND:20270421T150000Z
+SUMMARY:Getafe vs Real Betis — LaLiga
+LOCATION:Coliseum
+URL:https://www.fotmob.com/match/5868334
+DESCRIPTION:⚽ خيتافي × ريال بيتيس\n🏆 الدوري ال
+ إسباني — الجولة 33\n🗓 الأربعاء 21 أبريل 2027
+  · 16:00 بتوقيت الرياض\n🏟 Coliseum\n—————\n⚽ G
+ etafe v Real Betis\n🏆 LaLiga — Matchday 33\n🗓 Wed 21 Apr 2027 · 1
+ 3:00 UTC\n🏟 Coliseum\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: خيتافي ضد ريال بيتيس — الد
+ وري الإسباني | Tomorrow: Getafe vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: خيتاف
+ ي × ريال بيتيس | Kick-off in 30 min: Getafe vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868342@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T130000Z
+DTEND:20270502T150000Z
+SUMMARY:Real Betis vs Valencia — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868342
+DESCRIPTION:⚽ ريال بيتيس × فالنسيا\n🏆 الدوري ا
+ لإسباني — الجولة 34\n🗓 الأحد 2 مايو 2027 · 16:
+ 00 بتوقيت الرياض\n🏟 Estadio de La Cartuja\n—————\
+ n⚽ Real Betis v Valencia\n🏆 LaLiga — Matchday 34\n🗓 Sun 02 May 2
+ 027 · 13:00 UTC\n🏟 Estadio de La Cartuja\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد فالنسيا — ال
+ دوري الإسباني | Tomorrow: Real Betis vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × فالنسيا | Kick-off in 30 min: Real Betis vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868353@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T130000Z
+DTEND:20270509T150000Z
+SUMMARY:Real Betis vs Espanyol — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868353
+DESCRIPTION:⚽ ريال بيتيس × إسبانيول\n🏆 الدوري 
+ الإسباني — الجولة 35\n🗓 الأحد 9 مايو 2027 · 1
+ 6:00 بتوقيت الرياض\n🏟 Estadio de La Cartuja\n————
+ —\n⚽ Real Betis v Espanyol\n🏆 LaLiga — Matchday 35\n🗓 Sun 09 M
+ ay 2027 · 13:00 UTC\n🏟 Estadio de La Cartuja\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد إسبانيول — ا
+ لدوري الإسباني | Tomorrow: Real Betis vs Espanyol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × إسبانيول | Kick-off in 30 min: Real Betis vs Espanyol
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868367@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T130000Z
+DTEND:20270516T150000Z
+SUMMARY:Osasuna vs Real Betis — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868367
+DESCRIPTION:⚽ أوساسونا × ريال بيتيس\n🏆 الدوري 
+ الإسباني — الجولة 36\n🗓 الأحد 16 مايو 2027 · 
+ 16:00 بتوقيت الرياض\n🏟 Estadio El Sadar\n—————\n
+ ⚽ Osasuna v Real Betis\n🏆 LaLiga — Matchday 36\n🗓 Sun 16 May 202
+ 7 · 13:00 UTC\n🏟 Estadio El Sadar\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد ريال بيتيس — ا
+ لدوري الإسباني | Tomorrow: Osasuna vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × ريال بيتيس | Kick-off in 30 min: Osasuna vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868377@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T130000Z
+DTEND:20270523T150000Z
+SUMMARY:Rayo Vallecano vs Real Betis — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868377
+DESCRIPTION:⚽ رايو فاييكانو × ريال بيتيس\n🏆 ال
+ دوري الإسباني — الجولة 37\n🗓 الأحد 23 مايو
+  2027 · 16:00 بتوقيت الرياض\n🏟 Campo de Futbol de Vallecas
+ \n—————\n⚽ Rayo Vallecano v Real Betis\n🏆 LaLiga — Matchd
+ ay 37\n🗓 Sun 23 May 2027 · 13:00 UTC\n🏟 Campo de Futbol de Vallecas
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد ريال بيتي
+ س — الدوري الإسباني | Tomorrow: Rayo Vallecano vs Real Be
+ tis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × ريال بيتيس | Kick-off in 30 min: Rayo Vallecano
+  vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868382@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T130000Z
+DTEND:20270530T150000Z
+SUMMARY:Real Betis vs Atlético Madrid — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868382
+DESCRIPTION:⚽ ريال بيتيس × أتلتيكو مدريد\n🏆 ال
+ دوري الإسباني — الجولة 38\n🗓 الأحد 30 مايو
+  2027 · 16:00 بتوقيت الرياض\n🏟 Estadio de La Cartuja\n—
+ ————\n⚽ Real Betis v Atlético Madrid\n🏆 LaLiga — Matchday 
+ 38\n🗓 Sun 30 May 2027 · 13:00 UTC\n🏟 Estadio de La Cartuja\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد أتلتيكو مدري
+ د — الدوري الإسباني | Tomorrow: Real Betis vs Atlético M
+ adrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × أتلتيكو مدريد | Kick-off in 30 min: Real Betis vs 
+ Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106311@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T190000Z
+DTEND:20260908T210000Z
+SUMMARY:Lille vs Real Betis — UEFA Champions League
+LOCATION:Decathlon Arena - Stade Pierre-Mauroy\, Villeneuve d'Ascq\, France
+GEO:50.611965;3.130484
+URL:https://www.fotmob.com/match/6106311
+DESCRIPTION:⚽ ليل × ريال بيتيس\n🏆 دوري أبطال أ
+ وروبا — الجولة 1\n🗓 الثلاثاء 8 سبتمبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Decathlon Arena - Stade Pierre-Ma
+ uroy، Villeneuve d'Ascq\n📺 HBO Max (UK)، Paramount+ (US)\n———
+ ——\n⚽ Lille v Real Betis\n🏆 UEFA Champions League — Matchday 1\
+ n🗓 Tue 08 Sep 2026 · 19:00 UTC\n🏟 Decathlon Arena - Stade Pierre-Ma
+ uroy, Villeneuve d'Ascq\n📺 HBO Max (UK), Paramount+ (US)\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليل ضد ريال بيتيس — دوري أب
+ طال أوروبا — 📺 HBO Max (UK)، Paramount+ (US) | Tomorrow: Li
+ lle vs Real Betis | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليل × 
+ ريال بيتيس — 📺 HBO Max (UK)، Paramount+ (US) | Kick-off in 
+ 30 min: Lille vs Real Betis | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106299@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+SUMMARY:Real Betis vs FC Porto — UEFA Champions League
+LOCATION:Estadio La Cartuja de Sevilla\, Sevilla\, Spain
+GEO:37.417209;-6.004661
+URL:https://www.fotmob.com/match/6106299
+DESCRIPTION:⚽ ريال بيتيس × بورتو\n🏆 دوري أبطال
+  أوروبا — الجولة 2\n🗓 الأربعاء 14 أكتوبر 20
+ 26 · 22:00 بتوقيت الرياض\n🏟 Estadio La Cartuja de Sevilla
+ ، Sevilla\n—————\n⚽ Real Betis v FC Porto\n🏆 UEFA Champion
+ s League — Matchday 2\n🗓 Wed 14 Oct 2026 · 19:00 UTC\n🏟 Estadio L
+ a Cartuja de Sevilla, Sevilla\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد بورتو — دوري 
+ أبطال أوروبا | Tomorrow: Real Betis vs FC Porto
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × بورتو | Kick-off in 30 min: Real Betis vs FC Porto
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106300@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+SUMMARY:Real Betis vs Feyenoord — UEFA Champions League
+LOCATION:Estadio La Cartuja de Sevilla\, Sevilla\, Spain
+GEO:37.417209;-6.004661
+URL:https://www.fotmob.com/match/6106300
+DESCRIPTION:⚽ ريال بيتيس × فاينورد\n🏆 دوري أبط
+ ال أوروبا — الجولة 3\n🗓 الأربعاء 21 أكتوب
+ ر 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio La Cartuja de Sev
+ illa، Sevilla\n—————\n⚽ Real Betis v Feyenoord\n🏆 UEFA Cha
+ mpions League — Matchday 3\n🗓 Wed 21 Oct 2026 · 19:00 UTC\n🏟 Esta
+ dio La Cartuja de Sevilla, Sevilla\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد فاينورد — دو
+ ري أبطال أوروبا | Tomorrow: Real Betis vs Feyenoord
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × فاينورد | Kick-off in 30 min: Real Betis vs Feyenoord
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106271@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+SUMMARY:Borussia Dortmund vs Real Betis — UEFA Champions League
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/6106271
+DESCRIPTION:⚽ بوروسيا دورتموند × ريال بيتيس\n
+ 🏆 دوري أبطال أوروبا — الجولة 4\n🗓 الأرب
+ عاء 4 نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Signal
+  Iduna Park\n—————\n⚽ Borussia Dortmund v Real Betis\n🏆 UEF
+ A Champions League — Matchday 4\n🗓 Wed 04 Nov 2026 · 20:00 UTC\n🏟
+  Signal Iduna Park\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد ريال ب
+ يتيس — دوري أبطال أوروبا | Tomorrow: Borussia Dortmun
+ d vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × ريال بيتيس | Kick-off in 30 min: Borussi
+ a Dortmund vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106394@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+SUMMARY:Slovan Bratislava vs Real Betis — UEFA Champions League
+LOCATION:National Football Stadium
+URL:https://www.fotmob.com/match/6106394
+DESCRIPTION:⚽ سلوفان براتيسلافا × ريال بيتيس\n
+ 🏆 دوري أبطال أوروبا — الجولة 5\n🗓 الثلا
+ ثاء 24 نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Natio
+ nal Football Stadium\n—————\n⚽ Slovan Bratislava v Real Betis\
+ n🏆 UEFA Champions League — Matchday 5\n🗓 Tue 24 Nov 2026 · 20:00 
+ UTC\n🏟 National Football Stadium\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سلوفان براتيسلافا ضد ريال 
+ بيتيس — دوري أبطال أوروبا | Tomorrow: Slovan Bratisl
+ ava vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سلوفا
+ ن براتيسلافا × ريال بيتيس | Kick-off in 30 min: Slova
+ n Bratislava vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106301@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T174500Z
+DTEND:20261209T194500Z
+SUMMARY:Real Betis vs Como — UEFA Champions League
+LOCATION:Estadio Benito Villamarin
+URL:https://www.fotmob.com/match/6106301
+DESCRIPTION:⚽ ريال بيتيس × كومو\n🏆 دوري أبطال 
+ أوروبا — الجولة 6\n🗓 الأربعاء 9 ديسمبر 2026
+  · 20:45 بتوقيت الرياض\n🏟 Estadio Benito Villamarin\n—
+ ————\n⚽ Real Betis v Como\n🏆 UEFA Champions League — Matchd
+ ay 6\n🗓 Wed 09 Dec 2026 · 17:45 UTC\n🏟 Estadio Benito Villamarin\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد كومو — دوري أ
+ بطال أوروبا | Tomorrow: Real Betis vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × كومو | Kick-off in 30 min: Real Betis vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106298@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+SUMMARY:Real Betis vs Arsenal — UEFA Champions League
+LOCATION:Estadio Benito Villamarin
+URL:https://www.fotmob.com/match/6106298
+DESCRIPTION:⚽ ريال بيتيس × أرسنال\n🏆 دوري أبطا
+ ل أوروبا — الجولة 7\n🗓 الأربعاء 20 يناير 20
+ 27 · 23:00 بتوقيت الرياض\n🏟 Estadio Benito Villamarin\n—
+ ————\n⚽ Real Betis v Arsenal\n🏆 UEFA Champions League — Mat
+ chday 7\n🗓 Wed 20 Jan 2027 · 20:00 UTC\n🏟 Estadio Benito Villamarin
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد أرسنال — دور
+ ي أبطال أوروبا | Tomorrow: Real Betis vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × أرسنال | Kick-off in 30 min: Real Betis vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106239@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Bayern München vs Real Betis — UEFA Champions League
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/6106239
+DESCRIPTION:⚽ بايرن ميونخ × ريال بيتيس\n🏆 دوري
+  أبطال أوروبا — الجولة 8\n🗓 الأربعاء 27 ين
+ اير 2027 · 23:00 بتوقيت الرياض\n🏟 Allianz Arena\n——
+ ———\n⚽ Bayern München v Real Betis\n🏆 UEFA Champions League 
+ — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Allianz Arena\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد ريال بيتيس 
+ — دوري أبطال أوروبا | Tomorrow: Bayern München vs Real B
+ etis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × ريال بيتيس | Kick-off in 30 min: Bayern München vs
+  Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-4996018@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251030T200000Z
+DTEND:20251030T220000Z
+SUMMARY:Atletico Palma del Río vs Real Betis (1 - 7) — Copa del Rey
+LOCATION:Estadio Municipal Sergio León\, Palma del Río\, Spain
+GEO:37.713101;-5.277499
+URL:https://www.fotmob.com/match/4996018
+DESCRIPTION:⚽ بالما ديل ريو × ريال بيتيس (1 - 7)\n
+ 🏆 كأس ملك إسبانيا — الدور الأول\n🗓 الخم
+ يس 30 أكتوبر 2025 · 23:00 بتوقيت الرياض\n🏟 Estadio
+  Municipal Sergio León، Palma del Río\n⚖️ الحكم: José Luis Gu
+ zmán Mansilla\n👥 الحضور: 8,800\n—————\n⚽ Atletico Pa
+ lma del Río v Real Betis (1 - 7)\n🏆 Copa del Rey — Round 1\n🗓 Thu
+  30 Oct 2025 · 20:00 UTC\n🏟 Estadio Municipal Sergio León, Palma del 
+ Río\nReferee: José Luis Guzmán Mansilla\nAttendance: 8,800\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بالما ديل ريو ضد ريال بيتيس
+  — كأس ملك إسبانيا | Tomorrow: Atletico Palma del Río vs R
+ eal Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بالما 
+ ديل ريو × ريال بيتيس | Kick-off in 30 min: Atletico Palma 
+ del Río vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057236@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251203T200000Z
+DTEND:20251203T220000Z
+SUMMARY:Torrent CF vs Real Betis (1 - 4) — Copa del Rey
+LOCATION:Estadio Ciudad de Valencia\, Valencia\, Spain
+GEO:39.494686;-0.363820
+URL:https://www.fotmob.com/match/5057236
+DESCRIPTION:⚽ تورينت × ريال بيتيس (1 - 4)\n🏆 كأس م
+ لك إسبانيا — الدور الثاني\n🗓 الأربعاء 3 
+ ديسمبر 2025 · 23:00 بتوقيت الرياض\n🏟 Estadio Ciudad 
+ de Valencia، Valencia\n⚖️ الحكم: José María Sánchez Santos\n
+ 👥 الحضور: 6,680\n—————\n⚽ Torrent CF v Real Betis (1 
+ - 4)\n🏆 Copa del Rey — Round 2\n🗓 Wed 03 Dec 2025 · 20:00 UTC\n
+ 🏟 Estadio Ciudad de Valencia, Valencia\nReferee: José María Sánchez 
+ Santos\nAttendance: 6,680\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينت ضد ريال بيتيس — كأس 
+ ملك إسبانيا | Tomorrow: Torrent CF vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ ت × ريال بيتيس | Kick-off in 30 min: Torrent CF vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5091466@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251218T200000Z
+DTEND:20251218T220000Z
+SUMMARY:Real Murcia vs Real Betis (0 - 2) — Copa del Rey
+LOCATION:Estadio Enrique Roca de Murcia\, Murcia\, Spain
+GEO:38.042240;-1.144745
+URL:https://www.fotmob.com/match/5091466
+DESCRIPTION:⚽ ريال مورسيا × ريال بيتيس (0 - 2)\n🏆 
+ كأس ملك إسبانيا — دور الـ32\n🗓 الخميس 18 د
+ يسمبر 2025 · 23:00 بتوقيت الرياض\n🏟 Estadio Enrique R
+ oca de Murcia، Murcia\n👥 الحضور: 31,000\n—————\n⚽ Re
+ al Murcia v Real Betis (0 - 2)\n🏆 Copa del Rey — Round of 32\n🗓 Th
+ u 18 Dec 2025 · 20:00 UTC\n🏟 Estadio Enrique Roca de Murcia, Murcia\nA
+ ttendance: 31,000\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مورسيا ضد ريال بيتيس 
+ — كأس ملك إسبانيا | Tomorrow: Real Murcia vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ ورسيا × ريال بيتيس | Kick-off in 30 min: Real Murcia vs Rea
+ l Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5125327@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260114T200000Z
+DTEND:20260114T220000Z
+SUMMARY:Real Betis vs Elche (2 - 1) — Copa del Rey
+LOCATION:Estadio Benito Villamarín\, Sevilla\, Spain
+GEO:37.356450;-5.981777
+URL:https://www.fotmob.com/match/5125327
+DESCRIPTION:⚽ ريال بيتيس × إلتشي (2 - 1)\n🏆 كأس مل
+ ك إسبانيا — دور الـ16\n🗓 الأربعاء 14 يناير
+  2026 · 23:00 بتوقيت الرياض\n🏟 Estadio Benito Villamarín
+ ، Sevilla\n⚖️ الحكم: Jesús Gil Manzano\n👥 الحضور: 37,6
+ 35\n—————\n⚽ Real Betis v Elche (2 - 1)\n🏆 Copa del Rey —
+  Round of 16\n🗓 Wed 14 Jan 2026 · 20:00 UTC\n🏟 Estadio Benito Villa
+ marín, Sevilla\nReferee: Jesús Gil Manzano\nAttendance: 37,635\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد إلتشي — كأس م
+ لك إسبانيا | Tomorrow: Real Betis vs Elche
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × إلتشي | Kick-off in 30 min: Real Betis vs Elche
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5144839@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260205T200000Z
+DTEND:20260205T220000Z
+SUMMARY:Real Betis vs Atlético Madrid (0 - 5) — Copa del Rey
+LOCATION:Estadio La Cartuja de Sevilla\, Sevilla\, Spain
+GEO:37.417209;-6.004661
+URL:https://www.fotmob.com/match/5144839
+DESCRIPTION:⚽ ريال بيتيس × أتلتيكو مدريد (0 - 5)\n
+ 🏆 كأس ملك إسبانيا — ربع النهائي\n🗓 الخم
+ يس 5 فبراير 2026 · 23:00 بتوقيت الرياض\n🏟 Estadio 
+ La Cartuja de Sevilla، Sevilla\n⚖️ الحكم: Cesar Soto\n👥 ال
+ حضور: 66,810\n—————\n⚽ Real Betis v Atlético Madrid (0 - 
+ 5)\n🏆 Copa del Rey — Quarter-Finals\n🗓 Thu 05 Feb 2026 · 20:00 UT
+ C\n🏟 Estadio La Cartuja de Sevilla, Sevilla\nReferee: Cesar Soto\nAtten
+ dance: 66,810\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد أتلتيكو مدري
+ د — كأس ملك إسبانيا | Tomorrow: Real Betis vs Atlético Ma
+ drid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × أتلتيكو مدريد | Kick-off in 30 min: Real Betis vs 
+ Atlético Madrid
+END:VALARM
+END:VEVENT
+END:VCALENDAR

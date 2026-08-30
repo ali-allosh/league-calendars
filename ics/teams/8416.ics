@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Colchester United — FA Cup Fixtures | Colchester United 
+ — مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Colchester United — all matches in FA Cup\, exact UTC kickof
+ fs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19
+ :31:10Z.  •  Colchester United — جميع المباريات في كأ
+ س الاتحاد الإنجليزي بتوقيت UTC الدقيق مع ا
+ لملاعب والقنوات الناقلة. المصدر: FotMob + 365sc
+ ores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010619@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Colchester United vs Milton Keynes Dons (2 - 3) — FA Cup
+LOCATION:JobServe Community Stadium\, Colchester\, Essex\, England
+GEO:51.923361;0.897145
+URL:https://www.fotmob.com/match/5010619
+DESCRIPTION:⚽ Colchester United × Milton Keynes Dons (2 - 3)\n🏆 كأ
+ س الاتحاد الإنجليزي — الدور الأول\n🗓 ال
+ سبت 1 نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 JobSer
+ ve Community Stadium، Colchester, Essex\n⚖️ الحكم: Abigail Byrne
+ \n👥 الحضور: 3,639\n—————\n⚽ Colchester United v Milto
+ n Keynes Dons (2 - 3)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15
+ :00 UTC\n🏟 JobServe Community Stadium, Colchester, Essex\nReferee: Abig
+ ail Byrne\nAttendance: 3,639\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Colchester United ضد Milton Keynes Dons — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Colchester United vs Mi
+ lton Keynes Dons
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Colchester 
+ United × Milton Keynes Dons | Kick-off in 30 min: Colchester United vs Mi
+ lton Keynes Dons
+END:VALARM
+END:VEVENT
+END:VCALENDAR

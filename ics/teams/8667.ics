@@ -1,0 +1,1305 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Hull City — Premier League & FA Cup Fixtures | هال س
+ يتي — مباريات الدوري الإنجليزي الممتاز 
+ وكأس الاتحاد الإنجليزي
+X-WR-CALDESC:Hull City — all matches in Premier League & FA Cup\, exact U
+ TC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026
+ -09-05T19:31:10Z.  •  هال سيتي — جميع المباريات ف
+ ي الدوري الإنجليزي الممتاز وكأس الاتحاد 
+ الإنجليزي بتوقيت UTC الدقيق مع الملاعب وا
+ لقنوات الناقلة. المصدر: FotMob + 365scores · تحدي
+ ث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5795364@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T113000Z
+DTEND:20260822T133000Z
+SUMMARY:Hull City vs Manchester United (2 - 0) — Premier League
+LOCATION:MKM Stadium\, Hull\, England
+GEO:53.746240;-0.367640
+URL:https://www.fotmob.com/match/5795364
+DESCRIPTION:⚽ هال سيتي × مانشستر يونايتد (2 - 0)\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 1\n
+ 🗓 السبت 22 أغسطس 2026 · 14:30 بتوقيت الرياض\n
+ 🏟 MKM Stadium، Hull\n⚖️ الحكم: Darren England\n👥 الحض
+ ور: 24,470\n—————\n⚽ Hull City v Manchester United (2 - 0)\n
+ 🏆 Premier League — Matchday 1\n🗓 Sat 22 Aug 2026 · 11:30 UTC\n
+ 🏟 MKM Stadium, Hull\nReferee: Darren England\nAttendance: 24,470\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد مانشستر يونايت
+ د — الدوري الإنجليزي الممتاز | Tomorrow: Hull Cit
+ y vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × مانشستر يونايتد | Kick-off in 30 min: Hull City vs M
+ anchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795428@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T140000Z
+DTEND:20260829T160000Z
+SUMMARY:Coventry City vs Hull City (0 - 1) — Premier League
+LOCATION:Coventry Building Society Arena\, Coventry\, West Midlands\, Engla
+ nd
+GEO:52.448111;-1.495629
+URL:https://www.fotmob.com/match/5795428
+DESCRIPTION:⚽ كوفنتري سيتي × هال سيتي (0 - 1)\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 2\n🗓 ال
+ سبت 29 أغسطس 2026 · 17:00 بتوقيت الرياض\n🏟 Coventr
+ y Building Society Arena، Coventry, West Midlands\n⚖️ الحكم: Jos
+ h Smith\n👥 الحضور: 31,239\n—————\n⚽ Coventry City v H
+ ull City (0 - 1)\n🏆 Premier League — Matchday 2\n🗓 Sat 29 Aug 2026
+  · 14:00 UTC\n🏟 Coventry Building Society Arena, Coventry, West Midlan
+ ds\nReferee: Josh Smith\nAttendance: 31,239\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد هال سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Coventry City v
+ s Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × هال سيتي | Kick-off in 30 min: Coventry City vs Hu
+ ll City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795440@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T163000Z
+DTEND:20260905T183000Z
+SUMMARY:Hull City vs Aston Villa (0 - 0) — Premier League
+LOCATION:MKM Stadium\, Hull\, England
+GEO:53.746240;-0.367640
+URL:https://www.fotmob.com/match/5795440
+DESCRIPTION:⚽ هال سيتي × أستون فيلا (0 - 0)\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 3\n🗓 السب
+ ت 5 سبتمبر 2026 · 19:30 بتوقيت الرياض\n🏟 MKM Stadiu
+ m، Hull\n📺 beIN SPORTS HD 1\n⚖️ الحكم: Michael Oliver\n👥 
+ الحضور: 24,425\n—————\n⚽ Hull City v Aston Villa (0 - 0)
+ \n🏆 Premier League — Matchday 3\n🗓 Sat 05 Sep 2026 · 16:30 UTC\n
+ 🏟 MKM Stadium, Hull\n📺 beIN Sport 1 HD\nReferee: Michael Oliver\nAtt
+ endance: 24,425\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد أستون فيلا — ال
+ دوري الإنجليزي الممتاز — 📺 beIN SPORTS HD 1 | Tom
+ orrow: Hull City vs Aston Villa | TV: beIN Sport 1 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × أستون فيلا — 📺 beIN SPORTS HD 1 | Kick-off in 30 min
+ : Hull City vs Aston Villa | TV: beIN Sport 1 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795447@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T140000Z
+DTEND:20260912T160000Z
+SUMMARY:Chelsea vs Hull City — Premier League
+LOCATION:Stamford Bridge\, London\, England
+GEO:51.481712;-0.190975
+URL:https://www.fotmob.com/match/5795447
+DESCRIPTION:⚽ تشيلسي × هال سيتي\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 4\n🗓 السبت 12 سبتم
+ بر 2026 · 17:00 بتوقيت الرياض\n🏟 Stamford Bridge، Londo
+ n\n📺 USA Network، Universo، Fubo Sports CA، StarHub TV+، Astro Go\n
+ —————\n⚽ Chelsea v Hull City\n🏆 Premier League — Matchday
+  4\n🗓 Sat 12 Sep 2026 · 14:00 UTC\n🏟 Stamford Bridge, London\n📺 
+ USA Network, Universo, Fubo Sports CA, StarHub TV+, Astro Go\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد هال سيتي — الدور
+ ي الإنجليزي الممتاز — 📺 USA Network، Universo، Fub
+ o Sports CA، StarHub TV+، Astro Go | Tomorrow: Chelsea vs Hull City | TV
+ : USA Network\, Universo\, Fubo Sports CA\, StarHub TV+\, Astro Go
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × هال سيتي — 📺 USA Network، Universo، Fubo Sports CA، S
+ tarHub TV+، Astro Go | Kick-off in 30 min: Chelsea vs Hull City | TV: USA
+  Network\, Universo\, Fubo Sports CA\, StarHub TV+\, Astro Go
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795462@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T140000Z
+DTEND:20260919T160000Z
+SUMMARY:Newcastle United vs Hull City — Premier League
+LOCATION:St. James' Park\, Newcastle upon Tyne\, England
+GEO:54.975540;-1.621621
+URL:https://www.fotmob.com/match/5795462
+DESCRIPTION:⚽ نيوكاسل يونايتد × هال سيتي\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 5\n🗓 الس
+ بت 19 سبتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 St. Jam
+ es' Park، Newcastle upon Tyne\n—————\n⚽ Newcastle United v Hu
+ ll City\n🏆 Premier League — Matchday 5\n🗓 Sat 19 Sep 2026 · 14:00
+  UTC\n🏟 St. James' Park, Newcastle upon Tyne\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل يونايتد ضد هال سيت
+ ي — الدوري الإنجليزي الممتاز | Tomorrow: Newcastl
+ e United vs Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل يونايتد × هال سيتي | Kick-off in 30 min: Newcastle Uni
+ ted vs Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795470@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Hull City vs Everton — Premier League
+LOCATION:MKM Stadium\, Hull\, England
+GEO:53.746240;-0.367640
+URL:https://www.fotmob.com/match/5795470
+DESCRIPTION:⚽ هال سيتي × إيفرتون\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 6\n🗓 الأحد 11 أكت
+ وبر 2026 · 16:00 بتوقيت الرياض\n🏟 MKM Stadium، Hull\n
+ —————\n⚽ Hull City v Everton\n🏆 Premier League — Matchday
+  6\n🗓 Sun 11 Oct 2026 · 13:00 UTC\n🏟 MKM Stadium, Hull\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد إيفرتون — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Hull City vs Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × إيفرتون | Kick-off in 30 min: Hull City vs Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795479@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T140000Z
+DTEND:20261017T160000Z
+SUMMARY:Fulham vs Hull City — Premier League
+LOCATION:Craven Cottage\, London\, England
+GEO:51.474898;-0.221647
+URL:https://www.fotmob.com/match/5795479
+DESCRIPTION:⚽ فولهام × هال سيتي\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 7\n🗓 السبت 17 أكتو
+ بر 2026 · 17:00 بتوقيت الرياض\n🏟 Craven Cottage، London
+ \n—————\n⚽ Fulham v Hull City\n🏆 Premier League — Matchda
+ y 7\n🗓 Sat 17 Oct 2026 · 14:00 UTC\n🏟 Craven Cottage, London\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد هال سيتي — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Fulham vs Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × هال سيتي | Kick-off in 30 min: Fulham vs Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795490@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Hull City vs Brentford — Premier League
+LOCATION:MKM Stadium\, Hull\, England
+GEO:53.746240;-0.367640
+URL:https://www.fotmob.com/match/5795490
+DESCRIPTION:⚽ هال سيتي × برينتفورد\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 8\n🗓 الأحد 25 أ
+ كتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 MKM Stadium، Hul
+ l\n—————\n⚽ Hull City v Brentford\n🏆 Premier League — Mat
+ chday 8\n🗓 Sun 25 Oct 2026 · 14:00 UTC\n🏟 MKM Stadium, Hull\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد برينتفورد — ال
+ دوري الإنجليزي الممتاز | Tomorrow: Hull City vs Brentf
+ ord
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × برينتفورد | Kick-off in 30 min: Hull City vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795500@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:Hull City vs Ipswich Town — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795500
+DESCRIPTION:⚽ هال سيتي × إبسويتش تاون\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 9\n🗓 السبت 3
+ 1 أكتوبر 2026 · 18:00 بتوقيت الرياض\n🏟 The MKM Stadi
+ um\n—————\n⚽ Hull City v Ipswich Town\n🏆 Premier League —
+  Matchday 9\n🗓 Sat 31 Oct 2026 · 15:00 UTC\n🏟 The MKM Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد إبسويتش تاون — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Hull City vs Ip
+ swich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × إبسويتش تاون | Kick-off in 30 min: Hull City vs Ipswich
+  Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795505@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Arsenal vs Hull City — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795505
+DESCRIPTION:⚽ أرسنال × هال سيتي\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 10\n🗓 السبت 7 نوفم
+ بر 2026 · 18:00 بتوقيت الرياض\n🏟 Emirates Stadium\n—
+ ————\n⚽ Arsenal v Hull City\n🏆 Premier League — Matchday 10
+ \n🗓 Sat 07 Nov 2026 · 15:00 UTC\n🏟 Emirates Stadium\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد هال سيتي — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Arsenal vs Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × هال سيتي | Kick-off in 30 min: Arsenal vs Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795520@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:Hull City vs Brighton & Hove Albion — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795520
+DESCRIPTION:⚽ هال سيتي × برايتون\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 11\n🗓 السبت 21 نوف
+ مبر 2026 · 18:00 بتوقيت الرياض\n🏟 The MKM Stadium\n—
+ ————\n⚽ Hull City v Brighton & Hove Albion\n🏆 Premier League 
+ — Matchday 11\n🗓 Sat 21 Nov 2026 · 15:00 UTC\n🏟 The MKM Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد برايتون — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Hull City vs Brighton &
+  Hove Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × برايتون | Kick-off in 30 min: Hull City vs Brighton & Hove 
+ Albion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795527@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:Crystal Palace vs Hull City — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795527
+DESCRIPTION:⚽ كريستال بالاس × هال سيتي\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 12\n🗓 السب
+ ت 28 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Selhurst 
+ Park\n—————\n⚽ Crystal Palace v Hull City\n🏆 Premier League
+  — Matchday 12\n🗓 Sat 28 Nov 2026 · 15:00 UTC\n🏟 Selhurst Park\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد هال سيتي 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Crystal Pal
+ ace vs Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × هال سيتي | Kick-off in 30 min: Crystal Palace vs
+  Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795540@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Hull City vs Nottingham Forest — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795540
+DESCRIPTION:⚽ هال سيتي × نوتنجهام فورست\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 13\n🗓 الأ
+ ربعاء 2 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Th
+ e MKM Stadium\n—————\n⚽ Hull City v Nottingham Forest\n🏆 Pr
+ emier League — Matchday 13\n🗓 Wed 02 Dec 2026 · 20:00 UTC\n🏟 The 
+ MKM Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد نوتنجهام فورست 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Hull City v
+ s Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × نوتنجهام فورست | Kick-off in 30 min: Hull City vs Not
+ tingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795545@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:AFC Bournemouth vs Hull City — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795545
+DESCRIPTION:⚽ بورنموث × هال سيتي\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 14\n🗓 السبت 5 ديس
+ مبر 2026 · 18:00 بتوقيت الرياض\n🏟 Vitality Stadium\n—
+ ————\n⚽ AFC Bournemouth v Hull City\n🏆 Premier League — Mat
+ chday 14\n🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 Vitality Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد هال سيتي — الدو
+ ري الإنجليزي الممتاز | Tomorrow: AFC Bournemouth vs Hull
+  City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × هال سيتي | Kick-off in 30 min: AFC Bournemouth vs Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795560@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Hull City vs Tottenham Hotspur — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795560
+DESCRIPTION:⚽ هال سيتي × توتنهام هوتسبر\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 15\n🗓 الس
+ بت 12 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 The MKM
+  Stadium\n—————\n⚽ Hull City v Tottenham Hotspur\n🏆 Premier
+  League — Matchday 15\n🗓 Sat 12 Dec 2026 · 15:00 UTC\n🏟 The MKM S
+ tadium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد توتنهام هوتسبر 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Hull City v
+ s Tottenham Hotspur
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × توتنهام هوتسبر | Kick-off in 30 min: Hull City vs Tot
+ tenham Hotspur
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795572@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:Manchester City vs Hull City — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795572
+DESCRIPTION:⚽ مانشستر سيتي × هال سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 16\n🗓 السبت 
+ 19 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Etihad Stadi
+ um\n—————\n⚽ Manchester City v Hull City\n🏆 Premier League 
+ — Matchday 16\n🗓 Sat 19 Dec 2026 · 15:00 UTC\n🏟 Etihad Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد هال سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Manchester City
+  vs Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × هال سيتي | Kick-off in 30 min: Manchester City vs 
+ Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795580@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261226T150000Z
+DTEND:20261226T170000Z
+SUMMARY:Hull City vs Liverpool — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795580
+DESCRIPTION:⚽ هال سيتي × ليفربول\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 17\n🗓 السبت 26 ديس
+ مبر 2026 · 18:00 بتوقيت الرياض\n🏟 The MKM Stadium\n—
+ ————\n⚽ Hull City v Liverpool\n🏆 Premier League — Matchday 
+ 17\n🗓 Sat 26 Dec 2026 · 15:00 UTC\n🏟 The MKM Stadium\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد ليفربول — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Hull City vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × ليفربول | Kick-off in 30 min: Hull City vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795590@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261230T200000Z
+DTEND:20261230T220000Z
+SUMMARY:Hull City vs Leeds United — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795590
+DESCRIPTION:⚽ هال سيتي × ليدز يونايتد\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 18\n🗓 الأرب
+ عاء 30 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 The M
+ KM Stadium\n—————\n⚽ Hull City v Leeds United\n🏆 Premier Le
+ ague — Matchday 18\n🗓 Wed 30 Dec 2026 · 20:00 UTC\n🏟 The MKM Stad
+ ium\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد ليدز يونايتد — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Hull City vs Le
+ eds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × ليدز يونايتد | Kick-off in 30 min: Hull City vs Leeds U
+ nited
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795604@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T150000Z
+DTEND:20270102T170000Z
+SUMMARY:Sunderland vs Hull City — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795604
+DESCRIPTION:⚽ سندرلاند × هال سيتي\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 19\n🗓 السبت 2 ين
+ اير 2027 · 18:00 بتوقيت الرياض\n🏟 Stadium of Light\n—
+ ————\n⚽ Sunderland v Hull City\n🏆 Premier League — Matchday
+  19\n🗓 Sat 02 Jan 2027 · 15:00 UTC\n🏟 Stadium of Light\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد هال سيتي — الد
+ وري الإنجليزي الممتاز | Tomorrow: Sunderland vs Hull Ci
+ ty
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × هال سيتي | Kick-off in 30 min: Sunderland vs Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795613@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T200000Z
+DTEND:20270106T220000Z
+SUMMARY:Nottingham Forest vs Hull City — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795613
+DESCRIPTION:⚽ نوتنجهام فورست × هال سيتي\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 20\n🗓 الأ
+ ربعاء 6 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 City
+  Ground, Nottingham\n—————\n⚽ Nottingham Forest v Hull City\n
+ 🏆 Premier League — Matchday 20\n🗓 Wed 06 Jan 2027 · 20:00 UTC\n
+ 🏟 City Ground, Nottingham\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد هال سيتي 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Nottingham 
+ Forest vs Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × هال سيتي | Kick-off in 30 min: Nottingham Fore
+ st vs Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795620@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:Hull City vs Arsenal — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795620
+DESCRIPTION:⚽ هال سيتي × أرسنال\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 21\n🗓 السبت 16 يناي
+ ر 2027 · 18:00 بتوقيت الرياض\n🏟 The MKM Stadium\n——
+ ———\n⚽ Hull City v Arsenal\n🏆 Premier League — Matchday 21\n
+ 🗓 Sat 16 Jan 2027 · 15:00 UTC\n🏟 The MKM Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد أرسنال — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Hull City vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × أرسنال | Kick-off in 30 min: Hull City vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795630@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:Ipswich Town vs Hull City — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795630
+DESCRIPTION:⚽ إبسويتش تاون × هال سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 22\n🗓 السبت 
+ 23 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Portman Road\n
+ —————\n⚽ Ipswich Town v Hull City\n🏆 Premier League — Mat
+ chday 22\n🗓 Sat 23 Jan 2027 · 15:00 UTC\n🏟 Portman Road\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد هال سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Ipswich Town vs
+  Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × هال سيتي | Kick-off in 30 min: Ipswich Town vs Hul
+ l City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795640@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Hull City vs Crystal Palace — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795640
+DESCRIPTION:⚽ هال سيتي × كريستال بالاس\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 23\n🗓 السب
+ ت 30 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 The MKM Sta
+ dium\n—————\n⚽ Hull City v Crystal Palace\n🏆 Premier League
+  — Matchday 23\n🗓 Sat 30 Jan 2027 · 15:00 UTC\n🏟 The MKM Stadium\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد كريستال بالاس 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Hull City v
+ s Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × كريستال بالاس | Kick-off in 30 min: Hull City vs Cryst
+ al Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795646@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Brighton & Hove Albion vs Hull City — Premier League
+LOCATION:The American Express Community Stadium
+URL:https://www.fotmob.com/match/5795646
+DESCRIPTION:⚽ برايتون × هال سيتي\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 24\n🗓 السبت 6 فبر
+ اير 2027 · 18:00 بتوقيت الرياض\n🏟 The American Express 
+ Community Stadium\n—————\n⚽ Brighton & Hove Albion v Hull City
+ \n🏆 Premier League — Matchday 24\n🗓 Sat 06 Feb 2027 · 15:00 UTC\n
+ 🏟 The American Express Community Stadium\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برايتون ضد هال سيتي — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Brighton & Hove Albion 
+ vs Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برايت
+ ون × هال سيتي | Kick-off in 30 min: Brighton & Hove Albion vs Hu
+ ll City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795660@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270210T200000Z
+DTEND:20270210T220000Z
+SUMMARY:Hull City vs Sunderland — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795660
+DESCRIPTION:⚽ هال سيتي × سندرلاند\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 25\n🗓 الأربعاء 1
+ 0 فبراير 2027 · 23:00 بتوقيت الرياض\n🏟 The MKM Stadi
+ um\n—————\n⚽ Hull City v Sunderland\n🏆 Premier League — M
+ atchday 25\n🗓 Wed 10 Feb 2027 · 20:00 UTC\n🏟 The MKM Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد سندرلاند — الد
+ وري الإنجليزي الممتاز | Tomorrow: Hull City vs Sunderla
+ nd
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × سندرلاند | Kick-off in 30 min: Hull City vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795671@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:Liverpool vs Hull City — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795671
+DESCRIPTION:⚽ ليفربول × هال سيتي\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 26\n🗓 السبت 20 فبر
+ اير 2027 · 18:00 بتوقيت الرياض\n🏟 Anfield\n————
+ —\n⚽ Liverpool v Hull City\n🏆 Premier League — Matchday 26\n🗓 
+ Sat 20 Feb 2027 · 15:00 UTC\n🏟 Anfield\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد هال سيتي — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Liverpool vs Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × هال سيتي | Kick-off in 30 min: Liverpool vs Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795680@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T150000Z
+DTEND:20270227T170000Z
+SUMMARY:Hull City vs Manchester City — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795680
+DESCRIPTION:⚽ هال سيتي × مانشستر سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 27\n🗓 السبت 
+ 27 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 The MKM Stad
+ ium\n—————\n⚽ Hull City v Manchester City\n🏆 Premier League
+  — Matchday 27\n🗓 Sat 27 Feb 2027 · 15:00 UTC\n🏟 The MKM Stadium\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد مانشستر سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Hull City vs Ma
+ nchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × مانشستر سيتي | Kick-off in 30 min: Hull City vs Manches
+ ter City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795690@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270303T200000Z
+DTEND:20270303T220000Z
+SUMMARY:Leeds United vs Hull City — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795690
+DESCRIPTION:⚽ ليدز يونايتد × هال سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 28\n🗓 الأرب
+ عاء 3 مارس 2027 · 23:00 بتوقيت الرياض\n🏟 Elland Roa
+ d\n—————\n⚽ Leeds United v Hull City\n🏆 Premier League — 
+ Matchday 28\n🗓 Wed 03 Mar 2027 · 20:00 UTC\n🏟 Elland Road\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد هال سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Leeds United vs
+  Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × هال سيتي | Kick-off in 30 min: Leeds United vs Hull
+  City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795696@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T150000Z
+DTEND:20270313T170000Z
+SUMMARY:Aston Villa vs Hull City — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795696
+DESCRIPTION:⚽ أستون فيلا × هال سيتي\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 29\n🗓 السبت 13 
+ مارس 2027 · 18:00 بتوقيت الرياض\n🏟 Villa Park\n——
+ ———\n⚽ Aston Villa v Hull City\n🏆 Premier League — Matchday 2
+ 9\n🗓 Sat 13 Mar 2027 · 15:00 UTC\n🏟 Villa Park\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد هال سيتي — ال
+ دوري الإنجليزي الممتاز | Tomorrow: Aston Villa vs Hull
+  City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × هال سيتي | Kick-off in 30 min: Aston Villa vs Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795710@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T150000Z
+DTEND:20270320T170000Z
+SUMMARY:Hull City vs Chelsea — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795710
+DESCRIPTION:⚽ هال سيتي × تشيلسي\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 30\n🗓 السبت 20 مارس
+  2027 · 18:00 بتوقيت الرياض\n🏟 The MKM Stadium\n———
+ ——\n⚽ Hull City v Chelsea\n🏆 Premier League — Matchday 30\n🗓
+  Sat 20 Mar 2027 · 15:00 UTC\n🏟 The MKM Stadium\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد تشيلسي — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Hull City vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × تشيلسي | Kick-off in 30 min: Hull City vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795722@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T140000Z
+DTEND:20270410T160000Z
+SUMMARY:Manchester United vs Hull City — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795722
+DESCRIPTION:⚽ مانشستر يونايتد × هال سيتي\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 31\n🗓 ال
+ سبت 10 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 Old Tra
+ fford\n—————\n⚽ Manchester United v Hull City\n🏆 Premier Le
+ ague — Matchday 31\n🗓 Sat 10 Apr 2027 · 14:00 UTC\n🏟 Old Trafford
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد هال سيت
+ ي — الدوري الإنجليزي الممتاز | Tomorrow: Manchest
+ er United vs Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × هال سيتي | Kick-off in 30 min: Manchester Un
+ ited vs Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795730@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T140000Z
+DTEND:20270417T160000Z
+SUMMARY:Hull City vs Coventry City — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795730
+DESCRIPTION:⚽ هال سيتي × كوفنتري سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 32\n🗓 السبت 
+ 17 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 The MKM Stadiu
+ m\n—————\n⚽ Hull City v Coventry City\n🏆 Premier League —
+  Matchday 32\n🗓 Sat 17 Apr 2027 · 14:00 UTC\n🏟 The MKM Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد كوفنتري سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Hull City vs Co
+ ventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × كوفنتري سيتي | Kick-off in 30 min: Hull City vs Coventr
+ y City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795744@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T140000Z
+DTEND:20270424T160000Z
+SUMMARY:Tottenham Hotspur vs Hull City — Premier League
+LOCATION:Tottenham Hotspur Stadium
+URL:https://www.fotmob.com/match/5795744
+DESCRIPTION:⚽ توتنهام هوتسبر × هال سيتي\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 33\n🗓 الس
+ بت 24 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 Tottenham
+  Hotspur Stadium\n—————\n⚽ Tottenham Hotspur v Hull City\n🏆
+  Premier League — Matchday 33\n🗓 Sat 24 Apr 2027 · 14:00 UTC\n🏟 T
+ ottenham Hotspur Stadium\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توتنهام هوتسبر ضد هال سيتي 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Tottenham H
+ otspur vs Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توتنه
+ ام هوتسبر × هال سيتي | Kick-off in 30 min: Tottenham Hotsp
+ ur vs Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795750@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T140000Z
+DTEND:20270501T160000Z
+SUMMARY:Hull City vs AFC Bournemouth — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795750
+DESCRIPTION:⚽ هال سيتي × بورنموث\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 34\n🗓 السبت 1 ماي
+ و 2027 · 17:00 بتوقيت الرياض\n🏟 The MKM Stadium\n——
+ ———\n⚽ Hull City v AFC Bournemouth\n🏆 Premier League — Matchd
+ ay 34\n🗓 Sat 01 May 2027 · 14:00 UTC\n🏟 The MKM Stadium\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد بورنموث — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Hull City vs AFC Bourne
+ mouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × بورنموث | Kick-off in 30 min: Hull City vs AFC Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795771@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T140000Z
+DTEND:20270508T160000Z
+SUMMARY:Everton vs Hull City — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795771
+DESCRIPTION:⚽ إيفرتون × هال سيتي\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 35\n🗓 السبت 8 ماي
+ و 2027 · 17:00 بتوقيت الرياض\n🏟 Hill Dickinson Stadium\n
+ —————\n⚽ Everton v Hull City\n🏆 Premier League — Matchday
+  35\n🗓 Sat 08 May 2027 · 14:00 UTC\n🏟 Hill Dickinson Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد هال سيتي — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Everton vs Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × هال سيتي | Kick-off in 30 min: Everton vs Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795783@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T140000Z
+DTEND:20270515T160000Z
+SUMMARY:Hull City vs Fulham — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795783
+DESCRIPTION:⚽ هال سيتي × فولهام\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 36\n🗓 السبت 15 مايو
+  2027 · 17:00 بتوقيت الرياض\n🏟 The MKM Stadium\n———
+ ——\n⚽ Hull City v Fulham\n🏆 Premier League — Matchday 36\n🗓 
+ Sat 15 May 2027 · 14:00 UTC\n🏟 The MKM Stadium\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد فولهام — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Hull City vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × فولهام | Kick-off in 30 min: Hull City vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795789@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T140000Z
+DTEND:20270523T160000Z
+SUMMARY:Brentford vs Hull City — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795789
+DESCRIPTION:⚽ برينتفورد × هال سيتي\n🏆 الدوري ا
+ لإنجليزي الممتاز — الجولة 37\n🗓 الأحد 23 م
+ ايو 2027 · 17:00 بتوقيت الرياض\n🏟 Gtech Community Stadi
+ um\n—————\n⚽ Brentford v Hull City\n🏆 Premier League — Ma
+ tchday 37\n🗓 Sun 23 May 2027 · 14:00 UTC\n🏟 Gtech Community Stadium
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد هال سيتي — ال
+ دوري الإنجليزي الممتاز | Tomorrow: Brentford vs Hull C
+ ity
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × هال سيتي | Kick-off in 30 min: Brentford vs Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795803@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T150000Z
+DTEND:20270530T170000Z
+SUMMARY:Hull City vs Newcastle United — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795803
+DESCRIPTION:⚽ هال سيتي × نيوكاسل يونايتد\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 38\n🗓 ال
+ أحد 30 مايو 2027 · 18:00 بتوقيت الرياض\n🏟 The MKM S
+ tadium\n—————\n⚽ Hull City v Newcastle United\n🏆 Premier Le
+ ague — Matchday 38\n🗓 Sun 30 May 2027 · 15:00 UTC\n🏟 The MKM Stad
+ ium\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد نيوكاسل يونايت
+ د — الدوري الإنجليزي الممتاز | Tomorrow: Hull Cit
+ y vs Newcastle United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × نيوكاسل يونايتد | Kick-off in 30 min: Hull City vs N
+ ewcastle United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089914@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260111T143000Z
+DTEND:20260111T163000Z
+SUMMARY:Hull City vs Blackburn Rovers (0 - 0) — FA Cup
+LOCATION:The MKM Stadium\, Hull\, England
+GEO:53.746240;-0.367640
+URL:https://www.fotmob.com/match/5089914
+DESCRIPTION:⚽ هال سيتي × Blackburn Rovers (0 - 0)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الثالث\n🗓 الأح
+ د 11 يناير 2026 · 17:30 بتوقيت الرياض\n🏟 The MKM Sta
+ dium، Hull\n⚖️ الحكم: William James Finnie\n👥 الحضور: 6
+ ,627\n—————\n⚽ Hull City v Blackburn Rovers (0 - 0)\n🏆 FA C
+ up — Round 3\n🗓 Sun 11 Jan 2026 · 14:30 UTC\n🏟 The MKM Stadium, H
+ ull\nReferee: William James Finnie\nAttendance: 6,627\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد Blackburn Rovers — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Hull City vs Blackburn Rover
+ s
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × Blackburn Rovers | Kick-off in 30 min: Hull City vs Blackburn Rove
+ rs
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135167@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260213T194500Z
+DTEND:20260213T214500Z
+SUMMARY:Hull City vs Chelsea (0 - 4) — FA Cup
+LOCATION:The MKM Stadium\, Hull\, England
+GEO:53.746240;-0.367640
+URL:https://www.fotmob.com/match/5135167
+DESCRIPTION:⚽ هال سيتي × تشيلسي (0 - 4)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الرابع\n🗓 الجمعة
+  13 فبراير 2026 · 22:45 بتوقيت الرياض\n🏟 The MKM Sta
+ dium، Hull\n⚖️ الحكم: Farai Hallam\n👥 الحضور: 24,320\n
+ —————\n⚽ Hull City v Chelsea (0 - 4)\n🏆 FA Cup — Round 4\
+ n🗓 Fri 13 Feb 2026 · 19:45 UTC\n🏟 The MKM Stadium, Hull\nReferee: F
+ arai Hallam\nAttendance: 24,320\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد تشيلسي — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Hull City vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × تشيلسي | Kick-off in 30 min: Hull City vs Chelsea
+END:VALARM
+END:VEVENT
+END:VCALENDAR

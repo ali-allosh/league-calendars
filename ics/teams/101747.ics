@@ -1,0 +1,659 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Tala'ea El Gaish — Egyptian Premier League Fixtures | ط
+ لائع الجيش — مباريات الدوري المصري المم
+ تاز
+X-WR-CALDESC:Tala'ea El Gaish — all matches in Egyptian Premier League\, 
+ exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updat
+ ed 2026-09-05T19:31:10Z.  •  طلائع الجيش — جميع المب
+ اريات في الدوري المصري الممتاز بتوقيت UTC 
+ الدقيق مع الملاعب والقنوات الناقلة. المص
+ در: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5995573@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260822T140000Z
+DTEND:20260822T160000Z
+SUMMARY:Tala'ea El Gaish vs Al Mokawloon Al Arab (1 - 0) — Egyptian Premi
+ er League
+LOCATION:Gehaz El Reyada Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.081149;31.303520
+URL:https://www.fotmob.com/match/5995573
+DESCRIPTION:⚽ طلائع الجيش × المقاولون العرب (1 -
+  0)\n🏆 الدوري المصري الممتاز — الجولة 1\n
+ 🗓 السبت 22 أغسطس 2026 · 17:00 بتوقيت الرياض\n
+ 🏟 Gehaz El Reyada Stadium، al-Qāhirah (Cairo)\n⚖️ الحكم: Mah
+ moud Nassif\n—————\n⚽ Tala'ea El Gaish v Al Mokawloon Al Arab 
+ (1 - 0)\n🏆 Egyptian Premier League — Matchday 1\n🗓 Sat 22 Aug 2026
+  · 14:00 UTC\n🏟 Gehaz El Reyada Stadium, al-Qāhirah (Cairo)\nReferee:
+  Mahmoud Nassif\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: طلائع الجيش ضد المقاولون ا
+ لعرب — الدوري المصري الممتاز | Tomorrow: Tala'ea 
+ El Gaish vs Al Mokawloon Al Arab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: طلائع 
+ الجيش × المقاولون العرب | Kick-off in 30 min: Tala'ea 
+ El Gaish vs Al Mokawloon Al Arab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996694@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260826T170000Z
+DTEND:20260826T190000Z
+SUMMARY:Petrojet-Suez vs Tala'ea El Gaish (2 - 3) — Egyptian Premier Leag
+ ue
+LOCATION:New Suez Stadium\, as-Suways (Suez)\, Egypt
+GEO:29.957607;32.542577
+URL:https://www.fotmob.com/match/5996694
+DESCRIPTION:⚽ منتخب السويس بتروجت × طلائع الجي
+ ش (2 - 3)\n🏆 الدوري المصري الممتاز — الجولة
+  2\n🗓 الأربعاء 26 أغسطس 2026 · 20:00 بتوقيت الر
+ ياض\n🏟 New Suez Stadium، as-Suways (Suez)\n⚖️ الحكم: El Sa
+ yed Shaban\n—————\n⚽ Petrojet-Suez v Tala'ea El Gaish (2 - 3)\
+ n🏆 Egyptian Premier League — Matchday 2\n🗓 Wed 26 Aug 2026 · 17:0
+ 0 UTC\n🏟 New Suez Stadium, as-Suways (Suez)\nReferee: El Sayed Shaban\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: منتخب السويس بتروجت ضد طلا
+ ئع الجيش — الدوري المصري الممتاز | Tomorrow: P
+ etrojet-Suez vs Tala'ea El Gaish
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: منتخب 
+ السويس بتروجت × طلائع الجيش | Kick-off in 30 min: P
+ etrojet-Suez vs Tala'ea El Gaish
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996705@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260901T140000Z
+DTEND:20260901T160000Z
+SUMMARY:Tala'ea El Gaish vs ZED FC (0 - 1) — Egyptian Premier League
+LOCATION:Gehaz El Reyada Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.081149;31.303520
+URL:https://www.fotmob.com/match/5996705
+DESCRIPTION:⚽ طلائع الجيش × زد (0 - 1)\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 3\n🗓 الثلاثاء 1 سب
+ تمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Gehaz El Reyada Sta
+ dium، al-Qāhirah (Cairo)\n⚖️ الحكم: Mohamed El Atabani\n——
+ ———\n⚽ Tala'ea El Gaish v ZED FC (0 - 1)\n🏆 Egyptian Premier Le
+ ague — Matchday 3\n🗓 Tue 01 Sep 2026 · 14:00 UTC\n🏟 Gehaz El Reya
+ da Stadium, al-Qāhirah (Cairo)\nReferee: Mohamed El Atabani\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: طلائع الجيش ضد زد — الدوري 
+ المصري الممتاز | Tomorrow: Tala'ea El Gaish vs ZED FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: طلائع 
+ الجيش × زد | Kick-off in 30 min: Tala'ea El Gaish vs ZED FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996713@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260907T140000Z
+DTEND:20260907T160000Z
+SUMMARY:Olympic El Qanah FC vs Tala'ea El Gaish — Egyptian Premier League
+LOCATION:Suez Canal Stadium\, Ismailia\, Egypt
+GEO:30.592679;32.292551
+URL:https://www.fotmob.com/match/5996713
+DESCRIPTION:⚽ القناة × طلائع الجيش\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 4\n🗓 الاثنين 7 سبت
+ مبر 2026 · 17:00 بتوقيت الرياض\n🏟 Suez Canal Stadium، 
+ Ismailia\n📺 أون سبورت بلس\n—————\n⚽ Olympic El Q
+ anah FC v Tala'ea El Gaish\n🏆 Egyptian Premier League — Matchday 4\n
+ 🗓 Mon 07 Sep 2026 · 14:00 UTC\n🏟 Suez Canal Stadium, Ismailia\n📺
+  ON Sport Plus\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القناة ضد طلائع الجيش — ال
+ دوري المصري الممتاز — 📺 أون سبورت بلس | T
+ omorrow: Olympic El Qanah FC vs Tala'ea El Gaish | TV: ON Sport Plus
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القنا
+ ة × طلائع الجيش — 📺 أون سبورت بلس | Kick-off i
+ n 30 min: Olympic El Qanah FC vs Tala'ea El Gaish | TV: ON Sport Plus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996722@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260914T140000Z
+DTEND:20260914T160000Z
+SUMMARY:Tala'ea El Gaish vs Smouha SC — Egyptian Premier League
+LOCATION:Gehaz El Reyada Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.081149;31.303520
+URL:https://www.fotmob.com/match/5996722
+DESCRIPTION:⚽ طلائع الجيش × سموحة\n🏆 الدوري ال
+ مصري الممتاز — الجولة 5\n🗓 الاثنين 14 سبت
+ مبر 2026 · 17:00 بتوقيت الرياض\n🏟 Gehaz El Reyada Stadi
+ um، al-Qāhirah (Cairo)\n—————\n⚽ Tala'ea El Gaish v Smouha S
+ C\n🏆 Egyptian Premier League — Matchday 5\n🗓 Mon 14 Sep 2026 · 14
+ :00 UTC\n🏟 Gehaz El Reyada Stadium, al-Qāhirah (Cairo)\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: طلائع الجيش ضد سموحة — الد
+ وري المصري الممتاز | Tomorrow: Tala'ea El Gaish vs Smouha 
+ SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: طلائع 
+ الجيش × سموحة | Kick-off in 30 min: Tala'ea El Gaish vs Smouha 
+ SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996739@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261013T140000Z
+DTEND:20261013T160000Z
+SUMMARY:National Bank vs Tala'ea El Gaish — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996739
+DESCRIPTION:⚽ البنك الاهلي × طلائع الجيش\n🏆 ال
+ دوري المصري الممتاز — الجولة 6\n🗓 الثلاث
+ اء 13 أكتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 Cairo I
+ nternational Stadium، al-Qāhirah (Cairo)\n—————\n⚽ National 
+ Bank v Tala'ea El Gaish\n🏆 Egyptian Premier League — Matchday 6\n🗓
+  Tue 13 Oct 2026 · 14:00 UTC\n🏟 Cairo International Stadium, al-Qāhir
+ ah (Cairo)\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: البنك الاهلي ضد طلائع الجي
+ ش — الدوري المصري الممتاز | Tomorrow: National Bank 
+ vs Tala'ea El Gaish
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: البنك 
+ الاهلي × طلائع الجيش | Kick-off in 30 min: National Bank 
+ vs Tala'ea El Gaish
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996747@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261020T170000Z
+DTEND:20261020T190000Z
+SUMMARY:Tala'ea El Gaish vs Pyramids FC — Egyptian Premier League
+LOCATION:Gehaz El Reyada Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.081149;31.303520
+URL:https://www.fotmob.com/match/5996747
+DESCRIPTION:⚽ طلائع الجيش × بيراميدز\n🏆 الدور
+ ي المصري الممتاز — الجولة 7\n🗓 الثلاثاء 2
+ 0 أكتوبر 2026 · 20:00 بتوقيت الرياض\n🏟 Gehaz El Reya
+ da Stadium، al-Qāhirah (Cairo)\n—————\n⚽ Tala'ea El Gaish v 
+ Pyramids FC\n🏆 Egyptian Premier League — Matchday 7\n🗓 Tue 20 Oct 
+ 2026 · 17:00 UTC\n🏟 Gehaz El Reyada Stadium, al-Qāhirah (Cairo)\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: طلائع الجيش ضد بيراميدز — 
+ الدوري المصري الممتاز | Tomorrow: Tala'ea El Gaish vs P
+ yramids FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: طلائع 
+ الجيش × بيراميدز | Kick-off in 30 min: Tala'ea El Gaish vs P
+ yramids FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996757@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261030T180000Z
+DTEND:20261030T200000Z
+SUMMARY:Al Ittihad Alexandria vs Tala'ea El Gaish — Egyptian Premier Leag
+ ue
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996757
+DESCRIPTION:⚽ الاتحاد السكندري × طلائع الجيش\n
+ 🏆 الدوري المصري الممتاز — الجولة 8\n🗓 ا
+ لجمعة 30 أكتوبر 2026 · 21:00 بتوقيت الرياض\n🏟 A
+ lexandria Stadium\n—————\n⚽ Al Ittihad Alexandria v Tala'ea El
+  Gaish\n🏆 Egyptian Premier League — Matchday 8\n🗓 Fri 30 Oct 2026 
+ · 18:00 UTC\n🏟 Alexandria Stadium\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد السكندري ضد طلائع 
+ الجيش — الدوري المصري الممتاز | Tomorrow: Al Itt
+ ihad Alexandria vs Tala'ea El Gaish
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد السكندري × طلائع الجيش | Kick-off in 30 min: Al It
+ tihad Alexandria vs Tala'ea El Gaish
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996769@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261125T150000Z
+DTEND:20261125T170000Z
+SUMMARY:Tala'ea El Gaish vs Modern Sport FC — Egyptian Premier League
+LOCATION:Military Sports Stadium
+URL:https://www.fotmob.com/match/5996769
+DESCRIPTION:⚽ طلائع الجيش × مودرن سبورت\n🏆 الد
+ وري المصري الممتاز — الجولة 9\n🗓 الأربعا
+ ء 25 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Military 
+ Sports Stadium\n—————\n⚽ Tala'ea El Gaish v Modern Sport FC\n
+ 🏆 Egyptian Premier League — Matchday 9\n🗓 Wed 25 Nov 2026 · 15:00
+  UTC\n🏟 Military Sports Stadium\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: طلائع الجيش ضد مودرن سبورت 
+ — الدوري المصري الممتاز | Tomorrow: Tala'ea El Gaish 
+ vs Modern Sport FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: طلائع 
+ الجيش × مودرن سبورت | Kick-off in 30 min: Tala'ea El Gaish
+  vs Modern Sport FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996772@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261208T150000Z
+DTEND:20261208T170000Z
+SUMMARY:Tala'ea El Gaish vs Wadi Degla FC — Egyptian Premier League
+LOCATION:Military Sports Stadium
+URL:https://www.fotmob.com/match/5996772
+DESCRIPTION:⚽ طلائع الجيش × وادي دجلة\n🏆 الدور
+ ي المصري الممتاز — الجولة 10\n🗓 الثلاثاء 
+ 8 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Military Spor
+ ts Stadium\n—————\n⚽ Tala'ea El Gaish v Wadi Degla FC\n🏆 Eg
+ yptian Premier League — Matchday 10\n🗓 Tue 08 Dec 2026 · 15:00 UTC\n
+ 🏟 Military Sports Stadium\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: طلائع الجيش ضد وادي دجلة — 
+ الدوري المصري الممتاز | Tomorrow: Tala'ea El Gaish vs W
+ adi Degla FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: طلائع 
+ الجيش × وادي دجلة | Kick-off in 30 min: Tala'ea El Gaish vs 
+ Wadi Degla FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996791@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261216T180000Z
+DTEND:20261216T200000Z
+SUMMARY:Al Sharkeyah-ENPPI vs Tala'ea El Gaish — Egyptian Premier League
+LOCATION:Petrosport Stadium
+URL:https://www.fotmob.com/match/5996791
+DESCRIPTION:⚽ Al Sharkeyah-ENPPI × طلائع الجيش\n🏆 الدو
+ ري المصري الممتاز — الجولة 11\n🗓 الأربعا
+ ء 16 ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Petrospor
+ t Stadium\n—————\n⚽ Al Sharkeyah-ENPPI v Tala'ea El Gaish\n
+ 🏆 Egyptian Premier League — Matchday 11\n🗓 Wed 16 Dec 2026 · 18:0
+ 0 UTC\n🏟 Petrosport Stadium\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Al Sharkeyah-ENPPI ضد طلائع الجيش —
+  الدوري المصري الممتاز | Tomorrow: Al Sharkeyah-ENPPI v
+ s Tala'ea El Gaish
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Al Sharkeya
+ h-ENPPI × طلائع الجيش | Kick-off in 30 min: Al Sharkeyah-ENPPI 
+ vs Tala'ea El Gaish
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996798@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261223T180000Z
+DTEND:20261223T200000Z
+SUMMARY:Zamalek SC vs Tala'ea El Gaish — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996798
+DESCRIPTION:⚽ الزمالك × طلائع الجيش\n🏆 الدوري 
+ المصري الممتاز — الجولة 12\n🗓 الأربعاء 23 
+ ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Cairo Int'l Sta
+ dium\n—————\n⚽ Zamalek SC v Tala'ea El Gaish\n🏆 Egyptian Pr
+ emier League — Matchday 12\n🗓 Wed 23 Dec 2026 · 18:00 UTC\n🏟 Cair
+ o Int'l Stadium\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الزمالك ضد طلائع الجيش — ا
+ لدوري المصري الممتاز | Tomorrow: Zamalek SC vs Tala'ea E
+ l Gaish
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الزما
+ لك × طلائع الجيش | Kick-off in 30 min: Zamalek SC vs Tala'ea 
+ El Gaish
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996811@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261229T180000Z
+DTEND:20261229T200000Z
+SUMMARY:Tala'ea El Gaish vs Ceramica Cleopatra — Egyptian Premier League
+LOCATION:Military Sports Stadium
+URL:https://www.fotmob.com/match/5996811
+DESCRIPTION:⚽ طلائع الجيش × سيراميكا كليوباتر
+ ا\n🏆 الدوري المصري الممتاز — الجولة 13\n
+ 🗓 الثلاثاء 29 ديسمبر 2026 · 21:00 بتوقيت الري
+ اض\n🏟 Military Sports Stadium\n—————\n⚽ Tala'ea El Gaish 
+ v Ceramica Cleopatra\n🏆 Egyptian Premier League — Matchday 13\n🗓 T
+ ue 29 Dec 2026 · 18:00 UTC\n🏟 Military Sports Stadium\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: طلائع الجيش ضد سيراميكا كل
+ يوباترا — الدوري المصري الممتاز | Tomorrow: Ta
+ la'ea El Gaish vs Ceramica Cleopatra
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: طلائع 
+ الجيش × سيراميكا كليوباترا | Kick-off in 30 min: Ta
+ la'ea El Gaish vs Ceramica Cleopatra
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996819@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270106T150000Z
+DTEND:20270106T170000Z
+SUMMARY:Asyut Petroleum vs Tala'ea El Gaish — Egyptian Premier League
+LOCATION:Asyut University Stadium
+URL:https://www.fotmob.com/match/5996819
+DESCRIPTION:⚽ أسيوط بتروليوم × طلائع الجيش\n🏆 
+ الدوري المصري الممتاز — الجولة 14\n🗓 الأ
+ ربعاء 6 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Asyu
+ t University Stadium\n—————\n⚽ Asyut Petroleum v Tala'ea El Ga
+ ish\n🏆 Egyptian Premier League — Matchday 14\n🗓 Wed 06 Jan 2027 ·
+  15:00 UTC\n🏟 Asyut University Stadium\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أسيوط بتروليوم ضد طلائع ال
+ جيش — الدوري المصري الممتاز | Tomorrow: Asyut Petr
+ oleum vs Tala'ea El Gaish
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أسيوط 
+ بتروليوم × طلائع الجيش | Kick-off in 30 min: Asyut Petr
+ oleum vs Tala'ea El Gaish
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996826@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270127T150000Z
+DTEND:20270127T170000Z
+SUMMARY:Tala'ea El Gaish vs El Gouna FC — Egyptian Premier League
+LOCATION:Military Sports Stadium
+URL:https://www.fotmob.com/match/5996826
+DESCRIPTION:⚽ طلائع الجيش × الجونة\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 15\n🗓 الأربعاء 27 ي
+ ناير 2027 · 18:00 بتوقيت الرياض\n🏟 Military Sports Sta
+ dium\n—————\n⚽ Tala'ea El Gaish v El Gouna FC\n🏆 Egyptian P
+ remier League — Matchday 15\n🗓 Wed 27 Jan 2027 · 15:00 UTC\n🏟 Mil
+ itary Sports Stadium\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: طلائع الجيش ضد الجونة — ال
+ دوري المصري الممتاز | Tomorrow: Tala'ea El Gaish vs El Go
+ una FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: طلائع 
+ الجيش × الجونة | Kick-off in 30 min: Tala'ea El Gaish vs El Go
+ una FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996840@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270201T180000Z
+DTEND:20270201T200000Z
+SUMMARY:Ghazl Al Mahalla vs Tala'ea El Gaish — Egyptian Premier League
+LOCATION:Ghazl El Mahalla Stadium
+URL:https://www.fotmob.com/match/5996840
+DESCRIPTION:⚽ غزل المحلة × طلائع الجيش\n🏆 الدو
+ ري المصري الممتاز — الجولة 16\n🗓 الاثنين 
+ 1 فبراير 2027 · 21:00 بتوقيت الرياض\n🏟 Ghazl El Maha
+ lla Stadium\n—————\n⚽ Ghazl Al Mahalla v Tala'ea El Gaish\n
+ 🏆 Egyptian Premier League — Matchday 16\n🗓 Mon 01 Feb 2027 · 18:0
+ 0 UTC\n🏟 Ghazl El Mahalla Stadium\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غزل المحلة ضد طلائع الجيش 
+ — الدوري المصري الممتاز | Tomorrow: Ghazl Al Mahalla 
+ vs Tala'ea El Gaish
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غزل ال
+ محلة × طلائع الجيش | Kick-off in 30 min: Ghazl Al Mahalla v
+ s Tala'ea El Gaish
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996851@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270206T180000Z
+DTEND:20270206T200000Z
+SUMMARY:Tala'ea El Gaish vs Abo Qir Semad — Egyptian Premier League
+LOCATION:Military Sports Stadium
+URL:https://www.fotmob.com/match/5996851
+DESCRIPTION:⚽ طلائع الجيش × ابو قير للاسمدة\n🏆
+  الدوري المصري الممتاز — الجولة 17\n🗓 الس
+ بت 6 فبراير 2027 · 21:00 بتوقيت الرياض\n🏟 Military
+  Sports Stadium\n—————\n⚽ Tala'ea El Gaish v Abo Qir Semad\n
+ 🏆 Egyptian Premier League — Matchday 17\n🗓 Sat 06 Feb 2027 · 18:0
+ 0 UTC\n🏟 Military Sports Stadium\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: طلائع الجيش ضد ابو قير للاس
+ مدة — الدوري المصري الممتاز | Tomorrow: Tala'ea El
+  Gaish vs Abo Qir Semad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: طلائع 
+ الجيش × ابو قير للاسمدة | Kick-off in 30 min: Tala'ea E
+ l Gaish vs Abo Qir Semad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996859@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270212T193000Z
+DTEND:20270212T213000Z
+SUMMARY:Al Ahly SC vs Tala'ea El Gaish — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996859
+DESCRIPTION:⚽ الأهلي × طلائع الجيش\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 18\n🗓 الجمعة 12 فبر
+ اير 2027 · 22:30 بتوقيت الرياض\n🏟 Cairo Int'l Stadium\n
+ —————\n⚽ Al Ahly SC v Tala'ea El Gaish\n🏆 Egyptian Premier 
+ League — Matchday 18\n🗓 Fri 12 Feb 2027 · 19:30 UTC\n🏟 Cairo Int'
+ l Stadium\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد طلائع الجيش — ال
+ دوري المصري الممتاز | Tomorrow: Al Ahly SC vs Tala'ea El 
+ Gaish
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × طلائع الجيش | Kick-off in 30 min: Al Ahly SC vs Tala'ea El
+  Gaish
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996869@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270220T193000Z
+DTEND:20270220T213000Z
+SUMMARY:Tala'ea El Gaish vs Al Masry SC — Egyptian Premier League
+LOCATION:Military Sports Stadium
+URL:https://www.fotmob.com/match/5996869
+DESCRIPTION:⚽ طلائع الجيش × المصري\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 19\n🗓 السبت 20 فبرا
+ ير 2027 · 22:30 بتوقيت الرياض\n🏟 Military Sports Stadium
+ \n—————\n⚽ Tala'ea El Gaish v Al Masry SC\n🏆 Egyptian Premi
+ er League — Matchday 19\n🗓 Sat 20 Feb 2027 · 19:30 UTC\n🏟 Militar
+ y Sports Stadium\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: طلائع الجيش ضد المصري — ال
+ دوري المصري الممتاز | Tomorrow: Tala'ea El Gaish vs Al Ma
+ sry SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: طلائع 
+ الجيش × المصري | Kick-off in 30 min: Tala'ea El Gaish vs Al Ma
+ sry SC
+END:VALARM
+END:VEVENT
+END:VCALENDAR

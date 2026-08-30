@@ -1,0 +1,284 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Tractor — AFC Champions League Elite Fixtures | تراک
+ تورسازي — مباريات دوري أبطال آسيا للنخب
+ ة
+X-WR-CALDESC:Tractor — all matches in AFC Champions League Elite\, exact 
+ UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 202
+ 6-09-05T19:31:10Z.  •  تراکتورسازي — جميع المبار
+ يات في دوري أبطال آسيا للنخبة بتوقيت UTC ا
+ لدقيق مع الملاعب والقنوات الناقلة. المصد
+ ر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6050066@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260914T160000Z
+DTEND:20260914T180000Z
+SUMMARY:Shabab Al-Ahli Dubai FC vs Tractor — AFC Champions League Elite
+LOCATION:Rashid Stadium\, Dubayy (Dubai)\, United Arab Emirates
+GEO:25.279704;55.360429
+URL:https://www.fotmob.com/match/6050066
+DESCRIPTION:⚽ شباب الاهلي × تراکتورسازي\n🏆 دو
+ ري أبطال آسيا للنخبة — الجولة 1\n🗓 الاثن
+ ين 14 سبتمبر 2026 · 19:00 بتوقيت الرياض\n🏟 Rashid 
+ Stadium، Dubayy (Dubai)\n—————\n⚽ Shabab Al-Ahli Dubai FC v T
+ ractor\n🏆 AFC Champions League Elite — Matchday 1\n🗓 Mon 14 Sep 20
+ 26 · 16:00 UTC\n🏟 Rashid Stadium, Dubayy (Dubai)\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شباب الاهلي ضد تراکتورسازي
+  — دوري أبطال آسيا للنخبة | Tomorrow: Shabab Al-Ahli 
+ Dubai FC vs Tractor
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شباب ا
+ لاهلي × تراکتورسازي | Kick-off in 30 min: Shabab Al-Ahli 
+ Dubai FC vs Tractor
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050074@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261012T160000Z
+DTEND:20261012T180000Z
+SUMMARY:Tractor vs Al-Shamal — AFC Champions League Elite
+LOCATION:Sultan Qaboos Sports Complex\, Masqaṭ (Muscat)\, Oman
+GEO:23.573005;58.399565
+URL:https://www.fotmob.com/match/6050074
+DESCRIPTION:⚽ تراکتورسازي × الشمال\n🏆 دوري أب
+ طال آسيا للنخبة — الجولة 2\n🗓 الاثنين 12 أ
+ كتوبر 2026 · 19:00 بتوقيت الرياض\n🏟 Sultan Qaboos Spo
+ rts Complex، Masqaṭ (Muscat)\n—————\n⚽ Tractor v Al-Shamal\
+ n🏆 AFC Champions League Elite — Matchday 2\n🗓 Mon 12 Oct 2026 · 1
+ 6:00 UTC\n🏟 Sultan Qaboos Sports Complex, Masqaṭ (Muscat)\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تراکتورسازي ضد الشمال — دو
+ ري أبطال آسيا للنخبة | Tomorrow: Tractor vs Al-Shamal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تراکت
+ ورسازي × الشمال | Kick-off in 30 min: Tractor vs Al-Shamal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050082@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261026T170000Z
+DTEND:20261026T190000Z
+SUMMARY:Al-Ain vs Tractor — AFC Champions League Elite
+LOCATION:Hazza Bin Zayed Stadium\, Al-'Ayn (Al Ain)\, United Arab Emirates
+GEO:24.245056;55.717098
+URL:https://www.fotmob.com/match/6050082
+DESCRIPTION:⚽ العين × تراکتورسازي\n🏆 دوري أبط
+ ال آسيا للنخبة — الجولة 3\n🗓 الاثنين 26 أك
+ توبر 2026 · 20:00 بتوقيت الرياض\n🏟 Hazza Bin Zayed Sta
+ dium، Al-'Ayn (Al Ain)\n—————\n⚽ Al-Ain v Tractor\n🏆 AFC C
+ hampions League Elite — Matchday 3\n🗓 Mon 26 Oct 2026 · 17:00 UTC\n
+ 🏟 Hazza Bin Zayed Stadium, Al-'Ayn (Al Ain)\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: العين ضد تراکتورسازي — دور
+ ي أبطال آسيا للنخبة | Tomorrow: Al-Ain vs Tractor
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: العين 
+ × تراکتورسازي | Kick-off in 30 min: Al-Ain vs Tractor
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050091@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261102T170000Z
+DTEND:20261102T190000Z
+SUMMARY:Tractor vs Neftchi Fargona — AFC Champions League Elite
+LOCATION:Sultan Qaboos Sports Complex\, Masqaṭ (Muscat)\, Oman
+GEO:23.573005;58.399565
+URL:https://www.fotmob.com/match/6050091
+DESCRIPTION:⚽ تراکتورسازي × نيفتشي فرغانة\n🏆 
+ دوري أبطال آسيا للنخبة — الجولة 4\n🗓 الا
+ ثنين 2 نوفمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Sult
+ an Qaboos Sports Complex، Masqaṭ (Muscat)\n—————\n⚽ Tractor
+  v Neftchi Fargona\n🏆 AFC Champions League Elite — Matchday 4\n🗓 M
+ on 02 Nov 2026 · 17:00 UTC\n🏟 Sultan Qaboos Sports Complex, Masqaṭ (
+ Muscat)\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تراکتورسازي ضد نيفتشي فرغا
+ نة — دوري أبطال آسيا للنخبة | Tomorrow: Tractor vs 
+ Neftchi Fargona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تراکت
+ ورسازي × نيفتشي فرغانة | Kick-off in 30 min: Tractor vs
+  Neftchi Fargona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050099@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261123T170000Z
+DTEND:20261123T190000Z
+SUMMARY:Tractor vs Al-Wasl — AFC Champions League Elite
+LOCATION:Sultan Qaboos Sports Complex\, Masqaṭ (Muscat)\, Oman
+GEO:23.573005;58.399565
+URL:https://www.fotmob.com/match/6050099
+DESCRIPTION:⚽ تراکتورسازي × الوصل\n🏆 دوري أبط
+ ال آسيا للنخبة — الجولة 5\n🗓 الاثنين 23 نو
+ فمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Sultan Qaboos Sport
+ s Complex، Masqaṭ (Muscat)\n—————\n⚽ Tractor v Al-Wasl\n
+ 🏆 AFC Champions League Elite — Matchday 5\n🗓 Mon 23 Nov 2026 · 17
+ :00 UTC\n🏟 Sultan Qaboos Sports Complex, Masqaṭ (Muscat)\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تراکتورسازي ضد الوصل — دور
+ ي أبطال آسيا للنخبة | Tomorrow: Tractor vs Al-Wasl
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تراکت
+ ورسازي × الوصل | Kick-off in 30 min: Tractor vs Al-Wasl
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050104@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261207T144500Z
+DTEND:20261207T164500Z
+SUMMARY:Pakhtakor Tashkent vs Tractor — AFC Champions League Elite
+LOCATION:Paxtakor Markaziy stadioni\, Toshkent (Tashkent)\, Uzbekistan
+GEO:41.315470;69.260269
+URL:https://www.fotmob.com/match/6050104
+DESCRIPTION:⚽ باختاكور × تراکتورسازي\n🏆 دوري 
+ أبطال آسيا للنخبة — الجولة 6\n🗓 الاثنين 7
+  ديسمبر 2026 · 17:45 بتوقيت الرياض\n🏟 Paxtakor Marka
+ ziy stadioni، Toshkent (Tashkent)\n—————\n⚽ Pakhtakor Tashken
+ t v Tractor\n🏆 AFC Champions League Elite — Matchday 6\n🗓 Mon 07 D
+ ec 2026 · 14:45 UTC\n🏟 Paxtakor Markaziy stadioni, Toshkent (Tashkent)
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باختاكور ضد تراکتورسازي — 
+ دوري أبطال آسيا للنخبة | Tomorrow: Pakhtakor Tashkent v
+ s Tractor
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باختا
+ كور × تراکتورسازي | Kick-off in 30 min: Pakhtakor Tashkent 
+ vs Tractor
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050114@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270208T170000Z
+DTEND:20270208T190000Z
+SUMMARY:Tractor vs Al-Sadd — AFC Champions League Elite
+LOCATION:Sultan Qaboos Sports Complex\, Masqaṭ (Muscat)\, Oman
+GEO:23.573005;58.399565
+URL:https://www.fotmob.com/match/6050114
+DESCRIPTION:⚽ تراکتورسازي × السد\n🏆 دوري أبطا
+ ل آسيا للنخبة — الجولة 7\n🗓 الاثنين 8 فبر
+ اير 2027 · 20:00 بتوقيت الرياض\n🏟 Sultan Qaboos Sports 
+ Complex، Masqaṭ (Muscat)\n—————\n⚽ Tractor v Al-Sadd\n🏆 
+ AFC Champions League Elite — Matchday 7\n🗓 Mon 08 Feb 2027 · 17:00 U
+ TC\n🏟 Sultan Qaboos Sports Complex, Masqaṭ (Muscat)\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تراکتورسازي ضد السد — دوري
+  أبطال آسيا للنخبة | Tomorrow: Tractor vs Al-Sadd
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تراکت
+ ورسازي × السد | Kick-off in 30 min: Tractor vs Al-Sadd
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050122@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270215T191500Z
+DTEND:20270215T211500Z
+SUMMARY:Al-Gharafa vs Tractor — AFC Champions League Elite
+LOCATION:Thani Bin Jassim Stadium (Al-Gharafah Stadium)\, Al Rayyan (Ar-Ray
+ yan)\, Qatar
+GEO:25.344787;51.440552
+URL:https://www.fotmob.com/match/6050122
+DESCRIPTION:⚽ الغرافة × تراکتورسازي\n🏆 دوري أ
+ بطال آسيا للنخبة — الجولة 8\n🗓 الاثنين 15 
+ فبراير 2027 · 22:15 بتوقيت الرياض\n🏟 Thani Bin Jassi
+ m Stadium (Al-Gharafah Stadium)، Al Rayyan (Ar-Rayyan)\n—————\n
+ ⚽ Al-Gharafa v Tractor\n🏆 AFC Champions League Elite — Matchday 8\n
+ 🗓 Mon 15 Feb 2027 · 19:15 UTC\n🏟 Thani Bin Jassim Stadium (Al-Ghara
+ fah Stadium), Al Rayyan (Ar-Rayyan)\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الغرافة ضد تراکتورسازي — د
+ وري أبطال آسيا للنخبة | Tomorrow: Al-Gharafa vs Tractor
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الغرا
+ فة × تراکتورسازي | Kick-off in 30 min: Al-Gharafa vs Tractor
+END:VALARM
+END:VEVENT
+END:VCALENDAR

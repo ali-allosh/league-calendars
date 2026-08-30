@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Ascoli — Coppa Italia Fixtures | أسكولي — مبا
+ ريات كأس إيطاليا
+X-WR-CALDESC:Ascoli — all matches in Coppa Italia\, exact UTC kickoffs\, 
+ stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:1
+ 0Z.  •  أسكولي — جميع المباريات في كأس إيط
+ اليا بتوقيت UTC الدقيق مع الملاعب والقنوا
+ ت الناقلة. المصدر: FotMob + 365scores · تحديث تلقا
+ ئي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5852741@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260808T183000Z
+DTEND:20260808T203000Z
+SUMMARY:Ascoli vs Potenza (3 - 1) — Coppa Italia
+LOCATION:Stadio Cino e Lillo Del Duca\, Ascoli Piceno\, Italy
+GEO:42.861004;13.593913
+URL:https://www.fotmob.com/match/5852741
+DESCRIPTION:⚽ أسكولي × Potenza (3 - 1)\n🏆 كأس إيطاليا
+  — دور الـ64\n🗓 السبت 8 أغسطس 2026 · 21:30 بتوق
+ يت الرياض\n🏟 Stadio Cino e Lillo Del Duca، Ascoli Piceno\n—
+ ————\n⚽ Ascoli v Potenza (3 - 1)\n🏆 Coppa Italia — Round of
+  64\n🗓 Sat 08 Aug 2026 · 18:30 UTC\n🏟 Stadio Cino e Lillo Del Duca,
+  Ascoli Piceno\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أسكولي ضد Potenza — كأس إيطالي
+ ا | Tomorrow: Ascoli vs Potenza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أسكول
+ ي × Potenza | Kick-off in 30 min: Ascoli vs Potenza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852780@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260816T163000Z
+DTEND:20260816T183000Z
+SUMMARY:Genoa vs Ascoli (4 - 1) — Coppa Italia
+LOCATION:Stadio Comunale Luigi Ferraris\, Genova\, Italy
+GEO:44.416467;8.952527
+URL:https://www.fotmob.com/match/5852780
+DESCRIPTION:⚽ جنوى × أسكولي (4 - 1)\n🏆 كأس إيطالي
+ ا — دور الـ32\n🗓 الأحد 16 أغسطس 2026 · 19:30 بتو
+ قيت الرياض\n🏟 Stadio Comunale Luigi Ferraris، Genova\n⚖️ 
+ الحكم: Mario Perri\n👥 الحضور: 13,000\n—————\n⚽ G
+ enoa v Ascoli (4 - 1)\n🏆 Coppa Italia — Round of 32\n🗓 Sun 16 Aug 
+ 2026 · 16:30 UTC\n🏟 Stadio Comunale Luigi Ferraris, Genova\nReferee: M
+ ario Perri\nAttendance: 13,000\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد أسكولي — كأس إيطال
+ يا | Tomorrow: Genoa vs Ascoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  أسكولي | Kick-off in 30 min: Genoa vs Ascoli
+END:VALARM
+END:VEVENT
+END:VCALENDAR

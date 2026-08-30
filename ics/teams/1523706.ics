@@ -1,0 +1,1159 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al Kholood — Saudi Pro League & King's Cup Fixtures | ا
+ لخلود — مباريات دوري روشن السعودي وكأس خ
+ ادم الحرمين الشريفين
+X-WR-CALDESC:Al Kholood — all matches in Saudi Pro League & King's Cup\, 
+ exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updat
+ ed 2026-09-05T19:31:10Z.  •  الخلود — جميع المباريا
+ ت في دوري روشن السعودي وكأس خادم الحرمين 
+ الشريفين بتوقيت UTC الدقيق مع الملاعب وال
+ قنوات الناقلة. المصدر: FotMob + 365scores · تحديث 
+ تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5969053@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260815T180000Z
+DTEND:20260815T200000Z
+SUMMARY:Al Ittihad vs Al Kholood (1 - 1) — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/5969053
+DESCRIPTION:⚽ الاتحاد × الخلود (1 - 1)\n🏆 دوري رو
+ شن السعودي — الجولة 1\n🗓 السبت 15 أغسطس 2026
+  · 21:00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdu
+ llah Sport City، Jeddah\n👥 الحضور: 18,053\n—————\n⚽ 
+ Al Ittihad v Al Kholood (1 - 1)\n🏆 Saudi Pro League — Matchday 1\n
+ 🗓 Sat 15 Aug 2026 · 18:00 UTC\n🏟 Alinma Bank Stadium at King Abdull
+ ah Sport City, Jeddah\nAttendance: 18,053\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الخلود — دوري ر
+ وشن السعودي | Tomorrow: Al Ittihad vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الخلود | Kick-off in 30 min: Al Ittihad vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970096@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T161000Z
+DTEND:20260822T181000Z
+SUMMARY:Al Kholood vs Al-Taawoun (3 - 2) — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/5970096
+DESCRIPTION:⚽ الخلود × التعاون (3 - 2)\n🏆 دوري رو
+ شن السعودي — الجولة 2\n🗓 السبت 22 أغسطس 2026
+  · 19:10 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club St
+ adium)، Ar Rass\n⚖️ الحكم: Mohammed Al Hoaish\n👥 الحضور
+ : 1,224\n—————\n⚽ Al Kholood v Al-Taawoun (3 - 2)\n🏆 Saudi 
+ Pro League — Matchday 2\n🗓 Sat 22 Aug 2026 · 16:10 UTC\n🏟 Ar-Rass
+  Stadium (Al Hazm Club Stadium), Ar Rass\nReferee: Mohammed Al Hoaish\nAtt
+ endance: 1,224\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد التعاون — دوري ر
+ وشن السعودي | Tomorrow: Al Kholood vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × التعاون | Kick-off in 30 min: Al Kholood vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970106@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260826T180000Z
+DTEND:20260826T200000Z
+SUMMARY:Al Diriyah vs Al Kholood (1 - 1) — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/5970106
+DESCRIPTION:⚽ الدرعية × الخلود (1 - 1)\n🏆 دوري رو
+ شن السعودي — الجولة 3\n🗓 الأربعاء 26 أغسط
+ س 2026 · 21:00 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n
+ ⚖️ الحكم: Mohammed Al Ismail\n👥 الحضور: 2,829\n———
+ ——\n⚽ Al Diriyah v Al Kholood (1 - 1)\n🏆 Saudi Pro League — Mat
+ chday 3\n🗓 Wed 26 Aug 2026 · 18:00 UTC\n🏟 Al-Awwal Park, Riyadh\nRe
+ feree: Mohammed Al Ismail\nAttendance: 2,829\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الدرعية ضد الخلود — دوري ر
+ وشن السعودي | Tomorrow: Al Diriyah vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الدرع
+ ية × الخلود | Kick-off in 30 min: Al Diriyah vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970111@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T160500Z
+DTEND:20260829T180500Z
+SUMMARY:Al Kholood vs Al Ahli (3 - 1) — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/5970111
+DESCRIPTION:⚽ الخلود × الأهلي (3 - 1)\n🏆 دوري روش
+ ن السعودي — الجولة 4\n🗓 السبت 29 أغسطس 2026 
+ · 19:05 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Sta
+ dium)، Ar Rass\n⚖️ الحكم: Shukri Al-Hunfush\n👥 الحضور: 
+ 2,634\n—————\n⚽ Al Kholood v Al Ahli (3 - 1)\n🏆 Saudi Pro L
+ eague — Matchday 4\n🗓 Sat 29 Aug 2026 · 16:05 UTC\n🏟 Ar-Rass Stad
+ ium (Al Hazm Club Stadium), Ar Rass\nReferee: Shukri Al-Hunfush\nAttendanc
+ e: 2,634\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد الأهلي — دوري رو
+ شن السعودي | Tomorrow: Al Kholood vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × الأهلي | Kick-off in 30 min: Al Kholood vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970117@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260903T155500Z
+DTEND:20260903T175500Z
+SUMMARY:Al-Fayha vs Al Kholood (2 - 2) — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/5970117
+DESCRIPTION:⚽ الفيحاء × الخلود (2 - 2)\n🏆 دوري رو
+ شن السعودي — الجولة 5\n🗓 الخميس 3 سبتمبر 2
+ 026 · 18:55 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadi
+ um، Al Majma'ah\n⚖️ الحكم: Ibrahim Al Jurays\n—————\n
+ ⚽ Al-Fayha v Al Kholood (2 - 2)\n🏆 Saudi Pro League — Matchday 5\n
+ 🗓 Thu 03 Sep 2026 · 15:55 UTC\n🏟 Al Majma'ah Sports City Stadium, A
+ l Majma'ah\nReferee: Ibrahim Al Jurays\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد الخلود — دوري ر
+ وشن السعودي | Tomorrow: Al-Fayha vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × الخلود | Kick-off in 30 min: Al-Fayha vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970132@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260909T155500Z
+DTEND:20260909T175500Z
+SUMMARY:Al Kholood vs Al Shabab — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/5970132
+DESCRIPTION:⚽ الخلود × الشباب\n🏆 دوري روشن الس
+ عودي — الجولة 6\n🗓 الأربعاء 9 سبتمبر 2026 · 
+ 18:55 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadiu
+ m)، Ar Rass\n—————\n⚽ Al Kholood v Al Shabab\n🏆 Saudi Pro 
+ League — Matchday 6\n🗓 Wed 09 Sep 2026 · 15:55 UTC\n🏟 Ar-Rass Sta
+ dium (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد الشباب — دوري رو
+ شن السعودي | Tomorrow: Al Kholood vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × الشباب | Kick-off in 30 min: Al Kholood vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970140@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260913T180000Z
+DTEND:20260913T200000Z
+SUMMARY:Al Riyadh vs Al Kholood — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium
+URL:https://www.fotmob.com/match/5970140
+DESCRIPTION:⚽ الرياض × الخلود\n🏆 دوري روشن الس
+ عودي — الجولة 7\n🗓 الأحد 13 سبتمبر 2026 · 21:00
+  بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium\n———
+ ——\n⚽ Al Riyadh v Al Kholood\n🏆 Saudi Pro League — Matchday 7\n
+ 🗓 Sun 13 Sep 2026 · 18:00 UTC\n🏟 Prince Faisal bin Fahd Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الخلود — دوري رو
+ شن السعودي | Tomorrow: Al Riyadh vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الخلود | Kick-off in 30 min: Al Riyadh vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970150@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261009T135000Z
+DTEND:20261009T155000Z
+SUMMARY:Al Kholood vs Al Qadsiah — Saudi Pro League
+LOCATION:King Abdullah Stadium\, Buraydah
+URL:https://www.fotmob.com/match/5970150
+DESCRIPTION:⚽ الخلود × القادسية\n🏆 دوري روشن ا
+ لسعودي — الجولة 8\n🗓 الجمعة 9 أكتوبر 2026 · 
+ 16:50 بتوقيت الرياض\n🏟 King Abdullah Stadium, Buraydah\n—
+ ————\n⚽ Al Kholood v Al Qadsiah\n🏆 Saudi Pro League — Match
+ day 8\n🗓 Fri 09 Oct 2026 · 13:50 UTC\n🏟 King Abdullah Stadium, Bura
+ ydah\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد القادسية — دوري 
+ روشن السعودي | Tomorrow: Al Kholood vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × القادسية | Kick-off in 30 min: Al Kholood vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970155@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T134000Z
+DTEND:20261015T154000Z
+SUMMARY:Al-Faisaly vs Al Kholood — Saudi Pro League
+LOCATION:Majmaah Sports City
+URL:https://www.fotmob.com/match/5970155
+DESCRIPTION:⚽ الفيصلي × الخلود\n🏆 دوري روشن ال
+ سعودي — الجولة 9\n🗓 الخميس 15 أكتوبر 2026 · 1
+ 6:40 بتوقيت الرياض\n🏟 Majmaah Sports City\n—————\
+ n⚽ Al-Faisaly v Al Kholood\n🏆 Saudi Pro League — Matchday 9\n🗓 T
+ hu 15 Oct 2026 · 13:40 UTC\n🏟 Majmaah Sports City\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد الخلود — دوري ر
+ وشن السعودي | Tomorrow: Al-Faisaly vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × الخلود | Kick-off in 30 min: Al-Faisaly vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970162@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261019T152000Z
+DTEND:20261019T172000Z
+SUMMARY:Abha vs Al Kholood — Saudi Pro League
+LOCATION:Prince Sultan bin Abdul Aziz Stadium
+URL:https://www.fotmob.com/match/5970162
+DESCRIPTION:⚽ أبها × الخلود\n🏆 دوري روشن السعو
+ دي — الجولة 10\n🗓 الاثنين 19 أكتوبر 2026 · 18:2
+ 0 بتوقيت الرياض\n🏟 Prince Sultan bin Abdul Aziz Stadium\n
+ —————\n⚽ Abha v Al Kholood\n🏆 Saudi Pro League — Matchday
+  10\n🗓 Mon 19 Oct 2026 · 15:20 UTC\n🏟 Prince Sultan bin Abdul Aziz 
+ Stadium\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الخلود — دوري روشن 
+ السعودي | Tomorrow: Abha vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الخلود | Kick-off in 30 min: Abha vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970176@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T150500Z
+DTEND:20261024T170500Z
+SUMMARY:Al Kholood vs Al-Ettifaq — Saudi Pro League
+LOCATION:King Abdullah Stadium\, Buraydah
+URL:https://www.fotmob.com/match/5970176
+DESCRIPTION:⚽ الخلود × الاتفاق\n🏆 دوري روشن ال
+ سعودي — الجولة 11\n🗓 السبت 24 أكتوبر 2026 · 18
+ :05 بتوقيت الرياض\n🏟 King Abdullah Stadium, Buraydah\n—
+ ————\n⚽ Al Kholood v Al-Ettifaq\n🏆 Saudi Pro League — Match
+ day 11\n🗓 Sat 24 Oct 2026 · 15:05 UTC\n🏟 King Abdullah Stadium, Bur
+ aydah\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد الاتفاق — دوري ر
+ وشن السعودي | Tomorrow: Al Kholood vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × الاتفاق | Kick-off in 30 min: Al Kholood vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970193@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261029T180000Z
+DTEND:20261029T200000Z
+SUMMARY:Al Nassr FC vs Al Kholood — Saudi Pro League
+LOCATION:Al-Awwal Park
+URL:https://www.fotmob.com/match/5970193
+DESCRIPTION:⚽ النصر × الخلود\n🏆 دوري روشن السع
+ ودي — الجولة 12\n🗓 الخميس 29 أكتوبر 2026 · 21:0
+ 0 بتوقيت الرياض\n🏟 Al-Awwal Park\n—————\n⚽ Al N
+ assr FC v Al Kholood\n🏆 Saudi Pro League — Matchday 12\n🗓 Thu 29 O
+ ct 2026 · 18:00 UTC\n🏟 Al-Awwal Park\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الخلود — دوري روش
+ ن السعودي | Tomorrow: Al Nassr FC vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الخلود | Kick-off in 30 min: Al Nassr FC vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021474@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:Al Kholood vs Al Khaleej — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021474
+DESCRIPTION:⚽ الخلود × الخليج\n🏆 دوري روشن الس
+ عودي — الجولة 13\n🗓 الخميس 5 نوفمبر 2026 · 03:
+ 00 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)
+ ، Ar Rass\n—————\n⚽ Al Kholood v Al Khaleej\n🏆 Saudi Pro L
+ eague — Matchday 13\n🗓 Thu 05 Nov 2026 · 00:00 UTC\n🏟 Ar-Rass Sta
+ dium (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد الخليج — دوري رو
+ شن السعودي | Tomorrow: Al Kholood vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × الخليج | Kick-off in 30 min: Al Kholood vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021485@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Neom SC vs Al Kholood — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/1000021485
+DESCRIPTION:⚽ نيوم × الخلود\n🏆 دوري روشن السعو
+ دي — الجولة 14\n🗓 الجمعة 20 نوفمبر 2026 · 03:00 
+ بتوقيت الرياض\n🏟 King Khalid Sport City Stadium، Tabuk\n
+ —————\n⚽ Neom SC v Al Kholood\n🏆 Saudi Pro League — Match
+ day 14\n🗓 Fri 20 Nov 2026 · 00:00 UTC\n🏟 King Khalid Sport City Sta
+ dium, Tabuk\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الخلود — دوري روشن 
+ السعودي | Tomorrow: Neom SC vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الخلود | Kick-off in 30 min: Neom SC vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021489@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Al Kholood vs Al Hilal — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021489
+DESCRIPTION:⚽ الخلود × الهلال\n🏆 دوري روشن الس
+ عودي — الجولة 15\n🗓 الخميس 26 نوفمبر 2026 · 03
+ :00 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)
+ ، Ar Rass\n—————\n⚽ Al Kholood v Al Hilal\n🏆 Saudi Pro Lea
+ gue — Matchday 15\n🗓 Thu 26 Nov 2026 · 00:00 UTC\n🏟 Ar-Rass Stadi
+ um (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد الهلال — دوري رو
+ شن السعودي | Tomorrow: Al Kholood vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × الهلال | Kick-off in 30 min: Al Kholood vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021496@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Al Fateh FC vs Al Kholood — Saudi Pro League
+LOCATION:Maydan Tamweel Aloula\, Al Ahsa\, Saudi Arabia
+GEO:25.429604;49.581390
+URL:https://www.fotmob.com/match/1000021496
+DESCRIPTION:⚽ الفتح × الخلود\n🏆 دوري روشن السع
+ ودي — الجولة 16\n🗓 الخميس 3 ديسمبر 2026 · 03:00
+  بتوقيت الرياض\n🏟 Maydan Tamweel Aloula، Al Ahsa\n——
+ ———\n⚽ Al Fateh FC v Al Kholood\n🏆 Saudi Pro League — Matchda
+ y 16\n🗓 Thu 03 Dec 2026 · 00:00 UTC\n🏟 Maydan Tamweel Aloula, Al Ah
+ sa\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفتح ضد الخلود — دوري روش
+ ن السعودي | Tomorrow: Al Fateh FC vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفتح 
+ × الخلود | Kick-off in 30 min: Al Fateh FC vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021507@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Al Kholood vs Al Hazem — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021507
+DESCRIPTION:⚽ الخلود × الحزم\n🏆 دوري روشن السع
+ ودي — الجولة 17\n🗓 الخميس 10 ديسمبر 2026 · 03:0
+ 0 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)،
+  Ar Rass\n—————\n⚽ Al Kholood v Al Hazem\n🏆 Saudi Pro Leagu
+ e — Matchday 17\n🗓 Thu 10 Dec 2026 · 00:00 UTC\n🏟 Ar-Rass Stadium
+  (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد الحزم — دوري روش
+ ن السعودي | Tomorrow: Al Kholood vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × الحزم | Kick-off in 30 min: Al Kholood vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021518@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261214T000000Z
+DTEND:20261214T020000Z
+SUMMARY:Al Kholood vs Al Ittihad — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021518
+DESCRIPTION:⚽ الخلود × الاتحاد\n🏆 دوري روشن ال
+ سعودي — الجولة 18\n🗓 الاثنين 14 ديسمبر 2026 
+ · 03:00 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Sta
+ dium)، Ar Rass\n—————\n⚽ Al Kholood v Al Ittihad\n🏆 Saudi 
+ Pro League — Matchday 18\n🗓 Mon 14 Dec 2026 · 00:00 UTC\n🏟 Ar-Ras
+ s Stadium (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد الاتحاد — دوري ر
+ وشن السعودي | Tomorrow: Al Kholood vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × الاتحاد | Kick-off in 30 min: Al Kholood vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021528@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270211T000000Z
+DTEND:20270211T020000Z
+SUMMARY:Al-Taawoun vs Al Kholood — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/1000021528
+DESCRIPTION:⚽ التعاون × الخلود\n🏆 دوري روشن ال
+ سعودي — الجولة 19\n🗓 الخميس 11 فبراير 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Al Taawoun Club Stadium، Buraydah\n
+ —————\n⚽ Al-Taawoun v Al Kholood\n🏆 Saudi Pro League — Ma
+ tchday 19\n🗓 Thu 11 Feb 2027 · 00:00 UTC\n🏟 Al Taawoun Club Stadium
+ , Buraydah\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الخلود — دوري ر
+ وشن السعودي | Tomorrow: Al-Taawoun vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الخلود | Kick-off in 30 min: Al-Taawoun vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021536@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270218T000000Z
+DTEND:20270218T020000Z
+SUMMARY:Al Kholood vs Al Diriyah — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021536
+DESCRIPTION:⚽ الخلود × الدرعية\n🏆 دوري روشن ال
+ سعودي — الجولة 20\n🗓 الخميس 18 فبراير 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadiu
+ m)، Ar Rass\n—————\n⚽ Al Kholood v Al Diriyah\n🏆 Saudi Pro
+  League — Matchday 20\n🗓 Thu 18 Feb 2027 · 00:00 UTC\n🏟 Ar-Rass S
+ tadium (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد الدرعية — دوري ر
+ وشن السعودي | Tomorrow: Al Kholood vs Al Diriyah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × الدرعية | Kick-off in 30 min: Al Kholood vs Al Diriyah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021540@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270225T000000Z
+DTEND:20270225T020000Z
+SUMMARY:Al Ahli vs Al Kholood — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021540
+DESCRIPTION:⚽ الأهلي × الخلود\n🏆 دوري روشن الس
+ عودي — الجولة 21\n🗓 الخميس 25 فبراير 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah S
+ port City، Jeddah\n—————\n⚽ Al Ahli v Al Kholood\n🏆 Saudi 
+ Pro League — Matchday 21\n🗓 Thu 25 Feb 2027 · 00:00 UTC\n🏟 Alinma
+  Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الخلود — دوري رو
+ شن السعودي | Tomorrow: Al Ahli vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الخلود | Kick-off in 30 min: Al Ahli vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021554@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270311T000000Z
+DTEND:20270311T020000Z
+SUMMARY:Al Kholood vs Al-Fayha — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021554
+DESCRIPTION:⚽ الخلود × الفيحاء\n🏆 دوري روشن ال
+ سعودي — الجولة 22\n🗓 الخميس 11 مارس 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)،
+  Ar Rass\n—————\n⚽ Al Kholood v Al-Fayha\n🏆 Saudi Pro Leagu
+ e — Matchday 22\n🗓 Thu 11 Mar 2027 · 00:00 UTC\n🏟 Ar-Rass Stadium
+  (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد الفيحاء — دوري ر
+ وشن السعودي | Tomorrow: Al Kholood vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × الفيحاء | Kick-off in 30 min: Al Kholood vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021563@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270318T000000Z
+DTEND:20270318T020000Z
+SUMMARY:Al Shabab vs Al Kholood — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/1000021563
+DESCRIPTION:⚽ الشباب × الخلود\n🏆 دوري روشن الس
+ عودي — الجولة 23\n🗓 الخميس 18 مارس 2027 · 03:00 
+ بتوقيت الرياض\n🏟 SHG Arena، Riyadh\n—————\n⚽ A
+ l Shabab v Al Kholood\n🏆 Saudi Pro League — Matchday 23\n🗓 Thu 18 
+ Mar 2027 · 00:00 UTC\n🏟 SHG Arena, Riyadh\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد الخلود — دوري رو
+ شن السعودي | Tomorrow: Al Shabab vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × الخلود | Kick-off in 30 min: Al Shabab vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021574@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270402T000000Z
+DTEND:20270402T020000Z
+SUMMARY:Al Kholood vs Al Riyadh — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021574
+DESCRIPTION:⚽ الخلود × الرياض\n🏆 دوري روشن الس
+ عودي — الجولة 24\n🗓 الجمعة 2 أبريل 2027 · 03:00
+  بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، 
+ Ar Rass\n—————\n⚽ Al Kholood v Al Riyadh\n🏆 Saudi Pro Leagu
+ e — Matchday 24\n🗓 Fri 02 Apr 2027 · 00:00 UTC\n🏟 Ar-Rass Stadium
+  (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد الرياض — دوري رو
+ شن السعودي | Tomorrow: Al Kholood vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × الرياض | Kick-off in 30 min: Al Kholood vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021580@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270408T000000Z
+DTEND:20270408T020000Z
+SUMMARY:Al Qadsiah vs Al Kholood — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021580
+DESCRIPTION:⚽ القادسية × الخلود\n🏆 دوري روشن ا
+ لسعودي — الجولة 25\n🗓 الخميس 8 أبريل 2027 · 0
+ 3:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Da
+ mmam\n—————\n⚽ Al Qadsiah v Al Kholood\n🏆 Saudi Pro League 
+ — Matchday 25\n🗓 Thu 08 Apr 2027 · 00:00 UTC\n🏟 Prince Mohammed B
+ in Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الخلود — دوري 
+ روشن السعودي | Tomorrow: Al Qadsiah vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الخلود | Kick-off in 30 min: Al Qadsiah vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021590@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270415T000000Z
+DTEND:20270415T020000Z
+SUMMARY:Al Kholood vs Al-Faisaly — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021590
+DESCRIPTION:⚽ الخلود × الفيصلي\n🏆 دوري روشن ال
+ سعودي — الجولة 26\n🗓 الخميس 15 أبريل 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)
+ ، Ar Rass\n—————\n⚽ Al Kholood v Al-Faisaly\n🏆 Saudi Pro L
+ eague — Matchday 26\n🗓 Thu 15 Apr 2027 · 00:00 UTC\n🏟 Ar-Rass Sta
+ dium (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد الفيصلي — دوري ر
+ وشن السعودي | Tomorrow: Al Kholood vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × الفيصلي | Kick-off in 30 min: Al Kholood vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021598@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T000000Z
+DTEND:20270418T020000Z
+SUMMARY:Al Kholood vs Abha — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021598
+DESCRIPTION:⚽ الخلود × أبها\n🏆 دوري روشن السعو
+ دي — الجولة 27\n🗓 الأحد 18 أبريل 2027 · 03:00 بت
+ وقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، Ar Ra
+ ss\n—————\n⚽ Al Kholood v Abha\n🏆 Saudi Pro League — Matc
+ hday 27\n🗓 Sun 18 Apr 2027 · 00:00 UTC\n🏟 Ar-Rass Stadium (Al Hazm 
+ Club Stadium), Ar Rass\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد أبها — دوري روشن 
+ السعودي | Tomorrow: Al Kholood vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × أبها | Kick-off in 30 min: Al Kholood vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021604@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270422T000000Z
+DTEND:20270422T020000Z
+SUMMARY:Al-Ettifaq vs Al Kholood — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/1000021604
+DESCRIPTION:⚽ الاتفاق × الخلود\n🏆 دوري روشن ال
+ سعودي — الجولة 28\n🗓 الخميس 22 أبريل 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Dammam\n—
+ ————\n⚽ Al-Ettifaq v Al Kholood\n🏆 Saudi Pro League — Match
+ day 28\n🗓 Thu 22 Apr 2027 · 00:00 UTC\n🏟 Al Ettifaq Club Stadium, D
+ ammam\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد الخلود — دوري ر
+ وشن السعودي | Tomorrow: Al-Ettifaq vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × الخلود | Kick-off in 30 min: Al-Ettifaq vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021617@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270429T000000Z
+DTEND:20270429T020000Z
+SUMMARY:Al Kholood vs Al Nassr FC — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021617
+DESCRIPTION:⚽ الخلود × النصر\n🏆 دوري روشن السع
+ ودي — الجولة 29\n🗓 الخميس 29 أبريل 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، A
+ r Rass\n—————\n⚽ Al Kholood v Al Nassr FC\n🏆 Saudi Pro Leag
+ ue — Matchday 29\n🗓 Thu 29 Apr 2027 · 00:00 UTC\n🏟 Ar-Rass Stadiu
+ m (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد النصر — دوري روش
+ ن السعودي | Tomorrow: Al Kholood vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × النصر | Kick-off in 30 min: Al Kholood vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021623@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270506T000000Z
+DTEND:20270506T020000Z
+SUMMARY:Al Khaleej vs Al Kholood — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021623
+DESCRIPTION:⚽ الخليج × الخلود\n🏆 دوري روشن الس
+ عودي — الجولة 30\n🗓 الخميس 6 مايو 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Dammam\
+ n—————\n⚽ Al Khaleej v Al Kholood\n🏆 Saudi Pro League — M
+ atchday 30\n🗓 Thu 06 May 2027 · 00:00 UTC\n🏟 Prince Mohammed Bin Fa
+ hd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد الخلود — دوري رو
+ شن السعودي | Tomorrow: Al Khaleej vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × الخلود | Kick-off in 30 min: Al Khaleej vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021635@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270512T000000Z
+DTEND:20270512T020000Z
+SUMMARY:Al Kholood vs Neom SC — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021635
+DESCRIPTION:⚽ الخلود × نيوم\n🏆 دوري روشن السعو
+ دي — الجولة 31\n🗓 الأربعاء 12 مايو 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، A
+ r Rass\n—————\n⚽ Al Kholood v Neom SC\n🏆 Saudi Pro League 
+ — Matchday 31\n🗓 Wed 12 May 2027 · 00:00 UTC\n🏟 Ar-Rass Stadium (
+ Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد نيوم — دوري روشن 
+ السعودي | Tomorrow: Al Kholood vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × نيوم | Kick-off in 30 min: Al Kholood vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021643@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270520T000000Z
+DTEND:20270520T020000Z
+SUMMARY:Al Hilal vs Al Kholood — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/1000021643
+DESCRIPTION:⚽ الهلال × الخلود\n🏆 دوري روشن الس
+ عودي — الجولة 32\n🗓 الخميس 20 مايو 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n—————\n
+ ⚽ Al Hilal v Al Kholood\n🏆 Saudi Pro League — Matchday 32\n🗓 Thu
+  20 May 2027 · 00:00 UTC\n🏟 Kingdom Arena, Riyadh\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الخلود — دوري رو
+ شن السعودي | Tomorrow: Al Hilal vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الخلود | Kick-off in 30 min: Al Hilal vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021651@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270524T000000Z
+DTEND:20270524T020000Z
+SUMMARY:Al Kholood vs Al Fateh FC — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021651
+DESCRIPTION:⚽ الخلود × الفتح\n🏆 دوري روشن السع
+ ودي — الجولة 33\n🗓 الاثنين 24 مايو 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، A
+ r Rass\n—————\n⚽ Al Kholood v Al Fateh FC\n🏆 Saudi Pro Leag
+ ue — Matchday 33\n🗓 Mon 24 May 2027 · 00:00 UTC\n🏟 Ar-Rass Stadiu
+ m (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد الفتح — دوري روش
+ ن السعودي | Tomorrow: Al Kholood vs Al Fateh FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × الفتح | Kick-off in 30 min: Al Kholood vs Al Fateh FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021660@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270528T000000Z
+DTEND:20270528T020000Z
+SUMMARY:Al Hazem vs Al Kholood — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021660
+DESCRIPTION:⚽ الحزم × الخلود\n🏆 دوري روشن السع
+ ودي — الجولة 34\n🗓 الجمعة 28 مايو 2027 · 03:00 ب
+ توقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، Ar 
+ Rass\n—————\n⚽ Al Hazem v Al Kholood\n🏆 Saudi Pro League 
+ — Matchday 34\n🗓 Fri 28 May 2027 · 00:00 UTC\n🏟 Ar-Rass Stadium (
+ Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد الخلود — دوري روش
+ ن السعودي | Tomorrow: Al Hazem vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × الخلود | Kick-off in 30 min: Al Hazem vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853729@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260819T163000Z
+DTEND:20260819T183000Z
+SUMMARY:Jeddah vs Al Kholood (0 - 5) — King's Cup
+LOCATION:Jeddah Club Stadium\, Jeddah\, Saudi Arabia
+GEO:21.468575;39.194074
+URL:https://www.fotmob.com/match/5853729
+DESCRIPTION:⚽ جدة × الخلود (0 - 5)\n🏆 كأس خادم الح
+ رمين الشريفين — دور الـ32\n🗓 الأربعاء 19 أ
+ غسطس 2026 · 19:30 بتوقيت الرياض\n🏟 Jeddah Club Stadium
+ ، Jeddah\n⚖️ الحكم: Khalid Al Ahmari\n—————\n⚽ Jedda
+ h v Al Kholood (0 - 5)\n🏆 King's Cup — Round of 32\n🗓 Wed 19 Aug 2
+ 026 · 16:30 UTC\n🏟 Jeddah Club Stadium, Jeddah\nReferee: Khalid Al Ahm
+ ari\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جدة ضد الخلود — كأس خادم ال
+ حرمين الشريفين | Tomorrow: Jeddah vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جدة × 
+ الخلود | Kick-off in 30 min: Jeddah vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6125929@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Al Nassr FC vs Al Kholood — King's Cup
+URL:https://www.fotmob.com/match/6125929
+DESCRIPTION:⚽ النصر × الخلود\n🏆 كأس خادم الحرم
+ ين الشريفين — دور الـ16\n🗓 الثلاثاء 1 ديس
+ مبر 2026 · 20:00 بتوقيت الرياض\n—————\n⚽ Al Na
+ ssr FC v Al Kholood\n🏆 King's Cup — Round of 16\n🗓 Tue 01 Dec 2026
+  · 17:00 UTC\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الخلود — كأس خادم 
+ الحرمين الشريفين | Tomorrow: Al Nassr FC vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الخلود | Kick-off in 30 min: Al Nassr FC vs Al Kholood
+END:VALARM
+END:VEVENT
+END:VCALENDAR

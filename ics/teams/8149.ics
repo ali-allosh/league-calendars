@@ -1,0 +1,1101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Union Berlin — Bundesliga Fixtures | يونيون برل
+ ين — مباريات الدوري الألماني
+X-WR-CALDESC:Union Berlin — all matches in Bundesliga\, exact UTC kickoff
+ s\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:
+ 31:10Z.  •  يونيون برلين — جميع المباريات في
+  الدوري الألماني بتوقيت UTC الدقيق مع المل
+ اعب والقنوات الناقلة. المصدر: FotMob + 365scores 
+ · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5881151@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T133000Z
+DTEND:20260829T153000Z
+SUMMARY:Union Berlin vs Eintracht Frankfurt (3 - 3) — Bundesliga
+LOCATION:Stadion An der Alten Försterei\, Berlin\, Germany
+GEO:52.457395;13.568126
+URL:https://www.fotmob.com/match/5881151
+DESCRIPTION:⚽ يونيون برلين × آينتراخت فرانكفو
+ رت (3 - 3)\n🏆 الدوري الألماني — الجولة 1\n🗓 
+ السبت 29 أغسطس 2026 · 16:30 بتوقيت الرياض\n🏟 Sta
+ dion An der Alten Försterei، Berlin\n⚖️ الحكم: Bastian Dankert\
+ n👥 الحضور: 22,012\n—————\n⚽ Union Berlin v Eintracht 
+ Frankfurt (3 - 3)\n🏆 Bundesliga — Matchday 1\n🗓 Sat 29 Aug 2026 ·
+  13:30 UTC\n🏟 Stadion An der Alten Försterei, Berlin\nReferee: Bastian
+  Dankert\nAttendance: 22,012\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد آينتراخت ف
+ رانكفورت — الدوري الألماني | Tomorrow: Union Berli
+ n vs Eintracht Frankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × آينتراخت فرانكفورت | Kick-off in 30 min:
+  Union Berlin vs Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881152@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T133000Z
+DTEND:20260905T153000Z
+SUMMARY:Bayer Leverkusen vs Union Berlin (4 - 0) — Bundesliga
+LOCATION:BayArena\, Leverkusen\, Germany
+GEO:51.038213;7.002250
+URL:https://www.fotmob.com/match/5881152
+DESCRIPTION:⚽ باير ليفركوزن × يونيون برلين (4 - 0
+ )\n🏆 الدوري الألماني — الجولة 2\n🗓 السبت 
+ 5 سبتمبر 2026 · 16:30 بتوقيت الرياض\n🏟 BayArena، Le
+ verkusen\n📺 شاهد - Shahid VIP\n⚖️ الحكم: Robin Braun\n👥
+  الحضور: 29,629\n—————\n⚽ Bayer Leverkusen v Union Berli
+ n (4 - 0)\n🏆 Bundesliga — Matchday 2\n🗓 Sat 05 Sep 2026 · 13:30 U
+ TC\n🏟 BayArena, Leverkusen\n📺 شاهد - Shahid VIP\nReferee: Robin 
+ Braun\nAttendance: 29,629\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد يونيون بر
+ لين — الدوري الألماني — 📺 شاهد - Shahid VIP | 
+ Tomorrow: Bayer Leverkusen vs Union Berlin | TV: شاهد - Shahid VIP
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × يونيون برلين — 📺 شاهد - Shahid VIP |
+  Kick-off in 30 min: Bayer Leverkusen vs Union Berlin | TV: شاهد - Sha
+ hid VIP
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881169@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260911T183000Z
+DTEND:20260911T203000Z
+SUMMARY:Union Berlin vs Schalke 04 — Bundesliga
+LOCATION:Stadion An der Alten Försterei\, Berlin\, Germany
+GEO:52.457395;13.568126
+URL:https://www.fotmob.com/match/5881169
+DESCRIPTION:⚽ يونيون برلين × شالكة\n🏆 الدوري ا
+ لألماني — الجولة 3\n🗓 الجمعة 11 سبتمبر 2026 
+ · 21:30 بتوقيت الرياض\n🏟 Stadion An der Alten Försterei،
+  Berlin\n📺 BBC iPlayer، BBC Sport online\n—————\n⚽ Union B
+ erlin v Schalke 04\n🏆 Bundesliga — Matchday 3\n🗓 Fri 11 Sep 2026 
+ · 18:30 UTC\n🏟 Stadion An der Alten Försterei, Berlin\n📺 BBC iPlay
+ er, BBC Sport online\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد شالكة — ال
+ دوري الألماني — 📺 BBC iPlayer، BBC Sport online | Tomorr
+ ow: Union Berlin vs Schalke 04 | TV: BBC iPlayer\, BBC Sport online
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × شالكة — 📺 BBC iPlayer، BBC Sport online | Kick
+ -off in 30 min: Union Berlin vs Schalke 04 | TV: BBC iPlayer\, BBC Sport o
+ nline
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881171@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260918T183000Z
+DTEND:20260918T203000Z
+SUMMARY:Bayern München vs Union Berlin — Bundesliga
+LOCATION:Allianz Arena\, München\, Germany
+GEO:48.218779;11.624743
+URL:https://www.fotmob.com/match/5881171
+DESCRIPTION:⚽ بايرن ميونخ × يونيون برلين\n🏆 ال
+ دوري الألماني — الجولة 4\n🗓 الجمعة 18 سبت
+ مبر 2026 · 21:30 بتوقيت الرياض\n🏟 Allianz Arena، Münc
+ hen\n—————\n⚽ Bayern München v Union Berlin\n🏆 Bundesliga 
+ — Matchday 4\n🗓 Fri 18 Sep 2026 · 18:30 UTC\n🏟 Allianz Arena, Mü
+ nchen\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد يونيون برلي
+ ن — الدوري الألماني | Tomorrow: Bayern München vs Union 
+ Berlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × يونيون برلين | Kick-off in 30 min: Bayern Münche
+ n vs Union Berlin
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881187@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T133000Z
+DTEND:20261010T153000Z
+SUMMARY:Union Berlin vs Elversberg — Bundesliga
+LOCATION:Alte Foersterei
+URL:https://www.fotmob.com/match/5881187
+DESCRIPTION:⚽ يونيون برلين × إلفيرسبيرغ\n🏆 ال
+ دوري الألماني — الجولة 5\n🗓 السبت 10 أكتو
+ بر 2026 · 16:30 بتوقيت الرياض\n🏟 Alte Foersterei\n——
+ ———\n⚽ Union Berlin v Elversberg\n🏆 Bundesliga — Matchday 5\n
+ 🗓 Sat 10 Oct 2026 · 13:30 UTC\n🏟 Alte Foersterei\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد إلفيرسبيرغ
+  — الدوري الألماني | Tomorrow: Union Berlin vs Elversberg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × إلفيرسبيرغ | Kick-off in 30 min: Union Berlin v
+ s Elversberg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881195@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T133000Z
+DTEND:20261017T153000Z
+SUMMARY:Union Berlin vs Borussia Dortmund — Bundesliga
+LOCATION:Alte Foersterei
+URL:https://www.fotmob.com/match/5881195
+DESCRIPTION:⚽ يونيون برلين × بوروسيا دورتموند\
+ n🏆 الدوري الألماني — الجولة 6\n🗓 السبت 17
+  أكتوبر 2026 · 16:30 بتوقيت الرياض\n🏟 Alte Foerstere
+ i\n—————\n⚽ Union Berlin v Borussia Dortmund\n🏆 Bundesliga 
+ — Matchday 6\n🗓 Sat 17 Oct 2026 · 13:30 UTC\n🏟 Alte Foersterei\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد بوروسيا دو
+ رتموند — الدوري الألماني | Tomorrow: Union Berlin vs
+  Borussia Dortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × بوروسيا دورتموند | Kick-off in 30 min: Uni
+ on Berlin vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881197@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T133000Z
+DTEND:20261024T153000Z
+SUMMARY:Augsburg vs Union Berlin — Bundesliga
+LOCATION:WWK Arena
+URL:https://www.fotmob.com/match/5881197
+DESCRIPTION:⚽ أوغسبورغ × يونيون برلين\n🏆 الدو
+ ري الألماني — الجولة 7\n🗓 السبت 24 أكتوبر 
+ 2026 · 16:30 بتوقيت الرياض\n🏟 WWK Arena\n—————\n
+ ⚽ Augsburg v Union Berlin\n🏆 Bundesliga — Matchday 7\n🗓 Sat 24 O
+ ct 2026 · 13:30 UTC\n🏟 WWK Arena\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوغسبورغ ضد يونيون برلين —
+  الدوري الألماني | Tomorrow: Augsburg vs Union Berlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوغسب
+ ورغ × يونيون برلين | Kick-off in 30 min: Augsburg vs Union 
+ Berlin
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881213@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T143000Z
+DTEND:20261031T163000Z
+SUMMARY:Union Berlin vs 1. FC Köln — Bundesliga
+LOCATION:Alte Foersterei
+URL:https://www.fotmob.com/match/5881213
+DESCRIPTION:⚽ يونيون برلين × كولن\n🏆 الدوري ال
+ ألماني — الجولة 8\n🗓 السبت 31 أكتوبر 2026 · 1
+ 7:30 بتوقيت الرياض\n🏟 Alte Foersterei\n—————\n⚽
+  Union Berlin v 1. FC Köln\n🏆 Bundesliga — Matchday 8\n🗓 Sat 31 O
+ ct 2026 · 14:30 UTC\n🏟 Alte Foersterei\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد كولن — الد
+ وري الألماني | Tomorrow: Union Berlin vs 1. FC Köln
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × كولن | Kick-off in 30 min: Union Berlin vs 1. FC Köl
+ n
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881217@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T143000Z
+DTEND:20261107T163000Z
+SUMMARY:Freiburg vs Union Berlin — Bundesliga
+LOCATION:Europa-Park Stadion
+URL:https://www.fotmob.com/match/5881217
+DESCRIPTION:⚽ فرايبورج × يونيون برلين\n🏆 الدو
+ ري الألماني — الجولة 9\n🗓 السبت 7 نوفمبر 2
+ 026 · 17:30 بتوقيت الرياض\n🏟 Europa-Park Stadion\n——
+ ———\n⚽ Freiburg v Union Berlin\n🏆 Bundesliga — Matchday 9\n
+ 🗓 Sat 07 Nov 2026 · 14:30 UTC\n🏟 Europa-Park Stadion\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فرايبورج ضد يونيون برلين —
+  الدوري الألماني | Tomorrow: Freiburg vs Union Berlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فرايب
+ ورج × يونيون برلين | Kick-off in 30 min: Freiburg vs Union 
+ Berlin
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881231@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T143000Z
+DTEND:20261121T163000Z
+SUMMARY:Union Berlin vs RB Leipzig — Bundesliga
+LOCATION:Alte Foersterei
+URL:https://www.fotmob.com/match/5881231
+DESCRIPTION:⚽ يونيون برلين × لايبزيج\n🏆 الدور
+ ي الألماني — الجولة 10\n🗓 السبت 21 نوفمبر 2
+ 026 · 17:30 بتوقيت الرياض\n🏟 Alte Foersterei\n————
+ —\n⚽ Union Berlin v RB Leipzig\n🏆 Bundesliga — Matchday 10\n🗓 
+ Sat 21 Nov 2026 · 14:30 UTC\n🏟 Alte Foersterei\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد لايبزيج — 
+ الدوري الألماني | Tomorrow: Union Berlin vs RB Leipzig
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × لايبزيج | Kick-off in 30 min: Union Berlin vs RB L
+ eipzig
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881238@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T143000Z
+DTEND:20261128T163000Z
+SUMMARY:Mainz 05 vs Union Berlin — Bundesliga
+LOCATION:MEWA Arena
+URL:https://www.fotmob.com/match/5881238
+DESCRIPTION:⚽ ماينز 05 × يونيون برلين\n🏆 الدوري
+  الألماني — الجولة 11\n🗓 السبت 28 نوفمبر 202
+ 6 · 17:30 بتوقيت الرياض\n🏟 MEWA Arena\n—————\n
+ ⚽ Mainz 05 v Union Berlin\n🏆 Bundesliga — Matchday 11\n🗓 Sat 28 
+ Nov 2026 · 14:30 UTC\n🏟 MEWA Arena\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ماينز 05 ضد يونيون برلين — ا
+ لدوري الألماني | Tomorrow: Mainz 05 vs Union Berlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ماينز 
+ 05 × يونيون برلين | Kick-off in 30 min: Mainz 05 vs Union Berl
+ in
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881250@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T143000Z
+DTEND:20261205T163000Z
+SUMMARY:Union Berlin vs Hamburger SV — Bundesliga
+LOCATION:Alte Foersterei
+URL:https://www.fotmob.com/match/5881250
+DESCRIPTION:⚽ يونيون برلين × هامبورج\n🏆 الدور
+ ي الألماني — الجولة 12\n🗓 السبت 5 ديسمبر 20
+ 26 · 17:30 بتوقيت الرياض\n🏟 Alte Foersterei\n————
+ —\n⚽ Union Berlin v Hamburger SV\n🏆 Bundesliga — Matchday 12\n
+ 🗓 Sat 05 Dec 2026 · 14:30 UTC\n🏟 Alte Foersterei\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد هامبورج — 
+ الدوري الألماني | Tomorrow: Union Berlin vs Hamburger SV
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × هامبورج | Kick-off in 30 min: Union Berlin vs Hamb
+ urger SV
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881258@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T143000Z
+DTEND:20261212T163000Z
+SUMMARY:VfB Stuttgart vs Union Berlin — Bundesliga
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/5881258
+DESCRIPTION:⚽ شتوتجارت × يونيون برلين\n🏆 الدو
+ ري الألماني — الجولة 13\n🗓 السبت 12 ديسمبر
+  2026 · 17:30 بتوقيت الرياض\n🏟 MHPArena\n—————\n
+ ⚽ VfB Stuttgart v Union Berlin\n🏆 Bundesliga — Matchday 13\n🗓 Sa
+ t 12 Dec 2026 · 14:30 UTC\n🏟 MHPArena\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد يونيون برلين —
+  الدوري الألماني | Tomorrow: VfB Stuttgart vs Union Berlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × يونيون برلين | Kick-off in 30 min: VfB Stuttgart vs U
+ nion Berlin
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881268@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T143000Z
+DTEND:20261219T163000Z
+SUMMARY:Union Berlin vs Hoffenheim — Bundesliga
+LOCATION:Alte Foersterei
+URL:https://www.fotmob.com/match/5881268
+DESCRIPTION:⚽ يونيون برلين × هوفنهايم\n🏆 الدو
+ ري الألماني — الجولة 14\n🗓 السبت 19 ديسمبر
+  2026 · 17:30 بتوقيت الرياض\n🏟 Alte Foersterei\n———
+ ——\n⚽ Union Berlin v Hoffenheim\n🏆 Bundesliga — Matchday 14\n
+ 🗓 Sat 19 Dec 2026 · 14:30 UTC\n🏟 Alte Foersterei\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد هوفنهايم —
+  الدوري الألماني | Tomorrow: Union Berlin vs Hoffenheim
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × هوفنهايم | Kick-off in 30 min: Union Berlin vs Ho
+ ffenheim
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881277@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270109T143000Z
+DTEND:20270109T163000Z
+SUMMARY:Werder Bremen vs Union Berlin — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881277
+DESCRIPTION:⚽ فيردر بريمن × يونيون برلين\n🏆 ال
+ دوري الألماني — الجولة 15\n🗓 السبت 9 يناي
+ ر 2027 · 17:30 بتوقيت الرياض\n🏟 Wohninvest WESERSTADION\n
+ —————\n⚽ Werder Bremen v Union Berlin\n🏆 Bundesliga — Mat
+ chday 15\n🗓 Sat 09 Jan 2027 · 14:30 UTC\n🏟 Wohninvest WESERSTADION\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد يونيون برلي
+ ن — الدوري الألماني | Tomorrow: Werder Bremen vs Union Be
+ rlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × يونيون برلين | Kick-off in 30 min: Werder Bremen 
+ vs Union Berlin
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881286@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270112T193000Z
+DTEND:20270112T213000Z
+SUMMARY:Union Berlin vs Paderborn — Bundesliga
+LOCATION:Alte Foersterei
+URL:https://www.fotmob.com/match/5881286
+DESCRIPTION:⚽ يونيون برلين × بادربورن\n🏆 الدو
+ ري الألماني — الجولة 16\n🗓 الثلاثاء 12 ينا
+ ير 2027 · 22:30 بتوقيت الرياض\n🏟 Alte Foersterei\n——
+ ———\n⚽ Union Berlin v Paderborn\n🏆 Bundesliga — Matchday 16\n
+ 🗓 Tue 12 Jan 2027 · 19:30 UTC\n🏟 Alte Foersterei\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد بادربورن —
+  الدوري الألماني | Tomorrow: Union Berlin vs Paderborn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × بادربورن | Kick-off in 30 min: Union Berlin vs Pa
+ derborn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881288@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T143000Z
+DTEND:20270116T163000Z
+SUMMARY:Borussia Mönchengladbach vs Union Berlin — Bundesliga
+LOCATION:Ista-Borussia-Park
+URL:https://www.fotmob.com/match/5881288
+DESCRIPTION:⚽ بوروسيا مونشنجلادباخ × يونيون ب
+ رلين\n🏆 الدوري الألماني — الجولة 17\n🗓 ا
+ لسبت 16 يناير 2027 · 17:30 بتوقيت الرياض\n🏟 Ista-
+ Borussia-Park\n—————\n⚽ Borussia Mönchengladbach v Union Berl
+ in\n🏆 Bundesliga — Matchday 17\n🗓 Sat 16 Jan 2027 · 14:30 UTC\n
+ 🏟 Ista-Borussia-Park\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا مونشنجلادباخ ضد يو
+ نيون برلين — الدوري الألماني | Tomorrow: Borussia
+  Mönchengladbach vs Union Berlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا مونشنجلادباخ × يونيون برلين | Kick-off in 30 
+ min: Borussia Mönchengladbach vs Union Berlin
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881298@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T143000Z
+DTEND:20270123T163000Z
+SUMMARY:Eintracht Frankfurt vs Union Berlin — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881298
+DESCRIPTION:⚽ آينتراخت فرانكفورت × يونيون برل
+ ين\n🏆 الدوري الألماني — الجولة 18\n🗓 الس
+ بت 23 يناير 2027 · 17:30 بتوقيت الرياض\n🏟 Deutsche 
+ Bank Park\n—————\n⚽ Eintracht Frankfurt v Union Berlin\n🏆 B
+ undesliga — Matchday 18\n🗓 Sat 23 Jan 2027 · 14:30 UTC\n🏟 Deutsch
+ e Bank Park\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد يوني
+ ون برلين — الدوري الألماني | Tomorrow: Eintracht Fr
+ ankfurt vs Union Berlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × يونيون برلين | Kick-off in 30 min:
+  Eintracht Frankfurt vs Union Berlin
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881313@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T143000Z
+DTEND:20270130T163000Z
+SUMMARY:Union Berlin vs Bayer Leverkusen — Bundesliga
+LOCATION:Alte Foersterei
+URL:https://www.fotmob.com/match/5881313
+DESCRIPTION:⚽ يونيون برلين × باير ليفركوزن\n🏆 
+ الدوري الألماني — الجولة 19\n🗓 السبت 30 ين
+ اير 2027 · 17:30 بتوقيت الرياض\n🏟 Alte Foersterei\n—
+ ————\n⚽ Union Berlin v Bayer Leverkusen\n🏆 Bundesliga — Mat
+ chday 19\n🗓 Sat 30 Jan 2027 · 14:30 UTC\n🏟 Alte Foersterei\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد باير ليفرك
+ وزن — الدوري الألماني | Tomorrow: Union Berlin vs Bayer
+  Leverkusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × باير ليفركوزن | Kick-off in 30 min: Union Ber
+ lin vs Bayer Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881320@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T143000Z
+DTEND:20270206T163000Z
+SUMMARY:Schalke 04 vs Union Berlin — Bundesliga
+LOCATION:VELTINS-Arena
+URL:https://www.fotmob.com/match/5881320
+DESCRIPTION:⚽ شالكة × يونيون برلين\n🏆 الدوري ا
+ لألماني — الجولة 20\n🗓 السبت 6 فبراير 2027 ·
+  17:30 بتوقيت الرياض\n🏟 VELTINS-Arena\n—————\n⚽
+  Schalke 04 v Union Berlin\n🏆 Bundesliga — Matchday 20\n🗓 Sat 06 F
+ eb 2027 · 14:30 UTC\n🏟 VELTINS-Arena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد يونيون برلين — ال
+ دوري الألماني | Tomorrow: Schalke 04 vs Union Berlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × يونيون برلين | Kick-off in 30 min: Schalke 04 vs Union Berli
+ n
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881331@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270213T143000Z
+DTEND:20270213T163000Z
+SUMMARY:Union Berlin vs Bayern München — Bundesliga
+LOCATION:Alte Foersterei
+URL:https://www.fotmob.com/match/5881331
+DESCRIPTION:⚽ يونيون برلين × بايرن ميونخ\n🏆 ال
+ دوري الألماني — الجولة 21\n🗓 السبت 13 فبرا
+ ير 2027 · 17:30 بتوقيت الرياض\n🏟 Alte Foersterei\n——
+ ———\n⚽ Union Berlin v Bayern München\n🏆 Bundesliga — Matchda
+ y 21\n🗓 Sat 13 Feb 2027 · 14:30 UTC\n🏟 Alte Foersterei\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد بايرن ميون
+ خ — الدوري الألماني | Tomorrow: Union Berlin vs Bayern M
+ ünchen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × بايرن ميونخ | Kick-off in 30 min: Union Berlin 
+ vs Bayern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881336@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T143000Z
+DTEND:20270220T163000Z
+SUMMARY:Elversberg vs Union Berlin — Bundesliga
+LOCATION:Ursapharm-Arena
+URL:https://www.fotmob.com/match/5881336
+DESCRIPTION:⚽ إلفيرسبيرغ × يونيون برلين\n🏆 ال
+ دوري الألماني — الجولة 22\n🗓 السبت 20 فبرا
+ ير 2027 · 17:30 بتوقيت الرياض\n🏟 Ursapharm-Arena\n——
+ ———\n⚽ Elversberg v Union Berlin\n🏆 Bundesliga — Matchday 22\
+ n🗓 Sat 20 Feb 2027 · 14:30 UTC\n🏟 Ursapharm-Arena\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد يونيون برلين
+  — الدوري الألماني | Tomorrow: Elversberg vs Union Berlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × يونيون برلين | Kick-off in 30 min: Elversberg vs 
+ Union Berlin
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881342@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T143000Z
+DTEND:20270227T163000Z
+SUMMARY:Borussia Dortmund vs Union Berlin — Bundesliga
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/5881342
+DESCRIPTION:⚽ بوروسيا دورتموند × يونيون برلين\
+ n🏆 الدوري الألماني — الجولة 23\n🗓 السبت 2
+ 7 فبراير 2027 · 17:30 بتوقيت الرياض\n🏟 Signal Iduna 
+ Park\n—————\n⚽ Borussia Dortmund v Union Berlin\n🏆 Bundesli
+ ga — Matchday 23\n🗓 Sat 27 Feb 2027 · 14:30 UTC\n🏟 Signal Iduna P
+ ark\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد يونيون
+  برلين — الدوري الألماني | Tomorrow: Borussia Dortmun
+ d vs Union Berlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × يونيون برلين | Kick-off in 30 min: Bor
+ ussia Dortmund vs Union Berlin
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881357@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270302T193000Z
+DTEND:20270302T213000Z
+SUMMARY:Union Berlin vs Augsburg — Bundesliga
+LOCATION:Alte Foersterei
+URL:https://www.fotmob.com/match/5881357
+DESCRIPTION:⚽ يونيون برلين × أوغسبورغ\n🏆 الدو
+ ري الألماني — الجولة 24\n🗓 الثلاثاء 2 مار
+ س 2027 · 22:30 بتوقيت الرياض\n🏟 Alte Foersterei\n——
+ ———\n⚽ Union Berlin v Augsburg\n🏆 Bundesliga — Matchday 24\n
+ 🗓 Tue 02 Mar 2027 · 19:30 UTC\n🏟 Alte Foersterei\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد أوغسبورغ —
+  الدوري الألماني | Tomorrow: Union Berlin vs Augsburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × أوغسبورغ | Kick-off in 30 min: Union Berlin vs Au
+ gsburg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881360@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270306T143000Z
+DTEND:20270306T163000Z
+SUMMARY:1. FC Köln vs Union Berlin — Bundesliga
+LOCATION:RheinEnergieSTADION
+URL:https://www.fotmob.com/match/5881360
+DESCRIPTION:⚽ كولن × يونيون برلين\n🏆 الدوري ال
+ ألماني — الجولة 25\n🗓 السبت 6 مارس 2027 · 17:30
+  بتوقيت الرياض\n🏟 RheinEnergieSTADION\n—————\n⚽
+  1. FC Köln v Union Berlin\n🏆 Bundesliga — Matchday 25\n🗓 Sat 06 
+ Mar 2027 · 14:30 UTC\n🏟 RheinEnergieSTADION\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كولن ضد يونيون برلين — الد
+ وري الألماني | Tomorrow: 1. FC Köln vs Union Berlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كولن ×
+  يونيون برلين | Kick-off in 30 min: 1. FC Köln vs Union Berlin
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881375@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T143000Z
+DTEND:20270313T163000Z
+SUMMARY:Union Berlin vs Freiburg — Bundesliga
+LOCATION:Alte Foersterei
+URL:https://www.fotmob.com/match/5881375
+DESCRIPTION:⚽ يونيون برلين × فرايبورج\n🏆 الدو
+ ري الألماني — الجولة 26\n🗓 السبت 13 مارس 202
+ 7 · 17:30 بتوقيت الرياض\n🏟 Alte Foersterei\n————
+ —\n⚽ Union Berlin v Freiburg\n🏆 Bundesliga — Matchday 26\n🗓 Sa
+ t 13 Mar 2027 · 14:30 UTC\n🏟 Alte Foersterei\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد فرايبورج —
+  الدوري الألماني | Tomorrow: Union Berlin vs Freiburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × فرايبورج | Kick-off in 30 min: Union Berlin vs Fr
+ eiburg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881384@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T143000Z
+DTEND:20270320T163000Z
+SUMMARY:RB Leipzig vs Union Berlin — Bundesliga
+LOCATION:Red Bull Arena Leipzig
+URL:https://www.fotmob.com/match/5881384
+DESCRIPTION:⚽ لايبزيج × يونيون برلين\n🏆 الدور
+ ي الألماني — الجولة 27\n🗓 السبت 20 مارس 2027 
+ · 17:30 بتوقيت الرياض\n🏟 Red Bull Arena Leipzig\n———
+ ——\n⚽ RB Leipzig v Union Berlin\n🏆 Bundesliga — Matchday 27\n
+ 🗓 Sat 20 Mar 2027 · 14:30 UTC\n🏟 Red Bull Arena Leipzig\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لايبزيج ضد يونيون برلين — 
+ الدوري الألماني | Tomorrow: RB Leipzig vs Union Berlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لايبز
+ يج × يونيون برلين | Kick-off in 30 min: RB Leipzig vs Union 
+ Berlin
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881394@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270403T133000Z
+DTEND:20270403T153000Z
+SUMMARY:Union Berlin vs Mainz 05 — Bundesliga
+LOCATION:Alte Foersterei
+URL:https://www.fotmob.com/match/5881394
+DESCRIPTION:⚽ يونيون برلين × ماينز 05\n🏆 الدوري
+  الألماني — الجولة 28\n🗓 السبت 3 أبريل 2027 
+ · 16:30 بتوقيت الرياض\n🏟 Alte Foersterei\n—————\
+ n⚽ Union Berlin v Mainz 05\n🏆 Bundesliga — Matchday 28\n🗓 Sat 03
+  Apr 2027 · 13:30 UTC\n🏟 Alte Foersterei\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد ماينز 05 — ا
+ لدوري الألماني | Tomorrow: Union Berlin vs Mainz 05
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × ماينز 05 | Kick-off in 30 min: Union Berlin vs Mainz
+  05
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881398@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T133000Z
+DTEND:20270410T153000Z
+SUMMARY:Hamburger SV vs Union Berlin — Bundesliga
+LOCATION:Volksparkstadion
+URL:https://www.fotmob.com/match/5881398
+DESCRIPTION:⚽ هامبورج × يونيون برلين\n🏆 الدور
+ ي الألماني — الجولة 29\n🗓 السبت 10 أبريل 202
+ 7 · 16:30 بتوقيت الرياض\n🏟 Volksparkstadion\n————
+ —\n⚽ Hamburger SV v Union Berlin\n🏆 Bundesliga — Matchday 29\n
+ 🗓 Sat 10 Apr 2027 · 13:30 UTC\n🏟 Volksparkstadion\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هامبورج ضد يونيون برلين — 
+ الدوري الألماني | Tomorrow: Hamburger SV vs Union Berlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هامبو
+ رج × يونيون برلين | Kick-off in 30 min: Hamburger SV vs Unio
+ n Berlin
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881412@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T133000Z
+DTEND:20270417T153000Z
+SUMMARY:Union Berlin vs VfB Stuttgart — Bundesliga
+LOCATION:Alte Foersterei
+URL:https://www.fotmob.com/match/5881412
+DESCRIPTION:⚽ يونيون برلين × شتوتجارت\n🏆 الدو
+ ري الألماني — الجولة 30\n🗓 السبت 17 أبريل 2
+ 027 · 16:30 بتوقيت الرياض\n🏟 Alte Foersterei\n————
+ —\n⚽ Union Berlin v VfB Stuttgart\n🏆 Bundesliga — Matchday 30\n
+ 🗓 Sat 17 Apr 2027 · 13:30 UTC\n🏟 Alte Foersterei\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد شتوتجارت —
+  الدوري الألماني | Tomorrow: Union Berlin vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × شتوتجارت | Kick-off in 30 min: Union Berlin vs Vf
+ B Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881418@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T133000Z
+DTEND:20270424T153000Z
+SUMMARY:Hoffenheim vs Union Berlin — Bundesliga
+LOCATION:SNP Arena
+URL:https://www.fotmob.com/match/5881418
+DESCRIPTION:⚽ هوفنهايم × يونيون برلين\n🏆 الدو
+ ري الألماني — الجولة 31\n🗓 السبت 24 أبريل 2
+ 027 · 16:30 بتوقيت الرياض\n🏟 SNP Arena\n—————\n
+ ⚽ Hoffenheim v Union Berlin\n🏆 Bundesliga — Matchday 31\n🗓 Sat 2
+ 4 Apr 2027 · 13:30 UTC\n🏟 SNP Arena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هوفنهايم ضد يونيون برلين —
+  الدوري الألماني | Tomorrow: Hoffenheim vs Union Berlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هوفنه
+ ايم × يونيون برلين | Kick-off in 30 min: Hoffenheim vs Unio
+ n Berlin
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881430@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T133000Z
+DTEND:20270508T153000Z
+SUMMARY:Union Berlin vs Werder Bremen — Bundesliga
+LOCATION:Alte Foersterei
+URL:https://www.fotmob.com/match/5881430
+DESCRIPTION:⚽ يونيون برلين × فيردر بريمن\n🏆 ال
+ دوري الألماني — الجولة 32\n🗓 السبت 8 مايو 
+ 2027 · 16:30 بتوقيت الرياض\n🏟 Alte Foersterei\n———
+ ——\n⚽ Union Berlin v Werder Bremen\n🏆 Bundesliga — Matchday 32\
+ n🗓 Sat 08 May 2027 · 13:30 UTC\n🏟 Alte Foersterei\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد فيردر بريم
+ ن — الدوري الألماني | Tomorrow: Union Berlin vs Werder Br
+ emen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × فيردر بريمن | Kick-off in 30 min: Union Berlin 
+ vs Werder Bremen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881437@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T133000Z
+DTEND:20270515T153000Z
+SUMMARY:Paderborn vs Union Berlin — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881437
+DESCRIPTION:⚽ بادربورن × يونيون برلين\n🏆 الدو
+ ري الألماني — الجولة 33\n🗓 السبت 15 مايو 202
+ 7 · 16:30 بتوقيت الرياض\n🏟 Home Deluxe Arena\n————
+ —\n⚽ Paderborn v Union Berlin\n🏆 Bundesliga — Matchday 33\n🗓 S
+ at 15 May 2027 · 13:30 UTC\n🏟 Home Deluxe Arena\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد يونيون برلين —
+  الدوري الألماني | Tomorrow: Paderborn vs Union Berlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × يونيون برلين | Kick-off in 30 min: Paderborn vs Union
+  Berlin
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881448@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270522T133000Z
+DTEND:20270522T153000Z
+SUMMARY:Union Berlin vs Borussia Mönchengladbach — Bundesliga
+LOCATION:Alte Foersterei
+URL:https://www.fotmob.com/match/5881448
+DESCRIPTION:⚽ يونيون برلين × بوروسيا مونشنجلا
+ دباخ\n🏆 الدوري الألماني — الجولة 34\n🗓 ا
+ لسبت 22 مايو 2027 · 16:30 بتوقيت الرياض\n🏟 Alte Fo
+ ersterei\n—————\n⚽ Union Berlin v Borussia Mönchengladbach\n
+ 🏆 Bundesliga — Matchday 34\n🗓 Sat 22 May 2027 · 13:30 UTC\n🏟 A
+ lte Foersterei\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد بوروسيا مو
+ نشنجلادباخ — الدوري الألماني | Tomorrow: Union B
+ erlin vs Borussia Mönchengladbach
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × بوروسيا مونشنجلادباخ | Kick-off in 30 
+ min: Union Berlin vs Borussia Mönchengladbach
+END:VALARM
+END:VEVENT
+END:VCALENDAR

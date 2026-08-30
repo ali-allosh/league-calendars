@@ -1,0 +1,1141 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al Khaleej — Saudi Pro League & King's Cup Fixtures | ا
+ لخليج — مباريات دوري روشن السعودي وكأس خ
+ ادم الحرمين الشريفين
+X-WR-CALDESC:Al Khaleej — all matches in Saudi Pro League & King's Cup\, 
+ exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updat
+ ed 2026-09-05T19:31:10Z.  •  الخليج — جميع المباريا
+ ت في دوري روشن السعودي وكأس خادم الحرمين 
+ الشريفين بتوقيت UTC الدقيق مع الملاعب وال
+ قنوات الناقلة. المصدر: FotMob + 365scores · تحديث 
+ تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5969052@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260815T161500Z
+DTEND:20260815T181500Z
+SUMMARY:Al-Taawoun vs Al Khaleej (0 - 0) — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/5969052
+DESCRIPTION:⚽ التعاون × الخليج (0 - 0)\n🏆 دوري رو
+ شن السعودي — الجولة 1\n🗓 السبت 15 أغسطس 2026
+  · 19:15 بتوقيت الرياض\n🏟 Al Taawoun Club Stadium، Burayd
+ ah\n⚖️ الحكم: Mohammed Sami Taher Al Ismail\n👥 الحضور: 3
+ ,007\n—————\n⚽ Al-Taawoun v Al Khaleej (0 - 0)\n🏆 Saudi Pro
+  League — Matchday 1\n🗓 Sat 15 Aug 2026 · 16:15 UTC\n🏟 Al Taawoun
+  Club Stadium, Buraydah\nReferee: Mohammed Sami Taher Al Ismail\nAttendanc
+ e: 3,007\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الخليج — دوري ر
+ وشن السعودي | Tomorrow: Al-Taawoun vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الخليج | Kick-off in 30 min: Al-Taawoun vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970098@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T180000Z
+DTEND:20260822T200000Z
+SUMMARY:Al Khaleej vs Al Shabab (0 - 0) — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/5970098
+DESCRIPTION:⚽ الخليج × الشباب (0 - 0)\n🏆 دوري روش
+ ن السعودي — الجولة 2\n🗓 السبت 22 أغسطس 2026 
+ · 21:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium
+ ، Dammam\n⚖️ الحكم: Faisal Al-Balawi\n👥 الحضور: 2,690\n
+ —————\n⚽ Al Khaleej v Al Shabab (0 - 0)\n🏆 Saudi Pro League
+  — Matchday 2\n🗓 Sat 22 Aug 2026 · 18:00 UTC\n🏟 Prince Mohammed B
+ in Fahd Stadium, Dammam\nReferee: Faisal Al-Balawi\nAttendance: 2,690\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد الشباب — دوري رو
+ شن السعودي | Tomorrow: Al Khaleej vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × الشباب | Kick-off in 30 min: Al Khaleej vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970101@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260825T160500Z
+DTEND:20260825T180500Z
+SUMMARY:Abha vs Al Khaleej (1 - 1) — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/5970101
+DESCRIPTION:⚽ أبها × الخليج (1 - 1)\n🏆 دوري روشن ا
+ لسعودي — الجولة 3\n🗓 الثلاثاء 25 أغسطس 2026 
+ · 19:05 بتوقيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sport
+ s City Stadium، Abha\n⚖️ الحكم: Ali Al Qahtani\n👥 الحضو
+ ر: 2,252\n—————\n⚽ Abha v Al Khaleej (1 - 1)\n🏆 Saudi Pro 
+ League — Matchday 3\n🗓 Tue 25 Aug 2026 · 16:05 UTC\n🏟 Prince Sult
+ an bin Abdulaziz Sports City Stadium, Abha\nReferee: Ali Al Qahtani\nAtten
+ dance: 2,252\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الخليج — دوري روشن 
+ السعودي | Tomorrow: Abha vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الخليج | Kick-off in 30 min: Abha vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970109@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260828T180000Z
+DTEND:20260828T200000Z
+SUMMARY:Al Khaleej vs Al Hilal (1 - 5) — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/5970109
+DESCRIPTION:⚽ الخليج × الهلال (1 - 5)\n🏆 دوري روش
+ ن السعودي — الجولة 4\n🗓 الجمعة 28 أغسطس 2026
+  · 21:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium
+ ، Dammam\n⚖️ الحكم: István Kovács\n👥 الحضور: 12,083\n
+ —————\n⚽ Al Khaleej v Al Hilal (1 - 5)\n🏆 Saudi Pro League 
+ — Matchday 4\n🗓 Fri 28 Aug 2026 · 18:00 UTC\n🏟 Prince Mohammed Bi
+ n Fahd Stadium, Dammam\nReferee: István Kovács\nAttendance: 12,083\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد الهلال — دوري رو
+ شن السعودي | Tomorrow: Al Khaleej vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × الهلال | Kick-off in 30 min: Al Khaleej vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970118@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260903T163000Z
+DTEND:20260903T183000Z
+SUMMARY:Neom SC vs Al Khaleej (3 - 0) — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/5970118
+DESCRIPTION:⚽ نيوم × الخليج (3 - 0)\n🏆 دوري روشن ا
+ لسعودي — الجولة 5\n🗓 الخميس 3 سبتمبر 2026 · 
+ 19:30 بتوقيت الرياض\n🏟 King Khalid Sport City Stadium، Tab
+ uk\n⚖️ الحكم: Sultan Al-Harbi\n—————\n⚽ Neom SC v Al 
+ Khaleej (3 - 0)\n🏆 Saudi Pro League — Matchday 5\n🗓 Thu 03 Sep 202
+ 6 · 16:30 UTC\n🏟 King Khalid Sport City Stadium, Tabuk\nReferee: Sulta
+ n Al-Harbi\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الخليج — دوري روشن 
+ السعودي | Tomorrow: Neom SC vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الخليج | Kick-off in 30 min: Neom SC vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970126@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260907T153000Z
+DTEND:20260907T173000Z
+SUMMARY:Al Khaleej vs Al Riyadh — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/5970126
+DESCRIPTION:⚽ الخليج × الرياض\n🏆 دوري روشن الس
+ عودي — الجولة 6\n🗓 الاثنين 7 سبتمبر 2026 · 18
+ :30 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Dam
+ mam\n📺 تطبيق ثمانية\n—————\n⚽ Al Khaleej v Al Ri
+ yadh\n🏆 Saudi Pro League — Matchday 6\n🗓 Mon 07 Sep 2026 · 15:30 
+ UTC\n🏟 Prince Mohammed Bin Fahd Stadium, Dammam\n📺 Thmanyah\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد الرياض — دوري رو
+ شن السعودي — 📺 تطبيق ثمانية | Tomorrow: Al Khalee
+ j vs Al Riyadh | TV: Thmanyah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × الرياض — 📺 تطبيق ثمانية | Kick-off in 30 min: 
+ Al Khaleej vs Al Riyadh | TV: Thmanyah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970138@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T180000Z
+DTEND:20260912T200000Z
+SUMMARY:Al Khaleej vs Al Nassr FC — Saudi Pro League
+LOCATION:Prince Mohamed bin Fahd Stadium
+URL:https://www.fotmob.com/match/5970138
+DESCRIPTION:⚽ الخليج × النصر\n🏆 دوري روشن السع
+ ودي — الجولة 7\n🗓 السبت 12 سبتمبر 2026 · 21:00 
+ بتوقيت الرياض\n🏟 Prince Mohamed bin Fahd Stadium\n📺 FOX 
+ Soccer Plus، FOX Sports online\n—————\n⚽ Al Khaleej v Al Nass
+ r FC\n🏆 Saudi Pro League — Matchday 7\n🗓 Sat 12 Sep 2026 · 18:00 
+ UTC\n🏟 Prince Mohamed bin Fahd Stadium\n📺 FOX Soccer Plus, FOX Sport
+ s online\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد النصر — دوري روش
+ ن السعودي — 📺 FOX Soccer Plus، FOX Sports online | Tomorrow:
+  Al Khaleej vs Al Nassr FC | TV: FOX Soccer Plus\, FOX Sports online
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × النصر — 📺 FOX Soccer Plus، FOX Sports online | Kick-off i
+ n 30 min: Al Khaleej vs Al Nassr FC | TV: FOX Soccer Plus\, FOX Sports onl
+ ine
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970145@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T145500Z
+DTEND:20261010T165500Z
+SUMMARY:Al-Ettifaq vs Al Khaleej — Saudi Pro League
+LOCATION:Prince Mohamed bin Fahd Stadium
+URL:https://www.fotmob.com/match/5970145
+DESCRIPTION:⚽ الاتفاق × الخليج\n🏆 دوري روشن ال
+ سعودي — الجولة 8\n🗓 السبت 10 أكتوبر 2026 · 17:
+ 55 بتوقيت الرياض\n🏟 Prince Mohamed bin Fahd Stadium\n——
+ ———\n⚽ Al-Ettifaq v Al Khaleej\n🏆 Saudi Pro League — Matchday
+  8\n🗓 Sat 10 Oct 2026 · 14:55 UTC\n🏟 Prince Mohamed bin Fahd Stadiu
+ m\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد الخليج — دوري ر
+ وشن السعودي | Tomorrow: Al-Ettifaq vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × الخليج | Kick-off in 30 min: Al-Ettifaq vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970158@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T145000Z
+DTEND:20261015T165000Z
+SUMMARY:Al Khaleej vs Al-Fayha — Saudi Pro League
+LOCATION:Prince Mohamed bin Fahd Stadium
+URL:https://www.fotmob.com/match/5970158
+DESCRIPTION:⚽ الخليج × الفيحاء\n🏆 دوري روشن ال
+ سعودي — الجولة 9\n🗓 الخميس 15 أكتوبر 2026 · 1
+ 7:50 بتوقيت الرياض\n🏟 Prince Mohamed bin Fahd Stadium\n—
+ ————\n⚽ Al Khaleej v Al-Fayha\n🏆 Saudi Pro League — Matchda
+ y 9\n🗓 Thu 15 Oct 2026 · 14:50 UTC\n🏟 Prince Mohamed bin Fahd Stadi
+ um\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد الفيحاء — دوري ر
+ وشن السعودي | Tomorrow: Al Khaleej vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × الفيحاء | Kick-off in 30 min: Al Khaleej vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970165@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T180000Z
+DTEND:20261018T200000Z
+SUMMARY:Al Fateh FC vs Al Khaleej — Saudi Pro League
+LOCATION:Prince Abdullah Bin Jalawi Sport City Stadium
+URL:https://www.fotmob.com/match/5970165
+DESCRIPTION:⚽ الفتح × الخليج\n🏆 دوري روشن السع
+ ودي — الجولة 10\n🗓 الأحد 18 أكتوبر 2026 · 21:00 
+ بتوقيت الرياض\n🏟 Prince Abdullah Bin Jalawi Sport City Stad
+ ium\n—————\n⚽ Al Fateh FC v Al Khaleej\n🏆 Saudi Pro League 
+ — Matchday 10\n🗓 Sun 18 Oct 2026 · 18:00 UTC\n🏟 Prince Abdullah B
+ in Jalawi Sport City Stadium\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفتح ضد الخليج — دوري روش
+ ن السعودي | Tomorrow: Al Fateh FC vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفتح 
+ × الخليج | Kick-off in 30 min: Al Fateh FC vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970171@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T180000Z
+DTEND:20261022T200000Z
+SUMMARY:Al Ahli vs Al Khaleej — Saudi Pro League
+LOCATION:Prince Abdullah Al Faisal Sports City Stadium\, Jeddah\, Saudi Ara
+ bia
+GEO:21.446598;39.251704
+URL:https://www.fotmob.com/match/5970171
+DESCRIPTION:⚽ الأهلي × الخليج\n🏆 دوري روشن الس
+ عودي — الجولة 11\n🗓 الخميس 22 أكتوبر 2026 · 21
+ :00 بتوقيت الرياض\n🏟 Prince Abdullah Al Faisal Sports City 
+ Stadium، Jeddah\n—————\n⚽ Al Ahli v Al Khaleej\n🏆 Saudi Pr
+ o League — Matchday 11\n🗓 Thu 22 Oct 2026 · 18:00 UTC\n🏟 Prince A
+ bdullah Al Faisal Sports City Stadium, Jeddah\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الخليج — دوري رو
+ شن السعودي | Tomorrow: Al Ahli vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الخليج | Kick-off in 30 min: Al Ahli vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970191@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261029T143500Z
+DTEND:20261029T163500Z
+SUMMARY:Al Khaleej vs Al Hazem — Saudi Pro League
+LOCATION:Prince Mohamed bin Fahd Stadium
+URL:https://www.fotmob.com/match/5970191
+DESCRIPTION:⚽ الخليج × الحزم\n🏆 دوري روشن السع
+ ودي — الجولة 12\n🗓 الخميس 29 أكتوبر 2026 · 17:3
+ 5 بتوقيت الرياض\n🏟 Prince Mohamed bin Fahd Stadium\n——
+ ———\n⚽ Al Khaleej v Al Hazem\n🏆 Saudi Pro League — Matchday 1
+ 2\n🗓 Thu 29 Oct 2026 · 14:35 UTC\n🏟 Prince Mohamed bin Fahd Stadium
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد الحزم — دوري روش
+ ن السعودي | Tomorrow: Al Khaleej vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × الحزم | Kick-off in 30 min: Al Khaleej vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021474@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:Al Kholood vs Al Khaleej — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021474
+DESCRIPTION:⚽ الخلود × الخليج\n🏆 دوري روشن الس
+ عودي — الجولة 13\n🗓 الخميس 5 نوفمبر 2026 · 03:
+ 00 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)
+ ، Ar Rass\n—————\n⚽ Al Kholood v Al Khaleej\n🏆 Saudi Pro L
+ eague — Matchday 13\n🗓 Thu 05 Nov 2026 · 00:00 UTC\n🏟 Ar-Rass Sta
+ dium (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد الخليج — دوري رو
+ شن السعودي | Tomorrow: Al Kholood vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × الخليج | Kick-off in 30 min: Al Kholood vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021480@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Al Khaleej vs Al Ittihad — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021480
+DESCRIPTION:⚽ الخليج × الاتحاد\n🏆 دوري روشن ال
+ سعودي — الجولة 14\n🗓 الجمعة 20 نوفمبر 2026 · 
+ 03:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، D
+ ammam\n—————\n⚽ Al Khaleej v Al Ittihad\n🏆 Saudi Pro League
+  — Matchday 14\n🗓 Fri 20 Nov 2026 · 00:00 UTC\n🏟 Prince Mohammed 
+ Bin Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد الاتحاد — دوري ر
+ وشن السعودي | Tomorrow: Al Khaleej vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × الاتحاد | Kick-off in 30 min: Al Khaleej vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021490@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Al-Faisaly vs Al Khaleej — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021490
+DESCRIPTION:⚽ الفيصلي × الخليج\n🏆 دوري روشن ال
+ سعودي — الجولة 15\n🗓 الخميس 26 نوفمبر 2026 · 
+ 03:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al
+  Majma'ah\n—————\n⚽ Al-Faisaly v Al Khaleej\n🏆 Saudi Pro Le
+ ague — Matchday 15\n🗓 Thu 26 Nov 2026 · 00:00 UTC\n🏟 Al Majma'ah 
+ Sports City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد الخليج — دوري ر
+ وشن السعودي | Tomorrow: Al-Faisaly vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × الخليج | Kick-off in 30 min: Al-Faisaly vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021500@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Al Khaleej vs Al Diriyah — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021500
+DESCRIPTION:⚽ الخليج × الدرعية\n🏆 دوري روشن ال
+ سعودي — الجولة 16\n🗓 الخميس 3 ديسمبر 2026 · 0
+ 3:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Da
+ mmam\n—————\n⚽ Al Khaleej v Al Diriyah\n🏆 Saudi Pro League 
+ — Matchday 16\n🗓 Thu 03 Dec 2026 · 00:00 UTC\n🏟 Prince Mohammed B
+ in Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد الدرعية — دوري ر
+ وشن السعودي | Tomorrow: Al Khaleej vs Al Diriyah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × الدرعية | Kick-off in 30 min: Al Khaleej vs Al Diriyah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021510@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Al Qadsiah vs Al Khaleej — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021510
+DESCRIPTION:⚽ القادسية × الخليج\n🏆 دوري روشن ا
+ لسعودي — الجولة 17\n🗓 الخميس 10 ديسمبر 2026 
+ · 03:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium
+ ، Dammam\n—————\n⚽ Al Qadsiah v Al Khaleej\n🏆 Saudi Pro Le
+ ague — Matchday 17\n🗓 Thu 10 Dec 2026 · 00:00 UTC\n🏟 Prince Moham
+ med Bin Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الخليج — دوري 
+ روشن السعودي | Tomorrow: Al Qadsiah vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الخليج | Kick-off in 30 min: Al Qadsiah vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021517@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261214T000000Z
+DTEND:20261214T020000Z
+SUMMARY:Al Khaleej vs Al-Taawoun — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021517
+DESCRIPTION:⚽ الخليج × التعاون\n🏆 دوري روشن ال
+ سعودي — الجولة 18\n🗓 الاثنين 14 ديسمبر 2026 
+ · 03:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium
+ ، Dammam\n—————\n⚽ Al Khaleej v Al-Taawoun\n🏆 Saudi Pro Le
+ ague — Matchday 18\n🗓 Mon 14 Dec 2026 · 00:00 UTC\n🏟 Prince Moham
+ med Bin Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد التعاون — دوري ر
+ وشن السعودي | Tomorrow: Al Khaleej vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × التعاون | Kick-off in 30 min: Al Khaleej vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021527@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270211T000000Z
+DTEND:20270211T020000Z
+SUMMARY:Al Shabab vs Al Khaleej — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/1000021527
+DESCRIPTION:⚽ الشباب × الخليج\n🏆 دوري روشن الس
+ عودي — الجولة 19\n🗓 الخميس 11 فبراير 2027 · 03
+ :00 بتوقيت الرياض\n🏟 SHG Arena، Riyadh\n—————\n
+ ⚽ Al Shabab v Al Khaleej\n🏆 Saudi Pro League — Matchday 19\n🗓 Th
+ u 11 Feb 2027 · 00:00 UTC\n🏟 SHG Arena, Riyadh\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد الخليج — دوري رو
+ شن السعودي | Tomorrow: Al Shabab vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × الخليج | Kick-off in 30 min: Al Shabab vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021535@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270218T000000Z
+DTEND:20270218T020000Z
+SUMMARY:Al Khaleej vs Abha — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021535
+DESCRIPTION:⚽ الخليج × أبها\n🏆 دوري روشن السعو
+ دي — الجولة 20\n🗓 الخميس 18 فبراير 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Dammam\
+ n—————\n⚽ Al Khaleej v Abha\n🏆 Saudi Pro League — Matchda
+ y 20\n🗓 Thu 18 Feb 2027 · 00:00 UTC\n🏟 Prince Mohammed Bin Fahd Sta
+ dium, Dammam\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد أبها — دوري روشن 
+ السعودي | Tomorrow: Al Khaleej vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × أبها | Kick-off in 30 min: Al Khaleej vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021542@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270225T000000Z
+DTEND:20270225T020000Z
+SUMMARY:Al Hilal vs Al Khaleej — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/1000021542
+DESCRIPTION:⚽ الهلال × الخليج\n🏆 دوري روشن الس
+ عودي — الجولة 21\n🗓 الخميس 25 فبراير 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n————
+ —\n⚽ Al Hilal v Al Khaleej\n🏆 Saudi Pro League — Matchday 21\n
+ 🗓 Thu 25 Feb 2027 · 00:00 UTC\n🏟 Kingdom Arena, Riyadh\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الخليج — دوري رو
+ شن السعودي | Tomorrow: Al Hilal vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الخليج | Kick-off in 30 min: Al Hilal vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021553@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270311T000000Z
+DTEND:20270311T020000Z
+SUMMARY:Al Khaleej vs Neom SC — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021553
+DESCRIPTION:⚽ الخليج × نيوم\n🏆 دوري روشن السعو
+ دي — الجولة 22\n🗓 الخميس 11 مارس 2027 · 03:00 بت
+ وقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Dammam\n—
+ ————\n⚽ Al Khaleej v Neom SC\n🏆 Saudi Pro League — Matchday
+  22\n🗓 Thu 11 Mar 2027 · 00:00 UTC\n🏟 Prince Mohammed Bin Fahd Stad
+ ium, Dammam\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد نيوم — دوري روشن 
+ السعودي | Tomorrow: Al Khaleej vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × نيوم | Kick-off in 30 min: Al Khaleej vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021562@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270318T000000Z
+DTEND:20270318T020000Z
+SUMMARY:Al Riyadh vs Al Khaleej — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/1000021562
+DESCRIPTION:⚽ الرياض × الخليج\n🏆 دوري روشن الس
+ عودي — الجولة 23\n🗓 الخميس 18 مارس 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، Riyadh\n
+ —————\n⚽ Al Riyadh v Al Khaleej\n🏆 Saudi Pro League — Mat
+ chday 23\n🗓 Thu 18 Mar 2027 · 00:00 UTC\n🏟 Prince Faisal bin Fahd S
+ tadium, Riyadh\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الخليج — دوري رو
+ شن السعودي | Tomorrow: Al Riyadh vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الخليج | Kick-off in 30 min: Al Riyadh vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021575@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270402T000000Z
+DTEND:20270402T020000Z
+SUMMARY:Al Nassr FC vs Al Khaleej — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021575
+DESCRIPTION:⚽ النصر × الخليج\n🏆 دوري روشن السع
+ ودي — الجولة 24\n🗓 الجمعة 2 أبريل 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n—————\n
+ ⚽ Al Nassr FC v Al Khaleej\n🏆 Saudi Pro League — Matchday 24\n🗓 
+ Fri 02 Apr 2027 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الخليج — دوري روش
+ ن السعودي | Tomorrow: Al Nassr FC vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الخليج | Kick-off in 30 min: Al Nassr FC vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021578@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270408T000000Z
+DTEND:20270408T020000Z
+SUMMARY:Al Khaleej vs Al-Ettifaq — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021578
+DESCRIPTION:⚽ الخليج × الاتفاق\n🏆 دوري روشن ال
+ سعودي — الجولة 25\n🗓 الخميس 8 أبريل 2027 · 03:
+ 00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Damm
+ am\n—————\n⚽ Al Khaleej v Al-Ettifaq\n🏆 Saudi Pro League 
+ — Matchday 25\n🗓 Thu 08 Apr 2027 · 00:00 UTC\n🏟 Prince Mohammed B
+ in Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد الاتفاق — دوري ر
+ وشن السعودي | Tomorrow: Al Khaleej vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × الاتفاق | Kick-off in 30 min: Al Khaleej vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021588@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270415T000000Z
+DTEND:20270415T020000Z
+SUMMARY:Al-Fayha vs Al Khaleej — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021588
+DESCRIPTION:⚽ الفيحاء × الخليج\n🏆 دوري روشن ال
+ سعودي — الجولة 26\n🗓 الخميس 15 أبريل 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al M
+ ajma'ah\n—————\n⚽ Al-Fayha v Al Khaleej\n🏆 Saudi Pro League
+  — Matchday 26\n🗓 Thu 15 Apr 2027 · 00:00 UTC\n🏟 Al Majma'ah Spor
+ ts City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد الخليج — دوري ر
+ وشن السعودي | Tomorrow: Al-Fayha vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × الخليج | Kick-off in 30 min: Al-Fayha vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021597@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T000000Z
+DTEND:20270418T020000Z
+SUMMARY:Al Khaleej vs Al Fateh FC — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021597
+DESCRIPTION:⚽ الخليج × الفتح\n🏆 دوري روشن السع
+ ودي — الجولة 27\n🗓 الأحد 18 أبريل 2027 · 03:00 ب
+ توقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Dammam\n
+ —————\n⚽ Al Khaleej v Al Fateh FC\n🏆 Saudi Pro League — M
+ atchday 27\n🗓 Sun 18 Apr 2027 · 00:00 UTC\n🏟 Prince Mohammed Bin Fa
+ hd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد الفتح — دوري روش
+ ن السعودي | Tomorrow: Al Khaleej vs Al Fateh FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × الفتح | Kick-off in 30 min: Al Khaleej vs Al Fateh FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021607@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270422T000000Z
+DTEND:20270422T020000Z
+SUMMARY:Al Khaleej vs Al Ahli — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021607
+DESCRIPTION:⚽ الخليج × الأهلي\n🏆 دوري روشن الس
+ عودي — الجولة 28\n🗓 الخميس 22 أبريل 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Damma
+ m\n—————\n⚽ Al Khaleej v Al Ahli\n🏆 Saudi Pro League — Ma
+ tchday 28\n🗓 Thu 22 Apr 2027 · 00:00 UTC\n🏟 Prince Mohammed Bin Fah
+ d Stadium, Dammam\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد الأهلي — دوري رو
+ شن السعودي | Tomorrow: Al Khaleej vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × الأهلي | Kick-off in 30 min: Al Khaleej vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021615@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270429T000000Z
+DTEND:20270429T020000Z
+SUMMARY:Al Hazem vs Al Khaleej — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021615
+DESCRIPTION:⚽ الحزم × الخليج\n🏆 دوري روشن السع
+ ودي — الجولة 29\n🗓 الخميس 29 أبريل 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، A
+ r Rass\n—————\n⚽ Al Hazem v Al Khaleej\n🏆 Saudi Pro League 
+ — Matchday 29\n🗓 Thu 29 Apr 2027 · 00:00 UTC\n🏟 Ar-Rass Stadium (
+ Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد الخليج — دوري روش
+ ن السعودي | Tomorrow: Al Hazem vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × الخليج | Kick-off in 30 min: Al Hazem vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021623@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270506T000000Z
+DTEND:20270506T020000Z
+SUMMARY:Al Khaleej vs Al Kholood — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021623
+DESCRIPTION:⚽ الخليج × الخلود\n🏆 دوري روشن الس
+ عودي — الجولة 30\n🗓 الخميس 6 مايو 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Dammam\
+ n—————\n⚽ Al Khaleej v Al Kholood\n🏆 Saudi Pro League — M
+ atchday 30\n🗓 Thu 06 May 2027 · 00:00 UTC\n🏟 Prince Mohammed Bin Fa
+ hd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد الخلود — دوري رو
+ شن السعودي | Tomorrow: Al Khaleej vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × الخلود | Kick-off in 30 min: Al Khaleej vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021634@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270512T000000Z
+DTEND:20270512T020000Z
+SUMMARY:Al Ittihad vs Al Khaleej — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021634
+DESCRIPTION:⚽ الاتحاد × الخليج\n🏆 دوري روشن ال
+ سعودي — الجولة 31\n🗓 الأربعاء 12 مايو 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah
+  Sport City، Jeddah\n—————\n⚽ Al Ittihad v Al Khaleej\n🏆 S
+ audi Pro League — Matchday 31\n🗓 Wed 12 May 2027 · 00:00 UTC\n🏟 A
+ linma Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الخليج — دوري ر
+ وشن السعودي | Tomorrow: Al Ittihad vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الخليج | Kick-off in 30 min: Al Ittihad vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021644@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270520T000000Z
+DTEND:20270520T020000Z
+SUMMARY:Al Khaleej vs Al-Faisaly — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021644
+DESCRIPTION:⚽ الخليج × الفيصلي\n🏆 دوري روشن ال
+ سعودي — الجولة 32\n🗓 الخميس 20 مايو 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Damma
+ m\n—————\n⚽ Al Khaleej v Al-Faisaly\n🏆 Saudi Pro League —
+  Matchday 32\n🗓 Thu 20 May 2027 · 00:00 UTC\n🏟 Prince Mohammed Bin 
+ Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد الفيصلي — دوري ر
+ وشن السعودي | Tomorrow: Al Khaleej vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × الفيصلي | Kick-off in 30 min: Al Khaleej vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021655@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270524T000000Z
+DTEND:20270524T020000Z
+SUMMARY:Al Diriyah vs Al Khaleej — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021655
+DESCRIPTION:⚽ الدرعية × الخليج\n🏆 دوري روشن ال
+ سعودي — الجولة 33\n🗓 الاثنين 24 مايو 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n————
+ —\n⚽ Al Diriyah v Al Khaleej\n🏆 Saudi Pro League — Matchday 33\n
+ 🗓 Mon 24 May 2027 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الدرعية ضد الخليج — دوري ر
+ وشن السعودي | Tomorrow: Al Diriyah vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الدرع
+ ية × الخليج | Kick-off in 30 min: Al Diriyah vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021662@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270528T000000Z
+DTEND:20270528T020000Z
+SUMMARY:Al Khaleej vs Al Qadsiah — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021662
+DESCRIPTION:⚽ الخليج × القادسية\n🏆 دوري روشن ا
+ لسعودي — الجولة 34\n🗓 الجمعة 28 مايو 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Dam
+ mam\n—————\n⚽ Al Khaleej v Al Qadsiah\n🏆 Saudi Pro League 
+ — Matchday 34\n🗓 Fri 28 May 2027 · 00:00 UTC\n🏟 Prince Mohammed B
+ in Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد القادسية — دوري 
+ روشن السعودي | Tomorrow: Al Khaleej vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × القادسية | Kick-off in 30 min: Al Khaleej vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853727@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260818T161500Z
+DTEND:20260818T181500Z
+SUMMARY:Al Akhdoud vs Al Khaleej (2 - 0) — King's Cup
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/5853727
+DESCRIPTION:⚽ الأخدود × الخليج (2 - 0)\n🏆 كأس خاد
+ م الحرمين الشريفين — دور الـ32\n🗓 الثلاث
+ اء 18 أغسطس 2026 · 19:15 بتوقيت الرياض\n🏟 Prince Su
+ ltan bin Abdulaziz Sports City Stadium، Abha\n⚖️ الحكم: Fraih Al
+  Jaloud\n—————\n⚽ Al Akhdoud v Al Khaleej (2 - 0)\n🏆 King's
+  Cup — Round of 32\n🗓 Tue 18 Aug 2026 · 16:15 UTC\n🏟 Prince Sulta
+ n bin Abdulaziz Sports City Stadium, Abha\nReferee: Fraih Al Jaloud\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأخدود ضد الخليج — كأس خا
+ دم الحرمين الشريفين | Tomorrow: Al Akhdoud vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأخد
+ ود × الخليج | Kick-off in 30 min: Al Akhdoud vs Al Khaleej
+END:VALARM
+END:VEVENT
+END:VCALENDAR

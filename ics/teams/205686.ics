@@ -1,0 +1,1159 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al-Taawoun — Saudi Pro League & King's Cup Fixtures | ا
+ لتعاون — مباريات دوري روشن السعودي وكأس 
+ خادم الحرمين الشريفين
+X-WR-CALDESC:Al-Taawoun — all matches in Saudi Pro League & King's Cup\, 
+ exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updat
+ ed 2026-09-05T19:31:10Z.  •  التعاون — جميع المباري
+ ات في دوري روشن السعودي وكأس خادم الحرمي
+ ن الشريفين بتوقيت UTC الدقيق مع الملاعب وا
+ لقنوات الناقلة. المصدر: FotMob + 365scores · تحدي
+ ث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5969052@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260815T161500Z
+DTEND:20260815T181500Z
+SUMMARY:Al-Taawoun vs Al Khaleej (0 - 0) — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/5969052
+DESCRIPTION:⚽ التعاون × الخليج (0 - 0)\n🏆 دوري رو
+ شن السعودي — الجولة 1\n🗓 السبت 15 أغسطس 2026
+  · 19:15 بتوقيت الرياض\n🏟 Al Taawoun Club Stadium، Burayd
+ ah\n⚖️ الحكم: Mohammed Sami Taher Al Ismail\n👥 الحضور: 3
+ ,007\n—————\n⚽ Al-Taawoun v Al Khaleej (0 - 0)\n🏆 Saudi Pro
+  League — Matchday 1\n🗓 Sat 15 Aug 2026 · 16:15 UTC\n🏟 Al Taawoun
+  Club Stadium, Buraydah\nReferee: Mohammed Sami Taher Al Ismail\nAttendanc
+ e: 3,007\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الخليج — دوري ر
+ وشن السعودي | Tomorrow: Al-Taawoun vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الخليج | Kick-off in 30 min: Al-Taawoun vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970096@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T161000Z
+DTEND:20260822T181000Z
+SUMMARY:Al Kholood vs Al-Taawoun (3 - 2) — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/5970096
+DESCRIPTION:⚽ الخلود × التعاون (3 - 2)\n🏆 دوري رو
+ شن السعودي — الجولة 2\n🗓 السبت 22 أغسطس 2026
+  · 19:10 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club St
+ adium)، Ar Rass\n⚖️ الحكم: Mohammed Al Hoaish\n👥 الحضور
+ : 1,224\n—————\n⚽ Al Kholood v Al-Taawoun (3 - 2)\n🏆 Saudi 
+ Pro League — Matchday 2\n🗓 Sat 22 Aug 2026 · 16:10 UTC\n🏟 Ar-Rass
+  Stadium (Al Hazm Club Stadium), Ar Rass\nReferee: Mohammed Al Hoaish\nAtt
+ endance: 1,224\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد التعاون — دوري ر
+ وشن السعودي | Tomorrow: Al Kholood vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × التعاون | Kick-off in 30 min: Al Kholood vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970102@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260825T161000Z
+DTEND:20260825T181000Z
+SUMMARY:Al-Taawoun vs Al-Fayha (0 - 0) — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/5970102
+DESCRIPTION:⚽ التعاون × الفيحاء (0 - 0)\n🏆 دوري ر
+ وشن السعودي — الجولة 3\n🗓 الثلاثاء 25 أغس
+ طس 2026 · 19:10 بتوقيت الرياض\n🏟 Al Taawoun Club Stadium
+ ، Buraydah\n⚖️ الحكم: Shukri Al-Hunfush\n👥 الحضور: 3,43
+ 1\n—————\n⚽ Al-Taawoun v Al-Fayha (0 - 0)\n🏆 Saudi Pro Leag
+ ue — Matchday 3\n🗓 Tue 25 Aug 2026 · 16:10 UTC\n🏟 Al Taawoun Club
+  Stadium, Buraydah\nReferee: Shukri Al-Hunfush\nAttendance: 3,431\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الفيحاء — دوري 
+ روشن السعودي | Tomorrow: Al-Taawoun vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الفيحاء | Kick-off in 30 min: Al-Taawoun vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970110@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260828T180000Z
+DTEND:20260828T200000Z
+SUMMARY:Al Nassr FC vs Al-Taawoun (2 - 1) — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/5970110
+DESCRIPTION:⚽ النصر × التعاون (2 - 1)\n🏆 دوري روش
+ ن السعودي — الجولة 4\n🗓 الجمعة 28 أغسطس 2026
+  · 21:00 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n⚖️ 
+ الحكم: Abdullah Al Shehri\n👥 الحضور: 24,624\n—————
+ \n⚽ Al Nassr FC v Al-Taawoun (2 - 1)\n🏆 Saudi Pro League — Matchday
+  4\n🗓 Fri 28 Aug 2026 · 18:00 UTC\n🏟 Al-Awwal Park, Riyadh\nReferee
+ : Abdullah Al Shehri\nAttendance: 24,624\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد التعاون — دوري رو
+ شن السعودي | Tomorrow: Al Nassr FC vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × التعاون | Kick-off in 30 min: Al Nassr FC vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970124@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T155500Z
+DTEND:20260905T175500Z
+SUMMARY:Al-Taawoun vs Al Fateh FC (0 - 0) — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/5970124
+DESCRIPTION:⚽ التعاون × الفتح (0 - 0)\n🏆 دوري روش
+ ن السعودي — الجولة 5\n🗓 السبت 5 سبتمبر 2026 
+ · 18:55 بتوقيت الرياض\n🏟 Al Taawoun Club Stadium، Burayda
+ h\n📺 تطبيق ثمانية، ثمانية 2\n⚖️ الحكم: Khali
+ d Al Ahmari\n—————\n⚽ Al-Taawoun v Al Fateh FC (0 - 0)\n🏆 S
+ audi Pro League — Matchday 5\n🗓 Sat 05 Sep 2026 · 15:55 UTC\n🏟 Al
+  Taawoun Club Stadium, Buraydah\n📺 Thmanyah, Thmanyah 2\nReferee: Khali
+ d Al Ahmari\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الفتح — دوري رو
+ شن السعودي — 📺 تطبيق ثمانية، ثمانية 2 | To
+ morrow: Al-Taawoun vs Al Fateh FC | TV: Thmanyah\, Thmanyah 2
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الفتح — 📺 تطبيق ثمانية، ثمانية 2 | Kic
+ k-off in 30 min: Al-Taawoun vs Al Fateh FC | TV: Thmanyah\, Thmanyah 2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970129@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T155500Z
+DTEND:20260908T175500Z
+SUMMARY:Al Hazem vs Al-Taawoun — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/5970129
+DESCRIPTION:⚽ الحزم × التعاون\n🏆 دوري روشن الس
+ عودي — الجولة 6\n🗓 الثلاثاء 8 سبتمبر 2026 · 
+ 18:55 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadiu
+ m)، Ar Rass\n—————\n⚽ Al Hazem v Al-Taawoun\n🏆 Saudi Pro L
+ eague — Matchday 6\n🗓 Tue 08 Sep 2026 · 15:55 UTC\n🏟 Ar-Rass Stad
+ ium (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد التعاون — دوري رو
+ شن السعودي | Tomorrow: Al Hazem vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × التعاون | Kick-off in 30 min: Al Hazem vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970142@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T155000Z
+DTEND:20260912T175000Z
+SUMMARY:Al-Taawoun vs Al Hilal — Saudi Pro League
+LOCATION:Al-Taawoun Club Stadium
+URL:https://www.fotmob.com/match/5970142
+DESCRIPTION:⚽ التعاون × الهلال\n🏆 دوري روشن ال
+ سعودي — الجولة 7\n🗓 السبت 12 سبتمبر 2026 · 18:
+ 50 بتوقيت الرياض\n🏟 Al-Taawoun Club Stadium\n📺 OneFootba
+ ll PPV\n—————\n⚽ Al-Taawoun v Al Hilal\n🏆 Saudi Pro League 
+ — Matchday 7\n🗓 Sat 12 Sep 2026 · 15:50 UTC\n🏟 Al-Taawoun Club St
+ adium\n📺 OneFootball PPV\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الهلال — دوري ر
+ وشن السعودي — 📺 OneFootball PPV | Tomorrow: Al-Taawoun vs A
+ l Hilal | TV: OneFootball PPV
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الهلال — 📺 OneFootball PPV | Kick-off in 30 min: Al-Taa
+ woun vs Al Hilal | TV: OneFootball PPV
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970152@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T180000Z
+DTEND:20261011T200000Z
+SUMMARY:Al Shabab vs Al-Taawoun — Saudi Pro League
+LOCATION:SHG Arena
+URL:https://www.fotmob.com/match/5970152
+DESCRIPTION:⚽ الشباب × التعاون\n🏆 دوري روشن ال
+ سعودي — الجولة 8\n🗓 الأحد 11 أكتوبر 2026 · 21:
+ 00 بتوقيت الرياض\n🏟 SHG Arena\n—————\n⚽ Al Shab
+ ab v Al-Taawoun\n🏆 Saudi Pro League — Matchday 8\n🗓 Sun 11 Oct 202
+ 6 · 18:00 UTC\n🏟 SHG Arena\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد التعاون — دوري ر
+ وشن السعودي | Tomorrow: Al Shabab vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × التعاون | Kick-off in 30 min: Al Shabab vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970154@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T180000Z
+DTEND:20261017T200000Z
+SUMMARY:Al Diriyah vs Al-Taawoun — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/5970154
+DESCRIPTION:⚽ الدرعية × التعاون\n🏆 دوري روشن ا
+ لسعودي — الجولة 9\n🗓 السبت 17 أكتوبر 2026 · 2
+ 1:00 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n————
+ —\n⚽ Al Diriyah v Al-Taawoun\n🏆 Saudi Pro League — Matchday 9\n
+ 🗓 Sat 17 Oct 2026 · 18:00 UTC\n🏟 Al-Awwal Park, Riyadh\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الدرعية ضد التعاون — دوري 
+ روشن السعودي | Tomorrow: Al Diriyah vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الدرع
+ ية × التعاون | Kick-off in 30 min: Al Diriyah vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970170@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T151000Z
+DTEND:20261020T171000Z
+SUMMARY:Al-Taawoun vs Al Qadsiah — Saudi Pro League
+LOCATION:Al-Taawoun Club Stadium
+URL:https://www.fotmob.com/match/5970170
+DESCRIPTION:⚽ التعاون × القادسية\n🏆 دوري روشن 
+ السعودي — الجولة 10\n🗓 الثلاثاء 20 أكتوبر 
+ 2026 · 18:10 بتوقيت الرياض\n🏟 Al-Taawoun Club Stadium\n—
+ ————\n⚽ Al-Taawoun v Al Qadsiah\n🏆 Saudi Pro League — Match
+ day 10\n🗓 Tue 20 Oct 2026 · 15:10 UTC\n🏟 Al-Taawoun Club Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد القادسية — دوري
+  روشن السعودي | Tomorrow: Al-Taawoun vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × القادسية | Kick-off in 30 min: Al-Taawoun vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970179@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T180000Z
+DTEND:20261024T200000Z
+SUMMARY:Al Riyadh vs Al-Taawoun — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium
+URL:https://www.fotmob.com/match/5970179
+DESCRIPTION:⚽ الرياض × التعاون\n🏆 دوري روشن ال
+ سعودي — الجولة 11\n🗓 السبت 24 أكتوبر 2026 · 21
+ :00 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium\n——
+ ———\n⚽ Al Riyadh v Al-Taawoun\n🏆 Saudi Pro League — Matchday 
+ 11\n🗓 Sat 24 Oct 2026 · 18:00 UTC\n🏟 Prince Faisal bin Fahd Stadium
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد التعاون — دوري ر
+ وشن السعودي | Tomorrow: Al Riyadh vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × التعاون | Kick-off in 30 min: Al Riyadh vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970196@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T133000Z
+DTEND:20261031T153000Z
+SUMMARY:Al-Taawoun vs Al-Ettifaq — Saudi Pro League
+LOCATION:Al-Taawoun Club Stadium
+URL:https://www.fotmob.com/match/5970196
+DESCRIPTION:⚽ التعاون × الاتفاق\n🏆 دوري روشن ا
+ لسعودي — الجولة 12\n🗓 السبت 31 أكتوبر 2026 · 
+ 16:30 بتوقيت الرياض\n🏟 Al-Taawoun Club Stadium\n———
+ ——\n⚽ Al-Taawoun v Al-Ettifaq\n🏆 Saudi Pro League — Matchday 12
+ \n🗓 Sat 31 Oct 2026 · 13:30 UTC\n🏟 Al-Taawoun Club Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الاتفاق — دوري 
+ روشن السعودي | Tomorrow: Al-Taawoun vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الاتفاق | Kick-off in 30 min: Al-Taawoun vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021468@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:Al Ahli vs Al-Taawoun — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021468
+DESCRIPTION:⚽ الأهلي × التعاون\n🏆 دوري روشن ال
+ سعودي — الجولة 13\n🗓 الخميس 5 نوفمبر 2026 · 0
+ 3:00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah 
+ Sport City، Jeddah\n—————\n⚽ Al Ahli v Al-Taawoun\n🏆 Saudi
+  Pro League — Matchday 13\n🗓 Thu 05 Nov 2026 · 00:00 UTC\n🏟 Alinm
+ a Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد التعاون — دوري ر
+ وشن السعودي | Tomorrow: Al Ahli vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × التعاون | Kick-off in 30 min: Al Ahli vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021484@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Al-Taawoun vs Abha — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/1000021484
+DESCRIPTION:⚽ التعاون × أبها\n🏆 دوري روشن السع
+ ودي — الجولة 14\n🗓 الجمعة 20 نوفمبر 2026 · 03:0
+ 0 بتوقيت الرياض\n🏟 Al Taawoun Club Stadium، Buraydah\n—
+ ————\n⚽ Al-Taawoun v Abha\n🏆 Saudi Pro League — Matchday 14
+ \n🗓 Fri 20 Nov 2026 · 00:00 UTC\n🏟 Al Taawoun Club Stadium, Burayda
+ h\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد أبها — دوري روش
+ ن السعودي | Tomorrow: Al-Taawoun vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × أبها | Kick-off in 30 min: Al-Taawoun vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021494@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Neom SC vs Al-Taawoun — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/1000021494
+DESCRIPTION:⚽ نيوم × التعاون\n🏆 دوري روشن السع
+ ودي — الجولة 15\n🗓 الخميس 26 نوفمبر 2026 · 03:0
+ 0 بتوقيت الرياض\n🏟 King Khalid Sport City Stadium، Tabuk\n
+ —————\n⚽ Neom SC v Al-Taawoun\n🏆 Saudi Pro League — Match
+ day 15\n🗓 Thu 26 Nov 2026 · 00:00 UTC\n🏟 King Khalid Sport City Sta
+ dium, Tabuk\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد التعاون — دوري روش
+ ن السعودي | Tomorrow: Neom SC vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  التعاون | Kick-off in 30 min: Neom SC vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021503@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Al-Taawoun vs Al-Faisaly — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/1000021503
+DESCRIPTION:⚽ التعاون × الفيصلي\n🏆 دوري روشن ا
+ لسعودي — الجولة 16\n🗓 الخميس 3 ديسمبر 2026 ·
+  03:00 بتوقيت الرياض\n🏟 Al Taawoun Club Stadium، Buraydah\
+ n—————\n⚽ Al-Taawoun v Al-Faisaly\n🏆 Saudi Pro League — M
+ atchday 16\n🗓 Thu 03 Dec 2026 · 00:00 UTC\n🏟 Al Taawoun Club Stadiu
+ m, Buraydah\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الفيصلي — دوري 
+ روشن السعودي | Tomorrow: Al-Taawoun vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الفيصلي | Kick-off in 30 min: Al-Taawoun vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021506@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Al Ittihad vs Al-Taawoun — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021506
+DESCRIPTION:⚽ الاتحاد × التعاون\n🏆 دوري روشن ا
+ لسعودي — الجولة 17\n🗓 الخميس 10 ديسمبر 2026 
+ · 03:00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdul
+ lah Sport City، Jeddah\n—————\n⚽ Al Ittihad v Al-Taawoun\n
+ 🏆 Saudi Pro League — Matchday 17\n🗓 Thu 10 Dec 2026 · 00:00 UTC\n
+ 🏟 Alinma Bank Stadium at King Abdullah Sport City, Jeddah\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد التعاون — دوري 
+ روشن السعودي | Tomorrow: Al Ittihad vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × التعاون | Kick-off in 30 min: Al Ittihad vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021517@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261214T000000Z
+DTEND:20261214T020000Z
+SUMMARY:Al Khaleej vs Al-Taawoun — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021517
+DESCRIPTION:⚽ الخليج × التعاون\n🏆 دوري روشن ال
+ سعودي — الجولة 18\n🗓 الاثنين 14 ديسمبر 2026 
+ · 03:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium
+ ، Dammam\n—————\n⚽ Al Khaleej v Al-Taawoun\n🏆 Saudi Pro Le
+ ague — Matchday 18\n🗓 Mon 14 Dec 2026 · 00:00 UTC\n🏟 Prince Moham
+ med Bin Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد التعاون — دوري ر
+ وشن السعودي | Tomorrow: Al Khaleej vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × التعاون | Kick-off in 30 min: Al Khaleej vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021528@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270211T000000Z
+DTEND:20270211T020000Z
+SUMMARY:Al-Taawoun vs Al Kholood — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/1000021528
+DESCRIPTION:⚽ التعاون × الخلود\n🏆 دوري روشن ال
+ سعودي — الجولة 19\n🗓 الخميس 11 فبراير 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Al Taawoun Club Stadium، Buraydah\n
+ —————\n⚽ Al-Taawoun v Al Kholood\n🏆 Saudi Pro League — Ma
+ tchday 19\n🗓 Thu 11 Feb 2027 · 00:00 UTC\n🏟 Al Taawoun Club Stadium
+ , Buraydah\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الخلود — دوري ر
+ وشن السعودي | Tomorrow: Al-Taawoun vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الخلود | Kick-off in 30 min: Al-Taawoun vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021533@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270218T000000Z
+DTEND:20270218T020000Z
+SUMMARY:Al-Fayha vs Al-Taawoun — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021533
+DESCRIPTION:⚽ الفيحاء × التعاون\n🏆 دوري روشن ا
+ لسعودي — الجولة 20\n🗓 الخميس 18 فبراير 2027 
+ · 03:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium،
+  Al Majma'ah\n—————\n⚽ Al-Fayha v Al-Taawoun\n🏆 Saudi Pro L
+ eague — Matchday 20\n🗓 Thu 18 Feb 2027 · 00:00 UTC\n🏟 Al Majma'ah
+  Sports City Stadium, Al Majma'ah\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد التعاون — دوري 
+ روشن السعودي | Tomorrow: Al-Fayha vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × التعاون | Kick-off in 30 min: Al-Fayha vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021546@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270225T000000Z
+DTEND:20270225T020000Z
+SUMMARY:Al-Taawoun vs Al Nassr FC — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/1000021546
+DESCRIPTION:⚽ التعاون × النصر\n🏆 دوري روشن الس
+ عودي — الجولة 21\n🗓 الخميس 25 فبراير 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al Taawoun Club Stadium، Buraydah\n
+ —————\n⚽ Al-Taawoun v Al Nassr FC\n🏆 Saudi Pro League — M
+ atchday 21\n🗓 Thu 25 Feb 2027 · 00:00 UTC\n🏟 Al Taawoun Club Stadiu
+ m, Buraydah\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد النصر — دوري رو
+ شن السعودي | Tomorrow: Al-Taawoun vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × النصر | Kick-off in 30 min: Al-Taawoun vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021550@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270311T000000Z
+DTEND:20270311T020000Z
+SUMMARY:Al Fateh FC vs Al-Taawoun — Saudi Pro League
+LOCATION:Maydan Tamweel Aloula\, Al Ahsa\, Saudi Arabia
+GEO:25.429604;49.581390
+URL:https://www.fotmob.com/match/1000021550
+DESCRIPTION:⚽ الفتح × التعاون\n🏆 دوري روشن الس
+ عودي — الجولة 22\n🗓 الخميس 11 مارس 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Maydan Tamweel Aloula، Al Ahsa\n———
+ ——\n⚽ Al Fateh FC v Al-Taawoun\n🏆 Saudi Pro League — Matchday 2
+ 2\n🗓 Thu 11 Mar 2027 · 00:00 UTC\n🏟 Maydan Tamweel Aloula, Al Ahsa\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفتح ضد التعاون — دوري رو
+ شن السعودي | Tomorrow: Al Fateh FC vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفتح 
+ × التعاون | Kick-off in 30 min: Al Fateh FC vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021564@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270318T000000Z
+DTEND:20270318T020000Z
+SUMMARY:Al-Taawoun vs Al Hazem — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/1000021564
+DESCRIPTION:⚽ التعاون × الحزم\n🏆 دوري روشن الس
+ عودي — الجولة 23\n🗓 الخميس 18 مارس 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Al Taawoun Club Stadium، Buraydah\n——
+ ———\n⚽ Al-Taawoun v Al Hazem\n🏆 Saudi Pro League — Matchday 2
+ 3\n🗓 Thu 18 Mar 2027 · 00:00 UTC\n🏟 Al Taawoun Club Stadium, Burayd
+ ah\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الحزم — دوري رو
+ شن السعودي | Tomorrow: Al-Taawoun vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الحزم | Kick-off in 30 min: Al-Taawoun vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021572@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270402T000000Z
+DTEND:20270402T020000Z
+SUMMARY:Al Hilal vs Al-Taawoun — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/1000021572
+DESCRIPTION:⚽ الهلال × التعاون\n🏆 دوري روشن ال
+ سعودي — الجولة 24\n🗓 الجمعة 2 أبريل 2027 · 03:
+ 00 بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n—————
+ \n⚽ Al Hilal v Al-Taawoun\n🏆 Saudi Pro League — Matchday 24\n🗓 F
+ ri 02 Apr 2027 · 00:00 UTC\n🏟 Kingdom Arena, Riyadh\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد التعاون — دوري ر
+ وشن السعودي | Tomorrow: Al Hilal vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × التعاون | Kick-off in 30 min: Al Hilal vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021582@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270408T000000Z
+DTEND:20270408T020000Z
+SUMMARY:Al-Taawoun vs Al Shabab — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/1000021582
+DESCRIPTION:⚽ التعاون × الشباب\n🏆 دوري روشن ال
+ سعودي — الجولة 25\n🗓 الخميس 8 أبريل 2027 · 03:
+ 00 بتوقيت الرياض\n🏟 Al Taawoun Club Stadium، Buraydah\n—
+ ————\n⚽ Al-Taawoun v Al Shabab\n🏆 Saudi Pro League — Matchd
+ ay 25\n🗓 Thu 08 Apr 2027 · 00:00 UTC\n🏟 Al Taawoun Club Stadium, Bu
+ raydah\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الشباب — دوري ر
+ وشن السعودي | Tomorrow: Al-Taawoun vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الشباب | Kick-off in 30 min: Al-Taawoun vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021593@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270415T000000Z
+DTEND:20270415T020000Z
+SUMMARY:Al-Taawoun vs Al Diriyah — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/1000021593
+DESCRIPTION:⚽ التعاون × الدرعية\n🏆 دوري روشن ا
+ لسعودي — الجولة 26\n🗓 الخميس 15 أبريل 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Al Taawoun Club Stadium، Buraydah\n
+ —————\n⚽ Al-Taawoun v Al Diriyah\n🏆 Saudi Pro League — Ma
+ tchday 26\n🗓 Thu 15 Apr 2027 · 00:00 UTC\n🏟 Al Taawoun Club Stadium
+ , Buraydah\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الدرعية — دوري 
+ روشن السعودي | Tomorrow: Al-Taawoun vs Al Diriyah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الدرعية | Kick-off in 30 min: Al-Taawoun vs Al Diriyah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021600@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T000000Z
+DTEND:20270418T020000Z
+SUMMARY:Al Qadsiah vs Al-Taawoun — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021600
+DESCRIPTION:⚽ القادسية × التعاون\n🏆 دوري روشن 
+ السعودي — الجولة 27\n🗓 الأحد 18 أبريل 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، D
+ ammam\n—————\n⚽ Al Qadsiah v Al-Taawoun\n🏆 Saudi Pro League
+  — Matchday 27\n🗓 Sun 18 Apr 2027 · 00:00 UTC\n🏟 Prince Mohammed 
+ Bin Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد التعاون — دوري
+  روشن السعودي | Tomorrow: Al Qadsiah vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × التعاون | Kick-off in 30 min: Al Qadsiah vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021610@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270422T000000Z
+DTEND:20270422T020000Z
+SUMMARY:Al-Taawoun vs Al Riyadh — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/1000021610
+DESCRIPTION:⚽ التعاون × الرياض\n🏆 دوري روشن ال
+ سعودي — الجولة 28\n🗓 الخميس 22 أبريل 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al Taawoun Club Stadium، Buraydah\n
+ —————\n⚽ Al-Taawoun v Al Riyadh\n🏆 Saudi Pro League — Mat
+ chday 28\n🗓 Thu 22 Apr 2027 · 00:00 UTC\n🏟 Al Taawoun Club Stadium,
+  Buraydah\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الرياض — دوري ر
+ وشن السعودي | Tomorrow: Al-Taawoun vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الرياض | Kick-off in 30 min: Al-Taawoun vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021613@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270429T000000Z
+DTEND:20270429T020000Z
+SUMMARY:Al-Ettifaq vs Al-Taawoun — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/1000021613
+DESCRIPTION:⚽ الاتفاق × التعاون\n🏆 دوري روشن ا
+ لسعودي — الجولة 29\n🗓 الخميس 29 أبريل 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Dammam\n
+ —————\n⚽ Al-Ettifaq v Al-Taawoun\n🏆 Saudi Pro League — Ma
+ tchday 29\n🗓 Thu 29 Apr 2027 · 00:00 UTC\n🏟 Al Ettifaq Club Stadium
+ , Dammam\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد التعاون — دوري 
+ روشن السعودي | Tomorrow: Al-Ettifaq vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × التعاون | Kick-off in 30 min: Al-Ettifaq vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021627@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270506T000000Z
+DTEND:20270506T020000Z
+SUMMARY:Al-Taawoun vs Al Ahli — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/1000021627
+DESCRIPTION:⚽ التعاون × الأهلي\n🏆 دوري روشن ال
+ سعودي — الجولة 30\n🗓 الخميس 6 مايو 2027 · 03:00
+  بتوقيت الرياض\n🏟 Al Taawoun Club Stadium، Buraydah\n—
+ ————\n⚽ Al-Taawoun v Al Ahli\n🏆 Saudi Pro League — Matchday
+  30\n🗓 Thu 06 May 2027 · 00:00 UTC\n🏟 Al Taawoun Club Stadium, Bura
+ ydah\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الأهلي — دوري ر
+ وشن السعودي | Tomorrow: Al-Taawoun vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الأهلي | Kick-off in 30 min: Al-Taawoun vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021630@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270512T000000Z
+DTEND:20270512T020000Z
+SUMMARY:Abha vs Al-Taawoun — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/1000021630
+DESCRIPTION:⚽ أبها × التعاون\n🏆 دوري روشن السع
+ ودي — الجولة 31\n🗓 الأربعاء 12 مايو 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sports City 
+ Stadium، Abha\n—————\n⚽ Abha v Al-Taawoun\n🏆 Saudi Pro Lea
+ gue — Matchday 31\n🗓 Wed 12 May 2027 · 00:00 UTC\n🏟 Prince Sultan
+  bin Abdulaziz Sports City Stadium, Abha\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد التعاون — دوري روش
+ ن السعودي | Tomorrow: Abha vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  التعاون | Kick-off in 30 min: Abha vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021647@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270520T000000Z
+DTEND:20270520T020000Z
+SUMMARY:Al-Taawoun vs Neom SC — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/1000021647
+DESCRIPTION:⚽ التعاون × نيوم\n🏆 دوري روشن السع
+ ودي — الجولة 32\n🗓 الخميس 20 مايو 2027 · 03:00 ب
+ توقيت الرياض\n🏟 Al Taawoun Club Stadium، Buraydah\n——
+ ———\n⚽ Al-Taawoun v Neom SC\n🏆 Saudi Pro League — Matchday 32
+ \n🗓 Thu 20 May 2027 · 00:00 UTC\n🏟 Al Taawoun Club Stadium, Burayda
+ h\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد نيوم — دوري روش
+ ن السعودي | Tomorrow: Al-Taawoun vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × نيوم | Kick-off in 30 min: Al-Taawoun vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021652@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270524T000000Z
+DTEND:20270524T020000Z
+SUMMARY:Al-Faisaly vs Al-Taawoun — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021652
+DESCRIPTION:⚽ الفيصلي × التعاون\n🏆 دوري روشن ا
+ لسعودي — الجولة 33\n🗓 الاثنين 24 مايو 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al
+  Majma'ah\n—————\n⚽ Al-Faisaly v Al-Taawoun\n🏆 Saudi Pro Le
+ ague — Matchday 33\n🗓 Mon 24 May 2027 · 00:00 UTC\n🏟 Al Majma'ah 
+ Sports City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد التعاون — دوري 
+ روشن السعودي | Tomorrow: Al-Faisaly vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × التعاون | Kick-off in 30 min: Al-Faisaly vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021665@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270528T000000Z
+DTEND:20270528T020000Z
+SUMMARY:Al-Taawoun vs Al Ittihad — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/1000021665
+DESCRIPTION:⚽ التعاون × الاتحاد\n🏆 دوري روشن ا
+ لسعودي — الجولة 34\n🗓 الجمعة 28 مايو 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al Taawoun Club Stadium، Buraydah\n
+ —————\n⚽ Al-Taawoun v Al Ittihad\n🏆 Saudi Pro League — Ma
+ tchday 34\n🗓 Fri 28 May 2027 · 00:00 UTC\n🏟 Al Taawoun Club Stadium
+ , Buraydah\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الاتحاد — دوري 
+ روشن السعودي | Tomorrow: Al-Taawoun vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الاتحاد | Kick-off in 30 min: Al-Taawoun vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853728@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260819T161500Z
+DTEND:20260819T181500Z
+SUMMARY:Damac FC vs Al-Taawoun (0 - 3) — King's Cup
+LOCATION:Dhamak Club Stadium\, Khamis Mushait\, Saudi Arabia
+GEO:18.290350;42.726656
+URL:https://www.fotmob.com/match/5853728
+DESCRIPTION:⚽ ضمك × التعاون (0 - 3)\n🏆 كأس خادم ال
+ حرمين الشريفين — دور الـ32\n🗓 الأربعاء 19 
+ أغسطس 2026 · 19:15 بتوقيت الرياض\n🏟 Dhamak Club Stadi
+ um، Khamis Mushait\n⚖️ الحكم: Abdullah Al-Khurbush\n————
+ —\n⚽ Damac FC v Al-Taawoun (0 - 3)\n🏆 King's Cup — Round of 32\n
+ 🗓 Wed 19 Aug 2026 · 16:15 UTC\n🏟 Dhamak Club Stadium, Khamis Mushai
+ t\nReferee: Abdullah Al-Khurbush\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ضمك ضد التعاون — كأس خادم ا
+ لحرمين الشريفين | Tomorrow: Damac FC vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ضمك × 
+ التعاون | Kick-off in 30 min: Damac FC vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6125933@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Al-Taawoun vs Al-Wehda — King's Cup
+URL:https://www.fotmob.com/match/6125933
+DESCRIPTION:⚽ التعاون × الوحدة\n🏆 كأس خادم الح
+ رمين الشريفين — دور الـ16\n🗓 الثلاثاء 1 د
+ يسمبر 2026 · 20:00 بتوقيت الرياض\n—————\n⚽ A
+ l-Taawoun v Al-Wehda\n🏆 King's Cup — Round of 16\n🗓 Tue 01 Dec 202
+ 6 · 17:00 UTC\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الوحدة — كأس خا
+ دم الحرمين الشريفين | Tomorrow: Al-Taawoun vs Al-Wehda
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الوحدة | Kick-off in 30 min: Al-Taawoun vs Al-Wehda
+END:VALARM
+END:VEVENT
+END:VCALENDAR

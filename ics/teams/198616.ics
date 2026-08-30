@@ -1,0 +1,292 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Shanghai Port — AFC Champions League Elite Fixtures | ش
+ نغهاي بورت — مباريات دوري أبطال آسيا للن
+ خبة
+X-WR-CALDESC:Shanghai Port — all matches in AFC Champions League Elite\, 
+ exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updat
+ ed 2026-09-05T19:31:10Z.  •  شنغهاي بورت — جميع المب
+ اريات في دوري أبطال آسيا للنخبة بتوقيت UTC
+  الدقيق مع الملاعب والقنوات الناقلة. الم
+ صدر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6049979@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260915T100000Z
+DTEND:20260915T120000Z
+SUMMARY:Ratchaburi FC vs Shanghai Port — AFC Champions League Elite
+LOCATION:Ratchaburi Stadium\, Ratchaburi\, Thailand
+GEO:13.521608;99.769846
+URL:https://www.fotmob.com/match/6049979
+DESCRIPTION:⚽ راتشابوري × شنغهاي بورت\n🏆 دوري 
+ أبطال آسيا للنخبة — الجولة 1\n🗓 الثلاثاء
+  15 سبتمبر 2026 · 13:00 بتوقيت الرياض\n🏟 Ratchaburi 
+ Stadium، Ratchaburi\n—————\n⚽ Ratchaburi FC v Shanghai Port\n
+ 🏆 AFC Champions League Elite — Matchday 1\n🗓 Tue 15 Sep 2026 · 10
+ :00 UTC\n🏟 Ratchaburi Stadium, Ratchaburi\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راتشابوري ضد شنغهاي بورت —
+  دوري أبطال آسيا للنخبة | Tomorrow: Ratchaburi FC vs Sh
+ anghai Port
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راتشا
+ بوري × شنغهاي بورت | Kick-off in 30 min: Ratchaburi FC vs S
+ hanghai Port
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049989@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261013T100000Z
+DTEND:20261013T120000Z
+SUMMARY:Shanghai Port vs Daejeon Hana Citizen — AFC Champions League Elit
+ e
+LOCATION:SAIC Motor Pudong Arena\, Shanghai\, China
+GEO:31.240638;121.607021
+URL:https://www.fotmob.com/match/6049989
+DESCRIPTION:⚽ شنغهاي بورت × دايجيون سيتيزن\n🏆 
+ دوري أبطال آسيا للنخبة — الجولة 2\n🗓 الث
+ لاثاء 13 أكتوبر 2026 · 13:00 بتوقيت الرياض\n🏟 S
+ AIC Motor Pudong Arena، Shanghai\n—————\n⚽ Shanghai Port v Da
+ ejeon Hana Citizen\n🏆 AFC Champions League Elite — Matchday 2\n🗓 T
+ ue 13 Oct 2026 · 10:00 UTC\n🏟 SAIC Motor Pudong Arena, Shanghai\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شنغهاي بورت ضد دايجيون سيت
+ يزن — دوري أبطال آسيا للنخبة | Tomorrow: Shanghai 
+ Port vs Daejeon Hana Citizen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شنغها
+ ي بورت × دايجيون سيتيزن | Kick-off in 30 min: Shanghai 
+ Port vs Daejeon Hana Citizen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049995@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261027T110000Z
+DTEND:20261027T130000Z
+SUMMARY:Shanghai Port vs Công An Hà Nội — AFC Champions League Elite
+LOCATION:SAIC Motor Pudong Arena\, Shanghai\, China
+GEO:31.240638;121.607021
+URL:https://www.fotmob.com/match/6049995
+DESCRIPTION:⚽ شنغهاي بورت × كونغ آن هانوي\n🏆 د
+ وري أبطال آسيا للنخبة — الجولة 3\n🗓 الثل
+ اثاء 27 أكتوبر 2026 · 14:00 بتوقيت الرياض\n🏟 SAI
+ C Motor Pudong Arena، Shanghai\n—————\n⚽ Shanghai Port v Côn
+ g An Hà Nội\n🏆 AFC Champions League Elite — Matchday 3\n🗓 Tue 2
+ 7 Oct 2026 · 11:00 UTC\n🏟 SAIC Motor Pudong Arena, Shanghai\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شنغهاي بورت ضد كونغ آن هانو
+ ي — دوري أبطال آسيا للنخبة | Tomorrow: Shanghai Port
+  vs Công An Hà Nội
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شنغها
+ ي بورت × كونغ آن هانوي | Kick-off in 30 min: Shanghai Por
+ t vs Công An Hà Nội
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050000@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261103T084500Z
+DTEND:20261103T104500Z
+SUMMARY:Newcastle Jets vs Shanghai Port — AFC Champions League Elite
+LOCATION:McDonald Jones Stadium\, Newcastle\, Australia
+GEO:-32.918895;151.726572
+URL:https://www.fotmob.com/match/6050000
+DESCRIPTION:⚽ نيوكاسل جيتس × شنغهاي بورت\n🏆 دو
+ ري أبطال آسيا للنخبة — الجولة 4\n🗓 الثلا
+ ثاء 3 نوفمبر 2026 · 11:45 بتوقيت الرياض\n🏟 McDona
+ ld Jones Stadium، Newcastle\n—————\n⚽ Newcastle Jets v Shangh
+ ai Port\n🏆 AFC Champions League Elite — Matchday 4\n🗓 Tue 03 Nov 2
+ 026 · 08:45 UTC\n🏟 McDonald Jones Stadium, Newcastle\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل جيتس ضد شنغهاي بور
+ ت — دوري أبطال آسيا للنخبة | Tomorrow: Newcastle Jet
+ s vs Shanghai Port
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل جيتس × شنغهاي بورت | Kick-off in 30 min: Newcastle Jet
+ s vs Shanghai Port
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050013@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261124T131500Z
+DTEND:20261124T151500Z
+SUMMARY:Shanghai Port vs Buriram United — AFC Champions League Elite
+LOCATION:SAIC Motor Pudong Arena\, Shanghai\, China
+GEO:31.240638;121.607021
+URL:https://www.fotmob.com/match/6050013
+DESCRIPTION:⚽ شنغهاي بورت × بوريرام يونايتد\n
+ 🏆 دوري أبطال آسيا للنخبة — الجولة 5\n🗓 ا
+ لثلاثاء 24 نوفمبر 2026 · 16:15 بتوقيت الرياض\n
+ 🏟 SAIC Motor Pudong Arena، Shanghai\n—————\n⚽ Shanghai Por
+ t v Buriram United\n🏆 AFC Champions League Elite — Matchday 5\n🗓 T
+ ue 24 Nov 2026 · 13:15 UTC\n🏟 SAIC Motor Pudong Arena, Shanghai\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شنغهاي بورت ضد بوريرام يون
+ ايتد — دوري أبطال آسيا للنخبة | Tomorrow: Shangha
+ i Port vs Buriram United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شنغها
+ ي بورت × بوريرام يونايتد | Kick-off in 30 min: Shangha
+ i Port vs Buriram United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050017@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261201T110000Z
+DTEND:20261201T130000Z
+SUMMARY:Pohang Steelers vs Shanghai Port — AFC Champions League Elite
+LOCATION:Steelyard\, Pohang\, South Korea
+GEO:35.997738;129.384393
+URL:https://www.fotmob.com/match/6050017
+DESCRIPTION:⚽ بوهانغ ستيليرز × شنغهاي بورت\n🏆 
+ دوري أبطال آسيا للنخبة — الجولة 6\n🗓 الث
+ لاثاء 1 ديسمبر 2026 · 14:00 بتوقيت الرياض\n🏟 St
+ eelyard، Pohang\n—————\n⚽ Pohang Steelers v Shanghai Port\n
+ 🏆 AFC Champions League Elite — Matchday 6\n🗓 Tue 01 Dec 2026 · 11
+ :00 UTC\n🏟 Steelyard, Pohang\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوهانغ ستيليرز ضد شنغهاي ب
+ ورت — دوري أبطال آسيا للنخبة | Tomorrow: Pohang St
+ eelers vs Shanghai Port
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوهان
+ غ ستيليرز × شنغهاي بورت | Kick-off in 30 min: Pohang St
+ eelers vs Shanghai Port
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050027@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270209T110000Z
+DTEND:20270209T130000Z
+SUMMARY:Shanghai Port vs Port FC — AFC Champions League Elite
+LOCATION:SAIC Motor Pudong Arena\, Shanghai\, China
+GEO:31.240638;121.607021
+URL:https://www.fotmob.com/match/6050027
+DESCRIPTION:⚽ شنغهاي بورت × Port FC\n🏆 دوري أبطال 
+ آسيا للنخبة — الجولة 7\n🗓 الثلاثاء 9 فبرا
+ ير 2027 · 14:00 بتوقيت الرياض\n🏟 SAIC Motor Pudong Arena
+ ، Shanghai\n—————\n⚽ Shanghai Port v Port FC\n🏆 AFC Champi
+ ons League Elite — Matchday 7\n🗓 Tue 09 Feb 2027 · 11:00 UTC\n🏟 S
+ AIC Motor Pudong Arena, Shanghai\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شنغهاي بورت ضد Port FC — دوري 
+ أبطال آسيا للنخبة | Tomorrow: Shanghai Port vs Port FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شنغها
+ ي بورت × Port FC | Kick-off in 30 min: Shanghai Port vs Port FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050035@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270216T110000Z
+DTEND:20270216T130000Z
+SUMMARY:Jeonbuk Hyundai Motors FC vs Shanghai Port — AFC Champions League
+  Elite
+LOCATION:Jeonju World Cup Stadium\, Jeonju\, South Korea
+GEO:35.868130;127.064492
+URL:https://www.fotmob.com/match/6050035
+DESCRIPTION:⚽ تشانبوك موتورز × شنغهاي بورت\n🏆 
+ دوري أبطال آسيا للنخبة — الجولة 8\n🗓 الث
+ لاثاء 16 فبراير 2027 · 14:00 بتوقيت الرياض\n🏟 J
+ eonju World Cup Stadium، Jeonju\n—————\n⚽ Jeonbuk Hyundai Mot
+ ors FC v Shanghai Port\n🏆 AFC Champions League Elite — Matchday 8\n
+ 🗓 Tue 16 Feb 2027 · 11:00 UTC\n🏟 Jeonju World Cup Stadium, Jeonju\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشانبوك موتورز ضد شنغهاي ب
+ ورت — دوري أبطال آسيا للنخبة | Tomorrow: Jeonbuk H
+ yundai Motors FC vs Shanghai Port
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشانب
+ وك موتورز × شنغهاي بورت | Kick-off in 30 min: Jeonbuk H
+ yundai Motors FC vs Shanghai Port
+END:VALARM
+END:VEVENT
+END:VCALENDAR

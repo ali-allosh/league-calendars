@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Barnsley — FA Cup Fixtures | Barnsley — مباريات
+  كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Barnsley — all matches in FA Cup\, exact UTC kickoffs\, stad
+ iums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10Z. 
+  •  Barnsley — جميع المباريات في كأس الاتحاد 
+ الإنجليزي بتوقيت UTC الدقيق مع الملاعب وا
+ لقنوات الناقلة. المصدر: FotMob + 365scores · تحدي
+ ث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010624@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Barnsley vs York City (3 - 2) — FA Cup
+LOCATION:Oakwell\, Barnsley\, South Yorkshire\, England
+GEO:53.552294;-1.467644
+URL:https://www.fotmob.com/match/5010624
+DESCRIPTION:⚽ Barnsley × York City (3 - 2)\n🏆 كأس الاتحاد 
+ الإنجليزي — الدور الأول\n🗓 السبت 1 نوفمب
+ ر 2025 · 18:00 بتوقيت الرياض\n🏟 Oakwell، Barnsley, South
+  Yorkshire\n⚖️ الحكم: Michael Barlow\n👥 الحضور: 5,953\n
+ —————\n⚽ Barnsley v York City (3 - 2)\n🏆 FA Cup — Round 1
+ \n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Oakwell, Barnsley, South Yorkshi
+ re\nReferee: Michael Barlow\nAttendance: 5,953\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Barnsley ضد York City — كأس الاتحاد
+  الإنجليزي | Tomorrow: Barnsley vs York City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Barnsley ×
+  York City | Kick-off in 30 min: Barnsley vs York City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040315@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Peterborough United vs Barnsley (0 - 1) — FA Cup
+LOCATION:Weston Homes Stadium\, Peterborough\, England
+GEO:52.564692;-0.240408
+URL:https://www.fotmob.com/match/5040315
+DESCRIPTION:⚽ Peterborough United × Barnsley (0 - 1)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الثاني\n🗓 السبت 6
+  ديسمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Weston Homes S
+ tadium، Peterborough\n⚖️ الحكم: Alan Young\n👥 الحضور: 4
+ ,157\n—————\n⚽ Peterborough United v Barnsley (0 - 1)\n🏆 FA
+  Cup — Round 2\n🗓 Sat 06 Dec 2025 · 15:00 UTC\n🏟 Weston Homes Sta
+ dium, Peterborough\nReferee: Alan Young\nAttendance: 4,157\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Peterborough United ضد Barnsley — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Peterborough United vs Barnsley
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Peterboroug
+ h United × Barnsley | Kick-off in 30 min: Peterborough United vs Barnsley
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089906@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260112T194500Z
+DTEND:20260112T214500Z
+SUMMARY:Liverpool vs Barnsley (4 - 1) — FA Cup
+LOCATION:Anfield\, Liverpool\, England
+GEO:53.430828;-2.960853
+URL:https://www.fotmob.com/match/5089906
+DESCRIPTION:⚽ ليفربول × Barnsley (4 - 1)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الثالث\n🗓 الاثنين 1
+ 2 يناير 2026 · 22:45 بتوقيت الرياض\n🏟 Anfield، Liver
+ pool\n⚖️ الحكم: Farai Hallam\n👥 الحضور: 60,206\n——
+ ———\n⚽ Liverpool v Barnsley (4 - 1)\n🏆 FA Cup — Round 3\n🗓
+  Mon 12 Jan 2026 · 19:45 UTC\n🏟 Anfield, Liverpool\nReferee: Farai Hal
+ lam\nAttendance: 60,206\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد Barnsley — كأس الات
+ حاد الإنجليزي | Tomorrow: Liverpool vs Barnsley
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × Barnsley | Kick-off in 30 min: Liverpool vs Barnsley
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Forest Green Rovers — FA Cup Fixtures | Forest Green Rov
+ ers — مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Forest Green Rovers — all matches in FA Cup\, exact UTC kick
+ offs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T
+ 19:31:10Z.  •  Forest Green Rovers — جميع المباريات في 
+ كأس الاتحاد الإنجليزي بتوقيت UTC الدقيق م
+ ع الملاعب والقنوات الناقلة. المصدر: FotMob + 
+ 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010617@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251031T193000Z
+DTEND:20251031T213000Z
+SUMMARY:Luton Town vs Forest Green Rovers (4 - 3) — FA Cup
+LOCATION:Kenilworth Road\, Luton\, Bedfordshire\, England
+GEO:51.884227;-0.431782
+URL:https://www.fotmob.com/match/5010617
+DESCRIPTION:⚽ Luton Town × Forest Green Rovers (4 - 3)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الأول\n🗓 الجمعة
+  31 أكتوبر 2025 · 22:30 بتوقيت الرياض\n🏟 Kenilworth 
+ Road، Luton, Bedfordshire\n⚖️ الحكم: Stephen Parkinson\n👥 ا
+ لحضور: 4,511\n—————\n⚽ Luton Town v Forest Green Rovers (
+ 4 - 3)\n🏆 FA Cup — Round 1\n🗓 Fri 31 Oct 2025 · 19:30 UTC\n🏟 K
+ enilworth Road, Luton, Bedfordshire\nReferee: Stephen Parkinson\nAttendanc
+ e: 4,511\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Luton Town ضد Forest Green Rovers — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Luton Town vs Forest Green Rov
+ ers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Luton Town 
+ × Forest Green Rovers | Kick-off in 30 min: Luton Town vs Forest Green Ro
+ vers
+END:VALARM
+END:VEVENT
+END:VCALENDAR

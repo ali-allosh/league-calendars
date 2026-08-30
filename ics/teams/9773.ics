@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ FC Porto — UEFA Champions League Fixtures | بورتو 
+ — مباريات دوري أبطال أوروبا
+X-WR-CALDESC:FC Porto — all matches in UEFA Champions League\, exact UTC 
+ kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09
+ -05T19:31:10Z.  •  بورتو — جميع المباريات في دو
+ ري أبطال أوروبا بتوقيت UTC الدقيق مع الملا
+ عب والقنوات الناقلة. المصدر: FotMob + 365scores · 
+ تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6106286@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T190000Z
+DTEND:20260908T210000Z
+SUMMARY:FC Porto vs Manchester City — UEFA Champions League
+LOCATION:Estádio Do Dragão\, Porto\, Portugal
+GEO:41.161791;-8.583739
+URL:https://www.fotmob.com/match/6106286
+DESCRIPTION:⚽ بورتو × مانشستر سيتي\n🏆 دوري أبط
+ ال أوروبا — الجولة 1\n🗓 الثلاثاء 8 سبتمبر
+  2026 · 22:00 بتوقيت الرياض\n🏟 Estádio Do Dragão، Porto
+ \n📺 Paramount+ (US)\n—————\n⚽ FC Porto v Manchester City\n
+ 🏆 UEFA Champions League — Matchday 1\n🗓 Tue 08 Sep 2026 · 19:00 U
+ TC\n🏟 Estádio Do Dragão, Porto\n📺 Paramount+ (US)\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورتو ضد مانشستر سيتي — دو
+ ري أبطال أوروبا — 📺 Paramount+ (US) | Tomorrow: FC Porto
+  vs Manchester City | TV: Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورتو 
+ × مانشستر سيتي — 📺 Paramount+ (US) | Kick-off in 30 min: 
+ FC Porto vs Manchester City | TV: Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106299@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+SUMMARY:Real Betis vs FC Porto — UEFA Champions League
+LOCATION:Estadio La Cartuja de Sevilla\, Sevilla\, Spain
+GEO:37.417209;-6.004661
+URL:https://www.fotmob.com/match/6106299
+DESCRIPTION:⚽ ريال بيتيس × بورتو\n🏆 دوري أبطال
+  أوروبا — الجولة 2\n🗓 الأربعاء 14 أكتوبر 20
+ 26 · 22:00 بتوقيت الرياض\n🏟 Estadio La Cartuja de Sevilla
+ ، Sevilla\n—————\n⚽ Real Betis v FC Porto\n🏆 UEFA Champion
+ s League — Matchday 2\n🗓 Wed 14 Oct 2026 · 19:00 UTC\n🏟 Estadio L
+ a Cartuja de Sevilla, Sevilla\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد بورتو — دوري 
+ أبطال أوروبا | Tomorrow: Real Betis vs FC Porto
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × بورتو | Kick-off in 30 min: Real Betis vs FC Porto
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106287@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:FC Porto vs PSV Eindhoven — UEFA Champions League
+LOCATION:Estádio Do Dragão\, Porto\, Portugal
+GEO:41.161791;-8.583739
+URL:https://www.fotmob.com/match/6106287
+DESCRIPTION:⚽ بورتو × آيندهوفن\n🏆 دوري أبطال أ
+ وروبا — الجولة 3\n🗓 الثلاثاء 20 أكتوبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Estádio Do Dragão، Porto\n—
+ ————\n⚽ FC Porto v PSV Eindhoven\n🏆 UEFA Champions League —
+  Matchday 3\n🗓 Tue 20 Oct 2026 · 19:00 UTC\n🏟 Estádio Do Dragão, 
+ Porto\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورتو ضد آيندهوفن — دوري أ
+ بطال أوروبا | Tomorrow: FC Porto vs PSV Eindhoven
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورتو 
+ × آيندهوفن | Kick-off in 30 min: FC Porto vs PSV Eindhoven
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106288@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+SUMMARY:FC Porto vs Napoli — UEFA Champions League
+LOCATION:Estadio do Dragao
+URL:https://www.fotmob.com/match/6106288
+DESCRIPTION:⚽ بورتو × نابولي\n🏆 دوري أبطال أور
+ وبا — الجولة 4\n🗓 الأربعاء 4 نوفمبر 2026 · 23
+ :00 بتوقيت الرياض\n🏟 Estadio do Dragao\n—————\n
+ ⚽ FC Porto v Napoli\n🏆 UEFA Champions League — Matchday 4\n🗓 Wed
+  04 Nov 2026 · 20:00 UTC\n🏟 Estadio do Dragao\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورتو ضد نابولي — دوري أبط
+ ال أوروبا | Tomorrow: FC Porto vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورتو 
+ × نابولي | Kick-off in 30 min: FC Porto vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106307@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+SUMMARY:Feyenoord vs FC Porto — UEFA Champions League
+LOCATION:de Kuip
+URL:https://www.fotmob.com/match/6106307
+DESCRIPTION:⚽ فاينورد × بورتو\n🏆 دوري أبطال أو
+ روبا — الجولة 5\n🗓 الثلاثاء 24 نوفمبر 2026 ·
+  23:00 بتوقيت الرياض\n🏟 de Kuip\n—————\n⚽ Feyen
+ oord v FC Porto\n🏆 UEFA Champions League — Matchday 5\n🗓 Tue 24 No
+ v 2026 · 20:00 UTC\n🏟 de Kuip\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فاينورد ضد بورتو — دوري أب
+ طال أوروبا | Tomorrow: Feyenoord vs FC Porto
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فاينو
+ رد × بورتو | Kick-off in 30 min: Feyenoord vs FC Porto
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106247@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:Liverpool vs FC Porto — UEFA Champions League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/6106247
+DESCRIPTION:⚽ ليفربول × بورتو\n🏆 دوري أبطال أو
+ روبا — الجولة 6\n🗓 الأربعاء 9 ديسمبر 2026 · 
+ 23:00 بتوقيت الرياض\n🏟 Anfield\n—————\n⚽ Liverp
+ ool v FC Porto\n🏆 UEFA Champions League — Matchday 6\n🗓 Wed 09 Dec
+  2026 · 20:00 UTC\n🏟 Anfield\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد بورتو — دوري أب
+ طال أوروبا | Tomorrow: Liverpool vs FC Porto
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × بورتو | Kick-off in 30 min: Liverpool vs FC Porto
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106289@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+SUMMARY:FC Porto vs Slavia Prague — UEFA Champions League
+LOCATION:Estadio do Dragao
+URL:https://www.fotmob.com/match/6106289
+DESCRIPTION:⚽ بورتو × سلافيا براغ\n🏆 دوري أبطا
+ ل أوروبا — الجولة 7\n🗓 الثلاثاء 19 يناير 20
+ 27 · 23:00 بتوقيت الرياض\n🏟 Estadio do Dragao\n———
+ ——\n⚽ FC Porto v Slavia Prague\n🏆 UEFA Champions League — Match
+ day 7\n🗓 Tue 19 Jan 2027 · 20:00 UTC\n🏟 Estadio do Dragao\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورتو ضد سلافيا براغ — دور
+ ي أبطال أوروبا | Tomorrow: FC Porto vs Slavia Prague
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورتو 
+ × سلافيا براغ | Kick-off in 30 min: FC Porto vs Slavia Prague
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106406@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:LASK vs FC Porto — UEFA Champions League
+LOCATION:Raiffeisen Arena
+URL:https://www.fotmob.com/match/6106406
+DESCRIPTION:⚽ LASK × بورتو\n🏆 دوري أبطال أوروبا 
+ — الجولة 8\n🗓 الأربعاء 27 يناير 2027 · 23:00 بت
+ وقيت الرياض\n🏟 Raiffeisen Arena\n—————\n⚽ LASK v 
+ FC Porto\n🏆 UEFA Champions League — Matchday 8\n🗓 Wed 27 Jan 2027 
+ · 20:00 UTC\n🏟 Raiffeisen Arena\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: LASK ضد بورتو — دوري أبطال أو
+ روبا | Tomorrow: LASK vs FC Porto
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: LASK × ب
+ ورتو | Kick-off in 30 min: LASK vs FC Porto
+END:VALARM
+END:VEVENT
+END:VCALENDAR

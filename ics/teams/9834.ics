@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Cambridge United — FA Cup Fixtures | Cambridge United 
+ — مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Cambridge United — all matches in FA Cup\, exact UTC kickoff
+ s\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:
+ 31:10Z.  •  Cambridge United — جميع المباريات في كأس
+  الاتحاد الإنجليزي بتوقيت UTC الدقيق مع ال
+ ملاعب والقنوات الناقلة. المصدر: FotMob + 365scor
+ es · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010647@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Cambridge United vs Chester FC (3 - 0) — FA Cup
+LOCATION:Cledara Abbey Stadium\, Cambridge\, Cambridgeshire\, England
+GEO:52.212112;0.154150
+URL:https://www.fotmob.com/match/5010647
+DESCRIPTION:⚽ Cambridge United × Chester FC (3 - 0)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الأول\n🗓 السبت 1 
+ نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Cledara Abbey S
+ tadium، Cambridge, Cambridgeshire\n⚖️ الحكم: David Rock\n👥 ا
+ لحضور: 4,329\n—————\n⚽ Cambridge United v Chester FC (3 -
+  0)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Cled
+ ara Abbey Stadium, Cambridge, Cambridgeshire\nReferee: David Rock\nAttenda
+ nce: 4,329\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Cambridge United ضد Chester FC — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Cambridge United vs Chester FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Cambridge U
+ nited × Chester FC | Kick-off in 30 min: Cambridge United vs Chester FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040321@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Stockport County vs Cambridge United (0 - 0) — FA Cup
+LOCATION:Edgeley Park\, Stockport\, Greater Manchester\, England
+GEO:53.399688;-2.166420
+URL:https://www.fotmob.com/match/5040321
+DESCRIPTION:⚽ Stockport County × Cambridge United (0 - 0)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الثاني\n🗓 الس
+ بت 6 ديسمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Edgeley 
+ Park، Stockport, Greater Manchester\n⚖️ الحكم: Richard Eley\n
+ 👥 الحضور: 5,105\n—————\n⚽ Stockport County v Cambridg
+ e United (0 - 0)\n🏆 FA Cup — Round 2\n🗓 Sat 06 Dec 2025 · 15:00 U
+ TC\n🏟 Edgeley Park, Stockport, Greater Manchester\nReferee: Richard Ele
+ y\nAttendance: 5,105\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Stockport County ضد Cambridge United — كأس
+  الاتحاد الإنجليزي | Tomorrow: Stockport County vs Cambrid
+ ge United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Stockport C
+ ounty × Cambridge United | Kick-off in 30 min: Stockport County vs Cambri
+ dge United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089918@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260110T174500Z
+DTEND:20260110T194500Z
+SUMMARY:Cambridge United vs Birmingham City (2 - 3) — FA Cup
+LOCATION:Cledara Abbey Stadium\, Cambridge\, Cambridgeshire\, England
+GEO:52.212112;0.154150
+URL:https://www.fotmob.com/match/5089918
+DESCRIPTION:⚽ Cambridge United × Birmingham City (2 - 3)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الثالث\n🗓 السب
+ ت 10 يناير 2026 · 20:45 بتوقيت الرياض\n🏟 Cledara Abb
+ ey Stadium، Cambridge, Cambridgeshire\n⚖️ الحكم: Matthew Corlett
+ \n👥 الحضور: 6,241\n—————\n⚽ Cambridge United v Birmin
+ gham City (2 - 3)\n🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 17:45 
+ UTC\n🏟 Cledara Abbey Stadium, Cambridge, Cambridgeshire\nReferee: Matth
+ ew Corlett\nAttendance: 6,241\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Cambridge United ضد Birmingham City — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Cambridge United vs Birmingh
+ am City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Cambridge U
+ nited × Birmingham City | Kick-off in 30 min: Cambridge United vs Birming
+ ham City
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1202 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Bologna — Serie A & Coppa Italia Fixtures | بولوني
+ ا — مباريات الدوري الإيطالي وكأس إيطالي
+ ا
+X-WR-CALDESC:Bologna — all matches in Serie A & Coppa Italia\, exact UTC 
+ kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09
+ -05T19:31:10Z.  •  بولونيا — جميع المباريات في 
+ الدوري الإيطالي وكأس إيطاليا بتوقيت UTC ا
+ لدقيق مع الملاعب والقنوات الناقلة. المصد
+ ر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5749642@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260824T163000Z
+DTEND:20260824T183000Z
+SUMMARY:Bologna vs Lazio (0 - 1) — Serie A
+LOCATION:Stadio Renato Dall'Ara\, Bologna\, Italy
+GEO:44.492290;11.309957
+URL:https://www.fotmob.com/match/5749642
+DESCRIPTION:⚽ بولونيا × لاتسيو (0 - 1)\n🏆 الدوري 
+ الإيطالي — الجولة 1\n🗓 الاثنين 24 أغسطس 202
+ 6 · 19:30 بتوقيت الرياض\n🏟 Stadio Renato Dall'Ara، Bologn
+ a\n⚖️ الحكم: Fabio Maresca\n👥 الحضور: 28,211\n———
+ ——\n⚽ Bologna v Lazio (0 - 1)\n🏆 Serie A — Matchday 1\n🗓 Mon
+  24 Aug 2026 · 16:30 UTC\n🏟 Stadio Renato Dall'Ara, Bologna\nReferee: 
+ Fabio Maresca\nAttendance: 28,211\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد لاتسيو — الدوري
+  الإيطالي | Tomorrow: Bologna vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × لاتسيو | Kick-off in 30 min: Bologna vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749651@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260831T184500Z
+DTEND:20260831T204500Z
+SUMMARY:Atalanta vs Bologna (1 - 0) — Serie A
+LOCATION:New Balance Arena\, Bergamo\, Italy
+GEO:45.709236;9.680693
+URL:https://www.fotmob.com/match/5749651
+DESCRIPTION:⚽ أتالانتا × بولونيا (1 - 0)\n🏆 الدور
+ ي الإيطالي — الجولة 2\n🗓 الاثنين 31 أغسطس 
+ 2026 · 21:45 بتوقيت الرياض\n🏟 New Balance Arena، Bergamo\
+ n⚖️ الحكم: Daniele Doveri\n—————\n⚽ Atalanta v Bologn
+ a (1 - 0)\n🏆 Serie A — Matchday 2\n🗓 Mon 31 Aug 2026 · 18:45 UTC\
+ n🏟 New Balance Arena, Bergamo\nReferee: Daniele Doveri\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد بولونيا — الدو
+ ري الإيطالي | Tomorrow: Atalanta vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × بولونيا | Kick-off in 30 min: Atalanta vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749661@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260906T160000Z
+DTEND:20260906T180000Z
+SUMMARY:Bologna vs Sassuolo — Serie A
+LOCATION:Stadio Renato Dall'Ara\, Bologna\, Italy
+GEO:44.492290;11.309957
+URL:https://www.fotmob.com/match/5749661
+DESCRIPTION:⚽ بولونيا × ساسولو\n🏆 الدوري الإي
+ طالي — الجولة 3\n🗓 الأحد 6 سبتمبر 2026 · 19:00 
+ بتوقيت الرياض\n🏟 Stadio Renato Dall'Ara، Bologna\n📺 Sta
+ rzplay\n—————\n⚽ Bologna v Sassuolo\n🏆 Serie A — Matchday
+  3\n🗓 Sun 06 Sep 2026 · 16:00 UTC\n🏟 Stadio Renato Dall'Ara, Bologn
+ a\n📺 Starzplay\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد ساسولو — الدوري
+  الإيطالي — 📺 Starzplay | Tomorrow: Bologna vs Sassuolo | TV:
+  Starzplay
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × ساسولو — 📺 Starzplay | Kick-off in 30 min: Bologna vs S
+ assuolo | TV: Starzplay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749676@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260913T160000Z
+DTEND:20260913T180000Z
+SUMMARY:Napoli vs Bologna — Serie A
+LOCATION:Stadio Diego Armando Maradona\, Napoli\, Italy
+GEO:40.827974;14.192930
+URL:https://www.fotmob.com/match/5749676
+DESCRIPTION:⚽ نابولي × بولونيا\n🏆 الدوري الإي
+ طالي — الجولة 4\n🗓 الأحد 13 سبتمبر 2026 · 19:00
+  بتوقيت الرياض\n🏟 Stadio Diego Armando Maradona، Napoli\n
+ 📺 DAZN UK\n—————\n⚽ Napoli v Bologna\n🏆 Serie A — Matc
+ hday 4\n🗓 Sun 13 Sep 2026 · 16:00 UTC\n🏟 Stadio Diego Armando Marad
+ ona, Napoli\n📺 DAZN UK\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد بولونيا — الدوري
+  الإيطالي — 📺 DAZN UK | Tomorrow: Napoli vs Bologna | TV: DAZ
+ N UK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × بولونيا — 📺 DAZN UK | Kick-off in 30 min: Napoli vs Bolo
+ gna | TV: DAZN UK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749682@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T130000Z
+DTEND:20260919T150000Z
+SUMMARY:Bologna vs Torino — Serie A
+LOCATION:Stadio Renato Dall'Ara\, Bologna\, Italy
+GEO:44.492290;11.309957
+URL:https://www.fotmob.com/match/5749682
+DESCRIPTION:⚽ بولونيا × تورينو\n🏆 الدوري الإي
+ طالي — الجولة 5\n🗓 السبت 19 سبتمبر 2026 · 16:00
+  بتوقيت الرياض\n🏟 Stadio Renato Dall'Ara، Bologna\n——
+ ———\n⚽ Bologna v Torino\n🏆 Serie A — Matchday 5\n🗓 Sat 19 
+ Sep 2026 · 13:00 UTC\n🏟 Stadio Renato Dall'Ara, Bologna\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد تورينو — الدوري
+  الإيطالي | Tomorrow: Bologna vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × تورينو | Kick-off in 30 min: Bologna vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749696@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Lecce vs Bologna — Serie A
+LOCATION:Stadio Ettore Giardiniero - Via del Mare
+URL:https://www.fotmob.com/match/5749696
+DESCRIPTION:⚽ ليتشي × بولونيا\n🏆 الدوري الإيط
+ الي — الجولة 6\n🗓 الأحد 11 أكتوبر 2026 · 16:00 
+ بتوقيت الرياض\n🏟 Stadio Ettore Giardiniero - Via del Mare\n
+ —————\n⚽ Lecce v Bologna\n🏆 Serie A — Matchday 6\n🗓 Su
+ n 11 Oct 2026 · 13:00 UTC\n🏟 Stadio Ettore Giardiniero - Via del Mare\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليتشي ضد بولونيا — الدوري 
+ الإيطالي | Tomorrow: Lecce vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليتشي 
+ × بولونيا | Kick-off in 30 min: Lecce vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749702@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T160000Z
+DTEND:20261017T180000Z
+SUMMARY:Bologna vs Inter — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749702
+DESCRIPTION:⚽ بولونيا × إنتر ميلان\n🏆 الدوري ا
+ لإيطالي — الجولة 7\n🗓 السبت 17 أكتوبر 2026 ·
+  19:00 بتوقيت الرياض\n🏟 Stadio Renato Dell'Ara\n———
+ ——\n⚽ Bologna v Inter\n🏆 Serie A — Matchday 7\n🗓 Sat 17 Oct 
+ 2026 · 16:00 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد إنتر ميلان — ال
+ دوري الإيطالي | Tomorrow: Bologna vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × إنتر ميلان | Kick-off in 30 min: Bologna vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749711@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T130000Z
+DTEND:20261024T150000Z
+SUMMARY:Cagliari vs Bologna — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749711
+DESCRIPTION:⚽ كالياري × بولونيا\n🏆 الدوري الإ
+ يطالي — الجولة 8\n🗓 السبت 24 أكتوبر 2026 · 16:
+ 00 بتوقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cagl
+ iari v Bologna\n🏆 Serie A — Matchday 8\n🗓 Sat 24 Oct 2026 · 13:00
+  UTC\n🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد بولونيا — الدور
+ ي الإيطالي | Tomorrow: Cagliari vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × بولونيا | Kick-off in 30 min: Cagliari vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749720@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261028T173000Z
+DTEND:20261028T193000Z
+SUMMARY:Milan vs Bologna — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749720
+DESCRIPTION:⚽ ميلان × بولونيا\n🏆 الدوري الإيط
+ الي — الجولة 9\n🗓 الأربعاء 28 أكتوبر 2026 · 2
+ 0:30 بتوقيت الرياض\n🏟 San Siro\n—————\n⚽ Milan 
+ v Bologna\n🏆 Serie A — Matchday 9\n🗓 Wed 28 Oct 2026 · 17:30 UTC\
+ n🏟 San Siro\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد بولونيا — الدوري 
+ الإيطالي | Tomorrow: Milan vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × بولونيا | Kick-off in 30 min: Milan vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749732@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T140000Z
+DTEND:20261031T160000Z
+SUMMARY:Bologna vs Monza — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749732
+DESCRIPTION:⚽ بولونيا × مونزا\n🏆 الدوري الإيط
+ الي — الجولة 10\n🗓 السبت 31 أكتوبر 2026 · 17:00 
+ بتوقيت الرياض\n🏟 Stadio Renato Dell'Ara\n—————\n
+ ⚽ Bologna v Monza\n🏆 Serie A — Matchday 10\n🗓 Sat 31 Oct 2026 ·
+  14:00 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد مونزا — الدوري 
+ الإيطالي | Tomorrow: Bologna vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × مونزا | Kick-off in 30 min: Bologna vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749747@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T170000Z
+DTEND:20261107T190000Z
+SUMMARY:Parma vs Bologna — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749747
+DESCRIPTION:⚽ بارما × بولونيا\n🏆 الدوري الإيط
+ الي — الجولة 11\n🗓 السبت 7 نوفمبر 2026 · 20:00 
+ بتوقيت الرياض\n🏟 Stadio Ennio Tardini\n—————\n⚽
+  Parma v Bologna\n🏆 Serie A — Matchday 11\n🗓 Sat 07 Nov 2026 · 17
+ :00 UTC\n🏟 Stadio Ennio Tardini\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد بولونيا — الدوري 
+ الإيطالي | Tomorrow: Parma vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × بولونيا | Kick-off in 30 min: Parma vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749752@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T170000Z
+DTEND:20261122T190000Z
+SUMMARY:Bologna vs Udinese — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749752
+DESCRIPTION:⚽ بولونيا × أودينيزي\n🏆 الدوري ال
+ إيطالي — الجولة 12\n🗓 الأحد 22 نوفمبر 2026 · 
+ 20:00 بتوقيت الرياض\n🏟 Stadio Renato Dell'Ara\n————
+ —\n⚽ Bologna v Udinese\n🏆 Serie A — Matchday 12\n🗓 Sun 22 Nov 
+ 2026 · 17:00 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد أودينيزي — الدو
+ ري الإيطالي | Tomorrow: Bologna vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × أودينيزي | Kick-off in 30 min: Bologna vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749769@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T173000Z
+DTEND:20261129T193000Z
+SUMMARY:Venezia vs Bologna — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749769
+DESCRIPTION:⚽ فينيزيا × بولونيا\n🏆 الدوري الإ
+ يطالي — الجولة 13\n🗓 الأحد 29 نوفمبر 2026 · 20
+ :30 بتوقيت الرياض\n🏟 Stadio Pierluigi Penzo\n————
+ —\n⚽ Venezia v Bologna\n🏆 Serie A — Matchday 13\n🗓 Sun 29 Nov 
+ 2026 · 17:30 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد بولونيا — الدور
+ ي الإيطالي | Tomorrow: Venezia vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × بولونيا | Kick-off in 30 min: Venezia vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749771@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T173000Z
+DTEND:20261206T193000Z
+SUMMARY:Bologna vs Roma — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749771
+DESCRIPTION:⚽ بولونيا × روما\n🏆 الدوري الإيطا
+ لي — الجولة 14\n🗓 الأحد 6 ديسمبر 2026 · 20:30 ب
+ توقيت الرياض\n🏟 Stadio Renato Dell'Ara\n—————\n⚽
+  Bologna v Roma\n🏆 Serie A — Matchday 14\n🗓 Sun 06 Dec 2026 · 17:
+ 30 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد روما — الدوري ا
+ لإيطالي | Tomorrow: Bologna vs Roma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × روما | Kick-off in 30 min: Bologna vs Roma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749782@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T173000Z
+DTEND:20261213T193000Z
+SUMMARY:Como vs Bologna — Serie A
+LOCATION:Stadio G. Sinigaglia
+URL:https://www.fotmob.com/match/5749782
+DESCRIPTION:⚽ كومو × بولونيا\n🏆 الدوري الإيطا
+ لي — الجولة 15\n🗓 الأحد 13 ديسمبر 2026 · 20:30 ب
+ توقيت الرياض\n🏟 Stadio G. Sinigaglia\n—————\n⚽ C
+ omo v Bologna\n🏆 Serie A — Matchday 15\n🗓 Sun 13 Dec 2026 · 17:30
+  UTC\n🏟 Stadio G. Sinigaglia\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كومو ضد بولونيا — الدوري ا
+ لإيطالي | Tomorrow: Como vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كومو ×
+  بولونيا | Kick-off in 30 min: Como vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749793@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T173000Z
+DTEND:20261220T193000Z
+SUMMARY:Fiorentina vs Bologna — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749793
+DESCRIPTION:⚽ فيورنتينا × بولونيا\n🏆 الدوري ا
+ لإيطالي — الجولة 16\n🗓 الأحد 20 ديسمبر 2026 
+ · 20:30 بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n——
+ ———\n⚽ Fiorentina v Bologna\n🏆 Serie A — Matchday 16\n🗓 Su
+ n 20 Dec 2026 · 17:30 UTC\n🏟 Artemio Franchi, Firenze\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد بولونيا — الد
+ وري الإيطالي | Tomorrow: Fiorentina vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × بولونيا | Kick-off in 30 min: Fiorentina vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749801@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T173000Z
+DTEND:20270103T193000Z
+SUMMARY:Bologna vs Juventus — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749801
+DESCRIPTION:⚽ بولونيا × يوفنتوس\n🏆 الدوري الإ
+ يطالي — الجولة 17\n🗓 الأحد 3 يناير 2027 · 20:30
+  بتوقيت الرياض\n🏟 Stadio Renato Dell'Ara\n—————\n
+ ⚽ Bologna v Juventus\n🏆 Serie A — Matchday 17\n🗓 Sun 03 Jan 2027
+  · 17:30 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد يوفنتوس — الدور
+ ي الإيطالي | Tomorrow: Bologna vs Juventus
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × يوفنتوس | Kick-off in 30 min: Bologna vs Juventus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749812@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T173000Z
+DTEND:20270106T193000Z
+SUMMARY:Frosinone vs Bologna — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749812
+DESCRIPTION:⚽ فروزينوني × بولونيا\n🏆 الدوري ا
+ لإيطالي — الجولة 18\n🗓 الأربعاء 6 يناير 202
+ 7 · 20:30 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n———
+ ——\n⚽ Frosinone v Bologna\n🏆 Serie A — Matchday 18\n🗓 Wed 06
+  Jan 2027 · 17:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد بولونيا — الد
+ وري الإيطالي | Tomorrow: Frosinone vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × بولونيا | Kick-off in 30 min: Frosinone vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749821@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T173000Z
+DTEND:20270110T193000Z
+SUMMARY:Bologna vs Genoa — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749821
+DESCRIPTION:⚽ بولونيا × جنوى\n🏆 الدوري الإيطا
+ لي — الجولة 19\n🗓 الأحد 10 يناير 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Stadio Renato Dell'Ara\n—————\n⚽ B
+ ologna v Genoa\n🏆 Serie A — Matchday 19\n🗓 Sun 10 Jan 2027 · 17:3
+ 0 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد جنوى — الدوري ا
+ لإيطالي | Tomorrow: Bologna vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × جنوى | Kick-off in 30 min: Bologna vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749834@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T173000Z
+DTEND:20270117T193000Z
+SUMMARY:Lazio vs Bologna — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749834
+DESCRIPTION:⚽ لاتسيو × بولونيا\n🏆 الدوري الإي
+ طالي — الجولة 20\n🗓 الأحد 17 يناير 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n
+ ⚽ Lazio v Bologna\n🏆 Serie A — Matchday 20\n🗓 Sun 17 Jan 2027 ·
+  17:30 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد بولونيا — الدوري
+  الإيطالي | Tomorrow: Lazio vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × بولونيا | Kick-off in 30 min: Lazio vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749841@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T173000Z
+DTEND:20270124T193000Z
+SUMMARY:Bologna vs Atalanta — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749841
+DESCRIPTION:⚽ بولونيا × أتالانتا\n🏆 الدوري ال
+ إيطالي — الجولة 21\n🗓 الأحد 24 يناير 2027 · 20
+ :30 بتوقيت الرياض\n🏟 Stadio Renato Dell'Ara\n————
+ —\n⚽ Bologna v Atalanta\n🏆 Serie A — Matchday 21\n🗓 Sun 24 Jan
+  2027 · 17:30 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد أتالانتا — الدو
+ ري الإيطالي | Tomorrow: Bologna vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × أتالانتا | Kick-off in 30 min: Bologna vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749859@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T173000Z
+DTEND:20270131T193000Z
+SUMMARY:Udinese vs Bologna — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749859
+DESCRIPTION:⚽ أودينيزي × بولونيا\n🏆 الدوري ال
+ إيطالي — الجولة 22\n🗓 الأحد 31 يناير 2027 · 20
+ :30 بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n—
+ ————\n⚽ Udinese v Bologna\n🏆 Serie A — Matchday 22\n🗓 Su
+ n 31 Jan 2027 · 17:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد بولونيا — الدو
+ ري الإيطالي | Tomorrow: Udinese vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × بولونيا | Kick-off in 30 min: Udinese vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749862@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T173000Z
+DTEND:20270207T193000Z
+SUMMARY:Bologna vs Milan — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749862
+DESCRIPTION:⚽ بولونيا × ميلان\n🏆 الدوري الإيط
+ الي — الجولة 23\n🗓 الأحد 7 فبراير 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Renato Dell'Ara\n—————\n
+ ⚽ Bologna v Milan\n🏆 Serie A — Matchday 23\n🗓 Sun 07 Feb 2027 ·
+  17:30 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد ميلان — الدوري 
+ الإيطالي | Tomorrow: Bologna vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × ميلان | Kick-off in 30 min: Bologna vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749871@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T173000Z
+DTEND:20270214T193000Z
+SUMMARY:Bologna vs Como — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749871
+DESCRIPTION:⚽ بولونيا × كومو\n🏆 الدوري الإيطا
+ لي — الجولة 24\n🗓 الأحد 14 فبراير 2027 · 20:30 ب
+ توقيت الرياض\n🏟 Stadio Renato Dell'Ara\n—————\n⚽
+  Bologna v Como\n🏆 Serie A — Matchday 24\n🗓 Sun 14 Feb 2027 · 17:
+ 30 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد كومو — الدوري ا
+ لإيطالي | Tomorrow: Bologna vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × كومو | Kick-off in 30 min: Bologna vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749884@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T173000Z
+DTEND:20270221T193000Z
+SUMMARY:Juventus vs Bologna — Serie A
+LOCATION:Allianz Stadium
+URL:https://www.fotmob.com/match/5749884
+DESCRIPTION:⚽ يوفنتوس × بولونيا\n🏆 الدوري الإ
+ يطالي — الجولة 25\n🗓 الأحد 21 فبراير 2027 · 20
+ :30 بتوقيت الرياض\n🏟 Allianz Stadium\n—————\n⚽ 
+ Juventus v Bologna\n🏆 Serie A — Matchday 25\n🗓 Sun 21 Feb 2027 · 
+ 17:30 UTC\n🏟 Allianz Stadium\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد بولونيا — الدور
+ ي الإيطالي | Tomorrow: Juventus vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × بولونيا | Kick-off in 30 min: Juventus vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749891@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T173000Z
+DTEND:20270228T193000Z
+SUMMARY:Bologna vs Lecce — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749891
+DESCRIPTION:⚽ بولونيا × ليتشي\n🏆 الدوري الإيط
+ الي — الجولة 26\n🗓 الأحد 28 فبراير 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Renato Dell'Ara\n—————\n
+ ⚽ Bologna v Lecce\n🏆 Serie A — Matchday 26\n🗓 Sun 28 Feb 2027 ·
+  17:30 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد ليتشي — الدوري 
+ الإيطالي | Tomorrow: Bologna vs Lecce
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × ليتشي | Kick-off in 30 min: Bologna vs Lecce
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749908@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T173000Z
+DTEND:20270307T193000Z
+SUMMARY:Sassuolo vs Bologna — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749908
+DESCRIPTION:⚽ ساسولو × بولونيا\n🏆 الدوري الإي
+ طالي — الجولة 27\n🗓 الأحد 7 مارس 2027 · 20:30 ب
+ توقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n——
+ ———\n⚽ Sassuolo v Bologna\n🏆 Serie A — Matchday 27\n🗓 Sun 
+ 07 Mar 2027 · 17:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد بولونيا — الدوري
+  الإيطالي | Tomorrow: Sassuolo vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × بولونيا | Kick-off in 30 min: Sassuolo vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749911@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T173000Z
+DTEND:20270314T193000Z
+SUMMARY:Bologna vs Napoli — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749911
+DESCRIPTION:⚽ بولونيا × نابولي\n🏆 الدوري الإي
+ طالي — الجولة 28\n🗓 الأحد 14 مارس 2027 · 20:30 ب
+ توقيت الرياض\n🏟 Stadio Renato Dell'Ara\n—————\n⚽
+  Bologna v Napoli\n🏆 Serie A — Matchday 28\n🗓 Sun 14 Mar 2027 · 1
+ 7:30 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد نابولي — الدوري
+  الإيطالي | Tomorrow: Bologna vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × نابولي | Kick-off in 30 min: Bologna vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749925@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T173000Z
+DTEND:20270321T193000Z
+SUMMARY:Monza vs Bologna — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749925
+DESCRIPTION:⚽ مونزا × بولونيا\n🏆 الدوري الإيط
+ الي — الجولة 29\n🗓 الأحد 21 مارس 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Monza v 
+ Bologna\n🏆 Serie A — Matchday 29\n🗓 Sun 21 Mar 2027 · 17:30 UTC\n
+ 🏟 Stadio Brianteo\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد بولونيا — الدوري 
+ الإيطالي | Tomorrow: Monza vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × بولونيا | Kick-off in 30 min: Monza vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749931@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T163000Z
+DTEND:20270404T183000Z
+SUMMARY:Roma vs Bologna — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749931
+DESCRIPTION:⚽ روما × بولونيا\n🏆 الدوري الإيطا
+ لي — الجولة 30\n🗓 الأحد 4 أبريل 2027 · 19:30 بت
+ وقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ Ro
+ ma v Bologna\n🏆 Serie A — Matchday 30\n🗓 Sun 04 Apr 2027 · 16:30 
+ UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد بولونيا — الدوري ا
+ لإيطالي | Tomorrow: Roma vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  بولونيا | Kick-off in 30 min: Roma vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749940@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T163000Z
+DTEND:20270411T183000Z
+SUMMARY:Bologna vs Venezia — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749940
+DESCRIPTION:⚽ بولونيا × فينيزيا\n🏆 الدوري الإ
+ يطالي — الجولة 31\n🗓 الأحد 11 أبريل 2027 · 19:3
+ 0 بتوقيت الرياض\n🏟 Stadio Renato Dell'Ara\n—————\
+ n⚽ Bologna v Venezia\n🏆 Serie A — Matchday 31\n🗓 Sun 11 Apr 2027
+  · 16:30 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد فينيزيا — الدور
+ ي الإيطالي | Tomorrow: Bologna vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × فينيزيا | Kick-off in 30 min: Bologna vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749953@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T163000Z
+DTEND:20270418T183000Z
+SUMMARY:Bologna vs Cagliari — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749953
+DESCRIPTION:⚽ بولونيا × كالياري\n🏆 الدوري الإ
+ يطالي — الجولة 32\n🗓 الأحد 18 أبريل 2027 · 19:3
+ 0 بتوقيت الرياض\n🏟 Stadio Renato Dell'Ara\n—————\
+ n⚽ Bologna v Cagliari\n🏆 Serie A — Matchday 32\n🗓 Sun 18 Apr 202
+ 7 · 16:30 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد كالياري — الدور
+ ي الإيطالي | Tomorrow: Bologna vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × كالياري | Kick-off in 30 min: Bologna vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749963@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270425T163000Z
+DTEND:20270425T183000Z
+SUMMARY:Inter vs Bologna — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749963
+DESCRIPTION:⚽ إنتر ميلان × بولونيا\n🏆 الدوري ا
+ لإيطالي — الجولة 33\n🗓 الأحد 25 أبريل 2027 · 
+ 19:30 بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\n
+ ⚽ Inter v Bologna\n🏆 Serie A — Matchday 33\n🗓 Sun 25 Apr 2027 ·
+  16:30 UTC\n🏟 Giuseppe Meazza\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد بولونيا — ال
+ دوري الإيطالي | Tomorrow: Inter vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × بولونيا | Kick-off in 30 min: Inter vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749973@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T163000Z
+DTEND:20270502T183000Z
+SUMMARY:Bologna vs Fiorentina — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749973
+DESCRIPTION:⚽ بولونيا × فيورنتينا\n🏆 الدوري ا
+ لإيطالي — الجولة 34\n🗓 الأحد 2 مايو 2027 · 19:
+ 30 بتوقيت الرياض\n🏟 Stadio Renato Dell'Ara\n—————
+ \n⚽ Bologna v Fiorentina\n🏆 Serie A — Matchday 34\n🗓 Sun 02 May 
+ 2027 · 16:30 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد فيورنتينا — الد
+ وري الإيطالي | Tomorrow: Bologna vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × فيورنتينا | Kick-off in 30 min: Bologna vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749987@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T163000Z
+DTEND:20270509T183000Z
+SUMMARY:Torino vs Bologna — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749987
+DESCRIPTION:⚽ تورينو × بولونيا\n🏆 الدوري الإي
+ طالي — الجولة 35\n🗓 الأحد 9 مايو 2027 · 19:30 ب
+ توقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n————
+ —\n⚽ Torino v Bologna\n🏆 Serie A — Matchday 35\n🗓 Sun 09 May 2
+ 027 · 16:30 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد بولونيا — الدوري
+  الإيطالي | Tomorrow: Torino vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × بولونيا | Kick-off in 30 min: Torino vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749991@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T163000Z
+DTEND:20270516T183000Z
+SUMMARY:Bologna vs Frosinone — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749991
+DESCRIPTION:⚽ بولونيا × فروزينوني\n🏆 الدوري ا
+ لإيطالي — الجولة 36\n🗓 الأحد 16 مايو 2027 · 19
+ :30 بتوقيت الرياض\n🏟 Stadio Renato Dell'Ara\n————
+ —\n⚽ Bologna v Frosinone\n🏆 Serie A — Matchday 36\n🗓 Sun 16 Ma
+ y 2027 · 16:30 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد فروزينوني — الد
+ وري الإيطالي | Tomorrow: Bologna vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × فروزينوني | Kick-off in 30 min: Bologna vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750004@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T163000Z
+DTEND:20270523T183000Z
+SUMMARY:Genoa vs Bologna — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5750004
+DESCRIPTION:⚽ جنوى × بولونيا\n🏆 الدوري الإيطا
+ لي — الجولة 37\n🗓 الأحد 23 مايو 2027 · 19:30 بتو
+ قيت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n⚽ Geno
+ a v Bologna\n🏆 Serie A — Matchday 37\n🗓 Sun 23 May 2027 · 16:30 U
+ TC\n🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد بولونيا — الدوري ا
+ لإيطالي | Tomorrow: Genoa vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  بولونيا | Kick-off in 30 min: Genoa vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750011@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T163000Z
+DTEND:20270530T183000Z
+SUMMARY:Bologna vs Parma — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5750011
+DESCRIPTION:⚽ بولونيا × بارما\n🏆 الدوري الإيط
+ الي — الجولة 38\n🗓 الأحد 30 مايو 2027 · 19:30 بت
+ وقيت الرياض\n🏟 Stadio Renato Dell'Ara\n—————\n⚽ B
+ ologna v Parma\n🏆 Serie A — Matchday 38\n🗓 Sun 30 May 2027 · 16:3
+ 0 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد بارما — الدوري 
+ الإيطالي | Tomorrow: Bologna vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × بارما | Kick-off in 30 min: Bologna vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003676@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T170000Z
+DTEND:20261202T190000Z
+SUMMARY:Bologna vs Palermo — Coppa Italia
+URL:https://www.fotmob.com/match/6003676
+DESCRIPTION:⚽ بولونيا × باليرمو\n🏆 كأس إيطالي
+ ا — دور الـ16\n🗓 الأربعاء 2 ديسمبر 2026 · 20:00
+  بتوقيت الرياض\n—————\n⚽ Bologna v Palermo\n🏆 C
+ oppa Italia — Round of 16\n🗓 Wed 02 Dec 2026 · 17:00 UTC\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد باليرمو — كأس إ
+ يطاليا | Tomorrow: Bologna vs Palermo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × باليرمو | Kick-off in 30 min: Bologna vs Palermo
+END:VALARM
+END:VEVENT
+END:VCALENDAR

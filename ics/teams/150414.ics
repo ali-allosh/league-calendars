@@ -1,0 +1,1150 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Abha — Saudi Pro League & King's Cup Fixtures | أبها
+  — مباريات دوري روشن السعودي وكأس خادم ا
+ لحرمين الشريفين
+X-WR-CALDESC:Abha — all matches in Saudi Pro League & King's Cup\, exact 
+ UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 202
+ 6-09-05T19:31:10Z.  •  أبها — جميع المباريات في د
+ وري روشن السعودي وكأس خادم الحرمين الشري
+ فين بتوقيت UTC الدقيق مع الملاعب والقنوات 
+ الناقلة. المصدر: FotMob + 365scores · تحديث تلقائ
+ ي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5969046@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260813T161500Z
+DTEND:20260813T181500Z
+SUMMARY:Abha vs Al Hazem (1 - 2) — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/5969046
+DESCRIPTION:⚽ أبها × الحزم (1 - 2)\n🏆 دوري روشن ال
+ سعودي — الجولة 1\n🗓 الخميس 13 أغسطس 2026 · 19:
+ 15 بتوقيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sports City
+  Stadium، Abha\n⚖️ الحكم: Shukri Al Hanfosh\n👥 الحضور: 
+ 3,448\n—————\n⚽ Abha v Al Hazem (1 - 2)\n🏆 Saudi Pro League
+  — Matchday 1\n🗓 Thu 13 Aug 2026 · 16:15 UTC\n🏟 Prince Sultan bin
+  Abdulaziz Sports City Stadium, Abha\nReferee: Shukri Al Hanfosh\nAttendan
+ ce: 3,448\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الحزم — دوري روشن ا
+ لسعودي | Tomorrow: Abha vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الحزم | Kick-off in 30 min: Abha vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970097@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T180000Z
+DTEND:20260822T200000Z
+SUMMARY:Al Ahli vs Abha (4 - 0) — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/5970097
+DESCRIPTION:⚽ الأهلي × أبها (4 - 0)\n🏆 دوري روشن ا
+ لسعودي — الجولة 2\n🗓 السبت 22 أغسطس 2026 · 21:
+ 00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah Sp
+ ort City، Jeddah\n⚖️ الحكم: Majed Al-Shamrani\n👥 الحضور
+ : 20,784\n—————\n⚽ Al Ahli v Abha (4 - 0)\n🏆 Saudi Pro Leag
+ ue — Matchday 2\n🗓 Sat 22 Aug 2026 · 18:00 UTC\n🏟 Alinma Bank Sta
+ dium at King Abdullah Sport City, Jeddah\nReferee: Majed Al-Shamrani\nAtte
+ ndance: 20,784\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد أبها — دوري روشن 
+ السعودي | Tomorrow: Al Ahli vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × أبها | Kick-off in 30 min: Al Ahli vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970101@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260825T160500Z
+DTEND:20260825T180500Z
+SUMMARY:Abha vs Al Khaleej (1 - 1) — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/5970101
+DESCRIPTION:⚽ أبها × الخليج (1 - 1)\n🏆 دوري روشن ا
+ لسعودي — الجولة 3\n🗓 الثلاثاء 25 أغسطس 2026 
+ · 19:05 بتوقيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sport
+ s City Stadium، Abha\n⚖️ الحكم: Ali Al Qahtani\n👥 الحضو
+ ر: 2,252\n—————\n⚽ Abha v Al Khaleej (1 - 1)\n🏆 Saudi Pro 
+ League — Matchday 3\n🗓 Tue 25 Aug 2026 · 16:05 UTC\n🏟 Prince Sult
+ an bin Abdulaziz Sports City Stadium, Abha\nReferee: Ali Al Qahtani\nAtten
+ dance: 2,252\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الخليج — دوري روشن 
+ السعودي | Tomorrow: Abha vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الخليج | Kick-off in 30 min: Abha vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970108@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260828T160000Z
+DTEND:20260828T180000Z
+SUMMARY:Al-Fayha vs Abha (3 - 2) — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/5970108
+DESCRIPTION:⚽ الفيحاء × أبها (3 - 2)\n🏆 دوري روشن 
+ السعودي — الجولة 4\n🗓 الجمعة 28 أغسطس 2026 ·
+  19:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، A
+ l Majma'ah\n⚖️ الحكم: Mohammed Al Hoaish\n👥 الحضور: 502\
+ n—————\n⚽ Al-Fayha v Abha (3 - 2)\n🏆 Saudi Pro League — M
+ atchday 4\n🗓 Fri 28 Aug 2026 · 16:00 UTC\n🏟 Al Majma'ah Sports City
+  Stadium, Al Majma'ah\nReferee: Mohammed Al Hoaish\nAttendance: 502\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد أبها — دوري روش
+ ن السعودي | Tomorrow: Al-Fayha vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × أبها | Kick-off in 30 min: Al-Fayha vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970120@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260904T160000Z
+DTEND:20260904T180000Z
+SUMMARY:Abha vs Al-Ettifaq (0 - 1) — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/5970120
+DESCRIPTION:⚽ أبها × الاتفاق (0 - 1)\n🏆 دوري روشن 
+ السعودي — الجولة 5\n🗓 الجمعة 4 سبتمبر 2026 
+ · 19:00 بتوقيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sport
+ s City Stadium، Abha\n⚖️ الحكم: Mohammed Al Shahrani\n———
+ ——\n⚽ Abha v Al-Ettifaq (0 - 1)\n🏆 Saudi Pro League — Matchday 
+ 5\n🗓 Fri 04 Sep 2026 · 16:00 UTC\n🏟 Prince Sultan bin Abdulaziz Spo
+ rts City Stadium, Abha\nReferee: Mohammed Al Shahrani\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الاتفاق — دوري روش
+ ن السعودي | Tomorrow: Abha vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الاتفاق | Kick-off in 30 min: Abha vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970134@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260909T180000Z
+DTEND:20260909T200000Z
+SUMMARY:Al Nassr FC vs Abha — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/5970134
+DESCRIPTION:⚽ النصر × أبها\n🏆 دوري روشن السعود
+ ي — الجولة 6\n🗓 الأربعاء 9 سبتمبر 2026 · 21:00 
+ بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n📺 FOX Deportes
+ ، FOX Sports 2، Fubo Sports، FOX Sports online، FOX One\n————
+ —\n⚽ Al Nassr FC v Abha\n🏆 Saudi Pro League — Matchday 6\n🗓 We
+ d 09 Sep 2026 · 18:00 UTC\n🏟 Al-Awwal Park, Riyadh\n📺 FOX Deportes,
+  FOX Sports 2, Fubo Sports, FOX Sports online, FOX One\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد أبها — دوري روشن ا
+ لسعودي — 📺 FOX Deportes، FOX Sports 2، Fubo Sports، FOX Spor
+ ts online، FOX One | Tomorrow: Al Nassr FC vs Abha | TV: FOX Deportes\, F
+ OX Sports 2\, Fubo Sports\, FOX Sports online\, FOX One
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × أبها — 📺 FOX Deportes، FOX Sports 2، Fubo Sports، FOX Sport
+ s online، FOX One | Kick-off in 30 min: Al Nassr FC vs Abha | TV: FOX Dep
+ ortes\, FOX Sports 2\, Fubo Sports\, FOX Sports online\, FOX One
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970136@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260913T180000Z
+DTEND:20260913T200000Z
+SUMMARY:Al Diriyah vs Abha — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/5970136
+DESCRIPTION:⚽ الدرعية × أبها\n🏆 دوري روشن السع
+ ودي — الجولة 7\n🗓 الأحد 13 سبتمبر 2026 · 21:00 
+ بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n—————\n
+ ⚽ Al Diriyah v Abha\n🏆 Saudi Pro League — Matchday 7\n🗓 Sun 13 S
+ ep 2026 · 18:00 UTC\n🏟 Al-Awwal Park, Riyadh\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الدرعية ضد أبها — دوري روش
+ ن السعودي | Tomorrow: Al Diriyah vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الدرع
+ ية × أبها | Kick-off in 30 min: Al Diriyah vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970144@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T152500Z
+DTEND:20261011T172500Z
+SUMMARY:Abha vs Al-Faisaly — Saudi Pro League
+LOCATION:Prince Sultan bin Abdul Aziz Stadium
+URL:https://www.fotmob.com/match/5970144
+DESCRIPTION:⚽ أبها × الفيصلي\n🏆 دوري روشن السع
+ ودي — الجولة 8\n🗓 الأحد 11 أكتوبر 2026 · 18:25 
+ بتوقيت الرياض\n🏟 Prince Sultan bin Abdul Aziz Stadium\n—
+ ————\n⚽ Abha v Al-Faisaly\n🏆 Saudi Pro League — Matchday 8\
+ n🗓 Sun 11 Oct 2026 · 15:25 UTC\n🏟 Prince Sultan bin Abdul Aziz Stad
+ ium\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الفيصلي — دوري روش
+ ن السعودي | Tomorrow: Abha vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الفيصلي | Kick-off in 30 min: Abha vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970159@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261016T131500Z
+DTEND:20261016T151500Z
+SUMMARY:Al Qadsiah vs Abha — Saudi Pro League
+LOCATION:Prince Saud bin Jalawi Stadium
+URL:https://www.fotmob.com/match/5970159
+DESCRIPTION:⚽ القادسية × أبها\n🏆 دوري روشن الس
+ عودي — الجولة 9\n🗓 الجمعة 16 أكتوبر 2026 · 16:
+ 15 بتوقيت الرياض\n🏟 Prince Saud bin Jalawi Stadium\n——
+ ———\n⚽ Al Qadsiah v Abha\n🏆 Saudi Pro League — Matchday 9\n
+ 🗓 Fri 16 Oct 2026 · 13:15 UTC\n🏟 Prince Saud bin Jalawi Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد أبها — دوري رو
+ شن السعودي | Tomorrow: Al Qadsiah vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × أبها | Kick-off in 30 min: Al Qadsiah vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970162@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261019T152000Z
+DTEND:20261019T172000Z
+SUMMARY:Abha vs Al Kholood — Saudi Pro League
+LOCATION:Prince Sultan bin Abdul Aziz Stadium
+URL:https://www.fotmob.com/match/5970162
+DESCRIPTION:⚽ أبها × الخلود\n🏆 دوري روشن السعو
+ دي — الجولة 10\n🗓 الاثنين 19 أكتوبر 2026 · 18:2
+ 0 بتوقيت الرياض\n🏟 Prince Sultan bin Abdul Aziz Stadium\n
+ —————\n⚽ Abha v Al Kholood\n🏆 Saudi Pro League — Matchday
+  10\n🗓 Mon 19 Oct 2026 · 15:20 UTC\n🏟 Prince Sultan bin Abdul Aziz 
+ Stadium\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الخلود — دوري روشن 
+ السعودي | Tomorrow: Abha vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الخلود | Kick-off in 30 min: Abha vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970181@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Neom SC vs Abha — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium
+URL:https://www.fotmob.com/match/5970181
+DESCRIPTION:⚽ نيوم × أبها\n🏆 دوري روشن السعودي
+  — الجولة 11\n🗓 السبت 24 أكتوبر 2026 · 17:00 بتو
+ قيت الرياض\n🏟 King Khalid Sport City Stadium\n—————\
+ n⚽ Neom SC v Abha\n🏆 Saudi Pro League — Matchday 11\n🗓 Sat 24 Oc
+ t 2026 · 14:00 UTC\n🏟 King Khalid Sport City Stadium\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد أبها — دوري روشن ال
+ سعودي | Tomorrow: Neom SC vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  أبها | Kick-off in 30 min: Neom SC vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970182@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261030T134500Z
+DTEND:20261030T154500Z
+SUMMARY:Abha vs Al Ittihad — Saudi Pro League
+LOCATION:Prince Sultan bin Abdul Aziz Stadium
+URL:https://www.fotmob.com/match/5970182
+DESCRIPTION:⚽ أبها × الاتحاد\n🏆 دوري روشن السع
+ ودي — الجولة 12\n🗓 الجمعة 30 أكتوبر 2026 · 16:4
+ 5 بتوقيت الرياض\n🏟 Prince Sultan bin Abdul Aziz Stadium\n
+ —————\n⚽ Abha v Al Ittihad\n🏆 Saudi Pro League — Matchday
+  12\n🗓 Fri 30 Oct 2026 · 13:45 UTC\n🏟 Prince Sultan bin Abdul Aziz 
+ Stadium\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الاتحاد — دوري روش
+ ن السعودي | Tomorrow: Abha vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الاتحاد | Kick-off in 30 min: Abha vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021469@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:Abha vs Al Shabab — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/1000021469
+DESCRIPTION:⚽ أبها × الشباب\n🏆 دوري روشن السعو
+ دي — الجولة 13\n🗓 الخميس 5 نوفمبر 2026 · 03:00 
+ بتوقيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sports City St
+ adium، Abha\n—————\n⚽ Abha v Al Shabab\n🏆 Saudi Pro League
+  — Matchday 13\n🗓 Thu 05 Nov 2026 · 00:00 UTC\n🏟 Prince Sultan bi
+ n Abdulaziz Sports City Stadium, Abha\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الشباب — دوري روشن 
+ السعودي | Tomorrow: Abha vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الشباب | Kick-off in 30 min: Abha vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021484@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Al-Taawoun vs Abha — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/1000021484
+DESCRIPTION:⚽ التعاون × أبها\n🏆 دوري روشن السع
+ ودي — الجولة 14\n🗓 الجمعة 20 نوفمبر 2026 · 03:0
+ 0 بتوقيت الرياض\n🏟 Al Taawoun Club Stadium، Buraydah\n—
+ ————\n⚽ Al-Taawoun v Abha\n🏆 Saudi Pro League — Matchday 14
+ \n🗓 Fri 20 Nov 2026 · 00:00 UTC\n🏟 Al Taawoun Club Stadium, Burayda
+ h\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد أبها — دوري روش
+ ن السعودي | Tomorrow: Al-Taawoun vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × أبها | Kick-off in 30 min: Al-Taawoun vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021486@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Abha vs Al Riyadh — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/1000021486
+DESCRIPTION:⚽ أبها × الرياض\n🏆 دوري روشن السعو
+ دي — الجولة 15\n🗓 الخميس 26 نوفمبر 2026 · 03:00 
+ بتوقيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sports City St
+ adium، Abha\n—————\n⚽ Abha v Al Riyadh\n🏆 Saudi Pro League
+  — Matchday 15\n🗓 Thu 26 Nov 2026 · 00:00 UTC\n🏟 Prince Sultan bi
+ n Abdulaziz Sports City Stadium, Abha\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الرياض — دوري روشن 
+ السعودي | Tomorrow: Abha vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الرياض | Kick-off in 30 min: Abha vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021499@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Al Hilal vs Abha — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/1000021499
+DESCRIPTION:⚽ الهلال × أبها\n🏆 دوري روشن السعو
+ دي — الجولة 16\n🗓 الخميس 3 ديسمبر 2026 · 03:00 
+ بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n—————\n
+ ⚽ Al Hilal v Abha\n🏆 Saudi Pro League — Matchday 16\n🗓 Thu 03 De
+ c 2026 · 00:00 UTC\n🏟 Kingdom Arena, Riyadh\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد أبها — دوري روشن 
+ السعودي | Tomorrow: Al Hilal vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × أبها | Kick-off in 30 min: Al Hilal vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021504@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Abha vs Al Fateh FC — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/1000021504
+DESCRIPTION:⚽ أبها × الفتح\n🏆 دوري روشن السعود
+ ي — الجولة 17\n🗓 الخميس 10 ديسمبر 2026 · 03:00 ب
+ توقيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sports City Stad
+ ium، Abha\n—————\n⚽ Abha v Al Fateh FC\n🏆 Saudi Pro League
+  — Matchday 17\n🗓 Thu 10 Dec 2026 · 00:00 UTC\n🏟 Prince Sultan bi
+ n Abdulaziz Sports City Stadium, Abha\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الفتح — دوري روشن ا
+ لسعودي | Tomorrow: Abha vs Al Fateh FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الفتح | Kick-off in 30 min: Abha vs Al Fateh FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021516@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261214T000000Z
+DTEND:20261214T020000Z
+SUMMARY:Al Hazem vs Abha — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021516
+DESCRIPTION:⚽ الحزم × أبها\n🏆 دوري روشن السعود
+ ي — الجولة 18\n🗓 الاثنين 14 ديسمبر 2026 · 03:00 
+ بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، A
+ r Rass\n—————\n⚽ Al Hazem v Abha\n🏆 Saudi Pro League — Ma
+ tchday 18\n🗓 Mon 14 Dec 2026 · 00:00 UTC\n🏟 Ar-Rass Stadium (Al Haz
+ m Club Stadium), Ar Rass\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد أبها — دوري روشن ا
+ لسعودي | Tomorrow: Al Hazem vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × أبها | Kick-off in 30 min: Al Hazem vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021522@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270211T000000Z
+DTEND:20270211T020000Z
+SUMMARY:Abha vs Al Ahli — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/1000021522
+DESCRIPTION:⚽ أبها × الأهلي\n🏆 دوري روشن السعو
+ دي — الجولة 19\n🗓 الخميس 11 فبراير 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sports City St
+ adium، Abha\n—————\n⚽ Abha v Al Ahli\n🏆 Saudi Pro League 
+ — Matchday 19\n🗓 Thu 11 Feb 2027 · 00:00 UTC\n🏟 Prince Sultan bin
+  Abdulaziz Sports City Stadium, Abha\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الأهلي — دوري روشن 
+ السعودي | Tomorrow: Abha vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الأهلي | Kick-off in 30 min: Abha vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021535@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270218T000000Z
+DTEND:20270218T020000Z
+SUMMARY:Al Khaleej vs Abha — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021535
+DESCRIPTION:⚽ الخليج × أبها\n🏆 دوري روشن السعو
+ دي — الجولة 20\n🗓 الخميس 18 فبراير 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Dammam\
+ n—————\n⚽ Al Khaleej v Abha\n🏆 Saudi Pro League — Matchda
+ y 20\n🗓 Thu 18 Feb 2027 · 00:00 UTC\n🏟 Prince Mohammed Bin Fahd Sta
+ dium, Dammam\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد أبها — دوري روشن 
+ السعودي | Tomorrow: Al Khaleej vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × أبها | Kick-off in 30 min: Al Khaleej vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021541@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270225T000000Z
+DTEND:20270225T020000Z
+SUMMARY:Abha vs Al-Fayha — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/1000021541
+DESCRIPTION:⚽ أبها × الفيحاء\n🏆 دوري روشن السع
+ ودي — الجولة 21\n🗓 الخميس 25 فبراير 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sports City 
+ Stadium، Abha\n—————\n⚽ Abha v Al-Fayha\n🏆 Saudi Pro Leagu
+ e — Matchday 21\n🗓 Thu 25 Feb 2027 · 00:00 UTC\n🏟 Prince Sultan b
+ in Abdulaziz Sports City Stadium, Abha\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الفيحاء — دوري روش
+ ن السعودي | Tomorrow: Abha vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الفيحاء | Kick-off in 30 min: Abha vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021549@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270311T000000Z
+DTEND:20270311T020000Z
+SUMMARY:Al-Ettifaq vs Abha — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/1000021549
+DESCRIPTION:⚽ الاتفاق × أبها\n🏆 دوري روشن السع
+ ودي — الجولة 22\n🗓 الخميس 11 مارس 2027 · 03:00 ب
+ توقيت الرياض\n🏟 Al Ettifaq Club Stadium، Dammam\n———
+ ——\n⚽ Al-Ettifaq v Abha\n🏆 Saudi Pro League — Matchday 22\n🗓
+  Thu 11 Mar 2027 · 00:00 UTC\n🏟 Al Ettifaq Club Stadium, Dammam\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد أبها — دوري روش
+ ن السعودي | Tomorrow: Al-Ettifaq vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × أبها | Kick-off in 30 min: Al-Ettifaq vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021559@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270318T000000Z
+DTEND:20270318T020000Z
+SUMMARY:Abha vs Al Nassr FC — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/1000021559
+DESCRIPTION:⚽ أبها × النصر\n🏆 دوري روشن السعود
+ ي — الجولة 23\n🗓 الخميس 18 مارس 2027 · 03:00 بتو
+ قيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sports City Stadium
+ ، Abha\n—————\n⚽ Abha v Al Nassr FC\n🏆 Saudi Pro League 
+ — Matchday 23\n🗓 Thu 18 Mar 2027 · 00:00 UTC\n🏟 Prince Sultan bin
+  Abdulaziz Sports City Stadium, Abha\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد النصر — دوري روشن ا
+ لسعودي | Tomorrow: Abha vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  النصر | Kick-off in 30 min: Abha vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021567@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270402T000000Z
+DTEND:20270402T020000Z
+SUMMARY:Abha vs Al Diriyah — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/1000021567
+DESCRIPTION:⚽ أبها × الدرعية\n🏆 دوري روشن السع
+ ودي — الجولة 24\n🗓 الجمعة 2 أبريل 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sports City St
+ adium، Abha\n—————\n⚽ Abha v Al Diriyah\n🏆 Saudi Pro Leagu
+ e — Matchday 24\n🗓 Fri 02 Apr 2027 · 00:00 UTC\n🏟 Prince Sultan b
+ in Abdulaziz Sports City Stadium, Abha\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الدرعية — دوري روش
+ ن السعودي | Tomorrow: Abha vs Al Diriyah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الدرعية | Kick-off in 30 min: Abha vs Al Diriyah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021579@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270408T000000Z
+DTEND:20270408T020000Z
+SUMMARY:Al-Faisaly vs Abha — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021579
+DESCRIPTION:⚽ الفيصلي × أبها\n🏆 دوري روشن السع
+ ودي — الجولة 25\n🗓 الخميس 8 أبريل 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al Majma
+ 'ah\n—————\n⚽ Al-Faisaly v Abha\n🏆 Saudi Pro League — Mat
+ chday 25\n🗓 Thu 08 Apr 2027 · 00:00 UTC\n🏟 Al Majma'ah Sports City 
+ Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد أبها — دوري روش
+ ن السعودي | Tomorrow: Al-Faisaly vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × أبها | Kick-off in 30 min: Al-Faisaly vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021585@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270415T000000Z
+DTEND:20270415T020000Z
+SUMMARY:Abha vs Al Qadsiah — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/1000021585
+DESCRIPTION:⚽ أبها × القادسية\n🏆 دوري روشن الس
+ عودي — الجولة 26\n🗓 الخميس 15 أبريل 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sports City 
+ Stadium، Abha\n—————\n⚽ Abha v Al Qadsiah\n🏆 Saudi Pro Lea
+ gue — Matchday 26\n🗓 Thu 15 Apr 2027 · 00:00 UTC\n🏟 Prince Sultan
+  bin Abdulaziz Sports City Stadium, Abha\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد القادسية — دوري رو
+ شن السعودي | Tomorrow: Abha vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  القادسية | Kick-off in 30 min: Abha vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021598@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T000000Z
+DTEND:20270418T020000Z
+SUMMARY:Al Kholood vs Abha — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021598
+DESCRIPTION:⚽ الخلود × أبها\n🏆 دوري روشن السعو
+ دي — الجولة 27\n🗓 الأحد 18 أبريل 2027 · 03:00 بت
+ وقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، Ar Ra
+ ss\n—————\n⚽ Al Kholood v Abha\n🏆 Saudi Pro League — Matc
+ hday 27\n🗓 Sun 18 Apr 2027 · 00:00 UTC\n🏟 Ar-Rass Stadium (Al Hazm 
+ Club Stadium), Ar Rass\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد أبها — دوري روشن 
+ السعودي | Tomorrow: Al Kholood vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × أبها | Kick-off in 30 min: Al Kholood vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021603@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270422T000000Z
+DTEND:20270422T020000Z
+SUMMARY:Abha vs Neom SC — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/1000021603
+DESCRIPTION:⚽ أبها × نيوم\n🏆 دوري روشن السعودي
+  — الجولة 28\n🗓 الخميس 22 أبريل 2027 · 03:00 بتو
+ قيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sports City Stadium
+ ، Abha\n—————\n⚽ Abha v Neom SC\n🏆 Saudi Pro League — Ma
+ tchday 28\n🗓 Thu 22 Apr 2027 · 00:00 UTC\n🏟 Prince Sultan bin Abdul
+ aziz Sports City Stadium, Abha\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد نيوم — دوري روشن ال
+ سعودي | Tomorrow: Abha vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  نيوم | Kick-off in 30 min: Abha vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021616@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270429T000000Z
+DTEND:20270429T020000Z
+SUMMARY:Al Ittihad vs Abha — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021616
+DESCRIPTION:⚽ الاتحاد × أبها\n🏆 دوري روشن السع
+ ودي — الجولة 29\n🗓 الخميس 29 أبريل 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah Sport
+  City، Jeddah\n—————\n⚽ Al Ittihad v Abha\n🏆 Saudi Pro Lea
+ gue — Matchday 29\n🗓 Thu 29 Apr 2027 · 00:00 UTC\n🏟 Alinma Bank S
+ tadium at King Abdullah Sport City, Jeddah\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد أبها — دوري روش
+ ن السعودي | Tomorrow: Al Ittihad vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × أبها | Kick-off in 30 min: Al Ittihad vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021626@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270506T000000Z
+DTEND:20270506T020000Z
+SUMMARY:Al Shabab vs Abha — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/1000021626
+DESCRIPTION:⚽ الشباب × أبها\n🏆 دوري روشن السعو
+ دي — الجولة 30\n🗓 الخميس 6 مايو 2027 · 03:00 بت
+ وقيت الرياض\n🏟 SHG Arena، Riyadh\n—————\n⚽ Al Sh
+ abab v Abha\n🏆 Saudi Pro League — Matchday 30\n🗓 Thu 06 May 2027 
+ · 00:00 UTC\n🏟 SHG Arena, Riyadh\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد أبها — دوري روشن 
+ السعودي | Tomorrow: Al Shabab vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × أبها | Kick-off in 30 min: Al Shabab vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021630@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270512T000000Z
+DTEND:20270512T020000Z
+SUMMARY:Abha vs Al-Taawoun — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/1000021630
+DESCRIPTION:⚽ أبها × التعاون\n🏆 دوري روشن السع
+ ودي — الجولة 31\n🗓 الأربعاء 12 مايو 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sports City 
+ Stadium، Abha\n—————\n⚽ Abha v Al-Taawoun\n🏆 Saudi Pro Lea
+ gue — Matchday 31\n🗓 Wed 12 May 2027 · 00:00 UTC\n🏟 Prince Sultan
+  bin Abdulaziz Sports City Stadium, Abha\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد التعاون — دوري روش
+ ن السعودي | Tomorrow: Abha vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  التعاون | Kick-off in 30 min: Abha vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021645@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270520T000000Z
+DTEND:20270520T020000Z
+SUMMARY:Al Riyadh vs Abha — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/1000021645
+DESCRIPTION:⚽ الرياض × أبها\n🏆 دوري روشن السعو
+ دي — الجولة 32\n🗓 الخميس 20 مايو 2027 · 03:00 بت
+ وقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، Riyadh\n—
+ ————\n⚽ Al Riyadh v Abha\n🏆 Saudi Pro League — Matchday 32\
+ n🗓 Thu 20 May 2027 · 00:00 UTC\n🏟 Prince Faisal bin Fahd Stadium, R
+ iyadh\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد أبها — دوري روشن 
+ السعودي | Tomorrow: Al Riyadh vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × أبها | Kick-off in 30 min: Al Riyadh vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021648@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270524T000000Z
+DTEND:20270524T020000Z
+SUMMARY:Abha vs Al Hilal — Saudi Pro League
+LOCATION:Prince Sultan bin Abdulaziz Sports City Stadium\, Abha\, Saudi Ara
+ bia
+GEO:18.310529;42.598329
+URL:https://www.fotmob.com/match/1000021648
+DESCRIPTION:⚽ أبها × الهلال\n🏆 دوري روشن السعو
+ دي — الجولة 33\n🗓 الاثنين 24 مايو 2027 · 03:00 ب
+ توقيت الرياض\n🏟 Prince Sultan bin Abdulaziz Sports City Stad
+ ium، Abha\n—————\n⚽ Abha v Al Hilal\n🏆 Saudi Pro League 
+ — Matchday 33\n🗓 Mon 24 May 2027 · 00:00 UTC\n🏟 Prince Sultan bin
+  Abdulaziz Sports City Stadium, Abha\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الهلال — دوري روشن 
+ السعودي | Tomorrow: Abha vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الهلال | Kick-off in 30 min: Abha vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021658@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270528T000000Z
+DTEND:20270528T020000Z
+SUMMARY:Al Fateh FC vs Abha — Saudi Pro League
+LOCATION:Maydan Tamweel Aloula\, Al Ahsa\, Saudi Arabia
+GEO:25.429604;49.581390
+URL:https://www.fotmob.com/match/1000021658
+DESCRIPTION:⚽ الفتح × أبها\n🏆 دوري روشن السعود
+ ي — الجولة 34\n🗓 الجمعة 28 مايو 2027 · 03:00 بتو
+ قيت الرياض\n🏟 Maydan Tamweel Aloula، Al Ahsa\n—————
+ \n⚽ Al Fateh FC v Abha\n🏆 Saudi Pro League — Matchday 34\n🗓 Fri 
+ 28 May 2027 · 00:00 UTC\n🏟 Maydan Tamweel Aloula, Al Ahsa\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفتح ضد أبها — دوري روشن ا
+ لسعودي | Tomorrow: Al Fateh FC vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفتح 
+ × أبها | Kick-off in 30 min: Al Fateh FC vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853720@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260816T164000Z
+DTEND:20260816T184000Z
+SUMMARY:Al-Orobah FC vs Abha (0 - 0) — King's Cup
+LOCATION:Al-Oruba Club Stadium\, Sakaka (Al Jawf)\, Saudi Arabia
+GEO:30.004826;40.212528
+URL:https://www.fotmob.com/match/5853720
+DESCRIPTION:⚽ العروبة × أبها (0 - 0)\n🏆 كأس خادم ا
+ لحرمين الشريفين — دور الـ32\n🗓 الأحد 16 أغ
+ سطس 2026 · 19:40 بتوقيت الرياض\n🏟 Al-Oruba Club Stadium
+ ، Sakaka (Al Jawf)\n—————\n⚽ Al-Orobah FC v Abha (0 - 0)\n
+ 🏆 King's Cup — Round of 32\n🗓 Sun 16 Aug 2026 · 16:40 UTC\n🏟 A
+ l-Oruba Club Stadium, Sakaka (Al Jawf)\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: العروبة ضد أبها — كأس خادم 
+ الحرمين الشريفين | Tomorrow: Al-Orobah FC vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: العرو
+ بة × أبها | Kick-off in 30 min: Al-Orobah FC vs Abha
+END:VALARM
+END:VEVENT
+END:VCALENDAR

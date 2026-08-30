@@ -1,0 +1,305 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Công An Hà Nội — AFC Champions League Elite Fixtures
+  | كونغ آن هانوي — مباريات دوري أبطال آسي
+ ا للنخبة
+X-WR-CALDESC:Công An Hà Nội — all matches in AFC Champions League Eli
+ te\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-
+ updated 2026-09-05T19:31:10Z.  •  كونغ آن هانوي — جميع 
+ المباريات في دوري أبطال آسيا للنخبة بتوق
+ يت UTC الدقيق مع الملاعب والقنوات الناقلة.
+  المصدر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19
+ :31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6049977@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260915T100000Z
+DTEND:20260915T120000Z
+SUMMARY:Gamba Osaka vs Công An Hà Nội — AFC Champions League Elite
+LOCATION:Panasonic Stadium Suita\, Suita\, Japan
+GEO:34.802763;135.538199
+URL:https://www.fotmob.com/match/6049977
+DESCRIPTION:⚽ غامبا أوساكا × كونغ آن هانوي\n🏆 
+ دوري أبطال آسيا للنخبة — الجولة 1\n🗓 الث
+ لاثاء 15 سبتمبر 2026 · 13:00 بتوقيت الرياض\n🏟 P
+ anasonic Stadium Suita، Suita\n—————\n⚽ Gamba Osaka v Công A
+ n Hà Nội\n🏆 AFC Champions League Elite — Matchday 1\n🗓 Tue 15 S
+ ep 2026 · 10:00 UTC\n🏟 Panasonic Stadium Suita, Suita\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غامبا أوساكا ضد كونغ آن هان
+ وي — دوري أبطال آسيا للنخبة | Tomorrow: Gamba Osaka
+  vs Công An Hà Nội
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غامبا 
+ أوساكا × كونغ آن هانوي | Kick-off in 30 min: Gamba Osaka
+  vs Công An Hà Nội
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049991@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261013T121500Z
+DTEND:20261013T141500Z
+SUMMARY:Công An Hà Nội vs Kashima Antlers — AFC Champions League Elit
+ e
+LOCATION:Sân vận động Hàng Đẫy (Hang Day Stadium)\, Hà Nội (Ha
+ noi)\, Vietnam
+GEO:21.029837;105.832973
+URL:https://www.fotmob.com/match/6049991
+DESCRIPTION:⚽ كونغ آن هانوي × كاشيما أنتليرز\n
+ 🏆 دوري أبطال آسيا للنخبة — الجولة 2\n🗓 ا
+ لثلاثاء 13 أكتوبر 2026 · 15:15 بتوقيت الرياض\n
+ 🏟 Sân vận động Hàng Đẫy (Hang Day Stadium)، Hà Nội (Hanoi
+ )\n—————\n⚽ Công An Hà Nội v Kashima Antlers\n🏆 AFC Cha
+ mpions League Elite — Matchday 2\n🗓 Tue 13 Oct 2026 · 12:15 UTC\n
+ 🏟 Sân vận động Hàng Đẫy (Hang Day Stadium), Hà Nội (Hanoi)
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كونغ آن هانوي ضد كاشيما أنت
+ ليرز — دوري أبطال آسيا للنخبة | Tomorrow: Công A
+ n Hà Nội vs Kashima Antlers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كونغ آ
+ ن هانوي × كاشيما أنتليرز | Kick-off in 30 min: Công A
+ n Hà Nội vs Kashima Antlers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049995@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261027T110000Z
+DTEND:20261027T130000Z
+SUMMARY:Shanghai Port vs Công An Hà Nội — AFC Champions League Elite
+LOCATION:SAIC Motor Pudong Arena\, Shanghai\, China
+GEO:31.240638;121.607021
+URL:https://www.fotmob.com/match/6049995
+DESCRIPTION:⚽ شنغهاي بورت × كونغ آن هانوي\n🏆 د
+ وري أبطال آسيا للنخبة — الجولة 3\n🗓 الثل
+ اثاء 27 أكتوبر 2026 · 14:00 بتوقيت الرياض\n🏟 SAI
+ C Motor Pudong Arena، Shanghai\n—————\n⚽ Shanghai Port v Côn
+ g An Hà Nội\n🏆 AFC Champions League Elite — Matchday 3\n🗓 Tue 2
+ 7 Oct 2026 · 11:00 UTC\n🏟 SAIC Motor Pudong Arena, Shanghai\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شنغهاي بورت ضد كونغ آن هانو
+ ي — دوري أبطال آسيا للنخبة | Tomorrow: Shanghai Port
+  vs Công An Hà Nội
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شنغها
+ ي بورت × كونغ آن هانوي | Kick-off in 30 min: Shanghai Por
+ t vs Công An Hà Nội
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050004@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261103T131500Z
+DTEND:20261103T151500Z
+SUMMARY:Công An Hà Nội vs Kyoto Sanga FC — AFC Champions League Elite
+LOCATION:Sân vận động Hàng Đẫy (Hang Day Stadium)\, Hà Nội (Ha
+ noi)\, Vietnam
+GEO:21.029837;105.832973
+URL:https://www.fotmob.com/match/6050004
+DESCRIPTION:⚽ كونغ آن هانوي × Kyoto Sanga FC\n🏆 دوري 
+ أبطال آسيا للنخبة — الجولة 4\n🗓 الثلاثاء
+  3 نوفمبر 2026 · 16:15 بتوقيت الرياض\n🏟 Sân vận 
+ động Hàng Đẫy (Hang Day Stadium)، Hà Nội (Hanoi)\n————
+ —\n⚽ Công An Hà Nội v Kyoto Sanga FC\n🏆 AFC Champions League El
+ ite — Matchday 4\n🗓 Tue 03 Nov 2026 · 13:15 UTC\n🏟 Sân vận đ
+ ộng Hàng Đẫy (Hang Day Stadium), Hà Nội (Hanoi)\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كونغ آن هانوي ضد Kyoto Sanga FC — 
+ دوري أبطال آسيا للنخبة | Tomorrow: Công An Hà Nội v
+ s Kyoto Sanga FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كونغ آ
+ ن هانوي × Kyoto Sanga FC | Kick-off in 30 min: Công An Hà Nội v
+ s Kyoto Sanga FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050011@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261124T131500Z
+DTEND:20261124T151500Z
+SUMMARY:Công An Hà Nội vs Vissel Kobe — AFC Champions League Elite
+LOCATION:Sân vận động Hàng Đẫy (Hang Day Stadium)\, Hà Nội (Ha
+ noi)\, Vietnam
+GEO:21.029837;105.832973
+URL:https://www.fotmob.com/match/6050011
+DESCRIPTION:⚽ كونغ آن هانوي × فيسيل كوبي\n🏆 دو
+ ري أبطال آسيا للنخبة — الجولة 5\n🗓 الثلا
+ ثاء 24 نوفمبر 2026 · 16:15 بتوقيت الرياض\n🏟 Sân 
+ vận động Hàng Đẫy (Hang Day Stadium)، Hà Nội (Hanoi)\n——
+ ———\n⚽ Công An Hà Nội v Vissel Kobe\n🏆 AFC Champions League
+  Elite — Matchday 5\n🗓 Tue 24 Nov 2026 · 13:15 UTC\n🏟 Sân vận 
+ động Hàng Đẫy (Hang Day Stadium), Hà Nội (Hanoi)\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كونغ آن هانوي ضد فيسيل كوبي
+  — دوري أبطال آسيا للنخبة | Tomorrow: Công An Hà N
+ ội vs Vissel Kobe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كونغ آ
+ ن هانوي × فيسيل كوبي | Kick-off in 30 min: Công An Hà N
+ ội vs Vissel Kobe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050016@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261201T110000Z
+DTEND:20261201T130000Z
+SUMMARY:Kashiwa Reysol vs Công An Hà Nội — AFC Champions League Elite
+LOCATION:SANKYO FRONTIER Kashiwa Stadium\, Kashiwa\, Japan
+GEO:35.848465;139.975133
+URL:https://www.fotmob.com/match/6050016
+DESCRIPTION:⚽ كاشيوا ريسول × كونغ آن هانوي\n🏆 
+ دوري أبطال آسيا للنخبة — الجولة 6\n🗓 الث
+ لاثاء 1 ديسمبر 2026 · 14:00 بتوقيت الرياض\n🏟 SA
+ NKYO FRONTIER Kashiwa Stadium، Kashiwa\n—————\n⚽ Kashiwa Reys
+ ol v Công An Hà Nội\n🏆 AFC Champions League Elite — Matchday 6\n
+ 🗓 Tue 01 Dec 2026 · 11:00 UTC\n🏟 SANKYO FRONTIER Kashiwa Stadium, K
+ ashiwa\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كاشيوا ريسول ضد كونغ آن هان
+ وي — دوري أبطال آسيا للنخبة | Tomorrow: Kashiwa Rey
+ sol vs Công An Hà Nội
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاشيو
+ ا ريسول × كونغ آن هانوي | Kick-off in 30 min: Kashiwa Re
+ ysol vs Công An Hà Nội
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050028@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270209T131500Z
+DTEND:20270209T151500Z
+SUMMARY:Công An Hà Nội vs Beijing Guoan — AFC Champions League Elite
+LOCATION:Sân vận động Hàng Đẫy (Hang Day Stadium)\, Hà Nội (Ha
+ noi)\, Vietnam
+GEO:21.029837;105.832973
+URL:https://www.fotmob.com/match/6050028
+DESCRIPTION:⚽ كونغ آن هانوي × بكين كوان\n🏆 دور
+ ي أبطال آسيا للنخبة — الجولة 7\n🗓 الثلاث
+ اء 9 فبراير 2027 · 16:15 بتوقيت الرياض\n🏟 Sân v
+ ận động Hàng Đẫy (Hang Day Stadium)، Hà Nội (Hanoi)\n——
+ ———\n⚽ Công An Hà Nội v Beijing Guoan\n🏆 AFC Champions Leag
+ ue Elite — Matchday 7\n🗓 Tue 09 Feb 2027 · 13:15 UTC\n🏟 Sân vậ
+ n động Hàng Đẫy (Hang Day Stadium), Hà Nội (Hanoi)\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كونغ آن هانوي ضد بكين كوان 
+ — دوري أبطال آسيا للنخبة | Tomorrow: Công An Hà N
+ ội vs Beijing Guoan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كونغ آ
+ ن هانوي × بكين كوان | Kick-off in 30 min: Công An Hà Nộ
+ i vs Beijing Guoan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050036@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270216T110000Z
+DTEND:20270216T130000Z
+SUMMARY:Johor Darul Ta'zim vs Công An Hà Nội — AFC Champions League E
+ lite
+LOCATION:Stadium Sultan Ibrahim Larkin\, Iskandar Puteri (Nusajaya)\, Malay
+ sia
+GEO:1.481781;103.619313
+URL:https://www.fotmob.com/match/6050036
+DESCRIPTION:⚽ جوهور × كونغ آن هانوي\n🏆 دوري أب
+ طال آسيا للنخبة — الجولة 8\n🗓 الثلاثاء 16 
+ فبراير 2027 · 14:00 بتوقيت الرياض\n🏟 Stadium Sultan 
+ Ibrahim Larkin، Iskandar Puteri (Nusajaya)\n—————\n⚽ Johor Da
+ rul Ta'zim v Công An Hà Nội\n🏆 AFC Champions League Elite — Match
+ day 8\n🗓 Tue 16 Feb 2027 · 11:00 UTC\n🏟 Stadium Sultan Ibrahim Lark
+ in, Iskandar Puteri (Nusajaya)\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جوهور ضد كونغ آن هانوي — دو
+ ري أبطال آسيا للنخبة | Tomorrow: Johor Darul Ta'zim vs C
+ ông An Hà Nội
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جوهور 
+ × كونغ آن هانوي | Kick-off in 30 min: Johor Darul Ta'zim vs C
+ ông An Hà Nội
+END:VALARM
+END:VEVENT
+END:VCALENDAR

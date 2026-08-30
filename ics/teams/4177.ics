@@ -1,0 +1,294 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Beijing Guoan — AFC Champions League Elite Fixtures | ب
+ كين كوان — مباريات دوري أبطال آسيا للنخب
+ ة
+X-WR-CALDESC:Beijing Guoan — all matches in AFC Champions League Elite\, 
+ exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updat
+ ed 2026-09-05T19:31:10Z.  •  بكين كوان — جميع المبار
+ يات في دوري أبطال آسيا للنخبة بتوقيت UTC ا
+ لدقيق مع الملاعب والقنوات الناقلة. المصد
+ ر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6049980@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260915T121500Z
+DTEND:20260915T141500Z
+SUMMARY:Beijing Guoan vs Pohang Steelers — AFC Champions League Elite
+LOCATION:Workers' Stadium\, Beijing\, China
+GEO:39.929521;116.441002
+URL:https://www.fotmob.com/match/6049980
+DESCRIPTION:⚽ بكين كوان × بوهانغ ستيليرز\n🏆 دو
+ ري أبطال آسيا للنخبة — الجولة 1\n🗓 الثلا
+ ثاء 15 سبتمبر 2026 · 15:15 بتوقيت الرياض\n🏟 Worke
+ rs' Stadium، Beijing\n—————\n⚽ Beijing Guoan v Pohang Steeler
+ s\n🏆 AFC Champions League Elite — Matchday 1\n🗓 Tue 15 Sep 2026 ·
+  12:15 UTC\n🏟 Workers' Stadium, Beijing\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بكين كوان ضد بوهانغ ستيلير
+ ز — دوري أبطال آسيا للنخبة | Tomorrow: Beijing Guoan
+  vs Pohang Steelers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بكين ك
+ وان × بوهانغ ستيليرز | Kick-off in 30 min: Beijing Guoan 
+ vs Pohang Steelers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049990@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261013T121500Z
+DTEND:20261013T141500Z
+SUMMARY:Buriram United vs Beijing Guoan — AFC Champions League Elite
+LOCATION:Chang Arena\, Buriram\, Thailand
+GEO:14.966666;103.096036
+URL:https://www.fotmob.com/match/6049990
+DESCRIPTION:⚽ بوريرام يونايتد × بكين كوان\n🏆 د
+ وري أبطال آسيا للنخبة — الجولة 2\n🗓 الثل
+ اثاء 13 أكتوبر 2026 · 15:15 بتوقيت الرياض\n🏟 Cha
+ ng Arena، Buriram\n—————\n⚽ Buriram United v Beijing Guoan\n
+ 🏆 AFC Champions League Elite — Matchday 2\n🗓 Tue 13 Oct 2026 · 12
+ :15 UTC\n🏟 Chang Arena, Buriram\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوريرام يونايتد ضد بكين كو
+ ان — دوري أبطال آسيا للنخبة | Tomorrow: Buriram Uni
+ ted vs Beijing Guoan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورير
+ ام يونايتد × بكين كوان | Kick-off in 30 min: Buriram Uni
+ ted vs Beijing Guoan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049996@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261027T131500Z
+DTEND:20261027T151500Z
+SUMMARY:Beijing Guoan vs Jeonbuk Hyundai Motors FC — AFC Champions League
+  Elite
+LOCATION:Workers' Stadium\, Beijing\, China
+GEO:39.929521;116.441002
+URL:https://www.fotmob.com/match/6049996
+DESCRIPTION:⚽ بكين كوان × تشانبوك موتورز\n🏆 دو
+ ري أبطال آسيا للنخبة — الجولة 3\n🗓 الثلا
+ ثاء 27 أكتوبر 2026 · 16:15 بتوقيت الرياض\n🏟 Worke
+ rs' Stadium، Beijing\n—————\n⚽ Beijing Guoan v Jeonbuk Hyunda
+ i Motors FC\n🏆 AFC Champions League Elite — Matchday 3\n🗓 Tue 27 O
+ ct 2026 · 13:15 UTC\n🏟 Workers' Stadium, Beijing\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بكين كوان ضد تشانبوك موتور
+ ز — دوري أبطال آسيا للنخبة | Tomorrow: Beijing Guoan
+  vs Jeonbuk Hyundai Motors FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بكين ك
+ وان × تشانبوك موتورز | Kick-off in 30 min: Beijing Guoan 
+ vs Jeonbuk Hyundai Motors FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050005@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261103T131500Z
+DTEND:20261103T151500Z
+SUMMARY:Port FC vs Beijing Guoan — AFC Champions League Elite
+LOCATION:Thammasat Stadium\, Pathum Thani\, Thailand
+GEO:14.068009;100.598931
+URL:https://www.fotmob.com/match/6050005
+DESCRIPTION:⚽ Port FC × بكين كوان\n🏆 دوري أبطال آس
+ يا للنخبة — الجولة 4\n🗓 الثلاثاء 3 نوفمبر
+  2026 · 16:15 بتوقيت الرياض\n🏟 Thammasat Stadium، Pathum 
+ Thani\n—————\n⚽ Port FC v Beijing Guoan\n🏆 AFC Champions Le
+ ague Elite — Matchday 4\n🗓 Tue 03 Nov 2026 · 13:15 UTC\n🏟 Thammas
+ at Stadium, Pathum Thani\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Port FC ضد بكين كوان — دوري أب
+ طال آسيا للنخبة | Tomorrow: Port FC vs Beijing Guoan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Port FC × 
+ بكين كوان | Kick-off in 30 min: Port FC vs Beijing Guoan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050009@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261124T110000Z
+DTEND:20261124T130000Z
+SUMMARY:Daejeon Hana Citizen vs Beijing Guoan — AFC Champions League Elit
+ e
+LOCATION:Daejeon World Cup Stadium\, Daejeon\, South Korea
+GEO:36.365207;127.325213
+URL:https://www.fotmob.com/match/6050009
+DESCRIPTION:⚽ دايجيون سيتيزن × بكين كوان\n🏆 دو
+ ري أبطال آسيا للنخبة — الجولة 5\n🗓 الثلا
+ ثاء 24 نوفمبر 2026 · 14:00 بتوقيت الرياض\n🏟 Daeje
+ on World Cup Stadium، Daejeon\n—————\n⚽ Daejeon Hana Citizen 
+ v Beijing Guoan\n🏆 AFC Champions League Elite — Matchday 5\n🗓 Tue 
+ 24 Nov 2026 · 11:00 UTC\n🏟 Daejeon World Cup Stadium, Daejeon\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: دايجيون سيتيزن ضد بكين كوا
+ ن — دوري أبطال آسيا للنخبة | Tomorrow: Daejeon Hana 
+ Citizen vs Beijing Guoan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: دايجي
+ ون سيتيزن × بكين كوان | Kick-off in 30 min: Daejeon Hana 
+ Citizen vs Beijing Guoan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050019@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261201T131500Z
+DTEND:20261201T151500Z
+SUMMARY:Beijing Guoan vs Ratchaburi FC — AFC Champions League Elite
+LOCATION:Workers' Stadium\, Beijing\, China
+GEO:39.929521;116.441002
+URL:https://www.fotmob.com/match/6050019
+DESCRIPTION:⚽ بكين كوان × راتشابوري\n🏆 دوري أب
+ طال آسيا للنخبة — الجولة 6\n🗓 الثلاثاء 1 
+ ديسمبر 2026 · 16:15 بتوقيت الرياض\n🏟 Workers' Stadiu
+ m، Beijing\n—————\n⚽ Beijing Guoan v Ratchaburi FC\n🏆 AFC 
+ Champions League Elite — Matchday 6\n🗓 Tue 01 Dec 2026 · 13:15 UTC\n
+ 🏟 Workers' Stadium, Beijing\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بكين كوان ضد راتشابوري — د
+ وري أبطال آسيا للنخبة | Tomorrow: Beijing Guoan vs Ratch
+ aburi FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بكين ك
+ وان × راتشابوري | Kick-off in 30 min: Beijing Guoan vs Ratcha
+ buri FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050028@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270209T131500Z
+DTEND:20270209T151500Z
+SUMMARY:Công An Hà Nội vs Beijing Guoan — AFC Champions League Elite
+LOCATION:Sân vận động Hàng Đẫy (Hang Day Stadium)\, Hà Nội (Ha
+ noi)\, Vietnam
+GEO:21.029837;105.832973
+URL:https://www.fotmob.com/match/6050028
+DESCRIPTION:⚽ كونغ آن هانوي × بكين كوان\n🏆 دور
+ ي أبطال آسيا للنخبة — الجولة 7\n🗓 الثلاث
+ اء 9 فبراير 2027 · 16:15 بتوقيت الرياض\n🏟 Sân v
+ ận động Hàng Đẫy (Hang Day Stadium)، Hà Nội (Hanoi)\n——
+ ———\n⚽ Công An Hà Nội v Beijing Guoan\n🏆 AFC Champions Leag
+ ue Elite — Matchday 7\n🗓 Tue 09 Feb 2027 · 13:15 UTC\n🏟 Sân vậ
+ n động Hàng Đẫy (Hang Day Stadium), Hà Nội (Hanoi)\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كونغ آن هانوي ضد بكين كوان 
+ — دوري أبطال آسيا للنخبة | Tomorrow: Công An Hà N
+ ội vs Beijing Guoan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كونغ آ
+ ن هانوي × بكين كوان | Kick-off in 30 min: Công An Hà Nộ
+ i vs Beijing Guoan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050032@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270216T110000Z
+DTEND:20270216T130000Z
+SUMMARY:Beijing Guoan vs Newcastle Jets — AFC Champions League Elite
+LOCATION:Workers' Stadium\, Beijing\, China
+GEO:39.929521;116.441002
+URL:https://www.fotmob.com/match/6050032
+DESCRIPTION:⚽ بكين كوان × نيوكاسل جيتس\n🏆 دوري
+  أبطال آسيا للنخبة — الجولة 8\n🗓 الثلاثا
+ ء 16 فبراير 2027 · 14:00 بتوقيت الرياض\n🏟 Workers' 
+ Stadium، Beijing\n—————\n⚽ Beijing Guoan v Newcastle Jets\n
+ 🏆 AFC Champions League Elite — Matchday 8\n🗓 Tue 16 Feb 2027 · 11
+ :00 UTC\n🏟 Workers' Stadium, Beijing\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بكين كوان ضد نيوكاسل جيتس 
+ — دوري أبطال آسيا للنخبة | Tomorrow: Beijing Guoan vs
+  Newcastle Jets
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بكين ك
+ وان × نيوكاسل جيتس | Kick-off in 30 min: Beijing Guoan vs N
+ ewcastle Jets
+END:VALARM
+END:VEVENT
+END:VCALENDAR

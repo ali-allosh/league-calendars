@@ -1,0 +1,1401 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Deportivo A Coruña — LaLiga & Copa del Rey Fixtures | 
+ ديبورتيفو لاكورونيا — مباريات الدوري ال
+ إسباني وكأس ملك إسبانيا
+X-WR-CALDESC:Deportivo A Coruña — all matches in LaLiga & Copa del Rey\,
+  exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-upda
+ ted 2026-09-05T19:31:10Z.  •  ديبورتيفو لاكورونيا — 
+ جميع المباريات في الدوري الإسباني وكأس م
+ لك إسبانيا بتوقيت UTC الدقيق مع الملاعب وا
+ لقنوات الناقلة. المصدر: FotMob + 365scores · تحدي
+ ث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5868014@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260817T190000Z
+DTEND:20260817T210000Z
+SUMMARY:Deportivo A Coruña vs Elche (1 - 1) — LaLiga
+LOCATION:Estadio Abanca-Riazor\, A Coruña (La Coruña)\, Spain
+GEO:43.368720;-8.417530
+URL:https://www.fotmob.com/match/5868014
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × إلتشي (1 - 1)
+ \n🏆 الدوري الإسباني — الجولة 1\n🗓 الاثني
+ ن 17 أغسطس 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio Aba
+ nca-Riazor، A Coruña (La Coruña)\n⚖️ الحكم: Francisco José He
+ rnández Maeso\n👥 الحضور: 29,038\n—————\n⚽ Deportivo 
+ A Coruña v Elche (1 - 1)\n🏆 LaLiga — Matchday 1\n🗓 Mon 17 Aug 202
+ 6 · 19:00 UTC\n🏟 Estadio Abanca-Riazor, A Coruña (La Coruña)\nRefere
+ e: Francisco José Hernández Maeso\nAttendance: 29,038\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد إلت
+ شي — الدوري الإسباني | Tomorrow: Deportivo A Coruña vs 
+ Elche
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × إلتشي | Kick-off in 30 min: Deportivo 
+ A Coruña vs Elche
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868027@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260824T193000Z
+DTEND:20260824T213000Z
+SUMMARY:Málaga vs Deportivo A Coruña (1 - 1) — LaLiga
+LOCATION:Estadio La Rosaleda\, Málaga\, Spain
+GEO:36.734209;-4.426602
+URL:https://www.fotmob.com/match/5868027
+DESCRIPTION:⚽ مالقا × ديبورتيفو لاكورونيا (1 - 1)
+ \n🏆 الدوري الإسباني — الجولة 2\n🗓 الاثني
+ ن 24 أغسطس 2026 · 22:30 بتوقيت الرياض\n🏟 Estadio La 
+ Rosaleda، Málaga\n⚖️ الحكم: Javier Alberola Rojas\n👥 الح
+ ضور: 29,014\n—————\n⚽ Málaga v Deportivo A Coruña (1 - 1)
+ \n🏆 LaLiga — Matchday 2\n🗓 Mon 24 Aug 2026 · 19:30 UTC\n🏟 Esta
+ dio La Rosaleda, Málaga\nReferee: Javier Alberola Rojas\nAttendance: 29,0
+ 14\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد ديبورتيفو لاكورون
+ يا — الدوري الإسباني | Tomorrow: Málaga vs Deportivo A 
+ Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × ديبورتيفو لاكورونيا | Kick-off in 30 min: Málaga vs 
+ Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868033@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T173000Z
+DTEND:20260830T193000Z
+SUMMARY:Deportivo A Coruña vs Valencia (3 - 1) — LaLiga
+LOCATION:Estadio Abanca-Riazor\, A Coruña (La Coruña)\, Spain
+GEO:43.368720;-8.417530
+URL:https://www.fotmob.com/match/5868033
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × فالنسيا (3 
+ - 1)\n🏆 الدوري الإسباني — الجولة 3\n🗓 الأح
+ د 30 أغسطس 2026 · 20:30 بتوقيت الرياض\n🏟 Estadio Aba
+ nca-Riazor، A Coruña (La Coruña)\n⚖️ الحكم: Miguel Ángel Orti
+ z Arias\n—————\n⚽ Deportivo A Coruña v Valencia (3 - 1)\n🏆
+  LaLiga — Matchday 3\n🗓 Sun 30 Aug 2026 · 17:30 UTC\n🏟 Estadio Ab
+ anca-Riazor, A Coruña (La Coruña)\nReferee: Miguel Ángel Ortiz Arias\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد فال
+ نسيا — الدوري الإسباني | Tomorrow: Deportivo A Coruña
+  vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × فالنسيا | Kick-off in 30 min: Deport
+ ivo A Coruña vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868050@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T190000Z
+DTEND:20260905T210000Z
+SUMMARY:Villarreal vs Deportivo A Coruña — LaLiga
+LOCATION:Estadio de la Cerámica\, Villarreal\, Spain
+GEO:39.944119;-0.103474
+URL:https://www.fotmob.com/match/5868050
+DESCRIPTION:⚽ فياريال × ديبورتيفو لاكورونيا\n
+ 🏆 الدوري الإسباني — الجولة 4\n🗓 السبت 5 
+ سبتمبر 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio de la C
+ erámica، Villarreal\n📺 Bein Sports HD2\n—————\n⚽ Villarre
+ al v Deportivo A Coruña\n🏆 LaLiga — Matchday 4\n🗓 Sat 05 Sep 2026
+  · 19:00 UTC\n🏟 Estadio de la Cerámica, Villarreal\n📺 beIN Sport 2
+  HD\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد ديبورتيفو لاكور
+ ونيا — الدوري الإسباني — 📺 Bein Sports HD2 | Tomo
+ rrow: Villarreal vs Deportivo A Coruña | TV: beIN Sport 2 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × ديبورتيفو لاكورونيا — 📺 Bein Sports HD2 | K
+ ick-off in 30 min: Villarreal vs Deportivo A Coruña | TV: beIN Sport 2 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868053@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260913T163000Z
+DTEND:20260913T183000Z
+SUMMARY:Getafe vs Deportivo A Coruña — LaLiga
+LOCATION:Coliseum
+URL:https://www.fotmob.com/match/5868053
+DESCRIPTION:⚽ خيتافي × ديبورتيفو لاكورونيا\n🏆
+  الدوري الإسباني — الجولة 5\n🗓 الأحد 13 سب
+ تمبر 2026 · 19:30 بتوقيت الرياض\n🏟 Coliseum\n📺 beIN
+  SPORTS CONNECT، beIN Sports Connect Singapore، FanCode، Now Player\n
+ —————\n⚽ Getafe v Deportivo A Coruña\n🏆 LaLiga — Matchda
+ y 5\n🗓 Sun 13 Sep 2026 · 16:30 UTC\n🏟 Coliseum\n📺 beIN SPORTS CO
+ NNECT, beIN Sports Connect Singapore, FanCode, Now Player\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: خيتافي ضد ديبورتيفو لاكورو
+ نيا — الدوري الإسباني — 📺 beIN SPORTS CONNECT، be
+ IN Sports Connect Singapore، FanCode، Now Player | Tomorrow: Getafe vs D
+ eportivo A Coruña | TV: beIN SPORTS CONNECT\, beIN Sports Connect Singapo
+ re\, FanCode\, Now Player
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: خيتاف
+ ي × ديبورتيفو لاكورونيا — 📺 beIN SPORTS CONNECT،
+  beIN Sports Connect Singapore، FanCode، Now Player | Kick-off in 30 min
+ : Getafe vs Deportivo A Coruña | TV: beIN SPORTS CONNECT\, beIN Sports Co
+ nnect Singapore\, FanCode\, Now Player
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868064@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T170000Z
+DTEND:20260916T190000Z
+SUMMARY:Deportivo A Coruña vs Sevilla — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868064
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × إشبيلية\n
+ 🏆 الدوري الإسباني — الجولة 6\n🗓 الأربعا
+ ء 16 سبتمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Abanca-Ri
+ azor\n—————\n⚽ Deportivo A Coruña v Sevilla\n🏆 LaLiga — 
+ Matchday 6\n🗓 Wed 16 Sep 2026 · 17:00 UTC\n🏟 Abanca-Riazor\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد إشب
+ يلية — الدوري الإسباني | Tomorrow: Deportivo A Coruña
+  vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × إشبيلية | Kick-off in 30 min: Deport
+ ivo A Coruña vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868074@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T163000Z
+DTEND:20260920T183000Z
+SUMMARY:Deportivo A Coruña vs Real Betis — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868074
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × ريال بيتي
+ س\n🏆 الدوري الإسباني — الجولة 7\n🗓 الأحد
+  20 سبتمبر 2026 · 19:30 بتوقيت الرياض\n🏟 Abanca-Riaz
+ or\n—————\n⚽ Deportivo A Coruña v Real Betis\n🏆 LaLiga —
+  Matchday 7\n🗓 Sun 20 Sep 2026 · 16:30 UTC\n🏟 Abanca-Riazor\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد ريا
+ ل بيتيس — الدوري الإسباني | Tomorrow: Deportivo A Co
+ ruña vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × ريال بيتيس | Kick-off in 30 min: D
+ eportivo A Coruña vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868090@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Real Sociedad vs Deportivo A Coruña — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868090
+DESCRIPTION:⚽ ريال سوسيداد × ديبورتيفو لاكورو
+ نيا\n🏆 الدوري الإسباني — الجولة 8\n🗓 الأ
+ حد 11 أكتوبر 2026 · 16:00 بتوقيت الرياض\n🏟 Reale A
+ rena\n—————\n⚽ Real Sociedad v Deportivo A Coruña\n🏆 LaLig
+ a — Matchday 8\n🗓 Sun 11 Oct 2026 · 13:00 UTC\n🏟 Reale Arena\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد ديبورتيفو 
+ لاكورونيا — الدوري الإسباني | Tomorrow: Real Soci
+ edad vs Deportivo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × ديبورتيفو لاكورونيا | Kick-off in 30 min
+ : Real Sociedad vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868093@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Deportivo A Coruña vs Levante — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868093
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × ليفانتي\n
+ 🏆 الدوري الإسباني — الجولة 9\n🗓 الأحد 18 
+ أكتوبر 2026 · 16:00 بتوقيت الرياض\n🏟 Abanca-Riazor\n
+ —————\n⚽ Deportivo A Coruña v Levante\n🏆 LaLiga — Matchd
+ ay 9\n🗓 Sun 18 Oct 2026 · 13:00 UTC\n🏟 Abanca-Riazor\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد ليف
+ انتي — الدوري الإسباني | Tomorrow: Deportivo A Coruña
+  vs Levante
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × ليفانتي | Kick-off in 30 min: Deport
+ ivo A Coruña vs Levante
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868103@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Atlético Madrid vs Deportivo A Coruña — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868103
+DESCRIPTION:⚽ أتلتيكو مدريد × ديبورتيفو لاكور
+ ونيا\n🏆 الدوري الإسباني — الجولة 10\n🗓 ا
+ لأحد 25 أكتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 Riy
+ adh Air Metropolitano\n—————\n⚽ Atlético Madrid v Deportivo A
+  Coruña\n🏆 LaLiga — Matchday 10\n🗓 Sun 25 Oct 2026 · 14:00 UTC\n
+ 🏟 Riyadh Air Metropolitano\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد ديبورتيفو
+  لاكورونيا — الدوري الإسباني | Tomorrow: Atlétic
+ o Madrid vs Deportivo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × ديبورتيفو لاكورونيا | Kick-off in 30 
+ min: Atlético Madrid vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868113@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Deportivo A Coruña vs Osasuna — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868113
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × أوساسونا\n
+ 🏆 الدوري الإسباني — الجولة 11\n🗓 الأحد 1 
+ نوفمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Abanca-Riazor\n
+ —————\n⚽ Deportivo A Coruña v Osasuna\n🏆 LaLiga — Matchd
+ ay 11\n🗓 Sun 01 Nov 2026 · 14:00 UTC\n🏟 Abanca-Riazor\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد أوس
+ اسونا — الدوري الإسباني | Tomorrow: Deportivo A Coru
+ ña vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × أوساسونا | Kick-off in 30 min: Depo
+ rtivo A Coruña vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868124@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Espanyol vs Deportivo A Coruña — LaLiga
+LOCATION:RCDE Stadium
+URL:https://www.fotmob.com/match/5868124
+DESCRIPTION:⚽ إسبانيول × ديبورتيفو لاكورونيا\n
+ 🏆 الدوري الإسباني — الجولة 12\n🗓 الأحد 8 
+ نوفمبر 2026 · 17:00 بتوقيت الرياض\n🏟 RCDE Stadium\n
+ —————\n⚽ Espanyol v Deportivo A Coruña\n🏆 LaLiga — Match
+ day 12\n🗓 Sun 08 Nov 2026 · 14:00 UTC\n🏟 RCDE Stadium\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إسبانيول ضد ديبورتيفو لاكو
+ رونيا — الدوري الإسباني | Tomorrow: Espanyol vs Depor
+ tivo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إسبان
+ يول × ديبورتيفو لاكورونيا | Kick-off in 30 min: Espa
+ nyol vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868131@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Deportivo Alavés vs Deportivo A Coruña — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868131
+DESCRIPTION:⚽ ديبورتيفو ألافيس × ديبورتيفو لا
+ كورونيا\n🏆 الدوري الإسباني — الجولة 13\n
+ 🗓 الأحد 22 نوفمبر 2026 · 17:00 بتوقيت الرياض\n
+ 🏟 Estadio Mendizorroza\n—————\n⚽ Deportivo Alavés v Deport
+ ivo A Coruña\n🏆 LaLiga — Matchday 13\n🗓 Sun 22 Nov 2026 · 14:00 
+ UTC\n🏟 Estadio Mendizorroza\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد ديبورت
+ يفو لاكورونيا — الدوري الإسباني | Tomorrow: De
+ portivo Alavés vs Deportivo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × ديبورتيفو لاكورونيا | Kick-off 
+ in 30 min: Deportivo Alavés vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868143@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T140000Z
+DTEND:20261129T160000Z
+SUMMARY:Deportivo A Coruña vs Barcelona — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868143
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × برشلونة\n
+ 🏆 الدوري الإسباني — الجولة 14\n🗓 الأحد 29
+  نوفمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Abanca-Riazor\
+ n—————\n⚽ Deportivo A Coruña v Barcelona\n🏆 LaLiga — Mat
+ chday 14\n🗓 Sun 29 Nov 2026 · 14:00 UTC\n🏟 Abanca-Riazor\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد برش
+ لونة — الدوري الإسباني | Tomorrow: Deportivo A Coruña
+  vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × برشلونة | Kick-off in 30 min: Deport
+ ivo A Coruña vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868157@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T140000Z
+DTEND:20261206T160000Z
+SUMMARY:Racing Santander vs Deportivo A Coruña — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868157
+DESCRIPTION:⚽ راسينج سانتاندير × ديبورتيفو لا
+ كورونيا\n🏆 الدوري الإسباني — الجولة 15\n
+ 🗓 الأحد 6 ديسمبر 2026 · 17:00 بتوقيت الرياض\n
+ 🏟 Estadio El Sardinero\n—————\n⚽ Racing Santander v Deporti
+ vo A Coruña\n🏆 LaLiga — Matchday 15\n🗓 Sun 06 Dec 2026 · 14:00 U
+ TC\n🏟 Estadio El Sardinero\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد ديبورت
+ يفو لاكورونيا — الدوري الإسباني | Tomorrow: Ra
+ cing Santander vs Deportivo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × ديبورتيفو لاكورونيا | Kick-off 
+ in 30 min: Racing Santander vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868163@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T140000Z
+DTEND:20261213T160000Z
+SUMMARY:Deportivo A Coruña vs Athletic Club — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868163
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × أتلتيك بل
+ باو\n🏆 الدوري الإسباني — الجولة 16\n🗓 ال
+ أحد 13 ديسمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Abanc
+ a-Riazor\n—————\n⚽ Deportivo A Coruña v Athletic Club\n🏆 L
+ aLiga — Matchday 16\n🗓 Sun 13 Dec 2026 · 14:00 UTC\n🏟 Abanca-Riaz
+ or\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد أتل
+ تيك بلباو — الدوري الإسباني | Tomorrow: Deportivo 
+ A Coruña vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × أتلتيك بلباو | Kick-off in 30 mi
+ n: Deportivo A Coruña vs Athletic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868174@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T140000Z
+DTEND:20261220T160000Z
+SUMMARY:Deportivo A Coruña vs Real Madrid — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868174
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × ريال مدري
+ د\n🏆 الدوري الإسباني — الجولة 17\n🗓 الأح
+ د 20 ديسمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Abanca-Ri
+ azor\n—————\n⚽ Deportivo A Coruña v Real Madrid\n🏆 LaLiga 
+ — Matchday 17\n🗓 Sun 20 Dec 2026 · 14:00 UTC\n🏟 Abanca-Riazor\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد ريا
+ ل مدريد — الدوري الإسباني | Tomorrow: Deportivo A Co
+ ruña vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × ريال مدريد | Kick-off in 30 min: D
+ eportivo A Coruña vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868182@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T140000Z
+DTEND:20270103T160000Z
+SUMMARY:Celta Vigo vs Deportivo A Coruña — LaLiga
+LOCATION:Abanca Balaidos
+URL:https://www.fotmob.com/match/5868182
+DESCRIPTION:⚽ سيلتا فيجو × ديبورتيفو لاكوروني
+ ا\n🏆 الدوري الإسباني — الجولة 18\n🗓 الأح
+ د 3 يناير 2027 · 17:00 بتوقيت الرياض\n🏟 Abanca Balai
+ dos\n—————\n⚽ Celta Vigo v Deportivo A Coruña\n🏆 LaLiga 
+ — Matchday 18\n🗓 Sun 03 Jan 2027 · 14:00 UTC\n🏟 Abanca Balaidos\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتا فيجو ضد ديبورتيفو لا
+ كورونيا — الدوري الإسباني | Tomorrow: Celta Vigo vs
+  Deportivo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتا 
+ فيجو × ديبورتيفو لاكورونيا | Kick-off in 30 min: Ce
+ lta Vigo vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868194@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T140000Z
+DTEND:20270110T160000Z
+SUMMARY:Deportivo A Coruña vs Rayo Vallecano — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868194
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × رايو فايي
+ كانو\n🏆 الدوري الإسباني — الجولة 19\n🗓 ا
+ لأحد 10 يناير 2027 · 17:00 بتوقيت الرياض\n🏟 Abanc
+ a-Riazor\n—————\n⚽ Deportivo A Coruña v Rayo Vallecano\n🏆 
+ LaLiga — Matchday 19\n🗓 Sun 10 Jan 2027 · 14:00 UTC\n🏟 Abanca-Ria
+ zor\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد راي
+ و فاييكانو — الدوري الإسباني | Tomorrow: Deportiv
+ o A Coruña vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × رايو فاييكانو | Kick-off in 30 
+ min: Deportivo A Coruña vs Rayo Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868202@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T140000Z
+DTEND:20270117T160000Z
+SUMMARY:Real Betis vs Deportivo A Coruña — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868202
+DESCRIPTION:⚽ ريال بيتيس × ديبورتيفو لاكوروني
+ ا\n🏆 الدوري الإسباني — الجولة 20\n🗓 الأح
+ د 17 يناير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio de 
+ La Cartuja\n—————\n⚽ Real Betis v Deportivo A Coruña\n🏆 La
+ Liga — Matchday 20\n🗓 Sun 17 Jan 2027 · 14:00 UTC\n🏟 Estadio de L
+ a Cartuja\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد ديبورتيفو لا
+ كورونيا — الدوري الإسباني | Tomorrow: Real Betis vs
+  Deportivo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × ديبورتيفو لاكورونيا | Kick-off in 30 min: Re
+ al Betis vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868213@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T140000Z
+DTEND:20270124T160000Z
+SUMMARY:Deportivo A Coruña vs Atlético Madrid — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868213
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × أتلتيكو م
+ دريد\n🏆 الدوري الإسباني — الجولة 21\n🗓 ا
+ لأحد 24 يناير 2027 · 17:00 بتوقيت الرياض\n🏟 Abanc
+ a-Riazor\n—————\n⚽ Deportivo A Coruña v Atlético Madrid\n
+ 🏆 LaLiga — Matchday 21\n🗓 Sun 24 Jan 2027 · 14:00 UTC\n🏟 Abanc
+ a-Riazor\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد أتل
+ تيكو مدريد — الدوري الإسباني | Tomorrow: Deportiv
+ o A Coruña vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × أتلتيكو مدريد | Kick-off in 30 
+ min: Deportivo A Coruña vs Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868227@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Osasuna vs Deportivo A Coruña — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868227
+DESCRIPTION:⚽ أوساسونا × ديبورتيفو لاكورونيا\n
+ 🏆 الدوري الإسباني — الجولة 22\n🗓 الأحد 31
+  يناير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio El Sadar
+ \n—————\n⚽ Osasuna v Deportivo A Coruña\n🏆 LaLiga — Matc
+ hday 22\n🗓 Sun 31 Jan 2027 · 14:00 UTC\n🏟 Estadio El Sadar\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد ديبورتيفو لاكو
+ رونيا — الدوري الإسباني | Tomorrow: Osasuna vs Deport
+ ivo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × ديبورتيفو لاكورونيا | Kick-off in 30 min: Osas
+ una vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868234@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:Deportivo A Coruña vs Málaga — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868234
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × مالقا\n🏆 
+ الدوري الإسباني — الجولة 23\n🗓 الأحد 7 فب
+ راير 2027 · 17:00 بتوقيت الرياض\n🏟 Abanca-Riazor\n—
+ ————\n⚽ Deportivo A Coruña v Málaga\n🏆 LaLiga — Matchday 
+ 23\n🗓 Sun 07 Feb 2027 · 14:00 UTC\n🏟 Abanca-Riazor\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد مال
+ قا — الدوري الإسباني | Tomorrow: Deportivo A Coruña vs 
+ Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × مالقا | Kick-off in 30 min: Deportivo 
+ A Coruña vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868242@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T140000Z
+DTEND:20270214T160000Z
+SUMMARY:Elche vs Deportivo A Coruña — LaLiga
+LOCATION:Estadio Martinez Valero
+URL:https://www.fotmob.com/match/5868242
+DESCRIPTION:⚽ إلتشي × ديبورتيفو لاكورونيا\n🏆 
+ الدوري الإسباني — الجولة 24\n🗓 الأحد 14 فب
+ راير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio Martinez Va
+ lero\n—————\n⚽ Elche v Deportivo A Coruña\n🏆 LaLiga — Ma
+ tchday 24\n🗓 Sun 14 Feb 2027 · 14:00 UTC\n🏟 Estadio Martinez Valero
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلتشي ضد ديبورتيفو لاكورون
+ يا — الدوري الإسباني | Tomorrow: Elche vs Deportivo A Co
+ ruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلتشي 
+ × ديبورتيفو لاكورونيا | Kick-off in 30 min: Elche vs De
+ portivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868254@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T140000Z
+DTEND:20270221T160000Z
+SUMMARY:Deportivo A Coruña vs Real Sociedad — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868254
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × ريال سوسي
+ داد\n🏆 الدوري الإسباني — الجولة 25\n🗓 ال
+ أحد 21 فبراير 2027 · 17:00 بتوقيت الرياض\n🏟 Abanc
+ a-Riazor\n—————\n⚽ Deportivo A Coruña v Real Sociedad\n🏆 L
+ aLiga — Matchday 25\n🗓 Sun 21 Feb 2027 · 14:00 UTC\n🏟 Abanca-Riaz
+ or\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد ريا
+ ل سوسيداد — الدوري الإسباني | Tomorrow: Deportivo 
+ A Coruña vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × ريال سوسيداد | Kick-off in 30 mi
+ n: Deportivo A Coruña vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868265@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T140000Z
+DTEND:20270228T160000Z
+SUMMARY:Levante vs Deportivo A Coruña — LaLiga
+LOCATION:Estadio Ciudad de Valencia
+URL:https://www.fotmob.com/match/5868265
+DESCRIPTION:⚽ ليفانتي × ديبورتيفو لاكورونيا\n
+ 🏆 الدوري الإسباني — الجولة 26\n🗓 الأحد 28
+  فبراير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio Ciudad
+  de Valencia\n—————\n⚽ Levante v Deportivo A Coruña\n🏆 LaL
+ iga — Matchday 26\n🗓 Sun 28 Feb 2027 · 14:00 UTC\n🏟 Estadio Ciuda
+ d de Valencia\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفانتي ضد ديبورتيفو لاكور
+ ونيا — الدوري الإسباني | Tomorrow: Levante vs Deportiv
+ o A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفان
+ تي × ديبورتيفو لاكورونيا | Kick-off in 30 min: Levant
+ e vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868273@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T140000Z
+DTEND:20270307T160000Z
+SUMMARY:Deportivo A Coruña vs Getafe — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868273
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × خيتافي\n🏆
+  الدوري الإسباني — الجولة 27\n🗓 الأحد 7 ما
+ رس 2027 · 17:00 بتوقيت الرياض\n🏟 Abanca-Riazor\n——
+ ———\n⚽ Deportivo A Coruña v Getafe\n🏆 LaLiga — Matchday 27\n
+ 🗓 Sun 07 Mar 2027 · 14:00 UTC\n🏟 Abanca-Riazor\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد خيت
+ افي — الدوري الإسباني | Tomorrow: Deportivo A Coruña v
+ s Getafe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × خيتافي | Kick-off in 30 min: Deportiv
+ o A Coruña vs Getafe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868285@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T140000Z
+DTEND:20270314T160000Z
+SUMMARY:Barcelona vs Deportivo A Coruña — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868285
+DESCRIPTION:⚽ برشلونة × ديبورتيفو لاكورونيا\n
+ 🏆 الدوري الإسباني — الجولة 28\n🗓 الأحد 14
+  مارس 2027 · 17:00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n
+ —————\n⚽ Barcelona v Deportivo A Coruña\n🏆 LaLiga — Matc
+ hday 28\n🗓 Sun 14 Mar 2027 · 14:00 UTC\n🏟 Spotify Camp Nou\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد ديبورتيفو لاكور
+ ونيا — الدوري الإسباني | Tomorrow: Barcelona vs Deport
+ ivo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × ديبورتيفو لاكورونيا | Kick-off in 30 min: Barcel
+ ona vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868299@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T140000Z
+DTEND:20270321T160000Z
+SUMMARY:Valencia vs Deportivo A Coruña — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868299
+DESCRIPTION:⚽ فالنسيا × ديبورتيفو لاكورونيا\n
+ 🏆 الدوري الإسباني — الجولة 29\n🗓 الأحد 21
+  مارس 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio Mestalla\n
+ —————\n⚽ Valencia v Deportivo A Coruña\n🏆 LaLiga — Match
+ day 29\n🗓 Sun 21 Mar 2027 · 14:00 UTC\n🏟 Estadio Mestalla\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد ديبورتيفو لاكور
+ ونيا — الدوري الإسباني | Tomorrow: Valencia vs Deporti
+ vo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × ديبورتيفو لاكورونيا | Kick-off in 30 min: Valenc
+ ia vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868303@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T130000Z
+DTEND:20270404T150000Z
+SUMMARY:Deportivo A Coruña vs Villarreal — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868303
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × فياريال\n
+ 🏆 الدوري الإسباني — الجولة 30\n🗓 الأحد 4 
+ أبريل 2027 · 16:00 بتوقيت الرياض\n🏟 Abanca-Riazor\n
+ —————\n⚽ Deportivo A Coruña v Villarreal\n🏆 LaLiga — Mat
+ chday 30\n🗓 Sun 04 Apr 2027 · 13:00 UTC\n🏟 Abanca-Riazor\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد فيا
+ ريال — الدوري الإسباني | Tomorrow: Deportivo A Coruña
+  vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × فياريال | Kick-off in 30 min: Deport
+ ivo A Coruña vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868318@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T130000Z
+DTEND:20270411T150000Z
+SUMMARY:Sevilla vs Deportivo A Coruña — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868318
+DESCRIPTION:⚽ إشبيلية × ديبورتيفو لاكورونيا\n
+ 🏆 الدوري الإسباني — الجولة 31\n🗓 الأحد 11
+  أبريل 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio R. Sanch
+ ez Pizjuan\n—————\n⚽ Sevilla v Deportivo A Coruña\n🏆 LaLig
+ a — Matchday 31\n🗓 Sun 11 Apr 2027 · 13:00 UTC\n🏟 Estadio R. Sanc
+ hez Pizjuan\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد ديبورتيفو لاكور
+ ونيا — الدوري الإسباني | Tomorrow: Sevilla vs Deportiv
+ o A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × ديبورتيفو لاكورونيا | Kick-off in 30 min: Sevill
+ a vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868324@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T130000Z
+DTEND:20270418T150000Z
+SUMMARY:Deportivo A Coruña vs Celta Vigo — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868324
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × سيلتا فيج
+ و\n🏆 الدوري الإسباني — الجولة 32\n🗓 الأح
+ د 18 أبريل 2027 · 16:00 بتوقيت الرياض\n🏟 Abanca-Riaz
+ or\n—————\n⚽ Deportivo A Coruña v Celta Vigo\n🏆 LaLiga —
+  Matchday 32\n🗓 Sun 18 Apr 2027 · 13:00 UTC\n🏟 Abanca-Riazor\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد سيل
+ تا فيجو — الدوري الإسباني | Tomorrow: Deportivo A Co
+ ruña vs Celta Vigo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × سيلتا فيجو | Kick-off in 30 min: D
+ eportivo A Coruña vs Celta Vigo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868331@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270421T130000Z
+DTEND:20270421T150000Z
+SUMMARY:Athletic Club vs Deportivo A Coruña — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868331
+DESCRIPTION:⚽ أتلتيك بلباو × ديبورتيفو لاكورو
+ نيا\n🏆 الدوري الإسباني — الجولة 33\n🗓 ال
+ أربعاء 21 أبريل 2027 · 16:00 بتوقيت الرياض\n🏟 S
+ an Mames\n—————\n⚽ Athletic Club v Deportivo A Coruña\n🏆 L
+ aLiga — Matchday 33\n🗓 Wed 21 Apr 2027 · 13:00 UTC\n🏟 San Mames\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد ديبورتيفو 
+ لاكورونيا — الدوري الإسباني | Tomorrow: Athletic 
+ Club vs Deportivo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × ديبورتيفو لاكورونيا | Kick-off in 30 mi
+ n: Athletic Club vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868344@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T130000Z
+DTEND:20270502T150000Z
+SUMMARY:Deportivo A Coruña vs Racing Santander — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868344
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × راسينج سا
+ نتاندير\n🏆 الدوري الإسباني — الجولة 34\n
+ 🗓 الأحد 2 مايو 2027 · 16:00 بتوقيت الرياض\n🏟 A
+ banca-Riazor\n—————\n⚽ Deportivo A Coruña v Racing Santander\
+ n🏆 LaLiga — Matchday 34\n🗓 Sun 02 May 2027 · 13:00 UTC\n🏟 Aban
+ ca-Riazor\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد راس
+ ينج سانتاندير — الدوري الإسباني | Tomorrow: De
+ portivo A Coruña vs Racing Santander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × راسينج سانتاندير | Kick-off 
+ in 30 min: Deportivo A Coruña vs Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868357@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T130000Z
+DTEND:20270509T150000Z
+SUMMARY:Rayo Vallecano vs Deportivo A Coruña — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868357
+DESCRIPTION:⚽ رايو فاييكانو × ديبورتيفو لاكور
+ ونيا\n🏆 الدوري الإسباني — الجولة 35\n🗓 ا
+ لأحد 9 مايو 2027 · 16:00 بتوقيت الرياض\n🏟 Campo de
+  Futbol de Vallecas\n—————\n⚽ Rayo Vallecano v Deportivo A Cor
+ uña\n🏆 LaLiga — Matchday 35\n🗓 Sun 09 May 2027 · 13:00 UTC\n🏟
+  Campo de Futbol de Vallecas\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد ديبورتيفو
+  لاكورونيا — الدوري الإسباني | Tomorrow: Rayo Val
+ lecano vs Deportivo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × ديبورتيفو لاكورونيا | Kick-off in 30 m
+ in: Rayo Vallecano vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868362@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T130000Z
+DTEND:20270516T150000Z
+SUMMARY:Deportivo A Coruña vs Deportivo Alavés — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868362
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × ديبورتيفو
+  ألافيس\n🏆 الدوري الإسباني — الجولة 36\n
+ 🗓 الأحد 16 مايو 2027 · 16:00 بتوقيت الرياض\n🏟 
+ Abanca-Riazor\n—————\n⚽ Deportivo A Coruña v Deportivo Alavé
+ s\n🏆 LaLiga — Matchday 36\n🗓 Sun 16 May 2027 · 13:00 UTC\n🏟 Ab
+ anca-Riazor\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد ديب
+ ورتيفو ألافيس — الدوري الإسباني | Tomorrow: De
+ portivo A Coruña vs Deportivo Alavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × ديبورتيفو ألافيس | Kick-off 
+ in 30 min: Deportivo A Coruña vs Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868374@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T130000Z
+DTEND:20270523T150000Z
+SUMMARY:Deportivo A Coruña vs Espanyol — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868374
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × إسبانيول\n
+ 🏆 الدوري الإسباني — الجولة 37\n🗓 الأحد 23
+  مايو 2027 · 16:00 بتوقيت الرياض\n🏟 Abanca-Riazor\n—
+ ————\n⚽ Deportivo A Coruña v Espanyol\n🏆 LaLiga — Matchday
+  37\n🗓 Sun 23 May 2027 · 13:00 UTC\n🏟 Abanca-Riazor\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد إسب
+ انيول — الدوري الإسباني | Tomorrow: Deportivo A Coru
+ ña vs Espanyol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × إسبانيول | Kick-off in 30 min: Depo
+ rtivo A Coruña vs Espanyol
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868389@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T130000Z
+DTEND:20270530T150000Z
+SUMMARY:Real Madrid vs Deportivo A Coruña — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868389
+DESCRIPTION:⚽ ريال مدريد × ديبورتيفو لاكوروني
+ ا\n🏆 الدوري الإسباني — الجولة 38\n🗓 الأح
+ د 30 مايو 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio Berna
+ beu\n—————\n⚽ Real Madrid v Deportivo A Coruña\n🏆 LaLiga 
+ — Matchday 38\n🗓 Sun 30 May 2027 · 13:00 UTC\n🏟 Estadio Bernabeu\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد ديبورتيفو لا
+ كورونيا — الدوري الإسباني | Tomorrow: Real Madrid v
+ s Deportivo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × ديبورتيفو لاكورونيا | Kick-off in 30 min: Re
+ al Madrid vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-4995999@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251030T200000Z
+DTEND:20251030T220000Z
+SUMMARY:UD Sámano vs Deportivo A Coruña (1 - 5) — Copa del Rey
+LOCATION:Campo Riomar\, Castro Urdiales\, Spain
+GEO:43.370687;-3.209671
+URL:https://www.fotmob.com/match/4995999
+DESCRIPTION:⚽ سامانو × ديبورتيفو لاكورونيا (1 - 
+ 5)\n🏆 كأس ملك إسبانيا — الدور الأول\n🗓 ال
+ خميس 30 أكتوبر 2025 · 23:00 بتوقيت الرياض\n🏟 Cam
+ po Riomar، Castro Urdiales\n⚖️ الحكم: Álvaro Moreno Aragón\n
+ 👥 الحضور: 2,500\n—————\n⚽ UD Sámano v Deportivo A Co
+ ruña (1 - 5)\n🏆 Copa del Rey — Round 1\n🗓 Thu 30 Oct 2025 · 20:0
+ 0 UTC\n🏟 Campo Riomar, Castro Urdiales\nReferee: Álvaro Moreno Aragón
+ \nAttendance: 2,500\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سامانو ضد ديبورتيفو لاكورو
+ نيا — كأس ملك إسبانيا | Tomorrow: UD Sámano vs Deportiv
+ o A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سامان
+ و × ديبورتيفو لاكورونيا | Kick-off in 30 min: UD Sáma
+ no vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057233@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251204T180000Z
+DTEND:20251204T200000Z
+SUMMARY:Sabadell vs Deportivo A Coruña (0 - 2) — Copa del Rey
+LOCATION:Estadi de la Nova Creu Alta\, Sabadell\, Spain
+GEO:41.554664;2.091951
+URL:https://www.fotmob.com/match/5057233
+DESCRIPTION:⚽ ساباديل × ديبورتيفو لاكورونيا (0 
+ - 2)\n🏆 كأس ملك إسبانيا — الدور الثاني\n🗓 
+ الخميس 4 ديسمبر 2025 · 21:00 بتوقيت الرياض\n🏟 
+ Estadi de la Nova Creu Alta، Sabadell\n⚖️ الحكم: Alonso de Ena W
+ olf\n👥 الحضور: 7,651\n—————\n⚽ Sabadell v Deportivo A
+  Coruña (0 - 2)\n🏆 Copa del Rey — Round 2\n🗓 Thu 04 Dec 2025 · 1
+ 8:00 UTC\n🏟 Estadi de la Nova Creu Alta, Sabadell\nReferee: Alonso de E
+ na Wolf\nAttendance: 7,651\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساباديل ضد ديبورتيفو لاكور
+ ونيا — كأس ملك إسبانيا | Tomorrow: Sabadell vs Deportiv
+ o A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساباد
+ يل × ديبورتيفو لاكورونيا | Kick-off in 30 min: Sabade
+ ll vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5091460@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251216T180000Z
+DTEND:20251216T200000Z
+SUMMARY:Deportivo A Coruña vs Mallorca (1 - 0) — Copa del Rey
+LOCATION:Estadio Abanca-Riazor\, A Coruña (La Coruña)\, Spain
+GEO:43.368720;-8.417530
+URL:https://www.fotmob.com/match/5091460
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × ريال مايو
+ ركا (1 - 0)\n🏆 كأس ملك إسبانيا — دور الـ32\n
+ 🗓 الثلاثاء 16 ديسمبر 2025 · 21:00 بتوقيت الري
+ اض\n🏟 Estadio Abanca-Riazor، A Coruña (La Coruña)\n👥 الحضو
+ ر: 17,800\n—————\n⚽ Deportivo A Coruña v Mallorca (1 - 0)\n
+ 🏆 Copa del Rey — Round of 32\n🗓 Tue 16 Dec 2025 · 18:00 UTC\n🏟
+  Estadio Abanca-Riazor, A Coruña (La Coruña)\nAttendance: 17,800\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد ريا
+ ل مايوركا — كأس ملك إسبانيا | Tomorrow: Deportivo A
+  Coruña vs Mallorca
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × ريال مايوركا | Kick-off in 30 mi
+ n: Deportivo A Coruña vs Mallorca
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5125325@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260113T200000Z
+DTEND:20260113T220000Z
+SUMMARY:Deportivo A Coruña vs Atlético Madrid (0 - 1) — Copa del Rey
+LOCATION:Estadio Abanca-Riazor\, A Coruña (La Coruña)\, Spain
+GEO:43.368720;-8.417530
+URL:https://www.fotmob.com/match/5125325
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × أتلتيكو م
+ دريد (0 - 1)\n🏆 كأس ملك إسبانيا — دور الـ16\n
+ 🗓 الثلاثاء 13 يناير 2026 · 23:00 بتوقيت الريا
+ ض\n🏟 Estadio Abanca-Riazor، A Coruña (La Coruña)\n👥 الحضور
+ : 28,577\n—————\n⚽ Deportivo A Coruña v Atlético Madrid (0 -
+  1)\n🏆 Copa del Rey — Round of 16\n🗓 Tue 13 Jan 2026 · 20:00 UTC\
+ n🏟 Estadio Abanca-Riazor, A Coruña (La Coruña)\nAttendance: 28,577\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد أتل
+ تيكو مدريد — كأس ملك إسبانيا | Tomorrow: Deportivo
+  A Coruña vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × أتلتيكو مدريد | Kick-off in 30 
+ min: Deportivo A Coruña vs Atlético Madrid
+END:VALARM
+END:VEVENT
+END:VCALENDAR

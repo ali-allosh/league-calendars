@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Real Oviedo — Copa del Rey Fixtures | ريال أوفي
+ يدو — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Real Oviedo — all matches in Copa del Rey\, exact UTC kickof
+ fs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19
+ :31:10Z.  •  ريال أوفييدو — جميع المباريات ف
+ ي كأس ملك إسبانيا بتوقيت UTC الدقيق مع الم
+ لاعب والقنوات الناقلة. المصدر: FotMob + 365scores
+  · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4995991@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251028T180000Z
+DTEND:20251028T200000Z
+SUMMARY:Ourense vs Real Oviedo (4 - 2) — Copa del Rey
+LOCATION:Estadio O Couto\, Ourense\, Spain
+GEO:42.340806;-7.875808
+URL:https://www.fotmob.com/match/4995991
+DESCRIPTION:⚽ أورينسي × ريال أوفييدو (4 - 2)\n🏆 ك
+ أس ملك إسبانيا — الدور الأول\n🗓 الثلاثا
+ ء 28 أكتوبر 2025 · 21:00 بتوقيت الرياض\n🏟 Estadio O
+  Couto، Ourense\n⚖️ الحكم: Adrián Cordero Vega\n👥 الحضو
+ ر: 5,000\n—————\n⚽ Ourense v Real Oviedo (4 - 2)\n🏆 Copa d
+ el Rey — Round 1\n🗓 Tue 28 Oct 2025 · 18:00 UTC\n🏟 Estadio O Cout
+ o, Ourense\nReferee: Adrián Cordero Vega\nAttendance: 5,000\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أورينسي ضد ريال أوفييدو — 
+ كأس ملك إسبانيا | Tomorrow: Ourense vs Real Oviedo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أورين
+ سي × ريال أوفييدو | Kick-off in 30 min: Ourense vs Real Ovie
+ do
+END:VALARM
+END:VEVENT
+END:VCALENDAR

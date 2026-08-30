@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Bristol Rovers — FA Cup Fixtures | Bristol Rovers — م
+ باريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Bristol Rovers — all matches in FA Cup\, exact UTC kickoffs\
+ , stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31
+ :10Z.  •  Bristol Rovers — جميع المباريات في كأس ا
+ لاتحاد الإنجليزي بتوقيت UTC الدقيق مع الم
+ لاعب والقنوات الناقلة. المصدر: FotMob + 365scores
+  · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010626@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Bromley vs Bristol Rovers (1 - 2) — FA Cup
+LOCATION:Copperjax Community Stadium\, London\, England
+GEO:51.390098;0.021055
+URL:https://www.fotmob.com/match/5010626
+DESCRIPTION:⚽ Bromley × Bristol Rovers (1 - 2)\n🏆 كأس الاتحا
+ د الإنجليزي — الدور الأول\n🗓 السبت 1 نوف
+ مبر 2025 · 18:00 بتوقيت الرياض\n🏟 Copperjax Community S
+ tadium، London\n⚖️ الحكم: Isaac Searle\n👥 الحضور: 2,500
+ \n—————\n⚽ Bromley v Bristol Rovers (1 - 2)\n🏆 FA Cup — R
+ ound 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Copperjax Community Stadiu
+ m, London\nReferee: Isaac Searle\nAttendance: 2,500\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Bromley ضد Bristol Rovers — كأس الاتح
+ اد الإنجليزي | Tomorrow: Bromley vs Bristol Rovers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Bromley × 
+ Bristol Rovers | Kick-off in 30 min: Bromley vs Bristol Rovers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5041960@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Port Vale vs Bristol Rovers (1 - 0) — FA Cup
+LOCATION:Vale Park\, Stoke-on-Trent\, Staffordshire\, England
+GEO:53.050078;-2.192644
+URL:https://www.fotmob.com/match/5041960
+DESCRIPTION:⚽ Port Vale × Bristol Rovers (1 - 0)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الثاني\n🗓 السبت 6 د
+ يسمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Vale Park، Stoke
+ -on-Trent, Staffordshire\n⚖️ الحكم: Ross Joyce\n👥 الحضور
+ : 3,227\n—————\n⚽ Port Vale v Bristol Rovers (1 - 0)\n🏆 FA 
+ Cup — Round 2\n🗓 Sat 06 Dec 2025 · 15:00 UTC\n🏟 Vale Park, Stoke-
+ on-Trent, Staffordshire\nReferee: Ross Joyce\nAttendance: 3,227\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Port Vale ضد Bristol Rovers — كأس الات
+ حاد الإنجليزي | Tomorrow: Port Vale vs Bristol Rovers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Port Vale 
+ × Bristol Rovers | Kick-off in 30 min: Port Vale vs Bristol Rovers
+END:VALARM
+END:VEVENT
+END:VCALENDAR

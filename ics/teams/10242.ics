@@ -1,0 +1,1045 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Troyes — Ligue 1 Fixtures | تروا — مباريات 
+ الدوري الفرنسي
+X-WR-CALDESC:Troyes — all matches in Ligue 1\, exact UTC kickoffs\, stadi
+ ums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10Z.  
+ •  تروا — جميع المباريات في الدوري الفرن
+ سي بتوقيت UTC الدقيق مع الملاعب والقنوات ا
+ لناقلة. المصدر: FotMob + 365scores · تحديث تلقائي 
+ 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5802909@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T184500Z
+DTEND:20260822T204500Z
+SUMMARY:Troyes vs Paris FC (0 - 0) — Ligue 1
+LOCATION:Stade de l'Aube\, Troyes\, France
+GEO:48.307533;4.098485
+URL:https://www.fotmob.com/match/5802909
+DESCRIPTION:⚽ تروا × باريس أف.سي. (0 - 0)\n🏆 الدور
+ ي الفرنسي — الجولة 1\n🗓 السبت 22 أغسطس 2026 
+ · 21:45 بتوقيت الرياض\n🏟 Stade de l'Aube، Troyes\n⚖️ 
+ الحكم: Marc Bollengier\n👥 الحضور: 11,655\n—————\n
+ ⚽ Troyes v Paris FC (0 - 0)\n🏆 Ligue 1 — Matchday 1\n🗓 Sat 22 Au
+ g 2026 · 18:45 UTC\n🏟 Stade de l'Aube, Troyes\nReferee: Marc Bollengie
+ r\nAttendance: 11,655\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد باريس أف.سي. — الدو
+ ري الفرنسي | Tomorrow: Troyes vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  باريس أف.سي. | Kick-off in 30 min: Troyes vs Paris FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802912@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T184500Z
+DTEND:20260829T204500Z
+SUMMARY:Lorient vs Troyes (1 - 2) — Ligue 1
+LOCATION:Stade du Moustoir - Yves Allainmat\, Lorient\, France
+GEO:47.748821;-3.369021
+URL:https://www.fotmob.com/match/5802912
+DESCRIPTION:⚽ لوريان × تروا (1 - 2)\n🏆 الدوري الف
+ رنسي — الجولة 2\n🗓 السبت 29 أغسطس 2026 · 21:45 
+ بتوقيت الرياض\n🏟 Stade du Moustoir - Yves Allainmat، Lorie
+ nt\n⚖️ الحكم: Azzedine Souifi\n👥 الحضور: 12,711\n——
+ ———\n⚽ Lorient v Troyes (1 - 2)\n🏆 Ligue 1 — Matchday 2\n🗓
+  Sat 29 Aug 2026 · 18:45 UTC\n🏟 Stade du Moustoir - Yves Allainmat, Lo
+ rient\nReferee: Azzedine Souifi\nAttendance: 12,711\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لوريان ضد تروا — الدوري ال
+ فرنسي | Tomorrow: Lorient vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لوريا
+ ن × تروا | Kick-off in 30 min: Lorient vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802927@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Troyes vs Strasbourg — Ligue 1
+LOCATION:Stade de l'Aube\, Troyes\, France
+GEO:48.307533;4.098485
+URL:https://www.fotmob.com/match/5802927
+DESCRIPTION:⚽ تروا × ستراسبورج\n🏆 الدوري الفر
+ نسي — الجولة 3\n🗓 الأحد 6 سبتمبر 2026 · 16:00 ب
+ توقيت الرياض\n🏟 Stade de l'Aube، Troyes\n📺 beIN Sports 3
+  HD\n—————\n⚽ Troyes v Strasbourg\n🏆 Ligue 1 — Matchday 3
+ \n🗓 Sun 06 Sep 2026 · 13:00 UTC\n🏟 Stade de l'Aube, Troyes\n📺 be
+ IN Sports 3 HD\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد ستراسبورج — الدوري
+  الفرنسي — 📺 beIN Sports 3 HD | Tomorrow: Troyes vs Strasbourg
+  | TV: beIN Sports 3 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  ستراسبورج — 📺 beIN Sports 3 HD | Kick-off in 30 min: Troyes
+  vs Strasbourg | TV: beIN Sports 3 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802932@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:Lille vs Troyes — Ligue 1
+LOCATION:Decathlon Arena - Stade Pierre-Mauroy\, Villeneuve d'Ascq\, France
+GEO:50.611965;3.130484
+URL:https://www.fotmob.com/match/5802932
+DESCRIPTION:⚽ ليل × تروا\n🏆 الدوري الفرنسي — ا
+ لجولة 4\n🗓 الأحد 13 سبتمبر 2026 · 16:00 بتوقيت 
+ الرياض\n🏟 Decathlon Arena - Stade Pierre-Mauroy، Villeneuve d'As
+ cq\n—————\n⚽ Lille v Troyes\n🏆 Ligue 1 — Matchday 4\n🗓
+  Sun 13 Sep 2026 · 13:00 UTC\n🏟 Decathlon Arena - Stade Pierre-Mauroy,
+  Villeneuve d'Ascq\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليل ضد تروا — الدوري الفرن
+ سي | Tomorrow: Lille vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليل × 
+ تروا | Kick-off in 30 min: Lille vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802937@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T184500Z
+DTEND:20260919T204500Z
+SUMMARY:Angers vs Troyes — Ligue 1
+LOCATION:Stade Raymond Kopa
+URL:https://www.fotmob.com/match/5802937
+DESCRIPTION:⚽ أنجيه × تروا\n🏆 الدوري الفرنسي 
+ — الجولة 5\n🗓 السبت 19 سبتمبر 2026 · 21:45 بتوق
+ يت الرياض\n🏟 Stade Raymond Kopa\n—————\n⚽ Angers v 
+ Troyes\n🏆 Ligue 1 — Matchday 5\n🗓 Sat 19 Sep 2026 · 18:45 UTC\n
+ 🏟 Stade Raymond Kopa\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أنجيه ضد تروا — الدوري الف
+ رنسي | Tomorrow: Angers vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أنجيه 
+ × تروا | Kick-off in 30 min: Angers vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802954@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T184500Z
+DTEND:20261011T204500Z
+SUMMARY:Troyes vs Marseille — Ligue 1
+LOCATION:Stade de l'Aube
+URL:https://www.fotmob.com/match/5802954
+DESCRIPTION:⚽ تروا × مارسيليا\n🏆 الدوري الفرن
+ سي — الجولة 6\n🗓 الأحد 11 أكتوبر 2026 · 21:45 ب
+ توقيت الرياض\n🏟 Stade de l'Aube\n—————\n⚽ Troyes
+  v Marseille\n🏆 Ligue 1 — Matchday 6\n🗓 Sun 11 Oct 2026 · 18:45 U
+ TC\n🏟 Stade de l'Aube\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد مارسيليا — الدوري 
+ الفرنسي | Tomorrow: Troyes vs Marseille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  مارسيليا | Kick-off in 30 min: Troyes vs Marseille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802963@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T184500Z
+DTEND:20261017T204500Z
+SUMMARY:Troyes vs Lens — Ligue 1
+LOCATION:Stade de l'Aube
+URL:https://www.fotmob.com/match/5802963
+DESCRIPTION:⚽ تروا × لانس\n🏆 الدوري الفرنسي — 
+ الجولة 7\n🗓 السبت 17 أكتوبر 2026 · 21:45 بتوقيت
+  الرياض\n🏟 Stade de l'Aube\n—————\n⚽ Troyes v Lens\n
+ 🏆 Ligue 1 — Matchday 7\n🗓 Sat 17 Oct 2026 · 18:45 UTC\n🏟 Stade
+  de l'Aube\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد لانس — الدوري الفر
+ نسي | Tomorrow: Troyes vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  لانس | Kick-off in 30 min: Troyes vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802971@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T151500Z
+DTEND:20261024T171500Z
+SUMMARY:Toulouse vs Troyes — Ligue 1
+LOCATION:Stadium de Toulouse
+URL:https://www.fotmob.com/match/5802971
+DESCRIPTION:⚽ تولوز × تروا\n🏆 الدوري الفرنسي 
+ — الجولة 8\n🗓 السبت 24 أكتوبر 2026 · 18:15 بتوق
+ يت الرياض\n🏟 Stadium de Toulouse\n—————\n⚽ Toulouse
+  v Troyes\n🏆 Ligue 1 — Matchday 8\n🗓 Sat 24 Oct 2026 · 15:15 UTC\
+ n🏟 Stadium de Toulouse\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تولوز ضد تروا — الدوري الف
+ رنسي | Tomorrow: Toulouse vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تولوز 
+ × تروا | Kick-off in 30 min: Toulouse vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802981@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T194500Z
+DTEND:20261031T214500Z
+SUMMARY:Troyes vs Le Mans — Ligue 1
+LOCATION:Stade de l'Aube
+URL:https://www.fotmob.com/match/5802981
+DESCRIPTION:⚽ تروا × لومان\n🏆 الدوري الفرنسي 
+ — الجولة 9\n🗓 السبت 31 أكتوبر 2026 · 22:45 بتوق
+ يت الرياض\n🏟 Stade de l'Aube\n—————\n⚽ Troyes v Le 
+ Mans\n🏆 Ligue 1 — Matchday 9\n🗓 Sat 31 Oct 2026 · 19:45 UTC\n🏟
+  Stade de l'Aube\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد لومان — الدوري الف
+ رنسي | Tomorrow: Troyes vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  لومان | Kick-off in 30 min: Troyes vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802987@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T194500Z
+DTEND:20261107T214500Z
+SUMMARY:Paris Saint-Germain vs Troyes — Ligue 1
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/5802987
+DESCRIPTION:⚽ باريس سان جيرمان × تروا\n🏆 الدور
+ ي الفرنسي — الجولة 10\n🗓 السبت 7 نوفمبر 2026
+  · 22:45 بتوقيت الرياض\n🏟 Parc des Princes\n————
+ —\n⚽ Paris Saint-Germain v Troyes\n🏆 Ligue 1 — Matchday 10\n🗓 
+ Sat 07 Nov 2026 · 19:45 UTC\n🏟 Parc des Princes\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد تروا — 
+ الدوري الفرنسي | Tomorrow: Paris Saint-Germain vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × تروا | Kick-off in 30 min: Paris Saint-Germain 
+ vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802999@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261120T194500Z
+DTEND:20261120T214500Z
+SUMMARY:Troyes vs Le Havre — Ligue 1
+LOCATION:Stade de l'Aube
+URL:https://www.fotmob.com/match/5802999
+DESCRIPTION:⚽ تروا × لو آفر\n🏆 الدوري الفرنسي 
+ — الجولة 11\n🗓 الجمعة 20 نوفمبر 2026 · 22:45 بت
+ وقيت الرياض\n🏟 Stade de l'Aube\n—————\n⚽ Troyes v
+  Le Havre\n🏆 Ligue 1 — Matchday 11\n🗓 Fri 20 Nov 2026 · 19:45 UTC
+ \n🏟 Stade de l'Aube\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد لو آفر — الدوري الف
+ رنسي | Tomorrow: Troyes vs Le Havre
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  لو آفر | Kick-off in 30 min: Troyes vs Le Havre
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803006@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:Nice vs Troyes — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5803006
+DESCRIPTION:⚽ نيس × تروا\n🏆 الدوري الفرنسي — ا
+ لجولة 12\n🗓 السبت 28 نوفمبر 2026 · 19:00 بتوقيت 
+ الرياض\n🏟 Allianz Riviera\n—————\n⚽ Nice v Troyes\n
+ 🏆 Ligue 1 — Matchday 12\n🗓 Sat 28 Nov 2026 · 16:00 UTC\n🏟 Alli
+ anz Riviera\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد تروا — الدوري الفرن
+ سي | Tomorrow: Nice vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ تروا | Kick-off in 30 min: Nice vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803017@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T160000Z
+DTEND:20261205T180000Z
+SUMMARY:Troyes vs Lyon — Ligue 1
+LOCATION:Stade de l'Aube
+URL:https://www.fotmob.com/match/5803017
+DESCRIPTION:⚽ تروا × أولمبيك ليون\n🏆 الدوري ال
+ فرنسي — الجولة 13\n🗓 السبت 5 ديسمبر 2026 · 19:
+ 00 بتوقيت الرياض\n🏟 Stade de l'Aube\n—————\n⚽ T
+ royes v Lyon\n🏆 Ligue 1 — Matchday 13\n🗓 Sat 05 Dec 2026 · 16:00 
+ UTC\n🏟 Stade de l'Aube\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد أولمبيك ليون — الد
+ وري الفرنسي | Tomorrow: Troyes vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  أولمبيك ليون | Kick-off in 30 min: Troyes vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803020@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T160000Z
+DTEND:20261212T180000Z
+SUMMARY:Brest vs Troyes — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5803020
+DESCRIPTION:⚽ بريست × تروا\n🏆 الدوري الفرنسي 
+ — الجولة 14\n🗓 السبت 12 ديسمبر 2026 · 19:00 بتو
+ قيت الرياض\n🏟 Stade Francis le Ble\n—————\n⚽ Brest
+  v Troyes\n🏆 Ligue 1 — Matchday 14\n🗓 Sat 12 Dec 2026 · 16:00 UTC
+ \n🏟 Stade Francis le Ble\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد تروا — الدوري الف
+ رنسي | Tomorrow: Brest vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × تروا | Kick-off in 30 min: Brest vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803034@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T160000Z
+DTEND:20270102T180000Z
+SUMMARY:Troyes vs Rennes — Ligue 1
+LOCATION:Stade de l'Aube
+URL:https://www.fotmob.com/match/5803034
+DESCRIPTION:⚽ تروا × ستاد رين\n🏆 الدوري الفرنس
+ ي — الجولة 15\n🗓 السبت 2 يناير 2027 · 19:00 بتو
+ قيت الرياض\n🏟 Stade de l'Aube\n—————\n⚽ Troyes v R
+ ennes\n🏆 Ligue 1 — Matchday 15\n🗓 Sat 02 Jan 2027 · 16:00 UTC\n
+ 🏟 Stade de l'Aube\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد ستاد رين — الدوري ا
+ لفرنسي | Tomorrow: Troyes vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  ستاد رين | Kick-off in 30 min: Troyes vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803037@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T160000Z
+DTEND:20270116T180000Z
+SUMMARY:Auxerre vs Troyes — Ligue 1
+LOCATION:Stade de l'Abbe-Deschamps
+URL:https://www.fotmob.com/match/5803037
+DESCRIPTION:⚽ أوكسير × تروا\n🏆 الدوري الفرنسي 
+ — الجولة 16\n🗓 السبت 16 يناير 2027 · 19:00 بتوق
+ يت الرياض\n🏟 Stade de l'Abbe-Deschamps\n—————\n⚽ Au
+ xerre v Troyes\n🏆 Ligue 1 — Matchday 16\n🗓 Sat 16 Jan 2027 · 16:0
+ 0 UTC\n🏟 Stade de l'Abbe-Deschamps\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوكسير ضد تروا — الدوري ال
+ فرنسي | Tomorrow: Auxerre vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوكسي
+ ر × تروا | Kick-off in 30 min: Auxerre vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803053@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T160000Z
+DTEND:20270123T180000Z
+SUMMARY:Troyes vs Monaco — Ligue 1
+LOCATION:Stade de l'Aube
+URL:https://www.fotmob.com/match/5803053
+DESCRIPTION:⚽ تروا × موناكو\n🏆 الدوري الفرنسي 
+ — الجولة 17\n🗓 السبت 23 يناير 2027 · 19:00 بتوق
+ يت الرياض\n🏟 Stade de l'Aube\n—————\n⚽ Troyes v Mon
+ aco\n🏆 Ligue 1 — Matchday 17\n🗓 Sat 23 Jan 2027 · 16:00 UTC\n🏟
+  Stade de l'Aube\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد موناكو — الدوري ال
+ فرنسي | Tomorrow: Troyes vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  موناكو | Kick-off in 30 min: Troyes vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803058@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T160000Z
+DTEND:20270130T180000Z
+SUMMARY:Marseille vs Troyes — Ligue 1
+LOCATION:Stade Orange Velodrome
+URL:https://www.fotmob.com/match/5803058
+DESCRIPTION:⚽ مارسيليا × تروا\n🏆 الدوري الفرن
+ سي — الجولة 18\n🗓 السبت 30 يناير 2027 · 19:00 بت
+ وقيت الرياض\n🏟 Stade Orange Velodrome\n—————\n⚽ M
+ arseille v Troyes\n🏆 Ligue 1 — Matchday 18\n🗓 Sat 30 Jan 2027 · 1
+ 6:00 UTC\n🏟 Stade Orange Velodrome\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مارسيليا ضد تروا — الدوري 
+ الفرنسي | Tomorrow: Marseille vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مارسي
+ ليا × تروا | Kick-off in 30 min: Marseille vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803070@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T160000Z
+DTEND:20270206T180000Z
+SUMMARY:Troyes vs Lille — Ligue 1
+LOCATION:Stade de l'Aube
+URL:https://www.fotmob.com/match/5803070
+DESCRIPTION:⚽ تروا × ليل\n🏆 الدوري الفرنسي — ا
+ لجولة 19\n🗓 السبت 6 فبراير 2027 · 19:00 بتوقيت 
+ الرياض\n🏟 Stade de l'Aube\n—————\n⚽ Troyes v Lille\n
+ 🏆 Ligue 1 — Matchday 19\n🗓 Sat 06 Feb 2027 · 16:00 UTC\n🏟 Stad
+ e de l'Aube\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد ليل — الدوري الفرن
+ سي | Tomorrow: Troyes vs Lille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  ليل | Kick-off in 30 min: Troyes vs Lille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803079@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270213T160000Z
+DTEND:20270213T180000Z
+SUMMARY:Paris FC vs Troyes — Ligue 1
+LOCATION:Stade Jean Bouin
+URL:https://www.fotmob.com/match/5803079
+DESCRIPTION:⚽ باريس أف.سي. × تروا\n🏆 الدوري الف
+ رنسي — الجولة 20\n🗓 السبت 13 فبراير 2027 · 19:0
+ 0 بتوقيت الرياض\n🏟 Stade Jean Bouin\n—————\n⚽ P
+ aris FC v Troyes\n🏆 Ligue 1 — Matchday 20\n🗓 Sat 13 Feb 2027 · 16
+ :00 UTC\n🏟 Stade Jean Bouin\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد تروا — الدو
+ ري الفرنسي | Tomorrow: Paris FC vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × تروا | Kick-off in 30 min: Paris FC vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803083@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T160000Z
+DTEND:20270220T180000Z
+SUMMARY:Lens vs Troyes — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5803083
+DESCRIPTION:⚽ لانس × تروا\n🏆 الدوري الفرنسي — 
+ الجولة 21\n🗓 السبت 20 فبراير 2027 · 19:00 بتوقي
+ ت الرياض\n🏟 Stade Bollaert-Delelis\n—————\n⚽ Lens v 
+ Troyes\n🏆 Ligue 1 — Matchday 21\n🗓 Sat 20 Feb 2027 · 16:00 UTC\n
+ 🏟 Stade Bollaert-Delelis\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد تروا — الدوري الفر
+ نسي | Tomorrow: Lens vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  تروا | Kick-off in 30 min: Lens vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803097@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T160000Z
+DTEND:20270227T180000Z
+SUMMARY:Troyes vs Nice — Ligue 1
+LOCATION:Stade de l'Aube
+URL:https://www.fotmob.com/match/5803097
+DESCRIPTION:⚽ تروا × نيس\n🏆 الدوري الفرنسي — ا
+ لجولة 22\n🗓 السبت 27 فبراير 2027 · 19:00 بتوقيت 
+ الرياض\n🏟 Stade de l'Aube\n—————\n⚽ Troyes v Nice\n
+ 🏆 Ligue 1 — Matchday 22\n🗓 Sat 27 Feb 2027 · 16:00 UTC\n🏟 Stad
+ e de l'Aube\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد نيس — الدوري الفرن
+ سي | Tomorrow: Troyes vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  نيس | Kick-off in 30 min: Troyes vs Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803107@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270306T160000Z
+DTEND:20270306T180000Z
+SUMMARY:Troyes vs Lorient — Ligue 1
+LOCATION:Stade de l'Aube
+URL:https://www.fotmob.com/match/5803107
+DESCRIPTION:⚽ تروا × لوريان\n🏆 الدوري الفرنسي 
+ — الجولة 23\n🗓 السبت 6 مارس 2027 · 19:00 بتوقيت
+  الرياض\n🏟 Stade de l'Aube\n—————\n⚽ Troyes v Lorient
+ \n🏆 Ligue 1 — Matchday 23\n🗓 Sat 06 Mar 2027 · 16:00 UTC\n🏟 St
+ ade de l'Aube\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد لوريان — الدوري ال
+ فرنسي | Tomorrow: Troyes vs Lorient
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  لوريان | Kick-off in 30 min: Troyes vs Lorient
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803112@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T160000Z
+DTEND:20270313T180000Z
+SUMMARY:Lyon vs Troyes — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5803112
+DESCRIPTION:⚽ أولمبيك ليون × تروا\n🏆 الدوري ال
+ فرنسي — الجولة 24\n🗓 السبت 13 مارس 2027 · 19:00 
+ بتوقيت الرياض\n🏟 Groupama Stadium\n—————\n⚽ Lyo
+ n v Troyes\n🏆 Ligue 1 — Matchday 24\n🗓 Sat 13 Mar 2027 · 16:00 UT
+ C\n🏟 Groupama Stadium\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد تروا — الد
+ وري الفرنسي | Tomorrow: Lyon vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × تروا | Kick-off in 30 min: Lyon vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803124@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T160000Z
+DTEND:20270320T180000Z
+SUMMARY:Troyes vs Auxerre — Ligue 1
+LOCATION:Stade de l'Aube
+URL:https://www.fotmob.com/match/5803124
+DESCRIPTION:⚽ تروا × أوكسير\n🏆 الدوري الفرنسي 
+ — الجولة 25\n🗓 السبت 20 مارس 2027 · 19:00 بتوقي
+ ت الرياض\n🏟 Stade de l'Aube\n—————\n⚽ Troyes v Auxer
+ re\n🏆 Ligue 1 — Matchday 25\n🗓 Sat 20 Mar 2027 · 16:00 UTC\n🏟 
+ Stade de l'Aube\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد أوكسير — الدوري ال
+ فرنسي | Tomorrow: Troyes vs Auxerre
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  أوكسير | Kick-off in 30 min: Troyes vs Auxerre
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803129@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270403T150000Z
+DTEND:20270403T170000Z
+SUMMARY:Le Havre vs Troyes — Ligue 1
+LOCATION:Stade Oceane
+URL:https://www.fotmob.com/match/5803129
+DESCRIPTION:⚽ لو آفر × تروا\n🏆 الدوري الفرنسي 
+ — الجولة 26\n🗓 السبت 3 أبريل 2027 · 18:00 بتوقي
+ ت الرياض\n🏟 Stade Oceane\n—————\n⚽ Le Havre v Troyes
+ \n🏆 Ligue 1 — Matchday 26\n🗓 Sat 03 Apr 2027 · 15:00 UTC\n🏟 St
+ ade Oceane\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لو آفر ضد تروا — الدوري الف
+ رنسي | Tomorrow: Le Havre vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لو آفر
+  × تروا | Kick-off in 30 min: Le Havre vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803143@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T150000Z
+DTEND:20270410T170000Z
+SUMMARY:Troyes vs Angers — Ligue 1
+LOCATION:Stade de l'Aube
+URL:https://www.fotmob.com/match/5803143
+DESCRIPTION:⚽ تروا × أنجيه\n🏆 الدوري الفرنسي 
+ — الجولة 27\n🗓 السبت 10 أبريل 2027 · 18:00 بتوق
+ يت الرياض\n🏟 Stade de l'Aube\n—————\n⚽ Troyes v Ang
+ ers\n🏆 Ligue 1 — Matchday 27\n🗓 Sat 10 Apr 2027 · 15:00 UTC\n🏟
+  Stade de l'Aube\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد أنجيه — الدوري الف
+ رنسي | Tomorrow: Troyes vs Angers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  أنجيه | Kick-off in 30 min: Troyes vs Angers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803151@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T150000Z
+DTEND:20270417T170000Z
+SUMMARY:Rennes vs Troyes — Ligue 1
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/5803151
+DESCRIPTION:⚽ ستاد رين × تروا\n🏆 الدوري الفرنس
+ ي — الجولة 28\n🗓 السبت 17 أبريل 2027 · 18:00 بتو
+ قيت الرياض\n🏟 Roazhon Park\n—————\n⚽ Rennes v Troy
+ es\n🏆 Ligue 1 — Matchday 28\n🗓 Sat 17 Apr 2027 · 15:00 UTC\n🏟 
+ Roazhon Park\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد تروا — الدوري ا
+ لفرنسي | Tomorrow: Rennes vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × تروا | Kick-off in 30 min: Rennes vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803161@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T150000Z
+DTEND:20270424T170000Z
+SUMMARY:Troyes vs Toulouse — Ligue 1
+LOCATION:Stade de l'Aube
+URL:https://www.fotmob.com/match/5803161
+DESCRIPTION:⚽ تروا × تولوز\n🏆 الدوري الفرنسي 
+ — الجولة 29\n🗓 السبت 24 أبريل 2027 · 18:00 بتوق
+ يت الرياض\n🏟 Stade de l'Aube\n—————\n⚽ Troyes v Tou
+ louse\n🏆 Ligue 1 — Matchday 29\n🗓 Sat 24 Apr 2027 · 15:00 UTC\n
+ 🏟 Stade de l'Aube\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد تولوز — الدوري الف
+ رنسي | Tomorrow: Troyes vs Toulouse
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  تولوز | Kick-off in 30 min: Troyes vs Toulouse
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803170@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T150000Z
+DTEND:20270501T170000Z
+SUMMARY:Troyes vs Brest — Ligue 1
+LOCATION:Stade de l'Aube
+URL:https://www.fotmob.com/match/5803170
+DESCRIPTION:⚽ تروا × بريست\n🏆 الدوري الفرنسي 
+ — الجولة 30\n🗓 السبت 1 مايو 2027 · 18:00 بتوقيت
+  الرياض\n🏟 Stade de l'Aube\n—————\n⚽ Troyes v Brest\n
+ 🏆 Ligue 1 — Matchday 30\n🗓 Sat 01 May 2027 · 15:00 UTC\n🏟 Stad
+ e de l'Aube\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد بريست — الدوري الف
+ رنسي | Tomorrow: Troyes vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  بريست | Kick-off in 30 min: Troyes vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803173@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T150000Z
+DTEND:20270508T170000Z
+SUMMARY:Le Mans vs Troyes — Ligue 1
+LOCATION:Stade Marie-Marvingt
+URL:https://www.fotmob.com/match/5803173
+DESCRIPTION:⚽ لومان × تروا\n🏆 الدوري الفرنسي 
+ — الجولة 31\n🗓 السبت 8 مايو 2027 · 18:00 بتوقيت
+  الرياض\n🏟 Stade Marie-Marvingt\n—————\n⚽ Le Mans v T
+ royes\n🏆 Ligue 1 — Matchday 31\n🗓 Sat 08 May 2027 · 15:00 UTC\n
+ 🏟 Stade Marie-Marvingt\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد تروا — الدوري الف
+ رنسي | Tomorrow: Le Mans vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × تروا | Kick-off in 30 min: Le Mans vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803187@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T150000Z
+DTEND:20270516T170000Z
+SUMMARY:Strasbourg vs Troyes — Ligue 1
+LOCATION:Stade de la Meinau
+URL:https://www.fotmob.com/match/5803187
+DESCRIPTION:⚽ ستراسبورج × تروا\n🏆 الدوري الفر
+ نسي — الجولة 32\n🗓 الأحد 16 مايو 2027 · 18:00 بت
+ وقيت الرياض\n🏟 Stade de la Meinau\n—————\n⚽ Stras
+ bourg v Troyes\n🏆 Ligue 1 — Matchday 32\n🗓 Sun 16 May 2027 · 15:0
+ 0 UTC\n🏟 Stade de la Meinau\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد تروا — الدوري
+  الفرنسي | Tomorrow: Strasbourg vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × تروا | Kick-off in 30 min: Strasbourg vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803197@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270522T150000Z
+DTEND:20270522T170000Z
+SUMMARY:Troyes vs Paris Saint-Germain — Ligue 1
+LOCATION:Stade de l'Aube
+URL:https://www.fotmob.com/match/5803197
+DESCRIPTION:⚽ تروا × باريس سان جيرمان\n🏆 الدور
+ ي الفرنسي — الجولة 33\n🗓 السبت 22 مايو 2027 ·
+  18:00 بتوقيت الرياض\n🏟 Stade de l'Aube\n—————\n
+ ⚽ Troyes v Paris Saint-Germain\n🏆 Ligue 1 — Matchday 33\n🗓 Sat 2
+ 2 May 2027 · 15:00 UTC\n🏟 Stade de l'Aube\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد باريس سان جيرمان — 
+ الدوري الفرنسي | Tomorrow: Troyes vs Paris Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  باريس سان جيرمان | Kick-off in 30 min: Troyes vs Paris Sain
+ t-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803203@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270529T190000Z
+DTEND:20270529T210000Z
+SUMMARY:Monaco vs Troyes — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5803203
+DESCRIPTION:⚽ موناكو × تروا\n🏆 الدوري الفرنسي 
+ — الجولة 34\n🗓 السبت 29 مايو 2027 · 22:00 بتوقي
+ ت الرياض\n🏟 Stade Louis II, Monaco\n—————\n⚽ Monaco 
+ v Troyes\n🏆 Ligue 1 — Matchday 34\n🗓 Sat 29 May 2027 · 19:00 UTC\
+ n🏟 Stade Louis II, Monaco\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد تروا — الدوري ال
+ فرنسي | Tomorrow: Monaco vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × تروا | Kick-off in 30 min: Monaco vs Troyes
+END:VALARM
+END:VEVENT
+END:VCALENDAR

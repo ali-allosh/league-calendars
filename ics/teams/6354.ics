@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al-Wehda — King's Cup Fixtures | الوحدة — مبا
+ ريات كأس خادم الحرمين الشريفين
+X-WR-CALDESC:Al-Wehda — all matches in King's Cup\, exact UTC kickoffs\, 
+ stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:1
+ 0Z.  •  الوحدة — جميع المباريات في كأس خاد
+ م الحرمين الشريفين بتوقيت UTC الدقيق مع ال
+ ملاعب والقنوات الناقلة. المصدر: FotMob + 365scor
+ es · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5853724@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260816T180000Z
+DTEND:20260816T200000Z
+SUMMARY:Al-Wehda vs Al Shabab (3 - 2) — King's Cup
+LOCATION:King Abdulaziz Sports City Stadium\, Makkah (Mecca)\, Saudi Arabia
+GEO:21.485513;39.973873
+URL:https://www.fotmob.com/match/5853724
+DESCRIPTION:⚽ الوحدة × الشباب (3 - 2)\n🏆 كأس خادم 
+ الحرمين الشريفين — دور الـ32\n🗓 الأحد 16 أ
+ غسطس 2026 · 21:00 بتوقيت الرياض\n🏟 King Abdulaziz Spor
+ ts City Stadium، Makkah (Mecca)\n—————\n⚽ Al-Wehda v Al Shaba
+ b (3 - 2)\n🏆 King's Cup — Round of 32\n🗓 Sun 16 Aug 2026 · 18:00 
+ UTC\n🏟 King Abdulaziz Sports City Stadium, Makkah (Mecca)\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الوحدة ضد الشباب — كأس خاد
+ م الحرمين الشريفين | Tomorrow: Al-Wehda vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الوحد
+ ة × الشباب | Kick-off in 30 min: Al-Wehda vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6125933@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Al-Taawoun vs Al-Wehda — King's Cup
+URL:https://www.fotmob.com/match/6125933
+DESCRIPTION:⚽ التعاون × الوحدة\n🏆 كأس خادم الح
+ رمين الشريفين — دور الـ16\n🗓 الثلاثاء 1 د
+ يسمبر 2026 · 20:00 بتوقيت الرياض\n—————\n⚽ A
+ l-Taawoun v Al-Wehda\n🏆 King's Cup — Round of 16\n🗓 Tue 01 Dec 202
+ 6 · 17:00 UTC\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الوحدة — كأس خا
+ دم الحرمين الشريفين | Tomorrow: Al-Taawoun vs Al-Wehda
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الوحدة | Kick-off in 30 min: Al-Taawoun vs Al-Wehda
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ AFC Totton — FA Cup Fixtures | AFC Totton — مباري
+ ات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:AFC Totton — all matches in FA Cup\, exact UTC kickoffs\, st
+ adiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10Z
+ .  •  AFC Totton — جميع المباريات في كأس الاتح
+ اد الإنجليزي بتوقيت UTC الدقيق مع الملاعب 
+ والقنوات الناقلة. المصدر: FotMob + 365scores · تح
+ ديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010654@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Macclesfield FC vs AFC Totton (6 - 3) — FA Cup
+LOCATION:The Leasing.com Stadium\, Macclesfield\, Cheshire\, England
+GEO:53.242857;-2.127271
+URL:https://www.fotmob.com/match/5010654
+DESCRIPTION:⚽ Macclesfield FC × AFC Totton (6 - 3)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الأول\n🗓 السبت 1 ن
+ وفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 The Leasing.com S
+ tadium، Macclesfield, Cheshire\n⚖️ الحكم: Oliver Yates\n——
+ ———\n⚽ Macclesfield FC v AFC Totton (6 - 3)\n🏆 FA Cup — Round
+  1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 The Leasing.com Stadium, Maccl
+ esfield, Cheshire\nReferee: Oliver Yates\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Macclesfield FC ضد AFC Totton — كأس الا
+ تحاد الإنجليزي | Tomorrow: Macclesfield FC vs AFC Totton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Macclesfiel
+ d FC × AFC Totton | Kick-off in 30 min: Macclesfield FC vs AFC Totton
+END:VALARM
+END:VEVENT
+END:VCALENDAR

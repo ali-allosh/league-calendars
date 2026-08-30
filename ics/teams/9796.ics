@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Huddersfield Town — FA Cup Fixtures | Huddersfield Town 
+ — مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Huddersfield Town — all matches in FA Cup\, exact UTC kickof
+ fs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19
+ :31:10Z.  •  Huddersfield Town — جميع المباريات في كأ
+ س الاتحاد الإنجليزي بتوقيت UTC الدقيق مع ا
+ لملاعب والقنوات الناقلة. المصدر: FotMob + 365sc
+ ores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010634@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Bolton Wanderers vs Huddersfield Town (2 - 1) — FA Cup
+LOCATION:Toughsheet Community Stadium\, Bolton\, England
+GEO:53.580584;-2.535661
+URL:https://www.fotmob.com/match/5010634
+DESCRIPTION:⚽ Bolton Wanderers × Huddersfield Town (2 - 1)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الأول\n🗓 السب
+ ت 1 نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Toughsheet
+  Community Stadium، Bolton\n⚖️ الحكم: Ross Joyce\n👥 الحض
+ ور: 6,077\n—————\n⚽ Bolton Wanderers v Huddersfield Town (2 
+ - 1)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Tou
+ ghsheet Community Stadium, Bolton\nReferee: Ross Joyce\nAttendance: 6,077\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Bolton Wanderers ضد Huddersfield Town — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Bolton Wanderers vs Hudde
+ rsfield Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Bolton Wand
+ erers × Huddersfield Town | Kick-off in 30 min: Bolton Wanderers vs Hudde
+ rsfield Town
+END:VALARM
+END:VEVENT
+END:VCALENDAR

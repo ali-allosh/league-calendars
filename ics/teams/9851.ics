@@ -1,0 +1,1300 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Rennes — Ligue 1 & UEFA Europa League Fixtures | ستا
+ د رين — مباريات الدوري الفرنسي والدوري ا
+ لأوروبي
+X-WR-CALDESC:Rennes — all matches in Ligue 1 & UEFA Europa League\, exact
+  UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 20
+ 26-09-05T19:31:10Z.  •  ستاد رين — جميع المباريات 
+ في الدوري الفرنسي والدوري الأوروبي بتوق
+ يت UTC الدقيق مع الملاعب والقنوات الناقلة.
+  المصدر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19
+ :31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5803105@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260823T184500Z
+DTEND:20260823T204500Z
+SUMMARY:Rennes vs Paris Saint-Germain (2 - 2) — Ligue 1
+LOCATION:Roazhon Park\, Rennes\, France
+GEO:48.107467;-1.712884
+URL:https://www.fotmob.com/match/5803105
+DESCRIPTION:⚽ ستاد رين × باريس سان جيرمان (2 - 2)\n
+ 🏆 الدوري الفرنسي — الجولة 1\n🗓 الأحد 23 أ
+ غسطس 2026 · 21:45 بتوقيت الرياض\n🏟 Roazhon Park، Renn
+ es\n⚖️ الحكم: Bastien Dechepy\n👥 الحضور: 28,255\n——
+ ———\n⚽ Rennes v Paris Saint-Germain (2 - 2)\n🏆 Ligue 1 — Matc
+ hday 1\n🗓 Sun 23 Aug 2026 · 18:45 UTC\n🏟 Roazhon Park, Rennes\nRefe
+ ree: Bastien Dechepy\nAttendance: 28,255\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد باريس سان جيرما
+ ن — الدوري الفرنسي | Tomorrow: Rennes vs Paris Saint-Germa
+ in
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × باريس سان جيرمان | Kick-off in 30 min: Rennes vs Par
+ is Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802916@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T151500Z
+DTEND:20260830T171500Z
+SUMMARY:Rennes vs Le Mans (3 - 2) — Ligue 1
+LOCATION:Roazhon Park\, Rennes\, France
+GEO:48.107467;-1.712884
+URL:https://www.fotmob.com/match/5802916
+DESCRIPTION:⚽ ستاد رين × لومان (3 - 2)\n🏆 الدوري ا
+ لفرنسي — الجولة 2\n🗓 الأحد 30 أغسطس 2026 · 18:
+ 15 بتوقيت الرياض\n🏟 Roazhon Park، Rennes\n⚖️ الحك
+ م: Romain Lissorgue\n—————\n⚽ Rennes v Le Mans (3 - 2)\n🏆 
+ Ligue 1 — Matchday 2\n🗓 Sun 30 Aug 2026 · 15:15 UTC\n🏟 Roazhon Pa
+ rk, Rennes\nReferee: Romain Lissorgue\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد لومان — الدوري 
+ الفرنسي | Tomorrow: Rennes vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × لومان | Kick-off in 30 min: Rennes vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802919@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260906T151500Z
+DTEND:20260906T171500Z
+SUMMARY:Angers vs Rennes — Ligue 1
+LOCATION:Stade Raymond Kopa\, Angers\, France
+GEO:47.460413;-0.530777
+URL:https://www.fotmob.com/match/5802919
+DESCRIPTION:⚽ أنجيه × ستاد رين\n🏆 الدوري الفرن
+ سي — الجولة 3\n🗓 الأحد 6 سبتمبر 2026 · 18:15 بت
+ وقيت الرياض\n🏟 Stade Raymond Kopa، Angers\n📺 beIN SPORTS 
+ HD 4\n—————\n⚽ Angers v Rennes\n🏆 Ligue 1 — Matchday 3\n
+ 🗓 Sun 06 Sep 2026 · 15:15 UTC\n🏟 Stade Raymond Kopa, Angers\n📺 b
+ eIN Sport 4 HD\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أنجيه ضد ستاد رين — الدوري 
+ الفرنسي — 📺 beIN SPORTS HD 4 | Tomorrow: Angers vs Rennes | TV
+ : beIN Sport 4 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أنجيه 
+ × ستاد رين — 📺 beIN SPORTS HD 4 | Kick-off in 30 min: Angers 
+ vs Rennes | TV: beIN Sport 4 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802935@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260911T184500Z
+DTEND:20260911T204500Z
+SUMMARY:Rennes vs Marseille — Ligue 1
+LOCATION:Roazhon Park\, Rennes\, France
+GEO:48.107467;-1.712884
+URL:https://www.fotmob.com/match/5802935
+DESCRIPTION:⚽ ستاد رين × مارسيليا\n🏆 الدوري ال
+ فرنسي — الجولة 4\n🗓 الجمعة 11 سبتمبر 2026 · 2
+ 1:45 بتوقيت الرياض\n🏟 Roazhon Park، Rennes\n📺 Fanatiz،
+  beIN Sport Canada\n—————\n⚽ Rennes v Marseille\n🏆 Ligue 1 
+ — Matchday 4\n🗓 Fri 11 Sep 2026 · 18:45 UTC\n🏟 Roazhon Park, Renn
+ es\n📺 Fanatiz, beIN Sport Canada\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد مارسيليا — الد
+ وري الفرنسي — 📺 Fanatiz، beIN Sport Canada | Tomorrow: Ren
+ nes vs Marseille | TV: Fanatiz\, beIN Sport Canada
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × مارسيليا — 📺 Fanatiz، beIN Sport Canada | Kick-off i
+ n 30 min: Rennes vs Marseille | TV: Fanatiz\, beIN Sport Canada
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802940@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T184500Z
+DTEND:20260919T204500Z
+SUMMARY:Lyon vs Rennes — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5802940
+DESCRIPTION:⚽ أولمبيك ليون × ستاد رين\n🏆 الدور
+ ي الفرنسي — الجولة 5\n🗓 السبت 19 سبتمبر 2026
+  · 21:45 بتوقيت الرياض\n🏟 Groupama Stadium\n————
+ —\n⚽ Lyon v Rennes\n🏆 Ligue 1 — Matchday 5\n🗓 Sat 19 Sep 2026 
+ · 18:45 UTC\n🏟 Groupama Stadium\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد ستاد رين — 
+ الدوري الفرنسي | Tomorrow: Lyon vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × ستاد رين | Kick-off in 30 min: Lyon vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802953@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T151500Z
+DTEND:20261011T171500Z
+SUMMARY:Rennes vs Auxerre — Ligue 1
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/5802953
+DESCRIPTION:⚽ ستاد رين × أوكسير\n🏆 الدوري الفر
+ نسي — الجولة 6\n🗓 الأحد 11 أكتوبر 2026 · 18:15 
+ بتوقيت الرياض\n🏟 Roazhon Park\n—————\n⚽ Rennes 
+ v Auxerre\n🏆 Ligue 1 — Matchday 6\n🗓 Sun 11 Oct 2026 · 15:15 UTC\
+ n🏟 Roazhon Park\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد أوكسير — الدور
+ ي الفرنسي | Tomorrow: Rennes vs Auxerre
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × أوكسير | Kick-off in 30 min: Rennes vs Auxerre
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802961@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T151500Z
+DTEND:20261018T171500Z
+SUMMARY:Paris FC vs Rennes — Ligue 1
+LOCATION:Stade Jean Bouin
+URL:https://www.fotmob.com/match/5802961
+DESCRIPTION:⚽ باريس أف.سي. × ستاد رين\n🏆 الدوري
+  الفرنسي — الجولة 7\n🗓 الأحد 18 أكتوبر 2026 
+ · 18:15 بتوقيت الرياض\n🏟 Stade Jean Bouin\n—————
+ \n⚽ Paris FC v Rennes\n🏆 Ligue 1 — Matchday 7\n🗓 Sun 18 Oct 2026
+  · 15:15 UTC\n🏟 Stade Jean Bouin\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد ستاد رين — ا
+ لدوري الفرنسي | Tomorrow: Paris FC vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × ستاد رين | Kick-off in 30 min: Paris FC vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802970@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T161500Z
+DTEND:20261025T181500Z
+SUMMARY:Rennes vs Strasbourg — Ligue 1
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/5802970
+DESCRIPTION:⚽ ستاد رين × ستراسبورج\n🏆 الدوري ا
+ لفرنسي — الجولة 8\n🗓 الأحد 25 أكتوبر 2026 · 1
+ 9:15 بتوقيت الرياض\n🏟 Roazhon Park\n—————\n⚽ Re
+ nnes v Strasbourg\n🏆 Ligue 1 — Matchday 8\n🗓 Sun 25 Oct 2026 · 16
+ :15 UTC\n🏟 Roazhon Park\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد ستراسبورج — ال
+ دوري الفرنسي | Tomorrow: Rennes vs Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × ستراسبورج | Kick-off in 30 min: Rennes vs Strasbourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802978@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T161500Z
+DTEND:20261031T181500Z
+SUMMARY:Nice vs Rennes — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5802978
+DESCRIPTION:⚽ نيس × ستاد رين\n🏆 الدوري الفرنسي
+  — الجولة 9\n🗓 السبت 31 أكتوبر 2026 · 19:15 بتو
+ قيت الرياض\n🏟 Allianz Riviera\n—————\n⚽ Nice v Ren
+ nes\n🏆 Ligue 1 — Matchday 9\n🗓 Sat 31 Oct 2026 · 16:15 UTC\n🏟 
+ Allianz Riviera\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد ستاد رين — الدوري ال
+ فرنسي | Tomorrow: Nice vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ ستاد رين | Kick-off in 30 min: Nice vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802988@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Rennes vs Lille — Ligue 1
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/5802988
+DESCRIPTION:⚽ ستاد رين × ليل\n🏆 الدوري الفرنسي
+  — الجولة 10\n🗓 الأحد 8 نوفمبر 2026 · 17:00 بتو
+ قيت الرياض\n🏟 Roazhon Park\n—————\n⚽ Rennes v Lill
+ e\n🏆 Ligue 1 — Matchday 10\n🗓 Sun 08 Nov 2026 · 14:00 UTC\n🏟 R
+ oazhon Park\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد ليل — الدوري ال
+ فرنسي | Tomorrow: Rennes vs Lille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × ليل | Kick-off in 30 min: Rennes vs Lille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802993@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T161500Z
+DTEND:20261122T181500Z
+SUMMARY:Lorient vs Rennes — Ligue 1
+LOCATION:Stade du Moustoir
+URL:https://www.fotmob.com/match/5802993
+DESCRIPTION:⚽ لوريان × ستاد رين\n🏆 الدوري الفر
+ نسي — الجولة 11\n🗓 الأحد 22 نوفمبر 2026 · 19:15 
+ بتوقيت الرياض\n🏟 Stade du Moustoir\n—————\n⚽ Lo
+ rient v Rennes\n🏆 Ligue 1 — Matchday 11\n🗓 Sun 22 Nov 2026 · 16:1
+ 5 UTC\n🏟 Stade du Moustoir\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لوريان ضد ستاد رين — الدور
+ ي الفرنسي | Tomorrow: Lorient vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لوريا
+ ن × ستاد رين | Kick-off in 30 min: Lorient vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803008@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:Toulouse vs Rennes — Ligue 1
+LOCATION:Stadium de Toulouse
+URL:https://www.fotmob.com/match/5803008
+DESCRIPTION:⚽ تولوز × ستاد رين\n🏆 الدوري الفرن
+ سي — الجولة 12\n🗓 السبت 28 نوفمبر 2026 · 19:00 ب
+ توقيت الرياض\n🏟 Stadium de Toulouse\n—————\n⚽ To
+ ulouse v Rennes\n🏆 Ligue 1 — Matchday 12\n🗓 Sat 28 Nov 2026 · 16:
+ 00 UTC\n🏟 Stadium de Toulouse\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تولوز ضد ستاد رين — الدوري 
+ الفرنسي | Tomorrow: Toulouse vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تولوز 
+ × ستاد رين | Kick-off in 30 min: Toulouse vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803014@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T160000Z
+DTEND:20261205T180000Z
+SUMMARY:Rennes vs Brest — Ligue 1
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/5803014
+DESCRIPTION:⚽ ستاد رين × بريست\n🏆 الدوري الفرن
+ سي — الجولة 13\n🗓 السبت 5 ديسمبر 2026 · 19:00 ب
+ توقيت الرياض\n🏟 Roazhon Park\n—————\n⚽ Rennes v 
+ Brest\n🏆 Ligue 1 — Matchday 13\n🗓 Sat 05 Dec 2026 · 16:00 UTC\n
+ 🏟 Roazhon Park\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد بريست — الدوري 
+ الفرنسي | Tomorrow: Rennes vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × بريست | Kick-off in 30 min: Rennes vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803025@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T160000Z
+DTEND:20261212T180000Z
+SUMMARY:Rennes vs Monaco — Ligue 1
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/5803025
+DESCRIPTION:⚽ ستاد رين × موناكو\n🏆 الدوري الفر
+ نسي — الجولة 14\n🗓 السبت 12 ديسمبر 2026 · 19:00 
+ بتوقيت الرياض\n🏟 Roazhon Park\n—————\n⚽ Rennes 
+ v Monaco\n🏆 Ligue 1 — Matchday 14\n🗓 Sat 12 Dec 2026 · 16:00 UTC\
+ n🏟 Roazhon Park\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد موناكو — الدور
+ ي الفرنسي | Tomorrow: Rennes vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × موناكو | Kick-off in 30 min: Rennes vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803034@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T160000Z
+DTEND:20270102T180000Z
+SUMMARY:Troyes vs Rennes — Ligue 1
+LOCATION:Stade de l'Aube
+URL:https://www.fotmob.com/match/5803034
+DESCRIPTION:⚽ تروا × ستاد رين\n🏆 الدوري الفرنس
+ ي — الجولة 15\n🗓 السبت 2 يناير 2027 · 19:00 بتو
+ قيت الرياض\n🏟 Stade de l'Aube\n—————\n⚽ Troyes v R
+ ennes\n🏆 Ligue 1 — Matchday 15\n🗓 Sat 02 Jan 2027 · 16:00 UTC\n
+ 🏟 Stade de l'Aube\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد ستاد رين — الدوري ا
+ لفرنسي | Tomorrow: Troyes vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  ستاد رين | Kick-off in 30 min: Troyes vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803043@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T160000Z
+DTEND:20270116T180000Z
+SUMMARY:Rennes vs Lens — Ligue 1
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/5803043
+DESCRIPTION:⚽ ستاد رين × لانس\n🏆 الدوري الفرنس
+ ي — الجولة 16\n🗓 السبت 16 يناير 2027 · 19:00 بتو
+ قيت الرياض\n🏟 Roazhon Park\n—————\n⚽ Rennes v Lens
+ \n🏆 Ligue 1 — Matchday 16\n🗓 Sat 16 Jan 2027 · 16:00 UTC\n🏟 Ro
+ azhon Park\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد لانس — الدوري ا
+ لفرنسي | Tomorrow: Rennes vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × لانس | Kick-off in 30 min: Rennes vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803045@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T160000Z
+DTEND:20270123T180000Z
+SUMMARY:Le Havre vs Rennes — Ligue 1
+LOCATION:Stade Oceane
+URL:https://www.fotmob.com/match/5803045
+DESCRIPTION:⚽ لو آفر × ستاد رين\n🏆 الدوري الفر
+ نسي — الجولة 17\n🗓 السبت 23 يناير 2027 · 19:00 ب
+ توقيت الرياض\n🏟 Stade Oceane\n—————\n⚽ Le Havre 
+ v Rennes\n🏆 Ligue 1 — Matchday 17\n🗓 Sat 23 Jan 2027 · 16:00 UTC\
+ n🏟 Stade Oceane\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لو آفر ضد ستاد رين — الدوري
+  الفرنسي | Tomorrow: Le Havre vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لو آفر
+  × ستاد رين | Kick-off in 30 min: Le Havre vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803061@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T160000Z
+DTEND:20270130T180000Z
+SUMMARY:Rennes vs Lorient — Ligue 1
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/5803061
+DESCRIPTION:⚽ ستاد رين × لوريان\n🏆 الدوري الفر
+ نسي — الجولة 18\n🗓 السبت 30 يناير 2027 · 19:00 ب
+ توقيت الرياض\n🏟 Roazhon Park\n—————\n⚽ Rennes v 
+ Lorient\n🏆 Ligue 1 — Matchday 18\n🗓 Sat 30 Jan 2027 · 16:00 UTC\n
+ 🏟 Roazhon Park\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد لوريان — الدور
+ ي الفرنسي | Tomorrow: Rennes vs Lorient
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × لوريان | Kick-off in 30 min: Rennes vs Lorient
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803068@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T160000Z
+DTEND:20270206T180000Z
+SUMMARY:Rennes vs Lyon — Ligue 1
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/5803068
+DESCRIPTION:⚽ ستاد رين × أولمبيك ليون\n🏆 الدور
+ ي الفرنسي — الجولة 19\n🗓 السبت 6 فبراير 2027
+  · 19:00 بتوقيت الرياض\n🏟 Roazhon Park\n—————\n
+ ⚽ Rennes v Lyon\n🏆 Ligue 1 — Matchday 19\n🗓 Sat 06 Feb 2027 · 1
+ 6:00 UTC\n🏟 Roazhon Park\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد أولمبيك ليون — 
+ الدوري الفرنسي | Tomorrow: Rennes vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × أولمبيك ليون | Kick-off in 30 min: Rennes vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803073@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270213T160000Z
+DTEND:20270213T180000Z
+SUMMARY:Brest vs Rennes — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5803073
+DESCRIPTION:⚽ بريست × ستاد رين\n🏆 الدوري الفرن
+ سي — الجولة 20\n🗓 السبت 13 فبراير 2027 · 19:00 ب
+ توقيت الرياض\n🏟 Stade Francis le Ble\n—————\n⚽ B
+ rest v Rennes\n🏆 Ligue 1 — Matchday 20\n🗓 Sat 13 Feb 2027 · 16:00
+  UTC\n🏟 Stade Francis le Ble\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد ستاد رين — الدوري 
+ الفرنسي | Tomorrow: Brest vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × ستاد رين | Kick-off in 30 min: Brest vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803088@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T160000Z
+DTEND:20270220T180000Z
+SUMMARY:Rennes vs Toulouse — Ligue 1
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/5803088
+DESCRIPTION:⚽ ستاد رين × تولوز\n🏆 الدوري الفرن
+ سي — الجولة 21\n🗓 السبت 20 فبراير 2027 · 19:00 ب
+ توقيت الرياض\n🏟 Roazhon Park\n—————\n⚽ Rennes v 
+ Toulouse\n🏆 Ligue 1 — Matchday 21\n🗓 Sat 20 Feb 2027 · 16:00 UTC\
+ n🏟 Roazhon Park\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد تولوز — الدوري 
+ الفرنسي | Tomorrow: Rennes vs Toulouse
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × تولوز | Kick-off in 30 min: Rennes vs Toulouse
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803095@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T160000Z
+DTEND:20270227T180000Z
+SUMMARY:Marseille vs Rennes — Ligue 1
+LOCATION:Stade Orange Velodrome
+URL:https://www.fotmob.com/match/5803095
+DESCRIPTION:⚽ مارسيليا × ستاد رين\n🏆 الدوري ال
+ فرنسي — الجولة 22\n🗓 السبت 27 فبراير 2027 · 19
+ :00 بتوقيت الرياض\n🏟 Stade Orange Velodrome\n————
+ —\n⚽ Marseille v Rennes\n🏆 Ligue 1 — Matchday 22\n🗓 Sat 27 Feb
+  2027 · 16:00 UTC\n🏟 Stade Orange Velodrome\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مارسيليا ضد ستاد رين — الد
+ وري الفرنسي | Tomorrow: Marseille vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مارسي
+ ليا × ستاد رين | Kick-off in 30 min: Marseille vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802907@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270306T160000Z
+DTEND:20270306T180000Z
+SUMMARY:Paris Saint-Germain vs Rennes — Ligue 1
+LOCATION:Parc des Princes\, Paris\, France
+GEO:48.841433;2.253049
+URL:https://www.fotmob.com/match/5802907
+DESCRIPTION:⚽ باريس سان جيرمان × ستاد رين\n🏆 ا
+ لدوري الفرنسي — الجولة 23\n🗓 السبت 6 مارس 
+ 2027 · 19:00 بتوقيت الرياض\n🏟 Parc des Princes، Paris\n
+ ⚖️ الحكم: Bastien Dechepy\n—————\n⚽ Paris Saint-Germa
+ in v Rennes\n🏆 Ligue 1 — Matchday 23\n🗓 Sat 06 Mar 2027 · 16:00 U
+ TC\n🏟 Parc des Princes, Paris\nReferee: Bastien Dechepy\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد ستاد ري
+ ن — الدوري الفرنسي | Tomorrow: Paris Saint-Germain vs Renn
+ es
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × ستاد رين | Kick-off in 30 min: Paris Saint-G
+ ermain vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803111@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T160000Z
+DTEND:20270313T180000Z
+SUMMARY:Le Mans vs Rennes — Ligue 1
+LOCATION:Stade Marie-Marvingt
+URL:https://www.fotmob.com/match/5803111
+DESCRIPTION:⚽ لومان × ستاد رين\n🏆 الدوري الفرن
+ سي — الجولة 24\n🗓 السبت 13 مارس 2027 · 19:00 بتو
+ قيت الرياض\n🏟 Stade Marie-Marvingt\n—————\n⚽ Le Ma
+ ns v Rennes\n🏆 Ligue 1 — Matchday 24\n🗓 Sat 13 Mar 2027 · 16:00 U
+ TC\n🏟 Stade Marie-Marvingt\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد ستاد رين — الدوري 
+ الفرنسي | Tomorrow: Le Mans vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × ستاد رين | Kick-off in 30 min: Le Mans vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803122@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T160000Z
+DTEND:20270320T180000Z
+SUMMARY:Rennes vs Paris FC — Ligue 1
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/5803122
+DESCRIPTION:⚽ ستاد رين × باريس أف.سي.\n🏆 الدوري
+  الفرنسي — الجولة 25\n🗓 السبت 20 مارس 2027 · 1
+ 9:00 بتوقيت الرياض\n🏟 Roazhon Park\n—————\n⚽ Re
+ nnes v Paris FC\n🏆 Ligue 1 — Matchday 25\n🗓 Sat 20 Mar 2027 · 16:
+ 00 UTC\n🏟 Roazhon Park\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد باريس أف.سي. — ا
+ لدوري الفرنسي | Tomorrow: Rennes vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × باريس أف.سي. | Kick-off in 30 min: Rennes vs Paris FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803131@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270403T150000Z
+DTEND:20270403T170000Z
+SUMMARY:Lille vs Rennes — Ligue 1
+LOCATION:Decathlon Arena-Stade Pierre-Mauroy
+URL:https://www.fotmob.com/match/5803131
+DESCRIPTION:⚽ ليل × ستاد رين\n🏆 الدوري الفرنسي
+  — الجولة 26\n🗓 السبت 3 أبريل 2027 · 18:00 بتوق
+ يت الرياض\n🏟 Decathlon Arena-Stade Pierre-Mauroy\n————
+ —\n⚽ Lille v Rennes\n🏆 Ligue 1 — Matchday 26\n🗓 Sat 03 Apr 202
+ 7 · 15:00 UTC\n🏟 Decathlon Arena-Stade Pierre-Mauroy\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليل ضد ستاد رين — الدوري ال
+ فرنسي | Tomorrow: Lille vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليل × 
+ ستاد رين | Kick-off in 30 min: Lille vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803140@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T150000Z
+DTEND:20270410T170000Z
+SUMMARY:Monaco vs Rennes — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5803140
+DESCRIPTION:⚽ موناكو × ستاد رين\n🏆 الدوري الفر
+ نسي — الجولة 27\n🗓 السبت 10 أبريل 2027 · 18:00 ب
+ توقيت الرياض\n🏟 Stade Louis II, Monaco\n—————\n⚽
+  Monaco v Rennes\n🏆 Ligue 1 — Matchday 27\n🗓 Sat 10 Apr 2027 · 15
+ :00 UTC\n🏟 Stade Louis II, Monaco\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد ستاد رين — الدور
+ ي الفرنسي | Tomorrow: Monaco vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × ستاد رين | Kick-off in 30 min: Monaco vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803151@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T150000Z
+DTEND:20270417T170000Z
+SUMMARY:Rennes vs Troyes — Ligue 1
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/5803151
+DESCRIPTION:⚽ ستاد رين × تروا\n🏆 الدوري الفرنس
+ ي — الجولة 28\n🗓 السبت 17 أبريل 2027 · 18:00 بتو
+ قيت الرياض\n🏟 Roazhon Park\n—————\n⚽ Rennes v Troy
+ es\n🏆 Ligue 1 — Matchday 28\n🗓 Sat 17 Apr 2027 · 15:00 UTC\n🏟 
+ Roazhon Park\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد تروا — الدوري ا
+ لفرنسي | Tomorrow: Rennes vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × تروا | Kick-off in 30 min: Rennes vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803160@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T150000Z
+DTEND:20270424T170000Z
+SUMMARY:Strasbourg vs Rennes — Ligue 1
+LOCATION:Stade de la Meinau
+URL:https://www.fotmob.com/match/5803160
+DESCRIPTION:⚽ ستراسبورج × ستاد رين\n🏆 الدوري ا
+ لفرنسي — الجولة 29\n🗓 السبت 24 أبريل 2027 · 18
+ :00 بتوقيت الرياض\n🏟 Stade de la Meinau\n—————\n
+ ⚽ Strasbourg v Rennes\n🏆 Ligue 1 — Matchday 29\n🗓 Sat 24 Apr 202
+ 7 · 15:00 UTC\n🏟 Stade de la Meinau\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد ستاد رين — ال
+ دوري الفرنسي | Tomorrow: Strasbourg vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × ستاد رين | Kick-off in 30 min: Strasbourg vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803167@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T150000Z
+DTEND:20270501T170000Z
+SUMMARY:Rennes vs Nice — Ligue 1
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/5803167
+DESCRIPTION:⚽ ستاد رين × نيس\n🏆 الدوري الفرنسي
+  — الجولة 30\n🗓 السبت 1 مايو 2027 · 18:00 بتوقي
+ ت الرياض\n🏟 Roazhon Park\n—————\n⚽ Rennes v Nice\n
+ 🏆 Ligue 1 — Matchday 30\n🗓 Sat 01 May 2027 · 15:00 UTC\n🏟 Roaz
+ hon Park\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد نيس — الدوري ال
+ فرنسي | Tomorrow: Rennes vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × نيس | Kick-off in 30 min: Rennes vs Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803178@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T150000Z
+DTEND:20270508T170000Z
+SUMMARY:Rennes vs Le Havre — Ligue 1
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/5803178
+DESCRIPTION:⚽ ستاد رين × لو آفر\n🏆 الدوري الفر
+ نسي — الجولة 31\n🗓 السبت 8 مايو 2027 · 18:00 بت
+ وقيت الرياض\n🏟 Roazhon Park\n—————\n⚽ Rennes v Le
+  Havre\n🏆 Ligue 1 — Matchday 31\n🗓 Sat 08 May 2027 · 15:00 UTC\n
+ 🏟 Roazhon Park\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد لو آفر — الدوري
+  الفرنسي | Tomorrow: Rennes vs Le Havre
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × لو آفر | Kick-off in 30 min: Rennes vs Le Havre
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803180@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T150000Z
+DTEND:20270516T170000Z
+SUMMARY:Auxerre vs Rennes — Ligue 1
+LOCATION:Stade de l'Abbe-Deschamps
+URL:https://www.fotmob.com/match/5803180
+DESCRIPTION:⚽ أوكسير × ستاد رين\n🏆 الدوري الفر
+ نسي — الجولة 32\n🗓 الأحد 16 مايو 2027 · 18:00 بت
+ وقيت الرياض\n🏟 Stade de l'Abbe-Deschamps\n—————\n
+ ⚽ Auxerre v Rennes\n🏆 Ligue 1 — Matchday 32\n🗓 Sun 16 May 2027 
+ · 15:00 UTC\n🏟 Stade de l'Abbe-Deschamps\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوكسير ضد ستاد رين — الدور
+ ي الفرنسي | Tomorrow: Auxerre vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوكسي
+ ر × ستاد رين | Kick-off in 30 min: Auxerre vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803192@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270522T150000Z
+DTEND:20270522T170000Z
+SUMMARY:Lens vs Rennes — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5803192
+DESCRIPTION:⚽ لانس × ستاد رين\n🏆 الدوري الفرنس
+ ي — الجولة 33\n🗓 السبت 22 مايو 2027 · 18:00 بتوق
+ يت الرياض\n🏟 Stade Bollaert-Delelis\n—————\n⚽ Lens 
+ v Rennes\n🏆 Ligue 1 — Matchday 33\n🗓 Sat 22 May 2027 · 15:00 UTC\
+ n🏟 Stade Bollaert-Delelis\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد ستاد رين — الدوري ا
+ لفرنسي | Tomorrow: Lens vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  ستاد رين | Kick-off in 30 min: Lens vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803205@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270529T190000Z
+DTEND:20270529T210000Z
+SUMMARY:Rennes vs Angers — Ligue 1
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/5803205
+DESCRIPTION:⚽ ستاد رين × أنجيه\n🏆 الدوري الفرن
+ سي — الجولة 34\n🗓 السبت 29 مايو 2027 · 22:00 بتو
+ قيت الرياض\n🏟 Roazhon Park\n—————\n⚽ Rennes v Ange
+ rs\n🏆 Ligue 1 — Matchday 34\n🗓 Sat 29 May 2027 · 19:00 UTC\n🏟 
+ Roazhon Park\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد أنجيه — الدوري 
+ الفرنسي | Tomorrow: Rennes vs Angers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × أنجيه | Kick-off in 30 min: Rennes vs Angers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112315@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T190000Z
+DTEND:20260916T210000Z
+SUMMARY:Sturm Graz vs Rennes — UEFA Europa League
+LOCATION:Stadion Graz-Liebenau\, Graz\, Austria
+GEO:47.046375;15.454781
+URL:https://www.fotmob.com/match/6112315
+DESCRIPTION:⚽ شتورم غراتس × ستاد رين\n🏆 الدوري
+  الأوروبي — الجولة 1\n🗓 الأربعاء 16 سبتمب
+ ر 2026 · 22:00 بتوقيت الرياض\n🏟 Stadion Graz-Liebenau، G
+ raz\n—————\n⚽ Sturm Graz v Rennes\n🏆 UEFA Europa League —
+  Matchday 1\n🗓 Wed 16 Sep 2026 · 19:00 UTC\n🏟 Stadion Graz-Liebenau
+ , Graz\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتورم غراتس ضد ستاد رين — ا
+ لدوري الأوروبي | Tomorrow: Sturm Graz vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتورم 
+ غراتس × ستاد رين | Kick-off in 30 min: Sturm Graz vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112309@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:Rennes vs OFI Crete — UEFA Europa League
+LOCATION:Roazhon Park\, Rennes\, France
+GEO:48.107467;-1.712884
+URL:https://www.fotmob.com/match/6112309
+DESCRIPTION:⚽ ستاد رين × أوفي كريت\n🏆 الدوري ا
+ لأوروبي — الجولة 2\n🗓 الخميس 15 أكتوبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Roazhon Park، Rennes\n———
+ ——\n⚽ Rennes v OFI Crete\n🏆 UEFA Europa League — Matchday 2\n
+ 🗓 Thu 15 Oct 2026 · 19:00 UTC\n🏟 Roazhon Park, Rennes\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد أوفي كريت — الد
+ وري الأوروبي | Tomorrow: Rennes vs OFI Crete
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × أوفي كريت | Kick-off in 30 min: Rennes vs OFI Crete
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112251@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T164500Z
+DTEND:20261022T184500Z
+SUMMARY:Juventus vs Rennes — UEFA Europa League
+LOCATION:Allianz Stadium\, Torino\, Italy
+GEO:45.109527;7.641302
+URL:https://www.fotmob.com/match/6112251
+DESCRIPTION:⚽ يوفنتوس × ستاد رين\n🏆 الدوري الأ
+ وروبي — الجولة 3\n🗓 الخميس 22 أكتوبر 2026 · 1
+ 9:45 بتوقيت الرياض\n🏟 Allianz Stadium، Torino\n———
+ ——\n⚽ Juventus v Rennes\n🏆 UEFA Europa League — Matchday 3\n
+ 🗓 Thu 22 Oct 2026 · 16:45 UTC\n🏟 Allianz Stadium, Torino\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد ستاد رين — الدو
+ ري الأوروبي | Tomorrow: Juventus vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × ستاد رين | Kick-off in 30 min: Juventus vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112306@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:Rennes vs Olympiacos — UEFA Europa League
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/6112306
+DESCRIPTION:⚽ ستاد رين × أولمبياكوس\n🏆 الدوري 
+ الأوروبي — الجولة 4\n🗓 الخميس 5 نوفمبر 2026
+  · 20:45 بتوقيت الرياض\n🏟 Roazhon Park\n—————\n
+ ⚽ Rennes v Olympiacos\n🏆 UEFA Europa League — Matchday 4\n🗓 Thu 
+ 05 Nov 2026 · 17:45 UTC\n🏟 Roazhon Park\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد أولمبياكوس — ا
+ لدوري الأوروبي | Tomorrow: Rennes vs Olympiacos
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × أولمبياكوس | Kick-off in 30 min: Rennes vs Olympiacos
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112367@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:NEC Nijmegen vs Rennes — UEFA Europa League
+LOCATION:Stadion De Goffert
+URL:https://www.fotmob.com/match/6112367
+DESCRIPTION:⚽ نيميخين × ستاد رين\n🏆 الدوري الأ
+ وروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 2026 · 2
+ 3:00 بتوقيت الرياض\n🏟 Stadion De Goffert\n—————\n
+ ⚽ NEC Nijmegen v Rennes\n🏆 UEFA Europa League — Matchday 5\n🗓 Th
+ u 26 Nov 2026 · 20:00 UTC\n🏟 Stadion De Goffert\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيميخين ضد ستاد رين — الدو
+ ري الأوروبي | Tomorrow: NEC Nijmegen vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيميخ
+ ين × ستاد رين | Kick-off in 30 min: NEC Nijmegen vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112307@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T174500Z
+DTEND:20261210T194500Z
+SUMMARY:Rennes vs Dinamo Zagreb — UEFA Europa League
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/6112307
+DESCRIPTION:⚽ ستاد رين × دينامو زغرب\n🏆 الدوري
+  الأوروبي — الجولة 6\n🗓 الخميس 10 ديسمبر 20
+ 26 · 20:45 بتوقيت الرياض\n🏟 Roazhon Park\n—————\
+ n⚽ Rennes v Dinamo Zagreb\n🏆 UEFA Europa League — Matchday 6\n🗓 
+ Thu 10 Dec 2026 · 17:45 UTC\n🏟 Roazhon Park\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد دينامو زغرب — ا
+ لدوري الأوروبي | Tomorrow: Rennes vs Dinamo Zagreb
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × دينامو زغرب | Kick-off in 30 min: Rennes vs Dinamo Zagre
+ b
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112308@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:Rennes vs Omonia Nicosia — UEFA Europa League
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/6112308
+DESCRIPTION:⚽ ستاد رين × Omonia Nicosia\n🏆 الدوري الأ
+ وروبي — الجولة 7\n🗓 الخميس 21 يناير 2027 · 23:
+ 00 بتوقيت الرياض\n🏟 Roazhon Park\n—————\n⚽ Renn
+ es v Omonia Nicosia\n🏆 UEFA Europa League — Matchday 7\n🗓 Thu 21 J
+ an 2027 · 20:00 UTC\n🏟 Roazhon Park\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد Omonia Nicosia — الدو
+ ري الأوروبي | Tomorrow: Rennes vs Omonia Nicosia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × Omonia Nicosia | Kick-off in 30 min: Rennes vs Omonia Nicosia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112303@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Sparta Prague vs Rennes — UEFA Europa League
+LOCATION:epet Arena
+URL:https://www.fotmob.com/match/6112303
+DESCRIPTION:⚽ سبارتا براغ × ستاد رين\n🏆 الدوري
+  الأوروبي — الجولة 8\n🗓 الخميس 28 يناير 2027
+  · 23:00 بتوقيت الرياض\n🏟 epet Arena\n—————\n⚽
+  Sparta Prague v Rennes\n🏆 UEFA Europa League — Matchday 8\n🗓 Thu 
+ 28 Jan 2027 · 20:00 UTC\n🏟 epet Arena\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سبارتا براغ ضد ستاد رين — ا
+ لدوري الأوروبي | Tomorrow: Sparta Prague vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سبارت
+ ا براغ × ستاد رين | Kick-off in 30 min: Sparta Prague vs Renn
+ es
+END:VALARM
+END:VEVENT
+END:VCALENDAR

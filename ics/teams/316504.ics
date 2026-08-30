@@ -1,0 +1,658 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Abo Qir Semad — Egyptian Premier League Fixtures | اب
+ و قير للاسمدة — مباريات الدوري المصري ال
+ ممتاز
+X-WR-CALDESC:Abo Qir Semad — all matches in Egyptian Premier League\, exa
+ ct UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 
+ 2026-09-05T19:31:10Z.  •  ابو قير للاسمدة — جميع ال
+ مباريات في الدوري المصري الممتاز بتوقيت 
+ UTC الدقيق مع الملاعب والقنوات الناقلة. ال
+ مصدر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:1
+ 0Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5995571@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260821T170000Z
+DTEND:20260821T190000Z
+SUMMARY:Abo Qir Semad vs National Bank (1 - 0) — Egyptian Premier League
+LOCATION:Alexandria Stadium\, Al-Iskandarîah (Alexandria)\, Egypt
+GEO:31.197114;29.913127
+URL:https://www.fotmob.com/match/5995571
+DESCRIPTION:⚽ ابو قير للاسمدة × البنك الاهلي (1 
+ - 0)\n🏆 الدوري المصري الممتاز — الجولة 1\n
+ 🗓 الجمعة 21 أغسطس 2026 · 20:00 بتوقيت الرياض\n
+ 🏟 Alexandria Stadium، Al-Iskandarîah (Alexandria)\n⚖️ الحكم:
+  Mohamed Abassa Kabeel\n—————\n⚽ Abo Qir Semad v National Bank
+  (1 - 0)\n🏆 Egyptian Premier League — Matchday 1\n🗓 Fri 21 Aug 202
+ 6 · 17:00 UTC\n🏟 Alexandria Stadium, Al-Iskandarîah (Alexandria)\nRef
+ eree: Mohamed Abassa Kabeel\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ابو قير للاسمدة ضد البنك ال
+ اهلي — الدوري المصري الممتاز | Tomorrow: Abo Qir 
+ Semad vs National Bank
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ابو قي
+ ر للاسمدة × البنك الاهلي | Kick-off in 30 min: Abo Qir
+  Semad vs National Bank
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996697@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260827T170000Z
+DTEND:20260827T190000Z
+SUMMARY:Pyramids FC vs Abo Qir Semad (2 - 0) — Egyptian Premier League
+LOCATION:30 June Air Defence Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.019992;31.373724
+URL:https://www.fotmob.com/match/5996697
+DESCRIPTION:⚽ بيراميدز × ابو قير للاسمدة (2 - 0)\n
+ 🏆 الدوري المصري الممتاز — الجولة 2\n🗓 ا
+ لخميس 27 أغسطس 2026 · 20:00 بتوقيت الرياض\n🏟 30 
+ June Air Defence Stadium، al-Qāhirah (Cairo)\n⚖️ الحكم: Mohamed
+  El Kalawy\n—————\n⚽ Pyramids FC v Abo Qir Semad (2 - 0)\n🏆
+  Egyptian Premier League — Matchday 2\n🗓 Thu 27 Aug 2026 · 17:00 UTC
+ \n🏟 30 June Air Defence Stadium, al-Qāhirah (Cairo)\nReferee: Mohamed 
+ El Kalawy\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيراميدز ضد ابو قير للاسمد
+ ة — الدوري المصري الممتاز | Tomorrow: Pyramids FC vs
+  Abo Qir Semad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيرام
+ يدز × ابو قير للاسمدة | Kick-off in 30 min: Pyramids FC v
+ s Abo Qir Semad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996710@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260902T170000Z
+DTEND:20260902T190000Z
+SUMMARY:Abo Qir Semad vs Al Ittihad Alexandria (0 - 2) — Egyptian Premier
+  League
+LOCATION:Alexandria Stadium\, Al-Iskandarîah (Alexandria)\, Egypt
+GEO:31.197114;29.913127
+URL:https://www.fotmob.com/match/5996710
+DESCRIPTION:⚽ ابو قير للاسمدة × الاتحاد السكند
+ ري (0 - 2)\n🏆 الدوري المصري الممتاز — الجول
+ ة 3\n🗓 الأربعاء 2 سبتمبر 2026 · 20:00 بتوقيت ال
+ رياض\n🏟 Alexandria Stadium، Al-Iskandarîah (Alexandria)\n⚖️ 
+ الحكم: Ibrahim Ghuloum Mohamed\n—————\n⚽ Abo Qir Semad v 
+ Al Ittihad Alexandria (0 - 2)\n🏆 Egyptian Premier League — Matchday 3
+ \n🗓 Wed 02 Sep 2026 · 17:00 UTC\n🏟 Alexandria Stadium, Al-Iskandar
+ îah (Alexandria)\nReferee: Ibrahim Ghuloum Mohamed\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ابو قير للاسمدة ضد الاتحاد 
+ السكندري — الدوري المصري الممتاز | Tomorrow: 
+ Abo Qir Semad vs Al Ittihad Alexandria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ابو قي
+ ر للاسمدة × الاتحاد السكندري | Kick-off in 30 min:
+  Abo Qir Semad vs Al Ittihad Alexandria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996718@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260908T170000Z
+DTEND:20260908T190000Z
+SUMMARY:Zamalek SC vs Abo Qir Semad — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996718
+DESCRIPTION:⚽ الزمالك × ابو قير للاسمدة\n🏆 الد
+ وري المصري الممتاز — الجولة 4\n🗓 الثلاثا
+ ء 8 سبتمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Cairo Inte
+ rnational Stadium، al-Qāhirah (Cairo)\n—————\n⚽ Zamalek SC v
+  Abo Qir Semad\n🏆 Egyptian Premier League — Matchday 4\n🗓 Tue 08 S
+ ep 2026 · 17:00 UTC\n🏟 Cairo International Stadium, al-Qāhirah (Cairo
+ )\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الزمالك ضد ابو قير للاسمدة 
+ — الدوري المصري الممتاز | Tomorrow: Zamalek SC vs Abo
+  Qir Semad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الزما
+ لك × ابو قير للاسمدة | Kick-off in 30 min: Zamalek SC vs A
+ bo Qir Semad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996727@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260915T170000Z
+DTEND:20260915T190000Z
+SUMMARY:Al Ahly SC vs Abo Qir Semad — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996727
+DESCRIPTION:⚽ الأهلي × ابو قير للاسمدة\n🏆 الدو
+ ري المصري الممتاز — الجولة 5\n🗓 الثلاثاء
+  15 سبتمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Cairo Inter
+ national Stadium، al-Qāhirah (Cairo)\n—————\n⚽ Al Ahly SC v 
+ Abo Qir Semad\n🏆 Egyptian Premier League — Matchday 5\n🗓 Tue 15 Se
+ p 2026 · 17:00 UTC\n🏟 Cairo International Stadium, al-Qāhirah (Cairo)
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد ابو قير للاسمدة 
+ — الدوري المصري الممتاز | Tomorrow: Al Ahly SC vs Abo
+  Qir Semad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × ابو قير للاسمدة | Kick-off in 30 min: Al Ahly SC vs Abo
+  Qir Semad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996738@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261013T140000Z
+DTEND:20261013T160000Z
+SUMMARY:Abo Qir Semad vs Asyut Petroleum — Egyptian Premier League
+LOCATION:Borg El Arab Stadium\, Al-Iskandarîah (Alexandria)\, Egypt
+GEO:30.999499;29.729433
+URL:https://www.fotmob.com/match/5996738
+DESCRIPTION:⚽ ابو قير للاسمدة × أسيوط بتروليوم
+ \n🏆 الدوري المصري الممتاز — الجولة 6\n🗓 
+ الثلاثاء 13 أكتوبر 2026 · 17:00 بتوقيت الرياض\n
+ 🏟 Borg El Arab Stadium، Al-Iskandarîah (Alexandria)\n—————\
+ n⚽ Abo Qir Semad v Asyut Petroleum\n🏆 Egyptian Premier League — Mat
+ chday 6\n🗓 Tue 13 Oct 2026 · 14:00 UTC\n🏟 Borg El Arab Stadium, Al-
+ Iskandarîah (Alexandria)\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ابو قير للاسمدة ضد أسيوط بت
+ روليوم — الدوري المصري الممتاز | Tomorrow: Abo 
+ Qir Semad vs Asyut Petroleum
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ابو قي
+ ر للاسمدة × أسيوط بتروليوم | Kick-off in 30 min: Abo
+  Qir Semad vs Asyut Petroleum
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996743@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261019T170000Z
+DTEND:20261019T190000Z
+SUMMARY:Al Masry SC vs Abo Qir Semad — Egyptian Premier League
+LOCATION:New Suez Stadium\, as-Suways (Suez)\, Egypt
+GEO:29.957607;32.542577
+URL:https://www.fotmob.com/match/5996743
+DESCRIPTION:⚽ المصري × ابو قير للاسمدة\n🏆 الدو
+ ري المصري الممتاز — الجولة 7\n🗓 الاثنين 1
+ 9 أكتوبر 2026 · 20:00 بتوقيت الرياض\n🏟 New Suez Stad
+ ium، as-Suways (Suez)\n—————\n⚽ Al Masry SC v Abo Qir Semad\n
+ 🏆 Egyptian Premier League — Matchday 7\n🗓 Mon 19 Oct 2026 · 17:00
+  UTC\n🏟 New Suez Stadium, as-Suways (Suez)\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المصري ضد ابو قير للاسمدة 
+ — الدوري المصري الممتاز | Tomorrow: Al Masry SC vs Ab
+ o Qir Semad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المصر
+ ي × ابو قير للاسمدة | Kick-off in 30 min: Al Masry SC vs Ab
+ o Qir Semad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996759@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:Abo Qir Semad vs Ghazl Al Mahalla — Egyptian Premier League
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996759
+DESCRIPTION:⚽ ابو قير للاسمدة × غزل المحلة\n🏆 
+ الدوري المصري الممتاز — الجولة 8\n🗓 السب
+ ت 31 أكتوبر 2026 · 18:00 بتوقيت الرياض\n🏟 Alexandri
+ a Stadium\n—————\n⚽ Abo Qir Semad v Ghazl Al Mahalla\n🏆 Egy
+ ptian Premier League — Matchday 8\n🗓 Sat 31 Oct 2026 · 15:00 UTC\n
+ 🏟 Alexandria Stadium\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ابو قير للاسمدة ضد غزل المح
+ لة — الدوري المصري الممتاز | Tomorrow: Abo Qir Sema
+ d vs Ghazl Al Mahalla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ابو قي
+ ر للاسمدة × غزل المحلة | Kick-off in 30 min: Abo Qir Sem
+ ad vs Ghazl Al Mahalla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996765@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261124T150000Z
+DTEND:20261124T170000Z
+SUMMARY:ZED FC vs Abo Qir Semad — Egyptian Premier League
+LOCATION:Suez Stadium
+URL:https://www.fotmob.com/match/5996765
+DESCRIPTION:⚽ زد × ابو قير للاسمدة\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 9\n🗓 الثلاثاء 24 ن
+ وفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Suez Stadium\n—
+ ————\n⚽ ZED FC v Abo Qir Semad\n🏆 Egyptian Premier League —
+  Matchday 9\n🗓 Tue 24 Nov 2026 · 15:00 UTC\n🏟 Suez Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: زد ضد ابو قير للاسمدة — الد
+ وري المصري الممتاز | Tomorrow: ZED FC vs Abo Qir Semad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: زد × ا
+ بو قير للاسمدة | Kick-off in 30 min: ZED FC vs Abo Qir Semad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996780@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261210T180000Z
+DTEND:20261210T200000Z
+SUMMARY:Abo Qir Semad vs Smouha SC — Egyptian Premier League
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996780
+DESCRIPTION:⚽ ابو قير للاسمدة × سموحة\n🏆 الدور
+ ي المصري الممتاز — الجولة 10\n🗓 الخميس 10 
+ ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Alexandria Stad
+ ium\n—————\n⚽ Abo Qir Semad v Smouha SC\n🏆 Egyptian Premier
+  League — Matchday 10\n🗓 Thu 10 Dec 2026 · 18:00 UTC\n🏟 Alexandri
+ a Stadium\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ابو قير للاسمدة ضد سموحة — 
+ الدوري المصري الممتاز | Tomorrow: Abo Qir Semad vs Smou
+ ha SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ابو قي
+ ر للاسمدة × سموحة | Kick-off in 30 min: Abo Qir Semad vs Smo
+ uha SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996786@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261215T150000Z
+DTEND:20261215T170000Z
+SUMMARY:El Gouna FC vs Abo Qir Semad — Egyptian Premier League
+LOCATION:Khaled Bichara Stadium
+URL:https://www.fotmob.com/match/5996786
+DESCRIPTION:⚽ الجونة × ابو قير للاسمدة\n🏆 الدو
+ ري المصري الممتاز — الجولة 11\n🗓 الثلاثا
+ ء 15 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Khaled Bi
+ chara Stadium\n—————\n⚽ El Gouna FC v Abo Qir Semad\n🏆 Egyp
+ tian Premier League — Matchday 11\n🗓 Tue 15 Dec 2026 · 15:00 UTC\n
+ 🏟 Khaled Bichara Stadium\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجونة ضد ابو قير للاسمدة 
+ — الدوري المصري الممتاز | Tomorrow: El Gouna FC vs Ab
+ o Qir Semad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجون
+ ة × ابو قير للاسمدة | Kick-off in 30 min: El Gouna FC vs Ab
+ o Qir Semad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996792@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261222T150000Z
+DTEND:20261222T170000Z
+SUMMARY:Abo Qir Semad vs Wadi Degla FC — Egyptian Premier League
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996792
+DESCRIPTION:⚽ ابو قير للاسمدة × وادي دجلة\n🏆 ا
+ لدوري المصري الممتاز — الجولة 12\n🗓 الثل
+ اثاء 22 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Ale
+ xandria Stadium\n—————\n⚽ Abo Qir Semad v Wadi Degla FC\n🏆 
+ Egyptian Premier League — Matchday 12\n🗓 Tue 22 Dec 2026 · 15:00 UTC
+ \n🏟 Alexandria Stadium\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ابو قير للاسمدة ضد وادي دجل
+ ة — الدوري المصري الممتاز | Tomorrow: Abo Qir Semad 
+ vs Wadi Degla FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ابو قي
+ ر للاسمدة × وادي دجلة | Kick-off in 30 min: Abo Qir Semad
+  vs Wadi Degla FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996805@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261228T150000Z
+DTEND:20261228T170000Z
+SUMMARY:Al Mokawloon Al Arab vs Abo Qir Semad — Egyptian Premier League
+LOCATION:Al-Mokawloon al-Arab Stadium
+URL:https://www.fotmob.com/match/5996805
+DESCRIPTION:⚽ المقاولون العرب × ابو قير للاسمد
+ ة\n🏆 الدوري المصري الممتاز — الجولة 13\n
+ 🗓 الاثنين 28 ديسمبر 2026 · 18:00 بتوقيت الريا
+ ض\n🏟 Al-Mokawloon al-Arab Stadium\n—————\n⚽ Al Mokawloon A
+ l Arab v Abo Qir Semad\n🏆 Egyptian Premier League — Matchday 13\n🗓
+  Mon 28 Dec 2026 · 15:00 UTC\n🏟 Al-Mokawloon al-Arab Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المقاولون العرب ضد ابو قير 
+ للاسمدة — الدوري المصري الممتاز | Tomorrow: Al
+  Mokawloon Al Arab vs Abo Qir Semad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المقا
+ ولون العرب × ابو قير للاسمدة | Kick-off in 30 min: 
+ Al Mokawloon Al Arab vs Abo Qir Semad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996818@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270106T150000Z
+DTEND:20270106T170000Z
+SUMMARY:Abo Qir Semad vs Olympic El Qanah FC — Egyptian Premier League
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996818
+DESCRIPTION:⚽ ابو قير للاسمدة × القناة\n🏆 الدو
+ ري المصري الممتاز — الجولة 14\n🗓 الأربعا
+ ء 6 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Alexandria S
+ tadium\n—————\n⚽ Abo Qir Semad v Olympic El Qanah FC\n🏆 Egy
+ ptian Premier League — Matchday 14\n🗓 Wed 06 Jan 2027 · 15:00 UTC\n
+ 🏟 Alexandria Stadium\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ابو قير للاسمدة ضد القناة 
+ — الدوري المصري الممتاز | Tomorrow: Abo Qir Semad vs 
+ Olympic El Qanah FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ابو قي
+ ر للاسمدة × القناة | Kick-off in 30 min: Abo Qir Semad vs O
+ lympic El Qanah FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996823@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270126T150000Z
+DTEND:20270126T170000Z
+SUMMARY:Modern Sport FC vs Abo Qir Semad — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996823
+DESCRIPTION:⚽ مودرن سبورت × ابو قير للاسمدة\n🏆
+  الدوري المصري الممتاز — الجولة 15\n🗓 الث
+ لاثاء 26 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Cai
+ ro Int'l Stadium\n—————\n⚽ Modern Sport FC v Abo Qir Semad\n
+ 🏆 Egyptian Premier League — Matchday 15\n🗓 Tue 26 Jan 2027 · 15:0
+ 0 UTC\n🏟 Cairo Int'l Stadium\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مودرن سبورت ضد ابو قير للاس
+ مدة — الدوري المصري الممتاز | Tomorrow: Modern Spo
+ rt FC vs Abo Qir Semad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مودرن 
+ سبورت × ابو قير للاسمدة | Kick-off in 30 min: Modern Sp
+ ort FC vs Abo Qir Semad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996833@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270130T180000Z
+DTEND:20270130T200000Z
+SUMMARY:Abo Qir Semad vs Ceramica Cleopatra — Egyptian Premier League
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996833
+DESCRIPTION:⚽ ابو قير للاسمدة × سيراميكا كليوب
+ اترا\n🏆 الدوري المصري الممتاز — الجولة 1
+ 6\n🗓 السبت 30 يناير 2027 · 21:00 بتوقيت الرياض\n
+ 🏟 Alexandria Stadium\n—————\n⚽ Abo Qir Semad v Ceramica Cle
+ opatra\n🏆 Egyptian Premier League — Matchday 16\n🗓 Sat 30 Jan 2027
+  · 18:00 UTC\n🏟 Alexandria Stadium\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ابو قير للاسمدة ضد سيراميك
+ ا كليوباترا — الدوري المصري الممتاز | Tomor
+ row: Abo Qir Semad vs Ceramica Cleopatra
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ابو قي
+ ر للاسمدة × سيراميكا كليوباترا | Kick-off in 30 
+ min: Abo Qir Semad vs Ceramica Cleopatra
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996851@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270206T180000Z
+DTEND:20270206T200000Z
+SUMMARY:Tala'ea El Gaish vs Abo Qir Semad — Egyptian Premier League
+LOCATION:Military Sports Stadium
+URL:https://www.fotmob.com/match/5996851
+DESCRIPTION:⚽ طلائع الجيش × ابو قير للاسمدة\n🏆
+  الدوري المصري الممتاز — الجولة 17\n🗓 الس
+ بت 6 فبراير 2027 · 21:00 بتوقيت الرياض\n🏟 Military
+  Sports Stadium\n—————\n⚽ Tala'ea El Gaish v Abo Qir Semad\n
+ 🏆 Egyptian Premier League — Matchday 17\n🗓 Sat 06 Feb 2027 · 18:0
+ 0 UTC\n🏟 Military Sports Stadium\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: طلائع الجيش ضد ابو قير للاس
+ مدة — الدوري المصري الممتاز | Tomorrow: Tala'ea El
+  Gaish vs Abo Qir Semad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: طلائع 
+ الجيش × ابو قير للاسمدة | Kick-off in 30 min: Tala'ea E
+ l Gaish vs Abo Qir Semad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996855@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270211T193000Z
+DTEND:20270211T213000Z
+SUMMARY:Abo Qir Semad vs Petrojet-Suez — Egyptian Premier League
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996855
+DESCRIPTION:⚽ ابو قير للاسمدة × منتخب السويس ب
+ تروجت\n🏆 الدوري المصري الممتاز — الجولة
+  18\n🗓 الخميس 11 فبراير 2027 · 22:30 بتوقيت الري
+ اض\n🏟 Alexandria Stadium\n—————\n⚽ Abo Qir Semad v Petroj
+ et-Suez\n🏆 Egyptian Premier League — Matchday 18\n🗓 Thu 11 Feb 202
+ 7 · 19:30 UTC\n🏟 Alexandria Stadium\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ابو قير للاسمدة ضد منتخب ال
+ سويس بتروجت — الدوري المصري الممتاز | Tomor
+ row: Abo Qir Semad vs Petrojet-Suez
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ابو قي
+ ر للاسمدة × منتخب السويس بتروجت | Kick-off in 30
+  min: Abo Qir Semad vs Petrojet-Suez
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996870@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270220T193000Z
+DTEND:20270220T213000Z
+SUMMARY:Al Sharkeyah-ENPPI vs Abo Qir Semad — Egyptian Premier League
+LOCATION:Petrosport Stadium
+URL:https://www.fotmob.com/match/5996870
+DESCRIPTION:⚽ Al Sharkeyah-ENPPI × ابو قير للاسمدة\n🏆 ا
+ لدوري المصري الممتاز — الجولة 19\n🗓 السب
+ ت 20 فبراير 2027 · 22:30 بتوقيت الرياض\n🏟 Petrospor
+ t Stadium\n—————\n⚽ Al Sharkeyah-ENPPI v Abo Qir Semad\n🏆 E
+ gyptian Premier League — Matchday 19\n🗓 Sat 20 Feb 2027 · 19:30 UTC\
+ n🏟 Petrosport Stadium\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Al Sharkeyah-ENPPI ضد ابو قير للاسم
+ دة — الدوري المصري الممتاز | Tomorrow: Al Sharkeyah
+ -ENPPI vs Abo Qir Semad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Al Sharkeya
+ h-ENPPI × ابو قير للاسمدة | Kick-off in 30 min: Al Sharkeyah
+ -ENPPI vs Abo Qir Semad
+END:VALARM
+END:VEVENT
+END:VCALENDAR

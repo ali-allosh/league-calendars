@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Oldham Athletic — FA Cup Fixtures | Oldham Athletic — 
+ مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Oldham Athletic — all matches in FA Cup\, exact UTC kickoffs
+ \, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:3
+ 1:10Z.  •  Oldham Athletic — جميع المباريات في كأس 
+ الاتحاد الإنجليزي بتوقيت UTC الدقيق مع ال
+ ملاعب والقنوات الناقلة. المصدر: FotMob + 365scor
+ es · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010628@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Oldham Athletic vs Northampton Town (3 - 1) — FA Cup
+LOCATION:Boundary Park\, Oldham\, Greater Manchester\, England
+GEO:53.555133;-2.128486
+URL:https://www.fotmob.com/match/5010628
+DESCRIPTION:⚽ Oldham Athletic × Northampton Town (3 - 1)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الأول\n🗓 السبت
+  1 نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Boundary Par
+ k، Oldham, Greater Manchester\n⚖️ الحكم: Peter Wright\n👥 ال
+ حضور: 6,393\n—————\n⚽ Oldham Athletic v Northampton Town (
+ 3 - 1)\n🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 B
+ oundary Park, Oldham, Greater Manchester\nReferee: Peter Wright\nAttendanc
+ e: 6,393\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Oldham Athletic ضد Northampton Town — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Oldham Athletic vs Northampt
+ on Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Oldham Athl
+ etic × Northampton Town | Kick-off in 30 min: Oldham Athletic vs Northamp
+ ton Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040317@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Milton Keynes Dons vs Oldham Athletic (3 - 1) — FA Cup
+LOCATION:Stadium MK\, Milton Keynes\, Buckinghamshire\, England
+GEO:52.009691;-0.733595
+URL:https://www.fotmob.com/match/5040317
+DESCRIPTION:⚽ Milton Keynes Dons × Oldham Athletic (3 - 1)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الثاني\n🗓 الس
+ بت 6 ديسمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Stadium 
+ MK، Milton Keynes, Buckinghamshire\n⚖️ الحكم: Zac Kennard-Kettle
+ \n👥 الحضور: 3,065\n—————\n⚽ Milton Keynes Dons v Oldh
+ am Athletic (3 - 1)\n🏆 FA Cup — Round 2\n🗓 Sat 06 Dec 2025 · 15:0
+ 0 UTC\n🏟 Stadium MK, Milton Keynes, Buckinghamshire\nReferee: Zac Kenna
+ rd-Kettle\nAttendance: 3,065\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Milton Keynes Dons ضد Oldham Athletic — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Milton Keynes Dons vs Old
+ ham Athletic
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Milton Keyn
+ es Dons × Oldham Athletic | Kick-off in 30 min: Milton Keynes Dons vs Old
+ ham Athletic
+END:VALARM
+END:VEVENT
+END:VCALENDAR

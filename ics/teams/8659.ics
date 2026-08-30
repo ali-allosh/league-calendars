@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ West Bromwich Albion — FA Cup Fixtures | وست بروم
+ يتش — مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:West Bromwich Albion — all matches in FA Cup\, exact UTC kic
+ koffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05
+ T19:31:10Z.  •  وست بروميتش — جميع المباريات ف
+ ي كأس الاتحاد الإنجليزي بتوقيت UTC الدقيق 
+ مع الملاعب والقنوات الناقلة. المصدر: FotMob 
+ + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5089911@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260111T143000Z
+DTEND:20260111T163000Z
+SUMMARY:Swansea City vs West Bromwich Albion (2 - 2) — FA Cup
+LOCATION:Swansea.com Stadium\, Swansea\, Wales
+GEO:51.642771;-3.934704
+URL:https://www.fotmob.com/match/5089911
+DESCRIPTION:⚽ Swansea City × وست بروميتش (2 - 2)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الثالث\n🗓 الأ
+ حد 11 يناير 2026 · 17:30 بتوقيت الرياض\n🏟 Swansea.c
+ om Stadium، Swansea\n⚖️ الحكم: Elliot Bell\n👥 الحضور: 9
+ ,918\n—————\n⚽ Swansea City v West Bromwich Albion (2 - 2)\n
+ 🏆 FA Cup — Round 3\n🗓 Sun 11 Jan 2026 · 14:30 UTC\n🏟 Swansea.c
+ om Stadium, Swansea\nReferee: Elliot Bell\nAttendance: 9,918\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Swansea City ضد وست بروميتش — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Swansea City vs West Brom
+ wich Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Swansea Cit
+ y × وست بروميتش | Kick-off in 30 min: Swansea City vs West Brom
+ wich Albion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135171@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260214T150000Z
+DTEND:20260214T170000Z
+SUMMARY:Norwich City vs West Bromwich Albion (3 - 1) — FA Cup
+LOCATION:Carrow Road\, Norwich\, Norfolk\, England
+GEO:52.622091;1.309122
+URL:https://www.fotmob.com/match/5135171
+DESCRIPTION:⚽ Norwich City × وست بروميتش (3 - 1)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الرابع\n🗓 الس
+ بت 14 فبراير 2026 · 18:00 بتوقيت الرياض\n🏟 Carrow 
+ Road، Norwich, Norfolk\n⚖️ الحكم: Tom Reeves\n👥 الحضور:
+  25,538\n—————\n⚽ Norwich City v West Bromwich Albion (3 - 1)\
+ n🏆 FA Cup — Round 4\n🗓 Sat 14 Feb 2026 · 15:00 UTC\n🏟 Carrow R
+ oad, Norwich, Norfolk\nReferee: Tom Reeves\nAttendance: 25,538\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Norwich City ضد وست بروميتش — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Norwich City vs West Brom
+ wich Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Norwich Cit
+ y × وست بروميتش | Kick-off in 30 min: Norwich City vs West Brom
+ wich Albion
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1731 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Atlético Madrid — LaLiga & UEFA Champions League & Copa
+  del Rey Fixtures | أتلتيكو مدريد — مباريات الدو
+ ري الإسباني ودوري أبطال أوروبا وكأس ملك 
+ إسبانيا
+X-WR-CALDESC:Atlético Madrid — all matches in LaLiga & UEFA Champions Le
+ ague & Copa del Rey\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 3
+ 65scores · auto-updated 2026-09-05T19:31:10Z.  •  أتلتيكو مدر
+ يد — جميع المباريات في الدوري الإسباني و
+ دوري أبطال أوروبا وكأس ملك إسبانيا بتوقي
+ ت UTC الدقيق مع الملاعب والقنوات الناقلة. 
+ المصدر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:
+ 31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5868012@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260819T190500Z
+DTEND:20260819T210500Z
+SUMMARY:Atlético Madrid vs Málaga (2 - 0) — LaLiga
+LOCATION:Riyadh Air Metropolitano\, Madrid\, Spain
+GEO:40.436226;-3.599460
+URL:https://www.fotmob.com/match/5868012
+DESCRIPTION:⚽ أتلتيكو مدريد × مالقا (2 - 0)\n🏆 ال
+ دوري الإسباني — الجولة 1\n🗓 الأربعاء 19 أ
+ غسطس 2026 · 22:05 بتوقيت الرياض\n🏟 Riyadh Air Metropol
+ itano، Madrid\n⚖️ الحكم: Adrián Cordero Vega\n👥 الحضور
+ : 65,785\n—————\n⚽ Atlético Madrid v Málaga (2 - 0)\n🏆 La
+ Liga — Matchday 1\n🗓 Wed 19 Aug 2026 · 19:05 UTC\n🏟 Riyadh Air Me
+ tropolitano, Madrid\nReferee: Adrián Cordero Vega\nAttendance: 65,785\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد مالقا — ا
+ لدوري الإسباني | Tomorrow: Atlético Madrid vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × مالقا | Kick-off in 30 min: Atlético Madrid vs M
+ álaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868022@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260823T150000Z
+DTEND:20260823T170000Z
+SUMMARY:Atlético Madrid vs Villarreal (2 - 2) — LaLiga
+LOCATION:Riyadh Air Metropolitano\, Madrid\, Spain
+GEO:40.436226;-3.599460
+URL:https://www.fotmob.com/match/5868022
+DESCRIPTION:⚽ أتلتيكو مدريد × فياريال (2 - 2)\n🏆 
+ الدوري الإسباني — الجولة 2\n🗓 الأحد 23 أغ
+ سطس 2026 · 18:00 بتوقيت الرياض\n🏟 Riyadh Air Metropolit
+ ano، Madrid\n⚖️ الحكم: Alejandro José Hernández Hernández\n
+ 👥 الحضور: 61,978\n—————\n⚽ Atlético Madrid v Villarr
+ eal (2 - 2)\n🏆 LaLiga — Matchday 2\n🗓 Sun 23 Aug 2026 · 15:00 UTC
+ \n🏟 Riyadh Air Metropolitano, Madrid\nReferee: Alejandro José Hernánd
+ ez Hernández\nAttendance: 61,978\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد فياريال —
+  الدوري الإسباني | Tomorrow: Atlético Madrid vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × فياريال | Kick-off in 30 min: Atlético Madrid v
+ s Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868040@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T193000Z
+DTEND:20260829T213000Z
+SUMMARY:Sevilla vs Atlético Madrid (1 - 3) — LaLiga
+LOCATION:Estadio Ramón Sánchez Pizjuán\, Sevilla\, Spain
+GEO:37.384046;-5.970592
+URL:https://www.fotmob.com/match/5868040
+DESCRIPTION:⚽ إشبيلية × أتلتيكو مدريد (1 - 3)\n🏆 
+ الدوري الإسباني — الجولة 3\n🗓 السبت 29 أغ
+ سطس 2026 · 22:30 بتوقيت الرياض\n🏟 Estadio Ramón Sánch
+ ez Pizjuán، Sevilla\n⚖️ الحكم: Javier Alberola Rojas\n👥 ال
+ حضور: 38,340\n—————\n⚽ Sevilla v Atlético Madrid (1 - 3)\
+ n🏆 LaLiga — Matchday 3\n🗓 Sat 29 Aug 2026 · 19:30 UTC\n🏟 Estad
+ io Ramón Sánchez Pizjuán, Sevilla\nReferee: Javier Alberola Rojas\nAtte
+ ndance: 38,340\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد أتلتيكو مدريد —
+  الدوري الإسباني | Tomorrow: Sevilla vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × أتلتيكو مدريد | Kick-off in 30 min: Sevilla vs Atléti
+ co Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868042@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T141500Z
+DTEND:20260905T161500Z
+SUMMARY:Athletic Club vs Atlético Madrid (3 - 0) — LaLiga
+LOCATION:Estadio de San Mamés\, Bilbao\, Spain
+GEO:43.264173;-2.949383
+URL:https://www.fotmob.com/match/5868042
+DESCRIPTION:⚽ أتلتيك بلباو × أتلتيكو مدريد (3 - 0
+ )\n🏆 الدوري الإسباني — الجولة 4\n🗓 السبت 
+ 5 سبتمبر 2026 · 17:15 بتوقيت الرياض\n🏟 Estadio de Sa
+ n Mamés، Bilbao\n📺 LaLigaTV، Premier Sports Player، ESPN Deportes،
+  ESPN Unlimited، Fubo Sports، ESPN Select، TSN+، LaLiga TV\n⚖️ ا
+ لحكم: José Luis Munuera Montero\n👥 الحضور: 48,425\n———
+ ——\n⚽ Athletic Club v Atlético Madrid (3 - 0)\n🏆 LaLiga — Matc
+ hday 4\n🗓 Sat 05 Sep 2026 · 14:15 UTC\n🏟 Estadio de San Mamés, Bil
+ bao\n📺 LaLigaTV, Premier Sports Player, ESPN Deportes, ESPN Unlimited, 
+ Fubo Sports, ESPN Select, TSN+, LaLiga TV\nReferee: José Luis Munuera Mon
+ tero\nAttendance: 48,425\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد أتلتيكو مد
+ ريد — الدوري الإسباني — 📺 LaLigaTV، Premier Sport
+ s Player، ESPN Deportes، ESPN Unlimited، Fubo Sports، ESPN Select، TS
+ N+، LaLiga TV | Tomorrow: Athletic Club vs Atlético Madrid | TV: LaLigaT
+ V\, Premier Sports Player\, ESPN Deportes\, ESPN Unlimited\, Fubo Sports\,
+  ESPN Select\, TSN+\, LaLiga TV
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × أتلتيكو مدريد — 📺 LaLigaTV، Premier Spo
+ rts Player، ESPN Deportes، ESPN Unlimited، Fubo Sports، ESPN Select، 
+ TSN+، LaLiga TV | Kick-off in 30 min: Athletic Club vs Atlético Madrid |
+  TV: LaLigaTV\, Premier Sports Player\, ESPN Deportes\, ESPN Unlimited\, F
+ ubo Sports\, ESPN Select\, TSN+\, LaLiga TV
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868058@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260913T190000Z
+DTEND:20260913T210000Z
+SUMMARY:Real Sociedad vs Atlético Madrid — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868058
+DESCRIPTION:⚽ ريال سوسيداد × أتلتيكو مدريد\n🏆 
+ الدوري الإسباني — الجولة 5\n🗓 الأحد 13 سب
+ تمبر 2026 · 22:00 بتوقيت الرياض\n🏟 Reale Arena\n📺 b
+ eIN SPORTS CONNECT، beIN Sports Connect Singapore، FanCode، Now Player\
+ n—————\n⚽ Real Sociedad v Atlético Madrid\n🏆 LaLiga — Ma
+ tchday 5\n🗓 Sun 13 Sep 2026 · 19:00 UTC\n🏟 Reale Arena\n📺 beIN S
+ PORTS CONNECT, beIN Sports Connect Singapore, FanCode, Now Player\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد أتلتيكو مد
+ ريد — الدوري الإسباني — 📺 beIN SPORTS CONNECT، be
+ IN Sports Connect Singapore، FanCode، Now Player | Tomorrow: Real Socied
+ ad vs Atlético Madrid | TV: beIN SPORTS CONNECT\, beIN Sports Connect Sin
+ gapore\, FanCode\, Now Player
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × أتلتيكو مدريد — 📺 beIN SPORTS CONNECT، b
+ eIN Sports Connect Singapore، FanCode، Now Player | Kick-off in 30 min: 
+ Real Sociedad vs Atlético Madrid | TV: beIN SPORTS CONNECT\, beIN Sports 
+ Connect Singapore\, FanCode\, Now Player
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868062@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T170000Z
+DTEND:20260916T190000Z
+SUMMARY:Atlético Madrid vs Osasuna — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868062
+DESCRIPTION:⚽ أتلتيكو مدريد × أوساسونا\n🏆 الد
+ وري الإسباني — الجولة 6\n🗓 الأربعاء 16 سب
+ تمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Riyadh Air Metropol
+ itano\n—————\n⚽ Atlético Madrid v Osasuna\n🏆 LaLiga — Ma
+ tchday 6\n🗓 Wed 16 Sep 2026 · 17:00 UTC\n🏟 Riyadh Air Metropolitano
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد أوساسونا 
+ — الدوري الإسباني | Tomorrow: Atlético Madrid vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × أوساسونا | Kick-off in 30 min: Atlético Madrid
+  vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868072@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T141500Z
+DTEND:20260920T161500Z
+SUMMARY:Atlético Madrid vs Real Madrid — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868072
+DESCRIPTION:⚽ أتلتيكو مدريد × ريال مدريد\n🏆 ال
+ دوري الإسباني — الجولة 7\n🗓 الأحد 20 سبتم
+ بر 2026 · 17:15 بتوقيت الرياض\n🏟 Riyadh Air Metropolitan
+ o\n—————\n⚽ Atlético Madrid v Real Madrid\n🏆 LaLiga — Ma
+ tchday 7\n🗓 Sun 20 Sep 2026 · 14:15 UTC\n🏟 Riyadh Air Metropolitano
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد ريال مدري
+ د — الدوري الإسباني | Tomorrow: Atlético Madrid vs Real 
+ Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × ريال مدريد | Kick-off in 30 min: Atlético Mad
+ rid vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868081@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Deportivo Alavés vs Atlético Madrid — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868081
+DESCRIPTION:⚽ ديبورتيفو ألافيس × أتلتيكو مدري
+ د\n🏆 الدوري الإسباني — الجولة 8\n🗓 الأحد
+  11 أكتوبر 2026 · 16:00 بتوقيت الرياض\n🏟 Estadio Men
+ dizorroza\n—————\n⚽ Deportivo Alavés v Atlético Madrid\n🏆
+  LaLiga — Matchday 8\n🗓 Sun 11 Oct 2026 · 13:00 UTC\n🏟 Estadio Me
+ ndizorroza\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد أتلتيك
+ و مدريد — الدوري الإسباني | Tomorrow: Deportivo Alav
+ és vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × أتلتيكو مدريد | Kick-off in 30 min: D
+ eportivo Alavés vs Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868094@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Espanyol vs Atlético Madrid — LaLiga
+LOCATION:RCDE Stadium
+URL:https://www.fotmob.com/match/5868094
+DESCRIPTION:⚽ إسبانيول × أتلتيكو مدريد\n🏆 الد
+ وري الإسباني — الجولة 9\n🗓 الأحد 18 أكتوب
+ ر 2026 · 16:00 بتوقيت الرياض\n🏟 RCDE Stadium\n———
+ ——\n⚽ Espanyol v Atlético Madrid\n🏆 LaLiga — Matchday 9\n🗓 
+ Sun 18 Oct 2026 · 13:00 UTC\n🏟 RCDE Stadium\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إسبانيول ضد أتلتيكو مدريد 
+ — الدوري الإسباني | Tomorrow: Espanyol vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إسبان
+ يول × أتلتيكو مدريد | Kick-off in 30 min: Espanyol vs Atl
+ ético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868103@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Atlético Madrid vs Deportivo A Coruña — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868103
+DESCRIPTION:⚽ أتلتيكو مدريد × ديبورتيفو لاكور
+ ونيا\n🏆 الدوري الإسباني — الجولة 10\n🗓 ا
+ لأحد 25 أكتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 Riy
+ adh Air Metropolitano\n—————\n⚽ Atlético Madrid v Deportivo A
+  Coruña\n🏆 LaLiga — Matchday 10\n🗓 Sun 25 Oct 2026 · 14:00 UTC\n
+ 🏟 Riyadh Air Metropolitano\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد ديبورتيفو
+  لاكورونيا — الدوري الإسباني | Tomorrow: Atlétic
+ o Madrid vs Deportivo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × ديبورتيفو لاكورونيا | Kick-off in 30 
+ min: Atlético Madrid vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868117@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Levante vs Atlético Madrid — LaLiga
+LOCATION:Estadio Ciudad de Valencia
+URL:https://www.fotmob.com/match/5868117
+DESCRIPTION:⚽ ليفانتي × أتلتيكو مدريد\n🏆 الدو
+ ري الإسباني — الجولة 11\n🗓 الأحد 1 نوفمبر 
+ 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio Ciudad de Valencia\n
+ —————\n⚽ Levante v Atlético Madrid\n🏆 LaLiga — Matchday 
+ 11\n🗓 Sun 01 Nov 2026 · 14:00 UTC\n🏟 Estadio Ciudad de Valencia\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفانتي ضد أتلتيكو مدريد —
+  الدوري الإسباني | Tomorrow: Levante vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفان
+ تي × أتلتيكو مدريد | Kick-off in 30 min: Levante vs Atléti
+ co Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868121@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Atlético Madrid vs Barcelona — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868121
+DESCRIPTION:⚽ أتلتيكو مدريد × برشلونة\n🏆 الدو
+ ري الإسباني — الجولة 12\n🗓 الأحد 8 نوفمبر 
+ 2026 · 17:00 بتوقيت الرياض\n🏟 Riyadh Air Metropolitano\n
+ —————\n⚽ Atlético Madrid v Barcelona\n🏆 LaLiga — Matchda
+ y 12\n🗓 Sun 08 Nov 2026 · 14:00 UTC\n🏟 Riyadh Air Metropolitano\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد برشلونة —
+  الدوري الإسباني | Tomorrow: Atlético Madrid vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × برشلونة | Kick-off in 30 min: Atlético Madrid v
+ s Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868134@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Getafe vs Atlético Madrid — LaLiga
+LOCATION:Coliseum
+URL:https://www.fotmob.com/match/5868134
+DESCRIPTION:⚽ خيتافي × أتلتيكو مدريد\n🏆 الدور
+ ي الإسباني — الجولة 13\n🗓 الأحد 22 نوفمبر 2
+ 026 · 17:00 بتوقيت الرياض\n🏟 Coliseum\n—————\n
+ ⚽ Getafe v Atlético Madrid\n🏆 LaLiga — Matchday 13\n🗓 Sun 22 No
+ v 2026 · 14:00 UTC\n🏟 Coliseum\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: خيتافي ضد أتلتيكو مدريد — 
+ الدوري الإسباني | Tomorrow: Getafe vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: خيتاف
+ ي × أتلتيكو مدريد | Kick-off in 30 min: Getafe vs Atlético 
+ Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868144@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T140000Z
+DTEND:20261129T160000Z
+SUMMARY:Elche vs Atlético Madrid — LaLiga
+LOCATION:Estadio Martinez Valero
+URL:https://www.fotmob.com/match/5868144
+DESCRIPTION:⚽ إلتشي × أتلتيكو مدريد\n🏆 الدوري 
+ الإسباني — الجولة 14\n🗓 الأحد 29 نوفمبر 2026
+  · 17:00 بتوقيت الرياض\n🏟 Estadio Martinez Valero\n——
+ ———\n⚽ Elche v Atlético Madrid\n🏆 LaLiga — Matchday 14\n🗓
+  Sun 29 Nov 2026 · 14:00 UTC\n🏟 Estadio Martinez Valero\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلتشي ضد أتلتيكو مدريد — ا
+ لدوري الإسباني | Tomorrow: Elche vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلتشي 
+ × أتلتيكو مدريد | Kick-off in 30 min: Elche vs Atlético Madr
+ id
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868153@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T140000Z
+DTEND:20261206T160000Z
+SUMMARY:Atlético Madrid vs Real Betis — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868153
+DESCRIPTION:⚽ أتلتيكو مدريد × ريال بيتيس\n🏆 ال
+ دوري الإسباني — الجولة 15\n🗓 الأحد 6 ديسم
+ بر 2026 · 17:00 بتوقيت الرياض\n🏟 Riyadh Air Metropolitan
+ o\n—————\n⚽ Atlético Madrid v Real Betis\n🏆 LaLiga — Mat
+ chday 15\n🗓 Sun 06 Dec 2026 · 14:00 UTC\n🏟 Riyadh Air Metropolitano
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد ريال بيتي
+ س — الدوري الإسباني | Tomorrow: Atlético Madrid vs Real 
+ Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × ريال بيتيس | Kick-off in 30 min: Atlético Mad
+ rid vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868161@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T140000Z
+DTEND:20261213T160000Z
+SUMMARY:Atlético Madrid vs Valencia — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868161
+DESCRIPTION:⚽ أتلتيكو مدريد × فالنسيا\n🏆 الدو
+ ري الإسباني — الجولة 16\n🗓 الأحد 13 ديسمبر
+  2026 · 17:00 بتوقيت الرياض\n🏟 Riyadh Air Metropolitano\n
+ —————\n⚽ Atlético Madrid v Valencia\n🏆 LaLiga — Matchday
+  16\n🗓 Sun 13 Dec 2026 · 14:00 UTC\n🏟 Riyadh Air Metropolitano\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد فالنسيا —
+  الدوري الإسباني | Tomorrow: Atlético Madrid vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × فالنسيا | Kick-off in 30 min: Atlético Madrid v
+ s Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868173@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T140000Z
+DTEND:20261220T160000Z
+SUMMARY:Celta Vigo vs Atlético Madrid — LaLiga
+LOCATION:Abanca Balaidos
+URL:https://www.fotmob.com/match/5868173
+DESCRIPTION:⚽ سيلتا فيجو × أتلتيكو مدريد\n🏆 ال
+ دوري الإسباني — الجولة 17\n🗓 الأحد 20 ديسم
+ بر 2026 · 17:00 بتوقيت الرياض\n🏟 Abanca Balaidos\n——
+ ———\n⚽ Celta Vigo v Atlético Madrid\n🏆 LaLiga — Matchday 17\
+ n🗓 Sun 20 Dec 2026 · 14:00 UTC\n🏟 Abanca Balaidos\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتا فيجو ضد أتلتيكو مدري
+ د — الدوري الإسباني | Tomorrow: Celta Vigo vs Atlético M
+ adrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتا 
+ فيجو × أتلتيكو مدريد | Kick-off in 30 min: Celta Vigo vs 
+ Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868187@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T140000Z
+DTEND:20270103T160000Z
+SUMMARY:Rayo Vallecano vs Atlético Madrid — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868187
+DESCRIPTION:⚽ رايو فاييكانو × أتلتيكو مدريد\n
+ 🏆 الدوري الإسباني — الجولة 18\n🗓 الأحد 3 
+ يناير 2027 · 17:00 بتوقيت الرياض\n🏟 Campo de Futbol d
+ e Vallecas\n—————\n⚽ Rayo Vallecano v Atlético Madrid\n🏆 L
+ aLiga — Matchday 18\n🗓 Sun 03 Jan 2027 · 14:00 UTC\n🏟 Campo de Fu
+ tbol de Vallecas\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد أتلتيكو م
+ دريد — الدوري الإسباني | Tomorrow: Rayo Vallecano vs A
+ tlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × أتلتيكو مدريد | Kick-off in 30 min: Rayo Val
+ lecano vs Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868193@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T140000Z
+DTEND:20270110T160000Z
+SUMMARY:Atlético Madrid vs Racing Santander — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868193
+DESCRIPTION:⚽ أتلتيكو مدريد × راسينج سانتاندي
+ ر\n🏆 الدوري الإسباني — الجولة 19\n🗓 الأح
+ د 10 يناير 2027 · 17:00 بتوقيت الرياض\n🏟 Riyadh Air 
+ Metropolitano\n—————\n⚽ Atlético Madrid v Racing Santander\n
+ 🏆 LaLiga — Matchday 19\n🗓 Sun 10 Jan 2027 · 14:00 UTC\n🏟 Riyad
+ h Air Metropolitano\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد راسينج سا
+ نتاندير — الدوري الإسباني | Tomorrow: Atlético Mad
+ rid vs Racing Santander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × راسينج سانتاندير | Kick-off in 30 min: A
+ tlético Madrid vs Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868201@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T140000Z
+DTEND:20270117T160000Z
+SUMMARY:Atlético Madrid vs Real Sociedad — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868201
+DESCRIPTION:⚽ أتلتيكو مدريد × ريال سوسيداد\n🏆 
+ الدوري الإسباني — الجولة 20\n🗓 الأحد 17 ين
+ اير 2027 · 17:00 بتوقيت الرياض\n🏟 Riyadh Air Metropolit
+ ano\n—————\n⚽ Atlético Madrid v Real Sociedad\n🏆 LaLiga 
+ — Matchday 20\n🗓 Sun 17 Jan 2027 · 14:00 UTC\n🏟 Riyadh Air Metrop
+ olitano\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد ريال سوسي
+ داد — الدوري الإسباني | Tomorrow: Atlético Madrid vs R
+ eal Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × ريال سوسيداد | Kick-off in 30 min: Atlético
+  Madrid vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868213@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T140000Z
+DTEND:20270124T160000Z
+SUMMARY:Deportivo A Coruña vs Atlético Madrid — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868213
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × أتلتيكو م
+ دريد\n🏆 الدوري الإسباني — الجولة 21\n🗓 ا
+ لأحد 24 يناير 2027 · 17:00 بتوقيت الرياض\n🏟 Abanc
+ a-Riazor\n—————\n⚽ Deportivo A Coruña v Atlético Madrid\n
+ 🏆 LaLiga — Matchday 21\n🗓 Sun 24 Jan 2027 · 14:00 UTC\n🏟 Abanc
+ a-Riazor\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد أتل
+ تيكو مدريد — الدوري الإسباني | Tomorrow: Deportiv
+ o A Coruña vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × أتلتيكو مدريد | Kick-off in 30 
+ min: Deportivo A Coruña vs Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868221@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Atlético Madrid vs Espanyol — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868221
+DESCRIPTION:⚽ أتلتيكو مدريد × إسبانيول\n🏆 الد
+ وري الإسباني — الجولة 22\n🗓 الأحد 31 يناير
+  2027 · 17:00 بتوقيت الرياض\n🏟 Riyadh Air Metropolitano\n
+ —————\n⚽ Atlético Madrid v Espanyol\n🏆 LaLiga — Matchday
+  22\n🗓 Sun 31 Jan 2027 · 14:00 UTC\n🏟 Riyadh Air Metropolitano\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد إسبانيول 
+ — الدوري الإسباني | Tomorrow: Atlético Madrid vs Espanyol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × إسبانيول | Kick-off in 30 min: Atlético Madrid
+  vs Espanyol
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868237@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:Barcelona vs Atlético Madrid — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868237
+DESCRIPTION:⚽ برشلونة × أتلتيكو مدريد\n🏆 الدو
+ ري الإسباني — الجولة 23\n🗓 الأحد 7 فبراير 
+ 2027 · 17:00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n———
+ ——\n⚽ Barcelona v Atlético Madrid\n🏆 LaLiga — Matchday 23\n
+ 🗓 Sun 07 Feb 2027 · 14:00 UTC\n🏟 Spotify Camp Nou\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد أتلتيكو مدريد —
+  الدوري الإسباني | Tomorrow: Barcelona vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × أتلتيكو مدريد | Kick-off in 30 min: Barcelona vs Atlé
+ tico Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868244@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T140000Z
+DTEND:20270214T160000Z
+SUMMARY:Osasuna vs Atlético Madrid — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868244
+DESCRIPTION:⚽ أوساسونا × أتلتيكو مدريد\n🏆 الد
+ وري الإسباني — الجولة 24\n🗓 الأحد 14 فبراي
+ ر 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio El Sadar\n——
+ ———\n⚽ Osasuna v Atlético Madrid\n🏆 LaLiga — Matchday 24\n
+ 🗓 Sun 14 Feb 2027 · 14:00 UTC\n🏟 Estadio El Sadar\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد أتلتيكو مدريد 
+ — الدوري الإسباني | Tomorrow: Osasuna vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × أتلتيكو مدريد | Kick-off in 30 min: Osasuna vs Atlé
+ tico Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868253@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T140000Z
+DTEND:20270221T160000Z
+SUMMARY:Atlético Madrid vs Elche — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868253
+DESCRIPTION:⚽ أتلتيكو مدريد × إلتشي\n🏆 الدوري 
+ الإسباني — الجولة 25\n🗓 الأحد 21 فبراير 2027
+  · 17:00 بتوقيت الرياض\n🏟 Riyadh Air Metropolitano\n——
+ ———\n⚽ Atlético Madrid v Elche\n🏆 LaLiga — Matchday 25\n🗓
+  Sun 21 Feb 2027 · 14:00 UTC\n🏟 Riyadh Air Metropolitano\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد إلتشي — ا
+ لدوري الإسباني | Tomorrow: Atlético Madrid vs Elche
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × إلتشي | Kick-off in 30 min: Atlético Madrid vs El
+ che
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868266@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T140000Z
+DTEND:20270228T160000Z
+SUMMARY:Málaga vs Atlético Madrid — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868266
+DESCRIPTION:⚽ مالقا × أتلتيكو مدريد\n🏆 الدوري 
+ الإسباني — الجولة 26\n🗓 الأحد 28 فبراير 2027
+  · 17:00 بتوقيت الرياض\n🏟 Estadio La Rosaleda\n———
+ ——\n⚽ Málaga v Atlético Madrid\n🏆 LaLiga — Matchday 26\n🗓 
+ Sun 28 Feb 2027 · 14:00 UTC\n🏟 Estadio La Rosaleda\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد أتلتيكو مدريد — ا
+ لدوري الإسباني | Tomorrow: Málaga vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × أتلتيكو مدريد | Kick-off in 30 min: Málaga vs Atlético Ma
+ drid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868272@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T140000Z
+DTEND:20270307T160000Z
+SUMMARY:Atlético Madrid vs Celta Vigo — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868272
+DESCRIPTION:⚽ أتلتيكو مدريد × سيلتا فيجو\n🏆 ال
+ دوري الإسباني — الجولة 27\n🗓 الأحد 7 مارس 
+ 2027 · 17:00 بتوقيت الرياض\n🏟 Riyadh Air Metropolitano\n
+ —————\n⚽ Atlético Madrid v Celta Vigo\n🏆 LaLiga — Matchd
+ ay 27\n🗓 Sun 07 Mar 2027 · 14:00 UTC\n🏟 Riyadh Air Metropolitano\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد سيلتا فيج
+ و — الدوري الإسباني | Tomorrow: Atlético Madrid vs Celta
+  Vigo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × سيلتا فيجو | Kick-off in 30 min: Atlético Mad
+ rid vs Celta Vigo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868289@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T140000Z
+DTEND:20270314T160000Z
+SUMMARY:Racing Santander vs Atlético Madrid — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868289
+DESCRIPTION:⚽ راسينج سانتاندير × أتلتيكو مدري
+ د\n🏆 الدوري الإسباني — الجولة 28\n🗓 الأح
+ د 14 مارس 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio El Sa
+ rdinero\n—————\n⚽ Racing Santander v Atlético Madrid\n🏆 La
+ Liga — Matchday 28\n🗓 Sun 14 Mar 2027 · 14:00 UTC\n🏟 Estadio El S
+ ardinero\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد أتلتيك
+ و مدريد — الدوري الإسباني | Tomorrow: Racing Santand
+ er vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × أتلتيكو مدريد | Kick-off in 30 min: R
+ acing Santander vs Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868291@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T140000Z
+DTEND:20270321T160000Z
+SUMMARY:Atlético Madrid vs Getafe — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868291
+DESCRIPTION:⚽ أتلتيكو مدريد × خيتافي\n🏆 الدور
+ ي الإسباني — الجولة 29\n🗓 الأحد 21 مارس 2027 
+ · 17:00 بتوقيت الرياض\n🏟 Riyadh Air Metropolitano\n——
+ ———\n⚽ Atlético Madrid v Getafe\n🏆 LaLiga — Matchday 29\n
+ 🗓 Sun 21 Mar 2027 · 14:00 UTC\n🏟 Riyadh Air Metropolitano\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد خيتافي — 
+ الدوري الإسباني | Tomorrow: Atlético Madrid vs Getafe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × خيتافي | Kick-off in 30 min: Atlético Madrid vs 
+ Getafe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868309@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T130000Z
+DTEND:20270404T150000Z
+SUMMARY:Real Madrid vs Atlético Madrid — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868309
+DESCRIPTION:⚽ ريال مدريد × أتلتيكو مدريد\n🏆 ال
+ دوري الإسباني — الجولة 30\n🗓 الأحد 4 أبري
+ ل 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n——
+ ———\n⚽ Real Madrid v Atlético Madrid\n🏆 LaLiga — Matchday 30
+ \n🗓 Sun 04 Apr 2027 · 13:00 UTC\n🏟 Estadio Bernabeu\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد أتلتيكو مدري
+ د — الدوري الإسباني | Tomorrow: Real Madrid vs Atlético 
+ Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × أتلتيكو مدريد | Kick-off in 30 min: Real Madrid vs
+  Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868312@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T130000Z
+DTEND:20270411T150000Z
+SUMMARY:Atlético Madrid vs Levante — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868312
+DESCRIPTION:⚽ أتلتيكو مدريد × ليفانتي\n🏆 الدو
+ ري الإسباني — الجولة 31\n🗓 الأحد 11 أبريل 2
+ 027 · 16:00 بتوقيت الرياض\n🏟 Riyadh Air Metropolitano\n—
+ ————\n⚽ Atlético Madrid v Levante\n🏆 LaLiga — Matchday 31\
+ n🗓 Sun 11 Apr 2027 · 13:00 UTC\n🏟 Riyadh Air Metropolitano\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد ليفانتي —
+  الدوري الإسباني | Tomorrow: Atlético Madrid vs Levante
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × ليفانتي | Kick-off in 30 min: Atlético Madrid v
+ s Levante
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868322@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T130000Z
+DTEND:20270418T150000Z
+SUMMARY:Atlético Madrid vs Sevilla — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868322
+DESCRIPTION:⚽ أتلتيكو مدريد × إشبيلية\n🏆 الدو
+ ري الإسباني — الجولة 32\n🗓 الأحد 18 أبريل 2
+ 027 · 16:00 بتوقيت الرياض\n🏟 Riyadh Air Metropolitano\n—
+ ————\n⚽ Atlético Madrid v Sevilla\n🏆 LaLiga — Matchday 32\
+ n🗓 Sun 18 Apr 2027 · 13:00 UTC\n🏟 Riyadh Air Metropolitano\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد إشبيلية —
+  الدوري الإسباني | Tomorrow: Atlético Madrid vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × إشبيلية | Kick-off in 30 min: Atlético Madrid v
+ s Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868340@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270421T130000Z
+DTEND:20270421T150000Z
+SUMMARY:Villarreal vs Atlético Madrid — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868340
+DESCRIPTION:⚽ فياريال × أتلتيكو مدريد\n🏆 الدو
+ ري الإسباني — الجولة 33\n🗓 الأربعاء 21 أبر
+ يل 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio de la Ceramica\
+ n—————\n⚽ Villarreal v Atlético Madrid\n🏆 LaLiga — Match
+ day 33\n🗓 Wed 21 Apr 2027 · 13:00 UTC\n🏟 Estadio de la Ceramica\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد أتلتيكو مدريد —
+  الدوري الإسباني | Tomorrow: Villarreal vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × أتلتيكو مدريد | Kick-off in 30 min: Villarreal vs Atl
+ ético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868341@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T130000Z
+DTEND:20270502T150000Z
+SUMMARY:Atlético Madrid vs Deportivo Alavés — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868341
+DESCRIPTION:⚽ أتلتيكو مدريد × ديبورتيفو ألافي
+ س\n🏆 الدوري الإسباني — الجولة 34\n🗓 الأح
+ د 2 مايو 2027 · 16:00 بتوقيت الرياض\n🏟 Riyadh Air Met
+ ropolitano\n—————\n⚽ Atlético Madrid v Deportivo Alavés\n
+ 🏆 LaLiga — Matchday 34\n🗓 Sun 02 May 2027 · 13:00 UTC\n🏟 Riyad
+ h Air Metropolitano\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد ديبورتيفو
+  ألافيس — الدوري الإسباني | Tomorrow: Atlético Madr
+ id vs Deportivo Alavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × ديبورتيفو ألافيس | Kick-off in 30 min: A
+ tlético Madrid vs Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868359@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T130000Z
+DTEND:20270509T150000Z
+SUMMARY:Valencia vs Atlético Madrid — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868359
+DESCRIPTION:⚽ فالنسيا × أتلتيكو مدريد\n🏆 الدو
+ ري الإسباني — الجولة 35\n🗓 الأحد 9 مايو 2027
+  · 16:00 بتوقيت الرياض\n🏟 Estadio Mestalla\n————
+ —\n⚽ Valencia v Atlético Madrid\n🏆 LaLiga — Matchday 35\n🗓 Su
+ n 09 May 2027 · 13:00 UTC\n🏟 Estadio Mestalla\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد أتلتيكو مدريد —
+  الدوري الإسباني | Tomorrow: Valencia vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × أتلتيكو مدريد | Kick-off in 30 min: Valencia vs Atlét
+ ico Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868361@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T130000Z
+DTEND:20270516T150000Z
+SUMMARY:Atlético Madrid vs Rayo Vallecano — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868361
+DESCRIPTION:⚽ أتلتيكو مدريد × رايو فاييكانو\n
+ 🏆 الدوري الإسباني — الجولة 36\n🗓 الأحد 16
+  مايو 2027 · 16:00 بتوقيت الرياض\n🏟 Riyadh Air Metropo
+ litano\n—————\n⚽ Atlético Madrid v Rayo Vallecano\n🏆 LaLig
+ a — Matchday 36\n🗓 Sun 16 May 2027 · 13:00 UTC\n🏟 Riyadh Air Metr
+ opolitano\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد رايو فايي
+ كانو — الدوري الإسباني | Tomorrow: Atlético Madrid vs
+  Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × رايو فاييكانو | Kick-off in 30 min: Atléti
+ co Madrid vs Rayo Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868372@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T130000Z
+DTEND:20270523T150000Z
+SUMMARY:Atlético Madrid vs Athletic Club — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868372
+DESCRIPTION:⚽ أتلتيكو مدريد × أتلتيك بلباو\n🏆 
+ الدوري الإسباني — الجولة 37\n🗓 الأحد 23 ما
+ يو 2027 · 16:00 بتوقيت الرياض\n🏟 Riyadh Air Metropolitan
+ o\n—————\n⚽ Atlético Madrid v Athletic Club\n🏆 LaLiga — 
+ Matchday 37\n🗓 Sun 23 May 2027 · 13:00 UTC\n🏟 Riyadh Air Metropolit
+ ano\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد أتلتيك بل
+ باو — الدوري الإسباني | Tomorrow: Atlético Madrid vs A
+ thletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × أتلتيك بلباو | Kick-off in 30 min: Atlético
+  Madrid vs Athletic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868382@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T130000Z
+DTEND:20270530T150000Z
+SUMMARY:Real Betis vs Atlético Madrid — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868382
+DESCRIPTION:⚽ ريال بيتيس × أتلتيكو مدريد\n🏆 ال
+ دوري الإسباني — الجولة 38\n🗓 الأحد 30 مايو
+  2027 · 16:00 بتوقيت الرياض\n🏟 Estadio de La Cartuja\n—
+ ————\n⚽ Real Betis v Atlético Madrid\n🏆 LaLiga — Matchday 
+ 38\n🗓 Sun 30 May 2027 · 13:00 UTC\n🏟 Estadio de La Cartuja\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد أتلتيكو مدري
+ د — الدوري الإسباني | Tomorrow: Real Betis vs Atlético M
+ adrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × أتلتيكو مدريد | Kick-off in 30 min: Real Betis vs 
+ Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106246@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260909T190000Z
+DTEND:20260909T210000Z
+SUMMARY:Liverpool vs Atlético Madrid — UEFA Champions League
+LOCATION:Anfield\, Liverpool\, England
+GEO:53.430828;-2.960853
+URL:https://www.fotmob.com/match/6106246
+DESCRIPTION:⚽ ليفربول × أتلتيكو مدريد\n🏆 دوري 
+ أبطال أوروبا — الجولة 1\n🗓 الأربعاء 9 سبت
+ مبر 2026 · 22:00 بتوقيت الرياض\n🏟 Anfield، Liverpool\n
+ 📺 HBO Max (UK)، Paramount+ (US)، Premier Sports 1 ROI\n————
+ —\n⚽ Liverpool v Atlético Madrid\n🏆 UEFA Champions League — Matc
+ hday 1\n🗓 Wed 09 Sep 2026 · 19:00 UTC\n🏟 Anfield, Liverpool\n📺 H
+ BO Max (UK), Paramount+ (US), Premier Sports 1 ROI\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد أتلتيكو مدريد —
+  دوري أبطال أوروبا — 📺 HBO Max (UK)، Paramount+ (US)
+ ، Premier Sports 1 ROI | Tomorrow: Liverpool vs Atlético Madrid | TV: HB
+ O Max (UK)\, Paramount+ (US)\, Premier Sports 1 ROI
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × أتلتيكو مدريد — 📺 HBO Max (UK)، Paramount+ (US)
+ ، Premier Sports 1 ROI | Kick-off in 30 min: Liverpool vs Atlético Madri
+ d | TV: HBO Max (UK)\, Paramount+ (US)\, Premier Sports 1 ROI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106267@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Atlético Madrid vs Manchester United — UEFA Champions League
+LOCATION:Riyadh Air Metropolitano\, Madrid\, Spain
+GEO:40.436226;-3.599460
+URL:https://www.fotmob.com/match/6106267
+DESCRIPTION:⚽ أتلتيكو مدريد × مانشستر يونايتد\
+ n🏆 دوري أبطال أوروبا — الجولة 2\n🗓 الثلا
+ ثاء 13 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Riyad
+ h Air Metropolitano، Madrid\n—————\n⚽ Atlético Madrid v Manc
+ hester United\n🏆 UEFA Champions League — Matchday 2\n🗓 Tue 13 Oct 
+ 2026 · 19:00 UTC\n🏟 Riyadh Air Metropolitano, Madrid\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد مانشستر ي
+ ونايتد — دوري أبطال أوروبا | Tomorrow: Atlético Ma
+ drid vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × مانشستر يونايتد | Kick-off in 30 min: Atl
+ ético Madrid vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106397@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:VfB Stuttgart vs Atlético Madrid — UEFA Champions League
+LOCATION:MHPArena\, Stuttgart\, Germany
+GEO:48.792284;9.232024
+URL:https://www.fotmob.com/match/6106397
+DESCRIPTION:⚽ شتوتجارت × أتلتيكو مدريد\n🏆 دور
+ ي أبطال أوروبا — الجولة 3\n🗓 الثلاثاء 20 أ
+ كتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 MHPArena، Stuttg
+ art\n—————\n⚽ VfB Stuttgart v Atlético Madrid\n🏆 UEFA Cham
+ pions League — Matchday 3\n🗓 Tue 20 Oct 2026 · 19:00 UTC\n🏟 MHPAr
+ ena, Stuttgart\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد أتلتيكو مدريد 
+ — دوري أبطال أوروبا | Tomorrow: VfB Stuttgart vs Atlétic
+ o Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × أتلتيكو مدريد | Kick-off in 30 min: VfB Stuttgart vs
+  Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106266@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+SUMMARY:Atlético Madrid vs Bayern München — UEFA Champions League
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/6106266
+DESCRIPTION:⚽ أتلتيكو مدريد × بايرن ميونخ\n🏆 د
+ وري أبطال أوروبا — الجولة 4\n🗓 الثلاثاء 3
+  نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Riyadh Air Met
+ ropolitano\n—————\n⚽ Atlético Madrid v Bayern München\n🏆 
+ UEFA Champions League — Matchday 4\n🗓 Tue 03 Nov 2026 · 20:00 UTC\n
+ 🏟 Riyadh Air Metropolitano\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد بايرن ميو
+ نخ — دوري أبطال أوروبا | Tomorrow: Atlético Madrid vs 
+ Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × بايرن ميونخ | Kick-off in 30 min: Atlético M
+ adrid vs Bayern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106269@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Atlético Madrid vs Viking — UEFA Champions League
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/6106269
+DESCRIPTION:⚽ أتلتيكو مدريد × فيشينغ ستافانغي
+ ر\n🏆 دوري أبطال أوروبا — الجولة 5\n🗓 الأ
+ ربعاء 25 نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 R
+ iyadh Air Metropolitano\n—————\n⚽ Atlético Madrid v Viking\n
+ 🏆 UEFA Champions League — Matchday 5\n🗓 Wed 25 Nov 2026 · 20:00 U
+ TC\n🏟 Riyadh Air Metropolitano\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد فيشينغ ست
+ افانغير — دوري أبطال أوروبا | Tomorrow: Atlético 
+ Madrid vs Viking
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × فيشينغ ستافانغير | Kick-off in 30 min: A
+ tlético Madrid vs Viking
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106302@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:PSV Eindhoven vs Atlético Madrid — UEFA Champions League
+LOCATION:Philips Stadion
+URL:https://www.fotmob.com/match/6106302
+DESCRIPTION:⚽ آيندهوفن × أتلتيكو مدريد\n🏆 دور
+ ي أبطال أوروبا — الجولة 6\n🗓 الأربعاء 9 د
+ يسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Philips Stadion\n
+ —————\n⚽ PSV Eindhoven v Atlético Madrid\n🏆 UEFA Champions
+  League — Matchday 6\n🗓 Wed 09 Dec 2026 · 20:00 UTC\n🏟 Philips St
+ adion\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آيندهوفن ضد أتلتيكو مدريد 
+ — دوري أبطال أوروبا | Tomorrow: PSV Eindhoven vs Atlétic
+ o Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينده
+ وفن × أتلتيكو مدريد | Kick-off in 30 min: PSV Eindhoven vs
+  Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106314@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270119T174500Z
+DTEND:20270119T194500Z
+SUMMARY:Bodø/Glimt vs Atlético Madrid — UEFA Champions League
+LOCATION:Aspmyra Stadion
+URL:https://www.fotmob.com/match/6106314
+DESCRIPTION:⚽ بودو جليمت × أتلتيكو مدريد\n🏆 دو
+ ري أبطال أوروبا — الجولة 7\n🗓 الثلاثاء 19 
+ يناير 2027 · 20:45 بتوقيت الرياض\n🏟 Aspmyra Stadion\n
+ —————\n⚽ Bodø/Glimt v Atlético Madrid\n🏆 UEFA Champions L
+ eague — Matchday 7\n🗓 Tue 19 Jan 2027 · 17:45 UTC\n🏟 Aspmyra Stad
+ ion\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بودو جليمت ضد أتلتيكو مدري
+ د — دوري أبطال أوروبا | Tomorrow: Bodø/Glimt vs Atléti
+ co Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بودو ج
+ ليمت × أتلتيكو مدريد | Kick-off in 30 min: Bodø/Glimt vs
+  Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106268@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Atlético Madrid vs Fenerbahçe — UEFA Champions League
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/6106268
+DESCRIPTION:⚽ أتلتيكو مدريد × فنربخشة\n🏆 دوري 
+ أبطال أوروبا — الجولة 8\n🗓 الأربعاء 27 ين
+ اير 2027 · 23:00 بتوقيت الرياض\n🏟 Riyadh Air Metropolit
+ ano\n—————\n⚽ Atlético Madrid v Fenerbahçe\n🏆 UEFA Champi
+ ons League — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Riyadh 
+ Air Metropolitano\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد فنربخشة —
+  دوري أبطال أوروبا | Tomorrow: Atlético Madrid vs Fenerbah
+ çe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × فنربخشة | Kick-off in 30 min: Atlético Madrid v
+ s Fenerbahçe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5091456@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251217T180000Z
+DTEND:20251217T200000Z
+SUMMARY:Atlético Baleares vs Atlético Madrid (2 - 3) — Copa del Rey
+LOCATION:Estadio Balear\, Palma de Mallorca\, Spain
+GEO:39.574127;2.677467
+URL:https://www.fotmob.com/match/5091456
+DESCRIPTION:⚽ أتليتكو بالياريس × أتلتيكو مدري
+ د (2 - 3)\n🏆 كأس ملك إسبانيا — دور الـ32\n🗓 ا
+ لأربعاء 17 ديسمبر 2025 · 21:00 بتوقيت الرياض\n
+ 🏟 Estadio Balear، Palma de Mallorca\n👥 الحضور: 5,080\n——
+ ———\n⚽ Atlético Baleares v Atlético Madrid (2 - 3)\n🏆 Copa de
+ l Rey — Round of 32\n🗓 Wed 17 Dec 2025 · 18:00 UTC\n🏟 Estadio Bal
+ ear, Palma de Mallorca\nAttendance: 5,080\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتليتكو بالياريس ضد أتلتيك
+ و مدريد — كأس ملك إسبانيا | Tomorrow: Atlético Balea
+ res vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتليت
+ كو بالياريس × أتلتيكو مدريد | Kick-off in 30 min: A
+ tlético Baleares vs Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5125325@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260113T200000Z
+DTEND:20260113T220000Z
+SUMMARY:Deportivo A Coruña vs Atlético Madrid (0 - 1) — Copa del Rey
+LOCATION:Estadio Abanca-Riazor\, A Coruña (La Coruña)\, Spain
+GEO:43.368720;-8.417530
+URL:https://www.fotmob.com/match/5125325
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × أتلتيكو م
+ دريد (0 - 1)\n🏆 كأس ملك إسبانيا — دور الـ16\n
+ 🗓 الثلاثاء 13 يناير 2026 · 23:00 بتوقيت الريا
+ ض\n🏟 Estadio Abanca-Riazor، A Coruña (La Coruña)\n👥 الحضور
+ : 28,577\n—————\n⚽ Deportivo A Coruña v Atlético Madrid (0 -
+  1)\n🏆 Copa del Rey — Round of 16\n🗓 Tue 13 Jan 2026 · 20:00 UTC\
+ n🏟 Estadio Abanca-Riazor, A Coruña (La Coruña)\nAttendance: 28,577\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد أتل
+ تيكو مدريد — كأس ملك إسبانيا | Tomorrow: Deportivo
+  A Coruña vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × أتلتيكو مدريد | Kick-off in 30 
+ min: Deportivo A Coruña vs Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5144839@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260205T200000Z
+DTEND:20260205T220000Z
+SUMMARY:Real Betis vs Atlético Madrid (0 - 5) — Copa del Rey
+LOCATION:Estadio La Cartuja de Sevilla\, Sevilla\, Spain
+GEO:37.417209;-6.004661
+URL:https://www.fotmob.com/match/5144839
+DESCRIPTION:⚽ ريال بيتيس × أتلتيكو مدريد (0 - 5)\n
+ 🏆 كأس ملك إسبانيا — ربع النهائي\n🗓 الخم
+ يس 5 فبراير 2026 · 23:00 بتوقيت الرياض\n🏟 Estadio 
+ La Cartuja de Sevilla، Sevilla\n⚖️ الحكم: Cesar Soto\n👥 ال
+ حضور: 66,810\n—————\n⚽ Real Betis v Atlético Madrid (0 - 
+ 5)\n🏆 Copa del Rey — Quarter-Finals\n🗓 Thu 05 Feb 2026 · 20:00 UT
+ C\n🏟 Estadio La Cartuja de Sevilla, Sevilla\nReferee: Cesar Soto\nAtten
+ dance: 66,810\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد أتلتيكو مدري
+ د — كأس ملك إسبانيا | Tomorrow: Real Betis vs Atlético Ma
+ drid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × أتلتيكو مدريد | Kick-off in 30 min: Real Betis vs 
+ Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5173360@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260212T200000Z
+DTEND:20260212T220000Z
+SUMMARY:Atlético Madrid vs Barcelona (4 - 0) — Copa del Rey
+LOCATION:Riyadh Air Metropolitano\, Madrid\, Spain
+GEO:40.436226;-3.599460
+URL:https://www.fotmob.com/match/5173360
+DESCRIPTION:⚽ أتلتيكو مدريد × برشلونة (4 - 0)\n🏆 
+ كأس ملك إسبانيا — نصف النهائي\n🗓 الخميس 
+ 12 فبراير 2026 · 23:00 بتوقيت الرياض\n🏟 Riyadh Air M
+ etropolitano، Madrid\n⚖️ الحكم: Juan Martinez\n👥 الحضور
+ : 69,200\n—————\n⚽ Atlético Madrid v Barcelona (4 - 0)\n🏆 
+ Copa del Rey — Semi-Finals\n🗓 Thu 12 Feb 2026 · 20:00 UTC\n🏟 Riya
+ dh Air Metropolitano, Madrid\nReferee: Juan Martinez\nAttendance: 69,200\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد برشلونة —
+  كأس ملك إسبانيا | Tomorrow: Atlético Madrid vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × برشلونة | Kick-off in 30 min: Atlético Madrid v
+ s Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5173361@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260303T200000Z
+DTEND:20260303T220000Z
+SUMMARY:Barcelona vs Atlético Madrid (3 - 0) — Copa del Rey
+LOCATION:Spotify Camp Nou\, Barcelona\, Spain
+GEO:41.380890;2.122813
+URL:https://www.fotmob.com/match/5173361
+DESCRIPTION:⚽ برشلونة × أتلتيكو مدريد (3 - 0)\n🏆 
+ كأس ملك إسبانيا — نصف النهائي\n🗓 الثلاث
+ اء 3 مارس 2026 · 23:00 بتوقيت الرياض\n🏟 Spotify Camp
+  Nou، Barcelona\n⚖️ الحكم: Ricardo De Burgos Bengoetxea\n👥 ا
+ لحضور: 45,398\n—————\n⚽ Barcelona v Atlético Madrid (3 -
+  0)\n🏆 Copa del Rey — Semi-Finals\n🗓 Tue 03 Mar 2026 · 20:00 UTC\
+ n🏟 Spotify Camp Nou, Barcelona\nReferee: Ricardo De Burgos Bengoetxea\n
+ Attendance: 45,398\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد أتلتيكو مدريد —
+  كأس ملك إسبانيا | Tomorrow: Barcelona vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × أتلتيكو مدريد | Kick-off in 30 min: Barcelona vs Atlé
+ tico Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5173387@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260418T190000Z
+DTEND:20260418T210000Z
+SUMMARY:Atlético Madrid vs Real Sociedad (2 - 2) — Copa del Rey
+LOCATION:Estadio La Cartuja de Sevilla\, Sevilla\, Spain
+GEO:37.417209;-6.004661
+URL:https://www.fotmob.com/match/5173387
+DESCRIPTION:⚽ أتلتيكو مدريد × ريال سوسيداد (2 - 2
+ )\n🏆 كأس ملك إسبانيا — النهائي\n🗓 السبت 1
+ 8 أبريل 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio La Cart
+ uja de Sevilla، Sevilla\n⚖️ الحكم: Javier Alberola Rojas\n👥 
+ الحضور: 70,000\n—————\n⚽ Atlético Madrid v Real Socieda
+ d (2 - 2)\n🏆 Copa del Rey — Final\n🗓 Sat 18 Apr 2026 · 19:00 UTC\
+ n🏟 Estadio La Cartuja de Sevilla, Sevilla\nReferee: Javier Alberola Roj
+ as\nAttendance: 70,000\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد ريال سوسي
+ داد — كأس ملك إسبانيا | Tomorrow: Atlético Madrid vs Re
+ al Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × ريال سوسيداد | Kick-off in 30 min: Atlético
+  Madrid vs Real Sociedad
+END:VALARM
+END:VEVENT
+END:VCALENDAR

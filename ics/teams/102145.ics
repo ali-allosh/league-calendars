@@ -1,0 +1,293 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Neftchi Fargona — AFC Champions League Elite Fixtures | 
+ نيفتشي فرغانة — مباريات دوري أبطال آسيا 
+ للنخبة
+X-WR-CALDESC:Neftchi Fargona — all matches in AFC Champions League Elite\
+ , exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-upd
+ ated 2026-09-05T19:31:10Z.  •  نيفتشي فرغانة — جميع ا
+ لمباريات في دوري أبطال آسيا للنخبة بتوقي
+ ت UTC الدقيق مع الملاعب والقنوات الناقلة. 
+ المصدر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:
+ 31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6050064@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260914T134500Z
+DTEND:20260914T154500Z
+SUMMARY:Neftchi Fargona vs Al Quwa Al Jawiya — AFC Champions League Elite
+LOCATION:Istiqlol stadioni\, Farg'ona (Fergana)\, Uzbekistan
+GEO:40.390534;71.749676
+URL:https://www.fotmob.com/match/6050064
+DESCRIPTION:⚽ نيفتشي فرغانة × القوة الجوية\n🏆 
+ دوري أبطال آسيا للنخبة — الجولة 1\n🗓 الا
+ ثنين 14 سبتمبر 2026 · 16:45 بتوقيت الرياض\n🏟 Ist
+ iqlol stadioni، Farg'ona (Fergana)\n—————\n⚽ Neftchi Fargona 
+ v Al Quwa Al Jawiya\n🏆 AFC Champions League Elite — Matchday 1\n🗓 
+ Mon 14 Sep 2026 · 13:45 UTC\n🏟 Istiqlol stadioni, Farg'ona (Fergana)\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيفتشي فرغانة ضد القوة الج
+ وية — دوري أبطال آسيا للنخبة | Tomorrow: Neftchi F
+ argona vs Al Quwa Al Jawiya
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيفتش
+ ي فرغانة × القوة الجوية | Kick-off in 30 min: Neftchi F
+ argona vs Al Quwa Al Jawiya
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050076@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261012T181500Z
+DTEND:20261012T201500Z
+SUMMARY:Al Nassr FC vs Neftchi Fargona — AFC Champions League Elite
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/6050076
+DESCRIPTION:⚽ النصر × نيفتشي فرغانة\n🏆 دوري أب
+ طال آسيا للنخبة — الجولة 2\n🗓 الاثنين 12 أ
+ كتوبر 2026 · 21:15 بتوقيت الرياض\n🏟 Al-Awwal Park، R
+ iyadh\n—————\n⚽ Al Nassr FC v Neftchi Fargona\n🏆 AFC Champi
+ ons League Elite — Matchday 2\n🗓 Mon 12 Oct 2026 · 18:15 UTC\n🏟 A
+ l-Awwal Park, Riyadh\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد نيفتشي فرغانة — د
+ وري أبطال آسيا للنخبة | Tomorrow: Al Nassr FC vs Neftchi
+  Fargona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × نيفتشي فرغانة | Kick-off in 30 min: Al Nassr FC vs Neftchi 
+ Fargona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050080@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261026T144500Z
+DTEND:20261026T164500Z
+SUMMARY:Neftchi Fargona vs Al Ittihad — AFC Champions League Elite
+LOCATION:Istiqlol stadioni\, Farg'ona (Fergana)\, Uzbekistan
+GEO:40.390534;71.749676
+URL:https://www.fotmob.com/match/6050080
+DESCRIPTION:⚽ نيفتشي فرغانة × الاتحاد\n🏆 دوري 
+ أبطال آسيا للنخبة — الجولة 3\n🗓 الاثنين 2
+ 6 أكتوبر 2026 · 17:45 بتوقيت الرياض\n🏟 Istiqlol stad
+ ioni، Farg'ona (Fergana)\n—————\n⚽ Neftchi Fargona v Al Ittih
+ ad\n🏆 AFC Champions League Elite — Matchday 3\n🗓 Mon 26 Oct 2026 
+ · 14:45 UTC\n🏟 Istiqlol stadioni, Farg'ona (Fergana)\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيفتشي فرغانة ضد الاتحاد —
+  دوري أبطال آسيا للنخبة | Tomorrow: Neftchi Fargona vs 
+ Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيفتش
+ ي فرغانة × الاتحاد | Kick-off in 30 min: Neftchi Fargona vs
+  Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050091@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261102T170000Z
+DTEND:20261102T190000Z
+SUMMARY:Tractor vs Neftchi Fargona — AFC Champions League Elite
+LOCATION:Sultan Qaboos Sports Complex\, Masqaṭ (Muscat)\, Oman
+GEO:23.573005;58.399565
+URL:https://www.fotmob.com/match/6050091
+DESCRIPTION:⚽ تراکتورسازي × نيفتشي فرغانة\n🏆 
+ دوري أبطال آسيا للنخبة — الجولة 4\n🗓 الا
+ ثنين 2 نوفمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Sult
+ an Qaboos Sports Complex، Masqaṭ (Muscat)\n—————\n⚽ Tractor
+  v Neftchi Fargona\n🏆 AFC Champions League Elite — Matchday 4\n🗓 M
+ on 02 Nov 2026 · 17:00 UTC\n🏟 Sultan Qaboos Sports Complex, Masqaṭ (
+ Muscat)\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تراکتورسازي ضد نيفتشي فرغا
+ نة — دوري أبطال آسيا للنخبة | Tomorrow: Tractor vs 
+ Neftchi Fargona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تراکت
+ ورسازي × نيفتشي فرغانة | Kick-off in 30 min: Tractor vs
+  Neftchi Fargona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050096@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261123T144500Z
+DTEND:20261123T164500Z
+SUMMARY:Neftchi Fargona vs Al Hilal — AFC Champions League Elite
+LOCATION:Istiqlol stadioni\, Farg'ona (Fergana)\, Uzbekistan
+GEO:40.390534;71.749676
+URL:https://www.fotmob.com/match/6050096
+DESCRIPTION:⚽ نيفتشي فرغانة × الهلال\n🏆 دوري أ
+ بطال آسيا للنخبة — الجولة 5\n🗓 الاثنين 23 
+ نوفمبر 2026 · 17:45 بتوقيت الرياض\n🏟 Istiqlol stadio
+ ni، Farg'ona (Fergana)\n—————\n⚽ Neftchi Fargona v Al Hilal\n
+ 🏆 AFC Champions League Elite — Matchday 5\n🗓 Mon 23 Nov 2026 · 14
+ :45 UTC\n🏟 Istiqlol stadioni, Farg'ona (Fergana)\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيفتشي فرغانة ضد الهلال — 
+ دوري أبطال آسيا للنخبة | Tomorrow: Neftchi Fargona vs A
+ l Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيفتش
+ ي فرغانة × الهلال | Kick-off in 30 min: Neftchi Fargona vs A
+ l Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050107@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261207T170000Z
+DTEND:20261207T190000Z
+SUMMARY:Esteghlal vs Neftchi Fargona — AFC Champions League Elite
+LOCATION:Basra International Stadium\, al-Baṣra (Basra)\, Iraq
+GEO:30.439928;47.779781
+URL:https://www.fotmob.com/match/6050107
+DESCRIPTION:⚽ استقلال × نيفتشي فرغانة\n🏆 دوري 
+ أبطال آسيا للنخبة — الجولة 6\n🗓 الاثنين 7
+  ديسمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Basra Internat
+ ional Stadium، al-Baṣra (Basra)\n—————\n⚽ Esteghlal v Neftc
+ hi Fargona\n🏆 AFC Champions League Elite — Matchday 6\n🗓 Mon 07 De
+ c 2026 · 17:00 UTC\n🏟 Basra International Stadium, al-Baṣra (Basra)\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: استقلال ضد نيفتشي فرغانة —
+  دوري أبطال آسيا للنخبة | Tomorrow: Esteghlal vs Neftch
+ i Fargona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: استقل
+ ال × نيفتشي فرغانة | Kick-off in 30 min: Esteghlal vs Neftc
+ hi Fargona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050118@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270209T144500Z
+DTEND:20270209T164500Z
+SUMMARY:Neftchi Fargona vs Al Ahli — AFC Champions League Elite
+LOCATION:Istiqlol stadioni\, Farg'ona (Fergana)\, Uzbekistan
+GEO:40.390534;71.749676
+URL:https://www.fotmob.com/match/6050118
+DESCRIPTION:⚽ نيفتشي فرغانة × الأهلي\n🏆 دوري أ
+ بطال آسيا للنخبة — الجولة 7\n🗓 الثلاثاء 9
+  فبراير 2027 · 17:45 بتوقيت الرياض\n🏟 Istiqlol stadi
+ oni، Farg'ona (Fergana)\n—————\n⚽ Neftchi Fargona v Al Ahli\n
+ 🏆 AFC Champions League Elite — Matchday 7\n🗓 Tue 09 Feb 2027 · 14
+ :45 UTC\n🏟 Istiqlol stadioni, Farg'ona (Fergana)\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيفتشي فرغانة ضد الأهلي — 
+ دوري أبطال آسيا للنخبة | Tomorrow: Neftchi Fargona vs A
+ l Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيفتش
+ ي فرغانة × الأهلي | Kick-off in 30 min: Neftchi Fargona vs A
+ l Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050124@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270215T191500Z
+DTEND:20270215T211500Z
+SUMMARY:Al Qadsiah vs Neftchi Fargona — AFC Champions League Elite
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/6050124
+DESCRIPTION:⚽ القادسية × نيفتشي فرغانة\n🏆 دور
+ ي أبطال آسيا للنخبة — الجولة 8\n🗓 الاثني
+ ن 15 فبراير 2027 · 22:15 بتوقيت الرياض\n🏟 Prince Mo
+ hammed Bin Fahd Stadium، Dammam\n—————\n⚽ Al Qadsiah v Neftch
+ i Fargona\n🏆 AFC Champions League Elite — Matchday 8\n🗓 Mon 15 Feb
+  2027 · 19:15 UTC\n🏟 Prince Mohammed Bin Fahd Stadium, Dammam\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد نيفتشي فرغانة 
+ — دوري أبطال آسيا للنخبة | Tomorrow: Al Qadsiah vs Ne
+ ftchi Fargona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × نيفتشي فرغانة | Kick-off in 30 min: Al Qadsiah vs Ne
+ ftchi Fargona
+END:VALARM
+END:VEVENT
+END:VCALENDAR

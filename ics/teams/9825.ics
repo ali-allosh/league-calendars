@@ -1,0 +1,1616 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Arsenal — Premier League & UEFA Champions League & FA Cu
+ p Fixtures | أرسنال — مباريات الدوري الإنجليز
+ ي الممتاز ودوري أبطال أوروبا وكأس الاتحا
+ د الإنجليزي
+X-WR-CALDESC:Arsenal — all matches in Premier League & UEFA Champions Lea
+ gue & FA Cup\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365score
+ s · auto-updated 2026-09-05T19:31:10Z.  •  أرسنال — جميع ا
+ لمباريات في الدوري الإنجليزي الممتاز ود
+ وري أبطال أوروبا وكأس الاتحاد الإنجليزي 
+ بتوقيت UTC الدقيق مع الملاعب والقنوات الن
+ اقلة. المصدر: FotMob + 365scores · تحديث تلقائي 2026
+ -09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5795363@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260821T190000Z
+DTEND:20260821T210000Z
+SUMMARY:Arsenal vs Coventry City (3 - 0) — Premier League
+LOCATION:Emirates Stadium\, London\, England
+GEO:51.555075;-0.108458
+URL:https://www.fotmob.com/match/5795363
+DESCRIPTION:⚽ أرسنال × كوفنتري سيتي (3 - 0)\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 1\n🗓 الج
+ معة 21 أغسطس 2026 · 22:00 بتوقيت الرياض\n🏟 Emirate
+ s Stadium، London\n⚖️ الحكم: Thomas Bramall\n👥 الحضور: 
+ 60,098\n—————\n⚽ Arsenal v Coventry City (3 - 0)\n🏆 Premier
+  League — Matchday 1\n🗓 Fri 21 Aug 2026 · 19:00 UTC\n🏟 Emirates S
+ tadium, London\nReferee: Thomas Bramall\nAttendance: 60,098\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد كوفنتري سيتي — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Arsenal vs Covent
+ ry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × كوفنتري سيتي | Kick-off in 30 min: Arsenal vs Coventry Ci
+ ty
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795426@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260831T190000Z
+DTEND:20260831T210000Z
+SUMMARY:Aston Villa vs Arsenal (0 - 1) — Premier League
+LOCATION:Villa Park\, Birmingham\, England
+GEO:52.509091;-1.884842
+URL:https://www.fotmob.com/match/5795426
+DESCRIPTION:⚽ أستون فيلا × أرسنال (0 - 1)\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 2\n🗓 الاثن
+ ين 31 أغسطس 2026 · 22:00 بتوقيت الرياض\n🏟 Villa Par
+ k، Birmingham\n⚖️ الحكم: Jarred Gillett\n—————\n⚽ As
+ ton Villa v Arsenal (0 - 1)\n🏆 Premier League — Matchday 2\n🗓 Mon 
+ 31 Aug 2026 · 19:00 UTC\n🏟 Villa Park, Birmingham\nReferee: Jarred Gil
+ lett\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد أرسنال — الد
+ وري الإنجليزي الممتاز | Tomorrow: Aston Villa vs Arsena
+ l
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × أرسنال | Kick-off in 30 min: Aston Villa vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795435@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260906T153000Z
+DTEND:20260906T173000Z
+SUMMARY:Arsenal vs Chelsea — Premier League
+LOCATION:Emirates Stadium\, London\, England
+GEO:51.555075;-0.108458
+URL:https://www.fotmob.com/match/5795435
+DESCRIPTION:⚽ أرسنال × تشيلسي\n🏆 الدوري الإنج
+ ليزي الممتاز — الجولة 3\n🗓 الأحد 6 سبتمبر
+  2026 · 18:30 بتوقيت الرياض\n🏟 Emirates Stadium، London\n
+ 📺 beIN SPORTS HD 1\n—————\n⚽ Arsenal v Chelsea\n🏆 Premie
+ r League — Matchday 3\n🗓 Sun 06 Sep 2026 · 15:30 UTC\n🏟 Emirates 
+ Stadium, London\n📺 beIN Sport 1 HD\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد تشيلسي — الدوري 
+ الإنجليزي الممتاز — 📺 beIN SPORTS HD 1 | Tomorrow: Ar
+ senal vs Chelsea | TV: beIN Sport 1 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × تشيلسي — 📺 beIN SPORTS HD 1 | Kick-off in 30 min: Arsenal
+  vs Chelsea | TV: beIN Sport 1 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795453@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T190000Z
+DTEND:20260912T210000Z
+SUMMARY:Sunderland vs Arsenal — Premier League
+LOCATION:Stadium of Light\, Sunderland\, England
+GEO:54.914422;-1.388177
+URL:https://www.fotmob.com/match/5795453
+DESCRIPTION:⚽ سندرلاند × أرسنال\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 4\n🗓 السبت 12 سبت
+ مبر 2026 · 22:00 بتوقيت الرياض\n🏟 Stadium of Light، Su
+ nderland\n📺 HBO Max (UK)، TNT Sports 1، TNT Sports Ultimate، USA Net
+ work، Telemundo، Fubo Sports CA، StarHub TV+، Astro Go\n————
+ —\n⚽ Sunderland v Arsenal\n🏆 Premier League — Matchday 4\n🗓 Sa
+ t 12 Sep 2026 · 19:00 UTC\n🏟 Stadium of Light, Sunderland\n📺 HBO Ma
+ x (UK), TNT Sports 1, TNT Sports Ultimate, USA Network, Telemundo, Fubo Sp
+ orts CA, StarHub TV+, Astro Go\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد أرسنال — الدور
+ ي الإنجليزي الممتاز — 📺 HBO Max (UK)، TNT Sports 1
+ ، TNT Sports Ultimate، USA Network، Telemundo، Fubo Sports CA، StarHu
+ b TV+، Astro Go | Tomorrow: Sunderland vs Arsenal | TV: HBO Max (UK)\, TN
+ T Sports 1\, TNT Sports Ultimate\, USA Network\, Telemundo\, Fubo Sports C
+ A\, StarHub TV+\, Astro Go
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × أرسنال — 📺 HBO Max (UK)، TNT Sports 1، TNT Sports U
+ ltimate، USA Network، Telemundo، Fubo Sports CA، StarHub TV+، Astro G
+ o | Kick-off in 30 min: Sunderland vs Arsenal | TV: HBO Max (UK)\, TNT Spo
+ rts 1\, TNT Sports Ultimate\, USA Network\, Telemundo\, Fubo Sports CA\, S
+ tarHub TV+\, Astro Go
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795457@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T140000Z
+DTEND:20260919T160000Z
+SUMMARY:Brighton & Hove Albion vs Arsenal — Premier League
+LOCATION:American Express Stadium\, Falmer\, East Sussex\, England
+GEO:50.861580;-0.083642
+URL:https://www.fotmob.com/match/5795457
+DESCRIPTION:⚽ برايتون × أرسنال\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 5\n🗓 السبت 19 سبتم
+ بر 2026 · 17:00 بتوقيت الرياض\n🏟 American Express Stadiu
+ m، Falmer, East Sussex\n—————\n⚽ Brighton & Hove Albion v Ars
+ enal\n🏆 Premier League — Matchday 5\n🗓 Sat 19 Sep 2026 · 14:00 UT
+ C\n🏟 American Express Stadium, Falmer, East Sussex\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برايتون ضد أرسنال — الدوري
+  الإنجليزي الممتاز | Tomorrow: Brighton & Hove Albion vs A
+ rsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برايت
+ ون × أرسنال | Kick-off in 30 min: Brighton & Hove Albion vs Arsen
+ al
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795465@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T113000Z
+DTEND:20261010T133000Z
+SUMMARY:Arsenal vs Leeds United — Premier League
+LOCATION:Emirates Stadium\, London\, England
+GEO:51.555075;-0.108458
+URL:https://www.fotmob.com/match/5795465
+DESCRIPTION:⚽ أرسنال × ليدز يونايتد\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 6\n🗓 السبت 10 
+ أكتوبر 2026 · 14:30 بتوقيت الرياض\n🏟 Emirates Stadiu
+ m، London\n—————\n⚽ Arsenal v Leeds United\n🏆 Premier Leag
+ ue — Matchday 6\n🗓 Sat 10 Oct 2026 · 11:30 UTC\n🏟 Emirates Stadiu
+ m, London\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد ليدز يونايتد — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Arsenal vs Leeds 
+ United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × ليدز يونايتد | Kick-off in 30 min: Arsenal vs Leeds Unite
+ d
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795483@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T153000Z
+DTEND:20261018T173000Z
+SUMMARY:Nottingham Forest vs Arsenal — Premier League
+LOCATION:The City Ground\, Nottingham\, Nottinghamshire\, England
+GEO:52.939913;-1.132894
+URL:https://www.fotmob.com/match/5795483
+DESCRIPTION:⚽ نوتنجهام فورست × أرسنال\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 7\n🗓 الأحد
+  18 أكتوبر 2026 · 18:30 بتوقيت الرياض\n🏟 The City Gr
+ ound، Nottingham, Nottinghamshire\n—————\n⚽ Nottingham Forest
+  v Arsenal\n🏆 Premier League — Matchday 7\n🗓 Sun 18 Oct 2026 · 15
+ :30 UTC\n🏟 The City Ground, Nottingham, Nottinghamshire\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد أرسنال —
+  الدوري الإنجليزي الممتاز | Tomorrow: Nottingham For
+ est vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × أرسنال | Kick-off in 30 min: Nottingham Forest 
+ vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795485@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Arsenal vs Everton — Premier League
+LOCATION:Emirates Stadium\, London\, England
+GEO:51.555075;-0.108458
+URL:https://www.fotmob.com/match/5795485
+DESCRIPTION:⚽ أرسنال × إيفرتون\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 8\n🗓 السبت 24 أكتو
+ بر 2026 · 17:00 بتوقيت الرياض\n🏟 Emirates Stadium، Lond
+ on\n—————\n⚽ Arsenal v Everton\n🏆 Premier League — Matchd
+ ay 8\n🗓 Sat 24 Oct 2026 · 14:00 UTC\n🏟 Emirates Stadium, London\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد إيفرتون — الدوري
+  الإنجليزي الممتاز | Tomorrow: Arsenal vs Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × إيفرتون | Kick-off in 30 min: Arsenal vs Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795501@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T163000Z
+DTEND:20261101T183000Z
+SUMMARY:Liverpool vs Arsenal — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795501
+DESCRIPTION:⚽ ليفربول × أرسنال\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 9\n🗓 الأحد 1 نوفمب
+ ر 2026 · 19:30 بتوقيت الرياض\n🏟 Anfield\n—————\
+ n⚽ Liverpool v Arsenal\n🏆 Premier League — Matchday 9\n🗓 Sun 01 
+ Nov 2026 · 16:30 UTC\n🏟 Anfield\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد أرسنال — الدوري
+  الإنجليزي الممتاز | Tomorrow: Liverpool vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × أرسنال | Kick-off in 30 min: Liverpool vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795505@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Arsenal vs Hull City — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795505
+DESCRIPTION:⚽ أرسنال × هال سيتي\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 10\n🗓 السبت 7 نوفم
+ بر 2026 · 18:00 بتوقيت الرياض\n🏟 Emirates Stadium\n—
+ ————\n⚽ Arsenal v Hull City\n🏆 Premier League — Matchday 10
+ \n🗓 Sat 07 Nov 2026 · 15:00 UTC\n🏟 Emirates Stadium\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد هال سيتي — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Arsenal vs Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × هال سيتي | Kick-off in 30 min: Arsenal vs Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795523@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:Newcastle United vs Arsenal — Premier League
+LOCATION:St James' Park
+URL:https://www.fotmob.com/match/5795523
+DESCRIPTION:⚽ نيوكاسل يونايتد × أرسنال\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 11\n🗓 الس
+ بت 21 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 St Jame
+ s' Park\n—————\n⚽ Newcastle United v Arsenal\n🏆 Premier Lea
+ gue — Matchday 11\n🗓 Sat 21 Nov 2026 · 15:00 UTC\n🏟 St James' Par
+ k\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل يونايتد ضد أرسنال 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Newcastle U
+ nited vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل يونايتد × أرسنال | Kick-off in 30 min: Newcastle United
+  vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795525@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:Arsenal vs Manchester City — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795525
+DESCRIPTION:⚽ أرسنال × مانشستر سيتي\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 12\n🗓 السبت 28 
+ نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Emirates Stadiu
+ m\n—————\n⚽ Arsenal v Manchester City\n🏆 Premier League —
+  Matchday 12\n🗓 Sat 28 Nov 2026 · 15:00 UTC\n🏟 Emirates Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد مانشستر سيتي — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Arsenal vs Manche
+ ster City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × مانشستر سيتي | Kick-off in 30 min: Arsenal vs Manchester 
+ City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795537@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Brentford vs Arsenal — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795537
+DESCRIPTION:⚽ برينتفورد × أرسنال\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 13\n🗓 الأربعاء 2
+  ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Gtech Communit
+ y Stadium\n—————\n⚽ Brentford v Arsenal\n🏆 Premier League 
+ — Matchday 13\n🗓 Wed 02 Dec 2026 · 20:00 UTC\n🏟 Gtech Community S
+ tadium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد أرسنال — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Brentford vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × أرسنال | Kick-off in 30 min: Brentford vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795554@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Tottenham Hotspur vs Arsenal — Premier League
+LOCATION:Tottenham Hotspur Stadium
+URL:https://www.fotmob.com/match/5795554
+DESCRIPTION:⚽ توتنهام هوتسبر × أرسنال\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 14\n🗓 السب
+ ت 5 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Tottenham 
+ Hotspur Stadium\n—————\n⚽ Tottenham Hotspur v Arsenal\n🏆 Pr
+ emier League — Matchday 14\n🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 Tott
+ enham Hotspur Stadium\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توتنهام هوتسبر ضد أرسنال —
+  الدوري الإنجليزي الممتاز | Tomorrow: Tottenham Hots
+ pur vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توتنه
+ ام هوتسبر × أرسنال | Kick-off in 30 min: Tottenham Hotspur 
+ vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795555@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Arsenal vs AFC Bournemouth — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795555
+DESCRIPTION:⚽ أرسنال × بورنموث\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 15\n🗓 السبت 12 ديسم
+ بر 2026 · 18:00 بتوقيت الرياض\n🏟 Emirates Stadium\n—
+ ————\n⚽ Arsenal v AFC Bournemouth\n🏆 Premier League — Match
+ day 15\n🗓 Sat 12 Dec 2026 · 15:00 UTC\n🏟 Emirates Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد بورنموث — الدوري
+  الإنجليزي الممتاز | Tomorrow: Arsenal vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × بورنموث | Kick-off in 30 min: Arsenal vs AFC Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795566@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:Arsenal vs Manchester United — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795566
+DESCRIPTION:⚽ أرسنال × مانشستر يونايتد\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 16\n🗓 الس
+ بت 19 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Emirate
+ s Stadium\n—————\n⚽ Arsenal v Manchester United\n🏆 Premier 
+ League — Matchday 16\n🗓 Sat 19 Dec 2026 · 15:00 UTC\n🏟 Emirates S
+ tadium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد مانشستر يونايتد 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Arsenal vs 
+ Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × مانشستر يونايتد | Kick-off in 30 min: Arsenal vs Manch
+ ester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795577@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261226T150000Z
+DTEND:20261226T170000Z
+SUMMARY:Crystal Palace vs Arsenal — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795577
+DESCRIPTION:⚽ كريستال بالاس × أرسنال\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 17\n🗓 السبت 
+ 26 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Selhurst Par
+ k\n—————\n⚽ Crystal Palace v Arsenal\n🏆 Premier League — 
+ Matchday 17\n🗓 Sat 26 Dec 2026 · 15:00 UTC\n🏟 Selhurst Park\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد أرسنال — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Crystal Palace 
+ vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × أرسنال | Kick-off in 30 min: Crystal Palace vs Ar
+ senal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795589@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261230T200000Z
+DTEND:20261230T220000Z
+SUMMARY:Fulham vs Arsenal — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795589
+DESCRIPTION:⚽ فولهام × أرسنال\n🏆 الدوري الإنج
+ ليزي الممتاز — الجولة 18\n🗓 الأربعاء 30 دي
+ سمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Craven Cottage\n—
+ ————\n⚽ Fulham v Arsenal\n🏆 Premier League — Matchday 18\n
+ 🗓 Wed 30 Dec 2026 · 20:00 UTC\n🏟 Craven Cottage\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد أرسنال — الدوري 
+ الإنجليزي الممتاز | Tomorrow: Fulham vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × أرسنال | Kick-off in 30 min: Fulham vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795596@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T150000Z
+DTEND:20270102T170000Z
+SUMMARY:Arsenal vs Ipswich Town — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795596
+DESCRIPTION:⚽ أرسنال × إبسويتش تاون\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 19\n🗓 السبت 2 
+ يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Emirates Stadium\
+ n—————\n⚽ Arsenal v Ipswich Town\n🏆 Premier League — Matc
+ hday 19\n🗓 Sat 02 Jan 2027 · 15:00 UTC\n🏟 Emirates Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد إبسويتش تاون — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Arsenal vs Ipswic
+ h Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × إبسويتش تاون | Kick-off in 30 min: Arsenal vs Ipswich Tow
+ n
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795605@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T200000Z
+DTEND:20270106T220000Z
+SUMMARY:Arsenal vs Brentford — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795605
+DESCRIPTION:⚽ أرسنال × برينتفورد\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 20\n🗓 الأربعاء 6
+  يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Emirates Stadium
+ \n—————\n⚽ Arsenal v Brentford\n🏆 Premier League — Matchd
+ ay 20\n🗓 Wed 06 Jan 2027 · 20:00 UTC\n🏟 Emirates Stadium\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد برينتفورد — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Arsenal vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × برينتفورد | Kick-off in 30 min: Arsenal vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795620@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:Hull City vs Arsenal — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795620
+DESCRIPTION:⚽ هال سيتي × أرسنال\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 21\n🗓 السبت 16 يناي
+ ر 2027 · 18:00 بتوقيت الرياض\n🏟 The MKM Stadium\n——
+ ———\n⚽ Hull City v Arsenal\n🏆 Premier League — Matchday 21\n
+ 🗓 Sat 16 Jan 2027 · 15:00 UTC\n🏟 The MKM Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد أرسنال — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Hull City vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × أرسنال | Kick-off in 30 min: Hull City vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795625@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:Arsenal vs Newcastle United — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795625
+DESCRIPTION:⚽ أرسنال × نيوكاسل يونايتد\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 22\n🗓 الس
+ بت 23 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Emirates 
+ Stadium\n—————\n⚽ Arsenal v Newcastle United\n🏆 Premier Lea
+ gue — Matchday 22\n🗓 Sat 23 Jan 2027 · 15:00 UTC\n🏟 Emirates Stad
+ ium\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد نيوكاسل يونايتد 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Arsenal vs 
+ Newcastle United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × نيوكاسل يونايتد | Kick-off in 30 min: Arsenal vs Newca
+ stle United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795642@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Manchester City vs Arsenal — Premier League
+LOCATION:Etihad Stadium
+URL:https://www.fotmob.com/match/5795642
+DESCRIPTION:⚽ مانشستر سيتي × أرسنال\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 23\n🗓 السبت 30 
+ يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Etihad Stadium\n
+ —————\n⚽ Manchester City v Arsenal\n🏆 Premier League — Ma
+ tchday 23\n🗓 Sat 30 Jan 2027 · 15:00 UTC\n🏟 Etihad Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد أرسنال — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Manchester City v
+ s Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × أرسنال | Kick-off in 30 min: Manchester City vs Ars
+ enal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795645@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Arsenal vs Liverpool — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795645
+DESCRIPTION:⚽ أرسنال × ليفربول\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 24\n🗓 السبت 6 فبرا
+ ير 2027 · 18:00 بتوقيت الرياض\n🏟 Emirates Stadium\n—
+ ————\n⚽ Arsenal v Liverpool\n🏆 Premier League — Matchday 24
+ \n🗓 Sat 06 Feb 2027 · 15:00 UTC\n🏟 Emirates Stadium\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد ليفربول — الدوري
+  الإنجليزي الممتاز | Tomorrow: Arsenal vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × ليفربول | Kick-off in 30 min: Arsenal vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795661@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270210T200000Z
+DTEND:20270210T220000Z
+SUMMARY:Ipswich Town vs Arsenal — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795661
+DESCRIPTION:⚽ إبسويتش تاون × أرسنال\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 25\n🗓 الأربعا
+ ء 10 فبراير 2027 · 23:00 بتوقيت الرياض\n🏟 Portman R
+ oad\n—————\n⚽ Ipswich Town v Arsenal\n🏆 Premier League — 
+ Matchday 25\n🗓 Wed 10 Feb 2027 · 20:00 UTC\n🏟 Portman Road\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد أرسنال — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Ipswich Town vs A
+ rsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × أرسنال | Kick-off in 30 min: Ipswich Town vs Arsena
+ l
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795666@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:Arsenal vs Fulham — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795666
+DESCRIPTION:⚽ أرسنال × فولهام\n🏆 الدوري الإنج
+ ليزي الممتاز — الجولة 26\n🗓 السبت 20 فبراي
+ ر 2027 · 18:00 بتوقيت الرياض\n🏟 Emirates Stadium\n——
+ ———\n⚽ Arsenal v Fulham\n🏆 Premier League — Matchday 26\n🗓
+  Sat 20 Feb 2027 · 15:00 UTC\n🏟 Emirates Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد فولهام — الدوري 
+ الإنجليزي الممتاز | Tomorrow: Arsenal vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × فولهام | Kick-off in 30 min: Arsenal vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795682@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T150000Z
+DTEND:20270227T170000Z
+SUMMARY:Manchester United vs Arsenal — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795682
+DESCRIPTION:⚽ مانشستر يونايتد × أرسنال\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 27\n🗓 الس
+ بت 27 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Old Tra
+ fford\n—————\n⚽ Manchester United v Arsenal\n🏆 Premier Leag
+ ue — Matchday 27\n🗓 Sat 27 Feb 2027 · 15:00 UTC\n🏟 Old Trafford\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد أرسنال 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Manchester 
+ United vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × أرسنال | Kick-off in 30 min: Manchester Unite
+ d vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795686@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270303T200000Z
+DTEND:20270303T220000Z
+SUMMARY:Arsenal vs Crystal Palace — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795686
+DESCRIPTION:⚽ أرسنال × كريستال بالاس\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 28\n🗓 الأرب
+ عاء 3 مارس 2027 · 23:00 بتوقيت الرياض\n🏟 Emirates S
+ tadium\n—————\n⚽ Arsenal v Crystal Palace\n🏆 Premier League
+  — Matchday 28\n🗓 Wed 03 Mar 2027 · 20:00 UTC\n🏟 Emirates Stadium
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد كريستال بالاس — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Arsenal vs Crys
+ tal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × كريستال بالاس | Kick-off in 30 min: Arsenal vs Crystal P
+ alace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795697@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T150000Z
+DTEND:20270313T170000Z
+SUMMARY:Chelsea vs Arsenal — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795697
+DESCRIPTION:⚽ تشيلسي × أرسنال\n🏆 الدوري الإنج
+ ليزي الممتاز — الجولة 29\n🗓 السبت 13 مارس 2
+ 027 · 18:00 بتوقيت الرياض\n🏟 Stamford Bridge\n————
+ —\n⚽ Chelsea v Arsenal\n🏆 Premier League — Matchday 29\n🗓 Sat 
+ 13 Mar 2027 · 15:00 UTC\n🏟 Stamford Bridge\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد أرسنال — الدوري 
+ الإنجليزي الممتاز | Tomorrow: Chelsea vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × أرسنال | Kick-off in 30 min: Chelsea vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795705@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T150000Z
+DTEND:20270320T170000Z
+SUMMARY:Arsenal vs Sunderland — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795705
+DESCRIPTION:⚽ أرسنال × سندرلاند\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 30\n🗓 السبت 20 مار
+ س 2027 · 18:00 بتوقيت الرياض\n🏟 Emirates Stadium\n——
+ ———\n⚽ Arsenal v Sunderland\n🏆 Premier League — Matchday 30\n
+ 🗓 Sat 20 Mar 2027 · 15:00 UTC\n🏟 Emirates Stadium\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد سندرلاند — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Arsenal vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × سندرلاند | Kick-off in 30 min: Arsenal vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795718@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T140000Z
+DTEND:20270410T160000Z
+SUMMARY:Coventry City vs Arsenal — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795718
+DESCRIPTION:⚽ كوفنتري سيتي × أرسنال\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 31\n🗓 السبت 10 
+ أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 Coventry Building
+  Society Arena\n—————\n⚽ Coventry City v Arsenal\n🏆 Premier
+  League — Matchday 31\n🗓 Sat 10 Apr 2027 · 14:00 UTC\n🏟 Coventry 
+ Building Society Arena\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد أرسنال — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Coventry City vs 
+ Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × أرسنال | Kick-off in 30 min: Coventry City vs Arsen
+ al
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795725@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T140000Z
+DTEND:20270417T160000Z
+SUMMARY:Arsenal vs Aston Villa — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795725
+DESCRIPTION:⚽ أرسنال × أستون فيلا\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 32\n🗓 السبت 17 أب
+ ريل 2027 · 17:00 بتوقيت الرياض\n🏟 Emirates Stadium\n—
+ ————\n⚽ Arsenal v Aston Villa\n🏆 Premier League — Matchday 
+ 32\n🗓 Sat 17 Apr 2027 · 14:00 UTC\n🏟 Emirates Stadium\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد أستون فيلا — الد
+ وري الإنجليزي الممتاز | Tomorrow: Arsenal vs Aston Vill
+ a
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × أستون فيلا | Kick-off in 30 min: Arsenal vs Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795735@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T140000Z
+DTEND:20270424T160000Z
+SUMMARY:AFC Bournemouth vs Arsenal — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795735
+DESCRIPTION:⚽ بورنموث × أرسنال\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 33\n🗓 السبت 24 أبري
+ ل 2027 · 17:00 بتوقيت الرياض\n🏟 Vitality Stadium\n——
+ ———\n⚽ AFC Bournemouth v Arsenal\n🏆 Premier League — Matchday
+  33\n🗓 Sat 24 Apr 2027 · 14:00 UTC\n🏟 Vitality Stadium\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد أرسنال — الدوري
+  الإنجليزي الممتاز | Tomorrow: AFC Bournemouth vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × أرسنال | Kick-off in 30 min: AFC Bournemouth vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795745@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T140000Z
+DTEND:20270501T160000Z
+SUMMARY:Arsenal vs Tottenham Hotspur — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795745
+DESCRIPTION:⚽ أرسنال × توتنهام هوتسبر\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 34\n🗓 السب
+ ت 1 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Emirates Stadi
+ um\n—————\n⚽ Arsenal v Tottenham Hotspur\n🏆 Premier League 
+ — Matchday 34\n🗓 Sat 01 May 2027 · 14:00 UTC\n🏟 Emirates Stadium\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد توتنهام هوتسبر —
+  الدوري الإنجليزي الممتاز | Tomorrow: Arsenal vs Tot
+ tenham Hotspur
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × توتنهام هوتسبر | Kick-off in 30 min: Arsenal vs Tottenh
+ am Hotspur
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795773@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T140000Z
+DTEND:20270508T160000Z
+SUMMARY:Leeds United vs Arsenal — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795773
+DESCRIPTION:⚽ ليدز يونايتد × أرسنال\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 35\n🗓 السبت 8 
+ مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Elland Road\n——
+ ———\n⚽ Leeds United v Arsenal\n🏆 Premier League — Matchday 35
+ \n🗓 Sat 08 May 2027 · 14:00 UTC\n🏟 Elland Road\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد أرسنال — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Leeds United vs A
+ rsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × أرسنال | Kick-off in 30 min: Leeds United vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795778@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T140000Z
+DTEND:20270515T160000Z
+SUMMARY:Arsenal vs Nottingham Forest — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795778
+DESCRIPTION:⚽ أرسنال × نوتنجهام فورست\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 36\n🗓 السب
+ ت 15 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Emirates Stad
+ ium\n—————\n⚽ Arsenal v Nottingham Forest\n🏆 Premier League
+  — Matchday 36\n🗓 Sat 15 May 2027 · 14:00 UTC\n🏟 Emirates Stadium
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد نوتنجهام فورست —
+  الدوري الإنجليزي الممتاز | Tomorrow: Arsenal vs Not
+ tingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × نوتنجهام فورست | Kick-off in 30 min: Arsenal vs Notting
+ ham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795791@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T140000Z
+DTEND:20270523T160000Z
+SUMMARY:Everton vs Arsenal — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795791
+DESCRIPTION:⚽ إيفرتون × أرسنال\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 37\n🗓 الأحد 23 مايو
+  2027 · 17:00 بتوقيت الرياض\n🏟 Hill Dickinson Stadium\n—
+ ————\n⚽ Everton v Arsenal\n🏆 Premier League — Matchday 37\n
+ 🗓 Sun 23 May 2027 · 14:00 UTC\n🏟 Hill Dickinson Stadium\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد أرسنال — الدوري
+  الإنجليزي الممتاز | Tomorrow: Everton vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × أرسنال | Kick-off in 30 min: Everton vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795798@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T150000Z
+DTEND:20270530T170000Z
+SUMMARY:Arsenal vs Brighton & Hove Albion — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795798
+DESCRIPTION:⚽ أرسنال × برايتون\n🏆 الدوري الإن
+ جليزي الممتاز — الجولة 38\n🗓 الأحد 30 مايو
+  2027 · 18:00 بتوقيت الرياض\n🏟 Emirates Stadium\n———
+ ——\n⚽ Arsenal v Brighton & Hove Albion\n🏆 Premier League — Matc
+ hday 38\n🗓 Sun 30 May 2027 · 15:00 UTC\n🏟 Emirates Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد برايتون — الدوري
+  الإنجليزي الممتاز | Tomorrow: Arsenal vs Brighton & Hove 
+ Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × برايتون | Kick-off in 30 min: Arsenal vs Brighton & Hove Albi
+ on
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106318@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260909T190000Z
+DTEND:20260909T210000Z
+SUMMARY:Napoli vs Arsenal — UEFA Champions League
+LOCATION:Stadio Diego Armando Maradona\, Napoli\, Italy
+GEO:40.827974;14.192930
+URL:https://www.fotmob.com/match/6106318
+DESCRIPTION:⚽ نابولي × أرسنال\n🏆 دوري أبطال أو
+ روبا — الجولة 1\n🗓 الأربعاء 9 سبتمبر 2026 · 
+ 22:00 بتوقيت الرياض\n🏟 Stadio Diego Armando Maradona، Napo
+ li\n📺 HBO Max (UK)، Paramount+ (US)\n—————\n⚽ Napoli v Ars
+ enal\n🏆 UEFA Champions League — Matchday 1\n🗓 Wed 09 Sep 2026 · 1
+ 9:00 UTC\n🏟 Stadio Diego Armando Maradona, Napoli\n📺 HBO Max (UK), P
+ aramount+ (US)\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد أرسنال — دوري أب
+ طال أوروبا — 📺 HBO Max (UK)، Paramount+ (US) | Tomorrow: Na
+ poli vs Arsenal | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × أرسنال — 📺 HBO Max (UK)، Paramount+ (US) | Kick-off in 3
+ 0 min: Napoli vs Arsenal | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106260@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Arsenal vs Lille — UEFA Champions League
+LOCATION:Emirates Stadium\, London\, England
+GEO:51.555075;-0.108458
+URL:https://www.fotmob.com/match/6106260
+DESCRIPTION:⚽ أرسنال × ليل\n🏆 دوري أبطال أوروب
+ ا — الجولة 2\n🗓 الثلاثاء 13 أكتوبر 2026 · 22:00
+  بتوقيت الرياض\n🏟 Emirates Stadium، London\n————
+ —\n⚽ Arsenal v Lille\n🏆 UEFA Champions League — Matchday 2\n🗓 
+ Tue 13 Oct 2026 · 19:00 UTC\n🏟 Emirates Stadium, London\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد ليل — دوري أبطال 
+ أوروبا | Tomorrow: Arsenal vs Lille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × ليل | Kick-off in 30 min: Arsenal vs Lille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106238@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+SUMMARY:Bayern München vs Arsenal — UEFA Champions League
+LOCATION:Allianz Arena\, München\, Germany
+GEO:48.218779;11.624743
+URL:https://www.fotmob.com/match/6106238
+DESCRIPTION:⚽ بايرن ميونخ × أرسنال\n🏆 دوري أبط
+ ال أوروبا — الجولة 3\n🗓 الأربعاء 21 أكتوب
+ ر 2026 · 22:00 بتوقيت الرياض\n🏟 Allianz Arena، München\
+ n—————\n⚽ Bayern München v Arsenal\n🏆 UEFA Champions Leagu
+ e — Matchday 3\n🗓 Wed 21 Oct 2026 · 19:00 UTC\n🏟 Allianz Arena, M
+ ünchen\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد أرسنال — دو
+ ري أبطال أوروبا | Tomorrow: Bayern München vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × أرسنال | Kick-off in 30 min: Bayern München vs Arsena
+ l
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106389@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+SUMMARY:Slavia Prague vs Arsenal — UEFA Champions League
+LOCATION:Fortuna Arena
+URL:https://www.fotmob.com/match/6106389
+DESCRIPTION:⚽ سلافيا براغ × أرسنال\n🏆 دوري أبط
+ ال أوروبا — الجولة 4\n🗓 الأربعاء 4 نوفمبر
+  2026 · 23:00 بتوقيت الرياض\n🏟 Fortuna Arena\n————
+ —\n⚽ Slavia Prague v Arsenal\n🏆 UEFA Champions League — Matchday 
+ 4\n🗓 Wed 04 Nov 2026 · 20:00 UTC\n🏟 Fortuna Arena\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سلافيا براغ ضد أرسنال — دو
+ ري أبطال أوروبا | Tomorrow: Slavia Prague vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سلافي
+ ا براغ × أرسنال | Kick-off in 30 min: Slavia Prague vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106259@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+SUMMARY:Arsenal vs Borussia Dortmund — UEFA Champions League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/6106259
+DESCRIPTION:⚽ أرسنال × بوروسيا دورتموند\n🏆 دو
+ ري أبطال أوروبا — الجولة 5\n🗓 الثلاثاء 24 
+ نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Emirates Stadiu
+ m\n—————\n⚽ Arsenal v Borussia Dortmund\n🏆 UEFA Champions L
+ eague — Matchday 5\n🗓 Tue 24 Nov 2026 · 20:00 UTC\n🏟 Emirates Sta
+ dium\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد بوروسيا دورتموند
+  — دوري أبطال أوروبا | Tomorrow: Arsenal vs Borussia Dort
+ mund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × بوروسيا دورتموند | Kick-off in 30 min: Arsenal vs Bor
+ ussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106258@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:Arsenal vs Real Madrid — UEFA Champions League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/6106258
+DESCRIPTION:⚽ أرسنال × ريال مدريد\n🏆 دوري أبطا
+ ل أوروبا — الجولة 6\n🗓 الأربعاء 9 ديسمبر 2
+ 026 · 23:00 بتوقيت الرياض\n🏟 Emirates Stadium\n———
+ ——\n⚽ Arsenal v Real Madrid\n🏆 UEFA Champions League — Matchday
+  6\n🗓 Wed 09 Dec 2026 · 20:00 UTC\n🏟 Emirates Stadium\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد ريال مدريد — دور
+ ي أبطال أوروبا | Tomorrow: Arsenal vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × ريال مدريد | Kick-off in 30 min: Arsenal vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106298@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+SUMMARY:Real Betis vs Arsenal — UEFA Champions League
+LOCATION:Estadio Benito Villamarin
+URL:https://www.fotmob.com/match/6106298
+DESCRIPTION:⚽ ريال بيتيس × أرسنال\n🏆 دوري أبطا
+ ل أوروبا — الجولة 7\n🗓 الأربعاء 20 يناير 20
+ 27 · 23:00 بتوقيت الرياض\n🏟 Estadio Benito Villamarin\n—
+ ————\n⚽ Real Betis v Arsenal\n🏆 UEFA Champions League — Mat
+ chday 7\n🗓 Wed 20 Jan 2027 · 20:00 UTC\n🏟 Estadio Benito Villamarin
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد أرسنال — دور
+ ي أبطال أوروبا | Tomorrow: Real Betis vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × أرسنال | Kick-off in 30 min: Real Betis vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106261@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Arsenal vs Sabah FK — UEFA Champions League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/6106261
+DESCRIPTION:⚽ أرسنال × صباح\n🏆 دوري أبطال أورو
+ با — الجولة 8\n🗓 الأربعاء 27 يناير 2027 · 23:00
+  بتوقيت الرياض\n🏟 Emirates Stadium\n—————\n⚽ Ar
+ senal v Sabah FK\n🏆 UEFA Champions League — Matchday 8\n🗓 Wed 27 J
+ an 2027 · 20:00 UTC\n🏟 Emirates Stadium\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد صباح — دوري أبطا
+ ل أوروبا | Tomorrow: Arsenal vs Sabah FK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × صباح | Kick-off in 30 min: Arsenal vs Sabah FK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089909@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260111T140000Z
+DTEND:20260111T160000Z
+SUMMARY:Portsmouth vs Arsenal (1 - 4) — FA Cup
+LOCATION:Fratton Park\, Portsmouth\, England
+GEO:50.796347;-1.063804
+URL:https://www.fotmob.com/match/5089909
+DESCRIPTION:⚽ Portsmouth × أرسنال (1 - 4)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الثالث\n🗓 الأحد 11 ي
+ ناير 2026 · 17:00 بتوقيت الرياض\n🏟 Fratton Park، Port
+ smouth\n⚖️ الحكم: Tony Harrington\n👥 الحضور: 20,611\n—
+ ————\n⚽ Portsmouth v Arsenal (1 - 4)\n🏆 FA Cup — Round 3\n
+ 🗓 Sun 11 Jan 2026 · 14:00 UTC\n🏟 Fratton Park, Portsmouth\nReferee:
+  Tony Harrington\nAttendance: 20,611\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Portsmouth ضد أرسنال — كأس الات
+ حاد الإنجليزي | Tomorrow: Portsmouth vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Portsmouth 
+ × أرسنال | Kick-off in 30 min: Portsmouth vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135166@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260215T163000Z
+DTEND:20260215T183000Z
+SUMMARY:Arsenal vs Wigan Athletic (4 - 0) — FA Cup
+LOCATION:Emirates Stadium\, London\, England
+GEO:51.555075;-0.108458
+URL:https://www.fotmob.com/match/5135166
+DESCRIPTION:⚽ أرسنال × Wigan Athletic (4 - 0)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الرابع\n🗓 الأحد 1
+ 5 فبراير 2026 · 19:30 بتوقيت الرياض\n🏟 Emirates Stad
+ ium، London\n⚖️ الحكم: Tim Robinson\n👥 الحضور: 59,996\n
+ —————\n⚽ Arsenal v Wigan Athletic (4 - 0)\n🏆 FA Cup — Rou
+ nd 4\n🗓 Sun 15 Feb 2026 · 16:30 UTC\n🏟 Emirates Stadium, London\nRe
+ feree: Tim Robinson\nAttendance: 59,996\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد Wigan Athletic — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Arsenal vs Wigan Athletic
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × Wigan Athletic | Kick-off in 30 min: Arsenal vs Wigan Athletic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5186382@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260307T121500Z
+DTEND:20260307T141500Z
+SUMMARY:Mansfield Town vs Arsenal (1 - 2) — FA Cup
+LOCATION:One Call Stadium\, Mansfield\, Nottinghamshire\, England
+GEO:53.138057;-1.200777
+URL:https://www.fotmob.com/match/5186382
+DESCRIPTION:⚽ Mansfield Town × أرسنال (1 - 2)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الخامس\n🗓 السبت 7
+  مارس 2026 · 15:15 بتوقيت الرياض\n🏟 One Call Stadium،
+  Mansfield, Nottinghamshire\n⚖️ الحكم: Thomas Bramall\n👥 ال
+ حضور: 9,260\n—————\n⚽ Mansfield Town v Arsenal (1 - 2)\n
+ 🏆 FA Cup — Round 5\n🗓 Sat 07 Mar 2026 · 12:15 UTC\n🏟 One Call 
+ Stadium, Mansfield, Nottinghamshire\nReferee: Thomas Bramall\nAttendance: 
+ 9,260\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Mansfield Town ضد أرسنال — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Mansfield Town vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Mansfield T
+ own × أرسنال | Kick-off in 30 min: Mansfield Town vs Arsenal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5231045@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260404T190000Z
+DTEND:20260404T210000Z
+SUMMARY:Southampton vs Arsenal (2 - 1) — FA Cup
+LOCATION:St. Mary's Stadium\, Southampton\, Hampshire\, England
+GEO:50.905895;-1.391047
+URL:https://www.fotmob.com/match/5231045
+DESCRIPTION:⚽ ساوثهامبتون × أرسنال (2 - 1)\n🏆 كأس
+  الاتحاد الإنجليزي — ربع النهائي\n🗓 الس
+ بت 4 أبريل 2026 · 22:00 بتوقيت الرياض\n🏟 St. Mary's
+  Stadium، Southampton, Hampshire\n⚖️ الحكم: Samuel Barrott\n👥
+  الحضور: 31,067\n—————\n⚽ Southampton v Arsenal (2 - 1)\
+ n🏆 FA Cup — Quarter-Finals\n🗓 Sat 04 Apr 2026 · 19:00 UTC\n🏟 S
+ t. Mary's Stadium, Southampton, Hampshire\nReferee: Samuel Barrott\nAttend
+ ance: 31,067\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساوثهامبتون ضد أرسنال — كأ
+ س الاتحاد الإنجليزي | Tomorrow: Southampton vs Arsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساوثه
+ امبتون × أرسنال | Kick-off in 30 min: Southampton vs Arsenal
+END:VALARM
+END:VEVENT
+END:VCALENDAR

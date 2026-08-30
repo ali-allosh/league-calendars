@@ -1,0 +1,628 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Smouha SC — Egyptian Premier League Fixtures | سموح
+ ة — مباريات الدوري المصري الممتاز
+X-WR-CALDESC:Smouha SC — all matches in Egyptian Premier League\, exact U
+ TC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026
+ -09-05T19:31:10Z.  •  سموحة — جميع المباريات في ا
+ لدوري المصري الممتاز بتوقيت UTC الدقيق مع 
+ الملاعب والقنوات الناقلة. المصدر: FotMob + 365
+ scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5995576@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260822T170000Z
+DTEND:20260822T190000Z
+SUMMARY:Al Masry SC vs Smouha SC (1 - 0) — Egyptian Premier League
+LOCATION:New Suez Stadium\, as-Suways (Suez)\, Egypt
+GEO:29.957607;32.542577
+URL:https://www.fotmob.com/match/5995576
+DESCRIPTION:⚽ المصري × سموحة (1 - 0)\n🏆 الدوري ال
+ مصري الممتاز — الجولة 1\n🗓 السبت 22 أغسطس 
+ 2026 · 20:00 بتوقيت الرياض\n🏟 New Suez Stadium، as-Suways
+  (Suez)\n⚖️ الحكم: Mohamed El Ghazi\n—————\n⚽ Al Masr
+ y SC v Smouha SC (1 - 0)\n🏆 Egyptian Premier League — Matchday 1\n
+ 🗓 Sat 22 Aug 2026 · 17:00 UTC\n🏟 New Suez Stadium, as-Suways (Suez)
+ \nReferee: Mohamed El Ghazi\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المصري ضد سموحة — الدوري ا
+ لمصري الممتاز | Tomorrow: Al Masry SC vs Smouha SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المصر
+ ي × سموحة | Kick-off in 30 min: Al Masry SC vs Smouha SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996692@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260826T140000Z
+DTEND:20260826T160000Z
+SUMMARY:Smouha SC vs Asyut Petroleum (0 - 0) — Egyptian Premier League
+LOCATION:Borg El Arab Stadium\, Al-Iskandarîah (Alexandria)\, Egypt
+GEO:30.999499;29.729433
+URL:https://www.fotmob.com/match/5996692
+DESCRIPTION:⚽ سموحة × أسيوط بتروليوم (0 - 0)\n🏆 ا
+ لدوري المصري الممتاز — الجولة 2\n🗓 الأرب
+ عاء 26 أغسطس 2026 · 17:00 بتوقيت الرياض\n🏟 Borg El
+  Arab Stadium، Al-Iskandarîah (Alexandria)\n⚖️ الحكم: Abdelaziz
+  El Sayed\n—————\n⚽ Smouha SC v Asyut Petroleum (0 - 0)\n🏆 
+ Egyptian Premier League — Matchday 2\n🗓 Wed 26 Aug 2026 · 14:00 UTC\
+ n🏟 Borg El Arab Stadium, Al-Iskandarîah (Alexandria)\nReferee: Abdelaz
+ iz El Sayed\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سموحة ضد أسيوط بتروليوم — 
+ الدوري المصري الممتاز | Tomorrow: Smouha SC vs Asyut Pe
+ troleum
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سموحة 
+ × أسيوط بتروليوم | Kick-off in 30 min: Smouha SC vs Asyut Pe
+ troleum
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996707@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260903T170000Z
+DTEND:20260903T190000Z
+SUMMARY:Al Ahly SC vs Smouha SC (1 - 0) — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996707
+DESCRIPTION:⚽ الأهلي × سموحة (1 - 0)\n🏆 الدوري ال
+ مصري الممتاز — الجولة 3\n🗓 الخميس 3 سبتمب
+ ر 2026 · 20:00 بتوقيت الرياض\n🏟 Cairo International Stadi
+ um، al-Qāhirah (Cairo)\n⚖️ الحكم: Amin Mohamed Omar\n———
+ ——\n⚽ Al Ahly SC v Smouha SC (1 - 0)\n🏆 Egyptian Premier League 
+ — Matchday 3\n🗓 Thu 03 Sep 2026 · 17:00 UTC\n🏟 Cairo Internationa
+ l Stadium, al-Qāhirah (Cairo)\nReferee: Amin Mohamed Omar\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد سموحة — الدوري ا
+ لمصري الممتاز | Tomorrow: Al Ahly SC vs Smouha SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × سموحة | Kick-off in 30 min: Al Ahly SC vs Smouha SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996717@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260908T170000Z
+DTEND:20260908T190000Z
+SUMMARY:Smouha SC vs Ceramica Cleopatra — Egyptian Premier League
+LOCATION:Borg El Arab Stadium\, Al-Iskandarîah (Alexandria)\, Egypt
+GEO:30.999499;29.729433
+URL:https://www.fotmob.com/match/5996717
+DESCRIPTION:⚽ سموحة × سيراميكا كليوباترا\n🏆 ا
+ لدوري المصري الممتاز — الجولة 4\n🗓 الثلا
+ ثاء 8 سبتمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Borg E
+ l Arab Stadium، Al-Iskandarîah (Alexandria)\n—————\n⚽ Smouha
+  SC v Ceramica Cleopatra\n🏆 Egyptian Premier League — Matchday 4\n
+ 🗓 Tue 08 Sep 2026 · 17:00 UTC\n🏟 Borg El Arab Stadium, Al-Iskandar
+ îah (Alexandria)\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سموحة ضد سيراميكا كليوباتر
+ ا — الدوري المصري الممتاز | Tomorrow: Smouha SC vs C
+ eramica Cleopatra
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سموحة 
+ × سيراميكا كليوباترا | Kick-off in 30 min: Smouha SC vs 
+ Ceramica Cleopatra
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996722@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260914T140000Z
+DTEND:20260914T160000Z
+SUMMARY:Tala'ea El Gaish vs Smouha SC — Egyptian Premier League
+LOCATION:Gehaz El Reyada Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.081149;31.303520
+URL:https://www.fotmob.com/match/5996722
+DESCRIPTION:⚽ طلائع الجيش × سموحة\n🏆 الدوري ال
+ مصري الممتاز — الجولة 5\n🗓 الاثنين 14 سبت
+ مبر 2026 · 17:00 بتوقيت الرياض\n🏟 Gehaz El Reyada Stadi
+ um، al-Qāhirah (Cairo)\n—————\n⚽ Tala'ea El Gaish v Smouha S
+ C\n🏆 Egyptian Premier League — Matchday 5\n🗓 Mon 14 Sep 2026 · 14
+ :00 UTC\n🏟 Gehaz El Reyada Stadium, al-Qāhirah (Cairo)\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: طلائع الجيش ضد سموحة — الد
+ وري المصري الممتاز | Tomorrow: Tala'ea El Gaish vs Smouha 
+ SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: طلائع 
+ الجيش × سموحة | Kick-off in 30 min: Tala'ea El Gaish vs Smouha 
+ SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996737@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261012T170000Z
+DTEND:20261012T190000Z
+SUMMARY:Smouha SC vs Ghazl Al Mahalla — Egyptian Premier League
+LOCATION:Borg El Arab Stadium\, Al-Iskandarîah (Alexandria)\, Egypt
+GEO:30.999499;29.729433
+URL:https://www.fotmob.com/match/5996737
+DESCRIPTION:⚽ سموحة × غزل المحلة\n🏆 الدوري الم
+ صري الممتاز — الجولة 6\n🗓 الاثنين 12 أكتو
+ بر 2026 · 20:00 بتوقيت الرياض\n🏟 Borg El Arab Stadium، 
+ Al-Iskandarîah (Alexandria)\n—————\n⚽ Smouha SC v Ghazl Al Ma
+ halla\n🏆 Egyptian Premier League — Matchday 6\n🗓 Mon 12 Oct 2026 
+ · 17:00 UTC\n🏟 Borg El Arab Stadium, Al-Iskandarîah (Alexandria)\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سموحة ضد غزل المحلة — الدو
+ ري المصري الممتاز | Tomorrow: Smouha SC vs Ghazl Al Mahalla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سموحة 
+ × غزل المحلة | Kick-off in 30 min: Smouha SC vs Ghazl Al Mahalla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996742@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261019T140000Z
+DTEND:20261019T160000Z
+SUMMARY:El Gouna FC vs Smouha SC — Egyptian Premier League
+LOCATION:Khaled Bichara Stadium\, El-Gouna\, Egypt
+GEO:27.360219;33.659851
+URL:https://www.fotmob.com/match/5996742
+DESCRIPTION:⚽ الجونة × سموحة\n🏆 الدوري المصري 
+ الممتاز — الجولة 7\n🗓 الاثنين 19 أكتوبر 202
+ 6 · 17:00 بتوقيت الرياض\n🏟 Khaled Bichara Stadium، El-Gou
+ na\n—————\n⚽ El Gouna FC v Smouha SC\n🏆 Egyptian Premier Le
+ ague — Matchday 7\n🗓 Mon 19 Oct 2026 · 14:00 UTC\n🏟 Khaled Bichar
+ a Stadium, El-Gouna\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجونة ضد سموحة — الدوري ا
+ لمصري الممتاز | Tomorrow: El Gouna FC vs Smouha SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجون
+ ة × سموحة | Kick-off in 30 min: El Gouna FC vs Smouha SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996761@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261031T180000Z
+DTEND:20261031T200000Z
+SUMMARY:Petrojet-Suez vs Smouha SC — Egyptian Premier League
+LOCATION:Petrosport Stadium
+URL:https://www.fotmob.com/match/5996761
+DESCRIPTION:⚽ منتخب السويس بتروجت × سموحة\n🏆 ا
+ لدوري المصري الممتاز — الجولة 8\n🗓 السبت
+  31 أكتوبر 2026 · 21:00 بتوقيت الرياض\n🏟 Petrosport 
+ Stadium\n—————\n⚽ Petrojet-Suez v Smouha SC\n🏆 Egyptian Pre
+ mier League — Matchday 8\n🗓 Sat 31 Oct 2026 · 18:00 UTC\n🏟 Petros
+ port Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: منتخب السويس بتروجت ضد سمو
+ حة — الدوري المصري الممتاز | Tomorrow: Petrojet-Sue
+ z vs Smouha SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: منتخب 
+ السويس بتروجت × سموحة | Kick-off in 30 min: Petrojet-Sue
+ z vs Smouha SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996764@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261124T150000Z
+DTEND:20261124T170000Z
+SUMMARY:Smouha SC vs National Bank — Egyptian Premier League
+LOCATION:Borg El Arab Stadium
+URL:https://www.fotmob.com/match/5996764
+DESCRIPTION:⚽ سموحة × البنك الاهلي\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 9\n🗓 الثلاثاء 24 ن
+ وفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Borg El Arab Stad
+ ium\n—————\n⚽ Smouha SC v National Bank\n🏆 Egyptian Premier
+  League — Matchday 9\n🗓 Tue 24 Nov 2026 · 15:00 UTC\n🏟 Borg El Ar
+ ab Stadium\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سموحة ضد البنك الاهلي — ال
+ دوري المصري الممتاز | Tomorrow: Smouha SC vs National Ban
+ k
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سموحة 
+ × البنك الاهلي | Kick-off in 30 min: Smouha SC vs National Ban
+ k
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996780@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261210T180000Z
+DTEND:20261210T200000Z
+SUMMARY:Abo Qir Semad vs Smouha SC — Egyptian Premier League
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996780
+DESCRIPTION:⚽ ابو قير للاسمدة × سموحة\n🏆 الدور
+ ي المصري الممتاز — الجولة 10\n🗓 الخميس 10 
+ ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Alexandria Stad
+ ium\n—————\n⚽ Abo Qir Semad v Smouha SC\n🏆 Egyptian Premier
+  League — Matchday 10\n🗓 Thu 10 Dec 2026 · 18:00 UTC\n🏟 Alexandri
+ a Stadium\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ابو قير للاسمدة ضد سموحة — 
+ الدوري المصري الممتاز | Tomorrow: Abo Qir Semad vs Smou
+ ha SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ابو قي
+ ر للاسمدة × سموحة | Kick-off in 30 min: Abo Qir Semad vs Smo
+ uha SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996782@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261214T150000Z
+DTEND:20261214T170000Z
+SUMMARY:Smouha SC vs Zamalek SC — Egyptian Premier League
+LOCATION:Borg El Arab Stadium
+URL:https://www.fotmob.com/match/5996782
+DESCRIPTION:⚽ سموحة × الزمالك\n🏆 الدوري المصر
+ ي الممتاز — الجولة 11\n🗓 الاثنين 14 ديسمبر
+  2026 · 18:00 بتوقيت الرياض\n🏟 Borg El Arab Stadium\n—
+ ————\n⚽ Smouha SC v Zamalek SC\n🏆 Egyptian Premier League —
+  Matchday 11\n🗓 Mon 14 Dec 2026 · 15:00 UTC\n🏟 Borg El Arab Stadium
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سموحة ضد الزمالك — الدوري 
+ المصري الممتاز | Tomorrow: Smouha SC vs Zamalek SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سموحة 
+ × الزمالك | Kick-off in 30 min: Smouha SC vs Zamalek SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996797@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261223T180000Z
+DTEND:20261223T200000Z
+SUMMARY:Smouha SC vs Pyramids FC — Egyptian Premier League
+LOCATION:Borg El Arab Stadium
+URL:https://www.fotmob.com/match/5996797
+DESCRIPTION:⚽ سموحة × بيراميدز\n🏆 الدوري المص
+ ري الممتاز — الجولة 12\n🗓 الأربعاء 23 ديسم
+ بر 2026 · 21:00 بتوقيت الرياض\n🏟 Borg El Arab Stadium\n
+ —————\n⚽ Smouha SC v Pyramids FC\n🏆 Egyptian Premier League
+  — Matchday 12\n🗓 Wed 23 Dec 2026 · 18:00 UTC\n🏟 Borg El Arab Sta
+ dium\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سموحة ضد بيراميدز — الدوري
+  المصري الممتاز | Tomorrow: Smouha SC vs Pyramids FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سموحة 
+ × بيراميدز | Kick-off in 30 min: Smouha SC vs Pyramids FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996806@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261228T150000Z
+DTEND:20261228T170000Z
+SUMMARY:ZED FC vs Smouha SC — Egyptian Premier League
+LOCATION:Suez Stadium
+URL:https://www.fotmob.com/match/5996806
+DESCRIPTION:⚽ زد × سموحة\n🏆 الدوري المصري المم
+ تاز — الجولة 13\n🗓 الاثنين 28 ديسمبر 2026 · 18
+ :00 بتوقيت الرياض\n🏟 Suez Stadium\n—————\n⚽ ZED
+  FC v Smouha SC\n🏆 Egyptian Premier League — Matchday 13\n🗓 Mon 28
+  Dec 2026 · 15:00 UTC\n🏟 Suez Stadium\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: زد ضد سموحة — الدوري المصر
+ ي الممتاز | Tomorrow: ZED FC vs Smouha SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: زد × س
+ موحة | Kick-off in 30 min: ZED FC vs Smouha SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996813@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270104T180000Z
+DTEND:20270104T200000Z
+SUMMARY:Smouha SC vs Modern Sport FC — Egyptian Premier League
+LOCATION:Borg El Arab Stadium
+URL:https://www.fotmob.com/match/5996813
+DESCRIPTION:⚽ سموحة × مودرن سبورت\n🏆 الدوري ال
+ مصري الممتاز — الجولة 14\n🗓 الاثنين 4 ينا
+ ير 2027 · 21:00 بتوقيت الرياض\n🏟 Borg El Arab Stadium\n
+ —————\n⚽ Smouha SC v Modern Sport FC\n🏆 Egyptian Premier Le
+ ague — Matchday 14\n🗓 Mon 04 Jan 2027 · 18:00 UTC\n🏟 Borg El Arab
+  Stadium\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سموحة ضد مودرن سبورت — الد
+ وري المصري الممتاز | Tomorrow: Smouha SC vs Modern Sport F
+ C
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سموحة 
+ × مودرن سبورت | Kick-off in 30 min: Smouha SC vs Modern Sport F
+ C
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996824@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270126T180000Z
+DTEND:20270126T200000Z
+SUMMARY:Al Ittihad Alexandria vs Smouha SC — Egyptian Premier League
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996824
+DESCRIPTION:⚽ الاتحاد السكندري × سموحة\n🏆 الد
+ وري المصري الممتاز — الجولة 15\n🗓 الثلاث
+ اء 26 يناير 2027 · 21:00 بتوقيت الرياض\n🏟 Alexandri
+ a Stadium\n—————\n⚽ Al Ittihad Alexandria v Smouha SC\n🏆 Eg
+ yptian Premier League — Matchday 15\n🗓 Tue 26 Jan 2027 · 18:00 UTC\n
+ 🏟 Alexandria Stadium\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد السكندري ضد سموحة 
+ — الدوري المصري الممتاز | Tomorrow: Al Ittihad Alexan
+ dria vs Smouha SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد السكندري × سموحة | Kick-off in 30 min: Al Ittihad Alexa
+ ndria vs Smouha SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996832@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Smouha SC vs Wadi Degla FC — Egyptian Premier League
+LOCATION:Borg El Arab Stadium
+URL:https://www.fotmob.com/match/5996832
+DESCRIPTION:⚽ سموحة × وادي دجلة\n🏆 الدوري المص
+ ري الممتاز — الجولة 16\n🗓 السبت 30 يناير 202
+ 7 · 18:00 بتوقيت الرياض\n🏟 Borg El Arab Stadium\n———
+ ——\n⚽ Smouha SC v Wadi Degla FC\n🏆 Egyptian Premier League — Ma
+ tchday 16\n🗓 Sat 30 Jan 2027 · 15:00 UTC\n🏟 Borg El Arab Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سموحة ضد وادي دجلة — الدور
+ ي المصري الممتاز | Tomorrow: Smouha SC vs Wadi Degla FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سموحة 
+ × وادي دجلة | Kick-off in 30 min: Smouha SC vs Wadi Degla FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996842@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270204T150000Z
+DTEND:20270204T170000Z
+SUMMARY:Al Sharkeyah-ENPPI vs Smouha SC — Egyptian Premier League
+LOCATION:Petrosport Stadium
+URL:https://www.fotmob.com/match/5996842
+DESCRIPTION:⚽ Al Sharkeyah-ENPPI × سموحة\n🏆 الدوري الم
+ صري الممتاز — الجولة 17\n🗓 الخميس 4 فبراي
+ ر 2027 · 18:00 بتوقيت الرياض\n🏟 Petrosport Stadium\n—
+ ————\n⚽ Al Sharkeyah-ENPPI v Smouha SC\n🏆 Egyptian Premier Le
+ ague — Matchday 17\n🗓 Thu 04 Feb 2027 · 15:00 UTC\n🏟 Petrosport S
+ tadium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Al Sharkeyah-ENPPI ضد سموحة — الدور
+ ي المصري الممتاز | Tomorrow: Al Sharkeyah-ENPPI vs Smouha SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Al Sharkeya
+ h-ENPPI × سموحة | Kick-off in 30 min: Al Sharkeyah-ENPPI vs Smouha S
+ C
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996857@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270211T193000Z
+DTEND:20270211T213000Z
+SUMMARY:Smouha SC vs Olympic El Qanah FC — Egyptian Premier League
+LOCATION:Borg El Arab Stadium
+URL:https://www.fotmob.com/match/5996857
+DESCRIPTION:⚽ سموحة × القناة\n🏆 الدوري المصري 
+ الممتاز — الجولة 18\n🗓 الخميس 11 فبراير 2027
+  · 22:30 بتوقيت الرياض\n🏟 Borg El Arab Stadium\n———
+ ——\n⚽ Smouha SC v Olympic El Qanah FC\n🏆 Egyptian Premier League 
+ — Matchday 18\n🗓 Thu 11 Feb 2027 · 19:30 UTC\n🏟 Borg El Arab Stad
+ ium\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سموحة ضد القناة — الدوري ا
+ لمصري الممتاز | Tomorrow: Smouha SC vs Olympic El Qanah FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سموحة 
+ × القناة | Kick-off in 30 min: Smouha SC vs Olympic El Qanah FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996868@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270220T193000Z
+DTEND:20270220T213000Z
+SUMMARY:Al Mokawloon Al Arab vs Smouha SC — Egyptian Premier League
+LOCATION:Al-Mokawloon al-Arab Stadium
+URL:https://www.fotmob.com/match/5996868
+DESCRIPTION:⚽ المقاولون العرب × سموحة\n🏆 الدو
+ ري المصري الممتاز — الجولة 19\n🗓 السبت 20 
+ فبراير 2027 · 22:30 بتوقيت الرياض\n🏟 Al-Mokawloon al
+ -Arab Stadium\n—————\n⚽ Al Mokawloon Al Arab v Smouha SC\n🏆
+  Egyptian Premier League — Matchday 19\n🗓 Sat 20 Feb 2027 · 19:30 UT
+ C\n🏟 Al-Mokawloon al-Arab Stadium\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المقاولون العرب ضد سموحة —
+  الدوري المصري الممتاز | Tomorrow: Al Mokawloon Al Arab
+  vs Smouha SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المقا
+ ولون العرب × سموحة | Kick-off in 30 min: Al Mokawloon Al Ar
+ ab vs Smouha SC
+END:VALARM
+END:VEVENT
+END:VCALENDAR

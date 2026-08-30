@@ -1,0 +1,1312 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Sevilla — LaLiga & Copa del Rey Fixtures | إشبيلي
+ ة — مباريات الدوري الإسباني وكأس ملك إسب
+ انيا
+X-WR-CALDESC:Sevilla — all matches in LaLiga & Copa del Rey\, exact UTC k
+ ickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-
+ 05T19:31:10Z.  •  إشبيلية — جميع المباريات في ا
+ لدوري الإسباني وكأس ملك إسبانيا بتوقيت UT
+ C الدقيق مع الملاعب والقنوات الناقلة. الم
+ صدر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5868019@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260815T193000Z
+DTEND:20260815T213000Z
+SUMMARY:Sevilla vs Rayo Vallecano (2 - 1) — LaLiga
+LOCATION:Estadio Ramón Sánchez Pizjuán\, Sevilla\, Spain
+GEO:37.384046;-5.970592
+URL:https://www.fotmob.com/match/5868019
+DESCRIPTION:⚽ إشبيلية × رايو فاييكانو (2 - 1)\n🏆 
+ الدوري الإسباني — الجولة 1\n🗓 السبت 15 أغ
+ سطس 2026 · 22:30 بتوقيت الرياض\n🏟 Estadio Ramón Sánch
+ ez Pizjuán، Sevilla\n⚖️ الحكم: Ricardo De Burgos Bengoetxea\n
+ 👥 الحضور: 36,777\n—————\n⚽ Sevilla v Rayo Vallecano (
+ 2 - 1)\n🏆 LaLiga — Matchday 1\n🗓 Sat 15 Aug 2026 · 19:30 UTC\n
+ 🏟 Estadio Ramón Sánchez Pizjuán, Sevilla\nReferee: Ricardo De Burgos
+  Bengoetxea\nAttendance: 36,777\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد رايو فاييكانو —
+  الدوري الإسباني | Tomorrow: Sevilla vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × رايو فاييكانو | Kick-off in 30 min: Sevilla vs Rayo Va
+ llecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868021@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T150000Z
+DTEND:20260822T170000Z
+SUMMARY:Athletic Club vs Sevilla (1 - 3) — LaLiga
+LOCATION:Estadio de San Mamés\, Bilbao\, Spain
+GEO:43.264173;-2.949383
+URL:https://www.fotmob.com/match/5868021
+DESCRIPTION:⚽ أتلتيك بلباو × إشبيلية (1 - 3)\n🏆 ا
+ لدوري الإسباني — الجولة 2\n🗓 السبت 22 أغس
+ طس 2026 · 18:00 بتوقيت الرياض\n🏟 Estadio de San Mamés،
+  Bilbao\n⚖️ الحكم: César Soto Grado\n👥 الحضور: 49,416\n
+ —————\n⚽ Athletic Club v Sevilla (1 - 3)\n🏆 LaLiga — Matc
+ hday 2\n🗓 Sat 22 Aug 2026 · 15:00 UTC\n🏟 Estadio de San Mamés, Bil
+ bao\nReferee: César Soto Grado\nAttendance: 49,416\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد إشبيلية — 
+ الدوري الإسباني | Tomorrow: Athletic Club vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × إشبيلية | Kick-off in 30 min: Athletic Club vs Sev
+ illa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868040@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T193000Z
+DTEND:20260829T213000Z
+SUMMARY:Sevilla vs Atlético Madrid (1 - 3) — LaLiga
+LOCATION:Estadio Ramón Sánchez Pizjuán\, Sevilla\, Spain
+GEO:37.384046;-5.970592
+URL:https://www.fotmob.com/match/5868040
+DESCRIPTION:⚽ إشبيلية × أتلتيكو مدريد (1 - 3)\n🏆 
+ الدوري الإسباني — الجولة 3\n🗓 السبت 29 أغ
+ سطس 2026 · 22:30 بتوقيت الرياض\n🏟 Estadio Ramón Sánch
+ ez Pizjuán، Sevilla\n⚖️ الحكم: Javier Alberola Rojas\n👥 ال
+ حضور: 38,340\n—————\n⚽ Sevilla v Atlético Madrid (1 - 3)\
+ n🏆 LaLiga — Matchday 3\n🗓 Sat 29 Aug 2026 · 19:30 UTC\n🏟 Estad
+ io Ramón Sánchez Pizjuán, Sevilla\nReferee: Javier Alberola Rojas\nAtte
+ ndance: 38,340\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد أتلتيكو مدريد —
+  الدوري الإسباني | Tomorrow: Sevilla vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × أتلتيكو مدريد | Kick-off in 30 min: Sevilla vs Atléti
+ co Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868045@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260906T190000Z
+DTEND:20260906T210000Z
+SUMMARY:Espanyol vs Sevilla — LaLiga
+LOCATION:RCDE Stadium\, Cornella de Llobregat\, Spain
+GEO:41.347860;2.075622
+URL:https://www.fotmob.com/match/5868045
+DESCRIPTION:⚽ إسبانيول × إشبيلية\n🏆 الدوري ال
+ إسباني — الجولة 4\n🗓 الأحد 6 سبتمبر 2026 · 22
+ :00 بتوقيت الرياض\n🏟 RCDE Stadium، Cornella de Llobregat\n
+ 📺 Bein Sports HD2\n—————\n⚽ Espanyol v Sevilla\n🏆 LaLiga
+  — Matchday 4\n🗓 Sun 06 Sep 2026 · 19:00 UTC\n🏟 RCDE Stadium, Cor
+ nella de Llobregat\n📺 beIN Sport 2 HD\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إسبانيول ضد إشبيلية — الدو
+ ري الإسباني — 📺 Bein Sports HD2 | Tomorrow: Espanyol vs Sev
+ illa | TV: beIN Sport 2 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إسبان
+ يول × إشبيلية — 📺 Bein Sports HD2 | Kick-off in 30 min: Es
+ panyol vs Sevilla | TV: beIN Sport 2 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868059@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260911T190000Z
+DTEND:20260911T210000Z
+SUMMARY:Sevilla vs Valencia — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868059
+DESCRIPTION:⚽ إشبيلية × فالنسيا\n🏆 الدوري الإ
+ سباني — الجولة 5\n🗓 الجمعة 11 سبتمبر 2026 · 2
+ 2:00 بتوقيت الرياض\n🏟 Estadio R. Sanchez Pizjuan\n📺 Prem
+ ier Sports 2 UK، LaLigaTV، Premier Sports Player، Premier Sports 2 ROI
+ ، beIN SPORTS CONNECT، beIN Sports Connect Singapore، FanCode، Now Pla
+ yer\n—————\n⚽ Sevilla v Valencia\n🏆 LaLiga — Matchday 5\n
+ 🗓 Fri 11 Sep 2026 · 19:00 UTC\n🏟 Estadio R. Sanchez Pizjuan\n📺 P
+ remier Sports 2 UK, LaLigaTV, Premier Sports Player, Premier Sports 2 ROI,
+  beIN SPORTS CONNECT, beIN Sports Connect Singapore, FanCode, Now Player\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد فالنسيا — الدور
+ ي الإسباني — 📺 Premier Sports 2 UK، LaLigaTV، Premier Spor
+ ts Player، Premier Sports 2 ROI، beIN SPORTS CONNECT، beIN Sports Conne
+ ct Singapore، FanCode، Now Player | Tomorrow: Sevilla vs Valencia | TV: 
+ Premier Sports 2 UK\, LaLigaTV\, Premier Sports Player\, Premier Sports 2 
+ ROI\, beIN SPORTS CONNECT\, beIN Sports Connect Singapore\, FanCode\, Now 
+ Player
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × فالنسيا — 📺 Premier Sports 2 UK، LaLigaTV، Premier S
+ ports Player، Premier Sports 2 ROI، beIN SPORTS CONNECT، beIN Sports Co
+ nnect Singapore، FanCode، Now Player | Kick-off in 30 min: Sevilla vs Va
+ lencia | TV: Premier Sports 2 UK\, LaLigaTV\, Premier Sports Player\, Prem
+ ier Sports 2 ROI\, beIN SPORTS CONNECT\, beIN Sports Connect Singapore\, F
+ anCode\, Now Player
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868064@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T170000Z
+DTEND:20260916T190000Z
+SUMMARY:Deportivo A Coruña vs Sevilla — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868064
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × إشبيلية\n
+ 🏆 الدوري الإسباني — الجولة 6\n🗓 الأربعا
+ ء 16 سبتمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Abanca-Ri
+ azor\n—————\n⚽ Deportivo A Coruña v Sevilla\n🏆 LaLiga — 
+ Matchday 6\n🗓 Wed 16 Sep 2026 · 17:00 UTC\n🏟 Abanca-Riazor\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد إشب
+ يلية — الدوري الإسباني | Tomorrow: Deportivo A Coruña
+  vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × إشبيلية | Kick-off in 30 min: Deport
+ ivo A Coruña vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868078@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T190000Z
+DTEND:20260919T210000Z
+SUMMARY:Sevilla vs Barcelona — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868078
+DESCRIPTION:⚽ إشبيلية × برشلونة\n🏆 الدوري الإ
+ سباني — الجولة 7\n🗓 السبت 19 سبتمبر 2026 · 22:
+ 00 بتوقيت الرياض\n🏟 Estadio R. Sanchez Pizjuan\n———
+ ——\n⚽ Sevilla v Barcelona\n🏆 LaLiga — Matchday 7\n🗓 Sat 19 S
+ ep 2026 · 19:00 UTC\n🏟 Estadio R. Sanchez Pizjuan\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد برشلونة — الدور
+ ي الإسباني | Tomorrow: Sevilla vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × برشلونة | Kick-off in 30 min: Sevilla vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868085@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Levante vs Sevilla — LaLiga
+LOCATION:Estadio Ciudad de Valencia
+URL:https://www.fotmob.com/match/5868085
+DESCRIPTION:⚽ ليفانتي × إشبيلية\n🏆 الدوري الإ
+ سباني — الجولة 8\n🗓 الأحد 11 أكتوبر 2026 · 16:
+ 00 بتوقيت الرياض\n🏟 Estadio Ciudad de Valencia\n———
+ ——\n⚽ Levante v Sevilla\n🏆 LaLiga — Matchday 8\n🗓 Sun 11 Oct
+  2026 · 13:00 UTC\n🏟 Estadio Ciudad de Valencia\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفانتي ضد إشبيلية — الدور
+ ي الإسباني | Tomorrow: Levante vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفان
+ تي × إشبيلية | Kick-off in 30 min: Levante vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868098@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Real Madrid vs Sevilla — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868098
+DESCRIPTION:⚽ ريال مدريد × إشبيلية\n🏆 الدوري ا
+ لإسباني — الجولة 9\n🗓 الأحد 18 أكتوبر 2026 ·
+  16:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n—————\n
+ ⚽ Real Madrid v Sevilla\n🏆 LaLiga — Matchday 9\n🗓 Sun 18 Oct 202
+ 6 · 13:00 UTC\n🏟 Estadio Bernabeu\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد إشبيلية — ال
+ دوري الإسباني | Tomorrow: Real Madrid vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × إشبيلية | Kick-off in 30 min: Real Madrid vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868109@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Sevilla vs Osasuna — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868109
+DESCRIPTION:⚽ إشبيلية × أوساسونا\n🏆 الدوري ال
+ إسباني — الجولة 10\n🗓 الأحد 25 أكتوبر 2026 · 
+ 17:00 بتوقيت الرياض\n🏟 Estadio R. Sanchez Pizjuan\n——
+ ———\n⚽ Sevilla v Osasuna\n🏆 LaLiga — Matchday 10\n🗓 Sun 25
+  Oct 2026 · 14:00 UTC\n🏟 Estadio R. Sanchez Pizjuan\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد أوساسونا — الدو
+ ري الإسباني | Tomorrow: Sevilla vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × أوساسونا | Kick-off in 30 min: Sevilla vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868116@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Getafe vs Sevilla — LaLiga
+LOCATION:Coliseum
+URL:https://www.fotmob.com/match/5868116
+DESCRIPTION:⚽ خيتافي × إشبيلية\n🏆 الدوري الإس
+ باني — الجولة 11\n🗓 الأحد 1 نوفمبر 2026 · 17:00
+  بتوقيت الرياض\n🏟 Coliseum\n—————\n⚽ Getafe v S
+ evilla\n🏆 LaLiga — Matchday 11\n🗓 Sun 01 Nov 2026 · 14:00 UTC\n
+ 🏟 Coliseum\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: خيتافي ضد إشبيلية — الدوري
+  الإسباني | Tomorrow: Getafe vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: خيتاف
+ ي × إشبيلية | Kick-off in 30 min: Getafe vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868128@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Sevilla vs Deportivo Alavés — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868128
+DESCRIPTION:⚽ إشبيلية × ديبورتيفو ألافيس\n🏆 ا
+ لدوري الإسباني — الجولة 12\n🗓 الأحد 8 نوف
+ مبر 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio R. Sanchez Pi
+ zjuan\n—————\n⚽ Sevilla v Deportivo Alavés\n🏆 LaLiga — M
+ atchday 12\n🗓 Sun 08 Nov 2026 · 14:00 UTC\n🏟 Estadio R. Sanchez Piz
+ juan\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد ديبورتيفو ألافي
+ س — الدوري الإسباني | Tomorrow: Sevilla vs Deportivo Alav
+ és
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × ديبورتيفو ألافيس | Kick-off in 30 min: Sevilla vs D
+ eportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868140@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Sevilla vs Real Betis — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868140
+DESCRIPTION:⚽ إشبيلية × ريال بيتيس\n🏆 الدوري ا
+ لإسباني — الجولة 13\n🗓 الأحد 22 نوفمبر 2026 
+ · 17:00 بتوقيت الرياض\n🏟 Estadio R. Sanchez Pizjuan\n—
+ ————\n⚽ Sevilla v Real Betis\n🏆 LaLiga — Matchday 13\n🗓 
+ Sun 22 Nov 2026 · 14:00 UTC\n🏟 Estadio R. Sanchez Pizjuan\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد ريال بيتيس — ال
+ دوري الإسباني | Tomorrow: Sevilla vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × ريال بيتيس | Kick-off in 30 min: Sevilla vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868149@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T140000Z
+DTEND:20261129T160000Z
+SUMMARY:Real Sociedad vs Sevilla — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868149
+DESCRIPTION:⚽ ريال سوسيداد × إشبيلية\n🏆 الدور
+ ي الإسباني — الجولة 14\n🗓 الأحد 29 نوفمبر 2
+ 026 · 17:00 بتوقيت الرياض\n🏟 Reale Arena\n—————\
+ n⚽ Real Sociedad v Sevilla\n🏆 LaLiga — Matchday 14\n🗓 Sun 29 Nov
+  2026 · 14:00 UTC\n🏟 Reale Arena\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد إشبيلية — 
+ الدوري الإسباني | Tomorrow: Real Sociedad vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × إشبيلية | Kick-off in 30 min: Real Sociedad vs Sevi
+ lla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868159@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T140000Z
+DTEND:20261206T160000Z
+SUMMARY:Sevilla vs Málaga — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868159
+DESCRIPTION:⚽ إشبيلية × مالقا\n🏆 الدوري الإسب
+ اني — الجولة 15\n🗓 الأحد 6 ديسمبر 2026 · 17:00 
+ بتوقيت الرياض\n🏟 Estadio R. Sanchez Pizjuan\n————
+ —\n⚽ Sevilla v Málaga\n🏆 LaLiga — Matchday 15\n🗓 Sun 06 Dec 2
+ 026 · 14:00 UTC\n🏟 Estadio R. Sanchez Pizjuan\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد مالقا — الدوري 
+ الإسباني | Tomorrow: Sevilla vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × مالقا | Kick-off in 30 min: Sevilla vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868164@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T140000Z
+DTEND:20261213T160000Z
+SUMMARY:Elche vs Sevilla — LaLiga
+LOCATION:Estadio Martinez Valero
+URL:https://www.fotmob.com/match/5868164
+DESCRIPTION:⚽ إلتشي × إشبيلية\n🏆 الدوري الإسب
+ اني — الجولة 16\n🗓 الأحد 13 ديسمبر 2026 · 17:00 
+ بتوقيت الرياض\n🏟 Estadio Martinez Valero\n—————\n
+ ⚽ Elche v Sevilla\n🏆 LaLiga — Matchday 16\n🗓 Sun 13 Dec 2026 · 
+ 14:00 UTC\n🏟 Estadio Martinez Valero\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلتشي ضد إشبيلية — الدوري 
+ الإسباني | Tomorrow: Elche vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلتشي 
+ × إشبيلية | Kick-off in 30 min: Elche vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868179@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T140000Z
+DTEND:20261220T160000Z
+SUMMARY:Sevilla vs Racing Santander — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868179
+DESCRIPTION:⚽ إشبيلية × راسينج سانتاندير\n🏆 ا
+ لدوري الإسباني — الجولة 17\n🗓 الأحد 20 ديس
+ مبر 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio R. Sanchez Pi
+ zjuan\n—————\n⚽ Sevilla v Racing Santander\n🏆 LaLiga — Ma
+ tchday 17\n🗓 Sun 20 Dec 2026 · 14:00 UTC\n🏟 Estadio R. Sanchez Pizj
+ uan\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد راسينج سانتاندي
+ ر — الدوري الإسباني | Tomorrow: Sevilla vs Racing Santand
+ er
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × راسينج سانتاندير | Kick-off in 30 min: Sevilla vs R
+ acing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868190@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T140000Z
+DTEND:20270103T160000Z
+SUMMARY:Villarreal vs Sevilla — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868190
+DESCRIPTION:⚽ فياريال × إشبيلية\n🏆 الدوري الإ
+ سباني — الجولة 18\n🗓 الأحد 3 يناير 2027 · 17:00
+  بتوقيت الرياض\n🏟 Estadio de la Ceramica\n—————\n
+ ⚽ Villarreal v Sevilla\n🏆 LaLiga — Matchday 18\n🗓 Sun 03 Jan 202
+ 7 · 14:00 UTC\n🏟 Estadio de la Ceramica\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد إشبيلية — الدور
+ ي الإسباني | Tomorrow: Villarreal vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × إشبيلية | Kick-off in 30 min: Villarreal vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868199@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T140000Z
+DTEND:20270110T160000Z
+SUMMARY:Sevilla vs Celta Vigo — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868199
+DESCRIPTION:⚽ إشبيلية × سيلتا فيجو\n🏆 الدوري ا
+ لإسباني — الجولة 19\n🗓 الأحد 10 يناير 2027 · 
+ 17:00 بتوقيت الرياض\n🏟 Estadio R. Sanchez Pizjuan\n——
+ ———\n⚽ Sevilla v Celta Vigo\n🏆 LaLiga — Matchday 19\n🗓 Sun
+  10 Jan 2027 · 14:00 UTC\n🏟 Estadio R. Sanchez Pizjuan\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد سيلتا فيجو — ال
+ دوري الإسباني | Tomorrow: Sevilla vs Celta Vigo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × سيلتا فيجو | Kick-off in 30 min: Sevilla vs Celta Vigo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868209@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T140000Z
+DTEND:20270117T160000Z
+SUMMARY:Rayo Vallecano vs Sevilla — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868209
+DESCRIPTION:⚽ رايو فاييكانو × إشبيلية\n🏆 الدو
+ ري الإسباني — الجولة 20\n🗓 الأحد 17 يناير 2
+ 027 · 17:00 بتوقيت الرياض\n🏟 Campo de Futbol de Vallecas\n
+ —————\n⚽ Rayo Vallecano v Sevilla\n🏆 LaLiga — Matchday 20
+ \n🗓 Sun 17 Jan 2027 · 14:00 UTC\n🏟 Campo de Futbol de Vallecas\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد إشبيلية —
+  الدوري الإسباني | Tomorrow: Rayo Vallecano vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × إشبيلية | Kick-off in 30 min: Rayo Vallecano vs S
+ evilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868220@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T140000Z
+DTEND:20270124T160000Z
+SUMMARY:Valencia vs Sevilla — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868220
+DESCRIPTION:⚽ فالنسيا × إشبيلية\n🏆 الدوري الإ
+ سباني — الجولة 21\n🗓 الأحد 24 يناير 2027 · 17:0
+ 0 بتوقيت الرياض\n🏟 Estadio Mestalla\n—————\n⚽ V
+ alencia v Sevilla\n🏆 LaLiga — Matchday 21\n🗓 Sun 24 Jan 2027 · 14
+ :00 UTC\n🏟 Estadio Mestalla\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد إشبيلية — الدور
+ ي الإسباني | Tomorrow: Valencia vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × إشبيلية | Kick-off in 30 min: Valencia vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868229@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Sevilla vs Athletic Club — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868229
+DESCRIPTION:⚽ إشبيلية × أتلتيك بلباو\n🏆 الدور
+ ي الإسباني — الجولة 22\n🗓 الأحد 31 يناير 202
+ 7 · 17:00 بتوقيت الرياض\n🏟 Estadio R. Sanchez Pizjuan\n—
+ ————\n⚽ Sevilla v Athletic Club\n🏆 LaLiga — Matchday 22\n
+ 🗓 Sun 31 Jan 2027 · 14:00 UTC\n🏟 Estadio R. Sanchez Pizjuan\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد أتلتيك بلباو — 
+ الدوري الإسباني | Tomorrow: Sevilla vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × أتلتيك بلباو | Kick-off in 30 min: Sevilla vs Athletic 
+ Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868233@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:Real Betis vs Sevilla — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868233
+DESCRIPTION:⚽ ريال بيتيس × إشبيلية\n🏆 الدوري ا
+ لإسباني — الجولة 23\n🗓 الأحد 7 فبراير 2027 ·
+  17:00 بتوقيت الرياض\n🏟 Estadio de La Cartuja\n————
+ —\n⚽ Real Betis v Sevilla\n🏆 LaLiga — Matchday 23\n🗓 Sun 07 Fe
+ b 2027 · 14:00 UTC\n🏟 Estadio de La Cartuja\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد إشبيلية — ال
+ دوري الإسباني | Tomorrow: Real Betis vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × إشبيلية | Kick-off in 30 min: Real Betis vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868248@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T140000Z
+DTEND:20270214T160000Z
+SUMMARY:Sevilla vs Espanyol — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868248
+DESCRIPTION:⚽ إشبيلية × إسبانيول\n🏆 الدوري ال
+ إسباني — الجولة 24\n🗓 الأحد 14 فبراير 2027 · 
+ 17:00 بتوقيت الرياض\n🏟 Estadio R. Sanchez Pizjuan\n——
+ ———\n⚽ Sevilla v Espanyol\n🏆 LaLiga — Matchday 24\n🗓 Sun 1
+ 4 Feb 2027 · 14:00 UTC\n🏟 Estadio R. Sanchez Pizjuan\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد إسبانيول — الدو
+ ري الإسباني | Tomorrow: Sevilla vs Espanyol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × إسبانيول | Kick-off in 30 min: Sevilla vs Espanyol
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868259@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T140000Z
+DTEND:20270221T160000Z
+SUMMARY:Sevilla vs Real Madrid — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868259
+DESCRIPTION:⚽ إشبيلية × ريال مدريد\n🏆 الدوري ا
+ لإسباني — الجولة 25\n🗓 الأحد 21 فبراير 2027 
+ · 17:00 بتوقيت الرياض\n🏟 Estadio R. Sanchez Pizjuan\n—
+ ————\n⚽ Sevilla v Real Madrid\n🏆 LaLiga — Matchday 25\n🗓
+  Sun 21 Feb 2027 · 14:00 UTC\n🏟 Estadio R. Sanchez Pizjuan\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد ريال مدريد — ال
+ دوري الإسباني | Tomorrow: Sevilla vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × ريال مدريد | Kick-off in 30 min: Sevilla vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868267@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T140000Z
+DTEND:20270228T160000Z
+SUMMARY:Osasuna vs Sevilla — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868267
+DESCRIPTION:⚽ أوساسونا × إشبيلية\n🏆 الدوري ال
+ إسباني — الجولة 26\n🗓 الأحد 28 فبراير 2027 · 
+ 17:00 بتوقيت الرياض\n🏟 Estadio El Sadar\n—————\n
+ ⚽ Osasuna v Sevilla\n🏆 LaLiga — Matchday 26\n🗓 Sun 28 Feb 2027 
+ · 14:00 UTC\n🏟 Estadio El Sadar\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد إشبيلية — الدو
+ ري الإسباني | Tomorrow: Osasuna vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × إشبيلية | Kick-off in 30 min: Osasuna vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868278@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T140000Z
+DTEND:20270307T160000Z
+SUMMARY:Sevilla vs Real Sociedad — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868278
+DESCRIPTION:⚽ إشبيلية × ريال سوسيداد\n🏆 الدور
+ ي الإسباني — الجولة 27\n🗓 الأحد 7 مارس 2027 
+ · 17:00 بتوقيت الرياض\n🏟 Estadio R. Sanchez Pizjuan\n—
+ ————\n⚽ Sevilla v Real Sociedad\n🏆 LaLiga — Matchday 27\n
+ 🗓 Sun 07 Mar 2027 · 14:00 UTC\n🏟 Estadio R. Sanchez Pizjuan\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد ريال سوسيداد — 
+ الدوري الإسباني | Tomorrow: Sevilla vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × ريال سوسيداد | Kick-off in 30 min: Sevilla vs Real Soci
+ edad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868281@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T140000Z
+DTEND:20270314T160000Z
+SUMMARY:Deportivo Alavés vs Sevilla — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868281
+DESCRIPTION:⚽ ديبورتيفو ألافيس × إشبيلية\n🏆 ا
+ لدوري الإسباني — الجولة 28\n🗓 الأحد 14 مار
+ س 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio Mendizorroza\n—
+ ————\n⚽ Deportivo Alavés v Sevilla\n🏆 LaLiga — Matchday 28
+ \n🗓 Sun 14 Mar 2027 · 14:00 UTC\n🏟 Estadio Mendizorroza\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد إشبيلي
+ ة — الدوري الإسباني | Tomorrow: Deportivo Alavés vs Sevi
+ lla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × إشبيلية | Kick-off in 30 min: Deportivo Al
+ avés vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868298@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T140000Z
+DTEND:20270321T160000Z
+SUMMARY:Sevilla vs Elche — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868298
+DESCRIPTION:⚽ إشبيلية × إلتشي\n🏆 الدوري الإسب
+ اني — الجولة 29\n🗓 الأحد 21 مارس 2027 · 17:00 بت
+ وقيت الرياض\n🏟 Estadio R. Sanchez Pizjuan\n—————\n
+ ⚽ Sevilla v Elche\n🏆 LaLiga — Matchday 29\n🗓 Sun 21 Mar 2027 · 
+ 14:00 UTC\n🏟 Estadio R. Sanchez Pizjuan\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد إلتشي — الدوري 
+ الإسباني | Tomorrow: Sevilla vs Elche
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × إلتشي | Kick-off in 30 min: Sevilla vs Elche
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868305@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T130000Z
+DTEND:20270404T150000Z
+SUMMARY:Barcelona vs Sevilla — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868305
+DESCRIPTION:⚽ برشلونة × إشبيلية\n🏆 الدوري الإ
+ سباني — الجولة 30\n🗓 الأحد 4 أبريل 2027 · 16:00
+  بتوقيت الرياض\n🏟 Spotify Camp Nou\n—————\n⚽ Ba
+ rcelona v Sevilla\n🏆 LaLiga — Matchday 30\n🗓 Sun 04 Apr 2027 · 13
+ :00 UTC\n🏟 Spotify Camp Nou\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد إشبيلية — الدور
+ ي الإسباني | Tomorrow: Barcelona vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × إشبيلية | Kick-off in 30 min: Barcelona vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868318@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T130000Z
+DTEND:20270411T150000Z
+SUMMARY:Sevilla vs Deportivo A Coruña — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868318
+DESCRIPTION:⚽ إشبيلية × ديبورتيفو لاكورونيا\n
+ 🏆 الدوري الإسباني — الجولة 31\n🗓 الأحد 11
+  أبريل 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio R. Sanch
+ ez Pizjuan\n—————\n⚽ Sevilla v Deportivo A Coruña\n🏆 LaLig
+ a — Matchday 31\n🗓 Sun 11 Apr 2027 · 13:00 UTC\n🏟 Estadio R. Sanc
+ hez Pizjuan\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد ديبورتيفو لاكور
+ ونيا — الدوري الإسباني | Tomorrow: Sevilla vs Deportiv
+ o A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × ديبورتيفو لاكورونيا | Kick-off in 30 min: Sevill
+ a vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868322@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T130000Z
+DTEND:20270418T150000Z
+SUMMARY:Atlético Madrid vs Sevilla — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868322
+DESCRIPTION:⚽ أتلتيكو مدريد × إشبيلية\n🏆 الدو
+ ري الإسباني — الجولة 32\n🗓 الأحد 18 أبريل 2
+ 027 · 16:00 بتوقيت الرياض\n🏟 Riyadh Air Metropolitano\n—
+ ————\n⚽ Atlético Madrid v Sevilla\n🏆 LaLiga — Matchday 32\
+ n🗓 Sun 18 Apr 2027 · 13:00 UTC\n🏟 Riyadh Air Metropolitano\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد إشبيلية —
+  الدوري الإسباني | Tomorrow: Atlético Madrid vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × إشبيلية | Kick-off in 30 min: Atlético Madrid v
+ s Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868338@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270421T130000Z
+DTEND:20270421T150000Z
+SUMMARY:Sevilla vs Levante — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868338
+DESCRIPTION:⚽ إشبيلية × ليفانتي\n🏆 الدوري الإ
+ سباني — الجولة 33\n🗓 الأربعاء 21 أبريل 2027 
+ · 16:00 بتوقيت الرياض\n🏟 Estadio R. Sanchez Pizjuan\n—
+ ————\n⚽ Sevilla v Levante\n🏆 LaLiga — Matchday 33\n🗓 Wed
+  21 Apr 2027 · 13:00 UTC\n🏟 Estadio R. Sanchez Pizjuan\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد ليفانتي — الدور
+ ي الإسباني | Tomorrow: Sevilla vs Levante
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × ليفانتي | Kick-off in 30 min: Sevilla vs Levante
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868343@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T130000Z
+DTEND:20270502T150000Z
+SUMMARY:Celta Vigo vs Sevilla — LaLiga
+LOCATION:Abanca Balaidos
+URL:https://www.fotmob.com/match/5868343
+DESCRIPTION:⚽ سيلتا فيجو × إشبيلية\n🏆 الدوري ا
+ لإسباني — الجولة 34\n🗓 الأحد 2 مايو 2027 · 16:
+ 00 بتوقيت الرياض\n🏟 Abanca Balaidos\n—————\n⚽ C
+ elta Vigo v Sevilla\n🏆 LaLiga — Matchday 34\n🗓 Sun 02 May 2027 · 
+ 13:00 UTC\n🏟 Abanca Balaidos\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتا فيجو ضد إشبيلية — ال
+ دوري الإسباني | Tomorrow: Celta Vigo vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتا 
+ فيجو × إشبيلية | Kick-off in 30 min: Celta Vigo vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868356@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T130000Z
+DTEND:20270509T150000Z
+SUMMARY:Racing Santander vs Sevilla — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868356
+DESCRIPTION:⚽ راسينج سانتاندير × إشبيلية\n🏆 ا
+ لدوري الإسباني — الجولة 35\n🗓 الأحد 9 ماي
+ و 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio El Sardinero\n—
+ ————\n⚽ Racing Santander v Sevilla\n🏆 LaLiga — Matchday 35\
+ n🗓 Sun 09 May 2027 · 13:00 UTC\n🏟 Estadio El Sardinero\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد إشبيلي
+ ة — الدوري الإسباني | Tomorrow: Racing Santander vs Sevil
+ la
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × إشبيلية | Kick-off in 30 min: Racing Santa
+ nder vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868370@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T130000Z
+DTEND:20270516T150000Z
+SUMMARY:Sevilla vs Villarreal — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868370
+DESCRIPTION:⚽ إشبيلية × فياريال\n🏆 الدوري الإ
+ سباني — الجولة 36\n🗓 الأحد 16 مايو 2027 · 16:00 
+ بتوقيت الرياض\n🏟 Estadio R. Sanchez Pizjuan\n————
+ —\n⚽ Sevilla v Villarreal\n🏆 LaLiga — Matchday 36\n🗓 Sun 16 Ma
+ y 2027 · 13:00 UTC\n🏟 Estadio R. Sanchez Pizjuan\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد فياريال — الدور
+ ي الإسباني | Tomorrow: Sevilla vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × فياريال | Kick-off in 30 min: Sevilla vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868378@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T130000Z
+DTEND:20270523T150000Z
+SUMMARY:Sevilla vs Getafe — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868378
+DESCRIPTION:⚽ إشبيلية × خيتافي\n🏆 الدوري الإس
+ باني — الجولة 37\n🗓 الأحد 23 مايو 2027 · 16:00 ب
+ توقيت الرياض\n🏟 Estadio R. Sanchez Pizjuan\n—————\
+ n⚽ Sevilla v Getafe\n🏆 LaLiga — Matchday 37\n🗓 Sun 23 May 2027 
+ · 13:00 UTC\n🏟 Estadio R. Sanchez Pizjuan\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد خيتافي — الدوري
+  الإسباني | Tomorrow: Sevilla vs Getafe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × خيتافي | Kick-off in 30 min: Sevilla vs Getafe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868387@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T130000Z
+DTEND:20270530T150000Z
+SUMMARY:Málaga vs Sevilla — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868387
+DESCRIPTION:⚽ مالقا × إشبيلية\n🏆 الدوري الإسب
+ اني — الجولة 38\n🗓 الأحد 30 مايو 2027 · 16:00 بت
+ وقيت الرياض\n🏟 Estadio La Rosaleda\n—————\n⚽ Mál
+ aga v Sevilla\n🏆 LaLiga — Matchday 38\n🗓 Sun 30 May 2027 · 13:00 
+ UTC\n🏟 Estadio La Rosaleda\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد إشبيلية — الدوري 
+ الإسباني | Tomorrow: Málaga vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × إشبيلية | Kick-off in 30 min: Málaga vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-4996020@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251028T200000Z
+DTEND:20251028T220000Z
+SUMMARY:Toledo vs Sevilla (1 - 4) — Copa del Rey
+LOCATION:Estadio Municipal Salto del Caballo\, Toledo\, Spain
+GEO:39.868996;-4.018086
+URL:https://www.fotmob.com/match/4996020
+DESCRIPTION:⚽ Toledo × إشبيلية (1 - 4)\n🏆 كأس ملك إسب
+ انيا — الدور الأول\n🗓 الثلاثاء 28 أكتوبر 
+ 2025 · 23:00 بتوقيت الرياض\n🏟 Estadio Municipal Salto del 
+ Caballo، Toledo\n⚖️ الحكم: Guillermo Cuadra Fernández\n👥 ا
+ لحضور: 6,648\n—————\n⚽ Toledo v Sevilla (1 - 4)\n🏆 Cop
+ a del Rey — Round 1\n🗓 Tue 28 Oct 2025 · 20:00 UTC\n🏟 Estadio Mun
+ icipal Salto del Caballo, Toledo\nReferee: Guillermo Cuadra Fernández\nAt
+ tendance: 6,648\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Toledo ضد إشبيلية — كأس ملك إس
+ بانيا | Tomorrow: Toledo vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Toledo × 
+ إشبيلية | Kick-off in 30 min: Toledo vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057214@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251204T200000Z
+DTEND:20251204T220000Z
+SUMMARY:CD Extremadura vs Sevilla (1 - 2) — Copa del Rey
+LOCATION:Estadio Francisco de la Hera\, Almendralejo\, Spain
+GEO:38.684367;-6.414648
+URL:https://www.fotmob.com/match/5057214
+DESCRIPTION:⚽ إكستريمادورا × إشبيلية (1 - 2)\n🏆 ك
+ أس ملك إسبانيا — الدور الثاني\n🗓 الخميس 
+ 4 ديسمبر 2025 · 23:00 بتوقيت الرياض\n🏟 Estadio Franc
+ isco de la Hera، Almendralejo\n⚖️ الحكم: Javier Alberola Rojas\n
+ 👥 الحضور: 11,264\n—————\n⚽ CD Extremadura v Sevilla (
+ 1 - 2)\n🏆 Copa del Rey — Round 2\n🗓 Thu 04 Dec 2025 · 20:00 UTC\n
+ 🏟 Estadio Francisco de la Hera, Almendralejo\nReferee: Javier Alberola 
+ Rojas\nAttendance: 11,264\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إكستريمادورا ضد إشبيلية — 
+ كأس ملك إسبانيا | Tomorrow: CD Extremadura vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إكستر
+ يمادورا × إشبيلية | Kick-off in 30 min: CD Extremadura vs S
+ evilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5091454@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251217T200000Z
+DTEND:20251217T220000Z
+SUMMARY:Deportivo Alavés vs Sevilla (1 - 0) — Copa del Rey
+LOCATION:Estadio de Mendizorroza\, Vitoria-Gasteiz\, Spain
+GEO:42.837076;-2.688247
+URL:https://www.fotmob.com/match/5091454
+DESCRIPTION:⚽ ديبورتيفو ألافيس × إشبيلية (1 - 0)\n
+ 🏆 كأس ملك إسبانيا — دور الـ32\n🗓 الأربعا
+ ء 17 ديسمبر 2025 · 23:00 بتوقيت الرياض\n🏟 Estadio d
+ e Mendizorroza، Vitoria-Gasteiz\n👥 الحضور: 9,766\n————
+ —\n⚽ Deportivo Alavés v Sevilla (1 - 0)\n🏆 Copa del Rey — Round 
+ of 32\n🗓 Wed 17 Dec 2025 · 20:00 UTC\n🏟 Estadio de Mendizorroza, Vi
+ toria-Gasteiz\nAttendance: 9,766\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد إشبيلي
+ ة — كأس ملك إسبانيا | Tomorrow: Deportivo Alavés vs Sevil
+ la
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × إشبيلية | Kick-off in 30 min: Deportivo Al
+ avés vs Sevilla
+END:VALARM
+END:VEVENT
+END:VCALENDAR

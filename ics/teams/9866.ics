@@ -1,0 +1,1439 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Deportivo Alavés — LaLiga & Copa del Rey Fixtures | د
+ يبورتيفو ألافيس — مباريات الدوري الإسبا
+ ني وكأس ملك إسبانيا
+X-WR-CALDESC:Deportivo Alavés — all matches in LaLiga & Copa del Rey\, e
+ xact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-update
+ d 2026-09-05T19:31:10Z.  •  ديبورتيفو ألافيس — جميع
+  المباريات في الدوري الإسباني وكأس ملك إ
+ سبانيا بتوقيت UTC الدقيق مع الملاعب والقن
+ وات الناقلة. المصدر: FotMob + 365scores · تحديث تل
+ قائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5868011@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260815T173000Z
+DTEND:20260815T193000Z
+SUMMARY:Deportivo Alavés vs Getafe (3 - 0) — LaLiga
+LOCATION:Estadio de Mendizorroza\, Vitoria-Gasteiz\, Spain
+GEO:42.837076;-2.688247
+URL:https://www.fotmob.com/match/5868011
+DESCRIPTION:⚽ ديبورتيفو ألافيس × خيتافي (3 - 0)\n
+ 🏆 الدوري الإسباني — الجولة 1\n🗓 السبت 15 
+ أغسطس 2026 · 20:30 بتوقيت الرياض\n🏟 Estadio de Mendiz
+ orroza، Vitoria-Gasteiz\n⚖️ الحكم: Manuel Jesús Orellana Cid\n
+ 👥 الحضور: 13,923\n—————\n⚽ Deportivo Alavés v Getafe
+  (3 - 0)\n🏆 LaLiga — Matchday 1\n🗓 Sat 15 Aug 2026 · 17:30 UTC\n
+ 🏟 Estadio de Mendizorroza, Vitoria-Gasteiz\nReferee: Manuel Jesús Orel
+ lana Cid\nAttendance: 13,923\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد خيتافي
+  — الدوري الإسباني | Tomorrow: Deportivo Alavés vs Getafe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × خيتافي | Kick-off in 30 min: Deportivo Alav
+ és vs Getafe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868029@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260820T190000Z
+DTEND:20260820T210000Z
+SUMMARY:Rayo Vallecano vs Deportivo Alavés (1 - 1) — LaLiga
+LOCATION:Estadio de Vallecas\, Madrid\, Spain
+GEO:40.391823;-3.658589
+URL:https://www.fotmob.com/match/5868029
+DESCRIPTION:⚽ رايو فاييكانو × ديبورتيفو ألافي
+ س (1 - 1)\n🏆 الدوري الإسباني — الجولة 2\n🗓 ا
+ لخميس 20 أغسطس 2026 · 22:00 بتوقيت الرياض\n🏟 Est
+ adio de Vallecas، Madrid\n⚖️ الحكم: José Luis Munuera Montero\n
+ 👥 الحضور: 4,280\n—————\n⚽ Rayo Vallecano v Deportivo 
+ Alavés (1 - 1)\n🏆 LaLiga — Matchday 2\n🗓 Thu 20 Aug 2026 · 19:00
+  UTC\n🏟 Estadio de Vallecas, Madrid\nReferee: José Luis Munuera Monter
+ o\nAttendance: 4,280\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد ديبورتيفو
+  ألافيس — الدوري الإسباني | Tomorrow: Rayo Vallecano
+  vs Deportivo Alavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × ديبورتيفو ألافيس | Kick-off in 30 min: Ra
+ yo Vallecano vs Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868031@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260828T193000Z
+DTEND:20260828T213000Z
+SUMMARY:Deportivo Alavés vs Villarreal (1 - 0) — LaLiga
+LOCATION:Estadio de Mendizorroza\, Vitoria-Gasteiz\, Spain
+GEO:42.837076;-2.688247
+URL:https://www.fotmob.com/match/5868031
+DESCRIPTION:⚽ ديبورتيفو ألافيس × فياريال (1 - 0)\n
+ 🏆 الدوري الإسباني — الجولة 3\n🗓 الجمعة 2
+ 8 أغسطس 2026 · 22:30 بتوقيت الرياض\n🏟 Estadio de Mend
+ izorroza، Vitoria-Gasteiz\n⚖️ الحكم: Isidro Díaz de Mera Escude
+ ros\n👥 الحضور: 15,556\n—————\n⚽ Deportivo Alavés v V
+ illarreal (1 - 0)\n🏆 LaLiga — Matchday 3\n🗓 Fri 28 Aug 2026 · 19:
+ 30 UTC\n🏟 Estadio de Mendizorroza, Vitoria-Gasteiz\nReferee: Isidro Dí
+ az de Mera Escuderos\nAttendance: 15,556\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد فياريا
+ ل — الدوري الإسباني | Tomorrow: Deportivo Alavés vs Vill
+ arreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × فياريال | Kick-off in 30 min: Deportivo Al
+ avés vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868041@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260906T163000Z
+DTEND:20260906T183000Z
+SUMMARY:Deportivo Alavés vs Osasuna — LaLiga
+LOCATION:Estadio de Mendizorroza\, Vitoria-Gasteiz\, Spain
+GEO:42.837076;-2.688247
+URL:https://www.fotmob.com/match/5868041
+DESCRIPTION:⚽ ديبورتيفو ألافيس × أوساسونا\n🏆 
+ الدوري الإسباني — الجولة 4\n🗓 الأحد 6 سبت
+ مبر 2026 · 19:30 بتوقيت الرياض\n🏟 Estadio de Mendizorro
+ za، Vitoria-Gasteiz\n📺 Bein Sports HD2\n—————\n⚽ Deportivo
+  Alavés v Osasuna\n🏆 LaLiga — Matchday 4\n🗓 Sun 06 Sep 2026 · 16
+ :30 UTC\n🏟 Estadio de Mendizorroza, Vitoria-Gasteiz\n📺 beIN Sport 2 
+ HD\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد أوساسو
+ نا — الدوري الإسباني — 📺 Bein Sports HD2 | Tomorrow
+ : Deportivo Alavés vs Osasuna | TV: beIN Sport 2 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × أوساسونا — 📺 Bein Sports HD2 | Kick-
+ off in 30 min: Deportivo Alavés vs Osasuna | TV: beIN Sport 2 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868056@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T120000Z
+DTEND:20260912T140000Z
+SUMMARY:Racing Santander vs Deportivo Alavés — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868056
+DESCRIPTION:⚽ راسينج سانتاندير × ديبورتيفو أل
+ افيس\n🏆 الدوري الإسباني — الجولة 5\n🗓 ال
+ سبت 12 سبتمبر 2026 · 15:00 بتوقيت الرياض\n🏟 Estad
+ io El Sardinero\n📺 Premier Sports 1 UK، LaLigaTV، Premier Sports Play
+ er، Premier Sports 1 ROI، beIN SPORTS CONNECT، beIN Sports Connect Sing
+ apore، FanCode، Now Player\n—————\n⚽ Racing Santander v Depo
+ rtivo Alavés\n🏆 LaLiga — Matchday 5\n🗓 Sat 12 Sep 2026 · 12:00 U
+ TC\n🏟 Estadio El Sardinero\n📺 Premier Sports 1 UK, LaLigaTV, Premier
+  Sports Player, Premier Sports 1 ROI, beIN SPORTS CONNECT, beIN Sports Con
+ nect Singapore, FanCode, Now Player\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد ديبورت
+ يفو ألافيس — الدوري الإسباني — 📺 Premier Spo
+ rts 1 UK، LaLigaTV، Premier Sports Player، Premier Sports 1 ROI، beIN 
+ SPORTS CONNECT، beIN Sports Connect Singapore، FanCode، Now Player | To
+ morrow: Racing Santander vs Deportivo Alavés | TV: Premier Sports 1 UK\, 
+ LaLigaTV\, Premier Sports Player\, Premier Sports 1 ROI\, beIN SPORTS CONN
+ ECT\, beIN Sports Connect Singapore\, FanCode\, Now Player
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × ديبورتيفو ألافيس — 📺 Premier 
+ Sports 1 UK، LaLigaTV، Premier Sports Player، Premier Sports 1 ROI، be
+ IN SPORTS CONNECT، beIN Sports Connect Singapore، FanCode، Now Player |
+  Kick-off in 30 min: Racing Santander vs Deportivo Alavés | TV: Premier S
+ ports 1 UK\, LaLigaTV\, Premier Sports Player\, Premier Sports 1 ROI\, beI
+ N SPORTS CONNECT\, beIN Sports Connect Singapore\, FanCode\, Now Player
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868061@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260915T180000Z
+DTEND:20260915T200000Z
+SUMMARY:Deportivo Alavés vs Valencia — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868061
+DESCRIPTION:⚽ ديبورتيفو ألافيس × فالنسيا\n🏆 ا
+ لدوري الإسباني — الجولة 6\n🗓 الثلاثاء 15 
+ سبتمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Estadio Mendizo
+ rroza\n—————\n⚽ Deportivo Alavés v Valencia\n🏆 LaLiga — 
+ Matchday 6\n🗓 Tue 15 Sep 2026 · 18:00 UTC\n🏟 Estadio Mendizorroza\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد فالنسي
+ ا — الدوري الإسباني | Tomorrow: Deportivo Alavés vs Vale
+ ncia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × فالنسيا | Kick-off in 30 min: Deportivo Al
+ avés vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868071@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T141500Z
+DTEND:20260919T161500Z
+SUMMARY:Athletic Club vs Deportivo Alavés — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868071
+DESCRIPTION:⚽ أتلتيك بلباو × ديبورتيفو ألافيس\
+ n🏆 الدوري الإسباني — الجولة 7\n🗓 السبت 19
+  سبتمبر 2026 · 17:15 بتوقيت الرياض\n🏟 San Mames\n—
+ ————\n⚽ Athletic Club v Deportivo Alavés\n🏆 LaLiga — Match
+ day 7\n🗓 Sat 19 Sep 2026 · 14:15 UTC\n🏟 San Mames\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد ديبورتيفو 
+ ألافيس — الدوري الإسباني | Tomorrow: Athletic Club v
+ s Deportivo Alavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × ديبورتيفو ألافيس | Kick-off in 30 min: Ath
+ letic Club vs Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868081@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Deportivo Alavés vs Atlético Madrid — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868081
+DESCRIPTION:⚽ ديبورتيفو ألافيس × أتلتيكو مدري
+ د\n🏆 الدوري الإسباني — الجولة 8\n🗓 الأحد
+  11 أكتوبر 2026 · 16:00 بتوقيت الرياض\n🏟 Estadio Men
+ dizorroza\n—————\n⚽ Deportivo Alavés v Atlético Madrid\n🏆
+  LaLiga — Matchday 8\n🗓 Sun 11 Oct 2026 · 13:00 UTC\n🏟 Estadio Me
+ ndizorroza\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد أتلتيك
+ و مدريد — الدوري الإسباني | Tomorrow: Deportivo Alav
+ és vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × أتلتيكو مدريد | Kick-off in 30 min: D
+ eportivo Alavés vs Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868092@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Celta Vigo vs Deportivo Alavés — LaLiga
+LOCATION:Abanca Balaidos
+URL:https://www.fotmob.com/match/5868092
+DESCRIPTION:⚽ سيلتا فيجو × ديبورتيفو ألافيس\n
+ 🏆 الدوري الإسباني — الجولة 9\n🗓 الأحد 18 
+ أكتوبر 2026 · 16:00 بتوقيت الرياض\n🏟 Abanca Balaidos
+ \n—————\n⚽ Celta Vigo v Deportivo Alavés\n🏆 LaLiga — Mat
+ chday 9\n🗓 Sun 18 Oct 2026 · 13:00 UTC\n🏟 Abanca Balaidos\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتا فيجو ضد ديبورتيفو أل
+ افيس — الدوري الإسباني | Tomorrow: Celta Vigo vs Depor
+ tivo Alavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتا 
+ فيجو × ديبورتيفو ألافيس | Kick-off in 30 min: Celta Vi
+ go vs Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868101@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Deportivo Alavés vs Málaga — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868101
+DESCRIPTION:⚽ ديبورتيفو ألافيس × مالقا\n🏆 الد
+ وري الإسباني — الجولة 10\n🗓 الأحد 25 أكتوب
+ ر 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio Mendizorroza\n—
+ ————\n⚽ Deportivo Alavés v Málaga\n🏆 LaLiga — Matchday 10
+ \n🗓 Sun 25 Oct 2026 · 14:00 UTC\n🏟 Estadio Mendizorroza\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد مالقا 
+ — الدوري الإسباني | Tomorrow: Deportivo Alavés vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × مالقا | Kick-off in 30 min: Deportivo Alavé
+ s vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868115@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Barcelona vs Deportivo Alavés — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868115
+DESCRIPTION:⚽ برشلونة × ديبورتيفو ألافيس\n🏆 ا
+ لدوري الإسباني — الجولة 11\n🗓 الأحد 1 نوف
+ مبر 2026 · 17:00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n—
+ ————\n⚽ Barcelona v Deportivo Alavés\n🏆 LaLiga — Matchday 
+ 11\n🗓 Sun 01 Nov 2026 · 14:00 UTC\n🏟 Spotify Camp Nou\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد ديبورتيفو ألافي
+ س — الدوري الإسباني | Tomorrow: Barcelona vs Deportivo Al
+ avés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × ديبورتيفو ألافيس | Kick-off in 30 min: Barcelona vs
+  Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868128@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Sevilla vs Deportivo Alavés — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868128
+DESCRIPTION:⚽ إشبيلية × ديبورتيفو ألافيس\n🏆 ا
+ لدوري الإسباني — الجولة 12\n🗓 الأحد 8 نوف
+ مبر 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio R. Sanchez Pi
+ zjuan\n—————\n⚽ Sevilla v Deportivo Alavés\n🏆 LaLiga — M
+ atchday 12\n🗓 Sun 08 Nov 2026 · 14:00 UTC\n🏟 Estadio R. Sanchez Piz
+ juan\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد ديبورتيفو ألافي
+ س — الدوري الإسباني | Tomorrow: Sevilla vs Deportivo Alav
+ és
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × ديبورتيفو ألافيس | Kick-off in 30 min: Sevilla vs D
+ eportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868131@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Deportivo Alavés vs Deportivo A Coruña — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868131
+DESCRIPTION:⚽ ديبورتيفو ألافيس × ديبورتيفو لا
+ كورونيا\n🏆 الدوري الإسباني — الجولة 13\n
+ 🗓 الأحد 22 نوفمبر 2026 · 17:00 بتوقيت الرياض\n
+ 🏟 Estadio Mendizorroza\n—————\n⚽ Deportivo Alavés v Deport
+ ivo A Coruña\n🏆 LaLiga — Matchday 13\n🗓 Sun 22 Nov 2026 · 14:00 
+ UTC\n🏟 Estadio Mendizorroza\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد ديبورت
+ يفو لاكورونيا — الدوري الإسباني | Tomorrow: De
+ portivo Alavés vs Deportivo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × ديبورتيفو لاكورونيا | Kick-off 
+ in 30 min: Deportivo Alavés vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868148@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T140000Z
+DTEND:20261129T160000Z
+SUMMARY:Real Madrid vs Deportivo Alavés — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868148
+DESCRIPTION:⚽ ريال مدريد × ديبورتيفو ألافيس\n
+ 🏆 الدوري الإسباني — الجولة 14\n🗓 الأحد 29
+  نوفمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio Bernab
+ eu\n—————\n⚽ Real Madrid v Deportivo Alavés\n🏆 LaLiga — 
+ Matchday 14\n🗓 Sun 29 Nov 2026 · 14:00 UTC\n🏟 Estadio Bernabeu\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد ديبورتيفو أل
+ افيس — الدوري الإسباني | Tomorrow: Real Madrid vs Depo
+ rtivo Alavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × ديبورتيفو ألافيس | Kick-off in 30 min: Real Mad
+ rid vs Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868151@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T140000Z
+DTEND:20261206T160000Z
+SUMMARY:Deportivo Alavés vs Espanyol — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868151
+DESCRIPTION:⚽ ديبورتيفو ألافيس × إسبانيول\n🏆 
+ الدوري الإسباني — الجولة 15\n🗓 الأحد 6 دي
+ سمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio Mendizorroz
+ a\n—————\n⚽ Deportivo Alavés v Espanyol\n🏆 LaLiga — Matc
+ hday 15\n🗓 Sun 06 Dec 2026 · 14:00 UTC\n🏟 Estadio Mendizorroza\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد إسباني
+ ول — الدوري الإسباني | Tomorrow: Deportivo Alavés vs Es
+ panyol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × إسبانيول | Kick-off in 30 min: Deportivo 
+ Alavés vs Espanyol
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868166@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T140000Z
+DTEND:20261213T160000Z
+SUMMARY:Levante vs Deportivo Alavés — LaLiga
+LOCATION:Estadio Ciudad de Valencia
+URL:https://www.fotmob.com/match/5868166
+DESCRIPTION:⚽ ليفانتي × ديبورتيفو ألافيس\n🏆 ا
+ لدوري الإسباني — الجولة 16\n🗓 الأحد 13 ديس
+ مبر 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio Ciudad de Val
+ encia\n—————\n⚽ Levante v Deportivo Alavés\n🏆 LaLiga — M
+ atchday 16\n🗓 Sun 13 Dec 2026 · 14:00 UTC\n🏟 Estadio Ciudad de Vale
+ ncia\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفانتي ضد ديبورتيفو ألافي
+ س — الدوري الإسباني | Tomorrow: Levante vs Deportivo Alav
+ és
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفان
+ تي × ديبورتيفو ألافيس | Kick-off in 30 min: Levante vs D
+ eportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868171@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T140000Z
+DTEND:20261220T160000Z
+SUMMARY:Deportivo Alavés vs Elche — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868171
+DESCRIPTION:⚽ ديبورتيفو ألافيس × إلتشي\n🏆 الد
+ وري الإسباني — الجولة 17\n🗓 الأحد 20 ديسمب
+ ر 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio Mendizorroza\n—
+ ————\n⚽ Deportivo Alavés v Elche\n🏆 LaLiga — Matchday 17\n
+ 🗓 Sun 20 Dec 2026 · 14:00 UTC\n🏟 Estadio Mendizorroza\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد إلتشي 
+ — الدوري الإسباني | Tomorrow: Deportivo Alavés vs Elche
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × إلتشي | Kick-off in 30 min: Deportivo Alavé
+ s vs Elche
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868181@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T140000Z
+DTEND:20270103T160000Z
+SUMMARY:Real Betis vs Deportivo Alavés — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868181
+DESCRIPTION:⚽ ريال بيتيس × ديبورتيفو ألافيس\n
+ 🏆 الدوري الإسباني — الجولة 18\n🗓 الأحد 3 
+ يناير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio de La Car
+ tuja\n—————\n⚽ Real Betis v Deportivo Alavés\n🏆 LaLiga —
+  Matchday 18\n🗓 Sun 03 Jan 2027 · 14:00 UTC\n🏟 Estadio de La Cartuj
+ a\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد ديبورتيفو أل
+ افيس — الدوري الإسباني | Tomorrow: Real Betis vs Depor
+ tivo Alavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × ديبورتيفو ألافيس | Kick-off in 30 min: Real Bet
+ is vs Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868191@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T140000Z
+DTEND:20270110T160000Z
+SUMMARY:Deportivo Alavés vs Real Sociedad — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868191
+DESCRIPTION:⚽ ديبورتيفو ألافيس × ريال سوسيداد\
+ n🏆 الدوري الإسباني — الجولة 19\n🗓 الأحد 1
+ 0 يناير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio Mendizo
+ rroza\n—————\n⚽ Deportivo Alavés v Real Sociedad\n🏆 LaLiga
+  — Matchday 19\n🗓 Sun 10 Jan 2027 · 14:00 UTC\n🏟 Estadio Mendizor
+ roza\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد ريال س
+ وسيداد — الدوري الإسباني | Tomorrow: Deportivo Alav
+ és vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × ريال سوسيداد | Kick-off in 30 min: Dep
+ ortivo Alavés vs Real Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868210@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T140000Z
+DTEND:20270117T160000Z
+SUMMARY:Villarreal vs Deportivo Alavés — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868210
+DESCRIPTION:⚽ فياريال × ديبورتيفو ألافيس\n🏆 ا
+ لدوري الإسباني — الجولة 20\n🗓 الأحد 17 ينا
+ ير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio de la Ceramica\
+ n—————\n⚽ Villarreal v Deportivo Alavés\n🏆 LaLiga — Matc
+ hday 20\n🗓 Sun 17 Jan 2027 · 14:00 UTC\n🏟 Estadio de la Ceramica\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد ديبورتيفو ألافي
+ س — الدوري الإسباني | Tomorrow: Villarreal vs Deportivo A
+ lavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × ديبورتيفو ألافيس | Kick-off in 30 min: Villarreal v
+ s Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868211@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T140000Z
+DTEND:20270124T160000Z
+SUMMARY:Deportivo Alavés vs Barcelona — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868211
+DESCRIPTION:⚽ ديبورتيفو ألافيس × برشلونة\n🏆 ا
+ لدوري الإسباني — الجولة 21\n🗓 الأحد 24 ينا
+ ير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio Mendizorroza\n
+ —————\n⚽ Deportivo Alavés v Barcelona\n🏆 LaLiga — Matchd
+ ay 21\n🗓 Sun 24 Jan 2027 · 14:00 UTC\n🏟 Estadio Mendizorroza\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد برشلون
+ ة — الدوري الإسباني | Tomorrow: Deportivo Alavés vs Barc
+ elona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × برشلونة | Kick-off in 30 min: Deportivo Al
+ avés vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868226@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Málaga vs Deportivo Alavés — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868226
+DESCRIPTION:⚽ مالقا × ديبورتيفو ألافيس\n🏆 الد
+ وري الإسباني — الجولة 22\n🗓 الأحد 31 يناير
+  2027 · 17:00 بتوقيت الرياض\n🏟 Estadio La Rosaleda\n——
+ ———\n⚽ Málaga v Deportivo Alavés\n🏆 LaLiga — Matchday 22\n
+ 🗓 Sun 31 Jan 2027 · 14:00 UTC\n🏟 Estadio La Rosaleda\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد ديبورتيفو ألافيس 
+ — الدوري الإسباني | Tomorrow: Málaga vs Deportivo Alavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × ديبورتيفو ألافيس | Kick-off in 30 min: Málaga vs Deport
+ ivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868231@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:Deportivo Alavés vs Celta Vigo — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868231
+DESCRIPTION:⚽ ديبورتيفو ألافيس × سيلتا فيجو\n
+ 🏆 الدوري الإسباني — الجولة 23\n🗓 الأحد 7 
+ فبراير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio Mendizo
+ rroza\n—————\n⚽ Deportivo Alavés v Celta Vigo\n🏆 LaLiga 
+ — Matchday 23\n🗓 Sun 07 Feb 2027 · 14:00 UTC\n🏟 Estadio Mendizorr
+ oza\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد سيلتا 
+ فيجو — الدوري الإسباني | Tomorrow: Deportivo Alavés v
+ s Celta Vigo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × سيلتا فيجو | Kick-off in 30 min: Deporti
+ vo Alavés vs Celta Vigo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868249@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T140000Z
+DTEND:20270214T160000Z
+SUMMARY:Valencia vs Deportivo Alavés — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868249
+DESCRIPTION:⚽ فالنسيا × ديبورتيفو ألافيس\n🏆 ا
+ لدوري الإسباني — الجولة 24\n🗓 الأحد 14 فبر
+ اير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio Mestalla\n—
+ ————\n⚽ Valencia v Deportivo Alavés\n🏆 LaLiga — Matchday 2
+ 4\n🗓 Sun 14 Feb 2027 · 14:00 UTC\n🏟 Estadio Mestalla\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد ديبورتيفو ألافي
+ س — الدوري الإسباني | Tomorrow: Valencia vs Deportivo Ala
+ vés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × ديبورتيفو ألافيس | Kick-off in 30 min: Valencia vs 
+ Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868251@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T140000Z
+DTEND:20270221T160000Z
+SUMMARY:Deportivo Alavés vs Racing Santander — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868251
+DESCRIPTION:⚽ ديبورتيفو ألافيس × راسينج سانتا
+ ندير\n🏆 الدوري الإسباني — الجولة 25\n🗓 ا
+ لأحد 21 فبراير 2027 · 17:00 بتوقيت الرياض\n🏟 Est
+ adio Mendizorroza\n—————\n⚽ Deportivo Alavés v Racing Santand
+ er\n🏆 LaLiga — Matchday 25\n🗓 Sun 21 Feb 2027 · 14:00 UTC\n🏟 E
+ stadio Mendizorroza\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد راسينج
+  سانتاندير — الدوري الإسباني | Tomorrow: Deportiv
+ o Alavés vs Racing Santander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × راسينج سانتاندير | Kick-off in 30 
+ min: Deportivo Alavés vs Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868264@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T140000Z
+DTEND:20270228T160000Z
+SUMMARY:Getafe vs Deportivo Alavés — LaLiga
+LOCATION:Coliseum
+URL:https://www.fotmob.com/match/5868264
+DESCRIPTION:⚽ خيتافي × ديبورتيفو ألافيس\n🏆 ال
+ دوري الإسباني — الجولة 26\n🗓 الأحد 28 فبرا
+ ير 2027 · 17:00 بتوقيت الرياض\n🏟 Coliseum\n————
+ —\n⚽ Getafe v Deportivo Alavés\n🏆 LaLiga — Matchday 26\n🗓 Sun
+  28 Feb 2027 · 14:00 UTC\n🏟 Coliseum\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: خيتافي ضد ديبورتيفو ألافيس
+  — الدوري الإسباني | Tomorrow: Getafe vs Deportivo Alavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: خيتاف
+ ي × ديبورتيفو ألافيس | Kick-off in 30 min: Getafe vs Depo
+ rtivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868271@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T140000Z
+DTEND:20270307T160000Z
+SUMMARY:Deportivo Alavés vs Athletic Club — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868271
+DESCRIPTION:⚽ ديبورتيفو ألافيس × أتلتيك بلباو\
+ n🏆 الدوري الإسباني — الجولة 27\n🗓 الأحد 7
+  مارس 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio Mendizorro
+ za\n—————\n⚽ Deportivo Alavés v Athletic Club\n🏆 LaLiga 
+ — Matchday 27\n🗓 Sun 07 Mar 2027 · 14:00 UTC\n🏟 Estadio Mendizorr
+ oza\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد أتلتيك
+  بلباو — الدوري الإسباني | Tomorrow: Deportivo Alavé
+ s vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × أتلتيك بلباو | Kick-off in 30 min: Dep
+ ortivo Alavés vs Athletic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868281@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T140000Z
+DTEND:20270314T160000Z
+SUMMARY:Deportivo Alavés vs Sevilla — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868281
+DESCRIPTION:⚽ ديبورتيفو ألافيس × إشبيلية\n🏆 ا
+ لدوري الإسباني — الجولة 28\n🗓 الأحد 14 مار
+ س 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio Mendizorroza\n—
+ ————\n⚽ Deportivo Alavés v Sevilla\n🏆 LaLiga — Matchday 28
+ \n🗓 Sun 14 Mar 2027 · 14:00 UTC\n🏟 Estadio Mendizorroza\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد إشبيلي
+ ة — الدوري الإسباني | Tomorrow: Deportivo Alavés vs Sevi
+ lla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × إشبيلية | Kick-off in 30 min: Deportivo Al
+ avés vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868297@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T140000Z
+DTEND:20270321T160000Z
+SUMMARY:Real Sociedad vs Deportivo Alavés — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868297
+DESCRIPTION:⚽ ريال سوسيداد × ديبورتيفو ألافيس\
+ n🏆 الدوري الإسباني — الجولة 29\n🗓 الأحد 2
+ 1 مارس 2027 · 17:00 بتوقيت الرياض\n🏟 Reale Arena\n—
+ ————\n⚽ Real Sociedad v Deportivo Alavés\n🏆 LaLiga — Match
+ day 29\n🗓 Sun 21 Mar 2027 · 14:00 UTC\n🏟 Reale Arena\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد ديبورتيفو 
+ ألافيس — الدوري الإسباني | Tomorrow: Real Sociedad v
+ s Deportivo Alavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × ديبورتيفو ألافيس | Kick-off in 30 min: Real
+  Sociedad vs Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868304@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T130000Z
+DTEND:20270404T150000Z
+SUMMARY:Elche vs Deportivo Alavés — LaLiga
+LOCATION:Estadio Martinez Valero
+URL:https://www.fotmob.com/match/5868304
+DESCRIPTION:⚽ إلتشي × ديبورتيفو ألافيس\n🏆 الد
+ وري الإسباني — الجولة 30\n🗓 الأحد 4 أبريل 
+ 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio Martinez Valero\n—
+ ————\n⚽ Elche v Deportivo Alavés\n🏆 LaLiga — Matchday 30\n
+ 🗓 Sun 04 Apr 2027 · 13:00 UTC\n🏟 Estadio Martinez Valero\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلتشي ضد ديبورتيفو ألافيس 
+ — الدوري الإسباني | Tomorrow: Elche vs Deportivo Alavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلتشي 
+ × ديبورتيفو ألافيس | Kick-off in 30 min: Elche vs Deportiv
+ o Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868311@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T130000Z
+DTEND:20270411T150000Z
+SUMMARY:Deportivo Alavés vs Real Betis — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868311
+DESCRIPTION:⚽ ديبورتيفو ألافيس × ريال بيتيس\n
+ 🏆 الدوري الإسباني — الجولة 31\n🗓 الأحد 11
+  أبريل 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio Mendizor
+ roza\n—————\n⚽ Deportivo Alavés v Real Betis\n🏆 LaLiga —
+  Matchday 31\n🗓 Sun 11 Apr 2027 · 13:00 UTC\n🏟 Estadio Mendizorroza
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد ريال ب
+ يتيس — الدوري الإسباني | Tomorrow: Deportivo Alavés v
+ s Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × ريال بيتيس | Kick-off in 30 min: Deporti
+ vo Alavés vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868321@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T130000Z
+DTEND:20270418T150000Z
+SUMMARY:Deportivo Alavés vs Rayo Vallecano — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868321
+DESCRIPTION:⚽ ديبورتيفو ألافيس × رايو فاييكان
+ و\n🏆 الدوري الإسباني — الجولة 32\n🗓 الأح
+ د 18 أبريل 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio Men
+ dizorroza\n—————\n⚽ Deportivo Alavés v Rayo Vallecano\n🏆 L
+ aLiga — Matchday 32\n🗓 Sun 18 Apr 2027 · 13:00 UTC\n🏟 Estadio Men
+ dizorroza\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد رايو ف
+ اييكانو — الدوري الإسباني | Tomorrow: Deportivo Ala
+ vés vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × رايو فاييكانو | Kick-off in 30 min: D
+ eportivo Alavés vs Rayo Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868335@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270421T130000Z
+DTEND:20270421T150000Z
+SUMMARY:Osasuna vs Deportivo Alavés — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868335
+DESCRIPTION:⚽ أوساسونا × ديبورتيفو ألافيس\n🏆 
+ الدوري الإسباني — الجولة 33\n🗓 الأربعاء 2
+ 1 أبريل 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio El Sada
+ r\n—————\n⚽ Osasuna v Deportivo Alavés\n🏆 LaLiga — Match
+ day 33\n🗓 Wed 21 Apr 2027 · 13:00 UTC\n🏟 Estadio El Sadar\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد ديبورتيفو ألاف
+ يس — الدوري الإسباني | Tomorrow: Osasuna vs Deportivo Al
+ avés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × ديبورتيفو ألافيس | Kick-off in 30 min: Osasuna vs
+  Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868341@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T130000Z
+DTEND:20270502T150000Z
+SUMMARY:Atlético Madrid vs Deportivo Alavés — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868341
+DESCRIPTION:⚽ أتلتيكو مدريد × ديبورتيفو ألافي
+ س\n🏆 الدوري الإسباني — الجولة 34\n🗓 الأح
+ د 2 مايو 2027 · 16:00 بتوقيت الرياض\n🏟 Riyadh Air Met
+ ropolitano\n—————\n⚽ Atlético Madrid v Deportivo Alavés\n
+ 🏆 LaLiga — Matchday 34\n🗓 Sun 02 May 2027 · 13:00 UTC\n🏟 Riyad
+ h Air Metropolitano\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد ديبورتيفو
+  ألافيس — الدوري الإسباني | Tomorrow: Atlético Madr
+ id vs Deportivo Alavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × ديبورتيفو ألافيس | Kick-off in 30 min: A
+ tlético Madrid vs Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868351@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T130000Z
+DTEND:20270509T150000Z
+SUMMARY:Deportivo Alavés vs Levante — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868351
+DESCRIPTION:⚽ ديبورتيفو ألافيس × ليفانتي\n🏆 ا
+ لدوري الإسباني — الجولة 35\n🗓 الأحد 9 ماي
+ و 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio Mendizorroza\n—
+ ————\n⚽ Deportivo Alavés v Levante\n🏆 LaLiga — Matchday 35
+ \n🗓 Sun 09 May 2027 · 13:00 UTC\n🏟 Estadio Mendizorroza\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد ليفانت
+ ي — الدوري الإسباني | Tomorrow: Deportivo Alavés vs Leva
+ nte
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × ليفانتي | Kick-off in 30 min: Deportivo Al
+ avés vs Levante
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868362@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T130000Z
+DTEND:20270516T150000Z
+SUMMARY:Deportivo A Coruña vs Deportivo Alavés — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868362
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × ديبورتيفو
+  ألافيس\n🏆 الدوري الإسباني — الجولة 36\n
+ 🗓 الأحد 16 مايو 2027 · 16:00 بتوقيت الرياض\n🏟 
+ Abanca-Riazor\n—————\n⚽ Deportivo A Coruña v Deportivo Alavé
+ s\n🏆 LaLiga — Matchday 36\n🗓 Sun 16 May 2027 · 13:00 UTC\n🏟 Ab
+ anca-Riazor\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد ديب
+ ورتيفو ألافيس — الدوري الإسباني | Tomorrow: De
+ portivo A Coruña vs Deportivo Alavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × ديبورتيفو ألافيس | Kick-off 
+ in 30 min: Deportivo A Coruña vs Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868371@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T130000Z
+DTEND:20270523T150000Z
+SUMMARY:Deportivo Alavés vs Real Madrid — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868371
+DESCRIPTION:⚽ ديبورتيفو ألافيس × ريال مدريد\n
+ 🏆 الدوري الإسباني — الجولة 37\n🗓 الأحد 23
+  مايو 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio Mendizorro
+ za\n—————\n⚽ Deportivo Alavés v Real Madrid\n🏆 LaLiga — 
+ Matchday 37\n🗓 Sun 23 May 2027 · 13:00 UTC\n🏟 Estadio Mendizorroza\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد ريال م
+ دريد — الدوري الإسباني | Tomorrow: Deportivo Alavés v
+ s Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × ريال مدريد | Kick-off in 30 min: Deporti
+ vo Alavés vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868384@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T130000Z
+DTEND:20270530T150000Z
+SUMMARY:Espanyol vs Deportivo Alavés — LaLiga
+LOCATION:RCDE Stadium
+URL:https://www.fotmob.com/match/5868384
+DESCRIPTION:⚽ إسبانيول × ديبورتيفو ألافيس\n🏆 
+ الدوري الإسباني — الجولة 38\n🗓 الأحد 30 ما
+ يو 2027 · 16:00 بتوقيت الرياض\n🏟 RCDE Stadium\n———
+ ——\n⚽ Espanyol v Deportivo Alavés\n🏆 LaLiga — Matchday 38\n
+ 🗓 Sun 30 May 2027 · 13:00 UTC\n🏟 RCDE Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إسبانيول ضد ديبورتيفو ألاف
+ يس — الدوري الإسباني | Tomorrow: Espanyol vs Deportivo A
+ lavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إسبان
+ يول × ديبورتيفو ألافيس | Kick-off in 30 min: Espanyol v
+ s Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-4995988@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251030T190000Z
+DTEND:20251030T210000Z
+SUMMARY:CD Getxo vs Deportivo Alavés (0 - 7) — Copa del Rey
+LOCATION:Estadio Municipal de Gobela\, Getxo\, Spain
+GEO:43.331468;-3.006467
+URL:https://www.fotmob.com/match/4995988
+DESCRIPTION:⚽ جيتكسو × ديبورتيفو ألافيس (0 - 7)\n
+ 🏆 كأس ملك إسبانيا — الدور الأول\n🗓 الخم
+ يس 30 أكتوبر 2025 · 22:00 بتوقيت الرياض\n🏟 Estadio
+  Municipal de Gobela، Getxo\n👥 الحضور: 1,089\n—————\n
+ ⚽ CD Getxo v Deportivo Alavés (0 - 7)\n🏆 Copa del Rey — Round 1\n
+ 🗓 Thu 30 Oct 2025 · 19:00 UTC\n🏟 Estadio Municipal de Gobela, Getxo
+ \nAttendance: 1,089\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جيتكسو ضد ديبورتيفو ألافيس
+  — كأس ملك إسبانيا | Tomorrow: CD Getxo vs Deportivo Alavé
+ s
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جيتكس
+ و × ديبورتيفو ألافيس | Kick-off in 30 min: CD Getxo vs De
+ portivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057310@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251202T180000Z
+DTEND:20251202T200000Z
+SUMMARY:Portugalete vs Deportivo Alavés (0 - 3) — Copa del Rey
+LOCATION:Estadio La Florida\, Portugalete\, Spain
+GEO:43.318914;-3.026336
+URL:https://www.fotmob.com/match/5057310
+DESCRIPTION:⚽ كلوب بورتوغاليتى × ديبورتيفو أل
+ افيس (0 - 3)\n🏆 كأس ملك إسبانيا — الدور الث
+ اني\n🗓 الثلاثاء 2 ديسمبر 2025 · 21:00 بتوقيت ا
+ لرياض\n🏟 Estadio La Florida، Portugalete\n⚖️ الحكم: Alej
+ andro Muñíz Ruiz\n👥 الحضور: 3,050\n—————\n⚽ Portuga
+ lete v Deportivo Alavés (0 - 3)\n🏆 Copa del Rey — Round 2\n🗓 Tue 
+ 02 Dec 2025 · 18:00 UTC\n🏟 Estadio La Florida, Portugalete\nReferee: A
+ lejandro Muñíz Ruiz\nAttendance: 3,050\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كلوب بورتوغاليتى ضد ديبورت
+ يفو ألافيس — كأس ملك إسبانيا | Tomorrow: Portugale
+ te vs Deportivo Alavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كلوب ب
+ ورتوغاليتى × ديبورتيفو ألافيس | Kick-off in 30 m
+ in: Portugalete vs Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5091454@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251217T200000Z
+DTEND:20251217T220000Z
+SUMMARY:Deportivo Alavés vs Sevilla (1 - 0) — Copa del Rey
+LOCATION:Estadio de Mendizorroza\, Vitoria-Gasteiz\, Spain
+GEO:42.837076;-2.688247
+URL:https://www.fotmob.com/match/5091454
+DESCRIPTION:⚽ ديبورتيفو ألافيس × إشبيلية (1 - 0)\n
+ 🏆 كأس ملك إسبانيا — دور الـ32\n🗓 الأربعا
+ ء 17 ديسمبر 2025 · 23:00 بتوقيت الرياض\n🏟 Estadio d
+ e Mendizorroza، Vitoria-Gasteiz\n👥 الحضور: 9,766\n————
+ —\n⚽ Deportivo Alavés v Sevilla (1 - 0)\n🏆 Copa del Rey — Round 
+ of 32\n🗓 Wed 17 Dec 2025 · 20:00 UTC\n🏟 Estadio de Mendizorroza, Vi
+ toria-Gasteiz\nAttendance: 9,766\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد إشبيلي
+ ة — كأس ملك إسبانيا | Tomorrow: Deportivo Alavés vs Sevil
+ la
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × إشبيلية | Kick-off in 30 min: Deportivo Al
+ avés vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5125321@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260114T200000Z
+DTEND:20260114T220000Z
+SUMMARY:Deportivo Alavés vs Rayo Vallecano (2 - 0) — Copa del Rey
+LOCATION:Estadio de Mendizorroza\, Vitoria-Gasteiz\, Spain
+GEO:42.837076;-2.688247
+URL:https://www.fotmob.com/match/5125321
+DESCRIPTION:⚽ ديبورتيفو ألافيس × رايو فاييكان
+ و (2 - 0)\n🏆 كأس ملك إسبانيا — دور الـ16\n🗓 ا
+ لأربعاء 14 يناير 2026 · 23:00 بتوقيت الرياض\n🏟
+  Estadio de Mendizorroza، Vitoria-Gasteiz\n⚖️ الحكم: Francisco J
+ osé Hernández Maeso\n👥 الحضور: 10,634\n—————\n⚽ Dep
+ ortivo Alavés v Rayo Vallecano (2 - 0)\n🏆 Copa del Rey — Round of 16
+ \n🗓 Wed 14 Jan 2026 · 20:00 UTC\n🏟 Estadio de Mendizorroza, Vitoria
+ -Gasteiz\nReferee: Francisco José Hernández Maeso\nAttendance: 10,634\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد رايو ف
+ اييكانو — كأس ملك إسبانيا | Tomorrow: Deportivo Alav
+ és vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × رايو فاييكانو | Kick-off in 30 min: D
+ eportivo Alavés vs Rayo Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5144837@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260204T200000Z
+DTEND:20260204T220000Z
+SUMMARY:Deportivo Alavés vs Real Sociedad (2 - 3) — Copa del Rey
+LOCATION:Estadio de Mendizorroza\, Vitoria-Gasteiz\, Spain
+GEO:42.837076;-2.688247
+URL:https://www.fotmob.com/match/5144837
+DESCRIPTION:⚽ ديبورتيفو ألافيس × ريال سوسيداد 
+ (2 - 3)\n🏆 كأس ملك إسبانيا — ربع النهائي\n🗓
+  الأربعاء 4 فبراير 2026 · 23:00 بتوقيت الرياض\n
+ 🏟 Estadio de Mendizorroza، Vitoria-Gasteiz\n⚖️ الحكم: Alejand
+ ro Quintero González\n👥 الحضور: 18,874\n—————\n⚽ Dep
+ ortivo Alavés v Real Sociedad (2 - 3)\n🏆 Copa del Rey — Quarter-Fina
+ ls\n🗓 Wed 04 Feb 2026 · 20:00 UTC\n🏟 Estadio de Mendizorroza, Vitor
+ ia-Gasteiz\nReferee: Alejandro Quintero González\nAttendance: 18,874\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد ريال س
+ وسيداد — كأس ملك إسبانيا | Tomorrow: Deportivo Alavé
+ s vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × ريال سوسيداد | Kick-off in 30 min: Dep
+ ortivo Alavés vs Real Sociedad
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,300 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Johor Darul Ta'zim — AFC Champions League Elite Fixtures
+  | جوهور — مباريات دوري أبطال آسيا للنخبة
+X-WR-CALDESC:Johor Darul Ta'zim — all matches in AFC Champions League Eli
+ te\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-
+ updated 2026-09-05T19:31:10Z.  •  جوهور — جميع المباري
+ ات في دوري أبطال آسيا للنخبة بتوقيت UTC ال
+ دقيق مع الملاعب والقنوات الناقلة. المصدر
+ : FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6049981@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260915T121500Z
+DTEND:20260915T141500Z
+SUMMARY:Johor Darul Ta'zim vs Buriram United — AFC Champions League Elite
+LOCATION:Stadium Sultan Ibrahim Larkin\, Iskandar Puteri (Nusajaya)\, Malay
+ sia
+GEO:1.481781;103.619313
+URL:https://www.fotmob.com/match/6049981
+DESCRIPTION:⚽ جوهور × بوريرام يونايتد\n🏆 دوري 
+ أبطال آسيا للنخبة — الجولة 1\n🗓 الثلاثاء
+  15 سبتمبر 2026 · 15:15 بتوقيت الرياض\n🏟 Stadium Sul
+ tan Ibrahim Larkin، Iskandar Puteri (Nusajaya)\n—————\n⚽ Joho
+ r Darul Ta'zim v Buriram United\n🏆 AFC Champions League Elite — Match
+ day 1\n🗓 Tue 15 Sep 2026 · 12:15 UTC\n🏟 Stadium Sultan Ibrahim Lark
+ in, Iskandar Puteri (Nusajaya)\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جوهور ضد بوريرام يونايتد —
+  دوري أبطال آسيا للنخبة | Tomorrow: Johor Darul Ta'zim 
+ vs Buriram United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جوهور 
+ × بوريرام يونايتد | Kick-off in 30 min: Johor Darul Ta'zim 
+ vs Buriram United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049988@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261013T100000Z
+DTEND:20261013T120000Z
+SUMMARY:Pohang Steelers vs Johor Darul Ta'zim — AFC Champions League Elit
+ e
+LOCATION:Steelyard\, Pohang\, South Korea
+GEO:35.997738;129.384393
+URL:https://www.fotmob.com/match/6049988
+DESCRIPTION:⚽ بوهانغ ستيليرز × جوهور\n🏆 دوري أ
+ بطال آسيا للنخبة — الجولة 2\n🗓 الثلاثاء 1
+ 3 أكتوبر 2026 · 13:00 بتوقيت الرياض\n🏟 Steelyard، P
+ ohang\n—————\n⚽ Pohang Steelers v Johor Darul Ta'zim\n🏆 AFC
+  Champions League Elite — Matchday 2\n🗓 Tue 13 Oct 2026 · 10:00 UTC\
+ n🏟 Steelyard, Pohang\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوهانغ ستيليرز ضد جوهور — 
+ دوري أبطال آسيا للنخبة | Tomorrow: Pohang Steelers vs J
+ ohor Darul Ta'zim
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوهان
+ غ ستيليرز × جوهور | Kick-off in 30 min: Pohang Steelers vs J
+ ohor Darul Ta'zim
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049993@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261027T110000Z
+DTEND:20261027T130000Z
+SUMMARY:Johor Darul Ta'zim vs Port FC — AFC Champions League Elite
+LOCATION:Stadium Sultan Ibrahim Larkin\, Iskandar Puteri (Nusajaya)\, Malay
+ sia
+GEO:1.481781;103.619313
+URL:https://www.fotmob.com/match/6049993
+DESCRIPTION:⚽ جوهور × Port FC\n🏆 دوري أبطال آسيا ل
+ لنخبة — الجولة 3\n🗓 الثلاثاء 27 أكتوبر 2026 
+ · 14:00 بتوقيت الرياض\n🏟 Stadium Sultan Ibrahim Larkin، I
+ skandar Puteri (Nusajaya)\n—————\n⚽ Johor Darul Ta'zim v Port 
+ FC\n🏆 AFC Champions League Elite — Matchday 3\n🗓 Tue 27 Oct 2026 
+ · 11:00 UTC\n🏟 Stadium Sultan Ibrahim Larkin, Iskandar Puteri (Nusajay
+ a)\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جوهور ضد Port FC — دوري أبطال 
+ آسيا للنخبة | Tomorrow: Johor Darul Ta'zim vs Port FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جوهور 
+ × Port FC | Kick-off in 30 min: Johor Darul Ta'zim vs Port FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050001@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261103T110000Z
+DTEND:20261103T130000Z
+SUMMARY:Jeonbuk Hyundai Motors FC vs Johor Darul Ta'zim — AFC Champions L
+ eague Elite
+LOCATION:Jeonju World Cup Stadium\, Jeonju\, South Korea
+GEO:35.868130;127.064492
+URL:https://www.fotmob.com/match/6050001
+DESCRIPTION:⚽ تشانبوك موتورز × جوهور\n🏆 دوري أ
+ بطال آسيا للنخبة — الجولة 4\n🗓 الثلاثاء 3
+  نوفمبر 2026 · 14:00 بتوقيت الرياض\n🏟 Jeonju World C
+ up Stadium، Jeonju\n—————\n⚽ Jeonbuk Hyundai Motors FC v Joho
+ r Darul Ta'zim\n🏆 AFC Champions League Elite — Matchday 4\n🗓 Tue 0
+ 3 Nov 2026 · 11:00 UTC\n🏟 Jeonju World Cup Stadium, Jeonju\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشانبوك موتورز ضد جوهور — 
+ دوري أبطال آسيا للنخبة | Tomorrow: Jeonbuk Hyundai Moto
+ rs FC vs Johor Darul Ta'zim
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشانب
+ وك موتورز × جوهور | Kick-off in 30 min: Jeonbuk Hyundai Moto
+ rs FC vs Johor Darul Ta'zim
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050012@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261124T131500Z
+DTEND:20261124T151500Z
+SUMMARY:Ratchaburi FC vs Johor Darul Ta'zim — AFC Champions League Elite
+LOCATION:Ratchaburi Stadium\, Ratchaburi\, Thailand
+GEO:13.521608;99.769846
+URL:https://www.fotmob.com/match/6050012
+DESCRIPTION:⚽ راتشابوري × جوهور\n🏆 دوري أبطال 
+ آسيا للنخبة — الجولة 5\n🗓 الثلاثاء 24 نوف
+ مبر 2026 · 16:15 بتوقيت الرياض\n🏟 Ratchaburi Stadium، 
+ Ratchaburi\n—————\n⚽ Ratchaburi FC v Johor Darul Ta'zim\n🏆 
+ AFC Champions League Elite — Matchday 5\n🗓 Tue 24 Nov 2026 · 13:15 U
+ TC\n🏟 Ratchaburi Stadium, Ratchaburi\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راتشابوري ضد جوهور — دوري 
+ أبطال آسيا للنخبة | Tomorrow: Ratchaburi FC vs Johor Darul 
+ Ta'zim
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راتشا
+ بوري × جوهور | Kick-off in 30 min: Ratchaburi FC vs Johor Darul 
+ Ta'zim
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050021@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261201T131500Z
+DTEND:20261201T151500Z
+SUMMARY:Johor Darul Ta'zim vs Daejeon Hana Citizen — AFC Champions League
+  Elite
+LOCATION:Stadium Sultan Ibrahim Larkin\, Iskandar Puteri (Nusajaya)\, Malay
+ sia
+GEO:1.481781;103.619313
+URL:https://www.fotmob.com/match/6050021
+DESCRIPTION:⚽ جوهور × دايجيون سيتيزن\n🏆 دوري أ
+ بطال آسيا للنخبة — الجولة 6\n🗓 الثلاثاء 1
+  ديسمبر 2026 · 16:15 بتوقيت الرياض\n🏟 Stadium Sultan
+  Ibrahim Larkin، Iskandar Puteri (Nusajaya)\n—————\n⚽ Johor D
+ arul Ta'zim v Daejeon Hana Citizen\n🏆 AFC Champions League Elite — Ma
+ tchday 6\n🗓 Tue 01 Dec 2026 · 13:15 UTC\n🏟 Stadium Sultan Ibrahim L
+ arkin, Iskandar Puteri (Nusajaya)\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جوهور ضد دايجيون سيتيزن — 
+ دوري أبطال آسيا للنخبة | Tomorrow: Johor Darul Ta'zim v
+ s Daejeon Hana Citizen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جوهور 
+ × دايجيون سيتيزن | Kick-off in 30 min: Johor Darul Ta'zim vs
+  Daejeon Hana Citizen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050024@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270209T084500Z
+DTEND:20270209T104500Z
+SUMMARY:Newcastle Jets vs Johor Darul Ta'zim — AFC Champions League Elite
+LOCATION:McDonald Jones Stadium\, Newcastle\, Australia
+GEO:-32.918895;151.726572
+URL:https://www.fotmob.com/match/6050024
+DESCRIPTION:⚽ نيوكاسل جيتس × جوهور\n🏆 دوري أبط
+ ال آسيا للنخبة — الجولة 7\n🗓 الثلاثاء 9 ف
+ براير 2027 · 11:45 بتوقيت الرياض\n🏟 McDonald Jones St
+ adium، Newcastle\n—————\n⚽ Newcastle Jets v Johor Darul Ta'zi
+ m\n🏆 AFC Champions League Elite — Matchday 7\n🗓 Tue 09 Feb 2027 ·
+  08:45 UTC\n🏟 McDonald Jones Stadium, Newcastle\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل جيتس ضد جوهور — دو
+ ري أبطال آسيا للنخبة | Tomorrow: Newcastle Jets vs Johor 
+ Darul Ta'zim
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل جيتس × جوهور | Kick-off in 30 min: Newcastle Jets vs Johor 
+ Darul Ta'zim
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050036@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270216T110000Z
+DTEND:20270216T130000Z
+SUMMARY:Johor Darul Ta'zim vs Công An Hà Nội — AFC Champions League E
+ lite
+LOCATION:Stadium Sultan Ibrahim Larkin\, Iskandar Puteri (Nusajaya)\, Malay
+ sia
+GEO:1.481781;103.619313
+URL:https://www.fotmob.com/match/6050036
+DESCRIPTION:⚽ جوهور × كونغ آن هانوي\n🏆 دوري أب
+ طال آسيا للنخبة — الجولة 8\n🗓 الثلاثاء 16 
+ فبراير 2027 · 14:00 بتوقيت الرياض\n🏟 Stadium Sultan 
+ Ibrahim Larkin، Iskandar Puteri (Nusajaya)\n—————\n⚽ Johor Da
+ rul Ta'zim v Công An Hà Nội\n🏆 AFC Champions League Elite — Match
+ day 8\n🗓 Tue 16 Feb 2027 · 11:00 UTC\n🏟 Stadium Sultan Ibrahim Lark
+ in, Iskandar Puteri (Nusajaya)\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جوهور ضد كونغ آن هانوي — دو
+ ري أبطال آسيا للنخبة | Tomorrow: Johor Darul Ta'zim vs C
+ ông An Hà Nội
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جوهور 
+ × كونغ آن هانوي | Kick-off in 30 min: Johor Darul Ta'zim vs C
+ ông An Hà Nội
+END:VALARM
+END:VEVENT
+END:VCALENDAR

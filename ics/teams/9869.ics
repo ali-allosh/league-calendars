@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Sporting Gijón — Copa del Rey Fixtures | سبورتين
+ ج خيخون — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Sporting Gijón — all matches in Copa del Rey\, exact UTC ki
+ ckoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-0
+ 5T19:31:10Z.  •  سبورتينج خيخون — جميع المباري
+ ات في كأس ملك إسبانيا بتوقيت UTC الدقيق مع 
+ الملاعب والقنوات الناقلة. المصدر: FotMob + 365
+ scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4995992@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251029T190000Z
+DTEND:20251029T210000Z
+SUMMARY:Caudal Deportivo vs Sporting Gijón (0 - 1) — Copa del Rey
+LOCATION:Estadio Municipal Hermanos Antuña\, Mieres del Camino\, Spain
+GEO:43.256596;-5.780155
+URL:https://www.fotmob.com/match/4995992
+DESCRIPTION:⚽ كواديل ديبورتيفو × سبورتينج خيخ
+ ون (0 - 1)\n🏆 كأس ملك إسبانيا — الدور الأول\
+ n🗓 الأربعاء 29 أكتوبر 2025 · 22:00 بتوقيت الري
+ اض\n🏟 Estadio Municipal Hermanos Antuña، Mieres del Camino\n⚖️ 
+ الحكم: Gorka Etayo Herrera\n—————\n⚽ Caudal Deportivo v S
+ porting Gijón (0 - 1)\n🏆 Copa del Rey — Round 1\n🗓 Wed 29 Oct 202
+ 5 · 19:00 UTC\n🏟 Estadio Municipal Hermanos Antuña, Mieres del Camino
+ \nReferee: Gorka Etayo Herrera\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كواديل ديبورتيفو ضد سبورتي
+ نج خيخون — كأس ملك إسبانيا | Tomorrow: Caudal Deport
+ ivo vs Sporting Gijón
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوادي
+ ل ديبورتيفو × سبورتينج خيخون | Kick-off in 30 min:
+  Caudal Deportivo vs Sporting Gijón
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057223@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251203T190000Z
+DTEND:20251203T210000Z
+SUMMARY:CD Mirandés vs Sporting Gijón (0 - 2) — Copa del Rey
+LOCATION:Estadio de Mendizorroza\, Vitoria-Gasteiz\, Spain
+GEO:42.837076;-2.688247
+URL:https://www.fotmob.com/match/5057223
+DESCRIPTION:⚽ ميراندس × سبورتينج خيخون (0 - 2)\n🏆
+  كأس ملك إسبانيا — الدور الثاني\n🗓 الأرب
+ عاء 3 ديسمبر 2025 · 22:00 بتوقيت الرياض\n🏟 Estadi
+ o de Mendizorroza، Vitoria-Gasteiz\n⚖️ الحكم: Carlos Muñiz Muñ
+ oz\n👥 الحضور: 1,567\n—————\n⚽ CD Mirandés v Sporting
+  Gijón (0 - 2)\n🏆 Copa del Rey — Round 2\n🗓 Wed 03 Dec 2025 · 19
+ :00 UTC\n🏟 Estadio de Mendizorroza, Vitoria-Gasteiz\nReferee: Carlos Mu
+ ñiz Muñoz\nAttendance: 1,567\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميراندس ضد سبورتينج خيخون 
+ — كأس ملك إسبانيا | Tomorrow: CD Mirandés vs Sporting Gij
+ ón
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميران
+ دس × سبورتينج خيخون | Kick-off in 30 min: CD Mirandés vs 
+ Sporting Gijón
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5091463@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251216T200000Z
+DTEND:20251216T220000Z
+SUMMARY:Sporting Gijón vs Valencia (0 - 2) — Copa del Rey
+LOCATION:Estadio Municipal El Molinón-Enrique Castro Quini\, Gijón\, Spai
+ n
+GEO:43.536284;-5.637397
+URL:https://www.fotmob.com/match/5091463
+DESCRIPTION:⚽ سبورتينج خيخون × فالنسيا (0 - 2)\n🏆
+  كأس ملك إسبانيا — دور الـ32\n🗓 الثلاثاء 1
+ 6 ديسمبر 2025 · 23:00 بتوقيت الرياض\n🏟 Estadio Munic
+ ipal El Molinón-Enrique Castro Quini، Gijón\n👥 الحضور: 16,275\
+ n—————\n⚽ Sporting Gijón v Valencia (0 - 2)\n🏆 Copa del Re
+ y — Round of 32\n🗓 Tue 16 Dec 2025 · 20:00 UTC\n🏟 Estadio Municip
+ al El Molinón-Enrique Castro Quini, Gijón\nAttendance: 16,275\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سبورتينج خيخون ضد فالنسيا 
+ — كأس ملك إسبانيا | Tomorrow: Sporting Gijón vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سبورت
+ ينج خيخون × فالنسيا | Kick-off in 30 min: Sporting Gijón 
+ vs Valencia
+END:VALARM
+END:VEVENT
+END:VCALENDAR

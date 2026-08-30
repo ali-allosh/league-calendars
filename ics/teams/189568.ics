@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Negreira — Copa del Rey Fixtures | Negreira — مبار
+ يات كأس ملك إسبانيا
+X-WR-CALDESC:Negreira — all matches in Copa del Rey\, exact UTC kickoffs\
+ , stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31
+ :10Z.  •  Negreira — جميع المباريات في كأس ملك إ
+ سبانيا بتوقيت UTC الدقيق مع الملاعب والقن
+ وات الناقلة. المصدر: FotMob + 365scores · تحديث تل
+ قائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4995989@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251028T200000Z
+DTEND:20251028T220000Z
+SUMMARY:Negreira vs Real Sociedad (0 - 3) — Copa del Rey
+LOCATION:Estadio Xesús García Calvo\, Negreira\, Spain
+GEO:42.917664;-8.740954
+URL:https://www.fotmob.com/match/4995989
+DESCRIPTION:⚽ Negreira × ريال سوسيداد (0 - 3)\n🏆 كأس م
+ لك إسبانيا — الدور الأول\n🗓 الثلاثاء 28 أ
+ كتوبر 2025 · 23:00 بتوقيت الرياض\n🏟 Estadio Xesús Ga
+ rcía Calvo، Negreira\n⚖️ الحكم: Isidro Díaz de Mera Escuderos\
+ n👥 الحضور: 3,000\n—————\n⚽ Negreira v Real Sociedad (
+ 0 - 3)\n🏆 Copa del Rey — Round 1\n🗓 Tue 28 Oct 2025 · 20:00 UTC\n
+ 🏟 Estadio Xesús García Calvo, Negreira\nReferee: Isidro Díaz de Mera
+  Escuderos\nAttendance: 3,000\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Negreira ضد ريال سوسيداد — كأس 
+ ملك إسبانيا | Tomorrow: Negreira vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Negreira ×
+  ريال سوسيداد | Kick-off in 30 min: Negreira vs Real Sociedad
+END:VALARM
+END:VEVENT
+END:VCALENDAR

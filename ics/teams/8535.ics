@@ -1,0 +1,1243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Fiorentina — Serie A & Coppa Italia Fixtures | فيور
+ نتينا — مباريات الدوري الإيطالي وكأس إي
+ طاليا
+X-WR-CALDESC:Fiorentina — all matches in Serie A & Coppa Italia\, exact U
+ TC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026
+ -09-05T19:31:10Z.  •  فيورنتينا — جميع المباريات
+  في الدوري الإيطالي وكأس إيطاليا بتوقيت U
+ TC الدقيق مع الملاعب والقنوات الناقلة. ال
+ مصدر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:1
+ 0Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5749640@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260824T184500Z
+DTEND:20260824T204500Z
+SUMMARY:Roma vs Fiorentina (4 - 0) — Serie A
+LOCATION:Stadio Olimpico\, Roma\, Italy
+GEO:41.933948;12.454757
+URL:https://www.fotmob.com/match/5749640
+DESCRIPTION:⚽ روما × فيورنتينا (4 - 0)\n🏆 الدوري 
+ الإيطالي — الجولة 1\n🗓 الاثنين 24 أغسطس 202
+ 6 · 21:45 بتوقيت الرياض\n🏟 Stadio Olimpico، Roma\n⚖️ 
+ الحكم: Matteo Marcenaro\n👥 الحضور: 67,598\n—————\n
+ ⚽ Roma v Fiorentina (4 - 0)\n🏆 Serie A — Matchday 1\n🗓 Mon 24 Au
+ g 2026 · 18:45 UTC\n🏟 Stadio Olimpico, Roma\nReferee: Matteo Marcenaro
+ \nAttendance: 67,598\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد فيورنتينا — الدوري
+  الإيطالي | Tomorrow: Roma vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  فيورنتينا | Kick-off in 30 min: Roma vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749653@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T163000Z
+DTEND:20260829T183000Z
+SUMMARY:Fiorentina vs Frosinone (0 - 3) — Serie A
+LOCATION:Stadio Artemio Franchi\, Firenze\, Italy
+GEO:43.780788;11.282712
+URL:https://www.fotmob.com/match/5749653
+DESCRIPTION:⚽ فيورنتينا × فروزينوني (0 - 3)\n🏆 ال
+ دوري الإيطالي — الجولة 2\n🗓 السبت 29 أغسط
+ س 2026 · 19:30 بتوقيت الرياض\n🏟 Stadio Artemio Franchi، 
+ Firenze\n⚖️ الحكم: Giuseppe Collu\n👥 الحضور: 23,132\n—
+ ————\n⚽ Fiorentina v Frosinone (0 - 3)\n🏆 Serie A — Matchda
+ y 2\n🗓 Sat 29 Aug 2026 · 16:30 UTC\n🏟 Stadio Artemio Franchi, Firen
+ ze\nReferee: Giuseppe Collu\nAttendance: 23,132\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد فروزينوني — ا
+ لدوري الإيطالي | Tomorrow: Fiorentina vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × فروزينوني | Kick-off in 30 min: Fiorentina vs Frosino
+ ne
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749663@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T130000Z
+DTEND:20260905T150000Z
+SUMMARY:Fiorentina vs Torino (1 - 2) — Serie A
+LOCATION:Stadio Artemio Franchi\, Firenze\, Italy
+GEO:43.780788;11.282712
+URL:https://www.fotmob.com/match/5749663
+DESCRIPTION:⚽ فيورنتينا × تورينو (1 - 2)\n🏆 الدور
+ ي الإيطالي — الجولة 3\n🗓 السبت 5 سبتمبر 202
+ 6 · 16:00 بتوقيت الرياض\n🏟 Stadio Artemio Franchi، Firenz
+ e\n📺 Starzplay\n⚖️ الحكم: Davide Massa\n—————\n⚽ F
+ iorentina v Torino (1 - 2)\n🏆 Serie A — Matchday 3\n🗓 Sat 05 Sep 2
+ 026 · 13:00 UTC\n🏟 Stadio Artemio Franchi, Firenze\n📺 Starzplay\nRe
+ feree: Davide Massa\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد تورينو — الدو
+ ري الإيطالي — 📺 Starzplay | Tomorrow: Fiorentina vs Torino 
+ | TV: Starzplay
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × تورينو — 📺 Starzplay | Kick-off in 30 min: Fiorenti
+ na vs Torino | TV: Starzplay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749679@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260911T184500Z
+DTEND:20260911T204500Z
+SUMMARY:Venezia vs Fiorentina — Serie A
+LOCATION:Stadio Pier Luigi Penzo\, Venezia\, Italy
+GEO:45.427798;12.363972
+URL:https://www.fotmob.com/match/5749679
+DESCRIPTION:⚽ فينيزيا × فيورنتينا\n🏆 الدوري ا
+ لإيطالي — الجولة 4\n🗓 الجمعة 11 سبتمبر 2026 
+ · 21:45 بتوقيت الرياض\n🏟 Stadio Pier Luigi Penzo، Venezia
+ \n📺 DAZN UK\n—————\n⚽ Venezia v Fiorentina\n🏆 Serie A 
+ — Matchday 4\n🗓 Fri 11 Sep 2026 · 18:45 UTC\n🏟 Stadio Pier Luigi 
+ Penzo, Venezia\n📺 DAZN UK\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد فيورنتينا — الد
+ وري الإيطالي — 📺 DAZN UK | Tomorrow: Venezia vs Fiorentina
+  | TV: DAZN UK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × فيورنتينا — 📺 DAZN UK | Kick-off in 30 min: Venezia 
+ vs Fiorentina | TV: DAZN UK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749683@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T103000Z
+DTEND:20260920T123000Z
+SUMMARY:Fiorentina vs Napoli — Serie A
+LOCATION:Stadio Artemio Franchi\, Firenze\, Italy
+GEO:43.780788;11.282712
+URL:https://www.fotmob.com/match/5749683
+DESCRIPTION:⚽ فيورنتينا × نابولي\n🏆 الدوري ال
+ إيطالي — الجولة 5\n🗓 الأحد 20 سبتمبر 2026 · 1
+ 3:30 بتوقيت الرياض\n🏟 Stadio Artemio Franchi، Firenze\n—
+ ————\n⚽ Fiorentina v Napoli\n🏆 Serie A — Matchday 5\n🗓 S
+ un 20 Sep 2026 · 10:30 UTC\n🏟 Stadio Artemio Franchi, Firenze\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد نابولي — الدو
+ ري الإيطالي | Tomorrow: Fiorentina vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × نابولي | Kick-off in 30 min: Fiorentina vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749693@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T130000Z
+DTEND:20261010T150000Z
+SUMMARY:Genoa vs Fiorentina — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749693
+DESCRIPTION:⚽ جنوى × فيورنتينا\n🏆 الدوري الإي
+ طالي — الجولة 6\n🗓 السبت 10 أكتوبر 2026 · 16:00
+  بتوقيت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n
+ ⚽ Genoa v Fiorentina\n🏆 Serie A — Matchday 6\n🗓 Sat 10 Oct 2026 
+ · 13:00 UTC\n🏟 Stadio Luigi Ferraris\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد فيورنتينا — الدوري
+  الإيطالي | Tomorrow: Genoa vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  فيورنتينا | Kick-off in 30 min: Genoa vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749703@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Fiorentina vs Como — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749703
+DESCRIPTION:⚽ فيورنتينا × كومو\n🏆 الدوري الإي
+ طالي — الجولة 7\n🗓 الأحد 18 أكتوبر 2026 · 16:00
+  بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n—————
+ \n⚽ Fiorentina v Como\n🏆 Serie A — Matchday 7\n🗓 Sun 18 Oct 2026
+  · 13:00 UTC\n🏟 Artemio Franchi, Firenze\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد كومو — الدوري
+  الإيطالي | Tomorrow: Fiorentina vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × كومو | Kick-off in 30 min: Fiorentina vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749714@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T113000Z
+DTEND:20261025T133000Z
+SUMMARY:Inter vs Fiorentina — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749714
+DESCRIPTION:⚽ إنتر ميلان × فيورنتينا\n🏆 الدور
+ ي الإيطالي — الجولة 8\n🗓 الأحد 25 أكتوبر 20
+ 26 · 14:30 بتوقيت الرياض\n🏟 Giuseppe Meazza\n————
+ —\n⚽ Inter v Fiorentina\n🏆 Serie A — Matchday 8\n🗓 Sun 25 Oct 
+ 2026 · 11:30 UTC\n🏟 Giuseppe Meazza\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد فيورنتينا — 
+ الدوري الإيطالي | Tomorrow: Inter vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × فيورنتينا | Kick-off in 30 min: Inter vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749722@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261029T194500Z
+DTEND:20261029T214500Z
+SUMMARY:Fiorentina vs Atalanta — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749722
+DESCRIPTION:⚽ فيورنتينا × أتالانتا\n🏆 الدوري 
+ الإيطالي — الجولة 9\n🗓 الخميس 29 أكتوبر 202
+ 6 · 22:45 بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n—
+ ————\n⚽ Fiorentina v Atalanta\n🏆 Serie A — Matchday 9\n🗓
+  Thu 29 Oct 2026 · 19:45 UTC\n🏟 Artemio Franchi, Firenze\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد أتالانتا — ال
+ دوري الإيطالي | Tomorrow: Fiorentina vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × أتالانتا | Kick-off in 30 min: Fiorentina vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749738@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261102T173000Z
+DTEND:20261102T193000Z
+SUMMARY:Sassuolo vs Fiorentina — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749738
+DESCRIPTION:⚽ ساسولو × فيورنتينا\n🏆 الدوري ال
+ إيطالي — الجولة 10\n🗓 الاثنين 2 نوفمبر 2026 
+ · 20:30 بتوقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolor
+ e\n—————\n⚽ Sassuolo v Fiorentina\n🏆 Serie A — Matchday 1
+ 0\n🗓 Mon 02 Nov 2026 · 17:30 UTC\n🏟 Stadio Mapei - Citta del Tricol
+ ore\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد فيورنتينا — الدو
+ ري الإيطالي | Tomorrow: Sassuolo vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × فيورنتينا | Kick-off in 30 min: Sassuolo vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749742@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T194500Z
+DTEND:20261108T214500Z
+SUMMARY:Fiorentina vs Juventus — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749742
+DESCRIPTION:⚽ فيورنتينا × يوفنتوس\n🏆 الدوري ا
+ لإيطالي — الجولة 11\n🗓 الأحد 8 نوفمبر 2026 ·
+  22:45 بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n———
+ ——\n⚽ Fiorentina v Juventus\n🏆 Serie A — Matchday 11\n🗓 Sun 
+ 08 Nov 2026 · 19:45 UTC\n🏟 Artemio Franchi, Firenze\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد يوفنتوس — الد
+ وري الإيطالي | Tomorrow: Fiorentina vs Juventus
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × يوفنتوس | Kick-off in 30 min: Fiorentina vs Juventus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749756@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261123T173000Z
+DTEND:20261123T193000Z
+SUMMARY:Monza vs Fiorentina — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749756
+DESCRIPTION:⚽ مونزا × فيورنتينا\n🏆 الدوري الإ
+ يطالي — الجولة 12\n🗓 الاثنين 23 نوفمبر 2026 
+ · 20:30 بتوقيت الرياض\n🏟 Stadio Brianteo\n—————\
+ n⚽ Monza v Fiorentina\n🏆 Serie A — Matchday 12\n🗓 Mon 23 Nov 202
+ 6 · 17:30 UTC\n🏟 Stadio Brianteo\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد فيورنتينا — الدور
+ ي الإيطالي | Tomorrow: Monza vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × فيورنتينا | Kick-off in 30 min: Monza vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749768@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T173000Z
+DTEND:20261129T193000Z
+SUMMARY:Udinese vs Fiorentina — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749768
+DESCRIPTION:⚽ أودينيزي × فيورنتينا\n🏆 الدوري 
+ الإيطالي — الجولة 13\n🗓 الأحد 29 نوفمبر 2026
+  · 20:30 بتوقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friul
+ i\n—————\n⚽ Udinese v Fiorentina\n🏆 Serie A — Matchday 13
+ \n🗓 Sun 29 Nov 2026 · 17:30 UTC\n🏟 Bluenergy Stadium - Stadio Friul
+ i\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد فيورنتينا — ال
+ دوري الإيطالي | Tomorrow: Udinese vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × فيورنتينا | Kick-off in 30 min: Udinese vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749772@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T173000Z
+DTEND:20261206T193000Z
+SUMMARY:Fiorentina vs Cagliari — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749772
+DESCRIPTION:⚽ فيورنتينا × كالياري\n🏆 الدوري ا
+ لإيطالي — الجولة 14\n🗓 الأحد 6 ديسمبر 2026 ·
+  20:30 بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n———
+ ——\n⚽ Fiorentina v Cagliari\n🏆 Serie A — Matchday 14\n🗓 Sun 
+ 06 Dec 2026 · 17:30 UTC\n🏟 Artemio Franchi, Firenze\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد كالياري — الد
+ وري الإيطالي | Tomorrow: Fiorentina vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × كالياري | Kick-off in 30 min: Fiorentina vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749788@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T173000Z
+DTEND:20261213T193000Z
+SUMMARY:Parma vs Fiorentina — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749788
+DESCRIPTION:⚽ بارما × فيورنتينا\n🏆 الدوري الإ
+ يطالي — الجولة 15\n🗓 الأحد 13 ديسمبر 2026 · 20
+ :30 بتوقيت الرياض\n🏟 Stadio Ennio Tardini\n—————\
+ n⚽ Parma v Fiorentina\n🏆 Serie A — Matchday 15\n🗓 Sun 13 Dec 202
+ 6 · 17:30 UTC\n🏟 Stadio Ennio Tardini\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد فيورنتينا — الدور
+ ي الإيطالي | Tomorrow: Parma vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × فيورنتينا | Kick-off in 30 min: Parma vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749793@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T173000Z
+DTEND:20261220T193000Z
+SUMMARY:Fiorentina vs Bologna — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749793
+DESCRIPTION:⚽ فيورنتينا × بولونيا\n🏆 الدوري ا
+ لإيطالي — الجولة 16\n🗓 الأحد 20 ديسمبر 2026 
+ · 20:30 بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n——
+ ———\n⚽ Fiorentina v Bologna\n🏆 Serie A — Matchday 16\n🗓 Su
+ n 20 Dec 2026 · 17:30 UTC\n🏟 Artemio Franchi, Firenze\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد بولونيا — الد
+ وري الإيطالي | Tomorrow: Fiorentina vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × بولونيا | Kick-off in 30 min: Fiorentina vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749804@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T173000Z
+DTEND:20270103T193000Z
+SUMMARY:Fiorentina vs Lazio — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749804
+DESCRIPTION:⚽ فيورنتينا × لاتسيو\n🏆 الدوري ال
+ إيطالي — الجولة 17\n🗓 الأحد 3 يناير 2027 · 20:
+ 30 بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n————
+ —\n⚽ Fiorentina v Lazio\n🏆 Serie A — Matchday 17\n🗓 Sun 03 Jan
+  2027 · 17:30 UTC\n🏟 Artemio Franchi, Firenze\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد لاتسيو — الدو
+ ري الإيطالي | Tomorrow: Fiorentina vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × لاتسيو | Kick-off in 30 min: Fiorentina vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749810@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T173000Z
+DTEND:20270106T193000Z
+SUMMARY:Milan vs Fiorentina — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749810
+DESCRIPTION:⚽ ميلان × فيورنتينا\n🏆 الدوري الإ
+ يطالي — الجولة 18\n🗓 الأربعاء 6 يناير 2027 ·
+  20:30 بتوقيت الرياض\n🏟 San Siro\n—————\n⚽ Mila
+ n v Fiorentina\n🏆 Serie A — Matchday 18\n🗓 Wed 06 Jan 2027 · 17:3
+ 0 UTC\n🏟 San Siro\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد فيورنتينا — الدور
+ ي الإيطالي | Tomorrow: Milan vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × فيورنتينا | Kick-off in 30 min: Milan vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749824@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T173000Z
+DTEND:20270110T193000Z
+SUMMARY:Fiorentina vs Lecce — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749824
+DESCRIPTION:⚽ فيورنتينا × ليتشي\n🏆 الدوري الإ
+ يطالي — الجولة 19\n🗓 الأحد 10 يناير 2027 · 20:3
+ 0 بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n————
+ —\n⚽ Fiorentina v Lecce\n🏆 Serie A — Matchday 19\n🗓 Sun 10 Jan
+  2027 · 17:30 UTC\n🏟 Artemio Franchi, Firenze\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد ليتشي — الدور
+ ي الإيطالي | Tomorrow: Fiorentina vs Lecce
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × ليتشي | Kick-off in 30 min: Fiorentina vs Lecce
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749836@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T173000Z
+DTEND:20270117T193000Z
+SUMMARY:Napoli vs Fiorentina — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749836
+DESCRIPTION:⚽ نابولي × فيورنتينا\n🏆 الدوري ال
+ إيطالي — الجولة 20\n🗓 الأحد 17 يناير 2027 · 20
+ :30 بتوقيت الرياض\n🏟 Diego Armando Maradona\n————
+ —\n⚽ Napoli v Fiorentina\n🏆 Serie A — Matchday 20\n🗓 Sun 17 Ja
+ n 2027 · 17:30 UTC\n🏟 Diego Armando Maradona\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد فيورنتينا — الدو
+ ري الإيطالي | Tomorrow: Napoli vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × فيورنتينا | Kick-off in 30 min: Napoli vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749843@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T173000Z
+DTEND:20270124T193000Z
+SUMMARY:Fiorentina vs Sassuolo — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749843
+DESCRIPTION:⚽ فيورنتينا × ساسولو\n🏆 الدوري ال
+ إيطالي — الجولة 21\n🗓 الأحد 24 يناير 2027 · 20
+ :30 بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n————
+ —\n⚽ Fiorentina v Sassuolo\n🏆 Serie A — Matchday 21\n🗓 Sun 24 
+ Jan 2027 · 17:30 UTC\n🏟 Artemio Franchi, Firenze\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد ساسولو — الدو
+ ري الإيطالي | Tomorrow: Fiorentina vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × ساسولو | Kick-off in 30 min: Fiorentina vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749851@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T173000Z
+DTEND:20270131T193000Z
+SUMMARY:Atalanta vs Fiorentina — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749851
+DESCRIPTION:⚽ أتالانتا × فيورنتينا\n🏆 الدوري 
+ الإيطالي — الجولة 22\n🗓 الأحد 31 يناير 2027 
+ · 20:30 بتوقيت الرياض\n🏟 New Balance Arena\n————
+ —\n⚽ Atalanta v Fiorentina\n🏆 Serie A — Matchday 22\n🗓 Sun 31 
+ Jan 2027 · 17:30 UTC\n🏟 New Balance Arena\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد فيورنتينا — ال
+ دوري الإيطالي | Tomorrow: Atalanta vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × فيورنتينا | Kick-off in 30 min: Atalanta vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749864@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T173000Z
+DTEND:20270207T193000Z
+SUMMARY:Fiorentina vs Udinese — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749864
+DESCRIPTION:⚽ فيورنتينا × أودينيزي\n🏆 الدوري 
+ الإيطالي — الجولة 23\n🗓 الأحد 7 فبراير 2027 
+ · 20:30 بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n——
+ ———\n⚽ Fiorentina v Udinese\n🏆 Serie A — Matchday 23\n🗓 Su
+ n 07 Feb 2027 · 17:30 UTC\n🏟 Artemio Franchi, Firenze\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد أودينيزي — ال
+ دوري الإيطالي | Tomorrow: Fiorentina vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × أودينيزي | Kick-off in 30 min: Fiorentina vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749873@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T173000Z
+DTEND:20270214T193000Z
+SUMMARY:Frosinone vs Fiorentina — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749873
+DESCRIPTION:⚽ فروزينوني × فيورنتينا\n🏆 الدوري
+  الإيطالي — الجولة 24\n🗓 الأحد 14 فبراير 202
+ 7 · 20:30 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n———
+ ——\n⚽ Frosinone v Fiorentina\n🏆 Serie A — Matchday 24\n🗓 Sun
+  14 Feb 2027 · 17:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد فيورنتينا — ا
+ لدوري الإيطالي | Tomorrow: Frosinone vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × فيورنتينا | Kick-off in 30 min: Frosinone vs Fiorenti
+ na
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749883@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T173000Z
+DTEND:20270221T193000Z
+SUMMARY:Fiorentina vs Inter — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749883
+DESCRIPTION:⚽ فيورنتينا × إنتر ميلان\n🏆 الدور
+ ي الإيطالي — الجولة 25\n🗓 الأحد 21 فبراير 2
+ 027 · 20:30 بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n—
+ ————\n⚽ Fiorentina v Inter\n🏆 Serie A — Matchday 25\n🗓 S
+ un 21 Feb 2027 · 17:30 UTC\n🏟 Artemio Franchi, Firenze\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد إنتر ميلان — 
+ الدوري الإيطالي | Tomorrow: Fiorentina vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × إنتر ميلان | Kick-off in 30 min: Fiorentina vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749899@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T173000Z
+DTEND:20270228T193000Z
+SUMMARY:Torino vs Fiorentina — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749899
+DESCRIPTION:⚽ تورينو × فيورنتينا\n🏆 الدوري ال
+ إيطالي — الجولة 26\n🗓 الأحد 28 فبراير 2027 · 
+ 20:30 بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n—
+ ————\n⚽ Torino v Fiorentina\n🏆 Serie A — Matchday 26\n🗓 
+ Sun 28 Feb 2027 · 17:30 UTC\n🏟 Stadio Olimpico Grande Torino\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد فيورنتينا — الدو
+ ري الإيطالي | Tomorrow: Torino vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × فيورنتينا | Kick-off in 30 min: Torino vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749902@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T173000Z
+DTEND:20270307T193000Z
+SUMMARY:Fiorentina vs Venezia — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749902
+DESCRIPTION:⚽ فيورنتينا × فينيزيا\n🏆 الدوري ا
+ لإيطالي — الجولة 27\n🗓 الأحد 7 مارس 2027 · 20:
+ 30 بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n————
+ —\n⚽ Fiorentina v Venezia\n🏆 Serie A — Matchday 27\n🗓 Sun 07 M
+ ar 2027 · 17:30 UTC\n🏟 Artemio Franchi, Firenze\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد فينيزيا — الد
+ وري الإيطالي | Tomorrow: Fiorentina vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × فينيزيا | Kick-off in 30 min: Fiorentina vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749912@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T173000Z
+DTEND:20270314T193000Z
+SUMMARY:Cagliari vs Fiorentina — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749912
+DESCRIPTION:⚽ كالياري × فيورنتينا\n🏆 الدوري ا
+ لإيطالي — الجولة 28\n🗓 الأحد 14 مارس 2027 · 20
+ :30 بتوقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cag
+ liari v Fiorentina\n🏆 Serie A — Matchday 28\n🗓 Sun 14 Mar 2027 · 
+ 17:30 UTC\n🏟 Unipol Domus\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد فيورنتينا — الد
+ وري الإيطالي | Tomorrow: Cagliari vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × فيورنتينا | Kick-off in 30 min: Cagliari vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749922@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T173000Z
+DTEND:20270321T193000Z
+SUMMARY:Fiorentina vs Genoa — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749922
+DESCRIPTION:⚽ فيورنتينا × جنوى\n🏆 الدوري الإي
+ طالي — الجولة 29\n🗓 الأحد 21 مارس 2027 · 20:30 ب
+ توقيت الرياض\n🏟 Artemio Franchi, Firenze\n—————\n
+ ⚽ Fiorentina v Genoa\n🏆 Serie A — Matchday 29\n🗓 Sun 21 Mar 2027
+  · 17:30 UTC\n🏟 Artemio Franchi, Firenze\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد جنوى — الدوري
+  الإيطالي | Tomorrow: Fiorentina vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × جنوى | Kick-off in 30 min: Fiorentina vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749933@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T163000Z
+DTEND:20270404T183000Z
+SUMMARY:Como vs Fiorentina — Serie A
+LOCATION:Stadio G. Sinigaglia
+URL:https://www.fotmob.com/match/5749933
+DESCRIPTION:⚽ كومو × فيورنتينا\n🏆 الدوري الإي
+ طالي — الجولة 30\n🗓 الأحد 4 أبريل 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Stadio G. Sinigaglia\n—————\n⚽
+  Como v Fiorentina\n🏆 Serie A — Matchday 30\n🗓 Sun 04 Apr 2027 · 
+ 16:30 UTC\n🏟 Stadio G. Sinigaglia\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كومو ضد فيورنتينا — الدوري
+  الإيطالي | Tomorrow: Como vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كومو ×
+  فيورنتينا | Kick-off in 30 min: Como vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749942@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T163000Z
+DTEND:20270411T183000Z
+SUMMARY:Fiorentina vs Milan — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749942
+DESCRIPTION:⚽ فيورنتينا × ميلان\n🏆 الدوري الإ
+ يطالي — الجولة 31\n🗓 الأحد 11 أبريل 2027 · 19:3
+ 0 بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n————
+ —\n⚽ Fiorentina v Milan\n🏆 Serie A — Matchday 31\n🗓 Sun 11 Apr
+  2027 · 16:30 UTC\n🏟 Artemio Franchi, Firenze\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد ميلان — الدور
+ ي الإيطالي | Tomorrow: Fiorentina vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × ميلان | Kick-off in 30 min: Fiorentina vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749955@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T163000Z
+DTEND:20270418T183000Z
+SUMMARY:Fiorentina vs Parma — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749955
+DESCRIPTION:⚽ فيورنتينا × بارما\n🏆 الدوري الإ
+ يطالي — الجولة 32\n🗓 الأحد 18 أبريل 2027 · 19:3
+ 0 بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n————
+ —\n⚽ Fiorentina v Parma\n🏆 Serie A — Matchday 32\n🗓 Sun 18 Apr
+  2027 · 16:30 UTC\n🏟 Artemio Franchi, Firenze\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد بارما — الدور
+ ي الإيطالي | Tomorrow: Fiorentina vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × بارما | Kick-off in 30 min: Fiorentina vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749964@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270425T163000Z
+DTEND:20270425T183000Z
+SUMMARY:Juventus vs Fiorentina — Serie A
+LOCATION:Allianz Stadium
+URL:https://www.fotmob.com/match/5749964
+DESCRIPTION:⚽ يوفنتوس × فيورنتينا\n🏆 الدوري ا
+ لإيطالي — الجولة 33\n🗓 الأحد 25 أبريل 2027 · 
+ 19:30 بتوقيت الرياض\n🏟 Allianz Stadium\n—————\n
+ ⚽ Juventus v Fiorentina\n🏆 Serie A — Matchday 33\n🗓 Sun 25 Apr 2
+ 027 · 16:30 UTC\n🏟 Allianz Stadium\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد فيورنتينا — الد
+ وري الإيطالي | Tomorrow: Juventus vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × فيورنتينا | Kick-off in 30 min: Juventus vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749973@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T163000Z
+DTEND:20270502T183000Z
+SUMMARY:Bologna vs Fiorentina — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749973
+DESCRIPTION:⚽ بولونيا × فيورنتينا\n🏆 الدوري ا
+ لإيطالي — الجولة 34\n🗓 الأحد 2 مايو 2027 · 19:
+ 30 بتوقيت الرياض\n🏟 Stadio Renato Dell'Ara\n—————
+ \n⚽ Bologna v Fiorentina\n🏆 Serie A — Matchday 34\n🗓 Sun 02 May 
+ 2027 · 16:30 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد فيورنتينا — الد
+ وري الإيطالي | Tomorrow: Bologna vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × فيورنتينا | Kick-off in 30 min: Bologna vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749980@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T163000Z
+DTEND:20270509T183000Z
+SUMMARY:Fiorentina vs Roma — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749980
+DESCRIPTION:⚽ فيورنتينا × روما\n🏆 الدوري الإي
+ طالي — الجولة 35\n🗓 الأحد 9 مايو 2027 · 19:30 ب
+ توقيت الرياض\n🏟 Artemio Franchi, Firenze\n—————\n
+ ⚽ Fiorentina v Roma\n🏆 Serie A — Matchday 35\n🗓 Sun 09 May 2027 
+ · 16:30 UTC\n🏟 Artemio Franchi, Firenze\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد روما — الدوري
+  الإيطالي | Tomorrow: Fiorentina vs Roma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × روما | Kick-off in 30 min: Fiorentina vs Roma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749996@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T163000Z
+DTEND:20270516T183000Z
+SUMMARY:Lecce vs Fiorentina — Serie A
+LOCATION:Stadio Ettore Giardiniero - Via del Mare
+URL:https://www.fotmob.com/match/5749996
+DESCRIPTION:⚽ ليتشي × فيورنتينا\n🏆 الدوري الإ
+ يطالي — الجولة 36\n🗓 الأحد 16 مايو 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Stadio Ettore Giardiniero - Via del Mare\n
+ —————\n⚽ Lecce v Fiorentina\n🏆 Serie A — Matchday 36\n
+ 🗓 Sun 16 May 2027 · 16:30 UTC\n🏟 Stadio Ettore Giardiniero - Via de
+ l Mare\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليتشي ضد فيورنتينا — الدور
+ ي الإيطالي | Tomorrow: Lecce vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليتشي 
+ × فيورنتينا | Kick-off in 30 min: Lecce vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750002@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T163000Z
+DTEND:20270523T183000Z
+SUMMARY:Fiorentina vs Monza — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5750002
+DESCRIPTION:⚽ فيورنتينا × مونزا\n🏆 الدوري الإ
+ يطالي — الجولة 37\n🗓 الأحد 23 مايو 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n—————\
+ n⚽ Fiorentina v Monza\n🏆 Serie A — Matchday 37\n🗓 Sun 23 May 202
+ 7 · 16:30 UTC\n🏟 Artemio Franchi, Firenze\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد مونزا — الدور
+ ي الإيطالي | Tomorrow: Fiorentina vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × مونزا | Kick-off in 30 min: Fiorentina vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750015@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T163000Z
+DTEND:20270530T183000Z
+SUMMARY:Lazio vs Fiorentina — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5750015
+DESCRIPTION:⚽ لاتسيو × فيورنتينا\n🏆 الدوري ال
+ إيطالي — الجولة 38\n🗓 الأحد 30 مايو 2027 · 19:3
+ 0 بتوقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n
+ ⚽ Lazio v Fiorentina\n🏆 Serie A — Matchday 38\n🗓 Sun 30 May 2027
+  · 16:30 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد فيورنتينا — الدو
+ ري الإيطالي | Tomorrow: Lazio vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × فيورنتينا | Kick-off in 30 min: Lazio vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852774@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260814T191500Z
+DTEND:20260814T211500Z
+SUMMARY:Fiorentina vs Benevento (4 - 1) — Coppa Italia
+LOCATION:Stadio Artemio Franchi\, Firenze\, Italy
+GEO:43.780788;11.282712
+URL:https://www.fotmob.com/match/5852774
+DESCRIPTION:⚽ فيورنتينا × بينفينتو (4 - 1)\n🏆 كأس
+  إيطاليا — دور الـ32\n🗓 الجمعة 14 أغسطس 2026 
+ · 22:15 بتوقيت الرياض\n🏟 Stadio Artemio Franchi، Firenze\
+ n⚖️ الحكم: Gianluca Manganiello\n👥 الحضور: 16,626\n—
+ ————\n⚽ Fiorentina v Benevento (4 - 1)\n🏆 Coppa Italia — Ro
+ und of 32\n🗓 Fri 14 Aug 2026 · 19:15 UTC\n🏟 Stadio Artemio Franchi,
+  Firenze\nReferee: Gianluca Manganiello\nAttendance: 16,626\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد بينفينتو — كأ
+ س إيطاليا | Tomorrow: Fiorentina vs Benevento
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × بينفينتو | Kick-off in 30 min: Fiorentina vs Benevento
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003659@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260915T190000Z
+DTEND:20260915T210000Z
+SUMMARY:Fiorentina vs Pisa — Coppa Italia
+LOCATION:Stadio Artemio Franchi\, Firenze\, Italy
+GEO:43.780788;11.282712
+URL:https://www.fotmob.com/match/6003659
+DESCRIPTION:⚽ فيورنتينا × بيسا\n🏆 كأس إيطاليا 
+ — دور الـ32\n🗓 الثلاثاء 15 سبتمبر 2026 · 22:00 
+ بتوقيت الرياض\n🏟 Stadio Artemio Franchi، Firenze\n——
+ ———\n⚽ Fiorentina v Pisa\n🏆 Coppa Italia — Round of 32\n🗓 
+ Tue 15 Sep 2026 · 19:00 UTC\n🏟 Stadio Artemio Franchi, Firenze\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد بيسا — كأس إي
+ طاليا | Tomorrow: Fiorentina vs Pisa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × بيسا | Kick-off in 30 min: Fiorentina vs Pisa
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1076 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Paderborn — Bundesliga Fixtures | بادربورن — 
+ مباريات الدوري الألماني
+X-WR-CALDESC:Paderborn — all matches in Bundesliga\, exact UTC kickoffs\,
+  stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:
+ 10Z.  •  بادربورن — جميع المباريات في الدو
+ ري الألماني بتوقيت UTC الدقيق مع الملاعب و
+ القنوات الناقلة. المصدر: FotMob + 365scores · تحد
+ يث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5881149@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T133000Z
+DTEND:20260829T153000Z
+SUMMARY:Mainz 05 vs Paderborn (0 - 0) — Bundesliga
+LOCATION:MEWA ARENA\, Mainz\, Germany
+GEO:49.984627;8.224125
+URL:https://www.fotmob.com/match/5881149
+DESCRIPTION:⚽ ماينز 05 × بادربورن (0 - 0)\n🏆 الدور
+ ي الألماني — الجولة 1\n🗓 السبت 29 أغسطس 2026
+  · 16:30 بتوقيت الرياض\n🏟 MEWA ARENA، Mainz\n⚖️ ال
+ حكم: Tobias Stieler\n👥 الحضور: 33,305\n—————\n⚽ Ma
+ inz 05 v Paderborn (0 - 0)\n🏆 Bundesliga — Matchday 1\n🗓 Sat 29 Au
+ g 2026 · 13:30 UTC\n🏟 MEWA ARENA, Mainz\nReferee: Tobias Stieler\nAtte
+ ndance: 33,305\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ماينز 05 ضد بادربورن — الدو
+ ري الألماني | Tomorrow: Mainz 05 vs Paderborn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ماينز 
+ 05 × بادربورن | Kick-off in 30 min: Mainz 05 vs Paderborn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881157@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T133000Z
+DTEND:20260905T153000Z
+SUMMARY:Paderborn vs Freiburg (0 - 1) — Bundesliga
+LOCATION:Home Deluxe Arena\, Paderborn\, Germany
+GEO:51.730769;8.711032
+URL:https://www.fotmob.com/match/5881157
+DESCRIPTION:⚽ بادربورن × فرايبورج (0 - 1)\n🏆 الدو
+ ري الألماني — الجولة 2\n🗓 السبت 5 سبتمبر 2
+ 026 · 16:30 بتوقيت الرياض\n🏟 Home Deluxe Arena، Paderborn
+ \n📺 شاهد - Shahid VIP\n⚖️ الحكم: Max Burda\n👥 الحض
+ ور: 15,000\n—————\n⚽ Paderborn v Freiburg (0 - 1)\n🏆 Bund
+ esliga — Matchday 2\n🗓 Sat 05 Sep 2026 · 13:30 UTC\n🏟 Home Deluxe
+  Arena, Paderborn\n📺 شاهد - Shahid VIP\nReferee: Max Burda\nAttenda
+ nce: 15,000\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد فرايبورج — الد
+ وري الألماني — 📺 شاهد - Shahid VIP | Tomorrow: Paderbo
+ rn vs Freiburg | TV: شاهد - Shahid VIP
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × فرايبورج — 📺 شاهد - Shahid VIP | Kick-off in 30
+  min: Paderborn vs Freiburg | TV: شاهد - Shahid VIP
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881162@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T133000Z
+DTEND:20260912T153000Z
+SUMMARY:Borussia Dortmund vs Paderborn — Bundesliga
+LOCATION:SIGNAL IDUNA PARK\, Dortmund\, Germany
+GEO:51.492607;7.451777
+URL:https://www.fotmob.com/match/5881162
+DESCRIPTION:⚽ بوروسيا دورتموند × بادربورن\n🏆 
+ الدوري الألماني — الجولة 3\n🗓 السبت 12 سب
+ تمبر 2026 · 16:30 بتوقيت الرياض\n🏟 SIGNAL IDUNA PARK،
+  Dortmund\n📺 Peacock (Español)\n—————\n⚽ Borussia Dortmund
+  v Paderborn\n🏆 Bundesliga — Matchday 3\n🗓 Sat 12 Sep 2026 · 13:3
+ 0 UTC\n🏟 SIGNAL IDUNA PARK, Dortmund\n📺 Peacock (Español)\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد بادربو
+ رن — الدوري الألماني — 📺 Peacock (Español) | Tomor
+ row: Borussia Dortmund vs Paderborn | TV: Peacock (Español)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × بادربورن — 📺 Peacock (Español) | Ki
+ ck-off in 30 min: Borussia Dortmund vs Paderborn | TV: Peacock (Español)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881175@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T173000Z
+DTEND:20260920T193000Z
+SUMMARY:Paderborn vs Hoffenheim — Bundesliga
+LOCATION:Home Deluxe Arena\, Paderborn\, Germany
+GEO:51.730769;8.711032
+URL:https://www.fotmob.com/match/5881175
+DESCRIPTION:⚽ بادربورن × هوفنهايم\n🏆 الدوري ا
+ لألماني — الجولة 4\n🗓 الأحد 20 سبتمبر 2026 ·
+  20:30 بتوقيت الرياض\n🏟 Home Deluxe Arena، Paderborn\n—
+ ————\n⚽ Paderborn v Hoffenheim\n🏆 Bundesliga — Matchday 4\n
+ 🗓 Sun 20 Sep 2026 · 17:30 UTC\n🏟 Home Deluxe Arena, Paderborn\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد هوفنهايم — الد
+ وري الألماني | Tomorrow: Paderborn vs Hoffenheim
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × هوفنهايم | Kick-off in 30 min: Paderborn vs Hoffenheim
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881185@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T133000Z
+DTEND:20261010T153000Z
+SUMMARY:Paderborn vs VfB Stuttgart — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881185
+DESCRIPTION:⚽ بادربورن × شتوتجارت\n🏆 الدوري ا
+ لألماني — الجولة 5\n🗓 السبت 10 أكتوبر 2026 ·
+  16:30 بتوقيت الرياض\n🏟 Home Deluxe Arena\n—————\
+ n⚽ Paderborn v VfB Stuttgart\n🏆 Bundesliga — Matchday 5\n🗓 Sat 1
+ 0 Oct 2026 · 13:30 UTC\n🏟 Home Deluxe Arena\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد شتوتجارت — الد
+ وري الألماني | Tomorrow: Paderborn vs VfB Stuttgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × شتوتجارت | Kick-off in 30 min: Paderborn vs VfB Stuttgar
+ t
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881196@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T133000Z
+DTEND:20261017T153000Z
+SUMMARY:Werder Bremen vs Paderborn — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881196
+DESCRIPTION:⚽ فيردر بريمن × بادربورن\n🏆 الدور
+ ي الألماني — الجولة 6\n🗓 السبت 17 أكتوبر 20
+ 26 · 16:30 بتوقيت الرياض\n🏟 Wohninvest WESERSTADION\n—
+ ————\n⚽ Werder Bremen v Paderborn\n🏆 Bundesliga — Matchday 
+ 6\n🗓 Sat 17 Oct 2026 · 13:30 UTC\n🏟 Wohninvest WESERSTADION\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد بادربورن — 
+ الدوري الألماني | Tomorrow: Werder Bremen vs Paderborn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × بادربورن | Kick-off in 30 min: Werder Bremen vs Pade
+ rborn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881203@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T133000Z
+DTEND:20261024T153000Z
+SUMMARY:Paderborn vs Hamburger SV — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881203
+DESCRIPTION:⚽ بادربورن × هامبورج\n🏆 الدوري ال
+ ألماني — الجولة 7\n🗓 السبت 24 أكتوبر 2026 · 1
+ 6:30 بتوقيت الرياض\n🏟 Home Deluxe Arena\n—————\n
+ ⚽ Paderborn v Hamburger SV\n🏆 Bundesliga — Matchday 7\n🗓 Sat 24 
+ Oct 2026 · 13:30 UTC\n🏟 Home Deluxe Arena\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد هامبورج — الدو
+ ري الألماني | Tomorrow: Paderborn vs Hamburger SV
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × هامبورج | Kick-off in 30 min: Paderborn vs Hamburger SV
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881209@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T143000Z
+DTEND:20261031T163000Z
+SUMMARY:Borussia Mönchengladbach vs Paderborn — Bundesliga
+LOCATION:Ista-Borussia-Park
+URL:https://www.fotmob.com/match/5881209
+DESCRIPTION:⚽ بوروسيا مونشنجلادباخ × بادربورن
+ \n🏆 الدوري الألماني — الجولة 8\n🗓 السبت 3
+ 1 أكتوبر 2026 · 17:30 بتوقيت الرياض\n🏟 Ista-Borussia
+ -Park\n—————\n⚽ Borussia Mönchengladbach v Paderborn\n🏆 Bu
+ ndesliga — Matchday 8\n🗓 Sat 31 Oct 2026 · 14:30 UTC\n🏟 Ista-Boru
+ ssia-Park\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا مونشنجلادباخ ضد با
+ دربورن — الدوري الألماني | Tomorrow: Borussia Mönch
+ engladbach vs Paderborn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا مونشنجلادباخ × بادربورن | Kick-off in 30 min: Bo
+ russia Mönchengladbach vs Paderborn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881221@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T143000Z
+DTEND:20261107T163000Z
+SUMMARY:Paderborn vs Eintracht Frankfurt — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881221
+DESCRIPTION:⚽ بادربورن × آينتراخت فرانكفورت\n
+ 🏆 الدوري الألماني — الجولة 9\n🗓 السبت 7 
+ نوفمبر 2026 · 17:30 بتوقيت الرياض\n🏟 Home Deluxe Are
+ na\n—————\n⚽ Paderborn v Eintracht Frankfurt\n🏆 Bundesliga 
+ — Matchday 9\n🗓 Sat 07 Nov 2026 · 14:30 UTC\n🏟 Home Deluxe Arena\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد آينتراخت فرانك
+ فورت — الدوري الألماني | Tomorrow: Paderborn vs Eintra
+ cht Frankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × آينتراخت فرانكفورت | Kick-off in 30 min: Paderb
+ orn vs Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881225@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T143000Z
+DTEND:20261121T163000Z
+SUMMARY:Bayer Leverkusen vs Paderborn — Bundesliga
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/5881225
+DESCRIPTION:⚽ باير ليفركوزن × بادربورن\n🏆 الد
+ وري الألماني — الجولة 10\n🗓 السبت 21 نوفمب
+ ر 2026 · 17:30 بتوقيت الرياض\n🏟 BayArena\n—————
+ \n⚽ Bayer Leverkusen v Paderborn\n🏆 Bundesliga — Matchday 10\n🗓 
+ Sat 21 Nov 2026 · 14:30 UTC\n🏟 BayArena\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد بادربورن 
+ — الدوري الألماني | Tomorrow: Bayer Leverkusen vs Paderbor
+ n
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × بادربورن | Kick-off in 30 min: Bayer Leverkusen 
+ vs Paderborn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881239@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T143000Z
+DTEND:20261128T163000Z
+SUMMARY:Paderborn vs Schalke 04 — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881239
+DESCRIPTION:⚽ بادربورن × شالكة\n🏆 الدوري الأل
+ ماني — الجولة 11\n🗓 السبت 28 نوفمبر 2026 · 17:3
+ 0 بتوقيت الرياض\n🏟 Home Deluxe Arena\n—————\n⚽ 
+ Paderborn v Schalke 04\n🏆 Bundesliga — Matchday 11\n🗓 Sat 28 Nov 2
+ 026 · 14:30 UTC\n🏟 Home Deluxe Arena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد شالكة — الدوري
+  الألماني | Tomorrow: Paderborn vs Schalke 04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × شالكة | Kick-off in 30 min: Paderborn vs Schalke 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881244@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T143000Z
+DTEND:20261205T163000Z
+SUMMARY:Bayern München vs Paderborn — Bundesliga
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/5881244
+DESCRIPTION:⚽ بايرن ميونخ × بادربورن\n🏆 الدور
+ ي الألماني — الجولة 12\n🗓 السبت 5 ديسمبر 20
+ 26 · 17:30 بتوقيت الرياض\n🏟 Allianz Arena\n—————
+ \n⚽ Bayern München v Paderborn\n🏆 Bundesliga — Matchday 12\n🗓 S
+ at 05 Dec 2026 · 14:30 UTC\n🏟 Allianz Arena\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد بادربورن — 
+ الدوري الألماني | Tomorrow: Bayern München vs Paderborn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × بادربورن | Kick-off in 30 min: Bayern München vs Pa
+ derborn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881257@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T143000Z
+DTEND:20261212T163000Z
+SUMMARY:Paderborn vs Elversberg — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881257
+DESCRIPTION:⚽ بادربورن × إلفيرسبيرغ\n🏆 الدوري
+  الألماني — الجولة 13\n🗓 السبت 12 ديسمبر 202
+ 6 · 17:30 بتوقيت الرياض\n🏟 Home Deluxe Arena\n————
+ —\n⚽ Paderborn v Elversberg\n🏆 Bundesliga — Matchday 13\n🗓 Sat
+  12 Dec 2026 · 14:30 UTC\n🏟 Home Deluxe Arena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد إلفيرسبيرغ — ا
+ لدوري الألماني | Tomorrow: Paderborn vs Elversberg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × إلفيرسبيرغ | Kick-off in 30 min: Paderborn vs Elversbe
+ rg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881260@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T143000Z
+DTEND:20261219T163000Z
+SUMMARY:Augsburg vs Paderborn — Bundesliga
+LOCATION:WWK Arena
+URL:https://www.fotmob.com/match/5881260
+DESCRIPTION:⚽ أوغسبورغ × بادربورن\n🏆 الدوري ا
+ لألماني — الجولة 14\n🗓 السبت 19 ديسمبر 2026 
+ · 17:30 بتوقيت الرياض\n🏟 WWK Arena\n—————\n⚽ A
+ ugsburg v Paderborn\n🏆 Bundesliga — Matchday 14\n🗓 Sat 19 Dec 2026
+  · 14:30 UTC\n🏟 WWK Arena\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوغسبورغ ضد بادربورن — الد
+ وري الألماني | Tomorrow: Augsburg vs Paderborn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوغسب
+ ورغ × بادربورن | Kick-off in 30 min: Augsburg vs Paderborn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881275@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270109T143000Z
+DTEND:20270109T163000Z
+SUMMARY:Paderborn vs RB Leipzig — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881275
+DESCRIPTION:⚽ بادربورن × لايبزيج\n🏆 الدوري ال
+ ألماني — الجولة 15\n🗓 السبت 9 يناير 2027 · 17:
+ 30 بتوقيت الرياض\n🏟 Home Deluxe Arena\n—————\n⚽
+  Paderborn v RB Leipzig\n🏆 Bundesliga — Matchday 15\n🗓 Sat 09 Jan 
+ 2027 · 14:30 UTC\n🏟 Home Deluxe Arena\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد لايبزيج — الدو
+ ري الألماني | Tomorrow: Paderborn vs RB Leipzig
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × لايبزيج | Kick-off in 30 min: Paderborn vs RB Leipzig
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881286@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270112T193000Z
+DTEND:20270112T213000Z
+SUMMARY:Union Berlin vs Paderborn — Bundesliga
+LOCATION:Alte Foersterei
+URL:https://www.fotmob.com/match/5881286
+DESCRIPTION:⚽ يونيون برلين × بادربورن\n🏆 الدو
+ ري الألماني — الجولة 16\n🗓 الثلاثاء 12 ينا
+ ير 2027 · 22:30 بتوقيت الرياض\n🏟 Alte Foersterei\n——
+ ———\n⚽ Union Berlin v Paderborn\n🏆 Bundesliga — Matchday 16\n
+ 🗓 Tue 12 Jan 2027 · 19:30 UTC\n🏟 Alte Foersterei\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد بادربورن —
+  الدوري الألماني | Tomorrow: Union Berlin vs Paderborn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × بادربورن | Kick-off in 30 min: Union Berlin vs Pa
+ derborn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881293@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T143000Z
+DTEND:20270116T163000Z
+SUMMARY:Paderborn vs 1. FC Köln — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881293
+DESCRIPTION:⚽ بادربورن × كولن\n🏆 الدوري الألم
+ اني — الجولة 17\n🗓 السبت 16 يناير 2027 · 17:30 ب
+ توقيت الرياض\n🏟 Home Deluxe Arena\n—————\n⚽ Pade
+ rborn v 1. FC Köln\n🏆 Bundesliga — Matchday 17\n🗓 Sat 16 Jan 2027
+  · 14:30 UTC\n🏟 Home Deluxe Arena\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد كولن — الدوري 
+ الألماني | Tomorrow: Paderborn vs 1. FC Köln
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × كولن | Kick-off in 30 min: Paderborn vs 1. FC Köln
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881301@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T143000Z
+DTEND:20270123T163000Z
+SUMMARY:Paderborn vs Mainz 05 — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881301
+DESCRIPTION:⚽ بادربورن × ماينز 05\n🏆 الدوري الأ
+ لماني — الجولة 18\n🗓 السبت 23 يناير 2027 · 17:3
+ 0 بتوقيت الرياض\n🏟 Home Deluxe Arena\n—————\n⚽ 
+ Paderborn v Mainz 05\n🏆 Bundesliga — Matchday 18\n🗓 Sat 23 Jan 202
+ 7 · 14:30 UTC\n🏟 Home Deluxe Arena\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد ماينز 05 — الدو
+ ري الألماني | Tomorrow: Paderborn vs Mainz 05
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × ماينز 05 | Kick-off in 30 min: Paderborn vs Mainz 05
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881310@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T143000Z
+DTEND:20270130T163000Z
+SUMMARY:Freiburg vs Paderborn — Bundesliga
+LOCATION:Europa-Park Stadion
+URL:https://www.fotmob.com/match/5881310
+DESCRIPTION:⚽ فرايبورج × بادربورن\n🏆 الدوري ا
+ لألماني — الجولة 19\n🗓 السبت 30 يناير 2027 · 
+ 17:30 بتوقيت الرياض\n🏟 Europa-Park Stadion\n—————
+ \n⚽ Freiburg v Paderborn\n🏆 Bundesliga — Matchday 19\n🗓 Sat 30 J
+ an 2027 · 14:30 UTC\n🏟 Europa-Park Stadion\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فرايبورج ضد بادربورن — الد
+ وري الألماني | Tomorrow: Freiburg vs Paderborn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فرايب
+ ورج × بادربورن | Kick-off in 30 min: Freiburg vs Paderborn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881319@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T143000Z
+DTEND:20270206T163000Z
+SUMMARY:Paderborn vs Borussia Dortmund — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881319
+DESCRIPTION:⚽ بادربورن × بوروسيا دورتموند\n🏆 
+ الدوري الألماني — الجولة 20\n🗓 السبت 6 فب
+ راير 2027 · 17:30 بتوقيت الرياض\n🏟 Home Deluxe Arena\n
+ —————\n⚽ Paderborn v Borussia Dortmund\n🏆 Bundesliga — Ma
+ tchday 20\n🗓 Sat 06 Feb 2027 · 14:30 UTC\n🏟 Home Deluxe Arena\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد بوروسيا دورتمو
+ ند — الدوري الألماني | Tomorrow: Paderborn vs Borussia D
+ ortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × بوروسيا دورتموند | Kick-off in 30 min: Paderborn 
+ vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881328@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270213T143000Z
+DTEND:20270213T163000Z
+SUMMARY:Hoffenheim vs Paderborn — Bundesliga
+LOCATION:SNP Arena
+URL:https://www.fotmob.com/match/5881328
+DESCRIPTION:⚽ هوفنهايم × بادربورن\n🏆 الدوري ا
+ لألماني — الجولة 21\n🗓 السبت 13 فبراير 2027 
+ · 17:30 بتوقيت الرياض\n🏟 SNP Arena\n—————\n⚽ H
+ offenheim v Paderborn\n🏆 Bundesliga — Matchday 21\n🗓 Sat 13 Feb 20
+ 27 · 14:30 UTC\n🏟 SNP Arena\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هوفنهايم ضد بادربورن — الد
+ وري الألماني | Tomorrow: Hoffenheim vs Paderborn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هوفنه
+ ايم × بادربورن | Kick-off in 30 min: Hoffenheim vs Paderborn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881339@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T143000Z
+DTEND:20270220T163000Z
+SUMMARY:VfB Stuttgart vs Paderborn — Bundesliga
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/5881339
+DESCRIPTION:⚽ شتوتجارت × بادربورن\n🏆 الدوري ا
+ لألماني — الجولة 22\n🗓 السبت 20 فبراير 2027 
+ · 17:30 بتوقيت الرياض\n🏟 MHPArena\n—————\n⚽ Vf
+ B Stuttgart v Paderborn\n🏆 Bundesliga — Matchday 22\n🗓 Sat 20 Feb 
+ 2027 · 14:30 UTC\n🏟 MHPArena\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد بادربورن — الد
+ وري الألماني | Tomorrow: VfB Stuttgart vs Paderborn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × بادربورن | Kick-off in 30 min: VfB Stuttgart vs Paderbor
+ n
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881347@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T143000Z
+DTEND:20270227T163000Z
+SUMMARY:Paderborn vs Werder Bremen — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881347
+DESCRIPTION:⚽ بادربورن × فيردر بريمن\n🏆 الدور
+ ي الألماني — الجولة 23\n🗓 السبت 27 فبراير 2
+ 027 · 17:30 بتوقيت الرياض\n🏟 Home Deluxe Arena\n———
+ ——\n⚽ Paderborn v Werder Bremen\n🏆 Bundesliga — Matchday 23\n
+ 🗓 Sat 27 Feb 2027 · 14:30 UTC\n🏟 Home Deluxe Arena\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد فيردر بريمن — 
+ الدوري الألماني | Tomorrow: Paderborn vs Werder Bremen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × فيردر بريمن | Kick-off in 30 min: Paderborn vs Werder 
+ Bremen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881355@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270302T193000Z
+DTEND:20270302T213000Z
+SUMMARY:Hamburger SV vs Paderborn — Bundesliga
+LOCATION:Volksparkstadion
+URL:https://www.fotmob.com/match/5881355
+DESCRIPTION:⚽ هامبورج × بادربورن\n🏆 الدوري ال
+ ألماني — الجولة 24\n🗓 الثلاثاء 2 مارس 2027 ·
+  22:30 بتوقيت الرياض\n🏟 Volksparkstadion\n—————\n
+ ⚽ Hamburger SV v Paderborn\n🏆 Bundesliga — Matchday 24\n🗓 Tue 02
+  Mar 2027 · 19:30 UTC\n🏟 Volksparkstadion\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هامبورج ضد بادربورن — الدو
+ ري الألماني | Tomorrow: Hamburger SV vs Paderborn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هامبو
+ رج × بادربورن | Kick-off in 30 min: Hamburger SV vs Paderborn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881365@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270306T143000Z
+DTEND:20270306T163000Z
+SUMMARY:Paderborn vs Borussia Mönchengladbach — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881365
+DESCRIPTION:⚽ بادربورن × بوروسيا مونشنجلادباخ
+ \n🏆 الدوري الألماني — الجولة 25\n🗓 السبت 
+ 6 مارس 2027 · 17:30 بتوقيت الرياض\n🏟 Home Deluxe Arena
+ \n—————\n⚽ Paderborn v Borussia Mönchengladbach\n🏆 Bundesl
+ iga — Matchday 25\n🗓 Sat 06 Mar 2027 · 14:30 UTC\n🏟 Home Deluxe A
+ rena\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد بوروسيا مونشنج
+ لادباخ — الدوري الألماني | Tomorrow: Paderborn vs Bo
+ russia Mönchengladbach
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × بوروسيا مونشنجلادباخ | Kick-off in 30 min: Pa
+ derborn vs Borussia Mönchengladbach
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881372@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T143000Z
+DTEND:20270313T163000Z
+SUMMARY:Eintracht Frankfurt vs Paderborn — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881372
+DESCRIPTION:⚽ آينتراخت فرانكفورت × بادربورن\n
+ 🏆 الدوري الألماني — الجولة 26\n🗓 السبت 13
+  مارس 2027 · 17:30 بتوقيت الرياض\n🏟 Deutsche Bank Park
+ \n—————\n⚽ Eintracht Frankfurt v Paderborn\n🏆 Bundesliga 
+ — Matchday 26\n🗓 Sat 13 Mar 2027 · 14:30 UTC\n🏟 Deutsche Bank Par
+ k\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد بادر
+ بورن — الدوري الألماني | Tomorrow: Eintracht Frankfurt
+  vs Paderborn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × بادربورن | Kick-off in 30 min: Eintra
+ cht Frankfurt vs Paderborn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881383@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T143000Z
+DTEND:20270320T163000Z
+SUMMARY:Paderborn vs Bayer Leverkusen — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881383
+DESCRIPTION:⚽ بادربورن × باير ليفركوزن\n🏆 الد
+ وري الألماني — الجولة 27\n🗓 السبت 20 مارس 2
+ 027 · 17:30 بتوقيت الرياض\n🏟 Home Deluxe Arena\n———
+ ——\n⚽ Paderborn v Bayer Leverkusen\n🏆 Bundesliga — Matchday 27\
+ n🗓 Sat 20 Mar 2027 · 14:30 UTC\n🏟 Home Deluxe Arena\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد باير ليفركوزن 
+ — الدوري الألماني | Tomorrow: Paderborn vs Bayer Leverkuse
+ n
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × باير ليفركوزن | Kick-off in 30 min: Paderborn vs Bay
+ er Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881393@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270403T133000Z
+DTEND:20270403T153000Z
+SUMMARY:Schalke 04 vs Paderborn — Bundesliga
+LOCATION:VELTINS-Arena
+URL:https://www.fotmob.com/match/5881393
+DESCRIPTION:⚽ شالكة × بادربورن\n🏆 الدوري الأل
+ ماني — الجولة 28\n🗓 السبت 3 أبريل 2027 · 16:30 
+ بتوقيت الرياض\n🏟 VELTINS-Arena\n—————\n⚽ Schalk
+ e 04 v Paderborn\n🏆 Bundesliga — Matchday 28\n🗓 Sat 03 Apr 2027 ·
+  13:30 UTC\n🏟 VELTINS-Arena\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد بادربورن — الدوري
+  الألماني | Tomorrow: Schalke 04 vs Paderborn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × بادربورن | Kick-off in 30 min: Schalke 04 vs Paderborn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881401@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T133000Z
+DTEND:20270410T153000Z
+SUMMARY:Paderborn vs Bayern München — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881401
+DESCRIPTION:⚽ بادربورن × بايرن ميونخ\n🏆 الدور
+ ي الألماني — الجولة 29\n🗓 السبت 10 أبريل 202
+ 7 · 16:30 بتوقيت الرياض\n🏟 Home Deluxe Arena\n————
+ —\n⚽ Paderborn v Bayern München\n🏆 Bundesliga — Matchday 29\n
+ 🗓 Sat 10 Apr 2027 · 13:30 UTC\n🏟 Home Deluxe Arena\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد بايرن ميونخ — 
+ الدوري الألماني | Tomorrow: Paderborn vs Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × بايرن ميونخ | Kick-off in 30 min: Paderborn vs Bayern 
+ München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881408@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T133000Z
+DTEND:20270417T153000Z
+SUMMARY:Elversberg vs Paderborn — Bundesliga
+LOCATION:Ursapharm-Arena
+URL:https://www.fotmob.com/match/5881408
+DESCRIPTION:⚽ إلفيرسبيرغ × بادربورن\n🏆 الدوري
+  الألماني — الجولة 30\n🗓 السبت 17 أبريل 2027 
+ · 16:30 بتوقيت الرياض\n🏟 Ursapharm-Arena\n—————\
+ n⚽ Elversberg v Paderborn\n🏆 Bundesliga — Matchday 30\n🗓 Sat 17 
+ Apr 2027 · 13:30 UTC\n🏟 Ursapharm-Arena\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد بادربورن — ا
+ لدوري الألماني | Tomorrow: Elversberg vs Paderborn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × بادربورن | Kick-off in 30 min: Elversberg vs Paderbo
+ rn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881419@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T133000Z
+DTEND:20270424T153000Z
+SUMMARY:Paderborn vs Augsburg — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881419
+DESCRIPTION:⚽ بادربورن × أوغسبورغ\n🏆 الدوري ا
+ لألماني — الجولة 31\n🗓 السبت 24 أبريل 2027 · 
+ 16:30 بتوقيت الرياض\n🏟 Home Deluxe Arena\n—————\n
+ ⚽ Paderborn v Augsburg\n🏆 Bundesliga — Matchday 31\n🗓 Sat 24 Apr
+  2027 · 13:30 UTC\n🏟 Home Deluxe Arena\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد أوغسبورغ — الد
+ وري الألماني | Tomorrow: Paderborn vs Augsburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × أوغسبورغ | Kick-off in 30 min: Paderborn vs Augsburg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881428@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T133000Z
+DTEND:20270508T153000Z
+SUMMARY:RB Leipzig vs Paderborn — Bundesliga
+LOCATION:Red Bull Arena Leipzig
+URL:https://www.fotmob.com/match/5881428
+DESCRIPTION:⚽ لايبزيج × بادربورن\n🏆 الدوري ال
+ ألماني — الجولة 32\n🗓 السبت 8 مايو 2027 · 16:30
+  بتوقيت الرياض\n🏟 Red Bull Arena Leipzig\n—————\n
+ ⚽ RB Leipzig v Paderborn\n🏆 Bundesliga — Matchday 32\n🗓 Sat 08 M
+ ay 2027 · 13:30 UTC\n🏟 Red Bull Arena Leipzig\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لايبزيج ضد بادربورن — الدو
+ ري الألماني | Tomorrow: RB Leipzig vs Paderborn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لايبز
+ يج × بادربورن | Kick-off in 30 min: RB Leipzig vs Paderborn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881437@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T133000Z
+DTEND:20270515T153000Z
+SUMMARY:Paderborn vs Union Berlin — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881437
+DESCRIPTION:⚽ بادربورن × يونيون برلين\n🏆 الدو
+ ري الألماني — الجولة 33\n🗓 السبت 15 مايو 202
+ 7 · 16:30 بتوقيت الرياض\n🏟 Home Deluxe Arena\n————
+ —\n⚽ Paderborn v Union Berlin\n🏆 Bundesliga — Matchday 33\n🗓 S
+ at 15 May 2027 · 13:30 UTC\n🏟 Home Deluxe Arena\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد يونيون برلين —
+  الدوري الألماني | Tomorrow: Paderborn vs Union Berlin
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × يونيون برلين | Kick-off in 30 min: Paderborn vs Union
+  Berlin
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881443@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270522T133000Z
+DTEND:20270522T153000Z
+SUMMARY:1. FC Köln vs Paderborn — Bundesliga
+LOCATION:RheinEnergieSTADION
+URL:https://www.fotmob.com/match/5881443
+DESCRIPTION:⚽ كولن × بادربورن\n🏆 الدوري الألم
+ اني — الجولة 34\n🗓 السبت 22 مايو 2027 · 16:30 بت
+ وقيت الرياض\n🏟 RheinEnergieSTADION\n—————\n⚽ 1. F
+ C Köln v Paderborn\n🏆 Bundesliga — Matchday 34\n🗓 Sat 22 May 2027
+  · 13:30 UTC\n🏟 RheinEnergieSTADION\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كولن ضد بادربورن — الدوري 
+ الألماني | Tomorrow: 1. FC Köln vs Paderborn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كولن ×
+  بادربورن | Kick-off in 30 min: 1. FC Köln vs Paderborn
+END:VALARM
+END:VEVENT
+END:VCALENDAR

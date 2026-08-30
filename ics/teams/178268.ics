@@ -1,0 +1,637 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ El Gouna FC — Egyptian Premier League Fixtures | الج
+ ونة — مباريات الدوري المصري الممتاز
+X-WR-CALDESC:El Gouna FC — all matches in Egyptian Premier League\, exact
+  UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 20
+ 26-09-05T19:31:10Z.  •  الجونة — جميع المباريات ف
+ ي الدوري المصري الممتاز بتوقيت UTC الدقيق 
+ مع الملاعب والقنوات الناقلة. المصدر: FotMob 
+ + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5995577@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260823T140000Z
+DTEND:20260823T160000Z
+SUMMARY:El Gouna FC vs Modern Sport FC (1 - 1) — Egyptian Premier League
+LOCATION:Khaled Bichara Stadium\, El-Gouna\, Egypt
+GEO:27.360219;33.659851
+URL:https://www.fotmob.com/match/5995577
+DESCRIPTION:⚽ الجونة × مودرن سبورت (1 - 1)\n🏆 الد
+ وري المصري الممتاز — الجولة 1\n🗓 الأحد 23 
+ أغسطس 2026 · 17:00 بتوقيت الرياض\n🏟 Khaled Bichara St
+ adium، El-Gouna\n⚖️ الحكم: Mohamed El Atabani\n—————\n
+ ⚽ El Gouna FC v Modern Sport FC (1 - 1)\n🏆 Egyptian Premier League 
+ — Matchday 1\n🗓 Sun 23 Aug 2026 · 14:00 UTC\n🏟 Khaled Bichara Sta
+ dium, El-Gouna\nReferee: Mohamed El Atabani\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجونة ضد مودرن سبورت — ال
+ دوري المصري الممتاز | Tomorrow: El Gouna FC vs Modern Spo
+ rt FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجون
+ ة × مودرن سبورت | Kick-off in 30 min: El Gouna FC vs Modern Sp
+ ort FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996698@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260828T140000Z
+DTEND:20260828T160000Z
+SUMMARY:Olympic El Qanah FC vs El Gouna FC (1 - 1) — Egyptian Premier Lea
+ gue
+LOCATION:Suez Canal Stadium\, Ismailia\, Egypt
+GEO:30.592679;32.292551
+URL:https://www.fotmob.com/match/5996698
+DESCRIPTION:⚽ القناة × الجونة (1 - 1)\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 2\n🗓 الجمعة 28 أغس
+ طس 2026 · 17:00 بتوقيت الرياض\n🏟 Suez Canal Stadium، Is
+ mailia\n⚖️ الحكم: Abdel Rahman Salah\n—————\n⚽ Olympi
+ c El Qanah FC v El Gouna FC (1 - 1)\n🏆 Egyptian Premier League — Matc
+ hday 2\n🗓 Fri 28 Aug 2026 · 14:00 UTC\n🏟 Suez Canal Stadium, Ismail
+ ia\nReferee: Abdel Rahman Salah\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القناة ضد الجونة — الدوري 
+ المصري الممتاز | Tomorrow: Olympic El Qanah FC vs El Gouna FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القنا
+ ة × الجونة | Kick-off in 30 min: Olympic El Qanah FC vs El Gouna F
+ C
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996709@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260902T140000Z
+DTEND:20260902T160000Z
+SUMMARY:El Gouna FC vs Al Mokawloon Al Arab (0 - 1) — Egyptian Premier Le
+ ague
+LOCATION:Khaled Bichara Stadium\, El-Gouna\, Egypt
+GEO:27.360219;33.659851
+URL:https://www.fotmob.com/match/5996709
+DESCRIPTION:⚽ الجونة × المقاولون العرب (0 - 1)\n🏆
+  الدوري المصري الممتاز — الجولة 3\n🗓 الأ
+ ربعاء 2 سبتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Kh
+ aled Bichara Stadium، El-Gouna\n⚖️ الحكم: Ahmed El Ghandour\n—
+ ————\n⚽ El Gouna FC v Al Mokawloon Al Arab (0 - 1)\n🏆 Egyptia
+ n Premier League — Matchday 3\n🗓 Wed 02 Sep 2026 · 14:00 UTC\n🏟 K
+ haled Bichara Stadium, El-Gouna\nReferee: Ahmed El Ghandour\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجونة ضد المقاولون العرب 
+ — الدوري المصري الممتاز | Tomorrow: El Gouna FC vs Al
+  Mokawloon Al Arab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجون
+ ة × المقاولون العرب | Kick-off in 30 min: El Gouna FC vs A
+ l Mokawloon Al Arab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996716@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260909T140000Z
+DTEND:20260909T160000Z
+SUMMARY:Pyramids FC vs El Gouna FC — Egyptian Premier League
+LOCATION:30 June Air Defence Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.019992;31.373724
+URL:https://www.fotmob.com/match/5996716
+DESCRIPTION:⚽ بيراميدز × الجونة\n🏆 الدوري الم
+ صري الممتاز — الجولة 4\n🗓 الأربعاء 9 سبتم
+ بر 2026 · 17:00 بتوقيت الرياض\n🏟 30 June Air Defence Sta
+ dium، al-Qāhirah (Cairo)\n—————\n⚽ Pyramids FC v El Gouna FC
+ \n🏆 Egyptian Premier League — Matchday 4\n🗓 Wed 09 Sep 2026 · 14:
+ 00 UTC\n🏟 30 June Air Defence Stadium, al-Qāhirah (Cairo)\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيراميدز ضد الجونة — الدور
+ ي المصري الممتاز | Tomorrow: Pyramids FC vs El Gouna FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيرام
+ يدز × الجونة | Kick-off in 30 min: Pyramids FC vs El Gouna FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996729@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260916T140000Z
+DTEND:20260916T160000Z
+SUMMARY:El Gouna FC vs Petrojet-Suez — Egyptian Premier League
+LOCATION:Khaled Bichara Stadium\, El-Gouna\, Egypt
+GEO:27.360219;33.659851
+URL:https://www.fotmob.com/match/5996729
+DESCRIPTION:⚽ الجونة × منتخب السويس بتروجت\n🏆 
+ الدوري المصري الممتاز — الجولة 5\n🗓 الأر
+ بعاء 16 سبتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Kha
+ led Bichara Stadium، El-Gouna\n—————\n⚽ El Gouna FC v Petroje
+ t-Suez\n🏆 Egyptian Premier League — Matchday 5\n🗓 Wed 16 Sep 2026 
+ · 14:00 UTC\n🏟 Khaled Bichara Stadium, El-Gouna\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجونة ضد منتخب السويس بتر
+ وجت — الدوري المصري الممتاز | Tomorrow: El Gouna F
+ C vs Petrojet-Suez
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجون
+ ة × منتخب السويس بتروجت | Kick-off in 30 min: El Gouna 
+ FC vs Petrojet-Suez
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996740@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261013T170000Z
+DTEND:20261013T190000Z
+SUMMARY:Al Ittihad Alexandria vs El Gouna FC — Egyptian Premier League
+LOCATION:Alexandria Stadium\, Al-Iskandarîah (Alexandria)\, Egypt
+GEO:31.197114;29.913127
+URL:https://www.fotmob.com/match/5996740
+DESCRIPTION:⚽ الاتحاد السكندري × الجونة\n🏆 ال
+ دوري المصري الممتاز — الجولة 6\n🗓 الثلاث
+ اء 13 أكتوبر 2026 · 20:00 بتوقيت الرياض\n🏟 Alexand
+ ria Stadium، Al-Iskandarîah (Alexandria)\n—————\n⚽ Al Ittiha
+ d Alexandria v El Gouna FC\n🏆 Egyptian Premier League — Matchday 6\n
+ 🗓 Tue 13 Oct 2026 · 17:00 UTC\n🏟 Alexandria Stadium, Al-Iskandarîa
+ h (Alexandria)\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد السكندري ضد الجونة
+  — الدوري المصري الممتاز | Tomorrow: Al Ittihad Alexa
+ ndria vs El Gouna FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد السكندري × الجونة | Kick-off in 30 min: Al Ittihad Ale
+ xandria vs El Gouna FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996742@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261019T140000Z
+DTEND:20261019T160000Z
+SUMMARY:El Gouna FC vs Smouha SC — Egyptian Premier League
+LOCATION:Khaled Bichara Stadium\, El-Gouna\, Egypt
+GEO:27.360219;33.659851
+URL:https://www.fotmob.com/match/5996742
+DESCRIPTION:⚽ الجونة × سموحة\n🏆 الدوري المصري 
+ الممتاز — الجولة 7\n🗓 الاثنين 19 أكتوبر 202
+ 6 · 17:00 بتوقيت الرياض\n🏟 Khaled Bichara Stadium، El-Gou
+ na\n—————\n⚽ El Gouna FC v Smouha SC\n🏆 Egyptian Premier Le
+ ague — Matchday 7\n🗓 Mon 19 Oct 2026 · 14:00 UTC\n🏟 Khaled Bichar
+ a Stadium, El-Gouna\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجونة ضد سموحة — الدوري ا
+ لمصري الممتاز | Tomorrow: El Gouna FC vs Smouha SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجون
+ ة × سموحة | Kick-off in 30 min: El Gouna FC vs Smouha SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996756@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261030T150000Z
+DTEND:20261030T170000Z
+SUMMARY:Asyut Petroleum vs El Gouna FC — Egyptian Premier League
+LOCATION:Asyut University Stadium
+URL:https://www.fotmob.com/match/5996756
+DESCRIPTION:⚽ أسيوط بتروليوم × الجونة\n🏆 الدو
+ ري المصري الممتاز — الجولة 8\n🗓 الجمعة 30 
+ أكتوبر 2026 · 18:00 بتوقيت الرياض\n🏟 Asyut Universit
+ y Stadium\n—————\n⚽ Asyut Petroleum v El Gouna FC\n🏆 Egypti
+ an Premier League — Matchday 8\n🗓 Fri 30 Oct 2026 · 15:00 UTC\n🏟 
+ Asyut University Stadium\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أسيوط بتروليوم ضد الجونة —
+  الدوري المصري الممتاز | Tomorrow: Asyut Petroleum vs E
+ l Gouna FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أسيوط 
+ بتروليوم × الجونة | Kick-off in 30 min: Asyut Petroleum vs 
+ El Gouna FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996762@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261123T150000Z
+DTEND:20261123T170000Z
+SUMMARY:El Gouna FC vs Zamalek SC — Egyptian Premier League
+LOCATION:Khaled Bichara Stadium
+URL:https://www.fotmob.com/match/5996762
+DESCRIPTION:⚽ الجونة × الزمالك\n🏆 الدوري المص
+ ري الممتاز — الجولة 9\n🗓 الاثنين 23 نوفمب
+ ر 2026 · 18:00 بتوقيت الرياض\n🏟 Khaled Bichara Stadium\n
+ —————\n⚽ El Gouna FC v Zamalek SC\n🏆 Egyptian Premier Leagu
+ e — Matchday 9\n🗓 Mon 23 Nov 2026 · 15:00 UTC\n🏟 Khaled Bichara S
+ tadium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجونة ضد الزمالك — الدوري
+  المصري الممتاز | Tomorrow: El Gouna FC vs Zamalek SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجون
+ ة × الزمالك | Kick-off in 30 min: El Gouna FC vs Zamalek SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996773@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261208T150000Z
+DTEND:20261208T170000Z
+SUMMARY:National Bank vs El Gouna FC — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996773
+DESCRIPTION:⚽ البنك الاهلي × الجونة\n🏆 الدوري 
+ المصري الممتاز — الجولة 10\n🗓 الثلاثاء 8 
+ ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Suez Canal Auth
+ ority Stadium\n—————\n⚽ National Bank v El Gouna FC\n🏆 Egyp
+ tian Premier League — Matchday 10\n🗓 Tue 08 Dec 2026 · 15:00 UTC\n
+ 🏟 Suez Canal Authority Stadium\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: البنك الاهلي ضد الجونة — ا
+ لدوري المصري الممتاز | Tomorrow: National Bank vs El Gou
+ na FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: البنك 
+ الاهلي × الجونة | Kick-off in 30 min: National Bank vs El Gou
+ na FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996786@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261215T150000Z
+DTEND:20261215T170000Z
+SUMMARY:El Gouna FC vs Abo Qir Semad — Egyptian Premier League
+LOCATION:Khaled Bichara Stadium
+URL:https://www.fotmob.com/match/5996786
+DESCRIPTION:⚽ الجونة × ابو قير للاسمدة\n🏆 الدو
+ ري المصري الممتاز — الجولة 11\n🗓 الثلاثا
+ ء 15 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Khaled Bi
+ chara Stadium\n—————\n⚽ El Gouna FC v Abo Qir Semad\n🏆 Egyp
+ tian Premier League — Matchday 11\n🗓 Tue 15 Dec 2026 · 15:00 UTC\n
+ 🏟 Khaled Bichara Stadium\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجونة ضد ابو قير للاسمدة 
+ — الدوري المصري الممتاز | Tomorrow: El Gouna FC vs Ab
+ o Qir Semad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجون
+ ة × ابو قير للاسمدة | Kick-off in 30 min: El Gouna FC vs Ab
+ o Qir Semad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996796@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261223T150000Z
+DTEND:20261223T170000Z
+SUMMARY:Al Masry SC vs El Gouna FC — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996796
+DESCRIPTION:⚽ المصري × الجونة\n🏆 الدوري المصر
+ ي الممتاز — الجولة 12\n🗓 الأربعاء 23 ديسمب
+ ر 2026 · 18:00 بتوقيت الرياض\n🏟 Cairo Int'l Stadium\n—
+ ————\n⚽ Al Masry SC v El Gouna FC\n🏆 Egyptian Premier League 
+ — Matchday 12\n🗓 Wed 23 Dec 2026 · 15:00 UTC\n🏟 Cairo Int'l Stadi
+ um\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المصري ضد الجونة — الدوري 
+ المصري الممتاز | Tomorrow: Al Masry SC vs El Gouna FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المصر
+ ي × الجونة | Kick-off in 30 min: Al Masry SC vs El Gouna FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996802@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261227T150000Z
+DTEND:20261227T170000Z
+SUMMARY:El Gouna FC vs Ghazl Al Mahalla — Egyptian Premier League
+LOCATION:Khaled Bichara Stadium
+URL:https://www.fotmob.com/match/5996802
+DESCRIPTION:⚽ الجونة × غزل المحلة\n🏆 الدوري ال
+ مصري الممتاز — الجولة 13\n🗓 الأحد 27 ديسمب
+ ر 2026 · 18:00 بتوقيت الرياض\n🏟 Khaled Bichara Stadium\n
+ —————\n⚽ El Gouna FC v Ghazl Al Mahalla\n🏆 Egyptian Premier
+  League — Matchday 13\n🗓 Sun 27 Dec 2026 · 15:00 UTC\n🏟 Khaled Bi
+ chara Stadium\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجونة ضد غزل المحلة — الد
+ وري المصري الممتاز | Tomorrow: El Gouna FC vs Ghazl Al Mah
+ alla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجون
+ ة × غزل المحلة | Kick-off in 30 min: El Gouna FC vs Ghazl Al Ma
+ halla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996815@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270105T150000Z
+DTEND:20270105T170000Z
+SUMMARY:El Gouna FC vs Al Ahly SC — Egyptian Premier League
+LOCATION:Khaled Bichara Stadium
+URL:https://www.fotmob.com/match/5996815
+DESCRIPTION:⚽ الجونة × الأهلي\n🏆 الدوري المصر
+ ي الممتاز — الجولة 14\n🗓 الثلاثاء 5 يناير 
+ 2027 · 18:00 بتوقيت الرياض\n🏟 Khaled Bichara Stadium\n—
+ ————\n⚽ El Gouna FC v Al Ahly SC\n🏆 Egyptian Premier League 
+ — Matchday 14\n🗓 Tue 05 Jan 2027 · 15:00 UTC\n🏟 Khaled Bichara St
+ adium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجونة ضد الأهلي — الدوري 
+ المصري الممتاز | Tomorrow: El Gouna FC vs Al Ahly SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجون
+ ة × الأهلي | Kick-off in 30 min: El Gouna FC vs Al Ahly SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996826@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270127T150000Z
+DTEND:20270127T170000Z
+SUMMARY:Tala'ea El Gaish vs El Gouna FC — Egyptian Premier League
+LOCATION:Military Sports Stadium
+URL:https://www.fotmob.com/match/5996826
+DESCRIPTION:⚽ طلائع الجيش × الجونة\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 15\n🗓 الأربعاء 27 ي
+ ناير 2027 · 18:00 بتوقيت الرياض\n🏟 Military Sports Sta
+ dium\n—————\n⚽ Tala'ea El Gaish v El Gouna FC\n🏆 Egyptian P
+ remier League — Matchday 15\n🗓 Wed 27 Jan 2027 · 15:00 UTC\n🏟 Mil
+ itary Sports Stadium\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: طلائع الجيش ضد الجونة — ال
+ دوري المصري الممتاز | Tomorrow: Tala'ea El Gaish vs El Go
+ una FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: طلائع 
+ الجيش × الجونة | Kick-off in 30 min: Tala'ea El Gaish vs El Go
+ una FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996834@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270131T150000Z
+DTEND:20270131T170000Z
+SUMMARY:El Gouna FC vs Al Sharkeyah-ENPPI — Egyptian Premier League
+LOCATION:Khaled Bichara Stadium
+URL:https://www.fotmob.com/match/5996834
+DESCRIPTION:⚽ الجونة × Al Sharkeyah-ENPPI\n🏆 الدوري ال
+ مصري الممتاز — الجولة 16\n🗓 الأحد 31 يناير
+  2027 · 18:00 بتوقيت الرياض\n🏟 Khaled Bichara Stadium\n—
+ ————\n⚽ El Gouna FC v Al Sharkeyah-ENPPI\n🏆 Egyptian Premier 
+ League — Matchday 16\n🗓 Sun 31 Jan 2027 · 15:00 UTC\n🏟 Khaled Bic
+ hara Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجونة ضد Al Sharkeyah-ENPPI — الدو
+ ري المصري الممتاز | Tomorrow: El Gouna FC vs Al Sharkeyah-E
+ NPPI
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجون
+ ة × Al Sharkeyah-ENPPI | Kick-off in 30 min: El Gouna FC vs Al Sharkeyah
+ -ENPPI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996845@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270205T150000Z
+DTEND:20270205T170000Z
+SUMMARY:Wadi Degla FC vs El Gouna FC — Egyptian Premier League
+LOCATION:Al Salam Stadium
+URL:https://www.fotmob.com/match/5996845
+DESCRIPTION:⚽ وادي دجلة × الجونة\n🏆 الدوري الم
+ صري الممتاز — الجولة 17\n🗓 الجمعة 5 فبراي
+ ر 2027 · 18:00 بتوقيت الرياض\n🏟 Al Salam Stadium\n——
+ ———\n⚽ Wadi Degla FC v El Gouna FC\n🏆 Egyptian Premier League 
+ — Matchday 17\n🗓 Fri 05 Feb 2027 · 15:00 UTC\n🏟 Al Salam Stadium\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وادي دجلة ضد الجونة — الدو
+ ري المصري الممتاز | Tomorrow: Wadi Degla FC vs El Gouna FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وادي د
+ جلة × الجونة | Kick-off in 30 min: Wadi Degla FC vs El Gouna FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996852@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270210T193000Z
+DTEND:20270210T213000Z
+SUMMARY:El Gouna FC vs ZED FC — Egyptian Premier League
+LOCATION:Khaled Bichara Stadium
+URL:https://www.fotmob.com/match/5996852
+DESCRIPTION:⚽ الجونة × زد\n🏆 الدوري المصري الم
+ متاز — الجولة 18\n🗓 الأربعاء 10 فبراير 2027 
+ · 22:30 بتوقيت الرياض\n🏟 Khaled Bichara Stadium\n———
+ ——\n⚽ El Gouna FC v ZED FC\n🏆 Egyptian Premier League — Matchda
+ y 18\n🗓 Wed 10 Feb 2027 · 19:30 UTC\n🏟 Khaled Bichara Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجونة ضد زد — الدوري المص
+ ري الممتاز | Tomorrow: El Gouna FC vs ZED FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجون
+ ة × زد | Kick-off in 30 min: El Gouna FC vs ZED FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996865@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270219T193000Z
+DTEND:20270219T213000Z
+SUMMARY:Ceramica Cleopatra vs El Gouna FC — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996865
+DESCRIPTION:⚽ سيراميكا كليوباترا × الجونة\n🏆 
+ الدوري المصري الممتاز — الجولة 19\n🗓 الج
+ معة 19 فبراير 2027 · 22:30 بتوقيت الرياض\n🏟 Suez 
+ Canal Authority Stadium\n—————\n⚽ Ceramica Cleopatra v El Goun
+ a FC\n🏆 Egyptian Premier League — Matchday 19\n🗓 Fri 19 Feb 2027 
+ · 19:30 UTC\n🏟 Suez Canal Authority Stadium\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيراميكا كليوباترا ضد الجو
+ نة — الدوري المصري الممتاز | Tomorrow: Ceramica Cle
+ opatra vs El Gouna FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيرام
+ يكا كليوباترا × الجونة | Kick-off in 30 min: Ceramica C
+ leopatra vs El Gouna FC
+END:VALARM
+END:VEVENT
+END:VCALENDAR

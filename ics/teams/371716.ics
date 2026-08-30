@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Juventud Torremolinos CF — Copa del Rey Fixtures | جو
+ فنتود تورريمولينوس — مباريات كأس ملك إس
+ بانيا
+X-WR-CALDESC:Juventud Torremolinos CF — all matches in Copa del Rey\, exa
+ ct UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 
+ 2026-09-05T19:31:10Z.  •  جوفنتود تورريمولينوس — ج
+ ميع المباريات في كأس ملك إسبانيا بتوقيت U
+ TC الدقيق مع الملاعب والقنوات الناقلة. ال
+ مصدر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:1
+ 0Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4996029@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251029T190000Z
+DTEND:20251029T210000Z
+SUMMARY:Torrent CF vs Juventud Torremolinos CF (3 - 1) — Copa del Rey
+LOCATION:Estadio San Gregorio\, Torrent\, Spain
+GEO:39.432258;-0.479964
+URL:https://www.fotmob.com/match/4996029
+DESCRIPTION:⚽ تورينت × جوفنتود تورريمولينوس (3 
+ - 1)\n🏆 كأس ملك إسبانيا — الدور الأول\n🗓 ا
+ لأربعاء 29 أكتوبر 2025 · 22:00 بتوقيت الرياض\n
+ 🏟 Estadio San Gregorio، Torrent\n⚖️ الحكم: David López Jimé
+ nez\n—————\n⚽ Torrent CF v Juventud Torremolinos CF (3 - 1)\n
+ 🏆 Copa del Rey — Round 1\n🗓 Wed 29 Oct 2025 · 19:00 UTC\n🏟 Est
+ adio San Gregorio, Torrent\nReferee: David López Jiménez\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينت ضد جوفنتود تورريمول
+ ينوس — كأس ملك إسبانيا | Tomorrow: Torrent CF vs Juvent
+ ud Torremolinos CF
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ ت × جوفنتود تورريمولينوس | Kick-off in 30 min: Torren
+ t CF vs Juventud Torremolinos CF
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1051 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Monaco — Ligue 1 Fixtures | موناكو — مباري
+ ات الدوري الفرنسي
+X-WR-CALDESC:Monaco — all matches in Ligue 1\, exact UTC kickoffs\, stadi
+ ums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10Z.  
+ •  موناكو — جميع المباريات في الدوري الف
+ رنسي بتوقيت UTC الدقيق مع الملاعب والقنوا
+ ت الناقلة. المصدر: FotMob + 365scores · تحديث تلقا
+ ئي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5802902@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260823T151500Z
+DTEND:20260823T171500Z
+SUMMARY:Le Havre vs Monaco (0 - 1) — Ligue 1
+LOCATION:Stade CMA CGM Océane\, Le Havre\, France
+GEO:49.498869;0.169709
+URL:https://www.fotmob.com/match/5802902
+DESCRIPTION:⚽ لو آفر × موناكو (0 - 1)\n🏆 الدوري ال
+ فرنسي — الجولة 1\n🗓 الأحد 23 أغسطس 2026 · 18:15
+  بتوقيت الرياض\n🏟 Stade CMA CGM Océane، Le Havre\n⚖️ 
+ الحكم: Jeremie Pignard\n👥 الحضور: 18,956\n—————\n
+ ⚽ Le Havre v Monaco (0 - 1)\n🏆 Ligue 1 — Matchday 1\n🗓 Sun 23 Au
+ g 2026 · 15:15 UTC\n🏟 Stade CMA CGM Océane, Le Havre\nReferee: Jeremi
+ e Pignard\nAttendance: 18,956\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لو آفر ضد موناكو — الدوري ا
+ لفرنسي | Tomorrow: Le Havre vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لو آفر
+  × موناكو | Kick-off in 30 min: Le Havre vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802914@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T184500Z
+DTEND:20260830T204500Z
+SUMMARY:Monaco vs Marseille (2 - 0) — Ligue 1
+LOCATION:Stade Louis-II\, Monaco
+GEO:43.727564;7.415542
+URL:https://www.fotmob.com/match/5802914
+DESCRIPTION:⚽ موناكو × مارسيليا (2 - 0)\n🏆 الدوري
+  الفرنسي — الجولة 2\n🗓 الأحد 30 أغسطس 2026 · 
+ 21:45 بتوقيت الرياض\n🏟 Stade Louis-II، Monaco\n⚖️ ال
+ حكم: Willy Delajod\n—————\n⚽ Monaco v Marseille (2 - 0)\n
+ 🏆 Ligue 1 — Matchday 2\n🗓 Sun 30 Aug 2026 · 18:45 UTC\n🏟 Stade
+  Louis-II, Monaco\nReferee: Willy Delajod\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد مارسيليا — الدور
+ ي الفرنسي | Tomorrow: Monaco vs Marseille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × مارسيليا | Kick-off in 30 min: Monaco vs Marseille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802925@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260904T190500Z
+DTEND:20260904T210500Z
+SUMMARY:Paris Saint-Germain vs Monaco (1 - 2) — Ligue 1
+LOCATION:Parc des Princes\, Paris\, France
+GEO:48.841433;2.253049
+URL:https://www.fotmob.com/match/5802925
+DESCRIPTION:⚽ باريس سان جيرمان × موناكو (1 - 2)\n
+ 🏆 الدوري الفرنسي — الجولة 3\n🗓 الجمعة 4 
+ سبتمبر 2026 · 22:05 بتوقيت الرياض\n🏟 Parc des Prince
+ s، Paris\n⚖️ الحكم: Jérôme Brisard\n—————\n⚽ Paris
+  Saint-Germain v Monaco (1 - 2)\n🏆 Ligue 1 — Matchday 3\n🗓 Fri 04 
+ Sep 2026 · 19:05 UTC\n🏟 Parc des Princes, Paris\nReferee: Jérôme Bri
+ sard\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد موناكو 
+ — الدوري الفرنسي | Tomorrow: Paris Saint-Germain vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × موناكو | Kick-off in 30 min: Paris Saint-Germ
+ ain vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802936@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T151500Z
+DTEND:20260912T171500Z
+SUMMARY:Strasbourg vs Monaco — Ligue 1
+LOCATION:Stade de la Meinau\, Strasbourg\, France
+GEO:48.560069;7.755157
+URL:https://www.fotmob.com/match/5802936
+DESCRIPTION:⚽ ستراسبورج × موناكو\n🏆 الدوري ال
+ فرنسي — الجولة 4\n🗓 السبت 12 سبتمبر 2026 · 18:
+ 15 بتوقيت الرياض\n🏟 Stade de la Meinau، Strasbourg\n📺 O
+ neFootball PPV\n—————\n⚽ Strasbourg v Monaco\n🏆 Ligue 1 —
+  Matchday 4\n🗓 Sat 12 Sep 2026 · 15:15 UTC\n🏟 Stade de la Meinau, S
+ trasbourg\n📺 OneFootball PPV\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد موناكو — الدو
+ ري الفرنسي — 📺 OneFootball PPV | Tomorrow: Strasbourg vs Mon
+ aco | TV: OneFootball PPV
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × موناكو — 📺 OneFootball PPV | Kick-off in 30 min: St
+ rasbourg vs Monaco | TV: OneFootball PPV
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802941@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260918T184500Z
+DTEND:20260918T204500Z
+SUMMARY:Monaco vs Lens — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5802941
+DESCRIPTION:⚽ موناكو × لانس\n🏆 الدوري الفرنسي 
+ — الجولة 5\n🗓 الجمعة 18 سبتمبر 2026 · 21:45 بتو
+ قيت الرياض\n🏟 Stade Louis II, Monaco\n—————\n⚽ Mon
+ aco v Lens\n🏆 Ligue 1 — Matchday 5\n🗓 Fri 18 Sep 2026 · 18:45 UTC
+ \n🏟 Stade Louis II, Monaco\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد لانس — الدوري ال
+ فرنسي | Tomorrow: Monaco vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × لانس | Kick-off in 30 min: Monaco vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802950@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T184500Z
+DTEND:20261010T204500Z
+SUMMARY:Monaco vs Toulouse — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5802950
+DESCRIPTION:⚽ موناكو × تولوز\n🏆 الدوري الفرنس
+ ي — الجولة 6\n🗓 السبت 10 أكتوبر 2026 · 21:45 بت
+ وقيت الرياض\n🏟 Stade Louis II, Monaco\n—————\n⚽ M
+ onaco v Toulouse\n🏆 Ligue 1 — Matchday 6\n🗓 Sat 10 Oct 2026 · 18:
+ 45 UTC\n🏟 Stade Louis II, Monaco\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد تولوز — الدوري ا
+ لفرنسي | Tomorrow: Monaco vs Toulouse
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × تولوز | Kick-off in 30 min: Monaco vs Toulouse
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802959@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T151500Z
+DTEND:20261018T171500Z
+SUMMARY:Lorient vs Monaco — Ligue 1
+LOCATION:Stade du Moustoir
+URL:https://www.fotmob.com/match/5802959
+DESCRIPTION:⚽ لوريان × موناكو\n🏆 الدوري الفرن
+ سي — الجولة 7\n🗓 الأحد 18 أكتوبر 2026 · 18:15 ب
+ توقيت الرياض\n🏟 Stade du Moustoir\n—————\n⚽ Lori
+ ent v Monaco\n🏆 Ligue 1 — Matchday 7\n🗓 Sun 18 Oct 2026 · 15:15 U
+ TC\n🏟 Stade du Moustoir\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لوريان ضد موناكو — الدوري 
+ الفرنسي | Tomorrow: Lorient vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لوريا
+ ن × موناكو | Kick-off in 30 min: Lorient vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802969@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Monaco vs Lille — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5802969
+DESCRIPTION:⚽ موناكو × ليل\n🏆 الدوري الفرنسي 
+ — الجولة 8\n🗓 الأحد 25 أكتوبر 2026 · 17:00 بتوق
+ يت الرياض\n🏟 Stade Louis II, Monaco\n—————\n⚽ Monac
+ o v Lille\n🏆 Ligue 1 — Matchday 8\n🗓 Sun 25 Oct 2026 · 14:00 UTC\
+ n🏟 Stade Louis II, Monaco\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد ليل — الدوري الف
+ رنسي | Tomorrow: Monaco vs Lille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × ليل | Kick-off in 30 min: Monaco vs Lille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802979@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T161500Z
+DTEND:20261101T181500Z
+SUMMARY:Paris FC vs Monaco — Ligue 1
+LOCATION:Stade Jean Bouin
+URL:https://www.fotmob.com/match/5802979
+DESCRIPTION:⚽ باريس أف.سي. × موناكو\n🏆 الدوري ا
+ لفرنسي — الجولة 9\n🗓 الأحد 1 نوفمبر 2026 · 19
+ :15 بتوقيت الرياض\n🏟 Stade Jean Bouin\n—————\n⚽
+  Paris FC v Monaco\n🏆 Ligue 1 — Matchday 9\n🗓 Sun 01 Nov 2026 · 1
+ 6:15 UTC\n🏟 Stade Jean Bouin\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد موناكو — ال
+ دوري الفرنسي | Tomorrow: Paris FC vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × موناكو | Kick-off in 30 min: Paris FC vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802986@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T161500Z
+DTEND:20261108T181500Z
+SUMMARY:Le Mans vs Monaco — Ligue 1
+LOCATION:Stade Marie-Marvingt
+URL:https://www.fotmob.com/match/5802986
+DESCRIPTION:⚽ لومان × موناكو\n🏆 الدوري الفرنس
+ ي — الجولة 10\n🗓 الأحد 8 نوفمبر 2026 · 19:15 بت
+ وقيت الرياض\n🏟 Stade Marie-Marvingt\n—————\n⚽ Le 
+ Mans v Monaco\n🏆 Ligue 1 — Matchday 10\n🗓 Sun 08 Nov 2026 · 16:15
+  UTC\n🏟 Stade Marie-Marvingt\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد موناكو — الدوري ا
+ لفرنسي | Tomorrow: Le Mans vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × موناكو | Kick-off in 30 min: Le Mans vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802995@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T194500Z
+DTEND:20261121T214500Z
+SUMMARY:Monaco vs Auxerre — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5802995
+DESCRIPTION:⚽ موناكو × أوكسير\n🏆 الدوري الفرن
+ سي — الجولة 11\n🗓 السبت 21 نوفمبر 2026 · 22:45 ب
+ توقيت الرياض\n🏟 Stade Louis II, Monaco\n—————\n⚽
+  Monaco v Auxerre\n🏆 Ligue 1 — Matchday 11\n🗓 Sat 21 Nov 2026 · 1
+ 9:45 UTC\n🏟 Stade Louis II, Monaco\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد أوكسير — الدوري 
+ الفرنسي | Tomorrow: Monaco vs Auxerre
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × أوكسير | Kick-off in 30 min: Monaco vs Auxerre
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803005@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:Lyon vs Monaco — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5803005
+DESCRIPTION:⚽ أولمبيك ليون × موناكو\n🏆 الدوري 
+ الفرنسي — الجولة 12\n🗓 السبت 28 نوفمبر 2026 
+ · 19:00 بتوقيت الرياض\n🏟 Groupama Stadium\n—————
+ \n⚽ Lyon v Monaco\n🏆 Ligue 1 — Matchday 12\n🗓 Sat 28 Nov 2026 ·
+  16:00 UTC\n🏟 Groupama Stadium\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد موناكو — ا
+ لدوري الفرنسي | Tomorrow: Lyon vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × موناكو | Kick-off in 30 min: Lyon vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803012@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T160000Z
+DTEND:20261205T180000Z
+SUMMARY:Monaco vs Angers — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5803012
+DESCRIPTION:⚽ موناكو × أنجيه\n🏆 الدوري الفرنس
+ ي — الجولة 13\n🗓 السبت 5 ديسمبر 2026 · 19:00 بت
+ وقيت الرياض\n🏟 Stade Louis II, Monaco\n—————\n⚽ M
+ onaco v Angers\n🏆 Ligue 1 — Matchday 13\n🗓 Sat 05 Dec 2026 · 16:0
+ 0 UTC\n🏟 Stade Louis II, Monaco\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد أنجيه — الدوري ا
+ لفرنسي | Tomorrow: Monaco vs Angers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × أنجيه | Kick-off in 30 min: Monaco vs Angers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803025@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T160000Z
+DTEND:20261212T180000Z
+SUMMARY:Rennes vs Monaco — Ligue 1
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/5803025
+DESCRIPTION:⚽ ستاد رين × موناكو\n🏆 الدوري الفر
+ نسي — الجولة 14\n🗓 السبت 12 ديسمبر 2026 · 19:00 
+ بتوقيت الرياض\n🏟 Roazhon Park\n—————\n⚽ Rennes 
+ v Monaco\n🏆 Ligue 1 — Matchday 14\n🗓 Sat 12 Dec 2026 · 16:00 UTC\
+ n🏟 Roazhon Park\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد موناكو — الدور
+ ي الفرنسي | Tomorrow: Rennes vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × موناكو | Kick-off in 30 min: Rennes vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803031@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T160000Z
+DTEND:20270102T180000Z
+SUMMARY:Monaco vs Nice — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5803031
+DESCRIPTION:⚽ موناكو × نيس\n🏆 الدوري الفرنسي 
+ — الجولة 15\n🗓 السبت 2 يناير 2027 · 19:00 بتوقي
+ ت الرياض\n🏟 Stade Louis II, Monaco\n—————\n⚽ Monaco 
+ v Nice\n🏆 Ligue 1 — Matchday 15\n🗓 Sat 02 Jan 2027 · 16:00 UTC\n
+ 🏟 Stade Louis II, Monaco\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد نيس — الدوري الف
+ رنسي | Tomorrow: Monaco vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × نيس | Kick-off in 30 min: Monaco vs Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803040@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T160000Z
+DTEND:20270116T180000Z
+SUMMARY:Monaco vs Brest — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5803040
+DESCRIPTION:⚽ موناكو × بريست\n🏆 الدوري الفرنس
+ ي — الجولة 16\n🗓 السبت 16 يناير 2027 · 19:00 بتو
+ قيت الرياض\n🏟 Stade Louis II, Monaco\n—————\n⚽ Mon
+ aco v Brest\n🏆 Ligue 1 — Matchday 16\n🗓 Sat 16 Jan 2027 · 16:00 U
+ TC\n🏟 Stade Louis II, Monaco\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد بريست — الدوري ا
+ لفرنسي | Tomorrow: Monaco vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × بريست | Kick-off in 30 min: Monaco vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803053@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T160000Z
+DTEND:20270123T180000Z
+SUMMARY:Troyes vs Monaco — Ligue 1
+LOCATION:Stade de l'Aube
+URL:https://www.fotmob.com/match/5803053
+DESCRIPTION:⚽ تروا × موناكو\n🏆 الدوري الفرنسي 
+ — الجولة 17\n🗓 السبت 23 يناير 2027 · 19:00 بتوق
+ يت الرياض\n🏟 Stade de l'Aube\n—————\n⚽ Troyes v Mon
+ aco\n🏆 Ligue 1 — Matchday 17\n🗓 Sat 23 Jan 2027 · 16:00 UTC\n🏟
+  Stade de l'Aube\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد موناكو — الدوري ال
+ فرنسي | Tomorrow: Troyes vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  موناكو | Kick-off in 30 min: Troyes vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803059@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T160000Z
+DTEND:20270130T180000Z
+SUMMARY:Monaco vs Paris Saint-Germain — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5803059
+DESCRIPTION:⚽ موناكو × باريس سان جيرمان\n🏆 الد
+ وري الفرنسي — الجولة 18\n🗓 السبت 30 يناير 2
+ 027 · 19:00 بتوقيت الرياض\n🏟 Stade Louis II, Monaco\n—
+ ————\n⚽ Monaco v Paris Saint-Germain\n🏆 Ligue 1 — Matchday 
+ 18\n🗓 Sat 30 Jan 2027 · 16:00 UTC\n🏟 Stade Louis II, Monaco\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد باريس سان جيرمان 
+ — الدوري الفرنسي | Tomorrow: Monaco vs Paris Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × باريس سان جيرمان | Kick-off in 30 min: Monaco vs Paris
+  Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803063@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T160000Z
+DTEND:20270206T180000Z
+SUMMARY:Auxerre vs Monaco — Ligue 1
+LOCATION:Stade de l'Abbe-Deschamps
+URL:https://www.fotmob.com/match/5803063
+DESCRIPTION:⚽ أوكسير × موناكو\n🏆 الدوري الفرن
+ سي — الجولة 19\n🗓 السبت 6 فبراير 2027 · 19:00 ب
+ توقيت الرياض\n🏟 Stade de l'Abbe-Deschamps\n—————\n
+ ⚽ Auxerre v Monaco\n🏆 Ligue 1 — Matchday 19\n🗓 Sat 06 Feb 2027 
+ · 16:00 UTC\n🏟 Stade de l'Abbe-Deschamps\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوكسير ضد موناكو — الدوري 
+ الفرنسي | Tomorrow: Auxerre vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوكسي
+ ر × موناكو | Kick-off in 30 min: Auxerre vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803080@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270213T160000Z
+DTEND:20270213T180000Z
+SUMMARY:Toulouse vs Monaco — Ligue 1
+LOCATION:Stadium de Toulouse
+URL:https://www.fotmob.com/match/5803080
+DESCRIPTION:⚽ تولوز × موناكو\n🏆 الدوري الفرنس
+ ي — الجولة 20\n🗓 السبت 13 فبراير 2027 · 19:00 بت
+ وقيت الرياض\n🏟 Stadium de Toulouse\n—————\n⚽ Toul
+ ouse v Monaco\n🏆 Ligue 1 — Matchday 20\n🗓 Sat 13 Feb 2027 · 16:00
+  UTC\n🏟 Stadium de Toulouse\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تولوز ضد موناكو — الدوري ا
+ لفرنسي | Tomorrow: Toulouse vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تولوز 
+ × موناكو | Kick-off in 30 min: Toulouse vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803085@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T160000Z
+DTEND:20270220T180000Z
+SUMMARY:Monaco vs Le Mans — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5803085
+DESCRIPTION:⚽ موناكو × لومان\n🏆 الدوري الفرنس
+ ي — الجولة 21\n🗓 السبت 20 فبراير 2027 · 19:00 بت
+ وقيت الرياض\n🏟 Stade Louis II, Monaco\n—————\n⚽ M
+ onaco v Le Mans\n🏆 Ligue 1 — Matchday 21\n🗓 Sat 20 Feb 2027 · 16:
+ 00 UTC\n🏟 Stade Louis II, Monaco\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد لومان — الدوري ا
+ لفرنسي | Tomorrow: Monaco vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × لومان | Kick-off in 30 min: Monaco vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803091@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T160000Z
+DTEND:20270227T180000Z
+SUMMARY:Brest vs Monaco — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5803091
+DESCRIPTION:⚽ بريست × موناكو\n🏆 الدوري الفرنس
+ ي — الجولة 22\n🗓 السبت 27 فبراير 2027 · 19:00 بت
+ وقيت الرياض\n🏟 Stade Francis le Ble\n—————\n⚽ Bre
+ st v Monaco\n🏆 Ligue 1 — Matchday 22\n🗓 Sat 27 Feb 2027 · 16:00 U
+ TC\n🏟 Stade Francis le Ble\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد موناكو — الدوري ا
+ لفرنسي | Tomorrow: Brest vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × موناكو | Kick-off in 30 min: Brest vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803103@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270306T160000Z
+DTEND:20270306T180000Z
+SUMMARY:Monaco vs Lyon — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5803103
+DESCRIPTION:⚽ موناكو × أولمبيك ليون\n🏆 الدوري 
+ الفرنسي — الجولة 23\n🗓 السبت 6 مارس 2027 · 19:
+ 00 بتوقيت الرياض\n🏟 Stade Louis II, Monaco\n—————
+ \n⚽ Monaco v Lyon\n🏆 Ligue 1 — Matchday 23\n🗓 Sat 06 Mar 2027 ·
+  16:00 UTC\n🏟 Stade Louis II, Monaco\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد أولمبيك ليون — ا
+ لدوري الفرنسي | Tomorrow: Monaco vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × أولمبيك ليون | Kick-off in 30 min: Monaco vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803113@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T160000Z
+DTEND:20270313T180000Z
+SUMMARY:Marseille vs Monaco — Ligue 1
+LOCATION:Stade Orange Velodrome
+URL:https://www.fotmob.com/match/5803113
+DESCRIPTION:⚽ مارسيليا × موناكو\n🏆 الدوري الف
+ رنسي — الجولة 24\n🗓 السبت 13 مارس 2027 · 19:00 ب
+ توقيت الرياض\n🏟 Stade Orange Velodrome\n—————\n⚽
+  Marseille v Monaco\n🏆 Ligue 1 — Matchday 24\n🗓 Sat 13 Mar 2027 ·
+  16:00 UTC\n🏟 Stade Orange Velodrome\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مارسيليا ضد موناكو — الدور
+ ي الفرنسي | Tomorrow: Marseille vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مارسي
+ ليا × موناكو | Kick-off in 30 min: Marseille vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803120@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T160000Z
+DTEND:20270320T180000Z
+SUMMARY:Monaco vs Le Havre — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5803120
+DESCRIPTION:⚽ موناكو × لو آفر\n🏆 الدوري الفرنس
+ ي — الجولة 25\n🗓 السبت 20 مارس 2027 · 19:00 بتوق
+ يت الرياض\n🏟 Stade Louis II, Monaco\n—————\n⚽ Monac
+ o v Le Havre\n🏆 Ligue 1 — Matchday 25\n🗓 Sat 20 Mar 2027 · 16:00 
+ UTC\n🏟 Stade Louis II, Monaco\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد لو آفر — الدوري ا
+ لفرنسي | Tomorrow: Monaco vs Le Havre
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × لو آفر | Kick-off in 30 min: Monaco vs Le Havre
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803126@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270403T150000Z
+DTEND:20270403T170000Z
+SUMMARY:Angers vs Monaco — Ligue 1
+LOCATION:Stade Raymond Kopa
+URL:https://www.fotmob.com/match/5803126
+DESCRIPTION:⚽ أنجيه × موناكو\n🏆 الدوري الفرنس
+ ي — الجولة 26\n🗓 السبت 3 أبريل 2027 · 18:00 بتو
+ قيت الرياض\n🏟 Stade Raymond Kopa\n—————\n⚽ Angers 
+ v Monaco\n🏆 Ligue 1 — Matchday 26\n🗓 Sat 03 Apr 2027 · 15:00 UTC\
+ n🏟 Stade Raymond Kopa\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أنجيه ضد موناكو — الدوري ا
+ لفرنسي | Tomorrow: Angers vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أنجيه 
+ × موناكو | Kick-off in 30 min: Angers vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803140@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T150000Z
+DTEND:20270410T170000Z
+SUMMARY:Monaco vs Rennes — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5803140
+DESCRIPTION:⚽ موناكو × ستاد رين\n🏆 الدوري الفر
+ نسي — الجولة 27\n🗓 السبت 10 أبريل 2027 · 18:00 ب
+ توقيت الرياض\n🏟 Stade Louis II, Monaco\n—————\n⚽
+  Monaco v Rennes\n🏆 Ligue 1 — Matchday 27\n🗓 Sat 10 Apr 2027 · 15
+ :00 UTC\n🏟 Stade Louis II, Monaco\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد ستاد رين — الدور
+ ي الفرنسي | Tomorrow: Monaco vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × ستاد رين | Kick-off in 30 min: Monaco vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803149@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T150000Z
+DTEND:20270417T170000Z
+SUMMARY:Monaco vs Strasbourg — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5803149
+DESCRIPTION:⚽ موناكو × ستراسبورج\n🏆 الدوري ال
+ فرنسي — الجولة 28\n🗓 السبت 17 أبريل 2027 · 18:0
+ 0 بتوقيت الرياض\n🏟 Stade Louis II, Monaco\n—————\
+ n⚽ Monaco v Strasbourg\n🏆 Ligue 1 — Matchday 28\n🗓 Sat 17 Apr 20
+ 27 · 15:00 UTC\n🏟 Stade Louis II, Monaco\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد ستراسبورج — الدو
+ ري الفرنسي | Tomorrow: Monaco vs Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × ستراسبورج | Kick-off in 30 min: Monaco vs Strasbourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803154@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T150000Z
+DTEND:20270424T170000Z
+SUMMARY:Lille vs Monaco — Ligue 1
+LOCATION:Decathlon Arena-Stade Pierre-Mauroy
+URL:https://www.fotmob.com/match/5803154
+DESCRIPTION:⚽ ليل × موناكو\n🏆 الدوري الفرنسي 
+ — الجولة 29\n🗓 السبت 24 أبريل 2027 · 18:00 بتوق
+ يت الرياض\n🏟 Decathlon Arena-Stade Pierre-Mauroy\n————
+ —\n⚽ Lille v Monaco\n🏆 Ligue 1 — Matchday 29\n🗓 Sat 24 Apr 202
+ 7 · 15:00 UTC\n🏟 Decathlon Arena-Stade Pierre-Mauroy\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليل ضد موناكو — الدوري الف
+ رنسي | Tomorrow: Lille vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليل × 
+ موناكو | Kick-off in 30 min: Lille vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803165@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T150000Z
+DTEND:20270501T170000Z
+SUMMARY:Monaco vs Lorient — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5803165
+DESCRIPTION:⚽ موناكو × لوريان\n🏆 الدوري الفرن
+ سي — الجولة 30\n🗓 السبت 1 مايو 2027 · 18:00 بتو
+ قيت الرياض\n🏟 Stade Louis II, Monaco\n—————\n⚽ Mon
+ aco v Lorient\n🏆 Ligue 1 — Matchday 30\n🗓 Sat 01 May 2027 · 15:00
+  UTC\n🏟 Stade Louis II, Monaco\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد لوريان — الدوري 
+ الفرنسي | Tomorrow: Monaco vs Lorient
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × لوريان | Kick-off in 30 min: Monaco vs Lorient
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803174@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T150000Z
+DTEND:20270508T170000Z
+SUMMARY:Lens vs Monaco — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5803174
+DESCRIPTION:⚽ لانس × موناكو\n🏆 الدوري الفرنسي 
+ — الجولة 31\n🗓 السبت 8 مايو 2027 · 18:00 بتوقيت
+  الرياض\n🏟 Stade Bollaert-Delelis\n—————\n⚽ Lens v Mo
+ naco\n🏆 Ligue 1 — Matchday 31\n🗓 Sat 08 May 2027 · 15:00 UTC\n
+ 🏟 Stade Bollaert-Delelis\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد موناكو — الدوري ال
+ فرنسي | Tomorrow: Lens vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  موناكو | Kick-off in 30 min: Lens vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803185@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T150000Z
+DTEND:20270516T170000Z
+SUMMARY:Monaco vs Paris FC — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5803185
+DESCRIPTION:⚽ موناكو × باريس أف.سي.\n🏆 الدوري ا
+ لفرنسي — الجولة 32\n🗓 الأحد 16 مايو 2027 · 18:0
+ 0 بتوقيت الرياض\n🏟 Stade Louis II, Monaco\n—————\
+ n⚽ Monaco v Paris FC\n🏆 Ligue 1 — Matchday 32\n🗓 Sun 16 May 2027
+  · 15:00 UTC\n🏟 Stade Louis II, Monaco\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد باريس أف.سي. — ال
+ دوري الفرنسي | Tomorrow: Monaco vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × باريس أف.سي. | Kick-off in 30 min: Monaco vs Paris FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803194@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270522T150000Z
+DTEND:20270522T170000Z
+SUMMARY:Nice vs Monaco — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5803194
+DESCRIPTION:⚽ نيس × موناكو\n🏆 الدوري الفرنسي 
+ — الجولة 33\n🗓 السبت 22 مايو 2027 · 18:00 بتوقي
+ ت الرياض\n🏟 Allianz Riviera\n—————\n⚽ Nice v Monaco\
+ n🏆 Ligue 1 — Matchday 33\n🗓 Sat 22 May 2027 · 15:00 UTC\n🏟 All
+ ianz Riviera\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد موناكو — الدوري الف
+ رنسي | Tomorrow: Nice vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ موناكو | Kick-off in 30 min: Nice vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803203@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270529T190000Z
+DTEND:20270529T210000Z
+SUMMARY:Monaco vs Troyes — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5803203
+DESCRIPTION:⚽ موناكو × تروا\n🏆 الدوري الفرنسي 
+ — الجولة 34\n🗓 السبت 29 مايو 2027 · 22:00 بتوقي
+ ت الرياض\n🏟 Stade Louis II, Monaco\n—————\n⚽ Monaco 
+ v Troyes\n🏆 Ligue 1 — Matchday 34\n🗓 Sat 29 May 2027 · 19:00 UTC\
+ n🏟 Stade Louis II, Monaco\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد تروا — الدوري ال
+ فرنسي | Tomorrow: Monaco vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × تروا | Kick-off in 30 min: Monaco vs Troyes
+END:VALARM
+END:VEVENT
+END:VCALENDAR

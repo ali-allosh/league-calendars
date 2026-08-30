@@ -1,0 +1,1369 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Bayer Leverkusen — Bundesliga & UEFA Europa League Fixtu
+ res | باير ليفركوزن — مباريات الدوري الألم
+ اني والدوري الأوروبي
+X-WR-CALDESC:Bayer Leverkusen — all matches in Bundesliga & UEFA Europa L
+ eague\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · au
+ to-updated 2026-09-05T19:31:10Z.  •  باير ليفركوزن — جم
+ يع المباريات في الدوري الألماني والدوري 
+ الأوروبي بتوقيت UTC الدقيق مع الملاعب وال
+ قنوات الناقلة. المصدر: FotMob + 365scores · تحديث 
+ تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5881146@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T133000Z
+DTEND:20260829T153000Z
+SUMMARY:Elversberg vs Bayer Leverkusen (3 - 2) — Bundesliga
+LOCATION:URSAPHARM-Arena an der Kaiserlinde\, Spiesen-Elversberg\, Germany
+GEO:49.318814;7.121705
+URL:https://www.fotmob.com/match/5881146
+DESCRIPTION:⚽ إلفيرسبيرغ × باير ليفركوزن (3 - 2)\n
+ 🏆 الدوري الألماني — الجولة 1\n🗓 السبت 29 
+ أغسطس 2026 · 16:30 بتوقيت الرياض\n🏟 URSAPHARM-Arena a
+ n der Kaiserlinde، Spiesen-Elversberg\n⚖️ الحكم: Robert Hartmann
+ \n👥 الحضور: 9,307\n—————\n⚽ Elversberg v Bayer Leverk
+ usen (3 - 2)\n🏆 Bundesliga — Matchday 1\n🗓 Sat 29 Aug 2026 · 13:3
+ 0 UTC\n🏟 URSAPHARM-Arena an der Kaiserlinde, Spiesen-Elversberg\nRefere
+ e: Robert Hartmann\nAttendance: 9,307\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلفيرسبيرغ ضد باير ليفركوز
+ ن — الدوري الألماني | Tomorrow: Elversberg vs Bayer Lever
+ kusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلفير
+ سبيرغ × باير ليفركوزن | Kick-off in 30 min: Elversberg v
+ s Bayer Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881152@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T133000Z
+DTEND:20260905T153000Z
+SUMMARY:Bayer Leverkusen vs Union Berlin (4 - 0) — Bundesliga
+LOCATION:BayArena\, Leverkusen\, Germany
+GEO:51.038213;7.002250
+URL:https://www.fotmob.com/match/5881152
+DESCRIPTION:⚽ باير ليفركوزن × يونيون برلين (4 - 0
+ )\n🏆 الدوري الألماني — الجولة 2\n🗓 السبت 
+ 5 سبتمبر 2026 · 16:30 بتوقيت الرياض\n🏟 BayArena، Le
+ verkusen\n📺 شاهد - Shahid VIP\n⚖️ الحكم: Robin Braun\n👥
+  الحضور: 29,629\n—————\n⚽ Bayer Leverkusen v Union Berli
+ n (4 - 0)\n🏆 Bundesliga — Matchday 2\n🗓 Sat 05 Sep 2026 · 13:30 U
+ TC\n🏟 BayArena, Leverkusen\n📺 شاهد - Shahid VIP\nReferee: Robin 
+ Braun\nAttendance: 29,629\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد يونيون بر
+ لين — الدوري الألماني — 📺 شاهد - Shahid VIP | 
+ Tomorrow: Bayer Leverkusen vs Union Berlin | TV: شاهد - Shahid VIP
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × يونيون برلين — 📺 شاهد - Shahid VIP |
+  Kick-off in 30 min: Bayer Leverkusen vs Union Berlin | TV: شاهد - Sha
+ hid VIP
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881161@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T133000Z
+DTEND:20260912T153000Z
+SUMMARY:Augsburg vs Bayer Leverkusen — Bundesliga
+LOCATION:WWK Arena\, Augsburg\, Germany
+GEO:48.323101;10.885949
+URL:https://www.fotmob.com/match/5881161
+DESCRIPTION:⚽ أوغسبورغ × باير ليفركوزن\n🏆 الد
+ وري الألماني — الجولة 3\n🗓 السبت 12 سبتمب
+ ر 2026 · 16:30 بتوقيت الرياض\n🏟 WWK Arena، Augsburg\n
+ 📺 Peacock (Español)\n—————\n⚽ Augsburg v Bayer Leverkusen\
+ n🏆 Bundesliga — Matchday 3\n🗓 Sat 12 Sep 2026 · 13:30 UTC\n🏟 W
+ WK Arena, Augsburg\n📺 Peacock (Español)\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوغسبورغ ضد باير ليفركوزن 
+ — الدوري الألماني — 📺 Peacock (Español) | Tomorrow: 
+ Augsburg vs Bayer Leverkusen | TV: Peacock (Español)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوغسب
+ ورغ × باير ليفركوزن — 📺 Peacock (Español) | Kick-off
+  in 30 min: Augsburg vs Bayer Leverkusen | TV: Peacock (Español)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881170@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T133000Z
+DTEND:20260920T153000Z
+SUMMARY:Bayer Leverkusen vs RB Leipzig — Bundesliga
+LOCATION:BayArena\, Leverkusen\, Germany
+GEO:51.038213;7.002250
+URL:https://www.fotmob.com/match/5881170
+DESCRIPTION:⚽ باير ليفركوزن × لايبزيج\n🏆 الدو
+ ري الألماني — الجولة 4\n🗓 الأحد 20 سبتمبر 
+ 2026 · 16:30 بتوقيت الرياض\n🏟 BayArena، Leverkusen\n—
+ ————\n⚽ Bayer Leverkusen v RB Leipzig\n🏆 Bundesliga — Match
+ day 4\n🗓 Sun 20 Sep 2026 · 13:30 UTC\n🏟 BayArena, Leverkusen\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد لايبزيج —
+  الدوري الألماني | Tomorrow: Bayer Leverkusen vs RB Leipzig
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × لايبزيج | Kick-off in 30 min: Bayer Leverkusen vs
+  RB Leipzig
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881184@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T133000Z
+DTEND:20261010T153000Z
+SUMMARY:Mainz 05 vs Bayer Leverkusen — Bundesliga
+LOCATION:MEWA Arena
+URL:https://www.fotmob.com/match/5881184
+DESCRIPTION:⚽ ماينز 05 × باير ليفركوزن\n🏆 الدور
+ ي الألماني — الجولة 5\n🗓 السبت 10 أكتوبر 20
+ 26 · 16:30 بتوقيت الرياض\n🏟 MEWA Arena\n—————\n
+ ⚽ Mainz 05 v Bayer Leverkusen\n🏆 Bundesliga — Matchday 5\n🗓 Sat 
+ 10 Oct 2026 · 13:30 UTC\n🏟 MEWA Arena\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ماينز 05 ضد باير ليفركوزن — 
+ الدوري الألماني | Tomorrow: Mainz 05 vs Bayer Leverkusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ماينز 
+ 05 × باير ليفركوزن | Kick-off in 30 min: Mainz 05 vs Bayer Le
+ verkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881188@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T133000Z
+DTEND:20261017T153000Z
+SUMMARY:Bayer Leverkusen vs Freiburg — Bundesliga
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/5881188
+DESCRIPTION:⚽ باير ليفركوزن × فرايبورج\n🏆 الد
+ وري الألماني — الجولة 6\n🗓 السبت 17 أكتوب
+ ر 2026 · 16:30 بتوقيت الرياض\n🏟 BayArena\n—————
+ \n⚽ Bayer Leverkusen v Freiburg\n🏆 Bundesliga — Matchday 6\n🗓 Sa
+ t 17 Oct 2026 · 13:30 UTC\n🏟 BayArena\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد فرايبورج 
+ — الدوري الألماني | Tomorrow: Bayer Leverkusen vs Freiburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × فرايبورج | Kick-off in 30 min: Bayer Leverkusen 
+ vs Freiburg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881201@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T133000Z
+DTEND:20261024T153000Z
+SUMMARY:Hoffenheim vs Bayer Leverkusen — Bundesliga
+LOCATION:SNP Arena
+URL:https://www.fotmob.com/match/5881201
+DESCRIPTION:⚽ هوفنهايم × باير ليفركوزن\n🏆 الد
+ وري الألماني — الجولة 7\n🗓 السبت 24 أكتوب
+ ر 2026 · 16:30 بتوقيت الرياض\n🏟 SNP Arena\n————
+ —\n⚽ Hoffenheim v Bayer Leverkusen\n🏆 Bundesliga — Matchday 7\n
+ 🗓 Sat 24 Oct 2026 · 13:30 UTC\n🏟 SNP Arena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هوفنهايم ضد باير ليفركوزن 
+ — الدوري الألماني | Tomorrow: Hoffenheim vs Bayer Leverkus
+ en
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هوفنه
+ ايم × باير ليفركوزن | Kick-off in 30 min: Hoffenheim vs Ba
+ yer Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881207@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T143000Z
+DTEND:20261031T163000Z
+SUMMARY:Bayer Leverkusen vs VfB Stuttgart — Bundesliga
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/5881207
+DESCRIPTION:⚽ باير ليفركوزن × شتوتجارت\n🏆 الد
+ وري الألماني — الجولة 8\n🗓 السبت 31 أكتوب
+ ر 2026 · 17:30 بتوقيت الرياض\n🏟 BayArena\n—————
+ \n⚽ Bayer Leverkusen v VfB Stuttgart\n🏆 Bundesliga — Matchday 8\n
+ 🗓 Sat 31 Oct 2026 · 14:30 UTC\n🏟 BayArena\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد شتوتجارت 
+ — الدوري الألماني | Tomorrow: Bayer Leverkusen vs VfB Stut
+ tgart
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × شتوتجارت | Kick-off in 30 min: Bayer Leverkusen 
+ vs VfB Stuttgart
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881216@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T143000Z
+DTEND:20261107T163000Z
+SUMMARY:1. FC Köln vs Bayer Leverkusen — Bundesliga
+LOCATION:RheinEnergieSTADION
+URL:https://www.fotmob.com/match/5881216
+DESCRIPTION:⚽ كولن × باير ليفركوزن\n🏆 الدوري ا
+ لألماني — الجولة 9\n🗓 السبت 7 نوفمبر 2026 · 
+ 17:30 بتوقيت الرياض\n🏟 RheinEnergieSTADION\n—————
+ \n⚽ 1. FC Köln v Bayer Leverkusen\n🏆 Bundesliga — Matchday 9\n🗓
+  Sat 07 Nov 2026 · 14:30 UTC\n🏟 RheinEnergieSTADION\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كولن ضد باير ليفركوزن — ال
+ دوري الألماني | Tomorrow: 1. FC Köln vs Bayer Leverkusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كولن ×
+  باير ليفركوزن | Kick-off in 30 min: 1. FC Köln vs Bayer Leve
+ rkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881225@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T143000Z
+DTEND:20261121T163000Z
+SUMMARY:Bayer Leverkusen vs Paderborn — Bundesliga
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/5881225
+DESCRIPTION:⚽ باير ليفركوزن × بادربورن\n🏆 الد
+ وري الألماني — الجولة 10\n🗓 السبت 21 نوفمب
+ ر 2026 · 17:30 بتوقيت الرياض\n🏟 BayArena\n—————
+ \n⚽ Bayer Leverkusen v Paderborn\n🏆 Bundesliga — Matchday 10\n🗓 
+ Sat 21 Nov 2026 · 14:30 UTC\n🏟 BayArena\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد بادربورن 
+ — الدوري الألماني | Tomorrow: Bayer Leverkusen vs Paderbor
+ n
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × بادربورن | Kick-off in 30 min: Bayer Leverkusen 
+ vs Paderborn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881233@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T143000Z
+DTEND:20261128T163000Z
+SUMMARY:Borussia Dortmund vs Bayer Leverkusen — Bundesliga
+LOCATION:Signal Iduna Park
+URL:https://www.fotmob.com/match/5881233
+DESCRIPTION:⚽ بوروسيا دورتموند × باير ليفركوز
+ ن\n🏆 الدوري الألماني — الجولة 11\n🗓 السب
+ ت 28 نوفمبر 2026 · 17:30 بتوقيت الرياض\n🏟 Signal Id
+ una Park\n—————\n⚽ Borussia Dortmund v Bayer Leverkusen\n🏆 
+ Bundesliga — Matchday 11\n🗓 Sat 28 Nov 2026 · 14:30 UTC\n🏟 Signal
+  Iduna Park\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد باير ل
+ يفركوزن — الدوري الألماني | Tomorrow: Borussia Dort
+ mund vs Bayer Leverkusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × باير ليفركوزن | Kick-off in 30 min: B
+ orussia Dortmund vs Bayer Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881243@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T143000Z
+DTEND:20261205T163000Z
+SUMMARY:Bayer Leverkusen vs Borussia Mönchengladbach — Bundesliga
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/5881243
+DESCRIPTION:⚽ باير ليفركوزن × بوروسيا مونشنجل
+ ادباخ\n🏆 الدوري الألماني — الجولة 12\n🗓 
+ السبت 5 ديسمبر 2026 · 17:30 بتوقيت الرياض\n🏟 Ba
+ yArena\n—————\n⚽ Bayer Leverkusen v Borussia Mönchengladbach\
+ n🏆 Bundesliga — Matchday 12\n🗓 Sat 05 Dec 2026 · 14:30 UTC\n🏟 
+ BayArena\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد بوروسيا م
+ ونشنجلادباخ — الدوري الألماني | Tomorrow: Bayer
+  Leverkusen vs Borussia Mönchengladbach
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × بوروسيا مونشنجلادباخ | Kick-off in 30
+  min: Bayer Leverkusen vs Borussia Mönchengladbach
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881259@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T143000Z
+DTEND:20261212T163000Z
+SUMMARY:Werder Bremen vs Bayer Leverkusen — Bundesliga
+LOCATION:Wohninvest WESERSTADION
+URL:https://www.fotmob.com/match/5881259
+DESCRIPTION:⚽ فيردر بريمن × باير ليفركوزن\n🏆 ا
+ لدوري الألماني — الجولة 13\n🗓 السبت 12 ديس
+ مبر 2026 · 17:30 بتوقيت الرياض\n🏟 Wohninvest WESERSTADI
+ ON\n—————\n⚽ Werder Bremen v Bayer Leverkusen\n🏆 Bundesliga
+  — Matchday 13\n🗓 Sat 12 Dec 2026 · 14:30 UTC\n🏟 Wohninvest WESER
+ STADION\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيردر بريمن ضد باير ليفركو
+ زن — الدوري الألماني | Tomorrow: Werder Bremen vs Bayer 
+ Leverkusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيردر 
+ بريمن × باير ليفركوزن | Kick-off in 30 min: Werder Breme
+ n vs Bayer Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881261@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T143000Z
+DTEND:20261219T163000Z
+SUMMARY:Bayer Leverkusen vs Eintracht Frankfurt — Bundesliga
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/5881261
+DESCRIPTION:⚽ باير ليفركوزن × آينتراخت فرانكف
+ ورت\n🏆 الدوري الألماني — الجولة 14\n🗓 ال
+ سبت 19 ديسمبر 2026 · 17:30 بتوقيت الرياض\n🏟 BayAr
+ ena\n—————\n⚽ Bayer Leverkusen v Eintracht Frankfurt\n🏆 Bun
+ desliga — Matchday 14\n🗓 Sat 19 Dec 2026 · 14:30 UTC\n🏟 BayArena\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد آينتراخت 
+ فرانكفورت — الدوري الألماني | Tomorrow: Bayer Lev
+ erkusen vs Eintracht Frankfurt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × آينتراخت فرانكفورت | Kick-off in 30 min
+ : Bayer Leverkusen vs Eintracht Frankfurt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881273@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270109T143000Z
+DTEND:20270109T163000Z
+SUMMARY:Hamburger SV vs Bayer Leverkusen — Bundesliga
+LOCATION:Volksparkstadion
+URL:https://www.fotmob.com/match/5881273
+DESCRIPTION:⚽ هامبورج × باير ليفركوزن\n🏆 الدو
+ ري الألماني — الجولة 15\n🗓 السبت 9 يناير 20
+ 27 · 17:30 بتوقيت الرياض\n🏟 Volksparkstadion\n————
+ —\n⚽ Hamburger SV v Bayer Leverkusen\n🏆 Bundesliga — Matchday 15\
+ n🗓 Sat 09 Jan 2027 · 14:30 UTC\n🏟 Volksparkstadion\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هامبورج ضد باير ليفركوزن —
+  الدوري الألماني | Tomorrow: Hamburger SV vs Bayer Leverkuse
+ n
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هامبو
+ رج × باير ليفركوزن | Kick-off in 30 min: Hamburger SV vs Ba
+ yer Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881279@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270112T193000Z
+DTEND:20270112T213000Z
+SUMMARY:Bayern München vs Bayer Leverkusen — Bundesliga
+LOCATION:Allianz Arena
+URL:https://www.fotmob.com/match/5881279
+DESCRIPTION:⚽ بايرن ميونخ × باير ليفركوزن\n🏆 ا
+ لدوري الألماني — الجولة 16\n🗓 الثلاثاء 12 
+ يناير 2027 · 22:30 بتوقيت الرياض\n🏟 Allianz Arena\n
+ —————\n⚽ Bayern München v Bayer Leverkusen\n🏆 Bundesliga 
+ — Matchday 16\n🗓 Tue 12 Jan 2027 · 19:30 UTC\n🏟 Allianz Arena\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بايرن ميونخ ضد باير ليفركو
+ زن — الدوري الألماني | Tomorrow: Bayern München vs Baye
+ r Leverkusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بايرن 
+ ميونخ × باير ليفركوزن | Kick-off in 30 min: Bayern Münc
+ hen vs Bayer Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881287@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T143000Z
+DTEND:20270116T163000Z
+SUMMARY:Bayer Leverkusen vs Schalke 04 — Bundesliga
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/5881287
+DESCRIPTION:⚽ باير ليفركوزن × شالكة\n🏆 الدوري 
+ الألماني — الجولة 17\n🗓 السبت 16 يناير 2027 
+ · 17:30 بتوقيت الرياض\n🏟 BayArena\n—————\n⚽ Ba
+ yer Leverkusen v Schalke 04\n🏆 Bundesliga — Matchday 17\n🗓 Sat 16 
+ Jan 2027 · 14:30 UTC\n🏟 BayArena\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد شالكة — ا
+ لدوري الألماني | Tomorrow: Bayer Leverkusen vs Schalke 04
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × شالكة | Kick-off in 30 min: Bayer Leverkusen vs Sch
+ alke 04
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881296@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T143000Z
+DTEND:20270123T163000Z
+SUMMARY:Bayer Leverkusen vs Elversberg — Bundesliga
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/5881296
+DESCRIPTION:⚽ باير ليفركوزن × إلفيرسبيرغ\n🏆 ا
+ لدوري الألماني — الجولة 18\n🗓 السبت 23 ينا
+ ير 2027 · 17:30 بتوقيت الرياض\n🏟 BayArena\n————
+ —\n⚽ Bayer Leverkusen v Elversberg\n🏆 Bundesliga — Matchday 18\n
+ 🗓 Sat 23 Jan 2027 · 14:30 UTC\n🏟 BayArena\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد إلفيرسبير
+ غ — الدوري الألماني | Tomorrow: Bayer Leverkusen vs Elver
+ sberg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × إلفيرسبيرغ | Kick-off in 30 min: Bayer Leverku
+ sen vs Elversberg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881313@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T143000Z
+DTEND:20270130T163000Z
+SUMMARY:Union Berlin vs Bayer Leverkusen — Bundesliga
+LOCATION:Alte Foersterei
+URL:https://www.fotmob.com/match/5881313
+DESCRIPTION:⚽ يونيون برلين × باير ليفركوزن\n🏆 
+ الدوري الألماني — الجولة 19\n🗓 السبت 30 ين
+ اير 2027 · 17:30 بتوقيت الرياض\n🏟 Alte Foersterei\n—
+ ————\n⚽ Union Berlin v Bayer Leverkusen\n🏆 Bundesliga — Mat
+ chday 19\n🗓 Sat 30 Jan 2027 · 14:30 UTC\n🏟 Alte Foersterei\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يونيون برلين ضد باير ليفرك
+ وزن — الدوري الألماني | Tomorrow: Union Berlin vs Bayer
+  Leverkusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يونيو
+ ن برلين × باير ليفركوزن | Kick-off in 30 min: Union Ber
+ lin vs Bayer Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881314@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T143000Z
+DTEND:20270206T163000Z
+SUMMARY:Bayer Leverkusen vs Augsburg — Bundesliga
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/5881314
+DESCRIPTION:⚽ باير ليفركوزن × أوغسبورغ\n🏆 الد
+ وري الألماني — الجولة 20\n🗓 السبت 6 فبراي
+ ر 2027 · 17:30 بتوقيت الرياض\n🏟 BayArena\n—————
+ \n⚽ Bayer Leverkusen v Augsburg\n🏆 Bundesliga — Matchday 20\n🗓 S
+ at 06 Feb 2027 · 14:30 UTC\n🏟 BayArena\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد أوغسبورغ 
+ — الدوري الألماني | Tomorrow: Bayer Leverkusen vs Augsburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × أوغسبورغ | Kick-off in 30 min: Bayer Leverkusen 
+ vs Augsburg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881330@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270213T143000Z
+DTEND:20270213T163000Z
+SUMMARY:RB Leipzig vs Bayer Leverkusen — Bundesliga
+LOCATION:Red Bull Arena Leipzig
+URL:https://www.fotmob.com/match/5881330
+DESCRIPTION:⚽ لايبزيج × باير ليفركوزن\n🏆 الدو
+ ري الألماني — الجولة 21\n🗓 السبت 13 فبراير
+  2027 · 17:30 بتوقيت الرياض\n🏟 Red Bull Arena Leipzig\n—
+ ————\n⚽ RB Leipzig v Bayer Leverkusen\n🏆 Bundesliga — Match
+ day 21\n🗓 Sat 13 Feb 2027 · 14:30 UTC\n🏟 Red Bull Arena Leipzig\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لايبزيج ضد باير ليفركوزن —
+  الدوري الألماني | Tomorrow: RB Leipzig vs Bayer Leverkusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لايبز
+ يج × باير ليفركوزن | Kick-off in 30 min: RB Leipzig vs Baye
+ r Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881332@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T143000Z
+DTEND:20270220T163000Z
+SUMMARY:Bayer Leverkusen vs Mainz 05 — Bundesliga
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/5881332
+DESCRIPTION:⚽ باير ليفركوزن × ماينز 05\n🏆 الدور
+ ي الألماني — الجولة 22\n🗓 السبت 20 فبراير 2
+ 027 · 17:30 بتوقيت الرياض\n🏟 BayArena\n—————\n
+ ⚽ Bayer Leverkusen v Mainz 05\n🏆 Bundesliga — Matchday 22\n🗓 Sat
+  20 Feb 2027 · 14:30 UTC\n🏟 BayArena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد ماينز 05 — 
+ الدوري الألماني | Tomorrow: Bayer Leverkusen vs Mainz 05
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × ماينز 05 | Kick-off in 30 min: Bayer Leverkusen vs 
+ Mainz 05
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881344@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T143000Z
+DTEND:20270227T163000Z
+SUMMARY:Freiburg vs Bayer Leverkusen — Bundesliga
+LOCATION:Europa-Park Stadion
+URL:https://www.fotmob.com/match/5881344
+DESCRIPTION:⚽ فرايبورج × باير ليفركوزن\n🏆 الد
+ وري الألماني — الجولة 23\n🗓 السبت 27 فبراي
+ ر 2027 · 17:30 بتوقيت الرياض\n🏟 Europa-Park Stadion\n—
+ ————\n⚽ Freiburg v Bayer Leverkusen\n🏆 Bundesliga — Matchda
+ y 23\n🗓 Sat 27 Feb 2027 · 14:30 UTC\n🏟 Europa-Park Stadion\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فرايبورج ضد باير ليفركوزن 
+ — الدوري الألماني | Tomorrow: Freiburg vs Bayer Leverkusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فرايب
+ ورج × باير ليفركوزن | Kick-off in 30 min: Freiburg vs Baye
+ r Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881350@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270302T193000Z
+DTEND:20270302T213000Z
+SUMMARY:Bayer Leverkusen vs Hoffenheim — Bundesliga
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/5881350
+DESCRIPTION:⚽ باير ليفركوزن × هوفنهايم\n🏆 الد
+ وري الألماني — الجولة 24\n🗓 الثلاثاء 2 ما
+ رس 2027 · 22:30 بتوقيت الرياض\n🏟 BayArena\n————
+ —\n⚽ Bayer Leverkusen v Hoffenheim\n🏆 Bundesliga — Matchday 24\n
+ 🗓 Tue 02 Mar 2027 · 19:30 UTC\n🏟 BayArena\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد هوفنهايم 
+ — الدوري الألماني | Tomorrow: Bayer Leverkusen vs Hoffenhe
+ im
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × هوفنهايم | Kick-off in 30 min: Bayer Leverkusen 
+ vs Hoffenheim
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881367@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270306T143000Z
+DTEND:20270306T163000Z
+SUMMARY:VfB Stuttgart vs Bayer Leverkusen — Bundesliga
+LOCATION:MHPArena
+URL:https://www.fotmob.com/match/5881367
+DESCRIPTION:⚽ شتوتجارت × باير ليفركوزن\n🏆 الد
+ وري الألماني — الجولة 25\n🗓 السبت 6 مارس 20
+ 27 · 17:30 بتوقيت الرياض\n🏟 MHPArena\n—————\n⚽
+  VfB Stuttgart v Bayer Leverkusen\n🏆 Bundesliga — Matchday 25\n🗓 S
+ at 06 Mar 2027 · 14:30 UTC\n🏟 MHPArena\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد باير ليفركوزن 
+ — الدوري الألماني | Tomorrow: VfB Stuttgart vs Bayer Lever
+ kusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × باير ليفركوزن | Kick-off in 30 min: VfB Stuttgart vs
+  Bayer Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881369@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T143000Z
+DTEND:20270313T163000Z
+SUMMARY:Bayer Leverkusen vs 1. FC Köln — Bundesliga
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/5881369
+DESCRIPTION:⚽ باير ليفركوزن × كولن\n🏆 الدوري ا
+ لألماني — الجولة 26\n🗓 السبت 13 مارس 2027 · 17
+ :30 بتوقيت الرياض\n🏟 BayArena\n—————\n⚽ Bayer L
+ everkusen v 1. FC Köln\n🏆 Bundesliga — Matchday 26\n🗓 Sat 13 Mar 
+ 2027 · 14:30 UTC\n🏟 BayArena\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد كولن — ال
+ دوري الألماني | Tomorrow: Bayer Leverkusen vs 1. FC Köln
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × كولن | Kick-off in 30 min: Bayer Leverkusen vs 1. FC
+  Köln
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881383@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T143000Z
+DTEND:20270320T163000Z
+SUMMARY:Paderborn vs Bayer Leverkusen — Bundesliga
+LOCATION:Home Deluxe Arena
+URL:https://www.fotmob.com/match/5881383
+DESCRIPTION:⚽ بادربورن × باير ليفركوزن\n🏆 الد
+ وري الألماني — الجولة 27\n🗓 السبت 20 مارس 2
+ 027 · 17:30 بتوقيت الرياض\n🏟 Home Deluxe Arena\n———
+ ——\n⚽ Paderborn v Bayer Leverkusen\n🏆 Bundesliga — Matchday 27\
+ n🗓 Sat 20 Mar 2027 · 14:30 UTC\n🏟 Home Deluxe Arena\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بادربورن ضد باير ليفركوزن 
+ — الدوري الألماني | Tomorrow: Paderborn vs Bayer Leverkuse
+ n
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بادرب
+ ورن × باير ليفركوزن | Kick-off in 30 min: Paderborn vs Bay
+ er Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881387@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270403T133000Z
+DTEND:20270403T153000Z
+SUMMARY:Bayer Leverkusen vs Borussia Dortmund — Bundesliga
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/5881387
+DESCRIPTION:⚽ باير ليفركوزن × بوروسيا دورتمون
+ د\n🏆 الدوري الألماني — الجولة 28\n🗓 السب
+ ت 3 أبريل 2027 · 16:30 بتوقيت الرياض\n🏟 BayArena\n
+ —————\n⚽ Bayer Leverkusen v Borussia Dortmund\n🏆 Bundesliga
+  — Matchday 28\n🗓 Sat 03 Apr 2027 · 13:30 UTC\n🏟 BayArena\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد بوروسيا د
+ ورتموند — الدوري الألماني | Tomorrow: Bayer Leverku
+ sen vs Borussia Dortmund
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × بوروسيا دورتموند | Kick-off in 30 min: Ba
+ yer Leverkusen vs Borussia Dortmund
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881395@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T133000Z
+DTEND:20270410T153000Z
+SUMMARY:Borussia Mönchengladbach vs Bayer Leverkusen — Bundesliga
+LOCATION:Ista-Borussia-Park
+URL:https://www.fotmob.com/match/5881395
+DESCRIPTION:⚽ بوروسيا مونشنجلادباخ × باير ليف
+ ركوزن\n🏆 الدوري الألماني — الجولة 29\n🗓 
+ السبت 10 أبريل 2027 · 16:30 بتوقيت الرياض\n🏟 Ist
+ a-Borussia-Park\n—————\n⚽ Borussia Mönchengladbach v Bayer Le
+ verkusen\n🏆 Bundesliga — Matchday 29\n🗓 Sat 10 Apr 2027 · 13:30 U
+ TC\n🏟 Ista-Borussia-Park\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا مونشنجلادباخ ضد با
+ ير ليفركوزن — الدوري الألماني | Tomorrow: Boruss
+ ia Mönchengladbach vs Bayer Leverkusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا مونشنجلادباخ × باير ليفركوزن | Kick-off in 3
+ 0 min: Borussia Mönchengladbach vs Bayer Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881405@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T133000Z
+DTEND:20270417T153000Z
+SUMMARY:Bayer Leverkusen vs Werder Bremen — Bundesliga
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/5881405
+DESCRIPTION:⚽ باير ليفركوزن × فيردر بريمن\n🏆 ا
+ لدوري الألماني — الجولة 30\n🗓 السبت 17 أبر
+ يل 2027 · 16:30 بتوقيت الرياض\n🏟 BayArena\n————
+ —\n⚽ Bayer Leverkusen v Werder Bremen\n🏆 Bundesliga — Matchday 30
+ \n🗓 Sat 17 Apr 2027 · 13:30 UTC\n🏟 BayArena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد فيردر بري
+ من — الدوري الألماني | Tomorrow: Bayer Leverkusen vs Wer
+ der Bremen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × فيردر بريمن | Kick-off in 30 min: Bayer Leverk
+ usen vs Werder Bremen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881415@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T133000Z
+DTEND:20270424T153000Z
+SUMMARY:Eintracht Frankfurt vs Bayer Leverkusen — Bundesliga
+LOCATION:Deutsche Bank Park
+URL:https://www.fotmob.com/match/5881415
+DESCRIPTION:⚽ آينتراخت فرانكفورت × باير ليفرك
+ وزن\n🏆 الدوري الألماني — الجولة 31\n🗓 ال
+ سبت 24 أبريل 2027 · 16:30 بتوقيت الرياض\n🏟 Deutsch
+ e Bank Park\n—————\n⚽ Eintracht Frankfurt v Bayer Leverkusen\n
+ 🏆 Bundesliga — Matchday 31\n🗓 Sat 24 Apr 2027 · 13:30 UTC\n🏟 D
+ eutsche Bank Park\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: آينتراخت فرانكفورت ضد باير
+  ليفركوزن — الدوري الألماني | Tomorrow: Eintracht 
+ Frankfurt vs Bayer Leverkusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: آينتر
+ اخت فرانكفورت × باير ليفركوزن | Kick-off in 30 mi
+ n: Eintracht Frankfurt vs Bayer Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881423@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T133000Z
+DTEND:20270508T153000Z
+SUMMARY:Bayer Leverkusen vs Hamburger SV — Bundesliga
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/5881423
+DESCRIPTION:⚽ باير ليفركوزن × هامبورج\n🏆 الدو
+ ري الألماني — الجولة 32\n🗓 السبت 8 مايو 2027
+  · 16:30 بتوقيت الرياض\n🏟 BayArena\n—————\n⚽ B
+ ayer Leverkusen v Hamburger SV\n🏆 Bundesliga — Matchday 32\n🗓 Sat 
+ 08 May 2027 · 13:30 UTC\n🏟 BayArena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد هامبورج —
+  الدوري الألماني | Tomorrow: Bayer Leverkusen vs Hamburger S
+ V
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × هامبورج | Kick-off in 30 min: Bayer Leverkusen vs
+  Hamburger SV
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881431@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T133000Z
+DTEND:20270515T153000Z
+SUMMARY:Bayer Leverkusen vs Bayern München — Bundesliga
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/5881431
+DESCRIPTION:⚽ باير ليفركوزن × بايرن ميونخ\n🏆 ا
+ لدوري الألماني — الجولة 33\n🗓 السبت 15 ماي
+ و 2027 · 16:30 بتوقيت الرياض\n🏟 BayArena\n—————
+ \n⚽ Bayer Leverkusen v Bayern München\n🏆 Bundesliga — Matchday 33\
+ n🗓 Sat 15 May 2027 · 13:30 UTC\n🏟 BayArena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد بايرن ميو
+ نخ — الدوري الألماني | Tomorrow: Bayer Leverkusen vs Bay
+ ern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × بايرن ميونخ | Kick-off in 30 min: Bayer Leverk
+ usen vs Bayern München
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5881447@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270522T133000Z
+DTEND:20270522T153000Z
+SUMMARY:Schalke 04 vs Bayer Leverkusen — Bundesliga
+LOCATION:VELTINS-Arena
+URL:https://www.fotmob.com/match/5881447
+DESCRIPTION:⚽ شالكة × باير ليفركوزن\n🏆 الدوري 
+ الألماني — الجولة 34\n🗓 السبت 22 مايو 2027 · 
+ 16:30 بتوقيت الرياض\n🏟 VELTINS-Arena\n—————\n⚽ 
+ Schalke 04 v Bayer Leverkusen\n🏆 Bundesliga — Matchday 34\n🗓 Sat 2
+ 2 May 2027 · 13:30 UTC\n🏟 VELTINS-Arena\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شالكة ضد باير ليفركوزن — ا
+ لدوري الألماني | Tomorrow: Schalke 04 vs Bayer Leverkusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شالكة 
+ × باير ليفركوزن | Kick-off in 30 min: Schalke 04 vs Bayer Lev
+ erkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112244@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T190000Z
+DTEND:20260916T210000Z
+SUMMARY:Bayer Leverkusen vs NK Celje — UEFA Europa League
+LOCATION:BayArena\, Leverkusen\, Germany
+GEO:51.038213;7.002250
+URL:https://www.fotmob.com/match/6112244
+DESCRIPTION:⚽ باير ليفركوزن × تسيليى\n🏆 الدور
+ ي الأوروبي — الجولة 1\n🗓 الأربعاء 16 سبتم
+ بر 2026 · 22:00 بتوقيت الرياض\n🏟 BayArena، Leverkusen\n
+ —————\n⚽ Bayer Leverkusen v NK Celje\n🏆 UEFA Europa League 
+ — Matchday 1\n🗓 Wed 16 Sep 2026 · 19:00 UTC\n🏟 BayArena, Leverkus
+ en\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد تسيليى — 
+ الدوري الأوروبي | Tomorrow: Bayer Leverkusen vs NK Celje
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × تسيليى | Kick-off in 30 min: Bayer Leverkusen vs N
+ K Celje
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112318@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:Lech Poznań vs Bayer Leverkusen — UEFA Europa League
+LOCATION:Enea Stadion\, Poznań\, Poland
+GEO:52.397679;16.858161
+URL:https://www.fotmob.com/match/6112318
+DESCRIPTION:⚽ ليخ بوزنان × باير ليفركوزن\n🏆 ال
+ دوري الأوروبي — الجولة 2\n🗓 الخميس 15 أكت
+ وبر 2026 · 19:45 بتوقيت الرياض\n🏟 Enea Stadion، Pozna
+ ń\n—————\n⚽ Lech Poznań v Bayer Leverkusen\n🏆 UEFA Europa
+  League — Matchday 2\n🗓 Thu 15 Oct 2026 · 16:45 UTC\n🏟 Enea Stadi
+ on, Poznań\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليخ بوزنان ضد باير ليفركوز
+ ن — الدوري الأوروبي | Tomorrow: Lech Poznań vs Bayer Lev
+ erkusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليخ بو
+ زنان × باير ليفركوزن | Kick-off in 30 min: Lech Poznań v
+ s Bayer Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112370@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T164500Z
+DTEND:20261022T184500Z
+SUMMARY:OFI Crete vs Bayer Leverkusen — UEFA Europa League
+LOCATION:Pankritio Stadio\, Iraklio (Heraklion)\, Greece
+GEO:35.336869;25.106163
+URL:https://www.fotmob.com/match/6112370
+DESCRIPTION:⚽ أوفي كريت × باير ليفركوزن\n🏆 الد
+ وري الأوروبي — الجولة 3\n🗓 الخميس 22 أكتو
+ بر 2026 · 19:45 بتوقيت الرياض\n🏟 Pankritio Stadio، Irak
+ lio (Heraklion)\n—————\n⚽ OFI Crete v Bayer Leverkusen\n🏆 U
+ EFA Europa League — Matchday 3\n🗓 Thu 22 Oct 2026 · 16:45 UTC\n🏟 
+ Pankritio Stadio, Iraklio (Heraklion)\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوفي كريت ضد باير ليفركوزن 
+ — الدوري الأوروبي | Tomorrow: OFI Crete vs Bayer Leverkuse
+ n
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوفي ك
+ ريت × باير ليفركوزن | Kick-off in 30 min: OFI Crete vs Bay
+ er Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112242@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T200000Z
+DTEND:20261105T220000Z
+SUMMARY:Bayer Leverkusen vs Marseille — UEFA Europa League
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/6112242
+DESCRIPTION:⚽ باير ليفركوزن × مارسيليا\n🏆 الد
+ وري الأوروبي — الجولة 4\n🗓 الخميس 5 نوفمب
+ ر 2026 · 23:00 بتوقيت الرياض\n🏟 BayArena\n—————
+ \n⚽ Bayer Leverkusen v Marseille\n🏆 UEFA Europa League — Matchday 4
+ \n🗓 Thu 05 Nov 2026 · 20:00 UTC\n🏟 BayArena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد مارسيليا 
+ — الدوري الأوروبي | Tomorrow: Bayer Leverkusen vs Marseill
+ e
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × مارسيليا | Kick-off in 30 min: Bayer Leverkusen 
+ vs Marseille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112290@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Dinamo Zagreb vs Bayer Leverkusen — UEFA Europa League
+LOCATION:Stadion Maksimir
+URL:https://www.fotmob.com/match/6112290
+DESCRIPTION:⚽ دينامو زغرب × باير ليفركوزن\n🏆 ا
+ لدوري الأوروبي — الجولة 5\n🗓 الخميس 26 نو
+ فمبر 2026 · 20:45 بتوقيت الرياض\n🏟 Stadion Maksimir\n
+ —————\n⚽ Dinamo Zagreb v Bayer Leverkusen\n🏆 UEFA Europa Le
+ ague — Matchday 5\n🗓 Thu 26 Nov 2026 · 17:45 UTC\n🏟 Stadion Maksi
+ mir\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: دينامو زغرب ضد باير ليفركو
+ زن — الدوري الأوروبي | Tomorrow: Dinamo Zagreb vs Bayer 
+ Leverkusen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: دينام
+ و زغرب × باير ليفركوزن | Kick-off in 30 min: Dinamo Zagr
+ eb vs Bayer Leverkusen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112245@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:Bayer Leverkusen vs Beşiktaş — UEFA Europa League
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/6112245
+DESCRIPTION:⚽ باير ليفركوزن × بشكتاش\n🏆 الدور
+ ي الأوروبي — الجولة 6\n🗓 الخميس 10 ديسمبر 
+ 2026 · 23:00 بتوقيت الرياض\n🏟 BayArena\n—————\n
+ ⚽ Bayer Leverkusen v Beşiktaş\n🏆 UEFA Europa League — Matchday 6\
+ n🗓 Thu 10 Dec 2026 · 20:00 UTC\n🏟 BayArena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد بشكتاش — 
+ الدوري الأوروبي | Tomorrow: Bayer Leverkusen vs Beşiktaş
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × بشكتاش | Kick-off in 30 min: Bayer Leverkusen vs B
+ eşiktaş
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112243@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:Bayer Leverkusen vs Salzburg — UEFA Europa League
+LOCATION:BayArena
+URL:https://www.fotmob.com/match/6112243
+DESCRIPTION:⚽ باير ليفركوزن × Salzburg\n🏆 الدوري ا
+ لأوروبي — الجولة 7\n🗓 الخميس 21 يناير 2027 ·
+  23:00 بتوقيت الرياض\n🏟 BayArena\n—————\n⚽ Baye
+ r Leverkusen v Salzburg\n🏆 UEFA Europa League — Matchday 7\n🗓 Thu 
+ 21 Jan 2027 · 20:00 UTC\n🏟 BayArena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باير ليفركوزن ضد Salzburg — ال
+ دوري الأوروبي | Tomorrow: Bayer Leverkusen vs Salzburg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باير ل
+ يفركوزن × Salzburg | Kick-off in 30 min: Bayer Leverkusen vs Salzb
+ urg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112258@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Lyon vs Bayer Leverkusen — UEFA Europa League
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/6112258
+DESCRIPTION:⚽ أولمبيك ليون × باير ليفركوزن\n🏆 
+ الدوري الأوروبي — الجولة 8\n🗓 الخميس 28 ي
+ ناير 2027 · 23:00 بتوقيت الرياض\n🏟 Groupama Stadium\n
+ —————\n⚽ Lyon v Bayer Leverkusen\n🏆 UEFA Europa League — 
+ Matchday 8\n🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 Groupama Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد باير ليفرك
+ وزن — الدوري الأوروبي | Tomorrow: Lyon vs Bayer Leverku
+ sen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × باير ليفركوزن | Kick-off in 30 min: Lyon vs B
+ ayer Leverkusen
+END:VALARM
+END:VEVENT
+END:VCALENDAR

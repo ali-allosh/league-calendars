@@ -1,0 +1,672 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al Ittihad Alexandria — Egyptian Premier League Fixtures
+  | الاتحاد السكندري — مباريات الدوري الم
+ صري الممتاز
+X-WR-CALDESC:Al Ittihad Alexandria — all matches in Egyptian Premier Leag
+ ue\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-
+ updated 2026-09-05T19:31:10Z.  •  الاتحاد السكندري — ج
+ ميع المباريات في الدوري المصري الممتاز ب
+ توقيت UTC الدقيق مع الملاعب والقنوات النا
+ قلة. المصدر: FotMob + 365scores · تحديث تلقائي 2026-0
+ 9-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5995572@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260821T170000Z
+DTEND:20260821T190000Z
+SUMMARY:Zamalek SC vs Al Ittihad Alexandria (0 - 0) — Egyptian Premier Le
+ ague
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5995572
+DESCRIPTION:⚽ الزمالك × الاتحاد السكندري (0 - 0)\n
+ 🏆 الدوري المصري الممتاز — الجولة 1\n🗓 ا
+ لجمعة 21 أغسطس 2026 · 20:00 بتوقيت الرياض\n🏟 Cai
+ ro International Stadium، al-Qāhirah (Cairo)\n⚖️ الحكم: Amin Mo
+ hamed Omar\n—————\n⚽ Zamalek SC v Al Ittihad Alexandria (0 - 0
+ )\n🏆 Egyptian Premier League — Matchday 1\n🗓 Fri 21 Aug 2026 · 17
+ :00 UTC\n🏟 Cairo International Stadium, al-Qāhirah (Cairo)\nReferee: A
+ min Mohamed Omar\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الزمالك ضد الاتحاد السكندر
+ ي — الدوري المصري الممتاز | Tomorrow: Zamalek SC vs 
+ Al Ittihad Alexandria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الزما
+ لك × الاتحاد السكندري | Kick-off in 30 min: Zamalek SC v
+ s Al Ittihad Alexandria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996700@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260828T170000Z
+DTEND:20260828T190000Z
+SUMMARY:Al Ittihad Alexandria vs Ceramica Cleopatra (1 - 3) — Egyptian Pr
+ emier League
+LOCATION:Alexandria Stadium\, Al-Iskandarîah (Alexandria)\, Egypt
+GEO:31.197114;29.913127
+URL:https://www.fotmob.com/match/5996700
+DESCRIPTION:⚽ الاتحاد السكندري × سيراميكا كلي
+ وباترا (1 - 3)\n🏆 الدوري المصري الممتاز — ا
+ لجولة 2\n🗓 الجمعة 28 أغسطس 2026 · 20:00 بتوقيت 
+ الرياض\n🏟 Alexandria Stadium، Al-Iskandarîah (Alexandria)\n⚖
+ ️ الحكم: Mahmoud Nassif\n—————\n⚽ Al Ittihad Alexandria
+  v Ceramica Cleopatra (1 - 3)\n🏆 Egyptian Premier League — Matchday 2
+ \n🗓 Fri 28 Aug 2026 · 17:00 UTC\n🏟 Alexandria Stadium, Al-Iskandar
+ îah (Alexandria)\nReferee: Mahmoud Nassif\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد السكندري ضد سيرامي
+ كا كليوباترا — الدوري المصري الممتاز | Tom
+ orrow: Al Ittihad Alexandria vs Ceramica Cleopatra
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد السكندري × سيراميكا كليوباترا | Kick-off in
+  30 min: Al Ittihad Alexandria vs Ceramica Cleopatra
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996710@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260902T170000Z
+DTEND:20260902T190000Z
+SUMMARY:Abo Qir Semad vs Al Ittihad Alexandria (0 - 2) — Egyptian Premier
+  League
+LOCATION:Alexandria Stadium\, Al-Iskandarîah (Alexandria)\, Egypt
+GEO:31.197114;29.913127
+URL:https://www.fotmob.com/match/5996710
+DESCRIPTION:⚽ ابو قير للاسمدة × الاتحاد السكند
+ ري (0 - 2)\n🏆 الدوري المصري الممتاز — الجول
+ ة 3\n🗓 الأربعاء 2 سبتمبر 2026 · 20:00 بتوقيت ال
+ رياض\n🏟 Alexandria Stadium، Al-Iskandarîah (Alexandria)\n⚖️ 
+ الحكم: Ibrahim Ghuloum Mohamed\n—————\n⚽ Abo Qir Semad v 
+ Al Ittihad Alexandria (0 - 2)\n🏆 Egyptian Premier League — Matchday 3
+ \n🗓 Wed 02 Sep 2026 · 17:00 UTC\n🏟 Alexandria Stadium, Al-Iskandar
+ îah (Alexandria)\nReferee: Ibrahim Ghuloum Mohamed\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ابو قير للاسمدة ضد الاتحاد 
+ السكندري — الدوري المصري الممتاز | Tomorrow: 
+ Abo Qir Semad vs Al Ittihad Alexandria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ابو قي
+ ر للاسمدة × الاتحاد السكندري | Kick-off in 30 min:
+  Abo Qir Semad vs Al Ittihad Alexandria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996712@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260907T140000Z
+DTEND:20260907T160000Z
+SUMMARY:Al Ittihad Alexandria vs Asyut Petroleum — Egyptian Premier Leagu
+ e
+LOCATION:Alexandria Stadium\, Al-Iskandarîah (Alexandria)\, Egypt
+GEO:31.197114;29.913127
+URL:https://www.fotmob.com/match/5996712
+DESCRIPTION:⚽ الاتحاد السكندري × أسيوط بترولي
+ وم\n🏆 الدوري المصري الممتاز — الجولة 4\n
+ 🗓 الاثنين 7 سبتمبر 2026 · 17:00 بتوقيت الرياض
+ \n🏟 Alexandria Stadium، Al-Iskandarîah (Alexandria)\n—————\
+ n⚽ Al Ittihad Alexandria v Asyut Petroleum\n🏆 Egyptian Premier League
+  — Matchday 4\n🗓 Mon 07 Sep 2026 · 14:00 UTC\n🏟 Alexandria Stadiu
+ m, Al-Iskandarîah (Alexandria)\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد السكندري ضد أسيوط 
+ بتروليوم — الدوري المصري الممتاز | Tomorrow: 
+ Al Ittihad Alexandria vs Asyut Petroleum
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد السكندري × أسيوط بتروليوم | Kick-off in 30 min:
+  Al Ittihad Alexandria vs Asyut Petroleum
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996728@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260915T170000Z
+DTEND:20260915T190000Z
+SUMMARY:Al Masry SC vs Al Ittihad Alexandria — Egyptian Premier League
+LOCATION:New Suez Stadium\, as-Suways (Suez)\, Egypt
+GEO:29.957607;32.542577
+URL:https://www.fotmob.com/match/5996728
+DESCRIPTION:⚽ المصري × الاتحاد السكندري\n🏆 ال
+ دوري المصري الممتاز — الجولة 5\n🗓 الثلاث
+ اء 15 سبتمبر 2026 · 20:00 بتوقيت الرياض\n🏟 New Sue
+ z Stadium، as-Suways (Suez)\n—————\n⚽ Al Masry SC v Al Ittiha
+ d Alexandria\n🏆 Egyptian Premier League — Matchday 5\n🗓 Tue 15 Sep
+  2026 · 17:00 UTC\n🏟 New Suez Stadium, as-Suways (Suez)\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المصري ضد الاتحاد السكندري
+  — الدوري المصري الممتاز | Tomorrow: Al Masry SC vs A
+ l Ittihad Alexandria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المصر
+ ي × الاتحاد السكندري | Kick-off in 30 min: Al Masry SC vs
+  Al Ittihad Alexandria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996740@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261013T170000Z
+DTEND:20261013T190000Z
+SUMMARY:Al Ittihad Alexandria vs El Gouna FC — Egyptian Premier League
+LOCATION:Alexandria Stadium\, Al-Iskandarîah (Alexandria)\, Egypt
+GEO:31.197114;29.913127
+URL:https://www.fotmob.com/match/5996740
+DESCRIPTION:⚽ الاتحاد السكندري × الجونة\n🏆 ال
+ دوري المصري الممتاز — الجولة 6\n🗓 الثلاث
+ اء 13 أكتوبر 2026 · 20:00 بتوقيت الرياض\n🏟 Alexand
+ ria Stadium، Al-Iskandarîah (Alexandria)\n—————\n⚽ Al Ittiha
+ d Alexandria v El Gouna FC\n🏆 Egyptian Premier League — Matchday 6\n
+ 🗓 Tue 13 Oct 2026 · 17:00 UTC\n🏟 Alexandria Stadium, Al-Iskandarîa
+ h (Alexandria)\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد السكندري ضد الجونة
+  — الدوري المصري الممتاز | Tomorrow: Al Ittihad Alexa
+ ndria vs El Gouna FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد السكندري × الجونة | Kick-off in 30 min: Al Ittihad Ale
+ xandria vs El Gouna FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996748@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261020T170000Z
+DTEND:20261020T190000Z
+SUMMARY:Ghazl Al Mahalla vs Al Ittihad Alexandria — Egyptian Premier Leag
+ ue
+LOCATION:El Mahalla Stadium\, El-Mahalla El-Kubra\, Egypt
+GEO:30.960829;31.172917
+URL:https://www.fotmob.com/match/5996748
+DESCRIPTION:⚽ غزل المحلة × الاتحاد السكندري\n
+ 🏆 الدوري المصري الممتاز — الجولة 7\n🗓 ا
+ لثلاثاء 20 أكتوبر 2026 · 20:00 بتوقيت الرياض\n
+ 🏟 El Mahalla Stadium، El-Mahalla El-Kubra\n—————\n⚽ Ghazl 
+ Al Mahalla v Al Ittihad Alexandria\n🏆 Egyptian Premier League — Match
+ day 7\n🗓 Tue 20 Oct 2026 · 17:00 UTC\n🏟 El Mahalla Stadium, El-Maha
+ lla El-Kubra\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غزل المحلة ضد الاتحاد السك
+ ندري — الدوري المصري الممتاز | Tomorrow: Ghazl Al
+  Mahalla vs Al Ittihad Alexandria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غزل ال
+ محلة × الاتحاد السكندري | Kick-off in 30 min: Ghazl Al
+  Mahalla vs Al Ittihad Alexandria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996757@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261030T180000Z
+DTEND:20261030T200000Z
+SUMMARY:Al Ittihad Alexandria vs Tala'ea El Gaish — Egyptian Premier Leag
+ ue
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996757
+DESCRIPTION:⚽ الاتحاد السكندري × طلائع الجيش\n
+ 🏆 الدوري المصري الممتاز — الجولة 8\n🗓 ا
+ لجمعة 30 أكتوبر 2026 · 21:00 بتوقيت الرياض\n🏟 A
+ lexandria Stadium\n—————\n⚽ Al Ittihad Alexandria v Tala'ea El
+  Gaish\n🏆 Egyptian Premier League — Matchday 8\n🗓 Fri 30 Oct 2026 
+ · 18:00 UTC\n🏟 Alexandria Stadium\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد السكندري ضد طلائع 
+ الجيش — الدوري المصري الممتاز | Tomorrow: Al Itt
+ ihad Alexandria vs Tala'ea El Gaish
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد السكندري × طلائع الجيش | Kick-off in 30 min: Al It
+ tihad Alexandria vs Tala'ea El Gaish
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996767@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261124T180000Z
+DTEND:20261124T200000Z
+SUMMARY:Wadi Degla FC vs Al Ittihad Alexandria — Egyptian Premier League
+LOCATION:Al Salam Stadium
+URL:https://www.fotmob.com/match/5996767
+DESCRIPTION:⚽ وادي دجلة × الاتحاد السكندري\n🏆 
+ الدوري المصري الممتاز — الجولة 9\n🗓 الثل
+ اثاء 24 نوفمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Al 
+ Salam Stadium\n—————\n⚽ Wadi Degla FC v Al Ittihad Alexandria\
+ n🏆 Egyptian Premier League — Matchday 9\n🗓 Tue 24 Nov 2026 · 18:0
+ 0 UTC\n🏟 Al Salam Stadium\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وادي دجلة ضد الاتحاد السكن
+ دري — الدوري المصري الممتاز | Tomorrow: Wadi Degla
+  FC vs Al Ittihad Alexandria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وادي د
+ جلة × الاتحاد السكندري | Kick-off in 30 min: Wadi Degla
+  FC vs Al Ittihad Alexandria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996774@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261208T180000Z
+DTEND:20261208T200000Z
+SUMMARY:Al Ittihad Alexandria vs Al Sharkeyah-ENPPI — Egyptian Premier Le
+ ague
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996774
+DESCRIPTION:⚽ الاتحاد السكندري × Al Sharkeyah-ENPPI\n🏆
+  الدوري المصري الممتاز — الجولة 10\n🗓 الث
+ لاثاء 8 ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Al
+ exandria Stadium\n—————\n⚽ Al Ittihad Alexandria v Al Sharkeya
+ h-ENPPI\n🏆 Egyptian Premier League — Matchday 10\n🗓 Tue 08 Dec 202
+ 6 · 18:00 UTC\n🏟 Alexandria Stadium\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد السكندري ضد Al Sharkeyah
+ -ENPPI — الدوري المصري الممتاز | Tomorrow: Al Ittihad
+  Alexandria vs Al Sharkeyah-ENPPI
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد السكندري × Al Sharkeyah-ENPPI | Kick-off in 30 min: Al Ittih
+ ad Alexandria vs Al Sharkeyah-ENPPI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996787@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261215T180000Z
+DTEND:20261215T200000Z
+SUMMARY:Olympic El Qanah FC vs Al Ittihad Alexandria — Egyptian Premier L
+ eague
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996787
+DESCRIPTION:⚽ القناة × الاتحاد السكندري\n🏆 ال
+ دوري المصري الممتاز — الجولة 11\n🗓 الثلا
+ ثاء 15 ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Suez 
+ Canal Authority Stadium\n—————\n⚽ Olympic El Qanah FC v Al Itt
+ ihad Alexandria\n🏆 Egyptian Premier League — Matchday 11\n🗓 Tue 15
+  Dec 2026 · 18:00 UTC\n🏟 Suez Canal Authority Stadium\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القناة ضد الاتحاد السكندري
+  — الدوري المصري الممتاز | Tomorrow: Olympic El Qanah
+  FC vs Al Ittihad Alexandria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القنا
+ ة × الاتحاد السكندري | Kick-off in 30 min: Olympic El Qan
+ ah FC vs Al Ittihad Alexandria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996799@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261224T150000Z
+DTEND:20261224T170000Z
+SUMMARY:Al Ittihad Alexandria vs ZED FC — Egyptian Premier League
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996799
+DESCRIPTION:⚽ الاتحاد السكندري × زد\n🏆 الدوري 
+ المصري الممتاز — الجولة 12\n🗓 الخميس 24 دي
+ سمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Alexandria Stadium\
+ n—————\n⚽ Al Ittihad Alexandria v ZED FC\n🏆 Egyptian Premie
+ r League — Matchday 12\n🗓 Thu 24 Dec 2026 · 15:00 UTC\n🏟 Alexandr
+ ia Stadium\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد السكندري ضد زد — ا
+ لدوري المصري الممتاز | Tomorrow: Al Ittihad Alexandria v
+ s ZED FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد السكندري × زد | Kick-off in 30 min: Al Ittihad Alexandria 
+ vs ZED FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996810@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261229T180000Z
+DTEND:20261229T200000Z
+SUMMARY:Al Ahly SC vs Al Ittihad Alexandria — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996810
+DESCRIPTION:⚽ الأهلي × الاتحاد السكندري\n🏆 ال
+ دوري المصري الممتاز — الجولة 13\n🗓 الثلا
+ ثاء 29 ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Cairo
+  Int'l Stadium\n—————\n⚽ Al Ahly SC v Al Ittihad Alexandria\n
+ 🏆 Egyptian Premier League — Matchday 13\n🗓 Tue 29 Dec 2026 · 18:0
+ 0 UTC\n🏟 Cairo Int'l Stadium\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الاتحاد السكندري
+  — الدوري المصري الممتاز | Tomorrow: Al Ahly SC vs Al
+  Ittihad Alexandria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الاتحاد السكندري | Kick-off in 30 min: Al Ahly SC vs 
+ Al Ittihad Alexandria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996821@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270106T180000Z
+DTEND:20270106T200000Z
+SUMMARY:National Bank vs Al Ittihad Alexandria — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996821
+DESCRIPTION:⚽ البنك الاهلي × الاتحاد السكندري\
+ n🏆 الدوري المصري الممتاز — الجولة 14\n🗓 
+ الأربعاء 6 يناير 2027 · 21:00 بتوقيت الرياض\n
+ 🏟 Suez Canal Authority Stadium\n—————\n⚽ National Bank v Al
+  Ittihad Alexandria\n🏆 Egyptian Premier League — Matchday 14\n🗓 We
+ d 06 Jan 2027 · 18:00 UTC\n🏟 Suez Canal Authority Stadium\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: البنك الاهلي ضد الاتحاد ال
+ سكندري — الدوري المصري الممتاز | Tomorrow: Nati
+ onal Bank vs Al Ittihad Alexandria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: البنك 
+ الاهلي × الاتحاد السكندري | Kick-off in 30 min: Nati
+ onal Bank vs Al Ittihad Alexandria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996824@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270126T180000Z
+DTEND:20270126T200000Z
+SUMMARY:Al Ittihad Alexandria vs Smouha SC — Egyptian Premier League
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996824
+DESCRIPTION:⚽ الاتحاد السكندري × سموحة\n🏆 الد
+ وري المصري الممتاز — الجولة 15\n🗓 الثلاث
+ اء 26 يناير 2027 · 21:00 بتوقيت الرياض\n🏟 Alexandri
+ a Stadium\n—————\n⚽ Al Ittihad Alexandria v Smouha SC\n🏆 Eg
+ yptian Premier League — Matchday 15\n🗓 Tue 26 Jan 2027 · 18:00 UTC\n
+ 🏟 Alexandria Stadium\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد السكندري ضد سموحة 
+ — الدوري المصري الممتاز | Tomorrow: Al Ittihad Alexan
+ dria vs Smouha SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد السكندري × سموحة | Kick-off in 30 min: Al Ittihad Alexa
+ ndria vs Smouha SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996837@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270131T180000Z
+DTEND:20270131T200000Z
+SUMMARY:Pyramids FC vs Al Ittihad Alexandria — Egyptian Premier League
+LOCATION:30 June Stadium
+URL:https://www.fotmob.com/match/5996837
+DESCRIPTION:⚽ بيراميدز × الاتحاد السكندري\n🏆 
+ الدوري المصري الممتاز — الجولة 16\n🗓 الأ
+ حد 31 يناير 2027 · 21:00 بتوقيت الرياض\n🏟 30 June S
+ tadium\n—————\n⚽ Pyramids FC v Al Ittihad Alexandria\n🏆 Egy
+ ptian Premier League — Matchday 16\n🗓 Sun 31 Jan 2027 · 18:00 UTC\n
+ 🏟 30 June Stadium\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيراميدز ضد الاتحاد السكند
+ ري — الدوري المصري الممتاز | Tomorrow: Pyramids FC 
+ vs Al Ittihad Alexandria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيرام
+ يدز × الاتحاد السكندري | Kick-off in 30 min: Pyramids F
+ C vs Al Ittihad Alexandria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996844@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270205T150000Z
+DTEND:20270205T170000Z
+SUMMARY:Al Ittihad Alexandria vs Petrojet-Suez — Egyptian Premier League
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996844
+DESCRIPTION:⚽ الاتحاد السكندري × منتخب السويس 
+ بتروجت\n🏆 الدوري المصري الممتاز — الجول
+ ة 17\n🗓 الجمعة 5 فبراير 2027 · 18:00 بتوقيت الر
+ ياض\n🏟 Alexandria Stadium\n—————\n⚽ Al Ittihad Alexandri
+ a v Petrojet-Suez\n🏆 Egyptian Premier League — Matchday 17\n🗓 Fri 
+ 05 Feb 2027 · 15:00 UTC\n🏟 Alexandria Stadium\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد السكندري ضد منتخب 
+ السويس بتروجت — الدوري المصري الممتاز | T
+ omorrow: Al Ittihad Alexandria vs Petrojet-Suez
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد السكندري × منتخب السويس بتروجت | Kick-off i
+ n 30 min: Al Ittihad Alexandria vs Petrojet-Suez
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996860@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270212T193000Z
+DTEND:20270212T213000Z
+SUMMARY:Al Ittihad Alexandria vs Al Mokawloon Al Arab — Egyptian Premier 
+ League
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996860
+DESCRIPTION:⚽ الاتحاد السكندري × المقاولون ال
+ عرب\n🏆 الدوري المصري الممتاز — الجولة 18\
+ n🗓 الجمعة 12 فبراير 2027 · 22:30 بتوقيت الرياض
+ \n🏟 Alexandria Stadium\n—————\n⚽ Al Ittihad Alexandria v Al
+  Mokawloon Al Arab\n🏆 Egyptian Premier League — Matchday 18\n🗓 Fri
+  12 Feb 2027 · 19:30 UTC\n🏟 Alexandria Stadium\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد السكندري ضد المقاو
+ لون العرب — الدوري المصري الممتاز | Tomorrow:
+  Al Ittihad Alexandria vs Al Mokawloon Al Arab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد السكندري × المقاولون العرب | Kick-off in 30 mi
+ n: Al Ittihad Alexandria vs Al Mokawloon Al Arab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996871@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270220T193000Z
+DTEND:20270220T213000Z
+SUMMARY:Modern Sport FC vs Al Ittihad Alexandria — Egyptian Premier Leagu
+ e
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996871
+DESCRIPTION:⚽ مودرن سبورت × الاتحاد السكندري\n
+ 🏆 الدوري المصري الممتاز — الجولة 19\n🗓 ا
+ لسبت 20 فبراير 2027 · 22:30 بتوقيت الرياض\n🏟 Cai
+ ro Int'l Stadium\n—————\n⚽ Modern Sport FC v Al Ittihad Alexan
+ dria\n🏆 Egyptian Premier League — Matchday 19\n🗓 Sat 20 Feb 2027 
+ · 19:30 UTC\n🏟 Cairo Int'l Stadium\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مودرن سبورت ضد الاتحاد الس
+ كندري — الدوري المصري الممتاز | Tomorrow: Modern
+  Sport FC vs Al Ittihad Alexandria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مودرن 
+ سبورت × الاتحاد السكندري | Kick-off in 30 min: Modern
+  Sport FC vs Al Ittihad Alexandria
+END:VALARM
+END:VEVENT
+END:VCALENDAR

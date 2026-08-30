@@ -1,0 +1,1234 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Genoa — Serie A & Coppa Italia Fixtures | جنوى — 
+ مباريات الدوري الإيطالي وكأس إيطاليا
+X-WR-CALDESC:Genoa — all matches in Serie A & Coppa Italia\, exact UTC ki
+ ckoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-0
+ 5T19:31:10Z.  •  جنوى — جميع المباريات في الدو
+ ري الإيطالي وكأس إيطاليا بتوقيت UTC الدقي
+ ق مع الملاعب والقنوات الناقلة. المصدر: FotM
+ ob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5749644@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T184500Z
+DTEND:20260822T204500Z
+SUMMARY:Genoa vs Napoli (0 - 2) — Serie A
+LOCATION:Stadio Comunale Luigi Ferraris\, Genova\, Italy
+GEO:44.416467;8.952527
+URL:https://www.fotmob.com/match/5749644
+DESCRIPTION:⚽ جنوى × نابولي (0 - 2)\n🏆 الدوري الإ
+ يطالي — الجولة 1\n🗓 السبت 22 أغسطس 2026 · 21:45
+  بتوقيت الرياض\n🏟 Stadio Comunale Luigi Ferraris، Genova\n
+ ⚖️ الحكم: Marco Di Bello\n👥 الحضور: 33,113\n————
+ —\n⚽ Genoa v Napoli (0 - 2)\n🏆 Serie A — Matchday 1\n🗓 Sat 22 
+ Aug 2026 · 18:45 UTC\n🏟 Stadio Comunale Luigi Ferraris, Genova\nRefere
+ e: Marco Di Bello\nAttendance: 33,113\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد نابولي — الدوري ال
+ إيطالي | Tomorrow: Genoa vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  نابولي | Kick-off in 30 min: Genoa vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749655@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T184500Z
+DTEND:20260830T204500Z
+SUMMARY:Lazio vs Genoa (1 - 0) — Serie A
+LOCATION:Stadio Olimpico\, Roma\, Italy
+GEO:41.933948;12.454757
+URL:https://www.fotmob.com/match/5749655
+DESCRIPTION:⚽ لاتسيو × جنوى (1 - 0)\n🏆 الدوري الإ
+ يطالي — الجولة 2\n🗓 الأحد 30 أغسطس 2026 · 21:45
+  بتوقيت الرياض\n🏟 Stadio Olimpico، Roma\n⚖️ الحكم
+ : Ermanno Feliciani\n—————\n⚽ Lazio v Genoa (1 - 0)\n🏆 Seri
+ e A — Matchday 2\n🗓 Sun 30 Aug 2026 · 18:45 UTC\n🏟 Stadio Olimpic
+ o, Roma\nReferee: Ermanno Feliciani\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد جنوى — الدوري ال
+ إيطالي | Tomorrow: Lazio vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × جنوى | Kick-off in 30 min: Lazio vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749665@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260904T184500Z
+DTEND:20260904T204500Z
+SUMMARY:Genoa vs Como (1 - 4) — Serie A
+LOCATION:Stadio Comunale Luigi Ferraris\, Genova\, Italy
+GEO:44.416467;8.952527
+URL:https://www.fotmob.com/match/5749665
+DESCRIPTION:⚽ جنوى × كومو (1 - 4)\n🏆 الدوري الإيط
+ الي — الجولة 3\n🗓 الجمعة 4 سبتمبر 2026 · 21:45 
+ بتوقيت الرياض\n🏟 Stadio Comunale Luigi Ferraris، Genova\n
+ ⚖️ الحكم: Marco Guida\n👥 الحضور: 30,102\n—————
+ \n⚽ Genoa v Como (1 - 4)\n🏆 Serie A — Matchday 3\n🗓 Fri 04 Sep 2
+ 026 · 18:45 UTC\n🏟 Stadio Comunale Luigi Ferraris, Genova\nReferee: Ma
+ rco Guida\nAttendance: 30,102\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد كومو — الدوري الإي
+ طالي | Tomorrow: Genoa vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  كومو | Kick-off in 30 min: Genoa vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749672@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T130000Z
+DTEND:20260912T150000Z
+SUMMARY:Genoa vs Frosinone — Serie A
+LOCATION:Stadio Comunale Luigi Ferraris\, Genova\, Italy
+GEO:44.416467;8.952527
+URL:https://www.fotmob.com/match/5749672
+DESCRIPTION:⚽ جنوى × فروزينوني\n🏆 الدوري الإي
+ طالي — الجولة 4\n🗓 السبت 12 سبتمبر 2026 · 16:00
+  بتوقيت الرياض\n🏟 Stadio Comunale Luigi Ferraris، Genova\n
+ 📺 DAZN UK\n—————\n⚽ Genoa v Frosinone\n🏆 Serie A — Mat
+ chday 4\n🗓 Sat 12 Sep 2026 · 13:00 UTC\n🏟 Stadio Comunale Luigi Fer
+ raris, Genova\n📺 DAZN UK\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد فروزينوني — الدوري
+  الإيطالي — 📺 DAZN UK | Tomorrow: Genoa vs Frosinone | TV: DA
+ ZN UK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  فروزينوني — 📺 DAZN UK | Kick-off in 30 min: Genoa vs Frosin
+ one | TV: DAZN UK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749687@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:Parma vs Genoa — Serie A
+LOCATION:Stadio Ennio Tardini\, Parma\, Italy
+GEO:44.794905;10.338387
+URL:https://www.fotmob.com/match/5749687
+DESCRIPTION:⚽ بارما × جنوى\n🏆 الدوري الإيطالي 
+ — الجولة 5\n🗓 الأحد 20 سبتمبر 2026 · 16:00 بتوق
+ يت الرياض\n🏟 Stadio Ennio Tardini، Parma\n—————\n⚽
+  Parma v Genoa\n🏆 Serie A — Matchday 5\n🗓 Sun 20 Sep 2026 · 13:00
+  UTC\n🏟 Stadio Ennio Tardini, Parma\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد جنوى — الدوري الإ
+ يطالي | Tomorrow: Parma vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × جنوى | Kick-off in 30 min: Parma vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749693@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T130000Z
+DTEND:20261010T150000Z
+SUMMARY:Genoa vs Fiorentina — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749693
+DESCRIPTION:⚽ جنوى × فيورنتينا\n🏆 الدوري الإي
+ طالي — الجولة 6\n🗓 السبت 10 أكتوبر 2026 · 16:00
+  بتوقيت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n
+ ⚽ Genoa v Fiorentina\n🏆 Serie A — Matchday 6\n🗓 Sat 10 Oct 2026 
+ · 13:00 UTC\n🏟 Stadio Luigi Ferraris\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد فيورنتينا — الدوري
+  الإيطالي | Tomorrow: Genoa vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  فيورنتينا | Kick-off in 30 min: Genoa vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749701@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T184500Z
+DTEND:20261017T204500Z
+SUMMARY:Roma vs Genoa — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749701
+DESCRIPTION:⚽ روما × جنوى\n🏆 الدوري الإيطالي 
+ — الجولة 7\n🗓 السبت 17 أكتوبر 2026 · 21:45 بتوق
+ يت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ Roma v
+  Genoa\n🏆 Serie A — Matchday 7\n🗓 Sat 17 Oct 2026 · 18:45 UTC\n
+ 🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد جنوى — الدوري الإي
+ طالي | Tomorrow: Roma vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  جنوى | Kick-off in 30 min: Roma vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749713@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Genoa vs Venezia — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749713
+DESCRIPTION:⚽ جنوى × فينيزيا\n🏆 الدوري الإيطا
+ لي — الجولة 8\n🗓 الأحد 25 أكتوبر 2026 · 17:00 ب
+ توقيت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n⚽ 
+ Genoa v Venezia\n🏆 Serie A — Matchday 8\n🗓 Sun 25 Oct 2026 · 14:0
+ 0 UTC\n🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد فينيزيا — الدوري ا
+ لإيطالي | Tomorrow: Genoa vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  فينيزيا | Kick-off in 30 min: Genoa vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749724@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261028T194500Z
+DTEND:20261028T214500Z
+SUMMARY:Genoa vs Juventus — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749724
+DESCRIPTION:⚽ جنوى × يوفنتوس\n🏆 الدوري الإيطا
+ لي — الجولة 9\n🗓 الأربعاء 28 أكتوبر 2026 · 22:
+ 45 بتوقيت الرياض\n🏟 Stadio Luigi Ferraris\n—————\
+ n⚽ Genoa v Juventus\n🏆 Serie A — Matchday 9\n🗓 Wed 28 Oct 2026 
+ · 19:45 UTC\n🏟 Stadio Luigi Ferraris\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد يوفنتوس — الدوري ا
+ لإيطالي | Tomorrow: Genoa vs Juventus
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  يوفنتوس | Kick-off in 30 min: Genoa vs Juventus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749737@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T170000Z
+DTEND:20261101T190000Z
+SUMMARY:Lecce vs Genoa — Serie A
+LOCATION:Stadio Ettore Giardiniero - Via del Mare
+URL:https://www.fotmob.com/match/5749737
+DESCRIPTION:⚽ ليتشي × جنوى\n🏆 الدوري الإيطالي 
+ — الجولة 10\n🗓 الأحد 1 نوفمبر 2026 · 20:00 بتوق
+ يت الرياض\n🏟 Stadio Ettore Giardiniero - Via del Mare\n——
+ ———\n⚽ Lecce v Genoa\n🏆 Serie A — Matchday 10\n🗓 Sun 01 No
+ v 2026 · 17:00 UTC\n🏟 Stadio Ettore Giardiniero - Via del Mare\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليتشي ضد جنوى — الدوري الإ
+ يطالي | Tomorrow: Lecce vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليتشي 
+ × جنوى | Kick-off in 30 min: Lecce vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749743@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Genoa vs Milan — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749743
+DESCRIPTION:⚽ جنوى × ميلان\n🏆 الدوري الإيطالي 
+ — الجولة 11\n🗓 الأحد 8 نوفمبر 2026 · 17:00 بتوق
+ يت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n⚽ Genoa 
+ v Milan\n🏆 Serie A — Matchday 11\n🗓 Sun 08 Nov 2026 · 14:00 UTC\n
+ 🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد ميلان — الدوري الإ
+ يطالي | Tomorrow: Genoa vs Milan
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  ميلان | Kick-off in 30 min: Genoa vs Milan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749759@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T113000Z
+DTEND:20261122T133000Z
+SUMMARY:Sassuolo vs Genoa — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749759
+DESCRIPTION:⚽ ساسولو × جنوى\n🏆 الدوري الإيطال
+ ي — الجولة 12\n🗓 الأحد 22 نوفمبر 2026 · 14:30 بت
+ وقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n———
+ ——\n⚽ Sassuolo v Genoa\n🏆 Serie A — Matchday 12\n🗓 Sun 22 No
+ v 2026 · 11:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد جنوى — الدوري ال
+ إيطالي | Tomorrow: Sassuolo vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × جنوى | Kick-off in 30 min: Sassuolo vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749764@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T173000Z
+DTEND:20261129T193000Z
+SUMMARY:Inter vs Genoa — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5749764
+DESCRIPTION:⚽ إنتر ميلان × جنوى\n🏆 الدوري الإي
+ طالي — الجولة 13\n🗓 الأحد 29 نوفمبر 2026 · 20:3
+ 0 بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\n⚽ In
+ ter v Genoa\n🏆 Serie A — Matchday 13\n🗓 Sun 29 Nov 2026 · 17:30 U
+ TC\n🏟 Giuseppe Meazza\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد جنوى — الدور
+ ي الإيطالي | Tomorrow: Inter vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × جنوى | Kick-off in 30 min: Inter vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749774@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T173000Z
+DTEND:20261206T193000Z
+SUMMARY:Genoa vs Torino — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749774
+DESCRIPTION:⚽ جنوى × تورينو\n🏆 الدوري الإيطال
+ ي — الجولة 14\n🗓 الأحد 6 ديسمبر 2026 · 20:30 بت
+ وقيت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n⚽ Ge
+ noa v Torino\n🏆 Serie A — Matchday 14\n🗓 Sun 06 Dec 2026 · 17:30 
+ UTC\n🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد تورينو — الدوري ال
+ إيطالي | Tomorrow: Genoa vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  تورينو | Kick-off in 30 min: Genoa vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749780@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T173000Z
+DTEND:20261213T193000Z
+SUMMARY:Atalanta vs Genoa — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749780
+DESCRIPTION:⚽ أتالانتا × جنوى\n🏆 الدوري الإيط
+ الي — الجولة 15\n🗓 الأحد 13 ديسمبر 2026 · 20:30 
+ بتوقيت الرياض\n🏟 New Balance Arena\n—————\n⚽ At
+ alanta v Genoa\n🏆 Serie A — Matchday 15\n🗓 Sun 13 Dec 2026 · 17:3
+ 0 UTC\n🏟 New Balance Arena\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد جنوى — الدوري 
+ الإيطالي | Tomorrow: Atalanta vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × جنوى | Kick-off in 30 min: Atalanta vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749795@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T173000Z
+DTEND:20261220T193000Z
+SUMMARY:Genoa vs Udinese — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749795
+DESCRIPTION:⚽ جنوى × أودينيزي\n🏆 الدوري الإيط
+ الي — الجولة 16\n🗓 الأحد 20 ديسمبر 2026 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n
+ ⚽ Genoa v Udinese\n🏆 Serie A — Matchday 16\n🗓 Sun 20 Dec 2026 ·
+  17:30 UTC\n🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد أودينيزي — الدوري 
+ الإيطالي | Tomorrow: Genoa vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  أودينيزي | Kick-off in 30 min: Genoa vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749802@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T173000Z
+DTEND:20270103T193000Z
+SUMMARY:Cagliari vs Genoa — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749802
+DESCRIPTION:⚽ كالياري × جنوى\n🏆 الدوري الإيطا
+ لي — الجولة 17\n🗓 الأحد 3 يناير 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cagliari v 
+ Genoa\n🏆 Serie A — Matchday 17\n🗓 Sun 03 Jan 2027 · 17:30 UTC\n
+ 🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد جنوى — الدوري ا
+ لإيطالي | Tomorrow: Cagliari vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × جنوى | Kick-off in 30 min: Cagliari vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749813@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T173000Z
+DTEND:20270106T193000Z
+SUMMARY:Genoa vs Monza — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749813
+DESCRIPTION:⚽ جنوى × مونزا\n🏆 الدوري الإيطالي 
+ — الجولة 18\n🗓 الأربعاء 6 يناير 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n⚽ Ge
+ noa v Monza\n🏆 Serie A — Matchday 18\n🗓 Wed 06 Jan 2027 · 17:30 U
+ TC\n🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد مونزا — الدوري الإ
+ يطالي | Tomorrow: Genoa vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  مونزا | Kick-off in 30 min: Genoa vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749821@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T173000Z
+DTEND:20270110T193000Z
+SUMMARY:Bologna vs Genoa — Serie A
+LOCATION:Stadio Renato Dell'Ara
+URL:https://www.fotmob.com/match/5749821
+DESCRIPTION:⚽ بولونيا × جنوى\n🏆 الدوري الإيطا
+ لي — الجولة 19\n🗓 الأحد 10 يناير 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Stadio Renato Dell'Ara\n—————\n⚽ B
+ ologna v Genoa\n🏆 Serie A — Matchday 19\n🗓 Sun 10 Jan 2027 · 17:3
+ 0 UTC\n🏟 Stadio Renato Dell'Ara\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد جنوى — الدوري ا
+ لإيطالي | Tomorrow: Bologna vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × جنوى | Kick-off in 30 min: Bologna vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749833@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T173000Z
+DTEND:20270117T193000Z
+SUMMARY:Juventus vs Genoa — Serie A
+LOCATION:Allianz Stadium
+URL:https://www.fotmob.com/match/5749833
+DESCRIPTION:⚽ يوفنتوس × جنوى\n🏆 الدوري الإيطا
+ لي — الجولة 20\n🗓 الأحد 17 يناير 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Allianz Stadium\n—————\n⚽ Juventus
+  v Genoa\n🏆 Serie A — Matchday 20\n🗓 Sun 17 Jan 2027 · 17:30 UTC\
+ n🏟 Allianz Stadium\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد جنوى — الدوري ا
+ لإيطالي | Tomorrow: Juventus vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × جنوى | Kick-off in 30 min: Juventus vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749845@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T173000Z
+DTEND:20270124T193000Z
+SUMMARY:Genoa vs Parma — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749845
+DESCRIPTION:⚽ جنوى × بارما\n🏆 الدوري الإيطالي 
+ — الجولة 21\n🗓 الأحد 24 يناير 2027 · 20:30 بتوق
+ يت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n⚽ Genoa 
+ v Parma\n🏆 Serie A — Matchday 21\n🗓 Sun 24 Jan 2027 · 17:30 UTC\n
+ 🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد بارما — الدوري الإ
+ يطالي | Tomorrow: Genoa vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  بارما | Kick-off in 30 min: Genoa vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749853@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T173000Z
+DTEND:20270131T193000Z
+SUMMARY:Genoa vs Lecce — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749853
+DESCRIPTION:⚽ جنوى × ليتشي\n🏆 الدوري الإيطالي 
+ — الجولة 22\n🗓 الأحد 31 يناير 2027 · 20:30 بتوق
+ يت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n⚽ Genoa 
+ v Lecce\n🏆 Serie A — Matchday 22\n🗓 Sun 31 Jan 2027 · 17:30 UTC\n
+ 🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد ليتشي — الدوري الإ
+ يطالي | Tomorrow: Genoa vs Lecce
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  ليتشي | Kick-off in 30 min: Genoa vs Lecce
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749869@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T173000Z
+DTEND:20270207T193000Z
+SUMMARY:Venezia vs Genoa — Serie A
+LOCATION:Stadio Pierluigi Penzo
+URL:https://www.fotmob.com/match/5749869
+DESCRIPTION:⚽ فينيزيا × جنوى\n🏆 الدوري الإيطا
+ لي — الجولة 23\n🗓 الأحد 7 فبراير 2027 · 20:30 ب
+ توقيت الرياض\n🏟 Stadio Pierluigi Penzo\n—————\n⚽
+  Venezia v Genoa\n🏆 Serie A — Matchday 23\n🗓 Sun 07 Feb 2027 · 17
+ :30 UTC\n🏟 Stadio Pierluigi Penzo\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد جنوى — الدوري ا
+ لإيطالي | Tomorrow: Venezia vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × جنوى | Kick-off in 30 min: Venezia vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749874@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T173000Z
+DTEND:20270214T193000Z
+SUMMARY:Genoa vs Atalanta — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749874
+DESCRIPTION:⚽ جنوى × أتالانتا\n🏆 الدوري الإيط
+ الي — الجولة 24\n🗓 الأحد 14 فبراير 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n
+ ⚽ Genoa v Atalanta\n🏆 Serie A — Matchday 24\n🗓 Sun 14 Feb 2027 
+ · 17:30 UTC\n🏟 Stadio Luigi Ferraris\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد أتالانتا — الدوري 
+ الإيطالي | Tomorrow: Genoa vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  أتالانتا | Kick-off in 30 min: Genoa vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749880@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T173000Z
+DTEND:20270221T193000Z
+SUMMARY:Milan vs Genoa — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749880
+DESCRIPTION:⚽ ميلان × جنوى\n🏆 الدوري الإيطالي 
+ — الجولة 25\n🗓 الأحد 21 فبراير 2027 · 20:30 بتو
+ قيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v Genoa\n
+ 🏆 Serie A — Matchday 25\n🗓 Sun 21 Feb 2027 · 17:30 UTC\n🏟 San 
+ Siro\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد جنوى — الدوري الإ
+ يطالي | Tomorrow: Milan vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × جنوى | Kick-off in 30 min: Milan vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749895@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T173000Z
+DTEND:20270228T193000Z
+SUMMARY:Genoa vs Lazio — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749895
+DESCRIPTION:⚽ جنوى × لاتسيو\n🏆 الدوري الإيطال
+ ي — الجولة 26\n🗓 الأحد 28 فبراير 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n⚽ Ge
+ noa v Lazio\n🏆 Serie A — Matchday 26\n🗓 Sun 28 Feb 2027 · 17:30 U
+ TC\n🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد لاتسيو — الدوري ال
+ إيطالي | Tomorrow: Genoa vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  لاتسيو | Kick-off in 30 min: Genoa vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749906@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T173000Z
+DTEND:20270307T193000Z
+SUMMARY:Monza vs Genoa — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749906
+DESCRIPTION:⚽ مونزا × جنوى\n🏆 الدوري الإيطالي 
+ — الجولة 27\n🗓 الأحد 7 مارس 2027 · 20:30 بتوقيت
+  الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Monza v Genoa\n
+ 🏆 Serie A — Matchday 27\n🗓 Sun 07 Mar 2027 · 17:30 UTC\n🏟 Stad
+ io Brianteo\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد جنوى — الدوري الإ
+ يطالي | Tomorrow: Monza vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × جنوى | Kick-off in 30 min: Monza vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749915@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T173000Z
+DTEND:20270314T193000Z
+SUMMARY:Genoa vs Roma — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749915
+DESCRIPTION:⚽ جنوى × روما\n🏆 الدوري الإيطالي 
+ — الجولة 28\n🗓 الأحد 14 مارس 2027 · 20:30 بتوقي
+ ت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n⚽ Genoa v 
+ Roma\n🏆 Serie A — Matchday 28\n🗓 Sun 14 Mar 2027 · 17:30 UTC\n
+ 🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد روما — الدوري الإي
+ طالي | Tomorrow: Genoa vs Roma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  روما | Kick-off in 30 min: Genoa vs Roma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749922@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T173000Z
+DTEND:20270321T193000Z
+SUMMARY:Fiorentina vs Genoa — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749922
+DESCRIPTION:⚽ فيورنتينا × جنوى\n🏆 الدوري الإي
+ طالي — الجولة 29\n🗓 الأحد 21 مارس 2027 · 20:30 ب
+ توقيت الرياض\n🏟 Artemio Franchi, Firenze\n—————\n
+ ⚽ Fiorentina v Genoa\n🏆 Serie A — Matchday 29\n🗓 Sun 21 Mar 2027
+  · 17:30 UTC\n🏟 Artemio Franchi, Firenze\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد جنوى — الدوري
+  الإيطالي | Tomorrow: Fiorentina vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × جنوى | Kick-off in 30 min: Fiorentina vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749935@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T163000Z
+DTEND:20270404T183000Z
+SUMMARY:Genoa vs Inter — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749935
+DESCRIPTION:⚽ جنوى × إنتر ميلان\n🏆 الدوري الإي
+ طالي — الجولة 30\n🗓 الأحد 4 أبريل 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n
+ ⚽ Genoa v Inter\n🏆 Serie A — Matchday 30\n🗓 Sun 04 Apr 2027 · 1
+ 6:30 UTC\n🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد إنتر ميلان — الدور
+ ي الإيطالي | Tomorrow: Genoa vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  إنتر ميلان | Kick-off in 30 min: Genoa vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749943@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T163000Z
+DTEND:20270411T183000Z
+SUMMARY:Frosinone vs Genoa — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749943
+DESCRIPTION:⚽ فروزينوني × جنوى\n🏆 الدوري الإي
+ طالي — الجولة 31\n🗓 الأحد 11 أبريل 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n—————\n⚽
+  Frosinone v Genoa\n🏆 Serie A — Matchday 31\n🗓 Sun 11 Apr 2027 · 
+ 16:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد جنوى — الدوري
+  الإيطالي | Tomorrow: Frosinone vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × جنوى | Kick-off in 30 min: Frosinone vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749958@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T163000Z
+DTEND:20270418T183000Z
+SUMMARY:Torino vs Genoa — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749958
+DESCRIPTION:⚽ تورينو × جنوى\n🏆 الدوري الإيطال
+ ي — الجولة 32\n🗓 الأحد 18 أبريل 2027 · 19:30 بتو
+ قيت الرياض\n🏟 Stadio Olimpico Grande Torino\n—————\n
+ ⚽ Torino v Genoa\n🏆 Serie A — Matchday 32\n🗓 Sun 18 Apr 2027 · 
+ 16:30 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد جنوى — الدوري ال
+ إيطالي | Tomorrow: Torino vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × جنوى | Kick-off in 30 min: Torino vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749962@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270425T163000Z
+DTEND:20270425T183000Z
+SUMMARY:Genoa vs Sassuolo — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749962
+DESCRIPTION:⚽ جنوى × ساسولو\n🏆 الدوري الإيطال
+ ي — الجولة 33\n🗓 الأحد 25 أبريل 2027 · 19:30 بتو
+ قيت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n⚽ Geno
+ a v Sassuolo\n🏆 Serie A — Matchday 33\n🗓 Sun 25 Apr 2027 · 16:30 
+ UTC\n🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد ساسولو — الدوري ال
+ إيطالي | Tomorrow: Genoa vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  ساسولو | Kick-off in 30 min: Genoa vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749979@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T163000Z
+DTEND:20270502T183000Z
+SUMMARY:Udinese vs Genoa — Serie A
+LOCATION:Bluenergy Stadium - Stadio Friuli
+URL:https://www.fotmob.com/match/5749979
+DESCRIPTION:⚽ أودينيزي × جنوى\n🏆 الدوري الإيط
+ الي — الجولة 34\n🗓 الأحد 2 مايو 2027 · 19:30 بت
+ وقيت الرياض\n🏟 Bluenergy Stadium - Stadio Friuli\n———
+ ——\n⚽ Udinese v Genoa\n🏆 Serie A — Matchday 34\n🗓 Sun 02 May
+  2027 · 16:30 UTC\n🏟 Bluenergy Stadium - Stadio Friuli\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد جنوى — الدوري 
+ الإيطالي | Tomorrow: Udinese vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × جنوى | Kick-off in 30 min: Udinese vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749982@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T163000Z
+DTEND:20270509T183000Z
+SUMMARY:Genoa vs Cagliari — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749982
+DESCRIPTION:⚽ جنوى × كالياري\n🏆 الدوري الإيطا
+ لي — الجولة 35\n🗓 الأحد 9 مايو 2027 · 19:30 بتو
+ قيت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n⚽ Geno
+ a v Cagliari\n🏆 Serie A — Matchday 35\n🗓 Sun 09 May 2027 · 16:30 
+ UTC\n🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد كالياري — الدوري ا
+ لإيطالي | Tomorrow: Genoa vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  كالياري | Kick-off in 30 min: Genoa vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749998@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T163000Z
+DTEND:20270516T183000Z
+SUMMARY:Napoli vs Genoa — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749998
+DESCRIPTION:⚽ نابولي × جنوى\n🏆 الدوري الإيطال
+ ي — الجولة 36\n🗓 الأحد 16 مايو 2027 · 19:30 بتوق
+ يت الرياض\n🏟 Diego Armando Maradona\n—————\n⚽ Napol
+ i v Genoa\n🏆 Serie A — Matchday 36\n🗓 Sun 16 May 2027 · 16:30 UTC
+ \n🏟 Diego Armando Maradona\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد جنوى — الدوري ال
+ إيطالي | Tomorrow: Napoli vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × جنوى | Kick-off in 30 min: Napoli vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750004@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T163000Z
+DTEND:20270523T183000Z
+SUMMARY:Genoa vs Bologna — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5750004
+DESCRIPTION:⚽ جنوى × بولونيا\n🏆 الدوري الإيطا
+ لي — الجولة 37\n🗓 الأحد 23 مايو 2027 · 19:30 بتو
+ قيت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n⚽ Geno
+ a v Bologna\n🏆 Serie A — Matchday 37\n🗓 Sun 23 May 2027 · 16:30 U
+ TC\n🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد بولونيا — الدوري ا
+ لإيطالي | Tomorrow: Genoa vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  بولونيا | Kick-off in 30 min: Genoa vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750013@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T163000Z
+DTEND:20270530T183000Z
+SUMMARY:Como vs Genoa — Serie A
+LOCATION:Stadio G. Sinigaglia
+URL:https://www.fotmob.com/match/5750013
+DESCRIPTION:⚽ كومو × جنوى\n🏆 الدوري الإيطالي 
+ — الجولة 38\n🗓 الأحد 30 مايو 2027 · 19:30 بتوقي
+ ت الرياض\n🏟 Stadio G. Sinigaglia\n—————\n⚽ Como v Ge
+ noa\n🏆 Serie A — Matchday 38\n🗓 Sun 30 May 2027 · 16:30 UTC\n🏟
+  Stadio G. Sinigaglia\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كومو ضد جنوى — الدوري الإي
+ طالي | Tomorrow: Como vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كومو ×
+  جنوى | Kick-off in 30 min: Como vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852780@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260816T163000Z
+DTEND:20260816T183000Z
+SUMMARY:Genoa vs Ascoli (4 - 1) — Coppa Italia
+LOCATION:Stadio Comunale Luigi Ferraris\, Genova\, Italy
+GEO:44.416467;8.952527
+URL:https://www.fotmob.com/match/5852780
+DESCRIPTION:⚽ جنوى × أسكولي (4 - 1)\n🏆 كأس إيطالي
+ ا — دور الـ32\n🗓 الأحد 16 أغسطس 2026 · 19:30 بتو
+ قيت الرياض\n🏟 Stadio Comunale Luigi Ferraris، Genova\n⚖️ 
+ الحكم: Mario Perri\n👥 الحضور: 13,000\n—————\n⚽ G
+ enoa v Ascoli (4 - 1)\n🏆 Coppa Italia — Round of 32\n🗓 Sun 16 Aug 
+ 2026 · 16:30 UTC\n🏟 Stadio Comunale Luigi Ferraris, Genova\nReferee: M
+ ario Perri\nAttendance: 13,000\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد أسكولي — كأس إيطال
+ يا | Tomorrow: Genoa vs Ascoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  أسكولي | Kick-off in 30 min: Genoa vs Ascoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003652@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260915T160000Z
+DTEND:20260915T180000Z
+SUMMARY:Genoa vs Südtirol — Coppa Italia
+LOCATION:Stadio Comunale Luigi Ferraris\, Genova\, Italy
+GEO:44.416467;8.952527
+URL:https://www.fotmob.com/match/6003652
+DESCRIPTION:⚽ جنوى × سودتيرول\n🏆 كأس إيطاليا 
+ — دور الـ32\n🗓 الثلاثاء 15 سبتمبر 2026 · 19:00 
+ بتوقيت الرياض\n🏟 Stadio Comunale Luigi Ferraris، Genova\n
+ —————\n⚽ Genoa v Südtirol\n🏆 Coppa Italia — Round of 32\
+ n🗓 Tue 15 Sep 2026 · 16:00 UTC\n🏟 Stadio Comunale Luigi Ferraris, G
+ enova\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد سودتيرول — كأس إيط
+ اليا | Tomorrow: Genoa vs Südtirol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  سودتيرول | Kick-off in 30 min: Genoa vs Südtirol
+END:VALARM
+END:VEVENT
+END:VCALENDAR

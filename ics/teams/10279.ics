@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Castellón — Copa del Rey Fixtures | كاستييون 
+ — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Castellón — all matches in Copa del Rey\, exact UTC kickoff
+ s\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:
+ 31:10Z.  •  كاستييون — جميع المباريات في كأس
+  ملك إسبانيا بتوقيت UTC الدقيق مع الملاعب 
+ والقنوات الناقلة. المصدر: FotMob + 365scores · تح
+ ديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4996027@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251030T200000Z
+DTEND:20251030T220000Z
+SUMMARY:CA Antoniano vs Castellón (1 - 0) — Copa del Rey
+LOCATION:Estadio Municipal\, Lebrija\, Spain
+GEO:36.916034;-6.081233
+URL:https://www.fotmob.com/match/4996027
+DESCRIPTION:⚽ أنتونيانو × كاستييون (1 - 0)\n🏆 كأس
+  ملك إسبانيا — الدور الأول\n🗓 الخميس 30 أ
+ كتوبر 2025 · 23:00 بتوقيت الرياض\n🏟 Estadio Municipal
+ ، Lebrija\n⚖️ الحكم: Alejandro Ojaos Valera\n—————\n
+ ⚽ CA Antoniano v Castellón (1 - 0)\n🏆 Copa del Rey — Round 1\n🗓
+  Thu 30 Oct 2025 · 20:00 UTC\n🏟 Estadio Municipal, Lebrija\nReferee: A
+ lejandro Ojaos Valera\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أنتونيانو ضد كاستييون — كأ
+ س ملك إسبانيا | Tomorrow: CA Antoniano vs Castellón
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أنتون
+ يانو × كاستييون | Kick-off in 30 min: CA Antoniano vs Castell
+ ón
+END:VALARM
+END:VEVENT
+END:VCALENDAR

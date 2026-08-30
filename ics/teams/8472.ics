@@ -1,0 +1,1599 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Sunderland — Premier League & UEFA Europa League & FA Cu
+ p Fixtures | سندرلاند — مباريات الدوري الإنجل
+ يزي الممتاز والدوري الأوروبي وكأس الاتح
+ اد الإنجليزي
+X-WR-CALDESC:Sunderland — all matches in Premier League & UEFA Europa Lea
+ gue & FA Cup\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365score
+ s · auto-updated 2026-09-05T19:31:10Z.  •  سندرلاند — جمي
+ ع المباريات في الدوري الإنجليزي الممتاز 
+ والدوري الأوروبي وكأس الاتحاد الإنجليزي
+  بتوقيت UTC الدقيق مع الملاعب والقنوات الن
+ اقلة. المصدر: FotMob + 365scores · تحديث تلقائي 2026
+ -09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5795366@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T140000Z
+DTEND:20260822T160000Z
+SUMMARY:Ipswich Town vs Sunderland (2 - 1) — Premier League
+LOCATION:Portman Road\, Ipswich\, Suffolk\, England
+GEO:52.054950;1.145263
+URL:https://www.fotmob.com/match/5795366
+DESCRIPTION:⚽ إبسويتش تاون × سندرلاند (2 - 1)\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 1\n🗓 ا
+ لسبت 22 أغسطس 2026 · 17:00 بتوقيت الرياض\n🏟 Portm
+ an Road، Ipswich, Suffolk\n⚖️ الحكم: Farai Hallam\n👥 الحض
+ ور: 29,669\n—————\n⚽ Ipswich Town v Sunderland (2 - 1)\n🏆
+  Premier League — Matchday 1\n🗓 Sat 22 Aug 2026 · 14:00 UTC\n🏟 Po
+ rtman Road, Ipswich, Suffolk\nReferee: Farai Hallam\nAttendance: 29,669\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد سندرلاند —
+  الدوري الإنجليزي الممتاز | Tomorrow: Ipswich Town v
+ s Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × سندرلاند | Kick-off in 30 min: Ipswich Town vs Su
+ nderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795433@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T130000Z
+DTEND:20260830T150000Z
+SUMMARY:Sunderland vs Fulham (1 - 0) — Premier League
+LOCATION:Stadium of Light\, Sunderland\, England
+GEO:54.914422;-1.388177
+URL:https://www.fotmob.com/match/5795433
+DESCRIPTION:⚽ سندرلاند × فولهام (1 - 0)\n🏆 الدوري
+  الإنجليزي الممتاز — الجولة 2\n🗓 الأحد 30 
+ أغسطس 2026 · 16:00 بتوقيت الرياض\n🏟 Stadium of Light
+ ، Sunderland\n⚖️ الحكم: Michael Salisbury\n—————\n⚽ 
+ Sunderland v Fulham (1 - 0)\n🏆 Premier League — Matchday 2\n🗓 Sun 
+ 30 Aug 2026 · 13:00 UTC\n🏟 Stadium of Light, Sunderland\nReferee: Mich
+ ael Salisbury\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد فولهام — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Sunderland vs Fulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × فولهام | Kick-off in 30 min: Sunderland vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795436@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T140000Z
+DTEND:20260905T160000Z
+SUMMARY:Brentford vs Sunderland (1 - 1) — Premier League
+LOCATION:Gtech Community Stadium\, Brentford\, Middlesex\, England
+GEO:51.490729;-0.288884
+URL:https://www.fotmob.com/match/5795436
+DESCRIPTION:⚽ برينتفورد × سندرلاند (1 - 1)\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 3\n🗓 السب
+ ت 5 سبتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Gtech Comm
+ unity Stadium، Brentford, Middlesex\n📺 beIN Sports 5 HD\n⚖️ الح
+ كم: Thomas Bramall\n👥 الحضور: 17,131\n—————\n⚽ Bren
+ tford v Sunderland (1 - 1)\n🏆 Premier League — Matchday 3\n🗓 Sat 0
+ 5 Sep 2026 · 14:00 UTC\n🏟 Gtech Community Stadium, Brentford, Middlese
+ x\n📺 beIN Sports 5 HD\nReferee: Thomas Bramall\nAttendance: 17,131\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد سندرلاند — ال
+ دوري الإنجليزي الممتاز — 📺 beIN Sports 5 HD | Tom
+ orrow: Brentford vs Sunderland | TV: beIN Sports 5 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × سندرلاند — 📺 beIN Sports 5 HD | Kick-off in 30 mi
+ n: Brentford vs Sunderland | TV: beIN Sports 5 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795453@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T190000Z
+DTEND:20260912T210000Z
+SUMMARY:Sunderland vs Arsenal — Premier League
+LOCATION:Stadium of Light\, Sunderland\, England
+GEO:54.914422;-1.388177
+URL:https://www.fotmob.com/match/5795453
+DESCRIPTION:⚽ سندرلاند × أرسنال\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 4\n🗓 السبت 12 سبت
+ مبر 2026 · 22:00 بتوقيت الرياض\n🏟 Stadium of Light، Su
+ nderland\n📺 HBO Max (UK)، TNT Sports 1، TNT Sports Ultimate، USA Net
+ work، Telemundo، Fubo Sports CA، StarHub TV+، Astro Go\n————
+ —\n⚽ Sunderland v Arsenal\n🏆 Premier League — Matchday 4\n🗓 Sa
+ t 12 Sep 2026 · 19:00 UTC\n🏟 Stadium of Light, Sunderland\n📺 HBO Ma
+ x (UK), TNT Sports 1, TNT Sports Ultimate, USA Network, Telemundo, Fubo Sp
+ orts CA, StarHub TV+, Astro Go\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد أرسنال — الدور
+ ي الإنجليزي الممتاز — 📺 HBO Max (UK)، TNT Sports 1
+ ، TNT Sports Ultimate، USA Network، Telemundo، Fubo Sports CA، StarHu
+ b TV+، Astro Go | Tomorrow: Sunderland vs Arsenal | TV: HBO Max (UK)\, TN
+ T Sports 1\, TNT Sports Ultimate\, USA Network\, Telemundo\, Fubo Sports C
+ A\, StarHub TV+\, Astro Go
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × أرسنال — 📺 HBO Max (UK)، TNT Sports 1، TNT Sports U
+ ltimate، USA Network، Telemundo، Fubo Sports CA، StarHub TV+، Astro G
+ o | Kick-off in 30 min: Sunderland vs Arsenal | TV: HBO Max (UK)\, TNT Spo
+ rts 1\, TNT Sports Ultimate\, USA Network\, Telemundo\, Fubo Sports CA\, S
+ tarHub TV+\, Astro Go
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795461@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:Manchester City vs Sunderland — Premier League
+LOCATION:Etihad Stadium\, Manchester\, England
+GEO:53.483152;-2.200409
+URL:https://www.fotmob.com/match/5795461
+DESCRIPTION:⚽ مانشستر سيتي × سندرلاند\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 5\n🗓 الأحد
+  20 سبتمبر 2026 · 16:00 بتوقيت الرياض\n🏟 Etihad Stad
+ ium، Manchester\n—————\n⚽ Manchester City v Sunderland\n🏆 
+ Premier League — Matchday 5\n🗓 Sun 20 Sep 2026 · 13:00 UTC\n🏟 Eti
+ had Stadium, Manchester\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد سندرلاند —
+  الدوري الإنجليزي الممتاز | Tomorrow: Manchester Cit
+ y vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × سندرلاند | Kick-off in 30 min: Manchester City vs
+  Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795474@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T140000Z
+DTEND:20261010T160000Z
+SUMMARY:Sunderland vs Brighton & Hove Albion — Premier League
+LOCATION:Stadium of Light\, Sunderland\, England
+GEO:54.914422;-1.388177
+URL:https://www.fotmob.com/match/5795474
+DESCRIPTION:⚽ سندرلاند × برايتون\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 6\n🗓 السبت 10 أك
+ توبر 2026 · 17:00 بتوقيت الرياض\n🏟 Stadium of Light، 
+ Sunderland\n—————\n⚽ Sunderland v Brighton & Hove Albion\n🏆
+  Premier League — Matchday 6\n🗓 Sat 10 Oct 2026 · 14:00 UTC\n🏟 St
+ adium of Light, Sunderland\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد برايتون — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Sunderland vs Brighton 
+ & Hove Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × برايتون | Kick-off in 30 min: Sunderland vs Brighton & Ho
+ ve Albion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795475@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:AFC Bournemouth vs Sunderland — Premier League
+LOCATION:Vitality Stadium\, Bournemouth\, Dorset\, England
+GEO:50.735241;-1.838310
+URL:https://www.fotmob.com/match/5795475
+DESCRIPTION:⚽ بورنموث × سندرلاند\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 7\n🗓 الأحد 18 أك
+ توبر 2026 · 16:00 بتوقيت الرياض\n🏟 Vitality Stadium، 
+ Bournemouth, Dorset\n—————\n⚽ AFC Bournemouth v Sunderland\n
+ 🏆 Premier League — Matchday 7\n🗓 Sun 18 Oct 2026 · 13:00 UTC\n
+ 🏟 Vitality Stadium, Bournemouth, Dorset\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد سندرلاند — الدو
+ ري الإنجليزي الممتاز | Tomorrow: AFC Bournemouth vs Sund
+ erland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × سندرلاند | Kick-off in 30 min: AFC Bournemouth vs Sunderla
+ nd
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795494@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T163000Z
+DTEND:20261025T183000Z
+SUMMARY:Sunderland vs Leeds United — Premier League
+LOCATION:Stadium of Light\, Sunderland\, England
+GEO:54.914422;-1.388177
+URL:https://www.fotmob.com/match/5795494
+DESCRIPTION:⚽ سندرلاند × ليدز يونايتد\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 8\n🗓 الأحد
+  25 أكتوبر 2026 · 19:30 بتوقيت الرياض\n🏟 Stadium of 
+ Light، Sunderland\n—————\n⚽ Sunderland v Leeds United\n🏆 P
+ remier League — Matchday 8\n🗓 Sun 25 Oct 2026 · 16:30 UTC\n🏟 Stad
+ ium of Light, Sunderland\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد ليدز يونايتد —
+  الدوري الإنجليزي الممتاز | Tomorrow: Sunderland vs 
+ Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × ليدز يونايتد | Kick-off in 30 min: Sunderland vs Leed
+ s United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795499@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:Coventry City vs Sunderland — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795499
+DESCRIPTION:⚽ كوفنتري سيتي × سندرلاند\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 9\n🗓 السبت
+  31 أكتوبر 2026 · 18:00 بتوقيت الرياض\n🏟 Coventry Bu
+ ilding Society Arena\n—————\n⚽ Coventry City v Sunderland\n
+ 🏆 Premier League — Matchday 9\n🗓 Sat 31 Oct 2026 · 15:00 UTC\n
+ 🏟 Coventry Building Society Arena\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد سندرلاند —
+  الدوري الإنجليزي الممتاز | Tomorrow: Coventry City 
+ vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × سندرلاند | Kick-off in 30 min: Coventry City vs S
+ underland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795514@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Sunderland vs Chelsea — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795514
+DESCRIPTION:⚽ سندرلاند × تشيلسي\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 10\n🗓 السبت 7 نوف
+ مبر 2026 · 18:00 بتوقيت الرياض\n🏟 Stadium of Light\n—
+ ————\n⚽ Sunderland v Chelsea\n🏆 Premier League — Matchday 1
+ 0\n🗓 Sat 07 Nov 2026 · 15:00 UTC\n🏟 Stadium of Light\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد تشيلسي — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Sunderland vs Chelsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × تشيلسي | Kick-off in 30 min: Sunderland vs Chelsea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795516@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:Aston Villa vs Sunderland — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795516
+DESCRIPTION:⚽ أستون فيلا × سندرلاند\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 11\n🗓 السبت 21 
+ نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Villa Park\n—
+ ————\n⚽ Aston Villa v Sunderland\n🏆 Premier League — Matchd
+ ay 11\n🗓 Sat 21 Nov 2026 · 15:00 UTC\n🏟 Villa Park\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد سندرلاند — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Aston Villa vs Su
+ nderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × سندرلاند | Kick-off in 30 min: Aston Villa vs Sunderla
+ nd
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795534@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:Sunderland vs Tottenham Hotspur — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795534
+DESCRIPTION:⚽ سندرلاند × توتنهام هوتسبر\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 12\n🗓 ال
+ سبت 28 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Stadi
+ um of Light\n—————\n⚽ Sunderland v Tottenham Hotspur\n🏆 Pre
+ mier League — Matchday 12\n🗓 Sat 28 Nov 2026 · 15:00 UTC\n🏟 Stadi
+ um of Light\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد توتنهام هوتسبر
+  — الدوري الإنجليزي الممتاز | Tomorrow: Sunderland
+  vs Tottenham Hotspur
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × توتنهام هوتسبر | Kick-off in 30 min: Sunderland vs 
+ Tottenham Hotspur
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795541@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Liverpool vs Sunderland — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795541
+DESCRIPTION:⚽ ليفربول × سندرلاند\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 13\n🗓 الأربعاء 2
+  ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Anfield\n—
+ ————\n⚽ Liverpool v Sunderland\n🏆 Premier League — Matchday
+  13\n🗓 Wed 02 Dec 2026 · 20:00 UTC\n🏟 Anfield\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد سندرلاند — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Liverpool vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × سندرلاند | Kick-off in 30 min: Liverpool vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795552@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Newcastle United vs Sunderland — Premier League
+LOCATION:St James' Park
+URL:https://www.fotmob.com/match/5795552
+DESCRIPTION:⚽ نيوكاسل يونايتد × سندرلاند\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 14\n🗓 ا
+ لسبت 5 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 St J
+ ames' Park\n—————\n⚽ Newcastle United v Sunderland\n🏆 Premi
+ er League — Matchday 14\n🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 St Jame
+ s' Park\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل يونايتد ضد سندرلان
+ د — الدوري الإنجليزي الممتاز | Tomorrow: Newcastl
+ e United vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل يونايتد × سندرلاند | Kick-off in 30 min: Newcastle Un
+ ited vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795564@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Sunderland vs Nottingham Forest — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795564
+DESCRIPTION:⚽ سندرلاند × نوتنجهام فورست\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 15\n🗓 ال
+ سبت 12 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Stadi
+ um of Light\n—————\n⚽ Sunderland v Nottingham Forest\n🏆 Pre
+ mier League — Matchday 15\n🗓 Sat 12 Dec 2026 · 15:00 UTC\n🏟 Stadi
+ um of Light\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد نوتنجهام فورست
+  — الدوري الإنجليزي الممتاز | Tomorrow: Sunderland
+  vs Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × نوتنجهام فورست | Kick-off in 30 min: Sunderland vs 
+ Nottingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795574@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:Sunderland vs Crystal Palace — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795574
+DESCRIPTION:⚽ سندرلاند × كريستال بالاس\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 16\n🗓 الس
+ بت 19 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Stadium
+  of Light\n—————\n⚽ Sunderland v Crystal Palace\n🏆 Premier 
+ League — Matchday 16\n🗓 Sat 19 Dec 2026 · 15:00 UTC\n🏟 Stadium of
+  Light\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد كريستال بالاس 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Sunderland 
+ vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × كريستال بالاس | Kick-off in 30 min: Sunderland vs Cr
+ ystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795578@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261226T150000Z
+DTEND:20261226T170000Z
+SUMMARY:Everton vs Sunderland — Premier League
+LOCATION:Hill Dickinson Stadium
+URL:https://www.fotmob.com/match/5795578
+DESCRIPTION:⚽ إيفرتون × سندرلاند\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 17\n🗓 السبت 26 دي
+ سمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Hill Dickinson Stad
+ ium\n—————\n⚽ Everton v Sunderland\n🏆 Premier League — Ma
+ tchday 17\n🗓 Sat 26 Dec 2026 · 15:00 UTC\n🏟 Hill Dickinson Stadium\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد سندرلاند — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Everton vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × سندرلاند | Kick-off in 30 min: Everton vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795592@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261230T200000Z
+DTEND:20261230T220000Z
+SUMMARY:Manchester United vs Sunderland — Premier League
+LOCATION:Old Trafford
+URL:https://www.fotmob.com/match/5795592
+DESCRIPTION:⚽ مانشستر يونايتد × سندرلاند\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 18\n🗓 ا
+ لأربعاء 30 ديسمبر 2026 · 23:00 بتوقيت الرياض\n
+ 🏟 Old Trafford\n—————\n⚽ Manchester United v Sunderland\n
+ 🏆 Premier League — Matchday 18\n🗓 Wed 30 Dec 2026 · 20:00 UTC\n
+ 🏟 Old Trafford\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد سندرلان
+ د — الدوري الإنجليزي الممتاز | Tomorrow: Manchest
+ er United vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × سندرلاند | Kick-off in 30 min: Manchester U
+ nited vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795604@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T150000Z
+DTEND:20270102T170000Z
+SUMMARY:Sunderland vs Hull City — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795604
+DESCRIPTION:⚽ سندرلاند × هال سيتي\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 19\n🗓 السبت 2 ين
+ اير 2027 · 18:00 بتوقيت الرياض\n🏟 Stadium of Light\n—
+ ————\n⚽ Sunderland v Hull City\n🏆 Premier League — Matchday
+  19\n🗓 Sat 02 Jan 2027 · 15:00 UTC\n🏟 Stadium of Light\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد هال سيتي — الد
+ وري الإنجليزي الممتاز | Tomorrow: Sunderland vs Hull Ci
+ ty
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × هال سيتي | Kick-off in 30 min: Sunderland vs Hull City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795614@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T200000Z
+DTEND:20270106T220000Z
+SUMMARY:Sunderland vs Liverpool — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795614
+DESCRIPTION:⚽ سندرلاند × ليفربول\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 20\n🗓 الأربعاء 6
+  يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Stadium of Light
+ \n—————\n⚽ Sunderland v Liverpool\n🏆 Premier League — Mat
+ chday 20\n🗓 Wed 06 Jan 2027 · 20:00 UTC\n🏟 Stadium of Light\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد ليفربول — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Sunderland vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × ليفربول | Kick-off in 30 min: Sunderland vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795618@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:Chelsea vs Sunderland — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795618
+DESCRIPTION:⚽ تشيلسي × سندرلاند\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 21\n🗓 السبت 16 ينا
+ ير 2027 · 18:00 بتوقيت الرياض\n🏟 Stamford Bridge\n——
+ ———\n⚽ Chelsea v Sunderland\n🏆 Premier League — Matchday 21\n
+ 🗓 Sat 16 Jan 2027 · 15:00 UTC\n🏟 Stamford Bridge\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد سندرلاند — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Chelsea vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × سندرلاند | Kick-off in 30 min: Chelsea vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795634@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:Sunderland vs Coventry City — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795634
+DESCRIPTION:⚽ سندرلاند × كوفنتري سيتي\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 22\n🗓 السب
+ ت 23 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Stadium of 
+ Light\n—————\n⚽ Sunderland v Coventry City\n🏆 Premier Leagu
+ e — Matchday 22\n🗓 Sat 23 Jan 2027 · 15:00 UTC\n🏟 Stadium of Ligh
+ t\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد كوفنتري سيتي —
+  الدوري الإنجليزي الممتاز | Tomorrow: Sunderland vs 
+ Coventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × كوفنتري سيتي | Kick-off in 30 min: Sunderland vs Cove
+ ntry City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795644@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Tottenham Hotspur vs Sunderland — Premier League
+LOCATION:Tottenham Hotspur Stadium
+URL:https://www.fotmob.com/match/5795644
+DESCRIPTION:⚽ توتنهام هوتسبر × سندرلاند\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 23\n🗓 ال
+ سبت 30 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Tottenh
+ am Hotspur Stadium\n—————\n⚽ Tottenham Hotspur v Sunderland\n
+ 🏆 Premier League — Matchday 23\n🗓 Sat 30 Jan 2027 · 15:00 UTC\n
+ 🏟 Tottenham Hotspur Stadium\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توتنهام هوتسبر ضد سندرلاند
+  — الدوري الإنجليزي الممتاز | Tomorrow: Tottenham 
+ Hotspur vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توتنه
+ ام هوتسبر × سندرلاند | Kick-off in 30 min: Tottenham Hots
+ pur vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795654@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Sunderland vs Aston Villa — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795654
+DESCRIPTION:⚽ سندرلاند × أستون فيلا\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 24\n🗓 السبت 6 
+ فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Stadium of Ligh
+ t\n—————\n⚽ Sunderland v Aston Villa\n🏆 Premier League — 
+ Matchday 24\n🗓 Sat 06 Feb 2027 · 15:00 UTC\n🏟 Stadium of Light\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد أستون فيلا — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Sunderland vs Ast
+ on Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × أستون فيلا | Kick-off in 30 min: Sunderland vs Aston Vi
+ lla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795660@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270210T200000Z
+DTEND:20270210T220000Z
+SUMMARY:Hull City vs Sunderland — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795660
+DESCRIPTION:⚽ هال سيتي × سندرلاند\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 25\n🗓 الأربعاء 1
+ 0 فبراير 2027 · 23:00 بتوقيت الرياض\n🏟 The MKM Stadi
+ um\n—————\n⚽ Hull City v Sunderland\n🏆 Premier League — M
+ atchday 25\n🗓 Wed 10 Feb 2027 · 20:00 UTC\n🏟 The MKM Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد سندرلاند — الد
+ وري الإنجليزي الممتاز | Tomorrow: Hull City vs Sunderla
+ nd
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × سندرلاند | Kick-off in 30 min: Hull City vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795674@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:Sunderland vs Everton — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795674
+DESCRIPTION:⚽ سندرلاند × إيفرتون\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 26\n🗓 السبت 20 فب
+ راير 2027 · 18:00 بتوقيت الرياض\n🏟 Stadium of Light\n
+ —————\n⚽ Sunderland v Everton\n🏆 Premier League — Matchda
+ y 26\n🗓 Sat 20 Feb 2027 · 15:00 UTC\n🏟 Stadium of Light\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد إيفرتون — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Sunderland vs Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × إيفرتون | Kick-off in 30 min: Sunderland vs Everton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795677@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T150000Z
+DTEND:20270227T170000Z
+SUMMARY:Crystal Palace vs Sunderland — Premier League
+LOCATION:Selhurst Park
+URL:https://www.fotmob.com/match/5795677
+DESCRIPTION:⚽ كريستال بالاس × سندرلاند\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 27\n🗓 الس
+ بت 27 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Selhurs
+ t Park\n—————\n⚽ Crystal Palace v Sunderland\n🏆 Premier Lea
+ gue — Matchday 27\n🗓 Sat 27 Feb 2027 · 15:00 UTC\n🏟 Selhurst Park
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد سندرلاند 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Crystal Pal
+ ace vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × سندرلاند | Kick-off in 30 min: Crystal Palace v
+ s Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795694@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270303T200000Z
+DTEND:20270303T220000Z
+SUMMARY:Sunderland vs Manchester United — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795694
+DESCRIPTION:⚽ سندرلاند × مانشستر يونايتد\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 28\n🗓 ا
+ لأربعاء 3 مارس 2027 · 23:00 بتوقيت الرياض\n🏟 St
+ adium of Light\n—————\n⚽ Sunderland v Manchester United\n🏆 
+ Premier League — Matchday 28\n🗓 Wed 03 Mar 2027 · 20:00 UTC\n🏟 St
+ adium of Light\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد مانشستر يونايت
+ د — الدوري الإنجليزي الممتاز | Tomorrow: Sunderla
+ nd vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × مانشستر يونايتد | Kick-off in 30 min: Sunderland v
+ s Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795703@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T150000Z
+DTEND:20270313T170000Z
+SUMMARY:Sunderland vs Brentford — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795703
+DESCRIPTION:⚽ سندرلاند × برينتفورد\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 29\n🗓 السبت 13 
+ مارس 2027 · 18:00 بتوقيت الرياض\n🏟 Stadium of Light\n
+ —————\n⚽ Sunderland v Brentford\n🏆 Premier League — Match
+ day 29\n🗓 Sat 13 Mar 2027 · 15:00 UTC\n🏟 Stadium of Light\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد برينتفورد — ال
+ دوري الإنجليزي الممتاز | Tomorrow: Sunderland vs Brent
+ ford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × برينتفورد | Kick-off in 30 min: Sunderland vs Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795705@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T150000Z
+DTEND:20270320T170000Z
+SUMMARY:Arsenal vs Sunderland — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795705
+DESCRIPTION:⚽ أرسنال × سندرلاند\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 30\n🗓 السبت 20 مار
+ س 2027 · 18:00 بتوقيت الرياض\n🏟 Emirates Stadium\n——
+ ———\n⚽ Arsenal v Sunderland\n🏆 Premier League — Matchday 30\n
+ 🗓 Sat 20 Mar 2027 · 15:00 UTC\n🏟 Emirates Stadium\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد سندرلاند — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Arsenal vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × سندرلاند | Kick-off in 30 min: Arsenal vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795723@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T140000Z
+DTEND:20270410T160000Z
+SUMMARY:Sunderland vs Ipswich Town — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795723
+DESCRIPTION:⚽ سندرلاند × إبسويتش تاون\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 31\n🗓 السب
+ ت 10 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 Stadium of 
+ Light\n—————\n⚽ Sunderland v Ipswich Town\n🏆 Premier League
+  — Matchday 31\n🗓 Sat 10 Apr 2027 · 14:00 UTC\n🏟 Stadium of Light
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد إبسويتش تاون —
+  الدوري الإنجليزي الممتاز | Tomorrow: Sunderland vs 
+ Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × إبسويتش تاون | Kick-off in 30 min: Sunderland vs Ipsw
+ ich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795729@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T140000Z
+DTEND:20270417T160000Z
+SUMMARY:Fulham vs Sunderland — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795729
+DESCRIPTION:⚽ فولهام × سندرلاند\n🏆 الدوري الإ
+ نجليزي الممتاز — الجولة 32\n🗓 السبت 17 أبر
+ يل 2027 · 17:00 بتوقيت الرياض\n🏟 Craven Cottage\n——
+ ———\n⚽ Fulham v Sunderland\n🏆 Premier League — Matchday 32\n
+ 🗓 Sat 17 Apr 2027 · 14:00 UTC\n🏟 Craven Cottage\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد سندرلاند — الدور
+ ي الإنجليزي الممتاز | Tomorrow: Fulham vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × سندرلاند | Kick-off in 30 min: Fulham vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795743@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T140000Z
+DTEND:20270424T160000Z
+SUMMARY:Nottingham Forest vs Sunderland — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795743
+DESCRIPTION:⚽ نوتنجهام فورست × سندرلاند\n🏆 ال
+ دوري الإنجليزي الممتاز — الجولة 33\n🗓 ال
+ سبت 24 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 City Gr
+ ound, Nottingham\n—————\n⚽ Nottingham Forest v Sunderland\n
+ 🏆 Premier League — Matchday 33\n🗓 Sat 24 Apr 2027 · 14:00 UTC\n
+ 🏟 City Ground, Nottingham\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد سندرلاند
+  — الدوري الإنجليزي الممتاز | Tomorrow: Nottingham
+  Forest vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × سندرلاند | Kick-off in 30 min: Nottingham For
+ est vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795754@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T140000Z
+DTEND:20270501T160000Z
+SUMMARY:Sunderland vs Newcastle United — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795754
+DESCRIPTION:⚽ سندرلاند × نيوكاسل يونايتد\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 34\n🗓 ا
+ لسبت 1 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Stadium 
+ of Light\n—————\n⚽ Sunderland v Newcastle United\n🏆 Premier
+  League — Matchday 34\n🗓 Sat 01 May 2027 · 14:00 UTC\n🏟 Stadium o
+ f Light\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد نيوكاسل يونايت
+ د — الدوري الإنجليزي الممتاز | Tomorrow: Sunderla
+ nd vs Newcastle United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × نيوكاسل يونايتد | Kick-off in 30 min: Sunderland v
+ s Newcastle United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795757@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T140000Z
+DTEND:20270508T160000Z
+SUMMARY:Brighton & Hove Albion vs Sunderland — Premier League
+LOCATION:The American Express Community Stadium
+URL:https://www.fotmob.com/match/5795757
+DESCRIPTION:⚽ برايتون × سندرلاند\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 35\n🗓 السبت 8 ما
+ يو 2027 · 17:00 بتوقيت الرياض\n🏟 The American Express Co
+ mmunity Stadium\n—————\n⚽ Brighton & Hove Albion v Sunderland\
+ n🏆 Premier League — Matchday 35\n🗓 Sat 08 May 2027 · 14:00 UTC\n
+ 🏟 The American Express Community Stadium\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برايتون ضد سندرلاند — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Brighton & Hove Albion 
+ vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برايت
+ ون × سندرلاند | Kick-off in 30 min: Brighton & Hove Albion vs S
+ underland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795787@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T140000Z
+DTEND:20270515T160000Z
+SUMMARY:Sunderland vs AFC Bournemouth — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795787
+DESCRIPTION:⚽ سندرلاند × بورنموث\n🏆 الدوري ال
+ إنجليزي الممتاز — الجولة 36\n🗓 السبت 15 ما
+ يو 2027 · 17:00 بتوقيت الرياض\n🏟 Stadium of Light\n—
+ ————\n⚽ Sunderland v AFC Bournemouth\n🏆 Premier League — Ma
+ tchday 36\n🗓 Sat 15 May 2027 · 14:00 UTC\n🏟 Stadium of Light\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد بورنموث — الدو
+ ري الإنجليزي الممتاز | Tomorrow: Sunderland vs AFC Bourn
+ emouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × بورنموث | Kick-off in 30 min: Sunderland vs AFC Bournemou
+ th
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795793@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T140000Z
+DTEND:20270523T160000Z
+SUMMARY:Leeds United vs Sunderland — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795793
+DESCRIPTION:⚽ ليدز يونايتد × سندرلاند\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 37\n🗓 الأح
+ د 23 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Elland Road\n
+ —————\n⚽ Leeds United v Sunderland\n🏆 Premier League — Ma
+ tchday 37\n🗓 Sun 23 May 2027 · 14:00 UTC\n🏟 Elland Road\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد سندرلاند —
+  الدوري الإنجليزي الممتاز | Tomorrow: Leeds United v
+ s Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × سندرلاند | Kick-off in 30 min: Leeds United vs Sun
+ derland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795807@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T150000Z
+DTEND:20270530T170000Z
+SUMMARY:Sunderland vs Manchester City — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795807
+DESCRIPTION:⚽ سندرلاند × مانشستر سيتي\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 38\n🗓 الأح
+ د 30 مايو 2027 · 18:00 بتوقيت الرياض\n🏟 Stadium of Li
+ ght\n—————\n⚽ Sunderland v Manchester City\n🏆 Premier Leagu
+ e — Matchday 38\n🗓 Sun 30 May 2027 · 15:00 UTC\n🏟 Stadium of Ligh
+ t\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد مانشستر سيتي —
+  الدوري الإنجليزي الممتاز | Tomorrow: Sunderland vs 
+ Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × مانشستر سيتي | Kick-off in 30 min: Sunderland vs Manc
+ hester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112330@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T190000Z
+DTEND:20260916T210000Z
+SUMMARY:Sunderland vs AZ Alkmaar — UEFA Europa League
+LOCATION:Stadium of Light\, Sunderland\, England
+GEO:54.914422;-1.388177
+URL:https://www.fotmob.com/match/6112330
+DESCRIPTION:⚽ سندرلاند × ألكمار\n🏆 الدوري الأ
+ وروبي — الجولة 1\n🗓 الأربعاء 16 سبتمبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Stadium of Light، Sunderland\n
+ —————\n⚽ Sunderland v AZ Alkmaar\n🏆 UEFA Europa League — 
+ Matchday 1\n🗓 Wed 16 Sep 2026 · 19:00 UTC\n🏟 Stadium of Light, Sund
+ erland\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد ألكمار — الدور
+ ي الأوروبي | Tomorrow: Sunderland vs AZ Alkmaar
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × ألكمار | Kick-off in 30 min: Sunderland vs AZ Alkmaar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112360@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:Torreense vs Sunderland — UEFA Europa League
+LOCATION:Campo Manuel Marques\, Torres Vedras\, Portugal
+GEO:39.094878;-9.256749
+URL:https://www.fotmob.com/match/6112360
+DESCRIPTION:⚽ توريينسي × سندرلاند\n🏆 الدوري ا
+ لأوروبي — الجولة 2\n🗓 الخميس 15 أكتوبر 2026 
+ · 19:45 بتوقيت الرياض\n🏟 Campo Manuel Marques، Torres Ved
+ ras\n—————\n⚽ Torreense v Sunderland\n🏆 UEFA Europa League 
+ — Matchday 2\n🗓 Thu 15 Oct 2026 · 16:45 UTC\n🏟 Campo Manuel Marqu
+ es, Torres Vedras\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توريينسي ضد سندرلاند — الد
+ وري الأوروبي | Tomorrow: Torreense vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توريي
+ نسي × سندرلاند | Kick-off in 30 min: Torreense vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112320@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T164500Z
+DTEND:20261022T184500Z
+SUMMARY:Lech Poznań vs Sunderland — UEFA Europa League
+LOCATION:Enea Stadion\, Poznań\, Poland
+GEO:52.397679;16.858161
+URL:https://www.fotmob.com/match/6112320
+DESCRIPTION:⚽ ليخ بوزنان × سندرلاند\n🏆 الدوري 
+ الأوروبي — الجولة 3\n🗓 الخميس 22 أكتوبر 202
+ 6 · 19:45 بتوقيت الرياض\n🏟 Enea Stadion، Poznań\n——
+ ———\n⚽ Lech Poznań v Sunderland\n🏆 UEFA Europa League — Matc
+ hday 3\n🗓 Thu 22 Oct 2026 · 16:45 UTC\n🏟 Enea Stadion, Poznań\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليخ بوزنان ضد سندرلاند — ا
+ لدوري الأوروبي | Tomorrow: Lech Poznań vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليخ بو
+ زنان × سندرلاند | Kick-off in 30 min: Lech Poznań vs Sunderl
+ and
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112331@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T200000Z
+DTEND:20261105T220000Z
+SUMMARY:Sunderland vs Dinamo Zagreb — UEFA Europa League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/6112331
+DESCRIPTION:⚽ سندرلاند × دينامو زغرب\n🏆 الدور
+ ي الأوروبي — الجولة 4\n🗓 الخميس 5 نوفمبر 2
+ 026 · 23:00 بتوقيت الرياض\n🏟 Stadium of Light\n———
+ ——\n⚽ Sunderland v Dinamo Zagreb\n🏆 UEFA Europa League — Matchd
+ ay 4\n🗓 Thu 05 Nov 2026 · 20:00 UTC\n🏟 Stadium of Light\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد دينامو زغرب — 
+ الدوري الأوروبي | Tomorrow: Sunderland vs Dinamo Zagreb
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × دينامو زغرب | Kick-off in 30 min: Sunderland vs Dinamo
+  Zagreb
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112332@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Sunderland vs Jagiellonia Białystok — UEFA Europa League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/6112332
+DESCRIPTION:⚽ سندرلاند × ياغييلونيا بياويستوك
+ \n🏆 الدوري الأوروبي — الجولة 5\n🗓 الخميس
+  26 نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Stadium of 
+ Light\n—————\n⚽ Sunderland v Jagiellonia Białystok\n🏆 UEFA
+  Europa League — Matchday 5\n🗓 Thu 26 Nov 2026 · 20:00 UTC\n🏟 Sta
+ dium of Light\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد ياغييلونيا بيا
+ ويستوك — الدوري الأوروبي | Tomorrow: Sunderland vs J
+ agiellonia Białystok
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × ياغييلونيا بياويستوك | Kick-off in 30 min: Su
+ nderland vs Jagiellonia Białystok
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112256@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:Milan vs Sunderland — UEFA Europa League
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/6112256
+DESCRIPTION:⚽ ميلان × سندرلاند\n🏆 الدوري الأو
+ روبي — الجولة 6\n🗓 الخميس 10 ديسمبر 2026 · 23:
+ 00 بتوقيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v 
+ Sunderland\n🏆 UEFA Europa League — Matchday 6\n🗓 Thu 10 Dec 2026 
+ · 20:00 UTC\n🏟 San Siro\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد سندرلاند — الدوري
+  الأوروبي | Tomorrow: Milan vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × سندرلاند | Kick-off in 30 min: Milan vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112312@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:Anderlecht vs Sunderland — UEFA Europa League
+LOCATION:Lotto Park
+URL:https://www.fotmob.com/match/6112312
+DESCRIPTION:⚽ أندرلخت × سندرلاند\n🏆 الدوري ال
+ أوروبي — الجولة 7\n🗓 الخميس 21 يناير 2027 · 2
+ 3:00 بتوقيت الرياض\n🏟 Lotto Park\n—————\n⚽ Ande
+ rlecht v Sunderland\n🏆 UEFA Europa League — Matchday 7\n🗓 Thu 21 J
+ an 2027 · 20:00 UTC\n🏟 Lotto Park\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أندرلخت ضد سندرلاند — الدو
+ ري الأوروبي | Tomorrow: Anderlecht vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أندرل
+ خت × سندرلاند | Kick-off in 30 min: Anderlecht vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112333@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Sunderland vs Levski Sofia — UEFA Europa League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/6112333
+DESCRIPTION:⚽ سندرلاند × ليفسكي صوفيا\n🏆 الدو
+ ري الأوروبي — الجولة 8\n🗓 الخميس 28 يناير 
+ 2027 · 23:00 بتوقيت الرياض\n🏟 Stadium of Light\n———
+ ——\n⚽ Sunderland v Levski Sofia\n🏆 UEFA Europa League — Matchda
+ y 8\n🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 Stadium of Light\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد ليفسكي صوفيا —
+  الدوري الأوروبي | Tomorrow: Sunderland vs Levski Sofia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × ليفسكي صوفيا | Kick-off in 30 min: Sunderland vs Levs
+ ki Sofia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089905@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T121500Z
+DTEND:20260110T141500Z
+SUMMARY:Everton vs Sunderland (1 - 1) — FA Cup
+LOCATION:Hill Dickinson Stadium\, Liverpool\, Merseyside\, England
+GEO:53.424981;-3.002691
+URL:https://www.fotmob.com/match/5089905
+DESCRIPTION:⚽ إيفرتون × سندرلاند (1 - 1)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الثالث\n🗓 السب
+ ت 10 يناير 2026 · 15:15 بتوقيت الرياض\n🏟 Hill Dickin
+ son Stadium، Liverpool, Merseyside\n⚖️ الحكم: John Brooks\n👥 
+ الحضور: 51,588\n—————\n⚽ Everton v Sunderland (1 - 1)\n
+ 🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 12:15 UTC\n🏟 Hill Dick
+ inson Stadium, Liverpool, Merseyside\nReferee: John Brooks\nAttendance: 51
+ ,588\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد سندرلاند — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Everton vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × سندرلاند | Kick-off in 30 min: Everton vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135163@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260215T140000Z
+DTEND:20260215T160000Z
+SUMMARY:Oxford United vs Sunderland (0 - 1) — FA Cup
+LOCATION:The Kassam Stadium\, Oxford\, Oxfordshire\, England
+GEO:51.716487;-1.207940
+URL:https://www.fotmob.com/match/5135163
+DESCRIPTION:⚽ Oxford United × سندرلاند (0 - 1)\n🏆 كأس ال
+ اتحاد الإنجليزي — الدور الرابع\n🗓 الأحد
+  15 فبراير 2026 · 17:00 بتوقيت الرياض\n🏟 The Kassam 
+ Stadium، Oxford, Oxfordshire\n⚖️ الحكم: Thomas Kirk\n👥 الح
+ ضور: 9,879\n—————\n⚽ Oxford United v Sunderland (0 - 1)\n
+ 🏆 FA Cup — Round 4\n🗓 Sun 15 Feb 2026 · 14:00 UTC\n🏟 The Kassa
+ m Stadium, Oxford, Oxfordshire\nReferee: Thomas Kirk\nAttendance: 9,879\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Oxford United ضد سندرلاند — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Oxford United vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Oxford Unit
+ ed × سندرلاند | Kick-off in 30 min: Oxford United vs Sunderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5186379@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260308T133000Z
+DTEND:20260308T153000Z
+SUMMARY:Port Vale vs Sunderland (1 - 0) — FA Cup
+LOCATION:Vale Park\, Stoke-on-Trent\, Staffordshire\, England
+GEO:53.050078;-2.192644
+URL:https://www.fotmob.com/match/5186379
+DESCRIPTION:⚽ Port Vale × سندرلاند (1 - 0)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الخامس\n🗓 الأحد 8 
+ مارس 2026 · 16:30 بتوقيت الرياض\n🏟 Vale Park، Stoke-o
+ n-Trent, Staffordshire\n👥 الحضور: 10,685\n—————\n⚽ Po
+ rt Vale v Sunderland (1 - 0)\n🏆 FA Cup — Round 5\n🗓 Sun 08 Mar 202
+ 6 · 13:30 UTC\n🏟 Vale Park, Stoke-on-Trent, Staffordshire\nAttendance:
+  10,685\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Port Vale ضد سندرلاند — كأس الا
+ تحاد الإنجليزي | Tomorrow: Port Vale vs Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Port Vale 
+ × سندرلاند | Kick-off in 30 min: Port Vale vs Sunderland
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1531 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Real Madrid — LaLiga & UEFA Champions League & Copa del 
+ Rey Fixtures | ريال مدريد — مباريات الدوري الإ
+ سباني ودوري أبطال أوروبا وكأس ملك إسباني
+ ا
+X-WR-CALDESC:Real Madrid — all matches in LaLiga & UEFA Champions League 
+ & Copa del Rey\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365sco
+ res · auto-updated 2026-09-05T19:31:10Z.  •  ريال مدريد — ج
+ ميع المباريات في الدوري الإسباني ودوري أ
+ بطال أوروبا وكأس ملك إسبانيا بتوقيت UTC ال
+ دقيق مع الملاعب والقنوات الناقلة. المصدر
+ : FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5868025@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T193000Z
+DTEND:20260822T213000Z
+SUMMARY:Espanyol vs Real Madrid (1 - 2) — LaLiga
+LOCATION:RCDE Stadium\, Cornella de Llobregat\, Spain
+GEO:41.347860;2.075622
+URL:https://www.fotmob.com/match/5868025
+DESCRIPTION:⚽ إسبانيول × ريال مدريد (1 - 2)\n🏆 ال
+ دوري الإسباني — الجولة 2\n🗓 السبت 22 أغسط
+ س 2026 · 22:30 بتوقيت الرياض\n🏟 RCDE Stadium، Cornella d
+ e Llobregat\n⚖️ الحكم: José María Sánchez Martínez\n👥 ال
+ حضور: 33,304\n—————\n⚽ Espanyol v Real Madrid (1 - 2)\n
+ 🏆 LaLiga — Matchday 2\n🗓 Sat 22 Aug 2026 · 19:30 UTC\n🏟 RCDE S
+ tadium, Cornella de Llobregat\nReferee: José María Sánchez Martínez\nA
+ ttendance: 33,304\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إسبانيول ضد ريال مدريد — ا
+ لدوري الإسباني | Tomorrow: Espanyol vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إسبان
+ يول × ريال مدريد | Kick-off in 30 min: Espanyol vs Real Madri
+ d
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868018@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260826T190000Z
+DTEND:20260826T210000Z
+SUMMARY:Real Madrid vs Real Sociedad (4 - 1) — LaLiga
+LOCATION:Estadio Bernabéu\, Madrid\, Spain
+GEO:40.453068;-3.688354
+URL:https://www.fotmob.com/match/5868018
+DESCRIPTION:⚽ ريال مدريد × ريال سوسيداد (4 - 1)\n
+ 🏆 الدوري الإسباني — الجولة 1\n🗓 الأربعا
+ ء 26 أغسطس 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio Ber
+ nabéu، Madrid\n⚖️ الحكم: Mateo Busquets Ferrer\n👥 الحضو
+ ر: 72,226\n—————\n⚽ Real Madrid v Real Sociedad (4 - 1)\n🏆
+  LaLiga — Matchday 1\n🗓 Wed 26 Aug 2026 · 19:00 UTC\n🏟 Estadio Be
+ rnabéu, Madrid\nReferee: Mateo Busquets Ferrer\nAttendance: 72,226\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد ريال سوسيداد 
+ — الدوري الإسباني | Tomorrow: Real Madrid vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × ريال سوسيداد | Kick-off in 30 min: Real Madrid vs R
+ eal Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868038@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T150000Z
+DTEND:20260830T170000Z
+SUMMARY:Real Madrid vs Málaga (4 - 0) — LaLiga
+LOCATION:Estadio Bernabéu\, Madrid\, Spain
+GEO:40.453068;-3.688354
+URL:https://www.fotmob.com/match/5868038
+DESCRIPTION:⚽ ريال مدريد × مالقا (4 - 0)\n🏆 الدور
+ ي الإسباني — الجولة 3\n🗓 الأحد 30 أغسطس 2026
+  · 18:00 بتوقيت الرياض\n🏟 Estadio Bernabéu، Madrid\n⚖
+ ️ الحكم: Juan Martínez Munuera\n—————\n⚽ Real Madrid v
+  Málaga (4 - 0)\n🏆 LaLiga — Matchday 3\n🗓 Sun 30 Aug 2026 · 15:0
+ 0 UTC\n🏟 Estadio Bernabéu, Madrid\nReferee: Juan Martínez Munuera\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد مالقا — الدو
+ ري الإسباني | Tomorrow: Real Madrid vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × مالقا | Kick-off in 30 min: Real Madrid vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868043@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260904T190000Z
+DTEND:20260904T210000Z
+SUMMARY:Real Betis vs Real Madrid (1 - 0) — LaLiga
+LOCATION:Estadio La Cartuja de Sevilla\, Sevilla\, Spain
+GEO:37.417209;-6.004661
+URL:https://www.fotmob.com/match/5868043
+DESCRIPTION:⚽ ريال بيتيس × ريال مدريد (1 - 0)\n🏆 ا
+ لدوري الإسباني — الجولة 4\n🗓 الجمعة 4 سبت
+ مبر 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio La Cartuja de
+  Sevilla، Sevilla\n⚖️ الحكم: Alejandro José Hernández Hernánd
+ ez\n👥 الحضور: 66,046\n—————\n⚽ Real Betis v Real Madr
+ id (1 - 0)\n🏆 LaLiga — Matchday 4\n🗓 Fri 04 Sep 2026 · 19:00 UTC\
+ n🏟 Estadio La Cartuja de Sevilla, Sevilla\nReferee: Alejandro José Her
+ nández Hernández\nAttendance: 66,046\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد ريال مدريد — 
+ الدوري الإسباني | Tomorrow: Real Betis vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × ريال مدريد | Kick-off in 30 min: Real Betis vs Real M
+ adrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868057@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T190000Z
+DTEND:20260912T210000Z
+SUMMARY:Real Madrid vs Rayo Vallecano — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868057
+DESCRIPTION:⚽ ريال مدريد × رايو فاييكانو\n🏆 ال
+ دوري الإسباني — الجولة 5\n🗓 السبت 12 سبتم
+ بر 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n📺 
+ beIN SPORTS CONNECT، beIN Sports Connect Singapore، FanCode، Now Player
+ \n—————\n⚽ Real Madrid v Rayo Vallecano\n🏆 LaLiga — Match
+ day 5\n🗓 Sat 12 Sep 2026 · 19:00 UTC\n🏟 Estadio Bernabeu\n📺 beIN
+  SPORTS CONNECT, beIN Sports Connect Singapore, FanCode, Now Player\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد رايو فاييكان
+ و — الدوري الإسباني — 📺 beIN SPORTS CONNECT، beIN S
+ ports Connect Singapore، FanCode، Now Player | Tomorrow: Real Madrid vs 
+ Rayo Vallecano | TV: beIN SPORTS CONNECT\, beIN Sports Connect Singapore\,
+  FanCode\, Now Player
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × رايو فاييكانو — 📺 beIN SPORTS CONNECT، beIN 
+ Sports Connect Singapore، FanCode، Now Player | Kick-off in 30 min: Real
+  Madrid vs Rayo Vallecano | TV: beIN SPORTS CONNECT\, beIN Sports Connect 
+ Singapore\, FanCode\, Now Player
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868065@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260915T193000Z
+DTEND:20260915T213000Z
+SUMMARY:Elche vs Real Madrid — LaLiga
+LOCATION:Estadio Martinez Valero
+URL:https://www.fotmob.com/match/5868065
+DESCRIPTION:⚽ إلتشي × ريال مدريد\n🏆 الدوري الإ
+ سباني — الجولة 6\n🗓 الثلاثاء 15 سبتمبر 2026 
+ · 22:30 بتوقيت الرياض\n🏟 Estadio Martinez Valero\n——
+ ———\n⚽ Elche v Real Madrid\n🏆 LaLiga — Matchday 6\n🗓 Tue 1
+ 5 Sep 2026 · 19:30 UTC\n🏟 Estadio Martinez Valero\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلتشي ضد ريال مدريد — الدو
+ ري الإسباني | Tomorrow: Elche vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلتشي 
+ × ريال مدريد | Kick-off in 30 min: Elche vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868072@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T141500Z
+DTEND:20260920T161500Z
+SUMMARY:Atlético Madrid vs Real Madrid — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868072
+DESCRIPTION:⚽ أتلتيكو مدريد × ريال مدريد\n🏆 ال
+ دوري الإسباني — الجولة 7\n🗓 الأحد 20 سبتم
+ بر 2026 · 17:15 بتوقيت الرياض\n🏟 Riyadh Air Metropolitan
+ o\n—————\n⚽ Atlético Madrid v Real Madrid\n🏆 LaLiga — Ma
+ tchday 7\n🗓 Sun 20 Sep 2026 · 14:15 UTC\n🏟 Riyadh Air Metropolitano
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد ريال مدري
+ د — الدوري الإسباني | Tomorrow: Atlético Madrid vs Real 
+ Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × ريال مدريد | Kick-off in 30 min: Atlético Mad
+ rid vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868089@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Real Madrid vs Villarreal — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868089
+DESCRIPTION:⚽ ريال مدريد × فياريال\n🏆 الدوري ا
+ لإسباني — الجولة 8\n🗓 الأحد 11 أكتوبر 2026 ·
+  16:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n—————\n
+ ⚽ Real Madrid v Villarreal\n🏆 LaLiga — Matchday 8\n🗓 Sun 11 Oct 
+ 2026 · 13:00 UTC\n🏟 Estadio Bernabeu\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد فياريال — ال
+ دوري الإسباني | Tomorrow: Real Madrid vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × فياريال | Kick-off in 30 min: Real Madrid vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868098@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Real Madrid vs Sevilla — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868098
+DESCRIPTION:⚽ ريال مدريد × إشبيلية\n🏆 الدوري ا
+ لإسباني — الجولة 9\n🗓 الأحد 18 أكتوبر 2026 ·
+  16:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n—————\n
+ ⚽ Real Madrid v Sevilla\n🏆 LaLiga — Matchday 9\n🗓 Sun 18 Oct 202
+ 6 · 13:00 UTC\n🏟 Estadio Bernabeu\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد إشبيلية — ال
+ دوري الإسباني | Tomorrow: Real Madrid vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × إشبيلية | Kick-off in 30 min: Real Madrid vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868105@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Barcelona vs Real Madrid — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868105
+DESCRIPTION:⚽ برشلونة × ريال مدريد\n🏆 الدوري ا
+ لإسباني — الجولة 10\n🗓 الأحد 25 أكتوبر 2026 
+ · 17:00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n—————
+ \n⚽ Barcelona v Real Madrid\n🏆 LaLiga — Matchday 10\n🗓 Sun 25 Oc
+ t 2026 · 14:00 UTC\n🏟 Spotify Camp Nou\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد ريال مدريد — ال
+ دوري الإسباني | Tomorrow: Barcelona vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × ريال مدريد | Kick-off in 30 min: Barcelona vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868118@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Racing Santander vs Real Madrid — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868118
+DESCRIPTION:⚽ راسينج سانتاندير × ريال مدريد\n
+ 🏆 الدوري الإسباني — الجولة 11\n🗓 الأحد 1 
+ نوفمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio El Sard
+ inero\n—————\n⚽ Racing Santander v Real Madrid\n🏆 LaLiga 
+ — Matchday 11\n🗓 Sun 01 Nov 2026 · 14:00 UTC\n🏟 Estadio El Sardin
+ ero\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد ريال م
+ دريد — الدوري الإسباني | Tomorrow: Racing Santander vs
+  Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × ريال مدريد | Kick-off in 30 min: Racing 
+ Santander vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868129@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Valencia vs Real Madrid — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868129
+DESCRIPTION:⚽ فالنسيا × ريال مدريد\n🏆 الدوري ا
+ لإسباني — الجولة 12\n🗓 الأحد 8 نوفمبر 2026 ·
+  17:00 بتوقيت الرياض\n🏟 Estadio Mestalla\n—————\n
+ ⚽ Valencia v Real Madrid\n🏆 LaLiga — Matchday 12\n🗓 Sun 08 Nov 2
+ 026 · 14:00 UTC\n🏟 Estadio Mestalla\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد ريال مدريد — ال
+ دوري الإسباني | Tomorrow: Valencia vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × ريال مدريد | Kick-off in 30 min: Valencia vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868139@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Real Madrid vs Celta Vigo — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868139
+DESCRIPTION:⚽ ريال مدريد × سيلتا فيجو\n🏆 الدور
+ ي الإسباني — الجولة 13\n🗓 الأحد 22 نوفمبر 2
+ 026 · 17:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n———
+ ——\n⚽ Real Madrid v Celta Vigo\n🏆 LaLiga — Matchday 13\n🗓 Su
+ n 22 Nov 2026 · 14:00 UTC\n🏟 Estadio Bernabeu\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد سيلتا فيجو — 
+ الدوري الإسباني | Tomorrow: Real Madrid vs Celta Vigo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × سيلتا فيجو | Kick-off in 30 min: Real Madrid vs Celta
+  Vigo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868148@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T140000Z
+DTEND:20261129T160000Z
+SUMMARY:Real Madrid vs Deportivo Alavés — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868148
+DESCRIPTION:⚽ ريال مدريد × ديبورتيفو ألافيس\n
+ 🏆 الدوري الإسباني — الجولة 14\n🗓 الأحد 29
+  نوفمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio Bernab
+ eu\n—————\n⚽ Real Madrid v Deportivo Alavés\n🏆 LaLiga — 
+ Matchday 14\n🗓 Sun 29 Nov 2026 · 14:00 UTC\n🏟 Estadio Bernabeu\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد ديبورتيفو أل
+ افيس — الدوري الإسباني | Tomorrow: Real Madrid vs Depo
+ rtivo Alavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × ديبورتيفو ألافيس | Kick-off in 30 min: Real Mad
+ rid vs Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868152@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T140000Z
+DTEND:20261206T160000Z
+SUMMARY:Athletic Club vs Real Madrid — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868152
+DESCRIPTION:⚽ أتلتيك بلباو × ريال مدريد\n🏆 الد
+ وري الإسباني — الجولة 15\n🗓 الأحد 6 ديسمب
+ ر 2026 · 17:00 بتوقيت الرياض\n🏟 San Mames\n————
+ —\n⚽ Athletic Club v Real Madrid\n🏆 LaLiga — Matchday 15\n🗓 Su
+ n 06 Dec 2026 · 14:00 UTC\n🏟 San Mames\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد ريال مدريد 
+ — الدوري الإسباني | Tomorrow: Athletic Club vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × ريال مدريد | Kick-off in 30 min: Athletic Club v
+ s Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868168@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T140000Z
+DTEND:20261213T160000Z
+SUMMARY:Real Madrid vs Osasuna — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868168
+DESCRIPTION:⚽ ريال مدريد × أوساسونا\n🏆 الدوري 
+ الإسباني — الجولة 16\n🗓 الأحد 13 ديسمبر 2026
+  · 17:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n————
+ —\n⚽ Real Madrid v Osasuna\n🏆 LaLiga — Matchday 16\n🗓 Sun 13 D
+ ec 2026 · 14:00 UTC\n🏟 Estadio Bernabeu\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد أوساسونا — ا
+ لدوري الإسباني | Tomorrow: Real Madrid vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × أوساسونا | Kick-off in 30 min: Real Madrid vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868174@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T140000Z
+DTEND:20261220T160000Z
+SUMMARY:Deportivo A Coruña vs Real Madrid — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868174
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × ريال مدري
+ د\n🏆 الدوري الإسباني — الجولة 17\n🗓 الأح
+ د 20 ديسمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Abanca-Ri
+ azor\n—————\n⚽ Deportivo A Coruña v Real Madrid\n🏆 LaLiga 
+ — Matchday 17\n🗓 Sun 20 Dec 2026 · 14:00 UTC\n🏟 Abanca-Riazor\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد ريا
+ ل مدريد — الدوري الإسباني | Tomorrow: Deportivo A Co
+ ruña vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × ريال مدريد | Kick-off in 30 min: D
+ eportivo A Coruña vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868188@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T140000Z
+DTEND:20270103T160000Z
+SUMMARY:Real Madrid vs Getafe — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868188
+DESCRIPTION:⚽ ريال مدريد × خيتافي\n🏆 الدوري ال
+ إسباني — الجولة 18\n🗓 الأحد 3 يناير 2027 · 17:
+ 00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n—————\n⚽ 
+ Real Madrid v Getafe\n🏆 LaLiga — Matchday 18\n🗓 Sun 03 Jan 2027 ·
+  14:00 UTC\n🏟 Estadio Bernabeu\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد خيتافي — الد
+ وري الإسباني | Tomorrow: Real Madrid vs Getafe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × خيتافي | Kick-off in 30 min: Real Madrid vs Getafe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868198@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T140000Z
+DTEND:20270110T160000Z
+SUMMARY:Real Madrid vs Levante — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868198
+DESCRIPTION:⚽ ريال مدريد × ليفانتي\n🏆 الدوري ا
+ لإسباني — الجولة 19\n🗓 الأحد 10 يناير 2027 · 
+ 17:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n—————\n
+ ⚽ Real Madrid v Levante\n🏆 LaLiga — Matchday 19\n🗓 Sun 10 Jan 20
+ 27 · 14:00 UTC\n🏟 Estadio Bernabeu\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد ليفانتي — ال
+ دوري الإسباني | Tomorrow: Real Madrid vs Levante
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × ليفانتي | Kick-off in 30 min: Real Madrid vs Levante
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868207@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T140000Z
+DTEND:20270117T160000Z
+SUMMARY:Málaga vs Real Madrid — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868207
+DESCRIPTION:⚽ مالقا × ريال مدريد\n🏆 الدوري الإ
+ سباني — الجولة 20\n🗓 الأحد 17 يناير 2027 · 17:0
+ 0 بتوقيت الرياض\n🏟 Estadio La Rosaleda\n—————\n
+ ⚽ Málaga v Real Madrid\n🏆 LaLiga — Matchday 20\n🗓 Sun 17 Jan 20
+ 27 · 14:00 UTC\n🏟 Estadio La Rosaleda\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد ريال مدريد — الدو
+ ري الإسباني | Tomorrow: Málaga vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × ريال مدريد | Kick-off in 30 min: Málaga vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868218@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T140000Z
+DTEND:20270124T160000Z
+SUMMARY:Real Madrid vs Real Betis — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868218
+DESCRIPTION:⚽ ريال مدريد × ريال بيتيس\n🏆 الدور
+ ي الإسباني — الجولة 21\n🗓 الأحد 24 يناير 202
+ 7 · 17:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n————
+ —\n⚽ Real Madrid v Real Betis\n🏆 LaLiga — Matchday 21\n🗓 Sun 2
+ 4 Jan 2027 · 14:00 UTC\n🏟 Estadio Bernabeu\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد ريال بيتيس — 
+ الدوري الإسباني | Tomorrow: Real Madrid vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × ريال بيتيس | Kick-off in 30 min: Real Madrid vs Real 
+ Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868228@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Rayo Vallecano vs Real Madrid — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868228
+DESCRIPTION:⚽ رايو فاييكانو × ريال مدريد\n🏆 ال
+ دوري الإسباني — الجولة 22\n🗓 الأحد 31 يناي
+ ر 2027 · 17:00 بتوقيت الرياض\n🏟 Campo de Futbol de Vallec
+ as\n—————\n⚽ Rayo Vallecano v Real Madrid\n🏆 LaLiga — Mat
+ chday 22\n🗓 Sun 31 Jan 2027 · 14:00 UTC\n🏟 Campo de Futbol de Valle
+ cas\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد ريال مدري
+ د — الدوري الإسباني | Tomorrow: Rayo Vallecano vs Real Ma
+ drid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × ريال مدريد | Kick-off in 30 min: Rayo Vallecano
+  vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868239@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:Real Sociedad vs Real Madrid — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868239
+DESCRIPTION:⚽ ريال سوسيداد × ريال مدريد\n🏆 الد
+ وري الإسباني — الجولة 23\n🗓 الأحد 7 فبراي
+ ر 2027 · 17:00 بتوقيت الرياض\n🏟 Reale Arena\n————
+ —\n⚽ Real Sociedad v Real Madrid\n🏆 LaLiga — Matchday 23\n🗓 Su
+ n 07 Feb 2027 · 14:00 UTC\n🏟 Reale Arena\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد ريال مدريد 
+ — الدوري الإسباني | Tomorrow: Real Sociedad vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × ريال مدريد | Kick-off in 30 min: Real Sociedad vs
+  Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868246@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T140000Z
+DTEND:20270214T160000Z
+SUMMARY:Real Madrid vs Athletic Club — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868246
+DESCRIPTION:⚽ ريال مدريد × أتلتيك بلباو\n🏆 الد
+ وري الإسباني — الجولة 24\n🗓 الأحد 14 فبراي
+ ر 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n——
+ ———\n⚽ Real Madrid v Athletic Club\n🏆 LaLiga — Matchday 24\n
+ 🗓 Sun 14 Feb 2027 · 14:00 UTC\n🏟 Estadio Bernabeu\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد أتلتيك بلباو 
+ — الدوري الإسباني | Tomorrow: Real Madrid vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × أتلتيك بلباو | Kick-off in 30 min: Real Madrid vs A
+ thletic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868259@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T140000Z
+DTEND:20270221T160000Z
+SUMMARY:Sevilla vs Real Madrid — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868259
+DESCRIPTION:⚽ إشبيلية × ريال مدريد\n🏆 الدوري ا
+ لإسباني — الجولة 25\n🗓 الأحد 21 فبراير 2027 
+ · 17:00 بتوقيت الرياض\n🏟 Estadio R. Sanchez Pizjuan\n—
+ ————\n⚽ Sevilla v Real Madrid\n🏆 LaLiga — Matchday 25\n🗓
+  Sun 21 Feb 2027 · 14:00 UTC\n🏟 Estadio R. Sanchez Pizjuan\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد ريال مدريد — ال
+ دوري الإسباني | Tomorrow: Sevilla vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × ريال مدريد | Kick-off in 30 min: Sevilla vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868269@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T140000Z
+DTEND:20270228T160000Z
+SUMMARY:Real Madrid vs Valencia — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868269
+DESCRIPTION:⚽ ريال مدريد × فالنسيا\n🏆 الدوري ا
+ لإسباني — الجولة 26\n🗓 الأحد 28 فبراير 2027 
+ · 17:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n—————
+ \n⚽ Real Madrid v Valencia\n🏆 LaLiga — Matchday 26\n🗓 Sun 28 Feb
+  2027 · 14:00 UTC\n🏟 Estadio Bernabeu\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد فالنسيا — ال
+ دوري الإسباني | Tomorrow: Real Madrid vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × فالنسيا | Kick-off in 30 min: Real Madrid vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868280@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T140000Z
+DTEND:20270307T160000Z
+SUMMARY:Villarreal vs Real Madrid — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868280
+DESCRIPTION:⚽ فياريال × ريال مدريد\n🏆 الدوري ا
+ لإسباني — الجولة 27\n🗓 الأحد 7 مارس 2027 · 17:
+ 00 بتوقيت الرياض\n🏟 Estadio de la Ceramica\n—————
+ \n⚽ Villarreal v Real Madrid\n🏆 LaLiga — Matchday 27\n🗓 Sun 07 M
+ ar 2027 · 14:00 UTC\n🏟 Estadio de la Ceramica\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد ريال مدريد — ال
+ دوري الإسباني | Tomorrow: Villarreal vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × ريال مدريد | Kick-off in 30 min: Villarreal vs Real Madri
+ d
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868290@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T140000Z
+DTEND:20270314T160000Z
+SUMMARY:Real Madrid vs Espanyol — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868290
+DESCRIPTION:⚽ ريال مدريد × إسبانيول\n🏆 الدوري 
+ الإسباني — الجولة 28\n🗓 الأحد 14 مارس 2027 · 
+ 17:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n—————\n
+ ⚽ Real Madrid v Espanyol\n🏆 LaLiga — Matchday 28\n🗓 Sun 14 Mar 2
+ 027 · 14:00 UTC\n🏟 Estadio Bernabeu\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد إسبانيول — ا
+ لدوري الإسباني | Tomorrow: Real Madrid vs Espanyol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × إسبانيول | Kick-off in 30 min: Real Madrid vs Espanyol
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868292@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T140000Z
+DTEND:20270321T160000Z
+SUMMARY:Celta Vigo vs Real Madrid — LaLiga
+LOCATION:Abanca Balaidos
+URL:https://www.fotmob.com/match/5868292
+DESCRIPTION:⚽ سيلتا فيجو × ريال مدريد\n🏆 الدور
+ ي الإسباني — الجولة 29\n🗓 الأحد 21 مارس 2027 
+ · 17:00 بتوقيت الرياض\n🏟 Abanca Balaidos\n—————\
+ n⚽ Celta Vigo v Real Madrid\n🏆 LaLiga — Matchday 29\n🗓 Sun 21 Ma
+ r 2027 · 14:00 UTC\n🏟 Abanca Balaidos\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتا فيجو ضد ريال مدريد — 
+ الدوري الإسباني | Tomorrow: Celta Vigo vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتا 
+ فيجو × ريال مدريد | Kick-off in 30 min: Celta Vigo vs Real M
+ adrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868309@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T130000Z
+DTEND:20270404T150000Z
+SUMMARY:Real Madrid vs Atlético Madrid — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868309
+DESCRIPTION:⚽ ريال مدريد × أتلتيكو مدريد\n🏆 ال
+ دوري الإسباني — الجولة 30\n🗓 الأحد 4 أبري
+ ل 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n——
+ ———\n⚽ Real Madrid v Atlético Madrid\n🏆 LaLiga — Matchday 30
+ \n🗓 Sun 04 Apr 2027 · 13:00 UTC\n🏟 Estadio Bernabeu\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد أتلتيكو مدري
+ د — الدوري الإسباني | Tomorrow: Real Madrid vs Atlético 
+ Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × أتلتيكو مدريد | Kick-off in 30 min: Real Madrid vs
+  Atlético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868315@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T130000Z
+DTEND:20270411T150000Z
+SUMMARY:Osasuna vs Real Madrid — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868315
+DESCRIPTION:⚽ أوساسونا × ريال مدريد\n🏆 الدوري 
+ الإسباني — الجولة 31\n🗓 الأحد 11 أبريل 2027 
+ · 16:00 بتوقيت الرياض\n🏟 Estadio El Sadar\n—————
+ \n⚽ Osasuna v Real Madrid\n🏆 LaLiga — Matchday 31\n🗓 Sun 11 Apr 
+ 2027 · 13:00 UTC\n🏟 Estadio El Sadar\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد ريال مدريد — ا
+ لدوري الإسباني | Tomorrow: Osasuna vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × ريال مدريد | Kick-off in 30 min: Osasuna vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868327@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T130000Z
+DTEND:20270418T150000Z
+SUMMARY:Getafe vs Real Madrid — LaLiga
+LOCATION:Coliseum
+URL:https://www.fotmob.com/match/5868327
+DESCRIPTION:⚽ خيتافي × ريال مدريد\n🏆 الدوري ال
+ إسباني — الجولة 32\n🗓 الأحد 18 أبريل 2027 · 16
+ :00 بتوقيت الرياض\n🏟 Coliseum\n—————\n⚽ Getafe 
+ v Real Madrid\n🏆 LaLiga — Matchday 32\n🗓 Sun 18 Apr 2027 · 13:00 
+ UTC\n🏟 Coliseum\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: خيتافي ضد ريال مدريد — الد
+ وري الإسباني | Tomorrow: Getafe vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: خيتاف
+ ي × ريال مدريد | Kick-off in 30 min: Getafe vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868337@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270421T130000Z
+DTEND:20270421T150000Z
+SUMMARY:Real Madrid vs Elche — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868337
+DESCRIPTION:⚽ ريال مدريد × إلتشي\n🏆 الدوري الإ
+ سباني — الجولة 33\n🗓 الأربعاء 21 أبريل 2027 
+ · 16:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n—————
+ \n⚽ Real Madrid v Elche\n🏆 LaLiga — Matchday 33\n🗓 Wed 21 Apr 20
+ 27 · 13:00 UTC\n🏟 Estadio Bernabeu\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد إلتشي — الدو
+ ري الإسباني | Tomorrow: Real Madrid vs Elche
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × إلتشي | Kick-off in 30 min: Real Madrid vs Elche
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868347@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T130000Z
+DTEND:20270502T150000Z
+SUMMARY:Levante vs Real Madrid — LaLiga
+LOCATION:Estadio Ciudad de Valencia
+URL:https://www.fotmob.com/match/5868347
+DESCRIPTION:⚽ ليفانتي × ريال مدريد\n🏆 الدوري ا
+ لإسباني — الجولة 34\n🗓 الأحد 2 مايو 2027 · 16:
+ 00 بتوقيت الرياض\n🏟 Estadio Ciudad de Valencia\n———
+ ——\n⚽ Levante v Real Madrid\n🏆 LaLiga — Matchday 34\n🗓 Sun 0
+ 2 May 2027 · 13:00 UTC\n🏟 Estadio Ciudad de Valencia\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفانتي ضد ريال مدريد — ال
+ دوري الإسباني | Tomorrow: Levante vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفان
+ تي × ريال مدريد | Kick-off in 30 min: Levante vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868358@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T130000Z
+DTEND:20270509T150000Z
+SUMMARY:Real Madrid vs Barcelona — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868358
+DESCRIPTION:⚽ ريال مدريد × برشلونة\n🏆 الدوري ا
+ لإسباني — الجولة 35\n🗓 الأحد 9 مايو 2027 · 16:
+ 00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n—————\n⚽ 
+ Real Madrid v Barcelona\n🏆 LaLiga — Matchday 35\n🗓 Sun 09 May 2027
+  · 13:00 UTC\n🏟 Estadio Bernabeu\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد برشلونة — ال
+ دوري الإسباني | Tomorrow: Real Madrid vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × برشلونة | Kick-off in 30 min: Real Madrid vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868368@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T130000Z
+DTEND:20270516T150000Z
+SUMMARY:Real Madrid vs Racing Santander — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868368
+DESCRIPTION:⚽ ريال مدريد × راسينج سانتاندير\n
+ 🏆 الدوري الإسباني — الجولة 36\n🗓 الأحد 16
+  مايو 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n
+ —————\n⚽ Real Madrid v Racing Santander\n🏆 LaLiga — Match
+ day 36\n🗓 Sun 16 May 2027 · 13:00 UTC\n🏟 Estadio Bernabeu\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد راسينج سانتا
+ ندير — الدوري الإسباني | Tomorrow: Real Madrid vs Raci
+ ng Santander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × راسينج سانتاندير | Kick-off in 30 min: Real Mad
+ rid vs Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868371@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T130000Z
+DTEND:20270523T150000Z
+SUMMARY:Deportivo Alavés vs Real Madrid — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868371
+DESCRIPTION:⚽ ديبورتيفو ألافيس × ريال مدريد\n
+ 🏆 الدوري الإسباني — الجولة 37\n🗓 الأحد 23
+  مايو 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio Mendizorro
+ za\n—————\n⚽ Deportivo Alavés v Real Madrid\n🏆 LaLiga — 
+ Matchday 37\n🗓 Sun 23 May 2027 · 13:00 UTC\n🏟 Estadio Mendizorroza\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد ريال م
+ دريد — الدوري الإسباني | Tomorrow: Deportivo Alavés v
+ s Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × ريال مدريد | Kick-off in 30 min: Deporti
+ vo Alavés vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868389@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T130000Z
+DTEND:20270530T150000Z
+SUMMARY:Real Madrid vs Deportivo A Coruña — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868389
+DESCRIPTION:⚽ ريال مدريد × ديبورتيفو لاكوروني
+ ا\n🏆 الدوري الإسباني — الجولة 38\n🗓 الأح
+ د 30 مايو 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio Berna
+ beu\n—————\n⚽ Real Madrid v Deportivo A Coruña\n🏆 LaLiga 
+ — Matchday 38\n🗓 Sun 30 May 2027 · 13:00 UTC\n🏟 Estadio Bernabeu\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد ديبورتيفو لا
+ كورونيا — الدوري الإسباني | Tomorrow: Real Madrid v
+ s Deportivo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × ديبورتيفو لاكورونيا | Kick-off in 30 min: Re
+ al Madrid vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106242@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T190000Z
+DTEND:20260908T210000Z
+SUMMARY:Real Madrid vs Inter — UEFA Champions League
+LOCATION:Estadio Bernabéu\, Madrid\, Spain
+GEO:40.453068;-3.688354
+URL:https://www.fotmob.com/match/6106242
+DESCRIPTION:⚽ ريال مدريد × إنتر ميلان\n🏆 دوري 
+ أبطال أوروبا — الجولة 1\n🗓 الثلاثاء 8 سبت
+ مبر 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio Bernabéu، M
+ adrid\n📺 HBO Max (UK)، Paramount+ (US)\n—————\n⚽ Real Madr
+ id v Inter\n🏆 UEFA Champions League — Matchday 1\n🗓 Tue 08 Sep 202
+ 6 · 19:00 UTC\n🏟 Estadio Bernabéu, Madrid\n📺 HBO Max (UK), Paramou
+ nt+ (US)\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد إنتر ميلان — 
+ دوري أبطال أوروبا — 📺 HBO Max (UK)، Paramount+ (US) |
+  Tomorrow: Real Madrid vs Inter | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × إنتر ميلان — 📺 HBO Max (UK)، Paramount+ (US) | 
+ Kick-off in 30 min: Real Madrid vs Inter | TV: HBO Max (UK)\, Paramount+ (
+ US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106274@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+SUMMARY:Roma vs Real Madrid — UEFA Champions League
+LOCATION:Stadio Olimpico\, Roma\, Italy
+GEO:41.933948;12.454757
+URL:https://www.fotmob.com/match/6106274
+DESCRIPTION:⚽ روما × ريال مدريد\n🏆 دوري أبطال 
+ أوروبا — الجولة 2\n🗓 الأربعاء 14 أكتوبر 202
+ 6 · 22:00 بتوقيت الرياض\n🏟 Stadio Olimpico، Roma\n——
+ ———\n⚽ Roma v Real Madrid\n🏆 UEFA Champions League — Matchday
+  2\n🗓 Wed 14 Oct 2026 · 19:00 UTC\n🏟 Stadio Olimpico, Roma\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد ريال مدريد — دوري أ
+ بطال أوروبا | Tomorrow: Roma vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  ريال مدريد | Kick-off in 30 min: Roma vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106244@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+SUMMARY:Real Madrid vs RB Leipzig — UEFA Champions League
+LOCATION:Estadio Bernabéu\, Madrid\, Spain
+GEO:40.453068;-3.688354
+URL:https://www.fotmob.com/match/6106244
+DESCRIPTION:⚽ ريال مدريد × لايبزيج\n🏆 دوري أبط
+ ال أوروبا — الجولة 3\n🗓 الأربعاء 21 أكتوب
+ ر 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio Bernabéu، Madri
+ d\n—————\n⚽ Real Madrid v RB Leipzig\n🏆 UEFA Champions Leag
+ ue — Matchday 3\n🗓 Wed 21 Oct 2026 · 19:00 UTC\n🏟 Estadio Bernab
+ éu, Madrid\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد لايبزيج — دو
+ ري أبطال أوروبا | Tomorrow: Real Madrid vs RB Leipzig
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × لايبزيج | Kick-off in 30 min: Real Madrid vs RB Leipzig
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106401@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261104T174500Z
+DTEND:20261104T194500Z
+SUMMARY:AEK Athens vs Real Madrid — UEFA Champions League
+LOCATION:Allwyn Arena
+URL:https://www.fotmob.com/match/6106401
+DESCRIPTION:⚽ أيك أثينا × ريال مدريد\n🏆 دوري أ
+ بطال أوروبا — الجولة 4\n🗓 الأربعاء 4 نوفم
+ بر 2026 · 20:45 بتوقيت الرياض\n🏟 Allwyn Arena\n———
+ ——\n⚽ AEK Athens v Real Madrid\n🏆 UEFA Champions League — Match
+ day 4\n🗓 Wed 04 Nov 2026 · 17:45 UTC\n🏟 Allwyn Arena\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أيك أثينا ضد ريال مدريد — د
+ وري أبطال أوروبا | Tomorrow: AEK Athens vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أيك أث
+ ينا × ريال مدريد | Kick-off in 30 min: AEK Athens vs Real Mad
+ rid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106243@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+SUMMARY:Real Madrid vs PSV Eindhoven — UEFA Champions League
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/6106243
+DESCRIPTION:⚽ ريال مدريد × آيندهوفن\n🏆 دوري أب
+ طال أوروبا — الجولة 5\n🗓 الثلاثاء 24 نوفم
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n—
+ ————\n⚽ Real Madrid v PSV Eindhoven\n🏆 UEFA Champions League 
+ — Matchday 5\n🗓 Tue 24 Nov 2026 · 20:00 UTC\n🏟 Estadio Bernabeu\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد آيندهوفن — د
+ وري أبطال أوروبا | Tomorrow: Real Madrid vs PSV Eindhoven
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × آيندهوفن | Kick-off in 30 min: Real Madrid vs PSV Eind
+ hoven
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106258@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:Arsenal vs Real Madrid — UEFA Champions League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/6106258
+DESCRIPTION:⚽ أرسنال × ريال مدريد\n🏆 دوري أبطا
+ ل أوروبا — الجولة 6\n🗓 الأربعاء 9 ديسمبر 2
+ 026 · 23:00 بتوقيت الرياض\n🏟 Emirates Stadium\n———
+ ——\n⚽ Arsenal v Real Madrid\n🏆 UEFA Champions League — Matchday
+  6\n🗓 Wed 09 Dec 2026 · 20:00 UTC\n🏟 Emirates Stadium\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد ريال مدريد — دور
+ ي أبطال أوروبا | Tomorrow: Arsenal vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × ريال مدريد | Kick-off in 30 min: Arsenal vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106245@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+SUMMARY:Real Madrid vs LASK — UEFA Champions League
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/6106245
+DESCRIPTION:⚽ ريال مدريد × LASK\n🏆 دوري أبطال أو
+ روبا — الجولة 7\n🗓 الثلاثاء 19 يناير 2027 · 2
+ 3:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n—————\n
+ ⚽ Real Madrid v LASK\n🏆 UEFA Champions League — Matchday 7\n🗓 Tu
+ e 19 Jan 2027 · 20:00 UTC\n🏟 Estadio Bernabeu\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد LASK — دوري أبط
+ ال أوروبا | Tomorrow: Real Madrid vs LASK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × LASK | Kick-off in 30 min: Real Madrid vs LASK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106334@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Shakhtar Donetsk vs Real Madrid — UEFA Champions League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/6106334
+DESCRIPTION:⚽ شاختار دونيتسك × ريال مدريد\n🏆 د
+ وري أبطال أوروبا — الجولة 8\n🗓 الأربعاء 2
+ 7 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Stamford Bridge
+ \n—————\n⚽ Shakhtar Donetsk v Real Madrid\n🏆 UEFA Champions
+  League — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Stamford B
+ ridge\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شاختار دونيتسك ضد ريال مدر
+ يد — دوري أبطال أوروبا | Tomorrow: Shakhtar Donetsk vs 
+ Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شاختا
+ ر دونيتسك × ريال مدريد | Kick-off in 30 min: Shakhtar Do
+ netsk vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5091458@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251217T200000Z
+DTEND:20251217T220000Z
+SUMMARY:CF Talavera de la Reina vs Real Madrid (2 - 3) — Copa del Rey
+LOCATION:Estadio El Prado\, Talavera de la Reina\, Spain
+GEO:39.965593;-4.821888
+URL:https://www.fotmob.com/match/5091458
+DESCRIPTION:⚽ تالافيرا × ريال مدريد (2 - 3)\n🏆 كأ
+ س ملك إسبانيا — دور الـ32\n🗓 الأربعاء 17 د
+ يسمبر 2025 · 23:00 بتوقيت الرياض\n🏟 Estadio El Prado
+ ، Talavera de la Reina\n👥 الحضور: 4,200\n—————\n⚽ CF
+  Talavera de la Reina v Real Madrid (2 - 3)\n🏆 Copa del Rey — Round o
+ f 32\n🗓 Wed 17 Dec 2025 · 20:00 UTC\n🏟 Estadio El Prado, Talavera d
+ e la Reina\nAttendance: 4,200\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تالافيرا ضد ريال مدريد — ك
+ أس ملك إسبانيا | Tomorrow: CF Talavera de la Reina vs Real Mad
+ rid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تالاف
+ يرا × ريال مدريد | Kick-off in 30 min: CF Talavera de la Rein
+ a vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5125322@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260114T200000Z
+DTEND:20260114T220000Z
+SUMMARY:Albacete vs Real Madrid (3 - 2) — Copa del Rey
+LOCATION:Estadio Carlos Belmonte\, Albacete\, Spain
+GEO:38.981146;-1.852114
+URL:https://www.fotmob.com/match/5125322
+DESCRIPTION:⚽ ألباسيتي × ريال مدريد (3 - 2)\n🏆 كأ
+ س ملك إسبانيا — دور الـ16\n🗓 الأربعاء 14 ي
+ ناير 2026 · 23:00 بتوقيت الرياض\n🏟 Estadio Carlos Belm
+ onte، Albacete\n⚖️ الحكم: Víctor García Verdura\n👥 الحض
+ ور: 16,807\n—————\n⚽ Albacete v Real Madrid (3 - 2)\n🏆 Co
+ pa del Rey — Round of 16\n🗓 Wed 14 Jan 2026 · 20:00 UTC\n🏟 Estadi
+ o Carlos Belmonte, Albacete\nReferee: Víctor García Verdura\nAttendance:
+  16,807\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ألباسيتي ضد ريال مدريد — ك
+ أس ملك إسبانيا | Tomorrow: Albacete vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ألباس
+ يتي × ريال مدريد | Kick-off in 30 min: Albacete vs Real Madri
+ d
+END:VALARM
+END:VEVENT
+END:VCALENDAR

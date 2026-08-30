@@ -1,0 +1,1334 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Ipswich Town — Premier League & FA Cup Fixtures | إبس
+ ويتش تاون — مباريات الدوري الإنجليزي ال
+ ممتاز وكأس الاتحاد الإنجليزي
+X-WR-CALDESC:Ipswich Town — all matches in Premier League & FA Cup\, exac
+ t UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2
+ 026-09-05T19:31:10Z.  •  إبسويتش تاون — جميع المبا
+ ريات في الدوري الإنجليزي الممتاز وكأس ال
+ اتحاد الإنجليزي بتوقيت UTC الدقيق مع المل
+ اعب والقنوات الناقلة. المصدر: FotMob + 365scores 
+ · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5795366@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T140000Z
+DTEND:20260822T160000Z
+SUMMARY:Ipswich Town vs Sunderland (2 - 1) — Premier League
+LOCATION:Portman Road\, Ipswich\, Suffolk\, England
+GEO:52.054950;1.145263
+URL:https://www.fotmob.com/match/5795366
+DESCRIPTION:⚽ إبسويتش تاون × سندرلاند (2 - 1)\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 1\n🗓 ا
+ لسبت 22 أغسطس 2026 · 17:00 بتوقيت الرياض\n🏟 Portm
+ an Road، Ipswich, Suffolk\n⚖️ الحكم: Farai Hallam\n👥 الحض
+ ور: 29,669\n—————\n⚽ Ipswich Town v Sunderland (2 - 1)\n🏆
+  Premier League — Matchday 1\n🗓 Sat 22 Aug 2026 · 14:00 UTC\n🏟 Po
+ rtman Road, Ipswich, Suffolk\nReferee: Farai Hallam\nAttendance: 29,669\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد سندرلاند —
+  الدوري الإنجليزي الممتاز | Tomorrow: Ipswich Town v
+ s Sunderland
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × سندرلاند | Kick-off in 30 min: Ipswich Town vs Su
+ nderland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795432@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T153000Z
+DTEND:20260830T173000Z
+SUMMARY:Manchester United vs Ipswich Town (5 - 2) — Premier League
+LOCATION:Old Trafford\, Manchester\, England
+GEO:53.463094;-2.291374
+URL:https://www.fotmob.com/match/5795432
+DESCRIPTION:⚽ مانشستر يونايتد × إبسويتش تاون (5
+  - 2)\n🏆 الدوري الإنجليزي الممتاز — الجول
+ ة 2\n🗓 الأحد 30 أغسطس 2026 · 18:30 بتوقيت الريا
+ ض\n🏟 Old Trafford، Manchester\n⚖️ الحكم: Craig Pawson\n—
+ ————\n⚽ Manchester United v Ipswich Town (5 - 2)\n🏆 Premier L
+ eague — Matchday 2\n🗓 Sun 30 Aug 2026 · 15:30 UTC\n🏟 Old Trafford
+ , Manchester\nReferee: Craig Pawson\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر يونايتد ضد إبسويتش
+  تاون — الدوري الإنجليزي الممتاز | Tomorrow: M
+ anchester United vs Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر يونايتد × إبسويتش تاون | Kick-off in 30 min: Manch
+ ester United vs Ipswich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795441@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260904T190000Z
+DTEND:20260904T210000Z
+SUMMARY:Ipswich Town vs Liverpool (0 - 2) — Premier League
+LOCATION:Portman Road\, Ipswich\, Suffolk\, England
+GEO:52.054950;1.145263
+URL:https://www.fotmob.com/match/5795441
+DESCRIPTION:⚽ إبسويتش تاون × ليفربول (0 - 2)\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 3\n🗓 ال
+ جمعة 4 سبتمبر 2026 · 22:00 بتوقيت الرياض\n🏟 Port
+ man Road، Ipswich, Suffolk\n⚖️ الحكم: Darren England\n👥 ال
+ حضور: 30,019\n—————\n⚽ Ipswich Town v Liverpool (0 - 2)\n
+ 🏆 Premier League — Matchday 3\n🗓 Fri 04 Sep 2026 · 19:00 UTC\n
+ 🏟 Portman Road, Ipswich, Suffolk\nReferee: Darren England\nAttendance: 
+ 30,019\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد ليفربول — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Ipswich Town vs
+  Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × ليفربول | Kick-off in 30 min: Ipswich Town vs Live
+ rpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795449@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T140000Z
+DTEND:20260912T160000Z
+SUMMARY:Crystal Palace vs Ipswich Town — Premier League
+LOCATION:Selhurst Park\, London\, England
+GEO:51.398279;-0.085503
+URL:https://www.fotmob.com/match/5795449
+DESCRIPTION:⚽ كريستال بالاس × إبسويتش تاون\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 4\n🗓 ا
+ لسبت 12 سبتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Sel
+ hurst Park، London\n📺 NBCSN Extra، Peacock، Fubo Sports CA، StarHub
+  TV+، Astro Go\n—————\n⚽ Crystal Palace v Ipswich Town\n🏆 
+ Premier League — Matchday 4\n🗓 Sat 12 Sep 2026 · 14:00 UTC\n🏟 Sel
+ hurst Park, London\n📺 NBCSN Extra, Peacock, Fubo Sports CA, StarHub TV+
+ , Astro Go\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كريستال بالاس ضد إبسويتش ت
+ اون — الدوري الإنجليزي الممتاز — 📺 NBCSN E
+ xtra، Peacock، Fubo Sports CA، StarHub TV+، Astro Go | Tomorrow: Cryst
+ al Palace vs Ipswich Town | TV: NBCSN Extra\, Peacock\, Fubo Sports CA\, S
+ tarHub TV+\, Astro Go
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كريست
+ ال بالاس × إبسويتش تاون — 📺 NBCSN Extra، Peacock
+ ، Fubo Sports CA، StarHub TV+، Astro Go | Kick-off in 30 min: Crystal P
+ alace vs Ipswich Town | TV: NBCSN Extra\, Peacock\, Fubo Sports CA\, StarH
+ ub TV+\, Astro Go
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795458@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T140000Z
+DTEND:20260919T160000Z
+SUMMARY:Everton vs Ipswich Town — Premier League
+LOCATION:Hill Dickinson Stadium\, Liverpool\, Merseyside\, England
+GEO:53.424981;-3.002691
+URL:https://www.fotmob.com/match/5795458
+DESCRIPTION:⚽ إيفرتون × إبسويتش تاون\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 5\n🗓 السبت 1
+ 9 سبتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Hill Dickinso
+ n Stadium، Liverpool, Merseyside\n—————\n⚽ Everton v Ipswich 
+ Town\n🏆 Premier League — Matchday 5\n🗓 Sat 19 Sep 2026 · 14:00 UT
+ C\n🏟 Hill Dickinson Stadium, Liverpool, Merseyside\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيفرتون ضد إبسويتش تاون — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Everton vs Ipsw
+ ich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيفرت
+ ون × إبسويتش تاون | Kick-off in 30 min: Everton vs Ipswich T
+ own
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795471@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T140000Z
+DTEND:20261010T160000Z
+SUMMARY:Ipswich Town vs Fulham — Premier League
+LOCATION:Portman Road\, Ipswich\, Suffolk\, England
+GEO:52.054950;1.145263
+URL:https://www.fotmob.com/match/5795471
+DESCRIPTION:⚽ إبسويتش تاون × فولهام\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 6\n🗓 السبت 10 
+ أكتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 Portman Road، 
+ Ipswich, Suffolk\n—————\n⚽ Ipswich Town v Fulham\n🏆 Premier
+  League — Matchday 6\n🗓 Sat 10 Oct 2026 · 14:00 UTC\n🏟 Portman Ro
+ ad, Ipswich, Suffolk\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد فولهام — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Ipswich Town vs F
+ ulham
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × فولهام | Kick-off in 30 min: Ipswich Town vs Fulham
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795481@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T140000Z
+DTEND:20261017T160000Z
+SUMMARY:Manchester City vs Ipswich Town — Premier League
+LOCATION:Etihad Stadium\, Manchester\, England
+GEO:53.483152;-2.200409
+URL:https://www.fotmob.com/match/5795481
+DESCRIPTION:⚽ مانشستر سيتي × إبسويتش تاون\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 7\n🗓 ال
+ سبت 17 أكتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 Etiha
+ d Stadium، Manchester\n—————\n⚽ Manchester City v Ipswich Tow
+ n\n🏆 Premier League — Matchday 7\n🗓 Sat 17 Oct 2026 · 14:00 UTC\n
+ 🏟 Etihad Stadium, Manchester\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانشستر سيتي ضد إبسويتش تا
+ ون — الدوري الإنجليزي الممتاز | Tomorrow: Manche
+ ster City vs Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانشس
+ تر سيتي × إبسويتش تاون | Kick-off in 30 min: Manchester 
+ City vs Ipswich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795491@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261023T190000Z
+DTEND:20261023T210000Z
+SUMMARY:Ipswich Town vs Nottingham Forest — Premier League
+LOCATION:Portman Road\, Ipswich\, Suffolk\, England
+GEO:52.054950;1.145263
+URL:https://www.fotmob.com/match/5795491
+DESCRIPTION:⚽ إبسويتش تاون × نوتنجهام فورست\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 8\n
+ 🗓 الجمعة 23 أكتوبر 2026 · 22:00 بتوقيت الرياض\
+ n🏟 Portman Road، Ipswich, Suffolk\n—————\n⚽ Ipswich Town v
+  Nottingham Forest\n🏆 Premier League — Matchday 8\n🗓 Fri 23 Oct 20
+ 26 · 19:00 UTC\n🏟 Portman Road, Ipswich, Suffolk\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد نوتنجهام ف
+ ورست — الدوري الإنجليزي الممتاز | Tomorrow: Ip
+ swich Town vs Nottingham Forest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × نوتنجهام فورست | Kick-off in 30 min: Ipswich
+  Town vs Nottingham Forest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795500@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:Hull City vs Ipswich Town — Premier League
+LOCATION:The MKM Stadium
+URL:https://www.fotmob.com/match/5795500
+DESCRIPTION:⚽ هال سيتي × إبسويتش تاون\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 9\n🗓 السبت 3
+ 1 أكتوبر 2026 · 18:00 بتوقيت الرياض\n🏟 The MKM Stadi
+ um\n—————\n⚽ Hull City v Ipswich Town\n🏆 Premier League —
+  Matchday 9\n🗓 Sat 31 Oct 2026 · 15:00 UTC\n🏟 The MKM Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هال سيتي ضد إبسويتش تاون — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Hull City vs Ip
+ swich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هال سي
+ تي × إبسويتش تاون | Kick-off in 30 min: Hull City vs Ipswich
+  Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795510@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Ipswich Town vs AFC Bournemouth — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795510
+DESCRIPTION:⚽ إبسويتش تاون × بورنموث\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 10\n🗓 السبت 
+ 7 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Portman Road\
+ n—————\n⚽ Ipswich Town v AFC Bournemouth\n🏆 Premier League 
+ — Matchday 10\n🗓 Sat 07 Nov 2026 · 15:00 UTC\n🏟 Portman Road\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد بورنموث — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Ipswich Town vs
+  AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × بورنموث | Kick-off in 30 min: Ipswich Town vs AFC 
+ Bournemouth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795524@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:Tottenham Hotspur vs Ipswich Town — Premier League
+LOCATION:Tottenham Hotspur Stadium
+URL:https://www.fotmob.com/match/5795524
+DESCRIPTION:⚽ توتنهام هوتسبر × إبسويتش تاون\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 11\n
+ 🗓 السبت 21 نوفمبر 2026 · 18:00 بتوقيت الرياض\n
+ 🏟 Tottenham Hotspur Stadium\n—————\n⚽ Tottenham Hotspur v I
+ pswich Town\n🏆 Premier League — Matchday 11\n🗓 Sat 21 Nov 2026 · 
+ 15:00 UTC\n🏟 Tottenham Hotspur Stadium\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توتنهام هوتسبر ضد إبسويتش 
+ تاون — الدوري الإنجليزي الممتاز | Tomorrow: To
+ ttenham Hotspur vs Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توتنه
+ ام هوتسبر × إبسويتش تاون | Kick-off in 30 min: Tottenh
+ am Hotspur vs Ipswich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795530@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:Ipswich Town vs Aston Villa — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795530
+DESCRIPTION:⚽ إبسويتش تاون × أستون فيلا\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 12\n🗓 الس
+ بت 28 نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Portman
+  Road\n—————\n⚽ Ipswich Town v Aston Villa\n🏆 Premier Leagu
+ e — Matchday 12\n🗓 Sat 28 Nov 2026 · 15:00 UTC\n🏟 Portman Road\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد أستون فيلا 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Ipswich Tow
+ n vs Aston Villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × أستون فيلا | Kick-off in 30 min: Ipswich Town vs
+  Aston Villa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795539@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Coventry City vs Ipswich Town — Premier League
+LOCATION:Coventry Building Society Arena
+URL:https://www.fotmob.com/match/5795539
+DESCRIPTION:⚽ كوفنتري سيتي × إبسويتش تاون\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 13\n🗓 ا
+ لأربعاء 2 ديسمبر 2026 · 23:00 بتوقيت الرياض\n
+ 🏟 Coventry Building Society Arena\n—————\n⚽ Coventry City v
+  Ipswich Town\n🏆 Premier League — Matchday 13\n🗓 Wed 02 Dec 2026 
+ · 20:00 UTC\n🏟 Coventry Building Society Arena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفنتري سيتي ضد إبسويتش تا
+ ون — الدوري الإنجليزي الممتاز | Tomorrow: Covent
+ ry City vs Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفنت
+ ري سيتي × إبسويتش تاون | Kick-off in 30 min: Coventry Ci
+ ty vs Ipswich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795550@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Leeds United vs Ipswich Town — Premier League
+LOCATION:Elland Road
+URL:https://www.fotmob.com/match/5795550
+DESCRIPTION:⚽ ليدز يونايتد × إبسويتش تاون\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 14\n🗓 ا
+ لسبت 5 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Ella
+ nd Road\n—————\n⚽ Leeds United v Ipswich Town\n🏆 Premier Le
+ ague — Matchday 14\n🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 Elland Road\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليدز يونايتد ضد إبسويتش تا
+ ون — الدوري الإنجليزي الممتاز | Tomorrow: Leeds 
+ United vs Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليدز ي
+ ونايتد × إبسويتش تاون | Kick-off in 30 min: Leeds United
+  vs Ipswich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795561@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Ipswich Town vs Newcastle United — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795561
+DESCRIPTION:⚽ إبسويتش تاون × نيوكاسل يونايتد\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 15\n
+ 🗓 السبت 12 ديسمبر 2026 · 18:00 بتوقيت الرياض\n
+ 🏟 Portman Road\n—————\n⚽ Ipswich Town v Newcastle United\n
+ 🏆 Premier League — Matchday 15\n🗓 Sat 12 Dec 2026 · 15:00 UTC\n
+ 🏟 Portman Road\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد نيوكاسل يو
+ نايتد — الدوري الإنجليزي الممتاز | Tomorrow: 
+ Ipswich Town vs Newcastle United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × نيوكاسل يونايتد | Kick-off in 30 min: Ipswi
+ ch Town vs Newcastle United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795568@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:Brighton & Hove Albion vs Ipswich Town — Premier League
+LOCATION:The American Express Community Stadium
+URL:https://www.fotmob.com/match/5795568
+DESCRIPTION:⚽ برايتون × إبسويتش تاون\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 16\n🗓 السبت 
+ 19 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 The American
+  Express Community Stadium\n—————\n⚽ Brighton & Hove Albion v 
+ Ipswich Town\n🏆 Premier League — Matchday 16\n🗓 Sat 19 Dec 2026 ·
+  15:00 UTC\n🏟 The American Express Community Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برايتون ضد إبسويتش تاون — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Brighton & Hove
+  Albion vs Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برايت
+ ون × إبسويتش تاون | Kick-off in 30 min: Brighton & Hove Albi
+ on vs Ipswich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795581@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261226T150000Z
+DTEND:20261226T170000Z
+SUMMARY:Ipswich Town vs Brentford — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795581
+DESCRIPTION:⚽ إبسويتش تاون × برينتفورد\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 17\n🗓 الس
+ بت 26 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Portman
+  Road\n—————\n⚽ Ipswich Town v Brentford\n🏆 Premier League 
+ — Matchday 17\n🗓 Sat 26 Dec 2026 · 15:00 UTC\n🏟 Portman Road\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد برينتفورد 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Ipswich Tow
+ n vs Brentford
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × برينتفورد | Kick-off in 30 min: Ipswich Town vs 
+ Brentford
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795591@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261230T200000Z
+DTEND:20261230T220000Z
+SUMMARY:Ipswich Town vs Chelsea — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795591
+DESCRIPTION:⚽ إبسويتش تاون × تشيلسي\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 18\n🗓 الأربعا
+ ء 30 ديسمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Portman R
+ oad\n—————\n⚽ Ipswich Town v Chelsea\n🏆 Premier League — 
+ Matchday 18\n🗓 Wed 30 Dec 2026 · 20:00 UTC\n🏟 Portman Road\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد تشيلسي — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Ipswich Town vs C
+ helsea
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × تشيلسي | Kick-off in 30 min: Ipswich Town vs Chelse
+ a
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795596@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T150000Z
+DTEND:20270102T170000Z
+SUMMARY:Arsenal vs Ipswich Town — Premier League
+LOCATION:Emirates Stadium
+URL:https://www.fotmob.com/match/5795596
+DESCRIPTION:⚽ أرسنال × إبسويتش تاون\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 19\n🗓 السبت 2 
+ يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Emirates Stadium\
+ n—————\n⚽ Arsenal v Ipswich Town\n🏆 Premier League — Matc
+ hday 19\n🗓 Sat 02 Jan 2027 · 15:00 UTC\n🏟 Emirates Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرسنال ضد إبسويتش تاون — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Arsenal vs Ipswic
+ h Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرسنا
+ ل × إبسويتش تاون | Kick-off in 30 min: Arsenal vs Ipswich Tow
+ n
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795610@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T200000Z
+DTEND:20270106T220000Z
+SUMMARY:Ipswich Town vs Coventry City — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795610
+DESCRIPTION:⚽ إبسويتش تاون × كوفنتري سيتي\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 20\n🗓 ا
+ لأربعاء 6 يناير 2027 · 23:00 بتوقيت الرياض\n🏟 
+ Portman Road\n—————\n⚽ Ipswich Town v Coventry City\n🏆 Prem
+ ier League — Matchday 20\n🗓 Wed 06 Jan 2027 · 20:00 UTC\n🏟 Portma
+ n Road\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد كوفنتري سي
+ تي — الدوري الإنجليزي الممتاز | Tomorrow: Ipswic
+ h Town vs Coventry City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × كوفنتري سيتي | Kick-off in 30 min: Ipswich Tow
+ n vs Coventry City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795615@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:AFC Bournemouth vs Ipswich Town — Premier League
+LOCATION:Vitality Stadium
+URL:https://www.fotmob.com/match/5795615
+DESCRIPTION:⚽ بورنموث × إبسويتش تاون\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 21\n🗓 السبت 
+ 16 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Vitality Stadi
+ um\n—————\n⚽ AFC Bournemouth v Ipswich Town\n🏆 Premier Leag
+ ue — Matchday 21\n🗓 Sat 16 Jan 2027 · 15:00 UTC\n🏟 Vitality Stadi
+ um\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورنموث ضد إبسويتش تاون — 
+ الدوري الإنجليزي الممتاز | Tomorrow: AFC Bournemouth
+  vs Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورنم
+ وث × إبسويتش تاون | Kick-off in 30 min: AFC Bournemouth vs I
+ pswich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795630@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:Ipswich Town vs Hull City — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795630
+DESCRIPTION:⚽ إبسويتش تاون × هال سيتي\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 22\n🗓 السبت 
+ 23 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Portman Road\n
+ —————\n⚽ Ipswich Town v Hull City\n🏆 Premier League — Mat
+ chday 22\n🗓 Sat 23 Jan 2027 · 15:00 UTC\n🏟 Portman Road\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد هال سيتي — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Ipswich Town vs
+  Hull City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × هال سيتي | Kick-off in 30 min: Ipswich Town vs Hul
+ l City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795636@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Aston Villa vs Ipswich Town — Premier League
+LOCATION:Villa Park
+URL:https://www.fotmob.com/match/5795636
+DESCRIPTION:⚽ أستون فيلا × إبسويتش تاون\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 23\n🗓 الس
+ بت 30 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Villa Par
+ k\n—————\n⚽ Aston Villa v Ipswich Town\n🏆 Premier League 
+ — Matchday 23\n🗓 Sat 30 Jan 2027 · 15:00 UTC\n🏟 Villa Park\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد إبسويتش تاون 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Aston Villa
+  vs Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × إبسويتش تاون | Kick-off in 30 min: Aston Villa vs I
+ pswich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795650@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Ipswich Town vs Tottenham Hotspur — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795650
+DESCRIPTION:⚽ إبسويتش تاون × توتنهام هوتسبر\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 24\n
+ 🗓 السبت 6 فبراير 2027 · 18:00 بتوقيت الرياض\n
+ 🏟 Portman Road\n—————\n⚽ Ipswich Town v Tottenham Hotspur\n
+ 🏆 Premier League — Matchday 24\n🗓 Sat 06 Feb 2027 · 15:00 UTC\n
+ 🏟 Portman Road\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد توتنهام هو
+ تسبر — الدوري الإنجليزي الممتاز | Tomorrow: Ip
+ swich Town vs Tottenham Hotspur
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × توتنهام هوتسبر | Kick-off in 30 min: Ipswich
+  Town vs Tottenham Hotspur
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795661@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270210T200000Z
+DTEND:20270210T220000Z
+SUMMARY:Ipswich Town vs Arsenal — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795661
+DESCRIPTION:⚽ إبسويتش تاون × أرسنال\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 25\n🗓 الأربعا
+ ء 10 فبراير 2027 · 23:00 بتوقيت الرياض\n🏟 Portman R
+ oad\n—————\n⚽ Ipswich Town v Arsenal\n🏆 Premier League — 
+ Matchday 25\n🗓 Wed 10 Feb 2027 · 20:00 UTC\n🏟 Portman Road\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد أرسنال — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Ipswich Town vs A
+ rsenal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × أرسنال | Kick-off in 30 min: Ipswich Town vs Arsena
+ l
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795669@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:Chelsea vs Ipswich Town — Premier League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/5795669
+DESCRIPTION:⚽ تشيلسي × إبسويتش تاون\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 26\n🗓 السبت 20 
+ فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Stamford Bridge
+ \n—————\n⚽ Chelsea v Ipswich Town\n🏆 Premier League — Mat
+ chday 26\n🗓 Sat 20 Feb 2027 · 15:00 UTC\n🏟 Stamford Bridge\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تشيلسي ضد إبسويتش تاون — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Chelsea vs Ipswic
+ h Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تشيلس
+ ي × إبسويتش تاون | Kick-off in 30 min: Chelsea vs Ipswich Tow
+ n
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795681@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T150000Z
+DTEND:20270227T170000Z
+SUMMARY:Ipswich Town vs Brighton & Hove Albion — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795681
+DESCRIPTION:⚽ إبسويتش تاون × برايتون\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 27\n🗓 السبت 
+ 27 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Portman Road
+ \n—————\n⚽ Ipswich Town v Brighton & Hove Albion\n🏆 Premier
+  League — Matchday 27\n🗓 Sat 27 Feb 2027 · 15:00 UTC\n🏟 Portman R
+ oad\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد برايتون — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Ipswich Town vs
+  Brighton & Hove Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × برايتون | Kick-off in 30 min: Ipswich Town vs Brig
+ hton & Hove Albion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795687@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270303T200000Z
+DTEND:20270303T220000Z
+SUMMARY:Brentford vs Ipswich Town — Premier League
+LOCATION:Gtech Community Stadium
+URL:https://www.fotmob.com/match/5795687
+DESCRIPTION:⚽ برينتفورد × إبسويتش تاون\n🏆 الد
+ وري الإنجليزي الممتاز — الجولة 28\n🗓 الأ
+ ربعاء 3 مارس 2027 · 23:00 بتوقيت الرياض\n🏟 Gtech 
+ Community Stadium\n—————\n⚽ Brentford v Ipswich Town\n🏆 Pre
+ mier League — Matchday 28\n🗓 Wed 03 Mar 2027 · 20:00 UTC\n🏟 Gtech
+  Community Stadium\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برينتفورد ضد إبسويتش تاون 
+ — الدوري الإنجليزي الممتاز | Tomorrow: Brentford v
+ s Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برينت
+ فورد × إبسويتش تاون | Kick-off in 30 min: Brentford vs Ips
+ wich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795701@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T150000Z
+DTEND:20270313T170000Z
+SUMMARY:Liverpool vs Ipswich Town — Premier League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/5795701
+DESCRIPTION:⚽ ليفربول × إبسويتش تاون\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 29\n🗓 السبت 
+ 13 مارس 2027 · 18:00 بتوقيت الرياض\n🏟 Anfield\n——
+ ———\n⚽ Liverpool v Ipswich Town\n🏆 Premier League — Matchday 
+ 29\n🗓 Sat 13 Mar 2027 · 15:00 UTC\n🏟 Anfield\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد إبسويتش تاون — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Liverpool vs Ip
+ swich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × إبسويتش تاون | Kick-off in 30 min: Liverpool vs Ipswich
+  Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795711@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T150000Z
+DTEND:20270320T170000Z
+SUMMARY:Ipswich Town vs Crystal Palace — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795711
+DESCRIPTION:⚽ إبسويتش تاون × كريستال بالاس\n🏆 
+ الدوري الإنجليزي الممتاز — الجولة 30\n🗓 
+ السبت 20 مارس 2027 · 18:00 بتوقيت الرياض\n🏟 Portm
+ an Road\n—————\n⚽ Ipswich Town v Crystal Palace\n🏆 Premier 
+ League — Matchday 30\n🗓 Sat 20 Mar 2027 · 15:00 UTC\n🏟 Portman Ro
+ ad\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد كريستال با
+ لاس — الدوري الإنجليزي الممتاز | Tomorrow: Ipsw
+ ich Town vs Crystal Palace
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × كريستال بالاس | Kick-off in 30 min: Ipswich T
+ own vs Crystal Palace
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795723@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T140000Z
+DTEND:20270410T160000Z
+SUMMARY:Sunderland vs Ipswich Town — Premier League
+LOCATION:Stadium of Light
+URL:https://www.fotmob.com/match/5795723
+DESCRIPTION:⚽ سندرلاند × إبسويتش تاون\n🏆 الدو
+ ري الإنجليزي الممتاز — الجولة 31\n🗓 السب
+ ت 10 أبريل 2027 · 17:00 بتوقيت الرياض\n🏟 Stadium of 
+ Light\n—————\n⚽ Sunderland v Ipswich Town\n🏆 Premier League
+  — Matchday 31\n🗓 Sat 10 Apr 2027 · 14:00 UTC\n🏟 Stadium of Light
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سندرلاند ضد إبسويتش تاون —
+  الدوري الإنجليزي الممتاز | Tomorrow: Sunderland vs 
+ Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سندرل
+ اند × إبسويتش تاون | Kick-off in 30 min: Sunderland vs Ipsw
+ ich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795731@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T140000Z
+DTEND:20270417T160000Z
+SUMMARY:Ipswich Town vs Manchester United — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795731
+DESCRIPTION:⚽ إبسويتش تاون × مانشستر يونايتد\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 32\n
+ 🗓 السبت 17 أبريل 2027 · 17:00 بتوقيت الرياض\n
+ 🏟 Portman Road\n—————\n⚽ Ipswich Town v Manchester United\n
+ 🏆 Premier League — Matchday 32\n🗓 Sat 17 Apr 2027 · 14:00 UTC\n
+ 🏟 Portman Road\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد مانشستر يو
+ نايتد — الدوري الإنجليزي الممتاز | Tomorrow: 
+ Ipswich Town vs Manchester United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × مانشستر يونايتد | Kick-off in 30 min: Ipswi
+ ch Town vs Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795742@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T140000Z
+DTEND:20270424T160000Z
+SUMMARY:Newcastle United vs Ipswich Town — Premier League
+LOCATION:St James' Park
+URL:https://www.fotmob.com/match/5795742
+DESCRIPTION:⚽ نيوكاسل يونايتد × إبسويتش تاون\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 33\n
+ 🗓 السبت 24 أبريل 2027 · 17:00 بتوقيت الرياض\n
+ 🏟 St James' Park\n—————\n⚽ Newcastle United v Ipswich Town\
+ n🏆 Premier League — Matchday 33\n🗓 Sat 24 Apr 2027 · 14:00 UTC\n
+ 🏟 St James' Park\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوكاسل يونايتد ضد إبسويتش
+  تاون — الدوري الإنجليزي الممتاز | Tomorrow: N
+ ewcastle United vs Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوكا
+ سل يونايتد × إبسويتش تاون | Kick-off in 30 min: Newca
+ stle United vs Ipswich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795751@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T140000Z
+DTEND:20270501T160000Z
+SUMMARY:Ipswich Town vs Leeds United — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795751
+DESCRIPTION:⚽ إبسويتش تاون × ليدز يونايتد\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 34\n🗓 ا
+ لسبت 1 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Portman 
+ Road\n—————\n⚽ Ipswich Town v Leeds United\n🏆 Premier Leagu
+ e — Matchday 34\n🗓 Sat 01 May 2027 · 14:00 UTC\n🏟 Portman Road\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد ليدز يوناي
+ تد — الدوري الإنجليزي الممتاز | Tomorrow: Ipswic
+ h Town vs Leeds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × ليدز يونايتد | Kick-off in 30 min: Ipswich Tow
+ n vs Leeds United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795772@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T140000Z
+DTEND:20270508T160000Z
+SUMMARY:Fulham vs Ipswich Town — Premier League
+LOCATION:Craven Cottage
+URL:https://www.fotmob.com/match/5795772
+DESCRIPTION:⚽ فولهام × إبسويتش تاون\n🏆 الدوري 
+ الإنجليزي الممتاز — الجولة 35\n🗓 السبت 8 
+ مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Craven Cottage\n—
+ ————\n⚽ Fulham v Ipswich Town\n🏆 Premier League — Matchday 
+ 35\n🗓 Sat 08 May 2027 · 14:00 UTC\n🏟 Craven Cottage\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فولهام ضد إبسويتش تاون — ا
+ لدوري الإنجليزي الممتاز | Tomorrow: Fulham vs Ipswich
+  Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فولها
+ م × إبسويتش تاون | Kick-off in 30 min: Fulham vs Ipswich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795784@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270515T140000Z
+DTEND:20270515T160000Z
+SUMMARY:Ipswich Town vs Manchester City — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795784
+DESCRIPTION:⚽ إبسويتش تاون × مانشستر سيتي\n🏆 ا
+ لدوري الإنجليزي الممتاز — الجولة 36\n🗓 ا
+ لسبت 15 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 Portman
+  Road\n—————\n⚽ Ipswich Town v Manchester City\n🏆 Premier L
+ eague — Matchday 36\n🗓 Sat 15 May 2027 · 14:00 UTC\n🏟 Portman Roa
+ d\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد مانشستر سي
+ تي — الدوري الإنجليزي الممتاز | Tomorrow: Ipswic
+ h Town vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × مانشستر سيتي | Kick-off in 30 min: Ipswich Tow
+ n vs Manchester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795796@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T140000Z
+DTEND:20270523T160000Z
+SUMMARY:Nottingham Forest vs Ipswich Town — Premier League
+LOCATION:City Ground\, Nottingham
+URL:https://www.fotmob.com/match/5795796
+DESCRIPTION:⚽ نوتنجهام فورست × إبسويتش تاون\n
+ 🏆 الدوري الإنجليزي الممتاز — الجولة 37\n
+ 🗓 الأحد 23 مايو 2027 · 17:00 بتوقيت الرياض\n🏟 
+ City Ground, Nottingham\n—————\n⚽ Nottingham Forest v Ipswich 
+ Town\n🏆 Premier League — Matchday 37\n🗓 Sun 23 May 2027 · 14:00 U
+ TC\n🏟 City Ground, Nottingham\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نوتنجهام فورست ضد إبسويتش 
+ تاون — الدوري الإنجليزي الممتاز | Tomorrow: No
+ ttingham Forest vs Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نوتنج
+ هام فورست × إبسويتش تاون | Kick-off in 30 min: Notting
+ ham Forest vs Ipswich Town
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5795804@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T150000Z
+DTEND:20270530T170000Z
+SUMMARY:Ipswich Town vs Everton — Premier League
+LOCATION:Portman Road
+URL:https://www.fotmob.com/match/5795804
+DESCRIPTION:⚽ إبسويتش تاون × إيفرتون\n🏆 الدور
+ ي الإنجليزي الممتاز — الجولة 38\n🗓 الأحد 
+ 30 مايو 2027 · 18:00 بتوقيت الرياض\n🏟 Portman Road\n
+ —————\n⚽ Ipswich Town v Everton\n🏆 Premier League — Match
+ day 38\n🗓 Sun 30 May 2027 · 15:00 UTC\n🏟 Portman Road\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد إيفرتون — 
+ الدوري الإنجليزي الممتاز | Tomorrow: Ipswich Town vs
+  Everton
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × إيفرتون | Kick-off in 30 min: Ipswich Town vs Ever
+ ton
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089898@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260110T150000Z
+DTEND:20260110T170000Z
+SUMMARY:Ipswich Town vs Blackpool (2 - 1) — FA Cup
+LOCATION:Portman Road\, Ipswich\, Suffolk\, England
+GEO:52.054950;1.145263
+URL:https://www.fotmob.com/match/5089898
+DESCRIPTION:⚽ إبسويتش تاون × Blackpool (2 - 1)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الثالث\n🗓 الس
+ بت 10 يناير 2026 · 18:00 بتوقيت الرياض\n🏟 Portman R
+ oad، Ipswich, Suffolk\n⚖️ الحكم: Thomas Parsons\n👥 الحضو
+ ر: 27,527\n—————\n⚽ Ipswich Town v Blackpool (2 - 1)\n🏆 FA
+  Cup — Round 3\n🗓 Sat 10 Jan 2026 · 15:00 UTC\n🏟 Portman Road, Ip
+ swich, Suffolk\nReferee: Thomas Parsons\nAttendance: 27,527\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد Blackpool — كأس
+  الاتحاد الإنجليزي | Tomorrow: Ipswich Town vs Blackpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × Blackpool | Kick-off in 30 min: Ipswich Town vs Blackpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135165@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260213T194500Z
+DTEND:20260213T214500Z
+SUMMARY:Wrexham vs Ipswich Town (1 - 0) — FA Cup
+LOCATION:STōK Cae Ras\, Wrexham (Wrecsam)\, Wales
+GEO:53.051941;-3.003819
+URL:https://www.fotmob.com/match/5135165
+DESCRIPTION:⚽ Wrexham × إبسويتش تاون (1 - 0)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الرابع\n🗓 الجم
+ عة 13 فبراير 2026 · 22:45 بتوقيت الرياض\n🏟 STōK C
+ ae Ras، Wrexham (Wrecsam)\n⚖️ الحكم: Ben Speedie\n👥 الحض
+ ور: 10,496\n—————\n⚽ Wrexham v Ipswich Town (1 - 0)\n🏆 FA
+  Cup — Round 4\n🗓 Fri 13 Feb 2026 · 19:45 UTC\n🏟 STōK Cae Ras, W
+ rexham (Wrecsam)\nReferee: Ben Speedie\nAttendance: 10,496\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Wrexham ضد إبسويتش تاون — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Wrexham vs Ipswich Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Wrexham × 
+ إبسويتش تاون | Kick-off in 30 min: Wrexham vs Ipswich Town
+END:VALARM
+END:VEVENT
+END:VCALENDAR

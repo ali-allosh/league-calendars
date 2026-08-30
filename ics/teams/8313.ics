@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Tranmere Rovers — FA Cup Fixtures | Tranmere Rovers — 
+ مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Tranmere Rovers — all matches in FA Cup\, exact UTC kickoffs
+ \, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:3
+ 1:10Z.  •  Tranmere Rovers — جميع المباريات في كأس 
+ الاتحاد الإنجليزي بتوقيت UTC الدقيق مع ال
+ ملاعب والقنوات الناقلة. المصدر: FotMob + 365scor
+ es · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010620@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Tranmere Rovers vs Stockport County (1 - 3) — FA Cup
+LOCATION:Prenton Park\, Birkenhead\, Merseyside\, England
+GEO:53.373748;-3.032548
+URL:https://www.fotmob.com/match/5010620
+DESCRIPTION:⚽ Tranmere Rovers × Stockport County (1 - 3)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الأول\n🗓 السبت
+  1 نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Prenton Park
+ ، Birkenhead, Merseyside\n⚖️ الحكم: Simon Mather\n————
+ —\n⚽ Tranmere Rovers v Stockport County (1 - 3)\n🏆 FA Cup — Round
+  1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Prenton Park, Birkenhead, Mers
+ eyside\nReferee: Simon Mather\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Tranmere Rovers ضد Stockport County — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Tranmere Rovers vs Stockport
+  County
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Tranmere Ro
+ vers × Stockport County | Kick-off in 30 min: Tranmere Rovers vs Stockpor
+ t County
+END:VALARM
+END:VEVENT
+END:VCALENDAR

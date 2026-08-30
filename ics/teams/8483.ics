@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Blackpool — FA Cup Fixtures | Blackpool — مباريا
+ ت كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Blackpool — all matches in FA Cup\, exact UTC kickoffs\, sta
+ diums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10Z.
+   •  Blackpool — جميع المباريات في كأس الاتحا
+ د الإنجليزي بتوقيت UTC الدقيق مع الملاعب و
+ القنوات الناقلة. المصدر: FotMob + 365scores · تحد
+ يث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010646@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Blackpool vs Scunthorpe United (1 - 0) — FA Cup
+LOCATION:Bloomfield Road\, Blackpool\, Lancashire\, England
+GEO:53.804902;-3.048213
+URL:https://www.fotmob.com/match/5010646
+DESCRIPTION:⚽ Blackpool × Scunthorpe United (1 - 0)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الأول\n🗓 السبت 1 
+ نوفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Bloomfield Road
+ ، Blackpool, Lancashire\n⚖️ الحكم: Elliot Bell\n👥 الحضو
+ ر: 4,503\n—————\n⚽ Blackpool v Scunthorpe United (1 - 0)\n
+ 🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Bloomfiel
+ d Road, Blackpool, Lancashire\nReferee: Elliot Bell\nAttendance: 4,503\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Blackpool ضد Scunthorpe United — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Blackpool vs Scunthorpe United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Blackpool 
+ × Scunthorpe United | Kick-off in 30 min: Blackpool vs Scunthorpe United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040323@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251207T173000Z
+DTEND:20251207T193000Z
+SUMMARY:Blackpool vs Carlisle United (4 - 1) — FA Cup
+LOCATION:Bloomfield Road\, Blackpool\, Lancashire\, England
+GEO:53.804902;-3.048213
+URL:https://www.fotmob.com/match/5040323
+DESCRIPTION:⚽ Blackpool × Carlisle United (4 - 1)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الثاني\n🗓 الأحد 7 
+ ديسمبر 2025 · 20:30 بتوقيت الرياض\n🏟 Bloomfield Road
+ ، Blackpool, Lancashire\n⚖️ الحكم: Tom Reeves\n👥 الحضور
+ : 5,958\n—————\n⚽ Blackpool v Carlisle United (4 - 1)\n🏆 FA
+  Cup — Round 2\n🗓 Sun 07 Dec 2025 · 17:30 UTC\n🏟 Bloomfield Road,
+  Blackpool, Lancashire\nReferee: Tom Reeves\nAttendance: 5,958\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Blackpool ضد Carlisle United — كأس الا
+ تحاد الإنجليزي | Tomorrow: Blackpool vs Carlisle United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Blackpool 
+ × Carlisle United | Kick-off in 30 min: Blackpool vs Carlisle United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5089898@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260110T150000Z
+DTEND:20260110T170000Z
+SUMMARY:Ipswich Town vs Blackpool (2 - 1) — FA Cup
+LOCATION:Portman Road\, Ipswich\, Suffolk\, England
+GEO:52.054950;1.145263
+URL:https://www.fotmob.com/match/5089898
+DESCRIPTION:⚽ إبسويتش تاون × Blackpool (2 - 1)\n🏆 كأس 
+ الاتحاد الإنجليزي — الدور الثالث\n🗓 الس
+ بت 10 يناير 2026 · 18:00 بتوقيت الرياض\n🏟 Portman R
+ oad، Ipswich, Suffolk\n⚖️ الحكم: Thomas Parsons\n👥 الحضو
+ ر: 27,527\n—————\n⚽ Ipswich Town v Blackpool (2 - 1)\n🏆 FA
+  Cup — Round 3\n🗓 Sat 10 Jan 2026 · 15:00 UTC\n🏟 Portman Road, Ip
+ swich, Suffolk\nReferee: Thomas Parsons\nAttendance: 27,527\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إبسويتش تاون ضد Blackpool — كأس
+  الاتحاد الإنجليزي | Tomorrow: Ipswich Town vs Blackpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إبسوي
+ تش تاون × Blackpool | Kick-off in 30 min: Ipswich Town vs Blackpool
+END:VALARM
+END:VEVENT
+END:VCALENDAR

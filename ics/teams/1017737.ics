@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Jeddah — King's Cup Fixtures | جدة — مباريات
+  كأس خادم الحرمين الشريفين
+X-WR-CALDESC:Jeddah — all matches in King's Cup\, exact UTC kickoffs\, st
+ adiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10Z
+ .  •  جدة — جميع المباريات في كأس خادم الح
+ رمين الشريفين بتوقيت UTC الدقيق مع الملاع
+ ب والقنوات الناقلة. المصدر: FotMob + 365scores · ت
+ حديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5853729@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260819T163000Z
+DTEND:20260819T183000Z
+SUMMARY:Jeddah vs Al Kholood (0 - 5) — King's Cup
+LOCATION:Jeddah Club Stadium\, Jeddah\, Saudi Arabia
+GEO:21.468575;39.194074
+URL:https://www.fotmob.com/match/5853729
+DESCRIPTION:⚽ جدة × الخلود (0 - 5)\n🏆 كأس خادم الح
+ رمين الشريفين — دور الـ32\n🗓 الأربعاء 19 أ
+ غسطس 2026 · 19:30 بتوقيت الرياض\n🏟 Jeddah Club Stadium
+ ، Jeddah\n⚖️ الحكم: Khalid Al Ahmari\n—————\n⚽ Jedda
+ h v Al Kholood (0 - 5)\n🏆 King's Cup — Round of 32\n🗓 Wed 19 Aug 2
+ 026 · 16:30 UTC\n🏟 Jeddah Club Stadium, Jeddah\nReferee: Khalid Al Ahm
+ ari\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جدة ضد الخلود — كأس خادم ال
+ حرمين الشريفين | Tomorrow: Jeddah vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جدة × 
+ الخلود | Kick-off in 30 min: Jeddah vs Al Kholood
+END:VALARM
+END:VEVENT
+END:VCALENDAR

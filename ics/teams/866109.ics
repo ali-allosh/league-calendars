@@ -1,0 +1,277 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Ararat Armenia — UEFA Europa League Fixtures | أرار
+ ات أرمينيا — مباريات الدوري الأوروبي
+X-WR-CALDESC:Ararat Armenia — all matches in UEFA Europa League\, exact U
+ TC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026
+ -09-05T19:31:10Z.  •  أرارات أرمينيا — جميع المب
+ اريات في الدوري الأوروبي بتوقيت UTC الدقي
+ ق مع الملاعب والقنوات الناقلة. المصدر: FotM
+ ob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6112383@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T164500Z
+DTEND:20260916T184500Z
+SUMMARY:Ararat Armenia vs Sparta Prague — UEFA Europa League
+LOCATION:Kotaik Stadium\, Abovian\, Armenia
+GEO:40.268491;44.635429
+URL:https://www.fotmob.com/match/6112383
+DESCRIPTION:⚽ أرارات أرمينيا × سبارتا براغ\n🏆 
+ الدوري الأوروبي — الجولة 1\n🗓 الأربعاء 16
+  سبتمبر 2026 · 19:45 بتوقيت الرياض\n🏟 Kotaik Stadium
+ ، Abovian\n—————\n⚽ Ararat Armenia v Sparta Prague\n🏆 UEFA
+  Europa League — Matchday 1\n🗓 Wed 16 Sep 2026 · 16:45 UTC\n🏟 Kot
+ aik Stadium, Abovian\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرارات أرمينيا ضد سبارتا ب
+ راغ — الدوري الأوروبي | Tomorrow: Ararat Armenia vs Spa
+ rta Prague
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرارا
+ ت أرمينيا × سبارتا براغ | Kick-off in 30 min: Ararat Ar
+ menia vs Sparta Prague
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112341@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:Jagiellonia Białystok vs Ararat Armenia — UEFA Europa League
+LOCATION:Chorten Arena\, Białystok\, Poland
+GEO:53.106006;23.149095
+URL:https://www.fotmob.com/match/6112341
+DESCRIPTION:⚽ ياغييلونيا بياويستوك × أرارات أ
+ رمينيا\n🏆 الدوري الأوروبي — الجولة 2\n🗓 
+ الخميس 15 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟
+  Chorten Arena، Białystok\n—————\n⚽ Jagiellonia Białystok v
+  Ararat Armenia\n🏆 UEFA Europa League — Matchday 2\n🗓 Thu 15 Oct 2
+ 026 · 19:00 UTC\n🏟 Chorten Arena, Białystok\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ياغييلونيا بياويستوك ضد أر
+ ارات أرمينيا — الدوري الأوروبي | Tomorrow: Jagi
+ ellonia Białystok vs Ararat Armenia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ياغيي
+ لونيا بياويستوك × أرارات أرمينيا | Kick-off in
+  30 min: Jagiellonia Białystok vs Ararat Armenia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112382@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261022T164500Z
+DTEND:20261022T184500Z
+SUMMARY:Ararat Armenia vs AZ Alkmaar — UEFA Europa League
+LOCATION:Kotaik Stadium\, Abovian\, Armenia
+GEO:40.268491;44.635429
+URL:https://www.fotmob.com/match/6112382
+DESCRIPTION:⚽ أرارات أرمينيا × ألكمار\n🏆 الدو
+ ري الأوروبي — الجولة 3\n🗓 الخميس 22 أكتوب
+ ر 2026 · 19:45 بتوقيت الرياض\n🏟 Kotaik Stadium، Abovian\
+ n—————\n⚽ Ararat Armenia v AZ Alkmaar\n🏆 UEFA Europa League
+  — Matchday 3\n🗓 Thu 22 Oct 2026 · 16:45 UTC\n🏟 Kotaik Stadium, A
+ bovian\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرارات أرمينيا ضد ألكمار —
+  الدوري الأوروبي | Tomorrow: Ararat Armenia vs AZ Alkmaar
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرارا
+ ت أرمينيا × ألكمار | Kick-off in 30 min: Ararat Armenia vs 
+ AZ Alkmaar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112361@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T200000Z
+DTEND:20261105T220000Z
+SUMMARY:Torreense vs Ararat Armenia — UEFA Europa League
+LOCATION:Campo Manuel Marques\, Torres Vedras\, Portugal
+GEO:39.094878;-9.256749
+URL:https://www.fotmob.com/match/6112361
+DESCRIPTION:⚽ توريينسي × أرارات أرمينيا\n🏆 ال
+ دوري الأوروبي — الجولة 4\n🗓 الخميس 5 نوفم
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Campo Manuel Marques، 
+ Torres Vedras\n—————\n⚽ Torreense v Ararat Armenia\n🏆 UEFA 
+ Europa League — Matchday 4\n🗓 Thu 05 Nov 2026 · 20:00 UTC\n🏟 Camp
+ o Manuel Marques, Torres Vedras\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توريينسي ضد أرارات أرمينيا
+  — الدوري الأوروبي | Tomorrow: Torreense vs Ararat Armenia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توريي
+ نسي × أرارات أرمينيا | Kick-off in 30 min: Torreense vs A
+ rarat Armenia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112297@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Salzburg vs Ararat Armenia — UEFA Europa League
+LOCATION:Red Bull Arena
+URL:https://www.fotmob.com/match/6112297
+DESCRIPTION:⚽ Salzburg × أرارات أرمينيا\n🏆 الدوري 
+ الأوروبي — الجولة 5\n🗓 الخميس 26 نوفمبر 202
+ 6 · 20:45 بتوقيت الرياض\n🏟 Red Bull Arena\n—————
+ \n⚽ Salzburg v Ararat Armenia\n🏆 UEFA Europa League — Matchday 5\n
+ 🗓 Thu 26 Nov 2026 · 17:45 UTC\n🏟 Red Bull Arena\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Salzburg ضد أرارات أرمينيا — ا
+ لدوري الأوروبي | Tomorrow: Salzburg vs Ararat Armenia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Salzburg ×
+  أرارات أرمينيا | Kick-off in 30 min: Salzburg vs Ararat Arme
+ nia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112385@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T174500Z
+DTEND:20261210T194500Z
+SUMMARY:Ararat Armenia vs NEC Nijmegen — UEFA Europa League
+LOCATION:Football Academy Stadium
+URL:https://www.fotmob.com/match/6112385
+DESCRIPTION:⚽ أرارات أرمينيا × نيميخين\n🏆 الد
+ وري الأوروبي — الجولة 6\n🗓 الخميس 10 ديسم
+ بر 2026 · 20:45 بتوقيت الرياض\n🏟 Football Academy Stadiu
+ m\n—————\n⚽ Ararat Armenia v NEC Nijmegen\n🏆 UEFA Europa Le
+ ague — Matchday 6\n🗓 Thu 10 Dec 2026 · 17:45 UTC\n🏟 Football Acad
+ emy Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرارات أرمينيا ضد نيميخين 
+ — الدوري الأوروبي | Tomorrow: Ararat Armenia vs NEC Nijmeg
+ en
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرارا
+ ت أرمينيا × نيميخين | Kick-off in 30 min: Ararat Armenia v
+ s NEC Nijmegen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112384@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270121T174500Z
+DTEND:20270121T194500Z
+SUMMARY:Ararat Armenia vs NK Celje — UEFA Europa League
+LOCATION:Football Academy Stadium
+URL:https://www.fotmob.com/match/6112384
+DESCRIPTION:⚽ أرارات أرمينيا × تسيليى\n🏆 الدو
+ ري الأوروبي — الجولة 7\n🗓 الخميس 21 يناير 
+ 2027 · 20:45 بتوقيت الرياض\n🏟 Football Academy Stadium\n
+ —————\n⚽ Ararat Armenia v NK Celje\n🏆 UEFA Europa League 
+ — Matchday 7\n🗓 Thu 21 Jan 2027 · 17:45 UTC\n🏟 Football Academy S
+ tadium\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرارات أرمينيا ضد تسيليى —
+  الدوري الأوروبي | Tomorrow: Ararat Armenia vs NK Celje
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرارا
+ ت أرمينيا × تسيليى | Kick-off in 30 min: Ararat Armenia vs 
+ NK Celje
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112257@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Milan vs Ararat Armenia — UEFA Europa League
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/6112257
+DESCRIPTION:⚽ ميلان × أرارات أرمينيا\n🏆 الدور
+ ي الأوروبي — الجولة 8\n🗓 الخميس 28 يناير 20
+ 27 · 23:00 بتوقيت الرياض\n🏟 San Siro\n—————\n⚽
+  Milan v Ararat Armenia\n🏆 UEFA Europa League — Matchday 8\n🗓 Thu 
+ 28 Jan 2027 · 20:00 UTC\n🏟 San Siro\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد أرارات أرمينيا — 
+ الدوري الأوروبي | Tomorrow: Milan vs Ararat Armenia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × أرارات أرمينيا | Kick-off in 30 min: Milan vs Ararat Armen
+ ia
+END:VALARM
+END:VEVENT
+END:VCALENDAR

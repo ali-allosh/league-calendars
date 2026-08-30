@@ -1,0 +1,1377 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Valencia — LaLiga & Copa del Rey Fixtures | فالنسي
+ ا — مباريات الدوري الإسباني وكأس ملك إسب
+ انيا
+X-WR-CALDESC:Valencia — all matches in LaLiga & Copa del Rey\, exact UTC 
+ kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09
+ -05T19:31:10Z.  •  فالنسيا — جميع المباريات في 
+ الدوري الإسباني وكأس ملك إسبانيا بتوقيت 
+ UTC الدقيق مع الملاعب والقنوات الناقلة. ال
+ مصدر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:1
+ 0Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5868030@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T173000Z
+DTEND:20260822T193000Z
+SUMMARY:Valencia vs Celta Vigo (0 - 0) — LaLiga
+LOCATION:Estadio de Mestalla\, Valencia\, Spain
+GEO:39.474602;-0.358257
+URL:https://www.fotmob.com/match/5868030
+DESCRIPTION:⚽ فالنسيا × سيلتا فيجو (0 - 0)\n🏆 الد
+ وري الإسباني — الجولة 2\n🗓 السبت 22 أغسطس 
+ 2026 · 20:30 بتوقيت الرياض\n🏟 Estadio de Mestalla، Valenc
+ ia\n⚖️ الحكم: Jesús Gil Manzano\n👥 الحضور: 43,684\n—
+ ————\n⚽ Valencia v Celta Vigo (0 - 0)\n🏆 LaLiga — Matchday 
+ 2\n🗓 Sat 22 Aug 2026 · 17:30 UTC\n🏟 Estadio de Mestalla, Valencia\n
+ Referee: Jesús Gil Manzano\nAttendance: 43,684\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد سيلتا فيجو — ال
+ دوري الإسباني | Tomorrow: Valencia vs Celta Vigo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × سيلتا فيجو | Kick-off in 30 min: Valencia vs Celta Vigo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868020@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260825T190000Z
+DTEND:20260825T210000Z
+SUMMARY:Valencia vs Real Betis (0 - 1) — LaLiga
+LOCATION:Estadio de Mestalla\, Valencia\, Spain
+GEO:39.474602;-0.358257
+URL:https://www.fotmob.com/match/5868020
+DESCRIPTION:⚽ فالنسيا × ريال بيتيس (0 - 1)\n🏆 الد
+ وري الإسباني — الجولة 1\n🗓 الثلاثاء 25 أغ
+ سطس 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio de Mestalla،
+  Valencia\n⚖️ الحكم: Jon Ander González Esteban\n👥 الحضو
+ ر: 45,472\n—————\n⚽ Valencia v Real Betis (0 - 1)\n🏆 LaLig
+ a — Matchday 1\n🗓 Tue 25 Aug 2026 · 19:00 UTC\n🏟 Estadio de Mesta
+ lla, Valencia\nReferee: Jon Ander González Esteban\nAttendance: 45,472\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد ريال بيتيس — ال
+ دوري الإسباني | Tomorrow: Valencia vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × ريال بيتيس | Kick-off in 30 min: Valencia vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868033@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T173000Z
+DTEND:20260830T193000Z
+SUMMARY:Deportivo A Coruña vs Valencia (3 - 1) — LaLiga
+LOCATION:Estadio Abanca-Riazor\, A Coruña (La Coruña)\, Spain
+GEO:43.368720;-8.417530
+URL:https://www.fotmob.com/match/5868033
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × فالنسيا (3 
+ - 1)\n🏆 الدوري الإسباني — الجولة 3\n🗓 الأح
+ د 30 أغسطس 2026 · 20:30 بتوقيت الرياض\n🏟 Estadio Aba
+ nca-Riazor، A Coruña (La Coruña)\n⚖️ الحكم: Miguel Ángel Orti
+ z Arias\n—————\n⚽ Deportivo A Coruña v Valencia (3 - 1)\n🏆
+  LaLiga — Matchday 3\n🗓 Sun 30 Aug 2026 · 17:30 UTC\n🏟 Estadio Ab
+ anca-Riazor, A Coruña (La Coruña)\nReferee: Miguel Ángel Ortiz Arias\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد فال
+ نسيا — الدوري الإسباني | Tomorrow: Deportivo A Coruña
+  vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × فالنسيا | Kick-off in 30 min: Deport
+ ivo A Coruña vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868049@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260906T141500Z
+DTEND:20260906T161500Z
+SUMMARY:Valencia vs Barcelona — LaLiga
+LOCATION:Estadio de Mestalla\, Valencia\, Spain
+GEO:39.474602;-0.358257
+URL:https://www.fotmob.com/match/5868049
+DESCRIPTION:⚽ فالنسيا × برشلونة\n🏆 الدوري الإ
+ سباني — الجولة 4\n🗓 الأحد 6 سبتمبر 2026 · 17:1
+ 5 بتوقيت الرياض\n🏟 Estadio de Mestalla، Valencia\n📺 Bei
+ n Sports HD2\n—————\n⚽ Valencia v Barcelona\n🏆 LaLiga — M
+ atchday 4\n🗓 Sun 06 Sep 2026 · 14:15 UTC\n🏟 Estadio de Mestalla, Va
+ lencia\n📺 beIN Sport 2 HD\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد برشلونة — الدور
+ ي الإسباني — 📺 Bein Sports HD2 | Tomorrow: Valencia vs Barce
+ lona | TV: beIN Sport 2 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × برشلونة — 📺 Bein Sports HD2 | Kick-off in 30 min: Vale
+ ncia vs Barcelona | TV: beIN Sport 2 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868059@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260911T190000Z
+DTEND:20260911T210000Z
+SUMMARY:Sevilla vs Valencia — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868059
+DESCRIPTION:⚽ إشبيلية × فالنسيا\n🏆 الدوري الإ
+ سباني — الجولة 5\n🗓 الجمعة 11 سبتمبر 2026 · 2
+ 2:00 بتوقيت الرياض\n🏟 Estadio R. Sanchez Pizjuan\n📺 Prem
+ ier Sports 2 UK، LaLigaTV، Premier Sports Player، Premier Sports 2 ROI
+ ، beIN SPORTS CONNECT، beIN Sports Connect Singapore، FanCode، Now Pla
+ yer\n—————\n⚽ Sevilla v Valencia\n🏆 LaLiga — Matchday 5\n
+ 🗓 Fri 11 Sep 2026 · 19:00 UTC\n🏟 Estadio R. Sanchez Pizjuan\n📺 P
+ remier Sports 2 UK, LaLigaTV, Premier Sports Player, Premier Sports 2 ROI,
+  beIN SPORTS CONNECT, beIN Sports Connect Singapore, FanCode, Now Player\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد فالنسيا — الدور
+ ي الإسباني — 📺 Premier Sports 2 UK، LaLigaTV، Premier Spor
+ ts Player، Premier Sports 2 ROI، beIN SPORTS CONNECT، beIN Sports Conne
+ ct Singapore، FanCode، Now Player | Tomorrow: Sevilla vs Valencia | TV: 
+ Premier Sports 2 UK\, LaLigaTV\, Premier Sports Player\, Premier Sports 2 
+ ROI\, beIN SPORTS CONNECT\, beIN Sports Connect Singapore\, FanCode\, Now 
+ Player
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × فالنسيا — 📺 Premier Sports 2 UK، LaLigaTV، Premier S
+ ports Player، Premier Sports 2 ROI، beIN SPORTS CONNECT، beIN Sports Co
+ nnect Singapore، FanCode، Now Player | Kick-off in 30 min: Sevilla vs Va
+ lencia | TV: Premier Sports 2 UK\, LaLigaTV\, Premier Sports Player\, Prem
+ ier Sports 2 ROI\, beIN SPORTS CONNECT\, beIN Sports Connect Singapore\, F
+ anCode\, Now Player
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868061@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260915T180000Z
+DTEND:20260915T200000Z
+SUMMARY:Deportivo Alavés vs Valencia — LaLiga
+LOCATION:Estadio Mendizorroza
+URL:https://www.fotmob.com/match/5868061
+DESCRIPTION:⚽ ديبورتيفو ألافيس × فالنسيا\n🏆 ا
+ لدوري الإسباني — الجولة 6\n🗓 الثلاثاء 15 
+ سبتمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Estadio Mendizo
+ rroza\n—————\n⚽ Deportivo Alavés v Valencia\n🏆 LaLiga — 
+ Matchday 6\n🗓 Tue 15 Sep 2026 · 18:00 UTC\n🏟 Estadio Mendizorroza\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد فالنسي
+ ا — الدوري الإسباني | Tomorrow: Deportivo Alavés vs Vale
+ ncia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × فالنسيا | Kick-off in 30 min: Deportivo Al
+ avés vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868079@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T190000Z
+DTEND:20260920T210000Z
+SUMMARY:Valencia vs Real Sociedad — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868079
+DESCRIPTION:⚽ فالنسيا × ريال سوسيداد\n🏆 الدور
+ ي الإسباني — الجولة 7\n🗓 الأحد 20 سبتمبر 20
+ 26 · 22:00 بتوقيت الرياض\n🏟 Estadio Mestalla\n————
+ —\n⚽ Valencia v Real Sociedad\n🏆 LaLiga — Matchday 7\n🗓 Sun 20
+  Sep 2026 · 19:00 UTC\n🏟 Estadio Mestalla\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد ريال سوسيداد — 
+ الدوري الإسباني | Tomorrow: Valencia vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × ريال سوسيداد | Kick-off in 30 min: Valencia vs Real Soc
+ iedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868087@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Racing Santander vs Valencia — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868087
+DESCRIPTION:⚽ راسينج سانتاندير × فالنسيا\n🏆 ا
+ لدوري الإسباني — الجولة 8\n🗓 الأحد 11 أكت
+ وبر 2026 · 16:00 بتوقيت الرياض\n🏟 Estadio El Sardinero\
+ n—————\n⚽ Racing Santander v Valencia\n🏆 LaLiga — Matchda
+ y 8\n🗓 Sun 11 Oct 2026 · 13:00 UTC\n🏟 Estadio El Sardinero\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد فالنسي
+ ا — الدوري الإسباني | Tomorrow: Racing Santander vs Valen
+ cia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × فالنسيا | Kick-off in 30 min: Racing Santa
+ nder vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868099@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Valencia vs Athletic Club — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868099
+DESCRIPTION:⚽ فالنسيا × أتلتيك بلباو\n🏆 الدور
+ ي الإسباني — الجولة 9\n🗓 الأحد 18 أكتوبر 20
+ 26 · 16:00 بتوقيت الرياض\n🏟 Estadio Mestalla\n————
+ —\n⚽ Valencia v Athletic Club\n🏆 LaLiga — Matchday 9\n🗓 Sun 18
+  Oct 2026 · 13:00 UTC\n🏟 Estadio Mestalla\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد أتلتيك بلباو — 
+ الدوري الإسباني | Tomorrow: Valencia vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × أتلتيك بلباو | Kick-off in 30 min: Valencia vs Athletic
+  Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868110@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Valencia vs Villarreal — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868110
+DESCRIPTION:⚽ فالنسيا × فياريال\n🏆 الدوري الإ
+ سباني — الجولة 10\n🗓 الأحد 25 أكتوبر 2026 · 17
+ :00 بتوقيت الرياض\n🏟 Estadio Mestalla\n—————\n⚽
+  Valencia v Villarreal\n🏆 LaLiga — Matchday 10\n🗓 Sun 25 Oct 2026 
+ · 14:00 UTC\n🏟 Estadio Mestalla\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد فياريال — الدور
+ ي الإسباني | Tomorrow: Valencia vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × فياريال | Kick-off in 30 min: Valencia vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868114@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Elche vs Valencia — LaLiga
+LOCATION:Estadio Martinez Valero
+URL:https://www.fotmob.com/match/5868114
+DESCRIPTION:⚽ إلتشي × فالنسيا\n🏆 الدوري الإسب
+ اني — الجولة 11\n🗓 الأحد 1 نوفمبر 2026 · 17:00 
+ بتوقيت الرياض\n🏟 Estadio Martinez Valero\n—————\n
+ ⚽ Elche v Valencia\n🏆 LaLiga — Matchday 11\n🗓 Sun 01 Nov 2026 ·
+  14:00 UTC\n🏟 Estadio Martinez Valero\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلتشي ضد فالنسيا — الدوري 
+ الإسباني | Tomorrow: Elche vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلتشي 
+ × فالنسيا | Kick-off in 30 min: Elche vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868129@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Valencia vs Real Madrid — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868129
+DESCRIPTION:⚽ فالنسيا × ريال مدريد\n🏆 الدوري ا
+ لإسباني — الجولة 12\n🗓 الأحد 8 نوفمبر 2026 ·
+  17:00 بتوقيت الرياض\n🏟 Estadio Mestalla\n—————\n
+ ⚽ Valencia v Real Madrid\n🏆 LaLiga — Matchday 12\n🗓 Sun 08 Nov 2
+ 026 · 14:00 UTC\n🏟 Estadio Mestalla\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد ريال مدريد — ال
+ دوري الإسباني | Tomorrow: Valencia vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × ريال مدريد | Kick-off in 30 min: Valencia vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868138@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Rayo Vallecano vs Valencia — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868138
+DESCRIPTION:⚽ رايو فاييكانو × فالنسيا\n🏆 الدو
+ ري الإسباني — الجولة 13\n🗓 الأحد 22 نوفمبر
+  2026 · 17:00 بتوقيت الرياض\n🏟 Campo de Futbol de Vallecas
+ \n—————\n⚽ Rayo Vallecano v Valencia\n🏆 LaLiga — Matchday
+  13\n🗓 Sun 22 Nov 2026 · 14:00 UTC\n🏟 Campo de Futbol de Vallecas\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد فالنسيا —
+  الدوري الإسباني | Tomorrow: Rayo Vallecano vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × فالنسيا | Kick-off in 30 min: Rayo Vallecano vs V
+ alencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868150@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T140000Z
+DTEND:20261129T160000Z
+SUMMARY:Valencia vs Osasuna — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868150
+DESCRIPTION:⚽ فالنسيا × أوساسونا\n🏆 الدوري ال
+ إسباني — الجولة 14\n🗓 الأحد 29 نوفمبر 2026 · 
+ 17:00 بتوقيت الرياض\n🏟 Estadio Mestalla\n—————\n
+ ⚽ Valencia v Osasuna\n🏆 LaLiga — Matchday 14\n🗓 Sun 29 Nov 2026 
+ · 14:00 UTC\n🏟 Estadio Mestalla\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد أوساسونا — الدو
+ ري الإسباني | Tomorrow: Valencia vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × أوساسونا | Kick-off in 30 min: Valencia vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868155@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T140000Z
+DTEND:20261206T160000Z
+SUMMARY:Getafe vs Valencia — LaLiga
+LOCATION:Coliseum
+URL:https://www.fotmob.com/match/5868155
+DESCRIPTION:⚽ خيتافي × فالنسيا\n🏆 الدوري الإس
+ باني — الجولة 15\n🗓 الأحد 6 ديسمبر 2026 · 17:00
+  بتوقيت الرياض\n🏟 Coliseum\n—————\n⚽ Getafe v V
+ alencia\n🏆 LaLiga — Matchday 15\n🗓 Sun 06 Dec 2026 · 14:00 UTC\n
+ 🏟 Coliseum\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: خيتافي ضد فالنسيا — الدوري
+  الإسباني | Tomorrow: Getafe vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: خيتاف
+ ي × فالنسيا | Kick-off in 30 min: Getafe vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868161@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T140000Z
+DTEND:20261213T160000Z
+SUMMARY:Atlético Madrid vs Valencia — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868161
+DESCRIPTION:⚽ أتلتيكو مدريد × فالنسيا\n🏆 الدو
+ ري الإسباني — الجولة 16\n🗓 الأحد 13 ديسمبر
+  2026 · 17:00 بتوقيت الرياض\n🏟 Riyadh Air Metropolitano\n
+ —————\n⚽ Atlético Madrid v Valencia\n🏆 LaLiga — Matchday
+  16\n🗓 Sun 13 Dec 2026 · 14:00 UTC\n🏟 Riyadh Air Metropolitano\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد فالنسيا —
+  الدوري الإسباني | Tomorrow: Atlético Madrid vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × فالنسيا | Kick-off in 30 min: Atlético Madrid v
+ s Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868180@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T140000Z
+DTEND:20261220T160000Z
+SUMMARY:Valencia vs Espanyol — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868180
+DESCRIPTION:⚽ فالنسيا × إسبانيول\n🏆 الدوري ال
+ إسباني — الجولة 17\n🗓 الأحد 20 ديسمبر 2026 · 
+ 17:00 بتوقيت الرياض\n🏟 Estadio Mestalla\n—————\n
+ ⚽ Valencia v Espanyol\n🏆 LaLiga — Matchday 17\n🗓 Sun 20 Dec 2026
+  · 14:00 UTC\n🏟 Estadio Mestalla\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد إسبانيول — الدو
+ ري الإسباني | Tomorrow: Valencia vs Espanyol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × إسبانيول | Kick-off in 30 min: Valencia vs Espanyol
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868184@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T140000Z
+DTEND:20270103T160000Z
+SUMMARY:Levante vs Valencia — LaLiga
+LOCATION:Estadio Ciudad de Valencia
+URL:https://www.fotmob.com/match/5868184
+DESCRIPTION:⚽ ليفانتي × فالنسيا\n🏆 الدوري الإ
+ سباني — الجولة 18\n🗓 الأحد 3 يناير 2027 · 17:00
+  بتوقيت الرياض\n🏟 Estadio Ciudad de Valencia\n————
+ —\n⚽ Levante v Valencia\n🏆 LaLiga — Matchday 18\n🗓 Sun 03 Jan 
+ 2027 · 14:00 UTC\n🏟 Estadio Ciudad de Valencia\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفانتي ضد فالنسيا — الدور
+ ي الإسباني | Tomorrow: Levante vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفان
+ تي × فالنسيا | Kick-off in 30 min: Levante vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868200@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T140000Z
+DTEND:20270110T160000Z
+SUMMARY:Valencia vs Málaga — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868200
+DESCRIPTION:⚽ فالنسيا × مالقا\n🏆 الدوري الإسب
+ اني — الجولة 19\n🗓 الأحد 10 يناير 2027 · 17:00 ب
+ توقيت الرياض\n🏟 Estadio Mestalla\n—————\n⚽ Valen
+ cia v Málaga\n🏆 LaLiga — Matchday 19\n🗓 Sun 10 Jan 2027 · 14:00 
+ UTC\n🏟 Estadio Mestalla\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد مالقا — الدوري 
+ الإسباني | Tomorrow: Valencia vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × مالقا | Kick-off in 30 min: Valencia vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868203@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T140000Z
+DTEND:20270117T160000Z
+SUMMARY:Celta Vigo vs Valencia — LaLiga
+LOCATION:Abanca Balaidos
+URL:https://www.fotmob.com/match/5868203
+DESCRIPTION:⚽ سيلتا فيجو × فالنسيا\n🏆 الدوري ا
+ لإسباني — الجولة 20\n🗓 الأحد 17 يناير 2027 · 
+ 17:00 بتوقيت الرياض\n🏟 Abanca Balaidos\n—————\n
+ ⚽ Celta Vigo v Valencia\n🏆 LaLiga — Matchday 20\n🗓 Sun 17 Jan 20
+ 27 · 14:00 UTC\n🏟 Abanca Balaidos\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتا فيجو ضد فالنسيا — ال
+ دوري الإسباني | Tomorrow: Celta Vigo vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتا 
+ فيجو × فالنسيا | Kick-off in 30 min: Celta Vigo vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868220@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T140000Z
+DTEND:20270124T160000Z
+SUMMARY:Valencia vs Sevilla — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868220
+DESCRIPTION:⚽ فالنسيا × إشبيلية\n🏆 الدوري الإ
+ سباني — الجولة 21\n🗓 الأحد 24 يناير 2027 · 17:0
+ 0 بتوقيت الرياض\n🏟 Estadio Mestalla\n—————\n⚽ V
+ alencia v Sevilla\n🏆 LaLiga — Matchday 21\n🗓 Sun 24 Jan 2027 · 14
+ :00 UTC\n🏟 Estadio Mestalla\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد إشبيلية — الدور
+ ي الإسباني | Tomorrow: Valencia vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × إشبيلية | Kick-off in 30 min: Valencia vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868224@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Barcelona vs Valencia — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868224
+DESCRIPTION:⚽ برشلونة × فالنسيا\n🏆 الدوري الإ
+ سباني — الجولة 22\n🗓 الأحد 31 يناير 2027 · 17:0
+ 0 بتوقيت الرياض\n🏟 Spotify Camp Nou\n—————\n⚽ B
+ arcelona v Valencia\n🏆 LaLiga — Matchday 22\n🗓 Sun 31 Jan 2027 · 
+ 14:00 UTC\n🏟 Spotify Camp Nou\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد فالنسيا — الدور
+ ي الإسباني | Tomorrow: Barcelona vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × فالنسيا | Kick-off in 30 min: Barcelona vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868240@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:Valencia vs Racing Santander — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868240
+DESCRIPTION:⚽ فالنسيا × راسينج سانتاندير\n🏆 ا
+ لدوري الإسباني — الجولة 23\n🗓 الأحد 7 فبر
+ اير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio Mestalla\n—
+ ————\n⚽ Valencia v Racing Santander\n🏆 LaLiga — Matchday 23
+ \n🗓 Sun 07 Feb 2027 · 14:00 UTC\n🏟 Estadio Mestalla\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد راسينج سانتاندي
+ ر — الدوري الإسباني | Tomorrow: Valencia vs Racing Santan
+ der
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × راسينج سانتاندير | Kick-off in 30 min: Valencia vs 
+ Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868249@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T140000Z
+DTEND:20270214T160000Z
+SUMMARY:Valencia vs Deportivo Alavés — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868249
+DESCRIPTION:⚽ فالنسيا × ديبورتيفو ألافيس\n🏆 ا
+ لدوري الإسباني — الجولة 24\n🗓 الأحد 14 فبر
+ اير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio Mestalla\n—
+ ————\n⚽ Valencia v Deportivo Alavés\n🏆 LaLiga — Matchday 2
+ 4\n🗓 Sun 14 Feb 2027 · 14:00 UTC\n🏟 Estadio Mestalla\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد ديبورتيفو ألافي
+ س — الدوري الإسباني | Tomorrow: Valencia vs Deportivo Ala
+ vés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × ديبورتيفو ألافيس | Kick-off in 30 min: Valencia vs 
+ Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868260@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T140000Z
+DTEND:20270221T160000Z
+SUMMARY:Villarreal vs Valencia — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868260
+DESCRIPTION:⚽ فياريال × فالنسيا\n🏆 الدوري الإ
+ سباني — الجولة 25\n🗓 الأحد 21 فبراير 2027 · 17
+ :00 بتوقيت الرياض\n🏟 Estadio de la Ceramica\n————
+ —\n⚽ Villarreal v Valencia\n🏆 LaLiga — Matchday 25\n🗓 Sun 21 F
+ eb 2027 · 14:00 UTC\n🏟 Estadio de la Ceramica\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد فالنسيا — الدور
+ ي الإسباني | Tomorrow: Villarreal vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × فالنسيا | Kick-off in 30 min: Villarreal vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868269@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T140000Z
+DTEND:20270228T160000Z
+SUMMARY:Real Madrid vs Valencia — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868269
+DESCRIPTION:⚽ ريال مدريد × فالنسيا\n🏆 الدوري ا
+ لإسباني — الجولة 26\n🗓 الأحد 28 فبراير 2027 
+ · 17:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n—————
+ \n⚽ Real Madrid v Valencia\n🏆 LaLiga — Matchday 26\n🗓 Sun 28 Feb
+  2027 · 14:00 UTC\n🏟 Estadio Bernabeu\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد فالنسيا — ال
+ دوري الإسباني | Tomorrow: Real Madrid vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × فالنسيا | Kick-off in 30 min: Real Madrid vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868279@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T140000Z
+DTEND:20270307T160000Z
+SUMMARY:Valencia vs Levante — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868279
+DESCRIPTION:⚽ فالنسيا × ليفانتي\n🏆 الدوري الإ
+ سباني — الجولة 27\n🗓 الأحد 7 مارس 2027 · 17:00 
+ بتوقيت الرياض\n🏟 Estadio Mestalla\n—————\n⚽ Val
+ encia v Levante\n🏆 LaLiga — Matchday 27\n🗓 Sun 07 Mar 2027 · 14:0
+ 0 UTC\n🏟 Estadio Mestalla\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد ليفانتي — الدور
+ ي الإسباني | Tomorrow: Valencia vs Levante
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × ليفانتي | Kick-off in 30 min: Valencia vs Levante
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868282@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T140000Z
+DTEND:20270314T160000Z
+SUMMARY:Athletic Club vs Valencia — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868282
+DESCRIPTION:⚽ أتلتيك بلباو × فالنسيا\n🏆 الدور
+ ي الإسباني — الجولة 28\n🗓 الأحد 14 مارس 2027 
+ · 17:00 بتوقيت الرياض\n🏟 San Mames\n—————\n⚽ A
+ thletic Club v Valencia\n🏆 LaLiga — Matchday 28\n🗓 Sun 14 Mar 2027
+  · 14:00 UTC\n🏟 San Mames\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد فالنسيا — 
+ الدوري الإسباني | Tomorrow: Athletic Club vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × فالنسيا | Kick-off in 30 min: Athletic Club vs Val
+ encia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868299@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T140000Z
+DTEND:20270321T160000Z
+SUMMARY:Valencia vs Deportivo A Coruña — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868299
+DESCRIPTION:⚽ فالنسيا × ديبورتيفو لاكورونيا\n
+ 🏆 الدوري الإسباني — الجولة 29\n🗓 الأحد 21
+  مارس 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio Mestalla\n
+ —————\n⚽ Valencia v Deportivo A Coruña\n🏆 LaLiga — Match
+ day 29\n🗓 Sun 21 Mar 2027 · 14:00 UTC\n🏟 Estadio Mestalla\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد ديبورتيفو لاكور
+ ونيا — الدوري الإسباني | Tomorrow: Valencia vs Deporti
+ vo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × ديبورتيفو لاكورونيا | Kick-off in 30 min: Valenc
+ ia vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868310@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T130000Z
+DTEND:20270404T150000Z
+SUMMARY:Real Sociedad vs Valencia — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868310
+DESCRIPTION:⚽ ريال سوسيداد × فالنسيا\n🏆 الدور
+ ي الإسباني — الجولة 30\n🗓 الأحد 4 أبريل 2027
+  · 16:00 بتوقيت الرياض\n🏟 Reale Arena\n—————\n
+ ⚽ Real Sociedad v Valencia\n🏆 LaLiga — Matchday 30\n🗓 Sun 04 Apr
+  2027 · 13:00 UTC\n🏟 Reale Arena\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد فالنسيا — 
+ الدوري الإسباني | Tomorrow: Real Sociedad vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × فالنسيا | Kick-off in 30 min: Real Sociedad vs Vale
+ ncia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868319@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T130000Z
+DTEND:20270411T150000Z
+SUMMARY:Valencia vs Getafe — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868319
+DESCRIPTION:⚽ فالنسيا × خيتافي\n🏆 الدوري الإس
+ باني — الجولة 31\n🗓 الأحد 11 أبريل 2027 · 16:00 
+ بتوقيت الرياض\n🏟 Estadio Mestalla\n—————\n⚽ Val
+ encia v Getafe\n🏆 LaLiga — Matchday 31\n🗓 Sun 11 Apr 2027 · 13:00
+  UTC\n🏟 Estadio Mestalla\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد خيتافي — الدوري
+  الإسباني | Tomorrow: Valencia vs Getafe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × خيتافي | Kick-off in 30 min: Valencia vs Getafe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868329@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T130000Z
+DTEND:20270418T150000Z
+SUMMARY:Málaga vs Valencia — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868329
+DESCRIPTION:⚽ مالقا × فالنسيا\n🏆 الدوري الإسب
+ اني — الجولة 32\n🗓 الأحد 18 أبريل 2027 · 16:00 ب
+ توقيت الرياض\n🏟 Estadio La Rosaleda\n—————\n⚽ M
+ álaga v Valencia\n🏆 LaLiga — Matchday 32\n🗓 Sun 18 Apr 2027 · 13
+ :00 UTC\n🏟 Estadio La Rosaleda\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد فالنسيا — الدوري 
+ الإسباني | Tomorrow: Málaga vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × فالنسيا | Kick-off in 30 min: Málaga vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868339@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270421T130000Z
+DTEND:20270421T150000Z
+SUMMARY:Valencia vs Rayo Vallecano — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868339
+DESCRIPTION:⚽ فالنسيا × رايو فاييكانو\n🏆 الدو
+ ري الإسباني — الجولة 33\n🗓 الأربعاء 21 أبر
+ يل 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio Mestalla\n—
+ ————\n⚽ Valencia v Rayo Vallecano\n🏆 LaLiga — Matchday 33\n
+ 🗓 Wed 21 Apr 2027 · 13:00 UTC\n🏟 Estadio Mestalla\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد رايو فاييكانو —
+  الدوري الإسباني | Tomorrow: Valencia vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × رايو فاييكانو | Kick-off in 30 min: Valencia vs Rayo V
+ allecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868342@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T130000Z
+DTEND:20270502T150000Z
+SUMMARY:Real Betis vs Valencia — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868342
+DESCRIPTION:⚽ ريال بيتيس × فالنسيا\n🏆 الدوري ا
+ لإسباني — الجولة 34\n🗓 الأحد 2 مايو 2027 · 16:
+ 00 بتوقيت الرياض\n🏟 Estadio de La Cartuja\n—————\
+ n⚽ Real Betis v Valencia\n🏆 LaLiga — Matchday 34\n🗓 Sun 02 May 2
+ 027 · 13:00 UTC\n🏟 Estadio de La Cartuja\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد فالنسيا — ال
+ دوري الإسباني | Tomorrow: Real Betis vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × فالنسيا | Kick-off in 30 min: Real Betis vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868359@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T130000Z
+DTEND:20270509T150000Z
+SUMMARY:Valencia vs Atlético Madrid — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868359
+DESCRIPTION:⚽ فالنسيا × أتلتيكو مدريد\n🏆 الدو
+ ري الإسباني — الجولة 35\n🗓 الأحد 9 مايو 2027
+  · 16:00 بتوقيت الرياض\n🏟 Estadio Mestalla\n————
+ —\n⚽ Valencia v Atlético Madrid\n🏆 LaLiga — Matchday 35\n🗓 Su
+ n 09 May 2027 · 13:00 UTC\n🏟 Estadio Mestalla\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد أتلتيكو مدريد —
+  الدوري الإسباني | Tomorrow: Valencia vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × أتلتيكو مدريد | Kick-off in 30 min: Valencia vs Atlét
+ ico Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868364@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T130000Z
+DTEND:20270516T150000Z
+SUMMARY:Espanyol vs Valencia — LaLiga
+LOCATION:RCDE Stadium
+URL:https://www.fotmob.com/match/5868364
+DESCRIPTION:⚽ إسبانيول × فالنسيا\n🏆 الدوري ال
+ إسباني — الجولة 36\n🗓 الأحد 16 مايو 2027 · 16:0
+ 0 بتوقيت الرياض\n🏟 RCDE Stadium\n—————\n⚽ Espan
+ yol v Valencia\n🏆 LaLiga — Matchday 36\n🗓 Sun 16 May 2027 · 13:00
+  UTC\n🏟 RCDE Stadium\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إسبانيول ضد فالنسيا — الدو
+ ري الإسباني | Tomorrow: Espanyol vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إسبان
+ يول × فالنسيا | Kick-off in 30 min: Espanyol vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868379@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T130000Z
+DTEND:20270523T150000Z
+SUMMARY:Valencia vs Elche — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868379
+DESCRIPTION:⚽ فالنسيا × إلتشي\n🏆 الدوري الإسب
+ اني — الجولة 37\n🗓 الأحد 23 مايو 2027 · 16:00 بت
+ وقيت الرياض\n🏟 Estadio Mestalla\n—————\n⚽ Valenci
+ a v Elche\n🏆 LaLiga — Matchday 37\n🗓 Sun 23 May 2027 · 13:00 UTC\
+ n🏟 Estadio Mestalla\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد إلتشي — الدوري 
+ الإسباني | Tomorrow: Valencia vs Elche
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × إلتشي | Kick-off in 30 min: Valencia vs Elche
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868388@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T130000Z
+DTEND:20270530T150000Z
+SUMMARY:Osasuna vs Valencia — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868388
+DESCRIPTION:⚽ أوساسونا × فالنسيا\n🏆 الدوري ال
+ إسباني — الجولة 38\n🗓 الأحد 30 مايو 2027 · 16:0
+ 0 بتوقيت الرياض\n🏟 Estadio El Sadar\n—————\n⚽ O
+ sasuna v Valencia\n🏆 LaLiga — Matchday 38\n🗓 Sun 30 May 2027 · 13
+ :00 UTC\n🏟 Estadio El Sadar\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد فالنسيا — الدو
+ ري الإسباني | Tomorrow: Osasuna vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × فالنسيا | Kick-off in 30 min: Osasuna vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-4996019@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251028T190000Z
+DTEND:20251028T210000Z
+SUMMARY:UD Maracena vs Valencia (0 - 5) — Copa del Rey
+LOCATION:Estadio Nuevo Los Cármenes\, Granada\, Spain
+GEO:37.152946;-3.595737
+URL:https://www.fotmob.com/match/4996019
+DESCRIPTION:⚽ UD Maracena × فالنسيا (0 - 5)\n🏆 كأس ملك 
+ إسبانيا — الدور الأول\n🗓 الثلاثاء 28 أكت
+ وبر 2025 · 22:00 بتوقيت الرياض\n🏟 Estadio Nuevo Los Cá
+ rmenes، Granada\n⚖️ الحكم: Francisco José Hernández Maeso\n
+ 👥 الحضور: 8,558\n—————\n⚽ UD Maracena v Valencia (0 -
+  5)\n🏆 Copa del Rey — Round 1\n🗓 Tue 28 Oct 2025 · 19:00 UTC\n
+ 🏟 Estadio Nuevo Los Cármenes, Granada\nReferee: Francisco José Herná
+ ndez Maeso\nAttendance: 8,558\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: UD Maracena ضد فالنسيا — كأس ملك
+  إسبانيا | Tomorrow: UD Maracena vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: UD Maracena
+  × فالنسيا | Kick-off in 30 min: UD Maracena vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057220@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251204T200000Z
+DTEND:20251204T220000Z
+SUMMARY:Cartagena vs Valencia (1 - 2) — Copa del Rey
+LOCATION:Estadio Municipal Cartagonova\, Cartagena\, Spain
+GEO:37.609697;-0.996060
+URL:https://www.fotmob.com/match/5057220
+DESCRIPTION:⚽ كارتاخينا × فالنسيا (1 - 2)\n🏆 كأس 
+ ملك إسبانيا — الدور الثاني\n🗓 الخميس 4 د
+ يسمبر 2025 · 23:00 بتوقيت الرياض\n🏟 Estadio Municipal
+  Cartagonova، Cartagena\n⚖️ الحكم: Isidro Díaz de Mera Escudero
+ s\n👥 الحضور: 6,606\n—————\n⚽ Cartagena v Valencia (1 
+ - 2)\n🏆 Copa del Rey — Round 2\n🗓 Thu 04 Dec 2025 · 20:00 UTC\n
+ 🏟 Estadio Municipal Cartagonova, Cartagena\nReferee: Isidro Díaz de Me
+ ra Escuderos\nAttendance: 6,606\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كارتاخينا ضد فالنسيا — كأس
+  ملك إسبانيا | Tomorrow: Cartagena vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كارتا
+ خينا × فالنسيا | Kick-off in 30 min: Cartagena vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5091463@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251216T200000Z
+DTEND:20251216T220000Z
+SUMMARY:Sporting Gijón vs Valencia (0 - 2) — Copa del Rey
+LOCATION:Estadio Municipal El Molinón-Enrique Castro Quini\, Gijón\, Spai
+ n
+GEO:43.536284;-5.637397
+URL:https://www.fotmob.com/match/5091463
+DESCRIPTION:⚽ سبورتينج خيخون × فالنسيا (0 - 2)\n🏆
+  كأس ملك إسبانيا — دور الـ32\n🗓 الثلاثاء 1
+ 6 ديسمبر 2025 · 23:00 بتوقيت الرياض\n🏟 Estadio Munic
+ ipal El Molinón-Enrique Castro Quini، Gijón\n👥 الحضور: 16,275\
+ n—————\n⚽ Sporting Gijón v Valencia (0 - 2)\n🏆 Copa del Re
+ y — Round of 32\n🗓 Tue 16 Dec 2025 · 20:00 UTC\n🏟 Estadio Municip
+ al El Molinón-Enrique Castro Quini, Gijón\nAttendance: 16,275\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سبورتينج خيخون ضد فالنسيا 
+ — كأس ملك إسبانيا | Tomorrow: Sporting Gijón vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سبورت
+ ينج خيخون × فالنسيا | Kick-off in 30 min: Sporting Gijón 
+ vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5125323@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260115T200000Z
+DTEND:20260115T220000Z
+SUMMARY:Burgos CF vs Valencia (0 - 2) — Copa del Rey
+LOCATION:Estadio Municipal de El Plantío\, Burgos\, Spain
+GEO:42.344266;-3.680600
+URL:https://www.fotmob.com/match/5125323
+DESCRIPTION:⚽ بورغوس × فالنسيا (0 - 2)\n🏆 كأس ملك 
+ إسبانيا — دور الـ16\n🗓 الخميس 15 يناير 2026 
+ · 23:00 بتوقيت الرياض\n🏟 Estadio Municipal de El Plantío
+ ، Burgos\n👥 الحضور: 9,405\n—————\n⚽ Burgos CF v Vale
+ ncia (0 - 2)\n🏆 Copa del Rey — Round of 16\n🗓 Thu 15 Jan 2026 · 2
+ 0:00 UTC\n🏟 Estadio Municipal de El Plantío, Burgos\nAttendance: 9,405
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بورغوس ضد فالنسيا — كأس مل
+ ك إسبانيا | Tomorrow: Burgos CF vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورغو
+ س × فالنسيا | Kick-off in 30 min: Burgos CF vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5144840@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260204T200000Z
+DTEND:20260204T220000Z
+SUMMARY:Valencia vs Athletic Club (1 - 2) — Copa del Rey
+LOCATION:Estadio de Mestalla\, Valencia\, Spain
+GEO:39.474602;-0.358257
+URL:https://www.fotmob.com/match/5144840
+DESCRIPTION:⚽ فالنسيا × أتلتيك بلباو (1 - 2)\n🏆 ك
+ أس ملك إسبانيا — ربع النهائي\n🗓 الأربعا
+ ء 4 فبراير 2026 · 23:00 بتوقيت الرياض\n🏟 Estadio de
+  Mestalla، Valencia\n⚖️ الحكم: Víctor García Verdura\n👥 ا
+ لحضور: 46,931\n—————\n⚽ Valencia v Athletic Club (1 - 2)\
+ n🏆 Copa del Rey — Quarter-Finals\n🗓 Wed 04 Feb 2026 · 20:00 UTC\n
+ 🏟 Estadio de Mestalla, Valencia\nReferee: Víctor García Verdura\nAtte
+ ndance: 46,931\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد أتلتيك بلباو — 
+ كأس ملك إسبانيا | Tomorrow: Valencia vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × أتلتيك بلباو | Kick-off in 30 min: Valencia vs Athletic
+  Club
+END:VALARM
+END:VEVENT
+END:VCALENDAR

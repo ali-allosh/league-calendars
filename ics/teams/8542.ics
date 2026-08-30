@@ -1,0 +1,293 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Kyoto Sanga FC — AFC Champions League Elite Fixtures | K
+ yoto Sanga FC — مباريات دوري أبطال آسيا للنخبة
+X-WR-CALDESC:Kyoto Sanga FC — all matches in AFC Champions League Elite\,
+  exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-upda
+ ted 2026-09-05T19:31:10Z.  •  Kyoto Sanga FC — جميع المباري
+ ات في دوري أبطال آسيا للنخبة بتوقيت UTC ال
+ دقيق مع الملاعب والقنوات الناقلة. المصدر
+ : FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6049976@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260915T100000Z
+DTEND:20260915T120000Z
+SUMMARY:Daejeon Hana Citizen vs Kyoto Sanga FC — AFC Champions League Eli
+ te
+LOCATION:Daejeon World Cup Stadium\, Daejeon\, South Korea
+GEO:36.365207;127.325213
+URL:https://www.fotmob.com/match/6049976
+DESCRIPTION:⚽ دايجيون سيتيزن × Kyoto Sanga FC\n🏆 دور
+ ي أبطال آسيا للنخبة — الجولة 1\n🗓 الثلاث
+ اء 15 سبتمبر 2026 · 13:00 بتوقيت الرياض\n🏟 Daejeon
+  World Cup Stadium، Daejeon\n—————\n⚽ Daejeon Hana Citizen v 
+ Kyoto Sanga FC\n🏆 AFC Champions League Elite — Matchday 1\n🗓 Tue 1
+ 5 Sep 2026 · 10:00 UTC\n🏟 Daejeon World Cup Stadium, Daejeon\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: دايجيون سيتيزن ضد Kyoto Sanga FC 
+ — دوري أبطال آسيا للنخبة | Tomorrow: Daejeon Hana Cit
+ izen vs Kyoto Sanga FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: دايجي
+ ون سيتيزن × Kyoto Sanga FC | Kick-off in 30 min: Daejeon Hana Cit
+ izen vs Kyoto Sanga FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049987@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261013T100000Z
+DTEND:20261013T120000Z
+SUMMARY:Kyoto Sanga FC vs Ratchaburi FC — AFC Champions League Elite
+LOCATION:Sanga Stadium by Kyocera\, Kameoka\, Japan
+GEO:35.017159;135.584876
+URL:https://www.fotmob.com/match/6049987
+DESCRIPTION:⚽ Kyoto Sanga FC × راتشابوري\n🏆 دوري أبط
+ ال آسيا للنخبة — الجولة 2\n🗓 الثلاثاء 13 أ
+ كتوبر 2026 · 13:00 بتوقيت الرياض\n🏟 Sanga Stadium by 
+ Kyocera، Kameoka\n—————\n⚽ Kyoto Sanga FC v Ratchaburi FC\n
+ 🏆 AFC Champions League Elite — Matchday 2\n🗓 Tue 13 Oct 2026 · 10
+ :00 UTC\n🏟 Sanga Stadium by Kyocera, Kameoka\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Kyoto Sanga FC ضد راتشابوري — دور
+ ي أبطال آسيا للنخبة | Tomorrow: Kyoto Sanga FC vs Ratchabu
+ ri FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Kyoto Sanga
+  FC × راتشابوري | Kick-off in 30 min: Kyoto Sanga FC vs Ratchabu
+ ri FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049994@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261027T110000Z
+DTEND:20261027T130000Z
+SUMMARY:Kyoto Sanga FC vs Newcastle Jets — AFC Champions League Elite
+LOCATION:Sanga Stadium by Kyocera\, Kameoka\, Japan
+GEO:35.017159;135.584876
+URL:https://www.fotmob.com/match/6049994
+DESCRIPTION:⚽ Kyoto Sanga FC × نيوكاسل جيتس\n🏆 دوري أ
+ بطال آسيا للنخبة — الجولة 3\n🗓 الثلاثاء 2
+ 7 أكتوبر 2026 · 14:00 بتوقيت الرياض\n🏟 Sanga Stadium
+  by Kyocera، Kameoka\n—————\n⚽ Kyoto Sanga FC v Newcastle Jet
+ s\n🏆 AFC Champions League Elite — Matchday 3\n🗓 Tue 27 Oct 2026 ·
+  11:00 UTC\n🏟 Sanga Stadium by Kyocera, Kameoka\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Kyoto Sanga FC ضد نيوكاسل جيتس — 
+ دوري أبطال آسيا للنخبة | Tomorrow: Kyoto Sanga FC vs Ne
+ wcastle Jets
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Kyoto Sanga
+  FC × نيوكاسل جيتس | Kick-off in 30 min: Kyoto Sanga FC vs New
+ castle Jets
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050004@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261103T131500Z
+DTEND:20261103T151500Z
+SUMMARY:Công An Hà Nội vs Kyoto Sanga FC — AFC Champions League Elite
+LOCATION:Sân vận động Hàng Đẫy (Hang Day Stadium)\, Hà Nội (Ha
+ noi)\, Vietnam
+GEO:21.029837;105.832973
+URL:https://www.fotmob.com/match/6050004
+DESCRIPTION:⚽ كونغ آن هانوي × Kyoto Sanga FC\n🏆 دوري 
+ أبطال آسيا للنخبة — الجولة 4\n🗓 الثلاثاء
+  3 نوفمبر 2026 · 16:15 بتوقيت الرياض\n🏟 Sân vận 
+ động Hàng Đẫy (Hang Day Stadium)، Hà Nội (Hanoi)\n————
+ —\n⚽ Công An Hà Nội v Kyoto Sanga FC\n🏆 AFC Champions League El
+ ite — Matchday 4\n🗓 Tue 03 Nov 2026 · 13:15 UTC\n🏟 Sân vận đ
+ ộng Hàng Đẫy (Hang Day Stadium), Hà Nội (Hanoi)\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كونغ آن هانوي ضد Kyoto Sanga FC — 
+ دوري أبطال آسيا للنخبة | Tomorrow: Công An Hà Nội v
+ s Kyoto Sanga FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كونغ آ
+ ن هانوي × Kyoto Sanga FC | Kick-off in 30 min: Công An Hà Nội v
+ s Kyoto Sanga FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050010@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261124T110000Z
+DTEND:20261124T130000Z
+SUMMARY:Kyoto Sanga FC vs Pohang Steelers — AFC Champions League Elite
+LOCATION:Sanga Stadium by Kyocera\, Kameoka\, Japan
+GEO:35.017159;135.584876
+URL:https://www.fotmob.com/match/6050010
+DESCRIPTION:⚽ Kyoto Sanga FC × بوهانغ ستيليرز\n🏆 دور
+ ي أبطال آسيا للنخبة — الجولة 5\n🗓 الثلاث
+ اء 24 نوفمبر 2026 · 14:00 بتوقيت الرياض\n🏟 Sanga S
+ tadium by Kyocera، Kameoka\n—————\n⚽ Kyoto Sanga FC v Pohang 
+ Steelers\n🏆 AFC Champions League Elite — Matchday 5\n🗓 Tue 24 Nov 
+ 2026 · 11:00 UTC\n🏟 Sanga Stadium by Kyocera, Kameoka\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Kyoto Sanga FC ضد بوهانغ ستيليرز 
+ — دوري أبطال آسيا للنخبة | Tomorrow: Kyoto Sanga FC v
+ s Pohang Steelers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Kyoto Sanga
+  FC × بوهانغ ستيليرز | Kick-off in 30 min: Kyoto Sanga FC vs
+  Pohang Steelers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050020@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261201T131500Z
+DTEND:20261201T151500Z
+SUMMARY:Buriram United vs Kyoto Sanga FC — AFC Champions League Elite
+LOCATION:Chang Arena\, Buriram\, Thailand
+GEO:14.966666;103.096036
+URL:https://www.fotmob.com/match/6050020
+DESCRIPTION:⚽ بوريرام يونايتد × Kyoto Sanga FC\n🏆 دو
+ ري أبطال آسيا للنخبة — الجولة 6\n🗓 الثلا
+ ثاء 1 ديسمبر 2026 · 16:15 بتوقيت الرياض\n🏟 Chang 
+ Arena، Buriram\n—————\n⚽ Buriram United v Kyoto Sanga FC\n
+ 🏆 AFC Champions League Elite — Matchday 6\n🗓 Tue 01 Dec 2026 · 13
+ :15 UTC\n🏟 Chang Arena, Buriram\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوريرام يونايتد ضد Kyoto Sanga FC
+  — دوري أبطال آسيا للنخبة | Tomorrow: Buriram United 
+ vs Kyoto Sanga FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورير
+ ام يونايتد × Kyoto Sanga FC | Kick-off in 30 min: Buriram United
+  vs Kyoto Sanga FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050026@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270209T110000Z
+DTEND:20270209T130000Z
+SUMMARY:Kyoto Sanga FC vs Jeonbuk Hyundai Motors FC — AFC Champions Leagu
+ e Elite
+LOCATION:Sanga Stadium by Kyocera\, Kameoka\, Japan
+GEO:35.017159;135.584876
+URL:https://www.fotmob.com/match/6050026
+DESCRIPTION:⚽ Kyoto Sanga FC × تشانبوك موتورز\n🏆 دور
+ ي أبطال آسيا للنخبة — الجولة 7\n🗓 الثلاث
+ اء 9 فبراير 2027 · 14:00 بتوقيت الرياض\n🏟 Sanga St
+ adium by Kyocera، Kameoka\n—————\n⚽ Kyoto Sanga FC v Jeonbuk 
+ Hyundai Motors FC\n🏆 AFC Champions League Elite — Matchday 7\n🗓 Tu
+ e 09 Feb 2027 · 11:00 UTC\n🏟 Sanga Stadium by Kyocera, Kameoka\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Kyoto Sanga FC ضد تشانبوك موتورز 
+ — دوري أبطال آسيا للنخبة | Tomorrow: Kyoto Sanga FC v
+ s Jeonbuk Hyundai Motors FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Kyoto Sanga
+  FC × تشانبوك موتورز | Kick-off in 30 min: Kyoto Sanga FC vs
+  Jeonbuk Hyundai Motors FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050039@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270216T110000Z
+DTEND:20270216T130000Z
+SUMMARY:Port FC vs Kyoto Sanga FC — AFC Champions League Elite
+LOCATION:Thammasat Stadium\, Pathum Thani\, Thailand
+GEO:14.068009;100.598931
+URL:https://www.fotmob.com/match/6050039
+DESCRIPTION:⚽ Port FC × Kyoto Sanga FC\n🏆 دوري أبطال آسي
+ ا للنخبة — الجولة 8\n🗓 الثلاثاء 16 فبراير 
+ 2027 · 14:00 بتوقيت الرياض\n🏟 Thammasat Stadium، Pathum T
+ hani\n—————\n⚽ Port FC v Kyoto Sanga FC\n🏆 AFC Champions Le
+ ague Elite — Matchday 8\n🗓 Tue 16 Feb 2027 · 11:00 UTC\n🏟 Thammas
+ at Stadium, Pathum Thani\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Port FC ضد Kyoto Sanga FC — دوري أبطا
+ ل آسيا للنخبة | Tomorrow: Port FC vs Kyoto Sanga FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Port FC × 
+ Kyoto Sanga FC | Kick-off in 30 min: Port FC vs Kyoto Sanga FC
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1458 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al Ittihad — Saudi Pro League & AFC Champions League Eli
+ te & King's Cup Fixtures | الاتحاد — مباريات دوري رو
+ شن السعودي ودوري أبطال آسيا للنخبة وكأس 
+ خادم الحرمين الشريفين
+X-WR-CALDESC:Al Ittihad — all matches in Saudi Pro League & AFC Champions
+  League Elite & King's Cup\, exact UTC kickoffs\, stadiums & TV. Data: Fot
+ Mob + 365scores · auto-updated 2026-09-05T19:31:10Z.  •  الاتحاد
+  — جميع المباريات في دوري روشن السعودي و
+ دوري أبطال آسيا للنخبة وكأس خادم الحرمين
+  الشريفين بتوقيت UTC الدقيق مع الملاعب وال
+ قنوات الناقلة. المصدر: FotMob + 365scores · تحديث 
+ تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5969053@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260815T180000Z
+DTEND:20260815T200000Z
+SUMMARY:Al Ittihad vs Al Kholood (1 - 1) — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/5969053
+DESCRIPTION:⚽ الاتحاد × الخلود (1 - 1)\n🏆 دوري رو
+ شن السعودي — الجولة 1\n🗓 السبت 15 أغسطس 2026
+  · 21:00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdu
+ llah Sport City، Jeddah\n👥 الحضور: 18,053\n—————\n⚽ 
+ Al Ittihad v Al Kholood (1 - 1)\n🏆 Saudi Pro League — Matchday 1\n
+ 🗓 Sat 15 Aug 2026 · 18:00 UTC\n🏟 Alinma Bank Stadium at King Abdull
+ ah Sport City, Jeddah\nAttendance: 18,053\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الخلود — دوري ر
+ وشن السعودي | Tomorrow: Al Ittihad vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الخلود | Kick-off in 30 min: Al Ittihad vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970094@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260821T180000Z
+DTEND:20260821T200000Z
+SUMMARY:Al Qadsiah vs Al Ittihad (0 - 1) — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/5970094
+DESCRIPTION:⚽ القادسية × الاتحاد (0 - 1)\n🏆 دوري 
+ روشن السعودي — الجولة 2\n🗓 الجمعة 21 أغسط
+ س 2026 · 21:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd 
+ Stadium، Dammam\n⚖️ الحكم: Wilton Pereira Sampaio\n👥 الحض
+ ور: 10,709\n—————\n⚽ Al Qadsiah v Al Ittihad (0 - 1)\n🏆 S
+ audi Pro League — Matchday 2\n🗓 Fri 21 Aug 2026 · 18:00 UTC\n🏟 Pr
+ ince Mohammed Bin Fahd Stadium, Dammam\nReferee: Wilton Pereira Sampaio\nA
+ ttendance: 10,709\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الاتحاد — دوري
+  روشن السعودي | Tomorrow: Al Qadsiah vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الاتحاد | Kick-off in 30 min: Al Qadsiah vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970100@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260824T180000Z
+DTEND:20260824T200000Z
+SUMMARY:Al Ittihad vs Al Hazem (3 - 2) — Saudi Pro League
+LOCATION:Prince Abdullah Al Faisal Sports City Stadium\, Jeddah\, Saudi Ara
+ bia
+GEO:21.446598;39.251704
+URL:https://www.fotmob.com/match/5970100
+DESCRIPTION:⚽ الاتحاد × الحزم (3 - 2)\n🏆 دوري روش
+ ن السعودي — الجولة 3\n🗓 الاثنين 24 أغسطس 20
+ 26 · 21:00 بتوقيت الرياض\n🏟 Prince Abdullah Al Faisal Spor
+ ts City Stadium، Jeddah\n⚖️ الحكم: Abdullah Al-Harbi\n👥 ال
+ حضور: 8,987\n—————\n⚽ Al Ittihad v Al Hazem (3 - 2)\n🏆 
+ Saudi Pro League — Matchday 3\n🗓 Mon 24 Aug 2026 · 18:00 UTC\n🏟 P
+ rince Abdullah Al Faisal Sports City Stadium, Jeddah\nReferee: Abdullah Al
+ -Harbi\nAttendance: 8,987\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الحزم — دوري رو
+ شن السعودي | Tomorrow: Al Ittihad vs Al Hazem
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الحزم | Kick-off in 30 min: Al Ittihad vs Al Hazem
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970113@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T180000Z
+DTEND:20260829T200000Z
+SUMMARY:Al Fateh FC vs Al Ittihad (0 - 0) — Saudi Pro League
+LOCATION:Maydan Tamweel Aloula\, Al Ahsa\, Saudi Arabia
+GEO:25.429604;49.581390
+URL:https://www.fotmob.com/match/5970113
+DESCRIPTION:⚽ الفتح × الاتحاد (0 - 0)\n🏆 دوري روش
+ ن السعودي — الجولة 4\n🗓 السبت 29 أغسطس 2026 
+ · 21:00 بتوقيت الرياض\n🏟 Maydan Tamweel Aloula، Al Ahsa\n
+ ⚖️ الحكم: Faisal Al-Balawi\n👥 الحضور: 9,256\n———
+ ——\n⚽ Al Fateh FC v Al Ittihad (0 - 0)\n🏆 Saudi Pro League — Ma
+ tchday 4\n🗓 Sat 29 Aug 2026 · 18:00 UTC\n🏟 Maydan Tamweel Aloula, A
+ l Ahsa\nReferee: Faisal Al-Balawi\nAttendance: 9,256\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفتح ضد الاتحاد — دوري رو
+ شن السعودي | Tomorrow: Al Fateh FC vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفتح 
+ × الاتحاد | Kick-off in 30 min: Al Fateh FC vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970125@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T180000Z
+DTEND:20260905T200000Z
+SUMMARY:Al Ittihad vs Al Nassr FC — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/5970125
+DESCRIPTION:⚽ الاتحاد × النصر\n🏆 دوري روشن الس
+ عودي — الجولة 5\n🗓 السبت 5 سبتمبر 2026 · 21:00 
+ بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah Sport
+  City، Jeddah\n📺 ثمانية 1، تطبيق ثمانية\n———
+ ——\n⚽ Al Ittihad v Al Nassr FC\n🏆 Saudi Pro League — Matchday 5
+ \n🗓 Sat 05 Sep 2026 · 18:00 UTC\n🏟 Alinma Bank Stadium at King Abdu
+ llah Sport City, Jeddah\n📺 Thmanyah 1, Thmanyah\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد النصر — دوري رو
+ شن السعودي — 📺 ثمانية 1، تطبيق ثمانية | To
+ morrow: Al Ittihad vs Al Nassr FC | TV: Thmanyah 1\, Thmanyah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × النصر — 📺 ثمانية 1، تطبيق ثمانية | Kic
+ k-off in 30 min: Al Ittihad vs Al Nassr FC | TV: Thmanyah 1\, Thmanyah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970130@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T180000Z
+DTEND:20260908T200000Z
+SUMMARY:Al Ittihad vs Al-Fayha — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/5970130
+DESCRIPTION:⚽ الاتحاد × الفيحاء\n🏆 دوري روشن ا
+ لسعودي — الجولة 6\n🗓 الثلاثاء 8 سبتمبر 2026
+  · 21:00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdu
+ llah Sport City، Jeddah\n📺 FOX Soccer Plus، FOX Sports online\n——
+ ———\n⚽ Al Ittihad v Al-Fayha\n🏆 Saudi Pro League — Matchday 6
+ \n🗓 Tue 08 Sep 2026 · 18:00 UTC\n🏟 Alinma Bank Stadium at King Abdu
+ llah Sport City, Jeddah\n📺 FOX Soccer Plus, FOX Sports online\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الفيحاء — دوري 
+ روشن السعودي — 📺 FOX Soccer Plus، FOX Sports online | Tom
+ orrow: Al Ittihad vs Al-Fayha | TV: FOX Soccer Plus\, FOX Sports online
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الفيحاء — 📺 FOX Soccer Plus، FOX Sports online | Kick
+ -off in 30 min: Al Ittihad vs Al-Fayha | TV: FOX Soccer Plus\, FOX Sports 
+ online
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970137@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260911T154500Z
+DTEND:20260911T174500Z
+SUMMARY:Al-Faisaly vs Al Ittihad — Saudi Pro League
+LOCATION:Majmaah Sports City
+URL:https://www.fotmob.com/match/5970137
+DESCRIPTION:⚽ الفيصلي × الاتحاد\n🏆 دوري روشن ا
+ لسعودي — الجولة 7\n🗓 الجمعة 11 سبتمبر 2026 ·
+  18:45 بتوقيت الرياض\n🏟 Majmaah Sports City\n————
+ —\n⚽ Al-Faisaly v Al Ittihad\n🏆 Saudi Pro League — Matchday 7\n
+ 🗓 Fri 11 Sep 2026 · 15:45 UTC\n🏟 Majmaah Sports City\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد الاتحاد — دوري 
+ روشن السعودي | Tomorrow: Al-Faisaly vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × الاتحاد | Kick-off in 30 min: Al-Faisaly vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970149@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T180000Z
+DTEND:20261010T200000Z
+SUMMARY:Al Hilal vs Al Ittihad — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium
+URL:https://www.fotmob.com/match/5970149
+DESCRIPTION:⚽ الهلال × الاتحاد\n🏆 دوري روشن ال
+ سعودي — الجولة 8\n🗓 السبت 10 أكتوبر 2026 · 21:
+ 00 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium\n——
+ ———\n⚽ Al Hilal v Al Ittihad\n🏆 Saudi Pro League — Matchday 8
+ \n🗓 Sat 10 Oct 2026 · 18:00 UTC\n🏟 Prince Faisal bin Fahd Stadium\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الاتحاد — دوري ر
+ وشن السعودي | Tomorrow: Al Hilal vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الاتحاد | Kick-off in 30 min: Al Hilal vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970157@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261016T180000Z
+DTEND:20261016T200000Z
+SUMMARY:Al Ittihad vs Al Shabab — Saudi Pro League
+LOCATION:King Abdullah Sports City
+URL:https://www.fotmob.com/match/5970157
+DESCRIPTION:⚽ الاتحاد × الشباب\n🏆 دوري روشن ال
+ سعودي — الجولة 9\n🗓 الجمعة 16 أكتوبر 2026 · 2
+ 1:00 بتوقيت الرياض\n🏟 King Abdullah Sports City\n———
+ ——\n⚽ Al Ittihad v Al Shabab\n🏆 Saudi Pro League — Matchday 9\n
+ 🗓 Fri 16 Oct 2026 · 18:00 UTC\n🏟 King Abdullah Sports City\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الشباب — دوري ر
+ وشن السعودي | Tomorrow: Al Ittihad vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الشباب | Kick-off in 30 min: Al Ittihad vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970164@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T180000Z
+DTEND:20261020T200000Z
+SUMMARY:Al-Ettifaq vs Al Ittihad — Saudi Pro League
+LOCATION:Prince Mohamed bin Fahd Stadium
+URL:https://www.fotmob.com/match/5970164
+DESCRIPTION:⚽ الاتفاق × الاتحاد\n🏆 دوري روشن ا
+ لسعودي — الجولة 10\n🗓 الثلاثاء 20 أكتوبر 20
+ 26 · 21:00 بتوقيت الرياض\n🏟 Prince Mohamed bin Fahd Stadiu
+ m\n—————\n⚽ Al-Ettifaq v Al Ittihad\n🏆 Saudi Pro League —
+  Matchday 10\n🗓 Tue 20 Oct 2026 · 18:00 UTC\n🏟 Prince Mohamed bin F
+ ahd Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد الاتحاد — دوري 
+ روشن السعودي | Tomorrow: Al-Ettifaq vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × الاتحاد | Kick-off in 30 min: Al-Ettifaq vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970175@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261023T153000Z
+DTEND:20261023T173000Z
+SUMMARY:Al Ittihad vs Al Diriyah — Saudi Pro League
+LOCATION:King Abdullah Sports City
+URL:https://www.fotmob.com/match/5970175
+DESCRIPTION:⚽ الاتحاد × الدرعية\n🏆 دوري روشن ا
+ لسعودي — الجولة 11\n🗓 الجمعة 23 أكتوبر 2026 
+ · 18:30 بتوقيت الرياض\n🏟 King Abdullah Sports City\n——
+ ———\n⚽ Al Ittihad v Al Diriyah\n🏆 Saudi Pro League — Matchday
+  11\n🗓 Fri 23 Oct 2026 · 15:30 UTC\n🏟 King Abdullah Sports City\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الدرعية — دوري 
+ روشن السعودي | Tomorrow: Al Ittihad vs Al Diriyah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الدرعية | Kick-off in 30 min: Al Ittihad vs Al Diriyah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970182@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261030T134500Z
+DTEND:20261030T154500Z
+SUMMARY:Abha vs Al Ittihad — Saudi Pro League
+LOCATION:Prince Sultan bin Abdul Aziz Stadium
+URL:https://www.fotmob.com/match/5970182
+DESCRIPTION:⚽ أبها × الاتحاد\n🏆 دوري روشن السع
+ ودي — الجولة 12\n🗓 الجمعة 30 أكتوبر 2026 · 16:4
+ 5 بتوقيت الرياض\n🏟 Prince Sultan bin Abdul Aziz Stadium\n
+ —————\n⚽ Abha v Al Ittihad\n🏆 Saudi Pro League — Matchday
+  12\n🗓 Fri 30 Oct 2026 · 13:45 UTC\n🏟 Prince Sultan bin Abdul Aziz 
+ Stadium\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الاتحاد — دوري روش
+ ن السعودي | Tomorrow: Abha vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الاتحاد | Kick-off in 30 min: Abha vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021473@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:Al Ittihad vs Neom SC — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021473
+DESCRIPTION:⚽ الاتحاد × نيوم\n🏆 دوري روشن السع
+ ودي — الجولة 13\n🗓 الخميس 5 نوفمبر 2026 · 03:00
+  بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah Spor
+ t City، Jeddah\n—————\n⚽ Al Ittihad v Neom SC\n🏆 Saudi Pro
+  League — Matchday 13\n🗓 Thu 05 Nov 2026 · 00:00 UTC\n🏟 Alinma Ba
+ nk Stadium at King Abdullah Sport City, Jeddah\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد نيوم — دوري روش
+ ن السعودي | Tomorrow: Al Ittihad vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × نيوم | Kick-off in 30 min: Al Ittihad vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021480@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Al Khaleej vs Al Ittihad — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021480
+DESCRIPTION:⚽ الخليج × الاتحاد\n🏆 دوري روشن ال
+ سعودي — الجولة 14\n🗓 الجمعة 20 نوفمبر 2026 · 
+ 03:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، D
+ ammam\n—————\n⚽ Al Khaleej v Al Ittihad\n🏆 Saudi Pro League
+  — Matchday 14\n🗓 Fri 20 Nov 2026 · 00:00 UTC\n🏟 Prince Mohammed 
+ Bin Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد الاتحاد — دوري ر
+ وشن السعودي | Tomorrow: Al Khaleej vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × الاتحاد | Kick-off in 30 min: Al Khaleej vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021488@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Al Ittihad vs Al Ahli — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021488
+DESCRIPTION:⚽ الاتحاد × الأهلي\n🏆 دوري روشن ال
+ سعودي — الجولة 15\n🗓 الخميس 26 نوفمبر 2026 · 
+ 03:00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah
+  Sport City، Jeddah\n—————\n⚽ Al Ittihad v Al Ahli\n🏆 Saud
+ i Pro League — Matchday 15\n🗓 Thu 26 Nov 2026 · 00:00 UTC\n🏟 Alin
+ ma Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الأهلي — دوري ر
+ وشن السعودي | Tomorrow: Al Ittihad vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الأهلي | Kick-off in 30 min: Al Ittihad vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021501@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Al Riyadh vs Al Ittihad — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/1000021501
+DESCRIPTION:⚽ الرياض × الاتحاد\n🏆 دوري روشن ال
+ سعودي — الجولة 16\n🗓 الخميس 3 ديسمبر 2026 · 0
+ 3:00 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، Riya
+ dh\n—————\n⚽ Al Riyadh v Al Ittihad\n🏆 Saudi Pro League —
+  Matchday 16\n🗓 Thu 03 Dec 2026 · 00:00 UTC\n🏟 Prince Faisal bin Fa
+ hd Stadium, Riyadh\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الاتحاد — دوري ر
+ وشن السعودي | Tomorrow: Al Riyadh vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الاتحاد | Kick-off in 30 min: Al Riyadh vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021506@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Al Ittihad vs Al-Taawoun — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021506
+DESCRIPTION:⚽ الاتحاد × التعاون\n🏆 دوري روشن ا
+ لسعودي — الجولة 17\n🗓 الخميس 10 ديسمبر 2026 
+ · 03:00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdul
+ lah Sport City، Jeddah\n—————\n⚽ Al Ittihad v Al-Taawoun\n
+ 🏆 Saudi Pro League — Matchday 17\n🗓 Thu 10 Dec 2026 · 00:00 UTC\n
+ 🏟 Alinma Bank Stadium at King Abdullah Sport City, Jeddah\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد التعاون — دوري 
+ روشن السعودي | Tomorrow: Al Ittihad vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × التعاون | Kick-off in 30 min: Al Ittihad vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021518@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261214T000000Z
+DTEND:20261214T020000Z
+SUMMARY:Al Kholood vs Al Ittihad — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021518
+DESCRIPTION:⚽ الخلود × الاتحاد\n🏆 دوري روشن ال
+ سعودي — الجولة 18\n🗓 الاثنين 14 ديسمبر 2026 
+ · 03:00 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Sta
+ dium)، Ar Rass\n—————\n⚽ Al Kholood v Al Ittihad\n🏆 Saudi 
+ Pro League — Matchday 18\n🗓 Mon 14 Dec 2026 · 00:00 UTC\n🏟 Ar-Ras
+ s Stadium (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد الاتحاد — دوري ر
+ وشن السعودي | Tomorrow: Al Kholood vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × الاتحاد | Kick-off in 30 min: Al Kholood vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021525@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270211T000000Z
+DTEND:20270211T020000Z
+SUMMARY:Al Ittihad vs Al Qadsiah — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021525
+DESCRIPTION:⚽ الاتحاد × القادسية\n🏆 دوري روشن 
+ السعودي — الجولة 19\n🗓 الخميس 11 فبراير 2027
+  · 03:00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdu
+ llah Sport City، Jeddah\n—————\n⚽ Al Ittihad v Al Qadsiah\n
+ 🏆 Saudi Pro League — Matchday 19\n🗓 Thu 11 Feb 2027 · 00:00 UTC\n
+ 🏟 Alinma Bank Stadium at King Abdullah Sport City, Jeddah\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد القادسية — دوري
+  روشن السعودي | Tomorrow: Al Ittihad vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × القادسية | Kick-off in 30 min: Al Ittihad vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021534@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270218T000000Z
+DTEND:20270218T020000Z
+SUMMARY:Al Hazem vs Al Ittihad — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021534
+DESCRIPTION:⚽ الحزم × الاتحاد\n🏆 دوري روشن الس
+ عودي — الجولة 20\n🗓 الخميس 18 فبراير 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)
+ ، Ar Rass\n—————\n⚽ Al Hazem v Al Ittihad\n🏆 Saudi Pro Lea
+ gue — Matchday 20\n🗓 Thu 18 Feb 2027 · 00:00 UTC\n🏟 Ar-Rass Stadi
+ um (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد الاتحاد — دوري رو
+ شن السعودي | Tomorrow: Al Hazem vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × الاتحاد | Kick-off in 30 min: Al Hazem vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021543@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270225T000000Z
+DTEND:20270225T020000Z
+SUMMARY:Al Ittihad vs Al Fateh FC — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021543
+DESCRIPTION:⚽ الاتحاد × الفتح\n🏆 دوري روشن الس
+ عودي — الجولة 21\n🗓 الخميس 25 فبراير 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah S
+ port City، Jeddah\n—————\n⚽ Al Ittihad v Al Fateh FC\n🏆 Sa
+ udi Pro League — Matchday 21\n🗓 Thu 25 Feb 2027 · 00:00 UTC\n🏟 Al
+ inma Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الفتح — دوري رو
+ شن السعودي | Tomorrow: Al Ittihad vs Al Fateh FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الفتح | Kick-off in 30 min: Al Ittihad vs Al Fateh FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021555@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270311T000000Z
+DTEND:20270311T020000Z
+SUMMARY:Al Nassr FC vs Al Ittihad — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021555
+DESCRIPTION:⚽ النصر × الاتحاد\n🏆 دوري روشن الس
+ عودي — الجولة 22\n🗓 الخميس 11 مارس 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n—————\n
+ ⚽ Al Nassr FC v Al Ittihad\n🏆 Saudi Pro League — Matchday 22\n🗓 
+ Thu 11 Mar 2027 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الاتحاد — دوري رو
+ شن السعودي | Tomorrow: Al Nassr FC vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الاتحاد | Kick-off in 30 min: Al Nassr FC vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021560@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270318T000000Z
+DTEND:20270318T020000Z
+SUMMARY:Al-Fayha vs Al Ittihad — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021560
+DESCRIPTION:⚽ الفيحاء × الاتحاد\n🏆 دوري روشن ا
+ لسعودي — الجولة 23\n🗓 الخميس 18 مارس 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al M
+ ajma'ah\n—————\n⚽ Al-Fayha v Al Ittihad\n🏆 Saudi Pro League
+  — Matchday 23\n🗓 Thu 18 Mar 2027 · 00:00 UTC\n🏟 Al Majma'ah Spor
+ ts City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد الاتحاد — دوري 
+ روشن السعودي | Tomorrow: Al-Fayha vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × الاتحاد | Kick-off in 30 min: Al-Fayha vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021573@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270402T000000Z
+DTEND:20270402T020000Z
+SUMMARY:Al Ittihad vs Al-Faisaly — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021573
+DESCRIPTION:⚽ الاتحاد × الفيصلي\n🏆 دوري روشن ا
+ لسعودي — الجولة 24\n🗓 الجمعة 2 أبريل 2027 · 0
+ 3:00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah 
+ Sport City، Jeddah\n—————\n⚽ Al Ittihad v Al-Faisaly\n🏆 Sa
+ udi Pro League — Matchday 24\n🗓 Fri 02 Apr 2027 · 00:00 UTC\n🏟 Al
+ inma Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الفيصلي — دوري 
+ روشن السعودي | Tomorrow: Al Ittihad vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الفيصلي | Kick-off in 30 min: Al Ittihad vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021577@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270408T000000Z
+DTEND:20270408T020000Z
+SUMMARY:Al Ittihad vs Al Hilal — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021577
+DESCRIPTION:⚽ الاتحاد × الهلال\n🏆 دوري روشن ال
+ سعودي — الجولة 25\n🗓 الخميس 8 أبريل 2027 · 03:
+ 00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah Sp
+ ort City، Jeddah\n—————\n⚽ Al Ittihad v Al Hilal\n🏆 Saudi 
+ Pro League — Matchday 25\n🗓 Thu 08 Apr 2027 · 00:00 UTC\n🏟 Alinma
+  Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الهلال — دوري ر
+ وشن السعودي | Tomorrow: Al Ittihad vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الهلال | Kick-off in 30 min: Al Ittihad vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021592@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270415T000000Z
+DTEND:20270415T020000Z
+SUMMARY:Al Shabab vs Al Ittihad — Saudi Pro League
+LOCATION:SHG Arena\, Riyadh\, Saudi Arabia
+GEO:24.803158;46.628744
+URL:https://www.fotmob.com/match/1000021592
+DESCRIPTION:⚽ الشباب × الاتحاد\n🏆 دوري روشن ال
+ سعودي — الجولة 26\n🗓 الخميس 15 أبريل 2027 · 03
+ :00 بتوقيت الرياض\n🏟 SHG Arena، Riyadh\n—————\n
+ ⚽ Al Shabab v Al Ittihad\n🏆 Saudi Pro League — Matchday 26\n🗓 Th
+ u 15 Apr 2027 · 00:00 UTC\n🏟 SHG Arena, Riyadh\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد الاتحاد — دوري ر
+ وشن السعودي | Tomorrow: Al Shabab vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × الاتحاد | Kick-off in 30 min: Al Shabab vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021596@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T000000Z
+DTEND:20270418T020000Z
+SUMMARY:Al Ittihad vs Al-Ettifaq — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021596
+DESCRIPTION:⚽ الاتحاد × الاتفاق\n🏆 دوري روشن ا
+ لسعودي — الجولة 27\n🗓 الأحد 18 أبريل 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah S
+ port City، Jeddah\n—————\n⚽ Al Ittihad v Al-Ettifaq\n🏆 Sau
+ di Pro League — Matchday 27\n🗓 Sun 18 Apr 2027 · 00:00 UTC\n🏟 Ali
+ nma Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الاتفاق — دوري 
+ روشن السعودي | Tomorrow: Al Ittihad vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الاتفاق | Kick-off in 30 min: Al Ittihad vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021611@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270422T000000Z
+DTEND:20270422T020000Z
+SUMMARY:Al Diriyah vs Al Ittihad — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021611
+DESCRIPTION:⚽ الدرعية × الاتحاد\n🏆 دوري روشن ا
+ لسعودي — الجولة 28\n🗓 الخميس 22 أبريل 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n————
+ —\n⚽ Al Diriyah v Al Ittihad\n🏆 Saudi Pro League — Matchday 28\n
+ 🗓 Thu 22 Apr 2027 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الدرعية ضد الاتحاد — دوري 
+ روشن السعودي | Tomorrow: Al Diriyah vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الدرع
+ ية × الاتحاد | Kick-off in 30 min: Al Diriyah vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021616@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270429T000000Z
+DTEND:20270429T020000Z
+SUMMARY:Al Ittihad vs Abha — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021616
+DESCRIPTION:⚽ الاتحاد × أبها\n🏆 دوري روشن السع
+ ودي — الجولة 29\n🗓 الخميس 29 أبريل 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah Sport
+  City، Jeddah\n—————\n⚽ Al Ittihad v Abha\n🏆 Saudi Pro Lea
+ gue — Matchday 29\n🗓 Thu 29 Apr 2027 · 00:00 UTC\n🏟 Alinma Bank S
+ tadium at King Abdullah Sport City, Jeddah\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد أبها — دوري روش
+ ن السعودي | Tomorrow: Al Ittihad vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × أبها | Kick-off in 30 min: Al Ittihad vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021629@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270506T000000Z
+DTEND:20270506T020000Z
+SUMMARY:Neom SC vs Al Ittihad — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/1000021629
+DESCRIPTION:⚽ نيوم × الاتحاد\n🏆 دوري روشن السع
+ ودي — الجولة 30\n🗓 الخميس 6 مايو 2027 · 03:00 ب
+ توقيت الرياض\n🏟 King Khalid Sport City Stadium، Tabuk\n—
+ ————\n⚽ Neom SC v Al Ittihad\n🏆 Saudi Pro League — Matchday
+  30\n🗓 Thu 06 May 2027 · 00:00 UTC\n🏟 King Khalid Sport City Stadiu
+ m, Tabuk\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الاتحاد — دوري روش
+ ن السعودي | Tomorrow: Neom SC vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الاتحاد | Kick-off in 30 min: Neom SC vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021634@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270512T000000Z
+DTEND:20270512T020000Z
+SUMMARY:Al Ittihad vs Al Khaleej — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021634
+DESCRIPTION:⚽ الاتحاد × الخليج\n🏆 دوري روشن ال
+ سعودي — الجولة 31\n🗓 الأربعاء 12 مايو 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah
+  Sport City، Jeddah\n—————\n⚽ Al Ittihad v Al Khaleej\n🏆 S
+ audi Pro League — Matchday 31\n🗓 Wed 12 May 2027 · 00:00 UTC\n🏟 A
+ linma Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الخليج — دوري ر
+ وشن السعودي | Tomorrow: Al Ittihad vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الخليج | Kick-off in 30 min: Al Ittihad vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021639@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270520T000000Z
+DTEND:20270520T020000Z
+SUMMARY:Al Ahli vs Al Ittihad — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021639
+DESCRIPTION:⚽ الأهلي × الاتحاد\n🏆 دوري روشن ال
+ سعودي — الجولة 32\n🗓 الخميس 20 مايو 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah Spo
+ rt City، Jeddah\n—————\n⚽ Al Ahli v Al Ittihad\n🏆 Saudi Pr
+ o League — Matchday 32\n🗓 Thu 20 May 2027 · 00:00 UTC\n🏟 Alinma B
+ ank Stadium at King Abdullah Sport City, Jeddah\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الاتحاد — دوري ر
+ وشن السعودي | Tomorrow: Al Ahli vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الاتحاد | Kick-off in 30 min: Al Ahli vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021650@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270524T000000Z
+DTEND:20270524T020000Z
+SUMMARY:Al Ittihad vs Al Riyadh — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021650
+DESCRIPTION:⚽ الاتحاد × الرياض\n🏆 دوري روشن ال
+ سعودي — الجولة 33\n🗓 الاثنين 24 مايو 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah S
+ port City، Jeddah\n—————\n⚽ Al Ittihad v Al Riyadh\n🏆 Saud
+ i Pro League — Matchday 33\n🗓 Mon 24 May 2027 · 00:00 UTC\n🏟 Alin
+ ma Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الرياض — دوري ر
+ وشن السعودي | Tomorrow: Al Ittihad vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الرياض | Kick-off in 30 min: Al Ittihad vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021665@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270528T000000Z
+DTEND:20270528T020000Z
+SUMMARY:Al-Taawoun vs Al Ittihad — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/1000021665
+DESCRIPTION:⚽ التعاون × الاتحاد\n🏆 دوري روشن ا
+ لسعودي — الجولة 34\n🗓 الجمعة 28 مايو 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al Taawoun Club Stadium، Buraydah\n
+ —————\n⚽ Al-Taawoun v Al Ittihad\n🏆 Saudi Pro League — Ma
+ tchday 34\n🗓 Fri 28 May 2027 · 00:00 UTC\n🏟 Al Taawoun Club Stadium
+ , Buraydah\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الاتحاد — دوري 
+ روشن السعودي | Tomorrow: Al-Taawoun vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الاتحاد | Kick-off in 30 min: Al-Taawoun vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050067@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260914T160000Z
+DTEND:20260914T180000Z
+SUMMARY:Al-Shamal vs Al Ittihad — AFC Champions League Elite
+LOCATION:Al Bayt Stadium\, Al Khor\, Qatar
+GEO:25.652198;51.487934
+URL:https://www.fotmob.com/match/6050067
+DESCRIPTION:⚽ الشمال × الاتحاد\n🏆 دوري أبطال آ
+ سيا للنخبة — الجولة 1\n🗓 الاثنين 14 سبتمب
+ ر 2026 · 19:00 بتوقيت الرياض\n🏟 Al Bayt Stadium، Al Khor
+ \n—————\n⚽ Al-Shamal v Al Ittihad\n🏆 AFC Champions League E
+ lite — Matchday 1\n🗓 Mon 14 Sep 2026 · 16:00 UTC\n🏟 Al Bayt Stadi
+ um, Al Khor\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشمال ضد الاتحاد — دوري أ
+ بطال آسيا للنخبة | Tomorrow: Al-Shamal vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشما
+ ل × الاتحاد | Kick-off in 30 min: Al-Shamal vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050079@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T181500Z
+DTEND:20261013T201500Z
+SUMMARY:Al Ittihad vs Shabab Al-Ahli Dubai FC — AFC Champions League Elit
+ e
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/6050079
+DESCRIPTION:⚽ الاتحاد × شباب الاهلي\n🏆 دوري أب
+ طال آسيا للنخبة — الجولة 2\n🗓 الثلاثاء 13 
+ أكتوبر 2026 · 21:15 بتوقيت الرياض\n🏟 Alinma Bank Sta
+ dium at King Abdullah Sport City، Jeddah\n—————\n⚽ Al Ittihad
+  v Shabab Al-Ahli Dubai FC\n🏆 AFC Champions League Elite — Matchday 2
+ \n🗓 Tue 13 Oct 2026 · 18:15 UTC\n🏟 Alinma Bank Stadium at King Abdu
+ llah Sport City, Jeddah\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد شباب الاهلي — د
+ وري أبطال آسيا للنخبة | Tomorrow: Al Ittihad vs Shabab A
+ l-Ahli Dubai FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × شباب الاهلي | Kick-off in 30 min: Al Ittihad vs Shabab A
+ l-Ahli Dubai FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050080@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261026T144500Z
+DTEND:20261026T164500Z
+SUMMARY:Neftchi Fargona vs Al Ittihad — AFC Champions League Elite
+LOCATION:Istiqlol stadioni\, Farg'ona (Fergana)\, Uzbekistan
+GEO:40.390534;71.749676
+URL:https://www.fotmob.com/match/6050080
+DESCRIPTION:⚽ نيفتشي فرغانة × الاتحاد\n🏆 دوري 
+ أبطال آسيا للنخبة — الجولة 3\n🗓 الاثنين 2
+ 6 أكتوبر 2026 · 17:45 بتوقيت الرياض\n🏟 Istiqlol stad
+ ioni، Farg'ona (Fergana)\n—————\n⚽ Neftchi Fargona v Al Ittih
+ ad\n🏆 AFC Champions League Elite — Matchday 3\n🗓 Mon 26 Oct 2026 
+ · 14:45 UTC\n🏟 Istiqlol stadioni, Farg'ona (Fergana)\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيفتشي فرغانة ضد الاتحاد —
+  دوري أبطال آسيا للنخبة | Tomorrow: Neftchi Fargona vs 
+ Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيفتش
+ ي فرغانة × الاتحاد | Kick-off in 30 min: Neftchi Fargona vs
+  Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050093@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261102T191500Z
+DTEND:20261102T211500Z
+SUMMARY:Al Ittihad vs Al-Ain — AFC Champions League Elite
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/6050093
+DESCRIPTION:⚽ الاتحاد × العين\n🏆 دوري أبطال آس
+ يا للنخبة — الجولة 4\n🗓 الاثنين 2 نوفمبر 2
+ 026 · 22:15 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King A
+ bdullah Sport City، Jeddah\n—————\n⚽ Al Ittihad v Al-Ain\n
+ 🏆 AFC Champions League Elite — Matchday 4\n🗓 Mon 02 Nov 2026 · 19
+ :15 UTC\n🏟 Alinma Bank Stadium at King Abdullah Sport City, Jeddah\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد العين — دوري أب
+ طال آسيا للنخبة | Tomorrow: Al Ittihad vs Al-Ain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × العين | Kick-off in 30 min: Al Ittihad vs Al-Ain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050100@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261123T191500Z
+DTEND:20261123T211500Z
+SUMMARY:Al Ittihad vs Pakhtakor Tashkent — AFC Champions League Elite
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/6050100
+DESCRIPTION:⚽ الاتحاد × باختاكور\n🏆 دوري أبطا
+ ل آسيا للنخبة — الجولة 5\n🗓 الاثنين 23 نوف
+ مبر 2026 · 22:15 بتوقيت الرياض\n🏟 Alinma Bank Stadium a
+ t King Abdullah Sport City، Jeddah\n—————\n⚽ Al Ittihad v Pak
+ htakor Tashkent\n🏆 AFC Champions League Elite — Matchday 5\n🗓 Mon 
+ 23 Nov 2026 · 19:15 UTC\n🏟 Alinma Bank Stadium at King Abdullah Sport 
+ City, Jeddah\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد باختاكور — دوري
+  أبطال آسيا للنخبة | Tomorrow: Al Ittihad vs Pakhtakor Tash
+ kent
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × باختاكور | Kick-off in 30 min: Al Ittihad vs Pakhtakor Tas
+ hkent
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050106@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261207T170000Z
+DTEND:20261207T190000Z
+SUMMARY:Al-Wasl vs Al Ittihad — AFC Champions League Elite
+LOCATION:Zabeel Stadium\, Dubayy (Dubai)\, United Arab Emirates
+GEO:25.219098;55.316918
+URL:https://www.fotmob.com/match/6050106
+DESCRIPTION:⚽ الوصل × الاتحاد\n🏆 دوري أبطال آس
+ يا للنخبة — الجولة 6\n🗓 الاثنين 7 ديسمبر 2
+ 026 · 20:00 بتوقيت الرياض\n🏟 Zabeel Stadium، Dubayy (Duba
+ i)\n—————\n⚽ Al-Wasl v Al Ittihad\n🏆 AFC Champions League E
+ lite — Matchday 6\n🗓 Mon 07 Dec 2026 · 17:00 UTC\n🏟 Zabeel Stadiu
+ m, Dubayy (Dubai)\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الوصل ضد الاتحاد — دوري أب
+ طال آسيا للنخبة | Tomorrow: Al-Wasl vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الوصل 
+ × الاتحاد | Kick-off in 30 min: Al-Wasl vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050115@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270208T191500Z
+DTEND:20270208T211500Z
+SUMMARY:Al Ittihad vs Al-Gharafa — AFC Champions League Elite
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/6050115
+DESCRIPTION:⚽ الاتحاد × الغرافة\n🏆 دوري أبطال 
+ آسيا للنخبة — الجولة 7\n🗓 الاثنين 8 فبراي
+ ر 2027 · 22:15 بتوقيت الرياض\n🏟 Alinma Bank Stadium at Ki
+ ng Abdullah Sport City، Jeddah\n—————\n⚽ Al Ittihad v Al-Ghar
+ afa\n🏆 AFC Champions League Elite — Matchday 7\n🗓 Mon 08 Feb 2027 
+ · 19:15 UTC\n🏟 Alinma Bank Stadium at King Abdullah Sport City, Jeddah
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الغرافة — دوري 
+ أبطال آسيا للنخبة | Tomorrow: Al Ittihad vs Al-Gharafa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الغرافة | Kick-off in 30 min: Al Ittihad vs Al-Gharafa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050125@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270215T191500Z
+DTEND:20270215T211500Z
+SUMMARY:Al-Sadd vs Al Ittihad — AFC Champions League Elite
+LOCATION:Jassim Bin Hamad Stadium (Al-Sadd Stadium)\, ad-Dōha (Doha)\, Qat
+ ar
+GEO:25.267290;51.484305
+URL:https://www.fotmob.com/match/6050125
+DESCRIPTION:⚽ السد × الاتحاد\n🏆 دوري أبطال آسي
+ ا للنخبة — الجولة 8\n🗓 الاثنين 15 فبراير 20
+ 27 · 22:15 بتوقيت الرياض\n🏟 Jassim Bin Hamad Stadium (Al-S
+ add Stadium)، ad-Dōha (Doha)\n—————\n⚽ Al-Sadd v Al Ittihad\
+ n🏆 AFC Champions League Elite — Matchday 8\n🗓 Mon 15 Feb 2027 · 1
+ 9:15 UTC\n🏟 Jassim Bin Hamad Stadium (Al-Sadd Stadium), ad-Dōha (Doha)
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: السد ضد الاتحاد — دوري أبط
+ ال آسيا للنخبة | Tomorrow: Al-Sadd vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: السد ×
+  الاتحاد | Kick-off in 30 min: Al-Sadd vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853726@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260818T161500Z
+DTEND:20260818T181500Z
+SUMMARY:Al Najma vs Al Ittihad (0 - 3) — King's Cup
+LOCATION:King Abdullah Sport City Stadium\, Buraydah\, Saudi Arabia
+GEO:26.378967;43.947845
+URL:https://www.fotmob.com/match/5853726
+DESCRIPTION:⚽ النجمة × الاتحاد (0 - 3)\n🏆 كأس خاد
+ م الحرمين الشريفين — دور الـ32\n🗓 الثلاث
+ اء 18 أغسطس 2026 · 19:15 بتوقيت الرياض\n🏟 King Abdu
+ llah Sport City Stadium، Buraydah\n⚖️ الحكم: Mohammed Al-Ismail\
+ n—————\n⚽ Al Najma v Al Ittihad (0 - 3)\n🏆 King's Cup — R
+ ound of 32\n🗓 Tue 18 Aug 2026 · 16:15 UTC\n🏟 King Abdullah Sport Ci
+ ty Stadium, Buraydah\nReferee: Mohammed Al-Ismail\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النجمة ضد الاتحاد — كأس خا
+ دم الحرمين الشريفين | Tomorrow: Al Najma vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النجم
+ ة × الاتحاد | Kick-off in 30 min: Al Najma vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6125928@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Al Jabalain vs Al Ittihad — King's Cup
+LOCATION:Prince Abdul Aziz bin Musa'ed Stadium\, Ha'il (Hail)\, Saudi Arabi
+ a
+GEO:27.503989;41.697600
+URL:https://www.fotmob.com/match/6125928
+DESCRIPTION:⚽ الجبلين × الاتحاد\n🏆 كأس خادم ال
+ حرمين الشريفين — دور الـ16\n🗓 الثلاثاء 1 
+ ديسمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Prince Abdul Az
+ iz bin Musa'ed Stadium، Ha'il (Hail)\n—————\n⚽ Al Jabalain v 
+ Al Ittihad\n🏆 King's Cup — Round of 16\n🗓 Tue 01 Dec 2026 · 17:00
+  UTC\n🏟 Prince Abdul Aziz bin Musa'ed Stadium, Ha'il (Hail)\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجبلين ضد الاتحاد — كأس خ
+ ادم الحرمين الشريفين | Tomorrow: Al Jabalain vs Al Ittih
+ ad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجبل
+ ين × الاتحاد | Kick-off in 30 min: Al Jabalain vs Al Ittihad
+END:VALARM
+END:VEVENT
+END:VCALENDAR

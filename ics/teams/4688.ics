@@ -1,0 +1,293 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Vissel Kobe — AFC Champions League Elite Fixtures | في
+ سيل كوبي — مباريات دوري أبطال آسيا للنخب
+ ة
+X-WR-CALDESC:Vissel Kobe — all matches in AFC Champions League Elite\, ex
+ act UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated
+  2026-09-05T19:31:10Z.  •  فيسيل كوبي — جميع المبار
+ يات في دوري أبطال آسيا للنخبة بتوقيت UTC ا
+ لدقيق مع الملاعب والقنوات الناقلة. المصد
+ ر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6049983@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260916T121500Z
+DTEND:20260916T141500Z
+SUMMARY:Port FC vs Vissel Kobe — AFC Champions League Elite
+LOCATION:Thammasat Stadium\, Pathum Thani\, Thailand
+GEO:14.068009;100.598931
+URL:https://www.fotmob.com/match/6049983
+DESCRIPTION:⚽ Port FC × فيسيل كوبي\n🏆 دوري أبطال آ
+ سيا للنخبة — الجولة 1\n🗓 الأربعاء 16 سبتم
+ بر 2026 · 15:15 بتوقيت الرياض\n🏟 Thammasat Stadium، Pat
+ hum Thani\n—————\n⚽ Port FC v Vissel Kobe\n🏆 AFC Champions 
+ League Elite — Matchday 1\n🗓 Wed 16 Sep 2026 · 12:15 UTC\n🏟 Thamm
+ asat Stadium, Pathum Thani\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Port FC ضد فيسيل كوبي — دوري أ
+ بطال آسيا للنخبة | Tomorrow: Port FC vs Vissel Kobe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Port FC × 
+ فيسيل كوبي | Kick-off in 30 min: Port FC vs Vissel Kobe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049985@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261014T100000Z
+DTEND:20261014T120000Z
+SUMMARY:Vissel Kobe vs Jeonbuk Hyundai Motors FC — AFC Champions League E
+ lite
+LOCATION:NOEVIR Stadium Kobe\, Kobe\, Japan
+GEO:34.656691;135.168990
+URL:https://www.fotmob.com/match/6049985
+DESCRIPTION:⚽ فيسيل كوبي × تشانبوك موتورز\n🏆 د
+ وري أبطال آسيا للنخبة — الجولة 2\n🗓 الأر
+ بعاء 14 أكتوبر 2026 · 13:00 بتوقيت الرياض\n🏟 NOE
+ VIR Stadium Kobe، Kobe\n—————\n⚽ Vissel Kobe v Jeonbuk Hyunda
+ i Motors FC\n🏆 AFC Champions League Elite — Matchday 2\n🗓 Wed 14 O
+ ct 2026 · 10:00 UTC\n🏟 NOEVIR Stadium Kobe, Kobe\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيسيل كوبي ضد تشانبوك موتو
+ رز — دوري أبطال آسيا للنخبة | Tomorrow: Vissel Kobe
+  vs Jeonbuk Hyundai Motors FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيسيل 
+ كوبي × تشانبوك موتورز | Kick-off in 30 min: Vissel Kobe 
+ vs Jeonbuk Hyundai Motors FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049992@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261027T110000Z
+DTEND:20261027T130000Z
+SUMMARY:Daejeon Hana Citizen vs Vissel Kobe — AFC Champions League Elite
+LOCATION:Daejeon World Cup Stadium\, Daejeon\, South Korea
+GEO:36.365207;127.325213
+URL:https://www.fotmob.com/match/6049992
+DESCRIPTION:⚽ دايجيون سيتيزن × فيسيل كوبي\n🏆 د
+ وري أبطال آسيا للنخبة — الجولة 3\n🗓 الثل
+ اثاء 27 أكتوبر 2026 · 14:00 بتوقيت الرياض\n🏟 Dae
+ jeon World Cup Stadium، Daejeon\n—————\n⚽ Daejeon Hana Citize
+ n v Vissel Kobe\n🏆 AFC Champions League Elite — Matchday 3\n🗓 Tue 
+ 27 Oct 2026 · 11:00 UTC\n🏟 Daejeon World Cup Stadium, Daejeon\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: دايجيون سيتيزن ضد فيسيل كو
+ بي — دوري أبطال آسيا للنخبة | Tomorrow: Daejeon Han
+ a Citizen vs Vissel Kobe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: دايجي
+ ون سيتيزن × فيسيل كوبي | Kick-off in 30 min: Daejeon Han
+ a Citizen vs Vissel Kobe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050003@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261103T110000Z
+DTEND:20261103T130000Z
+SUMMARY:Vissel Kobe vs Ratchaburi FC — AFC Champions League Elite
+LOCATION:NOEVIR Stadium Kobe\, Kobe\, Japan
+GEO:34.656691;135.168990
+URL:https://www.fotmob.com/match/6050003
+DESCRIPTION:⚽ فيسيل كوبي × راتشابوري\n🏆 دوري أ
+ بطال آسيا للنخبة — الجولة 4\n🗓 الثلاثاء 3
+  نوفمبر 2026 · 14:00 بتوقيت الرياض\n🏟 NOEVIR Stadium
+  Kobe، Kobe\n—————\n⚽ Vissel Kobe v Ratchaburi FC\n🏆 AFC C
+ hampions League Elite — Matchday 4\n🗓 Tue 03 Nov 2026 · 11:00 UTC\n
+ 🏟 NOEVIR Stadium Kobe, Kobe\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيسيل كوبي ضد راتشابوري — 
+ دوري أبطال آسيا للنخبة | Tomorrow: Vissel Kobe vs Ratch
+ aburi FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيسيل 
+ كوبي × راتشابوري | Kick-off in 30 min: Vissel Kobe vs Ratcha
+ buri FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050011@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261124T131500Z
+DTEND:20261124T151500Z
+SUMMARY:Công An Hà Nội vs Vissel Kobe — AFC Champions League Elite
+LOCATION:Sân vận động Hàng Đẫy (Hang Day Stadium)\, Hà Nội (Ha
+ noi)\, Vietnam
+GEO:21.029837;105.832973
+URL:https://www.fotmob.com/match/6050011
+DESCRIPTION:⚽ كونغ آن هانوي × فيسيل كوبي\n🏆 دو
+ ري أبطال آسيا للنخبة — الجولة 5\n🗓 الثلا
+ ثاء 24 نوفمبر 2026 · 16:15 بتوقيت الرياض\n🏟 Sân 
+ vận động Hàng Đẫy (Hang Day Stadium)، Hà Nội (Hanoi)\n——
+ ———\n⚽ Công An Hà Nội v Vissel Kobe\n🏆 AFC Champions League
+  Elite — Matchday 5\n🗓 Tue 24 Nov 2026 · 13:15 UTC\n🏟 Sân vận 
+ động Hàng Đẫy (Hang Day Stadium), Hà Nội (Hanoi)\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كونغ آن هانوي ضد فيسيل كوبي
+  — دوري أبطال آسيا للنخبة | Tomorrow: Công An Hà N
+ ội vs Vissel Kobe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كونغ آ
+ ن هانوي × فيسيل كوبي | Kick-off in 30 min: Công An Hà N
+ ội vs Vissel Kobe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050018@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261201T110000Z
+DTEND:20261201T130000Z
+SUMMARY:Vissel Kobe vs Newcastle Jets — AFC Champions League Elite
+LOCATION:NOEVIR Stadium Kobe\, Kobe\, Japan
+GEO:34.656691;135.168990
+URL:https://www.fotmob.com/match/6050018
+DESCRIPTION:⚽ فيسيل كوبي × نيوكاسل جيتس\n🏆 دور
+ ي أبطال آسيا للنخبة — الجولة 6\n🗓 الثلاث
+ اء 1 ديسمبر 2026 · 14:00 بتوقيت الرياض\n🏟 NOEVIR S
+ tadium Kobe، Kobe\n—————\n⚽ Vissel Kobe v Newcastle Jets\n
+ 🏆 AFC Champions League Elite — Matchday 6\n🗓 Tue 01 Dec 2026 · 11
+ :00 UTC\n🏟 NOEVIR Stadium Kobe, Kobe\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيسيل كوبي ضد نيوكاسل جيتس 
+ — دوري أبطال آسيا للنخبة | Tomorrow: Vissel Kobe vs N
+ ewcastle Jets
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيسيل 
+ كوبي × نيوكاسل جيتس | Kick-off in 30 min: Vissel Kobe vs N
+ ewcastle Jets
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050031@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270210T110000Z
+DTEND:20270210T130000Z
+SUMMARY:Vissel Kobe vs Pohang Steelers — AFC Champions League Elite
+LOCATION:NOEVIR Stadium Kobe\, Kobe\, Japan
+GEO:34.656691;135.168990
+URL:https://www.fotmob.com/match/6050031
+DESCRIPTION:⚽ فيسيل كوبي × بوهانغ ستيليرز\n🏆 د
+ وري أبطال آسيا للنخبة — الجولة 7\n🗓 الأر
+ بعاء 10 فبراير 2027 · 14:00 بتوقيت الرياض\n🏟 NOE
+ VIR Stadium Kobe، Kobe\n—————\n⚽ Vissel Kobe v Pohang Steeler
+ s\n🏆 AFC Champions League Elite — Matchday 7\n🗓 Wed 10 Feb 2027 ·
+  11:00 UTC\n🏟 NOEVIR Stadium Kobe, Kobe\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيسيل كوبي ضد بوهانغ ستيلي
+ رز — دوري أبطال آسيا للنخبة | Tomorrow: Vissel Kobe
+  vs Pohang Steelers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيسيل 
+ كوبي × بوهانغ ستيليرز | Kick-off in 30 min: Vissel Kobe 
+ vs Pohang Steelers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050033@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270216T110000Z
+DTEND:20270216T130000Z
+SUMMARY:Buriram United vs Vissel Kobe — AFC Champions League Elite
+LOCATION:Chang Arena\, Buriram\, Thailand
+GEO:14.966666;103.096036
+URL:https://www.fotmob.com/match/6050033
+DESCRIPTION:⚽ بوريرام يونايتد × فيسيل كوبي\n🏆 
+ دوري أبطال آسيا للنخبة — الجولة 8\n🗓 الث
+ لاثاء 16 فبراير 2027 · 14:00 بتوقيت الرياض\n🏟 C
+ hang Arena، Buriram\n—————\n⚽ Buriram United v Vissel Kobe\n
+ 🏆 AFC Champions League Elite — Matchday 8\n🗓 Tue 16 Feb 2027 · 11
+ :00 UTC\n🏟 Chang Arena, Buriram\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوريرام يونايتد ضد فيسيل ك
+ وبي — دوري أبطال آسيا للنخبة | Tomorrow: Buriram U
+ nited vs Vissel Kobe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بورير
+ ام يونايتد × فيسيل كوبي | Kick-off in 30 min: Buriram U
+ nited vs Vissel Kobe
+END:VALARM
+END:VEVENT
+END:VCALENDAR

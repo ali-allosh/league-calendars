@@ -1,0 +1,1050 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Le Mans — Ligue 1 Fixtures | لومان — مباريا
+ ت الدوري الفرنسي
+X-WR-CALDESC:Le Mans — all matches in Ligue 1\, exact UTC kickoffs\, stad
+ iums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10Z. 
+  •  لومان — جميع المباريات في الدوري الف
+ رنسي بتوقيت UTC الدقيق مع الملاعب والقنوا
+ ت الناقلة. المصدر: FotMob + 365scores · تحديث تلقا
+ ئي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5802903@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T184500Z
+DTEND:20260822T204500Z
+SUMMARY:Le Mans vs Brest (2 - 2) — Ligue 1
+LOCATION:Stade Marie-Marvingt\, Le Mans\, France
+GEO:47.959224;0.223525
+URL:https://www.fotmob.com/match/5802903
+DESCRIPTION:⚽ لومان × بريست (2 - 2)\n🏆 الدوري الف
+ رنسي — الجولة 1\n🗓 السبت 22 أغسطس 2026 · 21:45 
+ بتوقيت الرياض\n🏟 Stade Marie-Marvingt، Le Mans\n⚖️ ا
+ لحكم: Aurélien Petit\n👥 الحضور: 19,809\n—————\n⚽
+  Le Mans v Brest (2 - 2)\n🏆 Ligue 1 — Matchday 1\n🗓 Sat 22 Aug 202
+ 6 · 18:45 UTC\n🏟 Stade Marie-Marvingt, Le Mans\nReferee: Aurélien Pet
+ it\nAttendance: 19,809\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد بريست — الدوري ال
+ فرنسي | Tomorrow: Le Mans vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × بريست | Kick-off in 30 min: Le Mans vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802916@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T151500Z
+DTEND:20260830T171500Z
+SUMMARY:Rennes vs Le Mans (3 - 2) — Ligue 1
+LOCATION:Roazhon Park\, Rennes\, France
+GEO:48.107467;-1.712884
+URL:https://www.fotmob.com/match/5802916
+DESCRIPTION:⚽ ستاد رين × لومان (3 - 2)\n🏆 الدوري ا
+ لفرنسي — الجولة 2\n🗓 الأحد 30 أغسطس 2026 · 18:
+ 15 بتوقيت الرياض\n🏟 Roazhon Park، Rennes\n⚖️ الحك
+ م: Romain Lissorgue\n—————\n⚽ Rennes v Le Mans (3 - 2)\n🏆 
+ Ligue 1 — Matchday 2\n🗓 Sun 30 Aug 2026 · 15:15 UTC\n🏟 Roazhon Pa
+ rk, Rennes\nReferee: Romain Lissorgue\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد لومان — الدوري 
+ الفرنسي | Tomorrow: Rennes vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × لومان | Kick-off in 30 min: Rennes vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802924@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T184500Z
+DTEND:20260905T204500Z
+SUMMARY:Nice vs Le Mans — Ligue 1
+LOCATION:Allianz Riviera\, Nice\, France
+GEO:43.705119;7.192622
+URL:https://www.fotmob.com/match/5802924
+DESCRIPTION:⚽ نيس × لومان\n🏆 الدوري الفرنسي — 
+ الجولة 3\n🗓 السبت 5 سبتمبر 2026 · 21:45 بتوقيت 
+ الرياض\n🏟 Allianz Riviera، Nice\n📺 beIN Sports 3 HD\n——
+ ———\n⚽ Nice v Le Mans\n🏆 Ligue 1 — Matchday 3\n🗓 Sat 05 Se
+ p 2026 · 18:45 UTC\n🏟 Allianz Riviera, Nice\n📺 beIN Sports 3 HD\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد لومان — الدوري الفر
+ نسي — 📺 beIN Sports 3 HD | Tomorrow: Nice vs Le Mans | TV: beIN Sp
+ orts 3 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ لومان — 📺 beIN Sports 3 HD | Kick-off in 30 min: Nice vs Le Mans
+  | TV: beIN Sports 3 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802931@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260913T151500Z
+DTEND:20260913T171500Z
+SUMMARY:Le Mans vs Lens — Ligue 1
+LOCATION:Stade Marie-Marvingt\, Le Mans\, France
+GEO:47.959224;0.223525
+URL:https://www.fotmob.com/match/5802931
+DESCRIPTION:⚽ لومان × لانس\n🏆 الدوري الفرنسي 
+ — الجولة 4\n🗓 الأحد 13 سبتمبر 2026 · 18:15 بتوق
+ يت الرياض\n🏟 Stade Marie-Marvingt، Le Mans\n—————\n
+ ⚽ Le Mans v Lens\n🏆 Ligue 1 — Matchday 4\n🗓 Sun 13 Sep 2026 · 1
+ 5:15 UTC\n🏟 Stade Marie-Marvingt, Le Mans\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد لانس — الدوري الف
+ رنسي | Tomorrow: Le Mans vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × لانس | Kick-off in 30 min: Le Mans vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802939@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T184500Z
+DTEND:20260919T204500Z
+SUMMARY:Le Mans vs Lorient — Ligue 1
+LOCATION:Stade Marie-Marvingt
+URL:https://www.fotmob.com/match/5802939
+DESCRIPTION:⚽ لومان × لوريان\n🏆 الدوري الفرنس
+ ي — الجولة 5\n🗓 السبت 19 سبتمبر 2026 · 21:45 بت
+ وقيت الرياض\n🏟 Stade Marie-Marvingt\n—————\n⚽ Le 
+ Mans v Lorient\n🏆 Ligue 1 — Matchday 5\n🗓 Sat 19 Sep 2026 · 18:45
+  UTC\n🏟 Stade Marie-Marvingt\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد لوريان — الدوري ا
+ لفرنسي | Tomorrow: Le Mans vs Lorient
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × لوريان | Kick-off in 30 min: Le Mans vs Lorient
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802952@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261010T184500Z
+DTEND:20261010T204500Z
+SUMMARY:Paris Saint-Germain vs Le Mans — Ligue 1
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/5802952
+DESCRIPTION:⚽ باريس سان جيرمان × لومان\n🏆 الدو
+ ري الفرنسي — الجولة 6\n🗓 السبت 10 أكتوبر 20
+ 26 · 21:45 بتوقيت الرياض\n🏟 Parc des Princes\n————
+ —\n⚽ Paris Saint-Germain v Le Mans\n🏆 Ligue 1 — Matchday 6\n🗓 
+ Sat 10 Oct 2026 · 18:45 UTC\n🏟 Parc des Princes\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد لومان 
+ — الدوري الفرنسي | Tomorrow: Paris Saint-Germain vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × لومان | Kick-off in 30 min: Paris Saint-Germai
+ n vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802957@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261016T184500Z
+DTEND:20261016T204500Z
+SUMMARY:Le Mans vs Toulouse — Ligue 1
+LOCATION:Stade Marie-Marvingt
+URL:https://www.fotmob.com/match/5802957
+DESCRIPTION:⚽ لومان × تولوز\n🏆 الدوري الفرنسي 
+ — الجولة 7\n🗓 الجمعة 16 أكتوبر 2026 · 21:45 بتو
+ قيت الرياض\n🏟 Stade Marie-Marvingt\n—————\n⚽ Le Ma
+ ns v Toulouse\n🏆 Ligue 1 — Matchday 7\n🗓 Fri 16 Oct 2026 · 18:45 
+ UTC\n🏟 Stade Marie-Marvingt\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد تولوز — الدوري ال
+ فرنسي | Tomorrow: Le Mans vs Toulouse
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × تولوز | Kick-off in 30 min: Le Mans vs Toulouse
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802965@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T161500Z
+DTEND:20261025T181500Z
+SUMMARY:Auxerre vs Le Mans — Ligue 1
+LOCATION:Stade de l'Abbe-Deschamps
+URL:https://www.fotmob.com/match/5802965
+DESCRIPTION:⚽ أوكسير × لومان\n🏆 الدوري الفرنس
+ ي — الجولة 8\n🗓 الأحد 25 أكتوبر 2026 · 19:15 بت
+ وقيت الرياض\n🏟 Stade de l'Abbe-Deschamps\n—————\n
+ ⚽ Auxerre v Le Mans\n🏆 Ligue 1 — Matchday 8\n🗓 Sun 25 Oct 2026 
+ · 16:15 UTC\n🏟 Stade de l'Abbe-Deschamps\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوكسير ضد لومان — الدوري ا
+ لفرنسي | Tomorrow: Auxerre vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوكسي
+ ر × لومان | Kick-off in 30 min: Auxerre vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802981@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T194500Z
+DTEND:20261031T214500Z
+SUMMARY:Troyes vs Le Mans — Ligue 1
+LOCATION:Stade de l'Aube
+URL:https://www.fotmob.com/match/5802981
+DESCRIPTION:⚽ تروا × لومان\n🏆 الدوري الفرنسي 
+ — الجولة 9\n🗓 السبت 31 أكتوبر 2026 · 22:45 بتوق
+ يت الرياض\n🏟 Stade de l'Aube\n—————\n⚽ Troyes v Le 
+ Mans\n🏆 Ligue 1 — Matchday 9\n🗓 Sat 31 Oct 2026 · 19:45 UTC\n🏟
+  Stade de l'Aube\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد لومان — الدوري الف
+ رنسي | Tomorrow: Troyes vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  لومان | Kick-off in 30 min: Troyes vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802986@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T161500Z
+DTEND:20261108T181500Z
+SUMMARY:Le Mans vs Monaco — Ligue 1
+LOCATION:Stade Marie-Marvingt
+URL:https://www.fotmob.com/match/5802986
+DESCRIPTION:⚽ لومان × موناكو\n🏆 الدوري الفرنس
+ ي — الجولة 10\n🗓 الأحد 8 نوفمبر 2026 · 19:15 بت
+ وقيت الرياض\n🏟 Stade Marie-Marvingt\n—————\n⚽ Le 
+ Mans v Monaco\n🏆 Ligue 1 — Matchday 10\n🗓 Sun 08 Nov 2026 · 16:15
+  UTC\n🏟 Stade Marie-Marvingt\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد موناكو — الدوري ا
+ لفرنسي | Tomorrow: Le Mans vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × موناكو | Kick-off in 30 min: Le Mans vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802994@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T194500Z
+DTEND:20261122T214500Z
+SUMMARY:Marseille vs Le Mans — Ligue 1
+LOCATION:Stade Orange Velodrome
+URL:https://www.fotmob.com/match/5802994
+DESCRIPTION:⚽ مارسيليا × لومان\n🏆 الدوري الفر
+ نسي — الجولة 11\n🗓 الأحد 22 نوفمبر 2026 · 22:45 
+ بتوقيت الرياض\n🏟 Stade Orange Velodrome\n—————\n
+ ⚽ Marseille v Le Mans\n🏆 Ligue 1 — Matchday 11\n🗓 Sun 22 Nov 202
+ 6 · 19:45 UTC\n🏟 Stade Orange Velodrome\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مارسيليا ضد لومان — الدوري
+  الفرنسي | Tomorrow: Marseille vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مارسي
+ ليا × لومان | Kick-off in 30 min: Marseille vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803004@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:Le Mans vs Lille — Ligue 1
+LOCATION:Stade Marie-Marvingt
+URL:https://www.fotmob.com/match/5803004
+DESCRIPTION:⚽ لومان × ليل\n🏆 الدوري الفرنسي — 
+ الجولة 12\n🗓 السبت 28 نوفمبر 2026 · 19:00 بتوقي
+ ت الرياض\n🏟 Stade Marie-Marvingt\n—————\n⚽ Le Mans v
+  Lille\n🏆 Ligue 1 — Matchday 12\n🗓 Sat 28 Nov 2026 · 16:00 UTC\n
+ 🏟 Stade Marie-Marvingt\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد ليل — الدوري الفر
+ نسي | Tomorrow: Le Mans vs Lille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × ليل | Kick-off in 30 min: Le Mans vs Lille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803013@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T160000Z
+DTEND:20261205T180000Z
+SUMMARY:Paris FC vs Le Mans — Ligue 1
+LOCATION:Stade Jean Bouin
+URL:https://www.fotmob.com/match/5803013
+DESCRIPTION:⚽ باريس أف.سي. × لومان\n🏆 الدوري ال
+ فرنسي — الجولة 13\n🗓 السبت 5 ديسمبر 2026 · 19:
+ 00 بتوقيت الرياض\n🏟 Stade Jean Bouin\n—————\n⚽ 
+ Paris FC v Le Mans\n🏆 Ligue 1 — Matchday 13\n🗓 Sat 05 Dec 2026 · 
+ 16:00 UTC\n🏟 Stade Jean Bouin\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد لومان — الد
+ وري الفرنسي | Tomorrow: Paris FC vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × لومان | Kick-off in 30 min: Paris FC vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803021@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T160000Z
+DTEND:20261212T180000Z
+SUMMARY:Le Havre vs Le Mans — Ligue 1
+LOCATION:Stade Oceane
+URL:https://www.fotmob.com/match/5803021
+DESCRIPTION:⚽ لو آفر × لومان\n🏆 الدوري الفرنسي
+  — الجولة 14\n🗓 السبت 12 ديسمبر 2026 · 19:00 بتو
+ قيت الرياض\n🏟 Stade Oceane\n—————\n⚽ Le Havre v Le
+  Mans\n🏆 Ligue 1 — Matchday 14\n🗓 Sat 12 Dec 2026 · 16:00 UTC\n
+ 🏟 Stade Oceane\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لو آفر ضد لومان — الدوري ال
+ فرنسي | Tomorrow: Le Havre vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لو آفر
+  × لومان | Kick-off in 30 min: Le Havre vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803028@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270102T160000Z
+DTEND:20270102T180000Z
+SUMMARY:Le Mans vs Lyon — Ligue 1
+LOCATION:Stade Marie-Marvingt
+URL:https://www.fotmob.com/match/5803028
+DESCRIPTION:⚽ لومان × أولمبيك ليون\n🏆 الدوري ا
+ لفرنسي — الجولة 15\n🗓 السبت 2 يناير 2027 · 19:
+ 00 بتوقيت الرياض\n🏟 Stade Marie-Marvingt\n—————\n
+ ⚽ Le Mans v Lyon\n🏆 Ligue 1 — Matchday 15\n🗓 Sat 02 Jan 2027 · 
+ 16:00 UTC\n🏟 Stade Marie-Marvingt\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد أولمبيك ليون — ال
+ دوري الفرنسي | Tomorrow: Le Mans vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × أولمبيك ليون | Kick-off in 30 min: Le Mans vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803044@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T160000Z
+DTEND:20270116T180000Z
+SUMMARY:Strasbourg vs Le Mans — Ligue 1
+LOCATION:Stade de la Meinau
+URL:https://www.fotmob.com/match/5803044
+DESCRIPTION:⚽ ستراسبورج × لومان\n🏆 الدوري الف
+ رنسي — الجولة 16\n🗓 السبت 16 يناير 2027 · 19:00 
+ بتوقيت الرياض\n🏟 Stade de la Meinau\n—————\n⚽ S
+ trasbourg v Le Mans\n🏆 Ligue 1 — Matchday 16\n🗓 Sat 16 Jan 2027 ·
+  16:00 UTC\n🏟 Stade de la Meinau\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد لومان — الدور
+ ي الفرنسي | Tomorrow: Strasbourg vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × لومان | Kick-off in 30 min: Strasbourg vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803046@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T160000Z
+DTEND:20270123T180000Z
+SUMMARY:Le Mans vs Angers — Ligue 1
+LOCATION:Stade Marie-Marvingt
+URL:https://www.fotmob.com/match/5803046
+DESCRIPTION:⚽ لومان × أنجيه\n🏆 الدوري الفرنسي 
+ — الجولة 17\n🗓 السبت 23 يناير 2027 · 19:00 بتوق
+ يت الرياض\n🏟 Stade Marie-Marvingt\n—————\n⚽ Le Mans
+  v Angers\n🏆 Ligue 1 — Matchday 17\n🗓 Sat 23 Jan 2027 · 16:00 UTC
+ \n🏟 Stade Marie-Marvingt\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد أنجيه — الدوري ال
+ فرنسي | Tomorrow: Le Mans vs Angers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × أنجيه | Kick-off in 30 min: Le Mans vs Angers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803056@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T160000Z
+DTEND:20270130T180000Z
+SUMMARY:Le Mans vs Nice — Ligue 1
+LOCATION:Stade Marie-Marvingt
+URL:https://www.fotmob.com/match/5803056
+DESCRIPTION:⚽ لومان × نيس\n🏆 الدوري الفرنسي — 
+ الجولة 18\n🗓 السبت 30 يناير 2027 · 19:00 بتوقيت 
+ الرياض\n🏟 Stade Marie-Marvingt\n—————\n⚽ Le Mans v Ni
+ ce\n🏆 Ligue 1 — Matchday 18\n🗓 Sat 30 Jan 2027 · 16:00 UTC\n🏟 
+ Stade Marie-Marvingt\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد نيس — الدوري الفر
+ نسي | Tomorrow: Le Mans vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × نيس | Kick-off in 30 min: Le Mans vs Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803066@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T160000Z
+DTEND:20270206T180000Z
+SUMMARY:Lorient vs Le Mans — Ligue 1
+LOCATION:Stade du Moustoir
+URL:https://www.fotmob.com/match/5803066
+DESCRIPTION:⚽ لوريان × لومان\n🏆 الدوري الفرنس
+ ي — الجولة 19\n🗓 السبت 6 فبراير 2027 · 19:00 بت
+ وقيت الرياض\n🏟 Stade du Moustoir\n—————\n⚽ Lorien
+ t v Le Mans\n🏆 Ligue 1 — Matchday 19\n🗓 Sat 06 Feb 2027 · 16:00 U
+ TC\n🏟 Stade du Moustoir\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لوريان ضد لومان — الدوري ا
+ لفرنسي | Tomorrow: Lorient vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لوريا
+ ن × لومان | Kick-off in 30 min: Lorient vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803074@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270213T160000Z
+DTEND:20270213T180000Z
+SUMMARY:Le Mans vs Paris Saint-Germain — Ligue 1
+LOCATION:Stade Marie-Marvingt
+URL:https://www.fotmob.com/match/5803074
+DESCRIPTION:⚽ لومان × باريس سان جيرمان\n🏆 الدو
+ ري الفرنسي — الجولة 20\n🗓 السبت 13 فبراير 2
+ 027 · 19:00 بتوقيت الرياض\n🏟 Stade Marie-Marvingt\n——
+ ———\n⚽ Le Mans v Paris Saint-Germain\n🏆 Ligue 1 — Matchday 20
+ \n🗓 Sat 13 Feb 2027 · 16:00 UTC\n🏟 Stade Marie-Marvingt\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد باريس سان جيرمان 
+ — الدوري الفرنسي | Tomorrow: Le Mans vs Paris Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × باريس سان جيرمان | Kick-off in 30 min: Le Mans vs Paris S
+ aint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803085@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T160000Z
+DTEND:20270220T180000Z
+SUMMARY:Monaco vs Le Mans — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5803085
+DESCRIPTION:⚽ موناكو × لومان\n🏆 الدوري الفرنس
+ ي — الجولة 21\n🗓 السبت 20 فبراير 2027 · 19:00 بت
+ وقيت الرياض\n🏟 Stade Louis II, Monaco\n—————\n⚽ M
+ onaco v Le Mans\n🏆 Ligue 1 — Matchday 21\n🗓 Sat 20 Feb 2027 · 16:
+ 00 UTC\n🏟 Stade Louis II, Monaco\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد لومان — الدوري ا
+ لفرنسي | Tomorrow: Monaco vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × لومان | Kick-off in 30 min: Monaco vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803092@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270227T160000Z
+DTEND:20270227T180000Z
+SUMMARY:Le Mans vs Paris FC — Ligue 1
+LOCATION:Stade Marie-Marvingt
+URL:https://www.fotmob.com/match/5803092
+DESCRIPTION:⚽ لومان × باريس أف.سي.\n🏆 الدوري ال
+ فرنسي — الجولة 22\n🗓 السبت 27 فبراير 2027 · 19
+ :00 بتوقيت الرياض\n🏟 Stade Marie-Marvingt\n—————\
+ n⚽ Le Mans v Paris FC\n🏆 Ligue 1 — Matchday 22\n🗓 Sat 27 Feb 202
+ 7 · 16:00 UTC\n🏟 Stade Marie-Marvingt\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد باريس أف.سي. — الد
+ وري الفرنسي | Tomorrow: Le Mans vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × باريس أف.سي. | Kick-off in 30 min: Le Mans vs Paris FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803106@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270306T160000Z
+DTEND:20270306T180000Z
+SUMMARY:Toulouse vs Le Mans — Ligue 1
+LOCATION:Stadium de Toulouse
+URL:https://www.fotmob.com/match/5803106
+DESCRIPTION:⚽ تولوز × لومان\n🏆 الدوري الفرنسي 
+ — الجولة 23\n🗓 السبت 6 مارس 2027 · 19:00 بتوقيت
+  الرياض\n🏟 Stadium de Toulouse\n—————\n⚽ Toulouse v L
+ e Mans\n🏆 Ligue 1 — Matchday 23\n🗓 Sat 06 Mar 2027 · 16:00 UTC\n
+ 🏟 Stadium de Toulouse\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تولوز ضد لومان — الدوري ال
+ فرنسي | Tomorrow: Toulouse vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تولوز 
+ × لومان | Kick-off in 30 min: Toulouse vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803111@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T160000Z
+DTEND:20270313T180000Z
+SUMMARY:Le Mans vs Rennes — Ligue 1
+LOCATION:Stade Marie-Marvingt
+URL:https://www.fotmob.com/match/5803111
+DESCRIPTION:⚽ لومان × ستاد رين\n🏆 الدوري الفرن
+ سي — الجولة 24\n🗓 السبت 13 مارس 2027 · 19:00 بتو
+ قيت الرياض\n🏟 Stade Marie-Marvingt\n—————\n⚽ Le Ma
+ ns v Rennes\n🏆 Ligue 1 — Matchday 24\n🗓 Sat 13 Mar 2027 · 16:00 U
+ TC\n🏟 Stade Marie-Marvingt\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد ستاد رين — الدوري 
+ الفرنسي | Tomorrow: Le Mans vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × ستاد رين | Kick-off in 30 min: Le Mans vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803117@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T160000Z
+DTEND:20270320T180000Z
+SUMMARY:Angers vs Le Mans — Ligue 1
+LOCATION:Stade Raymond Kopa
+URL:https://www.fotmob.com/match/5803117
+DESCRIPTION:⚽ أنجيه × لومان\n🏆 الدوري الفرنسي 
+ — الجولة 25\n🗓 السبت 20 مارس 2027 · 19:00 بتوقي
+ ت الرياض\n🏟 Stade Raymond Kopa\n—————\n⚽ Angers v Le
+  Mans\n🏆 Ligue 1 — Matchday 25\n🗓 Sat 20 Mar 2027 · 16:00 UTC\n
+ 🏟 Stade Raymond Kopa\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أنجيه ضد لومان — الدوري ال
+ فرنسي | Tomorrow: Angers vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أنجيه 
+ × لومان | Kick-off in 30 min: Angers vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803130@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270403T150000Z
+DTEND:20270403T170000Z
+SUMMARY:Le Mans vs Marseille — Ligue 1
+LOCATION:Stade Marie-Marvingt
+URL:https://www.fotmob.com/match/5803130
+DESCRIPTION:⚽ لومان × مارسيليا\n🏆 الدوري الفر
+ نسي — الجولة 26\n🗓 السبت 3 أبريل 2027 · 18:00 ب
+ توقيت الرياض\n🏟 Stade Marie-Marvingt\n—————\n⚽ L
+ e Mans v Marseille\n🏆 Ligue 1 — Matchday 26\n🗓 Sat 03 Apr 2027 · 
+ 15:00 UTC\n🏟 Stade Marie-Marvingt\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد مارسيليا — الدوري
+  الفرنسي | Tomorrow: Le Mans vs Marseille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × مارسيليا | Kick-off in 30 min: Le Mans vs Marseille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803135@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T150000Z
+DTEND:20270410T170000Z
+SUMMARY:Le Mans vs Auxerre — Ligue 1
+LOCATION:Stade Marie-Marvingt
+URL:https://www.fotmob.com/match/5803135
+DESCRIPTION:⚽ لومان × أوكسير\n🏆 الدوري الفرنس
+ ي — الجولة 27\n🗓 السبت 10 أبريل 2027 · 18:00 بتو
+ قيت الرياض\n🏟 Stade Marie-Marvingt\n—————\n⚽ Le Ma
+ ns v Auxerre\n🏆 Ligue 1 — Matchday 27\n🗓 Sat 10 Apr 2027 · 15:00 
+ UTC\n🏟 Stade Marie-Marvingt\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد أوكسير — الدوري ا
+ لفرنسي | Tomorrow: Le Mans vs Auxerre
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × أوكسير | Kick-off in 30 min: Le Mans vs Auxerre
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803146@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T150000Z
+DTEND:20270417T170000Z
+SUMMARY:Brest vs Le Mans — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5803146
+DESCRIPTION:⚽ بريست × لومان\n🏆 الدوري الفرنسي 
+ — الجولة 28\n🗓 السبت 17 أبريل 2027 · 18:00 بتوق
+ يت الرياض\n🏟 Stade Francis le Ble\n—————\n⚽ Brest v
+  Le Mans\n🏆 Ligue 1 — Matchday 28\n🗓 Sat 17 Apr 2027 · 15:00 UTC\
+ n🏟 Stade Francis le Ble\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد لومان — الدوري ال
+ فرنسي | Tomorrow: Brest vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × لومان | Kick-off in 30 min: Brest vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803153@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T150000Z
+DTEND:20270424T170000Z
+SUMMARY:Le Mans vs Le Havre — Ligue 1
+LOCATION:Stade Marie-Marvingt
+URL:https://www.fotmob.com/match/5803153
+DESCRIPTION:⚽ لومان × لو آفر\n🏆 الدوري الفرنسي
+  — الجولة 29\n🗓 السبت 24 أبريل 2027 · 18:00 بتوق
+ يت الرياض\n🏟 Stade Marie-Marvingt\n—————\n⚽ Le Mans
+  v Le Havre\n🏆 Ligue 1 — Matchday 29\n🗓 Sat 24 Apr 2027 · 15:00 U
+ TC\n🏟 Stade Marie-Marvingt\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد لو آفر — الدوري ال
+ فرنسي | Tomorrow: Le Mans vs Le Havre
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × لو آفر | Kick-off in 30 min: Le Mans vs Le Havre
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803164@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T150000Z
+DTEND:20270501T170000Z
+SUMMARY:Lens vs Le Mans — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5803164
+DESCRIPTION:⚽ لانس × لومان\n🏆 الدوري الفرنسي 
+ — الجولة 30\n🗓 السبت 1 مايو 2027 · 18:00 بتوقيت
+  الرياض\n🏟 Stade Bollaert-Delelis\n—————\n⚽ Lens v Le
+  Mans\n🏆 Ligue 1 — Matchday 30\n🗓 Sat 01 May 2027 · 15:00 UTC\n
+ 🏟 Stade Bollaert-Delelis\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد لومان — الدوري الف
+ رنسي | Tomorrow: Lens vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  لومان | Kick-off in 30 min: Lens vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803173@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T150000Z
+DTEND:20270508T170000Z
+SUMMARY:Le Mans vs Troyes — Ligue 1
+LOCATION:Stade Marie-Marvingt
+URL:https://www.fotmob.com/match/5803173
+DESCRIPTION:⚽ لومان × تروا\n🏆 الدوري الفرنسي 
+ — الجولة 31\n🗓 السبت 8 مايو 2027 · 18:00 بتوقيت
+  الرياض\n🏟 Stade Marie-Marvingt\n—————\n⚽ Le Mans v T
+ royes\n🏆 Ligue 1 — Matchday 31\n🗓 Sat 08 May 2027 · 15:00 UTC\n
+ 🏟 Stade Marie-Marvingt\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد تروا — الدوري الف
+ رنسي | Tomorrow: Le Mans vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × تروا | Kick-off in 30 min: Le Mans vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803183@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T150000Z
+DTEND:20270516T170000Z
+SUMMARY:Lyon vs Le Mans — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5803183
+DESCRIPTION:⚽ أولمبيك ليون × لومان\n🏆 الدوري ا
+ لفرنسي — الجولة 32\n🗓 الأحد 16 مايو 2027 · 18:0
+ 0 بتوقيت الرياض\n🏟 Groupama Stadium\n—————\n⚽ L
+ yon v Le Mans\n🏆 Ligue 1 — Matchday 32\n🗓 Sun 16 May 2027 · 15:00
+  UTC\n🏟 Groupama Stadium\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد لومان — ال
+ دوري الفرنسي | Tomorrow: Lyon vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × لومان | Kick-off in 30 min: Lyon vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803191@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270522T150000Z
+DTEND:20270522T170000Z
+SUMMARY:Le Mans vs Strasbourg — Ligue 1
+LOCATION:Stade Marie-Marvingt
+URL:https://www.fotmob.com/match/5803191
+DESCRIPTION:⚽ لومان × ستراسبورج\n🏆 الدوري الف
+ رنسي — الجولة 33\n🗓 السبت 22 مايو 2027 · 18:00 ب
+ توقيت الرياض\n🏟 Stade Marie-Marvingt\n—————\n⚽ L
+ e Mans v Strasbourg\n🏆 Ligue 1 — Matchday 33\n🗓 Sat 22 May 2027 ·
+  15:00 UTC\n🏟 Stade Marie-Marvingt\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد ستراسبورج — الدور
+ ي الفرنسي | Tomorrow: Le Mans vs Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × ستراسبورج | Kick-off in 30 min: Le Mans vs Strasbourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803200@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270529T190000Z
+DTEND:20270529T210000Z
+SUMMARY:Lille vs Le Mans — Ligue 1
+LOCATION:Decathlon Arena-Stade Pierre-Mauroy
+URL:https://www.fotmob.com/match/5803200
+DESCRIPTION:⚽ ليل × لومان\n🏆 الدوري الفرنسي — 
+ الجولة 34\n🗓 السبت 29 مايو 2027 · 22:00 بتوقيت ا
+ لرياض\n🏟 Decathlon Arena-Stade Pierre-Mauroy\n—————\n⚽
+  Lille v Le Mans\n🏆 Ligue 1 — Matchday 34\n🗓 Sat 29 May 2027 · 19
+ :00 UTC\n🏟 Decathlon Arena-Stade Pierre-Mauroy\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليل ضد لومان — الدوري الفر
+ نسي | Tomorrow: Lille vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليل × 
+ لومان | Kick-off in 30 min: Lille vs Le Mans
+END:VALARM
+END:VEVENT
+END:VCALENDAR

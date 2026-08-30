@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Birmingham City — FA Cup Fixtures | Birmingham City — 
+ مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Birmingham City — all matches in FA Cup\, exact UTC kickoffs
+ \, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:3
+ 1:10Z.  •  Birmingham City — جميع المباريات في كأس 
+ الاتحاد الإنجليزي بتوقيت UTC الدقيق مع ال
+ ملاعب والقنوات الناقلة. المصدر: FotMob + 365scor
+ es · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5089918@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260110T174500Z
+DTEND:20260110T194500Z
+SUMMARY:Cambridge United vs Birmingham City (2 - 3) — FA Cup
+LOCATION:Cledara Abbey Stadium\, Cambridge\, Cambridgeshire\, England
+GEO:52.212112;0.154150
+URL:https://www.fotmob.com/match/5089918
+DESCRIPTION:⚽ Cambridge United × Birmingham City (2 - 3)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الثالث\n🗓 السب
+ ت 10 يناير 2026 · 20:45 بتوقيت الرياض\n🏟 Cledara Abb
+ ey Stadium، Cambridge, Cambridgeshire\n⚖️ الحكم: Matthew Corlett
+ \n👥 الحضور: 6,241\n—————\n⚽ Cambridge United v Birmin
+ gham City (2 - 3)\n🏆 FA Cup — Round 3\n🗓 Sat 10 Jan 2026 · 17:45 
+ UTC\n🏟 Cledara Abbey Stadium, Cambridge, Cambridgeshire\nReferee: Matth
+ ew Corlett\nAttendance: 6,241\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Cambridge United ضد Birmingham City — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Cambridge United vs Birmingh
+ am City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Cambridge U
+ nited × Birmingham City | Kick-off in 30 min: Cambridge United vs Birming
+ ham City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5135177@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260215T120000Z
+DTEND:20260215T140000Z
+SUMMARY:Birmingham City vs Leeds United (1 - 1) — FA Cup
+LOCATION:St. Andrew's @ Knighthead Park\, Birmingham\, England
+GEO:52.475733;-1.868105
+URL:https://www.fotmob.com/match/5135177
+DESCRIPTION:⚽ Birmingham City × ليدز يونايتد (1 - 1)\n🏆 ك
+ أس الاتحاد الإنجليزي — الدور الرابع\n🗓 
+ الأحد 15 فبراير 2026 · 15:00 بتوقيت الرياض\n🏟 S
+ t. Andrew's @ Knighthead Park، Birmingham\n⚖️ الحكم: Simon Hoope
+ r\n👥 الحضور: 28,035\n—————\n⚽ Birmingham City v Leeds
+  United (1 - 1)\n🏆 FA Cup — Round 4\n🗓 Sun 15 Feb 2026 · 12:00 UT
+ C\n🏟 St. Andrew's @ Knighthead Park, Birmingham\nReferee: Simon Hooper\
+ nAttendance: 28,035\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Birmingham City ضد ليدز يونايتد — 
+ كأس الاتحاد الإنجليزي | Tomorrow: Birmingham City vs Le
+ eds United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Birmingham 
+ City × ليدز يونايتد | Kick-off in 30 min: Birmingham City vs L
+ eeds United
+END:VALARM
+END:VEVENT
+END:VCALENDAR

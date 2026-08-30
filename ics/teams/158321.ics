@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Brackley Town — FA Cup Fixtures | Brackley Town — مب
+ اريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Brackley Town — all matches in FA Cup\, exact UTC kickoffs\,
+  stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:
+ 10Z.  •  Brackley Town — جميع المباريات في كأس ال
+ اتحاد الإنجليزي بتوقيت UTC الدقيق مع المل
+ اعب والقنوات الناقلة. المصدر: FotMob + 365scores 
+ · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010645@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T173000Z
+DTEND:20251101T193000Z
+SUMMARY:Brackley Town vs Notts County (2 - 2) — FA Cup
+LOCATION:St. James Park\, Brackley\, Northamptonshire\, England
+GEO:52.024594;-1.144075
+URL:https://www.fotmob.com/match/5010645
+DESCRIPTION:⚽ Brackley Town × Notts County (2 - 2)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الأول\n🗓 السبت 1 ن
+ وفمبر 2025 · 20:30 بتوقيت الرياض\n🏟 St. James Park، 
+ Brackley, Northamptonshire\n⚖️ الحكم: Ben Atkinson\n👥 الحض
+ ور: 2,233\n—————\n⚽ Brackley Town v Notts County (2 - 2)\n
+ 🏆 FA Cup — Round 1\n🗓 Sat 01 Nov 2025 · 17:30 UTC\n🏟 St. James
+  Park, Brackley, Northamptonshire\nReferee: Ben Atkinson\nAttendance: 2,23
+ 3\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Brackley Town ضد Notts County — كأس الا
+ تحاد الإنجليزي | Tomorrow: Brackley Town vs Notts County
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Brackley To
+ wn × Notts County | Kick-off in 30 min: Brackley Town vs Notts County
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040322@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251208T193000Z
+DTEND:20251208T213000Z
+SUMMARY:Brackley Town vs Burton Albion (1 - 3) — FA Cup
+LOCATION:St. James Park\, Brackley\, Northamptonshire\, England
+GEO:52.024594;-1.144075
+URL:https://www.fotmob.com/match/5040322
+DESCRIPTION:⚽ Brackley Town × Burton Albion (1 - 3)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الثاني\n🗓 الاثني
+ ن 8 ديسمبر 2025 · 22:30 بتوقيت الرياض\n🏟 St. James 
+ Park، Brackley, Northamptonshire\n⚖️ الحكم: Alex Chilowicz\n👥
+  الحضور: 2,978\n—————\n⚽ Brackley Town v Burton Albion (
+ 1 - 3)\n🏆 FA Cup — Round 2\n🗓 Mon 08 Dec 2025 · 19:30 UTC\n🏟 S
+ t. James Park, Brackley, Northamptonshire\nReferee: Alex Chilowicz\nAttend
+ ance: 2,978\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Brackley Town ضد Burton Albion — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Brackley Town vs Burton Albion
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Brackley To
+ wn × Burton Albion | Kick-off in 30 min: Brackley Town vs Burton Albion
+END:VALARM
+END:VEVENT
+END:VCALENDAR

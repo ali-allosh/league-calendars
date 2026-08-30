@@ -1,0 +1,279 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Fenerbahçe — UEFA Champions League Fixtures | فنرب
+ خشة — مباريات دوري أبطال أوروبا
+X-WR-CALDESC:Fenerbahçe — all matches in UEFA Champions League\, exact U
+ TC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026
+ -09-05T19:31:10Z.  •  فنربخشة — جميع المباريات ف
+ ي دوري أبطال أوروبا بتوقيت UTC الدقيق مع ا
+ لملاعب والقنوات الناقلة. المصدر: FotMob + 365sc
+ ores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6106331@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260910T164500Z
+DTEND:20260910T184500Z
+SUMMARY:Fenerbahçe vs Roma — UEFA Champions League
+LOCATION:Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi\, 
+ İstanbul\, Türkiye
+GEO:40.987799;29.036860
+URL:https://www.fotmob.com/match/6106331
+DESCRIPTION:⚽ فنربخشة × روما\n🏆 دوري أبطال أور
+ وبا — الجولة 1\n🗓 الخميس 10 سبتمبر 2026 · 19:45
+  بتوقيت الرياض\n🏟 Chobani Stadyumu Fenerbahçe Şükrü Sar
+ acoğlu Spor Kompleksi، İstanbul\n📺 HBO Max (UK)، Paramount+ (US)\n
+ —————\n⚽ Fenerbahçe v Roma\n🏆 UEFA Champions League — Ma
+ tchday 1\n🗓 Thu 10 Sep 2026 · 16:45 UTC\n🏟 Chobani Stadyumu Fenerba
+ hçe Şükrü Saracoğlu Spor Kompleksi, İstanbul\n📺 HBO Max (UK), Par
+ amount+ (US)\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فنربخشة ضد روما — دوري أبط
+ ال أوروبا — 📺 HBO Max (UK)، Paramount+ (US) | Tomorrow: Fene
+ rbahçe vs Roma | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فنربخ
+ شة × روما — 📺 HBO Max (UK)، Paramount+ (US) | Kick-off in 30 
+ min: Fenerbahçe vs Roma | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106284@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+SUMMARY:Aston Villa vs Fenerbahçe — UEFA Champions League
+LOCATION:Villa Park\, Birmingham\, England
+GEO:52.509091;-1.884842
+URL:https://www.fotmob.com/match/6106284
+DESCRIPTION:⚽ أستون فيلا × فنربخشة\n🏆 دوري أبط
+ ال أوروبا — الجولة 2\n🗓 الأربعاء 14 أكتوب
+ ر 2026 · 22:00 بتوقيت الرياض\n🏟 Villa Park، Birmingham\n
+ —————\n⚽ Aston Villa v Fenerbahçe\n🏆 UEFA Champions League
+  — Matchday 2\n🗓 Wed 14 Oct 2026 · 19:00 UTC\n🏟 Villa Park, Birmi
+ ngham\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد فنربخشة — دو
+ ري أبطال أوروبا | Tomorrow: Aston Villa vs Fenerbahçe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × فنربخشة | Kick-off in 30 min: Aston Villa vs Fenerbahç
+ e
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106333@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T164500Z
+DTEND:20261020T184500Z
+SUMMARY:Fenerbahçe vs Slavia Prague — UEFA Champions League
+LOCATION:Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi\, 
+ İstanbul\, Türkiye
+GEO:40.987799;29.036860
+URL:https://www.fotmob.com/match/6106333
+DESCRIPTION:⚽ فنربخشة × سلافيا براغ\n🏆 دوري أب
+ طال أوروبا — الجولة 3\n🗓 الثلاثاء 20 أكتو
+ بر 2026 · 19:45 بتوقيت الرياض\n🏟 Chobani Stadyumu Fenerb
+ ahçe Şükrü Saracoğlu Spor Kompleksi، İstanbul\n—————\n⚽
+  Fenerbahçe v Slavia Prague\n🏆 UEFA Champions League — Matchday 3\n
+ 🗓 Tue 20 Oct 2026 · 16:45 UTC\n🏟 Chobani Stadyumu Fenerbahçe Şük
+ rü Saracoğlu Spor Kompleksi, İstanbul\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فنربخشة ضد سلافيا براغ — د
+ وري أبطال أوروبا | Tomorrow: Fenerbahçe vs Slavia Prague
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فنربخ
+ شة × سلافيا براغ | Kick-off in 30 min: Fenerbahçe vs Slavia 
+ Prague
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106330@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261104T174500Z
+DTEND:20261104T194500Z
+SUMMARY:Fenerbahçe vs Liverpool — UEFA Champions League
+LOCATION:Chobani Stadyumu Fenerbahce Sukru Saracoglu Spor Kompleksi
+URL:https://www.fotmob.com/match/6106330
+DESCRIPTION:⚽ فنربخشة × ليفربول\n🏆 دوري أبطال 
+ أوروبا — الجولة 4\n🗓 الأربعاء 4 نوفمبر 2026
+  · 20:45 بتوقيت الرياض\n🏟 Chobani Stadyumu Fenerbahce Sukr
+ u Saracoglu Spor Kompleksi\n—————\n⚽ Fenerbahçe v Liverpool\n
+ 🏆 UEFA Champions League — Matchday 4\n🗓 Wed 04 Nov 2026 · 17:45 U
+ TC\n🏟 Chobani Stadyumu Fenerbahce Sukru Saracoglu Spor Kompleksi\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فنربخشة ضد ليفربول — دوري 
+ أبطال أوروبا | Tomorrow: Fenerbahçe vs Liverpool
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فنربخ
+ شة × ليفربول | Kick-off in 30 min: Fenerbahçe vs Liverpool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106336@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Shakhtar Donetsk vs Fenerbahçe — UEFA Champions League
+LOCATION:Stamford Bridge
+URL:https://www.fotmob.com/match/6106336
+DESCRIPTION:⚽ شاختار دونيتسك × فنربخشة\n🏆 دور
+ ي أبطال أوروبا — الجولة 5\n🗓 الأربعاء 25 ن
+ وفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Stamford Bridge\n
+ —————\n⚽ Shakhtar Donetsk v Fenerbahçe\n🏆 UEFA Champions L
+ eague — Matchday 5\n🗓 Wed 25 Nov 2026 · 20:00 UTC\n🏟 Stamford Bri
+ dge\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شاختار دونيتسك ضد فنربخشة 
+ — دوري أبطال أوروبا | Tomorrow: Shakhtar Donetsk vs Fener
+ bahçe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شاختا
+ ر دونيتسك × فنربخشة | Kick-off in 30 min: Shakhtar Donetsk
+  vs Fenerbahçe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106407@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:LASK vs Fenerbahçe — UEFA Champions League
+LOCATION:Raiffeisen Arena
+URL:https://www.fotmob.com/match/6106407
+DESCRIPTION:⚽ LASK × فنربخشة\n🏆 دوري أبطال أوروب
+ ا — الجولة 6\n🗓 الأربعاء 9 ديسمبر 2026 · 23:00 
+ بتوقيت الرياض\n🏟 Raiffeisen Arena\n—————\n⚽ LAS
+ K v Fenerbahçe\n🏆 UEFA Champions League — Matchday 6\n🗓 Wed 09 De
+ c 2026 · 20:00 UTC\n🏟 Raiffeisen Arena\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: LASK ضد فنربخشة — دوري أبطال 
+ أوروبا | Tomorrow: LASK vs Fenerbahçe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: LASK × ف
+ نربخشة | Kick-off in 30 min: LASK vs Fenerbahçe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106332@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T174500Z
+DTEND:20270120T194500Z
+SUMMARY:Fenerbahçe vs Villarreal — UEFA Champions League
+LOCATION:Chobani Stadyumu Fenerbahce Sukru Saracoglu Spor Kompleksi
+URL:https://www.fotmob.com/match/6106332
+DESCRIPTION:⚽ فنربخشة × فياريال\n🏆 دوري أبطال 
+ أوروبا — الجولة 7\n🗓 الأربعاء 20 يناير 2027 
+ · 20:45 بتوقيت الرياض\n🏟 Chobani Stadyumu Fenerbahce Sukru
+  Saracoglu Spor Kompleksi\n—————\n⚽ Fenerbahçe v Villarreal\n
+ 🏆 UEFA Champions League — Matchday 7\n🗓 Wed 20 Jan 2027 · 17:45 U
+ TC\n🏟 Chobani Stadyumu Fenerbahce Sukru Saracoglu Spor Kompleksi\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فنربخشة ضد فياريال — دوري 
+ أبطال أوروبا | Tomorrow: Fenerbahçe vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فنربخ
+ شة × فياريال | Kick-off in 30 min: Fenerbahçe vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106268@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Atlético Madrid vs Fenerbahçe — UEFA Champions League
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/6106268
+DESCRIPTION:⚽ أتلتيكو مدريد × فنربخشة\n🏆 دوري 
+ أبطال أوروبا — الجولة 8\n🗓 الأربعاء 27 ين
+ اير 2027 · 23:00 بتوقيت الرياض\n🏟 Riyadh Air Metropolit
+ ano\n—————\n⚽ Atlético Madrid v Fenerbahçe\n🏆 UEFA Champi
+ ons League — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Riyadh 
+ Air Metropolitano\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد فنربخشة —
+  دوري أبطال أوروبا | Tomorrow: Atlético Madrid vs Fenerbah
+ çe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × فنربخشة | Kick-off in 30 min: Atlético Madrid v
+ s Fenerbahçe
+END:VALARM
+END:VEVENT
+END:VCALENDAR

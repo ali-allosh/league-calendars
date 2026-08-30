@@ -1,0 +1,653 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Ghazl Al Mahalla — Egyptian Premier League Fixtures | غ
+ زل المحلة — مباريات الدوري المصري الممت
+ از
+X-WR-CALDESC:Ghazl Al Mahalla — all matches in Egyptian Premier League\, 
+ exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updat
+ ed 2026-09-05T19:31:10Z.  •  غزل المحلة — جميع المبا
+ ريات في الدوري المصري الممتاز بتوقيت UTC ا
+ لدقيق مع الملاعب والقنوات الناقلة. المصد
+ ر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5995575@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260822T170000Z
+DTEND:20260822T190000Z
+SUMMARY:Ghazl Al Mahalla vs Pyramids FC (0 - 3) — Egyptian Premier League
+LOCATION:El Mahalla Stadium\, El-Mahalla El-Kubra\, Egypt
+GEO:30.960829;31.172917
+URL:https://www.fotmob.com/match/5995575
+DESCRIPTION:⚽ غزل المحلة × بيراميدز (0 - 3)\n🏆 ال
+ دوري المصري الممتاز — الجولة 1\n🗓 السبت 2
+ 2 أغسطس 2026 · 20:00 بتوقيت الرياض\n🏟 El Mahalla Stad
+ ium، El-Mahalla El-Kubra\n⚖️ الحكم: Tarek Magdy\n—————
+ \n⚽ Ghazl Al Mahalla v Pyramids FC (0 - 3)\n🏆 Egyptian Premier League
+  — Matchday 1\n🗓 Sat 22 Aug 2026 · 17:00 UTC\n🏟 El Mahalla Stadiu
+ m, El-Mahalla El-Kubra\nReferee: Tarek Magdy\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غزل المحلة ضد بيراميدز — ا
+ لدوري المصري الممتاز | Tomorrow: Ghazl Al Mahalla vs Pyr
+ amids FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غزل ال
+ محلة × بيراميدز | Kick-off in 30 min: Ghazl Al Mahalla vs Pyr
+ amids FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996695@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260827T140000Z
+DTEND:20260827T160000Z
+SUMMARY:Modern Sport FC vs Ghazl Al Mahalla (2 - 0) — Egyptian Premier Le
+ ague
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996695
+DESCRIPTION:⚽ مودرن سبورت × غزل المحلة (2 - 0)\n🏆 
+ الدوري المصري الممتاز — الجولة 2\n🗓 الخم
+ يس 27 أغسطس 2026 · 17:00 بتوقيت الرياض\n🏟 Cairo Int
+ ernational Stadium، al-Qāhirah (Cairo)\n⚖️ الحكم: Walid Nagy\n
+ —————\n⚽ Modern Sport FC v Ghazl Al Mahalla (2 - 0)\n🏆 Egyp
+ tian Premier League — Matchday 2\n🗓 Thu 27 Aug 2026 · 14:00 UTC\n
+ 🏟 Cairo International Stadium, al-Qāhirah (Cairo)\nReferee: Walid Nagy
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مودرن سبورت ضد غزل المحلة 
+ — الدوري المصري الممتاز | Tomorrow: Modern Sport FC v
+ s Ghazl Al Mahalla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مودرن 
+ سبورت × غزل المحلة | Kick-off in 30 min: Modern Sport FC vs
+  Ghazl Al Mahalla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996706@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260901T140000Z
+DTEND:20260901T160000Z
+SUMMARY:Ghazl Al Mahalla vs Al Sharkeyah-ENPPI (0 - 0) — Egyptian Premier
+  League
+LOCATION:El Mahalla Stadium\, El-Mahalla El-Kubra\, Egypt
+GEO:30.960829;31.172917
+URL:https://www.fotmob.com/match/5996706
+DESCRIPTION:⚽ غزل المحلة × Al Sharkeyah-ENPPI (0 - 0)\n🏆 ا
+ لدوري المصري الممتاز — الجولة 3\n🗓 الثلا
+ ثاء 1 سبتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 El Mah
+ alla Stadium، El-Mahalla El-Kubra\n⚖️ الحكم: Mohamed El Ghazi\n
+ —————\n⚽ Ghazl Al Mahalla v Al Sharkeyah-ENPPI (0 - 0)\n🏆 E
+ gyptian Premier League — Matchday 3\n🗓 Tue 01 Sep 2026 · 14:00 UTC\n
+ 🏟 El Mahalla Stadium, El-Mahalla El-Kubra\nReferee: Mohamed El Ghazi\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غزل المحلة ضد Al Sharkeyah-ENPPI — 
+ الدوري المصري الممتاز | Tomorrow: Ghazl Al Mahalla vs A
+ l Sharkeyah-ENPPI
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غزل ال
+ محلة × Al Sharkeyah-ENPPI | Kick-off in 30 min: Ghazl Al Mahalla vs A
+ l Sharkeyah-ENPPI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996714@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260907T170000Z
+DTEND:20260907T190000Z
+SUMMARY:National Bank vs Ghazl Al Mahalla — Egyptian Premier League
+LOCATION:Cairo International Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.069108;31.312339
+URL:https://www.fotmob.com/match/5996714
+DESCRIPTION:⚽ البنك الاهلي × غزل المحلة\n🏆 الد
+ وري المصري الممتاز — الجولة 4\n🗓 الاثنين
+  7 سبتمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Cairo Intern
+ ational Stadium، al-Qāhirah (Cairo)\n—————\n⚽ National Bank 
+ v Ghazl Al Mahalla\n🏆 Egyptian Premier League — Matchday 4\n🗓 Mon 
+ 07 Sep 2026 · 17:00 UTC\n🏟 Cairo International Stadium, al-Qāhirah (C
+ airo)\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: البنك الاهلي ضد غزل المحلة 
+ — الدوري المصري الممتاز | Tomorrow: National Bank vs 
+ Ghazl Al Mahalla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: البنك 
+ الاهلي × غزل المحلة | Kick-off in 30 min: National Bank vs
+  Ghazl Al Mahalla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996731@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260916T170000Z
+DTEND:20260916T190000Z
+SUMMARY:Ghazl Al Mahalla vs Zamalek SC — Egyptian Premier League
+LOCATION:El Mahalla Stadium\, El-Mahalla El-Kubra\, Egypt
+GEO:30.960829;31.172917
+URL:https://www.fotmob.com/match/5996731
+DESCRIPTION:⚽ غزل المحلة × الزمالك\n🏆 الدوري ا
+ لمصري الممتاز — الجولة 5\n🗓 الأربعاء 16 س
+ بتمبر 2026 · 20:00 بتوقيت الرياض\n🏟 El Mahalla Stadiu
+ m، El-Mahalla El-Kubra\n—————\n⚽ Ghazl Al Mahalla v Zamalek S
+ C\n🏆 Egyptian Premier League — Matchday 5\n🗓 Wed 16 Sep 2026 · 17
+ :00 UTC\n🏟 El Mahalla Stadium, El-Mahalla El-Kubra\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غزل المحلة ضد الزمالك — ال
+ دوري المصري الممتاز | Tomorrow: Ghazl Al Mahalla vs Zamal
+ ek SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غزل ال
+ محلة × الزمالك | Kick-off in 30 min: Ghazl Al Mahalla vs Zamal
+ ek SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996737@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261012T170000Z
+DTEND:20261012T190000Z
+SUMMARY:Smouha SC vs Ghazl Al Mahalla — Egyptian Premier League
+LOCATION:Borg El Arab Stadium\, Al-Iskandarîah (Alexandria)\, Egypt
+GEO:30.999499;29.729433
+URL:https://www.fotmob.com/match/5996737
+DESCRIPTION:⚽ سموحة × غزل المحلة\n🏆 الدوري الم
+ صري الممتاز — الجولة 6\n🗓 الاثنين 12 أكتو
+ بر 2026 · 20:00 بتوقيت الرياض\n🏟 Borg El Arab Stadium، 
+ Al-Iskandarîah (Alexandria)\n—————\n⚽ Smouha SC v Ghazl Al Ma
+ halla\n🏆 Egyptian Premier League — Matchday 6\n🗓 Mon 12 Oct 2026 
+ · 17:00 UTC\n🏟 Borg El Arab Stadium, Al-Iskandarîah (Alexandria)\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سموحة ضد غزل المحلة — الدو
+ ري المصري الممتاز | Tomorrow: Smouha SC vs Ghazl Al Mahalla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سموحة 
+ × غزل المحلة | Kick-off in 30 min: Smouha SC vs Ghazl Al Mahalla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996748@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261020T170000Z
+DTEND:20261020T190000Z
+SUMMARY:Ghazl Al Mahalla vs Al Ittihad Alexandria — Egyptian Premier Leag
+ ue
+LOCATION:El Mahalla Stadium\, El-Mahalla El-Kubra\, Egypt
+GEO:30.960829;31.172917
+URL:https://www.fotmob.com/match/5996748
+DESCRIPTION:⚽ غزل المحلة × الاتحاد السكندري\n
+ 🏆 الدوري المصري الممتاز — الجولة 7\n🗓 ا
+ لثلاثاء 20 أكتوبر 2026 · 20:00 بتوقيت الرياض\n
+ 🏟 El Mahalla Stadium، El-Mahalla El-Kubra\n—————\n⚽ Ghazl 
+ Al Mahalla v Al Ittihad Alexandria\n🏆 Egyptian Premier League — Match
+ day 7\n🗓 Tue 20 Oct 2026 · 17:00 UTC\n🏟 El Mahalla Stadium, El-Maha
+ lla El-Kubra\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غزل المحلة ضد الاتحاد السك
+ ندري — الدوري المصري الممتاز | Tomorrow: Ghazl Al
+  Mahalla vs Al Ittihad Alexandria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غزل ال
+ محلة × الاتحاد السكندري | Kick-off in 30 min: Ghazl Al
+  Mahalla vs Al Ittihad Alexandria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996759@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:Abo Qir Semad vs Ghazl Al Mahalla — Egyptian Premier League
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996759
+DESCRIPTION:⚽ ابو قير للاسمدة × غزل المحلة\n🏆 
+ الدوري المصري الممتاز — الجولة 8\n🗓 السب
+ ت 31 أكتوبر 2026 · 18:00 بتوقيت الرياض\n🏟 Alexandri
+ a Stadium\n—————\n⚽ Abo Qir Semad v Ghazl Al Mahalla\n🏆 Egy
+ ptian Premier League — Matchday 8\n🗓 Sat 31 Oct 2026 · 15:00 UTC\n
+ 🏟 Alexandria Stadium\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ابو قير للاسمدة ضد غزل المح
+ لة — الدوري المصري الممتاز | Tomorrow: Abo Qir Sema
+ d vs Ghazl Al Mahalla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ابو قي
+ ر للاسمدة × غزل المحلة | Kick-off in 30 min: Abo Qir Sem
+ ad vs Ghazl Al Mahalla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996771@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261125T180000Z
+DTEND:20261125T200000Z
+SUMMARY:Ghazl Al Mahalla vs Petrojet-Suez — Egyptian Premier League
+LOCATION:Ghazl El Mahalla Stadium
+URL:https://www.fotmob.com/match/5996771
+DESCRIPTION:⚽ غزل المحلة × منتخب السويس بتروجت
+ \n🏆 الدوري المصري الممتاز — الجولة 9\n🗓 
+ الأربعاء 25 نوفمبر 2026 · 21:00 بتوقيت الرياض\n
+ 🏟 Ghazl El Mahalla Stadium\n—————\n⚽ Ghazl Al Mahalla v Pet
+ rojet-Suez\n🏆 Egyptian Premier League — Matchday 9\n🗓 Wed 25 Nov 2
+ 026 · 18:00 UTC\n🏟 Ghazl El Mahalla Stadium\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غزل المحلة ضد منتخب السويس 
+ بتروجت — الدوري المصري الممتاز | Tomorrow: Ghaz
+ l Al Mahalla vs Petrojet-Suez
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غزل ال
+ محلة × منتخب السويس بتروجت | Kick-off in 30 min: Gha
+ zl Al Mahalla vs Petrojet-Suez
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996781@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261210T180000Z
+DTEND:20261210T200000Z
+SUMMARY:Ghazl Al Mahalla vs Al Ahly SC — Egyptian Premier League
+LOCATION:Ghazl El Mahalla Stadium
+URL:https://www.fotmob.com/match/5996781
+DESCRIPTION:⚽ غزل المحلة × الأهلي\n🏆 الدوري ال
+ مصري الممتاز — الجولة 10\n🗓 الخميس 10 ديسم
+ بر 2026 · 21:00 بتوقيت الرياض\n🏟 Ghazl El Mahalla Stadiu
+ m\n—————\n⚽ Ghazl Al Mahalla v Al Ahly SC\n🏆 Egyptian Premi
+ er League — Matchday 10\n🗓 Thu 10 Dec 2026 · 18:00 UTC\n🏟 Ghazl E
+ l Mahalla Stadium\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غزل المحلة ضد الأهلي — الد
+ وري المصري الممتاز | Tomorrow: Ghazl Al Mahalla vs Al Ahly
+  SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غزل ال
+ محلة × الأهلي | Kick-off in 30 min: Ghazl Al Mahalla vs Al Ahly
+  SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996790@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261216T180000Z
+DTEND:20261216T200000Z
+SUMMARY:Al Masry SC vs Ghazl Al Mahalla — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996790
+DESCRIPTION:⚽ المصري × غزل المحلة\n🏆 الدوري ال
+ مصري الممتاز — الجولة 11\n🗓 الأربعاء 16 دي
+ سمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Cairo Int'l Stadium
+ \n—————\n⚽ Al Masry SC v Ghazl Al Mahalla\n🏆 Egyptian Premi
+ er League — Matchday 11\n🗓 Wed 16 Dec 2026 · 18:00 UTC\n🏟 Cairo I
+ nt'l Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المصري ضد غزل المحلة — الد
+ وري المصري الممتاز | Tomorrow: Al Masry SC vs Ghazl Al Mah
+ alla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المصر
+ ي × غزل المحلة | Kick-off in 30 min: Al Masry SC vs Ghazl Al Ma
+ halla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996794@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261222T180000Z
+DTEND:20261222T200000Z
+SUMMARY:Ghazl Al Mahalla vs Al Mokawloon Al Arab — Egyptian Premier Leagu
+ e
+LOCATION:Ghazl El Mahalla Stadium
+URL:https://www.fotmob.com/match/5996794
+DESCRIPTION:⚽ غزل المحلة × المقاولون العرب\n🏆 
+ الدوري المصري الممتاز — الجولة 12\n🗓 الث
+ لاثاء 22 ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 G
+ hazl El Mahalla Stadium\n—————\n⚽ Ghazl Al Mahalla v Al Mokawl
+ oon Al Arab\n🏆 Egyptian Premier League — Matchday 12\n🗓 Tue 22 Dec
+  2026 · 18:00 UTC\n🏟 Ghazl El Mahalla Stadium\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غزل المحلة ضد المقاولون ال
+ عرب — الدوري المصري الممتاز | Tomorrow: Ghazl Al M
+ ahalla vs Al Mokawloon Al Arab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غزل ال
+ محلة × المقاولون العرب | Kick-off in 30 min: Ghazl Al M
+ ahalla vs Al Mokawloon Al Arab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996802@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261227T150000Z
+DTEND:20261227T170000Z
+SUMMARY:El Gouna FC vs Ghazl Al Mahalla — Egyptian Premier League
+LOCATION:Khaled Bichara Stadium
+URL:https://www.fotmob.com/match/5996802
+DESCRIPTION:⚽ الجونة × غزل المحلة\n🏆 الدوري ال
+ مصري الممتاز — الجولة 13\n🗓 الأحد 27 ديسمب
+ ر 2026 · 18:00 بتوقيت الرياض\n🏟 Khaled Bichara Stadium\n
+ —————\n⚽ El Gouna FC v Ghazl Al Mahalla\n🏆 Egyptian Premier
+  League — Matchday 13\n🗓 Sun 27 Dec 2026 · 15:00 UTC\n🏟 Khaled Bi
+ chara Stadium\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الجونة ضد غزل المحلة — الد
+ وري المصري الممتاز | Tomorrow: El Gouna FC vs Ghazl Al Mah
+ alla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الجون
+ ة × غزل المحلة | Kick-off in 30 min: El Gouna FC vs Ghazl Al Ma
+ halla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996816@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270105T180000Z
+DTEND:20270105T200000Z
+SUMMARY:Ghazl Al Mahalla vs ZED FC — Egyptian Premier League
+LOCATION:Ghazl El Mahalla Stadium
+URL:https://www.fotmob.com/match/5996816
+DESCRIPTION:⚽ غزل المحلة × زد\n🏆 الدوري المصري
+  الممتاز — الجولة 14\n🗓 الثلاثاء 5 يناير 20
+ 27 · 21:00 بتوقيت الرياض\n🏟 Ghazl El Mahalla Stadium\n—
+ ————\n⚽ Ghazl Al Mahalla v ZED FC\n🏆 Egyptian Premier League 
+ — Matchday 14\n🗓 Tue 05 Jan 2027 · 18:00 UTC\n🏟 Ghazl El Mahalla 
+ Stadium\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غزل المحلة ضد زد — الدوري ا
+ لمصري الممتاز | Tomorrow: Ghazl Al Mahalla vs ZED FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غزل ال
+ محلة × زد | Kick-off in 30 min: Ghazl Al Mahalla vs ZED FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996825@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270126T180000Z
+DTEND:20270126T200000Z
+SUMMARY:Wadi Degla FC vs Ghazl Al Mahalla — Egyptian Premier League
+LOCATION:Al Salam Stadium
+URL:https://www.fotmob.com/match/5996825
+DESCRIPTION:⚽ وادي دجلة × غزل المحلة\n🏆 الدوري
+  المصري الممتاز — الجولة 15\n🗓 الثلاثاء 26
+  يناير 2027 · 21:00 بتوقيت الرياض\n🏟 Al Salam Stadium
+ \n—————\n⚽ Wadi Degla FC v Ghazl Al Mahalla\n🏆 Egyptian Pre
+ mier League — Matchday 15\n🗓 Tue 26 Jan 2027 · 18:00 UTC\n🏟 Al Sa
+ lam Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وادي دجلة ضد غزل المحلة — ا
+ لدوري المصري الممتاز | Tomorrow: Wadi Degla FC vs Ghazl 
+ Al Mahalla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وادي د
+ جلة × غزل المحلة | Kick-off in 30 min: Wadi Degla FC vs Ghazl
+  Al Mahalla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996840@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270201T180000Z
+DTEND:20270201T200000Z
+SUMMARY:Ghazl Al Mahalla vs Tala'ea El Gaish — Egyptian Premier League
+LOCATION:Ghazl El Mahalla Stadium
+URL:https://www.fotmob.com/match/5996840
+DESCRIPTION:⚽ غزل المحلة × طلائع الجيش\n🏆 الدو
+ ري المصري الممتاز — الجولة 16\n🗓 الاثنين 
+ 1 فبراير 2027 · 21:00 بتوقيت الرياض\n🏟 Ghazl El Maha
+ lla Stadium\n—————\n⚽ Ghazl Al Mahalla v Tala'ea El Gaish\n
+ 🏆 Egyptian Premier League — Matchday 16\n🗓 Mon 01 Feb 2027 · 18:0
+ 0 UTC\n🏟 Ghazl El Mahalla Stadium\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غزل المحلة ضد طلائع الجيش 
+ — الدوري المصري الممتاز | Tomorrow: Ghazl Al Mahalla 
+ vs Tala'ea El Gaish
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غزل ال
+ محلة × طلائع الجيش | Kick-off in 30 min: Ghazl Al Mahalla v
+ s Tala'ea El Gaish
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996848@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Olympic El Qanah FC vs Ghazl Al Mahalla — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996848
+DESCRIPTION:⚽ القناة × غزل المحلة\n🏆 الدوري ال
+ مصري الممتاز — الجولة 17\n🗓 السبت 6 فبراي
+ ر 2027 · 18:00 بتوقيت الرياض\n🏟 Suez Canal Authority Stad
+ ium\n—————\n⚽ Olympic El Qanah FC v Ghazl Al Mahalla\n🏆 Egy
+ ptian Premier League — Matchday 17\n🗓 Sat 06 Feb 2027 · 15:00 UTC\n
+ 🏟 Suez Canal Authority Stadium\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القناة ضد غزل المحلة — الد
+ وري المصري الممتاز | Tomorrow: Olympic El Qanah FC vs Ghaz
+ l Al Mahalla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القنا
+ ة × غزل المحلة | Kick-off in 30 min: Olympic El Qanah FC vs Gha
+ zl Al Mahalla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996856@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270211T193000Z
+DTEND:20270211T213000Z
+SUMMARY:Ghazl Al Mahalla vs Ceramica Cleopatra — Egyptian Premier League
+LOCATION:Ghazl El Mahalla Stadium
+URL:https://www.fotmob.com/match/5996856
+DESCRIPTION:⚽ غزل المحلة × سيراميكا كليوباترا\
+ n🏆 الدوري المصري الممتاز — الجولة 18\n🗓 
+ الخميس 11 فبراير 2027 · 22:30 بتوقيت الرياض\n🏟
+  Ghazl El Mahalla Stadium\n—————\n⚽ Ghazl Al Mahalla v Ceramic
+ a Cleopatra\n🏆 Egyptian Premier League — Matchday 18\n🗓 Thu 11 Feb
+  2027 · 19:30 UTC\n🏟 Ghazl El Mahalla Stadium\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غزل المحلة ضد سيراميكا كلي
+ وباترا — الدوري المصري الممتاز | Tomorrow: Ghaz
+ l Al Mahalla vs Ceramica Cleopatra
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غزل ال
+ محلة × سيراميكا كليوباترا | Kick-off in 30 min: Ghaz
+ l Al Mahalla vs Ceramica Cleopatra
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996863@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270218T193000Z
+DTEND:20270218T213000Z
+SUMMARY:Asyut Petroleum vs Ghazl Al Mahalla — Egyptian Premier League
+LOCATION:Asyut University Stadium
+URL:https://www.fotmob.com/match/5996863
+DESCRIPTION:⚽ أسيوط بتروليوم × غزل المحلة\n🏆 ا
+ لدوري المصري الممتاز — الجولة 19\n🗓 الخم
+ يس 18 فبراير 2027 · 22:30 بتوقيت الرياض\n🏟 Asyut U
+ niversity Stadium\n—————\n⚽ Asyut Petroleum v Ghazl Al Mahalla
+ \n🏆 Egyptian Premier League — Matchday 19\n🗓 Thu 18 Feb 2027 · 19
+ :30 UTC\n🏟 Asyut University Stadium\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أسيوط بتروليوم ضد غزل المح
+ لة — الدوري المصري الممتاز | Tomorrow: Asyut Petrol
+ eum vs Ghazl Al Mahalla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أسيوط 
+ بتروليوم × غزل المحلة | Kick-off in 30 min: Asyut Petrol
+ eum vs Ghazl Al Mahalla
+END:VALARM
+END:VEVENT
+END:VCALENDAR

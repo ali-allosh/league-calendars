@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Sabadell — Copa del Rey Fixtures | ساباديل — م
+ باريات كأس ملك إسبانيا
+X-WR-CALDESC:Sabadell — all matches in Copa del Rey\, exact UTC kickoffs\
+ , stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31
+ :10Z.  •  ساباديل — جميع المباريات في كأس م
+ لك إسبانيا بتوقيت UTC الدقيق مع الملاعب وا
+ لقنوات الناقلة. المصدر: FotMob + 365scores · تحدي
+ ث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-4996012@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251029T170000Z
+DTEND:20251029T190000Z
+SUMMARY:Poblense vs Sabadell (1 - 2) — Copa del Rey
+LOCATION:Estadio Municipal de Sa Pobla\, La Puebla (Sa Pobla) (Mallorca)\, 
+ Spain
+GEO:39.760692;3.019996
+URL:https://www.fotmob.com/match/4996012
+DESCRIPTION:⚽ بوبلينس × ساباديل (1 - 2)\n🏆 كأس مل
+ ك إسبانيا — الدور الأول\n🗓 الأربعاء 29 أك
+ توبر 2025 · 20:00 بتوقيت الرياض\n🏟 Estadio Municipal d
+ e Sa Pobla، La Puebla (Sa Pobla) (Mallorca)\n⚖️ الحكم: Álvaro C
+ ánovas García-Villarrubia\n—————\n⚽ Poblense v Sabadell (1 -
+  2)\n🏆 Copa del Rey — Round 1\n🗓 Wed 29 Oct 2025 · 17:00 UTC\n
+ 🏟 Estadio Municipal de Sa Pobla, La Puebla (Sa Pobla) (Mallorca)\nRefer
+ ee: Álvaro Cánovas García-Villarrubia\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوبلينس ضد ساباديل — كأس م
+ لك إسبانيا | Tomorrow: Poblense vs Sabadell
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوبلي
+ نس × ساباديل | Kick-off in 30 min: Poblense vs Sabadell
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057233@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251204T180000Z
+DTEND:20251204T200000Z
+SUMMARY:Sabadell vs Deportivo A Coruña (0 - 2) — Copa del Rey
+LOCATION:Estadi de la Nova Creu Alta\, Sabadell\, Spain
+GEO:41.554664;2.091951
+URL:https://www.fotmob.com/match/5057233
+DESCRIPTION:⚽ ساباديل × ديبورتيفو لاكورونيا (0 
+ - 2)\n🏆 كأس ملك إسبانيا — الدور الثاني\n🗓 
+ الخميس 4 ديسمبر 2025 · 21:00 بتوقيت الرياض\n🏟 
+ Estadi de la Nova Creu Alta، Sabadell\n⚖️ الحكم: Alonso de Ena W
+ olf\n👥 الحضور: 7,651\n—————\n⚽ Sabadell v Deportivo A
+  Coruña (0 - 2)\n🏆 Copa del Rey — Round 2\n🗓 Thu 04 Dec 2025 · 1
+ 8:00 UTC\n🏟 Estadi de la Nova Creu Alta, Sabadell\nReferee: Alonso de E
+ na Wolf\nAttendance: 7,651\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساباديل ضد ديبورتيفو لاكور
+ ونيا — كأس ملك إسبانيا | Tomorrow: Sabadell vs Deportiv
+ o A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساباد
+ يل × ديبورتيفو لاكورونيا | Kick-off in 30 min: Sabade
+ ll vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+END:VCALENDAR

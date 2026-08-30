@@ -1,0 +1,1559 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Villarreal — LaLiga & UEFA Champions League & Copa del R
+ ey Fixtures | فياريال — مباريات الدوري الإسبا
+ ني ودوري أبطال أوروبا وكأس ملك إسبانيا
+X-WR-CALDESC:Villarreal — all matches in LaLiga & UEFA Champions League &
+  Copa del Rey\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scor
+ es · auto-updated 2026-09-05T19:31:10Z.  •  فياريال — جميع
+  المباريات في الدوري الإسباني ودوري أبطا
+ ل أوروبا وكأس ملك إسبانيا بتوقيت UTC الدقي
+ ق مع الملاعب والقنوات الناقلة. المصدر: FotM
+ ob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5868017@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260816T150000Z
+DTEND:20260816T170000Z
+SUMMARY:Racing Santander vs Villarreal (2 - 2) — LaLiga
+LOCATION:Campos de Sport de El Sardinero\, Santander\, Spain
+GEO:43.476299;-3.793282
+URL:https://www.fotmob.com/match/5868017
+DESCRIPTION:⚽ راسينج سانتاندير × فياريال (2 - 2)\n
+ 🏆 الدوري الإسباني — الجولة 1\n🗓 الأحد 16 
+ أغسطس 2026 · 18:00 بتوقيت الرياض\n🏟 Campos de Sport d
+ e El Sardinero، Santander\n⚖️ الحكم: Miguel Sesma Espinosa\n👥
+  الحضور: 22,413\n—————\n⚽ Racing Santander v Villarreal 
+ (2 - 2)\n🏆 LaLiga — Matchday 1\n🗓 Sun 16 Aug 2026 · 15:00 UTC\n
+ 🏟 Campos de Sport de El Sardinero, Santander\nReferee: Miguel Sesma Esp
+ inosa\nAttendance: 22,413\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد فياريا
+ ل — الدوري الإسباني | Tomorrow: Racing Santander vs Villa
+ rreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × فياريال | Kick-off in 30 min: Racing Santa
+ nder vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868022@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260823T150000Z
+DTEND:20260823T170000Z
+SUMMARY:Atlético Madrid vs Villarreal (2 - 2) — LaLiga
+LOCATION:Riyadh Air Metropolitano\, Madrid\, Spain
+GEO:40.436226;-3.599460
+URL:https://www.fotmob.com/match/5868022
+DESCRIPTION:⚽ أتلتيكو مدريد × فياريال (2 - 2)\n🏆 
+ الدوري الإسباني — الجولة 2\n🗓 الأحد 23 أغ
+ سطس 2026 · 18:00 بتوقيت الرياض\n🏟 Riyadh Air Metropolit
+ ano، Madrid\n⚖️ الحكم: Alejandro José Hernández Hernández\n
+ 👥 الحضور: 61,978\n—————\n⚽ Atlético Madrid v Villarr
+ eal (2 - 2)\n🏆 LaLiga — Matchday 2\n🗓 Sun 23 Aug 2026 · 15:00 UTC
+ \n🏟 Riyadh Air Metropolitano, Madrid\nReferee: Alejandro José Hernánd
+ ez Hernández\nAttendance: 61,978\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد فياريال —
+  الدوري الإسباني | Tomorrow: Atlético Madrid vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × فياريال | Kick-off in 30 min: Atlético Madrid v
+ s Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868031@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260828T193000Z
+DTEND:20260828T213000Z
+SUMMARY:Deportivo Alavés vs Villarreal (1 - 0) — LaLiga
+LOCATION:Estadio de Mendizorroza\, Vitoria-Gasteiz\, Spain
+GEO:42.837076;-2.688247
+URL:https://www.fotmob.com/match/5868031
+DESCRIPTION:⚽ ديبورتيفو ألافيس × فياريال (1 - 0)\n
+ 🏆 الدوري الإسباني — الجولة 3\n🗓 الجمعة 2
+ 8 أغسطس 2026 · 22:30 بتوقيت الرياض\n🏟 Estadio de Mend
+ izorroza، Vitoria-Gasteiz\n⚖️ الحكم: Isidro Díaz de Mera Escude
+ ros\n👥 الحضور: 15,556\n—————\n⚽ Deportivo Alavés v V
+ illarreal (1 - 0)\n🏆 LaLiga — Matchday 3\n🗓 Fri 28 Aug 2026 · 19:
+ 30 UTC\n🏟 Estadio de Mendizorroza, Vitoria-Gasteiz\nReferee: Isidro Dí
+ az de Mera Escuderos\nAttendance: 15,556\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد فياريا
+ ل — الدوري الإسباني | Tomorrow: Deportivo Alavés vs Vill
+ arreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × فياريال | Kick-off in 30 min: Deportivo Al
+ avés vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868050@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T190000Z
+DTEND:20260905T210000Z
+SUMMARY:Villarreal vs Deportivo A Coruña — LaLiga
+LOCATION:Estadio de la Cerámica\, Villarreal\, Spain
+GEO:39.944119;-0.103474
+URL:https://www.fotmob.com/match/5868050
+DESCRIPTION:⚽ فياريال × ديبورتيفو لاكورونيا\n
+ 🏆 الدوري الإسباني — الجولة 4\n🗓 السبت 5 
+ سبتمبر 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio de la C
+ erámica، Villarreal\n📺 Bein Sports HD2\n—————\n⚽ Villarre
+ al v Deportivo A Coruña\n🏆 LaLiga — Matchday 4\n🗓 Sat 05 Sep 2026
+  · 19:00 UTC\n🏟 Estadio de la Cerámica, Villarreal\n📺 beIN Sport 2
+  HD\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد ديبورتيفو لاكور
+ ونيا — الدوري الإسباني — 📺 Bein Sports HD2 | Tomo
+ rrow: Villarreal vs Deportivo A Coruña | TV: beIN Sport 2 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × ديبورتيفو لاكورونيا — 📺 Bein Sports HD2 | K
+ ick-off in 30 min: Villarreal vs Deportivo A Coruña | TV: beIN Sport 2 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868060@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260914T190000Z
+DTEND:20260914T210000Z
+SUMMARY:Villarreal vs Real Betis — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868060
+DESCRIPTION:⚽ فياريال × ريال بيتيس\n🏆 الدوري ا
+ لإسباني — الجولة 5\n🗓 الاثنين 14 سبتمبر 202
+ 6 · 22:00 بتوقيت الرياض\n🏟 Estadio de la Ceramica\n——
+ ———\n⚽ Villarreal v Real Betis\n🏆 LaLiga — Matchday 5\n🗓 M
+ on 14 Sep 2026 · 19:00 UTC\n🏟 Estadio de la Ceramica\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد ريال بيتيس — ال
+ دوري الإسباني | Tomorrow: Villarreal vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × ريال بيتيس | Kick-off in 30 min: Villarreal vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868068@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260917T193000Z
+DTEND:20260917T213000Z
+SUMMARY:Málaga vs Villarreal — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868068
+DESCRIPTION:⚽ مالقا × فياريال\n🏆 الدوري الإسب
+ اني — الجولة 6\n🗓 الخميس 17 سبتمبر 2026 · 22:30
+  بتوقيت الرياض\n🏟 Estadio La Rosaleda\n—————\n⚽
+  Málaga v Villarreal\n🏆 LaLiga — Matchday 6\n🗓 Thu 17 Sep 2026 ·
+  19:30 UTC\n🏟 Estadio La Rosaleda\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد فياريال — الدوري 
+ الإسباني | Tomorrow: Málaga vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × فياريال | Kick-off in 30 min: Málaga vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868080@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260920T163000Z
+DTEND:20260920T183000Z
+SUMMARY:Villarreal vs Levante — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868080
+DESCRIPTION:⚽ فياريال × ليفانتي\n🏆 الدوري الإ
+ سباني — الجولة 7\n🗓 الأحد 20 سبتمبر 2026 · 19:
+ 30 بتوقيت الرياض\n🏟 Estadio de la Ceramica\n—————
+ \n⚽ Villarreal v Levante\n🏆 LaLiga — Matchday 7\n🗓 Sun 20 Sep 20
+ 26 · 16:30 UTC\n🏟 Estadio de la Ceramica\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد ليفانتي — الدور
+ ي الإسباني | Tomorrow: Villarreal vs Levante
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × ليفانتي | Kick-off in 30 min: Villarreal vs Levante
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868089@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Real Madrid vs Villarreal — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868089
+DESCRIPTION:⚽ ريال مدريد × فياريال\n🏆 الدوري ا
+ لإسباني — الجولة 8\n🗓 الأحد 11 أكتوبر 2026 ·
+  16:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n—————\n
+ ⚽ Real Madrid v Villarreal\n🏆 LaLiga — Matchday 8\n🗓 Sun 11 Oct 
+ 2026 · 13:00 UTC\n🏟 Estadio Bernabeu\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد فياريال — ال
+ دوري الإسباني | Tomorrow: Real Madrid vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × فياريال | Kick-off in 30 min: Real Madrid vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868100@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Villarreal vs Elche — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868100
+DESCRIPTION:⚽ فياريال × إلتشي\n🏆 الدوري الإسب
+ اني — الجولة 9\n🗓 الأحد 18 أكتوبر 2026 · 16:00 
+ بتوقيت الرياض\n🏟 Estadio de la Ceramica\n—————\n
+ ⚽ Villarreal v Elche\n🏆 LaLiga — Matchday 9\n🗓 Sun 18 Oct 2026 
+ · 13:00 UTC\n🏟 Estadio de la Ceramica\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد إلتشي — الدوري 
+ الإسباني | Tomorrow: Villarreal vs Elche
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × إلتشي | Kick-off in 30 min: Villarreal vs Elche
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868110@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Valencia vs Villarreal — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868110
+DESCRIPTION:⚽ فالنسيا × فياريال\n🏆 الدوري الإ
+ سباني — الجولة 10\n🗓 الأحد 25 أكتوبر 2026 · 17
+ :00 بتوقيت الرياض\n🏟 Estadio Mestalla\n—————\n⚽
+  Valencia v Villarreal\n🏆 LaLiga — Matchday 10\n🗓 Sun 25 Oct 2026 
+ · 14:00 UTC\n🏟 Estadio Mestalla\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد فياريال — الدور
+ ي الإسباني | Tomorrow: Valencia vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × فياريال | Kick-off in 30 min: Valencia vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868120@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Villarreal vs Espanyol — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868120
+DESCRIPTION:⚽ فياريال × إسبانيول\n🏆 الدوري ال
+ إسباني — الجولة 11\n🗓 الأحد 1 نوفمبر 2026 · 1
+ 7:00 بتوقيت الرياض\n🏟 Estadio de la Ceramica\n————
+ —\n⚽ Villarreal v Espanyol\n🏆 LaLiga — Matchday 11\n🗓 Sun 01 N
+ ov 2026 · 14:00 UTC\n🏟 Estadio de la Ceramica\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد إسبانيول — الدو
+ ري الإسباني | Tomorrow: Villarreal vs Espanyol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × إسبانيول | Kick-off in 30 min: Villarreal vs Espanyol
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868130@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Villarreal vs Getafe — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868130
+DESCRIPTION:⚽ فياريال × خيتافي\n🏆 الدوري الإس
+ باني — الجولة 12\n🗓 الأحد 8 نوفمبر 2026 · 17:00
+  بتوقيت الرياض\n🏟 Estadio de la Ceramica\n—————\n
+ ⚽ Villarreal v Getafe\n🏆 LaLiga — Matchday 12\n🗓 Sun 08 Nov 2026
+  · 14:00 UTC\n🏟 Estadio de la Ceramica\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد خيتافي — الدوري
+  الإسباني | Tomorrow: Villarreal vs Getafe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × خيتافي | Kick-off in 30 min: Villarreal vs Getafe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868133@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Barcelona vs Villarreal — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868133
+DESCRIPTION:⚽ برشلونة × فياريال\n🏆 الدوري الإ
+ سباني — الجولة 13\n🗓 الأحد 22 نوفمبر 2026 · 17
+ :00 بتوقيت الرياض\n🏟 Spotify Camp Nou\n—————\n⚽
+  Barcelona v Villarreal\n🏆 LaLiga — Matchday 13\n🗓 Sun 22 Nov 2026
+  · 14:00 UTC\n🏟 Spotify Camp Nou\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد فياريال — الدور
+ ي الإسباني | Tomorrow: Barcelona vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × فياريال | Kick-off in 30 min: Barcelona vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868142@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T140000Z
+DTEND:20261129T160000Z
+SUMMARY:Celta Vigo vs Villarreal — LaLiga
+LOCATION:Abanca Balaidos
+URL:https://www.fotmob.com/match/5868142
+DESCRIPTION:⚽ سيلتا فيجو × فياريال\n🏆 الدوري ا
+ لإسباني — الجولة 14\n🗓 الأحد 29 نوفمبر 2026 
+ · 17:00 بتوقيت الرياض\n🏟 Abanca Balaidos\n—————\
+ n⚽ Celta Vigo v Villarreal\n🏆 LaLiga — Matchday 14\n🗓 Sun 29 Nov
+  2026 · 14:00 UTC\n🏟 Abanca Balaidos\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتا فيجو ضد فياريال — ال
+ دوري الإسباني | Tomorrow: Celta Vigo vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتا 
+ فيجو × فياريال | Kick-off in 30 min: Celta Vigo vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868160@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T140000Z
+DTEND:20261206T160000Z
+SUMMARY:Villarreal vs Real Sociedad — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868160
+DESCRIPTION:⚽ فياريال × ريال سوسيداد\n🏆 الدور
+ ي الإسباني — الجولة 15\n🗓 الأحد 6 ديسمبر 20
+ 26 · 17:00 بتوقيت الرياض\n🏟 Estadio de la Ceramica\n——
+ ———\n⚽ Villarreal v Real Sociedad\n🏆 LaLiga — Matchday 15\n
+ 🗓 Sun 06 Dec 2026 · 14:00 UTC\n🏟 Estadio de la Ceramica\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد ريال سوسيداد — 
+ الدوري الإسباني | Tomorrow: Villarreal vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × ريال سوسيداد | Kick-off in 30 min: Villarreal vs Real S
+ ociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868170@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T140000Z
+DTEND:20261213T160000Z
+SUMMARY:Villarreal vs Rayo Vallecano — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868170
+DESCRIPTION:⚽ فياريال × رايو فاييكانو\n🏆 الدو
+ ري الإسباني — الجولة 16\n🗓 الأحد 13 ديسمبر
+  2026 · 17:00 بتوقيت الرياض\n🏟 Estadio de la Ceramica\n—
+ ————\n⚽ Villarreal v Rayo Vallecano\n🏆 LaLiga — Matchday 16
+ \n🗓 Sun 13 Dec 2026 · 14:00 UTC\n🏟 Estadio de la Ceramica\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد رايو فاييكانو —
+  الدوري الإسباني | Tomorrow: Villarreal vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × رايو فاييكانو | Kick-off in 30 min: Villarreal vs Rayo
+  Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868177@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T140000Z
+DTEND:20261220T160000Z
+SUMMARY:Osasuna vs Villarreal — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868177
+DESCRIPTION:⚽ أوساسونا × فياريال\n🏆 الدوري ال
+ إسباني — الجولة 17\n🗓 الأحد 20 ديسمبر 2026 · 
+ 17:00 بتوقيت الرياض\n🏟 Estadio El Sadar\n—————\n
+ ⚽ Osasuna v Villarreal\n🏆 LaLiga — Matchday 17\n🗓 Sun 20 Dec 202
+ 6 · 14:00 UTC\n🏟 Estadio El Sadar\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد فياريال — الدو
+ ري الإسباني | Tomorrow: Osasuna vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × فياريال | Kick-off in 30 min: Osasuna vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868190@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T140000Z
+DTEND:20270103T160000Z
+SUMMARY:Villarreal vs Sevilla — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868190
+DESCRIPTION:⚽ فياريال × إشبيلية\n🏆 الدوري الإ
+ سباني — الجولة 18\n🗓 الأحد 3 يناير 2027 · 17:00
+  بتوقيت الرياض\n🏟 Estadio de la Ceramica\n—————\n
+ ⚽ Villarreal v Sevilla\n🏆 LaLiga — Matchday 18\n🗓 Sun 03 Jan 202
+ 7 · 14:00 UTC\n🏟 Estadio de la Ceramica\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد إشبيلية — الدور
+ ي الإسباني | Tomorrow: Villarreal vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × إشبيلية | Kick-off in 30 min: Villarreal vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868192@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T140000Z
+DTEND:20270110T160000Z
+SUMMARY:Athletic Club vs Villarreal — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868192
+DESCRIPTION:⚽ أتلتيك بلباو × فياريال\n🏆 الدور
+ ي الإسباني — الجولة 19\n🗓 الأحد 10 يناير 202
+ 7 · 17:00 بتوقيت الرياض\n🏟 San Mames\n—————\n⚽
+  Athletic Club v Villarreal\n🏆 LaLiga — Matchday 19\n🗓 Sun 10 Jan 
+ 2027 · 14:00 UTC\n🏟 San Mames\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد فياريال — 
+ الدوري الإسباني | Tomorrow: Athletic Club vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × فياريال | Kick-off in 30 min: Athletic Club vs Vil
+ larreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868210@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T140000Z
+DTEND:20270117T160000Z
+SUMMARY:Villarreal vs Deportivo Alavés — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868210
+DESCRIPTION:⚽ فياريال × ديبورتيفو ألافيس\n🏆 ا
+ لدوري الإسباني — الجولة 20\n🗓 الأحد 17 ينا
+ ير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio de la Ceramica\
+ n—————\n⚽ Villarreal v Deportivo Alavés\n🏆 LaLiga — Matc
+ hday 20\n🗓 Sun 17 Jan 2027 · 14:00 UTC\n🏟 Estadio de la Ceramica\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد ديبورتيفو ألافي
+ س — الدوري الإسباني | Tomorrow: Villarreal vs Deportivo A
+ lavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × ديبورتيفو ألافيس | Kick-off in 30 min: Villarreal v
+ s Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868215@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T140000Z
+DTEND:20270124T160000Z
+SUMMARY:Espanyol vs Villarreal — LaLiga
+LOCATION:RCDE Stadium
+URL:https://www.fotmob.com/match/5868215
+DESCRIPTION:⚽ إسبانيول × فياريال\n🏆 الدوري ال
+ إسباني — الجولة 21\n🗓 الأحد 24 يناير 2027 · 17
+ :00 بتوقيت الرياض\n🏟 RCDE Stadium\n—————\n⚽ Esp
+ anyol v Villarreal\n🏆 LaLiga — Matchday 21\n🗓 Sun 24 Jan 2027 · 1
+ 4:00 UTC\n🏟 RCDE Stadium\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إسبانيول ضد فياريال — الدو
+ ري الإسباني | Tomorrow: Espanyol vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إسبان
+ يول × فياريال | Kick-off in 30 min: Espanyol vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868230@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Villarreal vs Racing Santander — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868230
+DESCRIPTION:⚽ فياريال × راسينج سانتاندير\n🏆 ا
+ لدوري الإسباني — الجولة 22\n🗓 الأحد 31 ينا
+ ير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio de la Ceramica\
+ n—————\n⚽ Villarreal v Racing Santander\n🏆 LaLiga — Match
+ day 22\n🗓 Sun 31 Jan 2027 · 14:00 UTC\n🏟 Estadio de la Ceramica\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد راسينج سانتاندي
+ ر — الدوري الإسباني | Tomorrow: Villarreal vs Racing Sant
+ ander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × راسينج سانتاندير | Kick-off in 30 min: Villarreal v
+ s Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868238@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:Getafe vs Villarreal — LaLiga
+LOCATION:Coliseum
+URL:https://www.fotmob.com/match/5868238
+DESCRIPTION:⚽ خيتافي × فياريال\n🏆 الدوري الإس
+ باني — الجولة 23\n🗓 الأحد 7 فبراير 2027 · 17:00
+  بتوقيت الرياض\n🏟 Coliseum\n—————\n⚽ Getafe v V
+ illarreal\n🏆 LaLiga — Matchday 23\n🗓 Sun 07 Feb 2027 · 14:00 UTC\
+ n🏟 Coliseum\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: خيتافي ضد فياريال — الدوري
+  الإسباني | Tomorrow: Getafe vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: خيتاف
+ ي × فياريال | Kick-off in 30 min: Getafe vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868250@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T140000Z
+DTEND:20270214T160000Z
+SUMMARY:Villarreal vs Barcelona — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868250
+DESCRIPTION:⚽ فياريال × برشلونة\n🏆 الدوري الإ
+ سباني — الجولة 24\n🗓 الأحد 14 فبراير 2027 · 17
+ :00 بتوقيت الرياض\n🏟 Estadio de la Ceramica\n————
+ —\n⚽ Villarreal v Barcelona\n🏆 LaLiga — Matchday 24\n🗓 Sun 14 
+ Feb 2027 · 14:00 UTC\n🏟 Estadio de la Ceramica\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد برشلونة — الدور
+ ي الإسباني | Tomorrow: Villarreal vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × برشلونة | Kick-off in 30 min: Villarreal vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868260@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T140000Z
+DTEND:20270221T160000Z
+SUMMARY:Villarreal vs Valencia — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868260
+DESCRIPTION:⚽ فياريال × فالنسيا\n🏆 الدوري الإ
+ سباني — الجولة 25\n🗓 الأحد 21 فبراير 2027 · 17
+ :00 بتوقيت الرياض\n🏟 Estadio de la Ceramica\n————
+ —\n⚽ Villarreal v Valencia\n🏆 LaLiga — Matchday 25\n🗓 Sun 21 F
+ eb 2027 · 14:00 UTC\n🏟 Estadio de la Ceramica\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد فالنسيا — الدور
+ ي الإسباني | Tomorrow: Villarreal vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × فالنسيا | Kick-off in 30 min: Villarreal vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868262@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T140000Z
+DTEND:20270228T160000Z
+SUMMARY:Real Betis vs Villarreal — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868262
+DESCRIPTION:⚽ ريال بيتيس × فياريال\n🏆 الدوري ا
+ لإسباني — الجولة 26\n🗓 الأحد 28 فبراير 2027 
+ · 17:00 بتوقيت الرياض\n🏟 Estadio de La Cartuja\n———
+ ——\n⚽ Real Betis v Villarreal\n🏆 LaLiga — Matchday 26\n🗓 Sun
+  28 Feb 2027 · 14:00 UTC\n🏟 Estadio de La Cartuja\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد فياريال — ال
+ دوري الإسباني | Tomorrow: Real Betis vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × فياريال | Kick-off in 30 min: Real Betis vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868280@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T140000Z
+DTEND:20270307T160000Z
+SUMMARY:Villarreal vs Real Madrid — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868280
+DESCRIPTION:⚽ فياريال × ريال مدريد\n🏆 الدوري ا
+ لإسباني — الجولة 27\n🗓 الأحد 7 مارس 2027 · 17:
+ 00 بتوقيت الرياض\n🏟 Estadio de la Ceramica\n—————
+ \n⚽ Villarreal v Real Madrid\n🏆 LaLiga — Matchday 27\n🗓 Sun 07 M
+ ar 2027 · 14:00 UTC\n🏟 Estadio de la Ceramica\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد ريال مدريد — ال
+ دوري الإسباني | Tomorrow: Villarreal vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × ريال مدريد | Kick-off in 30 min: Villarreal vs Real Madri
+ d
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868284@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T140000Z
+DTEND:20270314T160000Z
+SUMMARY:Elche vs Villarreal — LaLiga
+LOCATION:Estadio Martinez Valero
+URL:https://www.fotmob.com/match/5868284
+DESCRIPTION:⚽ إلتشي × فياريال\n🏆 الدوري الإسب
+ اني — الجولة 28\n🗓 الأحد 14 مارس 2027 · 17:00 بت
+ وقيت الرياض\n🏟 Estadio Martinez Valero\n—————\n⚽ 
+ Elche v Villarreal\n🏆 LaLiga — Matchday 28\n🗓 Sun 14 Mar 2027 · 1
+ 4:00 UTC\n🏟 Estadio Martinez Valero\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلتشي ضد فياريال — الدوري 
+ الإسباني | Tomorrow: Elche vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلتشي 
+ × فياريال | Kick-off in 30 min: Elche vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868300@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T140000Z
+DTEND:20270321T160000Z
+SUMMARY:Villarreal vs Málaga — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868300
+DESCRIPTION:⚽ فياريال × مالقا\n🏆 الدوري الإسب
+ اني — الجولة 29\n🗓 الأحد 21 مارس 2027 · 17:00 بت
+ وقيت الرياض\n🏟 Estadio de la Ceramica\n—————\n⚽ V
+ illarreal v Málaga\n🏆 LaLiga — Matchday 29\n🗓 Sun 21 Mar 2027 · 
+ 14:00 UTC\n🏟 Estadio de la Ceramica\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد مالقا — الدوري 
+ الإسباني | Tomorrow: Villarreal vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × مالقا | Kick-off in 30 min: Villarreal vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868303@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T130000Z
+DTEND:20270404T150000Z
+SUMMARY:Deportivo A Coruña vs Villarreal — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868303
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × فياريال\n
+ 🏆 الدوري الإسباني — الجولة 30\n🗓 الأحد 4 
+ أبريل 2027 · 16:00 بتوقيت الرياض\n🏟 Abanca-Riazor\n
+ —————\n⚽ Deportivo A Coruña v Villarreal\n🏆 LaLiga — Mat
+ chday 30\n🗓 Sun 04 Apr 2027 · 13:00 UTC\n🏟 Abanca-Riazor\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد فيا
+ ريال — الدوري الإسباني | Tomorrow: Deportivo A Coruña
+  vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × فياريال | Kick-off in 30 min: Deport
+ ivo A Coruña vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868320@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T130000Z
+DTEND:20270411T150000Z
+SUMMARY:Villarreal vs Athletic Club — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868320
+DESCRIPTION:⚽ فياريال × أتلتيك بلباو\n🏆 الدور
+ ي الإسباني — الجولة 31\n🗓 الأحد 11 أبريل 202
+ 7 · 16:00 بتوقيت الرياض\n🏟 Estadio de la Ceramica\n——
+ ———\n⚽ Villarreal v Athletic Club\n🏆 LaLiga — Matchday 31\n
+ 🗓 Sun 11 Apr 2027 · 13:00 UTC\n🏟 Estadio de la Ceramica\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد أتلتيك بلباو — 
+ الدوري الإسباني | Tomorrow: Villarreal vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × أتلتيك بلباو | Kick-off in 30 min: Villarreal vs Athlet
+ ic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868328@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T130000Z
+DTEND:20270418T150000Z
+SUMMARY:Levante vs Villarreal — LaLiga
+LOCATION:Estadio Ciudad de Valencia
+URL:https://www.fotmob.com/match/5868328
+DESCRIPTION:⚽ ليفانتي × فياريال\n🏆 الدوري الإ
+ سباني — الجولة 32\n🗓 الأحد 18 أبريل 2027 · 16:0
+ 0 بتوقيت الرياض\n🏟 Estadio Ciudad de Valencia\n————
+ —\n⚽ Levante v Villarreal\n🏆 LaLiga — Matchday 32\n🗓 Sun 18 Ap
+ r 2027 · 13:00 UTC\n🏟 Estadio Ciudad de Valencia\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفانتي ضد فياريال — الدور
+ ي الإسباني | Tomorrow: Levante vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفان
+ تي × فياريال | Kick-off in 30 min: Levante vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868340@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270421T130000Z
+DTEND:20270421T150000Z
+SUMMARY:Villarreal vs Atlético Madrid — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868340
+DESCRIPTION:⚽ فياريال × أتلتيكو مدريد\n🏆 الدو
+ ري الإسباني — الجولة 33\n🗓 الأربعاء 21 أبر
+ يل 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio de la Ceramica\
+ n—————\n⚽ Villarreal v Atlético Madrid\n🏆 LaLiga — Match
+ day 33\n🗓 Wed 21 Apr 2027 · 13:00 UTC\n🏟 Estadio de la Ceramica\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد أتلتيكو مدريد —
+  الدوري الإسباني | Tomorrow: Villarreal vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × أتلتيكو مدريد | Kick-off in 30 min: Villarreal vs Atl
+ ético Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868349@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T130000Z
+DTEND:20270502T150000Z
+SUMMARY:Rayo Vallecano vs Villarreal — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868349
+DESCRIPTION:⚽ رايو فاييكانو × فياريال\n🏆 الدو
+ ري الإسباني — الجولة 34\n🗓 الأحد 2 مايو 2027
+  · 16:00 بتوقيت الرياض\n🏟 Campo de Futbol de Vallecas\n—
+ ————\n⚽ Rayo Vallecano v Villarreal\n🏆 LaLiga — Matchday 34
+ \n🗓 Sun 02 May 2027 · 13:00 UTC\n🏟 Campo de Futbol de Vallecas\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد فياريال —
+  الدوري الإسباني | Tomorrow: Rayo Vallecano vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × فياريال | Kick-off in 30 min: Rayo Vallecano vs V
+ illarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868360@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T130000Z
+DTEND:20270509T150000Z
+SUMMARY:Villarreal vs Celta Vigo — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868360
+DESCRIPTION:⚽ فياريال × سيلتا فيجو\n🏆 الدوري ا
+ لإسباني — الجولة 35\n🗓 الأحد 9 مايو 2027 · 16:
+ 00 بتوقيت الرياض\n🏟 Estadio de la Ceramica\n—————
+ \n⚽ Villarreal v Celta Vigo\n🏆 LaLiga — Matchday 35\n🗓 Sun 09 Ma
+ y 2027 · 13:00 UTC\n🏟 Estadio de la Ceramica\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد سيلتا فيجو — ال
+ دوري الإسباني | Tomorrow: Villarreal vs Celta Vigo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × سيلتا فيجو | Kick-off in 30 min: Villarreal vs Celta Vigo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868370@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T130000Z
+DTEND:20270516T150000Z
+SUMMARY:Sevilla vs Villarreal — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868370
+DESCRIPTION:⚽ إشبيلية × فياريال\n🏆 الدوري الإ
+ سباني — الجولة 36\n🗓 الأحد 16 مايو 2027 · 16:00 
+ بتوقيت الرياض\n🏟 Estadio R. Sanchez Pizjuan\n————
+ —\n⚽ Sevilla v Villarreal\n🏆 LaLiga — Matchday 36\n🗓 Sun 16 Ma
+ y 2027 · 13:00 UTC\n🏟 Estadio R. Sanchez Pizjuan\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد فياريال — الدور
+ ي الإسباني | Tomorrow: Sevilla vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × فياريال | Kick-off in 30 min: Sevilla vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868380@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T130000Z
+DTEND:20270523T150000Z
+SUMMARY:Villarreal vs Osasuna — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868380
+DESCRIPTION:⚽ فياريال × أوساسونا\n🏆 الدوري ال
+ إسباني — الجولة 37\n🗓 الأحد 23 مايو 2027 · 16:0
+ 0 بتوقيت الرياض\n🏟 Estadio de la Ceramica\n—————\
+ n⚽ Villarreal v Osasuna\n🏆 LaLiga — Matchday 37\n🗓 Sun 23 May 20
+ 27 · 13:00 UTC\n🏟 Estadio de la Ceramica\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد أوساسونا — الدو
+ ري الإسباني | Tomorrow: Villarreal vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × أوساسونا | Kick-off in 30 min: Villarreal vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868390@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T130000Z
+DTEND:20270530T150000Z
+SUMMARY:Real Sociedad vs Villarreal — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868390
+DESCRIPTION:⚽ ريال سوسيداد × فياريال\n🏆 الدور
+ ي الإسباني — الجولة 38\n🗓 الأحد 30 مايو 2027 
+ · 16:00 بتوقيت الرياض\n🏟 Reale Arena\n—————\n⚽
+  Real Sociedad v Villarreal\n🏆 LaLiga — Matchday 38\n🗓 Sun 30 May 
+ 2027 · 13:00 UTC\n🏟 Reale Arena\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد فياريال — 
+ الدوري الإسباني | Tomorrow: Real Sociedad vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × فياريال | Kick-off in 30 min: Real Sociedad vs Vill
+ arreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106272@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T190000Z
+DTEND:20260908T210000Z
+SUMMARY:Borussia Dortmund vs Villarreal — UEFA Champions League
+LOCATION:SIGNAL IDUNA PARK\, Dortmund\, Germany
+GEO:51.492607;7.451777
+URL:https://www.fotmob.com/match/6106272
+DESCRIPTION:⚽ بوروسيا دورتموند × فياريال\n🏆 د
+ وري أبطال أوروبا — الجولة 1\n🗓 الثلاثاء 8
+  سبتمبر 2026 · 22:00 بتوقيت الرياض\n🏟 SIGNAL IDUNA P
+ ARK، Dortmund\n📺 HBO Max (UK)، Paramount+ (US)\n—————\n⚽ 
+ Borussia Dortmund v Villarreal\n🏆 UEFA Champions League — Matchday 1\
+ n🗓 Tue 08 Sep 2026 · 19:00 UTC\n🏟 SIGNAL IDUNA PARK, Dortmund\n📺
+  HBO Max (UK), Paramount+ (US)\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوروسيا دورتموند ضد فياريا
+ ل — دوري أبطال أوروبا — 📺 HBO Max (UK)، Paramount+
+  (US) | Tomorrow: Borussia Dortmund vs Villarreal | TV: HBO Max (UK)\, Par
+ amount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوروس
+ يا دورتموند × فياريال — 📺 HBO Max (UK)، Paramount+
+  (US) | Kick-off in 30 min: Borussia Dortmund vs Villarreal | TV: HBO Max 
+ (UK)\, Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106328@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Villarreal vs Napoli — UEFA Champions League
+LOCATION:Estadio de la Cerámica\, Villarreal\, Spain
+GEO:39.944119;-0.103474
+URL:https://www.fotmob.com/match/6106328
+DESCRIPTION:⚽ فياريال × نابولي\n🏆 دوري أبطال أ
+ وروبا — الجولة 2\n🗓 الثلاثاء 13 أكتوبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Estadio de la Cerámica، Villarr
+ eal\n—————\n⚽ Villarreal v Napoli\n🏆 UEFA Champions League 
+ — Matchday 2\n🗓 Tue 13 Oct 2026 · 19:00 UTC\n🏟 Estadio de la Cer
+ ámica, Villarreal\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد نابولي — دوري أ
+ بطال أوروبا | Tomorrow: Villarreal vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × نابولي | Kick-off in 30 min: Villarreal vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106248@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:Liverpool vs Villarreal — UEFA Champions League
+LOCATION:Anfield\, Liverpool\, England
+GEO:53.430828;-2.960853
+URL:https://www.fotmob.com/match/6106248
+DESCRIPTION:⚽ ليفربول × فياريال\n🏆 دوري أبطال 
+ أوروبا — الجولة 3\n🗓 الثلاثاء 20 أكتوبر 202
+ 6 · 22:00 بتوقيت الرياض\n🏟 Anfield، Liverpool\n———
+ ——\n⚽ Liverpool v Villarreal\n🏆 UEFA Champions League — Matchda
+ y 3\n🗓 Tue 20 Oct 2026 · 19:00 UTC\n🏟 Anfield, Liverpool\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد فياريال — دوري 
+ أبطال أوروبا | Tomorrow: Liverpool vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × فياريال | Kick-off in 30 min: Liverpool vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106326@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+SUMMARY:Villarreal vs Paris Saint-Germain — UEFA Champions League
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/6106326
+DESCRIPTION:⚽ فياريال × باريس سان جيرمان\n🏆 دو
+ ري أبطال أوروبا — الجولة 4\n🗓 الثلاثاء 3 
+ نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Estadio de la C
+ eramica\n—————\n⚽ Villarreal v Paris Saint-Germain\n🏆 UEFA 
+ Champions League — Matchday 4\n🗓 Tue 03 Nov 2026 · 20:00 UTC\n🏟 E
+ stadio de la Ceramica\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد باريس سان جيرما
+ ن — دوري أبطال أوروبا | Tomorrow: Villarreal vs Paris Sa
+ int-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × باريس سان جيرمان | Kick-off in 30 min: Villarreal vs
+  Paris Saint-Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106391@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261125T174500Z
+DTEND:20261125T194500Z
+SUMMARY:Slavia Prague vs Villarreal — UEFA Champions League
+LOCATION:Fortuna Arena
+URL:https://www.fotmob.com/match/6106391
+DESCRIPTION:⚽ سلافيا براغ × فياريال\n🏆 دوري أب
+ طال أوروبا — الجولة 5\n🗓 الأربعاء 25 نوفم
+ بر 2026 · 20:45 بتوقيت الرياض\n🏟 Fortuna Arena\n——
+ ———\n⚽ Slavia Prague v Villarreal\n🏆 UEFA Champions League — 
+ Matchday 5\n🗓 Wed 25 Nov 2026 · 17:45 UTC\n🏟 Fortuna Arena\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سلافيا براغ ضد فياريال — د
+ وري أبطال أوروبا | Tomorrow: Slavia Prague vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سلافي
+ ا براغ × فياريال | Kick-off in 30 min: Slavia Prague vs Villa
+ rreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106329@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261208T174500Z
+DTEND:20261208T194500Z
+SUMMARY:Villarreal vs Sabah FK — UEFA Champions League
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/6106329
+DESCRIPTION:⚽ فياريال × صباح\n🏆 دوري أبطال أور
+ وبا — الجولة 6\n🗓 الثلاثاء 8 ديسمبر 2026 · 20
+ :45 بتوقيت الرياض\n🏟 Estadio de la Ceramica\n————
+ —\n⚽ Villarreal v Sabah FK\n🏆 UEFA Champions League — Matchday 6\
+ n🗓 Tue 08 Dec 2026 · 17:45 UTC\n🏟 Estadio de la Ceramica\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد صباح — دوري أبط
+ ال أوروبا | Tomorrow: Villarreal vs Sabah FK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × صباح | Kick-off in 30 min: Villarreal vs Sabah FK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106332@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T174500Z
+DTEND:20270120T194500Z
+SUMMARY:Fenerbahçe vs Villarreal — UEFA Champions League
+LOCATION:Chobani Stadyumu Fenerbahce Sukru Saracoglu Spor Kompleksi
+URL:https://www.fotmob.com/match/6106332
+DESCRIPTION:⚽ فنربخشة × فياريال\n🏆 دوري أبطال 
+ أوروبا — الجولة 7\n🗓 الأربعاء 20 يناير 2027 
+ · 20:45 بتوقيت الرياض\n🏟 Chobani Stadyumu Fenerbahce Sukru
+  Saracoglu Spor Kompleksi\n—————\n⚽ Fenerbahçe v Villarreal\n
+ 🏆 UEFA Champions League — Matchday 7\n🗓 Wed 20 Jan 2027 · 17:45 U
+ TC\n🏟 Chobani Stadyumu Fenerbahce Sukru Saracoglu Spor Kompleksi\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فنربخشة ضد فياريال — دوري 
+ أبطال أوروبا | Tomorrow: Fenerbahçe vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فنربخ
+ شة × فياريال | Kick-off in 30 min: Fenerbahçe vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106327@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Villarreal vs Manchester United — UEFA Champions League
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/6106327
+DESCRIPTION:⚽ فياريال × مانشستر يونايتد\n🏆 دو
+ ري أبطال أوروبا — الجولة 8\n🗓 الأربعاء 27 
+ يناير 2027 · 23:00 بتوقيت الرياض\n🏟 Estadio de la Cer
+ amica\n—————\n⚽ Villarreal v Manchester United\n🏆 UEFA Cham
+ pions League — Matchday 8\n🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Estad
+ io de la Ceramica\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد مانشستر يونايتد
+  — دوري أبطال أوروبا | Tomorrow: Villarreal vs Manchester
+  United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × مانشستر يونايتد | Kick-off in 30 min: Villarreal vs 
+ Manchester United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-4996022@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251029T200000Z
+DTEND:20251029T220000Z
+SUMMARY:Ciudad Lucena vs Villarreal (0 - 6) — Copa del Rey
+LOCATION:Estadio Ciudad de Lucena\, Lucena\, Spain
+GEO:37.412684;-4.504995
+URL:https://www.fotmob.com/match/4996022
+DESCRIPTION:⚽ سيوداد دي لوثينا × فياريال (0 - 6)\n
+ 🏆 كأس ملك إسبانيا — الدور الأول\n🗓 الأر
+ بعاء 29 أكتوبر 2025 · 23:00 بتوقيت الرياض\n🏟 Est
+ adio Ciudad de Lucena، Lucena\n⚖️ الحكم: Jesús Gil Manzano\n
+ 👥 الحضور: 6,000\n—————\n⚽ Ciudad Lucena v Villarreal 
+ (0 - 6)\n🏆 Copa del Rey — Round 1\n🗓 Wed 29 Oct 2025 · 20:00 UTC\
+ n🏟 Estadio Ciudad de Lucena, Lucena\nReferee: Jesús Gil Manzano\nAtten
+ dance: 6,000\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيوداد دي لوثينا ضد فياريا
+ ل — كأس ملك إسبانيا | Tomorrow: Ciudad Lucena vs Villarrea
+ l
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيودا
+ د دي لوثينا × فياريال | Kick-off in 30 min: Ciudad Lucena
+  vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057212@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251203T200000Z
+DTEND:20251203T220000Z
+SUMMARY:CA Antoniano vs Villarreal (1 - 1) — Copa del Rey
+LOCATION:Estadio Municipal\, Lebrija\, Spain
+GEO:36.916034;-6.081233
+URL:https://www.fotmob.com/match/5057212
+DESCRIPTION:⚽ أنتونيانو × فياريال (1 - 1)\n🏆 كأس 
+ ملك إسبانيا — الدور الثاني\n🗓 الأربعاء 3
+  ديسمبر 2025 · 23:00 بتوقيت الرياض\n🏟 Estadio Munici
+ pal، Lebrija\n⚖️ الحكم: Francisco José Hernández Maeso\n👥 
+ الحضور: 3,500\n—————\n⚽ CA Antoniano v Villarreal (1 - 1
+ )\n🏆 Copa del Rey — Round 2\n🗓 Wed 03 Dec 2025 · 20:00 UTC\n🏟 
+ Estadio Municipal, Lebrija\nReferee: Francisco José Hernández Maeso\nAtt
+ endance: 3,500\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أنتونيانو ضد فياريال — كأس
+  ملك إسبانيا | Tomorrow: CA Antoniano vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أنتون
+ يانو × فياريال | Kick-off in 30 min: CA Antoniano vs Villarrea
+ l
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5091469@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251217T180000Z
+DTEND:20251217T200000Z
+SUMMARY:Racing Santander vs Villarreal (2 - 1) — Copa del Rey
+LOCATION:Campos de Sport de El Sardinero\, Santander\, Spain
+GEO:43.476299;-3.793282
+URL:https://www.fotmob.com/match/5091469
+DESCRIPTION:⚽ راسينج سانتاندير × فياريال (2 - 1)\n
+ 🏆 كأس ملك إسبانيا — دور الـ32\n🗓 الأربعا
+ ء 17 ديسمبر 2025 · 21:00 بتوقيت الرياض\n🏟 Campos de
+  Sport de El Sardinero، Santander\n👥 الحضور: 20,768\n———
+ ——\n⚽ Racing Santander v Villarreal (2 - 1)\n🏆 Copa del Rey — R
+ ound of 32\n🗓 Wed 17 Dec 2025 · 18:00 UTC\n🏟 Campos de Sport de El 
+ Sardinero, Santander\nAttendance: 20,768\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد فياريا
+ ل — كأس ملك إسبانيا | Tomorrow: Racing Santander vs Villar
+ real
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × فياريال | Kick-off in 30 min: Racing Santa
+ nder vs Villarreal
+END:VALARM
+END:VEVENT
+END:VCALENDAR

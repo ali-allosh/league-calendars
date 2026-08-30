@@ -1,0 +1,1136 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al-Faisaly — Saudi Pro League & King's Cup Fixtures | ا
+ لفيصلي — مباريات دوري روشن السعودي وكأس 
+ خادم الحرمين الشريفين
+X-WR-CALDESC:Al-Faisaly — all matches in Saudi Pro League & King's Cup\, 
+ exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updat
+ ed 2026-09-05T19:31:10Z.  •  الفيصلي — جميع المباري
+ ات في دوري روشن السعودي وكأس خادم الحرمي
+ ن الشريفين بتوقيت UTC الدقيق مع الملاعب وا
+ لقنوات الناقلة. المصدر: FotMob + 365scores · تحدي
+ ث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5969051@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260814T180000Z
+DTEND:20260814T200000Z
+SUMMARY:Al Hilal vs Al-Faisaly (4 - 2) — Saudi Pro League
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/5969051
+DESCRIPTION:⚽ الهلال × الفيصلي (4 - 2)\n🏆 دوري رو
+ شن السعودي — الجولة 1\n🗓 الجمعة 14 أغسطس 20
+ 26 · 21:00 بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\n👥 
+ الحضور: 20,616\n—————\n⚽ Al Hilal v Al-Faisaly (4 - 2)\n
+ 🏆 Saudi Pro League — Matchday 1\n🗓 Fri 14 Aug 2026 · 18:00 UTC\n
+ 🏟 Kingdom Arena, Riyadh\nAttendance: 20,616\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد الفيصلي — دوري ر
+ وشن السعودي | Tomorrow: Al Hilal vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × الفيصلي | Kick-off in 30 min: Al Hilal vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970093@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260821T180000Z
+DTEND:20260821T200000Z
+SUMMARY:Al-Faisaly vs Neom SC (0 - 2) — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/5970093
+DESCRIPTION:⚽ الفيصلي × نيوم (0 - 2)\n🏆 دوري روشن 
+ السعودي — الجولة 2\n🗓 الجمعة 21 أغسطس 2026 ·
+  21:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، A
+ l Majma'ah\n⚖️ الحكم: Shukri Al-Hunfush\n👥 الحضور: 637\n
+ —————\n⚽ Al-Faisaly v Neom SC (0 - 2)\n🏆 Saudi Pro League 
+ — Matchday 2\n🗓 Fri 21 Aug 2026 · 18:00 UTC\n🏟 Al Majma'ah Sports
+  City Stadium, Al Majma'ah\nReferee: Shukri Al-Hunfush\nAttendance: 637\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد نيوم — دوري روش
+ ن السعودي | Tomorrow: Al-Faisaly vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × نيوم | Kick-off in 30 min: Al-Faisaly vs Neom SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970105@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260826T160000Z
+DTEND:20260826T180000Z
+SUMMARY:Al-Faisaly vs Al Fateh FC (1 - 1) — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/5970105
+DESCRIPTION:⚽ الفيصلي × الفتح (1 - 1)\n🏆 دوري روش
+ ن السعودي — الجولة 3\n🗓 الأربعاء 26 أغسطس 
+ 2026 · 19:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stad
+ ium، Al Majma'ah\n⚖️ الحكم: Sami Al-Jurays\n👥 الحضور: 7
+ 60\n—————\n⚽ Al-Faisaly v Al Fateh FC (1 - 1)\n🏆 Saudi Pro 
+ League — Matchday 3\n🗓 Wed 26 Aug 2026 · 16:00 UTC\n🏟 Al Majma'ah
+  Sports City Stadium, Al Majma'ah\nReferee: Sami Al-Jurays\nAttendance: 76
+ 0\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد الفتح — دوري رو
+ شن السعودي | Tomorrow: Al-Faisaly vs Al Fateh FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × الفتح | Kick-off in 30 min: Al-Faisaly vs Al Fateh FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970115@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T180000Z
+DTEND:20260830T200000Z
+SUMMARY:Al Qadsiah vs Al-Faisaly (3 - 1) — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/5970115
+DESCRIPTION:⚽ القادسية × الفيصلي (3 - 1)\n🏆 دوري 
+ روشن السعودي — الجولة 4\n🗓 الأحد 30 أغسطس 
+ 2026 · 21:00 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Sta
+ dium، Dammam\n⚖️ الحكم: Majed Al-Shamrani\n—————\n⚽ 
+ Al Qadsiah v Al-Faisaly (3 - 1)\n🏆 Saudi Pro League — Matchday 4\n
+ 🗓 Sun 30 Aug 2026 · 18:00 UTC\n🏟 Prince Mohammed Bin Fahd Stadium, 
+ Dammam\nReferee: Majed Al-Shamrani\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القادسية ضد الفيصلي — دوري
+  روشن السعودي | Tomorrow: Al Qadsiah vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القاد
+ سية × الفيصلي | Kick-off in 30 min: Al Qadsiah vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970123@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T155000Z
+DTEND:20260905T175000Z
+SUMMARY:Al-Faisaly vs Al Hazem (0 - 0) — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/5970123
+DESCRIPTION:⚽ الفيصلي × الحزم (0 - 0)\n🏆 دوري روش
+ ن السعودي — الجولة 5\n🗓 السبت 5 سبتمبر 2026 
+ · 18:50 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium،
+  Al Majma'ah\n📺 تطبيق ثمانية، ثمانية 3\n⚖️ الح
+ كم: Abdullah Yahya Yahya Zarban\n—————\n⚽ Al-Faisaly v Al Ha
+ zem (0 - 0)\n🏆 Saudi Pro League — Matchday 5\n🗓 Sat 05 Sep 2026 ·
+  15:50 UTC\n🏟 Al Majma'ah Sports City Stadium, Al Majma'ah\n📺 Thmany
+ ah, Thmanyah 3\nReferee: Abdullah Yahya Yahya Zarban\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد الحزم — دوري رو
+ شن السعودي — 📺 تطبيق ثمانية، ثمانية 3 | To
+ morrow: Al-Faisaly vs Al Hazem | TV: Thmanyah\, Thmanyah 3
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × الحزم — 📺 تطبيق ثمانية، ثمانية 3 | Kic
+ k-off in 30 min: Al-Faisaly vs Al Hazem | TV: Thmanyah\, Thmanyah 3
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970128@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260908T153000Z
+DTEND:20260908T173000Z
+SUMMARY:Al-Ettifaq vs Al-Faisaly — Saudi Pro League
+LOCATION:Al Ettifaq Club Stadium\, Dammam\, Saudi Arabia
+GEO:26.350811;50.181306
+URL:https://www.fotmob.com/match/5970128
+DESCRIPTION:⚽ الاتفاق × الفيصلي\n🏆 دوري روشن ا
+ لسعودي — الجولة 6\n🗓 الثلاثاء 8 سبتمبر 2026
+  · 18:30 بتوقيت الرياض\n🏟 Al Ettifaq Club Stadium، Dammam
+ \n📺 OneFootball PPV\n—————\n⚽ Al-Ettifaq v Al-Faisaly\n🏆
+  Saudi Pro League — Matchday 6\n🗓 Tue 08 Sep 2026 · 15:30 UTC\n🏟 
+ Al Ettifaq Club Stadium, Dammam\n📺 OneFootball PPV\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتفاق ضد الفيصلي — دوري 
+ روشن السعودي — 📺 OneFootball PPV | Tomorrow: Al-Ettifaq vs
+  Al-Faisaly | TV: OneFootball PPV
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتف
+ اق × الفيصلي — 📺 OneFootball PPV | Kick-off in 30 min: Al-E
+ ttifaq vs Al-Faisaly | TV: OneFootball PPV
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970137@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260911T154500Z
+DTEND:20260911T174500Z
+SUMMARY:Al-Faisaly vs Al Ittihad — Saudi Pro League
+LOCATION:Majmaah Sports City
+URL:https://www.fotmob.com/match/5970137
+DESCRIPTION:⚽ الفيصلي × الاتحاد\n🏆 دوري روشن ا
+ لسعودي — الجولة 7\n🗓 الجمعة 11 سبتمبر 2026 ·
+  18:45 بتوقيت الرياض\n🏟 Majmaah Sports City\n————
+ —\n⚽ Al-Faisaly v Al Ittihad\n🏆 Saudi Pro League — Matchday 7\n
+ 🗓 Fri 11 Sep 2026 · 15:45 UTC\n🏟 Majmaah Sports City\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد الاتحاد — دوري 
+ روشن السعودي | Tomorrow: Al-Faisaly vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × الاتحاد | Kick-off in 30 min: Al-Faisaly vs Al Ittihad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970144@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T152500Z
+DTEND:20261011T172500Z
+SUMMARY:Abha vs Al-Faisaly — Saudi Pro League
+LOCATION:Prince Sultan bin Abdul Aziz Stadium
+URL:https://www.fotmob.com/match/5970144
+DESCRIPTION:⚽ أبها × الفيصلي\n🏆 دوري روشن السع
+ ودي — الجولة 8\n🗓 الأحد 11 أكتوبر 2026 · 18:25 
+ بتوقيت الرياض\n🏟 Prince Sultan bin Abdul Aziz Stadium\n—
+ ————\n⚽ Abha v Al-Faisaly\n🏆 Saudi Pro League — Matchday 8\
+ n🗓 Sun 11 Oct 2026 · 15:25 UTC\n🏟 Prince Sultan bin Abdul Aziz Stad
+ ium\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أبها ضد الفيصلي — دوري روش
+ ن السعودي | Tomorrow: Abha vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أبها ×
+  الفيصلي | Kick-off in 30 min: Abha vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970155@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261015T134000Z
+DTEND:20261015T154000Z
+SUMMARY:Al-Faisaly vs Al Kholood — Saudi Pro League
+LOCATION:Majmaah Sports City
+URL:https://www.fotmob.com/match/5970155
+DESCRIPTION:⚽ الفيصلي × الخلود\n🏆 دوري روشن ال
+ سعودي — الجولة 9\n🗓 الخميس 15 أكتوبر 2026 · 1
+ 6:40 بتوقيت الرياض\n🏟 Majmaah Sports City\n—————\
+ n⚽ Al-Faisaly v Al Kholood\n🏆 Saudi Pro League — Matchday 9\n🗓 T
+ hu 15 Oct 2026 · 13:40 UTC\n🏟 Majmaah Sports City\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد الخلود — دوري ر
+ وشن السعودي | Tomorrow: Al-Faisaly vs Al Kholood
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × الخلود | Kick-off in 30 min: Al-Faisaly vs Al Kholood
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970169@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261019T180000Z
+DTEND:20261019T200000Z
+SUMMARY:Al Shabab vs Al-Faisaly — Saudi Pro League
+LOCATION:SHG Arena
+URL:https://www.fotmob.com/match/5970169
+DESCRIPTION:⚽ الشباب × الفيصلي\n🏆 دوري روشن ال
+ سعودي — الجولة 10\n🗓 الاثنين 19 أكتوبر 2026 
+ · 21:00 بتوقيت الرياض\n🏟 SHG Arena\n—————\n⚽ A
+ l Shabab v Al-Faisaly\n🏆 Saudi Pro League — Matchday 10\n🗓 Mon 19 
+ Oct 2026 · 18:00 UTC\n🏟 SHG Arena\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الشباب ضد الفيصلي — دوري ر
+ وشن السعودي | Tomorrow: Al Shabab vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الشبا
+ ب × الفيصلي | Kick-off in 30 min: Al Shabab vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970172@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261023T133000Z
+DTEND:20261023T153000Z
+SUMMARY:Al-Faisaly vs Al Nassr FC — Saudi Pro League
+LOCATION:Majmaah Sports City
+URL:https://www.fotmob.com/match/5970172
+DESCRIPTION:⚽ الفيصلي × النصر\n🏆 دوري روشن الس
+ عودي — الجولة 11\n🗓 الجمعة 23 أكتوبر 2026 · 16
+ :30 بتوقيت الرياض\n🏟 Majmaah Sports City\n—————\n
+ ⚽ Al-Faisaly v Al Nassr FC\n🏆 Saudi Pro League — Matchday 11\n🗓 
+ Fri 23 Oct 2026 · 13:30 UTC\n🏟 Majmaah Sports City\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد النصر — دوري رو
+ شن السعودي | Tomorrow: Al-Faisaly vs Al Nassr FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × النصر | Kick-off in 30 min: Al-Faisaly vs Al Nassr FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5970187@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261031T145500Z
+DTEND:20261031T165500Z
+SUMMARY:Al-Fayha vs Al-Faisaly — Saudi Pro League
+LOCATION:Majmaah Sports City
+URL:https://www.fotmob.com/match/5970187
+DESCRIPTION:⚽ الفيحاء × الفيصلي\n🏆 دوري روشن ا
+ لسعودي — الجولة 12\n🗓 السبت 31 أكتوبر 2026 · 
+ 17:55 بتوقيت الرياض\n🏟 Majmaah Sports City\n—————
+ \n⚽ Al-Fayha v Al-Faisaly\n🏆 Saudi Pro League — Matchday 12\n🗓 S
+ at 31 Oct 2026 · 14:55 UTC\n🏟 Majmaah Sports City\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيحاء ضد الفيصلي — دوري 
+ روشن السعودي | Tomorrow: Al-Fayha vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيح
+ اء × الفيصلي | Kick-off in 30 min: Al-Fayha vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021475@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261105T000000Z
+DTEND:20261105T020000Z
+SUMMARY:Al-Faisaly vs Al Diriyah — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021475
+DESCRIPTION:⚽ الفيصلي × الدرعية\n🏆 دوري روشن ا
+ لسعودي — الجولة 13\n🗓 الخميس 5 نوفمبر 2026 ·
+  03:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، A
+ l Majma'ah\n—————\n⚽ Al-Faisaly v Al Diriyah\n🏆 Saudi Pro L
+ eague — Matchday 13\n🗓 Thu 05 Nov 2026 · 00:00 UTC\n🏟 Al Majma'ah
+  Sports City Stadium, Al Majma'ah\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد الدرعية — دوري 
+ روشن السعودي | Tomorrow: Al-Faisaly vs Al Diriyah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × الدرعية | Kick-off in 30 min: Al-Faisaly vs Al Diriyah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021477@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Al Ahli vs Al-Faisaly — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021477
+DESCRIPTION:⚽ الأهلي × الفيصلي\n🏆 دوري روشن ال
+ سعودي — الجولة 14\n🗓 الجمعة 20 نوفمبر 2026 · 
+ 03:00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah
+  Sport City، Jeddah\n—————\n⚽ Al Ahli v Al-Faisaly\n🏆 Saud
+ i Pro League — Matchday 14\n🗓 Fri 20 Nov 2026 · 00:00 UTC\n🏟 Alin
+ ma Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد الفيصلي — دوري ر
+ وشن السعودي | Tomorrow: Al Ahli vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × الفيصلي | Kick-off in 30 min: Al Ahli vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021490@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+SUMMARY:Al-Faisaly vs Al Khaleej — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021490
+DESCRIPTION:⚽ الفيصلي × الخليج\n🏆 دوري روشن ال
+ سعودي — الجولة 15\n🗓 الخميس 26 نوفمبر 2026 · 
+ 03:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al
+  Majma'ah\n—————\n⚽ Al-Faisaly v Al Khaleej\n🏆 Saudi Pro Le
+ ague — Matchday 15\n🗓 Thu 26 Nov 2026 · 00:00 UTC\n🏟 Al Majma'ah 
+ Sports City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد الخليج — دوري ر
+ وشن السعودي | Tomorrow: Al-Faisaly vs Al Khaleej
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × الخليج | Kick-off in 30 min: Al-Faisaly vs Al Khaleej
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021503@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261203T000000Z
+DTEND:20261203T020000Z
+SUMMARY:Al-Taawoun vs Al-Faisaly — Saudi Pro League
+LOCATION:Al Taawoun Club Stadium\, Buraydah\, Saudi Arabia
+GEO:26.456987;43.925142
+URL:https://www.fotmob.com/match/1000021503
+DESCRIPTION:⚽ التعاون × الفيصلي\n🏆 دوري روشن ا
+ لسعودي — الجولة 16\n🗓 الخميس 3 ديسمبر 2026 ·
+  03:00 بتوقيت الرياض\n🏟 Al Taawoun Club Stadium، Buraydah\
+ n—————\n⚽ Al-Taawoun v Al-Faisaly\n🏆 Saudi Pro League — M
+ atchday 16\n🗓 Thu 03 Dec 2026 · 00:00 UTC\n🏟 Al Taawoun Club Stadiu
+ m, Buraydah\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: التعاون ضد الفيصلي — دوري 
+ روشن السعودي | Tomorrow: Al-Taawoun vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: التعا
+ ون × الفيصلي | Kick-off in 30 min: Al-Taawoun vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021508@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261210T000000Z
+DTEND:20261210T020000Z
+SUMMARY:Al-Faisaly vs Al Riyadh — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021508
+DESCRIPTION:⚽ الفيصلي × الرياض\n🏆 دوري روشن ال
+ سعودي — الجولة 17\n🗓 الخميس 10 ديسمبر 2026 · 
+ 03:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al
+  Majma'ah\n—————\n⚽ Al-Faisaly v Al Riyadh\n🏆 Saudi Pro Lea
+ gue — Matchday 17\n🗓 Thu 10 Dec 2026 · 00:00 UTC\n🏟 Al Majma'ah S
+ ports City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد الرياض — دوري ر
+ وشن السعودي | Tomorrow: Al-Faisaly vs Al Riyadh
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × الرياض | Kick-off in 30 min: Al-Faisaly vs Al Riyadh
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021519@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261214T000000Z
+DTEND:20261214T020000Z
+SUMMARY:Al-Faisaly vs Al Hilal — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021519
+DESCRIPTION:⚽ الفيصلي × الهلال\n🏆 دوري روشن ال
+ سعودي — الجولة 18\n🗓 الاثنين 14 ديسمبر 2026 
+ · 03:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium،
+  Al Majma'ah\n—————\n⚽ Al-Faisaly v Al Hilal\n🏆 Saudi Pro L
+ eague — Matchday 18\n🗓 Mon 14 Dec 2026 · 00:00 UTC\n🏟 Al Majma'ah
+  Sports City Stadium, Al Majma'ah\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد الهلال — دوري ر
+ وشن السعودي | Tomorrow: Al-Faisaly vs Al Hilal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × الهلال | Kick-off in 30 min: Al-Faisaly vs Al Hilal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021530@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270211T000000Z
+DTEND:20270211T020000Z
+SUMMARY:Neom SC vs Al-Faisaly — Saudi Pro League
+LOCATION:King Khalid Sport City Stadium\, Tabuk\, Saudi Arabia
+GEO:28.479260;36.489083
+URL:https://www.fotmob.com/match/1000021530
+DESCRIPTION:⚽ نيوم × الفيصلي\n🏆 دوري روشن السع
+ ودي — الجولة 19\n🗓 الخميس 11 فبراير 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 King Khalid Sport City Stadium، Tabuk\n
+ —————\n⚽ Neom SC v Al-Faisaly\n🏆 Saudi Pro League — Match
+ day 19\n🗓 Thu 11 Feb 2027 · 00:00 UTC\n🏟 King Khalid Sport City Sta
+ dium, Tabuk\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيوم ضد الفيصلي — دوري روش
+ ن السعودي | Tomorrow: Neom SC vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيوم ×
+  الفيصلي | Kick-off in 30 min: Neom SC vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021532@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270218T000000Z
+DTEND:20270218T020000Z
+SUMMARY:Al Fateh FC vs Al-Faisaly — Saudi Pro League
+LOCATION:Maydan Tamweel Aloula\, Al Ahsa\, Saudi Arabia
+GEO:25.429604;49.581390
+URL:https://www.fotmob.com/match/1000021532
+DESCRIPTION:⚽ الفتح × الفيصلي\n🏆 دوري روشن الس
+ عودي — الجولة 20\n🗓 الخميس 18 فبراير 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Maydan Tamweel Aloula، Al Ahsa\n—
+ ————\n⚽ Al Fateh FC v Al-Faisaly\n🏆 Saudi Pro League — Matc
+ hday 20\n🗓 Thu 18 Feb 2027 · 00:00 UTC\n🏟 Maydan Tamweel Aloula, Al
+  Ahsa\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفتح ضد الفيصلي — دوري رو
+ شن السعودي | Tomorrow: Al Fateh FC vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفتح 
+ × الفيصلي | Kick-off in 30 min: Al Fateh FC vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021544@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270225T000000Z
+DTEND:20270225T020000Z
+SUMMARY:Al-Faisaly vs Al Qadsiah — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021544
+DESCRIPTION:⚽ الفيصلي × القادسية\n🏆 دوري روشن 
+ السعودي — الجولة 21\n🗓 الخميس 25 فبراير 2027
+  · 03:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium
+ ، Al Majma'ah\n—————\n⚽ Al-Faisaly v Al Qadsiah\n🏆 Saudi P
+ ro League — Matchday 21\n🗓 Thu 25 Feb 2027 · 00:00 UTC\n🏟 Al Majm
+ a'ah Sports City Stadium, Al Majma'ah\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد القادسية — دوري
+  روشن السعودي | Tomorrow: Al-Faisaly vs Al Qadsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × القادسية | Kick-off in 30 min: Al-Faisaly vs Al Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021551@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270311T000000Z
+DTEND:20270311T020000Z
+SUMMARY:Al Hazem vs Al-Faisaly — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021551
+DESCRIPTION:⚽ الحزم × الفيصلي\n🏆 دوري روشن الس
+ عودي — الجولة 22\n🗓 الخميس 11 مارس 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)، A
+ r Rass\n—————\n⚽ Al Hazem v Al-Faisaly\n🏆 Saudi Pro League 
+ — Matchday 22\n🗓 Thu 11 Mar 2027 · 00:00 UTC\n🏟 Ar-Rass Stadium (
+ Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الحزم ضد الفيصلي — دوري رو
+ شن السعودي | Tomorrow: Al Hazem vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الحزم 
+ × الفيصلي | Kick-off in 30 min: Al Hazem vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021561@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270318T000000Z
+DTEND:20270318T020000Z
+SUMMARY:Al-Faisaly vs Al-Ettifaq — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021561
+DESCRIPTION:⚽ الفيصلي × الاتفاق\n🏆 دوري روشن ا
+ لسعودي — الجولة 23\n🗓 الخميس 18 مارس 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al M
+ ajma'ah\n—————\n⚽ Al-Faisaly v Al-Ettifaq\n🏆 Saudi Pro Leag
+ ue — Matchday 23\n🗓 Thu 18 Mar 2027 · 00:00 UTC\n🏟 Al Majma'ah Sp
+ orts City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد الاتفاق — دوري 
+ روشن السعودي | Tomorrow: Al-Faisaly vs Al-Ettifaq
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × الاتفاق | Kick-off in 30 min: Al-Faisaly vs Al-Ettifaq
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021573@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270402T000000Z
+DTEND:20270402T020000Z
+SUMMARY:Al Ittihad vs Al-Faisaly — Saudi Pro League
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/1000021573
+DESCRIPTION:⚽ الاتحاد × الفيصلي\n🏆 دوري روشن ا
+ لسعودي — الجولة 24\n🗓 الجمعة 2 أبريل 2027 · 0
+ 3:00 بتوقيت الرياض\n🏟 Alinma Bank Stadium at King Abdullah 
+ Sport City، Jeddah\n—————\n⚽ Al Ittihad v Al-Faisaly\n🏆 Sa
+ udi Pro League — Matchday 24\n🗓 Fri 02 Apr 2027 · 00:00 UTC\n🏟 Al
+ inma Bank Stadium at King Abdullah Sport City, Jeddah\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد الفيصلي — دوري 
+ روشن السعودي | Tomorrow: Al Ittihad vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × الفيصلي | Kick-off in 30 min: Al Ittihad vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021579@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270408T000000Z
+DTEND:20270408T020000Z
+SUMMARY:Al-Faisaly vs Abha — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021579
+DESCRIPTION:⚽ الفيصلي × أبها\n🏆 دوري روشن السع
+ ودي — الجولة 25\n🗓 الخميس 8 أبريل 2027 · 03:00 
+ بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al Majma
+ 'ah\n—————\n⚽ Al-Faisaly v Abha\n🏆 Saudi Pro League — Mat
+ chday 25\n🗓 Thu 08 Apr 2027 · 00:00 UTC\n🏟 Al Majma'ah Sports City 
+ Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد أبها — دوري روش
+ ن السعودي | Tomorrow: Al-Faisaly vs Abha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × أبها | Kick-off in 30 min: Al-Faisaly vs Abha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021590@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270415T000000Z
+DTEND:20270415T020000Z
+SUMMARY:Al Kholood vs Al-Faisaly — Saudi Pro League
+LOCATION:Ar-Rass Stadium (Al Hazm Club Stadium)\, Ar Rass\, Saudi Arabia
+GEO:25.862101;43.502308
+URL:https://www.fotmob.com/match/1000021590
+DESCRIPTION:⚽ الخلود × الفيصلي\n🏆 دوري روشن ال
+ سعودي — الجولة 26\n🗓 الخميس 15 أبريل 2027 · 03
+ :00 بتوقيت الرياض\n🏟 Ar-Rass Stadium (Al Hazm Club Stadium)
+ ، Ar Rass\n—————\n⚽ Al Kholood v Al-Faisaly\n🏆 Saudi Pro L
+ eague — Matchday 26\n🗓 Thu 15 Apr 2027 · 00:00 UTC\n🏟 Ar-Rass Sta
+ dium (Al Hazm Club Stadium), Ar Rass\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخلود ضد الفيصلي — دوري ر
+ وشن السعودي | Tomorrow: Al Kholood vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلو
+ د × الفيصلي | Kick-off in 30 min: Al Kholood vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021599@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T000000Z
+DTEND:20270418T020000Z
+SUMMARY:Al-Faisaly vs Al Shabab — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021599
+DESCRIPTION:⚽ الفيصلي × الشباب\n🏆 دوري روشن ال
+ سعودي — الجولة 27\n🗓 الأحد 18 أبريل 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al Maj
+ ma'ah\n—————\n⚽ Al-Faisaly v Al Shabab\n🏆 Saudi Pro League 
+ — Matchday 27\n🗓 Sun 18 Apr 2027 · 00:00 UTC\n🏟 Al Majma'ah Sport
+ s City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد الشباب — دوري ر
+ وشن السعودي | Tomorrow: Al-Faisaly vs Al Shabab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × الشباب | Kick-off in 30 min: Al-Faisaly vs Al Shabab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021608@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270422T000000Z
+DTEND:20270422T020000Z
+SUMMARY:Al Nassr FC vs Al-Faisaly — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021608
+DESCRIPTION:⚽ النصر × الفيصلي\n🏆 دوري روشن الس
+ عودي — الجولة 28\n🗓 الخميس 22 أبريل 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n—————\
+ n⚽ Al Nassr FC v Al-Faisaly\n🏆 Saudi Pro League — Matchday 28\n🗓
+  Thu 22 Apr 2027 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النصر ضد الفيصلي — دوري رو
+ شن السعودي | Tomorrow: Al Nassr FC vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النصر 
+ × الفيصلي | Kick-off in 30 min: Al Nassr FC vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021618@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270429T000000Z
+DTEND:20270429T020000Z
+SUMMARY:Al-Faisaly vs Al-Fayha — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021618
+DESCRIPTION:⚽ الفيصلي × الفيحاء\n🏆 دوري روشن ا
+ لسعودي — الجولة 29\n🗓 الخميس 29 أبريل 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al
+  Majma'ah\n—————\n⚽ Al-Faisaly v Al-Fayha\n🏆 Saudi Pro Leag
+ ue — Matchday 29\n🗓 Thu 29 Apr 2027 · 00:00 UTC\n🏟 Al Majma'ah Sp
+ orts City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد الفيحاء — دوري 
+ روشن السعودي | Tomorrow: Al-Faisaly vs Al-Fayha
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × الفيحاء | Kick-off in 30 min: Al-Faisaly vs Al-Fayha
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021628@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270506T000000Z
+DTEND:20270506T020000Z
+SUMMARY:Al Diriyah vs Al-Faisaly — Saudi Pro League
+LOCATION:Al-Awwal Park\, Riyadh\, Saudi Arabia
+GEO:24.729227;46.623754
+URL:https://www.fotmob.com/match/1000021628
+DESCRIPTION:⚽ الدرعية × الفيصلي\n🏆 دوري روشن ا
+ لسعودي — الجولة 30\n🗓 الخميس 6 مايو 2027 · 03:
+ 00 بتوقيت الرياض\n🏟 Al-Awwal Park، Riyadh\n—————
+ \n⚽ Al Diriyah v Al-Faisaly\n🏆 Saudi Pro League — Matchday 30\n🗓
+  Thu 06 May 2027 · 00:00 UTC\n🏟 Al-Awwal Park, Riyadh\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الدرعية ضد الفيصلي — دوري 
+ روشن السعودي | Tomorrow: Al Diriyah vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الدرع
+ ية × الفيصلي | Kick-off in 30 min: Al Diriyah vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021636@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270512T000000Z
+DTEND:20270512T020000Z
+SUMMARY:Al-Faisaly vs Al Ahli — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021636
+DESCRIPTION:⚽ الفيصلي × الأهلي\n🏆 دوري روشن ال
+ سعودي — الجولة 31\n🗓 الأربعاء 12 مايو 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al
+  Majma'ah\n—————\n⚽ Al-Faisaly v Al Ahli\n🏆 Saudi Pro Leagu
+ e — Matchday 31\n🗓 Wed 12 May 2027 · 00:00 UTC\n🏟 Al Majma'ah Spo
+ rts City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد الأهلي — دوري ر
+ وشن السعودي | Tomorrow: Al-Faisaly vs Al Ahli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × الأهلي | Kick-off in 30 min: Al-Faisaly vs Al Ahli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021644@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270520T000000Z
+DTEND:20270520T020000Z
+SUMMARY:Al Khaleej vs Al-Faisaly — Saudi Pro League
+LOCATION:Prince Mohammed Bin Fahd Stadium\, Dammam\, Saudi Arabia
+GEO:26.427149;50.114123
+URL:https://www.fotmob.com/match/1000021644
+DESCRIPTION:⚽ الخليج × الفيصلي\n🏆 دوري روشن ال
+ سعودي — الجولة 32\n🗓 الخميس 20 مايو 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Prince Mohammed Bin Fahd Stadium، Damma
+ m\n—————\n⚽ Al Khaleej v Al-Faisaly\n🏆 Saudi Pro League —
+  Matchday 32\n🗓 Thu 20 May 2027 · 00:00 UTC\n🏟 Prince Mohammed Bin 
+ Fahd Stadium, Dammam\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الخليج ضد الفيصلي — دوري ر
+ وشن السعودي | Tomorrow: Al Khaleej vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الخلي
+ ج × الفيصلي | Kick-off in 30 min: Al Khaleej vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021652@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270524T000000Z
+DTEND:20270524T020000Z
+SUMMARY:Al-Faisaly vs Al-Taawoun — Saudi Pro League
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/1000021652
+DESCRIPTION:⚽ الفيصلي × التعاون\n🏆 دوري روشن ا
+ لسعودي — الجولة 33\n🗓 الاثنين 24 مايو 2027 · 
+ 03:00 بتوقيت الرياض\n🏟 Al Majma'ah Sports City Stadium، Al
+  Majma'ah\n—————\n⚽ Al-Faisaly v Al-Taawoun\n🏆 Saudi Pro Le
+ ague — Matchday 33\n🗓 Mon 24 May 2027 · 00:00 UTC\n🏟 Al Majma'ah 
+ Sports City Stadium, Al Majma'ah\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد التعاون — دوري 
+ روشن السعودي | Tomorrow: Al-Faisaly vs Al-Taawoun
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × التعاون | Kick-off in 30 min: Al-Faisaly vs Al-Taawoun
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000021663@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270528T000000Z
+DTEND:20270528T020000Z
+SUMMARY:Al Riyadh vs Al-Faisaly — Saudi Pro League
+LOCATION:Prince Faisal bin Fahd Stadium\, Riyadh\, Saudi Arabia
+GEO:24.662609;46.739745
+URL:https://www.fotmob.com/match/1000021663
+DESCRIPTION:⚽ الرياض × الفيصلي\n🏆 دوري روشن ال
+ سعودي — الجولة 34\n🗓 الجمعة 28 مايو 2027 · 03:0
+ 0 بتوقيت الرياض\n🏟 Prince Faisal bin Fahd Stadium، Riyadh\
+ n—————\n⚽ Al Riyadh v Al-Faisaly\n🏆 Saudi Pro League — Ma
+ tchday 34\n🗓 Fri 28 May 2027 · 00:00 UTC\n🏟 Prince Faisal bin Fahd 
+ Stadium, Riyadh\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الرياض ضد الفيصلي — دوري ر
+ وشن السعودي | Tomorrow: Al Riyadh vs Al-Faisaly
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الريا
+ ض × الفيصلي | Kick-off in 30 min: Al Riyadh vs Al-Faisaly
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5853718@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260818T180000Z
+DTEND:20260818T200000Z
+SUMMARY:Al-Faisaly vs Neom SC (1 - 3) — King's Cup
+LOCATION:Al Majma'ah Sports City Stadium\, Al Majma'ah\, Saudi Arabia
+GEO:25.886876;45.368085
+URL:https://www.fotmob.com/match/5853718
+DESCRIPTION:⚽ الفيصلي × نيوم (1 - 3)\n🏆 كأس خادم ا
+ لحرمين الشريفين — دور الـ32\n🗓 الثلاثاء 1
+ 8 أغسطس 2026 · 21:00 بتوقيت الرياض\n🏟 Al Majma'ah Spo
+ rts City Stadium، Al Majma'ah\n⚖️ الحكم: Mohammed Abu Shaqarah\n
+ —————\n⚽ Al-Faisaly v Neom SC (1 - 3)\n🏆 King's Cup — Rou
+ nd of 32\n🗓 Tue 18 Aug 2026 · 18:00 UTC\n🏟 Al Majma'ah Sports City 
+ Stadium, Al Majma'ah\nReferee: Mohammed Abu Shaqarah\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الفيصلي ضد نيوم — كأس خادم 
+ الحرمين الشريفين | Tomorrow: Al-Faisaly vs Neom SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الفيص
+ لي × نيوم | Kick-off in 30 min: Al-Faisaly vs Neom SC
+END:VALARM
+END:VEVENT
+END:VCALENDAR

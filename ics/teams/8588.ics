@@ -1,0 +1,1302 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Lens — Ligue 1 & UEFA Champions League Fixtures | لان
+ س — مباريات الدوري الفرنسي ودوري أبطال أ
+ وروبا
+X-WR-CALDESC:Lens — all matches in Ligue 1 & UEFA Champions League\, exac
+ t UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2
+ 026-09-05T19:31:10Z.  •  لانس — جميع المباريات في 
+ الدوري الفرنسي ودوري أبطال أوروبا بتوقي
+ ت UTC الدقيق مع الملاعب والقنوات الناقلة. 
+ المصدر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:
+ 31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5802904@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260822T151500Z
+DTEND:20260822T171500Z
+SUMMARY:Lens vs Auxerre (5 - 2) — Ligue 1
+LOCATION:Stade Bollaert-Delelis\, Lens\, France
+GEO:50.432867;2.814941
+URL:https://www.fotmob.com/match/5802904
+DESCRIPTION:⚽ لانس × أوكسير (5 - 2)\n🏆 الدوري الف
+ رنسي — الجولة 1\n🗓 السبت 22 أغسطس 2026 · 18:15 
+ بتوقيت الرياض\n🏟 Stade Bollaert-Delelis، Lens\n⚖️ ال
+ حكم: Mathieu Vernice\n👥 الحضور: 38,115\n—————\n⚽ L
+ ens v Auxerre (5 - 2)\n🏆 Ligue 1 — Matchday 1\n🗓 Sat 22 Aug 2026 
+ · 15:15 UTC\n🏟 Stade Bollaert-Delelis, Lens\nReferee: Mathieu Vernice\
+ nAttendance: 38,115\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد أوكسير — الدوري ال
+ فرنسي | Tomorrow: Lens vs Auxerre
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  أوكسير | Kick-off in 30 min: Lens vs Auxerre
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802917@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260829T151500Z
+DTEND:20260829T171500Z
+SUMMARY:Strasbourg vs Lens (2 - 1) — Ligue 1
+LOCATION:Stade de la Meinau\, Strasbourg\, France
+GEO:48.560069;7.755157
+URL:https://www.fotmob.com/match/5802917
+DESCRIPTION:⚽ ستراسبورج × لانس (2 - 1)\n🏆 الدوري 
+ الفرنسي — الجولة 2\n🗓 السبت 29 أغسطس 2026 · 1
+ 8:15 بتوقيت الرياض\n🏟 Stade de la Meinau، Strasbourg\n⚖
+ ️ الحكم: Bastien Dechepy\n👥 الحضور: 29,000\n————
+ —\n⚽ Strasbourg v Lens (2 - 1)\n🏆 Ligue 1 — Matchday 2\n🗓 Sat 
+ 29 Aug 2026 · 15:15 UTC\n🏟 Stade de la Meinau, Strasbourg\nReferee: Ba
+ stien Dechepy\nAttendance: 29,000\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستراسبورج ضد لانس — الدوري
+  الفرنسي | Tomorrow: Strasbourg vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستراس
+ بورج × لانس | Kick-off in 30 min: Strasbourg vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802921@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260905T151500Z
+DTEND:20260905T171500Z
+SUMMARY:Lens vs Lorient (0 - 1) — Ligue 1
+LOCATION:Stade Bollaert-Delelis\, Lens\, France
+GEO:50.432867;2.814941
+URL:https://www.fotmob.com/match/5802921
+DESCRIPTION:⚽ لانس × لوريان (0 - 1)\n🏆 الدوري الف
+ رنسي — الجولة 3\n🗓 السبت 5 سبتمبر 2026 · 18:15 
+ بتوقيت الرياض\n🏟 Stade Bollaert-Delelis، Lens\n📺 beIN S
+ PORTS USA، beIN SPORTS USA Español، beIN Sport Canada Espanol، OneFoot
+ ball PPV\n⚖️ الحكم: Eric Wattellier\n—————\n⚽ Lens v 
+ Lorient (0 - 1)\n🏆 Ligue 1 — Matchday 3\n🗓 Sat 05 Sep 2026 · 15:1
+ 5 UTC\n🏟 Stade Bollaert-Delelis, Lens\n📺 beIN SPORTS USA, beIN SPORT
+ S USA Español, beIN Sport Canada Espanol, OneFootball PPV\nReferee: Eric 
+ Wattellier\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد لوريان — الدوري ال
+ فرنسي — 📺 beIN SPORTS USA، beIN SPORTS USA Español، beIN Spor
+ t Canada Espanol، OneFootball PPV | Tomorrow: Lens vs Lorient | TV: beIN 
+ SPORTS USA\, beIN SPORTS USA Español\, beIN Sport Canada Espanol\, OneFoo
+ tball PPV
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  لوريان — 📺 beIN SPORTS USA، beIN SPORTS USA Español، beIN S
+ port Canada Espanol، OneFootball PPV | Kick-off in 30 min: Lens vs Lorien
+ t | TV: beIN SPORTS USA\, beIN SPORTS USA Español\, beIN Sport Canada Esp
+ anol\, OneFootball PPV
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802931@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260913T151500Z
+DTEND:20260913T171500Z
+SUMMARY:Le Mans vs Lens — Ligue 1
+LOCATION:Stade Marie-Marvingt\, Le Mans\, France
+GEO:47.959224;0.223525
+URL:https://www.fotmob.com/match/5802931
+DESCRIPTION:⚽ لومان × لانس\n🏆 الدوري الفرنسي 
+ — الجولة 4\n🗓 الأحد 13 سبتمبر 2026 · 18:15 بتوق
+ يت الرياض\n🏟 Stade Marie-Marvingt، Le Mans\n—————\n
+ ⚽ Le Mans v Lens\n🏆 Ligue 1 — Matchday 4\n🗓 Sun 13 Sep 2026 · 1
+ 5:15 UTC\n🏟 Stade Marie-Marvingt, Le Mans\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لومان ضد لانس — الدوري الف
+ رنسي | Tomorrow: Le Mans vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لومان 
+ × لانس | Kick-off in 30 min: Le Mans vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802941@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260918T184500Z
+DTEND:20260918T204500Z
+SUMMARY:Monaco vs Lens — Ligue 1
+LOCATION:Stade Louis II\, Monaco
+URL:https://www.fotmob.com/match/5802941
+DESCRIPTION:⚽ موناكو × لانس\n🏆 الدوري الفرنسي 
+ — الجولة 5\n🗓 الجمعة 18 سبتمبر 2026 · 21:45 بتو
+ قيت الرياض\n🏟 Stade Louis II, Monaco\n—————\n⚽ Mon
+ aco v Lens\n🏆 Ligue 1 — Matchday 5\n🗓 Fri 18 Sep 2026 · 18:45 UTC
+ \n🏟 Stade Louis II, Monaco\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: موناكو ضد لانس — الدوري ال
+ فرنسي | Tomorrow: Monaco vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: موناك
+ و × لانس | Kick-off in 30 min: Monaco vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802947@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261009T184500Z
+DTEND:20261009T204500Z
+SUMMARY:Lens vs Lyon — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5802947
+DESCRIPTION:⚽ لانس × أولمبيك ليون\n🏆 الدوري ال
+ فرنسي — الجولة 6\n🗓 الجمعة 9 أكتوبر 2026 · 21
+ :45 بتوقيت الرياض\n🏟 Stade Bollaert-Delelis\n————
+ —\n⚽ Lens v Lyon\n🏆 Ligue 1 — Matchday 6\n🗓 Fri 09 Oct 2026 ·
+  18:45 UTC\n🏟 Stade Bollaert-Delelis\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد أولمبيك ليون — الد
+ وري الفرنسي | Tomorrow: Lens vs Lyon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  أولمبيك ليون | Kick-off in 30 min: Lens vs Lyon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802963@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261017T184500Z
+DTEND:20261017T204500Z
+SUMMARY:Troyes vs Lens — Ligue 1
+LOCATION:Stade de l'Aube
+URL:https://www.fotmob.com/match/5802963
+DESCRIPTION:⚽ تروا × لانس\n🏆 الدوري الفرنسي — 
+ الجولة 7\n🗓 السبت 17 أكتوبر 2026 · 21:45 بتوقيت
+  الرياض\n🏟 Stade de l'Aube\n—————\n⚽ Troyes v Lens\n
+ 🏆 Ligue 1 — Matchday 7\n🗓 Sat 17 Oct 2026 · 18:45 UTC\n🏟 Stade
+  de l'Aube\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تروا ضد لانس — الدوري الفر
+ نسي | Tomorrow: Troyes vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تروا ×
+  لانس | Kick-off in 30 min: Troyes vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802967@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T184500Z
+DTEND:20261024T204500Z
+SUMMARY:Lens vs Paris FC — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5802967
+DESCRIPTION:⚽ لانس × باريس أف.سي.\n🏆 الدوري الف
+ رنسي — الجولة 8\n🗓 السبت 24 أكتوبر 2026 · 21:45
+  بتوقيت الرياض\n🏟 Stade Bollaert-Delelis\n—————\n
+ ⚽ Lens v Paris FC\n🏆 Ligue 1 — Matchday 8\n🗓 Sat 24 Oct 2026 · 
+ 18:45 UTC\n🏟 Stade Bollaert-Delelis\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد باريس أف.سي. — الدو
+ ري الفرنسي | Tomorrow: Lens vs Paris FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  باريس أف.سي. | Kick-off in 30 min: Lens vs Paris FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802974@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261030T200500Z
+DTEND:20261030T220500Z
+SUMMARY:Lille vs Lens — Ligue 1
+LOCATION:Decathlon Arena-Stade Pierre-Mauroy
+URL:https://www.fotmob.com/match/5802974
+DESCRIPTION:⚽ ليل × لانس\n🏆 الدوري الفرنسي — ا
+ لجولة 9\n🗓 الجمعة 30 أكتوبر 2026 · 23:05 بتوقيت
+  الرياض\n🏟 Decathlon Arena-Stade Pierre-Mauroy\n—————\n
+ ⚽ Lille v Lens\n🏆 Ligue 1 — Matchday 9\n🗓 Fri 30 Oct 2026 · 20:
+ 05 UTC\n🏟 Decathlon Arena-Stade Pierre-Mauroy\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليل ضد لانس — الدوري الفرن
+ سي | Tomorrow: Lille vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليل × 
+ لانس | Kick-off in 30 min: Lille vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802990@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T194500Z
+DTEND:20261108T214500Z
+SUMMARY:Lens vs Marseille — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5802990
+DESCRIPTION:⚽ لانس × مارسيليا\n🏆 الدوري الفرن
+ سي — الجولة 10\n🗓 الأحد 8 نوفمبر 2026 · 22:45 ب
+ توقيت الرياض\n🏟 Stade Bollaert-Delelis\n—————\n⚽
+  Lens v Marseille\n🏆 Ligue 1 — Matchday 10\n🗓 Sun 08 Nov 2026 · 1
+ 9:45 UTC\n🏟 Stade Bollaert-Delelis\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد مارسيليا — الدوري 
+ الفرنسي | Tomorrow: Lens vs Marseille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  مارسيليا | Kick-off in 30 min: Lens vs Marseille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5802991@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T194500Z
+DTEND:20261121T214500Z
+SUMMARY:Lens vs Toulouse — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5802991
+DESCRIPTION:⚽ لانس × تولوز\n🏆 الدوري الفرنسي 
+ — الجولة 11\n🗓 السبت 21 نوفمبر 2026 · 22:45 بتو
+ قيت الرياض\n🏟 Stade Bollaert-Delelis\n—————\n⚽ Len
+ s v Toulouse\n🏆 Ligue 1 — Matchday 11\n🗓 Sat 21 Nov 2026 · 19:45 
+ UTC\n🏟 Stade Bollaert-Delelis\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد تولوز — الدوري الف
+ رنسي | Tomorrow: Lens vs Toulouse
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  تولوز | Kick-off in 30 min: Lens vs Toulouse
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803000@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:Angers vs Lens — Ligue 1
+LOCATION:Stade Raymond Kopa
+URL:https://www.fotmob.com/match/5803000
+DESCRIPTION:⚽ أنجيه × لانس\n🏆 الدوري الفرنسي 
+ — الجولة 12\n🗓 السبت 28 نوفمبر 2026 · 19:00 بتو
+ قيت الرياض\n🏟 Stade Raymond Kopa\n—————\n⚽ Angers 
+ v Lens\n🏆 Ligue 1 — Matchday 12\n🗓 Sat 28 Nov 2026 · 16:00 UTC\n
+ 🏟 Stade Raymond Kopa\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أنجيه ضد لانس — الدوري الف
+ رنسي | Tomorrow: Angers vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أنجيه 
+ × لانس | Kick-off in 30 min: Angers vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803009@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261205T160000Z
+DTEND:20261205T180000Z
+SUMMARY:Lens vs Le Havre — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5803009
+DESCRIPTION:⚽ لانس × لو آفر\n🏆 الدوري الفرنسي 
+ — الجولة 13\n🗓 السبت 5 ديسمبر 2026 · 19:00 بتوق
+ يت الرياض\n🏟 Stade Bollaert-Delelis\n—————\n⚽ Lens 
+ v Le Havre\n🏆 Ligue 1 — Matchday 13\n🗓 Sat 05 Dec 2026 · 16:00 UT
+ C\n🏟 Stade Bollaert-Delelis\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد لو آفر — الدوري الف
+ رنسي | Tomorrow: Lens vs Le Havre
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  لو آفر | Kick-off in 30 min: Lens vs Le Havre
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803023@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261212T160000Z
+DTEND:20261212T180000Z
+SUMMARY:Nice vs Lens — Ligue 1
+LOCATION:Allianz Riviera
+URL:https://www.fotmob.com/match/5803023
+DESCRIPTION:⚽ نيس × لانس\n🏆 الدوري الفرنسي — ا
+ لجولة 14\n🗓 السبت 12 ديسمبر 2026 · 19:00 بتوقيت 
+ الرياض\n🏟 Allianz Riviera\n—————\n⚽ Nice v Lens\n🏆
+  Ligue 1 — Matchday 14\n🗓 Sat 12 Dec 2026 · 16:00 UTC\n🏟 Allianz 
+ Riviera\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نيس ضد لانس — الدوري الفرن
+ سي | Tomorrow: Nice vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نيس × 
+ لانس | Kick-off in 30 min: Nice vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803035@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T194500Z
+DTEND:20270103T214500Z
+SUMMARY:Lens vs Paris Saint-Germain — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5803035
+DESCRIPTION:⚽ لانس × باريس سان جيرمان\n🏆 الدور
+ ي الفرنسي — الجولة 15\n🗓 الأحد 3 يناير 2027 
+ · 22:45 بتوقيت الرياض\n🏟 Stade Bollaert-Delelis\n———
+ ——\n⚽ Lens v Paris Saint-Germain\n🏆 Ligue 1 — Matchday 15\n🗓
+  Sun 03 Jan 2027 · 19:45 UTC\n🏟 Stade Bollaert-Delelis\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد باريس سان جيرمان — 
+ الدوري الفرنسي | Tomorrow: Lens vs Paris Saint-Germain
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  باريس سان جيرمان | Kick-off in 30 min: Lens vs Paris Saint-
+ Germain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803043@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270116T160000Z
+DTEND:20270116T180000Z
+SUMMARY:Rennes vs Lens — Ligue 1
+LOCATION:Roazhon Park
+URL:https://www.fotmob.com/match/5803043
+DESCRIPTION:⚽ ستاد رين × لانس\n🏆 الدوري الفرنس
+ ي — الجولة 16\n🗓 السبت 16 يناير 2027 · 19:00 بتو
+ قيت الرياض\n🏟 Roazhon Park\n—————\n⚽ Rennes v Lens
+ \n🏆 Ligue 1 — Matchday 16\n🗓 Sat 16 Jan 2027 · 16:00 UTC\n🏟 Ro
+ azhon Park\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ستاد رين ضد لانس — الدوري ا
+ لفرنسي | Tomorrow: Rennes vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ستاد ر
+ ين × لانس | Kick-off in 30 min: Rennes vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803047@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270123T160000Z
+DTEND:20270123T180000Z
+SUMMARY:Lens vs Brest — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5803047
+DESCRIPTION:⚽ لانس × بريست\n🏆 الدوري الفرنسي 
+ — الجولة 17\n🗓 السبت 23 يناير 2027 · 19:00 بتوق
+ يت الرياض\n🏟 Stade Bollaert-Delelis\n—————\n⚽ Lens 
+ v Brest\n🏆 Ligue 1 — Matchday 17\n🗓 Sat 23 Jan 2027 · 16:00 UTC\n
+ 🏟 Stade Bollaert-Delelis\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد بريست — الدوري الف
+ رنسي | Tomorrow: Lens vs Brest
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  بريست | Kick-off in 30 min: Lens vs Brest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803062@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270130T160000Z
+DTEND:20270130T180000Z
+SUMMARY:Toulouse vs Lens — Ligue 1
+LOCATION:Stadium de Toulouse
+URL:https://www.fotmob.com/match/5803062
+DESCRIPTION:⚽ تولوز × لانس\n🏆 الدوري الفرنسي 
+ — الجولة 18\n🗓 السبت 30 يناير 2027 · 19:00 بتوق
+ يت الرياض\n🏟 Stadium de Toulouse\n—————\n⚽ Toulouse
+  v Lens\n🏆 Ligue 1 — Matchday 18\n🗓 Sat 30 Jan 2027 · 16:00 UTC\n
+ 🏟 Stadium de Toulouse\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تولوز ضد لانس — الدوري الف
+ رنسي | Tomorrow: Toulouse vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تولوز 
+ × لانس | Kick-off in 30 min: Toulouse vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803065@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270206T160000Z
+DTEND:20270206T180000Z
+SUMMARY:Lens vs Angers — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5803065
+DESCRIPTION:⚽ لانس × أنجيه\n🏆 الدوري الفرنسي 
+ — الجولة 19\n🗓 السبت 6 فبراير 2027 · 19:00 بتوق
+ يت الرياض\n🏟 Stade Bollaert-Delelis\n—————\n⚽ Lens 
+ v Angers\n🏆 Ligue 1 — Matchday 19\n🗓 Sat 06 Feb 2027 · 16:00 UTC\
+ n🏟 Stade Bollaert-Delelis\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد أنجيه — الدوري الف
+ رنسي | Tomorrow: Lens vs Angers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  أنجيه | Kick-off in 30 min: Lens vs Angers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803077@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270213T160000Z
+DTEND:20270213T180000Z
+SUMMARY:Lyon vs Lens — Ligue 1
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/5803077
+DESCRIPTION:⚽ أولمبيك ليون × لانس\n🏆 الدوري ال
+ فرنسي — الجولة 20\n🗓 السبت 13 فبراير 2027 · 19
+ :00 بتوقيت الرياض\n🏟 Groupama Stadium\n—————\n⚽
+  Lyon v Lens\n🏆 Ligue 1 — Matchday 20\n🗓 Sat 13 Feb 2027 · 16:00 
+ UTC\n🏟 Groupama Stadium\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد لانس — الد
+ وري الفرنسي | Tomorrow: Lyon vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × لانس | Kick-off in 30 min: Lyon vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803083@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270220T160000Z
+DTEND:20270220T180000Z
+SUMMARY:Lens vs Troyes — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5803083
+DESCRIPTION:⚽ لانس × تروا\n🏆 الدوري الفرنسي — 
+ الجولة 21\n🗓 السبت 20 فبراير 2027 · 19:00 بتوقي
+ ت الرياض\n🏟 Stade Bollaert-Delelis\n—————\n⚽ Lens v 
+ Troyes\n🏆 Ligue 1 — Matchday 21\n🗓 Sat 20 Feb 2027 · 16:00 UTC\n
+ 🏟 Stade Bollaert-Delelis\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد تروا — الدوري الفر
+ نسي | Tomorrow: Lens vs Troyes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  تروا | Kick-off in 30 min: Lens vs Troyes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803098@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T194500Z
+DTEND:20270228T214500Z
+SUMMARY:Paris Saint-Germain vs Lens — Ligue 1
+LOCATION:Parc des Princes
+URL:https://www.fotmob.com/match/5803098
+DESCRIPTION:⚽ باريس سان جيرمان × لانس\n🏆 الدور
+ ي الفرنسي — الجولة 22\n🗓 الأحد 28 فبراير 202
+ 7 · 22:45 بتوقيت الرياض\n🏟 Parc des Princes\n————
+ —\n⚽ Paris Saint-Germain v Lens\n🏆 Ligue 1 — Matchday 22\n🗓 Su
+ n 28 Feb 2027 · 19:45 UTC\n🏟 Parc des Princes\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس سان جيرمان ضد لانس — 
+ الدوري الفرنسي | Tomorrow: Paris Saint-Germain vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ سان جيرمان × لانس | Kick-off in 30 min: Paris Saint-Germain 
+ vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803101@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270306T160000Z
+DTEND:20270306T180000Z
+SUMMARY:Lens vs Strasbourg — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5803101
+DESCRIPTION:⚽ لانس × ستراسبورج\n🏆 الدوري الفر
+ نسي — الجولة 23\n🗓 السبت 6 مارس 2027 · 19:00 بت
+ وقيت الرياض\n🏟 Stade Bollaert-Delelis\n—————\n⚽ L
+ ens v Strasbourg\n🏆 Ligue 1 — Matchday 23\n🗓 Sat 06 Mar 2027 · 16
+ :00 UTC\n🏟 Stade Bollaert-Delelis\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد ستراسبورج — الدوري
+  الفرنسي | Tomorrow: Lens vs Strasbourg
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  ستراسبورج | Kick-off in 30 min: Lens vs Strasbourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803110@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270313T160000Z
+DTEND:20270313T180000Z
+SUMMARY:Le Havre vs Lens — Ligue 1
+LOCATION:Stade Oceane
+URL:https://www.fotmob.com/match/5803110
+DESCRIPTION:⚽ لو آفر × لانس\n🏆 الدوري الفرنسي 
+ — الجولة 24\n🗓 السبت 13 مارس 2027 · 19:00 بتوقي
+ ت الرياض\n🏟 Stade Oceane\n—————\n⚽ Le Havre v Lens\n
+ 🏆 Ligue 1 — Matchday 24\n🗓 Sat 13 Mar 2027 · 16:00 UTC\n🏟 Stad
+ e Oceane\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لو آفر ضد لانس — الدوري الف
+ رنسي | Tomorrow: Le Havre vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لو آفر
+  × لانس | Kick-off in 30 min: Le Havre vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803118@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270320T160000Z
+DTEND:20270320T180000Z
+SUMMARY:Lens vs Lille — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5803118
+DESCRIPTION:⚽ لانس × ليل\n🏆 الدوري الفرنسي — ا
+ لجولة 25\n🗓 السبت 20 مارس 2027 · 19:00 بتوقيت ال
+ رياض\n🏟 Stade Bollaert-Delelis\n—————\n⚽ Lens v Lille\n
+ 🏆 Ligue 1 — Matchday 25\n🗓 Sat 20 Mar 2027 · 16:00 UTC\n🏟 Stad
+ e Bollaert-Delelis\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد ليل — الدوري الفرن
+ سي | Tomorrow: Lens vs Lille
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  ليل | Kick-off in 30 min: Lens vs Lille
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803127@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270403T150000Z
+DTEND:20270403T170000Z
+SUMMARY:Auxerre vs Lens — Ligue 1
+LOCATION:Stade de l'Abbe-Deschamps
+URL:https://www.fotmob.com/match/5803127
+DESCRIPTION:⚽ أوكسير × لانس\n🏆 الدوري الفرنسي 
+ — الجولة 26\n🗓 السبت 3 أبريل 2027 · 18:00 بتوقي
+ ت الرياض\n🏟 Stade de l'Abbe-Deschamps\n—————\n⚽ Auxe
+ rre v Lens\n🏆 Ligue 1 — Matchday 26\n🗓 Sat 03 Apr 2027 · 15:00 UT
+ C\n🏟 Stade de l'Abbe-Deschamps\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوكسير ضد لانس — الدوري ال
+ فرنسي | Tomorrow: Auxerre vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوكسي
+ ر × لانس | Kick-off in 30 min: Auxerre vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803137@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270410T150000Z
+DTEND:20270410T170000Z
+SUMMARY:Lorient vs Lens — Ligue 1
+LOCATION:Stade du Moustoir
+URL:https://www.fotmob.com/match/5803137
+DESCRIPTION:⚽ لوريان × لانس\n🏆 الدوري الفرنسي 
+ — الجولة 27\n🗓 السبت 10 أبريل 2027 · 18:00 بتوق
+ يت الرياض\n🏟 Stade du Moustoir\n—————\n⚽ Lorient v 
+ Lens\n🏆 Ligue 1 — Matchday 27\n🗓 Sat 10 Apr 2027 · 15:00 UTC\n
+ 🏟 Stade du Moustoir\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لوريان ضد لانس — الدوري ال
+ فرنسي | Tomorrow: Lorient vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لوريا
+ ن × لانس | Kick-off in 30 min: Lorient vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803148@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270417T150000Z
+DTEND:20270417T170000Z
+SUMMARY:Lens vs Nice — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5803148
+DESCRIPTION:⚽ لانس × نيس\n🏆 الدوري الفرنسي — ا
+ لجولة 28\n🗓 السبت 17 أبريل 2027 · 18:00 بتوقيت ا
+ لرياض\n🏟 Stade Bollaert-Delelis\n—————\n⚽ Lens v Nice\
+ n🏆 Ligue 1 — Matchday 28\n🗓 Sat 17 Apr 2027 · 15:00 UTC\n🏟 Sta
+ de Bollaert-Delelis\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد نيس — الدوري الفرن
+ سي | Tomorrow: Lens vs Nice
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  نيس | Kick-off in 30 min: Lens vs Nice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803159@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270424T150000Z
+DTEND:20270424T170000Z
+SUMMARY:Paris FC vs Lens — Ligue 1
+LOCATION:Stade Jean Bouin
+URL:https://www.fotmob.com/match/5803159
+DESCRIPTION:⚽ باريس أف.سي. × لانس\n🏆 الدوري الف
+ رنسي — الجولة 29\n🗓 السبت 24 أبريل 2027 · 18:00 
+ بتوقيت الرياض\n🏟 Stade Jean Bouin\n—————\n⚽ Par
+ is FC v Lens\n🏆 Ligue 1 — Matchday 29\n🗓 Sat 24 Apr 2027 · 15:00 
+ UTC\n🏟 Stade Jean Bouin\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باريس أف.سي. ضد لانس — الدو
+ ري الفرنسي | Tomorrow: Paris FC vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باريس 
+ أف.سي. × لانس | Kick-off in 30 min: Paris FC vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803164@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270501T150000Z
+DTEND:20270501T170000Z
+SUMMARY:Lens vs Le Mans — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5803164
+DESCRIPTION:⚽ لانس × لومان\n🏆 الدوري الفرنسي 
+ — الجولة 30\n🗓 السبت 1 مايو 2027 · 18:00 بتوقيت
+  الرياض\n🏟 Stade Bollaert-Delelis\n—————\n⚽ Lens v Le
+  Mans\n🏆 Ligue 1 — Matchday 30\n🗓 Sat 01 May 2027 · 15:00 UTC\n
+ 🏟 Stade Bollaert-Delelis\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد لومان — الدوري الف
+ رنسي | Tomorrow: Lens vs Le Mans
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  لومان | Kick-off in 30 min: Lens vs Le Mans
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803174@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270508T150000Z
+DTEND:20270508T170000Z
+SUMMARY:Lens vs Monaco — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5803174
+DESCRIPTION:⚽ لانس × موناكو\n🏆 الدوري الفرنسي 
+ — الجولة 31\n🗓 السبت 8 مايو 2027 · 18:00 بتوقيت
+  الرياض\n🏟 Stade Bollaert-Delelis\n—————\n⚽ Lens v Mo
+ naco\n🏆 Ligue 1 — Matchday 31\n🗓 Sat 08 May 2027 · 15:00 UTC\n
+ 🏟 Stade Bollaert-Delelis\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد موناكو — الدوري ال
+ فرنسي | Tomorrow: Lens vs Monaco
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  موناكو | Kick-off in 30 min: Lens vs Monaco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803184@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T150000Z
+DTEND:20270516T170000Z
+SUMMARY:Marseille vs Lens — Ligue 1
+LOCATION:Stade Orange Velodrome
+URL:https://www.fotmob.com/match/5803184
+DESCRIPTION:⚽ مارسيليا × لانس\n🏆 الدوري الفرن
+ سي — الجولة 32\n🗓 الأحد 16 مايو 2027 · 18:00 بتو
+ قيت الرياض\n🏟 Stade Orange Velodrome\n—————\n⚽ Mar
+ seille v Lens\n🏆 Ligue 1 — Matchday 32\n🗓 Sun 16 May 2027 · 15:00
+  UTC\n🏟 Stade Orange Velodrome\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مارسيليا ضد لانس — الدوري 
+ الفرنسي | Tomorrow: Marseille vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مارسي
+ ليا × لانس | Kick-off in 30 min: Marseille vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803192@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270522T150000Z
+DTEND:20270522T170000Z
+SUMMARY:Lens vs Rennes — Ligue 1
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/5803192
+DESCRIPTION:⚽ لانس × ستاد رين\n🏆 الدوري الفرنس
+ ي — الجولة 33\n🗓 السبت 22 مايو 2027 · 18:00 بتوق
+ يت الرياض\n🏟 Stade Bollaert-Delelis\n—————\n⚽ Lens 
+ v Rennes\n🏆 Ligue 1 — Matchday 33\n🗓 Sat 22 May 2027 · 15:00 UTC\
+ n🏟 Stade Bollaert-Delelis\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد ستاد رين — الدوري ا
+ لفرنسي | Tomorrow: Lens vs Rennes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  ستاد رين | Kick-off in 30 min: Lens vs Rennes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5803199@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270529T190000Z
+DTEND:20270529T210000Z
+SUMMARY:Brest vs Lens — Ligue 1
+LOCATION:Stade Francis le Ble
+URL:https://www.fotmob.com/match/5803199
+DESCRIPTION:⚽ بريست × لانس\n🏆 الدوري الفرنسي 
+ — الجولة 34\n🗓 السبت 29 مايو 2027 · 22:00 بتوقي
+ ت الرياض\n🏟 Stade Francis le Ble\n—————\n⚽ Brest v L
+ ens\n🏆 Ligue 1 — Matchday 34\n🗓 Sat 29 May 2027 · 19:00 UTC\n🏟
+  Stade Francis le Ble\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بريست ضد لانس — الدوري الف
+ رنسي | Tomorrow: Brest vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بريست 
+ × لانس | Kick-off in 30 min: Brest vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106392@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260910T190000Z
+DTEND:20260910T210000Z
+SUMMARY:Slavia Prague vs Lens — UEFA Champions League
+LOCATION:Fortuna Arena\, Praha\, Czech Republic
+GEO:50.067525;14.471140
+URL:https://www.fotmob.com/match/6106392
+DESCRIPTION:⚽ سلافيا براغ × لانس\n🏆 دوري أبطال
+  أوروبا — الجولة 1\n🗓 الخميس 10 سبتمبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Fortuna Arena، Praha\n📺 HBO M
+ ax (UK)، Paramount+ (US)\n—————\n⚽ Slavia Prague v Lens\n🏆
+  UEFA Champions League — Matchday 1\n🗓 Thu 10 Sep 2026 · 19:00 UTC\n
+ 🏟 Fortuna Arena, Praha\n📺 HBO Max (UK), Paramount+ (US)\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سلافيا براغ ضد لانس — دوري 
+ أبطال أوروبا — 📺 HBO Max (UK)، Paramount+ (US) | Tomorrow
+ : Slavia Prague vs Lens | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سلافي
+ ا براغ × لانس — 📺 HBO Max (UK)، Paramount+ (US) | Kick-off
+  in 30 min: Slavia Prague vs Lens | TV: HBO Max (UK)\, Paramount+ (US)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106414@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261013T164500Z
+DTEND:20261013T184500Z
+SUMMARY:Lens vs Sporting CP — UEFA Champions League
+LOCATION:Stade Bollaert-Delelis\, Lens\, France
+GEO:50.432867;2.814941
+URL:https://www.fotmob.com/match/6106414
+DESCRIPTION:⚽ لانس × سبورتنج لشبونة\n🏆 دوري أب
+ طال أوروبا — الجولة 2\n🗓 الثلاثاء 13 أكتو
+ بر 2026 · 19:45 بتوقيت الرياض\n🏟 Stade Bollaert-Delelis
+ ، Lens\n—————\n⚽ Lens v Sporting CP\n🏆 UEFA Champions Leag
+ ue — Matchday 2\n🗓 Tue 13 Oct 2026 · 16:45 UTC\n🏟 Stade Bollaert-
+ Delelis, Lens\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد سبورتنج لشبونة — د
+ وري أبطال أوروبا | Tomorrow: Lens vs Sporting CP
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  سبورتنج لشبونة | Kick-off in 30 min: Lens vs Sporting CP
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106297@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+SUMMARY:Club Brugge vs Lens — UEFA Champions League
+LOCATION:Jan Breydelstadion\, Brugge\, Belgium
+GEO:51.193451;3.180542
+URL:https://www.fotmob.com/match/6106297
+DESCRIPTION:⚽ كلوب بروج × لانس\n🏆 دوري أبطال أ
+ وروبا — الجولة 3\n🗓 الأربعاء 21 أكتوبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Jan Breydelstadion، Brugge\n—
+ ————\n⚽ Club Brugge v Lens\n🏆 UEFA Champions League — Match
+ day 3\n🗓 Wed 21 Oct 2026 · 19:00 UTC\n🏟 Jan Breydelstadion, Brugge\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كلوب بروج ضد لانس — دوري أب
+ طال أوروبا | Tomorrow: Club Brugge vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كلوب ب
+ روج × لانس | Kick-off in 30 min: Club Brugge vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106416@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+SUMMARY:Lens vs Como — UEFA Champions League
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/6106416
+DESCRIPTION:⚽ لانس × كومو\n🏆 دوري أبطال أوروبا
+  — الجولة 4\n🗓 الأربعاء 4 نوفمبر 2026 · 23:00 ب
+ توقيت الرياض\n🏟 Stade Bollaert-Delelis\n—————\n⚽
+  Lens v Como\n🏆 UEFA Champions League — Matchday 4\n🗓 Wed 04 Nov 2
+ 026 · 20:00 UTC\n🏟 Stade Bollaert-Delelis\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد كومو — دوري أبطال أ
+ وروبا | Tomorrow: Lens vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  كومو | Kick-off in 30 min: Lens vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106325@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+SUMMARY:RB Leipzig vs Lens — UEFA Champions League
+LOCATION:Red Bull Arena Leipzig
+URL:https://www.fotmob.com/match/6106325
+DESCRIPTION:⚽ لايبزيج × لانس\n🏆 دوري أبطال أور
+ وبا — الجولة 5\n🗓 الثلاثاء 24 نوفمبر 2026 · 2
+ 3:00 بتوقيت الرياض\n🏟 Red Bull Arena Leipzig\n————
+ —\n⚽ RB Leipzig v Lens\n🏆 UEFA Champions League — Matchday 5\n
+ 🗓 Tue 24 Nov 2026 · 20:00 UTC\n🏟 Red Bull Arena Leipzig\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لايبزيج ضد لانس — دوري أبط
+ ال أوروبا | Tomorrow: RB Leipzig vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لايبز
+ يج × لانس | Kick-off in 30 min: RB Leipzig vs Lens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106415@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:Lens vs Bodø/Glimt — UEFA Champions League
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/6106415
+DESCRIPTION:⚽ لانس × بودو جليمت\n🏆 دوري أبطال 
+ أوروبا — الجولة 6\n🗓 الأربعاء 9 ديسمبر 2026
+  · 23:00 بتوقيت الرياض\n🏟 Stade Bollaert-Delelis\n——
+ ———\n⚽ Lens v Bodø/Glimt\n🏆 UEFA Champions League — Matchday
+  6\n🗓 Wed 09 Dec 2026 · 20:00 UTC\n🏟 Stade Bollaert-Delelis\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد بودو جليمت — دوري أ
+ بطال أوروبا | Tomorrow: Lens vs Bodø/Glimt
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  بودو جليمت | Kick-off in 30 min: Lens vs Bodø/Glimt
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106413@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+SUMMARY:Lens vs Manchester City — UEFA Champions League
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.fotmob.com/match/6106413
+DESCRIPTION:⚽ لانس × مانشستر سيتي\n🏆 دوري أبطا
+ ل أوروبا — الجولة 7\n🗓 الأربعاء 20 يناير 20
+ 27 · 23:00 بتوقيت الرياض\n🏟 Stade Bollaert-Delelis\n——
+ ———\n⚽ Lens v Manchester City\n🏆 UEFA Champions League — Matc
+ hday 7\n🗓 Wed 20 Jan 2027 · 20:00 UTC\n🏟 Stade Bollaert-Delelis\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لانس ضد مانشستر سيتي — دور
+ ي أبطال أوروبا | Tomorrow: Lens vs Manchester City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لانس ×
+  مانشستر سيتي | Kick-off in 30 min: Lens vs Manchester City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106249@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Liverpool vs Lens — UEFA Champions League
+LOCATION:Anfield
+URL:https://www.fotmob.com/match/6106249
+DESCRIPTION:⚽ ليفربول × لانس\n🏆 دوري أبطال أور
+ وبا — الجولة 8\n🗓 الأربعاء 27 يناير 2027 · 23:
+ 00 بتوقيت الرياض\n🏟 Anfield\n—————\n⚽ Liverpool
+  v Lens\n🏆 UEFA Champions League — Matchday 8\n🗓 Wed 27 Jan 2027 
+ · 20:00 UTC\n🏟 Anfield\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفربول ضد لانس — دوري أبط
+ ال أوروبا | Tomorrow: Liverpool vs Lens
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفرب
+ ول × لانس | Kick-off in 30 min: Liverpool vs Lens
+END:VALARM
+END:VEVENT
+END:VCALENDAR

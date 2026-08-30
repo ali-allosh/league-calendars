@@ -1,0 +1,270 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Lillestrøm — UEFA Europa League Fixtures | ليلستر
+ وم — مباريات الدوري الأوروبي
+X-WR-CALDESC:Lillestrøm — all matches in UEFA Europa League\, exact UTC 
+ kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09
+ -05T19:31:10Z.  •  ليلستروم — جميع المباريات في
+  الدوري الأوروبي بتوقيت UTC الدقيق مع المل
+ اعب والقنوات الناقلة. المصدر: FotMob + 365scores 
+ · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6112377@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260917T190000Z
+DTEND:20260917T210000Z
+SUMMARY:Lillestrøm vs Torreense — UEFA Europa League
+LOCATION:Åråsen Stadion\, Kjeller\, Norway
+GEO:59.962758;11.063527
+URL:https://www.fotmob.com/match/6112377
+DESCRIPTION:⚽ ليلستروم × توريينسي\n🏆 الدوري ا
+ لأوروبي — الجولة 1\n🗓 الخميس 17 سبتمبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Åråsen Stadion، Kjeller\n—
+ ————\n⚽ Lillestrøm v Torreense\n🏆 UEFA Europa League — Mat
+ chday 1\n🗓 Thu 17 Sep 2026 · 19:00 UTC\n🏟 Åråsen Stadion, Kjeller
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليلستروم ضد توريينسي — الد
+ وري الأوروبي | Tomorrow: Lillestrøm vs Torreense
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليلست
+ روم × توريينسي | Kick-off in 30 min: Lillestrøm vs Torreense
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112305@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:Sparta Prague vs Lillestrøm — UEFA Europa League
+LOCATION:epet ARENA\, Praha\, Czech Republic
+GEO:50.099816;14.415827
+URL:https://www.fotmob.com/match/6112305
+DESCRIPTION:⚽ سبارتا براغ × ليلستروم\n🏆 الدور
+ ي الأوروبي — الجولة 2\n🗓 الخميس 15 أكتوبر 
+ 2026 · 19:45 بتوقيت الرياض\n🏟 epet ARENA، Praha\n——
+ ———\n⚽ Sparta Prague v Lillestrøm\n🏆 UEFA Europa League — Ma
+ tchday 2\n🗓 Thu 15 Oct 2026 · 16:45 UTC\n🏟 epet ARENA, Praha\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سبارتا براغ ضد ليلستروم — 
+ الدوري الأوروبي | Tomorrow: Sparta Prague vs Lillestrøm
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سبارت
+ ا براغ × ليلستروم | Kick-off in 30 min: Sparta Prague vs Lil
+ lestrøm
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112374@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Lillestrøm vs Real Sociedad — UEFA Europa League
+LOCATION:Åråsen Stadion\, Kjeller\, Norway
+GEO:59.962758;11.063527
+URL:https://www.fotmob.com/match/6112374
+DESCRIPTION:⚽ ليلستروم × ريال سوسيداد\n🏆 الدو
+ ري الأوروبي — الجولة 3\n🗓 الخميس 22 أكتوب
+ ر 2026 · 22:00 بتوقيت الرياض\n🏟 Åråsen Stadion، Kjelle
+ r\n—————\n⚽ Lillestrøm v Real Sociedad\n🏆 UEFA Europa Leag
+ ue — Matchday 3\n🗓 Thu 22 Oct 2026 · 19:00 UTC\n🏟 Åråsen Stadio
+ n, Kjeller\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليلستروم ضد ريال سوسيداد —
+  الدوري الأوروبي | Tomorrow: Lillestrøm vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليلست
+ روم × ريال سوسيداد | Kick-off in 30 min: Lillestrøm vs Rea
+ l Sociedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112375@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:Lillestrøm vs Viktoria Plzeň — UEFA Europa League
+LOCATION:Aaraasen Stadion
+URL:https://www.fotmob.com/match/6112375
+DESCRIPTION:⚽ ليلستروم × فيكتوريا بلزن\n🏆 الد
+ وري الأوروبي — الجولة 4\n🗓 الخميس 5 نوفمب
+ ر 2026 · 20:45 بتوقيت الرياض\n🏟 Aaraasen Stadion\n——
+ ———\n⚽ Lillestrøm v Viktoria Plzeň\n🏆 UEFA Europa League — 
+ Matchday 4\n🗓 Thu 05 Nov 2026 · 17:45 UTC\n🏟 Aaraasen Stadion\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليلستروم ضد فيكتوريا بلزن 
+ — الدوري الأوروبي | Tomorrow: Lillestrøm vs Viktoria Plze
+ ň
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليلست
+ روم × فيكتوريا بلزن | Kick-off in 30 min: Lillestrøm vs V
+ iktoria Plzeň
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112261@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Lyon vs Lillestrøm — UEFA Europa League
+LOCATION:Groupama Stadium
+URL:https://www.fotmob.com/match/6112261
+DESCRIPTION:⚽ أولمبيك ليون × ليلستروم\n🏆 الدو
+ ري الأوروبي — الجولة 5\n🗓 الخميس 26 نوفمب
+ ر 2026 · 23:00 بتوقيت الرياض\n🏟 Groupama Stadium\n——
+ ———\n⚽ Lyon v Lillestrøm\n🏆 UEFA Europa League — Matchday 5\
+ n🗓 Thu 26 Nov 2026 · 20:00 UTC\n🏟 Groupama Stadium\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أولمبيك ليون ضد ليلستروم —
+  الدوري الأوروبي | Tomorrow: Lyon vs Lillestrøm
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أولمب
+ يك ليون × ليلستروم | Kick-off in 30 min: Lyon vs Lillestrø
+ m
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112381@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261210T200000Z
+DTEND:20261210T220000Z
+SUMMARY:Levski Sofia vs Lillestrøm — UEFA Europa League
+LOCATION:Vasil Levski
+URL:https://www.fotmob.com/match/6112381
+DESCRIPTION:⚽ ليفسكي صوفيا × ليلستروم\n🏆 الدو
+ ري الأوروبي — الجولة 6\n🗓 الخميس 10 ديسمب
+ ر 2026 · 23:00 بتوقيت الرياض\n🏟 Vasil Levski\n———
+ ——\n⚽ Levski Sofia v Lillestrøm\n🏆 UEFA Europa League — Matchd
+ ay 6\n🗓 Thu 10 Dec 2026 · 20:00 UTC\n🏟 Vasil Levski\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفسكي صوفيا ضد ليلستروم —
+  الدوري الأوروبي | Tomorrow: Levski Sofia vs Lillestrøm
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفسك
+ ي صوفيا × ليلستروم | Kick-off in 30 min: Levski Sofia vs Li
+ llestrøm
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112376@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270121T174500Z
+DTEND:20270121T194500Z
+SUMMARY:Lillestrøm vs AFC Bournemouth — UEFA Europa League
+LOCATION:Aaraasen Stadion
+URL:https://www.fotmob.com/match/6112376
+DESCRIPTION:⚽ ليلستروم × بورنموث\n🏆 الدوري ال
+ أوروبي — الجولة 7\n🗓 الخميس 21 يناير 2027 · 2
+ 0:45 بتوقيت الرياض\n🏟 Aaraasen Stadion\n—————\n
+ ⚽ Lillestrøm v AFC Bournemouth\n🏆 UEFA Europa League — Matchday 7\
+ n🗓 Thu 21 Jan 2027 · 17:45 UTC\n🏟 Aaraasen Stadion\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليلستروم ضد بورنموث — الدو
+ ري الأوروبي | Tomorrow: Lillestrøm vs AFC Bournemouth
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليلست
+ روم × بورنموث | Kick-off in 30 min: Lillestrøm vs AFC Bournemo
+ uth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6112349@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:Celta Vigo vs Lillestrøm — UEFA Europa League
+LOCATION:Abanca Balaidos
+URL:https://www.fotmob.com/match/6112349
+DESCRIPTION:⚽ سيلتا فيجو × ليلستروم\n🏆 الدوري 
+ الأوروبي — الجولة 8\n🗓 الخميس 28 يناير 2027 
+ · 23:00 بتوقيت الرياض\n🏟 Abanca Balaidos\n—————\
+ n⚽ Celta Vigo v Lillestrøm\n🏆 UEFA Europa League — Matchday 8\n
+ 🗓 Thu 28 Jan 2027 · 20:00 UTC\n🏟 Abanca Balaidos\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتا فيجو ضد ليلستروم — ا
+ لدوري الأوروبي | Tomorrow: Celta Vigo vs Lillestrøm
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتا 
+ فيجو × ليلستروم | Kick-off in 30 min: Celta Vigo vs Lillestr
+ øm
+END:VALARM
+END:VEVENT
+END:VCALENDAR

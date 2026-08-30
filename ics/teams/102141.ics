@@ -1,0 +1,293 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Pakhtakor Tashkent — AFC Champions League Elite Fixtures
+  | باختاكور — مباريات دوري أبطال آسيا للن
+ خبة
+X-WR-CALDESC:Pakhtakor Tashkent — all matches in AFC Champions League Eli
+ te\, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-
+ updated 2026-09-05T19:31:10Z.  •  باختاكور — جميع المب
+ اريات في دوري أبطال آسيا للنخبة بتوقيت UTC
+  الدقيق مع الملاعب والقنوات الناقلة. الم
+ صدر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6050068@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260914T181500Z
+DTEND:20260914T201500Z
+SUMMARY:Al Ahli vs Pakhtakor Tashkent — AFC Champions League Elite
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/6050068
+DESCRIPTION:⚽ الأهلي × باختاكور\n🏆 دوري أبطال 
+ آسيا للنخبة — الجولة 1\n🗓 الاثنين 14 سبتم
+ بر 2026 · 21:15 بتوقيت الرياض\n🏟 Alinma Bank Stadium at 
+ King Abdullah Sport City، Jeddah\n—————\n⚽ Al Ahli v Pakhtako
+ r Tashkent\n🏆 AFC Champions League Elite — Matchday 1\n🗓 Mon 14 Se
+ p 2026 · 18:15 UTC\n🏟 Alinma Bank Stadium at King Abdullah Sport City,
+  Jeddah\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد باختاكور — دوري 
+ أبطال آسيا للنخبة | Tomorrow: Al Ahli vs Pakhtakor Tashkent
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × باختاكور | Kick-off in 30 min: Al Ahli vs Pakhtakor Tashkent
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050072@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261012T134500Z
+DTEND:20261012T154500Z
+SUMMARY:Pakhtakor Tashkent vs Al Qadsiah — AFC Champions League Elite
+LOCATION:Paxtakor Markaziy stadioni\, Toshkent (Tashkent)\, Uzbekistan
+GEO:41.315470;69.260269
+URL:https://www.fotmob.com/match/6050072
+DESCRIPTION:⚽ باختاكور × القادسية\n🏆 دوري أبط
+ ال آسيا للنخبة — الجولة 2\n🗓 الاثنين 12 أك
+ توبر 2026 · 16:45 بتوقيت الرياض\n🏟 Paxtakor Markaziy s
+ tadioni، Toshkent (Tashkent)\n—————\n⚽ Pakhtakor Tashkent v A
+ l Qadsiah\n🏆 AFC Champions League Elite — Matchday 2\n🗓 Mon 12 Oct
+  2026 · 13:45 UTC\n🏟 Paxtakor Markaziy stadioni, Toshkent (Tashkent)\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باختاكور ضد القادسية — دور
+ ي أبطال آسيا للنخبة | Tomorrow: Pakhtakor Tashkent vs Al Q
+ adsiah
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باختا
+ كور × القادسية | Kick-off in 30 min: Pakhtakor Tashkent vs Al 
+ Qadsiah
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050085@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261026T191500Z
+DTEND:20261026T211500Z
+SUMMARY:Al Quwa Al Jawiya vs Pakhtakor Tashkent — AFC Champions League El
+ ite
+LOCATION:Basra International Stadium\, al-Baṣra (Basra)\, Iraq
+GEO:30.439928;47.779781
+URL:https://www.fotmob.com/match/6050085
+DESCRIPTION:⚽ القوة الجوية × باختاكور\n🏆 دوري 
+ أبطال آسيا للنخبة — الجولة 3\n🗓 الاثنين 2
+ 6 أكتوبر 2026 · 22:15 بتوقيت الرياض\n🏟 Basra Interna
+ tional Stadium، al-Baṣra (Basra)\n—————\n⚽ Al Quwa Al Jawiy
+ a v Pakhtakor Tashkent\n🏆 AFC Champions League Elite — Matchday 3\n
+ 🗓 Mon 26 Oct 2026 · 19:15 UTC\n🏟 Basra International Stadium, al-Ba
+ ṣra (Basra)\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: القوة الجوية ضد باختاكور —
+  دوري أبطال آسيا للنخبة | Tomorrow: Al Quwa Al Jawiya v
+ s Pakhtakor Tashkent
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: القوة 
+ الجوية × باختاكور | Kick-off in 30 min: Al Quwa Al Jawiya v
+ s Pakhtakor Tashkent
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050088@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261102T144500Z
+DTEND:20261102T164500Z
+SUMMARY:Pakhtakor Tashkent vs Al Nassr FC — AFC Champions League Elite
+LOCATION:Paxtakor Markaziy stadioni\, Toshkent (Tashkent)\, Uzbekistan
+GEO:41.315470;69.260269
+URL:https://www.fotmob.com/match/6050088
+DESCRIPTION:⚽ باختاكور × النصر\n🏆 دوري أبطال آ
+ سيا للنخبة — الجولة 4\n🗓 الاثنين 2 نوفمبر
+  2026 · 17:45 بتوقيت الرياض\n🏟 Paxtakor Markaziy stadioni
+ ، Toshkent (Tashkent)\n—————\n⚽ Pakhtakor Tashkent v Al Nassr
+  FC\n🏆 AFC Champions League Elite — Matchday 4\n🗓 Mon 02 Nov 2026 
+ · 14:45 UTC\n🏟 Paxtakor Markaziy stadioni, Toshkent (Tashkent)\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باختاكور ضد النصر — دوري أ
+ بطال آسيا للنخبة | Tomorrow: Pakhtakor Tashkent vs Al Nassr 
+ FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باختا
+ كور × النصر | Kick-off in 30 min: Pakhtakor Tashkent vs Al Nassr 
+ FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050100@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261123T191500Z
+DTEND:20261123T211500Z
+SUMMARY:Al Ittihad vs Pakhtakor Tashkent — AFC Champions League Elite
+LOCATION:Alinma Bank Stadium at King Abdullah Sport City\, Jeddah\, Saudi A
+ rabia
+GEO:21.763282;39.164307
+URL:https://www.fotmob.com/match/6050100
+DESCRIPTION:⚽ الاتحاد × باختاكور\n🏆 دوري أبطا
+ ل آسيا للنخبة — الجولة 5\n🗓 الاثنين 23 نوف
+ مبر 2026 · 22:15 بتوقيت الرياض\n🏟 Alinma Bank Stadium a
+ t King Abdullah Sport City، Jeddah\n—————\n⚽ Al Ittihad v Pak
+ htakor Tashkent\n🏆 AFC Champions League Elite — Matchday 5\n🗓 Mon 
+ 23 Nov 2026 · 19:15 UTC\n🏟 Alinma Bank Stadium at King Abdullah Sport 
+ City, Jeddah\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد ضد باختاكور — دوري
+  أبطال آسيا للنخبة | Tomorrow: Al Ittihad vs Pakhtakor Tash
+ kent
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد × باختاكور | Kick-off in 30 min: Al Ittihad vs Pakhtakor Tas
+ hkent
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050104@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261207T144500Z
+DTEND:20261207T164500Z
+SUMMARY:Pakhtakor Tashkent vs Tractor — AFC Champions League Elite
+LOCATION:Paxtakor Markaziy stadioni\, Toshkent (Tashkent)\, Uzbekistan
+GEO:41.315470;69.260269
+URL:https://www.fotmob.com/match/6050104
+DESCRIPTION:⚽ باختاكور × تراکتورسازي\n🏆 دوري 
+ أبطال آسيا للنخبة — الجولة 6\n🗓 الاثنين 7
+  ديسمبر 2026 · 17:45 بتوقيت الرياض\n🏟 Paxtakor Marka
+ ziy stadioni، Toshkent (Tashkent)\n—————\n⚽ Pakhtakor Tashken
+ t v Tractor\n🏆 AFC Champions League Elite — Matchday 6\n🗓 Mon 07 D
+ ec 2026 · 14:45 UTC\n🏟 Paxtakor Markaziy stadioni, Toshkent (Tashkent)
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باختاكور ضد تراکتورسازي — 
+ دوري أبطال آسيا للنخبة | Tomorrow: Pakhtakor Tashkent v
+ s Tractor
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باختا
+ كور × تراکتورسازي | Kick-off in 30 min: Pakhtakor Tashkent 
+ vs Tractor
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050112@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270208T144500Z
+DTEND:20270208T164500Z
+SUMMARY:Pakhtakor Tashkent vs Esteghlal — AFC Champions League Elite
+LOCATION:Paxtakor Markaziy stadioni\, Toshkent (Tashkent)\, Uzbekistan
+GEO:41.315470;69.260269
+URL:https://www.fotmob.com/match/6050112
+DESCRIPTION:⚽ باختاكور × استقلال\n🏆 دوري أبطا
+ ل آسيا للنخبة — الجولة 7\n🗓 الاثنين 8 فبر
+ اير 2027 · 17:45 بتوقيت الرياض\n🏟 Paxtakor Markaziy sta
+ dioni، Toshkent (Tashkent)\n—————\n⚽ Pakhtakor Tashkent v Est
+ eghlal\n🏆 AFC Champions League Elite — Matchday 7\n🗓 Mon 08 Feb 20
+ 27 · 14:45 UTC\n🏟 Paxtakor Markaziy stadioni, Toshkent (Tashkent)\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باختاكور ضد استقلال — دوري
+  أبطال آسيا للنخبة | Tomorrow: Pakhtakor Tashkent vs Estegh
+ lal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باختا
+ كور × استقلال | Kick-off in 30 min: Pakhtakor Tashkent vs Esteg
+ hlal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050123@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270215T191500Z
+DTEND:20270215T211500Z
+SUMMARY:Al Hilal vs Pakhtakor Tashkent — AFC Champions League Elite
+LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
+GEO:24.778577;46.607507
+URL:https://www.fotmob.com/match/6050123
+DESCRIPTION:⚽ الهلال × باختاكور\n🏆 دوري أبطال 
+ آسيا للنخبة — الجولة 8\n🗓 الاثنين 15 فبرا
+ ير 2027 · 22:15 بتوقيت الرياض\n🏟 Kingdom Arena، Riyadh\
+ n—————\n⚽ Al Hilal v Pakhtakor Tashkent\n🏆 AFC Champions Le
+ ague Elite — Matchday 8\n🗓 Mon 15 Feb 2027 · 19:15 UTC\n🏟 Kingdom
+  Arena, Riyadh\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الهلال ضد باختاكور — دوري 
+ أبطال آسيا للنخبة | Tomorrow: Al Hilal vs Pakhtakor Tashken
+ t
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الهلا
+ ل × باختاكور | Kick-off in 30 min: Al Hilal vs Pakhtakor Tashken
+ t
+END:VALARM
+END:VEVENT
+END:VCALENDAR

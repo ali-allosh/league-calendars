@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Wealdstone — FA Cup Fixtures | Wealdstone — مباري
+ ات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Wealdstone — all matches in FA Cup\, exact UTC kickoffs\, st
+ adiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:10Z
+ .  •  Wealdstone — جميع المباريات في كأس الاتح
+ اد الإنجليزي بتوقيت UTC الدقيق مع الملاعب 
+ والقنوات الناقلة. المصدر: FotMob + 365scores · تح
+ ديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5010640@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251101T150000Z
+DTEND:20251101T170000Z
+SUMMARY:Wealdstone vs Southend United (1 - 0) — FA Cup
+LOCATION:Grosvenor Vale\, Ruislip\, Middlesex\, England
+GEO:51.569405;-0.416638
+URL:https://www.fotmob.com/match/5010640
+DESCRIPTION:⚽ Wealdstone × Southend United (1 - 0)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الأول\n🗓 السبت 1 ن
+ وفمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Grosvenor Vale، 
+ Ruislip, Middlesex\n⚖️ الحكم: Carl Brook\n👥 الحضور: 2,14
+ 6\n—————\n⚽ Wealdstone v Southend United (1 - 0)\n🏆 FA Cup 
+ — Round 1\n🗓 Sat 01 Nov 2025 · 15:00 UTC\n🏟 Grosvenor Vale, Ruisl
+ ip, Middlesex\nReferee: Carl Brook\nAttendance: 2,146\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Wealdstone ضد Southend United — كأس الا
+ تحاد الإنجليزي | Tomorrow: Wealdstone vs Southend United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Wealdstone 
+ × Southend United | Kick-off in 30 min: Wealdstone vs Southend United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5040311@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+SUMMARY:Grimsby Town vs Wealdstone (4 - 0) — FA Cup
+LOCATION:Blundell Park\, Cleethorpes\, North East Lincolns\, England
+GEO:53.570208;-0.046552
+URL:https://www.fotmob.com/match/5040311
+DESCRIPTION:⚽ Grimsby Town × Wealdstone (4 - 0)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الثاني\n🗓 السبت 6 د
+ يسمبر 2025 · 18:00 بتوقيت الرياض\n🏟 Blundell Park، C
+ leethorpes, North East Lincolns\n⚖️ الحكم: Matthew Russell\n👥 
+ الحضور: 3,655\n—————\n⚽ Grimsby Town v Wealdstone (4 - 0
+ )\n🏆 FA Cup — Round 2\n🗓 Sat 06 Dec 2025 · 15:00 UTC\n🏟 Blunde
+ ll Park, Cleethorpes, North East Lincolns\nReferee: Matthew Russell\nAtten
+ dance: 3,655\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Grimsby Town ضد Wealdstone — كأس الات
+ حاد الإنجليزي | Tomorrow: Grimsby Town vs Wealdstone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Grimsby Tow
+ n × Wealdstone | Kick-off in 30 min: Grimsby Town vs Wealdstone
+END:VALARM
+END:VEVENT
+END:VCALENDAR

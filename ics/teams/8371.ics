@@ -1,0 +1,1334 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Osasuna — LaLiga & Copa del Rey Fixtures | أوساسو
+ نا — مباريات الدوري الإسباني وكأس ملك إس
+ بانيا
+X-WR-CALDESC:Osasuna — all matches in LaLiga & Copa del Rey\, exact UTC k
+ ickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-
+ 05T19:31:10Z.  •  أوساسونا — جميع المباريات في 
+ الدوري الإسباني وكأس ملك إسبانيا بتوقيت 
+ UTC الدقيق مع الملاعب والقنوات الناقلة. ال
+ مصدر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:1
+ 0Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5868028@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260824T173000Z
+DTEND:20260824T193000Z
+SUMMARY:Osasuna vs Levante (0 - 0) — LaLiga
+LOCATION:Estadio El Sadar\, Pamplona (Iruñea)\, Spain
+GEO:42.796677;-1.637141
+URL:https://www.fotmob.com/match/5868028
+DESCRIPTION:⚽ أوساسونا × ليفانتي (0 - 0)\n🏆 الدور
+ ي الإسباني — الجولة 2\n🗓 الاثنين 24 أغسطس 
+ 2026 · 20:30 بتوقيت الرياض\n🏟 Estadio El Sadar، Pamplona 
+ (Iruñea)\n⚖️ الحكم: Victor García Verdura\n👥 الحضور: 2
+ 0,241\n—————\n⚽ Osasuna v Levante (0 - 0)\n🏆 LaLiga — Mat
+ chday 2\n🗓 Mon 24 Aug 2026 · 17:30 UTC\n🏟 Estadio El Sadar, Pamplon
+ a (Iruñea)\nReferee: Victor García Verdura\nAttendance: 20,241\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد ليفانتي — الدو
+ ري الإسباني | Tomorrow: Osasuna vs Levante
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × ليفانتي | Kick-off in 30 min: Osasuna vs Levante
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868013@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260827T183000Z
+DTEND:20260827T203000Z
+SUMMARY:Celta Vigo vs Osasuna (1 - 2) — LaLiga
+LOCATION:Estadio Abanca-Balaídos\, Vigo\, Spain
+GEO:42.211852;-8.739721
+URL:https://www.fotmob.com/match/5868013
+DESCRIPTION:⚽ سيلتا فيجو × أوساسونا (1 - 2)\n🏆 ال
+ دوري الإسباني — الجولة 1\n🗓 الخميس 27 أغس
+ طس 2026 · 21:30 بتوقيت الرياض\n🏟 Estadio Abanca-Balaído
+ s، Vigo\n⚖️ الحكم: Miguel Sesma Espinosa\n👥 الحضور: 20,
+ 645\n—————\n⚽ Celta Vigo v Osasuna (1 - 2)\n🏆 LaLiga — Ma
+ tchday 1\n🗓 Thu 27 Aug 2026 · 18:30 UTC\n🏟 Estadio Abanca-Balaídos
+ , Vigo\nReferee: Miguel Sesma Espinosa\nAttendance: 20,645\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيلتا فيجو ضد أوساسونا — ا
+ لدوري الإسباني | Tomorrow: Celta Vigo vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيلتا 
+ فيجو × أوساسونا | Kick-off in 30 min: Celta Vigo vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868036@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260831T173000Z
+DTEND:20260831T193000Z
+SUMMARY:Osasuna vs Getafe (1 - 0) — LaLiga
+LOCATION:Estadio El Sadar\, Pamplona (Iruñea)\, Spain
+GEO:42.796677;-1.637141
+URL:https://www.fotmob.com/match/5868036
+DESCRIPTION:⚽ أوساسونا × خيتافي (1 - 0)\n🏆 الدوري
+  الإسباني — الجولة 3\n🗓 الاثنين 31 أغسطس 20
+ 26 · 20:30 بتوقيت الرياض\n🏟 Estadio El Sadar، Pamplona (I
+ ruñea)\n⚖️ الحكم: Jon Ander González Esteban\n👥 الحضور
+ : 19,672\n—————\n⚽ Osasuna v Getafe (1 - 0)\n🏆 LaLiga — M
+ atchday 3\n🗓 Mon 31 Aug 2026 · 17:30 UTC\n🏟 Estadio El Sadar, Pampl
+ ona (Iruñea)\nReferee: Jon Ander González Esteban\nAttendance: 19,672\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد خيتافي — الدور
+ ي الإسباني | Tomorrow: Osasuna vs Getafe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × خيتافي | Kick-off in 30 min: Osasuna vs Getafe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868041@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260906T163000Z
+DTEND:20260906T183000Z
+SUMMARY:Deportivo Alavés vs Osasuna — LaLiga
+LOCATION:Estadio de Mendizorroza\, Vitoria-Gasteiz\, Spain
+GEO:42.837076;-2.688247
+URL:https://www.fotmob.com/match/5868041
+DESCRIPTION:⚽ ديبورتيفو ألافيس × أوساسونا\n🏆 
+ الدوري الإسباني — الجولة 4\n🗓 الأحد 6 سبت
+ مبر 2026 · 19:30 بتوقيت الرياض\n🏟 Estadio de Mendizorro
+ za، Vitoria-Gasteiz\n📺 Bein Sports HD2\n—————\n⚽ Deportivo
+  Alavés v Osasuna\n🏆 LaLiga — Matchday 4\n🗓 Sun 06 Sep 2026 · 16
+ :30 UTC\n🏟 Estadio de Mendizorroza, Vitoria-Gasteiz\n📺 beIN Sport 2 
+ HD\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو ألافيس ضد أوساسو
+ نا — الدوري الإسباني — 📺 Bein Sports HD2 | Tomorrow
+ : Deportivo Alavés vs Osasuna | TV: beIN Sport 2 HD
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو ألافيس × أوساسونا — 📺 Bein Sports HD2 | Kick-
+ off in 30 min: Deportivo Alavés vs Osasuna | TV: beIN Sport 2 HD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868055@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T141500Z
+DTEND:20260912T161500Z
+SUMMARY:Osasuna vs Espanyol — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868055
+DESCRIPTION:⚽ أوساسونا × إسبانيول\n🏆 الدوري ا
+ لإسباني — الجولة 5\n🗓 السبت 12 سبتمبر 2026 ·
+  17:15 بتوقيت الرياض\n🏟 Estadio El Sadar\n📺 LaLigaTV، P
+ remier Sports Player، beIN SPORTS CONNECT، beIN Sports Connect Singapore
+ ، FanCode، Now Player\n—————\n⚽ Osasuna v Espanyol\n🏆 LaL
+ iga — Matchday 5\n🗓 Sat 12 Sep 2026 · 14:15 UTC\n🏟 Estadio El Sad
+ ar\n📺 LaLigaTV, Premier Sports Player, beIN SPORTS CONNECT, beIN Sports
+  Connect Singapore, FanCode, Now Player\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد إسبانيول — الد
+ وري الإسباني — 📺 LaLigaTV، Premier Sports Player، beIN S
+ PORTS CONNECT، beIN Sports Connect Singapore، FanCode، Now Player | Tom
+ orrow: Osasuna vs Espanyol | TV: LaLigaTV\, Premier Sports Player\, beIN S
+ PORTS CONNECT\, beIN Sports Connect Singapore\, FanCode\, Now Player
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × إسبانيول — 📺 LaLigaTV، Premier Sports Player، beI
+ N SPORTS CONNECT، beIN Sports Connect Singapore، FanCode، Now Player | 
+ Kick-off in 30 min: Osasuna vs Espanyol | TV: LaLigaTV\, Premier Sports Pl
+ ayer\, beIN SPORTS CONNECT\, beIN Sports Connect Singapore\, FanCode\, Now
+  Player
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868062@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260916T170000Z
+DTEND:20260916T190000Z
+SUMMARY:Atlético Madrid vs Osasuna — LaLiga
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/5868062
+DESCRIPTION:⚽ أتلتيكو مدريد × أوساسونا\n🏆 الد
+ وري الإسباني — الجولة 6\n🗓 الأربعاء 16 سب
+ تمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Riyadh Air Metropol
+ itano\n—————\n⚽ Atlético Madrid v Osasuna\n🏆 LaLiga — Ma
+ tchday 6\n🗓 Wed 16 Sep 2026 · 17:00 UTC\n🏟 Riyadh Air Metropolitano
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد أوساسونا 
+ — الدوري الإسباني | Tomorrow: Atlético Madrid vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × أوساسونا | Kick-off in 30 min: Atlético Madrid
+  vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868077@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T120000Z
+DTEND:20260919T140000Z
+SUMMARY:Osasuna vs Rayo Vallecano — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868077
+DESCRIPTION:⚽ أوساسونا × رايو فاييكانو\n🏆 الد
+ وري الإسباني — الجولة 7\n🗓 السبت 19 سبتمب
+ ر 2026 · 15:00 بتوقيت الرياض\n🏟 Estadio El Sadar\n——
+ ———\n⚽ Osasuna v Rayo Vallecano\n🏆 LaLiga — Matchday 7\n🗓 
+ Sat 19 Sep 2026 · 12:00 UTC\n🏟 Estadio El Sadar\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد رايو فاييكانو 
+ — الدوري الإسباني | Tomorrow: Osasuna vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × رايو فاييكانو | Kick-off in 30 min: Osasuna vs Rayo 
+ Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868082@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Real Betis vs Osasuna — LaLiga
+LOCATION:Estadio de La Cartuja
+URL:https://www.fotmob.com/match/5868082
+DESCRIPTION:⚽ ريال بيتيس × أوساسونا\n🏆 الدوري 
+ الإسباني — الجولة 8\n🗓 الأحد 11 أكتوبر 2026 
+ · 16:00 بتوقيت الرياض\n🏟 Estadio de La Cartuja\n———
+ ——\n⚽ Real Betis v Osasuna\n🏆 LaLiga — Matchday 8\n🗓 Sun 11 
+ Oct 2026 · 13:00 UTC\n🏟 Estadio de La Cartuja\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال بيتيس ضد أوساسونا — ا
+ لدوري الإسباني | Tomorrow: Real Betis vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال ب
+ يتيس × أوساسونا | Kick-off in 30 min: Real Betis vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868097@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Osasuna vs Racing Santander — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868097
+DESCRIPTION:⚽ أوساسونا × راسينج سانتاندير\n🏆 
+ الدوري الإسباني — الجولة 9\n🗓 الأحد 18 أك
+ توبر 2026 · 16:00 بتوقيت الرياض\n🏟 Estadio El Sadar\n
+ —————\n⚽ Osasuna v Racing Santander\n🏆 LaLiga — Matchday 
+ 9\n🗓 Sun 18 Oct 2026 · 13:00 UTC\n🏟 Estadio El Sadar\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد راسينج سانتاند
+ ير — الدوري الإسباني | Tomorrow: Osasuna vs Racing Santa
+ nder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × راسينج سانتاندير | Kick-off in 30 min: Osasuna vs
+  Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868109@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Sevilla vs Osasuna — LaLiga
+LOCATION:Estadio R. Sanchez Pizjuan
+URL:https://www.fotmob.com/match/5868109
+DESCRIPTION:⚽ إشبيلية × أوساسونا\n🏆 الدوري ال
+ إسباني — الجولة 10\n🗓 الأحد 25 أكتوبر 2026 · 
+ 17:00 بتوقيت الرياض\n🏟 Estadio R. Sanchez Pizjuan\n——
+ ———\n⚽ Sevilla v Osasuna\n🏆 LaLiga — Matchday 10\n🗓 Sun 25
+  Oct 2026 · 14:00 UTC\n🏟 Estadio R. Sanchez Pizjuan\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إشبيلية ضد أوساسونا — الدو
+ ري الإسباني | Tomorrow: Sevilla vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إشبيل
+ ية × أوساسونا | Kick-off in 30 min: Sevilla vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868113@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Deportivo A Coruña vs Osasuna — LaLiga
+LOCATION:Abanca-Riazor
+URL:https://www.fotmob.com/match/5868113
+DESCRIPTION:⚽ ديبورتيفو لاكورونيا × أوساسونا\n
+ 🏆 الدوري الإسباني — الجولة 11\n🗓 الأحد 1 
+ نوفمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Abanca-Riazor\n
+ —————\n⚽ Deportivo A Coruña v Osasuna\n🏆 LaLiga — Matchd
+ ay 11\n🗓 Sun 01 Nov 2026 · 14:00 UTC\n🏟 Abanca-Riazor\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو لاكورونيا ضد أوس
+ اسونا — الدوري الإسباني | Tomorrow: Deportivo A Coru
+ ña vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو لاكورونيا × أوساسونا | Kick-off in 30 min: Depo
+ rtivo A Coruña vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868126@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Osasuna vs Athletic Club — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868126
+DESCRIPTION:⚽ أوساسونا × أتلتيك بلباو\n🏆 الدو
+ ري الإسباني — الجولة 12\n🗓 الأحد 8 نوفمبر 
+ 2026 · 17:00 بتوقيت الرياض\n🏟 Estadio El Sadar\n———
+ ——\n⚽ Osasuna v Athletic Club\n🏆 LaLiga — Matchday 12\n🗓 Sun
+  08 Nov 2026 · 14:00 UTC\n🏟 Estadio El Sadar\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد أتلتيك بلباو —
+  الدوري الإسباني | Tomorrow: Osasuna vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × أتلتيك بلباو | Kick-off in 30 min: Osasuna vs Athleti
+ c Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868136@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Osasuna vs Málaga — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868136
+DESCRIPTION:⚽ أوساسونا × مالقا\n🏆 الدوري الإس
+ باني — الجولة 13\n🗓 الأحد 22 نوفمبر 2026 · 17:0
+ 0 بتوقيت الرياض\n🏟 Estadio El Sadar\n—————\n⚽ O
+ sasuna v Málaga\n🏆 LaLiga — Matchday 13\n🗓 Sun 22 Nov 2026 · 14:
+ 00 UTC\n🏟 Estadio El Sadar\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد مالقا — الدوري
+  الإسباني | Tomorrow: Osasuna vs Málaga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × مالقا | Kick-off in 30 min: Osasuna vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868150@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T140000Z
+DTEND:20261129T160000Z
+SUMMARY:Valencia vs Osasuna — LaLiga
+LOCATION:Estadio Mestalla
+URL:https://www.fotmob.com/match/5868150
+DESCRIPTION:⚽ فالنسيا × أوساسونا\n🏆 الدوري ال
+ إسباني — الجولة 14\n🗓 الأحد 29 نوفمبر 2026 · 
+ 17:00 بتوقيت الرياض\n🏟 Estadio Mestalla\n—————\n
+ ⚽ Valencia v Osasuna\n🏆 LaLiga — Matchday 14\n🗓 Sun 29 Nov 2026 
+ · 14:00 UTC\n🏟 Estadio Mestalla\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فالنسيا ضد أوساسونا — الدو
+ ري الإسباني | Tomorrow: Valencia vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فالنس
+ يا × أوساسونا | Kick-off in 30 min: Valencia vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868156@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T140000Z
+DTEND:20261206T160000Z
+SUMMARY:Osasuna vs Elche — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868156
+DESCRIPTION:⚽ أوساسونا × إلتشي\n🏆 الدوري الإس
+ باني — الجولة 15\n🗓 الأحد 6 ديسمبر 2026 · 17:00
+  بتوقيت الرياض\n🏟 Estadio El Sadar\n—————\n⚽ Os
+ asuna v Elche\n🏆 LaLiga — Matchday 15\n🗓 Sun 06 Dec 2026 · 14:00 
+ UTC\n🏟 Estadio El Sadar\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد إلتشي — الدوري
+  الإسباني | Tomorrow: Osasuna vs Elche
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × إلتشي | Kick-off in 30 min: Osasuna vs Elche
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868168@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T140000Z
+DTEND:20261213T160000Z
+SUMMARY:Real Madrid vs Osasuna — LaLiga
+LOCATION:Estadio Bernabeu
+URL:https://www.fotmob.com/match/5868168
+DESCRIPTION:⚽ ريال مدريد × أوساسونا\n🏆 الدوري 
+ الإسباني — الجولة 16\n🗓 الأحد 13 ديسمبر 2026
+  · 17:00 بتوقيت الرياض\n🏟 Estadio Bernabeu\n————
+ —\n⚽ Real Madrid v Osasuna\n🏆 LaLiga — Matchday 16\n🗓 Sun 13 D
+ ec 2026 · 14:00 UTC\n🏟 Estadio Bernabeu\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال مدريد ضد أوساسونا — ا
+ لدوري الإسباني | Tomorrow: Real Madrid vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال م
+ دريد × أوساسونا | Kick-off in 30 min: Real Madrid vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868177@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T140000Z
+DTEND:20261220T160000Z
+SUMMARY:Osasuna vs Villarreal — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868177
+DESCRIPTION:⚽ أوساسونا × فياريال\n🏆 الدوري ال
+ إسباني — الجولة 17\n🗓 الأحد 20 ديسمبر 2026 · 
+ 17:00 بتوقيت الرياض\n🏟 Estadio El Sadar\n—————\n
+ ⚽ Osasuna v Villarreal\n🏆 LaLiga — Matchday 17\n🗓 Sun 20 Dec 202
+ 6 · 14:00 UTC\n🏟 Estadio El Sadar\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد فياريال — الدو
+ ري الإسباني | Tomorrow: Osasuna vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × فياريال | Kick-off in 30 min: Osasuna vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868189@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T140000Z
+DTEND:20270103T160000Z
+SUMMARY:Real Sociedad vs Osasuna — LaLiga
+LOCATION:Reale Arena
+URL:https://www.fotmob.com/match/5868189
+DESCRIPTION:⚽ ريال سوسيداد × أوساسونا\n🏆 الدو
+ ري الإسباني — الجولة 18\n🗓 الأحد 3 يناير 20
+ 27 · 17:00 بتوقيت الرياض\n🏟 Reale Arena\n—————\n
+ ⚽ Real Sociedad v Osasuna\n🏆 LaLiga — Matchday 18\n🗓 Sun 03 Jan 
+ 2027 · 14:00 UTC\n🏟 Reale Arena\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد أوساسونا —
+  الدوري الإسباني | Tomorrow: Real Sociedad vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × أوساسونا | Kick-off in 30 min: Real Sociedad vs Os
+ asuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868197@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T140000Z
+DTEND:20270110T160000Z
+SUMMARY:Osasuna vs Barcelona — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868197
+DESCRIPTION:⚽ أوساسونا × برشلونة\n🏆 الدوري ال
+ إسباني — الجولة 19\n🗓 الأحد 10 يناير 2027 · 17
+ :00 بتوقيت الرياض\n🏟 Estadio El Sadar\n—————\n⚽
+  Osasuna v Barcelona\n🏆 LaLiga — Matchday 19\n🗓 Sun 10 Jan 2027 ·
+  14:00 UTC\n🏟 Estadio El Sadar\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد برشلونة — الدو
+ ري الإسباني | Tomorrow: Osasuna vs Barcelona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × برشلونة | Kick-off in 30 min: Osasuna vs Barcelona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868208@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T140000Z
+DTEND:20270117T160000Z
+SUMMARY:Racing Santander vs Osasuna — LaLiga
+LOCATION:Estadio El Sardinero
+URL:https://www.fotmob.com/match/5868208
+DESCRIPTION:⚽ راسينج سانتاندير × أوساسونا\n🏆 
+ الدوري الإسباني — الجولة 20\n🗓 الأحد 17 ين
+ اير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio El Sardinero\
+ n—————\n⚽ Racing Santander v Osasuna\n🏆 LaLiga — Matchday
+  20\n🗓 Sun 17 Jan 2027 · 14:00 UTC\n🏟 Estadio El Sardinero\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: راسينج سانتاندير ضد أوساسو
+ نا — الدوري الإسباني | Tomorrow: Racing Santander vs Osa
+ suna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: راسين
+ ج سانتاندير × أوساسونا | Kick-off in 30 min: Racing San
+ tander vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868216@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T140000Z
+DTEND:20270124T160000Z
+SUMMARY:Getafe vs Osasuna — LaLiga
+LOCATION:Coliseum
+URL:https://www.fotmob.com/match/5868216
+DESCRIPTION:⚽ خيتافي × أوساسونا\n🏆 الدوري الإ
+ سباني — الجولة 21\n🗓 الأحد 24 يناير 2027 · 17:0
+ 0 بتوقيت الرياض\n🏟 Coliseum\n—————\n⚽ Getafe v 
+ Osasuna\n🏆 LaLiga — Matchday 21\n🗓 Sun 24 Jan 2027 · 14:00 UTC\n
+ 🏟 Coliseum\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: خيتافي ضد أوساسونا — الدور
+ ي الإسباني | Tomorrow: Getafe vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: خيتاف
+ ي × أوساسونا | Kick-off in 30 min: Getafe vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868227@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Osasuna vs Deportivo A Coruña — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868227
+DESCRIPTION:⚽ أوساسونا × ديبورتيفو لاكورونيا\n
+ 🏆 الدوري الإسباني — الجولة 22\n🗓 الأحد 31
+  يناير 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio El Sadar
+ \n—————\n⚽ Osasuna v Deportivo A Coruña\n🏆 LaLiga — Matc
+ hday 22\n🗓 Sun 31 Jan 2027 · 14:00 UTC\n🏟 Estadio El Sadar\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد ديبورتيفو لاكو
+ رونيا — الدوري الإسباني | Tomorrow: Osasuna vs Deport
+ ivo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × ديبورتيفو لاكورونيا | Kick-off in 30 min: Osas
+ una vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868232@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:Athletic Club vs Osasuna — LaLiga
+LOCATION:San Mames
+URL:https://www.fotmob.com/match/5868232
+DESCRIPTION:⚽ أتلتيك بلباو × أوساسونا\n🏆 الدو
+ ري الإسباني — الجولة 23\n🗓 الأحد 7 فبراير 
+ 2027 · 17:00 بتوقيت الرياض\n🏟 San Mames\n—————\n
+ ⚽ Athletic Club v Osasuna\n🏆 LaLiga — Matchday 23\n🗓 Sun 07 Feb 
+ 2027 · 14:00 UTC\n🏟 San Mames\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيك بلباو ضد أوساسونا —
+  الدوري الإسباني | Tomorrow: Athletic Club vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ ك بلباو × أوساسونا | Kick-off in 30 min: Athletic Club vs O
+ sasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868244@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T140000Z
+DTEND:20270214T160000Z
+SUMMARY:Osasuna vs Atlético Madrid — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868244
+DESCRIPTION:⚽ أوساسونا × أتلتيكو مدريد\n🏆 الد
+ وري الإسباني — الجولة 24\n🗓 الأحد 14 فبراي
+ ر 2027 · 17:00 بتوقيت الرياض\n🏟 Estadio El Sadar\n——
+ ———\n⚽ Osasuna v Atlético Madrid\n🏆 LaLiga — Matchday 24\n
+ 🗓 Sun 14 Feb 2027 · 14:00 UTC\n🏟 Estadio El Sadar\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد أتلتيكو مدريد 
+ — الدوري الإسباني | Tomorrow: Osasuna vs Atlético Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × أتلتيكو مدريد | Kick-off in 30 min: Osasuna vs Atlé
+ tico Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868255@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T140000Z
+DTEND:20270221T160000Z
+SUMMARY:Espanyol vs Osasuna — LaLiga
+LOCATION:RCDE Stadium
+URL:https://www.fotmob.com/match/5868255
+DESCRIPTION:⚽ إسبانيول × أوساسونا\n🏆 الدوري ا
+ لإسباني — الجولة 25\n🗓 الأحد 21 فبراير 2027 
+ · 17:00 بتوقيت الرياض\n🏟 RCDE Stadium\n—————\n
+ ⚽ Espanyol v Osasuna\n🏆 LaLiga — Matchday 25\n🗓 Sun 21 Feb 2027 
+ · 14:00 UTC\n🏟 RCDE Stadium\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إسبانيول ضد أوساسونا — الد
+ وري الإسباني | Tomorrow: Espanyol vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إسبان
+ يول × أوساسونا | Kick-off in 30 min: Espanyol vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868267@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T140000Z
+DTEND:20270228T160000Z
+SUMMARY:Osasuna vs Sevilla — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868267
+DESCRIPTION:⚽ أوساسونا × إشبيلية\n🏆 الدوري ال
+ إسباني — الجولة 26\n🗓 الأحد 28 فبراير 2027 · 
+ 17:00 بتوقيت الرياض\n🏟 Estadio El Sadar\n—————\n
+ ⚽ Osasuna v Sevilla\n🏆 LaLiga — Matchday 26\n🗓 Sun 28 Feb 2027 
+ · 14:00 UTC\n🏟 Estadio El Sadar\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد إشبيلية — الدو
+ ري الإسباني | Tomorrow: Osasuna vs Sevilla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × إشبيلية | Kick-off in 30 min: Osasuna vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868277@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T140000Z
+DTEND:20270307T160000Z
+SUMMARY:Rayo Vallecano vs Osasuna — LaLiga
+LOCATION:Campo de Futbol de Vallecas
+URL:https://www.fotmob.com/match/5868277
+DESCRIPTION:⚽ رايو فاييكانو × أوساسونا\n🏆 الد
+ وري الإسباني — الجولة 27\n🗓 الأحد 7 مارس 20
+ 27 · 17:00 بتوقيت الرياض\n🏟 Campo de Futbol de Vallecas\n
+ —————\n⚽ Rayo Vallecano v Osasuna\n🏆 LaLiga — Matchday 27
+ \n🗓 Sun 07 Mar 2027 · 14:00 UTC\n🏟 Campo de Futbol de Vallecas\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: رايو فاييكانو ضد أوساسونا 
+ — الدوري الإسباني | Tomorrow: Rayo Vallecano vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: رايو ف
+ اييكانو × أوساسونا | Kick-off in 30 min: Rayo Vallecano vs
+  Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868288@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T140000Z
+DTEND:20270314T160000Z
+SUMMARY:Osasuna vs Celta Vigo — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868288
+DESCRIPTION:⚽ أوساسونا × سيلتا فيجو\n🏆 الدوري 
+ الإسباني — الجولة 28\n🗓 الأحد 14 مارس 2027 · 
+ 17:00 بتوقيت الرياض\n🏟 Estadio El Sadar\n—————\n
+ ⚽ Osasuna v Celta Vigo\n🏆 LaLiga — Matchday 28\n🗓 Sun 14 Mar 202
+ 7 · 14:00 UTC\n🏟 Estadio El Sadar\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد سيلتا فيجو — ا
+ لدوري الإسباني | Tomorrow: Osasuna vs Celta Vigo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × سيلتا فيجو | Kick-off in 30 min: Osasuna vs Celta Vigo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868294@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T140000Z
+DTEND:20270321T160000Z
+SUMMARY:Levante vs Osasuna — LaLiga
+LOCATION:Estadio Ciudad de Valencia
+URL:https://www.fotmob.com/match/5868294
+DESCRIPTION:⚽ ليفانتي × أوساسونا\n🏆 الدوري ال
+ إسباني — الجولة 29\n🗓 الأحد 21 مارس 2027 · 17:0
+ 0 بتوقيت الرياض\n🏟 Estadio Ciudad de Valencia\n————
+ —\n⚽ Levante v Osasuna\n🏆 LaLiga — Matchday 29\n🗓 Sun 21 Mar 2
+ 027 · 14:00 UTC\n🏟 Estadio Ciudad de Valencia\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفانتي ضد أوساسونا — الدو
+ ري الإسباني | Tomorrow: Levante vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفان
+ تي × أوساسونا | Kick-off in 30 min: Levante vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868308@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T130000Z
+DTEND:20270404T150000Z
+SUMMARY:Málaga vs Osasuna — LaLiga
+LOCATION:Estadio La Rosaleda
+URL:https://www.fotmob.com/match/5868308
+DESCRIPTION:⚽ مالقا × أوساسونا\n🏆 الدوري الإس
+ باني — الجولة 30\n🗓 الأحد 4 أبريل 2027 · 16:00 
+ بتوقيت الرياض\n🏟 Estadio La Rosaleda\n—————\n⚽ 
+ Málaga v Osasuna\n🏆 LaLiga — Matchday 30\n🗓 Sun 04 Apr 2027 · 13
+ :00 UTC\n🏟 Estadio La Rosaleda\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مالقا ضد أوساسونا — الدوري
+  الإسباني | Tomorrow: Málaga vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مالقا 
+ × أوساسونا | Kick-off in 30 min: Málaga vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868315@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T130000Z
+DTEND:20270411T150000Z
+SUMMARY:Osasuna vs Real Madrid — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868315
+DESCRIPTION:⚽ أوساسونا × ريال مدريد\n🏆 الدوري 
+ الإسباني — الجولة 31\n🗓 الأحد 11 أبريل 2027 
+ · 16:00 بتوقيت الرياض\n🏟 Estadio El Sadar\n—————
+ \n⚽ Osasuna v Real Madrid\n🏆 LaLiga — Matchday 31\n🗓 Sun 11 Apr 
+ 2027 · 13:00 UTC\n🏟 Estadio El Sadar\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد ريال مدريد — ا
+ لدوري الإسباني | Tomorrow: Osasuna vs Real Madrid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × ريال مدريد | Kick-off in 30 min: Osasuna vs Real Madrid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868325@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T130000Z
+DTEND:20270418T150000Z
+SUMMARY:Elche vs Osasuna — LaLiga
+LOCATION:Estadio Martinez Valero
+URL:https://www.fotmob.com/match/5868325
+DESCRIPTION:⚽ إلتشي × أوساسونا\n🏆 الدوري الإس
+ باني — الجولة 32\n🗓 الأحد 18 أبريل 2027 · 16:00 
+ بتوقيت الرياض\n🏟 Estadio Martinez Valero\n—————\n
+ ⚽ Elche v Osasuna\n🏆 LaLiga — Matchday 32\n🗓 Sun 18 Apr 2027 · 
+ 13:00 UTC\n🏟 Estadio Martinez Valero\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إلتشي ضد أوساسونا — الدوري
+  الإسباني | Tomorrow: Elche vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إلتشي 
+ × أوساسونا | Kick-off in 30 min: Elche vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868335@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270421T130000Z
+DTEND:20270421T150000Z
+SUMMARY:Osasuna vs Deportivo Alavés — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868335
+DESCRIPTION:⚽ أوساسونا × ديبورتيفو ألافيس\n🏆 
+ الدوري الإسباني — الجولة 33\n🗓 الأربعاء 2
+ 1 أبريل 2027 · 16:00 بتوقيت الرياض\n🏟 Estadio El Sada
+ r\n—————\n⚽ Osasuna v Deportivo Alavés\n🏆 LaLiga — Match
+ day 33\n🗓 Wed 21 Apr 2027 · 13:00 UTC\n🏟 Estadio El Sadar\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد ديبورتيفو ألاف
+ يس — الدوري الإسباني | Tomorrow: Osasuna vs Deportivo Al
+ avés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × ديبورتيفو ألافيس | Kick-off in 30 min: Osasuna vs
+  Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868346@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T130000Z
+DTEND:20270502T150000Z
+SUMMARY:Barcelona vs Osasuna — LaLiga
+LOCATION:Spotify Camp Nou
+URL:https://www.fotmob.com/match/5868346
+DESCRIPTION:⚽ برشلونة × أوساسونا\n🏆 الدوري ال
+ إسباني — الجولة 34\n🗓 الأحد 2 مايو 2027 · 16:00
+  بتوقيت الرياض\n🏟 Spotify Camp Nou\n—————\n⚽ Ba
+ rcelona v Osasuna\n🏆 LaLiga — Matchday 34\n🗓 Sun 02 May 2027 · 13
+ :00 UTC\n🏟 Spotify Camp Nou\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برشلونة ضد أوساسونا — الدو
+ ري الإسباني | Tomorrow: Barcelona vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برشلو
+ نة × أوساسونا | Kick-off in 30 min: Barcelona vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868355@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T130000Z
+DTEND:20270509T150000Z
+SUMMARY:Osasuna vs Real Sociedad — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868355
+DESCRIPTION:⚽ أوساسونا × ريال سوسيداد\n🏆 الدو
+ ري الإسباني — الجولة 35\n🗓 الأحد 9 مايو 2027
+  · 16:00 بتوقيت الرياض\n🏟 Estadio El Sadar\n————
+ —\n⚽ Osasuna v Real Sociedad\n🏆 LaLiga — Matchday 35\n🗓 Sun 09
+  May 2027 · 13:00 UTC\n🏟 Estadio El Sadar\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد ريال سوسيداد —
+  الدوري الإسباني | Tomorrow: Osasuna vs Real Sociedad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × ريال سوسيداد | Kick-off in 30 min: Osasuna vs Real So
+ ciedad
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868367@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T130000Z
+DTEND:20270516T150000Z
+SUMMARY:Osasuna vs Real Betis — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868367
+DESCRIPTION:⚽ أوساسونا × ريال بيتيس\n🏆 الدوري 
+ الإسباني — الجولة 36\n🗓 الأحد 16 مايو 2027 · 
+ 16:00 بتوقيت الرياض\n🏟 Estadio El Sadar\n—————\n
+ ⚽ Osasuna v Real Betis\n🏆 LaLiga — Matchday 36\n🗓 Sun 16 May 202
+ 7 · 13:00 UTC\n🏟 Estadio El Sadar\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد ريال بيتيس — ا
+ لدوري الإسباني | Tomorrow: Osasuna vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × ريال بيتيس | Kick-off in 30 min: Osasuna vs Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868380@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T130000Z
+DTEND:20270523T150000Z
+SUMMARY:Villarreal vs Osasuna — LaLiga
+LOCATION:Estadio de la Ceramica
+URL:https://www.fotmob.com/match/5868380
+DESCRIPTION:⚽ فياريال × أوساسونا\n🏆 الدوري ال
+ إسباني — الجولة 37\n🗓 الأحد 23 مايو 2027 · 16:0
+ 0 بتوقيت الرياض\n🏟 Estadio de la Ceramica\n—————\
+ n⚽ Villarreal v Osasuna\n🏆 LaLiga — Matchday 37\n🗓 Sun 23 May 20
+ 27 · 13:00 UTC\n🏟 Estadio de la Ceramica\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فياريال ضد أوساسونا — الدو
+ ري الإسباني | Tomorrow: Villarreal vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فياري
+ ال × أوساسونا | Kick-off in 30 min: Villarreal vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5868388@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T130000Z
+DTEND:20270530T150000Z
+SUMMARY:Osasuna vs Valencia — LaLiga
+LOCATION:Estadio El Sadar
+URL:https://www.fotmob.com/match/5868388
+DESCRIPTION:⚽ أوساسونا × فالنسيا\n🏆 الدوري ال
+ إسباني — الجولة 38\n🗓 الأحد 30 مايو 2027 · 16:0
+ 0 بتوقيت الرياض\n🏟 Estadio El Sadar\n—————\n⚽ O
+ sasuna v Valencia\n🏆 LaLiga — Matchday 38\n🗓 Sun 30 May 2027 · 13
+ :00 UTC\n🏟 Estadio El Sadar\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوساسونا ضد فالنسيا — الدو
+ ري الإسباني | Tomorrow: Osasuna vs Valencia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوساس
+ ونا × فالنسيا | Kick-off in 30 min: Osasuna vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-4996006@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251029T180000Z
+DTEND:20251029T200000Z
+SUMMARY:CD Sant Jordi vs Osasuna (0 - 5) — Copa del Rey
+LOCATION:Campo de Son Malferit\, Palma de Mallorca\, Spain
+GEO:39.569507;2.680094
+URL:https://www.fotmob.com/match/4996006
+DESCRIPTION:⚽ سانت جوردي × أوساسونا (0 - 5)\n🏆 كأ
+ س ملك إسبانيا — الدور الأول\n🗓 الأربعاء 
+ 29 أكتوبر 2025 · 21:00 بتوقيت الرياض\n🏟 Campo de Son
+  Malferit، Palma de Mallorca\n⚖️ الحكم: Miguel Ángel Ortiz Aria
+ s\n👥 الحضور: 2,000\n—————\n⚽ CD Sant Jordi v Osasuna 
+ (0 - 5)\n🏆 Copa del Rey — Round 1\n🗓 Wed 29 Oct 2025 · 18:00 UTC\
+ n🏟 Campo de Son Malferit, Palma de Mallorca\nReferee: Miguel Ángel Ort
+ iz Arias\nAttendance: 2,000\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سانت جوردي ضد أوساسونا — ك
+ أس ملك إسبانيا | Tomorrow: CD Sant Jordi vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سانت ج
+ وردي × أوساسونا | Kick-off in 30 min: CD Sant Jordi vs Osasun
+ a
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5057218@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251202T180000Z
+DTEND:20251202T200000Z
+SUMMARY:Ebro vs Osasuna (3 - 5) — Copa del Rey
+LOCATION:Ibercaja Estadio\, Zaragoza\, Spain
+GEO:41.684111;-0.895763
+URL:https://www.fotmob.com/match/5057218
+DESCRIPTION:⚽ إيبرو × أوساسونا (3 - 5)\n🏆 كأس ملك 
+ إسبانيا — الدور الثاني\n🗓 الثلاثاء 2 ديس
+ مبر 2025 · 21:00 بتوقيت الرياض\n🏟 Ibercaja Estadio، Za
+ ragoza\n👥 الحضور: 3,488\n—————\n⚽ Ebro v Osasuna (3 -
+  5)\n🏆 Copa del Rey — Round 2\n🗓 Tue 02 Dec 2025 · 18:00 UTC\n
+ 🏟 Ibercaja Estadio, Zaragoza\nAttendance: 3,488\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إيبرو ضد أوساسونا — كأس مل
+ ك إسبانيا | Tomorrow: Ebro vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إيبرو 
+ × أوساسونا | Kick-off in 30 min: Ebro vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5091465@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20251217T180000Z
+DTEND:20251217T200000Z
+SUMMARY:SD Huesca vs Osasuna (2 - 4) — Copa del Rey
+LOCATION:Estadio El Alcoraz\, Huesca\, Spain
+GEO:42.131891;-0.424599
+URL:https://www.fotmob.com/match/5091465
+DESCRIPTION:⚽ هويسكا × أوساسونا (2 - 4)\n🏆 كأس مل
+ ك إسبانيا — دور الـ32\n🗓 الأربعاء 17 ديسمب
+ ر 2025 · 21:00 بتوقيت الرياض\n🏟 Estadio El Alcoraz، Hues
+ ca\n👥 الحضور: 6,413\n—————\n⚽ SD Huesca v Osasuna (2 
+ - 4)\n🏆 Copa del Rey — Round of 32\n🗓 Wed 17 Dec 2025 · 18:00 UTC
+ \n🏟 Estadio El Alcoraz, Huesca\nAttendance: 6,413\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هويسكا ضد أوساسونا — كأس م
+ لك إسبانيا | Tomorrow: SD Huesca vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هويسك
+ ا × أوساسونا | Kick-off in 30 min: SD Huesca vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5125328@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260113T200000Z
+DTEND:20260113T220000Z
+SUMMARY:Real Sociedad vs Osasuna (2 - 2) — Copa del Rey
+LOCATION:Estadio Municipal de Anoeta\, Donostia-San Sebastián\, Spain
+GEO:43.301376;-1.973602
+URL:https://www.fotmob.com/match/5125328
+DESCRIPTION:⚽ ريال سوسيداد × أوساسونا (2 - 2)\n🏆 
+ كأس ملك إسبانيا — دور الـ16\n🗓 الثلاثاء 13
+  يناير 2026 · 23:00 بتوقيت الرياض\n🏟 Estadio Municipa
+ l de Anoeta، Donostia-San Sebastián\n👥 الحضور: 30,147\n——
+ ———\n⚽ Real Sociedad v Osasuna (2 - 2)\n🏆 Copa del Rey — Roun
+ d of 16\n🗓 Tue 13 Jan 2026 · 20:00 UTC\n🏟 Estadio Municipal de Anoe
+ ta, Donostia-San Sebastián\nAttendance: 30,147\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال سوسيداد ضد أوساسونا —
+  كأس ملك إسبانيا | Tomorrow: Real Sociedad vs Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال س
+ وسيداد × أوساسونا | Kick-off in 30 min: Real Sociedad vs Os
+ asuna
+END:VALARM
+END:VEVENT
+END:VCALENDAR

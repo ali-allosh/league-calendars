@@ -1,0 +1,1203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Lazio — Serie A & Coppa Italia Fixtures | لاتسيو 
+ — مباريات الدوري الإيطالي وكأس إيطاليا
+X-WR-CALDESC:Lazio — all matches in Serie A & Coppa Italia\, exact UTC ki
+ ckoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-0
+ 5T19:31:10Z.  •  لاتسيو — جميع المباريات في ال
+ دوري الإيطالي وكأس إيطاليا بتوقيت UTC الد
+ قيق مع الملاعب والقنوات الناقلة. المصدر: 
+ FotMob + 365scores · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5749642@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260824T163000Z
+DTEND:20260824T183000Z
+SUMMARY:Bologna vs Lazio (0 - 1) — Serie A
+LOCATION:Stadio Renato Dall'Ara\, Bologna\, Italy
+GEO:44.492290;11.309957
+URL:https://www.fotmob.com/match/5749642
+DESCRIPTION:⚽ بولونيا × لاتسيو (0 - 1)\n🏆 الدوري 
+ الإيطالي — الجولة 1\n🗓 الاثنين 24 أغسطس 202
+ 6 · 19:30 بتوقيت الرياض\n🏟 Stadio Renato Dall'Ara، Bologn
+ a\n⚖️ الحكم: Fabio Maresca\n👥 الحضور: 28,211\n———
+ ——\n⚽ Bologna v Lazio (0 - 1)\n🏆 Serie A — Matchday 1\n🗓 Mon
+  24 Aug 2026 · 16:30 UTC\n🏟 Stadio Renato Dall'Ara, Bologna\nReferee: 
+ Fabio Maresca\nAttendance: 28,211\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بولونيا ضد لاتسيو — الدوري
+  الإيطالي | Tomorrow: Bologna vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بولون
+ يا × لاتسيو | Kick-off in 30 min: Bologna vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749655@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260830T184500Z
+DTEND:20260830T204500Z
+SUMMARY:Lazio vs Genoa (1 - 0) — Serie A
+LOCATION:Stadio Olimpico\, Roma\, Italy
+GEO:41.933948;12.454757
+URL:https://www.fotmob.com/match/5749655
+DESCRIPTION:⚽ لاتسيو × جنوى (1 - 0)\n🏆 الدوري الإ
+ يطالي — الجولة 2\n🗓 الأحد 30 أغسطس 2026 · 21:45
+  بتوقيت الرياض\n🏟 Stadio Olimpico، Roma\n⚖️ الحكم
+ : Ermanno Feliciani\n—————\n⚽ Lazio v Genoa (1 - 0)\n🏆 Seri
+ e A — Matchday 2\n🗓 Sun 30 Aug 2026 · 18:45 UTC\n🏟 Stadio Olimpic
+ o, Roma\nReferee: Ermanno Feliciani\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد جنوى — الدوري ال
+ إيطالي | Tomorrow: Lazio vs Genoa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × جنوى | Kick-off in 30 min: Lazio vs Genoa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749669@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260907T184500Z
+DTEND:20260907T204500Z
+SUMMARY:Udinese vs Lazio — Serie A
+LOCATION:Bluenergy Stadium\, Udine\, Italy
+GEO:46.081644;13.200063
+URL:https://www.fotmob.com/match/5749669
+DESCRIPTION:⚽ أودينيزي × لاتسيو\n🏆 الدوري الإ
+ يطالي — الجولة 3\n🗓 الاثنين 7 سبتمبر 2026 · 
+ 21:45 بتوقيت الرياض\n🏟 Bluenergy Stadium، Udine\n📺 Star
+ zplay\n—————\n⚽ Udinese v Lazio\n🏆 Serie A — Matchday 3\n
+ 🗓 Mon 07 Sep 2026 · 18:45 UTC\n🏟 Bluenergy Stadium, Udine\n📺 Sta
+ rzplay\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أودينيزي ضد لاتسيو — الدور
+ ي الإيطالي — 📺 Starzplay | Tomorrow: Udinese vs Lazio | TV: 
+ Starzplay
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أودين
+ يزي × لاتسيو — 📺 Starzplay | Kick-off in 30 min: Udinese vs
+  Lazio | TV: Starzplay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749674@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260912T160000Z
+DTEND:20260912T180000Z
+SUMMARY:Lazio vs Milan — Serie A
+LOCATION:Stadio Olimpico\, Roma\, Italy
+GEO:41.933948;12.454757
+URL:https://www.fotmob.com/match/5749674
+DESCRIPTION:⚽ لاتسيو × ميلان\n🏆 الدوري الإيطا
+ لي — الجولة 4\n🗓 السبت 12 سبتمبر 2026 · 19:00 ب
+ توقيت الرياض\n🏟 Stadio Olimpico، Roma\n📺 DAZN UK، Peaco
+ ck (Español)\n—————\n⚽ Lazio v Milan\n🏆 Serie A — Matchd
+ ay 4\n🗓 Sat 12 Sep 2026 · 16:00 UTC\n🏟 Stadio Olimpico, Roma\n📺 
+ DAZN UK, Peacock (Español)\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد ميلان — الدوري ا
+ لإيطالي — 📺 DAZN UK، Peacock (Español) | Tomorrow: Lazio vs 
+ Milan | TV: DAZN UK\, Peacock (Español)
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × ميلان — 📺 DAZN UK، Peacock (Español) | Kick-off in 30 mi
+ n: Lazio vs Milan | TV: DAZN UK\, Peacock (Español)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749689@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260919T184500Z
+DTEND:20260919T204500Z
+SUMMARY:Venezia vs Lazio — Serie A
+LOCATION:Stadio Pier Luigi Penzo\, Venezia\, Italy
+GEO:45.427798;12.363972
+URL:https://www.fotmob.com/match/5749689
+DESCRIPTION:⚽ فينيزيا × لاتسيو\n🏆 الدوري الإي
+ طالي — الجولة 5\n🗓 السبت 19 سبتمبر 2026 · 21:45
+  بتوقيت الرياض\n🏟 Stadio Pier Luigi Penzo، Venezia\n——
+ ———\n⚽ Venezia v Lazio\n🏆 Serie A — Matchday 5\n🗓 Sat 19 S
+ ep 2026 · 18:45 UTC\n🏟 Stadio Pier Luigi Penzo, Venezia\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فينيزيا ضد لاتسيو — الدوري
+  الإيطالي | Tomorrow: Venezia vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فينيز
+ يا × لاتسيو | Kick-off in 30 min: Venezia vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749695@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Lazio vs Monza — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749695
+DESCRIPTION:⚽ لاتسيو × مونزا\n🏆 الدوري الإيطا
+ لي — الجولة 6\n🗓 الأحد 11 أكتوبر 2026 · 16:00 ب
+ توقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ 
+ Lazio v Monza\n🏆 Serie A — Matchday 6\n🗓 Sun 11 Oct 2026 · 13:00 
+ UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد مونزا — الدوري ا
+ لإيطالي | Tomorrow: Lazio vs Monza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × مونزا | Kick-off in 30 min: Lazio vs Monza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749705@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261018T184500Z
+DTEND:20261018T204500Z
+SUMMARY:Juventus vs Lazio — Serie A
+LOCATION:Allianz Stadium
+URL:https://www.fotmob.com/match/5749705
+DESCRIPTION:⚽ يوفنتوس × لاتسيو\n🏆 الدوري الإي
+ طالي — الجولة 7\n🗓 الأحد 18 أكتوبر 2026 · 21:45
+  بتوقيت الرياض\n🏟 Allianz Stadium\n—————\n⚽ Juv
+ entus v Lazio\n🏆 Serie A — Matchday 7\n🗓 Sun 18 Oct 2026 · 18:45 
+ UTC\n🏟 Allianz Stadium\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: يوفنتوس ضد لاتسيو — الدوري
+  الإيطالي | Tomorrow: Juventus vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يوفنت
+ وس × لاتسيو | Kick-off in 30 min: Juventus vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749715@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261024T184500Z
+DTEND:20261024T204500Z
+SUMMARY:Lazio vs Parma — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749715
+DESCRIPTION:⚽ لاتسيو × بارما\n🏆 الدوري الإيطا
+ لي — الجولة 8\n🗓 السبت 24 أكتوبر 2026 · 21:45 ب
+ توقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ 
+ Lazio v Parma\n🏆 Serie A — Matchday 8\n🗓 Sat 24 Oct 2026 · 18:45 
+ UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد بارما — الدوري ا
+ لإيطالي | Tomorrow: Lazio vs Parma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × بارما | Kick-off in 30 min: Lazio vs Parma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749727@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261027T173000Z
+DTEND:20261027T193000Z
+SUMMARY:Sassuolo vs Lazio — Serie A
+LOCATION:Stadio Mapei - Citta del Tricolore
+URL:https://www.fotmob.com/match/5749727
+DESCRIPTION:⚽ ساسولو × لاتسيو\n🏆 الدوري الإيط
+ الي — الجولة 9\n🗓 الثلاثاء 27 أكتوبر 2026 · 2
+ 0:30 بتوقيت الرياض\n🏟 Stadio Mapei - Citta del Tricolore\n
+ —————\n⚽ Sassuolo v Lazio\n🏆 Serie A — Matchday 9\n🗓 T
+ ue 27 Oct 2026 · 17:30 UTC\n🏟 Stadio Mapei - Citta del Tricolore\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ساسولو ضد لاتسيو — الدوري 
+ الإيطالي | Tomorrow: Sassuolo vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ساسول
+ و × لاتسيو | Kick-off in 30 min: Sassuolo vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749736@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Lazio vs Cagliari — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749736
+DESCRIPTION:⚽ لاتسيو × كالياري\n🏆 الدوري الإي
+ طالي — الجولة 10\n🗓 الأحد 1 نوفمبر 2026 · 17:00
+  بتوقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n
+ ⚽ Lazio v Cagliari\n🏆 Serie A — Matchday 10\n🗓 Sun 01 Nov 2026 
+ · 14:00 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد كالياري — الدوري
+  الإيطالي | Tomorrow: Lazio vs Cagliari
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × كالياري | Kick-off in 30 min: Lazio vs Cagliari
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749746@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261108T113000Z
+DTEND:20261108T133000Z
+SUMMARY:Napoli vs Lazio — Serie A
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/5749746
+DESCRIPTION:⚽ نابولي × لاتسيو\n🏆 الدوري الإيط
+ الي — الجولة 11\n🗓 الأحد 8 نوفمبر 2026 · 14:30 
+ بتوقيت الرياض\n🏟 Diego Armando Maradona\n—————\n
+ ⚽ Napoli v Lazio\n🏆 Serie A — Matchday 11\n🗓 Sun 08 Nov 2026 · 
+ 11:30 UTC\n🏟 Diego Armando Maradona\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد لاتسيو — الدوري 
+ الإيطالي | Tomorrow: Napoli vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × لاتسيو | Kick-off in 30 min: Napoli vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749755@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261121T140000Z
+DTEND:20261121T160000Z
+SUMMARY:Lazio vs Lecce — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749755
+DESCRIPTION:⚽ لاتسيو × ليتشي\n🏆 الدوري الإيطا
+ لي — الجولة 12\n🗓 السبت 21 نوفمبر 2026 · 17:00 ب
+ توقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ 
+ Lazio v Lecce\n🏆 Serie A — Matchday 12\n🗓 Sat 21 Nov 2026 · 14:00
+  UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد ليتشي — الدوري ا
+ لإيطالي | Tomorrow: Lazio vs Lecce
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × ليتشي | Kick-off in 30 min: Lazio vs Lecce
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749767@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261129T173000Z
+DTEND:20261129T193000Z
+SUMMARY:Torino vs Lazio — Serie A
+LOCATION:Stadio Olimpico Grande Torino
+URL:https://www.fotmob.com/match/5749767
+DESCRIPTION:⚽ تورينو × لاتسيو\n🏆 الدوري الإيط
+ الي — الجولة 13\n🗓 الأحد 29 نوفمبر 2026 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Olimpico Grande Torino\n———
+ ——\n⚽ Torino v Lazio\n🏆 Serie A — Matchday 13\n🗓 Sun 29 Nov 
+ 2026 · 17:30 UTC\n🏟 Stadio Olimpico Grande Torino\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تورينو ضد لاتسيو — الدوري 
+ الإيطالي | Tomorrow: Torino vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تورين
+ و × لاتسيو | Kick-off in 30 min: Torino vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749776@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261206T173000Z
+DTEND:20261206T193000Z
+SUMMARY:Lazio vs Atalanta — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749776
+DESCRIPTION:⚽ لاتسيو × أتالانتا\n🏆 الدوري الإ
+ يطالي — الجولة 14\n🗓 الأحد 6 ديسمبر 2026 · 20:
+ 30 بتوقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\
+ n⚽ Lazio v Atalanta\n🏆 Serie A — Matchday 14\n🗓 Sun 06 Dec 2026 
+ · 17:30 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد أتالانتا — الدور
+ ي الإيطالي | Tomorrow: Lazio vs Atalanta
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × أتالانتا | Kick-off in 30 min: Lazio vs Atalanta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749785@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261213T173000Z
+DTEND:20261213T193000Z
+SUMMARY:Lazio vs Roma — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749785
+DESCRIPTION:⚽ لاتسيو × روما\n🏆 الدوري الإيطال
+ ي — الجولة 15\n🗓 الأحد 13 ديسمبر 2026 · 20:30 بت
+ وقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ La
+ zio v Roma\n🏆 Serie A — Matchday 15\n🗓 Sun 13 Dec 2026 · 17:30 UT
+ C\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد روما — الدوري ال
+ إيطالي | Tomorrow: Lazio vs Roma
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × روما | Kick-off in 30 min: Lazio vs Roma
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749794@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20261220T173000Z
+DTEND:20261220T193000Z
+SUMMARY:Frosinone vs Lazio — Serie A
+LOCATION:Stadio Benito Stirpe
+URL:https://www.fotmob.com/match/5749794
+DESCRIPTION:⚽ فروزينوني × لاتسيو\n🏆 الدوري ال
+ إيطالي — الجولة 16\n🗓 الأحد 20 ديسمبر 2026 · 
+ 20:30 بتوقيت الرياض\n🏟 Stadio Benito Stirpe\n————
+ —\n⚽ Frosinone v Lazio\n🏆 Serie A — Matchday 16\n🗓 Sun 20 Dec 
+ 2026 · 17:30 UTC\n🏟 Stadio Benito Stirpe\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فروزينوني ضد لاتسيو — الدو
+ ري الإيطالي | Tomorrow: Frosinone vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فروزي
+ نوني × لاتسيو | Kick-off in 30 min: Frosinone vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749804@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270103T173000Z
+DTEND:20270103T193000Z
+SUMMARY:Fiorentina vs Lazio — Serie A
+LOCATION:Artemio Franchi\, Firenze
+URL:https://www.fotmob.com/match/5749804
+DESCRIPTION:⚽ فيورنتينا × لاتسيو\n🏆 الدوري ال
+ إيطالي — الجولة 17\n🗓 الأحد 3 يناير 2027 · 20:
+ 30 بتوقيت الرياض\n🏟 Artemio Franchi, Firenze\n————
+ —\n⚽ Fiorentina v Lazio\n🏆 Serie A — Matchday 17\n🗓 Sun 03 Jan
+  2027 · 17:30 UTC\n🏟 Artemio Franchi, Firenze\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيورنتينا ضد لاتسيو — الدو
+ ري الإيطالي | Tomorrow: Fiorentina vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيورن
+ تينا × لاتسيو | Kick-off in 30 min: Fiorentina vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749815@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270106T173000Z
+DTEND:20270106T193000Z
+SUMMARY:Lazio vs Inter — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749815
+DESCRIPTION:⚽ لاتسيو × إنتر ميلان\n🏆 الدوري ال
+ إيطالي — الجولة 18\n🗓 الأربعاء 6 يناير 2027 
+ · 20:30 بتوقيت الرياض\n🏟 Stadio Olimpico, Rome\n———
+ ——\n⚽ Lazio v Inter\n🏆 Serie A — Matchday 18\n🗓 Wed 06 Jan 2
+ 027 · 17:30 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد إنتر ميلان — الد
+ وري الإيطالي | Tomorrow: Lazio vs Inter
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × إنتر ميلان | Kick-off in 30 min: Lazio vs Inter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749823@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270110T173000Z
+DTEND:20270110T193000Z
+SUMMARY:Como vs Lazio — Serie A
+LOCATION:Stadio G. Sinigaglia
+URL:https://www.fotmob.com/match/5749823
+DESCRIPTION:⚽ كومو × لاتسيو\n🏆 الدوري الإيطال
+ ي — الجولة 19\n🗓 الأحد 10 يناير 2027 · 20:30 بتو
+ قيت الرياض\n🏟 Stadio G. Sinigaglia\n—————\n⚽ Como 
+ v Lazio\n🏆 Serie A — Matchday 19\n🗓 Sun 10 Jan 2027 · 17:30 UTC\n
+ 🏟 Stadio G. Sinigaglia\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كومو ضد لاتسيو — الدوري ال
+ إيطالي | Tomorrow: Como vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كومو ×
+  لاتسيو | Kick-off in 30 min: Como vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749834@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270117T173000Z
+DTEND:20270117T193000Z
+SUMMARY:Lazio vs Bologna — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749834
+DESCRIPTION:⚽ لاتسيو × بولونيا\n🏆 الدوري الإي
+ طالي — الجولة 20\n🗓 الأحد 17 يناير 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n
+ ⚽ Lazio v Bologna\n🏆 Serie A — Matchday 20\n🗓 Sun 17 Jan 2027 ·
+  17:30 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد بولونيا — الدوري
+  الإيطالي | Tomorrow: Lazio vs Bologna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × بولونيا | Kick-off in 30 min: Lazio vs Bologna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749849@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270124T173000Z
+DTEND:20270124T193000Z
+SUMMARY:Monza vs Lazio — Serie A
+LOCATION:Stadio Brianteo
+URL:https://www.fotmob.com/match/5749849
+DESCRIPTION:⚽ مونزا × لاتسيو\n🏆 الدوري الإيطا
+ لي — الجولة 21\n🗓 الأحد 24 يناير 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Stadio Brianteo\n—————\n⚽ Monza v 
+ Lazio\n🏆 Serie A — Matchday 21\n🗓 Sun 24 Jan 2027 · 17:30 UTC\n
+ 🏟 Stadio Brianteo\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مونزا ضد لاتسيو — الدوري ا
+ لإيطالي | Tomorrow: Monza vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مونزا 
+ × لاتسيو | Kick-off in 30 min: Monza vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749854@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270131T173000Z
+DTEND:20270131T193000Z
+SUMMARY:Lazio vs Venezia — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749854
+DESCRIPTION:⚽ لاتسيو × فينيزيا\n🏆 الدوري الإي
+ طالي — الجولة 22\n🗓 الأحد 31 يناير 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n
+ ⚽ Lazio v Venezia\n🏆 Serie A — Matchday 22\n🗓 Sun 31 Jan 2027 ·
+  17:30 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد فينيزيا — الدوري
+  الإيطالي | Tomorrow: Lazio vs Venezia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × فينيزيا | Kick-off in 30 min: Lazio vs Venezia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749861@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270207T173000Z
+DTEND:20270207T193000Z
+SUMMARY:Atalanta vs Lazio — Serie A
+LOCATION:New Balance Arena
+URL:https://www.fotmob.com/match/5749861
+DESCRIPTION:⚽ أتالانتا × لاتسيو\n🏆 الدوري الإ
+ يطالي — الجولة 23\n🗓 الأحد 7 فبراير 2027 · 20:
+ 30 بتوقيت الرياض\n🏟 New Balance Arena\n—————\n⚽
+  Atalanta v Lazio\n🏆 Serie A — Matchday 23\n🗓 Sun 07 Feb 2027 · 1
+ 7:30 UTC\n🏟 New Balance Arena\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتالانتا ضد لاتسيو — الدور
+ ي الإيطالي | Tomorrow: Atalanta vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتالا
+ نتا × لاتسيو | Kick-off in 30 min: Atalanta vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749872@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270214T173000Z
+DTEND:20270214T193000Z
+SUMMARY:Cagliari vs Lazio — Serie A
+LOCATION:Unipol Domus
+URL:https://www.fotmob.com/match/5749872
+DESCRIPTION:⚽ كالياري × لاتسيو\n🏆 الدوري الإي
+ طالي — الجولة 24\n🗓 الأحد 14 فبراير 2027 · 20:3
+ 0 بتوقيت الرياض\n🏟 Unipol Domus\n—————\n⚽ Cagli
+ ari v Lazio\n🏆 Serie A — Matchday 24\n🗓 Sun 14 Feb 2027 · 17:30 U
+ TC\n🏟 Unipol Domus\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالياري ضد لاتسيو — الدوري
+  الإيطالي | Tomorrow: Cagliari vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاليا
+ ري × لاتسيو | Kick-off in 30 min: Cagliari vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749885@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270221T173000Z
+DTEND:20270221T193000Z
+SUMMARY:Lazio vs Napoli — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749885
+DESCRIPTION:⚽ لاتسيو × نابولي\n🏆 الدوري الإيط
+ الي — الجولة 25\n🗓 الأحد 21 فبراير 2027 · 20:30 
+ بتوقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n
+ ⚽ Lazio v Napoli\n🏆 Serie A — Matchday 25\n🗓 Sun 21 Feb 2027 · 
+ 17:30 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد نابولي — الدوري 
+ الإيطالي | Tomorrow: Lazio vs Napoli
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × نابولي | Kick-off in 30 min: Lazio vs Napoli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749895@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270228T173000Z
+DTEND:20270228T193000Z
+SUMMARY:Genoa vs Lazio — Serie A
+LOCATION:Stadio Luigi Ferraris
+URL:https://www.fotmob.com/match/5749895
+DESCRIPTION:⚽ جنوى × لاتسيو\n🏆 الدوري الإيطال
+ ي — الجولة 26\n🗓 الأحد 28 فبراير 2027 · 20:30 بت
+ وقيت الرياض\n🏟 Stadio Luigi Ferraris\n—————\n⚽ Ge
+ noa v Lazio\n🏆 Serie A — Matchday 26\n🗓 Sun 28 Feb 2027 · 17:30 U
+ TC\n🏟 Stadio Luigi Ferraris\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جنوى ضد لاتسيو — الدوري ال
+ إيطالي | Tomorrow: Genoa vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جنوى ×
+  لاتسيو | Kick-off in 30 min: Genoa vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749904@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270307T173000Z
+DTEND:20270307T193000Z
+SUMMARY:Lazio vs Frosinone — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749904
+DESCRIPTION:⚽ لاتسيو × فروزينوني\n🏆 الدوري ال
+ إيطالي — الجولة 27\n🗓 الأحد 7 مارس 2027 · 20:30
+  بتوقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n
+ ⚽ Lazio v Frosinone\n🏆 Serie A — Matchday 27\n🗓 Sun 07 Mar 2027 
+ · 17:30 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد فروزينوني — الدو
+ ري الإيطالي | Tomorrow: Lazio vs Frosinone
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × فروزينوني | Kick-off in 30 min: Lazio vs Frosinone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749916@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270314T173000Z
+DTEND:20270314T193000Z
+SUMMARY:Lazio vs Juventus — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749916
+DESCRIPTION:⚽ لاتسيو × يوفنتوس\n🏆 الدوري الإي
+ طالي — الجولة 28\n🗓 الأحد 14 مارس 2027 · 20:30 ب
+ توقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ 
+ Lazio v Juventus\n🏆 Serie A — Matchday 28\n🗓 Sun 14 Mar 2027 · 17
+ :30 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد يوفنتوس — الدوري
+  الإيطالي | Tomorrow: Lazio vs Juventus
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × يوفنتوس | Kick-off in 30 min: Lazio vs Juventus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749927@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270321T173000Z
+DTEND:20270321T193000Z
+SUMMARY:Parma vs Lazio — Serie A
+LOCATION:Stadio Ennio Tardini
+URL:https://www.fotmob.com/match/5749927
+DESCRIPTION:⚽ بارما × لاتسيو\n🏆 الدوري الإيطا
+ لي — الجولة 29\n🗓 الأحد 21 مارس 2027 · 20:30 بتو
+ قيت الرياض\n🏟 Stadio Ennio Tardini\n—————\n⚽ Parma
+  v Lazio\n🏆 Serie A — Matchday 29\n🗓 Sun 21 Mar 2027 · 17:30 UTC\
+ n🏟 Stadio Ennio Tardini\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بارما ضد لاتسيو — الدوري ا
+ لإيطالي | Tomorrow: Parma vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بارما 
+ × لاتسيو | Kick-off in 30 min: Parma vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749936@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270404T163000Z
+DTEND:20270404T183000Z
+SUMMARY:Lecce vs Lazio — Serie A
+LOCATION:Stadio Ettore Giardiniero - Via del Mare
+URL:https://www.fotmob.com/match/5749936
+DESCRIPTION:⚽ ليتشي × لاتسيو\n🏆 الدوري الإيطا
+ لي — الجولة 30\n🗓 الأحد 4 أبريل 2027 · 19:30 بت
+ وقيت الرياض\n🏟 Stadio Ettore Giardiniero - Via del Mare\n—
+ ————\n⚽ Lecce v Lazio\n🏆 Serie A — Matchday 30\n🗓 Sun 04
+  Apr 2027 · 16:30 UTC\n🏟 Stadio Ettore Giardiniero - Via del Mare\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليتشي ضد لاتسيو — الدوري ا
+ لإيطالي | Tomorrow: Lecce vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليتشي 
+ × لاتسيو | Kick-off in 30 min: Lecce vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749946@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270411T163000Z
+DTEND:20270411T183000Z
+SUMMARY:Lazio vs Torino — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749946
+DESCRIPTION:⚽ لاتسيو × تورينو\n🏆 الدوري الإيط
+ الي — الجولة 31\n🗓 الأحد 11 أبريل 2027 · 19:30 ب
+ توقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ 
+ Lazio v Torino\n🏆 Serie A — Matchday 31\n🗓 Sun 11 Apr 2027 · 16:3
+ 0 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد تورينو — الدوري 
+ الإيطالي | Tomorrow: Lazio vs Torino
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × تورينو | Kick-off in 30 min: Lazio vs Torino
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749951@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270418T163000Z
+DTEND:20270418T183000Z
+SUMMARY:Roma vs Lazio — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749951
+DESCRIPTION:⚽ روما × لاتسيو\n🏆 الدوري الإيطال
+ ي — الجولة 32\n🗓 الأحد 18 أبريل 2027 · 19:30 بتو
+ قيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ Roma
+  v Lazio\n🏆 Serie A — Matchday 32\n🗓 Sun 18 Apr 2027 · 16:30 UTC\
+ n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: روما ضد لاتسيو — الدوري ال
+ إيطالي | Tomorrow: Roma vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: روما ×
+  لاتسيو | Kick-off in 30 min: Roma vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749965@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270425T163000Z
+DTEND:20270425T183000Z
+SUMMARY:Lazio vs Como — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749965
+DESCRIPTION:⚽ لاتسيو × كومو\n🏆 الدوري الإيطال
+ ي — الجولة 33\n🗓 الأحد 25 أبريل 2027 · 19:30 بتو
+ قيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ Lazi
+ o v Como\n🏆 Serie A — Matchday 33\n🗓 Sun 25 Apr 2027 · 16:30 UTC\
+ n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد كومو — الدوري ال
+ إيطالي | Tomorrow: Lazio vs Como
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × كومو | Kick-off in 30 min: Lazio vs Como
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749970@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270502T163000Z
+DTEND:20270502T183000Z
+SUMMARY:Milan vs Lazio — Serie A
+LOCATION:San Siro
+URL:https://www.fotmob.com/match/5749970
+DESCRIPTION:⚽ ميلان × لاتسيو\n🏆 الدوري الإيطا
+ لي — الجولة 34\n🗓 الأحد 2 مايو 2027 · 19:30 بتو
+ قيت الرياض\n🏟 San Siro\n—————\n⚽ Milan v Lazio\n
+ 🏆 Serie A — Matchday 34\n🗓 Sun 02 May 2027 · 16:30 UTC\n🏟 San 
+ Siro\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميلان ضد لاتسيو — الدوري ا
+ لإيطالي | Tomorrow: Milan vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميلان 
+ × لاتسيو | Kick-off in 30 min: Milan vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749984@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270509T163000Z
+DTEND:20270509T183000Z
+SUMMARY:Lazio vs Sassuolo — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749984
+DESCRIPTION:⚽ لاتسيو × ساسولو\n🏆 الدوري الإيط
+ الي — الجولة 35\n🗓 الأحد 9 مايو 2027 · 19:30 بت
+ وقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n⚽ La
+ zio v Sassuolo\n🏆 Serie A — Matchday 35\n🗓 Sun 09 May 2027 · 16:3
+ 0 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد ساسولو — الدوري 
+ الإيطالي | Tomorrow: Lazio vs Sassuolo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × ساسولو | Kick-off in 30 min: Lazio vs Sassuolo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5749995@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270516T163000Z
+DTEND:20270516T183000Z
+SUMMARY:Lazio vs Udinese — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5749995
+DESCRIPTION:⚽ لاتسيو × أودينيزي\n🏆 الدوري الإ
+ يطالي — الجولة 36\n🗓 الأحد 16 مايو 2027 · 19:30 
+ بتوقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n
+ ⚽ Lazio v Udinese\n🏆 Serie A — Matchday 36\n🗓 Sun 16 May 2027 ·
+  16:30 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد أودينيزي — الدور
+ ي الإيطالي | Tomorrow: Lazio vs Udinese
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × أودينيزي | Kick-off in 30 min: Lazio vs Udinese
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750005@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270523T163000Z
+DTEND:20270523T183000Z
+SUMMARY:Inter vs Lazio — Serie A
+LOCATION:Giuseppe Meazza
+URL:https://www.fotmob.com/match/5750005
+DESCRIPTION:⚽ إنتر ميلان × لاتسيو\n🏆 الدوري ال
+ إيطالي — الجولة 37\n🗓 الأحد 23 مايو 2027 · 19:3
+ 0 بتوقيت الرياض\n🏟 Giuseppe Meazza\n—————\n⚽ In
+ ter v Lazio\n🏆 Serie A — Matchday 37\n🗓 Sun 23 May 2027 · 16:30 U
+ TC\n🏟 Giuseppe Meazza\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد لاتسيو — الد
+ وري الإيطالي | Tomorrow: Inter vs Lazio
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × لاتسيو | Kick-off in 30 min: Inter vs Lazio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5750015@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20270530T163000Z
+DTEND:20270530T183000Z
+SUMMARY:Lazio vs Fiorentina — Serie A
+LOCATION:Stadio Olimpico\, Rome
+URL:https://www.fotmob.com/match/5750015
+DESCRIPTION:⚽ لاتسيو × فيورنتينا\n🏆 الدوري ال
+ إيطالي — الجولة 38\n🗓 الأحد 30 مايو 2027 · 19:3
+ 0 بتوقيت الرياض\n🏟 Stadio Olimpico, Rome\n—————\n
+ ⚽ Lazio v Fiorentina\n🏆 Serie A — Matchday 38\n🗓 Sun 30 May 2027
+  · 16:30 UTC\n🏟 Stadio Olimpico, Rome\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد فيورنتينا — الدو
+ ري الإيطالي | Tomorrow: Lazio vs Fiorentina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × فيورنتينا | Kick-off in 30 min: Lazio vs Fiorentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5852782@league-calendars
+DTSTAMP:20260905T193110Z
+DTSTART:20260816T191500Z
+DTEND:20260816T211500Z
+SUMMARY:Lazio vs Mantova (0 - 2) — Coppa Italia
+LOCATION:Stadio Olimpico\, Roma\, Italy
+GEO:41.933948;12.454757
+URL:https://www.fotmob.com/match/5852782
+DESCRIPTION:⚽ لاتسيو × مانتوفيا (0 - 2)\n🏆 كأس إي
+ طاليا — دور الـ32\n🗓 الأحد 16 أغسطس 2026 · 22:1
+ 5 بتوقيت الرياض\n🏟 Stadio Olimpico، Roma\n⚖️ الحك
+ م: Giuseppe Mucera\n👥 الحضور: 6,000\n—————\n⚽ Lazio 
+ v Mantova (0 - 2)\n🏆 Coppa Italia — Round of 32\n🗓 Sun 16 Aug 2026
+  · 19:15 UTC\n🏟 Stadio Olimpico, Roma\nReferee: Giuseppe Mucera\nAtten
+ dance: 6,000\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد مانتوفيا — كأس إ
+ يطاليا | Tomorrow: Lazio vs Mantova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × مانتوفيا | Kick-off in 30 min: Lazio vs Mantova
+END:VALARM
+END:VEVENT
+END:VCALENDAR

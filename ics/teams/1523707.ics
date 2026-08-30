@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Al Najma — King's Cup Fixtures | النجمة — مبا
+ ريات كأس خادم الحرمين الشريفين
+X-WR-CALDESC:Al Najma — all matches in King's Cup\, exact UTC kickoffs\, 
+ stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:1
+ 0Z.  •  النجمة — جميع المباريات في كأس خاد
+ م الحرمين الشريفين بتوقيت UTC الدقيق مع ال
+ ملاعب والقنوات الناقلة. المصدر: FotMob + 365scor
+ es · تحديث تلقائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5853726@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260818T161500Z
+DTEND:20260818T181500Z
+SUMMARY:Al Najma vs Al Ittihad (0 - 3) — King's Cup
+LOCATION:King Abdullah Sport City Stadium\, Buraydah\, Saudi Arabia
+GEO:26.378967;43.947845
+URL:https://www.fotmob.com/match/5853726
+DESCRIPTION:⚽ النجمة × الاتحاد (0 - 3)\n🏆 كأس خاد
+ م الحرمين الشريفين — دور الـ32\n🗓 الثلاث
+ اء 18 أغسطس 2026 · 19:15 بتوقيت الرياض\n🏟 King Abdu
+ llah Sport City Stadium، Buraydah\n⚖️ الحكم: Mohammed Al-Ismail\
+ n—————\n⚽ Al Najma v Al Ittihad (0 - 3)\n🏆 King's Cup — R
+ ound of 32\n🗓 Tue 18 Aug 2026 · 16:15 UTC\n🏟 King Abdullah Sport Ci
+ ty Stadium, Buraydah\nReferee: Mohammed Al-Ismail\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: النجمة ضد الاتحاد — كأس خا
+ دم الحرمين الشريفين | Tomorrow: Al Najma vs Al Ittihad
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: النجم
+ ة × الاتحاد | Kick-off in 30 min: Al Najma vs Al Ittihad
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Mantova — Coppa Italia Fixtures | مانتوفيا — 
+ مباريات كأس إيطاليا
+X-WR-CALDESC:Mantova — all matches in Coppa Italia\, exact UTC kickoffs\,
+  stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-09-05T19:31:
+ 10Z.  •  مانتوفيا — جميع المباريات في كأس إ
+ يطاليا بتوقيت UTC الدقيق مع الملاعب والقن
+ وات الناقلة. المصدر: FotMob + 365scores · تحديث تل
+ قائي 2026-09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5852782@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260816T191500Z
+DTEND:20260816T211500Z
+SUMMARY:Lazio vs Mantova (0 - 2) — Coppa Italia
+LOCATION:Stadio Olimpico\, Roma\, Italy
+GEO:41.933948;12.454757
+URL:https://www.fotmob.com/match/5852782
+DESCRIPTION:⚽ لاتسيو × مانتوفيا (0 - 2)\n🏆 كأس إي
+ طاليا — دور الـ32\n🗓 الأحد 16 أغسطس 2026 · 22:1
+ 5 بتوقيت الرياض\n🏟 Stadio Olimpico، Roma\n⚖️ الحك
+ م: Giuseppe Mucera\n👥 الحضور: 6,000\n—————\n⚽ Lazio 
+ v Mantova (0 - 2)\n🏆 Coppa Italia — Round of 32\n🗓 Sun 16 Aug 2026
+  · 19:15 UTC\n🏟 Stadio Olimpico, Roma\nReferee: Giuseppe Mucera\nAtten
+ dance: 6,000\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاتسيو ضد مانتوفيا — كأس إ
+ يطاليا | Tomorrow: Lazio vs Mantova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاتسي
+ و × مانتوفيا | Kick-off in 30 min: Lazio vs Mantova
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6003653@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260903T160000Z
+DTEND:20260903T180000Z
+SUMMARY:Palermo vs Mantova (5 - 2) — Coppa Italia
+LOCATION:Stadio Renzo Barbera\, Palermo\, Italy
+GEO:38.152759;13.342218
+URL:https://www.fotmob.com/match/6003653
+DESCRIPTION:⚽ باليرمو × مانتوفيا (5 - 2)\n🏆 كأس إ
+ يطاليا — دور الـ32\n🗓 الخميس 3 سبتمبر 2026 ·
+  19:00 بتوقيت الرياض\n🏟 Stadio Renzo Barbera، Palermo\n⚖
+ ️ الحكم: Davide Di Marco\n—————\n⚽ Palermo v Mantova (5
+  - 2)\n🏆 Coppa Italia — Round of 32\n🗓 Thu 03 Sep 2026 · 16:00 UT
+ C\n🏟 Stadio Renzo Barbera, Palermo\nReferee: Davide Di Marco\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باليرمو ضد مانتوفيا — كأس 
+ إيطاليا | Tomorrow: Palermo vs Mantova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بالير
+ مو × مانتوفيا | Kick-off in 30 min: Palermo vs Mantova
+END:VALARM
+END:VEVENT
+END:VCALENDAR

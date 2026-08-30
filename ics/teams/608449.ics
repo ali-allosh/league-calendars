@@ -1,0 +1,666 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Ceramica Cleopatra — Egyptian Premier League Fixtures | 
+ سيراميكا كليوباترا — مباريات الدوري الم
+ صري الممتاز
+X-WR-CALDESC:Ceramica Cleopatra — all matches in Egyptian Premier League\
+ , exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-upd
+ ated 2026-09-05T19:31:10Z.  •  سيراميكا كليوباترا — 
+ جميع المباريات في الدوري المصري الممتاز 
+ بتوقيت UTC الدقيق مع الملاعب والقنوات الن
+ اقلة. المصدر: FotMob + 365scores · تحديث تلقائي 2026
+ -09-05T19:31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5995578@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260823T170000Z
+DTEND:20260823T190000Z
+SUMMARY:Ceramica Cleopatra vs Olympic El Qanah FC (1 - 2) — Egyptian Prem
+ ier League
+LOCATION:Suez Canal Stadium\, Ismailia\, Egypt
+GEO:30.592679;32.292551
+URL:https://www.fotmob.com/match/5995578
+DESCRIPTION:⚽ سيراميكا كليوباترا × القناة (1 - 2)
+ \n🏆 الدوري المصري الممتاز — الجولة 1\n🗓 
+ الأحد 23 أغسطس 2026 · 20:00 بتوقيت الرياض\n🏟 Sue
+ z Canal Stadium، Ismailia\n⚖️ الحكم: Mohamed El Kalawy\n——
+ ———\n⚽ Ceramica Cleopatra v Olympic El Qanah FC (1 - 2)\n🏆 Egyp
+ tian Premier League — Matchday 1\n🗓 Sun 23 Aug 2026 · 17:00 UTC\n
+ 🏟 Suez Canal Stadium, Ismailia\nReferee: Mohamed El Kalawy\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيراميكا كليوباترا ضد القن
+ اة — الدوري المصري الممتاز | Tomorrow: Ceramica Cle
+ opatra vs Olympic El Qanah FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيرام
+ يكا كليوباترا × القناة | Kick-off in 30 min: Ceramica C
+ leopatra vs Olympic El Qanah FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996700@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260828T170000Z
+DTEND:20260828T190000Z
+SUMMARY:Al Ittihad Alexandria vs Ceramica Cleopatra (1 - 3) — Egyptian Pr
+ emier League
+LOCATION:Alexandria Stadium\, Al-Iskandarîah (Alexandria)\, Egypt
+GEO:31.197114;29.913127
+URL:https://www.fotmob.com/match/5996700
+DESCRIPTION:⚽ الاتحاد السكندري × سيراميكا كلي
+ وباترا (1 - 3)\n🏆 الدوري المصري الممتاز — ا
+ لجولة 2\n🗓 الجمعة 28 أغسطس 2026 · 20:00 بتوقيت 
+ الرياض\n🏟 Alexandria Stadium، Al-Iskandarîah (Alexandria)\n⚖
+ ️ الحكم: Mahmoud Nassif\n—————\n⚽ Al Ittihad Alexandria
+  v Ceramica Cleopatra (1 - 3)\n🏆 Egyptian Premier League — Matchday 2
+ \n🗓 Fri 28 Aug 2026 · 17:00 UTC\n🏟 Alexandria Stadium, Al-Iskandar
+ îah (Alexandria)\nReferee: Mahmoud Nassif\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد السكندري ضد سيرامي
+ كا كليوباترا — الدوري المصري الممتاز | Tom
+ orrow: Al Ittihad Alexandria vs Ceramica Cleopatra
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد السكندري × سيراميكا كليوباترا | Kick-off in
+  30 min: Al Ittihad Alexandria vs Ceramica Cleopatra
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996711@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260902T170000Z
+DTEND:20260902T190000Z
+SUMMARY:Ceramica Cleopatra vs Modern Sport FC (2 - 0) — Egyptian Premier 
+ League
+LOCATION:Suez Canal Stadium\, Ismailia\, Egypt
+GEO:30.592679;32.292551
+URL:https://www.fotmob.com/match/5996711
+DESCRIPTION:⚽ سيراميكا كليوباترا × مودرن سبور
+ ت (2 - 0)\n🏆 الدوري المصري الممتاز — الجولة
+  3\n🗓 الأربعاء 2 سبتمبر 2026 · 20:00 بتوقيت الر
+ ياض\n🏟 Suez Canal Stadium، Ismailia\n⚖️ الحكم: Mahmoud Bas
+ siouni\n—————\n⚽ Ceramica Cleopatra v Modern Sport FC (2 - 0)\
+ n🏆 Egyptian Premier League — Matchday 3\n🗓 Wed 02 Sep 2026 · 17:0
+ 0 UTC\n🏟 Suez Canal Stadium, Ismailia\nReferee: Mahmoud Bassiouni\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيراميكا كليوباترا ضد مودر
+ ن سبورت — الدوري المصري الممتاز | Tomorrow: Cer
+ amica Cleopatra vs Modern Sport FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيرام
+ يكا كليوباترا × مودرن سبورت | Kick-off in 30 min: C
+ eramica Cleopatra vs Modern Sport FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996717@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260908T170000Z
+DTEND:20260908T190000Z
+SUMMARY:Smouha SC vs Ceramica Cleopatra — Egyptian Premier League
+LOCATION:Borg El Arab Stadium\, Al-Iskandarîah (Alexandria)\, Egypt
+GEO:30.999499;29.729433
+URL:https://www.fotmob.com/match/5996717
+DESCRIPTION:⚽ سموحة × سيراميكا كليوباترا\n🏆 ا
+ لدوري المصري الممتاز — الجولة 4\n🗓 الثلا
+ ثاء 8 سبتمبر 2026 · 20:00 بتوقيت الرياض\n🏟 Borg E
+ l Arab Stadium، Al-Iskandarîah (Alexandria)\n—————\n⚽ Smouha
+  SC v Ceramica Cleopatra\n🏆 Egyptian Premier League — Matchday 4\n
+ 🗓 Tue 08 Sep 2026 · 17:00 UTC\n🏟 Borg El Arab Stadium, Al-Iskandar
+ îah (Alexandria)\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سموحة ضد سيراميكا كليوباتر
+ ا — الدوري المصري الممتاز | Tomorrow: Smouha SC vs C
+ eramica Cleopatra
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سموحة 
+ × سيراميكا كليوباترا | Kick-off in 30 min: Smouha SC vs 
+ Ceramica Cleopatra
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996723@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260914T170000Z
+DTEND:20260914T190000Z
+SUMMARY:Ceramica Cleopatra vs National Bank — Egyptian Premier League
+LOCATION:Suez Canal Stadium\, Ismailia\, Egypt
+GEO:30.592679;32.292551
+URL:https://www.fotmob.com/match/5996723
+DESCRIPTION:⚽ سيراميكا كليوباترا × البنك الاه
+ لي\n🏆 الدوري المصري الممتاز — الجولة 5\n
+ 🗓 الاثنين 14 سبتمبر 2026 · 20:00 بتوقيت الريا
+ ض\n🏟 Suez Canal Stadium، Ismailia\n—————\n⚽ Ceramica Cleo
+ patra v National Bank\n🏆 Egyptian Premier League — Matchday 5\n🗓 M
+ on 14 Sep 2026 · 17:00 UTC\n🏟 Suez Canal Stadium, Ismailia\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيراميكا كليوباترا ضد البن
+ ك الاهلي — الدوري المصري الممتاز | Tomorrow: C
+ eramica Cleopatra vs National Bank
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيرام
+ يكا كليوباترا × البنك الاهلي | Kick-off in 30 min:
+  Ceramica Cleopatra vs National Bank
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996736@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261012T170000Z
+DTEND:20261012T190000Z
+SUMMARY:Pyramids FC vs Ceramica Cleopatra — Egyptian Premier League
+LOCATION:30 June Air Defence Stadium\, al-Qāhirah (Cairo)\, Egypt
+GEO:30.019992;31.373724
+URL:https://www.fotmob.com/match/5996736
+DESCRIPTION:⚽ بيراميدز × سيراميكا كليوباترا\n
+ 🏆 الدوري المصري الممتاز — الجولة 6\n🗓 ا
+ لاثنين 12 أكتوبر 2026 · 20:00 بتوقيت الرياض\n🏟
+  30 June Air Defence Stadium، al-Qāhirah (Cairo)\n—————\n⚽ P
+ yramids FC v Ceramica Cleopatra\n🏆 Egyptian Premier League — Matchday
+  6\n🗓 Mon 12 Oct 2026 · 17:00 UTC\n🏟 30 June Air Defence Stadium, a
+ l-Qāhirah (Cairo)\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيراميدز ضد سيراميكا كليوب
+ اترا — الدوري المصري الممتاز | Tomorrow: Pyramids
+  FC vs Ceramica Cleopatra
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيرام
+ يدز × سيراميكا كليوباترا | Kick-off in 30 min: Pyrami
+ ds FC vs Ceramica Cleopatra
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996751@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261021T170000Z
+DTEND:20261021T190000Z
+SUMMARY:Ceramica Cleopatra vs Petrojet-Suez — Egyptian Premier League
+LOCATION:Suez Canal Stadium\, Ismailia\, Egypt
+GEO:30.592679;32.292551
+URL:https://www.fotmob.com/match/5996751
+DESCRIPTION:⚽ سيراميكا كليوباترا × منتخب السو
+ يس بتروجت\n🏆 الدوري المصري الممتاز — ال
+ جولة 7\n🗓 الأربعاء 21 أكتوبر 2026 · 20:00 بتوقي
+ ت الرياض\n🏟 Suez Canal Stadium، Ismailia\n—————\n⚽ 
+ Ceramica Cleopatra v Petrojet-Suez\n🏆 Egyptian Premier League — Match
+ day 7\n🗓 Wed 21 Oct 2026 · 17:00 UTC\n🏟 Suez Canal Stadium, Ismaili
+ a\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيراميكا كليوباترا ضد منتخ
+ ب السويس بتروجت — الدوري المصري الممتاز 
+ | Tomorrow: Ceramica Cleopatra vs Petrojet-Suez
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيرام
+ يكا كليوباترا × منتخب السويس بتروجت | Kick-o
+ ff in 30 min: Ceramica Cleopatra vs Petrojet-Suez
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996760@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261031T180000Z
+DTEND:20261031T200000Z
+SUMMARY:Ceramica Cleopatra vs ZED FC — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996760
+DESCRIPTION:⚽ سيراميكا كليوباترا × زد\n🏆 الدو
+ ري المصري الممتاز — الجولة 8\n🗓 السبت 31 أ
+ كتوبر 2026 · 21:00 بتوقيت الرياض\n🏟 Suez Canal Author
+ ity Stadium\n—————\n⚽ Ceramica Cleopatra v ZED FC\n🏆 Egypti
+ an Premier League — Matchday 8\n🗓 Sat 31 Oct 2026 · 18:00 UTC\n🏟 
+ Suez Canal Authority Stadium\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيراميكا كليوباترا ضد زد —
+  الدوري المصري الممتاز | Tomorrow: Ceramica Cleopatra v
+ s ZED FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيرام
+ يكا كليوباترا × زد | Kick-off in 30 min: Ceramica Cleopatra
+  vs ZED FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996770@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261125T180000Z
+DTEND:20261125T200000Z
+SUMMARY:Al Sharkeyah-ENPPI vs Ceramica Cleopatra — Egyptian Premier Leagu
+ e
+LOCATION:Petrosport Stadium
+URL:https://www.fotmob.com/match/5996770
+DESCRIPTION:⚽ Al Sharkeyah-ENPPI × سيراميكا كليوباترا\n
+ 🏆 الدوري المصري الممتاز — الجولة 9\n🗓 ا
+ لأربعاء 25 نوفمبر 2026 · 21:00 بتوقيت الرياض\n
+ 🏟 Petrosport Stadium\n—————\n⚽ Al Sharkeyah-ENPPI v Ceramic
+ a Cleopatra\n🏆 Egyptian Premier League — Matchday 9\n🗓 Wed 25 Nov 
+ 2026 · 18:00 UTC\n🏟 Petrosport Stadium\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Al Sharkeyah-ENPPI ضد سيراميكا كليو
+ باترا — الدوري المصري الممتاز | Tomorrow: Al Sha
+ rkeyah-ENPPI vs Ceramica Cleopatra
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Al Sharkeya
+ h-ENPPI × سيراميكا كليوباترا | Kick-off in 30 min: Al Sh
+ arkeyah-ENPPI vs Ceramica Cleopatra
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996775@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261208T180000Z
+DTEND:20261208T200000Z
+SUMMARY:Ceramica Cleopatra vs Al Mokawloon Al Arab — Egyptian Premier Lea
+ gue
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996775
+DESCRIPTION:⚽ سيراميكا كليوباترا × المقاولون 
+ العرب\n🏆 الدوري المصري الممتاز — الجولة
+  10\n🗓 الثلاثاء 8 ديسمبر 2026 · 21:00 بتوقيت ال
+ رياض\n🏟 Suez Canal Authority Stadium\n—————\n⚽ Ceramica
+  Cleopatra v Al Mokawloon Al Arab\n🏆 Egyptian Premier League — Matchd
+ ay 10\n🗓 Tue 08 Dec 2026 · 18:00 UTC\n🏟 Suez Canal Authority Stadiu
+ m\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيراميكا كليوباترا ضد المق
+ اولون العرب — الدوري المصري الممتاز | Tomor
+ row: Ceramica Cleopatra vs Al Mokawloon Al Arab
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيرام
+ يكا كليوباترا × المقاولون العرب | Kick-off in 3
+ 0 min: Ceramica Cleopatra vs Al Mokawloon Al Arab
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996788@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261215T180000Z
+DTEND:20261215T200000Z
+SUMMARY:Wadi Degla FC vs Ceramica Cleopatra — Egyptian Premier League
+LOCATION:Al Salam Stadium
+URL:https://www.fotmob.com/match/5996788
+DESCRIPTION:⚽ وادي دجلة × سيراميكا كليوباترا\n
+ 🏆 الدوري المصري الممتاز — الجولة 11\n🗓 ا
+ لثلاثاء 15 ديسمبر 2026 · 21:00 بتوقيت الرياض\n
+ 🏟 Al Salam Stadium\n—————\n⚽ Wadi Degla FC v Ceramica Cleop
+ atra\n🏆 Egyptian Premier League — Matchday 11\n🗓 Tue 15 Dec 2026 
+ · 18:00 UTC\n🏟 Al Salam Stadium\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وادي دجلة ضد سيراميكا كليو
+ باترا — الدوري المصري الممتاز | Tomorrow: Wadi D
+ egla FC vs Ceramica Cleopatra
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وادي د
+ جلة × سيراميكا كليوباترا | Kick-off in 30 min: Wadi D
+ egla FC vs Ceramica Cleopatra
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996800@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261224T180000Z
+DTEND:20261224T200000Z
+SUMMARY:Ceramica Cleopatra vs Al Ahly SC — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996800
+DESCRIPTION:⚽ سيراميكا كليوباترا × الأهلي\n🏆 
+ الدوري المصري الممتاز — الجولة 12\n🗓 الخ
+ ميس 24 ديسمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Suez 
+ Canal Authority Stadium\n—————\n⚽ Ceramica Cleopatra v Al Ahly
+  SC\n🏆 Egyptian Premier League — Matchday 12\n🗓 Thu 24 Dec 2026 ·
+  18:00 UTC\n🏟 Suez Canal Authority Stadium\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيراميكا كليوباترا ضد الأه
+ لي — الدوري المصري الممتاز | Tomorrow: Ceramica Cle
+ opatra vs Al Ahly SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيرام
+ يكا كليوباترا × الأهلي | Kick-off in 30 min: Ceramica C
+ leopatra vs Al Ahly SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996811@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261229T180000Z
+DTEND:20261229T200000Z
+SUMMARY:Tala'ea El Gaish vs Ceramica Cleopatra — Egyptian Premier League
+LOCATION:Military Sports Stadium
+URL:https://www.fotmob.com/match/5996811
+DESCRIPTION:⚽ طلائع الجيش × سيراميكا كليوباتر
+ ا\n🏆 الدوري المصري الممتاز — الجولة 13\n
+ 🗓 الثلاثاء 29 ديسمبر 2026 · 21:00 بتوقيت الري
+ اض\n🏟 Military Sports Stadium\n—————\n⚽ Tala'ea El Gaish 
+ v Ceramica Cleopatra\n🏆 Egyptian Premier League — Matchday 13\n🗓 T
+ ue 29 Dec 2026 · 18:00 UTC\n🏟 Military Sports Stadium\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: طلائع الجيش ضد سيراميكا كل
+ يوباترا — الدوري المصري الممتاز | Tomorrow: Ta
+ la'ea El Gaish vs Ceramica Cleopatra
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: طلائع 
+ الجيش × سيراميكا كليوباترا | Kick-off in 30 min: Ta
+ la'ea El Gaish vs Ceramica Cleopatra
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996820@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270106T180000Z
+DTEND:20270106T200000Z
+SUMMARY:Al Masry SC vs Ceramica Cleopatra — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996820
+DESCRIPTION:⚽ المصري × سيراميكا كليوباترا\n🏆 
+ الدوري المصري الممتاز — الجولة 14\n🗓 الأ
+ ربعاء 6 يناير 2027 · 21:00 بتوقيت الرياض\n🏟 Cair
+ o Int'l Stadium\n—————\n⚽ Al Masry SC v Ceramica Cleopatra\n
+ 🏆 Egyptian Premier League — Matchday 14\n🗓 Wed 06 Jan 2027 · 18:0
+ 0 UTC\n🏟 Cairo Int'l Stadium\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المصري ضد سيراميكا كليوبات
+ را — الدوري المصري الممتاز | Tomorrow: Al Masry SC 
+ vs Ceramica Cleopatra
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المصر
+ ي × سيراميكا كليوباترا | Kick-off in 30 min: Al Masry S
+ C vs Ceramica Cleopatra
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996822@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270126T150000Z
+DTEND:20270126T170000Z
+SUMMARY:Ceramica Cleopatra vs Asyut Petroleum — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996822
+DESCRIPTION:⚽ سيراميكا كليوباترا × أسيوط بترو
+ ليوم\n🏆 الدوري المصري الممتاز — الجولة 1
+ 5\n🗓 الثلاثاء 26 يناير 2027 · 18:00 بتوقيت الري
+ اض\n🏟 Suez Canal Authority Stadium\n—————\n⚽ Ceramica Cle
+ opatra v Asyut Petroleum\n🏆 Egyptian Premier League — Matchday 15\n
+ 🗓 Tue 26 Jan 2027 · 15:00 UTC\n🏟 Suez Canal Authority Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيراميكا كليوباترا ضد أسيو
+ ط بتروليوم — الدوري المصري الممتاز | Tomorro
+ w: Ceramica Cleopatra vs Asyut Petroleum
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيرام
+ يكا كليوباترا × أسيوط بتروليوم | Kick-off in 30 
+ min: Ceramica Cleopatra vs Asyut Petroleum
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996833@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270130T180000Z
+DTEND:20270130T200000Z
+SUMMARY:Abo Qir Semad vs Ceramica Cleopatra — Egyptian Premier League
+LOCATION:Alexandria Stadium
+URL:https://www.fotmob.com/match/5996833
+DESCRIPTION:⚽ ابو قير للاسمدة × سيراميكا كليوب
+ اترا\n🏆 الدوري المصري الممتاز — الجولة 1
+ 6\n🗓 السبت 30 يناير 2027 · 21:00 بتوقيت الرياض\n
+ 🏟 Alexandria Stadium\n—————\n⚽ Abo Qir Semad v Ceramica Cle
+ opatra\n🏆 Egyptian Premier League — Matchday 16\n🗓 Sat 30 Jan 2027
+  · 18:00 UTC\n🏟 Alexandria Stadium\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ابو قير للاسمدة ضد سيراميك
+ ا كليوباترا — الدوري المصري الممتاز | Tomor
+ row: Abo Qir Semad vs Ceramica Cleopatra
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ابو قي
+ ر للاسمدة × سيراميكا كليوباترا | Kick-off in 30 
+ min: Abo Qir Semad vs Ceramica Cleopatra
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996846@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270205T180000Z
+DTEND:20270205T200000Z
+SUMMARY:Ceramica Cleopatra vs Zamalek SC — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996846
+DESCRIPTION:⚽ سيراميكا كليوباترا × الزمالك\n🏆
+  الدوري المصري الممتاز — الجولة 17\n🗓 الج
+ معة 5 فبراير 2027 · 21:00 بتوقيت الرياض\n🏟 Suez C
+ anal Authority Stadium\n—————\n⚽ Ceramica Cleopatra v Zamalek 
+ SC\n🏆 Egyptian Premier League — Matchday 17\n🗓 Fri 05 Feb 2027 · 
+ 18:00 UTC\n🏟 Suez Canal Authority Stadium\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيراميكا كليوباترا ضد الزم
+ الك — الدوري المصري الممتاز | Tomorrow: Ceramica C
+ leopatra vs Zamalek SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيرام
+ يكا كليوباترا × الزمالك | Kick-off in 30 min: Ceramica
+  Cleopatra vs Zamalek SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996856@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270211T193000Z
+DTEND:20270211T213000Z
+SUMMARY:Ghazl Al Mahalla vs Ceramica Cleopatra — Egyptian Premier League
+LOCATION:Ghazl El Mahalla Stadium
+URL:https://www.fotmob.com/match/5996856
+DESCRIPTION:⚽ غزل المحلة × سيراميكا كليوباترا\
+ n🏆 الدوري المصري الممتاز — الجولة 18\n🗓 
+ الخميس 11 فبراير 2027 · 22:30 بتوقيت الرياض\n🏟
+  Ghazl El Mahalla Stadium\n—————\n⚽ Ghazl Al Mahalla v Ceramic
+ a Cleopatra\n🏆 Egyptian Premier League — Matchday 18\n🗓 Thu 11 Feb
+  2027 · 19:30 UTC\n🏟 Ghazl El Mahalla Stadium\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غزل المحلة ضد سيراميكا كلي
+ وباترا — الدوري المصري الممتاز | Tomorrow: Ghaz
+ l Al Mahalla vs Ceramica Cleopatra
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غزل ال
+ محلة × سيراميكا كليوباترا | Kick-off in 30 min: Ghaz
+ l Al Mahalla vs Ceramica Cleopatra
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996865@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270219T193000Z
+DTEND:20270219T213000Z
+SUMMARY:Ceramica Cleopatra vs El Gouna FC — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996865
+DESCRIPTION:⚽ سيراميكا كليوباترا × الجونة\n🏆 
+ الدوري المصري الممتاز — الجولة 19\n🗓 الج
+ معة 19 فبراير 2027 · 22:30 بتوقيت الرياض\n🏟 Suez 
+ Canal Authority Stadium\n—————\n⚽ Ceramica Cleopatra v El Goun
+ a FC\n🏆 Egyptian Premier League — Matchday 19\n🗓 Fri 19 Feb 2027 
+ · 19:30 UTC\n🏟 Suez Canal Authority Stadium\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيراميكا كليوباترا ضد الجو
+ نة — الدوري المصري الممتاز | Tomorrow: Ceramica Cle
+ opatra vs El Gouna FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيرام
+ يكا كليوباترا × الجونة | Kick-off in 30 min: Ceramica C
+ leopatra vs El Gouna FC
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,662 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Asyut Petroleum — Egyptian Premier League Fixtures | أ
+ سيوط بتروليوم — مباريات الدوري المصري ا
+ لممتاز
+X-WR-CALDESC:Asyut Petroleum — all matches in Egyptian Premier League\, e
+ xact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-update
+ d 2026-09-05T19:31:10Z.  •  أسيوط بتروليوم — جميع ا
+ لمباريات في الدوري المصري الممتاز بتوقي
+ ت UTC الدقيق مع الملاعب والقنوات الناقلة. 
+ المصدر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19:
+ 31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-5995574@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260822T140000Z
+DTEND:20260822T160000Z
+SUMMARY:Asyut Petroleum vs Petrojet-Suez (1 - 1) — Egyptian Premier Leagu
+ e
+LOCATION:Borg El Arab Stadium\, Al-Iskandarîah (Alexandria)\, Egypt
+GEO:30.999499;29.729433
+URL:https://www.fotmob.com/match/5995574
+DESCRIPTION:⚽ أسيوط بتروليوم × منتخب السويس بت
+ روجت (1 - 1)\n🏆 الدوري المصري الممتاز — الج
+ ولة 1\n🗓 السبت 22 أغسطس 2026 · 17:00 بتوقيت الر
+ ياض\n🏟 Borg El Arab Stadium، Al-Iskandarîah (Alexandria)\n⚖️ 
+ الحكم: Mahmoud Wafa\n—————\n⚽ Asyut Petroleum v Petrojet-
+ Suez (1 - 1)\n🏆 Egyptian Premier League — Matchday 1\n🗓 Sat 22 Aug
+  2026 · 14:00 UTC\n🏟 Borg El Arab Stadium, Al-Iskandarîah (Alexandria
+ )\nReferee: Mahmoud Wafa\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أسيوط بتروليوم ضد منتخب ال
+ سويس بتروجت — الدوري المصري الممتاز | Tomor
+ row: Asyut Petroleum vs Petrojet-Suez
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أسيوط 
+ بتروليوم × منتخب السويس بتروجت | Kick-off in 30 
+ min: Asyut Petroleum vs Petrojet-Suez
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996692@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260826T140000Z
+DTEND:20260826T160000Z
+SUMMARY:Smouha SC vs Asyut Petroleum (0 - 0) — Egyptian Premier League
+LOCATION:Borg El Arab Stadium\, Al-Iskandarîah (Alexandria)\, Egypt
+GEO:30.999499;29.729433
+URL:https://www.fotmob.com/match/5996692
+DESCRIPTION:⚽ سموحة × أسيوط بتروليوم (0 - 0)\n🏆 ا
+ لدوري المصري الممتاز — الجولة 2\n🗓 الأرب
+ عاء 26 أغسطس 2026 · 17:00 بتوقيت الرياض\n🏟 Borg El
+  Arab Stadium، Al-Iskandarîah (Alexandria)\n⚖️ الحكم: Abdelaziz
+  El Sayed\n—————\n⚽ Smouha SC v Asyut Petroleum (0 - 0)\n🏆 
+ Egyptian Premier League — Matchday 2\n🗓 Wed 26 Aug 2026 · 14:00 UTC\
+ n🏟 Borg El Arab Stadium, Al-Iskandarîah (Alexandria)\nReferee: Abdelaz
+ iz El Sayed\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سموحة ضد أسيوط بتروليوم — 
+ الدوري المصري الممتاز | Tomorrow: Smouha SC vs Asyut Pe
+ troleum
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سموحة 
+ × أسيوط بتروليوم | Kick-off in 30 min: Smouha SC vs Asyut Pe
+ troleum
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996702@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260831T140000Z
+DTEND:20260831T160000Z
+SUMMARY:Asyut Petroleum vs National Bank (0 - 1) — Egyptian Premier Leagu
+ e
+LOCATION:Borg El Arab Stadium\, Al-Iskandarîah (Alexandria)\, Egypt
+GEO:30.999499;29.729433
+URL:https://www.fotmob.com/match/5996702
+DESCRIPTION:⚽ أسيوط بتروليوم × البنك الاهلي (0 -
+  1)\n🏆 الدوري المصري الممتاز — الجولة 3\n
+ 🗓 الاثنين 31 أغسطس 2026 · 17:00 بتوقيت الرياض\
+ n🏟 Borg El Arab Stadium، Al-Iskandarîah (Alexandria)\n⚖️ الحك
+ م: Sobhy El Amrawi\n—————\n⚽ Asyut Petroleum v National Bank 
+ (0 - 1)\n🏆 Egyptian Premier League — Matchday 3\n🗓 Mon 31 Aug 2026
+  · 14:00 UTC\n🏟 Borg El Arab Stadium, Al-Iskandarîah (Alexandria)\nRe
+ feree: Sobhy El Amrawi\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أسيوط بتروليوم ضد البنك ال
+ اهلي — الدوري المصري الممتاز | Tomorrow: Asyut Pe
+ troleum vs National Bank
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أسيوط 
+ بتروليوم × البنك الاهلي | Kick-off in 30 min: Asyut Pe
+ troleum vs National Bank
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996712@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260907T140000Z
+DTEND:20260907T160000Z
+SUMMARY:Al Ittihad Alexandria vs Asyut Petroleum — Egyptian Premier Leagu
+ e
+LOCATION:Alexandria Stadium\, Al-Iskandarîah (Alexandria)\, Egypt
+GEO:31.197114;29.913127
+URL:https://www.fotmob.com/match/5996712
+DESCRIPTION:⚽ الاتحاد السكندري × أسيوط بترولي
+ وم\n🏆 الدوري المصري الممتاز — الجولة 4\n
+ 🗓 الاثنين 7 سبتمبر 2026 · 17:00 بتوقيت الرياض
+ \n🏟 Alexandria Stadium، Al-Iskandarîah (Alexandria)\n—————\
+ n⚽ Al Ittihad Alexandria v Asyut Petroleum\n🏆 Egyptian Premier League
+  — Matchday 4\n🗓 Mon 07 Sep 2026 · 14:00 UTC\n🏟 Alexandria Stadiu
+ m, Al-Iskandarîah (Alexandria)\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الاتحاد السكندري ضد أسيوط 
+ بتروليوم — الدوري المصري الممتاز | Tomorrow: 
+ Al Ittihad Alexandria vs Asyut Petroleum
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الاتح
+ اد السكندري × أسيوط بتروليوم | Kick-off in 30 min:
+  Al Ittihad Alexandria vs Asyut Petroleum
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996725@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260915T140000Z
+DTEND:20260915T160000Z
+SUMMARY:Asyut Petroleum vs Modern Sport FC — Egyptian Premier League
+LOCATION:Asyut Cement Stadium\, Asyūt (Assyut)\, Egypt
+GEO:27.187721;31.038920
+URL:https://www.fotmob.com/match/5996725
+DESCRIPTION:⚽ أسيوط بتروليوم × مودرن سبورت\n🏆 
+ الدوري المصري الممتاز — الجولة 5\n🗓 الثل
+ اثاء 15 سبتمبر 2026 · 17:00 بتوقيت الرياض\n🏟 Asy
+ ut Cement Stadium، Asyūt (Assyut)\n—————\n⚽ Asyut Petroleum 
+ v Modern Sport FC\n🏆 Egyptian Premier League — Matchday 5\n🗓 Tue 1
+ 5 Sep 2026 · 14:00 UTC\n🏟 Asyut Cement Stadium, Asyūt (Assyut)\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أسيوط بتروليوم ضد مودرن سب
+ ورت — الدوري المصري الممتاز | Tomorrow: Asyut Petr
+ oleum vs Modern Sport FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أسيوط 
+ بتروليوم × مودرن سبورت | Kick-off in 30 min: Asyut Petr
+ oleum vs Modern Sport FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996738@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261013T140000Z
+DTEND:20261013T160000Z
+SUMMARY:Abo Qir Semad vs Asyut Petroleum — Egyptian Premier League
+LOCATION:Borg El Arab Stadium\, Al-Iskandarîah (Alexandria)\, Egypt
+GEO:30.999499;29.729433
+URL:https://www.fotmob.com/match/5996738
+DESCRIPTION:⚽ ابو قير للاسمدة × أسيوط بتروليوم
+ \n🏆 الدوري المصري الممتاز — الجولة 6\n🗓 
+ الثلاثاء 13 أكتوبر 2026 · 17:00 بتوقيت الرياض\n
+ 🏟 Borg El Arab Stadium، Al-Iskandarîah (Alexandria)\n—————\
+ n⚽ Abo Qir Semad v Asyut Petroleum\n🏆 Egyptian Premier League — Mat
+ chday 6\n🗓 Tue 13 Oct 2026 · 14:00 UTC\n🏟 Borg El Arab Stadium, Al-
+ Iskandarîah (Alexandria)\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ابو قير للاسمدة ضد أسيوط بت
+ روليوم — الدوري المصري الممتاز | Tomorrow: Abo 
+ Qir Semad vs Asyut Petroleum
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ابو قي
+ ر للاسمدة × أسيوط بتروليوم | Kick-off in 30 min: Abo
+  Qir Semad vs Asyut Petroleum
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996745@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261020T140000Z
+DTEND:20261020T160000Z
+SUMMARY:Asyut Petroleum vs Zamalek SC — Egyptian Premier League
+LOCATION:Asyut Cement Stadium\, Asyūt (Assyut)\, Egypt
+GEO:27.187721;31.038920
+URL:https://www.fotmob.com/match/5996745
+DESCRIPTION:⚽ أسيوط بتروليوم × الزمالك\n🏆 الد
+ وري المصري الممتاز — الجولة 7\n🗓 الثلاثا
+ ء 20 أكتوبر 2026 · 17:00 بتوقيت الرياض\n🏟 Asyut Cem
+ ent Stadium، Asyūt (Assyut)\n—————\n⚽ Asyut Petroleum v Zama
+ lek SC\n🏆 Egyptian Premier League — Matchday 7\n🗓 Tue 20 Oct 2026 
+ · 14:00 UTC\n🏟 Asyut Cement Stadium, Asyūt (Assyut)\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أسيوط بتروليوم ضد الزمالك 
+ — الدوري المصري الممتاز | Tomorrow: Asyut Petroleum v
+ s Zamalek SC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أسيوط 
+ بتروليوم × الزمالك | Kick-off in 30 min: Asyut Petroleum v
+ s Zamalek SC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996756@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261030T150000Z
+DTEND:20261030T170000Z
+SUMMARY:Asyut Petroleum vs El Gouna FC — Egyptian Premier League
+LOCATION:Asyut University Stadium
+URL:https://www.fotmob.com/match/5996756
+DESCRIPTION:⚽ أسيوط بتروليوم × الجونة\n🏆 الدو
+ ري المصري الممتاز — الجولة 8\n🗓 الجمعة 30 
+ أكتوبر 2026 · 18:00 بتوقيت الرياض\n🏟 Asyut Universit
+ y Stadium\n—————\n⚽ Asyut Petroleum v El Gouna FC\n🏆 Egypti
+ an Premier League — Matchday 8\n🗓 Fri 30 Oct 2026 · 15:00 UTC\n🏟 
+ Asyut University Stadium\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أسيوط بتروليوم ضد الجونة —
+  الدوري المصري الممتاز | Tomorrow: Asyut Petroleum vs E
+ l Gouna FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أسيوط 
+ بتروليوم × الجونة | Kick-off in 30 min: Asyut Petroleum vs 
+ El Gouna FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996766@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261124T180000Z
+DTEND:20261124T200000Z
+SUMMARY:Al Masry SC vs Asyut Petroleum — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996766
+DESCRIPTION:⚽ المصري × أسيوط بتروليوم\n🏆 الدو
+ ري المصري الممتاز — الجولة 9\n🗓 الثلاثاء
+  24 نوفمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Cairo Int'l
+  Stadium\n—————\n⚽ Al Masry SC v Asyut Petroleum\n🏆 Egyptia
+ n Premier League — Matchday 9\n🗓 Tue 24 Nov 2026 · 18:00 UTC\n🏟 C
+ airo Int'l Stadium\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المصري ضد أسيوط بتروليوم —
+  الدوري المصري الممتاز | Tomorrow: Al Masry SC vs Asyut
+  Petroleum
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المصر
+ ي × أسيوط بتروليوم | Kick-off in 30 min: Al Masry SC vs Asy
+ ut Petroleum
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996779@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261210T150000Z
+DTEND:20261210T170000Z
+SUMMARY:Asyut Petroleum vs ZED FC — Egyptian Premier League
+LOCATION:Asyut University Stadium
+URL:https://www.fotmob.com/match/5996779
+DESCRIPTION:⚽ أسيوط بتروليوم × زد\n🏆 الدوري ال
+ مصري الممتاز — الجولة 10\n🗓 الخميس 10 ديسم
+ بر 2026 · 18:00 بتوقيت الرياض\n🏟 Asyut University Stadiu
+ m\n—————\n⚽ Asyut Petroleum v ZED FC\n🏆 Egyptian Premier Le
+ ague — Matchday 10\n🗓 Thu 10 Dec 2026 · 15:00 UTC\n🏟 Asyut Univer
+ sity Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أسيوط بتروليوم ضد زد — الد
+ وري المصري الممتاز | Tomorrow: Asyut Petroleum vs ZED FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أسيوط 
+ بتروليوم × زد | Kick-off in 30 min: Asyut Petroleum vs ZED FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996785@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261215T150000Z
+DTEND:20261215T170000Z
+SUMMARY:Al Ahly SC vs Asyut Petroleum — Egyptian Premier League
+LOCATION:Cairo Int'l Stadium
+URL:https://www.fotmob.com/match/5996785
+DESCRIPTION:⚽ الأهلي × أسيوط بتروليوم\n🏆 الدو
+ ري المصري الممتاز — الجولة 11\n🗓 الثلاثا
+ ء 15 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Cairo Int
+ 'l Stadium\n—————\n⚽ Al Ahly SC v Asyut Petroleum\n🏆 Egypti
+ an Premier League — Matchday 11\n🗓 Tue 15 Dec 2026 · 15:00 UTC\n🏟
+  Cairo Int'l Stadium\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: الأهلي ضد أسيوط بتروليوم —
+  الدوري المصري الممتاز | Tomorrow: Al Ahly SC vs Asyut 
+ Petroleum
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: الأهل
+ ي × أسيوط بتروليوم | Kick-off in 30 min: Al Ahly SC vs Asyu
+ t Petroleum
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996793@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261222T150000Z
+DTEND:20261222T170000Z
+SUMMARY:Asyut Petroleum vs Al Sharkeyah-ENPPI — Egyptian Premier League
+LOCATION:Asyut University Stadium
+URL:https://www.fotmob.com/match/5996793
+DESCRIPTION:⚽ أسيوط بتروليوم × Al Sharkeyah-ENPPI\n🏆 ا
+ لدوري المصري الممتاز — الجولة 12\n🗓 الثل
+ اثاء 22 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Asy
+ ut University Stadium\n—————\n⚽ Asyut Petroleum v Al Sharkeyah
+ -ENPPI\n🏆 Egyptian Premier League — Matchday 12\n🗓 Tue 22 Dec 2026
+  · 15:00 UTC\n🏟 Asyut University Stadium\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أسيوط بتروليوم ضد Al Sharkeyah-ENP
+ PI — الدوري المصري الممتاز | Tomorrow: Asyut Petroleu
+ m vs Al Sharkeyah-ENPPI
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أسيوط 
+ بتروليوم × Al Sharkeyah-ENPPI | Kick-off in 30 min: Asyut Petrole
+ um vs Al Sharkeyah-ENPPI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996809@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261229T150000Z
+DTEND:20261229T170000Z
+SUMMARY:Wadi Degla FC vs Asyut Petroleum — Egyptian Premier League
+LOCATION:Al Salam Stadium
+URL:https://www.fotmob.com/match/5996809
+DESCRIPTION:⚽ وادي دجلة × أسيوط بتروليوم\n🏆 ال
+ دوري المصري الممتاز — الجولة 13\n🗓 الثلا
+ ثاء 29 ديسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Al Sa
+ lam Stadium\n—————\n⚽ Wadi Degla FC v Asyut Petroleum\n🏆 Eg
+ yptian Premier League — Matchday 13\n🗓 Tue 29 Dec 2026 · 15:00 UTC\n
+ 🏟 Al Salam Stadium\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: وادي دجلة ضد أسيوط بتروليو
+ م — الدوري المصري الممتاز | Tomorrow: Wadi Degla FC 
+ vs Asyut Petroleum
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: وادي د
+ جلة × أسيوط بتروليوم | Kick-off in 30 min: Wadi Degla FC 
+ vs Asyut Petroleum
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996819@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270106T150000Z
+DTEND:20270106T170000Z
+SUMMARY:Asyut Petroleum vs Tala'ea El Gaish — Egyptian Premier League
+LOCATION:Asyut University Stadium
+URL:https://www.fotmob.com/match/5996819
+DESCRIPTION:⚽ أسيوط بتروليوم × طلائع الجيش\n🏆 
+ الدوري المصري الممتاز — الجولة 14\n🗓 الأ
+ ربعاء 6 يناير 2027 · 18:00 بتوقيت الرياض\n🏟 Asyu
+ t University Stadium\n—————\n⚽ Asyut Petroleum v Tala'ea El Ga
+ ish\n🏆 Egyptian Premier League — Matchday 14\n🗓 Wed 06 Jan 2027 ·
+  15:00 UTC\n🏟 Asyut University Stadium\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أسيوط بتروليوم ضد طلائع ال
+ جيش — الدوري المصري الممتاز | Tomorrow: Asyut Petr
+ oleum vs Tala'ea El Gaish
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أسيوط 
+ بتروليوم × طلائع الجيش | Kick-off in 30 min: Asyut Petr
+ oleum vs Tala'ea El Gaish
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996822@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270126T150000Z
+DTEND:20270126T170000Z
+SUMMARY:Ceramica Cleopatra vs Asyut Petroleum — Egyptian Premier League
+LOCATION:Suez Canal Authority Stadium
+URL:https://www.fotmob.com/match/5996822
+DESCRIPTION:⚽ سيراميكا كليوباترا × أسيوط بترو
+ ليوم\n🏆 الدوري المصري الممتاز — الجولة 1
+ 5\n🗓 الثلاثاء 26 يناير 2027 · 18:00 بتوقيت الري
+ اض\n🏟 Suez Canal Authority Stadium\n—————\n⚽ Ceramica Cle
+ opatra v Asyut Petroleum\n🏆 Egyptian Premier League — Matchday 15\n
+ 🗓 Tue 26 Jan 2027 · 15:00 UTC\n🏟 Suez Canal Authority Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيراميكا كليوباترا ضد أسيو
+ ط بتروليوم — الدوري المصري الممتاز | Tomorro
+ w: Ceramica Cleopatra vs Asyut Petroleum
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيرام
+ يكا كليوباترا × أسيوط بتروليوم | Kick-off in 30 
+ min: Ceramica Cleopatra vs Asyut Petroleum
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996838@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270201T150000Z
+DTEND:20270201T170000Z
+SUMMARY:Asyut Petroleum vs Olympic El Qanah FC — Egyptian Premier League
+LOCATION:Asyut University Stadium
+URL:https://www.fotmob.com/match/5996838
+DESCRIPTION:⚽ أسيوط بتروليوم × القناة\n🏆 الدو
+ ري المصري الممتاز — الجولة 16\n🗓 الاثنين 
+ 1 فبراير 2027 · 18:00 بتوقيت الرياض\n🏟 Asyut Univers
+ ity Stadium\n—————\n⚽ Asyut Petroleum v Olympic El Qanah FC\n
+ 🏆 Egyptian Premier League — Matchday 16\n🗓 Mon 01 Feb 2027 · 15:0
+ 0 UTC\n🏟 Asyut University Stadium\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أسيوط بتروليوم ضد القناة —
+  الدوري المصري الممتاز | Tomorrow: Asyut Petroleum vs O
+ lympic El Qanah FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أسيوط 
+ بتروليوم × القناة | Kick-off in 30 min: Asyut Petroleum vs 
+ Olympic El Qanah FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996849@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Al Mokawloon Al Arab vs Asyut Petroleum — Egyptian Premier League
+LOCATION:Al-Mokawloon al-Arab Stadium
+URL:https://www.fotmob.com/match/5996849
+DESCRIPTION:⚽ المقاولون العرب × أسيوط بتروليو
+ م\n🏆 الدوري المصري الممتاز — الجولة 17\n
+ 🗓 السبت 6 فبراير 2027 · 18:00 بتوقيت الرياض\n
+ 🏟 Al-Mokawloon al-Arab Stadium\n—————\n⚽ Al Mokawloon Al Ar
+ ab v Asyut Petroleum\n🏆 Egyptian Premier League — Matchday 17\n🗓 S
+ at 06 Feb 2027 · 15:00 UTC\n🏟 Al-Mokawloon al-Arab Stadium\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: المقاولون العرب ضد أسيوط ب
+ تروليوم — الدوري المصري الممتاز | Tomorrow: Al
+  Mokawloon Al Arab vs Asyut Petroleum
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: المقا
+ ولون العرب × أسيوط بتروليوم | Kick-off in 30 min: A
+ l Mokawloon Al Arab vs Asyut Petroleum
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996854@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270210T193000Z
+DTEND:20270210T213000Z
+SUMMARY:Pyramids FC vs Asyut Petroleum — Egyptian Premier League
+LOCATION:30 June Stadium
+URL:https://www.fotmob.com/match/5996854
+DESCRIPTION:⚽ بيراميدز × أسيوط بتروليوم\n🏆 ال
+ دوري المصري الممتاز — الجولة 18\n🗓 الأرب
+ عاء 10 فبراير 2027 · 22:30 بتوقيت الرياض\n🏟 30 Ju
+ ne Stadium\n—————\n⚽ Pyramids FC v Asyut Petroleum\n🏆 Egypt
+ ian Premier League — Matchday 18\n🗓 Wed 10 Feb 2027 · 19:30 UTC\n
+ 🏟 30 June Stadium\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيراميدز ضد أسيوط بتروليوم
+  — الدوري المصري الممتاز | Tomorrow: Pyramids FC vs A
+ syut Petroleum
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بيرام
+ يدز × أسيوط بتروليوم | Kick-off in 30 min: Pyramids FC vs
+  Asyut Petroleum
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-5996863@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270218T193000Z
+DTEND:20270218T213000Z
+SUMMARY:Asyut Petroleum vs Ghazl Al Mahalla — Egyptian Premier League
+LOCATION:Asyut University Stadium
+URL:https://www.fotmob.com/match/5996863
+DESCRIPTION:⚽ أسيوط بتروليوم × غزل المحلة\n🏆 ا
+ لدوري المصري الممتاز — الجولة 19\n🗓 الخم
+ يس 18 فبراير 2027 · 22:30 بتوقيت الرياض\n🏟 Asyut U
+ niversity Stadium\n—————\n⚽ Asyut Petroleum v Ghazl Al Mahalla
+ \n🏆 Egyptian Premier League — Matchday 19\n🗓 Thu 18 Feb 2027 · 19
+ :30 UTC\n🏟 Asyut University Stadium\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أسيوط بتروليوم ضد غزل المح
+ لة — الدوري المصري الممتاز | Tomorrow: Asyut Petrol
+ eum vs Ghazl Al Mahalla
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أسيوط 
+ بتروليوم × غزل المحلة | Kick-off in 30 min: Asyut Petrol
+ eum vs Ghazl Al Mahalla
+END:VALARM
+END:VEVENT
+END:VCALENDAR

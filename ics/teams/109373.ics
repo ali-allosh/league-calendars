@@ -1,0 +1,294 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Pohang Steelers — AFC Champions League Elite Fixtures | 
+ بوهانغ ستيليرز — مباريات دوري أبطال آسي
+ ا للنخبة
+X-WR-CALDESC:Pohang Steelers — all matches in AFC Champions League Elite\
+ , exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-upd
+ ated 2026-09-05T19:31:10Z.  •  بوهانغ ستيليرز — جميع 
+ المباريات في دوري أبطال آسيا للنخبة بتوق
+ يت UTC الدقيق مع الملاعب والقنوات الناقلة.
+  المصدر: FotMob + 365scores · تحديث تلقائي 2026-09-05T19
+ :31:10Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6049980@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20260915T121500Z
+DTEND:20260915T141500Z
+SUMMARY:Beijing Guoan vs Pohang Steelers — AFC Champions League Elite
+LOCATION:Workers' Stadium\, Beijing\, China
+GEO:39.929521;116.441002
+URL:https://www.fotmob.com/match/6049980
+DESCRIPTION:⚽ بكين كوان × بوهانغ ستيليرز\n🏆 دو
+ ري أبطال آسيا للنخبة — الجولة 1\n🗓 الثلا
+ ثاء 15 سبتمبر 2026 · 15:15 بتوقيت الرياض\n🏟 Worke
+ rs' Stadium، Beijing\n—————\n⚽ Beijing Guoan v Pohang Steeler
+ s\n🏆 AFC Champions League Elite — Matchday 1\n🗓 Tue 15 Sep 2026 ·
+  12:15 UTC\n🏟 Workers' Stadium, Beijing\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بكين كوان ضد بوهانغ ستيلير
+ ز — دوري أبطال آسيا للنخبة | Tomorrow: Beijing Guoan
+  vs Pohang Steelers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بكين ك
+ وان × بوهانغ ستيليرز | Kick-off in 30 min: Beijing Guoan 
+ vs Pohang Steelers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049988@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261013T100000Z
+DTEND:20261013T120000Z
+SUMMARY:Pohang Steelers vs Johor Darul Ta'zim — AFC Champions League Elit
+ e
+LOCATION:Steelyard\, Pohang\, South Korea
+GEO:35.997738;129.384393
+URL:https://www.fotmob.com/match/6049988
+DESCRIPTION:⚽ بوهانغ ستيليرز × جوهور\n🏆 دوري أ
+ بطال آسيا للنخبة — الجولة 2\n🗓 الثلاثاء 1
+ 3 أكتوبر 2026 · 13:00 بتوقيت الرياض\n🏟 Steelyard، P
+ ohang\n—————\n⚽ Pohang Steelers v Johor Darul Ta'zim\n🏆 AFC
+  Champions League Elite — Matchday 2\n🗓 Tue 13 Oct 2026 · 10:00 UTC\
+ n🏟 Steelyard, Pohang\n—————\n📚 المصدر: FotMob · 365
+ scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto
+ -updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوهانغ ستيليرز ضد جوهور — 
+ دوري أبطال آسيا للنخبة | Tomorrow: Pohang Steelers vs J
+ ohor Darul Ta'zim
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوهان
+ غ ستيليرز × جوهور | Kick-off in 30 min: Pohang Steelers vs J
+ ohor Darul Ta'zim
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6049999@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261028T110000Z
+DTEND:20261028T130000Z
+SUMMARY:Kashima Antlers vs Pohang Steelers — AFC Champions League Elite
+LOCATION:Mercari Stadium\, Kashima\, Japan
+GEO:35.991897;140.640192
+URL:https://www.fotmob.com/match/6049999
+DESCRIPTION:⚽ كاشيما أنتليرز × بوهانغ ستيليرز\
+ n🏆 دوري أبطال آسيا للنخبة — الجولة 3\n🗓 
+ الأربعاء 28 أكتوبر 2026 · 14:00 بتوقيت الرياض\n
+ 🏟 Mercari Stadium، Kashima\n—————\n⚽ Kashima Antlers v Poh
+ ang Steelers\n🏆 AFC Champions League Elite — Matchday 3\n🗓 Wed 28 
+ Oct 2026 · 11:00 UTC\n🏟 Mercari Stadium, Kashima\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كاشيما أنتليرز ضد بوهانغ س
+ تيليرز — دوري أبطال آسيا للنخبة | Tomorrow: Kas
+ hima Antlers vs Pohang Steelers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاشيم
+ ا أنتليرز × بوهانغ ستيليرز | Kick-off in 30 min: Kas
+ hima Antlers vs Pohang Steelers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050006@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261104T110000Z
+DTEND:20261104T130000Z
+SUMMARY:Pohang Steelers vs Gamba Osaka — AFC Champions League Elite
+LOCATION:Steelyard\, Pohang\, South Korea
+GEO:35.997738;129.384393
+URL:https://www.fotmob.com/match/6050006
+DESCRIPTION:⚽ بوهانغ ستيليرز × غامبا أوساكا\n
+ 🏆 دوري أبطال آسيا للنخبة — الجولة 4\n🗓 ا
+ لأربعاء 4 نوفمبر 2026 · 14:00 بتوقيت الرياض\n
+ 🏟 Steelyard، Pohang\n—————\n⚽ Pohang Steelers v Gamba Osak
+ a\n🏆 AFC Champions League Elite — Matchday 4\n🗓 Wed 04 Nov 2026 ·
+  11:00 UTC\n🏟 Steelyard, Pohang\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوهانغ ستيليرز ضد غامبا أو
+ ساكا — دوري أبطال آسيا للنخبة | Tomorrow: Pohang 
+ Steelers vs Gamba Osaka
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوهان
+ غ ستيليرز × غامبا أوساكا | Kick-off in 30 min: Pohang 
+ Steelers vs Gamba Osaka
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050010@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261124T110000Z
+DTEND:20261124T130000Z
+SUMMARY:Kyoto Sanga FC vs Pohang Steelers — AFC Champions League Elite
+LOCATION:Sanga Stadium by Kyocera\, Kameoka\, Japan
+GEO:35.017159;135.584876
+URL:https://www.fotmob.com/match/6050010
+DESCRIPTION:⚽ Kyoto Sanga FC × بوهانغ ستيليرز\n🏆 دور
+ ي أبطال آسيا للنخبة — الجولة 5\n🗓 الثلاث
+ اء 24 نوفمبر 2026 · 14:00 بتوقيت الرياض\n🏟 Sanga S
+ tadium by Kyocera، Kameoka\n—————\n⚽ Kyoto Sanga FC v Pohang 
+ Steelers\n🏆 AFC Champions League Elite — Matchday 5\n🗓 Tue 24 Nov 
+ 2026 · 11:00 UTC\n🏟 Sanga Stadium by Kyocera, Kameoka\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Kyoto Sanga FC ضد بوهانغ ستيليرز 
+ — دوري أبطال آسيا للنخبة | Tomorrow: Kyoto Sanga FC v
+ s Pohang Steelers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Kyoto Sanga
+  FC × بوهانغ ستيليرز | Kick-off in 30 min: Kyoto Sanga FC vs
+  Pohang Steelers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050017@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20261201T110000Z
+DTEND:20261201T130000Z
+SUMMARY:Pohang Steelers vs Shanghai Port — AFC Champions League Elite
+LOCATION:Steelyard\, Pohang\, South Korea
+GEO:35.997738;129.384393
+URL:https://www.fotmob.com/match/6050017
+DESCRIPTION:⚽ بوهانغ ستيليرز × شنغهاي بورت\n🏆 
+ دوري أبطال آسيا للنخبة — الجولة 6\n🗓 الث
+ لاثاء 1 ديسمبر 2026 · 14:00 بتوقيت الرياض\n🏟 St
+ eelyard، Pohang\n—————\n⚽ Pohang Steelers v Shanghai Port\n
+ 🏆 AFC Champions League Elite — Matchday 6\n🗓 Tue 01 Dec 2026 · 11
+ :00 UTC\n🏟 Steelyard, Pohang\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوهانغ ستيليرز ضد شنغهاي ب
+ ورت — دوري أبطال آسيا للنخبة | Tomorrow: Pohang St
+ eelers vs Shanghai Port
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوهان
+ غ ستيليرز × شنغهاي بورت | Kick-off in 30 min: Pohang St
+ eelers vs Shanghai Port
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050031@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270210T110000Z
+DTEND:20270210T130000Z
+SUMMARY:Vissel Kobe vs Pohang Steelers — AFC Champions League Elite
+LOCATION:NOEVIR Stadium Kobe\, Kobe\, Japan
+GEO:34.656691;135.168990
+URL:https://www.fotmob.com/match/6050031
+DESCRIPTION:⚽ فيسيل كوبي × بوهانغ ستيليرز\n🏆 د
+ وري أبطال آسيا للنخبة — الجولة 7\n🗓 الأر
+ بعاء 10 فبراير 2027 · 14:00 بتوقيت الرياض\n🏟 NOE
+ VIR Stadium Kobe، Kobe\n—————\n⚽ Vissel Kobe v Pohang Steeler
+ s\n🏆 AFC Champions League Elite — Matchday 7\n🗓 Wed 10 Feb 2027 ·
+  11:00 UTC\n🏟 NOEVIR Stadium Kobe, Kobe\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فيسيل كوبي ضد بوهانغ ستيلي
+ رز — دوري أبطال آسيا للنخبة | Tomorrow: Vissel Kobe
+  vs Pohang Steelers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فيسيل 
+ كوبي × بوهانغ ستيليرز | Kick-off in 30 min: Vissel Kobe 
+ vs Pohang Steelers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6050038@league-calendars
+DTSTAMP:20260905T193111Z
+DTSTART:20270216T110000Z
+DTEND:20270216T130000Z
+SUMMARY:Pohang Steelers vs Kashiwa Reysol — AFC Champions League Elite
+LOCATION:Steelyard\, Pohang\, South Korea
+GEO:35.997738;129.384393
+URL:https://www.fotmob.com/match/6050038
+DESCRIPTION:⚽ بوهانغ ستيليرز × كاشيوا ريسول\n
+ 🏆 دوري أبطال آسيا للنخبة — الجولة 8\n🗓 ا
+ لثلاثاء 16 فبراير 2027 · 14:00 بتوقيت الرياض\n
+ 🏟 Steelyard، Pohang\n—————\n⚽ Pohang Steelers v Kashiwa Re
+ ysol\n🏆 AFC Champions League Elite — Matchday 8\n🗓 Tue 16 Feb 2027
+  · 11:00 UTC\n🏟 Steelyard, Pohang\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوهانغ ستيليرز ضد كاشيوا ر
+ يسول — دوري أبطال آسيا للنخبة | Tomorrow: Pohang 
+ Steelers vs Kashiwa Reysol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوهان
+ غ ستيليرز × كاشيوا ريسول | Kick-off in 30 min: Pohang 
+ Steelers vs Kashiwa Reysol
+END:VALARM
+END:VEVENT
+END:VCALENDAR
