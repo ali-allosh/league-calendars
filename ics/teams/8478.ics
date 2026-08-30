@@ -1,0 +1,284 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Viking — UEFA Champions League Fixtures | فايكينج
+  — مباريات دوري أبطال أوروبا
+X-WR-CALDESC:Viking — all matches in UEFA Champions League\, exact UTC ki
+ ckoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-1
+ 7T21:30:55Z.  •  فايكينج — جميع المباريات في د
+ وري أبطال أوروبا بتوقيت UTC الدقيق مع المل
+ اعب والقنوات الناقلة. المصدر: FotMob + 365scores 
+ · تحديث تلقائي 2026-10-17T21:30:55Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6106400@league-calendars
+DTSTAMP:20261017T213056Z
+DTSTART:20260909T164500Z
+DTEND:20260909T184500Z
+SUMMARY:VfB Stuttgart vs Viking (3 - 1) — UEFA Champions League
+LOCATION:MHPArena\, Stuttgart\, Germany
+GEO:48.792284;9.232024
+URL:https://www.fotmob.com/match/6106400
+DESCRIPTION:⚽ شتوتجارت × فايكينج (3 - 1)\n🏆 دوري 
+ أبطال أوروبا — الجولة 1\n🗓 الأربعاء 9 سبت
+ مبر 2026 · 19:45 بتوقيت الرياض\n🏟 MHPArena، Stuttgart\
+ n⚖️ الحكم: Nenad Minaković\n👥 الحضور: 57,500\n———
+ ——\n⚽ VfB Stuttgart v Viking (3 - 1)\n🏆 UEFA Champions League —
+  Matchday 1\n🗓 Wed 09 Sep 2026 · 16:45 UTC\n🏟 MHPArena, Stuttgart\n
+ Referee: Nenad Minaković\nAttendance: 57,500\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: شتوتجارت ضد فايكينج — دوري
+  أبطال أوروبا | Tomorrow: VfB Stuttgart vs Viking
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: شتوتج
+ ارت × فايكينج | Kick-off in 30 min: VfB Stuttgart vs Viking
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106417@league-calendars
+DTSTAMP:20261017T213056Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Viking vs Bayern München (3 - 3) — UEFA Champions League
+LOCATION:Lyse Arena\, Stavanger\, Norway
+GEO:58.914596;5.730926
+URL:https://www.fotmob.com/match/6106417
+DESCRIPTION:⚽ فايكينج × بايرن ميونخ (3 - 3)\n🏆 دو
+ ري أبطال أوروبا — الجولة 2\n🗓 الثلاثاء 13 
+ أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Lyse Arena، St
+ avanger\n⚖️ الحكم: Georgi Kabakov\n👥 الحضور: 15,466\n—
+ ————\n⚽ Viking v Bayern München (3 - 3)\n🏆 UEFA Champions Le
+ ague — Matchday 2\n🗓 Tue 13 Oct 2026 · 19:00 UTC\n🏟 Lyse Arena, S
+ tavanger\nReferee: Georgi Kabakov\nAttendance: 15,466\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فايكينج ضد بايرن ميونخ — د
+ وري أبطال أوروبا | Tomorrow: Viking vs Bayern München
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فايكي
+ نج × بايرن ميونخ | Kick-off in 30 min: Viking vs Bayern Münc
+ hen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106285@league-calendars
+DTSTAMP:20261017T213056Z
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+SUMMARY:Aston Villa vs Viking — UEFA Champions League
+LOCATION:Villa Park\, Birmingham\, England
+GEO:52.509091;-1.884842
+URL:https://www.fotmob.com/match/6106285
+DESCRIPTION:⚽ أستون فيلا × فايكينج\n🏆 دوري أبط
+ ال أوروبا — الجولة 3\n🗓 الأربعاء 21 أكتوب
+ ر 2026 · 22:00 بتوقيت الرياض\n🏟 Villa Park، Birmingham\n
+ 📺 HBO Max (UK)، TNT Sports 2، TNT Sports 9، TNT Sports Ultimate، Pa
+ ramount+ (US)، NOW ROI، beIN Sports Connect Singapore، beIN Sports Conn
+ ect Philippines\n—————\n⚽ Aston Villa v Viking\n🏆 UEFA Cham
+ pions League — Matchday 3\n🗓 Wed 21 Oct 2026 · 19:00 UTC\n🏟 Villa
+  Park, Birmingham\n📺 HBO Max (UK), TNT Sports 2, TNT Sports 9, TNT Spor
+ ts Ultimate, Paramount+ (US), NOW ROI, beIN Sports Connect Singapore, beIN
+  Sports Connect Philippines\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أستون فيلا ضد فايكينج — دو
+ ري أبطال أوروبا — 📺 HBO Max (UK)، TNT Sports 2، TNT Sp
+ orts 9، TNT Sports Ultimate، Paramount+ (US)، NOW ROI، beIN Sports Con
+ nect Singapore، beIN Sports Connect Philippines | Tomorrow: Aston Villa v
+ s Viking | TV: HBO Max (UK)\, TNT Sports 2\, TNT Sports 9\, TNT Sports Ult
+ imate\, Paramount+ (US)\, NOW ROI\, beIN Sports Connect Singapore\, beIN S
+ ports Connect Philippines
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أستون 
+ فيلا × فايكينج — 📺 HBO Max (UK)، TNT Sports 2، TNT Spor
+ ts 9، TNT Sports Ultimate، Paramount+ (US)، NOW ROI، beIN Sports Conne
+ ct Singapore، beIN Sports Connect Philippines | Kick-off in 30 min: Aston
+  Villa vs Viking | TV: HBO Max (UK)\, TNT Sports 2\, TNT Sports 9\, TNT Sp
+ orts Ultimate\, Paramount+ (US)\, NOW ROI\, beIN Sports Connect Singapore\
+ , beIN Sports Connect Philippines
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106420@league-calendars
+DTSTAMP:20261017T213056Z
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+SUMMARY:Viking vs Sabah FK — UEFA Champions League
+LOCATION:Lyse Arena
+URL:https://www.fotmob.com/match/6106420
+DESCRIPTION:⚽ فايكينج × صباح\n🏆 دوري أبطال أور
+ وبا — الجولة 4\n🗓 الأربعاء 4 نوفمبر 2026 · 23
+ :00 بتوقيت الرياض\n🏟 Lyse Arena\n—————\n⚽ Vikin
+ g v Sabah FK\n🏆 UEFA Champions League — Matchday 4\n🗓 Wed 04 Nov 2
+ 026 · 20:00 UTC\n🏟 Lyse Arena\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فايكينج ضد صباح — دوري أبط
+ ال أوروبا | Tomorrow: Viking vs Sabah FK
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فايكي
+ نج × صباح | Kick-off in 30 min: Viking vs Sabah FK
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106269@league-calendars
+DTSTAMP:20261017T213056Z
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:Atlético Madrid vs Viking — UEFA Champions League
+LOCATION:Riyadh Air Metropolitano
+URL:https://www.fotmob.com/match/6106269
+DESCRIPTION:⚽ أتلتيكو مدريد × فايكينج\n🏆 دوري 
+ أبطال أوروبا — الجولة 5\n🗓 الأربعاء 25 نو
+ فمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Riyadh Air Metropol
+ itano\n—————\n⚽ Atlético Madrid v Viking\n🏆 UEFA Champions
+  League — Matchday 5\n🗓 Wed 25 Nov 2026 · 20:00 UTC\n🏟 Riyadh Air
+  Metropolitano\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتلتيكو مدريد ضد فايكينج —
+  دوري أبطال أوروبا | Tomorrow: Atlético Madrid vs Viking
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتلتي
+ كو مدريد × فايكينج | Kick-off in 30 min: Atlético Madrid v
+ s Viking
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106419@league-calendars
+DTSTAMP:20261017T213056Z
+DTSTART:20261208T174500Z
+DTEND:20261208T194500Z
+SUMMARY:Viking vs Feyenoord — UEFA Champions League
+LOCATION:Lyse Arena
+URL:https://www.fotmob.com/match/6106419
+DESCRIPTION:⚽ فايكينج × فاينورد\n🏆 دوري أبطال 
+ أوروبا — الجولة 6\n🗓 الثلاثاء 8 ديسمبر 2026
+  · 20:45 بتوقيت الرياض\n🏟 Lyse Arena\n—————\n⚽
+  Viking v Feyenoord\n🏆 UEFA Champions League — Matchday 6\n🗓 Tue 0
+ 8 Dec 2026 · 17:45 UTC\n🏟 Lyse Arena\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فايكينج ضد فاينورد — دوري 
+ أبطال أوروبا | Tomorrow: Viking vs Feyenoord
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فايكي
+ نج × فاينورد | Kick-off in 30 min: Viking vs Feyenoord
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106418@league-calendars
+DTSTAMP:20261017T213056Z
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+SUMMARY:Viking vs PSV Eindhoven — UEFA Champions League
+LOCATION:Lyse Arena
+URL:https://www.fotmob.com/match/6106418
+DESCRIPTION:⚽ فايكينج × آيندهوفن\n🏆 دوري أبطا
+ ل أوروبا — الجولة 7\n🗓 الأربعاء 20 يناير 20
+ 27 · 23:00 بتوقيت الرياض\n🏟 Lyse Arena\n—————\n
+ ⚽ Viking v PSV Eindhoven\n🏆 UEFA Champions League — Matchday 7\n
+ 🗓 Wed 20 Jan 2027 · 20:00 UTC\n🏟 Lyse Arena\n—————\n📚 
+ المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: 
+ FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فايكينج ضد آيندهوفن — دوري
+  أبطال أوروبا | Tomorrow: Viking vs PSV Eindhoven
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فايكي
+ نج × آيندهوفن | Kick-off in 30 min: Viking vs PSV Eindhoven
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6106321@league-calendars
+DTSTAMP:20261017T213056Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Napoli vs Viking — UEFA Champions League
+LOCATION:Diego Armando Maradona
+URL:https://www.fotmob.com/match/6106321
+DESCRIPTION:⚽ نابولي × فايكينج\n🏆 دوري أبطال أ
+ وروبا — الجولة 8\n🗓 الأربعاء 27 يناير 2027 ·
+  23:00 بتوقيت الرياض\n🏟 Diego Armando Maradona\n———
+ ——\n⚽ Napoli v Viking\n🏆 UEFA Champions League — Matchday 8\n
+ 🗓 Wed 27 Jan 2027 · 20:00 UTC\n🏟 Diego Armando Maradona\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نابولي ضد فايكينج — دوري أ
+ بطال أوروبا | Tomorrow: Napoli vs Viking
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نابول
+ ي × فايكينج | Kick-off in 30 min: Napoli vs Viking
+END:VALARM
+END:VEVENT
+END:VCALENDAR

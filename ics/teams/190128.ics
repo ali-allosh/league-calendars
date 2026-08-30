@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Sporting de Alcazar — Copa del Rey Fixtures | هورتا
+ ليزا الرياضي — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Sporting de Alcazar — all matches in Copa del Rey\, exact UT
+ C kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-
+ 10-17T21:30:55Z.  •  هورتاليزا الرياضي — جميع ال
+ مباريات في كأس ملك إسبانيا بتوقيت UTC الدق
+ يق مع الملاعب والقنوات الناقلة. المصدر: Fo
+ tMob + 365scores · تحديث تلقائي 2026-10-17T21:30:55Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386037@league-calendars
+DTSTAMP:20261017T213056Z
+DTSTART:20261027T200000Z
+DTEND:20261027T220000Z
+SUMMARY:Sporting de Alcazar vs Málaga — Copa del Rey
+URL:https://www.fotmob.com/match/6386037
+DESCRIPTION:⚽ هورتاليزا الرياضي × مالقا\n🏆 كأ
+ س ملك إسبانيا — مباريات\n🗓 الثلاثاء 27 أك
+ توبر 2026 · 23:00 بتوقيت الرياض\n—————\n⚽ Spo
+ rting de Alcazar v Málaga\n🏆 Copa del Rey — Fixtures\n🗓 Tue 27 Oc
+ t 2026 · 20:00 UTC\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هورتاليزا الرياضي ضد مالقا
+  — كأس ملك إسبانيا | Tomorrow: Sporting de Alcazar vs Mála
+ ga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هورتا
+ ليزا الرياضي × مالقا | Kick-off in 30 min: Sporting de Al
+ cazar vs Málaga
+END:VALARM
+END:VEVENT
+END:VCALENDAR
