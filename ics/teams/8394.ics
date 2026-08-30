@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Real Zaragoza — Copa del Rey Fixtures | ريال سرق
+ سطة — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Real Zaragoza — all matches in Copa del Rey\, exact UTC kick
+ offs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-31T
+ 13:43:06Z.  •  ريال سرقسطة — جميع المباريات ف
+ ي كأس ملك إسبانيا بتوقيت UTC الدقيق مع الم
+ لاعب والقنوات الناقلة. المصدر: FotMob + 365scores
+  · تحديث تلقائي 2026-10-31T13:43:06Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386087@league-calendars
+DTSTAMP:20261031T134306Z
+DTSTART:20261027T200000Z
+DTEND:20261027T220000Z
+SUMMARY:Tudelano vs Real Zaragoza (0 - 4) — Copa del Rey
+LOCATION:Estadio Municipal Ciudad de Tudela\, Tudela\, Spain
+GEO:42.057283;-1.611707
+URL:https://www.fotmob.com/match/6386087
+DESCRIPTION:⚽ توديلانو × ريال سرقسطة (0 - 4)\n🏆 ك
+ أس ملك إسبانيا — مباريات\n🗓 الثلاثاء 27 أ
+ كتوبر 2026 · 23:00 بتوقيت الرياض\n🏟 Estadio Municipal
+  Ciudad de Tudela، Tudela\n⚖️ الحكم: Omar Álvarez Rodríguez\n
+ —————\n⚽ Tudelano v Real Zaragoza (0 - 4)\n🏆 Copa del Rey 
+ — Fixtures\n🗓 Tue 27 Oct 2026 · 20:00 UTC\n🏟 Estadio Municipal Ci
+ udad de Tudela, Tudela\nReferee: Omar Álvarez Rodríguez\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توديلانو ضد ريال سرقسطة — 
+ كأس ملك إسبانيا | Tomorrow: Tudelano vs Real Zaragoza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توديل
+ انو × ريال سرقسطة | Kick-off in 30 min: Tudelano vs Real Zar
+ agoza
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Bristol Rovers — FA Cup Fixtures | Bristol Rovers — م
+ باريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Bristol Rovers — all matches in FA Cup\, exact UTC kickoffs\
+ , stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-31T13:43
+ :06Z.  •  Bristol Rovers — جميع المباريات في كأس ا
+ لاتحاد الإنجليزي بتوقيت UTC الدقيق مع الم
+ لاعب والقنوات الناقلة. المصدر: FotMob + 365scores
+  · تحديث تلقائي 2026-10-31T13:43:06Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469281@league-calendars
+DTSTAMP:20261031T134306Z
+DTSTART:20261106T193000Z
+DTEND:20261106T213000Z
+SUMMARY:Bristol Rovers vs Cambridge United — FA Cup
+LOCATION:Memorial Stadium
+URL:https://www.fotmob.com/match/6469281
+DESCRIPTION:⚽ Bristol Rovers × Cambridge United\n🏆 كأس الاتح
+ اد الإنجليزي — مباريات\n🗓 الجمعة 6 نوفمب
+ ر 2026 · 22:30 بتوقيت الرياض\n🏟 Memorial Stadium\n——
+ ———\n⚽ Bristol Rovers v Cambridge United\n🏆 FA Cup — Fixtures
+ \n🗓 Fri 06 Nov 2026 · 19:30 UTC\n🏟 Memorial Stadium\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Bristol Rovers ضد Cambridge United — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Bristol Rovers vs Cambridge 
+ United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Bristol Rov
+ ers × Cambridge United | Kick-off in 30 min: Bristol Rovers vs Cambridge 
+ United
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Górnik Zabrze — UEFA Champions League Fixtures | Górni
+ k Zabrze — مباريات دوري أبطال أوروبا
+X-WR-CALDESC:Górnik Zabrze — all matches in UEFA Champions League\, exac
+ t UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2
+ 026-10-21T22:26:40Z.  •  Górnik Zabrze — جميع المباريات 
+ في دوري أبطال أوروبا بتوقيت UTC الدقيق مع 
+ الملاعب والقنوات الناقلة. المصدر: FotMob + 365
+ scores · تحديث تلقائي 2026-10-21T22:26:40Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-1000022676@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260721T180000Z
+DTEND:20260721T200000Z
+SUMMARY:Fenerbahçe vs Górnik Zabrze (1 - 0) — UEFA Champions League
+LOCATION:Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi\, 
+ İstanbul\, Türkiye
+GEO:40.987799;29.036860
+URL:https://www.fotmob.com/match/1000022676
+DESCRIPTION:⚽ فنربخشة × Górnik Zabrze (1 - 0)\n🏆 دوري أ
+ بطال أوروبا — 2\n🗓 الثلاثاء 21 يوليو 2026 · 2
+ 1:00 بتوقيت الرياض\n🏟 Chobani Stadyumu Fenerbahçe Şükrü
+  Saracoğlu Spor Kompleksi، İstanbul\n—————\n⚽ Fenerbahçe v
+  Górnik Zabrze (1 - 0)\n🏆 UEFA Champions League — 2\n🗓 Tue 21 Jul
+  2026 · 18:00 UTC\n🏟 Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu 
+ Spor Kompleksi, İstanbul\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فنربخشة ضد Górnik Zabrze — دوري 
+ أبطال أوروبا | Tomorrow: Fenerbahçe vs Górnik Zabrze
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فنربخ
+ شة × Górnik Zabrze | Kick-off in 30 min: Fenerbahçe vs Górnik Zabrze
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022677@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260729T180000Z
+DTEND:20260729T200000Z
+SUMMARY:Górnik Zabrze vs Fenerbahçe (1 - 1) — UEFA Champions League
+URL:https://www.fotmob.com/match/1000022677
+DESCRIPTION:⚽ Górnik Zabrze × فنربخشة (1 - 1)\n🏆 دوري أ
+ بطال أوروبا — 2\n🗓 الأربعاء 29 يوليو 2026 · 2
+ 1:00 بتوقيت الرياض\n—————\n⚽ Górnik Zabrze v Fene
+ rbahçe (1 - 1)\n🏆 UEFA Champions League — 2\n🗓 Wed 29 Jul 2026 ·
+  18:00 UTC\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Górnik Zabrze ضد فنربخشة — دوري 
+ أبطال أوروبا | Tomorrow: Górnik Zabrze vs Fenerbahçe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Górnik Zab
+ rze × فنربخشة | Kick-off in 30 min: Górnik Zabrze vs Fenerbahçe
+END:VALARM
+END:VEVENT
+END:VCALENDAR

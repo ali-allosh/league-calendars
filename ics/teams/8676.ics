@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Wycombe Wanderers — FA Cup Fixtures | Wycombe Wanderers 
+ — مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Wycombe Wanderers — all matches in FA Cup\, exact UTC kickof
+ fs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-31T13
+ :43:06Z.  •  Wycombe Wanderers — جميع المباريات في كأ
+ س الاتحاد الإنجليزي بتوقيت UTC الدقيق مع ا
+ لملاعب والقنوات الناقلة. المصدر: FotMob + 365sc
+ ores · تحديث تلقائي 2026-10-31T13:43:06Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469285@league-calendars
+DTSTAMP:20261031T134306Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Accrington Stanley vs Wycombe Wanderers — FA Cup
+LOCATION:Wham Stadium
+URL:https://www.fotmob.com/match/6469285
+DESCRIPTION:⚽ Accrington Stanley × Wycombe Wanderers\n🏆 كأس الا
+ تحاد الإنجليزي — مباريات\n🗓 السبت 7 نوفم
+ بر 2026 · 18:00 بتوقيت الرياض\n🏟 Wham Stadium\n———
+ ——\n⚽ Accrington Stanley v Wycombe Wanderers\n🏆 FA Cup — Fixtur
+ es\n🗓 Sat 07 Nov 2026 · 15:00 UTC\n🏟 Wham Stadium\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Accrington Stanley ضد Wycombe Wanderers — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Accrington Stanley vs W
+ ycombe Wanderers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Accrington 
+ Stanley × Wycombe Wanderers | Kick-off in 30 min: Accrington Stanley vs W
+ ycombe Wanderers
+END:VALARM
+END:VEVENT
+END:VCALENDAR

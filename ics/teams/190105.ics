@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ CD Cuarte — Copa del Rey Fixtures | CD Cuarte — مبا
+ ريات كأس ملك إسبانيا
+X-WR-CALDESC:CD Cuarte — all matches in Copa del Rey\, exact UTC kickoffs
+ \, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-31T13:4
+ 3:06Z.  •  CD Cuarte — جميع المباريات في كأس ملك 
+ إسبانيا بتوقيت UTC الدقيق مع الملاعب والق
+ نوات الناقلة. المصدر: FotMob + 365scores · تحديث ت
+ لقائي 2026-10-31T13:43:06Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386056@league-calendars
+DTSTAMP:20261031T134306Z
+DTSTART:20261027T173000Z
+DTEND:20261027T193000Z
+SUMMARY:CD Cuarte vs Girona (0 - 2) — Copa del Rey
+LOCATION:Estadio Municipal Juan Guerrero El Lobo\, Cuarte de Huerva\, Spain
+GEO:41.589348;-0.934882
+URL:https://www.fotmob.com/match/6386056
+DESCRIPTION:⚽ CD Cuarte × جيرونا (0 - 2)\n🏆 كأس ملك إس
+ بانيا — مباريات\n🗓 الثلاثاء 27 أكتوبر 2026 
+ · 20:30 بتوقيت الرياض\n🏟 Estadio Municipal Juan Guerrero E
+ l Lobo، Cuarte de Huerva\n⚖️ الحكم: Alejandro Morilla Turrión\n
+ —————\n⚽ CD Cuarte v Girona (0 - 2)\n🏆 Copa del Rey — Fix
+ tures\n🗓 Tue 27 Oct 2026 · 17:30 UTC\n🏟 Estadio Municipal Juan Guer
+ rero El Lobo, Cuarte de Huerva\nReferee: Alejandro Morilla Turrión\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: CD Cuarte ضد جيرونا — كأس ملك إ
+ سبانيا | Tomorrow: CD Cuarte vs Girona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: CD Cuarte 
+ × جيرونا | Kick-off in 30 min: CD Cuarte vs Girona
+END:VALARM
+END:VEVENT
+END:VCALENDAR

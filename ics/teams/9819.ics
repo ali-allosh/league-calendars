@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Notts County — FA Cup Fixtures | Notts County — مبا
+ ريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Notts County — all matches in FA Cup\, exact UTC kickoffs\, 
+ stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-31T13:43:0
+ 6Z.  •  Notts County — جميع المباريات في كأس الا
+ تحاد الإنجليزي بتوقيت UTC الدقيق مع الملا
+ عب والقنوات الناقلة. المصدر: FotMob + 365scores · 
+ تحديث تلقائي 2026-10-31T13:43:06Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469313@league-calendars
+DTSTAMP:20261031T134306Z
+DTSTART:20261107T173000Z
+DTEND:20261107T193000Z
+SUMMARY:Altrincham vs Notts County — FA Cup
+URL:https://www.fotmob.com/match/6469313
+DESCRIPTION:⚽ Altrincham × Notts County\n🏆 كأس الاتحاد ال
+ إنجليزي — مباريات\n🗓 السبت 7 نوفمبر 2026 · 
+ 20:30 بتوقيت الرياض\n📺 TNT Sports 1، BBC Two، BBC Two Nor
+ thern Ireland، BBC Two Wales، BBC iPlayer، HBO Max (UK)، BBC Sport onl
+ ine، ESPN Select\n—————\n⚽ Altrincham v Notts County\n🏆 FA
+  Cup — Fixtures\n🗓 Sat 07 Nov 2026 · 17:30 UTC\n📺 TNT Sports 1, B
+ BC Two, BBC Two Northern Ireland, BBC Two Wales, BBC iPlayer, HBO Max (UK)
+ , BBC Sport online, ESPN Select\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Altrincham ضد Notts County — كأس الات
+ حاد الإنجليزي — 📺 TNT Sports 1، BBC Two، BBC Two Northe
+ rn Ireland، BBC Two Wales، BBC iPlayer، HBO Max (UK)، BBC Sport online
+ ، ESPN Select | Tomorrow: Altrincham vs Notts County | TV: TNT Sports 1\,
+  BBC Two\, BBC Two Northern Ireland\, BBC Two Wales\, BBC iPlayer\, HBO Ma
+ x (UK)\, BBC Sport online\, ESPN Select
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Altrincham 
+ × Notts County — 📺 TNT Sports 1، BBC Two، BBC Two Northern Ireland
+ ، BBC Two Wales، BBC iPlayer، HBO Max (UK)، BBC Sport online، ESPN Se
+ lect | Kick-off in 30 min: Altrincham vs Notts County | TV: TNT Sports 1\,
+  BBC Two\, BBC Two Northern Ireland\, BBC Two Wales\, BBC iPlayer\, HBO Ma
+ x (UK)\, BBC Sport online\, ESPN Select
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Reus — Copa del Rey Fixtures | Reus — مباريات 
+ كأس ملك إسبانيا
+X-WR-CALDESC:Reus — all matches in Copa del Rey\, exact UTC kickoffs\, st
+ adiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-31T13:43:06Z
+ .  •  Reus — جميع المباريات في كأس ملك إسبان
+ يا بتوقيت UTC الدقيق مع الملاعب والقنوات ا
+ لناقلة. المصدر: FotMob + 365scores · تحديث تلقائي 
+ 2026-10-31T13:43:06Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386077@league-calendars
+DTSTAMP:20261031T134306Z
+DTSTART:20261104T193000Z
+DTEND:20261104T213000Z
+SUMMARY:Reus vs Barakaldo — Copa del Rey
+URL:https://www.fotmob.com/match/6386077
+DESCRIPTION:⚽ Reus × باراكالدو\n🏆 كأس ملك إسباني
+ ا — مباريات\n🗓 الأربعاء 4 نوفمبر 2026 · 22:30 
+ بتوقيت الرياض\n—————\n⚽ Reus v Barakaldo\n🏆 Cop
+ a del Rey — Fixtures\n🗓 Wed 04 Nov 2026 · 19:30 UTC\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Reus ضد باراكالدو — كأس ملك إ
+ سبانيا | Tomorrow: Reus vs Barakaldo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Reus × ب
+ اراكالدو | Kick-off in 30 min: Reus vs Barakaldo
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Yeovil Town/Leatherhead — FA Cup Fixtures | Yeovil Town/
+ Leatherhead — مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Yeovil Town/Leatherhead — all matches in FA Cup\, exact UTC 
+ kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10
+ -20T18:01:21Z.  •  Yeovil Town/Leatherhead — جميع المباريا
+ ت في كأس الاتحاد الإنجليزي بتوقيت UTC الدق
+ يق مع الملاعب والقنوات الناقلة. المصدر: Fo
+ tMob + 365scores · تحديث تلقائي 2026-10-20T18:01:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469293@league-calendars
+DTSTAMP:20261020T180122Z
+DTSTART:20261107T194500Z
+DTEND:20261107T214500Z
+SUMMARY:Chesterfield vs Yeovil Town/Leatherhead — FA Cup
+LOCATION:SMH Group Stadium
+URL:https://www.fotmob.com/match/6469293
+DESCRIPTION:⚽ Chesterfield × Yeovil Town/Leatherhead\n🏆 كأس الا
+ تحاد الإنجليزي — مباريات\n🗓 السبت 7 نوفم
+ بر 2026 · 22:45 بتوقيت الرياض\n🏟 SMH Group Stadium\n—
+ ————\n⚽ Chesterfield v Yeovil Town/Leatherhead\n🏆 FA Cup — 
+ Fixtures\n🗓 Sat 07 Nov 2026 · 19:45 UTC\n🏟 SMH Group Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Chesterfield ضد Yeovil Town/Leatherhead — ك
+ أس الاتحاد الإنجليزي | Tomorrow: Chesterfield vs Yeovil 
+ Town/Leatherhead
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Chesterfiel
+ d × Yeovil Town/Leatherhead | Kick-off in 30 min: Chesterfield vs Yeovil 
+ Town/Leatherhead
+END:VALARM
+END:VEVENT
+END:VCALENDAR

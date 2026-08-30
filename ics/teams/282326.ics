@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Salford City — FA Cup Fixtures | Salford City — مبا
+ ريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Salford City — all matches in FA Cup\, exact UTC kickoffs\, 
+ stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-31T13:43:0
+ 6Z.  •  Salford City — جميع المباريات في كأس الا
+ تحاد الإنجليزي بتوقيت UTC الدقيق مع الملا
+ عب والقنوات الناقلة. المصدر: FotMob + 365scores · 
+ تحديث تلقائي 2026-10-31T13:43:06Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469315@league-calendars
+DTSTAMP:20261031T134306Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Carlisle United vs Salford City — FA Cup
+LOCATION:Brunton Park
+URL:https://www.fotmob.com/match/6469315
+DESCRIPTION:⚽ Carlisle United × Salford City\n🏆 كأس الاتحاد
+  الإنجليزي — مباريات\n🗓 السبت 7 نوفمبر 202
+ 6 · 18:00 بتوقيت الرياض\n🏟 Brunton Park\n—————\n
+ ⚽ Carlisle United v Salford City\n🏆 FA Cup — Fixtures\n🗓 Sat 07 
+ Nov 2026 · 15:00 UTC\n🏟 Brunton Park\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Carlisle United ضد Salford City — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Carlisle United vs Salford City
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Carlisle Un
+ ited × Salford City | Kick-off in 30 min: Carlisle United vs Salford City
+END:VALARM
+END:VEVENT
+END:VCALENDAR

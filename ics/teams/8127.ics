@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Mjällby — UEFA Champions League Fixtures | Mjällby —
+  مباريات دوري أبطال أوروبا
+X-WR-CALDESC:Mjällby — all matches in UEFA Champions League\, exact UTC 
+ kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10
+ -21T22:26:40Z.  •  Mjällby — جميع المباريات في دور
+ ي أبطال أوروبا بتوقيت UTC الدقيق مع الملاع
+ ب والقنوات الناقلة. المصدر: FotMob + 365scores · ت
+ حديث تلقائي 2026-10-21T22:26:40Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-1000022663@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260721T160000Z
+DTEND:20260721T180000Z
+SUMMARY:Mjällby vs Lincoln Red Imps FC (3 - 0) — UEFA Champions League
+URL:https://www.fotmob.com/match/1000022663
+DESCRIPTION:⚽ Mjällby × Lincoln Red Imps FC (3 - 0)\n🏆 دوري أب
+ طال أوروبا — 2\n🗓 الثلاثاء 21 يوليو 2026 · 19:
+ 00 بتوقيت الرياض\n—————\n⚽ Mjällby v Lincoln Red 
+ Imps FC (3 - 0)\n🏆 UEFA Champions League — 2\n🗓 Tue 21 Jul 2026 ·
+  16:00 UTC\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Mjällby ضد Lincoln Red Imps FC — دوري أ
+ بطال أوروبا | Tomorrow: Mjällby vs Lincoln Red Imps FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Mjällby ×
+  Lincoln Red Imps FC | Kick-off in 30 min: Mjällby vs Lincoln Red Imps FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022664@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260728T160000Z
+DTEND:20260728T180000Z
+SUMMARY:Lincoln Red Imps FC vs Mjällby (0 - 0) — UEFA Champions League
+LOCATION:Europa Point Stadium\, Gibraltar\, Gibraltar
+GEO:36.110714;-5.347034
+URL:https://www.fotmob.com/match/1000022664
+DESCRIPTION:⚽ Lincoln Red Imps FC × Mjällby (0 - 0)\n🏆 دوري أب
+ طال أوروبا — 2\n🗓 الثلاثاء 28 يوليو 2026 · 19:
+ 00 بتوقيت الرياض\n🏟 Europa Point Stadium، Gibraltar\n—
+ ————\n⚽ Lincoln Red Imps FC v Mjällby (0 - 0)\n🏆 UEFA Champi
+ ons League — 2\n🗓 Tue 28 Jul 2026 · 16:00 UTC\n🏟 Europa Point Sta
+ dium, Gibraltar\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Lincoln Red Imps FC ضد Mjällby — دوري أ
+ بطال أوروبا | Tomorrow: Lincoln Red Imps FC vs Mjällby
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Lincoln Red
+  Imps FC × Mjällby | Kick-off in 30 min: Lincoln Red Imps FC vs Mjällby
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022686@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260804T160000Z
+DTEND:20260804T180000Z
+SUMMARY:Mjällby vs Slovan Bratislava (1 - 2) — UEFA Champions League
+URL:https://www.fotmob.com/match/1000022686
+DESCRIPTION:⚽ Mjällby × سلوفان براتيسلافا (1 - 2)\n🏆
+  دوري أبطال أوروبا — 3\n🗓 الثلاثاء 4 أغسط
+ س 2026 · 19:00 بتوقيت الرياض\n—————\n⚽ Mjällby 
+ v Slovan Bratislava (1 - 2)\n🏆 UEFA Champions League — 3\n🗓 Tue 04
+  Aug 2026 · 16:00 UTC\n—————\n📚 المصدر: FotMob · 365s
+ cores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-
+ updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Mjällby ضد سلوفان براتيسلافا 
+ — دوري أبطال أوروبا | Tomorrow: Mjällby vs Slovan Bratis
+ lava
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Mjällby ×
+  سلوفان براتيسلافا | Kick-off in 30 min: Mjällby vs Slova
+ n Bratislava
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022695@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260811T181500Z
+DTEND:20260811T201500Z
+SUMMARY:Slovan Bratislava vs Mjällby (2 - 0) — UEFA Champions League
+LOCATION:Štadión Tehelné pole\, Bratislava\, Slovakia
+GEO:48.163495;17.136698
+URL:https://www.fotmob.com/match/1000022695
+DESCRIPTION:⚽ سلوفان براتيسلافا × Mjällby (2 - 0)\n🏆
+  دوري أبطال أوروبا — 3\n🗓 الثلاثاء 11 أغسط
+ س 2026 · 21:15 بتوقيت الرياض\n🏟 Štadión Tehelné pole،
+  Bratislava\n—————\n⚽ Slovan Bratislava v Mjällby (2 - 0)\n
+ 🏆 UEFA Champions League — 3\n🗓 Tue 11 Aug 2026 · 18:15 UTC\n🏟 
+ Štadión Tehelné pole, Bratislava\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سلوفان براتيسلافا ضد Mjällby 
+ — دوري أبطال أوروبا | Tomorrow: Slovan Bratislava vs Mjä
+ llby
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سلوفا
+ ن براتيسلافا × Mjällby | Kick-off in 30 min: Slovan Bratislav
+ a vs Mjällby
+END:VALARM
+END:VEVENT
+END:VCALENDAR

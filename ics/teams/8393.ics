@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Albacete — Copa del Rey Fixtures | ألباسيتي — 
+ مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Albacete — all matches in Copa del Rey\, exact UTC kickoffs\
+ , stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-31T13:43
+ :06Z.  •  ألباسيتي — جميع المباريات في كأس 
+ ملك إسبانيا بتوقيت UTC الدقيق مع الملاعب و
+ القنوات الناقلة. المصدر: FotMob + 365scores · تحد
+ يث تلقائي 2026-10-31T13:43:06Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386074@league-calendars
+DTSTAMP:20261031T134306Z
+DTSTART:20261104T194500Z
+DTEND:20261104T214500Z
+SUMMARY:CS Puertollano vs Albacete — Copa del Rey
+URL:https://www.fotmob.com/match/6386074
+DESCRIPTION:⚽ بويرتويانو × ألباسيتي\n🏆 كأس مل
+ ك إسبانيا — مباريات\n🗓 الأربعاء 4 نوفمبر
+  2026 · 22:45 بتوقيت الرياض\n—————\n⚽ CS Puertoll
+ ano v Albacete\n🏆 Copa del Rey — Fixtures\n🗓 Wed 04 Nov 2026 · 19
+ :45 UTC\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بويرتويانو ضد ألباسيتي — ك
+ أس ملك إسبانيا | Tomorrow: CS Puertollano vs Albacete
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بويرت
+ ويانو × ألباسيتي | Kick-off in 30 min: CS Puertollano vs Alb
+ acete
+END:VALARM
+END:VEVENT
+END:VCALENDAR

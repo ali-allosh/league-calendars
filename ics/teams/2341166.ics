@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ UD Pinatar — Copa del Rey Fixtures | بيناتار — 
+ مباريات كأس ملك إسبانيا
+X-WR-CALDESC:UD Pinatar — all matches in Copa del Rey\, exact UTC kickoff
+ s\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-31T13:
+ 43:06Z.  •  بيناتار — جميع المباريات في كأس 
+ ملك إسبانيا بتوقيت UTC الدقيق مع الملاعب و
+ القنوات الناقلة. المصدر: FotMob + 365scores · تحد
+ يث تلقائي 2026-10-31T13:43:06Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386071@league-calendars
+DTSTAMP:20261031T134306Z
+DTSTART:20261027T180000Z
+DTEND:20261027T200000Z
+SUMMARY:UD Pinatar vs Elche (1 - 3) — Copa del Rey
+LOCATION:Estadio José Antonio Pérez\, San Pedro del Pinatar\, Spain
+GEO:37.818001;-0.791804
+URL:https://www.fotmob.com/match/6386071
+DESCRIPTION:⚽ بيناتار × إلتشي (1 - 3)\n🏆 كأس ملك إ
+ سبانيا — مباريات\n🗓 الثلاثاء 27 أكتوبر 202
+ 6 · 21:00 بتوقيت الرياض\n🏟 Estadio José Antonio Pérez، 
+ San Pedro del Pinatar\n⚖️ الحكم: Manuel Jesús Orellana Cid\n—
+ ————\n⚽ UD Pinatar v Elche (1 - 3)\n🏆 Copa del Rey — Fixtur
+ es\n🗓 Tue 27 Oct 2026 · 18:00 UTC\n🏟 Estadio José Antonio Pérez, 
+ San Pedro del Pinatar\nReferee: Manuel Jesús Orellana Cid\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيناتار ضد إلتشي — كأس ملك 
+ إسبانيا | Tomorrow: UD Pinatar vs Elche
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بينات
+ ار × إلتشي | Kick-off in 30 min: UD Pinatar vs Elche
+END:VALARM
+END:VEVENT
+END:VCALENDAR

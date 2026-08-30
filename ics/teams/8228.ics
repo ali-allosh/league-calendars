@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Sestao — Copa del Rey Fixtures | سيستاو ريفر 
+ — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Sestao — all matches in Copa del Rey\, exact UTC kickoffs\, 
+ stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-31T13:43:0
+ 6Z.  •  سيستاو ريفر — جميع المباريات في كأ
+ س ملك إسبانيا بتوقيت UTC الدقيق مع الملاعب
+  والقنوات الناقلة. المصدر: FotMob + 365scores · تح
+ ديث تلقائي 2026-10-31T13:43:06Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386082@league-calendars
+DTSTAMP:20261031T134306Z
+DTSTART:20261027T180000Z
+DTEND:20261027T200000Z
+SUMMARY:Sestao vs Espanyol (4 - 3) — Copa del Rey
+LOCATION:Estadio Las Llanas\, Sestao\, Spain
+GEO:43.310788;-3.009835
+URL:https://www.fotmob.com/match/6386082
+DESCRIPTION:⚽ سيستاو ريفر × إسبانيول (4 - 3)\n🏆 ك
+ أس ملك إسبانيا — مباريات\n🗓 الثلاثاء 27 أ
+ كتوبر 2026 · 21:00 بتوقيت الرياض\n🏟 Estadio Las Llana
+ s، Sestao\n⚖️ الحكم: José Luis Munuera Montero\n—————
+ \n⚽ Sestao v Espanyol (4 - 3)\n🏆 Copa del Rey — Fixtures\n🗓 Tue 
+ 27 Oct 2026 · 18:00 UTC\n🏟 Estadio Las Llanas, Sestao\nReferee: José 
+ Luis Munuera Montero\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيستاو ريفر ضد إسبانيول — 
+ كأس ملك إسبانيا | Tomorrow: Sestao vs Espanyol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيستا
+ و ريفر × إسبانيول | Kick-off in 30 min: Sestao vs Espanyol
+END:VALARM
+END:VEVENT
+END:VCALENDAR

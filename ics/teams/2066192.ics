@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Mijas-Las Lagunas — Copa del Rey Fixtures | ميخاس 
+ لاس لاغوناس — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Mijas-Las Lagunas — all matches in Copa del Rey\, exact UTC 
+ kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10
+ -31T13:43:06Z.  •  ميخاس لاس لاغوناس — جميع الم
+ باريات في كأس ملك إسبانيا بتوقيت UTC الدقي
+ ق مع الملاعب والقنوات الناقلة. المصدر: FotM
+ ob + 365scores · تحديث تلقائي 2026-10-31T13:43:06Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386066@league-calendars
+DTSTAMP:20261031T134306Z
+DTSTART:20261029T190000Z
+DTEND:20261029T210000Z
+SUMMARY:Mijas-Las Lagunas v Real Jaén — Copa del Rey [POSTPONED]
+URL:https://www.fotmob.com/match/6386066
+DESCRIPTION:⚽ ميخاس لاس لاغوناس × ريال جيان\n🏆
+  كأس ملك إسبانيا — مباريات\n🗓 الخميس 29 أ
+ كتوبر 2026 · 22:00 بتوقيت الرياض\n⚠️ مباراة م
+ ؤجلة — قد يتغير موعدها\n—————\n⚽ Mijas-Las 
+ Lagunas v Real Jaén\n🏆 Copa del Rey — Fixtures\n🗓 Thu 29 Oct 2026
+  · 19:00 UTC\n⚠️ Postponed — details will update\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CANCELLED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميخاس لاس لاغوناس ضد ريال ج
+ يان — كأس ملك إسبانيا | Tomorrow: Mijas-Las Lagunas vs R
+ eal Jaén
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميخاس 
+ لاس لاغوناس × ريال جيان | Kick-off in 30 min: Mijas-Las
+  Lagunas vs Real Jaén
+END:VALARM
+END:VEVENT
+END:VCALENDAR

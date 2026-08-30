@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Swindon Town — FA Cup Fixtures | Swindon Town — مبا
+ ريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Swindon Town — all matches in FA Cup\, exact UTC kickoffs\, 
+ stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-31T13:43:0
+ 6Z.  •  Swindon Town — جميع المباريات في كأس الا
+ تحاد الإنجليزي بتوقيت UTC الدقيق مع الملا
+ عب والقنوات الناقلة. المصدر: FotMob + 365scores · 
+ تحديث تلقائي 2026-10-31T13:43:06Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469286@league-calendars
+DTSTAMP:20261031T134306Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Milton Keynes Dons vs Swindon Town — FA Cup
+LOCATION:Stadium MK
+URL:https://www.fotmob.com/match/6469286
+DESCRIPTION:⚽ Milton Keynes Dons × Swindon Town\n🏆 كأس الاتح
+ اد الإنجليزي — مباريات\n🗓 السبت 7 نوفمبر
+  2026 · 18:00 بتوقيت الرياض\n🏟 Stadium MK\n—————
+ \n⚽ Milton Keynes Dons v Swindon Town\n🏆 FA Cup — Fixtures\n🗓 Sa
+ t 07 Nov 2026 · 15:00 UTC\n🏟 Stadium MK\n—————\n📚 الم
+ صدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob
+  + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Milton Keynes Dons ضد Swindon Town — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Milton Keynes Dons vs Swindo
+ n Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Milton Keyn
+ es Dons × Swindon Town | Kick-off in 30 min: Milton Keynes Dons vs Swindo
+ n Town
+END:VALARM
+END:VEVENT
+END:VCALENDAR

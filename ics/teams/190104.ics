@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Atletico Calatayud — Copa del Rey Fixtures | أتليت
+ كو كالاتايود — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Atletico Calatayud — all matches in Copa del Rey\, exact UTC
+  kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-1
+ 0-31T13:43:06Z.  •  أتليتكو كالاتايود — جميع ال
+ مباريات في كأس ملك إسبانيا بتوقيت UTC الدق
+ يق مع الملاعب والقنوات الناقلة. المصدر: Fo
+ tMob + 365scores · تحديث تلقائي 2026-10-31T13:43:06Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386043@league-calendars
+DTSTAMP:20261031T134306Z
+DTSTART:20261029T180000Z
+DTEND:20261029T200000Z
+SUMMARY:Atletico Calatayud vs Osasuna (0 - 6) — Copa del Rey
+LOCATION:Estadio Municipal de San Íñigo\, Calatayud\, Spain
+GEO:41.351945;-1.623858
+URL:https://www.fotmob.com/match/6386043
+DESCRIPTION:⚽ أتليتكو كالاتايود × أوساسونا (0 - 
+ 6)\n🏆 كأس ملك إسبانيا — مباريات\n🗓 الخمي
+ س 29 أكتوبر 2026 · 21:00 بتوقيت الرياض\n🏟 Estadio M
+ unicipal de San Íñigo، Calatayud\n⚖️ الحكم: Javier Alberola Ro
+ jas\n—————\n⚽ Atletico Calatayud v Osasuna (0 - 6)\n🏆 Copa 
+ del Rey — Fixtures\n🗓 Thu 29 Oct 2026 · 18:00 UTC\n🏟 Estadio Muni
+ cipal de San Íñigo, Calatayud\nReferee: Javier Alberola Rojas\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتليتكو كالاتايود ضد أوساس
+ ونا — كأس ملك إسبانيا | Tomorrow: Atletico Calatayud vs 
+ Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتليت
+ كو كالاتايود × أوساسونا | Kick-off in 30 min: Atletico
+  Calatayud vs Osasuna
+END:VALARM
+END:VEVENT
+END:VCALENDAR

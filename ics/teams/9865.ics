@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Almería — Copa del Rey Fixtures | ألميريا — م
+ باريات كأس ملك إسبانيا
+X-WR-CALDESC:Almería — all matches in Copa del Rey\, exact UTC kickoffs\
+ , stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-31T13:43
+ :06Z.  •  ألميريا — جميع المباريات في كأس م
+ لك إسبانيا بتوقيت UTC الدقيق مع الملاعب وا
+ لقنوات الناقلة. المصدر: FotMob + 365scores · تحدي
+ ث تلقائي 2026-10-31T13:43:06Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386049@league-calendars
+DTSTAMP:20261031T134306Z
+DTSTART:20261027T184500Z
+DTEND:20261027T204500Z
+SUMMARY:Castellonense vs Almería (1 - 2) — Copa del Rey
+LOCATION:Campo de Fútbol Eliseo Pla Ramírez\, Castelló\, Spain
+GEO:39.074267;-0.518212
+URL:https://www.fotmob.com/match/6386049
+DESCRIPTION:⚽ كاستيلونينس × ألميريا (1 - 2)\n🏆 كأ
+ س ملك إسبانيا — مباريات\n🗓 الثلاثاء 27 أك
+ توبر 2026 · 21:45 بتوقيت الرياض\n🏟 Campo de Fútbol El
+ iseo Pla Ramírez، Castelló\n⚖️ الحكم: Salvador Lax Franco\n—
+ ————\n⚽ Castellonense v Almería (1 - 2)\n🏆 Copa del Rey — 
+ Fixtures\n🗓 Tue 27 Oct 2026 · 18:45 UTC\n🏟 Campo de Fútbol Eliseo 
+ Pla Ramírez, Castelló\nReferee: Salvador Lax Franco\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كاستيلونينس ضد ألميريا — ك
+ أس ملك إسبانيا | Tomorrow: Castellonense vs Almería
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاستي
+ لونينس × ألميريا | Kick-off in 30 min: Castellonense vs Alme
+ ría
+END:VALARM
+END:VEVENT
+END:VCALENDAR

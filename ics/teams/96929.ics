@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Coruxo FC — Copa del Rey Fixtures | كوروكسز — 
+ مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Coruxo FC — all matches in Copa del Rey\, exact UTC kickoffs
+ \, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-31T13:4
+ 3:06Z.  •  كوروكسز — جميع المباريات في كأس م
+ لك إسبانيا بتوقيت UTC الدقيق مع الملاعب وا
+ لقنوات الناقلة. المصدر: FotMob + 365scores · تحدي
+ ث تلقائي 2026-10-31T13:43:06Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386054@league-calendars
+DTSTAMP:20261031T134306Z
+DTSTART:20261029T180000Z
+DTEND:20261029T200000Z
+SUMMARY:Coruxo FC vs Zamora (0 - 2) — Copa del Rey
+LOCATION:Campo do Vao\, Vigo\, Spain
+GEO:42.195991;-8.791919
+URL:https://www.fotmob.com/match/6386054
+DESCRIPTION:⚽ كوروكسز × زامورا (0 - 2)\n🏆 كأس ملك 
+ إسبانيا — مباريات\n🗓 الخميس 29 أكتوبر 2026 
+ · 21:00 بتوقيت الرياض\n🏟 Campo do Vao، Vigo\n⚖️ ال
+ حكم: Javier Alberola Rojas\n—————\n⚽ Coruxo FC v Zamora (0 
+ - 2)\n🏆 Copa del Rey — Fixtures\n🗓 Thu 29 Oct 2026 · 18:00 UTC\n
+ 🏟 Campo do Vao, Vigo\nReferee: Javier Alberola Rojas\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوروكسز ضد زامورا — كأس مل
+ ك إسبانيا | Tomorrow: Coruxo FC vs Zamora
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوروك
+ سز × زامورا | Kick-off in 30 min: Coruxo FC vs Zamora
+END:VALARM
+END:VEVENT
+END:VCALENDAR
