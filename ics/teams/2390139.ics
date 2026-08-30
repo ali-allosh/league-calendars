@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Tadley Calleva/Aldershot Town — FA Cup Fixtures | Tadley
+  Calleva/Aldershot Town — مباريات كأس الاتحاد الإن
+ جليزي
+X-WR-CALDESC:Tadley Calleva/Aldershot Town — all matches in FA Cup\, exac
+ t UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2
+ 026-10-20T18:01:21Z.  •  Tadley Calleva/Aldershot Town — جميع ال
+ مباريات في كأس الاتحاد الإنجليزي بتوقيت 
+ UTC الدقيق مع الملاعب والقنوات الناقلة. ال
+ مصدر: FotMob + 365scores · تحديث تلقائي 2026-10-20T18:01:2
+ 1Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469291@league-calendars
+DTSTAMP:20261020T180122Z
+DTSTART:20261107T194500Z
+DTEND:20261107T214500Z
+SUMMARY:Barnsley vs Tadley Calleva/Aldershot Town — FA Cup
+LOCATION:Oakwell Stadium
+URL:https://www.fotmob.com/match/6469291
+DESCRIPTION:⚽ Barnsley × Tadley Calleva/Aldershot Town\n🏆 كأس ال
+ اتحاد الإنجليزي — مباريات\n🗓 السبت 7 نوف
+ مبر 2026 · 22:45 بتوقيت الرياض\n🏟 Oakwell Stadium\n—
+ ————\n⚽ Barnsley v Tadley Calleva/Aldershot Town\n🏆 FA Cup 
+ — Fixtures\n🗓 Sat 07 Nov 2026 · 19:45 UTC\n🏟 Oakwell Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Barnsley ضد Tadley Calleva/Aldershot Town — 
+ كأس الاتحاد الإنجليزي | Tomorrow: Barnsley vs Tadley Ca
+ lleva/Aldershot Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Barnsley ×
+  Tadley Calleva/Aldershot Town | Kick-off in 30 min: Barnsley vs Tadley Ca
+ lleva/Aldershot Town
+END:VALARM
+END:VEVENT
+END:VCALENDAR

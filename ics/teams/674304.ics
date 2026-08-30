@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Plymouth Parkway — FA Cup Fixtures | Plymouth Parkway 
+ — مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Plymouth Parkway — all matches in FA Cup\, exact UTC kickoff
+ s\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-07T14:
+ 07:49Z.  •  Plymouth Parkway — جميع المباريات في كأس
+  الاتحاد الإنجليزي بتوقيت UTC الدقيق مع ال
+ ملاعب والقنوات الناقلة. المصدر: FotMob + 365scor
+ es · تحديث تلقائي 2026-11-07T14:07:49Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469292@league-calendars
+DTSTAMP:20261107T140750Z
+DTSTART:20261109T193000Z
+DTEND:20261109T213000Z
+SUMMARY:Plymouth Parkway vs Berkhamsted — FA Cup
+LOCATION:Bolitho Park
+URL:https://www.fotmob.com/match/6469292
+DESCRIPTION:⚽ Plymouth Parkway × Berkhamsted\n🏆 كأس الاتحاد
+  الإنجليزي — مباريات\n🗓 الاثنين 9 نوفمبر
+  2026 · 22:30 بتوقيت الرياض\n🏟 Bolitho Park\n📺 TNT Spor
+ ts 1، HBO Max (UK)، ESPN Select، ESPN Unlimited، NOW ROI\n————
+ —\n⚽ Plymouth Parkway v Berkhamsted\n🏆 FA Cup — Fixtures\n🗓 Mo
+ n 09 Nov 2026 · 19:30 UTC\n🏟 Bolitho Park\n📺 TNT Sports 1, HBO Max 
+ (UK), ESPN Select, ESPN Unlimited, NOW ROI\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Plymouth Parkway ضد Berkhamsted — كأس ال
+ اتحاد الإنجليزي — 📺 TNT Sports 1، HBO Max (UK)، ESPN 
+ Select، ESPN Unlimited، NOW ROI | Tomorrow: Plymouth Parkway vs Berkhams
+ ted | TV: TNT Sports 1\, HBO Max (UK)\, ESPN Select\, ESPN Unlimited\, NOW
+  ROI
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Plymouth Pa
+ rkway × Berkhamsted — 📺 TNT Sports 1، HBO Max (UK)، ESPN Select، 
+ ESPN Unlimited، NOW ROI | Kick-off in 30 min: Plymouth Parkway vs Berkham
+ sted | TV: TNT Sports 1\, HBO Max (UK)\, ESPN Select\, ESPN Unlimited\, NO
+ W ROI
+END:VALARM
+END:VEVENT
+END:VCALENDAR

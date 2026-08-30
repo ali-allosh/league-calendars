@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Drita — UEFA Champions League Fixtures | Drita — مب
+ اريات دوري أبطال أوروبا
+X-WR-CALDESC:Drita — all matches in UEFA Champions League\, exact UTC kic
+ koffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-21
+ T22:26:40Z.  •  Drita — جميع المباريات في دوري أب
+ طال أوروبا بتوقيت UTC الدقيق مع الملاعب وا
+ لقنوات الناقلة. المصدر: FotMob + 365scores · تحدي
+ ث تلقائي 2026-10-21T22:26:40Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-1000022636@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260707T160000Z
+DTEND:20260707T180000Z
+SUMMARY:FK Kauno Žalgiris vs Drita (1 - 1) — UEFA Champions League
+LOCATION:S. Dariaus ir S. Girėno stadionas\, Kaunas\, Lithuania
+GEO:54.897366;23.937111
+URL:https://www.fotmob.com/match/1000022636
+DESCRIPTION:⚽ FK Kauno Žalgiris × Drita (1 - 1)\n🏆 دوري أبطا
+ ل أوروبا — 1\n🗓 الثلاثاء 7 يوليو 2026 · 19:00 ب
+ توقيت الرياض\n🏟 S. Dariaus ir S. Girėno stadionas، Kaunas\
+ n👥 الحضور: 4,484\n—————\n⚽ FK Kauno Žalgiris v Drita
+  (1 - 1)\n🏆 UEFA Champions League — 1\n🗓 Tue 07 Jul 2026 · 16:00 
+ UTC\n🏟 S. Dariaus ir S. Girėno stadionas, Kaunas\nAttendance: 4,484\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: FK Kauno Žalgiris ضد Drita — دوري أبط
+ ال أوروبا | Tomorrow: FK Kauno Žalgiris vs Drita
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: FK Kauno Ž
+ algiris × Drita | Kick-off in 30 min: FK Kauno Žalgiris vs Drita
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022637@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260714T180000Z
+DTEND:20260714T200000Z
+SUMMARY:Drita vs FK Kauno Žalgiris (2 - 3) — UEFA Champions League
+URL:https://www.fotmob.com/match/1000022637
+DESCRIPTION:⚽ Drita × FK Kauno Žalgiris (2 - 3)\n🏆 دوري أبطا
+ ل أوروبا — 1\n🗓 الثلاثاء 14 يوليو 2026 · 21:00 
+ بتوقيت الرياض\n—————\n⚽ Drita v FK Kauno Žalgiris
+  (2 - 3)\n🏆 UEFA Champions League — 1\n🗓 Tue 14 Jul 2026 · 18:00 
+ UTC\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Drita ضد FK Kauno Žalgiris — دوري أبط
+ ال أوروبا | Tomorrow: Drita vs FK Kauno Žalgiris
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Drita × FK
+  Kauno Žalgiris | Kick-off in 30 min: Drita vs FK Kauno Žalgiris
+END:VALARM
+END:VEVENT
+END:VCALENDAR
