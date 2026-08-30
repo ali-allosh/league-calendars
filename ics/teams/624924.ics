@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Riga FC — UEFA Champions League Fixtures | Riga FC — 
+ مباريات دوري أبطال أوروبا
+X-WR-CALDESC:Riga FC — all matches in UEFA Champions League\, exact UTC k
+ ickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-
+ 21T22:26:40Z.  •  Riga FC — جميع المباريات في دوري 
+ أبطال أوروبا بتوقيت UTC الدقيق مع الملاعب 
+ والقنوات الناقلة. المصدر: FotMob + 365scores · تح
+ ديث تلقائي 2026-10-21T22:26:40Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-1000022632@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260707T160000Z
+DTEND:20260707T180000Z
+SUMMARY:Ararat Armenia vs Riga FC (2 - 0) — UEFA Champions League
+LOCATION:Kotaik Stadium\, Abovian\, Armenia
+GEO:40.268491;44.635429
+URL:https://www.fotmob.com/match/1000022632
+DESCRIPTION:⚽ أرارات أرمينيا × Riga FC (2 - 0)\n🏆 دور
+ ي أبطال أوروبا — 1\n🗓 الثلاثاء 7 يوليو 2026 
+ · 19:00 بتوقيت الرياض\n🏟 Kotaik Stadium، Abovian\n👥 ا
+ لحضور: 2,300\n—————\n⚽ Ararat Armenia v Riga FC (2 - 0)\n
+ 🏆 UEFA Champions League — 1\n🗓 Tue 07 Jul 2026 · 16:00 UTC\n🏟 
+ Kotaik Stadium, Abovian\nAttendance: 2,300\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أرارات أرمينيا ضد Riga FC — دو
+ ري أبطال أوروبا | Tomorrow: Ararat Armenia vs Riga FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أرارا
+ ت أرمينيا × Riga FC | Kick-off in 30 min: Ararat Armenia vs Riga 
+ FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022633@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260714T170000Z
+DTEND:20260714T190000Z
+SUMMARY:Riga FC vs Ararat Armenia (3 - 2) — UEFA Champions League
+URL:https://www.fotmob.com/match/1000022633
+DESCRIPTION:⚽ Riga FC × أرارات أرمينيا (3 - 2)\n🏆 دور
+ ي أبطال أوروبا — 1\n🗓 الثلاثاء 14 يوليو 2026
+  · 20:00 بتوقيت الرياض\n—————\n⚽ Riga FC v Ararat
+  Armenia (3 - 2)\n🏆 UEFA Champions League — 1\n🗓 Tue 14 Jul 2026 
+ · 17:00 UTC\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Riga FC ضد أرارات أرمينيا — دو
+ ري أبطال أوروبا | Tomorrow: Riga FC vs Ararat Armenia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Riga FC × 
+ أرارات أرمينيا | Kick-off in 30 min: Riga FC vs Ararat Armeni
+ a
+END:VALARM
+END:VEVENT
+END:VCALENDAR

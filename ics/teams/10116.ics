@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Borac Banja Luka — UEFA Champions League Fixtures | Bora
+ c Banja Luka — مباريات دوري أبطال أوروبا
+X-WR-CALDESC:Borac Banja Luka — all matches in UEFA Champions League\, ex
+ act UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated
+  2026-10-21T22:26:40Z.  •  Borac Banja Luka — جميع المباري
+ ات في دوري أبطال أوروبا بتوقيت UTC الدقيق 
+ مع الملاعب والقنوات الناقلة. المصدر: FotMob 
+ + 365scores · تحديث تلقائي 2026-10-21T22:26:40Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-1000022644@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260707T183000Z
+DTEND:20260707T203000Z
+SUMMARY:Borac Banja Luka vs Levski Sofia (1 - 1) — UEFA Champions League
+LOCATION:Gradski Stadion\, Banja Luka\, Bosnia-Herzegovina
+GEO:44.776024;17.199579
+URL:https://www.fotmob.com/match/1000022644
+DESCRIPTION:⚽ Borac Banja Luka × ليفسكي صوفيا (1 - 1)\n🏆 
+ دوري أبطال أوروبا — 1\n🗓 الثلاثاء 7 يوليو
+  2026 · 21:30 بتوقيت الرياض\n🏟 Gradski Stadion، Banja Luk
+ a\n👥 الحضور: 10,102\n—————\n⚽ Borac Banja Luka v Levs
+ ki Sofia (1 - 1)\n🏆 UEFA Champions League — 1\n🗓 Tue 07 Jul 2026 
+ · 18:30 UTC\n🏟 Gradski Stadion, Banja Luka\nAttendance: 10,102\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Borac Banja Luka ضد ليفسكي صوفيا —
+  دوري أبطال أوروبا | Tomorrow: Borac Banja Luka vs Levski S
+ ofia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Borac Banja
+  Luka × ليفسكي صوفيا | Kick-off in 30 min: Borac Banja Luka vs
+  Levski Sofia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022645@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260714T173000Z
+DTEND:20260714T193000Z
+SUMMARY:Levski Sofia vs Borac Banja Luka (4 - 0) — UEFA Champions League
+URL:https://www.fotmob.com/match/1000022645
+DESCRIPTION:⚽ ليفسكي صوفيا × Borac Banja Luka (4 - 0)\n🏆 
+ دوري أبطال أوروبا — 1\n🗓 الثلاثاء 14 يولي
+ و 2026 · 20:30 بتوقيت الرياض\n—————\n⚽ Levski So
+ fia v Borac Banja Luka (4 - 0)\n🏆 UEFA Champions League — 1\n🗓 Tue
+  14 Jul 2026 · 17:30 UTC\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفسكي صوفيا ضد Borac Banja Luka —
+  دوري أبطال أوروبا | Tomorrow: Levski Sofia vs Borac Banja 
+ Luka
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفسك
+ ي صوفيا × Borac Banja Luka | Kick-off in 30 min: Levski Sofia vs Bo
+ rac Banja Luka
+END:VALARM
+END:VEVENT
+END:VCALENDAR

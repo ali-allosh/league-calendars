@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Lincoln Red Imps FC — UEFA Champions League Fixtures | L
+ incoln Red Imps FC — مباريات دوري أبطال أوروبا
+X-WR-CALDESC:Lincoln Red Imps FC — all matches in UEFA Champions League\,
+  exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-upda
+ ted 2026-10-21T22:26:40Z.  •  Lincoln Red Imps FC — جميع المب
+ اريات في دوري أبطال أوروبا بتوقيت UTC الدق
+ يق مع الملاعب والقنوات الناقلة. المصدر: Fo
+ tMob + 365scores · تحديث تلقائي 2026-10-21T22:26:40Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-1000022655@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260707T160000Z
+DTEND:20260707T180000Z
+SUMMARY:Lincoln Red Imps FC vs Inter Club d'Escaldes (3 - 1) — UEFA Champ
+ ions League
+LOCATION:Europa Point Stadium\, Gibraltar\, Gibraltar
+GEO:36.110714;-5.347034
+URL:https://www.fotmob.com/match/1000022655
+DESCRIPTION:⚽ Lincoln Red Imps FC × إنتر ميلان (3 - 1)\n🏆 د
+ وري أبطال أوروبا — 1\n🗓 الثلاثاء 7 يوليو 2
+ 026 · 19:00 بتوقيت الرياض\n🏟 Europa Point Stadium، Gibral
+ tar\n👥 الحضور: 721\n—————\n⚽ Lincoln Red Imps FC v In
+ ter Club d'Escaldes (3 - 1)\n🏆 UEFA Champions League — 1\n🗓 Tue 07
+  Jul 2026 · 16:00 UTC\n🏟 Europa Point Stadium, Gibraltar\nAttendance: 
+ 721\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Lincoln Red Imps FC ضد إنتر ميلان — 
+ دوري أبطال أوروبا | Tomorrow: Lincoln Red Imps FC vs Inter 
+ Club d'Escaldes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Lincoln Red
+  Imps FC × إنتر ميلان | Kick-off in 30 min: Lincoln Red Imps FC 
+ vs Inter Club d'Escaldes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022654@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260714T160000Z
+DTEND:20260714T180000Z
+SUMMARY:Inter Club d'Escaldes vs Lincoln Red Imps FC (1 - 1) — UEFA Champ
+ ions League
+URL:https://www.fotmob.com/match/1000022654
+DESCRIPTION:⚽ إنتر ميلان × Lincoln Red Imps FC (1 - 1)\n🏆 د
+ وري أبطال أوروبا — 1\n🗓 الثلاثاء 14 يوليو 
+ 2026 · 19:00 بتوقيت الرياض\n—————\n⚽ Inter Club d
+ 'Escaldes v Lincoln Red Imps FC (1 - 1)\n🏆 UEFA Champions League — 1\
+ n🗓 Tue 14 Jul 2026 · 16:00 UTC\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: إنتر ميلان ضد Lincoln Red Imps FC — 
+ دوري أبطال أوروبا | Tomorrow: Inter Club d'Escaldes vs Linc
+ oln Red Imps FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: إنتر م
+ يلان × Lincoln Red Imps FC | Kick-off in 30 min: Inter Club d'Escalde
+ s vs Lincoln Red Imps FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022663@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260721T160000Z
+DTEND:20260721T180000Z
+SUMMARY:Mjällby vs Lincoln Red Imps FC (3 - 0) — UEFA Champions League
+URL:https://www.fotmob.com/match/1000022663
+DESCRIPTION:⚽ Mjällby × Lincoln Red Imps FC (3 - 0)\n🏆 دوري أب
+ طال أوروبا — 2\n🗓 الثلاثاء 21 يوليو 2026 · 19:
+ 00 بتوقيت الرياض\n—————\n⚽ Mjällby v Lincoln Red 
+ Imps FC (3 - 0)\n🏆 UEFA Champions League — 2\n🗓 Tue 21 Jul 2026 ·
+  16:00 UTC\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Mjällby ضد Lincoln Red Imps FC — دوري أ
+ بطال أوروبا | Tomorrow: Mjällby vs Lincoln Red Imps FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Mjällby ×
+  Lincoln Red Imps FC | Kick-off in 30 min: Mjällby vs Lincoln Red Imps FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022664@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260728T160000Z
+DTEND:20260728T180000Z
+SUMMARY:Lincoln Red Imps FC vs Mjällby (0 - 0) — UEFA Champions League
+LOCATION:Europa Point Stadium\, Gibraltar\, Gibraltar
+GEO:36.110714;-5.347034
+URL:https://www.fotmob.com/match/1000022664
+DESCRIPTION:⚽ Lincoln Red Imps FC × Mjällby (0 - 0)\n🏆 دوري أب
+ طال أوروبا — 2\n🗓 الثلاثاء 28 يوليو 2026 · 19:
+ 00 بتوقيت الرياض\n🏟 Europa Point Stadium، Gibraltar\n—
+ ————\n⚽ Lincoln Red Imps FC v Mjällby (0 - 0)\n🏆 UEFA Champi
+ ons League — 2\n🗓 Tue 28 Jul 2026 · 16:00 UTC\n🏟 Europa Point Sta
+ dium, Gibraltar\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Lincoln Red Imps FC ضد Mjällby — دوري أ
+ بطال أوروبا | Tomorrow: Lincoln Red Imps FC vs Mjällby
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Lincoln Red
+  Imps FC × Mjällby | Kick-off in 30 min: Lincoln Red Imps FC vs Mjällby
+END:VALARM
+END:VEVENT
+END:VCALENDAR

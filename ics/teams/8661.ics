@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Mallorca — Copa del Rey Fixtures | ريال مايورك
+ ا — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Mallorca — all matches in Copa del Rey\, exact UTC kickoffs\
+ , stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-21T08:20
+ :28Z.  •  ريال مايوركا — جميع المباريات في 
+ كأس ملك إسبانيا بتوقيت UTC الدقيق مع الملا
+ عب والقنوات الناقلة. المصدر: FotMob + 365scores · 
+ تحديث تلقائي 2026-11-21T08:20:28Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386038@league-calendars
+DTSTAMP:20261121T082029Z
+DTSTART:20261118T190000Z
+DTEND:20261118T210000Z
+SUMMARY:Alcoyano vs Mallorca (1 - 3) — Copa del Rey
+LOCATION:Campo Municipal El Collao\, Alcoi (Alcoy)\, Spain
+GEO:38.690962;-0.490227
+URL:https://www.fotmob.com/match/6386038
+DESCRIPTION:⚽ ألكويانو × ريال مايوركا (1 - 3)\n🏆 
+ كأس ملك إسبانيا — 1\n🗓 الأربعاء 18 نوفمبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 Campo Municipal El Collao، 
+ Alcoi (Alcoy)\n⚖️ الحكم: Alejandro Ojaos Valera\n👥 الحضو
+ ر: 3,000\n—————\n⚽ Alcoyano v Mallorca (1 - 3)\n🏆 Copa del
+  Rey — 1\n🗓 Wed 18 Nov 2026 · 19:00 UTC\n🏟 Campo Municipal El Col
+ lao, Alcoi (Alcoy)\nReferee: Alejandro Ojaos Valera\nAttendance: 3,000\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ألكويانو ضد ريال مايوركا —
+  كأس ملك إسبانيا | Tomorrow: Alcoyano vs Mallorca
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ألكوي
+ انو × ريال مايوركا | Kick-off in 30 min: Alcoyano vs Mallor
+ ca
+END:VALARM
+END:VEVENT
+END:VCALENDAR
