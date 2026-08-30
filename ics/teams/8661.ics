@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Mallorca — Copa del Rey Fixtures | ريال مايورك
+ ا — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Mallorca — all matches in Copa del Rey\, exact UTC kickoffs\
+ , stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-10T22:41
+ :13Z.  •  ريال مايوركا — جميع المباريات في 
+ كأس ملك إسبانيا بتوقيت UTC الدقيق مع الملا
+ عب والقنوات الناقلة. المصدر: FotMob + 365scores · 
+ تحديث تلقائي 2026-10-10T22:41:13Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386038@league-calendars
+DTSTAMP:20261010T224113Z
+DTSTART:20261028T190000Z
+DTEND:20261028T210000Z
+SUMMARY:Alcoyano vs Mallorca — Copa del Rey
+URL:https://www.fotmob.com/match/6386038
+DESCRIPTION:⚽ ألكويانو × ريال مايوركا\n🏆 كأس م
+ لك إسبانيا — مباريات\n🗓 الأربعاء 28 أكتو
+ بر 2026 · 22:00 بتوقيت الرياض\n—————\n⚽ Alcoyan
+ o v Mallorca\n🏆 Copa del Rey — Fixtures\n🗓 Wed 28 Oct 2026 · 19:0
+ 0 UTC\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ألكويانو ضد ريال مايوركا —
+  كأس ملك إسبانيا | Tomorrow: Alcoyano vs Mallorca
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ألكوي
+ انو × ريال مايوركا | Kick-off in 30 min: Alcoyano vs Mallor
+ ca
+END:VALARM
+END:VEVENT
+END:VCALENDAR

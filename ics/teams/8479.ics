@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Recreativo Huelva — Copa del Rey Fixtures | ريكريا
+ تيفو ويلفا — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Recreativo Huelva — all matches in Copa del Rey\, exact UTC 
+ kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10
+ -10T22:41:13Z.  •  ريكرياتيفو ويلفا — جميع المب
+ اريات في كأس ملك إسبانيا بتوقيت UTC الدقيق
+  مع الملاعب والقنوات الناقلة. المصدر: FotMob
+  + 365scores · تحديث تلقائي 2026-10-10T22:41:13Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386076@league-calendars
+DTSTAMP:20261010T224113Z
+DTSTART:20261028T190000Z
+DTEND:20261028T210000Z
+SUMMARY:Recreativo Huelva vs Rayo Vallecano — Copa del Rey
+URL:https://www.fotmob.com/match/6386076
+DESCRIPTION:⚽ ريكرياتيفو ويلفا × رايو فاييكان
+ و\n🏆 كأس ملك إسبانيا — مباريات\n🗓 الأرب
+ عاء 28 أكتوبر 2026 · 22:00 بتوقيت الرياض\n———
+ ——\n⚽ Recreativo Huelva v Rayo Vallecano\n🏆 Copa del Rey — Fixt
+ ures\n🗓 Wed 28 Oct 2026 · 19:00 UTC\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريكرياتيفو ويلفا ضد رايو ف
+ اييكانو — كأس ملك إسبانيا | Tomorrow: Recreativo Hue
+ lva vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريكري
+ اتيفو ويلفا × رايو فاييكانو | Kick-off in 30 min: R
+ ecreativo Huelva vs Rayo Vallecano
+END:VALARM
+END:VEVENT
+END:VCALENDAR

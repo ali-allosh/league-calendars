@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Coruxo FC — Copa del Rey Fixtures | كوروكسز — 
+ مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Coruxo FC — all matches in Copa del Rey\, exact UTC kickoffs
+ \, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-10T22:4
+ 1:13Z.  •  كوروكسز — جميع المباريات في كأس م
+ لك إسبانيا بتوقيت UTC الدقيق مع الملاعب وا
+ لقنوات الناقلة. المصدر: FotMob + 365scores · تحدي
+ ث تلقائي 2026-10-10T22:41:13Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386054@league-calendars
+DTSTAMP:20261010T224113Z
+DTSTART:20261028T190000Z
+DTEND:20261028T210000Z
+SUMMARY:Coruxo FC vs Zamora — Copa del Rey
+URL:https://www.fotmob.com/match/6386054
+DESCRIPTION:⚽ كوروكسز × زامورا\n🏆 كأس ملك إسبا
+ نيا — مباريات\n🗓 الأربعاء 28 أكتوبر 2026 · 2
+ 2:00 بتوقيت الرياض\n—————\n⚽ Coruxo FC v Zamora\n
+ 🏆 Copa del Rey — Fixtures\n🗓 Wed 28 Oct 2026 · 19:00 UTC\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوروكسز ضد زامورا — كأس مل
+ ك إسبانيا | Tomorrow: Coruxo FC vs Zamora
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوروك
+ سز × زامورا | Kick-off in 30 min: Coruxo FC vs Zamora
+END:VALARM
+END:VEVENT
+END:VCALENDAR

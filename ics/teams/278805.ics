@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Deportiva Minera — Copa del Rey Fixtures | ديبورت
+ يفو مينيرا — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Deportiva Minera — all matches in Copa del Rey\, exact UTC k
+ ickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-
+ 10T22:41:13Z.  •  ديبورتيفو مينيرا — جميع المب
+ اريات في كأس ملك إسبانيا بتوقيت UTC الدقيق
+  مع الملاعب والقنوات الناقلة. المصدر: FotMob
+  + 365scores · تحديث تلقائي 2026-10-10T22:41:13Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386057@league-calendars
+DTSTAMP:20261010T224113Z
+DTSTART:20261028T190000Z
+DTEND:20261028T210000Z
+SUMMARY:Deportiva Minera vs Cartagena — Copa del Rey
+URL:https://www.fotmob.com/match/6386057
+DESCRIPTION:⚽ ديبورتيفو مينيرا × كارتاخينا\n🏆
+  كأس ملك إسبانيا — مباريات\n🗓 الأربعاء 28
+  أكتوبر 2026 · 22:00 بتوقيت الرياض\n—————\n
+ ⚽ Deportiva Minera v Cartagena\n🏆 Copa del Rey — Fixtures\n🗓 Wed
+  28 Oct 2026 · 19:00 UTC\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو مينيرا ضد كارتاخ
+ ينا — كأس ملك إسبانيا | Tomorrow: Deportiva Minera vs Ca
+ rtagena
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو مينيرا × كارتاخينا | Kick-off in 30 min: Deportiv
+ a Minera vs Cartagena
+END:VALARM
+END:VEVENT
+END:VCALENDAR

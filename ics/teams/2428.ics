@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ San Sebastian de los Reyes — Copa del Rey Fixtures | س
+ ان سيباستيان دي لوس رييس — مباريات كأس م
+ لك إسبانيا
+X-WR-CALDESC:San Sebastian de los Reyes — all matches in Copa del Rey\, e
+ xact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-update
+ d 2026-10-10T22:41:13Z.  •  سان سيباستيان دي لوس ريي
+ س — جميع المباريات في كأس ملك إسبانيا بت
+ وقيت UTC الدقيق مع الملاعب والقنوات الناق
+ لة. المصدر: FotMob + 365scores · تحديث تلقائي 2026-10-
+ 10T22:41:13Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386081@league-calendars
+DTSTAMP:20261010T224113Z
+DTSTART:20261028T190000Z
+DTEND:20261028T210000Z
+SUMMARY:San Sebastian de los Reyes vs CD Coria — Copa del Rey
+URL:https://www.fotmob.com/match/6386081
+DESCRIPTION:⚽ سان سيباستيان دي لوس رييس × كوري
+ ا\n🏆 كأس ملك إسبانيا — مباريات\n🗓 الأرب
+ عاء 28 أكتوبر 2026 · 22:00 بتوقيت الرياض\n———
+ ——\n⚽ San Sebastian de los Reyes v CD Coria\n🏆 Copa del Rey — F
+ ixtures\n🗓 Wed 28 Oct 2026 · 19:00 UTC\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سان سيباستيان دي لوس رييس ض
+ د كوريا — كأس ملك إسبانيا | Tomorrow: San Sebastian d
+ e los Reyes vs CD Coria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سان سي
+ باستيان دي لوس رييس × كوريا | Kick-off in 30 min: Sa
+ n Sebastian de los Reyes vs CD Coria
+END:VALARM
+END:VEVENT
+END:VCALENDAR

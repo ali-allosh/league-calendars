@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Don Benito — Copa del Rey Fixtures | دون بينيتو
+  — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Don Benito — all matches in Copa del Rey\, exact UTC kickoff
+ s\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-10T22:
+ 41:13Z.  •  دون بينيتو — جميع المباريات في ك
+ أس ملك إسبانيا بتوقيت UTC الدقيق مع الملاع
+ ب والقنوات الناقلة. المصدر: FotMob + 365scores · ت
+ حديث تلقائي 2026-10-10T22:41:13Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386058@league-calendars
+DTSTAMP:20261010T224113Z
+DTSTART:20261028T190000Z
+DTEND:20261028T210000Z
+SUMMARY:Don Benito vs CD Extremadura — Copa del Rey
+URL:https://www.fotmob.com/match/6386058
+DESCRIPTION:⚽ دون بينيتو × إكستريمادورا\n🏆 كأ
+ س ملك إسبانيا — مباريات\n🗓 الأربعاء 28 أك
+ توبر 2026 · 22:00 بتوقيت الرياض\n—————\n⚽ Don
+  Benito v CD Extremadura\n🏆 Copa del Rey — Fixtures\n🗓 Wed 28 Oct 
+ 2026 · 19:00 UTC\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: دون بينيتو ضد إكستريمادورا
+  — كأس ملك إسبانيا | Tomorrow: Don Benito vs CD Extremadura
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: دون بي
+ نيتو × إكستريمادورا | Kick-off in 30 min: Don Benito vs C
+ D Extremadura
+END:VALARM
+END:VEVENT
+END:VCALENDAR

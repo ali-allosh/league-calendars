@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Peña Sport — Copa del Rey Fixtures | بينا سبور
+ ت — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Peña Sport — all matches in Copa del Rey\, exact UTC kickof
+ fs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-10T22
+ :41:13Z.  •  بينا سبورت — جميع المباريات في ك
+ أس ملك إسبانيا بتوقيت UTC الدقيق مع الملاع
+ ب والقنوات الناقلة. المصدر: FotMob + 365scores · ت
+ حديث تلقائي 2026-10-10T22:41:13Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386070@league-calendars
+DTSTAMP:20261010T224113Z
+DTSTART:20261028T190000Z
+DTEND:20261028T210000Z
+SUMMARY:Peña Sport vs SD Huesca — Copa del Rey
+URL:https://www.fotmob.com/match/6386070
+DESCRIPTION:⚽ بينا سبورت × هويسكا\n🏆 كأس ملك إ
+ سبانيا — مباريات\n🗓 الأربعاء 28 أكتوبر 202
+ 6 · 22:00 بتوقيت الرياض\n—————\n⚽ Peña Sport v S
+ D Huesca\n🏆 Copa del Rey — Fixtures\n🗓 Wed 28 Oct 2026 · 19:00 UT
+ C\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بينا سبورت ضد هويسكا — كأس 
+ ملك إسبانيا | Tomorrow: Peña Sport vs SD Huesca
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بينا س
+ بورت × هويسكا | Kick-off in 30 min: Peña Sport vs SD Huesca
+END:VALARM
+END:VEVENT
+END:VCALENDAR

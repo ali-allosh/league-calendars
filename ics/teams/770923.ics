@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ UD Llanera — Copa del Rey Fixtures | ييانيرا — 
+ مباريات كأس ملك إسبانيا
+X-WR-CALDESC:UD Llanera — all matches in Copa del Rey\, exact UTC kickoff
+ s\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-10T22:
+ 41:13Z.  •  ييانيرا — جميع المباريات في كأس 
+ ملك إسبانيا بتوقيت UTC الدقيق مع الملاعب و
+ القنوات الناقلة. المصدر: FotMob + 365scores · تحد
+ يث تلقائي 2026-10-10T22:41:13Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386063@league-calendars
+DTSTAMP:20261010T224113Z
+DTSTART:20261028T190000Z
+DTEND:20261028T210000Z
+SUMMARY:UD Llanera vs Ponferradina — Copa del Rey
+URL:https://www.fotmob.com/match/6386063
+DESCRIPTION:⚽ ييانيرا × بونفيراذينا\n🏆 كأس مل
+ ك إسبانيا — مباريات\n🗓 الأربعاء 28 أكتوب
+ ر 2026 · 22:00 بتوقيت الرياض\n—————\n⚽ UD Llaner
+ a v Ponferradina\n🏆 Copa del Rey — Fixtures\n🗓 Wed 28 Oct 2026 · 
+ 19:00 UTC\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ييانيرا ضد بونفيراذينا — ك
+ أس ملك إسبانيا | Tomorrow: UD Llanera vs Ponferradina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يياني
+ را × بونفيراذينا | Kick-off in 30 min: UD Llanera vs Ponferr
+ adina
+END:VALARM
+END:VEVENT
+END:VCALENDAR
