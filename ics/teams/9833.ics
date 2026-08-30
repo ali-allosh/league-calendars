@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Exeter City — FA Cup Fixtures | Exeter City — مبار
+ يات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Exeter City — all matches in FA Cup\, exact UTC kickoffs\, s
+ tadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-24T12:03:55
+ Z.  •  Exeter City — جميع المباريات في كأس الات
+ حاد الإنجليزي بتوقيت UTC الدقيق مع الملاع
+ ب والقنوات الناقلة. المصدر: FotMob + 365scores · ت
+ حديث تلقائي 2026-10-24T12:03:55Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469279@league-calendars
+DTSTAMP:20261024T120356Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Huddersfield Town vs Exeter City — FA Cup
+LOCATION:John Smith's Stadium
+URL:https://www.fotmob.com/match/6469279
+DESCRIPTION:⚽ Huddersfield Town × Exeter City\n🏆 كأس الاتحا
+ د الإنجليزي — مباريات\n🗓 السبت 7 نوفمبر 2
+ 026 · 18:00 بتوقيت الرياض\n🏟 John Smith's Stadium\n——
+ ———\n⚽ Huddersfield Town v Exeter City\n🏆 FA Cup — Fixtures\n
+ 🗓 Sat 07 Nov 2026 · 15:00 UTC\n🏟 John Smith's Stadium\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Huddersfield Town ضد Exeter City — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Huddersfield Town vs Exeter Ci
+ ty
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Huddersfiel
+ d Town × Exeter City | Kick-off in 30 min: Huddersfield Town vs Exeter Ci
+ ty
+END:VALARM
+END:VEVENT
+END:VCALENDAR

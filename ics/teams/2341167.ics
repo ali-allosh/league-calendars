@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Tavernes de la Valldigna — Copa del Rey Fixtures | Taver
+ nes de la Valldigna — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Tavernes de la Valldigna — all matches in Copa del Rey\, exa
+ ct UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 
+ 2026-10-24T12:03:55Z.  •  Tavernes de la Valldigna — جميع المب
+ اريات في كأس ملك إسبانيا بتوقيت UTC الدقيق
+  مع الملاعب والقنوات الناقلة. المصدر: FotMob
+  + 365scores · تحديث تلقائي 2026-10-24T12:03:55Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386084@league-calendars
+DTSTAMP:20261024T120356Z
+DTSTART:20261028T200000Z
+DTEND:20261028T220000Z
+SUMMARY:Tavernes de la Valldigna vs Valencia — Copa del Rey
+URL:https://www.fotmob.com/match/6386084
+DESCRIPTION:⚽ Tavernes de la Valldigna × فالنسيا\n🏆 كأس م
+ لك إسبانيا — مباريات\n🗓 الأربعاء 28 أكتو
+ بر 2026 · 23:00 بتوقيت الرياض\n📺 ESPN Unlimited، ESPN S
+ elect\n—————\n⚽ Tavernes de la Valldigna v Valencia\n🏆 Copa
+  del Rey — Fixtures\n🗓 Wed 28 Oct 2026 · 20:00 UTC\n📺 ESPN Unlimi
+ ted, ESPN Select\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Tavernes de la Valldigna ضد فالنسيا — 
+ كأس ملك إسبانيا — 📺 ESPN Unlimited، ESPN Select | Tomor
+ row: Tavernes de la Valldigna vs Valencia | TV: ESPN Unlimited\, ESPN Sele
+ ct
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Tavernes de
+  la Valldigna × فالنسيا — 📺 ESPN Unlimited، ESPN Select | Ki
+ ck-off in 30 min: Tavernes de la Valldigna vs Valencia | TV: ESPN Unlimite
+ d\, ESPN Select
+END:VALARM
+END:VEVENT
+END:VCALENDAR

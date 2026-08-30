@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Universitatea Craiova — UEFA Champions League Fixtures |
+  Universitatea Craiova — مباريات دوري أبطال أوروبا
+X-WR-CALDESC:Universitatea Craiova — all matches in UEFA Champions League
+ \, exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-up
+ dated 2026-10-21T22:26:40Z.  •  Universitatea Craiova — جميع ال
+ مباريات في دوري أبطال أوروبا بتوقيت UTC ال
+ دقيق مع الملاعب والقنوات الناقلة. المصدر
+ : FotMob + 365scores · تحديث تلقائي 2026-10-21T22:26:40Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-1000022638@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260708T170000Z
+DTEND:20260708T190000Z
+SUMMARY:ML Vitebsk vs Universitatea Craiova (1 - 4) — UEFA Champions Leag
+ ue
+URL:https://www.fotmob.com/match/1000022638
+DESCRIPTION:⚽ ML Vitebsk × Universitatea Craiova (1 - 4)\n🏆 دوري 
+ أبطال أوروبا — 1\n🗓 الأربعاء 8 يوليو 2026 · 
+ 20:00 بتوقيت الرياض\n—————\n⚽ ML Vitebsk v Univers
+ itatea Craiova (1 - 4)\n🏆 UEFA Champions League — 1\n🗓 Wed 08 Jul 
+ 2026 · 17:00 UTC\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ML Vitebsk ضد Universitatea Craiova — دور
+ ي أبطال أوروبا | Tomorrow: ML Vitebsk vs Universitatea Craiova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ML Vitebsk 
+ × Universitatea Craiova | Kick-off in 30 min: ML Vitebsk vs Universitatea
+  Craiova
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022639@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260715T173000Z
+DTEND:20260715T193000Z
+SUMMARY:Universitatea Craiova vs ML Vitebsk (1 - 0) — UEFA Champions Leag
+ ue
+URL:https://www.fotmob.com/match/1000022639
+DESCRIPTION:⚽ Universitatea Craiova × ML Vitebsk (1 - 0)\n🏆 دوري 
+ أبطال أوروبا — 1\n🗓 الأربعاء 15 يوليو 2026 ·
+  20:30 بتوقيت الرياض\n—————\n⚽ Universitatea Craio
+ va v ML Vitebsk (1 - 0)\n🏆 UEFA Champions League — 1\n🗓 Wed 15 Jul
+  2026 · 17:30 UTC\n—————\n📚 المصدر: FotMob · 365score
+ s — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upda
+ ted
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Universitatea Craiova ضد ML Vitebsk — دور
+ ي أبطال أوروبا | Tomorrow: Universitatea Craiova vs ML Vitebsk
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Universitat
+ ea Craiova × ML Vitebsk | Kick-off in 30 min: Universitatea Craiova vs ML
+  Vitebsk
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022657@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260722T173000Z
+DTEND:20260722T193000Z
+SUMMARY:Levski Sofia vs Universitatea Craiova (1 - 0) — UEFA Champions Le
+ ague
+URL:https://www.fotmob.com/match/1000022657
+DESCRIPTION:⚽ ليفسكي صوفيا × Universitatea Craiova (1 - 0)\n
+ 🏆 دوري أبطال أوروبا — 2\n🗓 الأربعاء 22 يو
+ ليو 2026 · 20:30 بتوقيت الرياض\n—————\n⚽ Levsk
+ i Sofia v Universitatea Craiova (1 - 0)\n🏆 UEFA Champions League — 2\
+ n🗓 Wed 22 Jul 2026 · 17:30 UTC\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليفسكي صوفيا ضد Universitatea Craiov
+ a — دوري أبطال أوروبا | Tomorrow: Levski Sofia vs Univers
+ itatea Craiova
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليفسك
+ ي صوفيا × Universitatea Craiova | Kick-off in 30 min: Levski Sofia 
+ vs Universitatea Craiova
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022658@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260729T173000Z
+DTEND:20260729T193000Z
+SUMMARY:Universitatea Craiova vs Levski Sofia (2 - 2) — UEFA Champions Le
+ ague
+URL:https://www.fotmob.com/match/1000022658
+DESCRIPTION:⚽ Universitatea Craiova × ليفسكي صوفيا (2 - 2)\n
+ 🏆 دوري أبطال أوروبا — 2\n🗓 الأربعاء 29 يو
+ ليو 2026 · 20:30 بتوقيت الرياض\n—————\n⚽ Unive
+ rsitatea Craiova v Levski Sofia (2 - 2)\n🏆 UEFA Champions League — 2\
+ n🗓 Wed 29 Jul 2026 · 17:30 UTC\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Universitatea Craiova ضد ليفسكي صوفي
+ ا — دوري أبطال أوروبا | Tomorrow: Universitatea Craiova 
+ vs Levski Sofia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Universitat
+ ea Craiova × ليفسكي صوفيا | Kick-off in 30 min: Universitatea 
+ Craiova vs Levski Sofia
+END:VALARM
+END:VEVENT
+END:VCALENDAR

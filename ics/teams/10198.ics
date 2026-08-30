@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Yeovil Town — FA Cup Fixtures | Yeovil Town — مبار
+ يات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Yeovil Town — all matches in FA Cup\, exact UTC kickoffs\, s
+ tadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-24T12:03:55
+ Z.  •  Yeovil Town — جميع المباريات في كأس الات
+ حاد الإنجليزي بتوقيت UTC الدقيق مع الملاع
+ ب والقنوات الناقلة. المصدر: FotMob + 365scores · ت
+ حديث تلقائي 2026-10-24T12:03:55Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469293@league-calendars
+DTSTAMP:20261024T120356Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Chesterfield vs Yeovil Town — FA Cup
+LOCATION:SMH Group Stadium
+URL:https://www.fotmob.com/match/6469293
+DESCRIPTION:⚽ Chesterfield × Yeovil Town\n🏆 كأس الاتحاد ا
+ لإنجليزي — مباريات\n🗓 السبت 7 نوفمبر 2026 
+ · 18:00 بتوقيت الرياض\n🏟 SMH Group Stadium\n————
+ —\n⚽ Chesterfield v Yeovil Town\n🏆 FA Cup — Fixtures\n🗓 Sat 07
+  Nov 2026 · 15:00 UTC\n🏟 SMH Group Stadium\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Chesterfield ضد Yeovil Town — كأس الات
+ حاد الإنجليزي | Tomorrow: Chesterfield vs Yeovil Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Chesterfiel
+ d × Yeovil Town | Kick-off in 30 min: Chesterfield vs Yeovil Town
+END:VALARM
+END:VEVENT
+END:VCALENDAR

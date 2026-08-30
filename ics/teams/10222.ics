@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Stafford Rangers — FA Cup Fixtures | Stafford Rangers 
+ — مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Stafford Rangers — all matches in FA Cup\, exact UTC kickoff
+ s\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-24T12:
+ 03:55Z.  •  Stafford Rangers — جميع المباريات في كأس
+  الاتحاد الإنجليزي بتوقيت UTC الدقيق مع ال
+ ملاعب والقنوات الناقلة. المصدر: FotMob + 365scor
+ es · تحديث تلقائي 2026-10-24T12:03:55Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469309@league-calendars
+DTSTAMP:20261024T120356Z
+DTSTART:20261107T120000Z
+DTEND:20261107T140000Z
+SUMMARY:Stafford Rangers vs Grimsby Town — FA Cup
+URL:https://www.fotmob.com/match/6469309
+DESCRIPTION:⚽ Stafford Rangers × Grimsby Town\n🏆 كأس الاتحا
+ د الإنجليزي — مباريات\n🗓 السبت 7 نوفمبر 2
+ 026 · 15:00 بتوقيت الرياض\n—————\n⚽ Stafford Rang
+ ers v Grimsby Town\n🏆 FA Cup — Fixtures\n🗓 Sat 07 Nov 2026 · 12:0
+ 0 UTC\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Stafford Rangers ضد Grimsby Town — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Stafford Rangers vs Grimsby To
+ wn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Stafford Ra
+ ngers × Grimsby Town | Kick-off in 30 min: Stafford Rangers vs Grimsby To
+ wn
+END:VALARM
+END:VEVENT
+END:VCALENDAR

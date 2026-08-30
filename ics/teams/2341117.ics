@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Auriense — Copa del Rey Fixtures | أوريينسي — 
+ مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Auriense — all matches in Copa del Rey\, exact UTC kickoffs\
+ , stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-24T12:03
+ :55Z.  •  أوريينسي — جميع المباريات في كأس 
+ ملك إسبانيا بتوقيت UTC الدقيق مع الملاعب و
+ القنوات الناقلة. المصدر: FotMob + 365scores · تحد
+ يث تلقائي 2026-10-24T12:03:55Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386046@league-calendars
+DTSTAMP:20261024T120356Z
+DTSTART:20261029T200000Z
+DTEND:20261029T220000Z
+SUMMARY:Auriense vs Deportivo A Coruña — Copa del Rey
+URL:https://www.fotmob.com/match/6386046
+DESCRIPTION:⚽ أوريينسي × ديبورتيفو لا كورونيا\
+ n🏆 كأس ملك إسبانيا — مباريات\n🗓 الخميس 2
+ 9 أكتوبر 2026 · 23:00 بتوقيت الرياض\n📺 ESPN Select،
+  ESPN Unlimited\n—————\n⚽ Auriense v Deportivo A Coruña\n🏆
+  Copa del Rey — Fixtures\n🗓 Thu 29 Oct 2026 · 20:00 UTC\n📺 ESPN S
+ elect, ESPN Unlimited\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوريينسي ضد ديبورتيفو لا ك
+ ورونيا — كأس ملك إسبانيا — 📺 ESPN Select، ESPN 
+ Unlimited | Tomorrow: Auriense vs Deportivo A Coruña | TV: ESPN Select\, 
+ ESPN Unlimited
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوريي
+ نسي × ديبورتيفو لا كورونيا — 📺 ESPN Select، ES
+ PN Unlimited | Kick-off in 30 min: Auriense vs Deportivo A Coruña | TV: E
+ SPN Select\, ESPN Unlimited
+END:VALARM
+END:VEVENT
+END:VCALENDAR

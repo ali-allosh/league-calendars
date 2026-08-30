@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Aldershot Town — FA Cup Fixtures | Aldershot Town — م
+ باريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Aldershot Town — all matches in FA Cup\, exact UTC kickoffs\
+ , stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-24T12:03
+ :55Z.  •  Aldershot Town — جميع المباريات في كأس ا
+ لاتحاد الإنجليزي بتوقيت UTC الدقيق مع الم
+ لاعب والقنوات الناقلة. المصدر: FotMob + 365scores
+  · تحديث تلقائي 2026-10-24T12:03:55Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469291@league-calendars
+DTSTAMP:20261024T120356Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Barnsley vs Aldershot Town — FA Cup
+LOCATION:Oakwell Stadium
+URL:https://www.fotmob.com/match/6469291
+DESCRIPTION:⚽ Barnsley × Aldershot Town\n🏆 كأس الاتحاد ال
+ إنجليزي — مباريات\n🗓 السبت 7 نوفمبر 2026 · 
+ 18:00 بتوقيت الرياض\n🏟 Oakwell Stadium\n—————\n
+ ⚽ Barnsley v Aldershot Town\n🏆 FA Cup — Fixtures\n🗓 Sat 07 Nov 2
+ 026 · 15:00 UTC\n🏟 Oakwell Stadium\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Barnsley ضد Aldershot Town — كأس الات
+ حاد الإنجليزي | Tomorrow: Barnsley vs Aldershot Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Barnsley ×
+  Aldershot Town | Kick-off in 30 min: Barnsley vs Aldershot Town
+END:VALARM
+END:VEVENT
+END:VCALENDAR

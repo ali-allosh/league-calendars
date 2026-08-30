@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Ribadesella CF — Copa del Rey Fixtures | Ribadesella CF 
+ — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Ribadesella CF — all matches in Copa del Rey\, exact UTC kic
+ koffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-24
+ T12:03:55Z.  •  Ribadesella CF — جميع المباريات في كأ
+ س ملك إسبانيا بتوقيت UTC الدقيق مع الملاعب
+  والقنوات الناقلة. المصدر: FotMob + 365scores · تح
+ ديث تلقائي 2026-10-24T12:03:55Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386078@league-calendars
+DTSTAMP:20261024T120356Z
+DTSTART:20261029T200000Z
+DTEND:20261029T220000Z
+SUMMARY:Ribadesella CF vs Racing Santander — Copa del Rey
+URL:https://www.fotmob.com/match/6386078
+DESCRIPTION:⚽ Ribadesella CF × راسينج سانتاندير\n🏆 ك
+ أس ملك إسبانيا — مباريات\n🗓 الخميس 29 أكت
+ وبر 2026 · 23:00 بتوقيت الرياض\n📺 ESPN Select، ESPN Un
+ limited\n—————\n⚽ Ribadesella CF v Racing Santander\n🏆 Copa
+  del Rey — Fixtures\n🗓 Thu 29 Oct 2026 · 20:00 UTC\n📺 ESPN Select
+ , ESPN Unlimited\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Ribadesella CF ضد راسينج سانتاندي
+ ر — كأس ملك إسبانيا — 📺 ESPN Select، ESPN Unlimited 
+ | Tomorrow: Ribadesella CF vs Racing Santander | TV: ESPN Select\, ESPN Un
+ limited
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Ribadesella
+  CF × راسينج سانتاندير — 📺 ESPN Select، ESPN Unlimit
+ ed | Kick-off in 30 min: Ribadesella CF vs Racing Santander | TV: ESPN Sel
+ ect\, ESPN Unlimited
+END:VALARM
+END:VEVENT
+END:VCALENDAR

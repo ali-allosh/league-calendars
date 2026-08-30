@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Oxford United — FA Cup Fixtures | Oxford United — مب
+ اريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Oxford United — all matches in FA Cup\, exact UTC kickoffs\,
+  stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-24T12:03:
+ 55Z.  •  Oxford United — جميع المباريات في كأس ال
+ اتحاد الإنجليزي بتوقيت UTC الدقيق مع المل
+ اعب والقنوات الناقلة. المصدر: FotMob + 365scores 
+ · تحديث تلقائي 2026-10-24T12:03:55Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469297@league-calendars
+DTSTAMP:20261024T120356Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Oxford United vs Stevenage — FA Cup
+LOCATION:Kassam Stadium
+URL:https://www.fotmob.com/match/6469297
+DESCRIPTION:⚽ Oxford United × Stevenage\n🏆 كأس الاتحاد ال
+ إنجليزي — مباريات\n🗓 السبت 7 نوفمبر 2026 · 
+ 18:00 بتوقيت الرياض\n🏟 Kassam Stadium\n—————\n⚽
+  Oxford United v Stevenage\n🏆 FA Cup — Fixtures\n🗓 Sat 07 Nov 2026
+  · 15:00 UTC\n🏟 Kassam Stadium\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Oxford United ضد Stevenage — كأس الات
+ حاد الإنجليزي | Tomorrow: Oxford United vs Stevenage
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Oxford Unit
+ ed × Stevenage | Kick-off in 30 min: Oxford United vs Stevenage
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Peterborough United — FA Cup Fixtures | Peterborough Uni
+ ted — مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Peterborough United — all matches in FA Cup\, exact UTC kick
+ offs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-24T
+ 12:03:55Z.  •  Peterborough United — جميع المباريات في 
+ كأس الاتحاد الإنجليزي بتوقيت UTC الدقيق م
+ ع الملاعب والقنوات الناقلة. المصدر: FotMob + 
+ 365scores · تحديث تلقائي 2026-10-24T12:03:55Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469304@league-calendars
+DTSTAMP:20261024T120356Z
+DTSTART:20261107T200000Z
+DTEND:20261107T220000Z
+SUMMARY:Peterborough United vs Reading — FA Cup
+LOCATION:Weston Homes Stadium
+URL:https://www.fotmob.com/match/6469304
+DESCRIPTION:⚽ Peterborough United × Reading\n🏆 كأس الاتحاد 
+ الإنجليزي — مباريات\n🗓 السبت 7 نوفمبر 2026
+  · 23:00 بتوقيت الرياض\n🏟 Weston Homes Stadium\n———
+ ——\n⚽ Peterborough United v Reading\n🏆 FA Cup — Fixtures\n🗓 
+ Sat 07 Nov 2026 · 20:00 UTC\n🏟 Weston Homes Stadium\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Peterborough United ضد Reading — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Peterborough United vs Reading
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Peterboroug
+ h United × Reading | Kick-off in 30 min: Peterborough United vs Reading
+END:VALARM
+END:VEVENT
+END:VCALENDAR

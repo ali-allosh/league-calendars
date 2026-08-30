@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Barrow — FA Cup Fixtures | Barrow — مباريات ك
+ أس الاتحاد الإنجليزي
+X-WR-CALDESC:Barrow — all matches in FA Cup\, exact UTC kickoffs\, stadiu
+ ms & TV. Data: FotMob + 365scores · auto-updated 2026-10-24T12:03:55Z.  
+ •  Barrow — جميع المباريات في كأس الاتحاد ا
+ لإنجليزي بتوقيت UTC الدقيق مع الملاعب وال
+ قنوات الناقلة. المصدر: FotMob + 365scores · تحديث 
+ تلقائي 2026-10-24T12:03:55Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469294@league-calendars
+DTSTAMP:20261024T120356Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Gillingham vs Barrow — FA Cup
+LOCATION:MEMS Priestfield
+URL:https://www.fotmob.com/match/6469294
+DESCRIPTION:⚽ Gillingham × Barrow\n🏆 كأس الاتحاد الإنج
+ ليزي — مباريات\n🗓 السبت 7 نوفمبر 2026 · 18:00 
+ بتوقيت الرياض\n🏟 MEMS Priestfield\n—————\n⚽ Gil
+ lingham v Barrow\n🏆 FA Cup — Fixtures\n🗓 Sat 07 Nov 2026 · 15:00 
+ UTC\n🏟 MEMS Priestfield\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Gillingham ضد Barrow — كأس الاتحاد 
+ الإنجليزي | Tomorrow: Gillingham vs Barrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Gillingham 
+ × Barrow | Kick-off in 30 min: Gillingham vs Barrow
+END:VALARM
+END:VEVENT
+END:VCALENDAR

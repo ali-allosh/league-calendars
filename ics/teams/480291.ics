@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Iberia 1999 — UEFA Champions League Fixtures | Iberia 19
+ 99 — مباريات دوري أبطال أوروبا
+X-WR-CALDESC:Iberia 1999 — all matches in UEFA Champions League\, exact U
+ TC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026
+ -10-21T22:26:40Z.  •  Iberia 1999 — جميع المباريات في 
+ دوري أبطال أوروبا بتوقيت UTC الدقيق مع الم
+ لاعب والقنوات الناقلة. المصدر: FotMob + 365scores
+  · تحديث تلقائي 2026-10-21T22:26:40Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-1000022650@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260708T160000Z
+DTEND:20260708T180000Z
+SUMMARY:Flora Tallinn vs Iberia 1999 (2 - 3) — UEFA Champions League
+URL:https://www.fotmob.com/match/1000022650
+DESCRIPTION:⚽ Flora Tallinn × Iberia 1999 (2 - 3)\n🏆 دوري أبط
+ ال أوروبا — 1\n🗓 الأربعاء 8 يوليو 2026 · 19:00 
+ بتوقيت الرياض\n—————\n⚽ Flora Tallinn v Iberia 199
+ 9 (2 - 3)\n🏆 UEFA Champions League — 1\n🗓 Wed 08 Jul 2026 · 16:00
+  UTC\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Flora Tallinn ضد Iberia 1999 — دوري أب
+ طال أوروبا | Tomorrow: Flora Tallinn vs Iberia 1999
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Flora Talli
+ nn × Iberia 1999 | Kick-off in 30 min: Flora Tallinn vs Iberia 1999
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022651@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260714T160000Z
+DTEND:20260714T180000Z
+SUMMARY:Iberia 1999 vs Flora Tallinn (2 - 2) — UEFA Champions League
+URL:https://www.fotmob.com/match/1000022651
+DESCRIPTION:⚽ Iberia 1999 × Flora Tallinn (2 - 2)\n🏆 دوري أبط
+ ال أوروبا — 1\n🗓 الثلاثاء 14 يوليو 2026 · 19:00
+  بتوقيت الرياض\n—————\n⚽ Iberia 1999 v Flora Talli
+ nn (2 - 2)\n🏆 UEFA Champions League — 1\n🗓 Tue 14 Jul 2026 · 16:0
+ 0 UTC\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Iberia 1999 ضد Flora Tallinn — دوري أب
+ طال أوروبا | Tomorrow: Iberia 1999 vs Flora Tallinn
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Iberia 1999
+  × Flora Tallinn | Kick-off in 30 min: Iberia 1999 vs Flora Tallinn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022668@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260721T160000Z
+DTEND:20260721T180000Z
+SUMMARY:Iberia 1999 vs Slovan Bratislava (0 - 2) — UEFA Champions League
+URL:https://www.fotmob.com/match/1000022668
+DESCRIPTION:⚽ Iberia 1999 × سلوفان براتيسلافا (0 - 2)\n
+ 🏆 دوري أبطال أوروبا — 2\n🗓 الثلاثاء 21 يو
+ ليو 2026 · 19:00 بتوقيت الرياض\n—————\n⚽ Iberi
+ a 1999 v Slovan Bratislava (0 - 2)\n🏆 UEFA Champions League — 2\n🗓
+  Tue 21 Jul 2026 · 16:00 UTC\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Iberia 1999 ضد سلوفان براتيسلاف
+ ا — دوري أبطال أوروبا | Tomorrow: Iberia 1999 vs Slovan 
+ Bratislava
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Iberia 1999
+  × سلوفان براتيسلافا | Kick-off in 30 min: Iberia 1999 vs
+  Slovan Bratislava
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022670@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260729T181500Z
+DTEND:20260729T201500Z
+SUMMARY:Slovan Bratislava vs Iberia 1999 (1 - 1) — UEFA Champions League
+LOCATION:Štadión Tehelné pole\, Bratislava\, Slovakia
+GEO:48.163495;17.136698
+URL:https://www.fotmob.com/match/1000022670
+DESCRIPTION:⚽ سلوفان براتيسلافا × Iberia 1999 (1 - 1)\n
+ 🏆 دوري أبطال أوروبا — 2\n🗓 الأربعاء 29 يو
+ ليو 2026 · 21:15 بتوقيت الرياض\n🏟 Štadión Tehelné po
+ le، Bratislava\n—————\n⚽ Slovan Bratislava v Iberia 1999 (1 -
+  1)\n🏆 UEFA Champions League — 2\n🗓 Wed 29 Jul 2026 · 18:15 UTC\n
+ 🏟 Štadión Tehelné pole, Bratislava\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سلوفان براتيسلافا ضد Iberia 199
+ 9 — دوري أبطال أوروبا | Tomorrow: Slovan Bratislava vs Ib
+ eria 1999
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سلوفا
+ ن براتيسلافا × Iberia 1999 | Kick-off in 30 min: Slovan Bratis
+ lava vs Iberia 1999
+END:VALARM
+END:VEVENT
+END:VCALENDAR

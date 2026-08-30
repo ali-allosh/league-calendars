@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Stockport County — FA Cup Fixtures | Stockport County 
+ — مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Stockport County — all matches in FA Cup\, exact UTC kickoff
+ s\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-24T12:
+ 03:55Z.  •  Stockport County — جميع المباريات في كأس
+  الاتحاد الإنجليزي بتوقيت UTC الدقيق مع ال
+ ملاعب والقنوات الناقلة. المصدر: FotMob + 365scor
+ es · تحديث تلقائي 2026-10-24T12:03:55Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469299@league-calendars
+DTSTAMP:20261024T120356Z
+DTSTART:20261108T141500Z
+DTEND:20261108T161500Z
+SUMMARY:Cray Wanderers vs Stockport County — FA Cup
+URL:https://www.fotmob.com/match/6469299
+DESCRIPTION:⚽ Cray Wanderers × Stockport County\n🏆 كأس الاتح
+ اد الإنجليزي — مباريات\n🗓 الأحد 8 نوفمبر
+  2026 · 17:15 بتوقيت الرياض\n—————\n⚽ Cray Wander
+ ers v Stockport County\n🏆 FA Cup — Fixtures\n🗓 Sun 08 Nov 2026 · 
+ 14:15 UTC\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Cray Wanderers ضد Stockport County — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Cray Wanderers vs Stockport 
+ County
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Cray Wander
+ ers × Stockport County | Kick-off in 30 min: Cray Wanderers vs Stockport 
+ County
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ AFC Fylde — FA Cup Fixtures | AFC Fylde — مباريا
+ ت كأس الاتحاد الإنجليزي
+X-WR-CALDESC:AFC Fylde — all matches in FA Cup\, exact UTC kickoffs\, sta
+ diums & TV. Data: FotMob + 365scores · auto-updated 2026-10-24T12:03:55Z.
+   •  AFC Fylde — جميع المباريات في كأس الاتحا
+ د الإنجليزي بتوقيت UTC الدقيق مع الملاعب و
+ القنوات الناقلة. المصدر: FotMob + 365scores · تحد
+ يث تلقائي 2026-10-24T12:03:55Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469295@league-calendars
+DTSTAMP:20261024T120356Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Harrogate Town vs AFC Fylde — FA Cup
+URL:https://www.fotmob.com/match/6469295
+DESCRIPTION:⚽ Harrogate Town × AFC Fylde\n🏆 كأس الاتحاد ا
+ لإنجليزي — مباريات\n🗓 السبت 7 نوفمبر 2026 
+ · 18:00 بتوقيت الرياض\n—————\n⚽ Harrogate Town v 
+ AFC Fylde\n🏆 FA Cup — Fixtures\n🗓 Sat 07 Nov 2026 · 15:00 UTC\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Harrogate Town ضد AFC Fylde — كأس الات
+ حاد الإنجليزي | Tomorrow: Harrogate Town vs AFC Fylde
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Harrogate T
+ own × AFC Fylde | Kick-off in 30 min: Harrogate Town vs AFC Fylde
+END:VALARM
+END:VEVENT
+END:VCALENDAR

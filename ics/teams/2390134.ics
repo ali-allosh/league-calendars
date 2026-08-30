@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Harrogate Town/Bury — FA Cup Fixtures | Harrogate Town/B
+ ury — مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Harrogate Town/Bury — all matches in FA Cup\, exact UTC kick
+ offs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10-20T
+ 18:01:21Z.  •  Harrogate Town/Bury — جميع المباريات في 
+ كأس الاتحاد الإنجليزي بتوقيت UTC الدقيق م
+ ع الملاعب والقنوات الناقلة. المصدر: FotMob + 
+ 365scores · تحديث تلقائي 2026-10-20T18:01:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469295@league-calendars
+DTSTAMP:20261020T180122Z
+DTSTART:20261107T194500Z
+DTEND:20261107T214500Z
+SUMMARY:Harrogate Town/Bury vs AFC Fylde — FA Cup
+URL:https://www.fotmob.com/match/6469295
+DESCRIPTION:⚽ Harrogate Town/Bury × AFC Fylde\n🏆 كأس الاتحا
+ د الإنجليزي — مباريات\n🗓 السبت 7 نوفمبر 2
+ 026 · 22:45 بتوقيت الرياض\n—————\n⚽ Harrogate Tow
+ n/Bury v AFC Fylde\n🏆 FA Cup — Fixtures\n🗓 Sat 07 Nov 2026 · 19:4
+ 5 UTC\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Harrogate Town/Bury ضد AFC Fylde — كأس ا
+ لاتحاد الإنجليزي | Tomorrow: Harrogate Town/Bury vs AFC Fyl
+ de
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Harrogate T
+ own/Bury × AFC Fylde | Kick-off in 30 min: Harrogate Town/Bury vs AFC Fyl
+ de
+END:VALARM
+END:VEVENT
+END:VCALENDAR
