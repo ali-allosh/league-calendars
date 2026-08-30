@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Bristol Rovers — FA Cup Fixtures | Bristol Rovers — م
+ باريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Bristol Rovers — all matches in FA Cup\, exact UTC kickoffs\
+ , stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-14T18:46
+ :21Z.  •  Bristol Rovers — جميع المباريات في كأس ا
+ لاتحاد الإنجليزي بتوقيت UTC الدقيق مع الم
+ لاعب والقنوات الناقلة. المصدر: FotMob + 365scores
+  · تحديث تلقائي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469281@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261106T193000Z
+DTEND:20261106T213000Z
+SUMMARY:Bristol Rovers vs Cambridge United (2 - 0) — FA Cup
+LOCATION:Memorial Stadium\, Bristol\, Gloucestershire\, England
+GEO:51.486225;-2.583148
+URL:https://www.fotmob.com/match/6469281
+DESCRIPTION:⚽ Bristol Rovers × Cambridge United (2 - 0)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الأول\n🗓 الجمع
+ ة 6 نوفمبر 2026 · 22:30 بتوقيت الرياض\n🏟 Memorial S
+ tadium، Bristol, Gloucestershire\n⚖️ الحكم: Jamie O'Connor\n—
+ ————\n⚽ Bristol Rovers v Cambridge United (2 - 0)\n🏆 FA Cup 
+ — Round 1\n🗓 Fri 06 Nov 2026 · 19:30 UTC\n🏟 Memorial Stadium, Bri
+ stol, Gloucestershire\nReferee: Jamie O'Connor\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Bristol Rovers ضد Cambridge United — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Bristol Rovers vs Cambridge 
+ United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Bristol Rov
+ ers × Cambridge United | Kick-off in 30 min: Bristol Rovers vs Cambridge 
+ United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6615133@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Rotherham United vs Bristol Rovers — FA Cup
+LOCATION:New York Stadium
+URL:https://www.fotmob.com/match/6615133
+DESCRIPTION:⚽ Rotherham United × Bristol Rovers\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الثاني\n🗓 السبت 5 د
+ يسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 New York Stadium\
+ n—————\n⚽ Rotherham United v Bristol Rovers\n🏆 FA Cup — R
+ ound 2\n🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 New York Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Rotherham United ضد Bristol Rovers — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Rotherham United vs Bristol 
+ Rovers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Rotherham U
+ nited × Bristol Rovers | Kick-off in 30 min: Rotherham United vs Bristol 
+ Rovers
+END:VALARM
+END:VEVENT
+END:VCALENDAR

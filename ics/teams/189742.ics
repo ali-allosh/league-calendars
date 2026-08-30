@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ San Rafael — Copa del Rey Fixtures | San Rafael — مب
+ اريات كأس ملك إسبانيا
+X-WR-CALDESC:San Rafael — all matches in Copa del Rey\, exact UTC kickoff
+ s\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-14T18:
+ 46:21Z.  •  San Rafael — جميع المباريات في كأس مل
+ ك إسبانيا بتوقيت UTC الدقيق مع الملاعب وال
+ قنوات الناقلة. المصدر: FotMob + 365scores · تحديث 
+ تلقائي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-1000023530@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20260927T140000Z
+DTEND:20260927T160000Z
+SUMMARY:San Rafael vs AE Prat (1 - 5) — Copa del Rey
+LOCATION:Estadio Municipal de San Rafael de Sa Creu\, San Rafael de Sa Creu
+  (Ibiza)\, Spain
+GEO:38.965957;1.404402
+URL:https://www.fotmob.com/match/1000023530
+DESCRIPTION:⚽ San Rafael × برات (1 - 5)\n🏆 كأس ملك إسبا
+ نيا — الدور التمهيدي\n🗓 الأحد 27 سبتمبر 20
+ 26 · 17:00 بتوقيت الرياض\n🏟 Estadio Municipal de San Rafae
+ l de Sa Creu، San Rafael de Sa Creu (Ibiza)\n—————\n⚽ San Raf
+ ael v AE Prat (1 - 5)\n🏆 Copa del Rey — Preliminary Round\n🗓 Sun 2
+ 7 Sep 2026 · 14:00 UTC\n🏟 Estadio Municipal de San Rafael de Sa Creu, 
+ San Rafael de Sa Creu (Ibiza)\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: San Rafael ضد برات — كأس ملك إسب
+ انيا | Tomorrow: San Rafael vs AE Prat
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: San Rafael 
+ × برات | Kick-off in 30 min: San Rafael vs AE Prat
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023527@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261011T140000Z
+DTEND:20261011T160000Z
+SUMMARY:AE Prat vs San Rafael (5 - 0) — Copa del Rey
+LOCATION:Estadio Municipal Sagnier\, El Prat de Llobregat\, Spain
+GEO:41.320337;2.083502
+URL:https://www.fotmob.com/match/1000023527
+DESCRIPTION:⚽ برات × San Rafael (5 - 0)\n🏆 كأس ملك إسبا
+ نيا — الدور التمهيدي\n🗓 الأحد 11 أكتوبر 20
+ 26 · 17:00 بتوقيت الرياض\n🏟 Estadio Municipal Sagnier، El
+  Prat de Llobregat\n—————\n⚽ AE Prat v San Rafael (5 - 0)\n
+ 🏆 Copa del Rey — Preliminary Round\n🗓 Sun 11 Oct 2026 · 14:00 UTC
+ \n🏟 Estadio Municipal Sagnier, El Prat de Llobregat\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برات ضد San Rafael — كأس ملك إسب
+ انيا | Tomorrow: AE Prat vs San Rafael
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برات ×
+  San Rafael | Kick-off in 30 min: AE Prat vs San Rafael
+END:VALARM
+END:VEVENT
+END:VCALENDAR

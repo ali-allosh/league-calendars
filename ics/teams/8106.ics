@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Klaksvik — UEFA Champions League Fixtures | Klaksvik —
+  مباريات دوري أبطال أوروبا
+X-WR-CALDESC:Klaksvik — all matches in UEFA Champions League\, exact UTC 
+ kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10
+ -21T22:26:40Z.  •  Klaksvik — جميع المباريات في دور
+ ي أبطال أوروبا بتوقيت UTC الدقيق مع الملاع
+ ب والقنوات الناقلة. المصدر: FotMob + 365scores · ت
+ حديث تلقائي 2026-10-21T22:26:40Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-1000022656@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260707T184500Z
+DTEND:20260707T204500Z
+SUMMARY:Klaksvik vs Atert Bissen (2 - 1) — UEFA Champions League
+LOCATION:Við Djúpumýrar\, Klaksvík\, Borðoy\, Faroe Islands
+GEO:62.224654;-6.580154
+URL:https://www.fotmob.com/match/1000022656
+DESCRIPTION:⚽ Klaksvik × Atert Bissen (2 - 1)\n🏆 دوري أبطال 
+ أوروبا — 1\n🗓 الثلاثاء 7 يوليو 2026 · 21:45 بت
+ وقيت الرياض\n🏟 Við Djúpumýrar، Klaksvík, Borðoy\n👥 
+ الحضور: 1,095\n—————\n⚽ Klaksvik v Atert Bissen (2 - 1)\
+ n🏆 UEFA Champions League — 1\n🗓 Tue 07 Jul 2026 · 18:45 UTC\n🏟
+  Við Djúpumýrar, Klaksvík, Borðoy\nAttendance: 1,095\n—————
+ \n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚
+  Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Klaksvik ضد Atert Bissen — دوري أبطا
+ ل أوروبا | Tomorrow: Klaksvik vs Atert Bissen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Klaksvik ×
+  Atert Bissen | Kick-off in 30 min: Klaksvik vs Atert Bissen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022630@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260715T181500Z
+DTEND:20260715T201500Z
+SUMMARY:Atert Bissen vs Klaksvik (1 - 2) — UEFA Champions League
+URL:https://www.fotmob.com/match/1000022630
+DESCRIPTION:⚽ Atert Bissen × Klaksvik (1 - 2)\n🏆 دوري أبطال 
+ أوروبا — 1\n🗓 الأربعاء 15 يوليو 2026 · 21:15 بت
+ وقيت الرياض\n—————\n⚽ Atert Bissen v Klaksvik (1 - 2
+ )\n🏆 UEFA Champions League — 1\n🗓 Wed 15 Jul 2026 · 18:15 UTC\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Atert Bissen ضد Klaksvik — دوري أبطا
+ ل أوروبا | Tomorrow: Atert Bissen vs Klaksvik
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Atert Bisse
+ n × Klaksvik | Kick-off in 30 min: Atert Bissen vs Klaksvik
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022675@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260721T184500Z
+DTEND:20260721T204500Z
+SUMMARY:Klaksvik vs FK Kauno Žalgiris (0 - 0) — UEFA Champions League
+LOCATION:Við Djúpumýrar\, Klaksvík\, Borðoy\, Faroe Islands
+GEO:62.224654;-6.580154
+URL:https://www.fotmob.com/match/1000022675
+DESCRIPTION:⚽ Klaksvik × FK Kauno Žalgiris (0 - 0)\n🏆 دوري أب
+ طال أوروبا — 2\n🗓 الثلاثاء 21 يوليو 2026 · 21:
+ 45 بتوقيت الرياض\n🏟 Við Djúpumýrar، Klaksvík, Borðoy\
+ n—————\n⚽ Klaksvik v FK Kauno Žalgiris (0 - 0)\n🏆 UEFA Cha
+ mpions League — 2\n🗓 Tue 21 Jul 2026 · 18:45 UTC\n🏟 Við Djúpum
+ ýrar, Klaksvík, Borðoy\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Klaksvik ضد FK Kauno Žalgiris — دوري أ
+ بطال أوروبا | Tomorrow: Klaksvik vs FK Kauno Žalgiris
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Klaksvik ×
+  FK Kauno Žalgiris | Kick-off in 30 min: Klaksvik vs FK Kauno Žalgiris
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022669@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260729T160000Z
+DTEND:20260729T180000Z
+SUMMARY:FK Kauno Žalgiris vs Klaksvik (1 - 0) — UEFA Champions League
+LOCATION:S. Dariaus ir S. Girėno stadionas\, Kaunas\, Lithuania
+GEO:54.897366;23.937111
+URL:https://www.fotmob.com/match/1000022669
+DESCRIPTION:⚽ FK Kauno Žalgiris × Klaksvik (1 - 0)\n🏆 دوري أب
+ طال أوروبا — 2\n🗓 الأربعاء 29 يوليو 2026 · 19:
+ 00 بتوقيت الرياض\n🏟 S. Dariaus ir S. Girėno stadionas، Ka
+ unas\n—————\n⚽ FK Kauno Žalgiris v Klaksvik (1 - 0)\n🏆 UEF
+ A Champions League — 2\n🗓 Wed 29 Jul 2026 · 16:00 UTC\n🏟 S. Daria
+ us ir S. Girėno stadionas, Kaunas\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: FK Kauno Žalgiris ضد Klaksvik — دوري أ
+ بطال أوروبا | Tomorrow: FK Kauno Žalgiris vs Klaksvik
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: FK Kauno Ž
+ algiris × Klaksvik | Kick-off in 30 min: FK Kauno Žalgiris vs Klaksvik
+END:VALARM
+END:VEVENT
+END:VCALENDAR

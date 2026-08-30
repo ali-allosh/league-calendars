@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Atlético Tordesillas — Copa del Rey Fixtures | أتلي
+ تكو تورديسيياس — مباريات كأس ملك إسباني
+ ا
+X-WR-CALDESC:Atlético Tordesillas — all matches in Copa del Rey\, exact 
+ UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 202
+ 6-11-14T18:46:21Z.  •  أتليتكو تورديسيياس — جميع 
+ المباريات في كأس ملك إسبانيا بتوقيت UTC ال
+ دقيق مع الملاعب والقنوات الناقلة. المصدر
+ : FotMob + 365scores · تحديث تلقائي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386045@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261027T190000Z
+DTEND:20261027T210000Z
+SUMMARY:Atlético Tordesillas vs CD Mirandés (3 - 3) — Copa del Rey
+LOCATION:Estadio Las Salinas\, Tordesillas\, Spain
+GEO:41.488223;-4.999750
+URL:https://www.fotmob.com/match/6386045
+DESCRIPTION:⚽ أتليتكو تورديسيياس × ميراندس (3 - 
+ 3)\n🏆 كأس ملك إسبانيا — 1\n🗓 الثلاثاء 27 أك
+ توبر 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio Las Salinas
+ ، Tordesillas\n⚖️ الحكم: Guillermo Cueto Amigo\n—————\
+ n⚽ Atlético Tordesillas v CD Mirandés (3 - 3)\n🏆 Copa del Rey — 1
+ \n🗓 Tue 27 Oct 2026 · 19:00 UTC\n🏟 Estadio Las Salinas, Tordesillas
+ \nReferee: Guillermo Cueto Amigo\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتليتكو تورديسيياس ضد ميرا
+ ندس — كأس ملك إسبانيا | Tomorrow: Atlético Tordesillas 
+ vs CD Mirandés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتليت
+ كو تورديسيياس × ميراندس | Kick-off in 30 min: Atlétic
+ o Tordesillas vs CD Mirandés
+END:VALARM
+END:VEVENT
+END:VCALENDAR

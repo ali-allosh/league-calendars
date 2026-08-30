@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ AFC Fylde — FA Cup Fixtures | AFC Fylde — مباريا
+ ت كأس الاتحاد الإنجليزي
+X-WR-CALDESC:AFC Fylde — all matches in FA Cup\, exact UTC kickoffs\, sta
+ diums & TV. Data: FotMob + 365scores · auto-updated 2026-11-14T18:46:21Z.
+   •  AFC Fylde — جميع المباريات في كأس الاتحا
+ د الإنجليزي بتوقيت UTC الدقيق مع الملاعب و
+ القنوات الناقلة. المصدر: FotMob + 365scores · تحد
+ يث تلقائي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469295@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Harrogate Town vs AFC Fylde (1 - 4) — FA Cup
+LOCATION:Marcy Fitness Stadium\, Harrogate\, North Yorkshire\, England
+GEO:53.991703;-1.514493
+URL:https://www.fotmob.com/match/6469295
+DESCRIPTION:⚽ Harrogate Town × AFC Fylde (1 - 4)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الأول\n🗓 السبت 7 نو
+ فمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Marcy Fitness Stadi
+ um، Harrogate, North Yorkshire\n⚖️ الحكم: Declan Brown\n——
+ ———\n⚽ Harrogate Town v AFC Fylde (1 - 4)\n🏆 FA Cup — Round 1
+ \n🗓 Sat 07 Nov 2026 · 15:00 UTC\n🏟 Marcy Fitness Stadium, Harrogate
+ , North Yorkshire\nReferee: Declan Brown\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Harrogate Town ضد AFC Fylde — كأس الات
+ حاد الإنجليزي | Tomorrow: Harrogate Town vs AFC Fylde
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Harrogate T
+ own × AFC Fylde | Kick-off in 30 min: Harrogate Town vs AFC Fylde
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6615123@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:AFC Fylde vs Luton Town — FA Cup
+LOCATION:Mill Farm
+URL:https://www.fotmob.com/match/6615123
+DESCRIPTION:⚽ AFC Fylde × Luton Town\n🏆 كأس الاتحاد الإ
+ نجليزي — الدور الثاني\n🗓 السبت 5 ديسمبر 2
+ 026 · 18:00 بتوقيت الرياض\n🏟 Mill Farm\n—————\n
+ ⚽ AFC Fylde v Luton Town\n🏆 FA Cup — Round 2\n🗓 Sat 05 Dec 2026 
+ · 15:00 UTC\n🏟 Mill Farm\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: AFC Fylde ضد Luton Town — كأس الاتحا
+ د الإنجليزي | Tomorrow: AFC Fylde vs Luton Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: AFC Fylde 
+ × Luton Town | Kick-off in 30 min: AFC Fylde vs Luton Town
+END:VALARM
+END:VEVENT
+END:VCALENDAR

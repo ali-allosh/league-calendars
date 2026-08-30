@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ CS Puertollano — Copa del Rey Fixtures | بويرتوي
+ انو — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:CS Puertollano — all matches in Copa del Rey\, exact UTC kic
+ koffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-14
+ T18:46:21Z.  •  بويرتويانو — جميع المباريات ف
+ ي كأس ملك إسبانيا بتوقيت UTC الدقيق مع الم
+ لاعب والقنوات الناقلة. المصدر: FotMob + 365scores
+  · تحديث تلقائي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386074@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261112T173000Z
+DTEND:20261112T193000Z
+SUMMARY:CS Puertollano vs Albacete (0 - 3) — Copa del Rey
+LOCATION:Estadio Ciudad de Puertollano\, Puertollano\, Spain
+GEO:38.682847;-4.088695
+URL:https://www.fotmob.com/match/6386074
+DESCRIPTION:⚽ بويرتويانو × ألباسيتي (0 - 3)\n🏆 كأ
+ س ملك إسبانيا — 1\n🗓 الخميس 12 نوفمبر 2026 · 
+ 20:30 بتوقيت الرياض\n🏟 Estadio Ciudad de Puertollano، Puer
+ tollano\n⚖️ الحكم: José Luis Guzmán Mansilla\n👥 الحضور
+ : 2,000\n—————\n⚽ CS Puertollano v Albacete (0 - 3)\n🏆 Copa
+  del Rey — 1\n🗓 Thu 12 Nov 2026 · 17:30 UTC\n🏟 Estadio Ciudad de 
+ Puertollano, Puertollano\nReferee: José Luis Guzmán Mansilla\nAttendance
+ : 2,000\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بويرتويانو ضد ألباسيتي — ك
+ أس ملك إسبانيا | Tomorrow: CS Puertollano vs Albacete
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بويرت
+ ويانو × ألباسيتي | Kick-off in 30 min: CS Puertollano vs Alb
+ acete
+END:VALARM
+END:VEVENT
+END:VCALENDAR

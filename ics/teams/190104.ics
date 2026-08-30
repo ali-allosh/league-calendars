@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Atletico Calatayud — Copa del Rey Fixtures | أتليت
+ كو كالاتايود — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Atletico Calatayud — all matches in Copa del Rey\, exact UTC
+  kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-1
+ 1-14T18:46:21Z.  •  أتليتكو كالاتايود — جميع ال
+ مباريات في كأس ملك إسبانيا بتوقيت UTC الدق
+ يق مع الملاعب والقنوات الناقلة. المصدر: Fo
+ tMob + 365scores · تحديث تلقائي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-1000023528@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20260926T160000Z
+DTEND:20260926T180000Z
+SUMMARY:Atletico Calatayud vs CD Baztán (2 - 0) — Copa del Rey
+LOCATION:Estadio Municipal de San Íñigo\, Calatayud\, Spain
+GEO:41.351945;-1.623858
+URL:https://www.fotmob.com/match/1000023528
+DESCRIPTION:⚽ أتليتكو كالاتايود × CD Baztán (2 - 0)\n
+ 🏆 كأس ملك إسبانيا — الدور التمهيدي\n🗓 ا
+ لسبت 26 سبتمبر 2026 · 19:00 بتوقيت الرياض\n🏟 Est
+ adio Municipal de San Íñigo، Calatayud\n—————\n⚽ Atletico C
+ alatayud v CD Baztán (2 - 0)\n🏆 Copa del Rey — Preliminary Round\n
+ 🗓 Sat 26 Sep 2026 · 16:00 UTC\n🏟 Estadio Municipal de San Íñigo, 
+ Calatayud\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتليتكو كالاتايود ضد CD Baztán
+  — كأس ملك إسبانيا | Tomorrow: Atletico Calatayud vs CD Baz
+ tán
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتليت
+ كو كالاتايود × CD Baztán | Kick-off in 30 min: Atletico Calat
+ ayud vs CD Baztán
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023529@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261003T153000Z
+DTEND:20261003T173000Z
+SUMMARY:CD Baztán vs Atletico Calatayud (1 - 2) — Copa del Rey
+LOCATION:Paraje Gilxaurdi\, Elizondo\, Spain
+GEO:43.148597;-1.518528
+URL:https://www.fotmob.com/match/1000023529
+DESCRIPTION:⚽ CD Baztán × أتليتكو كالاتايود (1 - 2)\n
+ 🏆 كأس ملك إسبانيا — الدور التمهيدي\n🗓 ا
+ لسبت 3 أكتوبر 2026 · 18:30 بتوقيت الرياض\n🏟 Para
+ je Gilxaurdi، Elizondo\n—————\n⚽ CD Baztán v Atletico Calata
+ yud (1 - 2)\n🏆 Copa del Rey — Preliminary Round\n🗓 Sat 03 Oct 2026
+  · 15:30 UTC\n🏟 Paraje Gilxaurdi, Elizondo\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: CD Baztán ضد أتليتكو كالاتايود
+  — كأس ملك إسبانيا | Tomorrow: CD Baztán vs Atletico Calat
+ ayud
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: CD Baztán 
+ × أتليتكو كالاتايود | Kick-off in 30 min: CD Baztán vs A
+ tletico Calatayud
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386043@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261029T180000Z
+DTEND:20261029T200000Z
+SUMMARY:Atletico Calatayud vs Osasuna (0 - 6) — Copa del Rey
+LOCATION:Estadio Municipal de San Íñigo\, Calatayud\, Spain
+GEO:41.351945;-1.623858
+URL:https://www.fotmob.com/match/6386043
+DESCRIPTION:⚽ أتليتكو كالاتايود × أوساسونا (0 - 
+ 6)\n🏆 كأس ملك إسبانيا — 1\n🗓 الخميس 29 أكتو
+ بر 2026 · 21:00 بتوقيت الرياض\n🏟 Estadio Municipal de Sa
+ n Íñigo، Calatayud\n⚖️ الحكم: Javier Alberola Rojas\n———
+ ——\n⚽ Atletico Calatayud v Osasuna (0 - 6)\n🏆 Copa del Rey — 1\
+ n🗓 Thu 29 Oct 2026 · 18:00 UTC\n🏟 Estadio Municipal de San Íñigo,
+  Calatayud\nReferee: Javier Alberola Rojas\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتليتكو كالاتايود ضد أوساس
+ ونا — كأس ملك إسبانيا | Tomorrow: Atletico Calatayud vs 
+ Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتليت
+ كو كالاتايود × أوساسونا | Kick-off in 30 min: Atletico
+  Calatayud vs Osasuna
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Anaitasuna FT — Copa del Rey Fixtures | أنايتاسو
+ نا — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Anaitasuna FT — all matches in Copa del Rey\, exact UTC kick
+ offs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-14T
+ 18:46:21Z.  •  أنايتاسونا — جميع المباريات في
+  كأس ملك إسبانيا بتوقيت UTC الدقيق مع المل
+ اعب والقنوات الناقلة. المصدر: FotMob + 365scores 
+ · تحديث تلقائي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-1000023515@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20260926T160000Z
+DTEND:20260926T180000Z
+SUMMARY:Anaitasuna FT vs CD Tedeon (5 - 0) — Copa del Rey
+LOCATION:Campo Txerloia\, Azkoitia\, Spain
+GEO:43.173581;-2.299914
+URL:https://www.fotmob.com/match/1000023515
+DESCRIPTION:⚽ أنايتاسونا × CD Tedeon (5 - 0)\n🏆 كأس مل
+ ك إسبانيا — الدور التمهيدي\n🗓 السبت 26 سب
+ تمبر 2026 · 19:00 بتوقيت الرياض\n🏟 Campo Txerloia، Az
+ koitia\n—————\n⚽ Anaitasuna FT v CD Tedeon (5 - 0)\n🏆 Copa 
+ del Rey — Preliminary Round\n🗓 Sat 26 Sep 2026 · 16:00 UTC\n🏟 Cam
+ po Txerloia, Azkoitia\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أنايتاسونا ضد CD Tedeon — كأس م
+ لك إسبانيا | Tomorrow: Anaitasuna FT vs CD Tedeon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أنايت
+ اسونا × CD Tedeon | Kick-off in 30 min: Anaitasuna FT vs CD Tedeon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023517@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261003T160000Z
+DTEND:20261003T180000Z
+SUMMARY:CD Tedeon vs Anaitasuna FT (2 - 5) — Copa del Rey
+LOCATION:Estadio San Miguel\, Navarrete\, Spain
+GEO:42.424910;-2.556639
+URL:https://www.fotmob.com/match/1000023517
+DESCRIPTION:⚽ CD Tedeon × أنايتاسونا (2 - 5)\n🏆 كأس مل
+ ك إسبانيا — الدور التمهيدي\n🗓 السبت 3 أك
+ توبر 2026 · 19:00 بتوقيت الرياض\n🏟 Estadio San Miguel
+ ، Navarrete\n—————\n⚽ CD Tedeon v Anaitasuna FT (2 - 5)\n🏆
+  Copa del Rey — Preliminary Round\n🗓 Sat 03 Oct 2026 · 16:00 UTC\n
+ 🏟 Estadio San Miguel, Navarrete\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: CD Tedeon ضد أنايتاسونا — كأس م
+ لك إسبانيا | Tomorrow: CD Tedeon vs Anaitasuna FT
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: CD Tedeon 
+ × أنايتاسونا | Kick-off in 30 min: CD Tedeon vs Anaitasuna FT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386040@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261110T180000Z
+DTEND:20261110T200000Z
+SUMMARY:Anaitasuna FT vs Deportivo Alavés (1 - 6) — Copa del Rey
+LOCATION:Campo Txerloia\, Azkoitia\, Spain
+GEO:43.173581;-2.299914
+URL:https://www.fotmob.com/match/6386040
+DESCRIPTION:⚽ أنايتاسونا × ديبورتيفو ألافيس (1 
+ - 6)\n🏆 كأس ملك إسبانيا — 1\n🗓 الثلاثاء 10 ن
+ وفمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Campo Txerloia، 
+ Azkoitia\n⚖️ الحكم: Ricardo de Burgos Bengoetxea\n👥 الحضو
+ ر: 1,379\n—————\n⚽ Anaitasuna FT v Deportivo Alavés (1 - 6)\
+ n🏆 Copa del Rey — 1\n🗓 Tue 10 Nov 2026 · 18:00 UTC\n🏟 Campo Tx
+ erloia, Azkoitia\nReferee: Ricardo de Burgos Bengoetxea\nAttendance: 1,379
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أنايتاسونا ضد ديبورتيفو أل
+ افيس — كأس ملك إسبانيا | Tomorrow: Anaitasuna FT vs Dep
+ ortivo Alavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أنايت
+ اسونا × ديبورتيفو ألافيس | Kick-off in 30 min: Anaita
+ suna FT vs Deportivo Alavés
+END:VALARM
+END:VEVENT
+END:VCALENDAR

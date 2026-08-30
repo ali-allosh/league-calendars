@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ UB Lebrijana — Copa del Rey Fixtures | ليبريخان
+ ا — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:UB Lebrijana — all matches in Copa del Rey\, exact UTC kicko
+ ffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-14T1
+ 8:46:21Z.  •  ليبريخانا — جميع المباريات في ك
+ أس ملك إسبانيا بتوقيت UTC الدقيق مع الملاع
+ ب والقنوات الناقلة. المصدر: FotMob + 365scores · ت
+ حديث تلقائي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-1000023513@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20260926T160000Z
+DTEND:20260926T180000Z
+SUMMARY:UB Lebrijana vs CD Ceuta 6 de Junio (5 - 0) — Copa del Rey
+LOCATION:Estadio Municipal\, Lebrija\, Spain
+GEO:36.916034;-6.081233
+URL:https://www.fotmob.com/match/1000023513
+DESCRIPTION:⚽ ليبريخانا × CD Ceuta 6 de Junio (5 - 0)\n🏆 ك
+ أس ملك إسبانيا — الدور التمهيدي\n🗓 السب
+ ت 26 سبتمبر 2026 · 19:00 بتوقيت الرياض\n🏟 Estadio M
+ unicipal، Lebrija\n—————\n⚽ UB Lebrijana v CD Ceuta 6 de Juni
+ o (5 - 0)\n🏆 Copa del Rey — Preliminary Round\n🗓 Sat 26 Sep 2026 
+ · 16:00 UTC\n🏟 Estadio Municipal, Lebrija\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليبريخانا ضد CD Ceuta 6 de Junio — 
+ كأس ملك إسبانيا | Tomorrow: UB Lebrijana vs CD Ceuta 6 de Jun
+ io
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليبري
+ خانا × CD Ceuta 6 de Junio | Kick-off in 30 min: UB Lebrijana vs CD C
+ euta 6 de Junio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023514@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261003T160000Z
+DTEND:20261003T180000Z
+SUMMARY:CD Ceuta 6 de Junio vs UB Lebrijana (1 - 2) — Copa del Rey
+LOCATION:Campo Municipal de Fútbol José Martínez Pirri\, Ceuta\, Spain
+GEO:35.891636;-5.299224
+URL:https://www.fotmob.com/match/1000023514
+DESCRIPTION:⚽ CD Ceuta 6 de Junio × ليبريخانا (1 - 2)\n🏆 ك
+ أس ملك إسبانيا — الدور التمهيدي\n🗓 السب
+ ت 3 أكتوبر 2026 · 19:00 بتوقيت الرياض\n🏟 Campo Muni
+ cipal de Fútbol José Martínez Pirri، Ceuta\n—————\n⚽ CD Ce
+ uta 6 de Junio v UB Lebrijana (1 - 2)\n🏆 Copa del Rey — Preliminary R
+ ound\n🗓 Sat 03 Oct 2026 · 16:00 UTC\n🏟 Campo Municipal de Fútbol J
+ osé Martínez Pirri, Ceuta\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: CD Ceuta 6 de Junio ضد ليبريخانا — 
+ كأس ملك إسبانيا | Tomorrow: CD Ceuta 6 de Junio vs UB Lebrija
+ na
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: CD Ceuta 6 
+ de Junio × ليبريخانا | Kick-off in 30 min: CD Ceuta 6 de Junio v
+ s UB Lebrijana
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386062@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261029T180000Z
+DTEND:20261029T200000Z
+SUMMARY:UB Lebrijana vs Getafe (2 - 3) — Copa del Rey
+LOCATION:Estadio Municipal\, Lebrija\, Spain
+GEO:36.916034;-6.081233
+URL:https://www.fotmob.com/match/6386062
+DESCRIPTION:⚽ ليبريخانا × خيتافي (2 - 3)\n🏆 كأس م
+ لك إسبانيا — 1\n🗓 الخميس 29 أكتوبر 2026 · 21:00
+  بتوقيت الرياض\n🏟 Estadio Municipal، Lebrija\n⚖️ ال
+ حكم: Isidro Díaz de Mera Escuderos\n—————\n⚽ UB Lebrijana 
+ v Getafe (2 - 3)\n🏆 Copa del Rey — 1\n🗓 Thu 29 Oct 2026 · 18:00 U
+ TC\n🏟 Estadio Municipal, Lebrija\nReferee: Isidro Díaz de Mera Escuder
+ os\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليبريخانا ضد خيتافي — كأس 
+ ملك إسبانيا | Tomorrow: UB Lebrijana vs Getafe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليبري
+ خانا × خيتافي | Kick-off in 30 min: UB Lebrijana vs Getafe
+END:VALARM
+END:VEVENT
+END:VCALENDAR

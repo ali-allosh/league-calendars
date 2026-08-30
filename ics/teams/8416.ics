@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Colchester United — FA Cup Fixtures | Colchester United 
+ — مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Colchester United — all matches in FA Cup\, exact UTC kickof
+ fs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-14T18
+ :46:21Z.  •  Colchester United — جميع المباريات في كأ
+ س الاتحاد الإنجليزي بتوقيت UTC الدقيق مع ا
+ لملاعب والقنوات الناقلة. المصدر: FotMob + 365sc
+ ores · تحديث تلقائي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469302@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Colchester United vs Worcester (1 - 0) — FA Cup
+LOCATION:JobServe Community Stadium\, Colchester\, Essex\, England
+GEO:51.923361;0.897145
+URL:https://www.fotmob.com/match/6469302
+DESCRIPTION:⚽ Colchester United × Worcester (1 - 0)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الأول\n🗓 السبت 7 
+ نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 JobServe Commun
+ ity Stadium، Colchester, Essex\n⚖️ الحكم: Sunny Sukhvir Gill\n
+ —————\n⚽ Colchester United v Worcester (1 - 0)\n🏆 FA Cup 
+ — Round 1\n🗓 Sat 07 Nov 2026 · 15:00 UTC\n🏟 JobServe Community St
+ adium, Colchester, Essex\nReferee: Sunny Sukhvir Gill\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Colchester United ضد Worcester — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Colchester United vs Worcester
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Colchester 
+ United × Worcester | Kick-off in 30 min: Colchester United vs Worcester
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6615125@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Colchester United vs Mansfield Town — FA Cup
+LOCATION:JobServe Community Stadium
+URL:https://www.fotmob.com/match/6615125
+DESCRIPTION:⚽ Colchester United × Mansfield Town\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الثاني\n🗓 السبت 5 د
+ يسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 JobServe Communit
+ y Stadium\n—————\n⚽ Colchester United v Mansfield Town\n🏆 F
+ A Cup — Round 2\n🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 JobServe Commun
+ ity Stadium\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Colchester United ضد Mansfield Town — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Colchester United vs Mansfie
+ ld Town
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Colchester 
+ United × Mansfield Town | Kick-off in 30 min: Colchester United vs Mansfi
+ eld Town
+END:VALARM
+END:VEVENT
+END:VCALENDAR

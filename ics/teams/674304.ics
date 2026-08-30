@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Plymouth Parkway — FA Cup Fixtures | Plymouth Parkway 
+ — مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Plymouth Parkway — all matches in FA Cup\, exact UTC kickoff
+ s\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-14T18:
+ 46:21Z.  •  Plymouth Parkway — جميع المباريات في كأس
+  الاتحاد الإنجليزي بتوقيت UTC الدقيق مع ال
+ ملاعب والقنوات الناقلة. المصدر: FotMob + 365scor
+ es · تحديث تلقائي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469292@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261109T193000Z
+DTEND:20261109T213000Z
+SUMMARY:Plymouth Parkway vs Berkhamsted (2 - 1) — FA Cup
+LOCATION:Manadon Sports Hub\, Plymouth\, Devon\, England
+GEO:50.407847;-4.147350
+URL:https://www.fotmob.com/match/6469292
+DESCRIPTION:⚽ Plymouth Parkway × Berkhamsted (2 - 1)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الأول\n🗓 الاثنين
+  9 نوفمبر 2026 · 22:30 بتوقيت الرياض\n🏟 Manadon Spor
+ ts Hub، Plymouth, Devon\n⚖️ الحكم: Ross Martin\n—————\
+ n⚽ Plymouth Parkway v Berkhamsted (2 - 1)\n🏆 FA Cup — Round 1\n🗓
+  Mon 09 Nov 2026 · 19:30 UTC\n🏟 Manadon Sports Hub, Plymouth, Devon\nR
+ eferee: Ross Martin\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Plymouth Parkway ضد Berkhamsted — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Plymouth Parkway vs Berkhamsted
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Plymouth Pa
+ rkway × Berkhamsted | Kick-off in 30 min: Plymouth Parkway vs Berkhamsted
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6615120@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Plymouth Parkway vs Barnet — FA Cup
+LOCATION:Manadon Sports Hub\, Plymouth\, Devon\, England
+GEO:50.407847;-4.147350
+URL:https://www.fotmob.com/match/6615120
+DESCRIPTION:⚽ Plymouth Parkway × Barnet\n🏆 كأس الاتحاد ال
+ إنجليزي — الدور الثاني\n🗓 السبت 5 ديسمبر
+  2026 · 18:00 بتوقيت الرياض\n🏟 Manadon Sports Hub، Plymou
+ th, Devon\n—————\n⚽ Plymouth Parkway v Barnet\n🏆 FA Cup —
+  Round 2\n🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 Manadon Sports Hub, Plym
+ outh, Devon\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Plymouth Parkway ضد Barnet — كأس الات
+ حاد الإنجليزي | Tomorrow: Plymouth Parkway vs Barnet
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Plymouth Pa
+ rkway × Barnet | Kick-off in 30 min: Plymouth Parkway vs Barnet
+END:VALARM
+END:VEVENT
+END:VCALENDAR

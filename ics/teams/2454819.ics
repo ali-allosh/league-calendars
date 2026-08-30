@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ CP Talayuela — Copa del Rey Fixtures | CP Talayuela — 
+ مباريات كأس ملك إسبانيا
+X-WR-CALDESC:CP Talayuela — all matches in Copa del Rey\, exact UTC kicko
+ ffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-14T1
+ 8:46:21Z.  •  CP Talayuela — جميع المباريات في كأس 
+ ملك إسبانيا بتوقيت UTC الدقيق مع الملاعب و
+ القنوات الناقلة. المصدر: FotMob + 365scores · تحد
+ يث تلقائي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-1000023523@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20260927T153000Z
+DTEND:20260927T173000Z
+SUMMARY:CP Talayuela vs Sporting de Alcazar (1 - 2) — Copa del Rey
+URL:https://www.fotmob.com/match/1000023523
+DESCRIPTION:⚽ CP Talayuela × هورتاليزا الرياضي (1 - 2)\n
+ 🏆 كأس ملك إسبانيا — الدور التمهيدي\n🗓 ا
+ لأحد 27 سبتمبر 2026 · 18:30 بتوقيت الرياض\n——
+ ———\n⚽ CP Talayuela v Sporting de Alcazar (1 - 2)\n🏆 Copa del R
+ ey — Preliminary Round\n🗓 Sun 27 Sep 2026 · 15:30 UTC\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: CP Talayuela ضد هورتاليزا الرياض
+ ي — كأس ملك إسبانيا | Tomorrow: CP Talayuela vs Sporting d
+ e Alcazar
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: CP Talayuel
+ a × هورتاليزا الرياضي | Kick-off in 30 min: CP Talayuela 
+ vs Sporting de Alcazar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023524@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261004T153000Z
+DTEND:20261004T173000Z
+SUMMARY:Sporting de Alcazar vs CP Talayuela (1 - 0) — Copa del Rey
+LOCATION:Estadio Manuel Delgado Meco\, Alcázar de San Juan\, Spain
+GEO:39.387125;-3.220797
+URL:https://www.fotmob.com/match/1000023524
+DESCRIPTION:⚽ هورتاليزا الرياضي × CP Talayuela (1 - 0)\n
+ 🏆 كأس ملك إسبانيا — الدور التمهيدي\n🗓 ا
+ لأحد 4 أكتوبر 2026 · 18:30 بتوقيت الرياض\n🏟 Esta
+ dio Manuel Delgado Meco، Alcázar de San Juan\n—————\n⚽ Sport
+ ing de Alcazar v CP Talayuela (1 - 0)\n🏆 Copa del Rey — Preliminary R
+ ound\n🗓 Sun 04 Oct 2026 · 15:30 UTC\n🏟 Estadio Manuel Delgado Meco,
+  Alcázar de San Juan\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هورتاليزا الرياضي ضد CP Talayue
+ la — كأس ملك إسبانيا | Tomorrow: Sporting de Alcazar vs CP 
+ Talayuela
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هورتا
+ ليزا الرياضي × CP Talayuela | Kick-off in 30 min: Sporting de 
+ Alcazar vs CP Talayuela
+END:VALARM
+END:VEVENT
+END:VCALENDAR

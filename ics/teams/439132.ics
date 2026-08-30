@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ FK Kauno Žalgiris — UEFA Champions League Fixtures | FK
+  Kauno Žalgiris — مباريات دوري أبطال أوروبا
+X-WR-CALDESC:FK Kauno Žalgiris — all matches in UEFA Champions League\, 
+ exact UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updat
+ ed 2026-10-21T22:26:40Z.  •  FK Kauno Žalgiris — جميع المبا
+ ريات في دوري أبطال أوروبا بتوقيت UTC الدقي
+ ق مع الملاعب والقنوات الناقلة. المصدر: FotM
+ ob + 365scores · تحديث تلقائي 2026-10-21T22:26:40Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-1000022636@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260707T160000Z
+DTEND:20260707T180000Z
+SUMMARY:FK Kauno Žalgiris vs Drita (1 - 1) — UEFA Champions League
+LOCATION:S. Dariaus ir S. Girėno stadionas\, Kaunas\, Lithuania
+GEO:54.897366;23.937111
+URL:https://www.fotmob.com/match/1000022636
+DESCRIPTION:⚽ FK Kauno Žalgiris × Drita (1 - 1)\n🏆 دوري أبطا
+ ل أوروبا — 1\n🗓 الثلاثاء 7 يوليو 2026 · 19:00 ب
+ توقيت الرياض\n🏟 S. Dariaus ir S. Girėno stadionas، Kaunas\
+ n👥 الحضور: 4,484\n—————\n⚽ FK Kauno Žalgiris v Drita
+  (1 - 1)\n🏆 UEFA Champions League — 1\n🗓 Tue 07 Jul 2026 · 16:00 
+ UTC\n🏟 S. Dariaus ir S. Girėno stadionas, Kaunas\nAttendance: 4,484\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: FK Kauno Žalgiris ضد Drita — دوري أبط
+ ال أوروبا | Tomorrow: FK Kauno Žalgiris vs Drita
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: FK Kauno Ž
+ algiris × Drita | Kick-off in 30 min: FK Kauno Žalgiris vs Drita
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022637@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260714T180000Z
+DTEND:20260714T200000Z
+SUMMARY:Drita vs FK Kauno Žalgiris (2 - 3) — UEFA Champions League
+URL:https://www.fotmob.com/match/1000022637
+DESCRIPTION:⚽ Drita × FK Kauno Žalgiris (2 - 3)\n🏆 دوري أبطا
+ ل أوروبا — 1\n🗓 الثلاثاء 14 يوليو 2026 · 21:00 
+ بتوقيت الرياض\n—————\n⚽ Drita v FK Kauno Žalgiris
+  (2 - 3)\n🏆 UEFA Champions League — 1\n🗓 Tue 14 Jul 2026 · 18:00 
+ UTC\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Drita ضد FK Kauno Žalgiris — دوري أبط
+ ال أوروبا | Tomorrow: Drita vs FK Kauno Žalgiris
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Drita × FK
+  Kauno Žalgiris | Kick-off in 30 min: Drita vs FK Kauno Žalgiris
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022675@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260721T184500Z
+DTEND:20260721T204500Z
+SUMMARY:Klaksvik vs FK Kauno Žalgiris (0 - 0) — UEFA Champions League
+LOCATION:Við Djúpumýrar\, Klaksvík\, Borðoy\, Faroe Islands
+GEO:62.224654;-6.580154
+URL:https://www.fotmob.com/match/1000022675
+DESCRIPTION:⚽ Klaksvik × FK Kauno Žalgiris (0 - 0)\n🏆 دوري أب
+ طال أوروبا — 2\n🗓 الثلاثاء 21 يوليو 2026 · 21:
+ 45 بتوقيت الرياض\n🏟 Við Djúpumýrar، Klaksvík, Borðoy\
+ n—————\n⚽ Klaksvik v FK Kauno Žalgiris (0 - 0)\n🏆 UEFA Cha
+ mpions League — 2\n🗓 Tue 21 Jul 2026 · 18:45 UTC\n🏟 Við Djúpum
+ ýrar, Klaksvík, Borðoy\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Klaksvik ضد FK Kauno Žalgiris — دوري أ
+ بطال أوروبا | Tomorrow: Klaksvik vs FK Kauno Žalgiris
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Klaksvik ×
+  FK Kauno Žalgiris | Kick-off in 30 min: Klaksvik vs FK Kauno Žalgiris
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022669@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260729T160000Z
+DTEND:20260729T180000Z
+SUMMARY:FK Kauno Žalgiris vs Klaksvik (1 - 0) — UEFA Champions League
+LOCATION:S. Dariaus ir S. Girėno stadionas\, Kaunas\, Lithuania
+GEO:54.897366;23.937111
+URL:https://www.fotmob.com/match/1000022669
+DESCRIPTION:⚽ FK Kauno Žalgiris × Klaksvik (1 - 0)\n🏆 دوري أب
+ طال أوروبا — 2\n🗓 الأربعاء 29 يوليو 2026 · 19:
+ 00 بتوقيت الرياض\n🏟 S. Dariaus ir S. Girėno stadionas، Ka
+ unas\n—————\n⚽ FK Kauno Žalgiris v Klaksvik (1 - 0)\n🏆 UEF
+ A Champions League — 2\n🗓 Wed 29 Jul 2026 · 16:00 UTC\n🏟 S. Daria
+ us ir S. Girėno stadionas, Kaunas\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: FK Kauno Žalgiris ضد Klaksvik — دوري أ
+ بطال أوروبا | Tomorrow: FK Kauno Žalgiris vs Klaksvik
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: FK Kauno Ž
+ algiris × Klaksvik | Kick-off in 30 min: FK Kauno Žalgiris vs Klaksvik
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022685@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260804T180000Z
+DTEND:20260804T200000Z
+SUMMARY:Dinamo Zagreb vs FK Kauno Žalgiris (5 - 0) — UEFA Champions Leag
+ ue
+URL:https://www.fotmob.com/match/1000022685
+DESCRIPTION:⚽ دينامو زغرب × FK Kauno Žalgiris (5 - 0)\n🏆 
+ دوري أبطال أوروبا — 3\n🗓 الثلاثاء 4 أغسطس
+  2026 · 21:00 بتوقيت الرياض\n—————\n⚽ Dinamo Zagr
+ eb v FK Kauno Žalgiris (5 - 0)\n🏆 UEFA Champions League — 3\n🗓 Tu
+ e 04 Aug 2026 · 18:00 UTC\n—————\n📚 المصدر: FotMob · 
+ 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — a
+ uto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: دينامو زغرب ضد FK Kauno Žalgiris —
+  دوري أبطال أوروبا | Tomorrow: Dinamo Zagreb vs FK Kauno Ž
+ algiris
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: دينام
+ و زغرب × FK Kauno Žalgiris | Kick-off in 30 min: Dinamo Zagreb vs F
+ K Kauno Žalgiris
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022694@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260811T170000Z
+DTEND:20260811T190000Z
+SUMMARY:FK Kauno Žalgiris vs Dinamo Zagreb (1 - 2) — UEFA Champions Leag
+ ue
+LOCATION:S. Dariaus ir S. Girėno stadionas\, Kaunas\, Lithuania
+GEO:54.897366;23.937111
+URL:https://www.fotmob.com/match/1000022694
+DESCRIPTION:⚽ FK Kauno Žalgiris × دينامو زغرب (1 - 2)\n🏆 
+ دوري أبطال أوروبا — 3\n🗓 الثلاثاء 11 أغسط
+ س 2026 · 20:00 بتوقيت الرياض\n🏟 S. Dariaus ir S. Girėno 
+ stadionas، Kaunas\n—————\n⚽ FK Kauno Žalgiris v Dinamo Zagre
+ b (1 - 2)\n🏆 UEFA Champions League — 3\n🗓 Tue 11 Aug 2026 · 17:00
+  UTC\n🏟 S. Dariaus ir S. Girėno stadionas, Kaunas\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: FK Kauno Žalgiris ضد دينامو زغرب —
+  دوري أبطال أوروبا | Tomorrow: FK Kauno Žalgiris vs Dinamo
+  Zagreb
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: FK Kauno Ž
+ algiris × دينامو زغرب | Kick-off in 30 min: FK Kauno Žalgiris 
+ vs Dinamo Zagreb
+END:VALARM
+END:VEVENT
+END:VCALENDAR

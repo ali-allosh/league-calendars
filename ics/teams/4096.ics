@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Guiseley — FA Cup Fixtures | Guiseley — مباريات
+  كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Guiseley — all matches in FA Cup\, exact UTC kickoffs\, stad
+ iums & TV. Data: FotMob + 365scores · auto-updated 2026-11-14T18:46:21Z. 
+  •  Guiseley — جميع المباريات في كأس الاتحاد 
+ الإنجليزي بتوقيت UTC الدقيق مع الملاعب وا
+ لقنوات الناقلة. المصدر: FotMob + 365scores · تحدي
+ ث تلقائي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469308@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Guiseley vs Sutton United (1 - 0) — FA Cup
+LOCATION:Nethermoor Park\, Guiseley\, West Yorkshire\, England
+GEO:53.877198;-1.719462
+URL:https://www.fotmob.com/match/6469308
+DESCRIPTION:⚽ Guiseley × Sutton United (1 - 0)\n🏆 كأس الاتحا
+ د الإنجليزي — الدور الأول\n🗓 السبت 7 نوف
+ مبر 2026 · 18:00 بتوقيت الرياض\n🏟 Nethermoor Park، Gui
+ seley, West Yorkshire\n⚖️ الحكم: Zac Kennard-Kettle\n————
+ —\n⚽ Guiseley v Sutton United (1 - 0)\n🏆 FA Cup — Round 1\n🗓 S
+ at 07 Nov 2026 · 15:00 UTC\n🏟 Nethermoor Park, Guiseley, West Yorkshir
+ e\nReferee: Zac Kennard-Kettle\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Guiseley ضد Sutton United — كأس الاتح
+ اد الإنجليزي | Tomorrow: Guiseley vs Sutton United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Guiseley ×
+  Sutton United | Kick-off in 30 min: Guiseley vs Sutton United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6615117@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Guiseley vs Notts County — FA Cup
+LOCATION:Nethermoor Park\, Guiseley
+URL:https://www.fotmob.com/match/6615117
+DESCRIPTION:⚽ Guiseley × Notts County\n🏆 كأس الاتحاد الإ
+ نجليزي — الدور الثاني\n🗓 السبت 5 ديسمبر 2
+ 026 · 18:00 بتوقيت الرياض\n🏟 Nethermoor Park, Guiseley\n
+ —————\n⚽ Guiseley v Notts County\n🏆 FA Cup — Round 2\n
+ 🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 Nethermoor Park, Guiseley\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Guiseley ضد Notts County — كأس الاتح
+ اد الإنجليزي | Tomorrow: Guiseley vs Notts County
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Guiseley ×
+  Notts County | Kick-off in 30 min: Guiseley vs Notts County
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,2539 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Copa del Rey 2026/2027 — Fixtures | كأس ملك إسب
+ انيا 2026/2027 — جدول المباريات
+X-WR-CALDESC:Copa del Rey 2026/2027 — all fixtures\, exact UTC kickoffs\,
+  stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-14T18:46:
+ 21Z.  •  كأس ملك إسبانيا 2026/2027 — جميع المبا
+ ريات بتوقيت UTC الدقيق مع الملاعب والقنوا
+ ت الناقلة. المصدر: FotMob + 365scores · تحديث تلقا
+ ئي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-1000023515@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20260926T160000Z
+DTEND:20260926T180000Z
+SUMMARY:Anaitasuna FT vs CD Tedeon (5 - 0) — Copa del Rey
+LOCATION:Campo Txerloia\, Azkoitia\, Spain
+GEO:43.173581;-2.299914
+URL:https://www.fotmob.com/match/1000023515
+DESCRIPTION:⚽ أنايتاسونا × CD Tedeon (5 - 0)\n🏆 كأس مل
+ ك إسبانيا — الدور التمهيدي\n🗓 السبت 26 سب
+ تمبر 2026 · 19:00 بتوقيت الرياض\n🏟 Campo Txerloia، Az
+ koitia\n—————\n⚽ Anaitasuna FT v CD Tedeon (5 - 0)\n🏆 Copa 
+ del Rey — Preliminary Round\n🗓 Sat 26 Sep 2026 · 16:00 UTC\n🏟 Cam
+ po Txerloia, Azkoitia\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أنايتاسونا ضد CD Tedeon — كأس م
+ لك إسبانيا | Tomorrow: Anaitasuna FT vs CD Tedeon
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أنايت
+ اسونا × CD Tedeon | Kick-off in 30 min: Anaitasuna FT vs CD Tedeon
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023528@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20260926T160000Z
+DTEND:20260926T180000Z
+SUMMARY:Atletico Calatayud vs CD Baztán (2 - 0) — Copa del Rey
+LOCATION:Estadio Municipal de San Íñigo\, Calatayud\, Spain
+GEO:41.351945;-1.623858
+URL:https://www.fotmob.com/match/1000023528
+DESCRIPTION:⚽ أتليتكو كالاتايود × CD Baztán (2 - 0)\n
+ 🏆 كأس ملك إسبانيا — الدور التمهيدي\n🗓 ا
+ لسبت 26 سبتمبر 2026 · 19:00 بتوقيت الرياض\n🏟 Est
+ adio Municipal de San Íñigo، Calatayud\n—————\n⚽ Atletico C
+ alatayud v CD Baztán (2 - 0)\n🏆 Copa del Rey — Preliminary Round\n
+ 🗓 Sat 26 Sep 2026 · 16:00 UTC\n🏟 Estadio Municipal de San Íñigo, 
+ Calatayud\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتليتكو كالاتايود ضد CD Baztán
+  — كأس ملك إسبانيا | Tomorrow: Atletico Calatayud vs CD Baz
+ tán
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتليت
+ كو كالاتايود × CD Baztán | Kick-off in 30 min: Atletico Calat
+ ayud vs CD Baztán
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023513@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20260926T160000Z
+DTEND:20260926T180000Z
+SUMMARY:UB Lebrijana vs CD Ceuta 6 de Junio (5 - 0) — Copa del Rey
+LOCATION:Estadio Municipal\, Lebrija\, Spain
+GEO:36.916034;-6.081233
+URL:https://www.fotmob.com/match/1000023513
+DESCRIPTION:⚽ ليبريخانا × CD Ceuta 6 de Junio (5 - 0)\n🏆 ك
+ أس ملك إسبانيا — الدور التمهيدي\n🗓 السب
+ ت 26 سبتمبر 2026 · 19:00 بتوقيت الرياض\n🏟 Estadio M
+ unicipal، Lebrija\n—————\n⚽ UB Lebrijana v CD Ceuta 6 de Juni
+ o (5 - 0)\n🏆 Copa del Rey — Preliminary Round\n🗓 Sat 26 Sep 2026 
+ · 16:00 UTC\n🏟 Estadio Municipal, Lebrija\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليبريخانا ضد CD Ceuta 6 de Junio — 
+ كأس ملك إسبانيا | Tomorrow: UB Lebrijana vs CD Ceuta 6 de Jun
+ io
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليبري
+ خانا × CD Ceuta 6 de Junio | Kick-off in 30 min: UB Lebrijana vs CD C
+ euta 6 de Junio
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023525@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20260926T170000Z
+DTEND:20260926T190000Z
+SUMMARY:Ribadesella CF vs Noja (1 - 0) — Copa del Rey
+LOCATION:Estadio Oreyana\, Ribadesella\, Spain
+GEO:43.457977;-5.047499
+URL:https://www.fotmob.com/match/1000023525
+DESCRIPTION:⚽ ريبادسيلا × Noja (1 - 0)\n🏆 كأس ملك إس
+ بانيا — الدور التمهيدي\n🗓 السبت 26 سبتمب
+ ر 2026 · 20:00 بتوقيت الرياض\n🏟 Estadio Oreyana، Ribades
+ ella\n—————\n⚽ Ribadesella CF v Noja (1 - 0)\n🏆 Copa del Re
+ y — Preliminary Round\n🗓 Sat 26 Sep 2026 · 17:00 UTC\n🏟 Estadio O
+ reyana, Ribadesella\n—————\n📚 المصدر: FotMob · 365scor
+ es — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-upd
+ ated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريبادسيلا ضد Noja — كأس ملك إ
+ سبانيا | Tomorrow: Ribadesella CF vs Noja
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريباد
+ سيلا × Noja | Kick-off in 30 min: Ribadesella CF vs Noja
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023516@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20260926T180000Z
+DTEND:20260926T200000Z
+SUMMARY:UD Pinatar vs Atletico Melilla CF (8 - 0) — Copa del Rey
+LOCATION:Estadio José Antonio Pérez\, San Pedro del Pinatar\, Spain
+GEO:37.818001;-0.791804
+URL:https://www.fotmob.com/match/1000023516
+DESCRIPTION:⚽ بيناتار × Atletico Melilla CF (8 - 0)\n🏆 كأس 
+ ملك إسبانيا — الدور التمهيدي\n🗓 السبت 26 
+ سبتمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Estadio José A
+ ntonio Pérez، San Pedro del Pinatar\n—————\n⚽ UD Pinatar v A
+ tletico Melilla CF (8 - 0)\n🏆 Copa del Rey — Preliminary Round\n🗓 
+ Sat 26 Sep 2026 · 18:00 UTC\n🏟 Estadio José Antonio Pérez, San Pedro
+  del Pinatar\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيناتار ضد Atletico Melilla CF — كأ
+ س ملك إسبانيا | Tomorrow: UD Pinatar vs Atletico Melilla CF
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بينات
+ ار × Atletico Melilla CF | Kick-off in 30 min: UD Pinatar vs Atletico M
+ elilla CF
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023521@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20260927T100000Z
+DTEND:20260927T120000Z
+SUMMARY:Auriense vs CD San Jose Soria (2 - 0) — Copa del Rey
+LOCATION:Estadio Municipal de Oira\, Ourense\, Spain
+GEO:42.354541;-7.853799
+URL:https://www.fotmob.com/match/1000023521
+DESCRIPTION:⚽ أوريينسي × CD San Jose Soria (2 - 0)\n🏆 كأس 
+ ملك إسبانيا — الدور التمهيدي\n🗓 الأحد 27 
+ سبتمبر 2026 · 13:00 بتوقيت الرياض\n🏟 Estadio Municip
+ al de Oira، Ourense\n—————\n⚽ Auriense v CD San Jose Soria (2
+  - 0)\n🏆 Copa del Rey — Preliminary Round\n🗓 Sun 27 Sep 2026 · 10
+ :00 UTC\n🏟 Estadio Municipal de Oira, Ourense\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوريينسي ضد CD San Jose Soria — كأ
+ س ملك إسبانيا | Tomorrow: Auriense vs CD San Jose Soria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوريي
+ نسي × CD San Jose Soria | Kick-off in 30 min: Auriense vs CD San Jose 
+ Soria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023519@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20260927T100000Z
+DTEND:20260927T120000Z
+SUMMARY:Sporting Hortaleza vs Atletico Guimar (1 - 0) — Copa del Rey
+LOCATION:Estadio Municipal Virgen del Val\, Alcalá de Henares\, Spain
+GEO:40.482756;-3.347161
+URL:https://www.fotmob.com/match/1000023519
+DESCRIPTION:⚽ هورتاليزا الرياضي × Atletico Guimar (1 - 0
+ )\n🏆 كأس ملك إسبانيا — الدور التمهيدي\n🗓
+  الأحد 27 سبتمبر 2026 · 13:00 بتوقيت الرياض\n🏟 
+ Estadio Municipal Virgen del Val، Alcalá de Henares\n—————\n
+ ⚽ Sporting Hortaleza v Atletico Guimar (1 - 0)\n🏆 Copa del Rey — Pr
+ eliminary Round\n🗓 Sun 27 Sep 2026 · 10:00 UTC\n🏟 Estadio Municipal
+  Virgen del Val, Alcalá de Henares\n—————\n📚 المصدر: F
+ otMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sco
+ res — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هورتاليزا الرياضي ضد Atletico G
+ uimar — كأس ملك إسبانيا | Tomorrow: Sporting Hortaleza vs A
+ tletico Guimar
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هورتا
+ ليزا الرياضي × Atletico Guimar | Kick-off in 30 min: Sporting 
+ Hortaleza vs Atletico Guimar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023530@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20260927T140000Z
+DTEND:20260927T160000Z
+SUMMARY:San Rafael vs AE Prat (1 - 5) — Copa del Rey
+LOCATION:Estadio Municipal de San Rafael de Sa Creu\, San Rafael de Sa Creu
+  (Ibiza)\, Spain
+GEO:38.965957;1.404402
+URL:https://www.fotmob.com/match/1000023530
+DESCRIPTION:⚽ San Rafael × برات (1 - 5)\n🏆 كأس ملك إسبا
+ نيا — الدور التمهيدي\n🗓 الأحد 27 سبتمبر 20
+ 26 · 17:00 بتوقيت الرياض\n🏟 Estadio Municipal de San Rafae
+ l de Sa Creu، San Rafael de Sa Creu (Ibiza)\n—————\n⚽ San Raf
+ ael v AE Prat (1 - 5)\n🏆 Copa del Rey — Preliminary Round\n🗓 Sun 2
+ 7 Sep 2026 · 14:00 UTC\n🏟 Estadio Municipal de San Rafael de Sa Creu, 
+ San Rafael de Sa Creu (Ibiza)\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: San Rafael ضد برات — كأس ملك إسب
+ انيا | Tomorrow: San Rafael vs AE Prat
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: San Rafael 
+ × برات | Kick-off in 30 min: San Rafael vs AE Prat
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023523@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20260927T153000Z
+DTEND:20260927T173000Z
+SUMMARY:CP Talayuela vs Sporting de Alcazar (1 - 2) — Copa del Rey
+URL:https://www.fotmob.com/match/1000023523
+DESCRIPTION:⚽ CP Talayuela × هورتاليزا الرياضي (1 - 2)\n
+ 🏆 كأس ملك إسبانيا — الدور التمهيدي\n🗓 ا
+ لأحد 27 سبتمبر 2026 · 18:30 بتوقيت الرياض\n——
+ ———\n⚽ CP Talayuela v Sporting de Alcazar (1 - 2)\n🏆 Copa del R
+ ey — Preliminary Round\n🗓 Sun 27 Sep 2026 · 15:30 UTC\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: CP Talayuela ضد هورتاليزا الرياض
+ ي — كأس ملك إسبانيا | Tomorrow: CP Talayuela vs Sporting d
+ e Alcazar
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: CP Talayuel
+ a × هورتاليزا الرياضي | Kick-off in 30 min: CP Talayuela 
+ vs Sporting de Alcazar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023511@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20260927T160000Z
+DTEND:20260927T180000Z
+SUMMARY:UD Maracena vs Tavernes de la Valldigna (1 - 1) — Copa del Rey
+LOCATION:Ciudad Deportiva Maracena\, Maracena\, Spain
+GEO:37.211003;-3.627629
+URL:https://www.fotmob.com/match/1000023511
+DESCRIPTION:⚽ ماراثينا × Tavernes de la Valldigna (1 - 1)\n🏆 
+ كأس ملك إسبانيا — الدور التمهيدي\n🗓 الأ
+ حد 27 سبتمبر 2026 · 19:00 بتوقيت الرياض\n🏟 Ciudad 
+ Deportiva Maracena، Maracena\n—————\n⚽ UD Maracena v Tavernes
+  de la Valldigna (1 - 1)\n🏆 Copa del Rey — Preliminary Round\n🗓 Su
+ n 27 Sep 2026 · 16:00 UTC\n🏟 Ciudad Deportiva Maracena, Maracena\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ماراثينا ضد Tavernes de la Valldigna 
+ — كأس ملك إسبانيا | Tomorrow: UD Maracena vs Tavernes de la
+  Valldigna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ماراث
+ ينا × Tavernes de la Valldigna | Kick-off in 30 min: UD Maracena vs Ta
+ vernes de la Valldigna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023529@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261003T153000Z
+DTEND:20261003T173000Z
+SUMMARY:CD Baztán vs Atletico Calatayud (1 - 2) — Copa del Rey
+LOCATION:Paraje Gilxaurdi\, Elizondo\, Spain
+GEO:43.148597;-1.518528
+URL:https://www.fotmob.com/match/1000023529
+DESCRIPTION:⚽ CD Baztán × أتليتكو كالاتايود (1 - 2)\n
+ 🏆 كأس ملك إسبانيا — الدور التمهيدي\n🗓 ا
+ لسبت 3 أكتوبر 2026 · 18:30 بتوقيت الرياض\n🏟 Para
+ je Gilxaurdi، Elizondo\n—————\n⚽ CD Baztán v Atletico Calata
+ yud (1 - 2)\n🏆 Copa del Rey — Preliminary Round\n🗓 Sat 03 Oct 2026
+  · 15:30 UTC\n🏟 Paraje Gilxaurdi, Elizondo\n—————\n📚 ال
+ مصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotM
+ ob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: CD Baztán ضد أتليتكو كالاتايود
+  — كأس ملك إسبانيا | Tomorrow: CD Baztán vs Atletico Calat
+ ayud
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: CD Baztán 
+ × أتليتكو كالاتايود | Kick-off in 30 min: CD Baztán vs A
+ tletico Calatayud
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023514@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261003T160000Z
+DTEND:20261003T180000Z
+SUMMARY:CD Ceuta 6 de Junio vs UB Lebrijana (1 - 2) — Copa del Rey
+LOCATION:Campo Municipal de Fútbol José Martínez Pirri\, Ceuta\, Spain
+GEO:35.891636;-5.299224
+URL:https://www.fotmob.com/match/1000023514
+DESCRIPTION:⚽ CD Ceuta 6 de Junio × ليبريخانا (1 - 2)\n🏆 ك
+ أس ملك إسبانيا — الدور التمهيدي\n🗓 السب
+ ت 3 أكتوبر 2026 · 19:00 بتوقيت الرياض\n🏟 Campo Muni
+ cipal de Fútbol José Martínez Pirri، Ceuta\n—————\n⚽ CD Ce
+ uta 6 de Junio v UB Lebrijana (1 - 2)\n🏆 Copa del Rey — Preliminary R
+ ound\n🗓 Sat 03 Oct 2026 · 16:00 UTC\n🏟 Campo Municipal de Fútbol J
+ osé Martínez Pirri, Ceuta\n—————\n📚 المصدر: FotMob ·
+  365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — 
+ auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: CD Ceuta 6 de Junio ضد ليبريخانا — 
+ كأس ملك إسبانيا | Tomorrow: CD Ceuta 6 de Junio vs UB Lebrija
+ na
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: CD Ceuta 6 
+ de Junio × ليبريخانا | Kick-off in 30 min: CD Ceuta 6 de Junio v
+ s UB Lebrijana
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023517@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261003T160000Z
+DTEND:20261003T180000Z
+SUMMARY:CD Tedeon vs Anaitasuna FT (2 - 5) — Copa del Rey
+LOCATION:Estadio San Miguel\, Navarrete\, Spain
+GEO:42.424910;-2.556639
+URL:https://www.fotmob.com/match/1000023517
+DESCRIPTION:⚽ CD Tedeon × أنايتاسونا (2 - 5)\n🏆 كأس مل
+ ك إسبانيا — الدور التمهيدي\n🗓 السبت 3 أك
+ توبر 2026 · 19:00 بتوقيت الرياض\n🏟 Estadio San Miguel
+ ، Navarrete\n—————\n⚽ CD Tedeon v Anaitasuna FT (2 - 5)\n🏆
+  Copa del Rey — Preliminary Round\n🗓 Sat 03 Oct 2026 · 16:00 UTC\n
+ 🏟 Estadio San Miguel, Navarrete\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: CD Tedeon ضد أنايتاسونا — كأس م
+ لك إسبانيا | Tomorrow: CD Tedeon vs Anaitasuna FT
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: CD Tedeon 
+ × أنايتاسونا | Kick-off in 30 min: CD Tedeon vs Anaitasuna FT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023522@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261004T140000Z
+DTEND:20261004T160000Z
+SUMMARY:CD San Jose Soria vs Auriense (1 - 0) — Copa del Rey
+URL:https://www.fotmob.com/match/1000023522
+DESCRIPTION:⚽ CD San Jose Soria × أوريينسي (1 - 0)\n🏆 كأس 
+ ملك إسبانيا — الدور التمهيدي\n🗓 الأحد 4 
+ أكتوبر 2026 · 17:00 بتوقيت الرياض\n—————\n⚽
+  CD San Jose Soria v Auriense (1 - 0)\n🏆 Copa del Rey — Preliminary R
+ ound\n🗓 Sun 04 Oct 2026 · 14:00 UTC\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: CD San Jose Soria ضد أوريينسي — كأ
+ س ملك إسبانيا | Tomorrow: CD San Jose Soria vs Auriense
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: CD San Jose
+  Soria × أوريينسي | Kick-off in 30 min: CD San Jose Soria vs Auri
+ ense
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023526@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261004T140000Z
+DTEND:20261004T160000Z
+SUMMARY:Noja vs Ribadesella CF (1 - 1) — Copa del Rey
+URL:https://www.fotmob.com/match/1000023526
+DESCRIPTION:⚽ Noja × ريبادسيلا (1 - 1)\n🏆 كأس ملك إس
+ بانيا — الدور التمهيدي\n🗓 الأحد 4 أكتوبر
+  2026 · 17:00 بتوقيت الرياض\n—————\n⚽ Noja v Riba
+ desella CF (1 - 1)\n🏆 Copa del Rey — Preliminary Round\n🗓 Sun 04 O
+ ct 2026 · 14:00 UTC\n—————\n📚 المصدر: FotMob · 365sco
+ res — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-up
+ dated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Noja ضد ريبادسيلا — كأس ملك إ
+ سبانيا | Tomorrow: Noja vs Ribadesella CF
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Noja × ر
+ يبادسيلا | Kick-off in 30 min: Noja vs Ribadesella CF
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023524@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261004T153000Z
+DTEND:20261004T173000Z
+SUMMARY:Sporting de Alcazar vs CP Talayuela (1 - 0) — Copa del Rey
+LOCATION:Estadio Manuel Delgado Meco\, Alcázar de San Juan\, Spain
+GEO:39.387125;-3.220797
+URL:https://www.fotmob.com/match/1000023524
+DESCRIPTION:⚽ هورتاليزا الرياضي × CP Talayuela (1 - 0)\n
+ 🏆 كأس ملك إسبانيا — الدور التمهيدي\n🗓 ا
+ لأحد 4 أكتوبر 2026 · 18:30 بتوقيت الرياض\n🏟 Esta
+ dio Manuel Delgado Meco، Alcázar de San Juan\n—————\n⚽ Sport
+ ing de Alcazar v CP Talayuela (1 - 0)\n🏆 Copa del Rey — Preliminary R
+ ound\n🗓 Sun 04 Oct 2026 · 15:30 UTC\n🏟 Estadio Manuel Delgado Meco,
+  Alcázar de San Juan\n—————\n📚 المصدر: FotMob · 365sc
+ ores — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-u
+ pdated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هورتاليزا الرياضي ضد CP Talayue
+ la — كأس ملك إسبانيا | Tomorrow: Sporting de Alcazar vs CP 
+ Talayuela
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هورتا
+ ليزا الرياضي × CP Talayuela | Kick-off in 30 min: Sporting de 
+ Alcazar vs CP Talayuela
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023518@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261004T160000Z
+DTEND:20261004T180000Z
+SUMMARY:Atletico Melilla CF vs UD Pinatar (0 - 3) — Copa del Rey
+LOCATION:Campo de Fútbol La Espiguera\, Melilla\, Spain
+GEO:35.283524;-2.944937
+URL:https://www.fotmob.com/match/1000023518
+DESCRIPTION:⚽ Atletico Melilla CF × بيناتار (0 - 3)\n🏆 كأس 
+ ملك إسبانيا — الدور التمهيدي\n🗓 الأحد 4 
+ أكتوبر 2026 · 19:00 بتوقيت الرياض\n🏟 Campo de Fútbo
+ l La Espiguera، Melilla\n—————\n⚽ Atletico Melilla CF v UD Pi
+ natar (0 - 3)\n🏆 Copa del Rey — Preliminary Round\n🗓 Sun 04 Oct 20
+ 26 · 16:00 UTC\n🏟 Campo de Fútbol La Espiguera, Melilla\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Atletico Melilla CF ضد بيناتار — كأ
+ س ملك إسبانيا | Tomorrow: Atletico Melilla CF vs UD Pinatar
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Atletico Me
+ lilla CF × بيناتار | Kick-off in 30 min: Atletico Melilla CF vs UD
+  Pinatar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023512@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261004T160000Z
+DTEND:20261004T180000Z
+SUMMARY:Tavernes de la Valldigna vs UD Maracena (0 - 0) — Copa del Rey
+LOCATION:Estadio de Mestalla\, Valencia\, Spain
+GEO:39.474602;-0.358257
+URL:https://www.fotmob.com/match/1000023512
+DESCRIPTION:⚽ Tavernes de la Valldigna × ماراثينا (0 - 0)\n🏆 
+ كأس ملك إسبانيا — الدور التمهيدي\n🗓 الأ
+ حد 4 أكتوبر 2026 · 19:00 بتوقيت الرياض\n🏟 Estadio 
+ de Mestalla، Valencia\n—————\n⚽ Tavernes de la Valldigna v UD
+  Maracena (0 - 0)\n🏆 Copa del Rey — Preliminary Round\n🗓 Sun 04 Oc
+ t 2026 · 16:00 UTC\n🏟 Estadio de Mestalla, Valencia\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Tavernes de la Valldigna ضد ماراثينا 
+ — كأس ملك إسبانيا | Tomorrow: Tavernes de la Valldigna vs U
+ D Maracena
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Tavernes de
+  la Valldigna × ماراثينا | Kick-off in 30 min: Tavernes de la Val
+ ldigna vs UD Maracena
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023520@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261011T110000Z
+DTEND:20261011T130000Z
+SUMMARY:Atletico Guimar vs Sporting Hortaleza (3 - 3) — Copa del Rey
+URL:https://www.fotmob.com/match/1000023520
+DESCRIPTION:⚽ Atletico Guimar × هورتاليزا الرياضي (3 - 3
+ )\n🏆 كأس ملك إسبانيا — الدور التمهيدي\n🗓
+  الأحد 11 أكتوبر 2026 · 14:00 بتوقيت الرياض\n—
+ ————\n⚽ Atletico Guimar v Sporting Hortaleza (3 - 3)\n🏆 Copa 
+ del Rey — Preliminary Round\n🗓 Sun 11 Oct 2026 · 11:00 UTC\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Atletico Guimar ضد هورتاليزا الري
+ اضي — كأس ملك إسبانيا | Tomorrow: Atletico Guimar vs Spo
+ rting Hortaleza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Atletico Gu
+ imar × هورتاليزا الرياضي | Kick-off in 30 min: Atletico G
+ uimar vs Sporting Hortaleza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023527@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261011T140000Z
+DTEND:20261011T160000Z
+SUMMARY:AE Prat vs San Rafael (5 - 0) — Copa del Rey
+LOCATION:Estadio Municipal Sagnier\, El Prat de Llobregat\, Spain
+GEO:41.320337;2.083502
+URL:https://www.fotmob.com/match/1000023527
+DESCRIPTION:⚽ برات × San Rafael (5 - 0)\n🏆 كأس ملك إسبا
+ نيا — الدور التمهيدي\n🗓 الأحد 11 أكتوبر 20
+ 26 · 17:00 بتوقيت الرياض\n🏟 Estadio Municipal Sagnier، El
+  Prat de Llobregat\n—————\n⚽ AE Prat v San Rafael (5 - 0)\n
+ 🏆 Copa del Rey — Preliminary Round\n🗓 Sun 11 Oct 2026 · 14:00 UTC
+ \n🏟 Estadio Municipal Sagnier, El Prat de Llobregat\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برات ضد San Rafael — كأس ملك إسب
+ انيا | Tomorrow: AE Prat vs San Rafael
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برات ×
+  San Rafael | Kick-off in 30 min: AE Prat vs San Rafael
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386056@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261027T173000Z
+DTEND:20261027T193000Z
+SUMMARY:CD Cuarte vs Girona (0 - 2) — Copa del Rey
+LOCATION:Estadio Municipal Juan Guerrero El Lobo\, Cuarte de Huerva\, Spain
+GEO:41.589348;-0.934882
+URL:https://www.fotmob.com/match/6386056
+DESCRIPTION:⚽ CD Cuarte × جيرونا (0 - 2)\n🏆 كأس ملك إس
+ بانيا — 1\n🗓 الثلاثاء 27 أكتوبر 2026 · 20:30 بت
+ وقيت الرياض\n🏟 Estadio Municipal Juan Guerrero El Lobo، Cuar
+ te de Huerva\n⚖️ الحكم: Alejandro Morilla Turrión\n————
+ —\n⚽ CD Cuarte v Girona (0 - 2)\n🏆 Copa del Rey — 1\n🗓 Tue 27 
+ Oct 2026 · 17:30 UTC\n🏟 Estadio Municipal Juan Guerrero El Lobo, Cuart
+ e de Huerva\nReferee: Alejandro Morilla Turrión\n—————\n📚 ا
+ لمصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data: Fo
+ tMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: CD Cuarte ضد جيرونا — كأس ملك إ
+ سبانيا | Tomorrow: CD Cuarte vs Girona
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: CD Cuarte 
+ × جيرونا | Kick-off in 30 min: CD Cuarte vs Girona
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386048@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261027T180000Z
+DTEND:20261027T200000Z
+SUMMARY:CF Calamocha vs CE Europa (0 - 3) — Copa del Rey
+LOCATION:Campo De Fútbol Jumaya Calamocha\, Calamocha\, Spain
+GEO:40.916828;-1.293693
+URL:https://www.fotmob.com/match/6386048
+DESCRIPTION:⚽ كالاموتشا × يوروبا (0 - 3)\n🏆 كأس م
+ لك إسبانيا — 1\n🗓 الثلاثاء 27 أكتوبر 2026 · 2
+ 1:00 بتوقيت الرياض\n🏟 Campo De Fútbol Jumaya Calamocha، C
+ alamocha\n⚖️ الحكم: Gaizka Altuna\n—————\n⚽ CF Calamo
+ cha v CE Europa (0 - 3)\n🏆 Copa del Rey — 1\n🗓 Tue 27 Oct 2026 · 
+ 18:00 UTC\n🏟 Campo De Fútbol Jumaya Calamocha, Calamocha\nReferee: Gai
+ zka Altuna\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كالاموتشا ضد يوروبا — كأس 
+ ملك إسبانيا | Tomorrow: CF Calamocha vs CE Europa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كالام
+ وتشا × يوروبا | Kick-off in 30 min: CF Calamocha vs CE Europa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386082@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261027T180000Z
+DTEND:20261027T200000Z
+SUMMARY:Sestao vs Espanyol (4 - 3) — Copa del Rey
+LOCATION:Estadio Las Llanas\, Sestao\, Spain
+GEO:43.310788;-3.009835
+URL:https://www.fotmob.com/match/6386082
+DESCRIPTION:⚽ سيستاو ريفر × إسبانيول (4 - 3)\n🏆 ك
+ أس ملك إسبانيا — 1\n🗓 الثلاثاء 27 أكتوبر 20
+ 26 · 21:00 بتوقيت الرياض\n🏟 Estadio Las Llanas، Sestao\n
+ ⚖️ الحكم: José Luis Munuera Montero\n—————\n⚽ Sestao
+  v Espanyol (4 - 3)\n🏆 Copa del Rey — 1\n🗓 Tue 27 Oct 2026 · 18:0
+ 0 UTC\n🏟 Estadio Las Llanas, Sestao\nReferee: José Luis Munuera Monter
+ o\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيستاو ريفر ضد إسبانيول — 
+ كأس ملك إسبانيا | Tomorrow: Sestao vs Espanyol
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيستا
+ و ريفر × إسبانيول | Kick-off in 30 min: Sestao vs Espanyol
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386071@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261027T180000Z
+DTEND:20261027T200000Z
+SUMMARY:UD Pinatar vs Elche (1 - 3) — Copa del Rey
+LOCATION:Estadio José Antonio Pérez\, San Pedro del Pinatar\, Spain
+GEO:37.818001;-0.791804
+URL:https://www.fotmob.com/match/6386071
+DESCRIPTION:⚽ بيناتار × إلتشي (1 - 3)\n🏆 كأس ملك إ
+ سبانيا — 1\n🗓 الثلاثاء 27 أكتوبر 2026 · 21:00 ب
+ توقيت الرياض\n🏟 Estadio José Antonio Pérez، San Pedro del
+  Pinatar\n⚖️ الحكم: Manuel Jesús Orellana Cid\n—————\n
+ ⚽ UD Pinatar v Elche (1 - 3)\n🏆 Copa del Rey — 1\n🗓 Tue 27 Oct 2
+ 026 · 18:00 UTC\n🏟 Estadio José Antonio Pérez, San Pedro del Pinatar
+ \nReferee: Manuel Jesús Orellana Cid\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بيناتار ضد إلتشي — كأس ملك 
+ إسبانيا | Tomorrow: UD Pinatar vs Elche
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بينات
+ ار × إلتشي | Kick-off in 30 min: UD Pinatar vs Elche
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386049@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261027T184500Z
+DTEND:20261027T204500Z
+SUMMARY:Castellonense vs Almería (1 - 2) — Copa del Rey
+LOCATION:Campo de Fútbol Eliseo Pla Ramírez\, Castelló\, Spain
+GEO:39.074267;-0.518212
+URL:https://www.fotmob.com/match/6386049
+DESCRIPTION:⚽ كاستيلونينس × ألميريا (1 - 2)\n🏆 كأ
+ س ملك إسبانيا — 1\n🗓 الثلاثاء 27 أكتوبر 2026
+  · 21:45 بتوقيت الرياض\n🏟 Campo de Fútbol Eliseo Pla Ram
+ írez، Castelló\n⚖️ الحكم: Salvador Lax Franco\n—————
+ \n⚽ Castellonense v Almería (1 - 2)\n🏆 Copa del Rey — 1\n🗓 Tue 
+ 27 Oct 2026 · 18:45 UTC\n🏟 Campo de Fútbol Eliseo Pla Ramírez, Caste
+ lló\nReferee: Salvador Lax Franco\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كاستيلونينس ضد ألميريا — ك
+ أس ملك إسبانيا | Tomorrow: Castellonense vs Almería
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كاستي
+ لونينس × ألميريا | Kick-off in 30 min: Castellonense vs Alme
+ ría
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386045@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261027T190000Z
+DTEND:20261027T210000Z
+SUMMARY:Atlético Tordesillas vs CD Mirandés (3 - 3) — Copa del Rey
+LOCATION:Estadio Las Salinas\, Tordesillas\, Spain
+GEO:41.488223;-4.999750
+URL:https://www.fotmob.com/match/6386045
+DESCRIPTION:⚽ أتليتكو تورديسيياس × ميراندس (3 - 
+ 3)\n🏆 كأس ملك إسبانيا — 1\n🗓 الثلاثاء 27 أك
+ توبر 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio Las Salinas
+ ، Tordesillas\n⚖️ الحكم: Guillermo Cueto Amigo\n—————\
+ n⚽ Atlético Tordesillas v CD Mirandés (3 - 3)\n🏆 Copa del Rey — 1
+ \n🗓 Tue 27 Oct 2026 · 19:00 UTC\n🏟 Estadio Las Salinas, Tordesillas
+ \nReferee: Guillermo Cueto Amigo\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتليتكو تورديسيياس ضد ميرا
+ ندس — كأس ملك إسبانيا | Tomorrow: Atlético Tordesillas 
+ vs CD Mirandés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتليت
+ كو تورديسيياس × ميراندس | Kick-off in 30 min: Atlétic
+ o Tordesillas vs CD Mirandés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386052@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261027T190000Z
+DTEND:20261027T210000Z
+SUMMARY:Ciudad Lucena vs Rayo Majadahonda (0 - 1) — Copa del Rey
+LOCATION:Estadio Ciudad de Lucena\, Lucena\, Spain
+GEO:37.412684;-4.504995
+URL:https://www.fotmob.com/match/6386052
+DESCRIPTION:⚽ سيوداد دي لوثينا × رايو ماخاذاون
+ دا (0 - 1)\n🏆 كأس ملك إسبانيا — 1\n🗓 الثلاثا
+ ء 27 أكتوبر 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio C
+ iudad de Lucena، Lucena\n⚖️ الحكم: Carlos Castell Orozco\n——
+ ———\n⚽ Ciudad Lucena v Rayo Majadahonda (0 - 1)\n🏆 Copa del Rey
+  — 1\n🗓 Tue 27 Oct 2026 · 19:00 UTC\n🏟 Estadio Ciudad de Lucena, 
+ Lucena\nReferee: Carlos Castell Orozco\n—————\n📚 المصدر
+ : FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365
+ scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيوداد دي لوثينا ضد رايو ما
+ خاذاوندا — كأس ملك إسبانيا | Tomorrow: Ciudad Lucen
+ a vs Rayo Majadahonda
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيودا
+ د دي لوثينا × رايو ماخاذاوندا | Kick-off in 30 min
+ : Ciudad Lucena vs Rayo Majadahonda
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386059@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261027T190000Z
+DTEND:20261027T210000Z
+SUMMARY:Gimnástica Segoviana vs Cultural Leonesa (0 - 1) — Copa del Rey
+LOCATION:Estadio Municipal de La Albuera\, Segovia\, Spain
+GEO:40.941187;-4.099445
+URL:https://www.fotmob.com/match/6386059
+DESCRIPTION:⚽ جيمناستكا سيجوفيانا × ديبورتيفا
+  ليونيسا (0 - 1)\n🏆 كأس ملك إسبانيا — 1\n🗓 ا
+ لثلاثاء 27 أكتوبر 2026 · 22:00 بتوقيت الرياض\n
+ 🏟 Estadio Municipal de La Albuera، Segovia\n⚖️ الحكم: Ramón 
+ Collado Fernández\n—————\n⚽ Gimnástica Segoviana v Cultural 
+ Leonesa (0 - 1)\n🏆 Copa del Rey — 1\n🗓 Tue 27 Oct 2026 · 19:00 UT
+ C\n🏟 Estadio Municipal de La Albuera, Segovia\nReferee: Ramón Collado 
+ Fernández\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: جيمناستكا سيجوفيانا ضد ديب
+ ورتيفا ليونيسا — كأس ملك إسبانيا | Tomorrow: G
+ imnástica Segoviana vs Cultural Leonesa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: جيمنا
+ ستكا سيجوفيانا × ديبورتيفا ليونيسا | Kick-of
+ f in 30 min: Gimnástica Segoviana vs Cultural Leonesa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386079@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261027T190000Z
+DTEND:20261027T210000Z
+SUMMARY:RSD Alcalá vs Las Palmas (1 - 3) — Copa del Rey
+LOCATION:Estadio Municipal Virgen del Val\, Alcalá de Henares\, Spain
+GEO:40.482756;-3.347161
+URL:https://www.fotmob.com/match/6386079
+DESCRIPTION:⚽ ريال ألكالا × لاس بالماس (1 - 3)\n🏆 
+ كأس ملك إسبانيا — 1\n🗓 الثلاثاء 27 أكتوبر 
+ 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio Municipal Virgen del
+  Val، Alcalá de Henares\n⚖️ الحكم: Juan Gordillo Escamilla\n—
+ ————\n⚽ RSD Alcalá v Las Palmas (1 - 3)\n🏆 Copa del Rey — 
+ 1\n🗓 Tue 27 Oct 2026 · 19:00 UTC\n🏟 Estadio Municipal Virgen del Va
+ l, Alcalá de Henares\nReferee: Juan Gordillo Escamilla\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال ألكالا ضد لاس بالماس 
+ — كأس ملك إسبانيا | Tomorrow: RSD Alcalá vs Las Palmas
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال أ
+ لكالا × لاس بالماس | Kick-off in 30 min: RSD Alcalá vs Las
+  Palmas
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386063@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261027T190000Z
+DTEND:20261027T210000Z
+SUMMARY:UD Llanera vs Ponferradina (1 - 1) — Copa del Rey
+LOCATION:Estadio Municipal Hermanos Antuña\, Mieres del Camino\, Spain
+GEO:43.256596;-5.780155
+URL:https://www.fotmob.com/match/6386063
+DESCRIPTION:⚽ ييانيرا × بونفيراذينا (1 - 1)\n🏆 كأ
+ س ملك إسبانيا — 1\n🗓 الثلاثاء 27 أكتوبر 2026
+  · 22:00 بتوقيت الرياض\n🏟 Estadio Municipal Hermanos Antu
+ ña، Mieres del Camino\n⚖️ الحكم: Joan Masip Vidal\n————
+ —\n⚽ UD Llanera v Ponferradina (1 - 1)\n🏆 Copa del Rey — 1\n🗓 
+ Tue 27 Oct 2026 · 19:00 UTC\n🏟 Estadio Municipal Hermanos Antuña, Mie
+ res del Camino\nReferee: Joan Masip Vidal\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ييانيرا ضد بونفيراذينا — ك
+ أس ملك إسبانيا | Tomorrow: UD Llanera vs Ponferradina
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: يياني
+ را × بونفيراذينا | Kick-off in 30 min: UD Llanera vs Ponferr
+ adina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386065@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261027T193000Z
+DTEND:20261027T213000Z
+SUMMARY:CE Manresa vs Sant Andreu (2 - 2) — Copa del Rey
+LOCATION:Estadio El Congost\, Manresa\, Spain
+GEO:41.722789;1.812977
+URL:https://www.fotmob.com/match/6386065
+DESCRIPTION:⚽ مانريسا × سانت أندرو (2 - 2)\n🏆 كأس 
+ ملك إسبانيا — 1\n🗓 الثلاثاء 27 أكتوبر 2026 ·
+  22:30 بتوقيت الرياض\n🏟 Estadio El Congost، Manresa\n⚖
+ ️ الحكم: Aleksandar Ivaylov Angelov\n—————\n⚽ CE Manres
+ a v Sant Andreu (2 - 2)\n🏆 Copa del Rey — 1\n🗓 Tue 27 Oct 2026 · 
+ 19:30 UTC\n🏟 Estadio El Congost, Manresa\nReferee: Aleksandar Ivaylov A
+ ngelov\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: مانريسا ضد سانت أندرو — كأ
+ س ملك إسبانيا | Tomorrow: CE Manresa vs Sant Andreu
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: مانري
+ سا × سانت أندرو | Kick-off in 30 min: CE Manresa vs Sant Andre
+ u
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386058@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261027T193000Z
+DTEND:20261027T213000Z
+SUMMARY:Don Benito vs CD Extremadura (2 - 4) — Copa del Rey
+LOCATION:Estadio Vicente Sanz\, Don Benito\, Spain
+GEO:38.962550;-5.865701
+URL:https://www.fotmob.com/match/6386058
+DESCRIPTION:⚽ دون بينيتو × إكستريمادورا (2 - 4)\n
+ 🏆 كأس ملك إسبانيا — 1\n🗓 الثلاثاء 27 أكتو
+ بر 2026 · 22:30 بتوقيت الرياض\n🏟 Estadio Vicente Sanz، 
+ Don Benito\n⚖️ الحكم: Álvaro Rodríguez Recio\n—————\n
+ ⚽ Don Benito v CD Extremadura (2 - 4)\n🏆 Copa del Rey — 1\n🗓 Tue
+  27 Oct 2026 · 19:30 UTC\n🏟 Estadio Vicente Sanz, Don Benito\nReferee:
+  Álvaro Rodríguez Recio\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: دون بينيتو ضد إكستريمادورا
+  — كأس ملك إسبانيا | Tomorrow: Don Benito vs CD Extremadura
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: دون بي
+ نيتو × إكستريمادورا | Kick-off in 30 min: Don Benito vs C
+ D Extremadura
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386042@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261027T200000Z
+DTEND:20261027T220000Z
+SUMMARY:Arosa SC vs Pontevedra (2 - 0) — Copa del Rey
+LOCATION:Estadio A Lomba\, Vilagarcía de Arousa\, Spain
+GEO:42.588576;-8.766044
+URL:https://www.fotmob.com/match/6386042
+DESCRIPTION:⚽ أروسا × بونتيفيدرا (2 - 0)\n🏆 كأس م
+ لك إسبانيا — 1\n🗓 الثلاثاء 27 أكتوبر 2026 · 2
+ 3:00 بتوقيت الرياض\n🏟 Estadio A Lomba، Vilagarcía de Arou
+ sa\n⚖️ الحكم: Álvaro Juncal Moreira\n—————\n⚽ Arosa 
+ SC v Pontevedra (2 - 0)\n🏆 Copa del Rey — 1\n🗓 Tue 27 Oct 2026 · 
+ 20:00 UTC\n🏟 Estadio A Lomba, Vilagarcía de Arousa\nReferee: Álvaro J
+ uncal Moreira\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أروسا ضد بونتيفيدرا — كأس 
+ ملك إسبانيا | Tomorrow: Arosa SC vs Pontevedra
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أروسا 
+ × بونتيفيدرا | Kick-off in 30 min: Arosa SC vs Pontevedra
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386044@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261027T200000Z
+DTEND:20261027T220000Z
+SUMMARY:CD Atlético Paso vs Córdoba (3 - 1) — Copa del Rey
+LOCATION:Campo Municipal de El Paso\, El Paso\, Spain
+GEO:28.647402;-17.884035
+URL:https://www.fotmob.com/match/6386044
+DESCRIPTION:⚽ اتلتيكو باسو × قرطبة (3 - 1)\n🏆 كأس 
+ ملك إسبانيا — 1\n🗓 الثلاثاء 27 أكتوبر 2026 ·
+  23:00 بتوقيت الرياض\n🏟 Campo Municipal de El Paso، El Pas
+ o\n⚖️ الحكم: Manuel Ángel Pérez Hernández\n—————\n
+ ⚽ CD Atlético Paso v Córdoba (3 - 1)\n🏆 Copa del Rey — 1\n🗓 Tu
+ e 27 Oct 2026 · 20:00 UTC\n🏟 Campo Municipal de El Paso, El Paso\nRefe
+ ree: Manuel Ángel Pérez Hernández\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: اتلتيكو باسو ضد قرطبة — كأ
+ س ملك إسبانيا | Tomorrow: CD Atlético Paso vs Córdoba
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: اتلتي
+ كو باسو × قرطبة | Kick-off in 30 min: CD Atlético Paso vs Có
+ rdoba
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386064@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261027T200000Z
+DTEND:20261027T220000Z
+SUMMARY:CD Manacor vs Villarreal (0 - 5) — Copa del Rey
+LOCATION:Poliesportiu Municipal Na Capellera\, Manacor\, Spain
+GEO:39.566446;3.217852
+URL:https://www.fotmob.com/match/6386064
+DESCRIPTION:⚽ ماناكور × فياريال (0 - 5)\n🏆 كأس مل
+ ك إسبانيا — 1\n🗓 الثلاثاء 27 أكتوبر 2026 · 23:
+ 00 بتوقيت الرياض\n🏟 Poliesportiu Municipal Na Capellera، M
+ anacor\n⚖️ الحكم: Jon Ander González Esteban\n👥 الحضور:
+  2,480\n—————\n⚽ CD Manacor v Villarreal (0 - 5)\n🏆 Copa de
+ l Rey — 1\n🗓 Tue 27 Oct 2026 · 20:00 UTC\n🏟 Poliesportiu Municipa
+ l Na Capellera, Manacor\nReferee: Jon Ander González Esteban\nAttendance:
+  2,480\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ماناكور ضد فياريال — كأس م
+ لك إسبانيا | Tomorrow: CD Manacor vs Villarreal
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ماناك
+ ور × فياريال | Kick-off in 30 min: CD Manacor vs Villarreal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386076@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261027T200000Z
+DTEND:20261027T220000Z
+SUMMARY:Recreativo Huelva vs Rayo Vallecano (2 - 3) — Copa del Rey
+LOCATION:Estadio Nuevo Colombino\, Huelva\, Spain
+GEO:37.246519;-6.954067
+URL:https://www.fotmob.com/match/6386076
+DESCRIPTION:⚽ ريكرياتيفو ويلفا × رايو فاييكان
+ و (2 - 3)\n🏆 كأس ملك إسبانيا — 1\n🗓 الثلاثاء
+  27 أكتوبر 2026 · 23:00 بتوقيت الرياض\n🏟 Estadio Nue
+ vo Colombino، Huelva\n⚖️ الحكم: Mateo Busquets Ferrer\n———
+ ——\n⚽ Recreativo Huelva v Rayo Vallecano (2 - 3)\n🏆 Copa del Rey 
+ — 1\n🗓 Tue 27 Oct 2026 · 20:00 UTC\n🏟 Estadio Nuevo Colombino, Hu
+ elva\nReferee: Mateo Busquets Ferrer\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريكرياتيفو ويلفا ضد رايو ف
+ اييكانو — كأس ملك إسبانيا | Tomorrow: Recreativo Hue
+ lva vs Rayo Vallecano
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريكري
+ اتيفو ويلفا × رايو فاييكانو | Kick-off in 30 min: R
+ ecreativo Huelva vs Rayo Vallecano
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386037@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261027T200000Z
+DTEND:20261027T220000Z
+SUMMARY:Sporting de Alcazar vs Málaga (0 - 3) — Copa del Rey
+LOCATION:Estadio Manuel Delgado Meco\, Alcázar de San Juan\, Spain
+GEO:39.387125;-3.220797
+URL:https://www.fotmob.com/match/6386037
+DESCRIPTION:⚽ هورتاليزا الرياضي × مالقا (0 - 3)\n
+ 🏆 كأس ملك إسبانيا — 1\n🗓 الثلاثاء 27 أكتو
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Estadio Manuel Delgado 
+ Meco، Alcázar de San Juan\n⚖️ الحكم: Víctor García Verdura\n
+ 👥 الحضور: 5,000\n—————\n⚽ Sporting de Alcazar v Mála
+ ga (0 - 3)\n🏆 Copa del Rey — 1\n🗓 Tue 27 Oct 2026 · 20:00 UTC\n
+ 🏟 Estadio Manuel Delgado Meco, Alcázar de San Juan\nReferee: Víctor G
+ arcía Verdura\nAttendance: 5,000\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هورتاليزا الرياضي ضد مالقا
+  — كأس ملك إسبانيا | Tomorrow: Sporting de Alcazar vs Mála
+ ga
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هورتا
+ ليزا الرياضي × مالقا | Kick-off in 30 min: Sporting de Al
+ cazar vs Málaga
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386087@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261027T200000Z
+DTEND:20261027T220000Z
+SUMMARY:Tudelano vs Real Zaragoza (0 - 4) — Copa del Rey
+LOCATION:Estadio Municipal Ciudad de Tudela\, Tudela\, Spain
+GEO:42.057283;-1.611707
+URL:https://www.fotmob.com/match/6386087
+DESCRIPTION:⚽ توديلانو × ريال سرقسطة (0 - 4)\n🏆 ك
+ أس ملك إسبانيا — 1\n🗓 الثلاثاء 27 أكتوبر 20
+ 26 · 23:00 بتوقيت الرياض\n🏟 Estadio Municipal Ciudad de Tu
+ dela، Tudela\n⚖️ الحكم: Omar Álvarez Rodríguez\n————
+ —\n⚽ Tudelano v Real Zaragoza (0 - 4)\n🏆 Copa del Rey — 1\n🗓 T
+ ue 27 Oct 2026 · 20:00 UTC\n🏟 Estadio Municipal Ciudad de Tudela, Tude
+ la\nReferee: Omar Álvarez Rodríguez\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: توديلانو ضد ريال سرقسطة — 
+ كأس ملك إسبانيا | Tomorrow: Tudelano vs Real Zaragoza
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: توديل
+ انو × ريال سرقسطة | Kick-off in 30 min: Tudelano vs Real Zar
+ agoza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386068@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261029T170000Z
+DTEND:20261029T190000Z
+SUMMARY:Numancia vs Real Oviedo (3 - 3) — Copa del Rey
+LOCATION:Nuevo Estadio Los Pajaritos\, Soria\, Spain
+GEO:41.754602;-2.467997
+URL:https://www.fotmob.com/match/6386068
+DESCRIPTION:⚽ نومانسيا × ريال أوفييدو (3 - 3)\n🏆 
+ كأس ملك إسبانيا — 1\n🗓 الخميس 29 أكتوبر 2026
+  · 20:00 بتوقيت الرياض\n🏟 Nuevo Estadio Los Pajaritos، So
+ ria\n⚖️ الحكم: Daniel Palencia Caballero\n—————\n⚽ Nu
+ mancia v Real Oviedo (3 - 3)\n🏆 Copa del Rey — 1\n🗓 Thu 29 Oct 202
+ 6 · 17:00 UTC\n🏟 Nuevo Estadio Los Pajaritos, Soria\nReferee: Daniel P
+ alencia Caballero\n—————\n📚 المصدر: FotMob · 365scores
+  — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updat
+ ed
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نومانسيا ضد ريال أوفييدو —
+  كأس ملك إسبانيا | Tomorrow: Numancia vs Real Oviedo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نومان
+ سيا × ريال أوفييدو | Kick-off in 30 min: Numancia vs Real O
+ viedo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386070@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261029T170000Z
+DTEND:20261029T190000Z
+SUMMARY:Peña Sport vs SD Huesca (1 - 5) — Copa del Rey
+LOCATION:Campo San Francisco\, Tafalla\, Spain
+GEO:42.521625;-1.677116
+URL:https://www.fotmob.com/match/6386070
+DESCRIPTION:⚽ بينا سبورت × هويسكا (1 - 5)\n🏆 كأس م
+ لك إسبانيا — 1\n🗓 الخميس 29 أكتوبر 2026 · 20:00
+  بتوقيت الرياض\n🏟 Campo San Francisco، Tafalla\n⚖️ ا
+ لحكم: Francisco José Ortega Herrera\n—————\n⚽ Peña Sport
+  v SD Huesca (1 - 5)\n🏆 Copa del Rey — 1\n🗓 Thu 29 Oct 2026 · 17:
+ 00 UTC\n🏟 Campo San Francisco, Tafalla\nReferee: Francisco José Ortega
+  Herrera\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بينا سبورت ضد هويسكا — كأس 
+ ملك إسبانيا | Tomorrow: Peña Sport vs SD Huesca
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بينا س
+ بورت × هويسكا | Kick-off in 30 min: Peña Sport vs SD Huesca
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386043@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261029T180000Z
+DTEND:20261029T200000Z
+SUMMARY:Atletico Calatayud vs Osasuna (0 - 6) — Copa del Rey
+LOCATION:Estadio Municipal de San Íñigo\, Calatayud\, Spain
+GEO:41.351945;-1.623858
+URL:https://www.fotmob.com/match/6386043
+DESCRIPTION:⚽ أتليتكو كالاتايود × أوساسونا (0 - 
+ 6)\n🏆 كأس ملك إسبانيا — 1\n🗓 الخميس 29 أكتو
+ بر 2026 · 21:00 بتوقيت الرياض\n🏟 Estadio Municipal de Sa
+ n Íñigo، Calatayud\n⚖️ الحكم: Javier Alberola Rojas\n———
+ ——\n⚽ Atletico Calatayud v Osasuna (0 - 6)\n🏆 Copa del Rey — 1\
+ n🗓 Thu 29 Oct 2026 · 18:00 UTC\n🏟 Estadio Municipal de San Íñigo,
+  Calatayud\nReferee: Javier Alberola Rojas\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتليتكو كالاتايود ضد أوساس
+ ونا — كأس ملك إسبانيا | Tomorrow: Atletico Calatayud vs 
+ Osasuna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتليت
+ كو كالاتايود × أوساسونا | Kick-off in 30 min: Atletico
+  Calatayud vs Osasuna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386047@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261029T180000Z
+DTEND:20261029T200000Z
+SUMMARY:Atlético Baleares vs Eldense (0 - 1) — Copa del Rey
+LOCATION:Estadio Balear\, Palma de Mallorca\, Spain
+GEO:39.574127;2.677467
+URL:https://www.fotmob.com/match/6386047
+DESCRIPTION:⚽ أتليتكو بالياريس × إلدينسي (0 - 1)\n
+ 🏆 كأس ملك إسبانيا — 1\n🗓 الخميس 29 أكتوبر
+  2026 · 21:00 بتوقيت الرياض\n🏟 Estadio Balear، Palma de M
+ allorca\n⚖️ الحكم: Pablo Morales Moreno\n—————\n⚽ Atl
+ ético Baleares v Eldense (0 - 1)\n🏆 Copa del Rey — 1\n🗓 Thu 29 Oc
+ t 2026 · 18:00 UTC\n🏟 Estadio Balear, Palma de Mallorca\nReferee: Pabl
+ o Morales Moreno\n—————\n📚 المصدر: FotMob · 365scores 
+ — تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-update
+ d
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتليتكو بالياريس ضد إلدينس
+ ي — كأس ملك إسبانيا | Tomorrow: Atlético Baleares vs Elde
+ nse
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتليت
+ كو بالياريس × إلدينسي | Kick-off in 30 min: Atlético Ba
+ leares vs Eldense
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386054@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261029T180000Z
+DTEND:20261029T200000Z
+SUMMARY:Coruxo FC vs Zamora (0 - 2) — Copa del Rey
+LOCATION:Campo do Vao\, Vigo\, Spain
+GEO:42.195991;-8.791919
+URL:https://www.fotmob.com/match/6386054
+DESCRIPTION:⚽ كوروكسز × زامورا (0 - 2)\n🏆 كأس ملك 
+ إسبانيا — 1\n🗓 الخميس 29 أكتوبر 2026 · 21:00 بت
+ وقيت الرياض\n🏟 Campo do Vao، Vigo\n⚖️ الحكم: Javier
+  Alberola Rojas\n—————\n⚽ Coruxo FC v Zamora (0 - 2)\n🏆 Cop
+ a del Rey — 1\n🗓 Thu 29 Oct 2026 · 18:00 UTC\n🏟 Campo do Vao, Vig
+ o\nReferee: Javier Alberola Rojas\n—————\n📚 المصدر: Fot
+ Mob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365score
+ s — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوروكسز ضد زامورا — كأس مل
+ ك إسبانيا | Tomorrow: Coruxo FC vs Zamora
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوروك
+ سز × زامورا | Kick-off in 30 min: Coruxo FC vs Zamora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386072@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261029T180000Z
+DTEND:20261029T200000Z
+SUMMARY:Poblense vs AD Ceuta FC (1 - 2) — Copa del Rey
+LOCATION:Estadio Municipal de Sa Pobla\, La Puebla (Sa Pobla) (Mallorca)\, 
+ Spain
+GEO:39.760692;3.019996
+URL:https://www.fotmob.com/match/6386072
+DESCRIPTION:⚽ بوبلينس × نادي سبتة (1 - 2)\n🏆 كأس م
+ لك إسبانيا — 1\n🗓 الخميس 29 أكتوبر 2026 · 21:00
+  بتوقيت الرياض\n🏟 Estadio Municipal de Sa Pobla، La Puebla
+  (Sa Pobla) (Mallorca)\n⚖️ الحكم: Saúl Ais Reig\n—————
+ \n⚽ Poblense v AD Ceuta FC (1 - 2)\n🏆 Copa del Rey — 1\n🗓 Thu 29
+  Oct 2026 · 18:00 UTC\n🏟 Estadio Municipal de Sa Pobla, La Puebla (Sa 
+ Pobla) (Mallorca)\nReferee: Saúl Ais Reig\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بوبلينس ضد نادي سبتة — كأس 
+ ملك إسبانيا | Tomorrow: Poblense vs AD Ceuta FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بوبلي
+ نس × نادي سبتة | Kick-off in 30 min: Poblense vs AD Ceuta FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386081@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261029T180000Z
+DTEND:20261029T200000Z
+SUMMARY:San Sebastian de los Reyes vs CD Coria (1 - 2) — Copa del Rey
+LOCATION:Estadio Municipal José Luis de la Hoz\, San Sebastián de los Rey
+ es\, Spain
+GEO:40.545260;-3.616031
+URL:https://www.fotmob.com/match/6386081
+DESCRIPTION:⚽ سان سيباستيان دي لوس رييس × كوري
+ ا (1 - 2)\n🏆 كأس ملك إسبانيا — 1\n🗓 الخميس 29 
+ أكتوبر 2026 · 21:00 بتوقيت الرياض\n🏟 Estadio Municip
+ al José Luis de la Hoz، San Sebastián de los Reyes\n⚖️ الحكم: 
+ Rubén Ruipérez Marín\n—————\n⚽ San Sebastian de los Reyes v
+  CD Coria (1 - 2)\n🏆 Copa del Rey — 1\n🗓 Thu 29 Oct 2026 · 18:00 
+ UTC\n🏟 Estadio Municipal José Luis de la Hoz, San Sebastián de los Re
+ yes\nReferee: Rubén Ruipérez Marín\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سان سيباستيان دي لوس رييس ض
+ د كوريا — كأس ملك إسبانيا | Tomorrow: San Sebastian d
+ e los Reyes vs CD Coria
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سان سي
+ باستيان دي لوس رييس × كوريا | Kick-off in 30 min: Sa
+ n Sebastian de los Reyes vs CD Coria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386062@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261029T180000Z
+DTEND:20261029T200000Z
+SUMMARY:UB Lebrijana vs Getafe (2 - 3) — Copa del Rey
+LOCATION:Estadio Municipal\, Lebrija\, Spain
+GEO:36.916034;-6.081233
+URL:https://www.fotmob.com/match/6386062
+DESCRIPTION:⚽ ليبريخانا × خيتافي (2 - 3)\n🏆 كأس م
+ لك إسبانيا — 1\n🗓 الخميس 29 أكتوبر 2026 · 21:00
+  بتوقيت الرياض\n🏟 Estadio Municipal، Lebrija\n⚖️ ال
+ حكم: Isidro Díaz de Mera Escuderos\n—————\n⚽ UB Lebrijana 
+ v Getafe (2 - 3)\n🏆 Copa del Rey — 1\n🗓 Thu 29 Oct 2026 · 18:00 U
+ TC\n🏟 Estadio Municipal, Lebrija\nReferee: Isidro Díaz de Mera Escuder
+ os\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ليبريخانا ضد خيتافي — كأس 
+ ملك إسبانيا | Tomorrow: UB Lebrijana vs Getafe
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ليبري
+ خانا × خيتافي | Kick-off in 30 min: UB Lebrijana vs Getafe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386051@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261029T183000Z
+DTEND:20261029T203000Z
+SUMMARY:Cieza vs Granada (0 - 3) — Copa del Rey
+LOCATION:Estadio de La Arboleja\, Cieza\, Spain
+GEO:38.231754;-1.404169
+URL:https://www.fotmob.com/match/6386051
+DESCRIPTION:⚽ سيزا × غرناطة (0 - 3)\n🏆 كأس ملك إسب
+ انيا — 1\n🗓 الخميس 29 أكتوبر 2026 · 21:30 بتوقي
+ ت الرياض\n🏟 Estadio de La Arboleja، Cieza\n⚖️ الحكم: D
+ ámaso Arcediano Monescillo\n—————\n⚽ Cieza v Granada (0 - 3)\
+ n🏆 Copa del Rey — 1\n🗓 Thu 29 Oct 2026 · 18:30 UTC\n🏟 Estadio 
+ de La Arboleja, Cieza\nReferee: Dámaso Arcediano Monescillo\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سيزا ضد غرناطة — كأس ملك إس
+ بانيا | Tomorrow: Cieza vs Granada
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سيزا ×
+  غرناطة | Kick-off in 30 min: Cieza vs Granada
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386041@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261029T190000Z
+DTEND:20261029T210000Z
+SUMMARY:Antequera vs CDA Águilas FC (2 - 0) — Copa del Rey
+LOCATION:Estadio El Maulí\, Antequera\, Spain
+GEO:37.020629;-4.571954
+URL:https://www.fotmob.com/match/6386041
+DESCRIPTION:⚽ أنتيكيرا × أجياس (2 - 0)\n🏆 كأس ملك 
+ إسبانيا — 1\n🗓 الخميس 29 أكتوبر 2026 · 22:00 بت
+ وقيت الرياض\n🏟 Estadio El Maulí، Antequera\n⚖️ الحك
+ م: Gonzalo González Páez\n—————\n⚽ Antequera v CDA Águilas
+  FC (2 - 0)\n🏆 Copa del Rey — 1\n🗓 Thu 29 Oct 2026 · 19:00 UTC\n
+ 🏟 Estadio El Maulí, Antequera\nReferee: Gonzalo González Páez\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أنتيكيرا ضد أجياس — كأس مل
+ ك إسبانيا | Tomorrow: Antequera vs CDA Águilas FC
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أنتيك
+ يرا × أجياس | Kick-off in 30 min: Antequera vs CDA Águilas FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386055@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261029T190000Z
+DTEND:20261029T210000Z
+SUMMARY:CD Covadonga vs Real Valladolid (0 - 1) — Copa del Rey
+LOCATION:Estadio El Bayu\, Pola de Siero\, Spain
+GEO:43.384047;-5.660268
+URL:https://www.fotmob.com/match/6386055
+DESCRIPTION:⚽ كوفادونغا × بلد الوليد (0 - 1)\n🏆 ك
+ أس ملك إسبانيا — 1\n🗓 الخميس 29 أكتوبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Estadio El Bayu، Pola de Siero\n
+ ⚖️ الحكم: Gorka Etayo Herrera\n—————\n⚽ CD Covadonga 
+ v Real Valladolid (0 - 1)\n🏆 Copa del Rey — 1\n🗓 Thu 29 Oct 2026 
+ · 19:00 UTC\n🏟 Estadio El Bayu, Pola de Siero\nReferee: Gorka Etayo He
+ rrera\n—————\n📚 المصدر: FotMob · 365scores — تحد
+ يث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كوفادونغا ضد بلد الوليد — 
+ كأس ملك إسبانيا | Tomorrow: CD Covadonga vs Real Valladolid
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كوفاد
+ ونغا × بلد الوليد | Kick-off in 30 min: CD Covadonga vs Real
+  Valladolid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386061@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261029T190000Z
+DTEND:20261029T210000Z
+SUMMARY:CD Laredo vs Burgos CF (2 - 4) — Copa del Rey
+LOCATION:Estadio El Paloma\, Santoña\, Spain
+GEO:43.450018;-3.458312
+URL:https://www.fotmob.com/match/6386061
+DESCRIPTION:⚽ لاريذو × بورغوس (2 - 4)\n🏆 كأس ملك إ
+ سبانيا — 1\n🗓 الخميس 29 أكتوبر 2026 · 22:00 بتو
+ قيت الرياض\n🏟 Estadio El Paloma، Santoña\n⚖️ الحكم:
+  Alejandro Morilla Turrión\n—————\n⚽ CD Laredo v Burgos CF (2
+  - 4)\n🏆 Copa del Rey — 1\n🗓 Thu 29 Oct 2026 · 19:00 UTC\n🏟 Es
+ tadio El Paloma, Santoña\nReferee: Alejandro Morilla Turrión\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: لاريذو ضد بورغوس — كأس ملك 
+ إسبانيا | Tomorrow: CD Laredo vs Burgos CF
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: لاريذ
+ و × بورغوس | Kick-off in 30 min: CD Laredo vs Burgos CF
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386089@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261029T190000Z
+DTEND:20261029T210000Z
+SUMMARY:CD Varea vs FC Andorra (0 - 3) — Copa del Rey
+LOCATION:Estadio Municipal Las Gaunas\, Logroño\, Spain
+GEO:42.453212;-2.453379
+URL:https://www.fotmob.com/match/6386089
+DESCRIPTION:⚽ فاريا × أندورا (0 - 3)\n🏆 كأس ملك إس
+ بانيا — 1\n🗓 الخميس 29 أكتوبر 2026 · 22:00 بتوق
+ يت الرياض\n🏟 Estadio Municipal Las Gaunas، Logroño\n⚖️ ا
+ لحكم: Rafael Sánchez López\n—————\n⚽ CD Varea v FC Andor
+ ra (0 - 3)\n🏆 Copa del Rey — 1\n🗓 Thu 29 Oct 2026 · 19:00 UTC\n
+ 🏟 Estadio Municipal Las Gaunas, Logroño\nReferee: Rafael Sánchez Lóp
+ ez\n—————\n📚 المصدر: FotMob · 365scores — تحديث
+  تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: فاريا ضد أندورا — كأس ملك إ
+ سبانيا | Tomorrow: CD Varea vs FC Andorra
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: فاريا 
+ × أندورا | Kick-off in 30 min: CD Varea vs FC Andorra
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386053@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261029T190000Z
+DTEND:20261029T210000Z
+SUMMARY:Conquense vs Castellón (0 - 3) — Copa del Rey
+LOCATION:Estadio Municipal La Fuensanta\, Cuenca\, Spain
+GEO:40.075904;-2.145778
+URL:https://www.fotmob.com/match/6386053
+DESCRIPTION:⚽ كونكينس × كاستييون (0 - 3)\n🏆 كأس م
+ لك إسبانيا — 1\n🗓 الخميس 29 أكتوبر 2026 · 22:00
+  بتوقيت الرياض\n🏟 Estadio Municipal La Fuensanta، Cuenca\n
+ ⚖️ الحكم: Gonzalo Romero Freixas\n—————\n⚽ Conquense 
+ v Castellón (0 - 3)\n🏆 Copa del Rey — 1\n🗓 Thu 29 Oct 2026 · 19:
+ 00 UTC\n🏟 Estadio Municipal La Fuensanta, Cuenca\nReferee: Gonzalo Rome
+ ro Freixas\n—————\n📚 المصدر: FotMob · 365scores — ت
+ حديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كونكينس ضد كاستييون — كأس 
+ ملك إسبانيا | Tomorrow: Conquense vs Castellón
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كونكي
+ نس × كاستييون | Kick-off in 30 min: Conquense vs Castellón
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386060@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261029T190000Z
+DTEND:20261029T210000Z
+SUMMARY:Guijuelo vs Sporting Gijón (1 - 3) — Copa del Rey
+LOCATION:Estadio Municipal Luis Ramos\, Guijuelo\, Spain
+GEO:40.546988;-5.673172
+URL:https://www.fotmob.com/match/6386060
+DESCRIPTION:⚽ غيخويلو × سبورتينج خيخون (1 - 3)\n🏆
+  كأس ملك إسبانيا — 1\n🗓 الخميس 29 أكتوبر 202
+ 6 · 22:00 بتوقيت الرياض\n🏟 Estadio Municipal Luis Ramos، 
+ Guijuelo\n⚖️ الحكم: Daniel Miranda Bolaño\n—————\n⚽ 
+ Guijuelo v Sporting Gijón (1 - 3)\n🏆 Copa del Rey — 1\n🗓 Thu 29 O
+ ct 2026 · 19:00 UTC\n🏟 Estadio Municipal Luis Ramos, Guijuelo\nReferee
+ : Daniel Miranda Bolaño\n—————\n📚 المصدر: FotMob · 36
+ 5scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — aut
+ o-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: غيخويلو ضد سبورتينج خيخون 
+ — كأس ملك إسبانيا | Tomorrow: Guijuelo vs Sporting Gijón
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: غيخوي
+ لو × سبورتينج خيخون | Kick-off in 30 min: Guijuelo vs Spor
+ ting Gijón
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386075@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261029T190000Z
+DTEND:20261029T210000Z
+SUMMARY:Real Ávila vs Unionistas de Salamanca (1 - 0) — Copa del Rey
+LOCATION:Estadio Municipal Adolfo Suárez\, Ávila\, Spain
+GEO:40.646241;-4.701620
+URL:https://www.fotmob.com/match/6386075
+DESCRIPTION:⚽ ريال أفيلا × سلمنقة (1 - 0)\n🏆 كأس م
+ لك إسبانيا — 1\n🗓 الخميس 29 أكتوبر 2026 · 22:00
+  بتوقيت الرياض\n🏟 Estadio Municipal Adolfo Suárez، Ávila
+ \n⚖️ الحكم: Fernando Román Román\n—————\n⚽ Real Áv
+ ila v Unionistas de Salamanca (1 - 0)\n🏆 Copa del Rey — 1\n🗓 Thu 2
+ 9 Oct 2026 · 19:00 UTC\n🏟 Estadio Municipal Adolfo Suárez, Ávila\nRe
+ feree: Fernando Román Román\n—————\n📚 المصدر: FotMob 
+ · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريال أفيلا ضد سلمنقة — كأس 
+ ملك إسبانيا | Tomorrow: Real Ávila vs Unionistas de Salamanca
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريال أ
+ فيلا × سلمنقة | Kick-off in 30 min: Real Ávila vs Unionistas d
+ e Salamanca
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386085@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261029T193000Z
+DTEND:20261029T213000Z
+SUMMARY:RS Gimnástica vs UD Ourense (3 - 1) — Copa del Rey
+LOCATION:Estadio El Malecón\, Torrelavega\, Spain
+GEO:43.350382;-4.062603
+URL:https://www.fotmob.com/match/6386085
+DESCRIPTION:⚽ RS Gimnástica × أونيون أورينسي (3 - 1)\n🏆
+  كأس ملك إسبانيا — 1\n🗓 الخميس 29 أكتوبر 202
+ 6 · 22:30 بتوقيت الرياض\n🏟 Estadio El Malecón، Torrelave
+ ga\n⚖️ الحكم: Antonio Sánchez Ríos\n—————\n⚽ RS Gim
+ nástica v UD Ourense (3 - 1)\n🏆 Copa del Rey — 1\n🗓 Thu 29 Oct 20
+ 26 · 19:30 UTC\n🏟 Estadio El Malecón, Torrelavega\nReferee: Antonio S
+ ánchez Ríos\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: RS Gimnástica ضد أونيون أورينسي 
+ — كأس ملك إسبانيا | Tomorrow: RS Gimnástica vs UD Ourense
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: RS Gimnást
+ ica × أونيون أورينسي | Kick-off in 30 min: RS Gimnástica vs
+  UD Ourense
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6428917@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261029T200000Z
+DTEND:20261029T220000Z
+SUMMARY:AE Prat vs Athletic Club (1 - 6) — Copa del Rey
+LOCATION:Estadio Municipal de Hospitalet de Llobregat\, L'Hospitalet de Llo
+ bregat\, Spain
+GEO:41.347107;2.101843
+URL:https://www.fotmob.com/match/6428917
+DESCRIPTION:⚽ برات × أتلتيك بلباو (1 - 6)\n🏆 كأس م
+ لك إسبانيا — 1\n🗓 الخميس 29 أكتوبر 2026 · 23:00
+  بتوقيت الرياض\n🏟 Estadio Municipal de Hospitalet de Llobre
+ gat، L'Hospitalet de Llobregat\n⚖️ الحكم: Carlos Muñiz Muñoz\n
+ —————\n⚽ AE Prat v Athletic Club (1 - 6)\n🏆 Copa del Rey 
+ — 1\n🗓 Thu 29 Oct 2026 · 20:00 UTC\n🏟 Estadio Municipal de Hospit
+ alet de Llobregat, L'Hospitalet de Llobregat\nReferee: Carlos Muñiz Muño
+ z\n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: برات ضد أتلتيك بلباو — كأس 
+ ملك إسبانيا | Tomorrow: AE Prat vs Athletic Club
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: برات ×
+  أتلتيك بلباو | Kick-off in 30 min: AE Prat vs Athletic Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386046@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261029T200000Z
+DTEND:20261029T220000Z
+SUMMARY:Auriense vs Deportivo A Coruña (0 - 3) — Copa del Rey
+LOCATION:Estadio do Couto\, Ourense\, Spain
+GEO:42.340806;-7.875808
+URL:https://www.fotmob.com/match/6386046
+DESCRIPTION:⚽ أوريينسي × ديبورتيفو لا كورونيا 
+ (0 - 3)\n🏆 كأس ملك إسبانيا — 1\n🗓 الخميس 29 أ
+ كتوبر 2026 · 23:00 بتوقيت الرياض\n🏟 Estadio do Couto
+ ، Ourense\n⚖️ الحكم: Francisco José Hernández Maeso\n———
+ ——\n⚽ Auriense v Deportivo A Coruña (0 - 3)\n🏆 Copa del Rey — 
+ 1\n🗓 Thu 29 Oct 2026 · 20:00 UTC\n🏟 Estadio do Couto, Ourense\nRefe
+ ree: Francisco José Hernández Maeso\n—————\n📚 المصدر:
+  FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365s
+ cores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أوريينسي ضد ديبورتيفو لا ك
+ ورونيا — كأس ملك إسبانيا | Tomorrow: Auriense vs Depo
+ rtivo A Coruña
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أوريي
+ نسي × ديبورتيفو لا كورونيا | Kick-off in 30 min: Aur
+ iense vs Deportivo A Coruña
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386078@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261029T200000Z
+DTEND:20261029T220000Z
+SUMMARY:Ribadesella CF vs Racing Santander (0 - 2) — Copa del Rey
+LOCATION:Estadio Oreyana\, Ribadesella\, Spain
+GEO:43.457977;-5.047499
+URL:https://www.fotmob.com/match/6386078
+DESCRIPTION:⚽ ريبادسيلا × راسينج سانتاندير (0 - 
+ 2)\n🏆 كأس ملك إسبانيا — 1\n🗓 الخميس 29 أكتو
+ بر 2026 · 23:00 بتوقيت الرياض\n🏟 Estadio Oreyana، Ribad
+ esella\n⚖️ الحكم: Miguel Ángel Ortiz Arias\n—————\n⚽
+  Ribadesella CF v Racing Santander (0 - 2)\n🏆 Copa del Rey — 1\n🗓 
+ Thu 29 Oct 2026 · 20:00 UTC\n🏟 Estadio Oreyana, Ribadesella\nReferee: 
+ Miguel Ángel Ortiz Arias\n—————\n📚 المصدر: FotMob · 3
+ 65scores — تحديث تلقائي\n📚 Data: FotMob + 365scores — au
+ to-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ريبادسيلا ضد راسينج سانتان
+ دير — كأس ملك إسبانيا | Tomorrow: Ribadesella CF vs Raci
+ ng Santander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ريباد
+ سيلا × راسينج سانتاندير | Kick-off in 30 min: Ribadese
+ lla CF vs Racing Santander
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6428918@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261029T200000Z
+DTEND:20261029T220000Z
+SUMMARY:Sporting Hortaleza vs Sevilla (0 - 3) — Copa del Rey
+LOCATION:Estadio Municipal Virgen del Val\, Alcalá de Henares\, Spain
+GEO:40.482756;-3.347161
+URL:https://www.fotmob.com/match/6428918
+DESCRIPTION:⚽ هورتاليزا الرياضي × إشبيلية (0 - 3)
+ \n🏆 كأس ملك إسبانيا — 1\n🗓 الخميس 29 أكتوب
+ ر 2026 · 23:00 بتوقيت الرياض\n🏟 Estadio Municipal Virgen 
+ del Val، Alcalá de Henares\n⚖️ الحكم: Luis Bestard Servera\n—
+ ————\n⚽ Sporting Hortaleza v Sevilla (0 - 3)\n🏆 Copa del Rey 
+ — 1\n🗓 Thu 29 Oct 2026 · 20:00 UTC\n🏟 Estadio Municipal Virgen de
+ l Val, Alcalá de Henares\nReferee: Luis Bestard Servera\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: هورتاليزا الرياضي ضد إشبيل
+ ية — كأس ملك إسبانيا | Tomorrow: Sporting Hortaleza vs Se
+ villa
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: هورتا
+ ليزا الرياضي × إشبيلية | Kick-off in 30 min: Sporting H
+ ortaleza vs Sevilla
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386090@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261029T200000Z
+DTEND:20261029T220000Z
+SUMMARY:Xerez vs Cádiz (1 - 3) — Copa del Rey
+LOCATION:Estadio Municipal de Chapín\, Jerez de la Frontera\, Spain
+GEO:36.689315;-6.120570
+URL:https://www.fotmob.com/match/6386090
+DESCRIPTION:⚽ ديبورتيفو خيريث × قادش (1 - 3)\n🏆 ك
+ أس ملك إسبانيا — 1\n🗓 الخميس 29 أكتوبر 2026 
+ · 23:00 بتوقيت الرياض\n🏟 Estadio Municipal de Chapín، Je
+ rez de la Frontera\n⚖️ الحكم: José Antonio Sánchez Villalobos\n
+ —————\n⚽ Xerez v Cádiz (1 - 3)\n🏆 Copa del Rey — 1\n🗓
+  Thu 29 Oct 2026 · 20:00 UTC\n🏟 Estadio Municipal de Chapín, Jerez de
+  la Frontera\nReferee: José Antonio Sánchez Villalobos\n—————\
+ n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 
+ Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو خيريث ضد قادش — 
+ كأس ملك إسبانيا | Tomorrow: Xerez vs Cádiz
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو خيريث × قادش | Kick-off in 30 min: Xerez vs Cádiz
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386040@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261110T180000Z
+DTEND:20261110T200000Z
+SUMMARY:Anaitasuna FT vs Deportivo Alavés (1 - 6) — Copa del Rey
+LOCATION:Campo Txerloia\, Azkoitia\, Spain
+GEO:43.173581;-2.299914
+URL:https://www.fotmob.com/match/6386040
+DESCRIPTION:⚽ أنايتاسونا × ديبورتيفو ألافيس (1 
+ - 6)\n🏆 كأس ملك إسبانيا — 1\n🗓 الثلاثاء 10 ن
+ وفمبر 2026 · 21:00 بتوقيت الرياض\n🏟 Campo Txerloia، 
+ Azkoitia\n⚖️ الحكم: Ricardo de Burgos Bengoetxea\n👥 الحضو
+ ر: 1,379\n—————\n⚽ Anaitasuna FT v Deportivo Alavés (1 - 6)\
+ n🏆 Copa del Rey — 1\n🗓 Tue 10 Nov 2026 · 18:00 UTC\n🏟 Campo Tx
+ erloia, Azkoitia\nReferee: Ricardo de Burgos Bengoetxea\nAttendance: 1,379
+ \n—————\n📚 المصدر: FotMob · 365scores — تحديث 
+ تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أنايتاسونا ضد ديبورتيفو أل
+ افيس — كأس ملك إسبانيا | Tomorrow: Anaitasuna FT vs Dep
+ ortivo Alavés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أنايت
+ اسونا × ديبورتيفو ألافيس | Kick-off in 30 min: Anaita
+ suna FT vs Deportivo Alavés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386069@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261110T180000Z
+DTEND:20261110T200000Z
+SUMMARY:Pamplona vs Eibar (0 - 3) — Copa del Rey
+LOCATION:Polideportivo Municipal Valle de Aranguren\, Mutilva Baja\, Spain
+GEO:42.789543;-1.622259
+URL:https://www.fotmob.com/match/6386069
+DESCRIPTION:⚽ بامبالونا × إيبار (0 - 3)\n🏆 كأس مل
+ ك إسبانيا — 1\n🗓 الثلاثاء 10 نوفمبر 2026 · 21:
+ 00 بتوقيت الرياض\n🏟 Polideportivo Municipal Valle de Arangu
+ ren، Mutilva Baja\n⚖️ الحكم: Salvador Lax Franco\n👥 الحض
+ ور: 1,000\n—————\n⚽ Pamplona v Eibar (0 - 3)\n🏆 Copa del 
+ Rey — 1\n🗓 Tue 10 Nov 2026 · 18:00 UTC\n🏟 Polideportivo Municipal
+  Valle de Aranguren, Mutilva Baja\nReferee: Salvador Lax Franco\nAttendanc
+ e: 1,000\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بامبالونا ضد إيبار — كأس م
+ لك إسبانيا | Tomorrow: Pamplona vs Eibar
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بامبا
+ لونا × إيبار | Kick-off in 30 min: Pamplona vs Eibar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386066@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261110T190000Z
+DTEND:20261110T210000Z
+SUMMARY:Mijas-Las Lagunas vs Real Jaén (1 - 2) — Copa del Rey
+LOCATION:Estadio Municipal Francisco Muñoz Pérez\, Estepona\, Spain
+GEO:36.431288;-5.158746
+URL:https://www.fotmob.com/match/6386066
+DESCRIPTION:⚽ ميخاس لاس لاغوناس × ريال جيان (1 - 
+ 2)\n🏆 كأس ملك إسبانيا — 1\n🗓 الثلاثاء 10 نو
+ فمبر 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio Municipal F
+ rancisco Muñoz Pérez، Estepona\n⚖️ الحكم: Manuel Camacho Garro
+ te\n—————\n⚽ Mijas-Las Lagunas v Real Jaén (1 - 2)\n🏆 Copa
+  del Rey — 1\n🗓 Tue 10 Nov 2026 · 19:00 UTC\n🏟 Estadio Municipal 
+ Francisco Muñoz Pérez, Estepona\nReferee: Manuel Camacho Garrote\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ميخاس لاس لاغوناس ضد ريال ج
+ يان — كأس ملك إسبانيا | Tomorrow: Mijas-Las Lagunas vs R
+ eal Jaén
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ميخاس 
+ لاس لاغوناس × ريال جيان | Kick-off in 30 min: Mijas-Las
+  Lagunas vs Real Jaén
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386039@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261110T190000Z
+DTEND:20261110T210000Z
+SUMMARY:SD Amorebieta vs Logroñés (1 - 0) — Copa del Rey
+LOCATION:Campo Municipal de Urritxe\, Amorebieta-Echano\, Spain
+GEO:43.221385;-2.724835
+URL:https://www.fotmob.com/match/6386039
+DESCRIPTION:⚽ أموربييتا × لوغرونيس (1 - 0)\n🏆 كأس
+  ملك إسبانيا — 1\n🗓 الثلاثاء 10 نوفمبر 2026 
+ · 22:00 بتوقيت الرياض\n🏟 Campo Municipal de Urritxe، Amor
+ ebieta-Echano\n⚖️ الحكم: Pablo Monterrubio Torres\n————
+ —\n⚽ SD Amorebieta v Logroñés (1 - 0)\n🏆 Copa del Rey — 1\n🗓
+  Tue 10 Nov 2026 · 19:00 UTC\n🏟 Campo Municipal de Urritxe, Amorebieta
+ -Echano\nReferee: Pablo Monterrubio Torres\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أموربييتا ضد لوغرونيس — كأ
+ س ملك إسبانيا | Tomorrow: SD Amorebieta vs Logroñés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أمورب
+ ييتا × لوغرونيس | Kick-off in 30 min: SD Amorebieta vs Logro
+ ñés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386086@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261110T190000Z
+DTEND:20261110T210000Z
+SUMMARY:Trival Valderas vs Leganés (0 - 1) — Copa del Rey
+LOCATION:Estadio Ontime Butarque\, Leganés\, Spain
+GEO:40.340472;-3.760688
+URL:https://www.fotmob.com/match/6386086
+DESCRIPTION:⚽ تريفال فالديراس × ليجانيس (0 - 1)\n
+ 🏆 كأس ملك إسبانيا — 1\n🗓 الثلاثاء 10 نوفم
+ بر 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio Ontime Butarque
+ ، Leganés\n⚖️ الحكم: Abraham Domínguez Cervantes\n————
+ —\n⚽ Trival Valderas v Leganés (0 - 1)\n🏆 Copa del Rey — 1\n🗓
+  Tue 10 Nov 2026 · 19:00 UTC\n🏟 Estadio Ontime Butarque, Leganés\nRef
+ eree: Abraham Domínguez Cervantes\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تريفال فالديراس ضد ليجانيس
+  — كأس ملك إسبانيا | Tomorrow: Trival Valderas vs Leganés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تريفا
+ ل فالديراس × ليجانيس | Kick-off in 30 min: Trival Valdera
+ s vs Leganés
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386084@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261110T200000Z
+DTEND:20261110T220000Z
+SUMMARY:Tavernes de la Valldigna vs Valencia (0 - 6) — Copa del Rey
+LOCATION:Estadio de Mestalla\, Valencia\, Spain
+GEO:39.474602;-0.358257
+URL:https://www.fotmob.com/match/6386084
+DESCRIPTION:⚽ Tavernes de la Valldigna × فالنسيا (0 - 6)\n🏆 ك
+ أس ملك إسبانيا — 1\n🗓 الثلاثاء 10 نوفمبر 20
+ 26 · 23:00 بتوقيت الرياض\n🏟 Estadio de Mestalla، Valencia
+ \n⚖️ الحكم: Juan Martínez Munuera\n👥 الحضور: 32,150\n
+ —————\n⚽ Tavernes de la Valldigna v Valencia (0 - 6)\n🏆 Cop
+ a del Rey — 1\n🗓 Tue 10 Nov 2026 · 20:00 UTC\n🏟 Estadio de Mestal
+ la, Valencia\nReferee: Juan Martínez Munuera\nAttendance: 32,150\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Tavernes de la Valldigna ضد فالنسيا — 
+ كأس ملك إسبانيا | Tomorrow: Tavernes de la Valldigna vs Valen
+ cia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Tavernes de
+  la Valldigna × فالنسيا | Kick-off in 30 min: Tavernes de la Valld
+ igna vs Valencia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386074@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261112T173000Z
+DTEND:20261112T193000Z
+SUMMARY:CS Puertollano vs Albacete (0 - 3) — Copa del Rey
+LOCATION:Estadio Ciudad de Puertollano\, Puertollano\, Spain
+GEO:38.682847;-4.088695
+URL:https://www.fotmob.com/match/6386074
+DESCRIPTION:⚽ بويرتويانو × ألباسيتي (0 - 3)\n🏆 كأ
+ س ملك إسبانيا — 1\n🗓 الخميس 12 نوفمبر 2026 · 
+ 20:30 بتوقيت الرياض\n🏟 Estadio Ciudad de Puertollano، Puer
+ tollano\n⚖️ الحكم: José Luis Guzmán Mansilla\n👥 الحضور
+ : 2,000\n—————\n⚽ CS Puertollano v Albacete (0 - 3)\n🏆 Copa
+  del Rey — 1\n🗓 Thu 12 Nov 2026 · 17:30 UTC\n🏟 Estadio Ciudad de 
+ Puertollano, Puertollano\nReferee: José Luis Guzmán Mansilla\nAttendance
+ : 2,000\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: بويرتويانو ضد ألباسيتي — ك
+ أس ملك إسبانيا | Tomorrow: CS Puertollano vs Albacete
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: بويرت
+ ويانو × ألباسيتي | Kick-off in 30 min: CS Puertollano vs Alb
+ acete
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386083@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261112T180000Z
+DTEND:20261112T200000Z
+SUMMARY:CD Tarancon vs Levante (1 - 2) — Copa del Rey
+LOCATION:Polideportivo Estadio Municipal Tarancón\, Tarancón\, Spain
+GEO:40.014808;-3.013811
+URL:https://www.fotmob.com/match/6386083
+DESCRIPTION:⚽ تارانكون × ليفانتي (1 - 2)\n🏆 كأس م
+ لك إسبانيا — 1\n🗓 الخميس 12 نوفمبر 2026 · 21:00
+  بتوقيت الرياض\n🏟 Polideportivo Estadio Municipal Tarancón
+ ، Tarancón\n⚖️ الحكم: Miguel Sesma Espinosa\n—————\n
+ ⚽ CD Tarancon v Levante (1 - 2)\n🏆 Copa del Rey — 1\n🗓 Thu 12 No
+ v 2026 · 18:00 UTC\n🏟 Polideportivo Estadio Municipal Tarancón, Taran
+ cón\nReferee: Miguel Sesma Espinosa\n—————\n📚 المصدر: 
+ FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365sc
+ ores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تارانكون ضد ليفانتي — كأس 
+ ملك إسبانيا | Tomorrow: CD Tarancon vs Levante
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تاران
+ كون × ليفانتي | Kick-off in 30 min: CD Tarancon vs Levante
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386067@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261112T180000Z
+DTEND:20261112T200000Z
+SUMMARY:Navalcarnero vs Real Betis (2 - 3) — Copa del Rey
+LOCATION:Estadio Municipal Santo Domingo\, Alcorcón\, Spain
+GEO:40.338849;-3.840467
+URL:https://www.fotmob.com/match/6386067
+DESCRIPTION:⚽ نافالكارنيرو × ريال بيتيس (2 - 3)\n
+ 🏆 كأس ملك إسبانيا — 1\n🗓 الخميس 12 نوفمبر
+  2026 · 21:00 بتوقيت الرياض\n🏟 Estadio Municipal Santo Dom
+ ingo، Alcorcón\n⚖️ الحكم: Adrián Cordero Vega\n—————
+ \n⚽ Navalcarnero v Real Betis (2 - 3)\n🏆 Copa del Rey — 1\n🗓 Thu
+  12 Nov 2026 · 18:00 UTC\n🏟 Estadio Municipal Santo Domingo, Alcorcón
+ \nReferee: Adrián Cordero Vega\n—————\n📚 المصدر: FotMo
+ b · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: نافالكارنيرو ضد ريال بيتيس
+  — كأس ملك إسبانيا | Tomorrow: Navalcarnero vs Real Betis
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: نافال
+ كارنيرو × ريال بيتيس | Kick-off in 30 min: Navalcarnero v
+ s Real Betis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386080@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261113T200000Z
+DTEND:20261113T220000Z
+SUMMARY:Salamanca CF UDS vs Celta Vigo (0 - 5) — Copa del Rey
+LOCATION:Estadio El Helmántico\, Villares de la Reina\, Spain
+GEO:40.995504;-5.665072
+URL:https://www.fotmob.com/match/6386080
+DESCRIPTION:⚽ سالامانكا × سيلتا فيجو (0 - 5)\n🏆 ك
+ أس ملك إسبانيا — 1\n🗓 الجمعة 13 نوفمبر 2026 
+ · 23:00 بتوقيت الرياض\n🏟 Estadio El Helmántico، Villares
+  de la Reina\n⚖️ الحكم: Alejandro Quintero González\n———
+ ——\n⚽ Salamanca CF UDS v Celta Vigo (0 - 5)\n🏆 Copa del Rey — 1
+ \n🗓 Fri 13 Nov 2026 · 20:00 UTC\n🏟 Estadio El Helmántico, Villares
+  de la Reina\nReferee: Alejandro Quintero González\n—————\n📚
+  المصدر: FotMob · 365scores — تحديث تلقائي\n📚 Data:
+  FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: سالامانكا ضد سيلتا فيجو — 
+ كأس ملك إسبانيا | Tomorrow: Salamanca CF UDS vs Celta Vigo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: سالام
+ انكا × سيلتا فيجو | Kick-off in 30 min: Salamanca CF UDS vs 
+ Celta Vigo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386073@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261118T180000Z
+DTEND:20261118T200000Z
+SUMMARY:Portugalete vs Real Unión — Copa del Rey
+URL:https://www.fotmob.com/match/6386073
+DESCRIPTION:⚽ كلوب بورتوغاليتى × ريال يونيون\n
+ 🏆 كأس ملك إسبانيا — 1\n🗓 الأربعاء 18 نوفم
+ بر 2026 · 21:00 بتوقيت الرياض\n—————\n⚽ Portuga
+ lete v Real Unión\n🏆 Copa del Rey — 1\n🗓 Wed 18 Nov 2026 · 18:00
+  UTC\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: كلوب بورتوغاليتى ضد ريال ي
+ ونيون — كأس ملك إسبانيا | Tomorrow: Portugalete vs Rea
+ l Unión
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: كلوب ب
+ ورتوغاليتى × ريال يونيون | Kick-off in 30 min: Portug
+ alete vs Real Unión
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386088@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261118T180000Z
+DTEND:20261118T200000Z
+SUMMARY:Utebo vs Sabadell — Copa del Rey
+URL:https://www.fotmob.com/match/6386088
+DESCRIPTION:⚽ أتوبي × ساباديل\n🏆 كأس ملك إسبان
+ يا — 1\n🗓 الأربعاء 18 نوفمبر 2026 · 21:00 بتوقي
+ ت الرياض\n—————\n⚽ Utebo v Sabadell\n🏆 Copa del Rey 
+ — 1\n🗓 Wed 18 Nov 2026 · 18:00 UTC\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أتوبي ضد ساباديل — كأس ملك 
+ إسبانيا | Tomorrow: Utebo vs Sabadell
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أتوبي 
+ × ساباديل | Kick-off in 30 min: Utebo vs Sabadell
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386038@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261118T190000Z
+DTEND:20261118T210000Z
+SUMMARY:Alcoyano vs Mallorca — Copa del Rey
+URL:https://www.fotmob.com/match/6386038
+DESCRIPTION:⚽ ألكويانو × ريال مايوركا\n🏆 كأس م
+ لك إسبانيا — 1\n🗓 الأربعاء 18 نوفمبر 2026 · 2
+ 2:00 بتوقيت الرياض\n—————\n⚽ Alcoyano v Mallorca\n
+ 🏆 Copa del Rey — 1\n🗓 Wed 18 Nov 2026 · 19:00 UTC\n————
+ —\n📚 المصدر: FotMob · 365scores — تحديث تلقائي\n
+ 📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ألكويانو ضد ريال مايوركا —
+  كأس ملك إسبانيا | Tomorrow: Alcoyano vs Mallorca
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ألكوي
+ انو × ريال مايوركا | Kick-off in 30 min: Alcoyano vs Mallor
+ ca
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023510@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261118T190000Z
+DTEND:20261118T210000Z
+SUMMARY:CD Badajoz vs Tenerife — Copa del Rey
+LOCATION:Estadio Municipal Nuevo Vivero\, Badajoz\, Spain
+GEO:38.858930;-7.005903
+URL:https://www.fotmob.com/match/1000023510
+DESCRIPTION:⚽ باداخوز × تنريفة\n🏆 كأس ملك إسبا
+ نيا — 1\n🗓 الأربعاء 18 نوفمبر 2026 · 22:00 بتوق
+ يت الرياض\n🏟 Estadio Municipal Nuevo Vivero، Badajoz\n⚖️ 
+ الحكم: Andrés Fuentes Molina\n—————\n⚽ CD Badajoz v Tene
+ rife\n🏆 Copa del Rey — 1\n🗓 Wed 18 Nov 2026 · 19:00 UTC\n🏟 Est
+ adio Municipal Nuevo Vivero, Badajoz\nReferee: Andrés Fuentes Molina\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: باداخوز ضد تنريفة — كأس مل
+ ك إسبانيا | Tomorrow: CD Badajoz vs Tenerife
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: باداخ
+ وز × تنريفة | Kick-off in 30 min: CD Badajoz vs Tenerife
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386057@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261118T193000Z
+DTEND:20261118T213000Z
+SUMMARY:Deportiva Minera vs Cartagena — Copa del Rey
+URL:https://www.fotmob.com/match/6386057
+DESCRIPTION:⚽ ديبورتيفو مينيرا × كارتاخينا\n🏆
+  كأس ملك إسبانيا — 1\n🗓 الأربعاء 18 نوفمبر
+  2026 · 22:30 بتوقيت الرياض\n—————\n⚽ Deportiva M
+ inera v Cartagena\n🏆 Copa del Rey — 1\n🗓 Wed 18 Nov 2026 · 19:30 
+ UTC\n—————\n📚 المصدر: FotMob · 365scores — تحدي
+ ث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ديبورتيفو مينيرا ضد كارتاخ
+ ينا — كأس ملك إسبانيا | Tomorrow: Deportiva Minera vs Ca
+ rtagena
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ديبور
+ تيفو مينيرا × كارتاخينا | Kick-off in 30 min: Deportiv
+ a Minera vs Cartagena
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386077@league-calendars
+DTSTAMP:20261114T184621Z
+DTSTART:20261118T193000Z
+DTEND:20261118T213000Z
+SUMMARY:Reus vs Barakaldo — Copa del Rey
+URL:https://www.fotmob.com/match/6386077
+DESCRIPTION:⚽ Reus × باراكالدو\n🏆 كأس ملك إسباني
+ ا — 1\n🗓 الأربعاء 18 نوفمبر 2026 · 22:30 بتوقيت
+  الرياض\n—————\n⚽ Reus v Barakaldo\n🏆 Copa del Rey 
+ — 1\n🗓 Wed 18 Nov 2026 · 19:30 UTC\n—————\n📚 المصد
+ ر: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 3
+ 65scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Reus ضد باراكالدو — كأس ملك إ
+ سبانيا | Tomorrow: Reus vs Barakaldo
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Reus × ب
+ اراكالدو | Kick-off in 30 min: Reus vs Barakaldo
+END:VALARM
+END:VEVENT
+END:VCALENDAR

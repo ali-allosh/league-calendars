@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Notts County — FA Cup Fixtures | Notts County — مبا
+ ريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Notts County — all matches in FA Cup\, exact UTC kickoffs\, 
+ stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-14T18:46:2
+ 1Z.  •  Notts County — جميع المباريات في كأس الا
+ تحاد الإنجليزي بتوقيت UTC الدقيق مع الملا
+ عب والقنوات الناقلة. المصدر: FotMob + 365scores · 
+ تحديث تلقائي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469313@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261107T173000Z
+DTEND:20261107T193000Z
+SUMMARY:Altrincham vs Notts County (2 - 2) — FA Cup
+LOCATION:The J. Davidson Stadium\, Altrincham\, Cheshire\, England
+GEO:53.383408;-2.335185
+URL:https://www.fotmob.com/match/6469313
+DESCRIPTION:⚽ Altrincham × Notts County (2 - 2)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الأول\n🗓 السبت 7 نو
+ فمبر 2026 · 20:30 بتوقيت الرياض\n🏟 The J. Davidson Sta
+ dium، Altrincham, Cheshire\n⚖️ الحكم: David Rock\n👥 الحض
+ ور: 4,419\n—————\n⚽ Altrincham v Notts County (2 - 2)\n🏆 
+ FA Cup — Round 1\n🗓 Sat 07 Nov 2026 · 17:30 UTC\n🏟 The J. Davidso
+ n Stadium, Altrincham, Cheshire\nReferee: David Rock\nAttendance: 4,419\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Altrincham ضد Notts County — كأس الات
+ حاد الإنجليزي | Tomorrow: Altrincham vs Notts County
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Altrincham 
+ × Notts County | Kick-off in 30 min: Altrincham vs Notts County
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6615117@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Guiseley vs Notts County — FA Cup
+LOCATION:Nethermoor Park\, Guiseley
+URL:https://www.fotmob.com/match/6615117
+DESCRIPTION:⚽ Guiseley × Notts County\n🏆 كأس الاتحاد الإ
+ نجليزي — الدور الثاني\n🗓 السبت 5 ديسمبر 2
+ 026 · 18:00 بتوقيت الرياض\n🏟 Nethermoor Park, Guiseley\n
+ —————\n⚽ Guiseley v Notts County\n🏆 FA Cup — Round 2\n
+ 🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 Nethermoor Park, Guiseley\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Guiseley ضد Notts County — كأس الاتح
+ اد الإنجليزي | Tomorrow: Guiseley vs Notts County
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Guiseley ×
+  Notts County | Kick-off in 30 min: Guiseley vs Notts County
+END:VALARM
+END:VEVENT
+END:VCALENDAR

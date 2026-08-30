@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Rotherham United — FA Cup Fixtures | Rotherham United 
+ — مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Rotherham United — all matches in FA Cup\, exact UTC kickoff
+ s\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-14T18:
+ 46:21Z.  •  Rotherham United — جميع المباريات في كأس
+  الاتحاد الإنجليزي بتوقيت UTC الدقيق مع ال
+ ملاعب والقنوات الناقلة. المصدر: FotMob + 365scor
+ es · تحديث تلقائي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469288@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Bromley vs Rotherham United (0 - 2) — FA Cup
+LOCATION:Copperjax Community Stadium\, London\, England
+GEO:51.390098;0.021055
+URL:https://www.fotmob.com/match/6469288
+DESCRIPTION:⚽ Bromley × Rotherham United (0 - 2)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الأول\n🗓 السبت 7 نو
+ فمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Copperjax Community
+  Stadium، London\n⚖️ الحكم: Sam Mulhall\n—————\n⚽ Br
+ omley v Rotherham United (0 - 2)\n🏆 FA Cup — Round 1\n🗓 Sat 07 Nov
+  2026 · 15:00 UTC\n🏟 Copperjax Community Stadium, London\nReferee: Sam
+  Mulhall\n—————\n📚 المصدر: FotMob · 365scores — تح
+ ديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Bromley ضد Rotherham United — كأس الات
+ حاد الإنجليزي | Tomorrow: Bromley vs Rotherham United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Bromley × 
+ Rotherham United | Kick-off in 30 min: Bromley vs Rotherham United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6615133@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Rotherham United vs Bristol Rovers — FA Cup
+LOCATION:New York Stadium
+URL:https://www.fotmob.com/match/6615133
+DESCRIPTION:⚽ Rotherham United × Bristol Rovers\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الثاني\n🗓 السبت 5 د
+ يسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 New York Stadium\
+ n—————\n⚽ Rotherham United v Bristol Rovers\n🏆 FA Cup — R
+ ound 2\n🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 New York Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Rotherham United ضد Bristol Rovers — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Rotherham United vs Bristol 
+ Rovers
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Rotherham U
+ nited × Bristol Rovers | Kick-off in 30 min: Rotherham United vs Bristol 
+ Rovers
+END:VALARM
+END:VEVENT
+END:VCALENDAR

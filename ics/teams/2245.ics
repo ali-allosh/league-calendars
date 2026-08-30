@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Sutjeska — UEFA Champions League Fixtures | Sutjeska —
+  مباريات دوري أبطال أوروبا
+X-WR-CALDESC:Sutjeska — all matches in UEFA Champions League\, exact UTC 
+ kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-10
+ -21T22:26:40Z.  •  Sutjeska — جميع المباريات في دور
+ ي أبطال أوروبا بتوقيت UTC الدقيق مع الملاع
+ ب والقنوات الناقلة. المصدر: FotMob + 365scores · ت
+ حديث تلقائي 2026-10-21T22:26:40Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-1000022652@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260708T150000Z
+DTEND:20260708T170000Z
+SUMMARY:Kairat Almaty vs Sutjeska (2 - 1) — UEFA Champions League
+URL:https://www.fotmob.com/match/1000022652
+DESCRIPTION:⚽ Kairat Almaty × Sutjeska (2 - 1)\n🏆 دوري أبطال
+  أوروبا — 1\n🗓 الأربعاء 8 يوليو 2026 · 18:00 بت
+ وقيت الرياض\n—————\n⚽ Kairat Almaty v Sutjeska (2 - 
+ 1)\n🏆 UEFA Champions League — 1\n🗓 Wed 08 Jul 2026 · 15:00 UTC\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Kairat Almaty ضد Sutjeska — دوري أبطا
+ ل أوروبا | Tomorrow: Kairat Almaty vs Sutjeska
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Kairat Alma
+ ty × Sutjeska | Kick-off in 30 min: Kairat Almaty vs Sutjeska
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000022653@league-calendars
+DTSTAMP:20261021T222640Z
+DTSTART:20260715T190000Z
+DTEND:20260715T210000Z
+SUMMARY:Sutjeska vs Kairat Almaty (0 - 2) — UEFA Champions League
+URL:https://www.fotmob.com/match/1000022653
+DESCRIPTION:⚽ Sutjeska × Kairat Almaty (0 - 2)\n🏆 دوري أبطال
+  أوروبا — 1\n🗓 الأربعاء 15 يوليو 2026 · 22:00 ب
+ توقيت الرياض\n—————\n⚽ Sutjeska v Kairat Almaty (0 
+ - 2)\n🏆 UEFA Champions League — 1\n🗓 Wed 15 Jul 2026 · 19:00 UTC\
+ n—————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Sutjeska ضد Kairat Almaty — دوري أبطا
+ ل أوروبا | Tomorrow: Sutjeska vs Kairat Almaty
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Sutjeska ×
+  Kairat Almaty | Kick-off in 30 min: Sutjeska vs Kairat Almaty
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Altrincham — FA Cup Fixtures | Altrincham — مباري
+ ات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Altrincham — all matches in FA Cup\, exact UTC kickoffs\, st
+ adiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-14T18:46:21Z
+ .  •  Altrincham — جميع المباريات في كأس الاتح
+ اد الإنجليزي بتوقيت UTC الدقيق مع الملاعب 
+ والقنوات الناقلة. المصدر: FotMob + 365scores · تح
+ ديث تلقائي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469313@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261107T173000Z
+DTEND:20261107T193000Z
+SUMMARY:Altrincham vs Notts County (2 - 2) — FA Cup
+LOCATION:The J. Davidson Stadium\, Altrincham\, Cheshire\, England
+GEO:53.383408;-2.335185
+URL:https://www.fotmob.com/match/6469313
+DESCRIPTION:⚽ Altrincham × Notts County (2 - 2)\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الأول\n🗓 السبت 7 نو
+ فمبر 2026 · 20:30 بتوقيت الرياض\n🏟 The J. Davidson Sta
+ dium، Altrincham, Cheshire\n⚖️ الحكم: David Rock\n👥 الحض
+ ور: 4,419\n—————\n⚽ Altrincham v Notts County (2 - 2)\n🏆 
+ FA Cup — Round 1\n🗓 Sat 07 Nov 2026 · 17:30 UTC\n🏟 The J. Davidso
+ n Stadium, Altrincham, Cheshire\nReferee: David Rock\nAttendance: 4,419\n
+ —————\n📚 المصدر: FotMob · 365scores — تحديث ت
+ لقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Altrincham ضد Notts County — كأس الات
+ حاد الإنجليزي | Tomorrow: Altrincham vs Notts County
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Altrincham 
+ × Notts County | Kick-off in 30 min: Altrincham vs Notts County
+END:VALARM
+END:VEVENT
+END:VCALENDAR

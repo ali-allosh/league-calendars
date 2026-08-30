@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Wigan Athletic — FA Cup Fixtures | Wigan Athletic — م
+ باريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Wigan Athletic — all matches in FA Cup\, exact UTC kickoffs\
+ , stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-14T18:46
+ :21Z.  •  Wigan Athletic — جميع المباريات في كأس ا
+ لاتحاد الإنجليزي بتوقيت UTC الدقيق مع الم
+ لاعب والقنوات الناقلة. المصدر: FotMob + 365scores
+  · تحديث تلقائي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469314@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Boreham Wood vs Wigan Athletic (0 - 3) — FA Cup
+LOCATION:Mangata Developments Stadium Meadow Park\, Borehamwood\, Hertfords
+ hire\, England
+GEO:51.661935;-0.272384
+URL:https://www.fotmob.com/match/6469314
+DESCRIPTION:⚽ Boreham Wood × Wigan Athletic (0 - 3)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الأول\n🗓 السبت 7 
+ نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Mangata Develop
+ ments Stadium Meadow Park، Borehamwood, Hertfordshire\n⚖️ الحكم:
+  Oliver Mackey\n—————\n⚽ Boreham Wood v Wigan Athletic (0 - 3)
+ \n🏆 FA Cup — Round 1\n🗓 Sat 07 Nov 2026 · 15:00 UTC\n🏟 Mangata
+  Developments Stadium Meadow Park, Borehamwood, Hertfordshire\nReferee: Ol
+ iver Mackey\n—————\n📚 المصدر: FotMob · 365scores — 
+ تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Boreham Wood ضد Wigan Athletic — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Boreham Wood vs Wigan Athletic
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Boreham Woo
+ d × Wigan Athletic | Kick-off in 30 min: Boreham Wood vs Wigan Athletic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6615118@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Wigan Athletic vs Barnsley — FA Cup
+LOCATION:The Brick Community Stadium
+URL:https://www.fotmob.com/match/6615118
+DESCRIPTION:⚽ Wigan Athletic × Barnsley\n🏆 كأس الاتحاد ال
+ إنجليزي — الدور الثاني\n🗓 السبت 5 ديسمبر
+  2026 · 18:00 بتوقيت الرياض\n🏟 The Brick Community Stadium
+ \n—————\n⚽ Wigan Athletic v Barnsley\n🏆 FA Cup — Round 2\
+ n🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 The Brick Community Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Wigan Athletic ضد Barnsley — كأس الات
+ حاد الإنجليزي | Tomorrow: Wigan Athletic vs Barnsley
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Wigan Athle
+ tic × Barnsley | Kick-off in 30 min: Wigan Athletic vs Barnsley
+END:VALARM
+END:VEVENT
+END:VCALENDAR

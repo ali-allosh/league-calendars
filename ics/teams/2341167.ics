@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Tavernes de la Valldigna — Copa del Rey Fixtures | Taver
+ nes de la Valldigna — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Tavernes de la Valldigna — all matches in Copa del Rey\, exa
+ ct UTC kickoffs\, stadiums & TV. Data: FotMob + 365scores · auto-updated 
+ 2026-11-14T18:46:21Z.  •  Tavernes de la Valldigna — جميع المب
+ اريات في كأس ملك إسبانيا بتوقيت UTC الدقيق
+  مع الملاعب والقنوات الناقلة. المصدر: FotMob
+  + 365scores · تحديث تلقائي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-1000023511@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20260927T160000Z
+DTEND:20260927T180000Z
+SUMMARY:UD Maracena vs Tavernes de la Valldigna (1 - 1) — Copa del Rey
+LOCATION:Ciudad Deportiva Maracena\, Maracena\, Spain
+GEO:37.211003;-3.627629
+URL:https://www.fotmob.com/match/1000023511
+DESCRIPTION:⚽ ماراثينا × Tavernes de la Valldigna (1 - 1)\n🏆 
+ كأس ملك إسبانيا — الدور التمهيدي\n🗓 الأ
+ حد 27 سبتمبر 2026 · 19:00 بتوقيت الرياض\n🏟 Ciudad 
+ Deportiva Maracena، Maracena\n—————\n⚽ UD Maracena v Tavernes
+  de la Valldigna (1 - 1)\n🏆 Copa del Rey — Preliminary Round\n🗓 Su
+ n 27 Sep 2026 · 16:00 UTC\n🏟 Ciudad Deportiva Maracena, Maracena\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: ماراثينا ضد Tavernes de la Valldigna 
+ — كأس ملك إسبانيا | Tomorrow: UD Maracena vs Tavernes de la
+  Valldigna
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: ماراث
+ ينا × Tavernes de la Valldigna | Kick-off in 30 min: UD Maracena vs Ta
+ vernes de la Valldigna
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-1000023512@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261004T160000Z
+DTEND:20261004T180000Z
+SUMMARY:Tavernes de la Valldigna vs UD Maracena (0 - 0) — Copa del Rey
+LOCATION:Estadio de Mestalla\, Valencia\, Spain
+GEO:39.474602;-0.358257
+URL:https://www.fotmob.com/match/1000023512
+DESCRIPTION:⚽ Tavernes de la Valldigna × ماراثينا (0 - 0)\n🏆 
+ كأس ملك إسبانيا — الدور التمهيدي\n🗓 الأ
+ حد 4 أكتوبر 2026 · 19:00 بتوقيت الرياض\n🏟 Estadio 
+ de Mestalla، Valencia\n—————\n⚽ Tavernes de la Valldigna v UD
+  Maracena (0 - 0)\n🏆 Copa del Rey — Preliminary Round\n🗓 Sun 04 Oc
+ t 2026 · 16:00 UTC\n🏟 Estadio de Mestalla, Valencia\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Tavernes de la Valldigna ضد ماراثينا 
+ — كأس ملك إسبانيا | Tomorrow: Tavernes de la Valldigna vs U
+ D Maracena
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Tavernes de
+  la Valldigna × ماراثينا | Kick-off in 30 min: Tavernes de la Val
+ ldigna vs UD Maracena
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6386084@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261110T200000Z
+DTEND:20261110T220000Z
+SUMMARY:Tavernes de la Valldigna vs Valencia (0 - 6) — Copa del Rey
+LOCATION:Estadio de Mestalla\, Valencia\, Spain
+GEO:39.474602;-0.358257
+URL:https://www.fotmob.com/match/6386084
+DESCRIPTION:⚽ Tavernes de la Valldigna × فالنسيا (0 - 6)\n🏆 ك
+ أس ملك إسبانيا — 1\n🗓 الثلاثاء 10 نوفمبر 20
+ 26 · 23:00 بتوقيت الرياض\n🏟 Estadio de Mestalla، Valencia
+ \n⚖️ الحكم: Juan Martínez Munuera\n👥 الحضور: 32,150\n
+ —————\n⚽ Tavernes de la Valldigna v Valencia (0 - 6)\n🏆 Cop
+ a del Rey — 1\n🗓 Tue 10 Nov 2026 · 20:00 UTC\n🏟 Estadio de Mestal
+ la, Valencia\nReferee: Juan Martínez Munuera\nAttendance: 32,150\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Tavernes de la Valldigna ضد فالنسيا — 
+ كأس ملك إسبانيا | Tomorrow: Tavernes de la Valldigna vs Valen
+ cia
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Tavernes de
+  la Valldigna × فالنسيا | Kick-off in 30 min: Tavernes de la Valld
+ igna vs Valencia
+END:VALARM
+END:VEVENT
+END:VCALENDAR

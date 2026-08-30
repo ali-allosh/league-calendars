@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Plymouth Argyle — FA Cup Fixtures | Plymouth Argyle — 
+ مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Plymouth Argyle — all matches in FA Cup\, exact UTC kickoffs
+ \, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-14T18:4
+ 6:21Z.  •  Plymouth Argyle — جميع المباريات في كأس 
+ الاتحاد الإنجليزي بتوقيت UTC الدقيق مع ال
+ ملاعب والقنوات الناقلة. المصدر: FotMob + 365scor
+ es · تحديث تلقائي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469306@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Plymouth Argyle vs Alvechurch (4 - 0) — FA Cup
+LOCATION:Home Park\, Plymouth\, England
+GEO:50.388137;-4.150858
+URL:https://www.fotmob.com/match/6469306
+DESCRIPTION:⚽ Plymouth Argyle × Alvechurch (4 - 0)\n🏆 كأس الات
+ حاد الإنجليزي — الدور الأول\n🗓 السبت 7 ن
+ وفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Home Park، Plymo
+ uth\n⚖️ الحكم: Elliott Swallow\n—————\n⚽ Plymouth Arg
+ yle v Alvechurch (4 - 0)\n🏆 FA Cup — Round 1\n🗓 Sat 07 Nov 2026 ·
+  15:00 UTC\n🏟 Home Park, Plymouth\nReferee: Elliott Swallow\n———
+ ——\n📚 المصدر: FotMob · 365scores — تحديث تلقائي
+ \n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Plymouth Argyle ضد Alvechurch — كأس الا
+ تحاد الإنجليزي | Tomorrow: Plymouth Argyle vs Alvechurch
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Plymouth Ar
+ gyle × Alvechurch | Kick-off in 30 min: Plymouth Argyle vs Alvechurch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6615122@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Crewe Alexandra vs Plymouth Argyle — FA Cup
+LOCATION:Mornflake Stadium
+URL:https://www.fotmob.com/match/6615122
+DESCRIPTION:⚽ Crewe Alexandra × Plymouth Argyle\n🏆 كأس الاتح
+ اد الإنجليزي — الدور الثاني\n🗓 السبت 5 د
+ يسمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Mornflake Stadium
+ \n—————\n⚽ Crewe Alexandra v Plymouth Argyle\n🏆 FA Cup — 
+ Round 2\n🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 Mornflake Stadium\n——
+ ———\n📚 المصدر: FotMob · 365scores — تحديث تلقا
+ ئي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Crewe Alexandra ضد Plymouth Argyle — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Crewe Alexandra vs Plymouth 
+ Argyle
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Crewe Alexa
+ ndra × Plymouth Argyle | Kick-off in 30 min: Crewe Alexandra vs Plymouth 
+ Argyle
+END:VALARM
+END:VEVENT
+END:VCALENDAR

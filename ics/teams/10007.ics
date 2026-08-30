@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Stockport County — FA Cup Fixtures | Stockport County 
+ — مباريات كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Stockport County — all matches in FA Cup\, exact UTC kickoff
+ s\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-14T18:
+ 46:21Z.  •  Stockport County — جميع المباريات في كأس
+  الاتحاد الإنجليزي بتوقيت UTC الدقيق مع ال
+ ملاعب والقنوات الناقلة. المصدر: FotMob + 365scor
+ es · تحديث تلقائي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469299@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261108T141500Z
+DTEND:20261108T161500Z
+SUMMARY:Cray Wanderers vs Stockport County (2 - 3) — FA Cup
+LOCATION:Flamingo Park\, London\, England
+GEO:51.429669;0.080157
+URL:https://www.fotmob.com/match/6469299
+DESCRIPTION:⚽ Cray Wanderers × Stockport County (2 - 3)\n🏆 كأس ا
+ لاتحاد الإنجليزي — الدور الأول\n🗓 الأحد
+  8 نوفمبر 2026 · 17:15 بتوقيت الرياض\n🏟 Flamingo Par
+ k، London\n⚖️ الحكم: Lewis Sandoe\n👥 الحضور: 2,372\n—
+ ————\n⚽ Cray Wanderers v Stockport County (2 - 3)\n🏆 FA Cup 
+ — Round 1\n🗓 Sun 08 Nov 2026 · 14:15 UTC\n🏟 Flamingo Park, London
+ \nReferee: Lewis Sandoe\nAttendance: 2,372\n—————\n📚 المص
+ در: FotMob · 365scores — تحديث تلقائي\n📚 Data: FotMob +
+  365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Cray Wanderers ضد Stockport County — كأس 
+ الاتحاد الإنجليزي | Tomorrow: Cray Wanderers vs Stockport 
+ County
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Cray Wander
+ ers × Stockport County | Kick-off in 30 min: Cray Wanderers vs Stockport 
+ County
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6615134@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Reading vs Stockport County — FA Cup
+LOCATION:Select Car Leasing Stadium
+URL:https://www.fotmob.com/match/6615134
+DESCRIPTION:⚽ Reading × Stockport County\n🏆 كأس الاتحاد ا
+ لإنجليزي — الدور الثاني\n🗓 السبت 5 ديسمب
+ ر 2026 · 18:00 بتوقيت الرياض\n🏟 Select Car Leasing Stadiu
+ m\n—————\n⚽ Reading v Stockport County\n🏆 FA Cup — Round 
+ 2\n🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 Select Car Leasing Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Reading ضد Stockport County — كأس الات
+ حاد الإنجليزي | Tomorrow: Reading vs Stockport County
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Reading × 
+ Stockport County | Kick-off in 30 min: Reading vs Stockport County
+END:VALARM
+END:VEVENT
+END:VCALENDAR

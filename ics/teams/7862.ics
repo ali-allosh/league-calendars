@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Pontevedra — Copa del Rey Fixtures | بونتيفيدر
+ ا — مباريات كأس ملك إسبانيا
+X-WR-CALDESC:Pontevedra — all matches in Copa del Rey\, exact UTC kickoff
+ s\, stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-14T18:
+ 46:21Z.  •  بونتيفيدرا — جميع المباريات في ك
+ أس ملك إسبانيا بتوقيت UTC الدقيق مع الملاع
+ ب والقنوات الناقلة. المصدر: FotMob + 365scores · ت
+ حديث تلقائي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386042@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261027T200000Z
+DTEND:20261027T220000Z
+SUMMARY:Arosa SC vs Pontevedra (2 - 0) — Copa del Rey
+LOCATION:Estadio A Lomba\, Vilagarcía de Arousa\, Spain
+GEO:42.588576;-8.766044
+URL:https://www.fotmob.com/match/6386042
+DESCRIPTION:⚽ أروسا × بونتيفيدرا (2 - 0)\n🏆 كأس م
+ لك إسبانيا — 1\n🗓 الثلاثاء 27 أكتوبر 2026 · 2
+ 3:00 بتوقيت الرياض\n🏟 Estadio A Lomba، Vilagarcía de Arou
+ sa\n⚖️ الحكم: Álvaro Juncal Moreira\n—————\n⚽ Arosa 
+ SC v Pontevedra (2 - 0)\n🏆 Copa del Rey — 1\n🗓 Tue 27 Oct 2026 · 
+ 20:00 UTC\n🏟 Estadio A Lomba, Vilagarcía de Arousa\nReferee: Álvaro J
+ uncal Moreira\n—————\n📚 المصدر: FotMob · 365scores —
+  تحديث تلقائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: أروسا ضد بونتيفيدرا — كأس 
+ ملك إسبانيا | Tomorrow: Arosa SC vs Pontevedra
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: أروسا 
+ × بونتيفيدرا | Kick-off in 30 min: Arosa SC vs Pontevedra
+END:VALARM
+END:VEVENT
+END:VCALENDAR

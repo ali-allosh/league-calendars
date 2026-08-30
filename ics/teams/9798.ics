@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Reading — FA Cup Fixtures | Reading — مباريات 
+ كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Reading — all matches in FA Cup\, exact UTC kickoffs\, stadi
+ ums & TV. Data: FotMob + 365scores · auto-updated 2026-11-14T18:46:21Z.  
+ •  Reading — جميع المباريات في كأس الاتحاد ا
+ لإنجليزي بتوقيت UTC الدقيق مع الملاعب وال
+ قنوات الناقلة. المصدر: FotMob + 365scores · تحديث 
+ تلقائي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469304@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261107T200000Z
+DTEND:20261107T220000Z
+SUMMARY:Peterborough United vs Reading (0 - 5) — FA Cup
+LOCATION:Weston Homes Stadium\, Peterborough\, Cambridgeshire\, England
+GEO:52.564692;-0.240408
+URL:https://www.fotmob.com/match/6469304
+DESCRIPTION:⚽ Peterborough United × Reading (0 - 5)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الأول\n🗓 السبت 7 
+ نوفمبر 2026 · 23:00 بتوقيت الرياض\n🏟 Weston Homes St
+ adium، Peterborough, Cambridgeshire\n⚖️ الحكم: Dean Whitestone\n
+ —————\n⚽ Peterborough United v Reading (0 - 5)\n🏆 FA Cup 
+ — Round 1\n🗓 Sat 07 Nov 2026 · 20:00 UTC\n🏟 Weston Homes Stadium,
+  Peterborough, Cambridgeshire\nReferee: Dean Whitestone\n—————\n
+ 📚 المصدر: FotMob · 365scores — تحديث تلقائي\n📚 D
+ ata: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Peterborough United ضد Reading — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Peterborough United vs Reading
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Peterboroug
+ h United × Reading | Kick-off in 30 min: Peterborough United vs Reading
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6615134@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Reading vs Stockport County — FA Cup
+LOCATION:Select Car Leasing Stadium
+URL:https://www.fotmob.com/match/6615134
+DESCRIPTION:⚽ Reading × Stockport County\n🏆 كأس الاتحاد ا
+ لإنجليزي — الدور الثاني\n🗓 السبت 5 ديسمب
+ ر 2026 · 18:00 بتوقيت الرياض\n🏟 Select Car Leasing Stadiu
+ m\n—————\n⚽ Reading v Stockport County\n🏆 FA Cup — Round 
+ 2\n🗓 Sat 05 Dec 2026 · 15:00 UTC\n🏟 Select Car Leasing Stadium\n—
+ ————\n📚 المصدر: FotMob · 365scores — تحديث تلق
+ ائي\n📚 Data: FotMob + 365scores — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Reading ضد Stockport County — كأس الات
+ حاد الإنجليزي | Tomorrow: Reading vs Stockport County
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Reading × 
+ Stockport County | Kick-off in 30 min: Reading vs Stockport County
+END:VALARM
+END:VEVENT
+END:VCALENDAR

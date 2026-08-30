@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Port Vale — FA Cup Fixtures | Port Vale — مباريا
+ ت كأس الاتحاد الإنجليزي
+X-WR-CALDESC:Port Vale — all matches in FA Cup\, exact UTC kickoffs\, sta
+ diums & TV. Data: FotMob + 365scores · auto-updated 2026-11-14T18:46:21Z.
+   •  Port Vale — جميع المباريات في كأس الاتحا
+ د الإنجليزي بتوقيت UTC الدقيق مع الملاعب و
+ القنوات الناقلة. المصدر: FotMob + 365scores · تحد
+ يث تلقائي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6469300@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Port Vale vs Scunthorpe United (4 - 2) — FA Cup
+LOCATION:Vale Park\, Stoke-on-Trent\, Staffordshire\, England
+GEO:53.050078;-2.192644
+URL:https://www.fotmob.com/match/6469300
+DESCRIPTION:⚽ Port Vale × Scunthorpe United (4 - 2)\n🏆 كأس الا
+ تحاد الإنجليزي — الدور الأول\n🗓 السبت 7 
+ نوفمبر 2026 · 18:00 بتوقيت الرياض\n🏟 Vale Park، Sto
+ ke-on-Trent, Staffordshire\n⚖️ الحكم: George Laflin\n————
+ —\n⚽ Port Vale v Scunthorpe United (4 - 2)\n🏆 FA Cup — Round 1\n
+ 🗓 Sat 07 Nov 2026 · 15:00 UTC\n🏟 Vale Park, Stoke-on-Trent, Staffor
+ dshire\nReferee: George Laflin\n—————\n📚 المصدر: FotMob
+  · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores 
+ — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Port Vale ضد Scunthorpe United — كأس ال
+ اتحاد الإنجليزي | Tomorrow: Port Vale vs Scunthorpe United
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Port Vale 
+ × Scunthorpe United | Kick-off in 30 min: Port Vale vs Scunthorpe United
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fotmob-6615128@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Port Vale vs Leyton Orient — FA Cup
+LOCATION:Vale Park
+URL:https://www.fotmob.com/match/6615128
+DESCRIPTION:⚽ Port Vale × Leyton Orient\n🏆 كأس الاتحاد ال
+ إنجليزي — الدور الثاني\n🗓 السبت 5 ديسمبر
+  2026 · 18:00 بتوقيت الرياض\n🏟 Vale Park\n—————\
+ n⚽ Port Vale v Leyton Orient\n🏆 FA Cup — Round 2\n🗓 Sat 05 Dec 2
+ 026 · 15:00 UTC\n🏟 Vale Park\n—————\n📚 المصدر: FotM
+ ob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scores
+  — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: Port Vale ضد Leyton Orient — كأس الات
+ حاد الإنجليزي | Tomorrow: Port Vale vs Leyton Orient
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: Port Vale 
+ × Leyton Orient | Kick-off in 30 min: Port Vale vs Leyton Orient
+END:VALARM
+END:VEVENT
+END:VCALENDAR

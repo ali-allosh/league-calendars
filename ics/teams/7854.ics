@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//League Calendars//Fixture Feeds//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ Leganés — Copa del Rey Fixtures | ليجانيس — م
+ باريات كأس ملك إسبانيا
+X-WR-CALDESC:Leganés — all matches in Copa del Rey\, exact UTC kickoffs\
+ , stadiums & TV. Data: FotMob + 365scores · auto-updated 2026-11-14T18:46
+ :21Z.  •  ليجانيس — جميع المباريات في كأس م
+ لك إسبانيا بتوقيت UTC الدقيق مع الملاعب وا
+ لقنوات الناقلة. المصدر: FotMob + 365scores · تحدي
+ ث تلقائي 2026-11-14T18:46:21Z
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-SOURCE-PRIMARY:FotMob (https://www.fotmob.com)
+X-SOURCE-SECONDARY:365scores (https://www.365scores.com)
+BEGIN:VEVENT
+UID:fotmob-6386086@league-calendars
+DTSTAMP:20261114T184622Z
+DTSTART:20261110T190000Z
+DTEND:20261110T210000Z
+SUMMARY:Trival Valderas vs Leganés (0 - 1) — Copa del Rey
+LOCATION:Estadio Ontime Butarque\, Leganés\, Spain
+GEO:40.340472;-3.760688
+URL:https://www.fotmob.com/match/6386086
+DESCRIPTION:⚽ تريفال فالديراس × ليجانيس (0 - 1)\n
+ 🏆 كأس ملك إسبانيا — 1\n🗓 الثلاثاء 10 نوفم
+ بر 2026 · 22:00 بتوقيت الرياض\n🏟 Estadio Ontime Butarque
+ ، Leganés\n⚖️ الحكم: Abraham Domínguez Cervantes\n————
+ —\n⚽ Trival Valderas v Leganés (0 - 1)\n🏆 Copa del Rey — 1\n🗓
+  Tue 10 Nov 2026 · 19:00 UTC\n🏟 Estadio Ontime Butarque, Leganés\nRef
+ eree: Abraham Domínguez Cervantes\n—————\n📚 المصدر: Fo
+ tMob · 365scores — تحديث تلقائي\n📚 Data: FotMob + 365scor
+ es — auto-updated
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:⏰ غداً: تريفال فالديراس ضد ليجانيس
+  — كأس ملك إسبانيا | Tomorrow: Trival Valderas vs Leganés
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ تبدأ المباراة بعد 30 دقيقة: تريفا
+ ل فالديراس × ليجانيس | Kick-off in 30 min: Trival Valdera
+ s vs Leganés
+END:VALARM
+END:VEVENT
+END:VCALENDAR
